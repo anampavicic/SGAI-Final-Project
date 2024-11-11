@@ -1,0 +1,649 @@
+{{Short description|Capital (de facto) of Cavite, Philippines}}
+{{redirect|Trece Mártires}}
+{{Use Philippine English|date=September 2022}}
+{{Use mdy dates|date=September 2018}}
+{{Infobox settlement
+| name                     = {{PH wikidata|name}}
+| official_name            = {{PH wikidata|official_name}}
+| image_skyline        = {{multiple image
+  | total_width              = 270
+  | border                     = infobox
+  | perrow                    = 1/2/2/2
+  | caption_align         = center
+  | image1                   = Cavite Capitol (Trece Martires, Cavite; 2017-03-16).jpg
+  | caption1                 = Cavite Provincial Capitol
+  | image2                   = 13 Martyrs of Cavite Monument, Jun 2024.jpg
+  | caption2                 = [[Thirteen Martyrs of Cavite]]
+  | image3                   = Trece Martires City Hall, Cavite, Jun 2024.jpg
+  | caption3                 = City Hall of Trece Martires
+  | image4                   = TreceMartiresChurchjf0367 11.JPG
+  | caption4                 = Saint Jude Thaddeus Parish Church 
+  | image5                   = Walter Mart Trece Martires (Governor's Drive, Trece Martires, Cavite; 2017-03-16).jpg
+  | caption5                 = [[Governor's Drive]]
+  | image6                   = SM City Trece Martires, Cavite, Jun 2024.jpg
+  | caption6                 = SM City Trece Martires
+}}
+| etymology                = <!--origin of name-->
+| named_for                = [[Thirteen Martyrs of Cavite]]
+| native_name              = 
+| other_name               = 
+| nickname                 = ''Trece''; ''Seat of Provincial Government''
+| motto                    = ''Bagong Trece: Puso ng Cavite, Lungsod ng Pag-asa''<br />''The New Trece: Heart of Cavite Province, the City of Hope''
+| anthem                   = 
+| image_flag               = Flag_of_Trece_Martires,_Cavite.png
+| flag_size                = 120x80px
+| image_seal               = Trece_Martires_City_Seal.svg
+| seal_size                = 100x80px
+| image_map                = {{PH wikidata|image_map}}
+| map_caption              = {{PH wikidata|map_caption}}
+<!-- | image_map1             = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}} -->| pushpin_map              = Philippines
+| pushpin_label_position   = left
+| pushpin_map_caption      = Location within the {{PH wikidata|country}}
+| coordinates              = {{PH wikidata|coordinates}}
+| settlement_type          = {{PH wikidata|settlement_type}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = [[Philippines]]
+| subdivision_type1        = [[Regions of the Philippines|Region]]
+| subdivision_name1        = {{PH wikidata|region}}
+| subdivision_type2        = [[Provinces of the Philippines|Province]]
+| subdivision_name2        = {{PH wikidata|province}}
+| subdivision_type3        = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3        = {{PH legislative district}}
+| established_title        = [[Date of establishment|Founded]] and Cityhood
+| established_date         = May 24, 1954
+| parts_type               = [[Barangay]]s
+| parts_style              = para
+| p1                       = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title             = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name              = Gemma B. Lubigan
+| leader_title1            = Vice Mayor
+| leader_name1             = Romeo L. Montehermoso Jr.
+| leader_title2            = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2             = Crispin Diego D. Remulla
+| leader_title3            = [[Sangguniang Panlungsod|City Council]]
+| leader_name3             = {{PH Town Council
+ | 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Joyce Ann C. Mojica
+ | 3=Tracy Ann S. Anacan
+ | 4=Kim Paolo C. Lubigan
+ | 5=Anne Jomille D. Humarang
+ | 6=Jay-em C. Cunanan
+ | 7=Antonio G. Lontoc
+ | 8=Anselmo L. Trinidad
+ | 9=Angelito E. Vidallon
+ | 10=Gregor C. Buendia
+ | 11=Leonardo Agustin T. Montehermoso
+}}
+| leader_title4            = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4             = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type          = {{PH wikidata|government_type}}
+| government_footnotes     = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m              = {{PH wikidata|elevation_m}}
+| elevation_max_m          = 258
+| elevation_min_m          = 37
+| elevation_max_rank       = 
+| elevation_min_rank       = 
+| elevation_footnotes      = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes  = 
+| elevation_min_footnotes  = 
+| area_rank                = 
+| area_footnotes           = {{PH area}}
+| area_total_km2           = {{PH wikidata|area}}
+| population_footnotes     = {{PH census|current}}
+| population_total         = {{PH wikidata|population_total}}
+| population_as_of         = {{PH wikidata|population_as_of}}
+| population_density_km2   = auto
+| population_blank1_title  = [[Household]]s
+| population_blank1        = {{PH wikidata|household}}
+| population_blank2_title  = 
+| population_blank2        = 
+| population_demonym       = Treceño
+| population_rank          = 
+| population_note          = 
+| timezone                 = [[Philippine Standard Time|PST]]
+| utc_offset               = +8
+| postal_code_type         = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code              = {{PH wikidata|postal_code}}
+| postal2_code_type        = {{PSGCstyle}}
+| postal2_code             = {{PSGC detail}}
+| area_code_type           = {{areacodestyle}}
+| area_code                = {{PH wikidata|area_code}}
+| website                  = {{PH wikidata|website}}
+| demographics_type1       = [[Economy of the Philippines|Economy]]
+| demographics1_title1     = {{PH wikidata|income_class_title}}
+| demographics1_info1      = {{PH wikidata|income_class}}
+| demographics1_title2     = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2      = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3     = [[Revenue]]
+| demographics1_info3      = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4     = Revenue rank
+| demographics1_info4      = 
+| demographics1_title5     = [[Asset]]s
+| demographics1_info5      = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6     = Assets rank
+| demographics1_info6      = 
+| demographics1_title7     = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7      = 
+| demographics1_title8     = IRA rank
+| demographics1_info8      = 
+| demographics1_title9     = [[Expenditure]]
+| demographics1_info9      = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10    = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10     = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2       = Service provider
+| demographics2_title1     = [[List of electric distribution utilities in the Philippines|Electricity]]
+| demographics2_info1      = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2     = Water
+| demographics2_info2      = 
+| demographics2_title3     = Telecommunications
+| demographics2_info3      = 
+| demographics2_title4     = Cable TV
+| demographics2_info4      = 
+| demographics2_title5     = 
+| demographics2_info5      = 
+| demographics2_title6     = 
+| demographics2_info6      = 
+| demographics2_title7     = 
+| demographics2_info7      = 
+| demographics2_title8     = 
+| demographics2_info8      = 
+| demographics2_title9     = 
+| demographics2_info9      = 
+| demographics2_title10    = 
+| demographics2_info10     = 
+| blank_name_sec1          = {{PH wikidata|climate_title}}
+| blank_info_sec1          = {{PH wikidata|climate_type}}
+| blank1_name_sec1         = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1         = {{PH wikidata|language}}
+| blank2_name_sec1         = [[Crime index]]
+| blank2_info_sec1         = 
+| blank3_name_sec1         = Numbered highways
+| blank3_info_sec1         = 
+*{{jct|country=PHL|N|64|name1=[[Tanza–Trece Martires Road]]}}
+*{{jct|country=PHL|N|65|name1=[[Governor's Drive]]}}
+*{{jct|country=PHL|N|404|name1=[[Trece Martires–Indang Road]]}}
+*{{jct|country=PHL|N|405|name1=Governor's Drive}}
+| blank4_name_sec1         = 
+| blank4_info_sec1         = 
+| blank5_name_sec1         = 
+| blank5_info_sec1         = 
+| blank6_name_sec1         = 
+| blank6_info_sec1         = 
+| blank7_name_sec1         = 
+| blank7_info_sec1         = 
+| blank1_name_sec2         = Major religions
+| blank1_info_sec2         = 
+| blank2_name_sec2         = Feast date
+| blank2_info_sec2         = 
+| blank3_name_sec2         = Catholic diocese
+| blank3_info_sec2         = [[Diocese of Imus]]
+| blank4_name_sec2         = Patron saint
+| blank4_info_sec2         = {{plainlist|
+* [[St. Jude Thaddeus]]
+* [[St. Lorenzo Ruiz]]
+}}
+| blank5_name_sec2         = 
+| blank5_info_sec2         = 
+| blank6_name_sec2         = 
+| blank6_info_sec2         = 
+| blank7_name_sec2         = 
+| blank7_info_sec2         = 
+| short_description        = 
+| footnotes                = 
+| image_map1               = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250|zoom=8}}{{hidden end}}
+}}
+
+'''Trece Martires''' ({{IPA|tl|ˈtɾɛː.sɛ ˌmaːɾ.tɪˈɾɛs|}}), officially the '''City of Trece Martires''' ({{lang-fil|Lungsod ng Trece Martires}}), is a 1st class [[Cities of the Philippines#Legal classification|component city]]  and ''[[de facto]]'' capital city of the [[Provinces of the Philippines|province]] of [[Cavite]], [[Philippines]]. According to the 2020 census, it has a population of 210,503 people.{{PH census|current}}
+
+The city was the provincial capital of Cavite until President [[Ferdinand Marcos]] transferred it to [[Imus]] on June 11, 1977. Despite the capital's relocation, the city still hosts the majority of the offices of the provincial government and some national-level agencies.
+
+== Etymology ==
+Trece Martires, which is [[Spanish language|Spanish]] for "thirteen martyrs", is named after the [[Thirteen Martyrs of Cavite]]—a group of prominent Caviteños convicted of rebellion and executed by the [[Captaincy General of the Philippines|Spanish colonial government]] on September 12, 1896, in [[Cavite City|Cavite Puerto (present-day Cavite City)]] during the [[Philippine Revolution]].<ref>[http://www.philippinemasonry.org/the-thirteen-martyrs-of-cavite.html "The Thirteen Martyrs of Cavite"]. Philippine Center for Masonic Studies. Retrieved on June 10, 2012.</ref>
+
+==History==
+
+===Township===
+Trece Martires started as one of the largest and most remote barrios of Cavite. Originally named ''Quinta'' or ''Quintana'', it was part of the municipality of [[Tanza]]. The land was basically agricultural subdivided into cattle ranches and sugar farms, with less than 1,000 hectares, at the intersection of the present Tanza–Trece Martires–Indang Road ([[Tanza–Trece Martires Road]] / [[Trece Martires–Indang Road]]) and the Naic–Dasmariñas Road (now part of [[Governor's Drive]]).<ref name="Cavite">[http://www.cavite.gov.ph/index.php?option=com_content&view=article&id=227&Itemid=158 "Trece Martires City – Brief History"] {{Webarchive|url=https://web.archive.org/web/20120208085417/http://www.cavite.gov.ph/index.php?option=com_content&view=article&id=227&Itemid=158 |date=February 8, 2012 }}. Cavite Provincial Website. Retrieved on June 11, 2012.</ref><ref name="RA981"/>
+
+===Cityhood===
+{{main|Cities of the Philippines}}
+The city was established on May 24, 1954, under ''Republic Act No. 981'' ("The Charter of Trece Martires City") as approved by [[President of the Philippines|President]] [[Ramon Magsaysay]]. The Republic Act also transferred the provincial seat of government from [[Cavite City]] to Trece Martires.<ref name="RA981">{{cite web|url=http://lawph.com/statutes/ra981-city-charter-of-trece-martires.html|title=An Act Establishing the New Capital of the Province of Cavite, and Providing a Charter Therefor, and for Other Purposes|publisher=LawPH.com|access-date=April 9, 2011}}</ref> The original bill, ''House Bill 1795'', was authored by Congressman Jose T. Cajulis (1954–1957) and Senator Justiniano S. Montano (1949–1956).
+
+Under the city charter, the [[Governor of Cavite]] is ''[[ex-officio]]'' mayor of Trece Martires; then-Governor Dominador Mangubat was installed as the city's first chief executive. On January 2, 1956, the provincial capital was formally inaugurated, the same day when Delfin N. Montano (the son of former [[Senate of the Philippines|Senator]] Justiniano Montano) was sworn into office as the new governor. He served in both offices from 1956 to 1971.<ref name="Cavite"/>
+
+On June 22, 1957, the original act was amended by ''Republic Act No. 1912'' increasing its territory to {{convert|3917|ha|sqm}}, more or less. Consequently, the municipalities of [[Indang, Cavite|Indang]] and [[General Trias]] had to yield parts of their respective areas to this territorial expansion.<ref>[http://www.chanrobles.com/republicacts/republicactno1912.html "Republic Act No. 1912"]. Chan Robles Virtual Law Library. Retrieved on June 11, 2012.</ref>
+
+The provincial-local power company was established in 1957, as the Cavite Electricity Distribution Authority.<ref>{{cite web |title=Republic Act No. 2046 |url=https://lawphil.net/statutes/repacts/ra1957/ra_2046_1957.html |website=lawphil.net |access-date=6 November 2023}}</ref> The company would later also manage communications infrastructure.<ref>{{cite web |title=Republic Act No. 2235 |url=https://jurist.ph/laws/amendments-to-r-a-no-2046-creation-of-cavite-electricity-distributing-authority |website=Jurist AI {{!}} Generative AI for Legal Research in the Philippines |access-date=6 November 2023 |language=en}}</ref>
+
+The city high school was established in 1966, becoming nationalized later in 1983.
+
+===1970s to 1990s===
+On June 11, 1977, President [[Ferdinand Marcos]] signed Presidential Decree No. 1163, relocating the capital and seat of government of Cavite from Trece Martires to the municipality of [[Imus]], a fact that remains true up to now.<ref>{{cite PH act|chamber=PD|number=1163, s. 1977|url=https://www.officialgazette.gov.ph/1977/06/11/presidential-decree-no-1163-s-1977/|title=Transferring the Capital and Seat of Government of the Province of Cavite From Trece Martires City to the Municipality of Imus|date=June 11, 1977|accessdate=June 8, 2024|publisher=[[Official Gazette (Philippines)|Official Gazette]]}}</ref> Cavite Governor [[Juanito Remulla]] requested Marcos in September 1979 to transfer the capital back to the city, but his request was denied. However, the city still hosts majority of provincial and national-level agency offices, making it the ''de facto'' capital of Cavite.
+
+Since establishment, the city never elected its own mayor. In January 1988, the city attempted to elect its own local officials to run the affairs of the city and ease the burden of the ex-officio city officials. However, it was denied by the Supreme Court Resolution dated January 12, 1988.<ref>{{cite web |title=Trece Martires City - History |url=https://www.trecemartirescity.gov.ph/the-city |website=www.trecemartirescity.gov.ph |access-date=6 November 2023}}</ref>
+
+In the 1990 Census, the city breached 15,000 residents, almost double the last number from the previous census in 1980. 
+
+On March 31, 1992, President [[Corazon Aquino]] signed Republic Act No. 7325, which amended the charter of Trece Martires, allowing the city to vote their own local officials for the first time. Prudencio Panganiban became Trece Martires' first mayor-elect.<ref>[http://philippinelaw.info/statutes/ra7325.html "Republic Act No. 7325"] {{Webarchive|url=https://web.archive.org/web/20120601122346/http://philippinelaw.info/statutes/ra7325.html |date=June 1, 2012 }}. PhilippineLaw.info. Retrieved on June 11, 2012.</ref>
+
+The local water district was created in 1997.<ref name="COA - TMC Water District">{{cite web |title=Trece Martires City Water District - Executive Summary 2021 |url=https://www.coa.gov.ph/wpfd_file/trece-martires-city-water-district-cavite-executive-summary-2021/ |website=Commission on Audit |access-date=6 November 2023}}</ref>
+
+===21st Century===
+Sherwood Hills Golf Club started construction in 1997 and was opened to members in 1998.<ref name="about-sherwood-hills">{{cite web |title=About |url=https://www.sherwoodhills.ph/about |website=Sherwood Hills Golf Club |access-date=6 November 2023 |archive-date=November 6, 2023 |archive-url=https://web.archive.org/web/20231106033924/https://www.sherwoodhills.ph/about |url-status=bot: unknown }}</ref> It is a major landholder in the city. It was ranked 85th in Golf Digest's Top 100 Golf Courses Outside the US in 2007.<ref name="golf digest">{{cite web |title=Golf Digest – Top 100 Outside USA {{!}} 2008 {{!}} Planet Golf |url=https://www.planetgolf.com/rankings/worldwide/golf-digest-top-100-outside-usa/2008 |website=www.planetgolf.com |access-date=6 November 2023}}</ref>
+
+A campus of the [[Cavite State University]] was built in Barangay Osorio in 2005.<ref>{{cite web |title=History of the Campus |url=https://cvsu-trececampus.com/about/campus-history/ |website=Cavite State University - Trece Martires City - Official Website |access-date=6 November 2023}}</ref> After a few years, the city government established its own local college, Trece Martires City College in 2008. <ref>{{cite web |title=Trece Martires City College - Edukasyon.ph |url=https://server.edukasyon.ph/schools/trece-martires-city-college |website=server.edukasyon.ph |access-date=7 November 2023}} </ref>
+ 
+From 2000 to 2007, Trece Martires more than doubled its population from 40,000 to 90,000, making it the fastest growing city in the country during that period. <ref name="2007-pop-cen-faqs">{{cite web |title=2007 Census of Population: Frequently Asked Questions |url=https://psada.psa.gov.ph/catalog/16/download/95 |website=Philippine Statistics Authority |access-date=6 November 2023 |archive-date=November 6, 2023 |archive-url=https://web.archive.org/web/20231106035423/https://psada.psa.gov.ph/catalog/16/download/95 |url-status=bot: unknown }}</ref> The succeeding years also followed this trend. It was caused by the influx of new residents choosing to live in its private subdivisions. This growth coincided with the opening of new industrial estates in nearby [[General Trias]] and [[Dasmariñas]], namely  New Cavite Industrial City, First Cavite Industrial Estate and Gateway Business Park, which hosted an Intel plant starting 1997.<ref>{{cite web |title=Philippine President Fidel Ramos Opens First Intel Facility in Cavite |url=https://www.intel.com/pressroom/archive/releases/1997/AW040897.HTM |website=www.intel.com |access-date=6 November 2023}}</ref>
+
+The city sustained this population boom from 2014 onwards, led by the construction of resettlement sites around the city. The [[National Housing Authority (Philippines)|National Housing Authority]], for instance, built 19,000 housing units for relocatees from the [[National Capital Region (Philippines)|National Capital Region]] to reside in. These sites are in Barangays Osorio, Hugo Perez, Lallana, Cabuco, Aguado and Inocencio.<ref name="tmc-coa-executive-summary-2023">{{cite web |title=Trece Martires Executive Summary 2022 |url=https://www.coa.gov.ph/download/5646/cavite/74970/trece-martires-city-executive-summary-2022.pdf?__cf_chl_tk=zZdO2NVGJ.G9gEEvIwBUB0FnszG1u3Fur0WmijrVVXw-1699240958-0-gaNycGzNDqU |website=Commission on Audit |access-date=6 November 2023}}</ref> 
+
+Several commercial establishments opened in the city, starting with WalterMart in 2012, Tower Mall in 2015, and finally, SM Trece Martires in 2016.<ref name="SM-Trece-Opens-2016">{{cite web |title=SM City Trece Martires opens |url=https://www.smprime.com/latest_news/the-philippine-star-sm-city-trece-martires-opens/#:~:text=SM%20City%20Trece%20Martires%2C%20SM,Rosario%20and%20SM%20City%20Molino. |website=SM Prime Holdings, Inc. |publisher=The Philippine Star |access-date=6 November 2023 |language=en |date=13 May 2016}}</ref>
+
+==Geography==
+Trece Martires is in the heart of [[Cavite Province]]. It is bounded north and northwest by the municipality of [[Tanza]], west and southwest by the municipality of [[Naic]], south by the municipality of [[Indang, Cavite|Indang]], southeast by the municipality of [[Amadeo, Cavite|Amadeo]] and east by the city of [[General Trias]].<ref>[http://www.cavite.gov.ph/index.php?option=com_content&view=article&id=227&Itemid=158 "Trece Martires City – Geography"] {{Webarchive|url=https://web.archive.org/web/20120208085417/http://www.cavite.gov.ph/index.php?option=com_content&view=article&id=227&Itemid=158 |date=February 8, 2012 }}. Cavite Provincial Website. Retrieved on June 11, 2012.</ref> It is about {{convert|48.3|km|abbr=on|sp=us}} from Manila, the capital of the Philippines (about an hour by car).<ref>[https://maps.google.com/maps?saddr=Trece+Martires+City,+Cavite,+Philippines&daddr=Manila,+Metro+Manila,+Philippines&hl=en&sll=37.0625,-95.677068&sspn=48.641855,57.919922&geocode=FUXy2QAdUAY0Byk3J4nca4C9MzHYkU4LQAgOdg%3BFVjF3gAdmxI2BymLwx5XA8qXMzEfwWkQddXRaQ&oq=Manila,+Philippines&t=h&mra=ls&z=11 "Manila to Trece Martires City"]. Google Maps. Retrieved on June 10, 2012.</ref>
+
+===Topography===
+The city of Trece Martires is characterised with ground elevation ranging from {{Convert|30|m|sp=us}} to nearly {{Convert|400|m|sp=us}}. Its ground slope ranges from 0.5 to 2%.
+
+The land area is fairly well dissected by creeks and streams that are deeply cut, characterized by steep and abrupt banks. These almost parallel drainage lines flow in northern direction to discharge into either [[Manila Bay]] or [[Laguna de Bay]].
+
+===Climate===
+Trece Martires City has a [[tropical climate]] ([[Köppen climate classification]]: ''Aw'') with two pronounced seasons: wet and dry. Wet season covers the period from May to December of each year; dry season covers January to April.
+
+{{Weather box
+| location   = Trece Martires City
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 29.3
+| Feb high C = 30.2
+| Mar high C = 31.7
+| Apr high C = 33.1
+| May high C = 32.7
+| Jun high C = 31.2
+| Jul high C = 30
+| Aug high C = 29.7
+| Sep high C = 29.9
+| Oct high C = 30.3
+| Nov high C = 29.9
+| Dec high C = 28.3
+| year high C = 29.9
+| Jan mean C = 25.2
+| Feb mean C = 25.6
+| Mar mean C = 26.8
+| Apr mean C = 28.2
+| May mean C = 28.2
+| Jun mean C = 27.4
+| Jul mean C = 26.5
+| Aug mean C = 26.4
+| Sep mean C = 26.5
+| Oct mean C = 26.6
+| Nov mean C = 26.1
+| Dec mean C = 25.4
+| year mean C = 
+| Jan low C = 21.2
+| Feb low C = 21.1
+| Mar low C = 22
+| Apr low C = 23.3
+| May low C = 23.8
+| Jun low C = 23.6
+| Jul low C = 23.1
+| Aug low C = 23.2
+| Sep low C = 23.1
+| Oct low C = 22.9
+| Nov low C = 22.4
+| Dec low C = 21.8
+| year low C = 
+| Jan precipitation mm = 21
+| Feb precipitation mm = 10
+| Mar precipitation mm = 13
+| Apr precipitation mm = 24
+| May precipitation mm = 147
+| Jun precipitation mm = 265
+| Jul precipitation mm = 409
+| Aug precipitation mm = 437
+| Sep precipitation mm = 332
+| Oct precipitation mm = 190
+| Nov precipitation mm = 141
+| Dec precipitation mm = 79
+| year precipitation mm = 
+| precipitation colour = green
+| source 1 = Climate-data.org<ref name="met_norms">
+{{cite web
+| url = http://en.climate-data.org/location/26071/
+| title = Climate: Trece Martires – Climate graph, Temperature graph, Climate table
+| publisher = Climate-data.org
+| access-date = October 30, 2017}}</ref>
+}}
+
+===Barangays===
+Trece Martires is politically subdivided into 13 [[barangay]]s. Each barangay consists of [[purok]]s and some have [[sitios]].
+
+The city was subdivided by Senator Justiniano Montano and Congressman Jose Cajulis. Each barangay was named after one of the Thirteen Martyrs of Cavite to commemorate their bravery and heroism. Below are the names of the barangays and their names before the city's Charter was passed on May 24, 1954.
+
+Currently, there are 6 barangays which are classified as urban.
+[[File:Trece Martires Map Wiki.png|350px|thumb|Political map of Trece Martires]]
+<!-- arranged by PSGC for easier updates in the future -->
+{{PH brgy table lite|top}}
+{{PH brgy table lite|042122002|Cabezas            |7363|4470}}
+{{PH brgy table lite|042122003|Cabuco             |38621|8756}}
+{{PH brgy table lite|042122004|De Ocampo          |12628|7580}}
+{{PH brgy table lite|042122005|Lallana            |4135|1204}}
+{{PH brgy table lite|042122006|San Agustin (Poblacion)|9307|8566}}
+{{PH brgy table lite|042122008|Osorio             |11032|8254}}
+{{PH brgy table lite|042122009|Conchu             |9341|5580}}
+{{PH brgy table lite|042122010|Hugo Perez              |42606|4997}}
+{{PH brgy table lite|042122011|Aguado             |20011|9976}}
+{{PH brgy table lite|042122012|Gregorio           |5166|3953}}
+{{PH brgy table lite|042122013|Inocencio          |28471|24330}}
+{{PH brgy table lite|042122014|Lapidario          |12817|10801}}
+{{PH brgy table lite|042122015|Luciano (Poblacion)|9005|6092}}
+{{PH brgy table lite|bottom|104559}}
+
+==Demographics==
+{{Philippine Census
+| align= none
+| title= Population census of {{PH wikidata|name}}
+| 1903 = 
+| 1918 = 
+| 1939 = 
+| 1948 = 
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+In the 2020 census, the population of Trece Martires was 210,503 people,{{PH census|current}} with a density of {{convert|{{sigfig|210,503/39.10|2}}|PD/km2|disp=or|sp=us}}.
+
+==Economy==
+[[File:Trece Martires City Wet & Dry Market Annex, Cavite, Jun 2024.jpg|thumb|Trece Martires City Wet & Dry Market Annex]]
+
+Historically, the city economy was reliant on agriculture. However, with the conversion of land from agricultural to commercial, industrial and residential purposes, this has changed, leading to a decrease in farming activity. Conversely, the services sector is growing.
+
+===Agriculture===
+In 2013, only 10% of Trece Martires' land area was devoted to agriculture. The farmers of the city plant rice, corn, root crops and vegetables. The city also produces ornamental flowers; it harvested the highest amount of ''sampaguita'' amongst the towns and cities in Cavite in 2013.<ref name="Cavite SEPP 2013">{{cite web |title=Cavite Socio-economic and Physical Profile 2013 |url=https://cavite.gov.ph/home/wp-content/uploads/2017/06/SEPP2013_Chapter6_Agriculture.pdf |website=Province of Cavite - Official Website |access-date=7 November 2023}}</ref>
+
+===Retail===
+[[File:SM City Trece Martires, Cavite, Jun 2024.jpg|thumb|SM City Trece Martires]]
+During the 2010s, the city enjoyed new investments in the form of new business establishments. These include  WalterMart Trece Martires, the largest [[Walter Mart]] mall in Cavite along [[Governor's Drive]], in 2012; and two Puregold stores in Barangays Hugo Perez and San Agustin. In 2015, Trece Tower Mall was opened, while the [[SM City Trece Martires]], the fifth [[SM Supermall]] in Cavite was opened in 2016. The first [[Alfamart]] store in the Philippines was built in Brgy. Hugo Perez, along Governor's Drive.<ref>{{cite web |url=http://www.manilatimes.net/sm-group-enters-convenience-store-business-opens-alfamart/125684/|title=SM group enters convenience store business; opens Alfamart - The Manila Times Online|website=www.manilatimes.net|access-date=2016-12-01}}</ref><ref>{{Cite web|url=https://insideretail.asia/2015/03/03/alfamart-philippines-targets-3000-stores/|title=Alfamart Philippines targets 3000 stores|date=2015-03-03|website=Inside Retail Asia|access-date=2016-12-01}}</ref>
+
+===Banking===
+Trece Martires also has a number of banks and financial institutions serving its residents and nearby towns. Trece Martires hosts 18 banks. Its total volume of bank deposits reached 16.3 billion pesos in 2021.<ref name="pdic-2021">{{cite web |title=Distribution of Domestic Deposits as of December 2021 |url=https://www.pdic.gov.ph/files/BSDStats/DDD_PBS_ProvinceMunicipality.htm |website=Philippine Deposit Insurance Corporation |access-date=15 November 2023}}</ref> 
+
+===Real estate===
+Philippine real estate giant [[Megaworld Corporation|Megaworld]] and its subsidiary [[Alliance Global|Global-Estate Resorts]], Inc.  entered the city in the late 2010s and launched two major townships. The first one, Arden Botanical Estates was launched in 2019. It is a 251-hectare township straddling the borders of Trece Martires and Tanza, and will feature an expansive variety of gardens and natural parks around the development.<ref>{{cite web |title=Guess who’s designing Megaworld’s first upscale residential project worth PHP 18B |url=https://news.abs-cbn.com/ancx/culture/spotlight/11/21/19/guess-whos-designing-megaworlds-first-upscale-residential-project-worth-php-18-b |website=ABS-CBN News |access-date=7 November 2023}}</ref><ref>{{cite web |title=Megaworld, GERI to jointly develop new 'sustainable' township in Cavite |url=https://www.megaworldcorp.com/news-and-updates/megaworld-geri-jointly-develop-new-sustainable-township-cavite |website=Megaworld.com |access-date=7 November 2023 |language=en}}</ref> The [[Blue zone]] project features residential and leisure villages including the 18.1-hectare Arden Botanical Village and the 15.2-hectare Arden Westpark Village. GERI also inaugurated the 18.3-hectare The Lindgren's [[Scandinavian design|Scandinavian]] inspired houses. Renowned landscape architect and PGAA Creative Design founder, Paulo G. Alcazaren designed the Arden Botanical Village, the 8.3-hectare Arden Botanical Estate Town Center and Centrera Park with its Breathing Chapel, Arden Bike Trails and an amphitheater.<ref>{{cite news |last1=David |first1=Maris |title=Eat well and live healthy in this blooming Cavite township|url= https://manilastandard.net/cravings/314477001/eat-well-and-live-healthy-in-this-blooming-cavite-township.html|accessdate=July 28, 2024 |publisher= [[Manila Standard]]|date=July 27, 2024}}</ref>
+
+The second one is Sherwood Hills, which was launched in 2023. It will be redeveloped after the golf course and surround landholdings was acquired by a Megaworld subsidiary in 2011.<ref>{{cite web |title=Alliance Global to complete unfinished projects of FELI |url=https://www.philstar.com/business/2011/03/28/670089/alliance-global-complete-unfinished-projects-feli |website=Philstar.com |access-date=7 November 2023}}</ref> Spanning 340 hectares, the project is envisioned to be an  "integrated lifestyle community".<ref>{{cite web |title=Megaworld's GERI says to build luxury residential project in Trece Martires, Cavite |url=https://news.abs-cbn.com/business/11/28/22/megaworlds-geri-to-build-luxury-residential-project-in-cavite |website=ABS-CBN News |access-date=7 November 2023}}</ref>
+
+==Infrastructure==
+The city government provides the following assistance: financial, medical, emergency, school fees and burial expenses. It has extensive programs for the elderly, solo parents, out-of-school youth, and mothers. One of its programs is a blood donation activity every March, May, September and December; Balik Eskwela (school supplies distribution to all public elementary and high school students); clean and green; revitalization of agricultural lands, high school and college scholarship and their livelihood programs.{{Citation needed|date=January 2018}}
+
+===Roads===
+Trece Martires is in the center of Cavite, in the junction of [[Governor's Drive]] that runs in an east-west direction; and  [[Tanza–Trece Martires Road]] and [[Trece Martires–Indang Road]] which runs in a north-south direction. Both roads are national roads. There are also several provincial-level roads, such as Marcius Avenue and VM Alex Lubigan Road in the city center, and Conchu Road in the east. Other roads serve as connections from residential areas located further away from the main thoroughfares, such as Lapidario Road, Market Road, Panungyanan Road and Osorio Road.
+
+While the city has no expressways in its jurisdiction, the upcoming [[Cavite–Laguna Expressway]] will have an exit in Gen. Trias, along Governor's Drive.<ref>{{cite web |title=Cavite-Laguna Expressway (Calax) Project |url=https://www.dpwh.gov.ph/dpwh/PPP/projs/cala |website=Department of Public Works and Highways |access-date=9 November 2023}}</ref> This exit will be around 7 kilometers away from Trece Martires' city center.
+
+===Public transport===
+Buses and jeepneys serve the city. Vans, multicabs and tricycles are also prevalent. There are buses from [[Parañaque Integrated Terminal Exchange]] in Baclaran, connecting the city to [[Metro Manila]]. Jeepneys serve routes going to EPZA ([[Rosario, Cavite|Rosario]]), [[Dasmariñas]], Manggahan ([[General Trias]]), [[Tanza, Cavite|Tanza]], and [[Indang]]. Vans and multicabs connect to other towns and urban centers such as [[Alabang]] and Lawton Avenue.<ref>{{cite web |title=Trece Martires Terminal Schedule 2023 |url=https://commutetour.com/ph/terminal/trece-martires/ |website=Commute Tour |access-date=16 November 2023}}</ref> Tricycles ply the inner roads.
+
+===Parks and open spaces===
+Trece Martires used to have a large athletic oval but it has since been redeveloped into an SM Mall and an apartment complex. In 2021, the city government broke ground for a new park called Trece Martires People's Park in a 1.8 hectare property in Brgy Lapidario, near the capitol. It is planned to have a gymnasium, convention center, and an outdoor amphitheater.<ref>{{cite web |title=Trece Martires Mayor Gemma Lubigan unveils plans for people’s park |url=https://southluzon.politics.com.ph/2021/09/14/makeover-time-trece-martires-mayor-gemma-lubigan-unveils-plans-for-peoples-park/ |website=Politiko South Luzon |access-date=16 November 2023 |date=14 September 2021}}</ref>
+
+===Healthcare===
+The Gen. Emilio Aguinaldo Memorial Hospital in Barangay Luciano is a 284-bed, government-run hospital for the people of the city.<ref>{{cite web |title=Gen Emilio Aguinaldo Memorial Hospital |url=https://nhfr.doh.gov.ph/VActivefacilitiesView/DOH000000000004417?showdetail= |website=National Health Facility Registry |publisher=Department of Health |access-date=7 November 2023}}</ref>
+
+The city also has private hospital: Korea-Philippines Friendship Hospital in Barangay Luciano; the MV Santiago Medical Center in Barangay De Ocampo; the Treceño Medical Pavillon Hospital in Barangay Luciano.
+
+On the other hand, the Cavite Center for Mental Health is in Barangay Luciano. It is a public mental health care facility under the supervision of the [[Department of Health (Philippines)|Department of Health]], one of only two in [[Calabarzon]].<ref>{{cite web |title=DOH conducts mental healthcare training for BHWs |url=https://ro4a.doh.gov.ph/transparency/140-featured-article/636-doh-conducts-mental-health-care-training-for-bhws |website=Department of Health |access-date=7 November 2023}}</ref>
+
+===Police and fire services===
+Police outposts are found in barangays Osorio, Inocencio, De Ocampo and Conchu. 
+
+The fire station of the city is located in Barangay San Agustin.
+
+== Government ==
+{{main|Sangguniang Panglungsod}}
+[[File:Trece Martires City Hall, Cavite, Jun 2024.jpg|thumbnail|280px|right|Trece Martires City Hall]]
+
+===Elected officials===
+Current officials of the City of Trece Martires<ref>{{Cite web|title=Welcome to DILG LGU Profile CMS|url=https://lgu201.dilg.gov.ph/view.php?r=04&p=21&m=22|access-date=March 11, 2021|website=lgu201.dilg.gov.ph}}{{Dead link|date=September 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+{| class="wikitable" style="text-align:center"
+|-
+! width="243"|Position
+! width="243"|Name
+|-
+| Mayor
+| Gemma B. Lubigan
+|-
+| Vice Mayor
+| Romeo L. Montehermoso
+|-
+| rowspan=12 | [[Sangguniang Panlungsod]] Members<br/>(City Councilors)
+| Joyce Ann C. Mojica-Baking
+|-
+| Tracy Anne S. Anacan
+|-
+| Kim Paolo C. Lubigan
+|-
+| Anne Jomille D. Humarang
+|-
+| Jay-em C. Cunanan
+|-
+| Antonio G. Lontoc
+|-
+| Anselmo L. Trinidad
+|-
+| Angelito E. Vidallon
+|-
+| Gregor C. Buendia
+|-
+| Leonardo Agustin T. Montehermoso
+|-
+| Mark Albert Montehermoso (ABC President)
+|-
+| Tiery Rogel N. Nueva (SK Federation President)
+|}
+
+=== Barangay officials ===
+
+{| class="wikitable sortable mw-collapsible"
+!Barangay
+!Previous name
+!Barangay captain
+!Settlement type
+|-
+|Aguado
+|Fiscal Mundo
+|Jaimer M. Sierra
+| {{maybe|Rural}}
+|-
+|Cabezas
+|Palawit
+|Jaddy Alarca
+| {{maybe|Rural}}
+|-
+|Cabuco
+|Kanggahan
+|Mark Albert Montehermoso
+| {{maybe|Rural}}
+|-
+|Conchu
+|Lagundian
+|Irene R. Aure
+| {{no|Rural}}
+|-
+|De Ocampo
+|Quintana I
+|Sonny Montehermoso
+| {{yes|Urban}}
+|-
+|Gregorio
+|Aliang
+|Eliseo C. Dela Luya
+| {{no|Rural}}
+|-
+|Hugo Perez
+|Lukbanan
+|Raymundo A. Villa
+| {{yes|Urban}}
+|-
+|Inocencio
+|Bagong Pook
+|Rosendo P. Dilidili
+| {{maybe|Urban}}
+|-
+|Lallana
+|Panukang Gubat
+|Cecille M. Decillo
+| {{no|Rural}}
+|-
+|Lapidario
+|Bayog
+|Remelyn Dilag-Sierra
+| {{yes|Urban}}
+|-
+|Luciano (''Poblacion'')
+|Bitangan
+|Luisito R. Diloy
+| {{yes|Urban}}
+|-
+|Osorio
+|Project
+|Robert Penus
+| {{no|Rural}}
+|-
+|San Agustin (''Poblacion'')
+|Quintana II
+|Cornelio L. de Sagun
+| {{yes|Urban}}
+|}
+
+==Education==
+
+===High schools===
+{{Div col|colwidth=30em}}
+* Trece Martires City National High School – Main (San Agustin Campus)
+* Eugenio Cabezas National High School (formerly known as TMCNHS – Cabezas Annex)
+* Francisco Osorio Integrated Senior High School (formerly known as Francisco Osorio National High School and TMCNHS – Osorio Annex)
+* Luis Aguado National High School (formerly known as TMCNHS – Southville Annex)
+* Trece Martires City National High School – Conchu Annex
+* Trece Martires City National High School – Cabuco Extension
+* Fiscal Mundo National High School (formerly Luis Aguado National High School - South Summit Extension)
+* Trece Martires City National High School – Hugo Perez Extension
+* Trece Martires City National High School – Sunshine Ville Extension
+* Trece Martires City Senior High School
+{{colend}}
+
+Trece Martires City schools were awarded to be the most ready in the country on the Brigada Eskwela 2012 of [[Department of Education]]. Trece Martires City Elementary School topped the Exceptional Category for Elementary Schools in Region IV-A and Trece Martires City National High School was first in the Exceptional Category for Secondary Schools.
+
+===Private schools===
+{{Div col|colwidth=30em}}
+*Academy of St. John Nepomucene
+*Amore International School (Amore Academy)
+*Blessed Family Academy
+*Blessed Kateri School 
+*Braintrust Learning Center inc.
+*Christian Child Development Learning Center
+*Colegio de Santa Rosa
+*Dei Gracia Academy
+*Elim Christian Academy
+*Fabulous Christian Academy
+*Gateway International School of Science and Technology
+*God is Good Learning Center
+*John Merced Academy
+*Krislizz International Academy
+*Lyceum of Cavite-East
+*Maranatha Christian Academy
+*Marella Christianne Institute
+*New Generation International School
+*Notre Dame of Trece Martires
+*Our Lady of Lourdes Academy Learning Center
+*Paul Henry
+*Saint Jude Parish School
+*Saint Thomas Becket Academy
+*Santo Niño de Praga Academy
+*Sun Moon Academy
+*Sung Kwang Global Leadership Academy
+*Trece Martires Integrated Laboratory School
+{{colend}}
+
+===Colleges===
+*Cavite State University – Trece Martires City Campus
+*Colegio de Amore
+*Imus Computer College (ICC) – Trece Martires City Branch
+*Trece Martires City College
+
+== Annual events ==
+* The [[fiesta patronal|town fiesta]] of Trece Martires City is celebrated every October 27–28 in honor of [[Saint Jude Thaddeus]].
+* The Festival of Hope, which started in 2023, celebrates the city's transformation and hope for a better future. It coincides with the city charter anniversary known as ''Araw ng Trece Martires'' (Trece Martires Day), celebrated on May 24 each year.
+* Feast of Holy Cross is celebrated on September 14.
+* The Death Anniversary of [[Thirteen Martyrs of Cavite]] is celebrated annually on September 12 to commemorate the martyrdom of the Thirteen Martyrs who were executed for joining the revolt of [[Katipunan]] during the [[History of the Philippines (1521–1898)|Spanish Era]]. Activities like exhibits and the reenactment of the Thirteen Martyrs are done during the yearly celebration.
+
+==Sister cities==
+{{unreferenced|1=section|date=March 2018}}
+<!-- ONLY OFFICIAL SISTER CITIES ARE LISTED HERE. SEE http://www.nyc.gov/html/unccp/scp/html/sc/main.shtml -->
+
+===International===
+* {{flagicon|TWN}} [[Tainan City|Tainan]], [[Taiwan]]
+
+===Local===
+* [[Makati]], [[Metro Manila]]
+* [[Zamboanga City]] (since 2009)
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Wikivoyage}}
+{{Commons category}}
+*[https://web.archive.org/web/20130510225835/http://trecemartirescity.gov.ph/ Official website of the City of Trece Martires]
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+*[https://web.archive.org/web/20120803074119/http://www.census.gov.ph/data/sectordata/2010/2010CPH_reg4a.pdf 2010 Philippine Census Information]
+
+{{s-start}}
+{{s-bef|before=[[Cavite City]]|rows=2}}
+{{s-ttl|title=Capital of [[Cavite]]<br><small>de facto</small>|years=1954–present}}
+{{s-inc}}
+|-
+{{s-ttl|title=Capital of [[Cavite]]<br><small>de jure</small>|years=1954–1977}}
+{{s-aft|after=[[Imus]]}}
+{{s-end}}
+
+{{Geographic location
+| Centre    = Trece Martires
+| Northwest = [[Tanza]]
+| North     = [[Tanza]]
+| East      = [[General Trias]]
+| Southeast = [[Amadeo, Cavite|Amadeo]]
+| South     = [[Indang]]
+| West      = [[Naic]]
+}}
+{{Navboxes
+| title = Articles related to Trece Martires
+| list =
+{{Cavite}}
+{{CALABARZON}}
+{{Philippine cities}}
+{{Most populous cities in Philippines}}
+{{Philippine Provincial Capitals}}
+}}
+
+{{Authority control}}
+
+[[Category:Cities in Cavite]]
+[[Category:Planned communities in the Philippines]]
+[[Category:Provincial capitals of the Philippines]]
+[[Category:Populated places established in 1954]]
+[[Category:1954 establishments in the Philippines]]
+[[Category:Component cities in the Philippines]]

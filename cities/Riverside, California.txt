@@ -1,0 +1,879 @@
+{{Short description|City in the United States}}
+{{More citations needed|date=October 2022}}
+{{Use American English|date=August 2019}}
+{{Use mdy dates|date=May 2024}}
+{{Infobox settlement
+| name               = Riverside
+| settlement_type    = [[List of municipalities in California|City]]
+<!-- Images and maps ------>| image_skyline      = {{multiple image
+  | total_width            = 280
+  | border                 = infobox
+  | perrow                 = 1/2/2
+  | caption_align          = center
+  | image1                 = MissionInn SpanishWing.jpg
+  | alt1                   = Mission Inn
+  | caption1               = [[The Mission Inn Hotel & Spa|Mission Inn]]
+  | image2                 = First Church Of Christ Historical 0196 Wiki a (cropped).jpg
+  | alt2                   = First Church of Christ
+  | caption2               = [[First Church of Christ, Scientist (Riverside, California)|First Church of Christ]]
+  | 
+  | caption3               = [[First Congregational Church of Riverside|First Congregational Church]]
+  | image4                 = Riverside County Courthouse, 1903.jpg
+  | alt4                   = Riverside County Superior Court
+  | caption4               = [[Riverside County Superior Court]]
+  | image5                 = Old YWCA Building front faces south.JPG
+  | alt5                   = Riverside Art Museum
+  | caption5               = [[Riverside Art Museum]]
+}}
+| image_flag         = Flag of Riverside, California (2020).svg
+| image_seal         = Seal of Riverside, California.png
+| image_shield       = 
+| nickname           = 
+| motto              = City of Arts & Innovation
+| image_map          = {{maplink
+  | frame                    = yes
+  | plain                    = yes
+  | frame-align              = center
+  | frame-width              = 280
+  | frame-height             = 280
+  | frame-coord              = SWITCH:{{coord|33|56|56|N|117|24|1|W}}###{{coord|33|43|48|N|116|8|48|W}}###{{coord|qid=Q99}}###{{coord|39|49|41|N|101|0|0|W}}
+  | zoom                     = SWITCH:10;7;5;3
+  | type                     = SWITCH:shape;shape;point;point
+  | marker                   = city
+  | stroke-width             = 2
+  | stroke-color             = #0096FF
+  | fill                     = #0096FF
+  | id2                      = SWITCH:Q49243;Q108111;Q99;Q30
+  | type2                    = shape-inverse
+  | stroke-width2            = 2
+  | stroke-color2            = #5F5F5F
+  | stroke-opacity2          = SWITCH:0;1;1;1
+  | fill2                    = #000000
+  | fill-opacity2            = SWITCH:0;0.5;0.5;0.5
+  | switch                   = Riverside;Riverside County;California;the United States
+}}
+| pushpin_map        = California#USA
+| pushpin_relief     = yes
+<!-- Location ------------->| coordinates        = {{Coord|33|56|53|N|117|23|46|W|region:US-CA_city(315,000)|display=it}}
+| subdivision_type   = Country
+| subdivision_name   = United States
+| subdivision_type1  = [[U.S. state|State]]
+| subdivision_name1  = [[California]]
+| subdivision_type2  = [[List of counties in California|County]]
+| subdivision_name2  = [[Riverside County, California|Riverside]]
+<!-- History -------------->| established_title2 = [[Municipal corporation|Incorporated]]
+| established_date2  = {{Start date and age|1883|10|11}}<ref>{{cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ | title                    = California Cities by Incorporation Date 
+ | format                   = Word 
+ | publisher                = California Association of [[Local Agency Formation Commission]]s 
+ | access-date              = August 25, 2014 | url-status               = dead 
+ | archive-url              = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ | archive-date             = November 3, 2014 }}</ref>
+| established_title3 = [[Charter city|Chartered]]
+| established_date3  = {{Start date and age|1907|03|05}}<ref name=125years>{{cite web | url                      = http://www.riversideca.gov/attorney/pdf/cahistory.pdf | title                    = Over One Hundred and Twenty-Five Years of Service | publisher                = City of Riverside | access-date              = March 17, 2015 | archive-date             = April 2, 2015 | archive-url              = https://web.archive.org/web/20150402115514/http://www.riversideca.gov/attorney/pdf/cahistory.pdf | url-status               = dead}}</ref>
+<!-- Government ----------->| government_type    = [[Council–manager government|Council–manager]]<ref>{{cite web | url                      = http://riversideca.gov/municode/pdf/charter/article-03.pdf | title                    = Riverside City Charter | publisher                = City of Riverside | access-date              = January 28, 2015}}</ref>
+| leader_title       = [[List of mayors of Riverside, California|Mayor]]
+| leader_name        = [[Patricia Lock Dawson]] (I)
+| leader_title2      = [[City manager]]
+| leader_name2       = [[Mike Futrell]]<ref>{{cite web
+ | url                      = https://www.riversideca.gov/citymanager/
+ | title                    = City Manager
+ | publisher                = Riverside, California
+ | access-date              = November 28, 2018}}</ref>
+<!-- Area ----------------->| unit_pref          = Imperial
+| area_footnotes     = <ref name="CenPopGazetteer2021">{{cite web|title=2021 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2021_Gazetteer/2021_gaz_place_06.txt|publisher=United States Census Bureau|access-date=September 28, 2021}}</ref>
+| area_total_sq_mi   = 81.54
+| area_total_km2     = 211.18
+| area_land_sq_mi    = 81.23
+| area_land_km2      = 210.38
+| area_water_sq_mi   = 0.31
+| area_water_km2     = 0.80
+<!-- Elevation ------------>| elevation_footnotes = <ref>{{Cite GNIS|1661315|Riverside | access-date              = October 22, 2014}}</ref>
+| elevation_ft       = 827
+| elevation_m        = 252
+<!-- Population ----------->| population_as_of   = [[2020 United States Census|2020]]
+| population_footnotes = <ref name="QuickFacts">{{cite web |title=QuickFacts: Riverside city, California |url=https://www.census.gov/quickfacts/fact/table/riversidecitycalifornia/POP010220 |publisher=United States Census Bureau |access-date=January 22, 2023}}</ref>
+| population_total   = 314998
+| population_est     = 317261
+| pop_est_as_of      = 2021
+| pop_est_footnotes  = <ref name="QuickFacts" />
+| population_rank    = [[List of United States cities by population|61st]] in the United States<br />[[List of largest cities in California by population|12th]] in California
+| population_density_sq_mi = 3877.85
+| population_density_km2 = 1497.28
+| population_urban   = 2,276,703 (US: [[List of United States urban areas|19th]])
+| population_density_urban_km2 = 1,444.4
+| population_density_urban_sq_mi = 3,741.1
+| population_urban_footnotes = <ref name="urban area">{{cite web |url=https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural.html|title=List of 2020 Census Urban Areas|website=census.gov|publisher=United States Census Bureau|access-date=January 8, 2023}}</ref>
+| population_metro_footnotes = <ref name="2020Pop">{{cite web |title=2020 Population and Housing State Data |url=https://www.census.gov/library/visualizations/interactive/2020-population-and-housing-state-data.html |publisher=United States Census Bureau |access-date=August 22, 2021}}</ref>
+| population_metro   = 4599839 (US: [[List of metropolitan statistical areas|13th]])
+| population_demonym = <!-- Time zones ----------->
+| timezone           = [[Pacific Time Zone|Pacific]]
+| utc_offset         = &minus;8
+| timezone_DST       = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST     = &minus;7
+<!-- Codes ---------------->| postal_code_type   = [[ZIP Code]]s
+| postal_code        = 92501–92509, 92513–92519, 92521–92522
+| area_code_type     = [[North American Numbering Plan|Area code]]
+| area_code          = [[Area code 951|951]]
+| blank_name         = [[Federal Information Processing Standard|FIPS code]]
+| blank_info         = {{FIPS|06|62000}}
+| blank1_name        = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info        = {{GNIS 4|1661315}}, {{GNIS 4|2410965}}
+| website            = {{URL|https://riversideca.gov}}
+}}
+
+'''Riverside''' is a city in and the [[county seat]] of [[Riverside County, California]], United States, in the [[Inland Empire]] metropolitan area. It is named for its location beside the [[Santa Ana River]].<ref>Gunther, pages 427–429.</ref> It is the most populous city in the Inland Empire and in Riverside County, and is about {{convert|50|mi}} southeast of downtown [[Los Angeles]]. It is also part of the [[Greater Los Angeles]] area. Riverside is the [[List of United States cities by population|61st-most-populous city]] in the United States and [[List of largest California cities by population|the 12th-most-populous city]] in California. As of the [[2020 United States census|2020 census]], it had a population of 314,998.<ref name="QuickFacts" /> Along with [[San Bernardino]], Riverside is a principal city in the nation's 13th-largest Metropolitan Statistical Area (MSA); the Riverside-San Bernardino-Ontario MSA (pop. 4,599,839) ranks in population just below San Francisco (4,749,008) and above Detroit (4,392,041).
+
+Riverside was founded in the early 1870s. It is the birthplace of the California [[citrus production|citrus industry]] and home of the [[The Mission Inn Hotel & Spa|Mission Inn]], the nation's largest [[Mission Revival Style architecture|Mission Revival Style]] building.<ref>{{cite web |url=http://www.riversideca.gov/historic/pdf/hpDistrictBrochureText.pdf|title=Riversideca.gov |access-date=July 18, 2009 |archive-date=February 18, 2020|archive-url=https://web.archive.org/web/20200218041529/https://riversideca.gov/historic/pdf/hpDistrictBrochureText.pdf|url-status=dead}}</ref> It is also home to the [[Riverside National Cemetery]] and the Eastern Division of the Federal District Court for the Central District of California.
+
+The [[University of California, Riverside]], is in the northeastern part of the city. The university hosts the [[Riverside Sports Complex]]. Other attractions in Riverside include the [[Riverside Fox Theater|Fox Performing Arts Center]], [[Museum of Riverside]], which houses exhibits and artifacts of local history, the [[California Museum of Photography]], the [[California Citrus State Historic Park]], [[Castle Park (amusement park)|Castle Park]], and the [[Washington navel orange tree (Riverside, California)|Parent Washington Navel Orange Tree]], the last of California's two original navel orange trees.<ref>[https://www.latimes.com/archives/la-xpm-2004-aug-05-me-surround5-story.html August 5, 2004]</ref>
+
+==History==
+{{Main|History of Riverside, California}}
+[[File:DeAnza-Statue (cropped).jpg|thumb|left|Statue in Downtown Riverside of famed Spanish explorer [[Juan Bautista de Anza]], whose expedition came through the area in 1774]]
+In the late 18th century and the early 19th century, the area was inhabited by [[Cahuilla people|Cahuilla]] and the [[Serrano people]]. [[Californio]]s such as [[Bernardo Yorba]] and [[Juan Bandini]] established ranches during the first half of the 19th century.
+
+In the 1860s, Louis Prevost launched the [[California Silk Center Association]], a short-lived experiment in [[sericulture]]. In the wake of its failure, [[John W. North]] purchased some of its land and formed the Southern California Colony Association to promote the area's development. In March 1870, North distributed posters announcing the formation of a colony in California.<ref>{{cite web|url=http://www.riversideca.gov/library/history_aids_founding.asp|title=Local History: Finding aids|publisher=Riverside Public Library|access-date=February 19, 2015}}</ref> North, a staunch temperance-minded [[Abolitionism in the United States|abolitionist]] from [[New York State]], had formerly founded [[Northfield, Minnesota]]. Riverside was [[Temperance movement|temperance]]-minded, and [[Republican Party (United States)|Republican]]. There were four saloons in Riverside when it was founded. The license fees were raised until the saloons moved out of Riverside.<ref>Brown and Boyd, Vol 2.</ref> Investors from England and Canada transplanted traditions and activities adopted by prosperous citizens. As a result, the first golf course and [[polo]] field in southern California were built in Riverside.
+
+The first [[Orange (fruit)|orange]] trees were planted in 1871, with the citrus industry Riverside is famous for beginning three years later (1874)<ref name="Of San B. and R. counties p 429">Brown and Boyd, Vol 1, p. 429</ref> when [[Eliza Tibbets]] received three <ref name="Of San B. and R. counties p 429"/> [[Brazil]]ian [[Orange (fruit)|navel orange]] trees sent to her by a personal friend, [[William Saunders (botanist)|William Saunders]], a horticulturist at the [[United States Department of Agriculture]] in [[Washington, D.C.]] The trees came from [[Bahia, Brazil]]. The Bahia orange did not thrive in [[Florida]], but its success in southern California was phenomenal.
+[[File:The first navel orange tree in California replanted here by President Theodore Roosevelt, ca.1910 (CHS-5239).jpg|thumb|left|One of the first three [[navel orange]] trees in California, this one replanted at the [[The Mission Inn Hotel & Spa|Mission Inn]] by President [[Theodore Roosevelt]] in 1903. Photo c. 1910.]]
+[[File:Riverside-1876.jpg|thumb|right|Riverside, 1876]]
+[[File:RiversideFireDept1910.jpg|thumb|right|Riverside, 1910]]
+The three trees were planted on the Tibbets' property. One of them died after it was trampled by a cow during the first year it was planted. After the trampling, the two remaining trees were transplanted to property belonging to Sam McCoy to receive better care than L.C. Tibbets, Eliza's husband, could provide.<ref>Brown and Boyd, Vol 1, p. 430</ref> Later, the trees were again transplanted, one at the Mission Inn property in 1903 by President [[Theodore Roosevelt]] (this tree died in 1922), and the other at the intersection of Magnolia and Arlington avenues. [[Eliza Tibbets]] was honored with a stone marker placed with the last tree. That tree still stands to this day inside a protective fence abutting what is now a major intersection.
+
+The trees thrived in the southern California climate and the navel orange industry grew rapidly. Many growers purchased bud wood and then grafted the cuttings to root stock. Within a few years, the successful cultivation of many thousands of the newly discovered Brazilian navel orange trees led to a California [[Gold rush|Gold Rush]] of a different kind: the establishment of the citrus industry, which is commemorated in the landscapes and exhibits of the [[California Citrus State Historic Park]] and the restored packing houses in the downtown's Marketplace district. By 1882, there were more than half a million citrus trees in California, almost half of which were in Riverside. The development of refrigerated [[railroad car]]s and innovative irrigation systems established Riverside as the richest city in the United States (in terms of income per capita) by 1895.<ref>H. Vincent Moses wrote in 1982 that Riverside was the wealthiest U.S. city per capita in 1895. Dr. Moses is a city historian. See "Machines in the Garden: A Citrus Monopoly in Riverside, 1900–31", published in ''California History'', Spring 1982.</ref>
+
+==Geography==
+Riverside is the [[List of United States cities by population|61st-largest]] city in the United States, the 12th-largest city in California, and the largest city in California's [[Inland Empire]] metro area. According to the [[United States Census Bureau]], the city has an area of {{convert|81.4|sqmi|km2|1||sp=us}}, of which {{convert|81.1|sqmi|km2}} is land and {{convert|0.3|sqmi|km2}} (0.37%) is water. The elevation of downtown Riverside is {{convert|860|ft|m}}. Hills within the city limits include [[Mount Rubidoux]], a city landmark and tourist attraction. Riverside is surrounded by small and large mountains, some of which get a dusting of winter snow. Many residents also enjoy the many beaches of Southern California. Riverside is about a {{convert|47|mi|km|adj=on}} drive to the Pacific Ocean and is close to Orange County and Los Angeles County.<ref>{{cite web|author=calculate travel time |url=http://www.travelmath.com/flying-distance/from/Riverside,+CA/to/Laguna+Beach,+CA |title=Flight Distance from Riverside, CA to Laguna Beach, CA |publisher=Travelmath.com |access-date=February 8, 2013}}</ref>
+{{wide image|Birdeye, Riverside, California.jpg|800px|A panorama of Riverside, California, taken from the summit of [[Mount Rubidoux]], 1908}}
+
+===Cityscape===
+{{wide image|Riverside_Panorama.jpg|900px|A 360-degree panorama of Riverside, California, taken from the summit of [[Mount Rubidoux]]}}
+
+===Landmarks===
+{{Main|List of landmarks in Riverside, California}}
+[[File:MissionInnEntry.jpg|thumb|right|[[The Mission Inn Hotel & Spa|The Mission Inn]]]]
+
+Riverside is home to the historic [[The Mission Inn Hotel & Spa|Mission Inn]], the [[Beaux-Arts architecture|Beaux-Arts style]] [[commons:Category:Riverside County Courthouse|Riverside County Historic Courthouse]] (based on the [[Petit Palais]] in Paris, France), and the [[Riverside Fox Theater]], where the first showing of the 1939 film ''[[Gone with the Wind (film)|Gone with the Wind]]'' took place. The theater was purchased by the city and refurbished as part of the Riverside Renaissance Initiative.<ref>{{cite web|url=http://www.riversiderenaissance.org/default.aspx|title=Riverside Renaissance Initiative|access-date=January 30, 2008|archive-url=https://web.archive.org/web/20090611001522/http://www.riversiderenaissance.org/default.aspx|archive-date=June 11, 2009|url-status=usurped}}</ref> The Fox Theater underwent extensive renovation and restoration, which was completed in 2009, to turn the old cinema into a performing arts theater.<ref>{{cite web|url=http://www.riversiderenaissance.org/projectsdetail.aspx?List=cc0f2a9b-9a5b-4533-933e-bcafae5946fd&ID=8&Source=http://www.riversiderenaissance.org/projects_arts.aspx|title=rehabilitation|url-status=usurped|archive-url=https://web.archive.org/web/20080511110044/http://www.riversiderenaissance.org/projectsdetail.aspx?List=cc0f2a9b%2D9a5b%2D4533%2D933e%2Dbcafae5946fd&ID=8&Source=http%3A%2F%2Fwww%2Eriversiderenaissance%2Eorg%2Fprojects%5Farts%2Easpx|archive-date=May 11, 2008}}</ref> The building was expanded to hold 1,600 seats and the stage was enlarged to accommodate Broadway-style performances. In January 2010, singer [[Sheryl Crow]] opened the newly remodeled Fox Theater in a nearly sold-out show.<ref>Franko, Vanessa. ''[http://www.pe.com/reports/2010/fox/stories/PE_News_Local_W_sheryl23.4470f39.html Sheryl Crow opens the first night of entertainment at the Fox] {{Webarchive|url=https://web.archive.org/web/20100316211551/http://www.pe.com/reports/2010/fox/stories/PE_News_Local_W_sheryl23.4470f39.html |date=March 16, 2010 }}'', The Press-Enterprise, January 22, 2010. Retrieved July 23, 2010.</ref>
+
+[[File:Victorian Historical House.jpg|thumbnail|left|200px|One of the remaining [[Queen Anne style architecture in the United States|Queen Anne-style]] houses from the 19th century]]
+
+Riverside is the home of the "World's Largest Paper Cup" (actually made of concrete), which is over three stories ({{convert|68.10|ft|m|abbr=on|disp=semicolon}} ) tall. The "[[Dixie Cup]]" landmark is on Iowa Street just north of Palmyrita, in front of what was once the Dixie Corporation's manufacturing plant (now closed down).
+
+Three notable hills are in Riverside's scenic landscape: [[Box Springs Mountain]], Evans (Jurupa) Hill and Tecolote Hill; all of which are preserved open spaces. South of Riverside is [[Lake Mathews]]. There is also the well-known landmark/foothill [[Mount Rubidoux]], which is next to the Santa Ana River and one of the most noticeable landmarks in the downtown area. This foothill is the dividing line between the town of [[Rubidoux]] and the city of Riverside.
+
+[[March Joint Air Reserve Base]] borders Riverside on the east serving as a divider between the city and [[Moreno Valley]]. March ARB, founded in 1918, is the oldest operating Air Force base west of the Mississippi River.
+
+At the entrance to Riverside from the [[California State Route 60|60 freeway]] sits [[Fairmount Park (Riverside, California)|Fairmount Park]]. This extensive urban oasis was designed by the firm founded by [[Frederick Law Olmsted]], which had designed New York's Central Park.<ref>{{cite web|url=http://www.riversideca.gov/park_rec/facilities.asp|title=City of Riverside, California - Park & Recreation|work=riversideca.gov|access-date=October 8, 2010|archive-date=October 6, 2010|archive-url=https://web.archive.org/web/20101006091711/http://www.riversideca.gov/park_rec/facilities.asp|url-status=dead}}</ref> It includes a stocked pond that is home to many species of birds. On nearby private land is the former site of Spring Rancheria, a [[Cahuilla]] village.
+
+===Neighborhoods===
+[[File:Riversidehomes.JPG|thumb|right|Homes in Riverside]]
+The city of Riverside has 28 designated "neighborhoods" within the city limits.<ref>{{cite web|url=http://www.riversideca.gov/neighborhoods/neighborhoods-map.asp|title=Riverside, California - City of Arts & Innovation - At Home in Riverside|work=riversideca.gov}}</ref> These include Airport, Alessandro Heights, Arlanza, [[Arlington, California|Arlington]], Arlington Heights, Arlington South, [[Canyon Crest Heights, California|Canyon Crest]], [[Casa Blanca, California|Casa Blanca]], Downtown, [http://www.riversider.org Eastside], Grand, Hawarden Hills, Hillside Hunter Industrial Park, La Sierra, La Sierra Acres, La Sierra Hills, La Sierra South, Magnolia Center, Mission Grove, Northside, Orangecrest, Presidential Park, Ramona, Sycamore Canyon Park, Sycamore Canyon Springs, University, Victoria and Wood Streets.
+
+East of downtown is the originally named "Eastside". which grew out of a ''colonia'' inhabited by Mexican immigrant workers in the orange groves, other orchards and produce fields. The area these people lived in was originally a settlement called [[La Placita, California|La Placita]] that predated the city, being founded in 1843. Mexican communities were also formed in the barrio of Casa Blanca during the early 20th century.
+
+===Annexations===
+The city council has proposed many [[Municipal annexation in the United States|annexations]] of nearby unincorporated communities that would increase Riverside's population and land area significantly. Most notable is the Lake Hills/Victoria Grove area, which would extend the city's southwestern borders to Lake Mathews.<ref>{{cite web|url=http://www.riversideca.gov/planning/annex.asp|title=Riverside, California - City of Arts & Innovation - Planning|website=www.riversideca.gov|access-date=March 1, 2017|archive-url=https://web.archive.org/web/20081115010005/http://www.riversideca.gov/planning/annex.asp|archive-date=November 15, 2008|url-status=dead}}</ref>
+
+====Current proposals====
+[[File:annexr.png|thumb|300px|right|City limit map which shows possible annexations]]
+* 97 Berry Road
+* 103 Barton/Gem
+* 104 I-215 Corridor
+* 105 Sycamore/Central
+* 106 East Blaine
+* 107 Alta Cresta Remainder
+* 108 Lake Hills/Victoria Grove
+* 111 University City
+* 112 Kaliber
+* 113 Barton/Station
+
+====Potential annexations====
+* A Center Street
+* B Highgrove
+* C Spring Mountain Ranch (92)
+* D Canyon Ridge
+* E Woodcrest
+* F Gateway
+
+===Features===
+[[File:RiversideCA VictoriaAve.jpg|thumb|right|[[Victoria Avenue (Riverside, California)|Victoria Avenue]] is an important citrus-lined paseo.]]
+Riverside is home to the [[University of California, Riverside]]. The [[University of California, Riverside, Botanic Gardens|UCR Botanical Gardens]] contains {{convert|40|acre|ha}} of unusual plants, with {{convert|4|mi|km|spell=in}} of walking trails. The city prides itself on its historic connection to the navel orange, which was introduced to North America from Brazil in 1874. Riverside is home to the one surviving Parent Navel Orange Tree, from which all American West Coast navel orange trees are descended.
+
+There are three hospitals in Riverside.<ref>California Department of Health Services</ref>
+* Riverside Community Hospital is a General Acute Care [[Hospital]] with Basic Emergency Services and a Level I [[Trauma center|Trauma Center]] as of 2020.
+* Parkview Community Hospital Medical Center is a General Acute Care Hospital with Basic Emergency Services as of 2006.
+* Kaiser Foundation Hospital&nbsp;– Riverside is a General Acute Care Hospital with Basic Emergency Services as of 2006.
+
+Riverside is also home to the [[Riverside Public Library]] system. Branches include: Arlanza, Arlington, La Sierra, Marcy, Main, Orange Terrace, Eastside Cybrary, and Casa Blanca.
+
+Convention facilities are available at several locations. The [[Riverside Convention Center]], remodeled in 2014, offers {{convert|66000|sqft|m2|abbr=on}} indoors and {{convert|14000|sqft|m2|abbr=on}} of outdoor space. Also available is the Riverside [[Marriott International|Marriott]] with {{convert|14000|sqft|m2|abbr=on}} indoors, and the [[The Mission Inn Hotel & Spa|Mission Inn]] with {{convert|15000|sqft|m2|abbr=on}} indoors and {{convert|5000|sqft|m2|abbr=on}} outdoors.<ref>[http://www.riversidecvb.com/meetings_conventions/default.aspx Riverside Convention Center and Visitor's Bureau] {{Webarchive|url=https://web.archive.org/web/20110715192350/http://www.riversidecvb.com/meetings_conventions/default.aspx |date=July 15, 2011 }}. Retrieved October 30, 2010.</ref> All three facilities are located within walking distance of one another in downtown Riverside. Meetings with an academic focus are also held at the University of California, Riverside.
+
+===Cemeteries===
+Cemeteries in Riverside include:
+* Crestlawn Memorial Park; notable burials include [[Medal of Honor]] recipient [[George Alan Ingalls]], baseball player [[Mike Darr]], actor [[Roland Harrah III]], and actor [[Darwood Kaye]].
+* [[Evergreen Cemetery (Riverside, California)|Evergreen Cemetery]]; notable burials include [[Marcella Craft]], [[Frank Augustus Miller]], [[John W. North]], [[Eliza Tibbets]], and [[Al Wilson (singer)|Al Wilson]].
+* Olivewood Memorial Park;<ref>{{Coord|33|57|10|N|117|22|44|W|region:US-CA|display=i}} {{GNIS|246894|Olivewood Cemetery}}</ref> notable burials include [[Medal of Honor]] recipient [[Jesus S. Duran]],<ref>{{cite news|last=Santschi|first=Darrell R.|title=Riverside med to get top honor: Jesus S. Duran and Salvador J. Lara will be awarded the Medal of Honor|newspaper=[[The Press-Enterprise]]|date=February 23, 2014}}</ref> [[Murder of Travis Alexander|Travis Alexander]], [[Dorothy Burgess]], Mayor [[Ben H. Lewis]], [[Del Lord]], [[Death of Gloria Ramirez|Gloria Ramirez]], and [[Eric Show]].
+* [[Riverside National Cemetery]], established in 1976, is the largest cemetery managed by the [[United States National Cemetery|National Cemetery Administration]], and since 2000 has been the most active in the system based on the number of interments.
+* [[Sherman Indian High School#Sherman Cemetery|Sherman Indian High School Cemetery]], [[Home Gardens, California|Home Gardens]]
+
+===Climate===
+Riverside experiences a [[semi-arid climate]] ([[Köppen climate classification]] ''BSh'') bordering on an [[arid climate]] ([[Köppen climate classification]] ''BWh'') with hot, dry summers and mild, relatively wet winters. Normal monthly mean temperatures range from {{convert|54.8|°F|1}} in December to {{convert|79.8|°F|1}} in August.<ref name = "NCDC txt KRAL">{{cite web | url = ftp://ftp.ncdc.noaa.gov/pub/data/normals/1981-2010/products/station/USW00003171.normals.txt | title = Station Name: CA RIVERSIDE MUNI AP | publisher = National Oceanic & Atmospheric Administration | access-date = April 18, 2018}}</ref> On average, temperatures reach the freezing mark and {{convert|100|°F|1}} on 3.5 and 21.6 days annually, respectively.<ref name = "NCDC txt KRAL"/> Record temperatures range from {{convert|18|°F|1}} on January 15, 1911, up to {{convert|118|°F|1}} on July 17, 1925, June 16, 1917, and July 6, 2018.<ref name="NOWData SGX">{{cite web| url=https://w2.weather.gov/climate/xmacis.php?wfo=sgx| title = NOW Data — NOAA Online Weather Data| publisher = [[National Oceanic and Atmospheric Administration]]| access-date = April 18, 2018}}</ref> On average, Riverside receives {{convert|9.39|in|mm|abbr=on}} of precipitation annually, with measurable precipitation occurring on 35 days, with almost all of it between November and April, with February the wettest month.<ref name="NCDC COOP">{{cite web| url = ftp://ftp.ncdc.noaa.gov/pub/data/normals/1981-2010/products/station/USC00047470.normals.txt| title = CA Riverside Fire STN 3| publisher = [[National Oceanic and Atmospheric Administration]]| access-date = April 18, 2018}}</ref> The wettest “rain year” was from July 1940 to June 1941 with {{convert|22.72|in|mm|1|disp=or}} and the driest from July 1960 to June 1961 with only {{convert|2.79|in|mm|1|disp=or}}.
+
+{{Weather box|location = Riverside, California ([[Riverside Municipal Airport]]) (1991&ndash;2020 normals, extremes 1893&ndash;present)
+|single line = Y
+|Jan record high F =  94
+|Feb record high F =  94
+|Mar record high F = 102
+|Apr record high F = 105
+|May record high F = 110
+|Jun record high F = 118
+|Jul record high F = 118
+|Aug record high F = 113
+|Sep record high F = 117
+|Oct record high F = 109
+|Nov record high F = 100
+|Dec record high F =  94
+| Jan avg record high F = 83.1
+| Feb avg record high F = 83.3
+| Mar avg record high F = 87.8
+| Apr avg record high F = 94.2
+| May avg record high F = 97.1
+| Jun avg record high F = 101.3
+| Jul avg record high F = 105.1
+| Aug avg record high F = 106.6
+| Sep avg record high F = 106.2
+| Oct avg record high F = 99.8
+| Nov avg record high F = 91.0
+| Dec avg record high F = 82.6
+|year avg record high F = 109.6
+|Jan high F = 67.7
+|Feb high F = 67.9
+|Mar high F = 72.1
+|Apr high F = 75.9
+|May high F = 79.9
+|Jun high F = 86.7
+|Jul high F = 93.3
+|Aug high F = 94.9
+|Sep high F = 91.3
+|Oct high F = 82.7
+|Nov high F = 74.5
+|Dec high F = 66.8
+|year high F= 79.5
+
+|Jan mean F = 55.6
+|Feb mean F = 56.3
+|Mar mean F = 59.5
+|Apr mean F = 62.9
+|May mean F = 67.6
+|Jun mean F = 73.0
+|Jul mean F = 78.6
+|Aug mean F = 79.8
+|Sep mean F = 76.6
+|Oct mean F = 68.9
+|Nov mean F = 61.0
+|Dec mean F = 54.8
+|year mean F =
+
+|Jan low F = 43.6
+|Feb low F = 44.7
+|Mar low F = 46.9
+|Apr low F = 50.0
+|May low F = 55.3
+|Jun low F = 59.3
+|Jul low F = 63.9
+|Aug low F = 64.7
+|Sep low F = 61.9
+|Oct low F = 55.2
+|Nov low F = 47.4
+|Dec low F = 42.8
+|year low F= 53.0
+| Jan avg record low F = 34.0
+| Feb avg record low F = 36.0
+| Mar avg record low F = 38.8
+| Apr avg record low F = 42.3
+| May avg record low F = 48.3
+| Jun avg record low F = 53.8
+| Jul avg record low F = 58.6
+| Aug avg record low F = 59.0
+| Sep avg record low F = 54.5
+| Oct avg record low F = 46.7
+| Nov avg record low F = 38.0
+| Dec avg record low F = 33.2
+|year avg record low F = 31.5
+|Jan record low F = 18
+|Feb record low F = 24
+|Mar record low F = 25
+|Apr record low F = 29
+|May record low F = 33
+|Jun record low F = 35
+|Jul record low F = 41
+|Aug record low F = 40
+|Sep record low F = 37
+|Oct record low F = 30
+|Nov record low F = 23
+|Dec record low F = 21
+|precipitation colour = green
+|Jan precipitation inch = 2.29
+|Feb precipitation inch = 2.41
+|Mar precipitation inch = 1.21
+|Apr precipitation inch = 0.57
+|May precipitation inch = 0.20
+|Jun precipitation inch = 0.04
+|Jul precipitation inch = 0.12
+|Aug precipitation inch = 0.03
+|Sep precipitation inch = 0.11
+|Oct precipitation inch = 0.33
+|Nov precipitation inch = 0.57
+|Dec precipitation inch = 1.51
+|year precipitation inch= 9.39
+|unit precipitation days = 0.01 in
+|Jan precipitation days = 4.8
+|Feb precipitation days = 6.9
+|Mar precipitation days = 5.2
+|Apr precipitation days = 3.9
+|May precipitation days = 1.6
+|Jun precipitation days = 0.2
+|Jul precipitation days = 0.7
+|Aug precipitation days = 0.5
+|Sep precipitation days = 0.5
+|Oct precipitation days = 2.3
+|Nov precipitation days = 3.6
+|Dec precipitation days = 5.1
+|year precipitation days=
+|source 1 = NWS<ref>{{cite web|url=https://w2.weather.gov/climate/xmacis.php?wfo=sgx|title=Climate}}</ref>
+|source 2 = NOAA<ref>{{cite web |url=https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&startDate=0001-01-01&endDate=9996-12-31&stations=USW00003171&format=pdf |title=Summary of Monthly Normals |publisher=National Centers for Environmental Information |access-date=July 19, 2022}}</ref>
+}}
+
+===Environment===
+The Riverside area faces issues of [[smog]] and above-average levels of [[air pollution]]. In a comparison by the National Campaign Against Dirty Air Power (2003), the Riverside-[[San Bernardino]]-[[Ontario, California|Ontario]] area was found to be one of the most polluted regions based on year-round particle measurements when compared to other U.S. cities.<ref>{{cite journal |title= Air pollution and lung development |year=2004 |pmid=15356303 |url=http://content.nejm.org/cgi/content/abstract/351/11/1057 |access-date=March 17, 2006|last1=Gauderman |first1=W. J. |last2=Avol |first2=E. |last3=Gilliland |first3=F. |last4=Vora |first4=H. |last5=Thomas |first5=D. |last6=Berhane |first6=K. |last7=McConnell |first7=R. |last8=Kuenzli |first8=N. |last9=Lurmann |first9=F. |last10=Rappaport |first10=E. |last11=Margolis |first11=H. |last12=Bates |first12=D. |last13=Peters |first13=J. |journal=The New England Journal of Medicine |volume=351 |issue=11 |pages=1057–1067 |doi=10.1056/NEJMoa040610 |doi-access=free }}</ref> The city made efforts to reduce pollution by incorporating additional means of [[mass transit]] ([[Metrolink (California)|Metrolink]]) and equipping its entire fleet of buses with [[natural gas]]. Smog decreased considerably over the next few years as local municipalities and counties worked with the [[South Coast Air Quality Management District]] to implement measures to improve regional air quality.<ref>{{cite web|url=http://www.scaqmd.org|title=California Air District Website Links|work=scaqmd.org}}</ref> In 2020, the American Lung Association rated Riverside County one of the nation's worst counties for smog.<ref>{{cite web |last1=Wisckol |first1=Martin |title=Worst smog in America is in LA metro region |url=https://www.ocregister.com/2020/04/20/worst-smog-in-america-is-in-l-a-metro-region/ |publisher=[[Orange County Register]] |access-date=October 29, 2020 |date=April 21, 2020}}</ref> Most of Riverside's smog problems are the result of the prevailing wind patterns that blow the smog from the [[Los Angeles Basin]] and particulates generated by southern California's multitude of vehicles, and the [[Port of Los Angeles]] and [[Port of Long Beach]] into the [[Inland Empire]].
+
+==Demographics==
+{{US Census population
+|1890= 4683
+|1900= 7973
+|1910= 15212
+|1920= 19341
+|1930= 29696
+|1940= 34696
+|1950= 46764
+|1960= 84332
+|1970= 140089
+|1980= 170591
+|1990= 226505
+|2000= 255166
+|2010= 303871
+|2020= 314998
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref>
+}}
+
+{| class="wikitable sortable collapsible mw-collapsed" style="font-size: 90%;"
+|-
+! Historical racial profile !! 2010<ref name="census1">{{cite web |url=http://quickfacts.census.gov/qfd/states/06/0662000.html |title=Riverside (city), California |work=State & County QuickFacts |publisher=U.S. Census Bureau |access-date=April 30, 2012 |archive-url=https://web.archive.org/web/20150424143033/http://quickfacts.census.gov/qfd/states/06/0662000.html |archive-date=April 24, 2015 |url-status=dead }}</ref> !! 2000<ref>{{cite web|url=https://www.census.gov |title=Race and Hispanic or Latino: 2000 |publisher=United States Census Bureau }}</ref> !! 1990<ref name="pop">{{cite web|title=California&nbsp;– Race and Hispanic Origin for Selected Cities and Other Places: Earliest Census to 1990 |publisher=U.S. Census Bureau |url=https://www.census.gov/population/www/documentation/twps0076/twps0076.html |access-date=April 30, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120812191959/http://www.census.gov/population/www/documentation/twps0076/twps0076.html |archive-date=August 12, 2012 }}</ref> !! 1970<ref name="pop"/>
+|-
+| [[White American|White]] || 56.5% || 59.3% || 70.8% || 93.1% 
+|-
+| —[[Non-Hispanic Whites|Non-Hispanic]] || 34.0% || 46.6% || 61.3% || 82.1%<ref name="fifteen">From 15% sample</ref>
+|-
+| [[African American|Black or African American]] || 7.0% || 7.4% || 7.4% || 5.2%
+|-
+| [[Hispanic and Latino Americans|Hispanic or Latino]] (of any race) || 49.0% || 38.1% || 26.0% || 11.4%<ref name="fifteen"/>
+|-
+| [[Asian American|Asian]] || 7.4% || 5.7% || 5.2% || 0.7%
+|}
+
+===2020===
+{| class="wikitable" style="text-align:center;"
+|+'''Riverside, California – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Riverside city, California|url=https://data.census.gov/table/DECENNIALSF12000.P004?g=160XX00US0662000|publisher=United States Census Bureau |access-date=January 26, 2024}}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Riverside city, California |url=https://data.census.gov/table?q=p2&g=160XX00US0662000&tid=DECENNIALPL2010.P2|publisher=United States Census Bureau |access-date=January 26, 2024}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Riverside city, California |url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US0662000&tid=DECENNIALPL2020.P2|publisher=United States Census Bureau |access-date=January 26, 2024}}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|116,254
+|103,398
+|style='background: #ffffe6; |87,213
+|45.56%
+|34.03%
+|style='background: #ffffe6; |27.69%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|18,051
+|19,917
+|style='background: #ffffe6; |18,832
+|7.07%
+|6.55%
+|style='background: #ffffe6; |5.98%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|1,415
+|1,297
+|style='background: #ffffe6; |1,195
+|0.55%
+|0.43%
+|style='background: #ffffe6; |0.38%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|14,233
+|21,934
+|style='background: #ffffe6; |22,450
+|5.58%
+|7.22%
+|style='background: #ffffe6; |7.13%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|848
+|1,019
+|style='background: #ffffe6; |951
+|0.33%
+|0.34%
+|style='background: #ffffe6; |0.30%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|492
+|617
+|style='background: #ffffe6; |1,704
+|0.19%
+|0.20%
+|style='background: #ffffe6; |0.54%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|6,558
+|6,736
+|style='background: #ffffe6; |10,267
+|2.57%
+|2.22%
+|style='background: #ffffe6; |3.26%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|97,315
+|148,953
+|style='background: #ffffe6; |172,386
+|38.14%
+|49.02%
+|style='background: #ffffe6; |54.73%
+|-
+|'''Total'''
+|'''255,166'''
+|'''303,871'''
+|style='background: #ffffe6; |'''314,998'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2010===
+[[File:Architectural detail of the bell tower.JPG|thumb|left|[[First Congregational Church of Riverside]]]]
+[[File:Race and ethnicity 2010- Riverside (5560442038).png|thumb|Map of racial distribution in Riverside, 2010 U.S. Census. Each dot is 25 people: {{legend inline|outline=white|white|text=⬤|textcolor=#ff0000|White}} {{legend inline|outline=white|white|text=⬤|textcolor=#0000ff|Black}} {{legend inline|outline=white|white|text=⬤|textcolor=#00ffaa|Asian}} {{legend inline|outline=white|white|text=⬤|textcolor=#ffa600|Hispanic}} {{legend inline|outline=white|white|text=⬤|textcolor=#ffff07|Other}}]]
+The [[2010 United States Census|2010 census]]<ref>{{cite web|url=http://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0662000|archive-url=https://archive.today/20140715040305/http://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0662000|url-status=dead|archive-date=July 15, 2014|title=2010 Census Interactive Population Search: CA - Riverside city|publisher=U.S. Census Bureau|access-date=July 12, 2014}}</ref> reported that Riverside had a population of 303,871. The population density was {{convert|3,731.0|PD/sqmi|PD/km2|sp=us|adj=off}}. The racial makeup of Riverside was 
+* 171,669 (56.5%) [[White (U.S. Census)|White]], 
+* 21,421 (7.0%) [[African American (U.S. Census)|African American]], 
+* 3,467 (1.1%) [[Native American (U.S. Census)|Native American]], 
+* 22,566 (7.4%) [[Asian (U.S. Census)|Asian]] (1.7% Filipino, 1.6% Chinese, 1.1% Korean, 1.0% Vietnamese, 1.0% Indonesian, 0.1% Japanese, 0.1% Pakistani), 
+* 1,219 (0.4%) [[Pacific Islander (U.S. Census)|Pacific Islander]], 
+* 68,111 (22.4%) from [[Race (United States Census)|other races]], and 15,418 (5.1%) from two or more races. 
+* [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 148,953 persons (49.0%);
+
+41.8% of Riverside's population is Mexican, 1.1% Guatemalan, 1.0% Salvadoran, 0.7% Puerto Rican, 0.3% Cuban, 0.2% Nicaraguan, and 0.2% Colombian.<ref>{{Cite news
+ |title=U.S. Census website
+ |work=census.gov 
+ |access-date=August 27, 2011 |url=https://www.census.gov
+ }}</ref> [[Non-Hispanic Whites]] were 34.0% of the population in 2010,<ref name="census1"/> down from 82.1% in 1970.<ref name="pop"/>
+
+The Census reported that 292,322 people (96.2% of the population) lived in households, 8,925 (2.9%) lived in non-institutionalized group quarters, and 2,624 (0.9%) were institutionalized.
+
+There were 91,932 households, out of which 38,939 (42.4%) had children under the age of 18 living in them, 45,398 (49.4%) were [[marriage|opposite-sex married couples]] living together, 13,845 (15.1%) had a female householder with no husband present, 6,372 (6.9%) had a male householder with no wife present. There were 6,392 (7.0%) [[POSSLQ|unmarried opposite-sex partnerships]], and 746 (0.8%) [[same-sex partnerships|same-sex married couples or partnerships]]. 18,284 households (19.9%) were made up of individuals, and 6,262 (6.8%) had someone living alone who was 65 years of age or older. The average household size was 3.18. There were 65,615 [[family (U.S. Census)|families]] (71.4% of all households); the average family size was 3.67.
+
+The population was spread out, with 81,406 people (26.8%) under the age of 18, 47,126 people (15.5%) aged 18 to 24, 82,482 people (27.1%) aged 25 to 44, 66,615 people (21.9%) aged 45 to 64, and 26,242 people (8.6%) who were 65 years of age or older. The median age was 30.0 years. For every 100 females, there were 97.6 males. For every 100 females age 18 and over, there were 95.4 males.
+
+There were 98,444 housing units at an average density of {{convert|1,208.7|/mi2|/km2|disp=preunit|units&nbsp;|units|}}, of which 51,185 (55.7%) were owner-occupied, and 40,747 (44.3%) were occupied by renters. The homeowner vacancy rate was 2.4%; the rental vacancy rate was 7.4%. 168,888 people (55.6% of the population) lived in owner-occupied housing units and 123,434 people (40.6%) lived in rental housing units.
+
+According to the 2010 United States Census, Riverside had a median household income of $56,403, with 17.5% of the population living below the federal poverty line.<ref>{{cite web|url=http://quickfacts.census.gov/qfd/states/06/0662000.html|title=Riverside (city) QuickFacts from the US Census Bureau|work=census.gov|access-date=March 17, 2010|archive-url=https://web.archive.org/web/20150424143033/http://quickfacts.census.gov/qfd/states/06/0662000.html|archive-date=April 24, 2015|url-status=dead}}</ref>
+
+===2000===
+
+As of the [[census]] of 2000, there were 255,166 people, 82,005 households, and 58,141 families residing in the city. The [[population density]] was {{convert|1,261.5|/km2|/mi2|abbr=on}}. There were 85,974 housing units at an average density of {{convert|425.0|/km2|/mi2|abbr=on}}. The racial makeup of the city was 59.3% [[White (U.S. Census)|White]], 7.4% [[African American (U.S. Census)|African American]], 1.1% [[Native American (U.S. Census)|Native American]], 5.68% [[Asian (U.S. Census)|Asian]], 0.4% [[Pacific Islander (U.S. Census)|Pacific Islander]], 21.0% from [[Race (U.S. Census)|other races]], and 5.1% from two or more races. 38.1% of the population were [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race.
+
+There were 82,005 households, out of which 39.8% had children under the age of 18 living with them, 50.3% were [[Marriage|married couples]] living together, 14.8% had a female householder with no husband present, and 29.1% were non-families. 21.5% of all households were made up of individuals, and 7.2% had someone living alone who was 65 years of age or older. The average household size was 3.02 and the average family size was 3.54.
+
+In the city, the population was spread out, with 30.1% under the age of 18, 12.9% from 18 to 24, 30.0% from 25 to 44, 18.0% from 45 to 64, and 9.0% who were 65 years of age or older. The median age was 30 years. For every 100 females, there were 97.1 males. For every 100 females age 18 and over, there were 93.6 males.
+
+The median income for a household in the city was $41,646, and the median income for a family was $47,254. Males had a median income of $36,920 versus $28,328 for females. The [[per capita income]] for the city was $17,882. 15.8% of the population and 11.7% of families were below the [[poverty line]]. Out of the total population, 18.9% of those under the age of 18 and 8.0% of those 65 and older were living below the poverty line.
+
+===Religion===
+{{Pie chart
+| thumb = right
+| caption = Religion in Riverside (2014)<ref name=PEW1>{{cite web|url=https://www.pewforum.org/religious-landscape-study/metro-area/riverside-ca-metro-area/|publisher=[[Pew Research Center]]|title=Adults in the Riverside metro area}}</ref><ref name=PEW2>[http://www.pewresearch.org/fact-tank/2015/07/29/major-u-s-metropolitan-areas-differ-in-their-religious-profiles/ Major U.S. metropolitan areas differ in their religious profiles], Pew Research Center</ref>
+| label1 = [[Protestantism]]
+| value1 = 43
+| color1 = DodgerBlue
+| label2 = [[Roman Catholicism]]
+| value2 = 22
+| color2 = #d4213d
+| label3 = [[Mormonism]]
+| value3 = 3
+| color3 = DarkTurquoise
+| label4 = [[Eastern Orthodoxy]]
+| value4 = 1
+| color4 = Purple
+| label5 = [[Jehovah's Witnesses]]
+| value5 = 2
+| color5 = Aquamarine
+| label6 = [[Irreligious|No religion]]
+| value6 = 25
+| color6 = Honeydew
+| label7 = Other religion
+| value7 = 4
+| color7 = Orange
+}}
+[[File:Mount Rubidoux is a hill within the city of Riverside, California LCCN2013634917.tif|thumb|left|[[Mount Rubidoux]]]]
+
+Riverside is largely Christian and is home to Catholic, Eastern Orthodox, Church of Jesus Christ of Latter Day Saints, Protestant, and Universalist Unitarian churches, an Islamic mosque, Jewish synagogue, Hindu temple, and several Buddhist temples. Riverside is also home to the Inland Empire Atheists and Agnostics organization.<ref>{{cite web|author=US |url=http://www.inlandempireatheists.com |title=Inland Empire Atheists, Agnostics & Skeptics Meetup Group (Riverside, CA)&nbsp;– Meetup.com |publisher=Inlandempireatheists.com |access-date=June 1, 2010}}</ref><ref>{{cite web |url=http://www.pe.com/localnews/rivcounty/stories/PE_News_Local_W_wbriefs15.4798926.html |title=West Briefs&nbsp;– 4/15/09 &#124; Riverside County &#124; PE.com &#124; Southern California News &#124; News for Inland Southern California |publisher=PE.com |date=April 14, 2009 |access-date=June 1, 2010 }}{{Dead link|date=August 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+The city has a large population of [[Seventh-day Adventist]]s, due to the presence of [[La Sierra University]] and proximity to [[Loma Linda, California|Loma Linda]] near [[San Bernardino, California|San Bernardino]].
+
+There is also a large [[Mormon]] population, as well as in the San Bernardino area, as [[the Church of Jesus Christ of Latter-day Saints]] has missions in Riverside and [[Redlands, California|Redlands]] near their [[Redlands California Temple|temple]].
+
+Several religious celebrations take place on top of the city's [[Mount Rubidoux]]. One is an annual Easter [[Sunrise service]], which is the nation's oldest continual non-denominational outdoor Easter service<ref>{{cite web|url=http://www.pe.com/localnews/riverside/stories/PE_News_Local_S_sunrise05.3fcd4b6.html|title=News : Press Enterprise|work=pe.com|access-date=July 18, 2009|archive-date=April 19, 2009|archive-url=https://web.archive.org/web/20090419172944/http://www.pe.com/localnews/riverside/stories/PE_News_Local_S_sunrise05.3fcd4b6.html|url-status=dead}}</ref> The 100th anniversary of the event was held April 12, 2009. Each December, a 2½-mile (4&nbsp;km) procession from Our Lady of Guadalupe Shrine to the top of Mount Rubidoux promotes awareness of [[Juan Diego]]'s walk up [[Tepeyac]] hill, in 1531, where he reportedly saw a [[Marian apparition]] known as [[Our Lady of Guadalupe]].<ref>{{cite web|url=http://www.pe.com/family/stories/PE_News_Local_S_guadalupe04.3144338.html|title=Press Enterprise : Riverside County California News, Sports and Entertainment|work=pe.com}}{{Dead link|date=August 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+In 2012, a controversy erupted regarding the cross atop Mount Rubidoux, which was on city-owned land and maintained by the city. Due to constitutional issues regarding separation of church and state, the Riverside City Council sold the cross and the land under it (0.43 acres; 1740.15 sq m) to a private entity for $10,500.<ref>{{cite web|url=http://www.pe.com/local-news/riverside-county/riverside/riverside-headlines-index/20130411-mount-rubidoux-cross-auction-winner-will-keep-riverside-landmark.ece|title=Mount Rubidoux Cross: Auction winner will keep Riverside landmark|work=Press Enterprise|access-date=January 17, 2014|archive-date=December 25, 2013|archive-url=https://web.archive.org/web/20131225001315/http://www.pe.com/local-news/riverside-county/riverside/riverside-headlines-index/20130411-mount-rubidoux-cross-auction-winner-will-keep-riverside-landmark.ece|url-status=dead}}</ref>
+
+==Economy==
+[[File:Fox theater.jpg|thumb|right|Downtown Riverside]]
+[[File:Riverside Convention Center - aerial view.jpg|thumb|right|[[Riverside Convention Center]]]]
+Riverside's economy consists largely of light-industry and generates a range of products including aircraft components, automotive parts, gas cylinders, electronic equipment, food products, and medical devices. Supporting the manufacturing sector are several industrial parks, including those in the Hunter Industrial Park, Sycamore Canyon Industrial Park and Airport Industrial Areas. As the county seat of Riverside County and the most populous city in the Inland Empire, Riverside also houses several legal, accounting, engineering, and banking firms. Citrus production and packing houses still exist within the city, but the industry is in decline.
+
+American electronics company [[Bourns, Inc.|Bourns]] is among the companies based in Riverside.
+
+Citrus is in decline in many areas of the Inland Empire where urbanization and [[water scarcity]] have made the industry uneconomic.<ref>{{cite web |title= Background Information and Statistics: California's Citrus Industry |url= http://www.ers.usda.gov/news/CAcitrus.htm |access-date= January 2, 2012 |archive-date= January 10, 2012 |archive-url= https://web.archive.org/web/20120110153308/http://ers.usda.gov/News/CAcitrus.htm |url-status= dead }}</ref>
+
+;Top employers
+According to the city's 2018 Comprehensive Annual Financial Report,<ref name="cafr">{{cite web|url=https://riversideca.gov/finance/cafr/2018.asp |title=Riverside, California {{!}} City of Arts & Innovation {{!}} Finance}}</ref> the top employers in the city are:
+
+{| class="wikitable"
+|-
+! #
+! Employer
+! # of employees
+|-
+| 1
+| [[County of Riverside]]
+|11,865
+|-
+| 2
+| [[University of California, Riverside]]
+|8,686
+|-
+| 3
+| [[Riverside Unified School District]]
+|4,000
+|-
+| 4
+| [[Kaiser Permanente]]
+|3,484
+|-
+| 5
+| City of Riverside
+|2,504
+|-
+| 6
+| [[California Baptist University]]
+| 2,285
+|-
+| 7
+| [[Hospital Corporation of America|Riverside Community Hospital]]
+| 2,200
+|-
+| 8
+| [[Alvord Unified School District]]
+| 1,800
+|-
+| 9
+| [[Collins Aerospace|UTC Aerospace Systems]]
+| 1,200
+|-
+| 10
+| Parkview Community Hospital
+| 897
+|}
+
+===Film and television===
+{{See also|List of films shot in Riverside, California}}
+
+===Retail===
+Retail shopping centers include the open-air Riverside Plaza, and the [[Galleria at Tyler]] mall. The [[Main Street Pedestrian Mall (Riverside, California)|Main Street Pedestrian Mall]] in downtown is the site of several unique shops.<ref>{{cite web|url=http://www.riversideca.gov/shop/retail-centers.asp|title=home - ShopRiversideNow.com|work=ShopRiversideNow.com}}</ref>
+
+==Arts and culture==
+
+===Museums===
+[[File:Riverside - SR-71A Blackbird at the March Field Air Museum.jpg|thumb|right|[[Lockheed SR-71 Blackbird]] at the [[March Field Air Museum]]]]
+{{see also|List of museums in the Inland Empire}}
+* [[California Citrus State Historic Park]] Museum
+* [[The Cheech Marin Center for Chicano Art, Culture & Industry]] 
+* [[Entomology Research Museum]] at the University of California, Riverside (not open to the public).
+* [[March Field Air Museum]]
+* [[The Mission Inn Hotel & Spa|Mission Inn Museum]]
+* [[Riverside Art Museum]]
+* [[Museum of Riverside]]
+* [[Sherman Indian Museum]] at the Sherman Indian High School
+* Sweeney Art Gallery, an extension of the University of California, Riverside
+* The Stahl Center Museum of Culture at the La Sierra University
+* [[University of California, Riverside California Museum of Photography]]
+* World Museum of Natural History at the La Sierra University
+*[[Southern California Railway Museum]]
+
+===Festivals and events===
+Several festivals occur throughout the year in Riverside, many focused on the downtown area.
+
+Each year in February The Riverside Dickens Festival is held to "enhance a sense of community among citizens of Riverside County and Southern California by creating a series of literary events and to provide educational, family-oriented, literary entertainment and activities such as plays, musical performances, pageants, living history presentations, workshops, lectures, classroom study, exhibits and a street bazaar with free entertainment, vendors and costumed characters."<ref>{{cite web|url=http://www.dickensfest.com |title=Welcome to the Frontpage |publisher=Dickensfest.com |access-date=June 1, 2010}}</ref>
+
+The Riverside Airshow takes place in March at the [[Riverside Municipal Airport]]. The event attracts around 70,000 people and includes aerial performers, over {{convert|200|acre|km2}} of aircraft displays, a car show and military vehicle display, children's activities, food and refreshments, helicopter displays and community group exhibits.<ref>{{cite web|url=http://www.riversideca.gov/airshow/default.htm|title=Riverside Airshow - Riverside Airport|work=riversideca.gov|url-status=dead|archive-url=https://web.archive.org/web/20060924231011/http://www.riversideca.gov/airshow/Default.htm|archive-date=September 24, 2006}}</ref><ref>{{cite web|url=http://www.thingstodoinlandempire.com/riverside-airshow-2011/|title=Riverside Airshow 2011 - Photo Review|work=thingstodoinlandempire.com}}</ref>
+
+The March Field Airfest, also known as Thunder Over the Empire, is a biennial air show held at [[March Air Reserve Base]]. The air show is among the largest events in the Inland Empire and Riverside County. The show has featured such performers as the United States Air Force Thunderbirds, the [[Air Combat Command]] demonstrations teams and many other military and civilian demonstrations. 2010 saw the Patriots Jet Team as the highlight demonstration team of the show. Attendance for the 2010 show was estimated at over 150,000.
+
+The [[Riverside International Film Festival]] (RIFF) takes place in April and features films from around the world.<ref>{{cite web|title=Riverside International Film Festival|url=https://www.riversidefilmfestival.org|access-date=February 21, 2023}}</ref>  Sponsored by the city of Riverside, local universities, and many businesses, past festivals have featured over 175 films.
+
+Old Riverside Foundation,<ref>{{cite web|title=Old Riverside Foundation|url=https://oldriverside.org|access-date=August 1, 2022}}</ref> a local nonprofit focused on historic preservation of the built environment, hosts an annual Vintage Home Tour in May that showcases private historic homes, open to the public for one day only.
+
+In October, the California Riverside Ballet sponsors the Ghost Walk, which in 2013 celebrated its 22nd year. The event is a walk around some of the city's oldest and most historic buildings, with volunteers leading tours and telling ghost stories.
+
+The Riverside Festival of Lights centers around [[The Mission Inn Hotel & Spa]], located downtown. Decoration of the Inn begins in October and a lighting ceremony that includes speakers, fireworks, and live musicians takes place the day after [[Thanksgiving (United States)|Thanksgiving Day]]. Carolers, horse-drawn carriage rides, and ice skating all color the festival. Restaurants, cafes, and community groups all contribute to the festival. The festival runs through New Year's Day.<ref>{{cite news|url=https://www.kpvi.com/news/national_news/riversides-festival-of-lights-ready-to-switch-on-millions-of-lights/article_a0ea746d-2770-5dee-a2e2-814a467b2b83.html |last= |first= |title=Riverside's Festival of Lights ready to switch on millions of lights |date=November 16, 2022 |website=KPVI |access-date=November 16, 2022}}</ref>
+
+Also during the week of Thanksgiving, the [[Festival of Trees]] is held at the [[Riverside Convention Center]]. Held since 1990, the event seeks to raise money for the [[Riverside County Regional Medical Center]] children's units including the Neonatal Intensive Care Unit, the Child Abuse and Neglect Unit, and the Pediatric Intensive Care Unit. Attracting 25,000 people per year, the event has raised over $5 million since its inception.<ref>{{cite web|url=http://www.rcrmc.org/foundation/festTrees/festTrees_main.html|title=Festival of Trees Web Page.|access-date=July 19, 2009|archive-url=https://web.archive.org/web/20070517192614/http://www.rcrmc.org/foundation/festTrees/festTrees_main.html|archive-date=May 17, 2007|url-status=dead}}</ref> At the Festival of Trees, many professionally decorated Christmas trees are judged, auctioned, and then displayed for public viewing.
+
+==Government==
+{{See also|List of mayors of Riverside, California|Mayoral elections in Riverside, California}}
+[[File:Museum of Riverside.jpg|thumb|right|[[Museum of Riverside]]]]
+
+===Local government===
+Riverside is a [[charter city]] governed by a [[Local government in the United States#California|mayor and city council]]. The mayor is elected in a citywide election. The city council has seven members, each elected from single member wards. A [[city manager]] is responsible for ongoing city services.
+
+In Riverside's Comprehensive Annual Financial Report for the fiscal year ended June 30, 2013, the city's government accounts were reported to have $244&nbsp;million in revenues and $365&nbsp;million in expenditures, with the deficiency made up by the issuance of long-term debt and transfers from the city-owned utilities (including electric and water).<ref>[http://www.riversideca.gov/finance/pdf/cafr2013/Entire-2013-Report.pdf Retrieved October 4, 2014]</ref>  The report also indicates that over the prior nine years, the number of city employees increased by 23.6% to 2,686 FTE, outpacing the 12.5% increase in the number of residents.
+
+===Federal and state representation===
+Under the electoral maps drawn by the [[California's congressional districts#2012: Citizens Redistricting Commission|Citizens' Redistricting Commission]], which were first used in the 2022 elections and will remain in effect through at least 2030, Riverside's state and federal legislative districts have changed substantially.
+
+In the [[California State Legislature]], the City of Riverside is in {{Representative|casd|31|fmt=sdistrict}}. In the [[California State Assembly]], it is split between the 58th Assembly District, represented by Democrat [[Sabrina Cervantes]] and the 63rd Assembly District, represented by Republican [[Bill Essayli]].
+
+In the [[United States House of Representatives]], Riverside is represented by [[Mark Takano|Democrat Mark Takano]] in the 39th Congressional District. In the [[United States Senate]], California is represented by Democrats [[Laphonza Butler]] and [[Alex Padilla]].<ref>{{cite web
+ | url = http://www.riversideca.gov/gov-whotocall-state.asp
+ | title = Who To Call in Sacramento & Washington DC
+ | publisher = Riverside, California
+ | access-date = November 23, 2014
+| archive-date = November 28, 2014
+| archive-url = https://web.archive.org/web/20141128151104/http://riversideca.gov/gov-whotocall-state.asp
+ | url-status = dead
+ }}</ref>
+
+===Courts===
+{{col-begin}}
+{{col-break}}
+* Federal
+** [[United States District Court for the Central District of California#Divisions|United States District Court, Central District of California, Eastern Division]]<ref name="United States Courts">{{cite web|url=http://www.uscourts.gov/|title=United States Courts|website=United States Courts}}</ref><ref>{{cite web|url=http://www.cacd.uscourts.gov/Cacd/CourtInfo.nsf/c755da45cb6a17bc882567d10055026e/fd8558d7305c8fc9882567d100550d05?OpenDocument|title=United States District Court, Central District of California, Riverside|access-date=October 8, 2010|archive-url=https://web.archive.org/web/20101121020721/http://www.cacd.uscourts.gov/CACD/CourtInfo.nsf/c755da45cb6a17bc882567d10055026e/fd8558d7305c8fc9882567d100550d05?OpenDocument|archive-date=November 21, 2010|url-status=dead}}</ref>
+** United States Bankruptcy Court, 9th Circuit [[Bankruptcy Appellate Panel]]<ref name="United States Courts"/><ref>{{cite web |url=http://207.41.19.15/Web/bap.nsf/baphome?OpenPage |title=United States Bankruptcy Panel of the 9th Circuit |access-date=October 8, 2010 |archive-url=https://archive.today/20080403233406/http://207.41.19.15/Web/bap.nsf/baphome?OpenPage |archive-date=April 3, 2008 |url-status=dead }}</ref>
+** [[United States bankruptcy court|United States Bankruptcy Court]], Central District of California<ref name="United States Courts"/>
+{{col-break}}
+* State
+** [[California Court of Appeal for the Fourth District|California Court of Appeal, Fourth District, Division Two]]<ref>{{cite web|url=http://www.courtinfo.ca.gov/courts/courtsofappeal/4thDistrict/|title=Site Has Moved|work=ca.gov|date=August 9, 2021}}</ref>
+** [[Riverside County Superior Court|Superior Court of California, County of Riverside]]<ref>{{cite web|url=http://www.riverside.courts.ca.gov/|title=The Superior Court of California, County of Riverside - Traffic|work=ca.gov}}</ref>
+{{col-end}}
+
+===Crime===
+Riverside's crime rate has shown a drop over the past several years. According to the FBI's Uniform Crime Reporting Statistics database, from 2002 to 2014 violent crime fell to 1,384 from 2,026 events, and property crime to 9,864 from 13,135 events.<ref>{{cite web|url=http://www.ucrdatatool.gov|title=Uniform Crime Reporting Statistics|work=ucrdatatool.gov|url-status=dead|archive-url=https://web.archive.org/web/20130703191609/http://www.ucrdatatool.gov/|archive-date=July 3, 2013}}</ref> During this time, the population of the city rose by 21%. To help reduce gang-related crime, the city developed Project Bridge, an anti-gang program under the city of Riverside's Park and Recreation Department. Gang activity has been reported to center in the Casa Blanca, Arlanda and Eastside neighborhoods.
+
+Of the 60 largest U.S. police departments in 2015, the Riverside Police Department was the only department whose police did not kill anyone that year.<ref>{{cite web|title=2015 Police Violence Report|url=http://mappingpoliceviolence.org/2015/|website=Mapping Police Violence|access-date=December 21, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20151222112637/http://mappingpoliceviolence.org/2015/ |archive-date= December 22, 2015 }}</ref>
+
+==Education==
+[[File:Palm School.jpg|thumb|right|Palm Elementary School]]
+
+===Colleges and universities===
+[[File:Ucr-belltower.jpg|thumb|right|The {{convert|161|ft|m|abbr=on}}, 48-bell carillon tower at the [[University of California, Riverside]]]]
+Institutions of higher learning include:
+* [[California Baptist University]]<ref>{{cite web|url=http://www.calbaptist.edu/about/|title=About |work=California Baptist University |url-status=live |archive-url=https://web.archive.org/web/20231213071836/https://calbaptist.edu/about/ |archive-date= December 13, 2023 }}</ref>
+*
+* [[La Sierra University]]<ref>{{cite web|url=http://www.lasierra.edu/index.php?id=672|title=About La Sierra University |date=March 19, 2012 |work=La Sierra University |url-status=dead |archive-url=https://web.archive.org/web/20121114165253/http://www.lasierra.edu/index.php?id=672 |archive-date= November 14, 2012 }}</ref>
+* [[National University (California)|National University]]<ref>{{cite web|url=http://www.nu.edu/|title=National University|work=nu.edu |url-status=live |archive-url= https://web.archive.org/web/20230801010807/https://www.nu.edu/ |archive-date= August 1, 2023 }}</ref> (branch campus in Riverside)
+* [[Riverside City College]]<ref>{{cite web|url=http://www.rcc.edu/riverside/|title=Riverside City College|work=Riverside Community College District |access-date=October 8, 2010|archive-date=May 27, 2010|archive-url=https://web.archive.org/web/20100527205350/http://www.rcc.edu/riverside/|url-status=dead}}</ref>
+*Riverside Royals College
+* [[University of California, Riverside]]<ref>{{cite web|url=http://www.ucr.edu/about/|title=About UCR|work=University of California, Riverside |access-date=October 8, 2010|archive-date=February 18, 2017|archive-url=https://web.archive.org/web/20170218224436/https://www.ucr.edu/about/|url-status=dead}}</ref><ref>{{cite news|last=Medina|first=Jennifer|title=California Cuts Threaten the Status of Universities|url=https://www.nytimes.com/2012/06/02/us/california-cuts-threaten-the-status-of-universities.html |url-access=subscription |access-date=November 4, 2014|work=NY Times|date=June 1, 2012|quote=Students at the University of California, Riverside, taking a midterm exam in a psychology class that has an enrollment of 570.}}</ref><ref>{{cite news|title=California Researchers Find New Tool Against the Asian Citrus Psyllid|url=http://entomologytoday.org/2014/10/27/california-researchers-find-new-tool-against-the-asian-citrus-psyllid/|agency=Entomology Today|date=October 27, 2014|quote=Now a research team at the University of California, Riverside has found a new tool that targets the ACP's olfactory system, and they've identified a suite of odorants (odor molecules) that the insect detects. Some of these odorants can modify the behavior of ACP and may lead to the development of tools to tackle its spread. |url-status=live |archive-url= https://web.archive.org/web/20230529032235/https://entomologytoday.org/2014/10/27/california-researchers-find-new-tool-against-the-asian-citrus-psyllid/ |archive-date= May 29, 2023 }}</ref>
+
+===Vocational schools===
+* [[Brightwood College]]
+* UEI College
+* Platt College
+* American College of Healthcare
+* Masters Vocational College
+* US College
+* Northwest College
+
+===Secondary schools===
+
+====Public school districts and high schools====
+Riverside is served by two school districts:
+* [[Riverside Unified School District]] serves eastern Riverside.<ref name=Censusschools2020>{{cite web|url=https://www2.census.gov/geo/maps/DC2020/PL20/st06_ca/schooldistrict_maps/c06065_riverside/DC20SD_C06065.pdf|title=2020 census - school district reference map: Riverside County, CA|publisher=[[U.S. Census Bureau]]|page=2 (PDF p. 3/6)|accessdate=July 10, 2021}}</ref>
+** High schools include:
+*** [[Arlington High School (Riverside, California)|Arlington High School]]<ref>{{cite web |url=http://www.rusd.k12.ca.us/schools/SchoolIntro.aspx?sub=ss&nws=0&cl=310 |title=  Arlington High School |website=Riverside Unified School District  |archive-url=https://web.archive.org/web/20111002084438/http://www.rusd.k12.ca.us/schools/SchoolIntro.aspx?sub=ss&nws=0&cl=310 |archive-date=October 2, 2011 }}</ref>
+*** [[Martin Luther King High School (Riverside, California)|Martin Luther King High School]]
+*** [[John W. North High School]]
+*** [[Riverside Polytechnic High School]] also known as Poly High School
+*** [[Ramona High School (Riverside, California)|Ramona High School]]
+*** Riverside Virtual School
+*** Riverside STEM High School
+** [[Continuation high school]]s include:
+*** Abraham Lincoln High School (continuation)
+*** Raincross High School (continuation)
+*** Summit View High School (continuation)
+* [[Alvord Unified School District]] serves western Riverside.<ref name=Censusschools2020/>
+** High schools include:
+*** [[La Sierra High School]]
+*** [[Norte Vista High School]]
+*** [[Hillcrest High School (Riverside, California)|Hillcrest High School]]
+** Continuation high schools include:
+*** Alvord High School (continuation)
+
+A portion of eastern Riverside is in [[Moreno Valley Unified School District]].<ref name=Censusschools2020/>
+
+=====Other public secondary schools=====
+Two notable institutions of learning, for specified student bodies, are also located in Riverside:
+* [[California School for the Deaf, Riverside]] (CSDR) for the Deaf and Hard of Hearing from Preschool to 12th grade has been open since 1952.<ref>{{cite web|url=http://csdr-cde.ca.gov/history/|title=History |work=California School for the Deaf, Riverside }}</ref>
+* [[Sherman Indian High School]] of the [[Bureau of Indian Education]],<ref>{{cite web |url-status=dead |url=http://www.bie.edu/idc/groups/xbie/documents/text/idc-008039.pdf |publisher=Department of the Interior |title=Bureau of Indian Education, National Directory |date=December 2011 |page=25 |archive-url=https://web.archive.org/web/20131017092932/http://www.bie.edu/idc/groups/xbie/documents/text/idc-008039.pdf |archive-date=October 17, 2013 }}</ref> is for Native American tribal members from 9th to 12th grade; it has been open since 1878.
+
+====Private secondary schools====
+* Bethel Christian School<ref>{{cite web|url=http://www.bethelchristiancenter.cc/pages/schools.html|title=Bethel Christian Schools |website=Bethel Christian Center |access-date=October 8, 2010|archive-url=https://web.archive.org/web/20100925064852/http://www.bethelchristiancenter.cc/pages/schools.html|archive-date=September 25, 2010|url-status=dead}}</ref>
+* Eastside Christian Academy
+* Harvest Christian school<ref>{{cite web|url=http://harvestchristianschool.org/#|title=Harvest Christian School|website=Harvest Christian School|date=January 22, 2015}}</ref>
+* [[La Sierra Academy]]<ref>{{cite web|url=http://lsak12.com/highschool.htm|title=LSA High School|work=lsak12.com|access-date=October 8, 2010|archive-date=October 11, 2010|archive-url=https://web.archive.org/web/20101011000908/http://lsak12.com/highschool.htm|url-status=dead}}</ref> (Seventh-day Adventist)
+* [[Notre Dame High School (Riverside, California)|Notre Dame High School]]<ref>{{cite web|url=http://www.ndhsriverside.org/|title=Notre Dame High School|website=Notre Dame High School|access-date=October 8, 2010|archive-date=July 15, 2010|archive-url=https://web.archive.org/web/20100715211623/http://www.ndhsriverside.org/|url-status=dead}}</ref> (Roman Catholic)
+* Riverside Christian High School<ref>{{cite web|url=http://www.rivchristian.org/|title=Riverside Christian Schools|work=rivchristian.org}}</ref>
+* [[Woodcrest Christian High School]]<ref>{{cite web|url=http://hs.woodcrestchristian.org/|title=Woodcrest Christian High School|access-date=October 8, 2010|archive-url=https://web.archive.org/web/20100913171920/http://hs.woodcrestchristian.org/|archive-date=September 13, 2010|url-status=dead}}</ref>
+* Islamic Academy of Riverside<ref>{{cite web|url= https://islamicacademyofriverside.org/|title= Islamic Academy of Riverside}}</ref>
+*Carniege Schools Riverside
+
+===Initiative to raise college graduation rates===
+Riverside won a $3 million grant from the [[Bill and Melinda Gates Foundation]] in 2010. As a result, the Completion Counts initiative was created as a joint partnership by the city of Riverside, [[Riverside City College]], [[Alvord Unified School District]], [[Riverside Unified School District]], [[Riverside County Office of Education]], [[UC Riverside]], and the Greater Riverside Chambers of Commerce to double college graduation rates by 2020. Only Riverside, [[New York City]], [[San Francisco]], and [[Mesa, Arizona]] received such a grant.
+
+The partnership is creating measures that help students across Riverside earn a degree. For example, RCC will now give 2012 graduates of AUSD and RUSD priority class registration, and a two-year guarantee to complete an associate degree or transfer to a four-year university.<ref>{{cite web|url=http://www.pe.com/local-news/topics/topics-education-headlines/20120306-riverside-rcc-trustees-hear-two-year-guarantee-plan.ece|title=Riverside: RCC trustees hear two-year guarantee plan|work=Press Enterprise|access-date=March 23, 2012|archive-date=March 10, 2012|archive-url=https://web.archive.org/web/20120310061033/http://www.pe.com/local-news/topics/topics-education-headlines/20120306-riverside-rcc-trustees-hear-two-year-guarantee-plan.ece|url-status=dead}}</ref> Completion Counts is also ensuring that AUSD, RUSD and RCC work together to create a seamless math and English curriculum to prepare students for college-level work. High school and college student counselors are meeting regularly to agree on the best ways to get students ready for college.
+
+==Media==
+{{Riverside Radio}}
+Riverside is the home to the [[Fox Performing Arts Center]]. The theater is best known for being the first theater to screen the&nbsp;most successful film in box-office history&nbsp;when adjusted for inflation, the 1939 film&nbsp;[[Gone with the Wind (film)|''Gone with the Wind'']].<ref>{{cite web|url=https://riversidecvb.com/blog/activity/fox-performing-arts-center/|title=Fox Performing Arts Center - World Class Venue - Riverside}}</ref>
+
+==Transportation==
+[[File:UP business train on Santa Ana River Viaduct, May 2013 (cropped).jpg|thumb|left|The Santa Ana River Viaduct]]
+
+===Highways===
+Riverside is served by three major freeways: [[Interstate 215 (California)|I-215]], [[California State Route 60|State Route 60]], and [[California State Route 91|State Route 91]]. These three freeways meet in northeastern Riverside at a multi-level interchange that was rebuilt in 2007.<ref>{{cite web|url=http://www.pe.com/localnews/inland/stories/PE_News_Local_D_flyover25.1959457.html|title=News : Press Enterprise|work=pe.com|access-date=January 10, 2008|archive-date=July 4, 2008|archive-url=https://web.archive.org/web/20080704132927/http://www.pe.com/localnews/inland/stories/PE_News_Local_D_flyover25.1959457.html|url-status=dead}}</ref>
+
+===Rail lines===
+{{See also|Riverside (Amtrak station)|Riverside-La Sierra (Metrolink station)}}
+[[File:Train in citrus groves in Riverside, California (CHS-1636).jpg|thumb|Southern Pacific Railroad train running through the tracks in an orange grove in Riverside, California, {{circa|1910}}]]
+The city contains three [[Metrolink (California)|Metrolink]] commuter rail stations: {{scax|Riverside-Downtown}}, {{scax|Riverside-La Sierra}}, and {{scax|Riverside-Hunter Park/UCR}}. The first two are both served by the [[91/Perris Valley Line|91/Perris Valley]] and [[Inland Empire–Orange County Line|Inland Empire-Orange County]] lines, and the Downtown station is served by the [[Riverside Line]] on weekdays, and the [[San Bernardino Line]] on weekends. The Hunter Park station is served by the 91/Perris Valley Line on weekdays only. [[Amtrak]]'s [[Southwest Chief]], which runs from [[Los Angeles]] to [[Chicago]], also serves the city.
+
+===Bus lines===
+Local bus service is provided by the [[Riverside Transit Agency]].<ref>[http://www.riversidetransit.com Riverside Transit Agency].</ref> Intercity bus service is provided by [[Omnitrans]] [[Greyhound Lines]], [[Amtrak California]], and a handful of small operators serving the cross-border market into [[Mexico]].
+
+===Airports===
+The nearest airport for commercial airline service is [[Ontario International Airport]] in [[Ontario, California]]. The [[Riverside Municipal Airport]] is an airport within Riverside city limits, but it does not have commercial airline service. It is primarily used for private aviation and is also the location for the annual Riverside Air Show.
+
+==Notable people==
+<!-- Please do not add individual names here, please add to appropriate list below -->
+{{Main|List of people from Riverside, California}} 
+{{See also|List of University of California, Riverside people}}
+
+==Sister cities==
+[[File:Sister City Sign for Riverside, California.jpg|thumb|left|Sister city sign in front of White Park in downtown Riverside]]
+{{Sister cities
+|boxname={{nowrap|Sister cities of Riverside, California}}<ref>{{cite web|title=Riverside's Sister Cities|url=http://www.riversideca.gov/mayor/international.asp|year=2009|publisher=City of Riverside, California|access-date=August 5, 2009|archive-url=https://web.archive.org/web/20151221025509/https://www.riversideca.gov/mayor/international.asp|archive-date=December 21, 2015|url-status=dead}}</ref>
+|city1=[[Sendai]], [[Japan]]
+|country1=Japan
+|city2=[[Cuautla, Morelos]], [[Mexico]]
+|country2=Mexico
+|city3=[[Ensenada, Baja California|Ensenada]], [[Mexico]]
+|country3=Mexico
+|city4=[[Jiangmen]], [[People's Republic of China]]
+|country4=China
+|city5=[[Gangnam-gu|Gangnam]], [[South Korea]]
+|country5=South Korea
+|city6=[[Hyderabad]], [[India]]
+|country6=India
+|city7=[[Obuasi]], [[Ghana]]
+|country7=Ghana
+|city8=[[Erlangen]], [[Germany]]
+|country8=Germany
+|city9=[[Can Tho]], [[Vietnam]]
+|country9=Vietnam
+}}
+{{SisterCities|Riverside|nine}}
+
+The Sendai Committee is working on setting up a secure e-pal system whereby the residents of Sendai and Riverside can exchange emails in a fashion similar to pen pals. The aim is to promote grassroots cultural exchange between the two sister cities.
+
+The city of Riverside established an economic partnership program with the state of [[Oaxaca]], [[Mexico]], in the early 2000s.
+{{clear}}
+
+==See also==
+{{Portal|Greater Los Angeles}}
+* [[California Riverside Ballet]]
+* [[Largest cities in Southern California]]
+* [[Ranchos of California]]
+* [[Saint Andrew Orthodox Christian Church]]
+* [[List of U.S. cities with large Hispanic populations]]
+{{clear}}
+
+==References==
+
+===Bibliography===
+* Brown Jr, John and James Boyd. ''History of San Bernardino and Riverside Counties; With Selected Biography of Actors and Witnesses of the Period of Growth and Achievement'', 3 volumes, The Western Historical Association, 1922. The Lewis Publishing Company, Chicago.
+* Gunther, Jane Davies. ''Riverside County, California, Place Names; Their Origins and Their Stories'', Riverside. 1984. {{LCCN|8472920}}.
+* Patterson, Tom. ''A Colony For California; Riverside's First Hundred Years''. Second Edition 1996. The Museum Press of the Riverside Museum Associates, Riverside. {{ISBN|0935661247}}.
+* Patterson, Tom. ''Landmarks of Riverside; and the Stories Behind Them''. 1964. Press~Enterprise Co., Riverside. {{LCCN|6415204}}.
+
+===Citations and notes===
+{{Reflist}}
+
+==Further reading==
+* Durian, Hal (2013). ''True Stories of Riverside and the Inland Empire''. Charleston, SC: The History Press. {{ISBN|978-1-6094-9773-6}}. {{OCLC|822895113}}
+* Hall, Joan H. (2003). ''Cottages, Colonials and Community Places of Riverside, California''. Riverside, CA: Highgrove Press. {{ISBN|0-9631618-5-7}}. {{OCLC|55511547}}
+* Klotz, Esther H.; Hall, Joan H. (2005). ''Adobes, Bungalows, and Mansions of Riverside, California''. Riverside, CA: Highgrove Press. {{ISBN|0-9631618-6-5}}. {{OCLC|57498974}}
+* Klotz, Esther H. (1972). ''Riverside and the Day the Bank Broke''. Riverside, CA: Rubidoux Press. {{OCLC|532580}}
+* {{cite book|last=Lech|first=Steve|title=Riverside 1870–1940|year=2007|publisher=Arcadia Publishing|location=Charleston, SC|isbn=978-0-7385-4716-9 |oclc=127273299}}
+
+==External links==
+{{sister project links}}
+* {{Official website}}
+* [http://www.Riversider.org/ Riverside History]
+* {{Wikivoyage inline|Riverside}}
+
+{{Geographic location
+|Northwest = ''[[Santa Ana River]]''<br />[[Jurupa Valley, California|Jurupa Valley]]
+|North = [[Bloomington, California|Bloomington]]<br />[[Rialto, California|Rialto]]
+|Northeast = [[Colton, California|Colton]]<br />[[Grand Terrace, California|Grand Terrace]]
+|West = [[Norco, California|Norco]]
+|Center = Riverside
+|South = [[Lake Mathews]]<br />[[Woodcrest, California|Woodcrest]]
+|Southwest = [[Corona, California|Corona]]
+|Southeast = [[Moreno Valley, California|Moreno Valley]]<br />[[March Air Reserve Base]]
+|East = ''[[Box Springs Mountain]]''
+|}}
+{{Riverside, California}}
+{{California county seats}}
+{{Riverside County, California}}
+{{Inland Empire}}
+{{Greater Los Angeles Area}}
+{{Southern California megaregion}}
+{{USPopulousCities}}
+{{authority control}}
+
+[[Category:Riverside, California| ]]
+[[Category:Cities in Riverside County, California]]
+[[Category:County seats in California]]
+[[Category:Populated places on the Santa Ana River]]
+[[Category:Incorporated cities and towns in California]]
+[[Category:Inland Empire]]
+[[Category:Populated places established in 1883]]
+[[Category:1883 establishments in California]]
+[[Category:Chicano and Mexican neighborhoods in California]]

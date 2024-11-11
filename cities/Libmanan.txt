@@ -1,0 +1,665 @@
+{{Short description|Municipality in Camarines Sur, Philippines}}
+{{Use Philippine English|date=February 2023}}
+{{Use mdy dates|date=February 2023}}
+{{more citations needed|date=January 2013}}
+{{Infobox settlement
+| name                     = {{PH wikidata|name}}
+| image_skyline            = JHernandez Park Libmanan.jpg
+| image_caption            = J. Hernandez Park Libmanan
+| image_flag               = Flag_of_Libmanan,_Camarines_Sur.png
+| flag_size                = 120x80px
+| image_seal               = Libmananseal2.png
+| seal_size                = 100x80px
+| image_map                = {{PH wikidata|image_map}}
+| map_caption              = {{PH wikidata|map_caption}}
+| image_map1               = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map              = Philippines
+| pushpin_label_position   = right
+| pushpin_map_caption      = Location within the {{PH wikidata|country}}
+| coordinates              = {{PH wikidata|coordinates}}
+| settlement_type          = {{PH wikidata|settlement_type}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = [[Philippines]]
+| subdivision_type1        = [[Regions of the Philippines|Region]]
+| subdivision_name1        = {{PH wikidata|region}}
+| subdivision_type2        = [[Provinces of the Philippines|Province]]
+| subdivision_name2        = {{PH wikidata|province}}
+| official_name            = {{PH wikidata|official_name}}
+| native_name              = 
+| other_name               = 
+| nickname                 = ''Rice Granary of Camarines Sur''
+| motto                    = 
+| anthem                   = 
+| subdivision_type3        = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3        = {{PH legislative district}}
+| established_title        = [[Date of establishment|Founded]]
+| established_date         = April 3, 1574
+| parts_type               = [[Barangay]]s
+| parts_style              = para
+| p1                       = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title             = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name              = Jesus F. Camara
+| leader_title1            = [[Vice Mayor]]
+| leader_name1             = Jerry R. Tendero
+| leader_title2            = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2             = Luis Raymund F. Villafuerte Jr.
+| leader_title3            = [[Sangguniang Bayan|Municipal Council]]
+| leader_name3             = {{PH Town Council
+| 1 = <div style="border-style:solid none; border-width:thin; border-color:Gainsboro; background:#e6e6e6; text-align:center; width:95%; font-variant:small-caps;"></div>
+ | 2=Gerymar M. Atienza
+ | 3=Dante J. Mopera
+ | 4=Gerymar M. Atienza
+ | 5=Jose J. San Buenaventura Jr.
+ | 6=Fredis R. Opancia
+ | 7=Darius S. Nopra
+ | 8=Edelson M. Marfil
+ | 9=Romel T. Bulaong
+}}
+| leader_title4            = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4             = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type          = {{PH wikidata|government_type}}
+| government_footnotes     = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m              = {{PH wikidata|elevation_m}}
+| elevation_max_m          = 55
+| elevation_min_m          = -2
+| elevation_max_rank       = 
+| elevation_min_rank       = 
+| elevation_footnotes      = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes  = 
+| elevation_min_footnotes  = 
+| area_footnotes           = {{PH area}}
+| area_total_km2           = {{PH wikidata|area}}
+| population_footnotes     = {{PH census|current}}
+| population_total         = {{PH wikidata|population_total}}
+| population_as_of         = {{PH wikidata|population_as_of}}
+| population_density_km2   = auto
+| population_blank1_title  = [[Household]]s
+| population_blank1        = {{PH wikidata|household}}
+| population_blank2_title  = 
+| population_blank2        = 
+| population_demonym       = 
+| population_rank          = 
+| population_note          = 
+| timezone                 = [[Philippine Standard Time|PST]]
+| utc_offset               = +8
+| postal_code_type         = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code              = {{PH wikidata|postal_code}}
+| postal2_code_type        = {{PSGCstyle}}
+| postal2_code             = {{PSGC detail}}
+| area_code_type           = {{areacodestyle}}
+| area_code                = {{PH wikidata|area_code}}
+| website                  = {{PH wikidata|website}}
+| demographics_type1       = [[Economy of the Philippines|Economy]]
+| demographics1_title1     = {{PH wikidata|income_class_title}}
+| demographics1_info1      = {{PH wikidata|income_class}}
+| demographics1_title2     = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2      = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3     = [[Revenue]]
+| demographics1_info3      = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4     = Revenue rank
+| demographics1_info4      = 
+| demographics1_title5     = [[Asset]]s
+| demographics1_info5      = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6     = Assets rank
+| demographics1_info6      = 
+| demographics1_title7     = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7      = 
+| demographics1_title8     = IRA rank
+| demographics1_info8      = 
+| demographics1_title9     = [[Expenditure]]
+| demographics1_info9      = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10    = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10     = 
+| demographics_type2       = Service provider
+| demographics2_title1     = Electricity
+| demographics2_info1      = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2     = Water
+| demographics2_info2      = 
+| demographics2_title3     = Telecommunications
+| demographics2_info3      = 
+| demographics2_title4     = Cable TV
+| demographics2_info4      = 
+| demographics2_title5     = 
+| demographics2_info5      = 
+| demographics2_title6     = 
+| demographics2_info6      = 
+| demographics2_title7     = 
+| demographics2_info7      = 
+| demographics2_title8     = 
+| demographics2_info8      = 
+| demographics2_title9     = 
+| demographics2_info9      = 
+| demographics2_title10    = 
+| demographics2_info10     = 
+| blank_name_sec1          = {{PH wikidata|climate_title}}
+| blank_info_sec1          = {{PH wikidata|climate_type}}
+| blank1_name_sec1         = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1         = {{PH wikidata|language}}
+| blank2_name_sec1         = [[Crime index]]
+| blank2_info_sec1         = 
+| blank3_name_sec1         = 
+| blank3_info_sec1         = 
+| blank4_name_sec1         = 
+| blank4_info_sec1         = 
+| blank5_name_sec1         = 
+| blank5_info_sec1         = 
+| blank6_name_sec1         = 
+| blank6_info_sec1         = 
+| blank7_name_sec1         = 
+| blank7_info_sec1         = 
+| blank1_name_sec2         = Major religions
+| blank1_info_sec2         = 
+| blank2_name_sec2         = Feast date
+| blank2_info_sec2         = 
+| blank3_name_sec2         = Catholic diocese
+| blank3_info_sec2         = 
+| blank4_name_sec2         = Patron saint
+| blank4_info_sec2         = 
+| blank5_name_sec2         = 
+| blank5_info_sec2         = 
+| blank6_name_sec2         = 
+| blank6_info_sec2         = 
+| blank7_name_sec2         = 
+| blank7_info_sec2         = 
+| short_description        = 
+| footnotes                = 
+| elevation_max_ft         = 2480
+| elevation_max_point      = [[Mount Bernacci]]
+}}
+'''Libmanan''', officially the '''Municipality of Libmanan''' ({{lang-bcl|Banwaan kan Libmanan}}; {{lang-tl|Bayan ng Libmanan}}), is a 1st class [[municipality of the Philippines|municipality]] in the [[Philippine Province|province]] of [[Camarines Sur]], [[Philippines]]. According to the 2020 census, it has a population of 112,994 people.{{PH census|current}} Libmanan is the largest municipality in Camarines Sur in terms of population, and the second largest in terms of land area.
+
+The municipality's history dates back to before the beginning of Spanish colonization, and its city center is home to a number of beautiful historic [[Art Deco]] buildings including the palatial Morales Ruins which soar over the road entering Libmanan proper.
+
+==History==
+
+Libmanan was a barrio of Quipayo in 1580 with the name of "Pinaglabanan". Records from a historian Mauro B. Avila, revealed that the municipality was named Libmanan on September 15, 1574. Missionaries started working in Libmanan in 1589 and the area's church was dedicated to St. James the Apostle.
+
+German ethnographer [[Fedor Jagor]] described visiting Libmanan in his 1875 work "Travels in the Philippines", wherein he visited the local parish priest and learned from him about an ancient human settlement that had been dug up in 1851 during road construction in the Poro area of the southwest close near the Tres Marias islands: the excavation consisted of "numerous remains of the early inhabitants—skulls, ribs, bones of men and animals, a child’s thighbone inserted in a spiral of brass wire, several stags’ horns, beautifully-formed dishes and vessels, some of them painted, probably of Chinese origin; striped bracelets, of a soft, gypseous, copper-red rock, gleaming as if they were varnished; small copper knives, but no iron utensils; and several broad flat stones bored through the middle; besides a wedge of petrified wood, embedded in a cleft branch of a tree."<ref>{{cite book|last=Jagor|first=Fedor|date=1875|title=Travels in the Philippines|url=https://www.gutenberg.org/files/10770/10770-h/10770-h.htm|location=London|publisher=Chapman and Hall|page=155|isbn=9781230389998}}</ref>
+
+During the occupation of their country by the [[United States]], the [[Philippine Legislature]] greatly expanded the network of railroads throughout the island of [[Luzon]], and a railway headed to the city of [[Legazpi, Albay]] and [[Naga, Camarines Sur]] was built through Libmanan to provide direct access to those cities.<ref>{{cite web|url=http://pnr.gov.ph/history.htm|archive-url=https://web.archive.org/web/20090227040648/http://pnr.gov.ph/history.htm|archive-date=2009-02-27|title=Home}}</ref> This railway was damaged severely during [[World War II]], but partially restored using American funds thereafter, providing transportation service down the [[Bicol Peninsula]] off and on until ending in 2012 despite plans to rehabilitate the route.<ref>{{cite web|url=http://www.rappler.com/nation/94477-pnr-bicol-train-december-2015|title = PNR eyeing resumption of Bicol trips by December|date = 27 May 2015}}</ref>
+
+The historic Morales Ruins Art Deco mansion at the heart of the town was built in 1937 by the Rev. Friar Mariano Roldan for his parents, and was eventually sold to the Morales family whose name the ruins now bear. It is noted for art deco frescos which are emblematic of the period in which it was built, one of which includes a defiantly displayed Filipino national flag, which would have been disallowed by the American and Japanese occupiers of the time.<ref>{{cite web |url-access=limited |archive-url=https://ghostarchive.org/iarchive/facebook/1890178787875393/2311069322453002 |archive-date=2022-04-30 |url=https://www.facebook.com/LIBHISCULSOC/posts/roldans-ancestral-housepoblacion-libmanan-camarines-sur-this-house-is-the-roldan/2311069322453002/ |title=Libmanan Historico Cultural Society on Facebook |website=[[Facebook]]}}{{cbignore}}{{User-generated source|certain=yes|date=March 2022}}</ref>
+
+Even during the time of the Spaniards, the town of Libmanan was already considered the "rice basket" of the province.{{citation needed|date=March 2016}} This generous production of rice is attributed to the fertile soil and the town's abundant water supply. In 1991 the area's irrigation canals (shared with its northern neighbor [[Cabusao, Camarines Sur]]) were sufficient to water 2996 hectares of land during the dry season.<ref>{{cite book |last1=Bagdion |first1=Benjamin |title=Joint Management of the Libmanan-Cabusao Pump Irrigation System between Farmers and the National Irrigation Administration in the Philippines|date=1991|publisher=International Water Management Institute|pages=1–4|url=http://publications.iwmi.org/pdf/H043548.pdf|accessdate=19 June 2014}}</ref>
+
+Barangay Poblacion is often referred by locals as "Libmanan" while the surrounding urban Barangays are referred to as "Metropolitan Libmanan" or "Greater Poblacion Area" unofficial.
+
+===Important dates and events===
+{{citation needed|date=March 2016}}
+*The first name of town was "Piglabanan".
+*March 18, 1484: Invasion of the Moros; those who killed were buried beside the Present Church.
+*February 1572: Construction of the First Church.
+*September 15, 1574: Changing the town name from Piglabanan to Libmanan by fray Bartolome Cabello.
+*1586-1589: Construction of the Second Church of Libmanan.
+*1732: Start of the first town government of Libmanan.
+*1838: Construction of Catholic Cemetery In Barangay Puro Batia.
+*1903: Founding of the first public schools.
+*1915: Construction of the municipal cemetery In Barangay Puro Batia.
+*1921: Construction of the Rizal Monument.
+*1927: Passing of the MRR Co. in Libmanan.
+*1929: Construction of MRR Co. ([[Philippine National Railways]]) Bridge.
+*1930-31: Installation of the water system.
+*1933: Construction of first and second market pavilion.
+*1939-40: Construction of a concrete municipal hall under Mayor Francisco Frondozo.
+*1941: Construction of the post office under Mayor Teodoro Dilanco
+*March 3, 1951: Naming of Barangay Bagumbayan by Municipal Council.
+*1954-57: Construction of the municipal irrigation system.
+*1955: Renaming the streets of the Poblacion and improvement of the Town Plaza.
+*1956: Construction of the 30-Door Market.
+*May 1957: Dredging of the [[Bicol River|Libmanan River]]
+*1957: Construction of a two-story building for the private Central School and also a public toilet.
+*March 1961: Construction of the concrete Easter tower under Mayor Amadeo Castaneda.
+*1978: Construction of the Bulaong Bridge.
+*1993: Construction of the Libmanan Town Arc in Barangay Potot.
+*2015: The [[Canonical coronation]] of the venerated statue of Our Lady of the Pillar who is the patroness of the [[Diocese of Libmanan]]
+*September 2020: Redevelopment of Market in the Poblacion Area
+*2021 to 22: Developments and redevelopments of roads both in rural and urban areas.
+*February 2023: Filing for cityhood by Mayor Jess Camara.
+
+==Geography==
+[[File:The puro island.jpg|thumbnail|right|Puro Island in [[Ragay Gulf]]]]
+Libmanan has 3 sectors built up areas, flat land areas and mountainous land. 13,940 ha are flat land 19,239 ha are mountainous land and the remaining 1,103 ha are built up areas. Totalling in 34,282 hectares.
+
+Libmanan is a large municipality, one of the biggest in Camarines Sur. It stretched across nearly the whole width of the Bicol peninsula, from where it borders Cabusao Municipality on the San Miguel Bay all the way out to [[Ragay Gulf]], including three islands known locally as the 'tres Marias', including one island known as 'puro island'. The main town, or 'poblacion', is located along the [[Bicol River|Libmanan River]] on the lowland alluvial plain adjacent to Cabusao.
+
+Heading to the southern coast from the poblacion the municipality becomes hilly. In this hilly region between the poblacion and the highway lies the [[Libmanan Caves National Park]]. Continuing on towards the coast from the hills, the municipality becomes truly mountainous beginning in Barangay Malinao beyond the [[Pan-Philippine Highway]], where the "Boro-Boro Spring Resort" is located; a series of waterfalls that are a locally popular swimming destination.<ref>{{cite web|last1=malinao libmanan|title = Malinao libmanan|url=https://www.youtube.com/watch?v=_NwDJ0ZEKgQ |archive-url=https://ghostarchive.org/varchive/youtube/20211221/_NwDJ0ZEKgQ |archive-date=2021-12-21 |url-status=live|website=Youtube|accessdate=10 July 2014}}{{cbignore}}</ref> Beyond Malinao the upland region features the mountain '[[Mount Bernacci]] (Tancong Vaca' - in the local dialect meaning 'the cow's hump') - which is a local landmark visible from most locations on the [[Pan-Philippine Highway]] in western Camarines Sur and was a base of operations for local guerrillas fighting the Japanese during [[World War II]].<ref>{{cite journal|last1=Escandor|first1=Juan|title=Homegrown WW2 vets wait to receive call for recognition|journal=Bicol Mail|date=March 5, 2009|volume=25|issue=38}}</ref> Up to the present day, the area around Tancong Vaca has remained an area of conflict between anti-government insurgents and the [[Philippine National Police]].<ref>{{cite web|url=http://bicoltoday.com/2015/03/23/npa-warns-camarines-sur-mayors-on-allowing-town-cops-in-counter-insurgency-combat-operations/|title=NPA warns Camarines Sur Mayors on allowing town cops in counter-insurgency combat operations.|date=23 March 2015|website=bicoltoday.com|publisher=Bicol Today|access-date=25 March 2016|quote=The warning came up when four (4) policemen were wounded by guerillas of the Norben Gruta Command-New People’s Army (NGC-NPA) in a firefight Friday, March 13, at Barangays Pag-oring and Malinao in Libmanan, Camarines Sur.}}</ref>
+
+The municipality's rural barangays lie behind Mount Bernacci, and mostly lack access to paved roads, of which there is only one which terminates in the fishing village of Barangay Bahao, within sight of the tres Marias.
+
+===Climate===
+{{Weather box
+| location     = Libmanan, Camarines Sur
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 33
+| Jan low C  = 27
+| Feb high C = 31 
+| Feb low C  = 27
+| Mar high C = 35
+| Mar low C  = 29
+| Apr high C = 37
+| Apr low C  = 31
+| May high C = 38
+| May low C  = 32
+| Jun high C = 37
+| Jun low C  = 32
+| Jul high C = 36
+| Jul low C  = 30
+| Aug high C = 34
+| Aug low C  = 29
+| Sep high C = 35
+| Sep low C  = 30
+| Oct high C = 34
+| Oct low C  = 29
+| Nov high C = 33
+| Nov low C  = 28
+| Dec high C = 32
+| Dec low C  = 28
+| Jan precipitation mm = 44.2
+| Jan rain days        = 21
+| Feb precipitation mm = 52.17
+| Feb rain days        = 22
+| Mar precipitation mm = 45.43
+| Mar rain days        = 19
+| Apr precipitation mm = 54.15
+| Apr rain days        = 19
+| May precipitation mm = 92.29
+| May rain days        = 24
+| Jun precipitation mm = 182.23
+| Jun rain days        = 26
+| Jul precipitation mm = 289.11
+| Jul rain days        = 30
+| Aug precipitation mm = 260.6
+| Aug rain days        = 29
+| Sep precipitation mm = 180.07
+| Sep rain days        = 27
+| Oct precipitation mm = 340.22
+| Oct rain days        = 29
+| Nov precipitation mm = 98.7
+| Nov rain days        = 24
+| Dec precipitation mm = 337.4
+| Dec rain days        = 29
+| source 1 = World Weather Online <small>(modeled/calculated data, not measured locally)</small><ref name="met_norms">
+{{cite web 
+| url = https://www.worldweatheronline.com/libmanan-weather-averages/camarines-sur/ph.aspx 
+| title = Libmanan, Camarines Sur: Average Temperatures and Rainfall
+| publisher = World Weather Online
+| accessdate = 29 October 2017}}</ref>
+| date = 29 October 2017
+}}
+
+===Barangays===
+Libmanan is politically subdivided into 75 [[barangay]]s. Each barangay consists of [[purok]]s and some have [[sitios]].
+
+Currently, there are 5 of which located in the coastal areas and the remaining 70 barangays are distributed in the low land and upland portions of the municipality. Its town center, [[poblacion]] or centro, is {{convert|7.7|km}} away from the National Highway. The road leading to Poblacion and other major baranggays is marked by a memorial for the Ten Outstanding Young Men trophy awarded to a past mayor and local hero, Jose Bulaong.
+{{Div col|colwidth=15em}}
+* Aslong
+* Awayan
+* Bagacay
+* Bagadion
+* Bagamelon
+* Bagumbayan
+* Bahao
+* Bahay
+* Beguito Nuevo
+* Beguito Viejo
+* Bigajo Norte
+* Bigajo Sur
+* Bikal
+* Busak
+* Caima
+* Calabnigan
+* Camambugan
+* Cambalidio
+* Candami
+* Candato
+* Cawayan
+* Concepcion
+* Cuyapi
+* Danawan
+* Duang Niog
+* Handong
+* Ibid
+* Inalahan
+* Labao
+* Libod I
+* Libod II
+* Loba-loba
+* Mabini
+* Malansad Nuevo
+* Malansad Viejo
+* Malbogon
+* Malinao
+* Mambalite
+* Mambayawas
+* Mambulo Nuevo
+* Mambulo Viejo
+* Mancawayan
+* Mandacanan
+* Mantalisay
+* Padlos
+* Pag-Oring Nuevo
+* Pag-Oring Viejo
+* Palangon
+* Palong
+* Patag
+* Planza
+* Poblacion
+* Potot
+* Puro-Batia
+* Rongos
+* Salvacion
+* San Isidro
+* San Juan
+* San Pablo
+* San Vicente
+* Sibujo
+* Sigamot
+* Station-Church Site
+* Taban-Fundado
+* Tampuhan
+* Tanag
+* Tarum
+* Tinalmud Nuevo
+* Tinalmud Viejo
+* Tinanquihan
+* Udok
+* Umalo
+* Uson
+* Villasocorro
+* Villadima (Santa Cruz)
+{{div col end}}
+
+==Demographics==
+{{Philippine Census
+| align= none
+| cols = 3
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 6900,000,000
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+===Religion===
+[[File:Nuestra Señora del Pilar de Libmanan.jpg|thumb|upright|The pontifically crowned statue of Nuestra Señora del Pilar de Libmanan who is revered as the Queen and Patroness of the [[Diocese of Libmanan]]]]
+The religious needs of its people and those of neighboring towns prompted the erection of the Prelature of Libmanan in 1990 and installation the first bishop, Msgr. Prospero N. Arellano.  On 25 March 2009 Pope Benedict XVI elevated the prelature to become a diocese with Bishop Jose Rojas Rojas becoming its first bishop.<ref name="vis1">[http://212.77.1.245/news_services/bulletin/news/23602.php?index=23602&lang=en#ELEVAZIONE%20A%20DIOCESI%20DELLA%20PRELATURA%20TERRITORIALE%20DI%20LIBMANAN%20(FILIPPINE)%20E%20NOMINA%20DEL%20PRIMO%20VESCOVO Vatican Daily Bulletin (in Italian)]</ref>
+
+The [[Catholic Bishops' Conference of the Philippines]] lists the following Catholic church parishes of Libmanan:<ref>{{cite web |url=http://www.cbcponline.net/libmanan/html/parishes.html |title=Parishes |access-date=2016-03-26 |archive-date=2011-06-04 |archive-url=https://web.archive.org/web/20110604092552/http://www.cbcponline.net/libmanan/html/parishes.html |url-status=dead }}</ref>
+
+{| class="wikitable" style="text-align:center; margin-right:0.5em"
+|-
+! Parish
+! Barangay
+! Fiesta Day
+|-
+|St. James the Apostle||Libmanan Centro||July 25
+|-
+|Our Lady of Pillar||San Isidro||October 12
+|-
+|St. Vincent Ferrer||San Vicente||April 25
+|-
+|St. Anthony de Padua||Mambulo Nuevo||1st Tuesday of June
+|}
+
+Churches in Libmanan:
+* Santiago el Mayor Cathedral-Parish (est.1586)
+* San Vicente Ferrer Parish (est.1954)
+* Nuestra Señora del Pilar Shrine-Parish (est.1985)
+* Nuestra Señora de Lourdes Parish (est.2000)
+* San Antonio de Padua Parish (est.2001)
+* San José el Patriarca Parish (est.2003)
+* San Francisco de Asís Parish (est.2020)
+
+== Economy ==
+{{PH poverty incidence}}
+
+Libmanan, one of the largest and most populous municipalities in the province, benefits from the transportation being offered by the Libmanan River, the railroad, and the national highway. Though rail service through Libmanan no longer connects directly to Manila there are still commuter trips available bringing passengers to nearby [[Naga, Camarines Sur]] and the route that was reopened in 2015 bringing them all the way to [[Legazpi, Albay]].<ref>{{cite web |url=http://newsinfo.inquirer.net/725131/pnr-starts-train-runs-from-naga-to-legazpi|title=PNR starts train runs from Naga to Legazpi|date=25 September 2015}}</ref>
+
+Generally, Libmanan soil is adapted for growing different agricultural products. Portions are also adopted to pottery-the making of which has been a local industry for centuries. Libmanan has been the “rice-basket” not only of the province but of [[Southern Luzon]]-even during the Spanish regime. In spite of problems encountered by rice farmers, Libmanan maintains its status of being the rice granary of the province.
+
+Libmanan is the heart of the provinces of Camarines Sur, Quezon and Camarines Norte making the municipality the rice basket of Southern Luzon, other than these provinces products can also reach Metro Manila.
+
+Barangays of Bahao, Mambulo Nuevo, San Isidro, Bahay and Sibujo act as rural financial centers.
+
+Rural areas are mostly dependent on agriculture and aquaculture, in the Poblacion District  however, there is an identified mini business district with the new public market and the LCC Supermarket with other small restaurants, banks, mini shops.
+
+== Infrastructure ==
+{{unreferenced section|date=May 2008}}
+Libmanan is connected to Naga City through the Pan Philippine highway or AH26. The Poblacíon can be accessed through Bagacay Road (From South) and the Main Libmanan road (from North). Libmanan has 4 main roads longest one is the Pan Philippine highway that stretches from Beguito Viejo to Mambulo Nuevo second one is Libmanan Canaman Cabusao road that runs from Poblacion Area of Libmanan to Cabusao. Third is Bagacay Road that runs from Barangay Bagacay to the intersection of Libmanan road. The western and coastal Barangays can be reached through the new Bahao road that was constructed in 2019 this road not only serves as an enhancement to tourism but also to trade and industry, however some barangays of Libmanan still need an improvement on road infrastructure otherwise those Barangays will progress slow or even stagnant economy. 
+{{clear left}}
+
+==Heritage==
+The town possess one of the most important cultural examples of ancestral houses in western Camarines Sur. Among these architectural marvels are the 1920s municipal hall building with its arcade-embellished facade, the 1875 Dilanco House which is the oldest structure in the town and was home to three former municipal mayors, the 1937 Morales Ruins which is the most culturally-important Art Deco building in the town, the Nacieno House which is another Art Deco ancestral house, and the 1926 Jaucian House Jose Jaucian Sr. Another ancestral house that was demolished in the late 1970s is the house built by Don Celedonio Reyes, it was demolished to make way for more modern buildings opf the Bicol Central Academy.
+
+Most heritage houses in the town have already been abandoned, including the Morales Ruins, Nacieno House, and the Dilanco  House. In 2013, a campaign was administered by some locals to transform the Morales Ruins into a municipal museum, along with other heritage houses in the town to spur a heritage-based tourism industry and to conserve the remaining immovable cultural heritage of the town.
+
+==Government==
+{{More citations needed|date=March 2016}}
+
+List of former chief executives:
+{{Div col|colwidth=20em}}
+* 1732-1755: Capt. Josep Domingo Ramos
+* 1756-1758: Capt. Feipe Medina
+* 1759-1760: Capt. Jose Guevarra
+* 1761: Capt. Sebastian De la Cruz
+* 1762-1763: Capt. Pascual de Lajor
+* 1764: Capt. Luis Arambulo
+* 1765: Capt. Francisco Severo
+* 1766: Capt. Pedro Simon
+* 1767-1768: Capt. Miguel Damiano
+* 1769: Capt. Antonio De Leon
+* 1770-1771: Capt. Domingo De la Concepcion
+* 1772: Capt. Francisco Catimbang
+* 1773: Capt. Francisco Del Llagas
+* 1774-1777: Capt. Domingo De la Cruz
+* 1778: Capt. Francisco Del Llagas
+* 1779: Capt. Matias Cabanos
+* 1780: Capt. Antonio De Leon
+* 1781: Capt. Miguel Damiano
+* 1782: Capt. Matias Cabanos
+* 1783: Capt. Antonio De Leon
+* 1784: Capt. Domingo De la Concepcion
+* 1785: Capt. Victorino Simon
+* 1786: Capt. Pedro Gonzales
+* 1787: Capt. Tomas Baldesoto
+* 1788: Capt. Domingo De la Concepcion
+* 1789: Capt. Luis Arambulo
+* 1790: Capt. Domingo De la Concepcion
+* 1791: Capt. Nicholas Tolentino
+* 1792: Capt. Victorino Simon
+* 1793: Capt. Francisco Del Llagas
+* 1794: Capt. Juan De la Cruz
+* 1795-1796: Capt. Mateo De la Concepcion
+* 1797: Capt. Miguel De la Concepcion
+* 1798: Capt. Marcelino De la Trinidad
+* 1799: Capt. Pedro Baldesoto
+* 1800: Capt. Francisco Espiritu
+* 1801: Capt. Clemente Eugenio
+* 1802: Capt. Francisco del Llagas
+* 1803: Capt. Juan San Antonio
+* 1804: Capt. Luis Balaguer
+* 1805: Capt. Melchor de los Reyes
+* 1806: Capt. Francisco del Llagas
+* 1807: Capt. Mariano de los Nieves
+* 1808: Capt. Juan San Antonio
+* 1809: Capt. Santiago Arambulo
+* 1810: Capt. Melchor de los Reyes
+* 1811: Capt. Tomas de la Soledad
+* 1812: Capt. Fabiano de Galicia
+* 1813: Capt. Esteban Anunciacion
+* 1814: Capt. Juan Ramirez
+* 1815: Capt. Antonio San Pascual
+* 1816: Capt. Miguel Juliano Francisco
+* 1817: Capt. Jose del Puerto
+* 1818: Capt. Francisco Santa Maria
+* 1819: Capt. Pedro Alcantara
+* 1820: Capt. Pedro Sabino
+* 1821: Capt. Ambrosio de la Cruz
+* 1822: Capt. Francisco Custudio
+* 1823: Capt. Placido Anunciacion
+* 1824: Capt. Matias Manga
+* 1825: Capt. Maximo Fernandez
+* 1826: Capt. Augustin Tolentino
+* 1827: Capt. Placido Anunciacion
+* 1828: Capt. Pedro San Pablo Alcantara
+* 1829: Capt. Maximo Fernandez
+* 1830: Capt. Mariano Villanueva
+* 1831: Capt. Vicente Cabanos
+* 1832: Capt. Ludovico Lopez
+* 1833: Capt. Martin Gonzales
+* 1834: Capt. Carlos de los Santos
+* 1835: Capt. Andres Espiritu
+* 1836: Capt. Pater de Avila
+* 1837: Capt. Hilario Domingo
+* 1838: Capt. Santiago Aguirre
+* 1839-1840: Capt. Maximo Hernandez
+* 1841: Capt. Luis Alcantara
+* 1842: Capt. Sebastian Baldesoto
+* 1843: Capt. Placido Anunciacion
+* 1844: Capt. Francisco Espiritu
+* 1845: Capt. Marianon Natividad
+* 1846: Capt. Isidro Archangel
+* 1847: Capt. Rufino Nacianceno
+* 1848: Capt. Anacleto de los Santos
+* 1849: Capt. Facundo del Pascual
+* 1850: Capt. Francisco Gonzales
+* 1851-1852: Capt. Pacifico Roldan
+* 1853: Capt. Bruno Sol
+* 1854: Capt. Salvador Espiritu
+* 1855: Capt. Mariano Albacarte
+* 1856: Capt. Aniceto Floresca
+* 1857: Capt. Victoriano Bautista
+* 1858: Capt. Casiano Flores
+* 1859: Capt. Mariano Septimo
+* 1860: Capt. Mariano Rubi
+* 1861: Capt. Domingo Durante
+* 1862: Capt. Ramon Hernandez
+* 1863-1864: Capt. Juan Hernandez
+* 1865-1866: Capt. Tomas Durante
+* 1867-1868: Capt. Juan Razonable
+* 1869-1870: Capt. Mariano Angeles
+* 1871-1872: Capt. Agaton Ursua
+* 1873-1874: Capt. Juan Sanchez
+* 1875-1878: Capt. Rufino Hernandez
+* 1879-1880: Capt. Rafael Nacianceno
+* 1881-1882: Capt. Anacleto Atendido
+* 1883-1884: Capt. Rufino Hernandez
+* 1885-1886: Capt. Agustin Abellera
+* 1887: Capt. Vicente Ursua
+* 1888-1889: Capt. Agaton Ursua
+* 1890-1891: Capt. Norberto Durante
+* 1892-1893: Capt. Celedonio Reyes
+* 1894: Capt. Raymundo Espiritu
+* 1895-1898: Capt. Casimiro Onate
+* 1899-1901: Pres. Celedonio Reyes
+* 1902-1903: Pres. Francisco Ursua
+* 1904-1905: Pres. Nicolas Ortiz
+* 1906-1907: Pres. Ligorio Colores
+* 1908-1910: Pres. Nicolas Ortiz
+* 1911-1912: Pres. Antonio Peredo
+* 1913-1915: Pres. Vicente Aureus
+* 1916-1921: Pres. Ramon Hernandez
+* 1922-1926: Pres. Marciano Bagadion
+* 1927-1931: Pres. Macario Zeda
+* 1932-1937: Mayor Teodoro Dilanco
+* 1938-1940: Mayor Francisco Frondozo
+* 1941-1942: Mayor Teodoro Dilanco
+* 1943-1945: Mayor Eliseo Portin
+* 1946-1947: Mayor Policarpo Benitez
+* 1948-1951: Mayor Policarpo Benitez
+* 1952-1955: Mayor Teofilo Dilanco
+* 1956-1959: Mayor Teofilo Dilanco
+* 1960-1971: Mayor Amadeo Castaneda
+* 1972-1979: Mayor Jose Bulaong, M.D.
+* October 1979-April 1980: Actg. Mayor Jose Villaluz, M.D.
+* 1980-1986: Mayor Jose Bulaong, M.D.
+* March 1986-November 1987: Mayor Juan Echano (OIC)
+* December 1987-June 1988: Mayor Ramon Villaluz
+* 1988-1998: Mayor Teodoro Dilanco III
+* 1998-June 2001: Mayor Gerardo Atienza,Sr.
+* July 2001-June 2004: Mayor Rodolfo Jimenez, Sr.
+* July 2004-June 2007: Mayor Rodolfo Jimenez, Sr.
+* July 2007-June 2010: Mayor Rodolfo Jimenez, Sr.
+* July 2010–June 2016: Mayor Marilyn Jimenez
+* July 2016–June 2022: Mayor Bernard Brioso
+* July 2022–present: Mayor Jesus Camara
+{{Div col end}}
+
+== Education ==
+The [[Department of Education (Philippines)]] lists the following schools for Libmanan:<ref>{{cite web|url=http://ebeis.deped.gov.ph/beis/reports_info/masterlist |title=List of Schools |publisher=Ebeis.deped.gov.ph |date= |accessdate=2022-08-28}}</ref>
+
+;Tertiary
+* CASIFMAS (Libmanan Campus) - Potot, Libmanan
+* Luis H. Dilanco Sr. Foundation College, Inc. - Bahay, Libmanan
+* Governor Mariano E. Villafuerte Community College-Libmanan
+
+;Secondary
+* Colegio del Santisimo Rosario - Station Church Site, Libmanan
+* Bicol Central Academy - Libod 1,Libmanan
+* Central Bicol State University Sipocot - Libmanan Extension College (formerly: Bicol Institute of Science and Technology - Libmanan Extension College- Sibujo, Libmanan)
+* Bahay Provincial High School- Bahay,Libmanan
+* San Juan National High School - Handong, Libmanan
+* San Isidro National High School - San Isidro, Libmanan
+* Bahao National High School - Bahao, Libmanan
+* Carmel National High School - Potot, Libmanan 
+* Pag-oring Nuevo National High School - Pag-oring Nuevo, Libmanan
+* Malansad Nuevo National High School - Malansad, Libmanan
+* Mambulo Nuevo National High School - Mambulo Nuevo, Libmanan
+
+;Intermediate
+* Libmanan North Central School - Libod # 2
+* Candato Elementary School - Candato, Libmanan
+* Libmanan South Central School
+* Tarum Elementary School
+* Ibid Elementary School - Ibid, Libmanan
+* Umalo Elementary School - Umalo, Libmanan
+* Fundado Elementary School- Taban-Fundado,Libmanan
+* St. Joseph Academy - Potot, Libmanan
+* Don Jose Ursua Elementary School - Malinao, Libmanan
+* Bikal Elementary School- Bikal, Libmanan
+* Duang Niog Elementary School-Duang Niog, Libmanan
+* Sixto Bulaong Elementary School- Busak, Libmanan
+* Mambulo Nuevo Elementary School - Mambulo Nuevo, Libmanan
+* San Juan Elementary School - Handong, Libmanan
+* Malansad Nuevo Elementary School, Malansad Nuevo Elementary School
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Commons category}}
+*[http://www.libmanan.com Official Site of the Diocese of Libmanan]
+*[{{NSCB detail}} Philippine Standard Geographic Code]
+*[https://web.archive.org/web/20131004104825/http://census.gov.ph/ Philippine Census Information]
+*[https://web.archive.org/web/20170304075132/http://www.camarinessur.gov.ph/ Official Site of the Province of Camarines Sur]
+
+{{Geographic location
+| Centre    = Libmanan
+| North     = [[Sipocot]] / [[Cabusao]]
+| Northeast = [[Bombon, Camarines Sur|Bombon]]
+| East      = [[Magarao]]<br />[[Canaman]]
+| Southeast = [[Pamplona, Camarines Sur|Pamplona]]
+| South     = [[Pasacao]]
+| West      = ''[[Ragay Gulf]]''
+}}
+{{Camarines Sur}}
+{{Bicol Region}}
+{{Authority control}}
+
+[[Category:Municipalities of Camarines Sur]]

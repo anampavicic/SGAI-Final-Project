@@ -1,0 +1,747 @@
+{{Short description|Municipality in Bulacan, Philippines}}
+{{More citations needed|date=August 2010}}
+{{Infobox settlement
+| name               = {{PH wikidata|name}}
+| image_skyline      = Rizal Monument, Hagonoy, Bulacan.jpg
+| image_caption      = Municipal Hall
+| image_flag         = Flag_of_Hagonoy,_Bulacan.png
+| flag_size          = 120x80px
+| image_seal         = Hagonoy Bulacan.png
+| seal_size          = 100x80px
+| image_map          = {{PH wikidata|image_map}}
+| map_caption        = {{PH wikidata|map_caption}}
+| image_map1         = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map        = Philippines
+| pushpin_label_position = left
+| pushpin_map_caption = Location within the {{PH wikidata|country}}
+| coordinates        = {{PH wikidata|coordinates}}
+| settlement_type    = {{PH wikidata|settlement_type}}
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = [[Philippines]]
+| subdivision_type1  = [[Regions of the Philippines|Region]]
+| subdivision_name1  = {{PH wikidata|region}}
+| subdivision_type2  = [[Provinces of the Philippines|Province]]
+| subdivision_name2  = {{PH wikidata|province}}
+| official_name      = {{PH wikidata|official_name}}
+| etymology          = <!--origin of name-->
+| named_for          = <!--named after (if person or place)-->
+| native_name        = 
+| other_name         = 
+| nicknames          = {{plainlist|
+''Aquaculture Capital of Bulacan''
+''Leviticus Town''
+}}''
+| motto              = ''Ahon, Hagonoy!'' <br /> (Ascend, Hagonoy!) <br />
+| anthem             = 
+| subdivision_type3  = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3  = {{PH legislative district}}
+| established_title  = [[Date of establishment|Founded]]
+| established_date   = July 26, 1581<ref>https://m.facebook.com/story.php?story_fbid=912357885569644&id=379195818885856 {{User-generated source|certain=yes|date=March 2022}}</ref>
+| parts_type         = [[Barangay]]s
+| parts_style        = para
+| p1                 = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title       = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name        = Flordeliza C. Manlapaz
+| leader_title1      = [[Vice Mayor]]
+| leader_name1       = Ma. Rosario Sy-Alvarado. Mendoza
+| leader_title2      = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2       = Danilo A. Domingo
+| leader_title3      = [[Sangguniang Bayan|Municipal Council]]
+| leader_name3       = {{PH Town Council
+| 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Maria Cristina G. Perez
+ | 3=Raulito C. Manlapaz Jr.
+ | 4=Millord S. Cruz
+ | 5=Elmer S. Santos
+ | 6=Dalisay V. Ople
+ | 7=Christopher R. Baluyot
+ | 8=Michael Darwin M. Cruz
+ | 9=Lamberto T. Villanueva
+}}
+| leader_title4      = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4       = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type    = {{PH wikidata|government_type}}
+| government_footnotes = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m        = {{PH wikidata|elevation_m}}
+| elevation_max_m    = 43
+| elevation_min_m    = -4
+| elevation_max_rank = 
+| elevation_min_rank = 
+| elevation_footnotes = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes = 
+| elevation_min_footnotes = 
+| area_rank          = 
+| area_footnotes     = {{PH area}}
+| area_total_km2     = {{PH wikidata|area}}
+| population_footnotes = {{PH census|current}}
+| population_total   = {{PH wikidata|population_total}}
+| population_as_of   = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title = [[Household]]s
+| population_blank1  = {{PH wikidata|household}}
+| population_blank2_title = 
+| population_blank2  = 
+| population_demonym = Hagonoeño
+| population_rank    = 
+| population_note    = 
+| timezone           = [[Philippine Standard Time|PST]]
+| utc_offset         = +8
+| postal_code_type   = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code        = {{PH wikidata|postal_code}}
+| postal2_code_type  = {{PSGCstyle}}
+| postal2_code       = {{PSGC detail}}
+| area_code_type     = {{areacodestyle}}
+| area_code          = {{PH wikidata|area_code}}
+| website            = {{PH wikidata|website}}
+| demographics_type1 = [[Economy of the Philippines|Economy]]
+| demographics1_title1 = {{PH wikidata|income_class_title}}
+| demographics1_info1 = {{PH wikidata|income_class}}
+| demographics1_title2 = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2 = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3 = [[Revenue]]
+| demographics1_info3 = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4 = Revenue rank
+| demographics1_info4 = 
+| demographics1_title5 = [[Assets]]
+| demographics1_info5 = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6 = Assets rank
+| demographics1_info6 = 
+| demographics1_title7 = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7 = 
+| demographics1_title8 = IRA rank
+| demographics1_info8 = 
+| demographics1_title9 = [[Expenditure]]
+| demographics1_info9 = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10 = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10 = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2 = Utilties
+| demographics2_title1 = Electricity
+| demographics2_info1 = [[Meralco]]
+| demographics2_title2 = Water
+| demographics2_info2 = 
+| demographics2_title3 = Telecommunications
+| demographics2_info3 = 
+| demographics2_title4 = Cable TV
+| demographics2_info4 = 
+| demographics2_title5 = 
+| demographics2_info5 = 
+| demographics2_title6 = 
+| demographics2_info6 = 
+| demographics2_title7 = 
+| demographics2_info7 = 
+| demographics2_title8 = 
+| demographics2_info8 = 
+| demographics2_title9 = 
+| demographics2_info9 = 
+| demographics2_title10 = 
+| demographics2_info10 = 
+| blank_name_sec1    = {{PH wikidata|climate_title}}
+| blank_info_sec1    = {{PH wikidata|climate_type}}
+| blank1_name_sec1   = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1   = {{PH wikidata|language}}
+| blank2_name_sec1   = [[Crime index]]
+| blank2_info_sec1   = 
+| blank3_name_sec1   = 
+| blank3_info_sec1   = 
+| blank4_name_sec1   = 
+| blank4_info_sec1   = 
+| blank5_name_sec1   = 
+| blank5_info_sec1   = 
+| blank6_name_sec1   = 
+| blank6_info_sec1   = 
+| blank7_name_sec1   = 
+| blank7_info_sec1   = 
+| blank1_name_sec2   = Major religions
+| blank1_info_sec2   = 
+| blank2_name_sec2   = Feast date
+| blank2_info_sec2   = 
+| blank3_name_sec2   = Catholic diocese
+| blank3_info_sec2   = 
+| blank4_name_sec2   = Patron saint
+| blank4_info_sec2   = 
+| blank5_name_sec2   = 
+| blank5_info_sec2   = 
+| blank6_name_sec2   = 
+| blank6_info_sec2   = 
+| blank7_name_sec2   = 
+| blank7_info_sec2   = 
+| short_description  = 
+| footnotes          = 
+}}
+'''Hagonoy''', officially the '''Municipality of Hagonoy''' ({{lang-tgl|Bayan ng Hagonoy}}, [[kapampangan language|Kapampangan]]: ''Balen ning Hagonoy''), is a 1st class [[municipality of the Philippines|municipality]] in the [[Philippine Province|province]] of [[Bulacan]], [[Philippines]]. According to the 2020 census, it has a population of 133,448 people.{{PH census|current}}
+
+==History==
+HAGONOY was first mentioned in the history of the Philippines in 1571. Even before the "blood compact" between the [[Spain]]'s conqueror [[Miguel Lopez de Legazpi]] and the Philippines' [[Datu Sikatuna]] was made, the place was already known as Hagonoy. The land consists of archipelagic marsh and river tributaries going to the sea, where the first ancestors of this town probably took this way to reach Hagonoy.
+
+Hagonoy first appeared in Philippine history when they formed part of the fleet of [[Tarik Sulayman]] of [[Macabebe, Pampanga]] that met [[Martin de Goiti]] at the [[Battle of Bangkusay Channel|Battle of Bangkusay]] in the initial defense of the [[Luzon|Lusong]] against the Spaniards in 1571.<ref>Gaspar de San Agustin, Conquistas de las Islas Filipinas 1565-1615, Translated by Luis Antonio Mañeru, 1st bilingual ed [Spanish and English], published by Pedro Galende, OSA: Intramuros, Manila, 1998.</ref>
+
+In the beginning, Hagonoy was part of Alcaldia de [[Calumpit, Bulacan|Calumpit]] as its visita together with [[Apalit]]. It has huge convent having founded on April 22, 1581, with Fray Diego Ordonez de Vivar as its first minister according to Gaspar's "Conquistas delas Islas" Book 2 (Fray Diego having credited for the christiniazation of [[Calumpit]], [[Malolos]] and [[Bulakan]]). At first, it was also included in the territorial part of Encomienda de Calumpit that was given by Governor General Gonzalo Ronquillo to Sargento Juan de Moron for his good service and loyalty to Spanish Crown. Sargento Juan Moron once trusted his land to the Augustinian friars, and that's how it was handed to Fray Diego Vivar. It is also noted that on the primary sources documents such as Miguel de Loarca's "Relacion delas Islas" written in 1582 and Luis Perez de Dasmarinas report on King of Spain in June 1591 didn't mention Hagonoy as an independent encomienda or town, instead it is simultaneously with the much older town of Calumpit and it was officially established as a civil town in May 1671. According to records and old folks, there were already inhabitants in some places of this settlement.These places were Tibaguin and Pugad, coastal barrios sharing the coastline with the City of [[Malolos]] and towns of [[Bulakan]], [[Obando, Bulacan|Obando]] and the City of [[Manila]].
+
+[[Magat Salamat]], a revolutionary hero, and the last Prince of the [[Kingdom of Tondo]], once headed this town.<ref name="geocities1">{{cite web|url=http://www.geocities.com/globalistmanifesto2/lakandula.html |title=lakandula |access-date=2008-10-18|archive-url=https://web.archive.org/web/20080224230925/http://www.geocities.com/globalistmanifesto2/lakandula.html|archive-date=2008-02-24}}</ref> He was the ancestor of the Salamat families now living in different barrios of this town.
+
+===Origin of the name===
+The town was named after the "hagunoy" ''([[Chromolaena odorata]])'', a medicinal plant that used to be abundant in its river banks and along the seashores. The original populace used its leaves as their herbal remedy of choice for common illnesses and as food ingredients. Because of the medicinal value of the plant, the news of its effectiveness spread leading the people to call the place "Hagonoy".
+
+===Hagonoy's town legend===
+In the 16th century, some friars took a boat from Manila to the province of Bulacan and reached what was then called "Quinabaloan" (from [[Kapampangan language|Kapampangan]] word ''kinabaluan'' meaning "had been known" or "pinag-alaman" in [[Tagalog language|Tagalog]]—which was then still part of the town of Calumpit and is now the barangays of Santa Monica and San Jose). At that time, a very charming lass was so popular among the young men of the locality. She had many suitors and admirers. One day, she felt ill and she needed someone to get leaves of the hagonoy plant by the river (which is now called Sapang Pari because the friars and priests used this river to commute).
+
+A man offered to promptly get some leaves of the plant and in deep gratitude, she promised to marry him. As he was gathering the leaves of the hagunoy plant for his dearly beloved, the group of friars in a passing boat stopped to ask him, "Quien vive?" (Where are we?). The man did not understand Spanish and was extremely intimidated by the ''guardia civil'' (Spanish civil guard) that escorted the friars. Thinking that they were asking what he was grasping in his hands, he quickly retorted "Hagunoy po!" (Hagunoy, sir!) and scampered away.
+
+These were the first Augustinian friars that got into town and they noted the place's name as "Hagonoy". Hence, the origin of the illustrious town's name.<ref>Jose A. Salazar, 1981</ref>
+
+==Geography==
+With a total land area of 103.10 square kilometers, Hagonoy is situated at the south-west corner of the province of [[Bulacan]]. It is bounded by the municipality of [[Calumpit]] on the north, municipality of [[Paombong]] on the east, municipality of [[Masantol, Pampanga]] on the west and [[Manila Bay]] on the south. The municipality is approximately 54 kilometers from [[Metro Manila]] or about an hour and a half drive. It can be accessed via [[North Luzon Expressway]] and [[MacArthur Highway]].
+
+Hagonoy is a long ridge with a lake on its edge by Manila Bay called "Wawa", which is now part of Barangays San Sebastian and San Nicolas. It is basically a fishing town with Manila Bay as its proximate fishing ground, which extends up to the provinces of [[Pampanga]], [[Bataan]], and [[Cavite]]. Its more adventurous fisherfolk brave the waves of the [[South China Sea]] northward and cross into the [[Philippine Sea]] in the [[Pacific Ocean]] on the eastern seaboard where they cast their nets and haul their catch to the fishing ports of [[Quezon province]].
+
+===Barangays===
+[[File:Hagonoy map brgy clusters en.jpg|thumb|upright=1.4|Barangay clusters of Hagonoy]]
+Hagonoy is politically subdivided into 26 barangays grouped into 5 clusters or ''kumpol'' for statistical purposes. All barangays are classified as urban by the [[Philippine Statistics Authority]]. Each barangay consists of [[purok]]s and some have [[sitios]].
+
+<!-- arranged by PSGC for easier updates in the future -->
+{{PH brgy table lite|top}}
+{{PH brgy table lite|031409001| Abulalas                       |  5283|  4878}}
+{{PH brgy table lite|031409002| Carillo                        |  1708|  1681}}
+{{PH brgy table lite|031409003| Iba                            |  5321|  4891}}
+{{PH brgy table lite|031409004| Mercado                        |  7114|  6851}}
+{{PH brgy table lite|031409005| Palapat                        |  2364|  2393}}
+{{PH brgy table lite|031409006| Pugad                          |  1907|  1723}}
+{{PH brgy table lite|031409007| Sagrada Familia                |  6569|  6794}}
+{{PH brgy table lite|031409008| San Agustin                    | 10336| 10291}}
+{{PH brgy table lite|031409009| San Isidro                     |  8102|  7314}}
+{{PH brgy table lite|031409011| San Jose                       |  4646|  5123}}
+{{PH brgy table lite|031409012| San Juan                       |  3542|  3175}}
+{{PH brgy table lite|031409013| San Miguel                     |  5888|  5767}}
+{{PH brgy table lite|031409014| San Nicolas                    |  5113|  5012}}
+{{PH brgy table lite|031409015| San Pablo                      |  3346|  2894}}
+{{PH brgy table lite|031409016| San Pascual                    |  5957|  6253}}
+{{PH brgy table lite|031409017| San Pedro                      |  5042|  4090}}
+{{PH brgy table lite|031409018| San Roque                      |  4908|  4676}}
+{{PH brgy table lite|031409019| San Sebastian                  |  8193|  8069}}
+{{PH brgy table lite|031409020| Santa Cruz                     |  3484|  3698}}
+{{PH brgy table lite|031409021| Santa Elena                    |  4918|  4650}}
+{{PH brgy table lite|031409022| Santa Monica                   |  8317|  8683}}
+{{PH brgy table lite|031409023| Santo Niño (''[[Poblacion]]'') |  4415|  3859}}
+{{PH brgy table lite|031409024| Santo Rosario                  |  5251|  5438}}
+{{PH brgy table lite|031409025| Tampok                         |  2635|  2788}}
+{{PH brgy table lite|031409026| Tibaguin                       |  2884|  2363}}
+{{PH brgy table lite|031409027| Iba{{nbhyph}}Ibayo             |  2564|  2335}}
+{{PH brgy table lite|bottom|125689}}
+
+====Change of barangay names====
+Some barangays had a different name than it does now. Their names derived from events, legends, things or the condition of the place (indicated in the parentheses) as follows:<ref>{{Cite book |last1=Manahan |first1=Mons. Macario R. |title=Hagunoy sa Taon ng Hubileo 2000 |last2=Cruz |first2=Rdo. P. Rodolfo C. |year=2000 |location=Hagonoy, Bulacan |pages=70 |language=fil}}</ref> 
+* Sagrada Familia (Malayak)
+* San Agustin (Bantayan)
+* San Juan (Burayag)
+* San Nicolas (Bangos)
+* San Pascual (Dita)
+* San Roque (Bagong Baryo)
+* San Sebastian (Wawa)
+* Santa Elena (Marulaw)
+* Santo Rosario (Tangos)
+
+===Climate===
+{{Weather box
+| location     = Hagonoy, Bulacan
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 28
+| Jan low C  = 20
+| Feb high C = 29
+| Feb low C  = 20
+| Mar high C = 31
+| Mar low C  = 21
+| Apr high C = 33
+| Apr low C  = 22
+| May high C = 32
+| May low C  = 24
+| Jun high C = 31
+| Jun low C  = 24
+| Jul high C = 30
+| Jul low C  = 24
+| Aug high C = 29
+| Aug low C  = 24
+| Sep high C = 29
+| Sep low C  = 24
+| Oct high C = 30
+| Oct low C  = 23
+| Nov high C = 30
+| Nov low C  = 22
+| Dec high C = 28
+| Dec low C  = 21
+| Jan precipitation mm = 6
+| Feb precipitation mm = 4
+| Mar precipitation mm = 6
+| Apr precipitation mm = 17
+| May precipitation mm = 82
+| Jun precipitation mm = 122
+| Jul precipitation mm = 151
+| Aug precipitation mm = 123
+| Sep precipitation mm = 124
+| Oct precipitation mm = 99
+| Nov precipitation mm = 37
+| Dec precipitation mm = 21
+| Jan rain days        = 3.3
+| Feb rain days        = 2.5
+| Mar rain days        = 11.7
+| Apr rain days        = 6.6
+| May rain days        = 17.7
+| Jun rain days        = 22.2
+| Jul rain days        = 25.2
+| Aug rain days        = 23.7
+| Sep rain days        = 23.2
+| Oct rain days        = 17.9
+| Nov rain days        = 9.2
+| Dec rain days        = 5.2
+| source 1             = Meteoblue<ref name="met_norms">
+{{cite web|url=https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/hagonoy_philippines_1711982|title=Hagonoy: Average Temperatures and Rainfall|publisher=Meteoblue|access-date=12 May 2020}}</ref>
+| date                 = 12 May 2020
+}}
+
+==Demographics==
+{{Philippine Census
+| align= none
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+In the 2020 census, the population of Hagonoy, Bulacan was 133,448 people,{{PH census|current}} with a density of {{convert|{{sigfig|133,448/103.10|2}}|PD/km2|disp=or}}.
+
+==Economy==
+{{PH poverty incidence}}
+Hagonoy is mainly a fishing municipality with 7,837.65 hectares devoted to fish farming or about three-fourths of its total land area. It is home to about 1,423 fishpond operators and 55 registered consignacions – a venue for trading [[aquaculture]] products. The town offers a variety of harvests which includes prawns, shrimps, milkfish, tilapia, crabs, mussels and oysters.
+
+With its abundant water resources and the coastal nature of the town, the majority of the population is dependent on the fishing industry. Even the municipal government has its own fishpond locally known as "Propyus", situated in Pugad and Tibaguin, two coastal barangays of Hagonoy along the coast of Manila Bay. It is subdivided to 7 lots with a combined lot area of 412 hectares of municipal waters.
+
+Two local fish ports called "pundohan" – one in barrio San Nicolas and the other at the Poblacion, are the busiest commercial areas in the town. Fish traders from [[Lucena]] and [[Dagupan]] among other merchants of other provinces are regular bulk buyers the local ports or at the private "consignacions" (brokerage) of the large milkfish growers.
+
+The coastal barrios are virtually 24/7 as fishermen go out to the sea at night for hours or even days while their loving families and relatives await them. Upon their return, their catch is immediately sorted out and sold at the local public markets and "talipapa" of the barangays. Their catch are also transported to the public markets in nearby towns and up to the public/private markets and supermarkets in Metro Manila.
+
+Barangay Santo Niño adjacent to the Poblacion is host to the numerous brokers of prawns for the domestic and export markets. The boats that sell their prawn catch at these brokers at times come from as far as the province of [[Capiz]]. A processing plant very near the brokers prepares and packages the prawns to export quality and global standards.
+
+There are 2 “talipapa” (flea markets) in Hagonoy that also played minor central business districts – Santo Rosario and San Agustin. Business activities include wet and dry markets, grocery stores, carinderia, and computer shops.
+
+According to the [[Commission on Audit (Philippines)|Commission on Audit]] (COA) 2010 Annual Financial Report, Hagonoy ranked as the 8th<ref>{{cite web|url=http://www.coa.gov.ph/Reports/AFR/2010AFR_Local_Vol3.pdf|title=Archived copy|url-status=dead|archive-url=https://web.archive.org/web/20130728181559/http://www.coa.gov.ph/Reports/AFR/2010AFR_Local_Vol3.pdf|archive-date=28 July 2013}}</ref> richest municipality in Bulacan, surpassing the annual income of other 1st class municipalities like [[Bocaue, Bulacan|Bocaue]], Calumpit, [[Plaridel, Bulacan|Plaridel]], [[San Ildefonso, Bulacan|San Ildefonso]] and [[Balagtas, Bulacan|Balagtas]].
+
+===Trade and commerce===
+Trade and commerce in Hagonoy is concentrated at the town center where the public market, municipal hall, church, schools, hospital, clinics, and commercial spaces are situated. Major business activities include drugstores, banks, financial institutions, private consignacions, restaurants/food shops, groceries, and construction supplies.<ref>{{cite web |url=http://www.hagonoybulacan.gov.ph/business/top50biz.asp |title=Top 50 Businesses |publisher=Municipality of Hagonoy, Bulacan, Philippines Official website |access-date=June 15, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110717150213/http://www.hagonoybulacan.gov.ph/business/top50biz.asp |archive-date=July 17, 2011 }}</ref>
+
+*'''[[Puregold]] Hagonoy''' - a hypermarket operated by Puregold Price Club, Inc., opened on October 24, 2012. It is located at Barangay Santo Niño (Poblacion).
+[[File:1076Hagonoy Bulacan Municipal Park Grocery School Church 10.jpg|thumb|right|200px|Façade of Super 8 Grocery Warehouse Hagonoy]]
+*'''Super 8 Grocery Warehouse Hagonoy'''
+
+{{ column|num=3
+|1=
+'''Major Industries'''
+*Aquaculture
+*Agriculture
+*Flowers/Ornamental Plants
+*Food Processing
+*Furniture
+*Garments
+*Gifts/Houseware/Decors
+*Metalcraft
+|2=
+'''Major Products'''
+*Prawns, Milkfish, other Fishes and Crustaceans
+*Processed Food ([[bagoong alamang]])
+*Processed Meat
+*Garments and Apparel
+*Toys and Giftware
+|3=
+'''Indigenous and raw materials'''
+*Bamboo and Sasa (Nipa) leaves
+}}
+
+===Communication===
+[[PLDT|Philippine Long Distance Telephone Company]] (PLDT) and [[Digital Telecommunications Phils., Inc.|Digital Telecommunications Philippines, Inc.]] (DIGITEL) are the main landline telephone service provider in Hagonoy with 2,134 and 1,700 subscribers respectively.
+
+Many residents have subscribed to wireless phone services such as [[Globe Telecom|Globe]], [[Smart Communications|Smart]], [[Talk 'N Text]], [[Touch Mobile|TM]] (Touch Mobile), [[Sun Cellular]] and [[Dito Telecommunity|DITO]]. As per the Municipal Engineers Office record, there are 10 cell sites installed in strategic locations in Hagonoy to improve the signal coverage and reception.
+
+On the other hand, telegraph and express mail services are being provided by the local post office and private companies such as [[LBC Express|LBC]] and RCPI-Western Union.
+{{clear left}}
+
+==Government==
+[[File:FvfHagonoy1735 08.JPG|thumb|right|Sangguniang Bayan of Hagonoy Building]]
+
+===Elected officials===
+The following officials were elected in the Philippine Elections on May 9, 2022, to serve a three-year term.
+*'''Mayor:''' Flordeliza "Baby" C. Manlapaz ([[PDP-Laban]])
+*'''Vice Mayor:''' Ma. Rosario "Ate Charo" Sy-Alvarado. Mendoza ([[PDP-Laban]])
+
+'''Councilors'''
+*Ma. Cristina "Tina" G. Perez ([[PDP-Laban]])
+*Raulito "Jey-R" C. Manlapaz Jr. ([[PDP-Laban]])
+*Millord S. Cruz ([[PDP-Laban]])
+*Elmer S. Santos ([[PDP-Laban]])
+*Dalisay "Baby" V. Ople ([[National Unity Party (Philippines)|NUP]])
+*Christopher "Chris" R. Baluyot ([[National Unity Party (Philippines)|NUP]])
+*Michael Darwin M. Cruz ([[PDP-Laban]])
+*Lamberto "Amber" T. Villanueva ([[PDP-Laban]])
+
+===List of mayors===
+*Don Francisco L. Sebastian (first mayor)
+*Ramona S. Trillana<!-- A high school in Hagonoy is named "Mayor Ramona S. Trillana High School" -->
+*Emilio G. Perez (1963–1972)<ref name="Officials">{{cite book|editor-last=Urera|editor-first=Vivencio|title=Philippine Government Elective Officials: Semi-pictorial Directory|date=1966|publisher=Urema Publishing Co., Ltd.|location=[[Manila]], Philippines|page=126|chapter-url=https://books.google.com/books?id=26seAAAAMAAJ&pg=PA126|access-date=November 12, 2023|chapter=Municipal Officials}}</ref><ref name="ComElec">{{cite book|author=[[Commission on Elections (Philippines)|Commission on Elections]]|title=Report of the Commission on Elections to the President of the Philippines and the Congress|date=1969|publisher=Bureau of Printing|location=[[Manila]], Philippines|page=297|chapter-url=https://books.google.com/books?id=kTsTAAAAMAAJ&pg=PA297|access-date=November 12, 2023|chapter=List of municipal and municipal district officials elected...}}</ref>
+*Hermogenes B. Perez (1972–1986)
+*[[Wilhelmino Sy-Alvarado|Wilhelmino M. Sy-Alvarado]] (1987–1998)
+*Felix V. Ople (1998–2007)
+*Angel L. Cruz Jr. (2007–2013)
+*Raulito T. Manlapaz Sr. (2013–2022)<ref>{{cite news|last=Balbin|first=Manny|title=Neophytes unseat incumbent mayors in Bulacan towns|url=https://www.rappler.com/nation/elections/29211-neophytes-unseat-incumbent-mayors-in-bulacan-towns/|access-date=November 12, 2023|work=[[Rappler]]|publisher=Rappler Inc.|date=May 14, 2013|location=[[Malolos|Malolos City]], [[Bulacan]]}}</ref><ref name="GMANews2019">{{cite news|title=Local Results: Hagonoy - Bulacan|url=https://www.gmanetwork.com/news/eleksyon2019/results/local/REGION+III/BULACAN/HAGONOY/|access-date=November 12, 2023|work=[[GMA News Online]]|publisher=[[GMA Network]]|date=2019}}</ref>
+
+===List of vice mayors===
+*Nestor S. Santos (1963–1967)<ref name="Officials"/>
+*Maria Garcia (1967–1972)<ref name="ComElec"/>
+*Eleazer F. Laderas (1988–1995)<ref>{{cite news|title=Hon. Eleazer "Eling" F. Laderas|url=https://books.google.com/books?id=vFg1AAAAIBAJ&pg=PA43|access-date=November 12, 2023|newspaper=[[Philippine Daily Inquirer]]|publisher=The Philippine Daily Inquirer, Inc.|date=October 11, 2000|page=B11}}</ref>
+*Maria G. Santos (1995–1998)<ref>{{cite news|title=Erap in Hagonoy|url=https://books.google.com/books?id=mo8VAAAAIBAJ&pg=PA3|access-date=November 12, 2023|work=[[Manila Standard]]|publisher=Kamahalan Publishing Corp.|date=September 12, 1997|page=3}}</ref>
+*Josefina Contreras (2001–2004)<ref>{{cite news|title=Bulacan town execs denounce solon for abuses|url=https://books.google.com/books?id=DVs1AAAAIBAJ&pg=PA17|access-date=November 12, 2023|newspaper=[[Philippine Daily Inquirer]]|publisher=The Philippine Daily Inquirer, Inc.|date=June 8, 2002|page=A17}}</ref>
+*Marivic R. Sy-Alvarado (2004–2007)<ref>{{cite news|title=Priest pushes 'kariton' in filing bid|url=https://books.google.com/books?id=5lY1AAAAIBAJ&pg=PA19|access-date=November 12, 2023|newspaper=[[Philippine Daily Inquirer]]|publisher=The Philippine Daily Inquirer, Inc.|date=March 30, 2007|location=[[San Fernando, Pampanga|City of San Fernando]]|page=A19}}</ref>
+*Elmer Santos (2007–2010)<ref>{{cite news|last=Remollino|first=Alexander Martin|title=Surveillance on Jun Cruz Reyes: 'Attacks on Writers Are Attacks on the People'|url=https://www.bulatlat.com/2009/09/23/surveillance-on-jun-cruz-reyes-%E2%80%98attacks-on-writers-are-attacks-on-the-people%E2%80%99/|access-date=November 12, 2023|work=Bulatlat|date=September 23, 2009|location=[[Manila]]}}</ref>
+*Reynaldo O. Santos (2010–2013)<ref>{{cite news|last=Genovia|first=Cath|title=ASP joins Cerebral Palsied Awareness Week Celebrations|url=http://www.autismsocietyphilippines.org/2011/10/asp-joins-cerebral-palsied-awareness.html|access-date=November 13, 2023|work=Autism Society Philippines|date=October 4, 2011|quote=The Honorable Mayor was attending an equally important event on that same day and was not able to meet us, but we are honored to have Vice Mayor Rey Santos, who gave the welcome message.}}</ref>
+*Pedro S. Santos Jr. (2013–2019)<ref>{{cite web|title=Municipal Mayors and Vice Mayors|url=https://www.dbm.gov.ph/wp-content/uploads/DBM%20Publications/Directory2014/Local%20Govt/Municipal.pdf|website=[[Department of Budget and Management]]|access-date=November 12, 2023|date=2014}}</ref><ref>{{cite news|title=Eleksyon Results: Hagonoy - Bulacan|url=https://www.gmanetwork.com/news/eleksyon2016/results/local/region+iii/bulacan/hagonoy/|access-date=November 12, 2023|work=[[GMA News Online]]|publisher=[[GMA Network]]|date=2016}}</ref>
+*Angel L. Cruz Jr. (2019–2022)<ref name="GMANews2019"/>
+
+==Religion==
+===National Shrine and Parish of St. Anne in the Philippines===
+[[File:Hagonoy Church, Bulacan, July 2023.jpg|thumb|right|Façade of the National Shrine of St. Anne]]
+[[File:9547Hagonoy Roads Church Shrine School Landmarks Bulacan 01.jpg|thumb|right|200px|Interior of the National Shrine of St. Anne]]
+{{main|National Shrine of Saint Anne}}
+Hagonoy is deeply religious, in the town centre is the native's principal Church.<ref>{{cite web|url=http://www.bulacan.gov.ph/tourism/touristspot.php?id=37|title=Bulacan, Philippines: Tourism: National Shrine of Saint Anne, Hagonoy, Bulacan|website=Bulacan.gov.ph|access-date=2016-12-07}}</ref><ref>{{cite web|url=http://www.gcatholic.org/churches/asia/3659.htm|title=St. Anne National Shrine, Hagonoy, Bulacan, Philippines|website=Gcatholic.org|access-date=December 7, 2016}}</ref> The [[National Shrine of Saint Anne]] was originally a visita under the parish of [[Calumpit]]. It became a town church in 1731 with Fr. Juan Albarran, OSA, as its first curate. It was rebuilt in 1871 by Fr. Ignacio Manzanares, OSA. The church was taken over by the Filipino clergy in 1896 with Fr. Clemente Garcia as the first Filipino curate. He was succeeded by Dr. Mariano Sevilla from 1902 to 1922, Fr. Exequiel Morales, 1922–1936. Fr. Celestino Rodriguez OFM, curate since 1936 and improved the church. It was made into a national shrine to honor [[St. Anne]], the mother of the [[Blessed Virgin Mary]]. This church holds the relics of St. Anne from the [[Basilica of Sainte-Anne-de-Beaupré]], the international shrine in [[Quebec]], [[Canada]] and also the relics of [[St. Joachim]], the husband of St. Anne.
+
+{{citation needed|date=February 2016}}
+It is composed of the sub-parish churches of San Agustin, San Jose, Santa Monica, San Nicolas, Santo Niño, San Sebastian, and Sitio Parong-Parong of Barangay San Agustin.<ref name=":0">{{Cite web |title=VICARIATE OF HAGONOY |url=https://malolosdiocese.ph/vicariate-of-hagonoy/ |access-date=2022-12-27 |website=ANG SANDIGAN |language=en-US}}</ref>
+
+===St. John the Baptist Parish Church===
+[[File:FvfBulacanCHBarangaySB0924 02.JPG|thumb|right|200px|Façade of St. John the Baptist Parish Church]]
+[[File:FvfSJChurchH0832 22.JPG|thumb|right|200px|Interior of St. John the Baptist Parish Church]]
+Situated in Barangay San Juan, and is composed by the barangays of San Juan, Tampok, San Isidro, and San Miguel.<ref name=":0" /> Inaugurated on March 23, 1948, through Bishop Miguel O'Doherty of [[Archdiocese of Manila]]. Fr. Elias Reyes served as its first curate. The church was step by step reconstructed in the curation of Fr. Jose Ingco, Fr. Serafin Riedo de Dios, Fr. Antonio Borlongan, and Fr. Generoso Jimenez with the cooperation of Bishop Rufino J. Santos and the good people of the community.
+
+===St. Helena Parish Church===
+[[File:JfParish9332StaElenaHagonoyfvf 09.JPG|thumb|right|200px|Façade of the Parish Church of St. Helena]]
+[[File:JfChurch9332StaElenaHagonoyfvf 12.JPG|thumb|right|200px|Interior of St. Helena Parish Church]]
+The church became a parish on January 11, 1941, under the curation of its first curator Rev. Fr. Melchor A. Barcelona. It is composed of the sub-parish churches of Sagrada Familia, Sitio Buga, Sitio Tangos, Pugad and Tibaguin.<ref name=":0" />
+
+===Saint Anthony of Padua Parish Church===
+[[File:FvfIbaChurchHagonoy0215 21.JPG|thumb|right|200px|Façade of St. Anthony of Padua Parish Church]]
+[[File:FvfIbaHagonoy0266 01.JPG|thumb|right|200px|Interior of St. Anthony of Padua Parish Church]]
+The church is situated at Barangay Iba, Hagonoy, Bulacan. It is composed of the sub-parish churches of Carillo, Iba-Ibayo, and Palapat in Hagonoy, and Iba O'Este and Iba Este in the town of [[Calumpit]] up North.<ref name=":0" />
+
+===Our Lady of Perpetual Help Parish Church===
+[[File:JfSanPedro0016Hagonoyfvf 02.JPG|thumb|right|200px|Façade of Our Lady of Perpetual Help Parish Church]]
+[[File:JfSanPedro0046HagonoyChurchCemeteryfvf 03.JPG|thumb|right|200px|Interior of Our Lady of Perpetual Help Parish Church]]
+The church is situated at Barangay San Pedro, Hagonoy, Bulacan. It is composed of the sub-parish churches of Abulalas and San Pablo in Hagonoy, and San Isidro II in the town of [[Paombong]].<ref name=":0" />
+
+===Our Lady of the Most Holy Rosary Parish Church===
+[[File:JfSantoRosario9475ChurchRiverHagonoyfvf 04.JPG|thumb|right|200px|Façade of Our Lady of the Most Holy Rosary Parish Church]]
+[[File:JfStoRosario9477ChurchRiverHallHagonoyfvf 20.JPG|thumb|right|200px|Interior of Our Lady of the Most Holy Rosary Parish Church]]
+The church is situated at Barangay Santo Rosario, Hagonoy, Bulacan. It is composed of the sub-parish churches of Mercado, Santa Cruz, San Pascual, and San Roque.<ref name=":0" />
+
+==Culture==
+Annual fiestas are held to honor the town's and each ''barangay'''s patron saints. The town's patron saint is [[Saint Anne|St. Anne]] (the mother of the [[Blessed Virgin Mary]]) or fondly called "Apo Ana" in the vernacular by the natives. She is enshrined at the church named after her in the poblacion. This church is a National Shrine. There are also small fiestas among the different ''purok''s of the ''barangay''s, there are feasts for the: Sacred Heart of Jesus, Our Lady of the Rosary, and other commemorative feasts of the Catholic Church. The [[Holy Week]] observance includes self flagellants on the road, zarzuelas, the "pabasa" (the passion sang as a psalm), the [[Good Friday]] and [[Easter]] dawn processions, in all parish churches. The Good Friday processions of the Parishes like the Poblacion and the Santo Rosario parishes are attended by at least 15 to 30 Lenten icons. The fiestas and Holy Week rituals are deemed as a sacred tradition. Some barangays hold their feasts with extraordinary roadside decorations and buntings so elaborate that the road is almost covered with overhead decor sufficient to screen-off the sunlight at noontime.
+
+Major Fiestas in Hagonoy such as the Santo Niño Fiesta, Santa Elena Fiesta, & the Town’s Fiesta & Foundation Day are some of the major festivities in town.
+
+{| class="wikitable"
+|-
+! Date
+! Event
+|-
+| 1 January or Last Sunday of April || Feast of the [[Holy Family]] ''(Barangay Sagrada Familia)''
+|-
+| 9 January || Feast of the [[Black Nazarene]] ''(Barangay San Agustin – Parong-Parong)''
+|-
+| 20 January || Feast of [[Saint Sebastian|St. Sebastian]] ''(Barangay San Sebastian)''
+|-
+| 25 January || Feast of the [[Conversion of Paul the Apostle|Conversion of St. Paul the Apostle]] ''(Barangay San Pablo) ''
+|-
+| 3 February || Ka [[Blas Ople|Blas F. Ople]] Day ''(Commemorating the Birth of Hagonoy's Proud of Son)''
+|-
+| 11 February || Feast of [[Our Lady of Lourdes]] ''(Barangay Abulalas)''
+|-
+| 3rd Sunday of January (liturgical) & 2nd or 3rd Sunday of February (civil) || Feast of the [[Holy Child|Infant Jesus]] ''(Barangay Santo Niño) ''
+|-
+| 2 April || [[Francisco Balagtas|Balagtas]] Day ''(Commemorating the birth of [[Francisco Baltazar]])''
+|-
+| 10 April || Feast of Our Lady of Barangay ''(Barangay San Sebastian - Peralta)''
+|-
+| Last Sunday of April || Pista ng Sama-samang Pasasalamat ng Bayang Hagonoy ''(Barangay Santo Niño – Poblacion)''
+|-
+| 1 May || Feast of [[Saint Joseph|St. Joseph the Worker]] ''(Barangay San Jose)''
+|-
+| 1 May & 14 September || Feast of the [[Feast of the Cross|Holy Cross]] ''(Barangay Santa Cruz)''
+|-
+| 4 May || Feast of [[Helena, mother of Constantine I|St. Helena, the Empress]] ''(Barangay Santa Elena)''
+|-
+| 1st Saturday of May || Feast of [[Saint Monica|St. Monica]] ''(Barangay Santa Monica)''
+|-
+| 2nd week of May & 13 June || Feast of [[Anthony of Padua|St. Anthony of Padua]] ''(Barangay Iba-Ibayo)''
+|-
+| 2nd week of May & 1st Sunday of October || Feast of the [[Our Lady of the Rosary|Most Holy Rosary]] ''(Barangay Santo Rosario)''
+|-
+| 8 May || Feast of [[St. Michael, the Archangel]] ''(Barangay San Miguel)''
+|-
+| 15 May || Feast of St. [[Isidore the Laborer]], the Farmer ''(Barangay Tampok & Barangay San Isidro)''
+|-
+| 17 May || Feast of [[St. Paschal Baylon]] ''(Barangay San Pascual)''
+|-
+| 3 June || Feast of the [[Holy Trinity]] ''(Barangay San Agustin - Mestiza)''
+|-
+| 13 June || Feast of [[St. Anthony of Padua]] ''(Barangay Iba & Barangay Palapat)''
+|-
+| 24 June || Feast of St. [[John the Baptist]] ''(Barangay San Juan)''
+|-
+| 27 June || Feast of the [[Our Lady of Perpetual Help]] ''(Barangay San Pedro)''
+|-
+| 29 June || Feast of [[St. Peter]], the Apostle ''(Barangay San Pedro)''
+|-
+| 26 July || Feast of [[Saint Anne|St. Anne]], Mother of Our Lady, Patroness of Hagonoy / Foundation Day of the town of Hagonoy / Palaisdaan Festival ''(Barangay Santo Niño – Poblacion)''
+|-
+| 31 July || Feast of [[Ignatius of Loyola|St. Ignatius of Loyola]] ''(Barangay Pugad)''
+|-
+| 15 August || [[Bulacan]] Day ''(Foundation Day of the Province of Bulacan)''
+|-
+| 16 August || Feast of [[Saint Roch|St. Roch]] ''(Barangay San Roque)''
+|-
+| 28 August || Feast of [[Augustine of Hippo|St. Augustine]] ''(Barangay San Agustin)''
+|-
+| 30 August || [[Marcelo H. Del Pilar]] Day ''(Commemorating the Birth of the Great Propagandist)''
+|-
+| 10 September || Feast of [[Nicholas of Tolentino|St. Nicholas of Tolentine]] ''(Barangay San Nicolas)''
+|-
+| 11 September || Thanksgiving Feast of [[Our Lady of Perpetual Help]] ''(Barangay Tampok – Sapang Bundok)''
+|-
+| 1st Sunday of October or 7 October || Feast of [[Our Lady of Rosary|Our Lady of the Holy Rosary]] ''(Barangay Carillo)''
+|-
+| 24 October || Feast of [[Raphael (archangel)|St. Raphael, the Archangel]] ''(Barangay Tibaguin)''
+|-
+| 29 October || Anniversary of the National Shrine of St. Anne ''(Barangay Santo Niño – Poblacion)''
+|-
+| 26 November || Thanksgiving Feast of [[Virgen de los Remedios de Pampanga|Virgen de los Remedios]] ''(Barangay Mercado)''
+|-
+| 8 December || Feast of the [[Immaculate Conception]] ''(Barangay Santo Niño – Sapang Pari)''
+|}
+
+===Palaisdaan Festival/Desposorio Festival===
+On July 24, 2015 the municipality formally introduce the ''Palaisdaan Festival'' (or ''Pangisdaan Festival'') nationwide through the morning show [[Umagang Kay Ganda]] of [[ABS-CBN Channel 2]].<ref>{{cite web|url=http://www.pikore.com/m/1035751715082689256_280155085|title=UKG in Hagonoy, Bulacan's Palaisdaan Festival|work=Umagang Kay Ganda Official IG Account}}</ref> Aside from showcasing the main livelihood of the town, the festival also offers a variety of cultural and religious events which the town of Hagonoy is known for. It is a month-long celebration in honor of the town's patroness, Saint Anne, and the founding anniversary of Hagonoy as a pueblo way back 1581. The celebration usually starts when the image of St. Anne visits places around Hagonoy or even outside the town. The processional image is then brought back to the shrine to formally open the festivity for the 9-days novena, followed by the fluvial parade or pagoda in the river systems of Hagonoy. ''Indak-kalye'' or street dancing is also one of the highlights of the festival, where the traditional Desposorio is danced to the tune of Lerion hymn. Other activities before the fiesta include entertainment and cultural programs, games or ''laro ng lahi'', religious activities like baptism and confirmation. The Visperas Mayores or the day before the fiesta is also a highlight, this is when the battle of marching bands happens.
+
+On September 15, 2019, Iba National High School Dance Troupe, one of the pioneering school folk dancing group in Hagonoy, together with Liping Hagonoeño and with the help of Hiyas ng Hagonoy, featured the Palaisdaan Festival in the province-wide Singkaban Festival. They won 2nd place and Best in Costume award.
+
+==Social services==
+===Protective services===
+Hagonoy is generally a peaceful community. Peace and order is being maintained by the [[Philippine National Police]] – Hagonoy Station manned by 29 PNP personnel. The Hagonoy PNP is equipped by 24 long firearms and 17 short firearms, with 2 patrol cars and 4 motorcycles as service vehicles.
+<!--In 2008, there were 42 reported crime incidence in Hagonoy, 18 non-index crimes and 24 index crimes. The crime solution efficiency rate is registered at 85.7%.-->
+In 2009, there were 113 reported crime incidence in the municipality. The crime solution efficiency rate is registered at 97.26%.<ref>{{cite web|url=http://www.hagonoybulacan.gov.ph/business/default.asp|title=Welcome to Hagonoy, Bulacan, Philippines Official Website : Business in Hagonoy, Bulacan|url-status=dead|archive-url=https://web.archive.org/web/20110719092324/http://www.hagonoybulacan.gov.ph/business/default.asp |archive-date=19 July 2011}}</ref>
+
+===Health and nutrition===
+There are 3 hospitals operating in Hagonoy – 2 private hospitals and a government-controlled district hospital. The Emilio Perez Memorial District Hospital, situated at Barangay Santo Nino, is a 50-bed capacity hospital that offers secondary healthcare services. It is one of the district hospitals owned and controlled by the Provincial Government of Bulacan. Immediately beside it is the Mateo-Mabborang General Hospital, a private hospital which was opened on October 9, 2010. The Divine Word Hospital is a private hospital situated at Barangay San Pedro also offers secondary healthcare services.
+
+These hospitals are being complemented by the Amado Aldaba Memorial Health Center, the main rural health unit (RHU) being operated by the municipal government. It offers primary healthcare services which also includes laboratory and dental services. Aside of this, 3 other rural health units in barangays San Juan, San Nicolas and Santo Rosario are also under the local government, headed by the municipal officer in RHU-Aldaba, and 3 other physicians are servicing the other RHUs.
+
+The municipality also operates two (2) physical therapy and rehabilitation centers. The first is located at the municipal compound while the other is situated at Barangay Santa Monica.
+
+The medical personnel of the municipal government is composed of 4 Rural Health Physicians, 4 public nurses, 26 midwives, 2 sanitary inspectors, 1 medical technologist and 2 dentists. These are aided by the 172 [[Barangay Health Worker]]s at the barangay level.
+
+On the other hand, nutrition program is being implemented by the Municipal Nutrition Office. At the barangay, they are assisted by the 29 Lingkod Lingap sa Nayon (LLNs) supported by 189 Mother Leaders. As of 2008, there were 35 identified very low and 565 low nutritional status in Hagonoy.
+
+===Transportation===
+[[File:Bridges12jf.JPG|thumb|right|The hanging bridge]]
+In Hagonoy, the primary and most dominant mode of transportation is [[Motorized tricycle (Philippines)|tricycle]] because of its narrow roads. In 2011, there are 4,671 registered members of Tricycle Operators and Drivers Association (TODA) in Hagonoy<ref>{{cite web|url=http://ugnayan.com/ph/Bulacan/Malolos/article/IOH|title=Tricycle drivers urged to register in 1st provincial TODA congress|work=ugnayan}}</ref> servicing all barangays except Pugad and Tibaguin. Both of those barangays are being served by passenger boats.
+
+Other modes of transportation are [[jeepney]]s and buses. There are about 565 registered jeepneys in Hagonoy plying 2 routes – Hagonoy-Malolos Bayan, and Hagonoy-[[Bulacan State University|BSU]]-Malolos Crossing-Robinsons. Passenger buses transport passengers in Hagonoy to and from [[Divisoria]], [[Caloocan|Monumento]], [[Quezon City#Cubao|Cubao]] and [[Pasay]] in Metro Manila via the 2 bus companies that are presently operating in Hagonoy. The [[Baliwag Transit]] having 32 buses leaving Hagonoy every 30 minutes and the First North Luzon Transit with 11 buses leaving every 45 minutes.
+*[[Baliwag Transit]]
+*[[First North Luzon Transit]]
+*[[Jeepney]]s (going to [[Paombong]], [[Malolos]] Bayan, [[Bulacan State University|BSU]], Malolos Crossing, and [[Robinsons Malls|Robinsons Malolos]])
+*Tricycles (most common mean of tranpostation locally)
+
+'''Hanging and wooden bridges'''
+
+The four hanging bridges which are now in state of disrepair are located in barangays Iba, Abulalas, Carillo and San Agustin. Barangay Abulalas' hanging bridge links it to Barangay San Isidro II in Paombong town. The bridge is about 200 meters long as it crossed the downstream of the Labangan Channel. In Barangay Carillo, residents said the hanging bridge in their village linking Barangay Abulalas was totally damaged just before the 2007 elections. Its steel cable snapped while supporters of a mayoralty candidate were crossing in April 2007. In Barangay San Agustin, residents are trying to protect what remains of their hanging bridge that links with Barangay San Pablo.<ref>{{cite news|title=Hanging bridge sa Hagonoy, Bulacan, maaaring bumigay at masira|url=http://www.gmanetwork.com/news/video/106561/oncall/-hanging-bridge-sa-hagonoy-bulacan-maaaring-bumigay-at-masira|access-date=5 February 2016|work=GMA News|date=7 January 2016|language=fil}}</ref><ref>{{cite web|url=http://mabuhayonline.blogspot.com/2012/01/dpwh-urged-to-rush-repair-of-hagonoy.html |title=Mabuhay Online: DPWH urged to rush repair of Hagonoy hanging bridges |website=Mabuhayonline.blogspot.com |date=2012-01-13 |access-date=2016-12-07}}</ref><ref>{{cite web|url=http://punto.com.ph/News/Article/13106/Volume-5-No-100/Headlines/DPWH-urged-to-rush-repair-of-hanging-bridges |title=Punto! Central Luzon |website=Punto.com.ph |date=2012-01-12 |access-date=2016-12-07}}</ref>
+
+{{wide image|Bridgeshagonoyjf.JPG|1500px|Panorama from the bridge over the Angat River}}
+
+===Power and water supply===
+The power requirement of the entire municipality is supplied by the [[Meralco|Manila Electric Company]] (Meralco) including the coastal barangays of Pugad and Tibaguin. While the Hagonoy Water District provides the water requirement of Hagonoy. It supplies the daily water use of all 26 barangays using their 24 barangay pump stations.
+
+===Cemeteries===
+*Hagonoy Public Cemetery
+*Hagonoy Catholic Cemetery
+*Hagonoy Memorial Park
+*Peralta Cemetery (San Sebastian)
+*Santo Rosario Catholic Cemetery
+*Santa Elena Catholic Cemetery
+*San Juan Cemetery
+*Iba Cemetery
+*Cherubim of Heaven Memorial Park (San Pedro)
+
+==Education==
+The educational institutions in Hagonoy is composed of: 29 public elementary schools, 10 private elementary schools, 4 public secondary schools, 4 private schools, 26 Day Care Centers, 1 Technical/Vocational School and 1 satellite campus of a state university.
+
+In School Year 2008–2009, the combined elementary school enrollment is 17,934, where 9 out of the 10 students are enrolled in public elementary school. On the other hand, secondary school enrolment is registered at 10,477 students, of which 78.45% are enrolled in public high school.<ref>{{cite web|url=http://www.hagonoybulacan.gov.ph/about/education.asp |archive-url=https://web.archive.org/web/20120303023911/http://www.hagonoybulacan.gov.ph/about/education.asp |url-status=dead |archive-date=2012-03-03 |title=Welcome to Hagonoy, Bulacan, Philippines Official Website : About Hagonoy - Socio-Economic Profile |access-date=2016-12-07}}</ref>
+
+Every barangay has a Day Care Center with an assigned Day Care Worker. The total number of children enrolled is 1,315 in School Year 2008–2009, composed of 629 boys and 686 girls.
+
+===Tertiary/Technical schools===
+The [http://bsuhagonoy.weebly.com/index.html Bulacan State University - Hagonoy Campus] is a satellite university of [[Bulacan State University]] situated at Barangay Iba-Ibayo officially opened on June 7, 2011. The fourth satellite campus of BulSU offers courses on Criminology, Education, Engineering, Information Technology, Industrial Technology, Hospitality Management and Tourism Management.
+
+===Public schools===
+
+'''College'''
+*Bulacan State University-Hagonoy Campus (Iba and Carillo)
+
+'''High schools'''
+*Iba National High School
+*Mayor Ramona S. Trillana National High School
+*Santa Monica National High School
+*San Pedro National High School
+*Don Miguel High School
+
+'''Elementary schools'''
+{{columns-list|colwidth=20em|
+*Hagonoy East Central School (Santo Niño)
+*Hagonoy West Central School (Santo Rosario)
+*Abulalas Elementary School
+*Carillo Elementary School
+*Federico C. Suntay Elementary School (Palapat)
+*Hangga Elementary School (San Pedro)
+*Iba Elementary School
+*Iba-Ibayo Elementary School
+*Iba Poblacion Elementary School (Iba)
+*Mercado Elementary School
+*Pugad Elementary School
+*Sagrada Familia Elementary School
+*San Agustin Elementary School
+*Eugenio G. Sy Tamco Elementary School (San Isidro)
+*San Jose Elementary School
+*San Juan Elementary School
+*San Nicolas Elementary School
+*San Pablo Elementary School
+*San Pascual Elementary School
+*San Roque Elementary School
+*San Sebastian Elementary School
+*Santa Elena Elementary School
+*Santa Monica Elementary School
+*Tampok Elementary School
+*Tibaguin Elementary School
+*Don Miguel Elementary School (San Nicolas)
+*Sitio Buga Elementary School (Santa Elena)
+*Teodora Cruz Elementary School (San Miguel)
+*VCRaymundo Elementary School (Santa Cruz)
+}}
+
+===Private schools===
+[[File:Bhagonoy123jf.JPG|thumb|right|Saint Mary's Academy of Hagonoy]]
+[[File:Stannehagonoyjf.JPG|thumb|right|Saint Anne's Catholic School]]
+'''High schools'''
+*Godwin's Montessori School
+*Saint Anne's Catholic School (formerly known as Saint Anne's Catholic High School)
+*Saint Mary's Academy of Hagonoy (or SMA, formerly known as Saint Anne's Academy)
+*Mother of Perpetual Help School (offering Junior High School only)
+
+'''Elementary schools'''
+[[File:05283jfHagonoy Town Proper Bulacan Landmarksfvf 24.jpg|thumb|right|200px|Hagonoy Ecumenical School]]
+*Godwin's Montessori School
+*Hagonoy Ecumenical School
+*Holy Child School of Hagonoy
+*Jesus is Lord Christian School
+*Saint Mary's Academy of Hagonoy
+*Santiago Trillana Academy
+*School of Wisdom for Ideal Children
+*St. Anne's Catholic School
+*Mother of Perpetual Help School
+*Victoria-Vazquez Christian School
+
+'''Pre-School'''
+*Kid's Lane Learning Center
+*Mother of Perpetual Help School
+
+==Notable personalities==
+*[[Pedro Bantigue y Natividad]] - a Priest and Bishop who served as [[Roman Catholic Archdiocese of Manila|Auxiliary Bishop of the Archdiocese of Manila]] and first Bishop of the [[Roman Catholic Diocese of San Pablo|Diocese of San Pablo, Laguna]].
+*[[Blas Ople|Blas F. Ople]] - a journalist and politician having served several high-ranking positions in the executive and legislative branch of the Philippine government including [[President of the Senate of the Philippines#List of Senate Presidents|Senate President]], [[Department of Foreign Affairs (Philippines)#List of the Secretaries of the Department of Foreign Affairs|Secretary of Foreign Affairs]] and [[Department of Labor and Employment (Philippines)|Minister of Labor]].
+*[https://opinion.inquirer.net/byline/pablo-s-trillana-iii-knights-of-rizal-and-philippine-historical-association Pablo S. Trillana III] - a historian and [[Knights of Rizal|Knight Grand Cross of Rizal]], who served as chairman of the [[National Historical Commission of the Philippines|National Historical Institute]] from 1999 to April 2002.
+
+==Gallery==
+<gallery widths="200" heights="150">
+File:50Hagonoy Market Roads Bridges River Landmarks Bulacan 41.jpg|Hagonoy Public Market
+File:9846Hagonoy Roads Church School Park Landmarks Bulacan 35.jpg|Hagonoy Public Market Commercial Complex
+File:9911Hagonoy Market Roads Bridges River Landmarks Bulacan 35.jpg|Punduhang Bayan ng Hagonoy
+File:09630jfEste Roads Abulalas San Pedro Iba Ibayo Hagonoy Bulacan Wooden Bridge Riverfvf 03.JPG|Abulalas Wooden Bridge (now destroyed and replaced by a concrete bridge; since 2020)
+File:JfAbulalas223HagonoyBridgefvf.JPG|Abulalas Hanging Bridge
+File:0748jfCarillo Abulalas Roads Trees Landmarks River Hagonoy Bulacanfvf 27.jpg|Sub-Parish Church of Nuestra Señora Del Santisimo Rosario (Barangay Carillo)
+File:09081jfNational Shrine of Saint Anne Sto. Niño Hagonoy Bulacanfvf 12.jpg|Col. Santiago Trillana Monument
+File:9797Hagonoy Roads Church School Park Landmarks Bulacan 07.jpg|Holy Cross Marker for the foundation of Hagonoy
+File:FvfIba,Hagonoy,BulPark0285 22.JPG|Save the Unborn Monument
+File:FvfIba,ParkHagonoyBul0311 06.JPG|Iba Barangay Hall
+File:FvfIba,Hagonoy,BulPark0172 05.JPG|A monument in Ibanians Park Place
+File:FvfSanIsidroHagonoy0416 03.JPG|Manuel "Kapitan Tuwi" Garcia Monument
+File:JfMercado9331Hagonoyfvf 08.JPG|Sub-Parish Church of Virgen de los Remedios (Barangay Mercado)
+File:0356jfHagonoy Bulacan Church Roads Schools Landmarksfvf 30.jpg|Sub-Parish Church of St. Anthony of Padua (Barangay Palapat)
+File:9596Hagonoy Roads Church Shrine School Landmarks Bulacan 35.jpg|Rev. Fr. Celestino Rodriguez monument (Founder of St. Anne's Catholic School)
+File:9747Hagonoy Roads Church School Park Landmarks Bulacan 18.jpg|St. Anne's Catholic School
+File:0859jfHagonoy Bulacan Roads Landmarksfvf 45.jpg|Sub-Parish Church of Jesus Nazareno (Barangay San Agustin)
+File:FvfSanIsidroHagonoy0416 20.JPG|Sub-Parish Church of San Isidro
+File:JfSanJose9298Hagonoyfvf 11.JPG|Sub-Parish Church of San Jose
+File:FvfSanMiguelHagonoyHT0544 04.JPG|Sub-Parish Church of San Miguel
+File:JfSanNicolas9581Hagonoyfvf 08.JPG|Sub-Parish Church of St. Nicholas of Tolentino
+File:JfSanPascual9680SantaCruzHagonoyfvf 17.JPG|Sub-Parish Church of San Pascual
+File:0810jfSan Pedro Hagonoy Restaurant Bulacanfvf 04.jpg|Minia's Kainan at Meriendahan (Barangay San Pedro)
+File:JfSanPedro0001Hagonoyfvf 15.JPG|Engr. Manuel R. Contreras Memorial Production Center - Hagonoy Water District
+File:JfSanRoque9621SantaCruzHagonoyfvf 08.JPG|Sub-Parish Church of San Roque
+File:05322jfHagonoy Town Proper Bulacan Landmarksfvf 25.jpg|Sub-Parish Church of San Sebastian
+File:JfSanRoque9621SantaCruzHagonoyfvf 15.JPG|Sub-Parish Church of Santa Cruz
+File:FvfHagonoySMSM0699 27.JPG|Santa Monica Barangay Hall
+File:JfSantaMonica9275HagonoyBulacanfvf 19.JPG|Sub-Parish Church of Santa Monica
+File:JfSantaMonica9350HagonoyBulacanfvf 38.JPG|Santa Monica Multi-purpose Center
+File:0762jfHagonoy Bulacan Roads Shrine Landmarksfvf 45.jpg|St. Mary's Academy of Hagonoy Centennial Marker
+File:JfSantoNino9175SanAgustinHagonoyfvf 12.JPG|Sub-Parish Church of Santo Niño
+</gallery>
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category}}
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+*[http://www.hagonoy.bulacan.ph/ Hagonoy Bulacan]
+* [http://hagonoy.site50.net/ Hagonoy Bulacan Website] {{Webarchive|url=https://web.archive.org/web/20090310044338/http://hagonoy.site50.net/ |date=2009-03-10 }}
+* [https://web.archive.org/web/20190711082638/https://www.census.gov.ph/ Philippine Census Information]
+* [https://web.archive.org/web/20130115200709/http://www.census.gov.ph/content/2010-census-population-and-housing-reveals-philippine-population-9234-million 2010 Philippine Census Information]
+* [https://web.archive.org/web/20090228180315/http://unstats.un.org/unsd/demographic/sconcerns/densurb/urban.aspx Population of capital cities and cities of 100,000 and more inhabitants] United Nations Statistics Division, accessed August 24, 2006
+
+{{Geographic location
+| Centre = Hagonoy
+| North  = [[Calumpit, Bulacan|Calumpit]]
+| East   = [[Paombong, Bulacan|Paombong]]
+| South  = ''[[Manila Bay]]''
+| West   = [[Masantol, Pampanga]]<br />[[Macabebe, Pampanga]]
+}}
+
+{{Navboxes
+| title = Articles Related to Hagonoy, Bulacan
+| list  = 
+{{Bulacan}}
+{{Central Luzon}}
+}}
+
+{{Authority control}}
+
+[[Category:Municipalities of Bulacan]]
+[[Category:Populated places on Manila Bay]]
+[[Category:Populated places on the Pampanga River]]

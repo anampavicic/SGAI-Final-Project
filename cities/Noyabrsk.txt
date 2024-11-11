@@ -1,0 +1,192 @@
+{{Infobox Russian inhabited locality
+|en_name=Noyabrsk
+|ru_name=Ноябрьск
+|image_skyline=City center of Noyabrsk.jpg
+|image_caption=Noyabrsk city center
+|coordinates = {{coord|63|12|N|75|27|E|display=inline,title}}
+|map_label_position=top
+|image_coa=Coat of Arms of Noyabrsk (Yamal Nenetsia).png
+|coa_caption=
+|image_flag=Flag of Noyabrsk (Yamal Nenetsia).svg
+|flag_caption=
+|anthem=
+|anthem_ref=
+|holiday=First Sunday of September
+|holiday_ref=
+|federal_subject=[[Yamalo-Nenets Autonomous Okrug]]
+|federal_subject_ref=<ref name="Ref928" />
+|adm_city_jur=[[city of federal subject significance|city of okrug significance]] of Noyabrsk
+|adm_city_jur_ref=<ref name="Ref928" />
+|adm_ctr_of=city of okrug significance of Noyabrsk
+|adm_ctr_of_ref=<ref name="Ref928" />
+|inhabloc_cat=City
+|inhabloc_cat_ref=<ref name="Ref928" />
+|inhabloc_type=
+|inhabloc_type_ref=
+|urban_okrug_jur=Noyabrsk Urban Okrug
+|urban_okrug_jur_ref=<ref name="Ref932" />
+|mun_admctr_of=Noyabrsk Urban Okrug
+|mun_admctr_of_ref=<ref name="Ref932" />
+|leader_title=Head
+|leader_title_ref=
+|leader_name=Alexey Romanov
+|leader_name_ref=
+|representative_body=[[City Duma of Noyabrsk|City Duma]]
+|representative_body_ref=
+|area_km2=
+|area_km2_ref=
+|pop_2010census=110,620
+|pop_2010census_rank=144th
+|pop_2010census_ref=<ref name="2010Census" />
+|pop_density=
+|pop_density_as_of=
+|pop_density_ref=
+|pop_latest=
+|pop_latest_date=
+|pop_latest_ref=
+|established_date=October&nbsp;26, 1977
+|established_title=
+|established_date_ref=
+|current_cat_date=April&nbsp;28, 1982
+|current_cat_date_ref=<ref name="Charter" />
+|prev_name1=
+|prev_name1_ref=
+|postal_codes=629811
+|postal_codes_ref=
+|dialing_codes=3496
+|dialing_codes_ref=
+|website=http://admnoyabrsk.ru/
+}}
+'''Noyabrsk''' ({{lang-rus|Ноя́брьск|p=nɐˈjabrʲsk}}; [[Tundra Nenets language|Tundra Nenets]]: Нюдя Пэвдей марˮ, romanized: ''Njudja Pəvdej marꜧ''; [[Forest Nenets language|Forest Nenets]]: Нюча пэ”дя”й марˮ, romanized: ''Njuča pəꜧdjaꜧj marꜧ'') is the second largest [[types of inhabited localities in Russia|city]] in [[Yamalo-Nenets Autonomous Okrug]], [[Russia]], located in the middle of the  [[West Siberia]]n [[oil field]]s, on the [[Tyumen]]–[[Novy Urengoy]] railway about {{convert|300|km|sp=us}} north of [[Surgut]]. Population: {{ru-census2010|110,620|.}}
+
+==History==
+The city history dates back to 1975 when a landing party arriving by [[helicopter]] disembarked on the ice of the [[Itu-Yakha River]] to start developing Kholmogorskoye oil field. In November 1976, the first party of railway builders arrived at the site of the future city and camped out by [[Lake Khanto]] with the task of creating a settlement. On October&nbsp;26, 1977, the settlement of Noyabrsk, which grew around the [[train station|railway station]] of Noyabrskaya, was officially registered.{{citation needed|date=June 2010}} It was decided to choose the name of "Noyabrsk" instead of the other proposal, "Khanto", to perpetuate the memory of the first arrival in November 1976, as the Russian word for November is "{{lang|ru|ноябрь}}" (''noyabr''). The settlement was granted [[urban-type settlement|work settlement]] status on November&nbsp;12, 1979 and that of a town on April&nbsp;28, 1982.<ref name="Charter">''Charter of the Municipal Formation of the City of Noyabrsk'', adopted on January&nbsp;1, 2006</ref>
+
+==Administrative and municipal status==
+Within the [[subdivisions of Russia#Administrative divisions|framework of administrative divisions]], it is incorporated as the '''[[city of federal subject significance|city of okrug significance]] of Noyabrsk'''—an administrative unit with the status equal to that of the [[administrative divisions of Yamalo-Nenets Autonomous Okrug|districts]].<ref name="Ref928">Law #42-ZAO</ref> As a [[subdivisions of Russia#Municipal divisions|municipal division]], the city of okrug significance of Noyabrsk is incorporated as '''Noyabrsk Urban Okrug'''.<ref name="Ref932">Law #101-ZAO</ref>
+
+==Demographics==
+<div style="width:70%;">
+{| class="wikitable"
+|-
+|+ bgcolor = #efefef colspan=8 align="center" | '''Population changes'''
+|-
+| align="center" | '''Year'''
+! 1982
+! 1986
+! 1989
+! 1996
+! 2002
+! 2004
+! 2006
+! 2010
+!2021
+|-
+| align="center" | '''Population'''
+| 25,100
+| 68,000
+| 85,880<ref name="1989Census">{{ru-pop-ref|1989Census}}</ref>
+| 95,500
+| 96,440<ref name="2002Census">{{ru-pop-ref|2002Census}}</ref>
+| 98,400
+| 108,500
+| 110,620<ref name="2010Census">{{ru-pop-ref|2010Census}}</ref>
+|100,188
+|}
+*Graph of population growth:
+<timeline>
+ImageSize=width:390 height:200
+PlotArea=left:60 right:10 top:10 bottom:20
+TimeAxis=orientation:horizontal
+AlignBars=justify
+Colors=
+  id:gray1 value:gray(0.9)
+DateFormat=yyyy
+Period=from:1977 till:2010
+ScaleMajor=unit:year increment:10 start:1980
+PlotData=
+  bar:150000 color:gray1 width:1
+  from:start till:end
+  bar:100000 color:gray1
+  from:start till:end
+  bar:50000 color:gray1
+  from:start till:end
+  bar:0 color:gray1
+LineData =
+  layer:front
+  points:(60,22)(108,48)  color:blue  width:1
+  points:(108,48)(138,82)  color:blue  width:1
+  points:(138,82)(176,117)  color:blue  width:1
+  points:(176,117)(283,130)  color:blue  width:1
+  points:(283,130)(302,129)  color:blue  width:1
+  points:(302,129)(312,137)  color:blue  width:1
+</timeline></div>
+
+The average age of the population is just over 30.<ref name="rusbiz" />
+
+==Economy==
+The economy of Noyabrsk is based on [[hydrocarbons]] production. Noyabrsk is the base of operations for two major companies.<ref name="rusbiz" /> [[Gazpromneft–Noyabrskneftegaz]] is a major oil producing subsidiary of [[Gazprom Neft]].<ref name="gazpromneft">{{cite web|url=http://ir.gazprom-neft.com/gazprom-neft-at-a-glance/oil-production/|title=Oil Exploration and Production|publisher=Gazprom Neft|access-date=2009-12-29}}</ref> It is the largest oil company in [[Yamalo-Nenets Autonomous Okrug]] and accounts for 6% of Russia's total oil production. In the [[natural gas]] sector, [[Gazprom dobycha Noyabrsk]]—one of the three leading [[Gazprom]] subsidiaries—has an annual production of 85 billion cubic meters.<ref name="rusbiz"/> This corresponds to 9.3% of Gazprom's total yearly gas production.<ref name="figures2008">{{cite web|url=http://www.gazprom.com/f/posts/71/879403/3se.pdf|title=Gazprom in figures 2004–2008|year=2009|publisher=Gazprom|access-date=2009-07-02}}</ref> It operates several [[gas field]]s around the city. To the northeast: the Vyngapurovskoye (launched in 1978) and Vyngayakhinskoye (launched in 2006) fields; and to the northwest: the Komsomolskoye (launched in 1993) and Zapadno-Tarkosalinskoye (launched in 1996) fields. The main business advantage of Gazprom dobycha Noyabrsk is the low prime cost of production. The company also provides operator services in gas and consensation production and gas treatment.<ref name="gazprom">{{cite web|url=http://www.gazprom.com/subsidiaries/list-items/1169/|title=Gazprom dobycha Noyabrsk|publisher=Gazprom|access-date=2009-12-29}}{{Dead link|date=April 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> In addition, there are over 1,000 companies providing services for the oil and gas industry and support for the social infrastructure of the city.<ref name="rusbiz">{{cite web|url=http://www.rusbiznews.com/regions/The_Urals_Federal_District/The_Yamalo-Nenets_Autonomous_Okrug/Noyabrsk.html|title=Noyabrsk|publisher=RusBusinessNews|access-date=2009-12-29}}</ref>
+
+===Transportation===
+The [[Noyabrsk Airport]] is located approximately {{convert|6|km|sp=us}} to the west of the city. It is a modern airport capable of landing large aircraft.<ref name="rusbiz" /> There are flights most days to [[Moscow]] ([[Domodedovo International Airport|Domodedovo]] or [[Vnukovo International Airport|Vnukovo Airports]]), several times a week to Salekhard, and to a variety of other locations. The town is divided into a smaller southern part, Noyabrsk-I, and a larger northern part, Noyabrsk-II, each having its own [[train station]]. which has caught novice travellers out in the past. The railway line separates the residential part of the town from the industrial sites that service the oil fields.
+
+==Media and communication==
+The oldest local newspaper is "Severnaya Vakhta" ({{langx|ru|Се́верная Ва́хта}}, "Northern [[Watch system|Watch]]"). Its first issue came out in January 1983. {{As of|2007}}, the paper is printed thrice a week and is distributed not only in the town but also in the neighbouring settlements - [[Hanymey]], [[Vingapurovskiy]], [[Muravlenko]], [[Kholmy, Yamalo-Nenets Autonomous Okrug|Kholmy]].
+There is also a local newspaper called ''Region 57'' after the registration plate code for cars from the area, and a newspaper ''Slovo Neftyanika'' ({{langx|ru|Сло́во Нефтя́ника}}, "The word of the Oil-Worker"). The town has its radio stations, such as ''Radio Noyabrsk'', a TV channel ''Mig'' ({{langx|ru|Миг}}, a moment), a ''Tele-express'' studio.
+
+==Education==
+The first school in Noyabrsk opened in 1977, barely a year after the beginning of the settlement. Now Noyabrsk has 14 schools, a pedagogical college, an evening school, a children's art and a children's musical schools and driving schools. Providing higher education services to the population are 8 branches and 4 affiliated schools of higher education establishments of Tyumen, Tomsk and other cities of Russia.<ref name="rusbiz"/>
+
+==Recreation, sports, sights==
+Noyabrsk boasts numerous sport facilities, including artificial ice rink and a number of open-air rinks in the winter, cross-country skiing tracks, several indoor swimming pools, a number of gyms and indoor playing fields used for football, basketball, volleyball, lawn-tennis, ping-pong, martial arts training, boxing.
+
+The [[motocross]] track of Noyabrsk presents an arena for the annual ''Yamal motocross cup'' championship; one of stages of Russian motocross championship is also conducted here.
+
+Recreation for the visiting oil worker or resident also includes a movie theater, shopping centers, bars.
+
+During summer, [[Lake Khanto]] {{convert|2|km}} north of the town is popular for walking and barbecues. A little further from the town are other popular lakes, [[Lake Svetloye|Svetloye]] and [[Lake Szemchuzhnoye|Szemchuzhnoye]].
+
+In the summer and during early autumn the forests and marshes attract many people for hiking, camping and gathering berries and mushrooms.
+
+In winter, there is a cross-country ski-club to the immediate west of the residential districts. Winter also normally has an "Ice Palace" constructed for some weeks in the town center's park, beside the city administrative offices.
+
+There is a park with a [[Ferris wheel]] in the center of the town.
+
+There is a [[Great Patriotic War]] memorial in the town, with the traditional [[eternal flame]].
+
+The ''Museum Resource Center of Noyabrsk'' comprises three departments: arts museum, town history museum, and the museum of children art. It boasts a rich [[ethnography|ethnographical]] collection and provides place for diverse thematical expositions.<ref name="Museum1">[http://www.museum.ru/M1854 Noyabrsk Museum Resource Center]—from the catalogue site "Museums of Russia".</ref>  In 2007 the center was awarded Grand Prix at the annual [[Yamal Peninsula|Yamal]] Museum Projects festival.<ref name="Museum_Grand_Prix_2007">[http://www.regions.ru/news/cultura/2073071/ Grand Prix goes to Noyabrsk Museum Center] - news report dated 02.05.2007</ref>
+
+Two religious landmarks of the town are the [[Russian Orthodox]] ''[[Archangel Michael]] Church'', which stands on a hill surrounded by trees, and a mosque.
+
+==Crime==
+Noyabrsk was a very young and partially [[closed city|closed town]] during the Soviet era, with a predominantly professional working population, which provided some protection from external criminal influence. With its opening in the early 1990s and with oil and gas industry maintaining relatively high living standards in the economic turmoil of Post-Soviet Russia, illicit drug business became highly profitable, drawing criminal elements from other regions. The situation was compounded by the police and officials being [[political corruption|corrupted]] and ill-equipped to tackle the problem and by the general lack of occupations for the teenagers. The drug abuse situation in Noyabrsk was covered on national TV and in other media and finally official and citizen organisations arose to fight the problem.<ref name="Drug_01">[http://www.vsluh.ru/news/society/106195.html Teenage drug use goes down] - news report.</ref>
+
+On March&nbsp;17, 2009, a criminal case against the mayor Nikolay Korobkov was sent to court. According to the prosecution, he transferred some municipal property to a private company when he didn't have the power to do so.<ref name=korobkovcase>{{cite news|first=Igor|last=Lesovskikh|title=Мэра Ноябрьска направили в суд |url=http://www.kommersant.ru/doc.aspx?docsid=1139747|publisher=[[Kommersant]]|date=March 18, 2009|access-date=March 18, 2009 }}</ref>
+
+==Twin towns and sister cities==
+{{See also|List of twin towns and sister cities in Russia}}
+
+Noyabrsk is [[Twin towns and sister cities|twinned]] with:
+*{{Flagicon|Ukraine}} [[Korosten]], [[Ukraine]] (1999)
+
+==References==
+===Notes===
+{{Reflist|35em}}
+
+===Sources===
+*{{RussiaAdmMunRef|yan|adm|law}}
+*{{RussiaAdmMunRef|yan|mun|list|noyabrsk}}
+
+==External links==
+*[https://web.archive.org/web/20070929104749/http://www.noyabrskadm.ru/ Official website of Noyabrsk]
+*Official website of Yamalo-Nenets Autonomous Okrug. [http://www.adm.yanao.ru/128/ Information about Noyabrsk]
+
+{{Yamalo-Nenets Autonomous Okrug}}
+{{Authority control}}
+{{Use mdy dates|date=October 2012}}
+
+[[Category:Noyabrsk| ]]
+[[Category:Cities and towns built in the Soviet Union]]
+[[Category:Populated places established in 1977]]
+[[Category:Socialist planned cities]]
+[[Category:Former urban-type settlements of Yamalo-Nenets Autonomous Okrug]]

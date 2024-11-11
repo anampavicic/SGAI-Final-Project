@@ -1,0 +1,84 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| official_name      = Youssoufia
+| other_name         = 
+| native_name        = {{lang|ar|اليوسفية}}
+| nickname           = 
+| settlement_type    = Town
+| motto              = <!-- images and maps  ----------->
+| image_skyline      = 
+| imagesize          = 
+| image_caption      = 
+| image_flag         = 
+| flag_size          = 
+| image_seal         = 
+| seal_size          = 300px
+| image_map          = 
+| mapsize            = 
+| map_caption        = 
+| pushpin_map        = Morocco#Africa
+| pushpin_relief     = 1
+| pushpin_label_position = bottom
+| pushpin_mapsize    = 300
+| pushpin_map_caption = Location in Morocco
+| subdivision_type   = Country
+| subdivision_name   = {{flag|Morocco}}
+| subdivision_type1  = [[Regions of Morocco|Region]]
+| subdivision_name1  = [[Marrakesh-Safi]]
+| subdivision_type2  = [[Provinces of Morocco|Province]]
+| subdivision_name2  = [[Youssoufia Province|Youssoufia]]
+| subdivision_type3  = 
+| subdivision_name3  = <!-- Politics ----------------->
+| government_footnotes = 
+| government_type    = 
+| leader_title       = 
+| leader_name        = 
+| established_title  = <!-- Settled -->
+| established_date   = <!-- Area    --------------------->
+| area_magnitude     = 
+| unit_pref          = Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes     = 
+| area_total_km2     = 
+| area_land_km2      = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->| population_as_of   = 2014
+| population_footnotes = <ref name=census2014>{{cite web |url=http://rgph2014.hcp.ma/file/166326/ |title=POPULATION LÉGALE DES RÉGIONS, PROVINCES, PRÉFECTURES, MUNICIPALITÉS, ARRONDISSEMENTS ET COMMUNES DU ROYAUME D’APRÈS LES RÉSULTATS DU RGPH 2014 |language=ar, fr |publisher=[[Haut Commissariat au Plan|High Commission for Planning, Morocco]] |date=8 April 2015 |access-date=29 September 2017}}</ref>
+| population_note    = 
+| population_total   = 67628
+| population_density_km2 = <!-- General information  --------------->
+| timezone           = [[Western European Time|WET]]
+| utc_offset         = +0
+| timezone_DST       = [[Western European Summer Time|WEST]]
+| utc_offset_DST     = +1
+| elevation_footnotes = <!--for references: use <ref> tags-->
+| elevation_m        = 
+| elevation_ft       = <!-- accord. to Google Earth-->
+<!-- Area/postal codes & others -------->| postal_code_type   = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code        = 
+| area_code          = 
+| blank_name         = 
+| blank_info         = 
+| website            = 
+| footnotes          = 
+| name               = 
+}}
+'''Youssoufia''' ({{Langx|ar|اليوسفية}}) is the capital of [[Youssoufia Province]] in [[Marrakesh-Safi]], [[Morocco]]. In the [[2014 Moroccan census]] it recorded a population of 67,628,<ref name=census2014/> up from 64,518 ten years ago.<ref>[https://archive.today/20121205090801/http://www.world-gazetteer.com/wg.php?x=1248940887&men=gcis&lng=en&des=wg&geo=-6441&srt=npan&col=adhoq&msz=1500 World Gazetteer]</ref>
+
+It is known for its [[phosphate]] production. The city was founded in 1931 by the French when they began to exploit the phosphate deposits of the Gantour basin.{{Citation needed|date=March 2024}}
+
+==Notable people==
+* [[Ismahane Elouafi]],  geneticist,  was born here in 1971.
+* [[Samir Sarsare]], a football player.
+
+==References==
+{{Reflist}}
+
+{{Marrakesh-Safi}}
+{{Authority control}}
+{{Coord|32|15|N|8|32|W|display=title|region:MA_type:city_source:GNS-enwiki}}
+
+[[Category:Populated places in Youssoufia Province]]
+[[Category:1931 establishments in Morocco]]
+[[Category:Provincial capitals in Morocco|Youssoufia, Morocco]]
+
+
+{{MarrakeshSafi-geo-stub}}

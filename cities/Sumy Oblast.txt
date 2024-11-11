@@ -1,0 +1,233 @@
+{{Short description|Oblast (region) of Ukraine}}
+{{Rough translation|listed=yes|date=April 2023}}
+{{Use dmy dates|date=September 2020}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Sumy Oblast
+| native_name                     = Сумська область
+| native_name_lang                = uk<!-- ISO 639-2 code e.g. "fr" for French. -->
+| official_name                   = Sumska oblast<ref>{{Cite book|last1=Syvak|first1=Nina|last2=Ponomarenko|first2=Valerii|last3=Khodzinska|first3=Olha|last4=Lakeichuk|first4=Iryna|date=2011|editor-last=Veklych|editor-first=Lesia|others=scientific consultant Iryna Rudenko; reviewed by Nataliia Kizilowa; translated by Olha Khodzinska|title=Toponymic Guidelines for Map and Other Editors for International Use|url=https://unstats.un.org/unsd/geoinfo/UNGEGN/docs/Toponymic%20guidelines%20PDF/Ukraine/Verstka.pdf|page=20|access-date=2020-10-06|website=[[United Nations Statistics Division]]|publisher=DerzhHeoKadastr and Kartographia|publication-place=Kyiv|isbn=978-966-475-839-7}}</ref>
+| nickname                        = {{lang|uk|Сумщина}} ({{transl|uk|Sumshchyna}})
+| settlement_type                 = [[Oblasts of Ukraine|Oblast]]
+| image_skyline                   = 
+| image_alt                       = 
+| image_caption                   = 
+| image_flag                      = Flag of Sumy Oblast.svg
+| flag_alt                        = Flag of Sumy Oblast
+| image_shield                    = Coat of Arms of Sumy Oblast.svg
+| shield_alt                      = Coat of arms of Sumy Oblast
+| image_map                       = Sumy in Ukraine.svg
+| mapsize                         = 275px
+| map_alt                         = 
+| map_caption                     = 
+| coordinates                     = 
+| coor_pinpoint                   = 
+| coordinates_footnotes           = 
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{UKR}}
+| parts_type                      = [[List of cities in Sumy Oblast|Largest cities]]
+| parts_style                     = para
+| p1                              = 
+| established_title               = 
+| established_date                = 
+| seat_type                       = [[Administrative centre|Administrative center]]
+| seat                            = [[Sumy]]
+| leader_party                    = 
+| leader_title                    = [[Governor of Sumy Oblast|Governor]]
+| leader_name                     = [[Volodymyr Artyukh]] 
+| leader_title1                   = [[Sumy Oblast Council|Oblast council]]
+| leader_name1                    = 64<ref name="sorada.gov.ua">{{in lang|uk}} [https://sorada.gov.ua/pro-oblasnu-radu/34-about-sumy-oblast-council/15701-spysok-deputativ-sumskoji-oblasnoji-rady-somogo-sklykannja.html List of members of the Sumy Regional Council of the Sixth Convocation] {{Webarchive|url=https://web.archive.org/web/20201001192034/https://sorada.gov.ua/pro-oblasnu-radu/34-about-sumy-oblast-council/15701-spysok-deputativ-sumskoji-oblasnoji-rady-somogo-sklykannja.html |date=1 October 2020 }}, Official website Sumy Parliament</ref> seats
+| leader_title2                   = Chairperson
+| leader_name2                    = Viktor Fedorchenko
+| unit_pref                       = Metric<!-- or US or UK -->
+| area_footnotes                  = 
+| area_total_km2                  = 23834
+| area_land_km2                   = 
+| area_water_km2                  = 
+| area_water_percent              = 
+| area_rank                       = [[List of Ukrainian oblasts and territories by area|Ranked 16th]]
+| elevation_footnotes             = 
+| elevation_m                     = 
+| population_footnotes            = <ref name="ua2022estimate"/>
+| population_total                = {{decrease}} 1,035,772
+| population_rank                 = [[List of Ukrainian oblasts and territories by population|Ranked 19th]]
+| population_as_of                = 2022
+| population_blank1_title         = Annual growth
+| population_blank1               = 
+| population_density_km2          = auto
+| demographics_type1       = GDP
+| demographics1_footnotes  = <ref>{{Cite web|title=Валовии регіональнии продукт|url=https://ukrstat.gov.ua/druk/publicat/kat_u/2023/05/zb_vrp_2021.xlsx}}</ref>
+|demographics1_title1     = Total
+|demographics1_info1      = ₴ 105 billion<br />(€2.7 billion)
+| demographics1_title2     = Per capita
+|demographics1_info2      = ₴ 100,760<br />(€2,600)
+|blank5_name_sec1= [[Human Development Index|HDI]] (2022)
+|blank5_info_sec1 = 0.737<ref>{{Cite web|title= Sub-national HDI - Area Database - Global Data Lab |url= https://globaldatalab.org/shdi/table/shdi/UKR/?levels=1+4&years=2022&interpolation=0&extrapolation=0 |website=hdi.globaldatalab.org|language=en}}</ref><br />{{color|#0c0|high}}
+| blank_name_sec1                 = [[Raions of Ukraine|Raion]]s
+| blank_info_sec1                 = 18
+| blank1_name_sec1                = [[List of cities in Ukraine by subdivision#Sumy Oblast|Cities]] <small>(total)</small>
+| blank1_info_sec1                = 15
+| blank2_name_sec1                = •&nbsp;[[City of regional significance (Ukraine)|Regional cities]]
+| blank2_info_sec1                = 7
+| blank3_name_sec1                = [[List of urban-type settlements in Ukraine by subdivision#Sumy Oblast|{{nowrap|Urban-type settlements}}]]
+| blank3_info_sec1                = 20
+| blank4_name_sec1                = Villages
+| blank4_info_sec1                = 1492
+| timezone1                       = [[Eastern European Time|EET]]
+| utc_offset1                     = +2
+| timezone1_DST                   = [[Eastern European Summer Time|EEST]]
+| utc_offset1_DST                 = +3
+| postal_code_type                = [[Ukrainian postal codes|Postal code]]
+| postal_code                     = [[Ukrainian postal codes|40000-41999]]
+| area_code_type                  = [[Area code#Ukraine|Area code]]
+| area_code                       = [[Area code#Ukraine|+380-54]]
+| iso_code                        = [[ISO 3166-2:UA|UA-59]]
+| registration_plate_type         = [[Vehicle registration plates of Ukraine|Vehicle registration]]
+| registration_plate              = 
+| blank_name_sec2                 = [[FIPS 10-4]]
+| blank_info_sec2                 = [[List of FIPS region codes (S-U)#UP: Ukraine|UP21]]
+| website                         = [https://sorada.gov.ua/ sorada.gov.ua]
+| footnotes                       = 
+}}
+'''Sumy Oblast''' ({{langx|uk|Сумська область|Sumska oblast}}), also known as '''Sumshchyna''' ({{langx|uk|Сумщина|label=none}}), is an [[administrative divisions of Ukraine|oblast]] (province) in northeast [[Ukraine]]. The oblast was created in its most recent form, from the merging of [[Raion|raions]] from [[Kharkiv Oblast]], [[Chernihiv Oblast]], and [[Poltava Oblast]] in 1939 by the [[Presidium of the Supreme Soviet]] of the [[Soviet Union]].
+
+The estimated population is {{Ua-pop-est2022|1,035,772|.}}
+
+The administrative center of the oblast is the city of [[Sumy]]. Other important cities within the oblast include [[Konotop]], [[Okhtyrka]], [[Romny]], and [[Shostka]]. The modern region combines territories of the historical [[Severia]] (northern part) and [[Sloboda Ukraine]] (southern part). On territory of the Sumy Oblast important centers of Ukrainian culture are located, such as the city of [[Hlukhiv]] which served as a hetman residence during the [[Cossack Hetmanate]] as well as the cities of [[Okhtyrka]] and [[Sumy]] which were regional centers of the [[Sloboda Ukraine]].
+
+The oblast has a heavy mix of agriculture and industry, with over 600 industrial locations. Among the most notable was the Soviet [[film stock]] manufacturer [[Svema]] in [[Shostka]]. Importantly, seven rivers pass through the oblast.
+
+==Geography==
+{{Infobox city
+|module ={{Infobox mapframe|display=right|wikidata=yes|zoom=7|marker=|coord={{WikidataCoord|display=i}}}}
+}}
+The Sumy Oblast is situated in the northeastern part of Ukraine. In Ukraine it borders [[Chernihiv Oblast]] to its west, [[Poltava Oblast]] – southwest, and [[Kharkiv Oblast]] – southeast. To its east Sumy Oblast borders the [[Russian Federation]] including [[Bryansk Oblast|Bryansk]] on the northeast, [[Kursk Oblast|Kursk]] and [[Belgorod Oblast|Belgorod]] on the east. The length of the [[State Border of Ukraine|state border]] [[Russia–Ukraine border|with the Russian Federation]] is {{convert|563.8|km|mi|abbr=on}}. There are three railway border crossing (Volfine, Pushkarne, Zernove) and five highway border crossings (Bachivsk, Katerynivka, Ryzhivka, Yunakivka, Velyka Pysarivka). In regard to border crossings, since 2006 the city of Sumy has [[Sumy Airport|an airport]] which has an international checkpoint.
+
+On its territory the [[Dnieper Lowland]] transitions east to the [[Central Russian Upland]]. The northern part of Sumy Oblast is part of the [[Polesie Lowland]] as its eastern region. Elevation is 110–240 m above sea level.<ref name=invest>{{cite web |url=http://www.ukrproject.gov.ua/sites/default/files/upload/sumy_for_web-site_1.pdf |title=ІNVESTMENT PASSPORT of Sumy oblast |year=2013 |access-date=12 August 2014 |publisher=State Agency for Investment and National Projects of Ukraine |work=investukraine.com |archive-url=https://web.archive.org/web/20140813110733/http://www.ukrproject.gov.ua/sites/default/files/upload/sumy_for_web-site_1.pdf |archive-date=13 August 2014}}</ref>
+Its area (23,800&nbsp;km<sup>2</sup>) constitutes 3.95% of the country.
+
+Seven main rivers flow through the oblast, with [[Desna (river)|Desna River]] being the largest.<ref name=invest/> All of them are transit because crossing the oblast flowing from the territory of the Russian Federation west towards [[Dnieper]]. All rivers in Sumy Oblast are part of the Dnieper River basin.
+
+The Sumy Oblast contains 168 objects and territories of natural reserve. The oblast is rich in picturesque banks of numerous rivers, and sources of mineral waters. 
+Major environmental problems are: [[soil erosion]], [[pesticide pollution]], air and [[water pollution]]. The city has a problem of garbage utilization.
+The only place for pesticide utilization in Ukraine{{Citation needed|date=December 2023|reason=That sounds implausible}} is Shostka, Sumy Oblast.
+
+==History==
+The region was created on the ukase of [[Presidium of the Supreme Soviet]] of the [[Soviet Union]] on 10 January 1939 as part of the [[Ukrainian Soviet Socialist Republic]]. The newly created Sumy Oblast included 12 former [[Raions of Ukraine|raions]] of [[Kharkiv Oblast]], 17 former raions of [[Chernihiv Oblast]], and 2 former raions of [[Poltava Oblast]].
+
+During [[World War II]] in 1941–43, it was occupied by [[Nazi Germany]] under administration of the German [[Wehrmacht]]. After the German forces were driven out, the Soviet Union regained control of the region under jurisdiction of the [[Ukrainian Soviet Socialist Republic]].
+
+In 1965 one of former Chernihiv Oblast raions ([[Talalaivka Raion]]) was returned to Chernihiv Oblast.
+
+During the 2022 [[Russian invasion of Ukraine]] the Sumy Oblast was one of the first regions where [[Northern Ukraine offensive|Russian and Ukrainian forces clashed]].<ref>{{cite web|date=24 February 2022|title=Украинские пограничники сообщили об атаке границы со стороны России и Белоруссии|url=https://www.interfax.ru/world/824058|url-status=live|archive-url=https://web.archive.org/web/20220224073734/https://www.interfax.ru/world/824058|archive-date=24 February 2022|access-date=24 February 2022|website=Interfax}}</ref><ref>{{cite web|author=|date=|title=Войска России на севере Украины продвинулись вглубь до пяти километров – Арестович|url=https://www.unian.net/war/voyska-rossii-na-severe-ukrainy-prodvinulis-vglub-do-pyati-kilometrov-arestovich-novosti-donbassa-11715571.html|url-status=live|archive-url=https://web.archive.org/web/20220224091205/https://www.unian.net/war/voyska-rossii-na-severe-ukrainy-prodvinulis-vglub-do-pyati-kilometrov-arestovich-novosti-donbassa-11715571.html|archive-date=24 February 2022|access-date=24 February 2022|website=|language=}}</ref><ref name="hromadske.online">{{cite web|author=|date=24 February 2022|title=Перші три дні повномасштабної російсько-української війни (текстовий онлайн) &#124; Громадське телебачення|url=https://hromadske.ua/posts/rosijsko-ukrayinska-vijna-tekstovij-onlajn|url-status=live|archive-url=https://web.archive.org/web/20220224060243/https://hromadske.ua/posts/rosijsko-ukrayinska-vijna-tekstovij-onlajn|archive-date=24 February 2022|access-date=24 February 2022|website=[[Hromadske]]|language=uk}}</ref> Parts of the oblast [[Russian occupation of Sumy Oblast|came under Russian occupation]] during the invasion. On 4 April 2022 [[Governor of Sumy Oblast]] [[Dmytro Zhyvytskyi]] stated that Russian troops no longer occupied any towns or villages in Sumy Oblast and had mostly withdrawn, while Ukrainian troops were working to push out the remaining units.<ref>[https://nationalpost.com/pmn/news-pmn/russian-troops-no-longer-hold-any-settlements-in-ukraines-sumy-region-says-governor Russian troops no longer hold any settlements in Ukraine's Sumy region, says governor], [[National Post]] (4 April 2022)</ref> On 8 April 2022 Zhyvytskyi stated that all Russian troops had left Sumy Oblast.<ref>[https://www.pravda.com.ua/eng/news/2022/04/8/7338013/ Sumy region liberated from Russian troops], [[Ukrayinska Pravda]] (8 April 2022)</ref>
+
+On 9 June 2024, amid [[2024 northeastern Ukraine offensive|Russian cross-border operations]] in neighboring [[Kharkiv Oblast]], Russian forces claimed to have attacked and captured the border village of [[Ryzhivka]], though this was denied by Ukrainian authorities.<ref>{{cite web | url=https://strana.news/news/466365-armija-rf-zakhvatila-selo-ryzhevka-sumskoj-oblasti-ramzan-kadyrov.html | title=Кадыров заявил, что войска РФ захватили село в Сумской области }}</ref><ref>https://www.reuters.com/world/europe/chechen-leader-kadyrov-says-russian-troops-capture-ukrainian-border-village-2024-06-09/ {{Bare URL inline|date=August 2024}}</ref>
+
+==Points of interest==
+The following historic-cultural sited were nominated for the [[Seven Wonders of Ukraine]].
+* Monument to a Mammoth (Kulishivka)
+* Kruhlyi dvir (Round court)
+* Sofroniiv Monastery
+
+==Administrative divisions==
+{{main|Administrative divisions of Sumy Oblast}}
+[[File:Sumy oblast detail map.png|thumb|right|175px|Detailed map of Sumy Oblast]] 
+[[File:Stamp of Ukraine s1711 – 1714.jpg|thumb|right|175px|Block of 4 stamps "Beauty and greatness of Ukraine. Sumy region" (2018)]] 
+It comprises 5 [[raions]] (districts) that are further subdivided into 51 [[Hromada|territorial hromadas]] (communities).
+
+The following data incorporates the number of each type of administrative divisions of the Sumy Oblast:
+
+* Administrative Center – 1 ([[Sumy]]);
+* [[Raions]] – 5;
+* [[Hromada|Hromadas]] – 51.
+
+The local administration of the oblast is controlled by the Sumy Oblast council. The governor of the oblast (chairman of state regional administration) is appointed by the [[President of Ukraine]].
+
+== Demographics ==
+[[File:Студенти на футквесті.jpg|thumb|Students of the Sumy Oblast [[Maputo University|Pedagogical University]]]]
+[[File:Sumska2001languages.PNG|thumb|The most common native language in the cities and village councils of the Sumy Oblast according to the 2001 census - [[Ukrainian language|Ukrainian]] (blue): 84.0%, [[Russian language in Ukraine|Russian]] (red): 15.6%]]
+At the [[2001 Ukrainian census|2001 census]], the ethnic groups within the Sumy Oblast were: 88.8% [[Ukrainians]], 9.4% [[Russians in Ukraine|Russians]].<ref>{{cite web |title=Results of the population census of Ukraine in 2001 |url=http://www.demoscope.ru/weekly/2004/0173/analit05.php |publisher=Demoscope Weekly}}</ref> A major Russian subethnicity in the region is the [[Goryuns]].
+
+===Age structure===
+: ''0-14 years:'' 12.7% {{increase}} (male 74,529/female 70,521)
+: ''15-64 years:'' 70.8% {{decrease}} (male 386,250/female 422,077)
+: ''65 years and over:'' 16.5% {{steady}} (male 60,374/female 127,306) (2013 official){{citation needed|date=December 2015}}
+
+===Median age===
+: ''total:'' 42.0 years {{increase}}
+: ''male:'' 38.6 years {{increase}}
+: ''female:'' 45.4 years {{increase}} (2013 official){{citation needed|date=December 2015}}
+
+==Economy==
+
+===Industry===
+
+The main industrial activities of the oblast are: chemical mechanical engineering, pumping and energy mechanical engineering, agricultural machine-construction, instrument-making industry and radio electronics, technical equipment production for processing fields of agro-industrial complexes, mining and iron ore production industry, polygraph industry and medicine production, oil and gas processing, chemical production, film and photo material production ''(See: [[Svema]])'', and chemical fertilizer production. In general, there are 273 large industry enterprises and 327 small industry enterprises.
+
+===Agriculture===
+
+In 1999, the gross grain yield was about 446,000 tons, sugar beets – 664,000 tons, sunflower seeds – 27,700 tons, potatoes – 343,600 tons. The region also produced 108,700 tons of meat, 517,800 tons of milk and 295,300,000 eggs. At the beginning of 1999, there were 781 registered farms in the oblast.
+
+==Notable people from Sumy Oblast==
+* [[Viktor Yushchenko]] – 3rd [[President of Ukraine]] (2005–2010); [[Khoruzhivka]] village
+* [[Yevhen Adamtsevych]] – a Ukrainian [[bandurist]], the author of [[Zaporizhian March]]
+* [[Ivan Bahrianyi]] – a Ukrainian poet and a political leader in exile; [[Okhtyrka]]
+* [[Alexei Berest|Oleksi Berest]] – one of the soldiers who hoisted the [[Victory Banner]] in Berlin and a posthumous [[Hero of Ukraine]].
+* [[Dmitry Bortniansky]] – a Ukrainian composer; [[Hlukhiv]]
+* [[Dmitry Chechulin]] – chief architect of [[Moscow]]; born [[Shostka]] in 1901
+* [[Thomas de Hartmann]], composer
+* [[Volodymyr Holubnychy]] – [[race walker]], Olympic gold medal; [[Sumy]]
+* [[Abram Ioffe]], an academician, "father of the Soviet physics"; [[Romny]]
+* [[Ivan Nikitovich Kozhedub]] – WW2 ace and air marshal of the Soviet Union.
+* [[Panteleimon Kulish]], Ukrainian writer, author of Ukrainian alphabet variation; [[Voronizh]]
+* [[Vladimir Kuts]], long distance runner, Olympic gold medal; [[Trostianets Raion, Sumy Oblast|Trostianets Raion]]
+* [[Mykola Khvylovy]], poet, one of the most recognized members of the so called [[Executed Renaissance]]
+* [[Ada Rohovtseva]], stage actress of theater and cinema, People's Actor of Ukraine, USSR People's Actor, Hero of Ukraine
+* [[Andrey Razumovsky]], son of [[Kyrylo Rozumovsky]], [[Active Privy Councillor, 1st class]]
+* Natalia Ivanovna Sedova – Wife of [[Leon Trotsky]], born Romny 1882
+* [[Stephen Timoshenko]] – considered as "America's father of [[engineering mechanics]]" (1878-1972)
+* [[Leonid Toptunov]] – senior reactor control chief engineer at the Chernobyl Nuclear Power Plant Reactor Unit 4 on the night of the [[Chernobyl disaster]]
+* [[Vladimir Sakhnenko|Vladimir Sakhenko]], [[Painting|painter]] and [[Ceramic art|ceramist]]
+
+==Nomenclature==
+
+Most of Ukraine's oblasts are named after their capital cities, officially referred to as "oblast centers" ({{langx|uk|обласний центр}}, [[Romanization of Ukrainian|translit.]] ''oblasnyi tsentr''). The name of each oblast is a [[relative clause|relative]] [[adjective]], formed by adding a feminine [[suffix]] to the name of respective center city: ''Sumy'' is the center of the ''Sums’ka oblast'' (Sumy Oblast). Most oblasts are also sometimes referred to in a feminine noun form, following the convention of traditional regional place names, ending with the suffix "-shchyna", as is the case with the Sumy Oblast, ''Sumshchyna''.
+
+{{See also |Romanization of Ukrainian}}
+
+== Gallery ==
+<gallery>
+File:Skyline of Sumy (cropped).jpg|Skyline of [[Sumy]]
+File:Георгіївська церква (мур.), Охтирка P1490651.jpg|St. George's Church in [[Okhtyrka]]
+File:Руїни на місці Путивльської фортеці (Вигляд 2).jpg|[[Putyvl]] Fortress
+File:Глухівський національний педагогічний університет 03.jpg|[[Hlukhiv]] '''[[Maputo University]]'''
+File:Galitzine Manege.jpg|Kruhlyi dvir in [[Trostianets]]
+File:Trostyanets' Park Neskuchne Trostyanetskiy Park 03 Neskuchans'ka 5 (YDS 7781).JPG|Trostianets Park
+File:Стариця Десни біля Очкино.jpg|[[Desna-Stara Huta National Nature Park]]
+File:Околиці Замкової гори в селі Куземин 04.jpg|[[Hetman National Nature Park]]
+File:Сумський обласний художній музей ім. Никанора Онацького .jpg|Nikanor Onatsky Art Museum
+File:Дзвіниця Спасо-Преображенського собору в Сумах.jpg|Transfiguration Cathedral
+File:Сумська Альтанка зима ніч.jpg|Sumy, square Pokrovska 
+File:Пам'ятник Тарасу.jpg|Monument to Taras
+</gallery>
+
+==See also==
+* [[Subdivisions of Ukraine]]
+* [[Russian occupation of Sumy Oblast]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+== External links ==
+* [http://www.sm.gov.ua/uk/ State Administration of Sumy Oblast] – official site {{in lang|uk}} 
+* [http://www.kmu.gov.ua/control/en/publish/article?art_id=116895&cat_id=32596 Information Card of the Region] – official site of the Cabinet of Ministers of Ukraine
+* [https://web.archive.org/web/20040602094848/http://sumy.net/ Independent regional Web-portal] – news, features, entertainment & tourism info {{in lang|uk}}
+
+{{Sumy Oblast}}
+{{Administrative divisions of Ukraine}}
+{{Authority control}}
+{{coord|51|00|N|34|00|E|region:UA_type:adm1st|display=title}}
+
+[[Category:Sumy Oblast| ]]
+[[Category:Oblasts of Ukraine]]
+[[Category:States and territories established in 1939]]
+[[Category:1939 establishments in Ukraine]]

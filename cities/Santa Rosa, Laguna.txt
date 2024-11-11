@@ -1,0 +1,621 @@
+{{Short description|Component city in Laguna, Philippines}}
+{{distinguish|Laguna de Santa Rosa}}
+{{More citations needed|date=November 2013}}
+{{Use mdy dates|date=February 2017}}
+{{Infobox settlement
+| name                    = {{PH wikidata|name}} 
+| image_skyline           = {{multiple image
+| perrow         = 2/2/2/2
+| border         = infobox
+| total_width    = 260
+| caption_align  = center
+| image1         = Santa Rosa Arch, Laguna, Jul 2024 (1).jpg
+| caption1       = [[Santa Rosa Arch]]
+| image2         = Enchanted kingdom entrance.jpg
+| caption2       = [[Enchanted Kingdom]]
+| image3         = City of Santa Rosa Multi-Purpose Complex, Laguna, Jul 2024.jpg
+| caption3       = [[City of Santa Rosa Multi-Purpose Complex|Multi-Purpose Complex]]
+| image4         = Santa Rosa de Lima Church, Laguna, Jul 2024 (1).jpg
+| caption4       = [[Santa Rosa de Lima Parish Church]]
+| image5         = 52Barangays Santa Rosa City Laguna Landmarks 01.jpg
+| caption5       = Laguna Technopark
+| image6         = Balibago, Santa Rosa, Laguna, Jul 2024.jpg
+| caption6       = Santa Rosa Commercial Complex
+| image7         = Cuartel_de_Santo_Domingo.JPG
+| caption7       = [[Cuartel de Santo Domingo]]
+| image8         = 9577Barangays Santa Rosa Laguna Landmarks 17.jpg
+| caption8       = Paseo Outlets
+}}
+| image_flag              = Flag of Santa Rosa, Laguna.png
+| flag_size               = 120x80px
+| image_seal              = Seal of Santa Rosa, Laguna.svg
+| seal_size               = 100x80px
+| image_map               = {{PH wikidata|image_map}}
+| map_caption             = {{PH wikidata|map_caption}}
+| image_map1              = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map             = Philippines
+| pushpin_label_position  = left
+| pushpin_map_caption     = Location within the {{PH wikidata|country}}
+| coordinates             = {{PH wikidata|coordinates}}
+| settlement_type         = {{PH wikidata|settlement_type}}
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Philippines]]
+| subdivision_type1       = [[Regions of the Philippines|Region]]
+| subdivision_name1       = {{PH wikidata|region}}
+| subdivision_type2       = [[Provinces of the Philippines|Province]]
+| subdivision_name2       = {{PH wikidata|province}}
+| official_name           = {{PH wikidata|official_name}}
+| etymology               = <!--origin of name-->
+| named_for               = [[Rose of Lima|St. Rose of Lima]]
+| other_name              = 
+| nickname                = 
+| motto                   = 
+| anthem                  = 
+| subdivision_type3       = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3       = {{PH legislative district}}
+| established_title       = [[Date of establishment|Founded]]
+| established_date        = January 18, 1792
+| established_title1      = Cityhood
+| established_date1       = July 10, 2004
+| parts_type              = [[Barangay]]s
+| parts_style             = para
+| p1                      = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title            = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name             = [[Arlene B. Arcillas]] <br/> ([[Lakas–CMD]])
+| leader_title1           = [[Vice Mayor]]
+| leader_name1            = Arnold B. Arcillas ([[Lakas–CMD]])
+| leader_title2           = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2            = [[Danilo Fernandez]] <br/> ([[National Unity Party (Philippines)|NUP]])
+| leader_title3           = [[Sangguniang Panlungsod|City Council]]
+| leader_name3            = {{PH Town Council
+ | 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Ma. Theresa C. Aala
+ | 3=Sonia U. Algabre
+ | 4=Roy M. Gonzales
+ | 5=Laudemer A. Carta
+ | 6=[[Jose Catindig Jr.|Jose B. Catindig Jr.]]
+ | 7=Mythor C. Cendaña
+ | 8=Jose Joel L. Aala
+ | 9=Antonio M. Tuzon Jr.
+ | 10=Rodrigo B. Malapitan 
+ | 11=Ina Clariza B. Cartagena
+ | 12=Manuel G. Alipon
+ | 13=Wilfredo A. Castro
+}}
+| leader_title4           = [[Elections in the Philippines#Qualification|Electorate]] 
+| leader_name4            = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type         = {{PH wikidata|government_type}}
+| government_footnotes    = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m             = {{PH wikidata|elevation_m}}
+| elevation_max_m         = 392
+| elevation_min_m         = 2
+| elevation_max_rank      =
+| elevation_min_rank      =
+| elevation_footnotes     = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes = 
+| elevation_min_footnotes =
+| area_rank               = 
+| area_footnotes          = {{PH area}}
+| area_total_km2          = {{PH wikidata|area}}
+| population_footnotes    = {{PH census|current}}
+| population_total        = {{PH wikidata|population_total}}
+| population_as_of        = {{PH wikidata|population_as_of}}
+| population_density_km2  = auto
+| population_blank1_title = [[Household]]s
+| population_blank1       = {{PH wikidata|household}} 
+| population_blank2_title = 
+| population_blank2       = 
+| population_demonym      = 
+| population_rank         = 2 out of 30 (in Laguna)<!--<ref>[[Laguna (province)#Administrative divisions]]</ref>{{Circular reference|date=May 2017}}-->
+| population_note         = 
+| timezone                = [[Philippine Standard Time|PST]]
+| utc_offset              = +8
+| postal_code_type        = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code             = 4026<br>4034 (Laguna Technopark)
+| postal2_code_type       = {{PSGCstyle}}
+| postal2_code            = {{PSGC detail}}
+| area_code_type          = {{areacodestyle}}
+| area_code               = {{PH wikidata|area_code}}
+| website                 = {{PH wikidata|website}}
+| demographics_type1     = [[Economy of the Philippines|Economy]]
+| demographics1_title1   = {{PH wikidata|income_class_title}}
+| demographics1_info1    = {{PH wikidata|income_class}}
+| demographics1_title2   = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2    = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3   = [[Revenue]]
+| demographics1_info3    = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}} 
+| demographics1_title4   = Revenue rank
+| demographics1_info4    = 
+| demographics1_title5   = [[Asset]]s
+| demographics1_info5    = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}} 
+| demographics1_title6   = Assets rank
+| demographics1_info6    = 
+| demographics1_title7   = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7    =  
+| demographics1_title8   = IRA rank
+| demographics1_info8    = 
+| demographics1_title9   = [[Expenditure]]
+| demographics1_info9    = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}} 
+| demographics1_title10  = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10   = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2     = Service provider 
+| demographics2_title1   = Electricity
+| demographics2_info1    = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2   = Water
+| demographics2_info2    =  
+| demographics2_title3   = Telecommunications
+| demographics2_info3    = 
+| demographics2_title4   = Cable TV
+| demographics2_info4    =
+| demographics2_title5   = 
+| demographics2_info5    =
+| demographics2_title6   = 
+| demographics2_info6    =
+| demographics2_title7   = 
+| demographics2_info7    =
+| demographics2_title8   = 
+| demographics2_info8    =
+| demographics2_title9   = 
+| demographics2_info9    =
+| demographics2_title10  = 
+| demographics2_info10   =
+| blank_name_sec1        = {{PH wikidata|climate_title}}
+| blank_info_sec1        = {{PH wikidata|climate_type}}
+| blank1_name_sec1       = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1       = {{PH wikidata|language}}
+| blank2_name_sec1       = [[Crime index]]
+| blank2_info_sec1       = 
+| blank3_name_sec1       = 
+| blank3_info_sec1       = 
+| blank4_name_sec1       = 
+| blank4_info_sec1       = 
+| blank5_name_sec1       = 
+| blank5_info_sec1       = 
+| blank6_name_sec1       = 
+| blank6_info_sec1       = 
+| blank7_name_sec1       = 
+| blank7_info_sec1       = 
+| blank1_name_sec2       = Major religions
+| blank1_info_sec2       = 
+| blank2_name_sec2       = Feast date
+| blank2_info_sec2       = 
+| blank3_name_sec2       = Catholic diocese
+| blank3_info_sec2       =
+| blank4_name_sec2       = Patron saint 
+| blank4_info_sec2       = 
+| blank5_name_sec2       = 
+| blank5_info_sec2       = 
+| blank6_name_sec2       = 
+| blank6_info_sec2       = 
+| blank7_name_sec2       = 
+| blank7_info_sec2       =
+| short_description      =
+| footnotes              =
+}}
+
+'''Santa Rosa''', officially the '''City of Santa Rosa''' ({{lang-fil|Lungsod ng Santa Rosa}}), is a 1st class [[Cities of the Philippines#Legal classification|component city]] in the [[Provinces of the Philippines|province]] of [[Laguna (province)|Laguna]], [[Philippines]]. According to the 2020 census, its population was 414,812 people.{{PH census|current}}
+
+It is the second largest local government unit in Laguna after [[Calamba, Laguna|Calamba]].{{PH census|current}} On August 28, 2019, President [[Rodrigo Duterte]] signed Republic Act No. 11395,<ref>{{cite PH act |title=An Act Separating the City of Santa Rosa from the First Legislative District of the Province of Laguna to Constitute the Lone Legislative District of Santa Rosa |chamber=RA |number=11395 |date=August 28, 2019 |url=https://www.officialgazette.gov.ph/downloads/2019/08aug/20190822-RA-11395-RRD.pdf |publisher=[[Official Gazette (Philippines)|Official Gazette of the Republic of the Philippines]]}}</ref> which separated the city from the [[Laguna's 1st congressional district|province's first district]] and granted the city its [[Santa Rosa's at-large congressional district|own congressional district]] to elect a representative in [[2022 Philippine general election|2022]]. However, for the purposes of electing [[Sangguniang Panlalawigan]] members, Santa Rosa remains part of the province's [[Laguna Provincial Board#1st District|first Sangguniang Panlalawigan District]].
+
+Santa Rosa was initially known for the [[Coca-Cola]], RC Cola, and [[Toyota]] manufacturing plants in its [[industrial park|industrial estates]]. It later became popular as the site of local [[theme park]] [[Enchanted Kingdom]] and several housing and commercial developments.
+
+==Etymology==
+Santa Rosa is derived from [[Spanish language|Spanish]] for Saint [[Rose of Lima]], its [[patron saint]] to whom it is consecrated to.<ref>{{cite web|url=https://santarosacity.gov.ph/about-us|title=About Us|website=Santa Rosa|accessdate=July 7, 2023}}</ref>
+
+== History ==
+{{stack|float=right|[[File:Santa Rosa 2017 stamp of the Philippines.jpg|thumb|2017 stamp of the Philippines dedicated to the 225th anniversary of Santa Rosa]]}}
+In 1571, Spanish ''[[conquistador]]'' [[Juan de Salcedo]], the grandson of [[Miguel López de Legazpi]], founded the town of [[Biñan]] which was annexed as a barrio to Tabuco (now [[Cabuyao, Laguna|Cabuyao]]) while exploring the region of [[Laguna de Bay]].
+
+In 1688, Biñan, together with Barrio Bukol, separated from [[Cabuyao, Laguna|Cabuyao]]. After a series of renaming and separating barrios to become independent towns, Barrio Bukol was politically emancipated as the municipality of Santa Rosa, founded on January 18, 1792.
+
+During the revolutionary period in 1898, the town was instrumental in the [[Philippine Declaration of Independence|proclamation of Philippine independence]] from [[Spain]] when the country signed the Act of Independence on June 12, 1898. Later on, the town's local revolutionaries fought alongside the forces of [[Pío del Pilar]] during the [[Philippine–American War]].
+
+[[File:Gusaling Museo, Santa Rosa, Laguna, Jul 2024.jpg|thumb|left|The present-day Gusaling Museo served as the municipal hall of Santa Rosa from 1828 to 1954.]]
+On February 5, 1945, the town was abandoned by [[Empire of Japan|Japanese]] soldiers when the local guerrilla resistance movement, with support from the American and [[Philippines|Filipino]] military contingent, entered the town, where skirmishes, torture, and deaths occurred.{{Clarify|reason=Perpetrated by the guerilla movement or the Japanese soldiers?|date=January 2021}}
+
+During the [[World War II|postwar era]] up until the 1970s, the townspeople primarily depended on basic agriculture and family-owned enterprises for their livelihood. The influence of industrialization grew in the 1980s with the entry of local and foreign investors who were responsible for the fast-paced economic and social transformation of the town and the province.
+
+=== Cityhood ===
+{{main|Cities of the Philippines}}
+On July 10, 2004, Santa Rosa was converted into a city by Republic Act No. 9264,<ref name="ra9264">{{cite PH act |title=An Act Converting the Municipality of Santa Rosa in the Province of Laguna into a Component City to be Known as the City of Santa Rosa |chamber=RA |number=9264 |date=March 10, 2004 |url=http://www.thecorpusjuris.com/legislative/republic-acts/ra-no-9264.php|publisher=The Corpus Juris }}</ref> which was approved by voters in the plebiscite. Leon Arcillas, who began his third and final term ten days before, became its first city mayor.
+
+===Contemporary===
+Arcillas was assassinated at the former city hall by three assailants.<ref>{{cite PH act |title=People of the Philippines, Plaintiff-appellee, V. Herminio Vidal, Jr. Y Uayan @ "Pato," Arnold David Y Cruz @ "Anot," Cipriano Refrea, Jr. Y Almeda @ "Cobra," Ricardo H. Pineda @ "Peter," Edwin R. Barqueros @ "Marvin," and Daniel Yason@ "Ace," Accused.; Herminio Vidal, Jr. Y Uayan @ "Pato," and Arnold David Y Cruz @ "Anot," Accused-appellants. |chamber=GR |number=229678 |date=June 20, 2018 |url=https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/64277|accessdate=April 6, 2023 |publisher=Supreme Court E-Library}}</ref> They were convicted and sentenced to life imprisonment in 2013.<ref>{{cite news|url=https://newsinfo.inquirer.net/396969/2-convicted-in-ex-sta-rosa-mayors-slay-masterminds-at-large-2|title=2 convicted in ex-Sta. Rosa mayor's slay; masterminds at large|first=Maricar|last=Cinco|date=April 24, 2013|website=Inquirer.net|accessdate=April 6, 2023}}</ref> [[Jose Catindig Jr.]], who served as vice mayor, became mayor to serve out the remainder of his term. On May 14, 2007, Catindig, who ran for his full term as mayor, was defeated by Arcillas' daughter [[Arlene B. Arcillas|Arlene]].
+
+==Geography==
+[[File:Santa Rosa City from air (Laguna; 11-24-2021).jpg|thumb|left|Santa Rosa aerial view]]
+Santa Rosa's land area is approximately {{convert|54.13|km2|sp=us}}. It is located west of [[Laguna de Bay]].
+
+The western half of the city occupies the numerous commercial, industrial, and business establishments, while the other is primarily composed of residential areas and subdivisions, schools, industrial zones, and various business establishments.
+
+Santa Rosa is {{convert|47|km|sp=us}} from [[Santa Cruz, Laguna|Santa Cruz]] and {{convert|40|km|sp=us}} from [[Manila]].
+
+===Barangays===
+[[File:Ph fil Santa Rosa Laguna.png|thumb|280px|{{center|'''Political map of Santa Rosa, Laguna'''}}]]
+Santa Rosa is politically subdivided into 18 [[barangay]]s. Each barangay consists of [[purok]]s and some have [[sitios]].
+
+{{div col|colwidth=15em}}
+*Aplaya
+*Balibago 
+*Caingin
+*Dila
+*Dita
+*Don Jose
+*Ibaba
+*Kanluran (Poblacion Uno)
+*Labas
+*Macabling
+*Malitlit
+*Malusak (Poblacion Dos)
+*Market Area (Poblacion Tres)
+*Pooc (Pook)
+*Pulong Santa Cruz
+*Santo Domingo
+*Sinalhan
+*Tagapo 
+{{div col end}}
+
+===Climate===
+{{Weather box
+| location     = Santa Rosa City, Laguna
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 29
+| Jan low C  = 21
+| Feb high C = 30
+| Feb low C  = 20
+| Mar high C = 32
+| Mar low C  = 21
+| Apr high C = 34
+| Apr low C  = 22
+| May high C = 32
+| May low C  = 24
+| Jun high C = 31
+| Jun low C  = 24
+| Jul high C = 29
+| Jul low C  = 24
+| Aug high C = 29
+| Aug low C  = 24
+| Sep high C = 29
+| Sep low C  = 24
+| Oct high C = 30
+| Oct low C  = 23
+| Nov high C = 30
+| Nov low C  = 22
+| Dec high C = 29
+| Dec low C  = 21
+| Jan precipitation mm = 10
+| Feb precipitation mm = 10
+| Mar precipitation mm = 12
+| Apr precipitation mm = 27
+| May precipitation mm = 94
+| Jun precipitation mm = 153
+| Jul precipitation mm = 206
+| Aug precipitation mm = 190
+| Sep precipitation mm = 179
+| Oct precipitation mm = 120
+| Nov precipitation mm = 54
+| Dec precipitation mm = 39
+| Jan rain days        = 5.2
+| Feb rain days        = 4.5
+| Mar rain days        = 6.4
+| Apr rain days        = 9.2
+| May rain days        = 19.7
+| Jun rain days        = 24.3
+| Jul rain days        = 26.9
+| Aug rain days        = 25.7
+| Sep rain days        = 24.4
+| Oct rain days        = 21.0
+| Nov rain days        = 12.9
+| Dec rain days        = 9.1
+| source 1 = Meteoblue<ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/santa-rosa_philippines_1687894
+| title =  Santa Rosa: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| access-date = May 11, 2020 }}</ref>
+| date = May 11, 2020 }}
+
+==Demographics==
+[[File:SantaRosa,Lagunajf9604 11.JPG|thumb|Santa Rosa downtown]]
+The population of Santa Rosa is fast-growing with an intercensal growth rate of 7% from 1990 to 1995, exponentially increasing in subsequent decades (except between the 2007 and 2010 censuses).
+{{Div flex row|align-items=center}}
+{{Philippine Census
+| align = left
+| cols = 2
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote = Source: [[Philippine Statistics Authority]]<!-- {{PH census|2015}} -->{{PH census|2010}}{{PH census|2007}}{{LWUA population data}}
+}}
+{{Graph:Chart
+ | type       = rect
+ | height     = 200
+ | width      = 250
+ | yAxisTitle = Population
+ | y          = 94719, 138257, 185633, 269943, 284670, 353767, 414812
+ | xAxisTitle = Year
+ | x          = 1990, 1995, 2000, 2007, 2010, 2015, 2020
+ | colors     = DarkGray
+ | yAxisFormat = 
+ }}
+{| class="wikitable"
+|+ Population density
+! Year !! Density
+|-
+| 1990 || {{rnd| 94719/54.84| -1}}/km{{sup|2}}
+|-
+| 1995 || {{rnd| 138257/54.84| -1}}/km{{sup|2}}
+|-
+| 2000 || {{rnd| 185633/54.84| -2}}/km{{sup|2}}
+|-
+| 2007 || {{rnd| 269943/54.84| -2}}/km{{sup|2}}
+|-
+| 2010 || {{rnd| 284670/54.84| -2}}/km{{sup|2}}
+|-
+| 2015 || {{rnd| 353767/54.84| -2}}/km{{sup|2}}
+|-
+| 2020 || {{rnd| 414812/54.84| -2}}/km{{sup|2}}
+|}
+{{Div flex row end}}
+Some inhabitants of Santa Rosa today erroneously refer to themselves as "Rosanians"; since Santa Rosa is a Spanish name, the correct [[demonym]] should be "Rosaños".
+
+===Ethnic groups===
+Like other places in [[Metro Manila]], the original settlers in Santa Rosa are [[Tagalog people|Tagalogs]]. Throughout the centuries, there has been constant migration of [[Spanish people|Spaniards]], [[Visayans]], [[Bicolano people|Bikolanos]], [[Ilocano people|Ilokanos]], [[Han Chinese|Chinese]], [[American people|Americans]], [[Japanese people|Japanese]], and [[Koreans]].
+
+===Languages===
+The main language is [[Filipino language|Filipino]], which is based on [[Tagalog language|Tagalog]]. In addition, due to continuous development of the city, [[English language|English]] is used in education, business and information technology.
+
+===Religion===
+[[File:Santa rosa delima parish.jpg|thumb|[[Santa Rosa de Lima Parish Church]], located at the city proper]]
+Most people are [[Catholic Church|Catholics]]. Other religious groups represented include the Aglipayans (members of the Iglesia Filipina Independiente – a breakout group from the Catholic Church in 1902 headed by the Union Obrera Democratica), the [[Members Church of God International|Church of God International]], the [[United Church of Christ in the Philippines]], [[Jesus Is Lord Church]], [[Baptist]], [[Jehovah's Witness]], and [[Iglesia Evangelica Unida de Cristo]] (Unida Evangelical Christian Church). In 1994, some migrants and expatriates have formed the Saint Nicholas Orthodox Church (under the canonical jurisdiction of The Orthodox Metropolitanate of Hong Kong/Philippines-Ecumenical Patriarchate) in Golden City Subdivision.
+
+== Economy ==
+{{stack|float=left|{{PH poverty incidence}}}}
+Santa Rosa is considered to be the premier city and hub of South Luzon. It is also known as the Lion City of South Luzon. In 2022, the city had an income of {{Philippine peso|4.99 billion|link=yes}}.<ref>{{cite web|url=https://www.coa.gov.ph/download/5902/laguna/76184/santa-rosa-city-executive-summary-2022.pdf&usg=AOvVaw0mHmWEzlJNc7d87QfJpW_k&opi=89978449|title=Santa Rosa City Executive Summary|publisher=[[Commission on Audit (Philippines)|Commission on Audit]]|accessdate=March 26, 2024}}</ref> It became the richest city in Luzon outside of Metro Manila in terms of annual income.
+
+Special economic zones and industrial parks in Santa Rosa include:
+{{div col|colwidth=30em}}
+*Laguna Technopark Inc.
+*Greenfield Automotive Park
+*Toyota Special Economic Zone
+*Lakeside Evozone Nuvali
+*Daystar Santa Rosa Industrial Park
+*Santa Rosa Commercial Complex
+*Meridian Industrial Complex
+{{div col end}}
+
+Townships such as Greenfield City, Nuvali, Eton City, and Sta. Elena City are also located in the Santa Rosa.
+
+===Shopping malls===
+[[File:SM City Santa Rosa (Manila South Road, Santa Rosa, Laguna)(2018-08-26).jpg|thumb|SM City Santa Rosa]]
+The city host various [[shopping mall]]s: [[SM City Santa Rosa]], [[Robinsons Malls|Robinsons Sta. Rosa]], [[Ayala Malls|Ayala Malls Solenad]], [[Walter Mart]] Santa Rosa, Walter Mart Santa Rosa Bel-Air, Victory Mall Santa Rosa, Target Mall, [[Vista Malls|Vista Mall Sta. Rosa]], Paseo Outlets (formerly and still commonly known as Paseo de Santa Rosa), Laguna Central, Arcadia, Eton City Square, Sta. Rosa Town Center, and SRCC Southmall. A new [[CityMall (Philippines)|CityMall]] branch, Sta. Rosa Gateway by Toplite, and SM Santa Rosa Yulo are currently under construction.<ref>{{cite news|url=https://www.rappler.com/business/sm-open-new-malls-2024/|title=SM to open 5 new malls in 2024 as PH retail rebounds big|first=Isagani Jr.|last=De Castro|date=February 27, 2024|accessdate=April 20, 2024|work=Rappler}}</ref>
+
+===Industries and manufacturing===
+Dubbed as the "Motor City of the Philippines" or "Detroit City of the Philippines", Santa Rosa is host to multinational automotive giants [[Nissan Motor Philippines|Nissan]], [[Toyota Motor Philippines|Toyota]], and [[Mitsubishi Motors Philippines|Mitsubishi]] – all contributing 95% of the country's automotive production. It is also the location for the headquarters of Santarosa Motor Works, Inc.
+
+Food conglomerate [[Monde Nissin Corporation]], which manufactures [[Lucky Me!]] [[instant noodles]] and Monde biscuits, has a {{convert|14|ha|adj=on|sp=us}} manufacturing facility in barangay Balibago. [[San Miguel Brewery]] and [[Magnolia (SMC brand)|Magnolia]] also have a plant in barangay Pulong Santa Cruz. Santa Rosa is also home to the largest plant of [[The Coca-Cola Company]] in the Philippines, situated next to the Santa Rosa Exit of [[South Luzon Expressway]]. In 2018, Santa Rosa became the new home of HAMBURG Trading Corporation's {{convert|7000|sqm|adj=on|sp=us}} facility that houses the company's warehouse, administration office, and state-of-the-art demo kitchen – all in one roof.
+
+===Information technology===
+Santa Rosa is aiming to be the next hub for the BPO industry. It is currently{{As of?|date=September 2023}} ranked 82nd in the world for its competitiveness in the Information Technology and Business Process Outsourcing services (IT-BPO) by the leading strategic advisory firm, THOLONS. BPO companies present in Santa Rosa are IQor, KGB, Teletech, [[IBM]] and Concentrix, mostly located in SM City Santa Rosa and Nuvali.{{clear left}}
+
+==Education==
+{{expand section|date=March 2023}}
+{{See also|Category:Schools in Santa Rosa, Laguna|Category:Education in Santa Rosa, Laguna}}
+[[File:9496Santa Rosa, Laguna Landmarks Attractions Roads 29.jpg|thumb|Santa Rosa Elementary School Central I]]
+Santa Rosa holds many schools, facilities and tutorial centers. There are 18 public elementary schools and 10 public high schools in the city, all overseen by the Schools Division Office (SDO) of Santa Rosa City,<ref>{{cite web|url=https://docs.google.com/spreadsheets/d/1GyPUaA_mhLzaf44kHs9EKxaPTCc2N6An-W5mpUQ4t8s/edit?pli=1#gid=888027441|title=School Directory updated as of March 01, 2023|publisher=Schools Division of Santa Rosa City|accessdate=September 30, 2023}}</ref> as well as 84 private schools as of 2023.<ref>{{cite web|url=https://docs.google.com/spreadsheets/d/1nDAf57Flkitj-pSqYS_bz09Qw15palTN/edit#gid=604274692|title=LIST OF PRIVATE SCHOOLS WITH PERMIT/ RECOGNITION IN SANTA ROSA CITY |publisher=Schools Division of Santa Rosa City|accessdate=September 30, 2023}}</ref> The [[Canossians]] built their [[Canossa School of Santa Rosa, Laguna|first Canossian school in the Philippines]] in Santa Rosa.
+
+Several higher education institutions headquartered outside the city have established branch or satellite campuses in Santa Rosa. [[Polytechnic University of the Philippines]] has one [[Polytechnic University of the Philippines Santa Rosa|campus]] in Santa Rosa, as well as [[STI College]], Citi Global College, [[Ateneo de Manila University]] (Ateneo Professional Schools), and [[Our Lady of Fatima University]]. Under-construction and planned satellite campuses include those of [[University of Santo Tomas]], [[University of the East]], and [[National University (Philippines)|National University]], respectively.<ref>{{cite web|url=https://www.smprime.com/wp-content/uploads/2023/03/SEC-Form-20-IS-Definitive_2022.pdf|title=2022 SEC Form 20-IS Definitive|date=March 10, 2023|website=SM Prime|accessdate=March 18, 2023}}</ref>
+
+==Infrastructure==
+===Transportation===
+[[File:CALAX Laguna Technopark Nuvali 2024-06-09.jpg|thumb|[[Cavite–Laguna Expressway|CALAX]]–Laguna Boulevard interchange in Don Jose]]
+Santa Rosa is serviced by [[South Luzon Expressway]] (SLEX) and [[Cavite–Laguna Expressway]] (CALAX). Two exits of SLEX are located in the city: Santa Rosa Exit and Eton City (Malitlit) Exit. The city is also accessible through Greenfield City (Mamplasan) Exit in Biñan, which provides access to CALAX, [[SM City Santa Rosa]], and the Santa Rosa city proper. Two exits of CALAX directly serve the city, namely: Santa Rosa–Tagaytay Exit (located in Barangay Carmen, Silang, Cavite) and Laguna Boulevard Exit (located within the city). The [[N1 highway (Philippines)|Manila South Road]] from [[Alabang]], [[Muntinlupa]] up to [[Calamba, Laguna]] passes through the city. Another road, [[Santa Rosa–Tagaytay Road]], acts as the main route for people going up to [[Tagaytay]] from Metro Manila, especially on weekends and vacation periods.
+
+[[File:9149Santa Rosa, Laguna Landmarks Attractions Roads 15.jpg|thumb|left|A jeepney plying the Santa Rosa Commercial Complex in Balibago]]
+Public transportation within the city, like in most of the urban areas in the [[Philippines]], is facilitated mostly using inexpensive [[jeepney]]s. [[Motorized tricycle (Philippines)|Tricycles]] are also used for short distances. Free rides are also offered by Toyota Motor Philippines, based in the city, at various key points through its partnership with the city government, starting in December 2023 for a duration of one year.<ref>{{cite news|url=https://www.topgear.com.ph/news/motoring-news/toyota-santa-rosa-pasay-city-libreng-sakay-a2619-20231203|title=Toyota's libreng sakay program in Santa Rosa and Pasay City is now operational|website=TopGear Philippines|date=December 3, 2023|accessdate=January 1, 2024}}</ref> <!-- In Laguna BelAir subdivision, residents uses exclusive multicab shuttles within the village complex. --> The [[Santa Rosa station (PNR)|Santa Rosa railway station]] of the [[Philippine National Railways]] and eventually the under-construction [[North–South Commuter Railway]] is located in barangay Labas, near the city proper. The city is also the location of the Santa Rosa Commercial Complex, a well-known intermodal transport and commercial hub in barangay Balibago, and the [[Santa Rosa Integrated Terminal]], a provincial bus station at [[SM City Santa Rosa]] in barangay Tagapo serving [[Metro Manila]] and eventually other parts south of Metro Manila. Point-to-point (P2P) bus terminals are also located at Nuvali Transport Terminal in barangay Santo Domingo for buses bound for [[Makati]] and [[Bonifacio Global City]], respectively, and in front of Robinsons Santa Rosa in barangay Tagapo for buses bound for [[Ninoy Aquino International Airport]].
+
+===Utilities and communication===
+[[File:9222Barangays Santa Rosa Laguna Landmarks 30.jpg|thumb|An aqueduct in Pulong Santa Cruz]]
+Santa Rosa's source of electricity is partly from [[Meralco]]. Its water supply is provided by the Laguna Water Inc., except for Vista Land Developments (including Sta. Elena City), which is provided by its sister company, Primewater Infrastructure Corporation. Santa Rosa's communication system is powered by [[Philippine Long Distance Telephone]] (PLDT) and [[Globe Telecom]], and the cellular network in the [[Philippines]], particularly in metropolitan areas, is increasing due to the low cost of calls and text messaging. Globe Telecom, [[Smart Communications]] (PLDT), and [[Dito Telecommunity]] provide cellular networks in Santa Rosa. Cable and satellite television access is provided by [[SkyCable]], [[G Sat]], [[Cignal Digital TV]], and Royal Cable. Internet [[Digital subscriber line|Digital Subscriber Line]] or DSL coverage is provided by PLDT, cable internet is serviced by SkyCable's ZPDee and Global Destiny. Fiber Internet Wireless broadband is provided by Globelines Broadband and Smart Communications.
+
+===Health===
+The Santa Rosa Community Hospital is the primary public hospital of Santa Rosa. The city also hosts at least seven other private hospitals: New Sinai MDI Hospital and Medical Center, Marian Hospital, Balibago Polyclinic and Hospital, St. James Hospital in Dita, Sta. Rosa Hospital and Medical Center along RSBS Boulevard in Balibago, [[The Medical City]] South Luzon in Greenfield City, and Healthway QualiMed Hospital – Sta. Rosa in Nuvali.
+
+==Government==
+===Local government===
+
+{{main|Sangguniang Panglungsod}}
+[[File:Santa Rosa City Hall (Rizal Blvd., Santa Rosa, Laguna)(2018-08-26).jpg|250px|thumb|right|Santa Rosa City Hall]]
+Santa Rosa City is governed primarily by the city mayor, the vice mayor, and the city councilors. The mayor acts as the chief executive of the city while the city councilors act as its legislative body. The vice mayor, besides taking on mayoral responsibilities in case of a temporary vacancy, acts as the presiding officer of the city legislature. The legislative body is composed of 12 regular members and representatives from the barangay and the youth council.
+
+===Elected officials===
+
+<!-- Deleted image removed: [[File:SRCityOfficials.jpg|460px|thumb|right|Santa Rosa City Officials]] -->
+
+{|class=wikitable
+|+ Santa Rosa city officials (2022–2025)
+|-
+!Name !!colspan=2|Party
+|-
+! colspan=3| House of Representatives
+|-
+| [[Danilo Fernandez|Danilo Ramon S. Fernandez]]
+| {{party name with colour|National Unity Party (Philippines)}}
+|-
+! colspan=3| City Mayor
+|-
+| [[Arlene B. Arcillas]]
+| {{party name with colour|Lakas-CMD}}
+|-
+! colspan=3| City Vice Mayor 
+|-
+| Arnold B. Arcillas
+| {{party name with colour|Lakas-CMD}}
+|-
+! colspan=3| City Councilors 
+|-
+| Ma. Theresa C. Aala
+| {{party name with colour|Lakas-CMD}}
+|-
+| Sonia U. Algabre
+| {{party name with colour|Ang Katipunan para sa Pag-Angat at Pagyabong ng Bayan Party}}
+|-
+| Roy M. Gonzales
+| {{party name with colour|Lakas-CMD}}
+|-
+| Laudemer A. Carta
+| {{party name with colour|Lakas-CMD}}
+|-
+| [[Jose Catindig Jr.|Jose B. Catindig Jr.]]
+| {{party name with colour|Lakas-CMD}}
+|-
+| Mythor C. Cendaña
+| {{party name with colour|Lakas-CMD}}
+|-
+| Jose Joel L. Aala
+| {{party name with colour|Lakas-CMD}}
+|-
+| Antonio M. Tuzon, Jr.
+| {{party name with colour|Ang Katipunan para sa Pag-Angat at Pagyabong ng Bayan Party}}
+|-
+| Rodrigo B. Malapitan
+| {{party name with colour|Independent (politician)}}
+|-
+| Ina Clariza B. Cartagena
+| {{party name with colour|Independent (politician)}}
+|-
+| Manuel G. Alipon
+| {{party name with colour|Lakas-CMD}}
+|-
+| Wilfredo A. Castro
+| {{party name with colour|Independent (politician)}}
+|-
+! colspan=4| ''Ex Officio'' City Council Members
+|-
+| '''[[Liga ng mga Barangay|ABC]] President'''
+| colspan=3|  Godofredo Z. Dela Rosa (Dita)
+<!-- | {{party name with colour|Nonpartisan}} -->
+|-
+| '''[[Sangguniang Kabataan|SK]] President'''
+| colspan=3| Patrick A. De Guzman (Macabling)
+<!-- | {{party name with colour|Nonpartisan}} -->
+|}
+
+===List of chief executives===
+The following is the list of chief executives (''capitan municipal'' / municipal president / mayor) of Santa Rosa.<ref>{{cite web|url=https://santarosacity.gov.ph/about-sta-rosa/local-chief-executive/|title=Local Chief Executive|website=City Government of Santa Rosa}}</ref>
+# Francisco Arambulo (1890–1894)
+# Basilio B. Gonzales (1899–1900)
+# Pedro Teaño Perlas (1900–1901)
+# Pablo Monsod Manguerra Sr. (1900–1901)
+# Celerino Castillo Tiongco (1905–1907)
+# Feliciano Arambulo Gomez (1908–1911)
+# Honorio Tiongco (1912–1916)
+# Lorenzo Cartagena Tatlonghari (1916–1922)
+# Jose Vallejo Zavalla (1922–1925)
+# Aquilino Carballo (1925–1926)
+# Felixberto Castro Tiongco (1926–1928)
+# Benito Lijauco delos Reyes (1928–1931)
+# Hermenegildo Regalado delos Reyes (1931–1937)
+# Celso Gonzaga Carteciano (1938–1940)
+# Valentin Regalado delos Reyes (1941–1942)
+# Jose Alumno Alinsod (1942 – August 1943)
+# Valentin Regalado delos Reyes (August–December 1943)
+# Eduardo de Leon Marcelo (1944)
+# Angel Z. Tiongco (1944 – March 6, 1945)
+# Jose Alumno Alinsod (March 7, 1945)
+# Francisco Gomez Arambulo Jr. (1946–1947)
+# Felimon delos Trinos de Guzman (1948–1951)
+# Gervacio Almira de Guzman (1952–1955)
+# Angel Z. Tiongco (1960–1978)
+# Cesar E. Nepomuceno (February 3, 1978 – December 3, 1987)
+# Zosimo B. Cartaño (February 3 – December 3, 1987)
+# Leo T. Bustamante (OIC, December 3, 1987 – February 2, 1988)
+# Roberto R. Gonzales (1988 – June 30, 1998)
+# Leon C. Arcillas (June 30, 1998 – May 10, 2005)
+# [[Jose Catindig, Jr.|Jose B. Catindig, Jr.]] (May 11, 2005 – June 30, 2007)
+# [[Arlene B. Arcillas]] (June 30, 2007 – June 30, 2016)
+# [[Danilo Fernandez|Danilo Ramon S. Fernandez]] (June 30, 2016 – June 30, 2019)
+# Arlene B. Arcillas (June 30, 2019 – present)
+
+===List of vice-mayors===
+<!-- based on municipal ordinances published on Santa Rosa website -->
+# Antonio B. Dictado (June 30, 1988 – June 30, 1995)
+# [[Jose Catindig, Jr.|Jose B. Catindig, Jr.]] (June 30, 1995 – June 30, 1998)
+# Octavio Ramon L. Lijauco (June 30, 1998 – June 30, 2001)
+# [[Jose Catindig, Jr.|Jose B. Catindig, Jr.]] (June 30, 2001 – May 11, 2005)
+# [[Arlene B. Arcillas]] (May 11, 2005 – June 30, 2007)
+# Manuel G. Alipon (June 30, 2007 – June 30, 2010)
+# Arnel D.C. Gomez (June 30, 2010 – June 30, 2016)
+# Arnold B. Arcillas (June 30, 2016 – June 30, 2019)
+# Arnel D.C. Gomez (June 30, 2019 – June 30, 2022)
+# Arnold B. Arcillas ( June 30, 2022 – present)
+
+==Notable personalities==
+<!-- ONLY include people with own WP article, as per [[WP:NLIST]] -->
+*[[Arlene B. Arcillas]], incumbent mayor
+<!--*Dalisay Lazaga, Roman Catholic [[nun]] and [[Servant of God]]<ref name="CatholicSaints">{{Cite web|url=https://catholicsaints.info/sister-dalisay-lazaga/|title = Sister Dalisay Lazaga|date = November 2018}}</ref>-->
+*[[Maria Carpena]], stage actress and soprano singer. She was the first recording artist in the Philippine music industry. She was also dubbed as the country's "Nightingale of [[Zarzuela]]".<ref name="Filipiknow women 1">{{cite news |title=9 Kickass Women in Philippine History You've Never Heard Of |url=https://filipiknow.net/extraordinary-filipinas-in-history/ |access-date=February 6, 2021 |work=FilipiKnow |date=June 3, 2018 |language=en-us}}</ref><ref name="PNA 2">{{cite news |last1=Pa-a |first1=Saul |title=Sta. Rosa, Laguna honors 1st Filipino soprano recording artist |url=https://www.pna.gov.ph/articles/1083969 |access-date=February 6, 2021 |work=Philippine News Agency |language=en}}</ref>
+*[[Danilo Fernandez]], actor, former mayor, and incumbent representative
+*[[The Voice of the Philippines (season 2)|Jason Fernandez]], former vocalist of [[Rivermaya]], singer
+*[[Jef Gaitan]], former Rosas ng Santa Rosa and Banana Split mainstay
+*[[Mark Herras]], actor and Starstruck Season 1 Ultimate Survivor
+*[[Koreen Medina]], actress, model and StarStruck Avenger
+*[[Alden Richards]], actor and former Ginoong Santa Rosa
+*[[Nadine Samonte]], actress and StarStruck Avenger
+*[[Jodi Sta. Maria]], actress
+*[[Juancho Trivino|Juancho Triviño]], actor and host
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikivoyage|Santa Rosa City|Santa Rosa}}
+{{Commons category}}
+* {{official website|http://www.santarosacity.gov.ph/}}
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+*[https://web.archive.org/web/20131004104825/http://census.gov.ph/ Philippine Census Information]
+*[https://web.archive.org/web/20120527051116/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=6&frmIdProvince=36&frmIdLgu=679 Local Governance Performance Management System]
+
+{{Geographic location
+| Centre    = Santa Rosa
+| North     = ''[[Laguna de Bay]]''
+| East      = [[Cabuyao]]
+| South     = [[Cabuyao]]
+| Southwest = [[Silang, Cavite|Silang]]
+| West      = [[Biñan]]
+}}
+{{Navboxes
+| title = Articles Related to Santa Rosa, Laguna
+| list  =
+{{Santa Rosa City}}
+{{Laguna}}
+{{CALABARZON}}
+{{Philippine cities}}
+{{Most populous cities in Philippines}}
+}}
+
+{{Authority control}}
+
+[[Category:Santa Rosa, Laguna| ]]
+[[Category:1792 establishments in the Philippines]]
+[[Category:Cities in Laguna (province)]]
+[[Category:Populated places established in 1792]]
+[[Category:Populated places on Laguna de Bay]]
+[[Category:Component cities in the Philippines]]

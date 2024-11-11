@@ -1,0 +1,335 @@
+{{Short description|Province of Indonesia}}
+{{use dmy dates|date=September 2024}}
+{{Infobox settlement
+| name               = West Nusa Tenggara
+| native_name        = {{lang|id|Nusa Tenggara Barat}}
+| official_name      = Province of West Nusa Tenggara<br>''{{nobold|Provinsi Nusa Tenggara Barat}}''
+| type               = [[Provinces of Indonesia|Province]]
+| image_shield       = {{#property:p94}}
+| image_flag         = <!-- Flag was removed (vectorised) as per a [[Wikipedia talk:WikiProject Indonesia/Archive 9#Province infobox photos.svg..|consensus]] at WikiProject Indonesia -->
+| shield_size        = 75px
+| flag_size          = 
+| image_map          = West Nusa Tenggara in Indonesia.svg
+| map_alt            = 
+| map_caption        = {{centre|{{Legend inline|#C41E3A|outline=red}} '''West Nusa Tenggara''' in {{Legend inline|#FFFDD0|outline=silver}} '''[[Indonesia]]'''}}
+| coordinates        = {{coord|8|35|S|116|7|E|region:ID_type:adm1st|display=inline,title}}
+| coor_pinpoint      = 
+| coordinates_footnotes = 
+| established_title  = Established
+| established_date   = 14 August 1958<ref>{{Cite web | url=http://www.dpr.go.id/jdih/index/id/1304 | title=J.D.I.H. - Dewan Perwakilan Rakyat}}</ref>
+| founder            = 
+| named_for          = 
+| seat_type          = Capital<br />{{nobold|and largest city}}
+| seat               = [[Mataram (city)|Mataram]]
+| government_footnotes = 
+| governing_body     = West Nusa Tenggara Provincial Government
+| leader_title       = Governor
+| leader_name        = [[Hassanudin]] (''acting'')
+| leader_title2      = Vice Governor
+| leader_name2       = ''Vacant''
+| unit_pref          = Metric<!-- or US or UK -->
+| area_footnotes     = 
+| area_total_km2     = 19931.45
+| area_rank          = [[Provinces of Indonesia|29th in Indonesia]]
+| area_note          = 
+| elevation_footnotes = 
+| elevation_m        = 
+| population_total   = 5646000
+| population_as_of   = mid 2024 estimate
+| population_footnotes = <ref name="Badan Pusat Statistik 2024">Badan Pusat Statistik, Jakarta, 28 February 2024, ''Provinsi Nusa Tenggara Barat Dalam Angka 2024'' (Katalog-BPS 1102001.52)</ref>
+| population_density_km2 = auto
+| population_rank    = 13th in Indonesia
+| population_note    = 
+| demographics_type1 = Demographics
+| demographics1_footnotes = <!-- for references: use <ref>tags -->
+| demographics1_title1 = [[Ethnic groups]]<ref>{{cite book
+ | publisher=Institute of Southeast Asian Studies
+ | title =Indonesia's Population: Ethnicity and Religion in a Changing Political Landscape
+ | year =2003 }}</ref>
+| timezone1          = [[Time in Indonesia|Indonesia Central Time]]
+| utc_offset1        = +8
+| geocode            = 
+| iso_code           = ID-NB
+| footnotes          = 
+| elevation_max_m    = 3727
+| elevation_max_point = [[Mount Rinjani]]
+| demographics1_info1 = 56% [[Sasak]]<br /> 14% [[Bimanese people|Bimanese]]<br /> 12% [[Balinese people|Balinese]]<br /> 8% [[Sumbawa people|Sumbawerese]]<br /> 3% Dompuan<br /> 2% [[Javanese people|Javanese]]
+| subdivision_type   = Country
+| subdivision_name   = {{flag|Indonesia}}
+| demographics1_title2 = [[Religion]] (2022)<ref name="RELIGION"/>
+| demographics1_info2 = 96.88% [[Islam]]<br/> 2.38% [[Hinduism]]<br/> 0.74% other
+| demographics1_title3 = [[Languages]]
+| demographics1_info3 = [[Indonesian language|Indonesian]] (official)
+| image_map1         = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250|zoom=8}}{{hidden end}}
+| blank_name         = GDP (nominal)
+| blank_info         = 2022
+| blank1_name        = &nbsp;- Total<ref name="bpsgdpdata2022">{{Cite web |author=Badan Pusat Statistik |author-link=Statistics Indonesia |year=2023 |title=Produk Domestik Regional Bruto (Milyar Rupiah), 2022 |url=https://www.bps.go.id/id/statistics-table/3/WkdVMWRYVnBkMnBvVEhKSVkyWXhNblZtTjJSbmR6MDkjMw==/produk-domestik-regional-bruto-atas-dasar-harga-berlaku--menurut-provinsi--miliar-rupiah-.html?year=2022 |publisher=Badan Pusat Statistik |location=Jakarta |language=id}}</ref>
+| blank1_info        = [[Indonesian rupiah|Rp]] 156.9&nbsp;trillion ([[List of Indonesian provinces by GDP|25th]])<br/>[[USD|US$]] 10.6&nbsp;billion<br/>[[Int$]] 33.0&nbsp;billion ([[Purchasing power parity|PPP]])
+| blank2_name        = &nbsp;- Per capita<ref name="bpspercapitadata">{{Cite web |author=Badan Pusat Statistik |author-link=Statistics Indonesia |year=2023 |title=Produk Domestik Regional Bruto Per Kapita (Ribu Rupiah), 2022 |url=https://www.bps.go.id/id/statistics-table/3/YWtoQlRVZzNiMU5qU1VOSlRFeFZiRTR4VDJOTVVUMDkjMw==/produk-domestik-regional-bruto-per-kapita-atas-dasar-harga-berlaku-menurut-provinsi--ribu-rupiah-.html?year=2022 |publisher=Badan Pusat Statistik |location=Jakarta |language=id}}</ref>
+| blank2_info        = [[Indonesian rupiah|Rp]] 28.7&nbsp;million ([[List of Indonesian provinces by GRP per capita|32nd]])<br/>[[USD|US$]] 1,931<br/>[[Int$]] 6,025&nbsp;([[Purchasing power parity|PPP]])
+| blank3_name        = &nbsp;- Growth<ref name="bappenas2022">{{Cite web |author=Badan Pembangunan Nasional |author-link=Ministry of National Development Planning (Indonesia) |year=2023 |title=Capaian Indikator Utama Pembangunan |url=https://simreg.bappenas.go.id/home/pemantauan/lpe |publisher=Badan Pembangunan Nasional |location=Jakarta |language=id}}</ref>
+| blank3_info        = {{Increase}} 6.95%
+| blank4_name        = [[Human Development Index|HDI]]
+| blank4_info        = {{increase}} 0.702 ([[List of Indonesian provinces by Human Development Index|29th]]) – <span style=color:#090>high</span>
+| website            = {{URL|www.ntbprov.go.id/|ntbprov.go.id}}
+}}
+
+'''West Nusa Tenggara''' ({{langx|id|Nusa Tenggara Barat}} – NTB) is a [[provinces of Indonesia|province]] of [[Indonesia]]. It comprises the western portion of the [[Lesser Sunda Islands]], with the exception of [[Bali]] which is its own province. The area of this province is {{cvt|19,675.89|km2}} which consists of two main islands, namely Lombok Island and Sumbawa Island as well as several other small islands.<ref>{{Cite book |last=Nusa Tenggara Barat |first=BPS Provinsi |title=Provinsi Nusa Tenggara Barat Dalam Angka 2024 |date=28 February 2024 |publisher=BPS Provinsi Nusa Tenggara Barat |isbn=9770215221507 |location=Nusa Tenggara Barat |publication-date=28 February 2024 |pages=7 |language=id |trans-title=Nusa Tenggara Barat Province in Figures 2024}}</ref> The two largest islands in this province are the smaller but much more populated [[Lombok]] in the west and the much larger in area but much less densely populated [[Sumbawa]] island in the east. [[Mataram (city)|Mataram]], on [[Lombok]], is the capital and largest city of the province. It shares maritime borders with [[Bali]] to the west and [[East Nusa Tenggara]] to the east.
+
+Geographically, West Nusa Tenggara is divided into a flat coastal area, especially in western and southern Lombok, and a mountainous area that includes Mount Rinjani, the highest mountain in the province at 3,726 meters, which is also an active volcano and one of the most popular natural tourist destinations. On Sumbawa Island, the landscape is more varied with steeper hills and mountains and dry grasslands in the east.<ref>{{Cite web |title=Peraturan Daerah tentang Pengelolaan Lingkungan Hidup |url=https://jdih.ntbprov.go.id/sites/default/files/produk_hukum/BAB%20II.pdf |access-date=2 September 2024 |website=JDIH NTB |language=id}}</ref>
+
+The province has a population of around 5 million, with the majority of the population living in coastal areas and large cities such as Mataram, the provincial capital located on Lombok Island.<ref>{{Cite web |title=Population Regency/City - Statistical Data - BPS-Statistics Indonesia Nusa Tenggara Barat Province |url=https://ntb.bps.go.id/en/statistics-table/2/MjkjMg==/penduduk-kabupaten-kota.html |access-date=2024-09-02 |website=ntb.bps.go.id}}</ref> West Nusa Tenggara is known for its Sasak culture in Lombok and Samawa and Mbojo culture in Sumbawa, which still maintain their local customs and arts.
+
+West Nusa Tenggara is also known for its natural environment, including beaches such as Kuta Beach in Lombok and Lakey Beach in Sumbawa, which are popular surfing destinations. The Gili Islands (Gili Trawangan, Gili Air, and Gili Meno) located off the coast of Lombok are one of the most popular tourist destinations in Indonesia, known for their clear sea water and coral reefs.<ref>{{Cite web |title=Gili Islands Dive Sites |url=https://manta-dive.com/diving-the-gilis/gili-dive-sites/ |access-date=2024-09-10 |website=Manta Dive |language=en-GB}}</ref>
+
+Apart from beach tourism, West Nusa Tenggara also has cultural and historical sites, such as Sade Village in Lombok which maintains traditional Sasak architecture and lifestyle, as well as ancient palaces from the era of the Bima Sultanate in Sumbawa.<ref>{{Cite web |title=Ekowisata di Desa Sade |url=http://ppebalinusra.menlhk.go.id/ekowisata-di-desa-sade/ |access-date=2024-09-02 |language=en}}</ref><ref>{{Cite web |last=artanegara |date=2020-02-17 |title=Kegiatan Studi Teknis Arkeologi Di Istana Kesultanan Bima |url=https://kebudayaan.kemdikbud.go.id/bpcbbali/kegiatan-studi-teknis-arkeologi-di-istana-kesultanan-bima/ |access-date=2024-09-03 |website=Balai Pelestarian Cagar Budaya Bali |language=id}}</ref>
+
+== History ==
+=== Pre-Islamic period ===
+Based on analysis of prehistoric objects found such as complex sarcophagi, decorated stoneware, machetes, and axes, West Nusa Tenggara was originally inhabited by people from Southeast Asia.
+
+The most numerous of the indigenous people in this region are called the [[Sasak people]], most of whom live on the island of [[Lombok]], while on the island of [[Sumbawa]] the indigenous people are divided into two groups, ethnic Sumbawa (Samawa) and [[Bima]]. However, with the wave of migrants from Bali, Makassar, Java, Kalimantan, Nusa Tenggara, Maluku and East Nusa Tenggara, the indigenous people now largely remain in the interior.
+
+The region was part of the [[Majapahit Empire]] during its height in the 14th century, conquering all the kingdoms located on the islands of both Lombok and Sumbawa. In the book ''[[Nagarakretagama|Negarakertagama]]'' by [[Mpu Prapanca]] in 1365, it was written that West Lombok was named "Lombok Mirah" and East Lombok was named "Sasak Adi", Taliwang, Dompo (Dompu), Sape, Sanghyang Fire, Bhima (Bima), Seram (Seran) and Hutan Kedali (Utan).
+
+=== Islamic period ===
+In the early reign of the kings in West Nusa Tenggara, the influence of Hinduism was very strong, but with the collapse of the Majapahit Empire, the influence of Hinduism began to decrease with the onset of the influence of Islam in the coastal communities.
+
+The creation of the [[Demak Sultanate]] in [[Central Java]] had a huge impact on the spread of Islam in West Nusa Tenggara. The influence of [[Islam]] in West Nusa Tenggara was generally brought by the [[Malay race|Malays]]. The influence of Islam in Bima was supported by King I Maliingkaang Daeng-Mannyonriq of [[Makassar]], who was then known as [[Karaeng Matoaya]] who played an important role in the spread of Islam in the region.
+
+The influence of Islam in the [[Bima Sultanate]] emerged during the reign of King Manuru Salehi around 1605 and began to grow rapidly during the reign of King Abdul Kahir. King Abdul Kahir is also known as the Sultan of Bima because he was the king who first embraced Islam in Bima, beginning a new era, separate from the previous Bima kings who embraced Hinduism. Islam became the official religion of the kings in West Nusa Tenggara.<ref>[http://www.wisatadilombok.com/2015/05/sejarah-nusa-tenggara-barat-periode_18.html Sejarah Nusa Tenggara Barat Periode Awal Perkembangan Islam]</ref>
+
+=== Colonial period ===
+{{Unreferenced section|date=March 2021}}
+The Europeans who first came to Nusa Tenggara were the [[Portuguese Discoveries|Portuguese]] who landed on the islands of [[Solor]] and [[Timor]] in 1605. At the same time, the [[Netherlands|Dutch]] also came to the islands of Hitu and [[Ambon Island|Ambon]], in the [[Maluku Islands|Malukus]]. The first Dutch ship that entered the area was the ''Ter Ver'' which docked in [[Kupang]] in 1611. The arrival of the Dutch led to a long dispute between the Portuguese and the Dutch in Nusa Tenggara. The Dutch assisted the local kings who resisted the Portuguese. The Netherlands then expanded its influence in Nusa Tenggara, to make a variety of agreements with small kings around the island of Sumbawa.
+
+The arrival of the Dutch colonial administration greatly impacted Indonesian society, with the decline of the [[Sultanate of Gowa]] in the 17th century. Gowa nobility who did not submit to the colonial government fled from Makassar and built pockets of resistance in West Nusa Tenggara. To combat the resistance, the colonial government began to concentrate power in West Nusa Tenggara. This was reinforced by the emergence of Lombok for international trade, so the desire of the Dutch to rule West Nusa Tenggara became stronger.
+
+The Dutch colonial government sent Stephen van Hegen for a close look at the Bima Sultanate in 1660. The arrival of the Dutch-influenced the political and economic situation in the area. In 1669, the Government of the Bima Sultanate led by Sultan Ambela Abdul Khair Sirajuddin, made peace and friendship ties with the colonial government with the agreement that:
+* The Sultanate of Bima and Dompu will not attack Makassar
+* To keep the peace, only members of the [[Dutch East India Company]] may visit the Bima area
+* Bima and Makassar will not make any contact at all.
+* Foreign traders from Europe, India, Java, Malaya, Arab lands, Aceh, and Champa must not engage in trade with Bima, except by special permit from the Dutch East India Company.
+
+The agreement with the Sultan of Bima and Dompu recognized the existence of the Dutch colonial power. The Netherlands sought to consolidate its control by blocking the Bima port to prevent the arrival of aid from Makassar or other foreign countries. The effort was made so that the existing ports in Bima and Lombok would not fall into British hands.
+
+Because of Dutch supremacy in the region, the king and the people in the region could not move freely. This situation became worse with the eruption of [[Mount Tambora]] on April 5, 1815, which shook the entire region, and the consequences could be felt throughout the Moluccas, Java, Sulawesi, Sumatra, and Kalimantan. Mount Tambora's eruption resulted in the disappearance of the two kingdoms of Tambora and Papekat. More than 10,000 people were killed.
+
+=== Independence ===
+West Nusa Tenggara province previously had been part of the [[State of East Indonesia]] with the creation of the [[United States of Indonesia]] and had been part of the province of the '''Lesser Sunda Islands''' (''Nusa Tenggara'') after the recognition of Indonesian sovereignty.
+
+The province of West Nusa Tenggara was created with the enactment of Law No. 64 of 1958 dated 14 August 1958, on the Establishment of the new provinces of [[Bali]], West Nusa Tenggara, and [[East Nusa Tenggara]], with its first governor being AR. Moh. Ruslan Djakraningrat.
+
+== Geography ==
+
+[[File:Caldera Mt Tambora Sumbawa Indonesia.jpg|thumb|Caldera Mt Tambora, Sumbawa]]
+
+West Nusa Tenggara (NTB) is a province in Indonesia located in the southern part of the Lesser Sunda Islands, consisting of two main islands, namely Lombok Island and Sumbawa Island, as well as several small islands around them such as the Gili Islands. Geographically, the province is surrounded by the Indian Ocean to the south and the Flores Sea to the north. To the west, West Nusa Tenggara borders the Province of Bali, while to the east it borders the Province of East Nusa Tenggara.<ref>{{Cite web |date=September 2013 |title=Geografis: Dinamika Wilayah dan Potensi Daerah |url=https://bappeda.ntbprov.go.id/wp-content/uploads/2013/09/dda2013-09-babi1.pdf |access-date=2 September 2024 |website=Bappeda NTB |language=id}}</ref>
+
+The West Nusa Tenggara region has a varied topography, with relatively flat coastal areas in some parts of the island, especially in western and southern Lombok. On the other hand, there are mountainous areas that are characteristic of this region, especially [[Mount Rinjani]] on Lombok Island which reaches a height of 3,726 meters above sea level, making it the second highest mountain in Indonesia. Mount Rinjani is an active volcano and the center of the [[Mount Rinjani National Park]], which includes mountainous forests, savannas, and a stunning crater lake called '''Segara Anak'''.<ref>{{Cite web |title=Mt Rinjani, Lombok Indonesia|url=https://www.lomboknetwork.net/lombok/rinjani-national-park/ |access-date=2024-09-02 |website=Vacation's Highlight - Lombok Network Holidays 2024 |language=en-US}}</ref><ref>{{Cite web |title=Mount Rinjani National Park – Rinjani Conservation |url=https://www.rinjaniconservation.com/mount-rinjani-national-park/ |access-date=2024-09-02 |language=en-US}}</ref>
+
+Sumbawa Island, on the other hand, has a more varied landscape with steeper mountains, hills and valleys in the west, and dry grasslands in the east. The island also has several active volcanoes such as [[Mount Tambora]] which is known for its eruption in [[1815 eruption of Mount Tambora|1815]], one of the largest eruptions in history with global impact.<ref>{{Cite web |date=2015-10-09 |title=History |url=https://visittambora.com/long-lost-kingdom-excavation-site/ |access-date=2024-09-02 |website=Visit Tambora |language=en}}</ref><ref>{{Cite book |last=Wood |first=Gillen D'Arcy |url=https://experts.illinois.edu/en/publications/itamborai-ithe-eruption-that-changed-the-worldi |title=Tambora: The Eruption that Changed the World |date=2014 |publisher=Princeton University Press |isbn=978-0-691-16862-3}}</ref><ref>{{Cite web |title=Mount Tambora and the Year Without a Summer {{!}} Center for Science Education |url=https://scied.ucar.edu/learning-zone/how-climate-works/mount-tambora-and-year-without-summer |access-date=2024-09-02 |website=scied.ucar.edu}}</ref>
+
+Natural resources in West Nusa Tenggara include fertile agricultural land, especially in the lowlands and mountain slopes, as well as marine fisheries in coastal areas. In addition, the province is also known for its mineral wealth, such as the gold mine on Sumbawa Island which is one of the largest mines in Indonesia.
+
+=== Climate ===
+In terms of climate, West Nusa Tenggara has a tropical climate with two main seasons, namely the rainy season which lasts from November to March and the dry season from April to October.<ref>{{Cite web |url=https://www.weatherandclimate.com/amp/indonesia/west-nusa-tenggara |title=West Nusa Tenggara Weather and Climate |website=Weather and Climate |access-date=2 September 2024}}</ref> Due to its geographical conditions, several areas in West Nusa Tenggara, especially the eastern part of Sumbawa, experience a long dry season with low rainfall, so this area tends to be dry and barren.
+
+Based on the latest data from the Meteorology, Climatology, and Geophysics Agency (BMKG), the maximum temperature in West Nusa Tenggara (NTB) currently ranges from 31.5 to 34.0&nbsp;°C, while the minimum temperature ranges from 21.0 to 25.5&nbsp;°C. The highest temperature usually occurs in October, while the lowest temperature tends to occur in July to August. As a tropical climate region, NTB has a fairly high relative humidity, averaging between 55 and 90%, depending on the season and location. Humidity tends to be higher during the rainy season, which lasts from November to March, while the dry season is usually drier with lower humidity.<ref>{{Cite web |title=Buletin Iklim NTB 2023 {{!}} Detail |url=https://staklim-ntb.bmkg.go.id/buletin/detail/111 |access-date=2024-09-02 |website=staklim-ntb.bmkg.go.id}}</ref>
+
+Rainfall in West Nusa Tenggara (NTB) is lower than in western Indonesia such as Sumatra and Kalimantan. Western Indonesia tends to be wetter, with annual rainfall ranging from 2,000 to 4,000&nbsp;mm due to the influence of the southwest monsoon. Meanwhile, West Nusa Tenggara, which is influenced by the southeast monsoon from Australia, has lower rainfall, ranging from 1,000 to 2,000&nbsp;mm per year. Lombok Island is generally wetter than Sumbawa Island, which often experiences drought during the dry season.
+
+== Economy ==
+West Nusa Tenggara (NTB) is a province in Indonesia that boasts a diverse and developing economy. Its primary economic activities revolve around agriculture, tourism, fisheries, and mining, with a growing focus on infrastructure development and investment in renewable energy and small businesses.
+
+===Agriculture===
+Agriculture is the backbone of NTB’s economy, providing livelihoods for the majority of the population.<ref>{{Cite web |url=http://www.agrimansion.unram.ac.id/index.php/Agri/article/download/85/72/ |title=Peningkatan Produktivitas Pertanian di Nusa Tenggara Barat |website=AgriMansion |publisher=Universitas Mataram |access-date=2 September 2024}}
+</ref> The fertile soils and favorable climate conditions across Lombok and Sumbawa islands allow for both wet and dry farming practices. Key agricultural products include rice, corn, soybeans, peanuts, and tobacco. Rice, being the staple food in Indonesia, occupies a significant portion of the province's farmland, with farmers utilizing traditional methods alongside modern techniques to increase yields.
+
+Corn and soybeans are equally important as they contribute to both local consumption and trade. Additionally, the province produces a variety of cash crops like coconut and cashews, which are exported to other regions and countries. The island of Lombok, in particular, has earned a reputation for its quality tobacco, which is used in cigarette production.
+
+Cattle farming is another important economic activity in NTB, especially in Lombok, where beef cattle are raised both for domestic consumption and export. The province is one of the country’s top beef producers, with significant government support for livestock health and breeding programs.
+
+===Tourism===
+Tourism has emerged as a major pillar of NTB’s economy, particularly on '''Lombok''' and the nearby '''Gili Islands''' (Gili Trawangan, Gili Meno, and Gili Air). These islands have become internationally renowned for their stunning beaches, clear waters, and vibrant coral reefs, which attract both international and domestic tourists. Popular activities include snorkeling, diving, and surfing, particularly around the Gili Islands and along the southern coast of Lombok.<ref>{{Cite web |url=https://kmc.bappeda.ntbprov.go.id/storage/content_knowledge_attachments/LAPORAN%20TAHUNAN%202021%20DINAS%20PARIWISATA%20NTB%20FINAL.pdf |title=Laporan Tahunan 2021 Dinas Pariwisata NTB |website=Bappeda NTB |date=2021 |access-date=2 September 2024}}</ref>
+
+[[File:Mount Rinjani Ultra 8.jpg|thumb|[[Mount Rinjani]]]]
+'''Mount Rinjani''', the second-highest volcano in Indonesia, is one of the province's most iconic tourist attractions. The mountain offers challenging trekking routes with spectacular views of its crater lake, Segara Anak. Additionally, cultural tourism is thriving in Lombok, with visitors drawn to the traditional '''Sasak villages''', where they can experience local customs, weaving techniques, and traditional architecture.
+
+To expand beyond Lombok’s established tourism hubs, the provincial government has been promoting other areas such as '''Sumbawa Island''', which is known for its surfing spots, unspoiled beaches, and traditional buffalo races. '''The Mandalika Special Economic Zone (SEZ)''', located in southern Lombok, has been earmarked as a key development area. Mandalika is intended to attract significant investment in luxury resorts, hotels, and tourism infrastructure. One of the centerpiece developments is the Mandalika International Street Circuit, which hosts MotoGP races, further enhancing NTB’s appeal as a global tourism destination.<ref>{{Cite web |title=Indonesia to host Asia Road Racing Championship, MotoGP race-Xinhua |url=https://english.news.cn/20240621/b7e7c7fda782493484f6a6fc5ec7b34b/c.html |access-date=2024-09-03 |website=english.news.cn}}</ref>
+
+===Fisheries and Marine Resources===
+Given its vast coastline and rich marine biodiversity, fisheries and marine resources play an essential role in NTB’s economy. Fishing provides jobs for many coastal communities, especially on Lombok and Sumbawa islands. West Nusa Tenggara is a significant producer of high-value fish species such as tuna, shrimp, and snapper, which are exported to both domestic and international markets. In addition to traditional fishing methods, West Nusa Tenggara has increasingly embraced aquaculture, particularly shrimp farming and seaweed cultivation.<ref>{{Cite web |title=FIP2B NTB: Data dan Informasi Provinsi Nusa Tenggara Barat |url=https://data.fip2b-ntb.org/ |access-date=2 September 2024 |website=FIP2B NTB |language=id}}
+</ref>
+
+The cultivation of seaweed, particularly in the shallow waters around Lombok and Sumbawa, has proven to be highly profitable, with most of the production being exported for use in food products, cosmetics, and pharmaceuticals. Government programs have been initiated to support small-scale fishermen and seaweed farmers by providing better access to technology, credit, and market opportunities.
+
+Efforts to manage fisheries sustainably have also gained traction, with initiatives aimed at regulating fishing practices to prevent overfishing and protect marine ecosystems. These initiatives ensure the long-term viability of NTB's fisheries sector, which is vital for both the local economy and food security.
+
+===Mining===
+Mining is one of the most prominent industries in West Nusa Tenggara, particularly in the western part of Sumbawa Island. The province is home to the [[Batu Hijau mine]], one of the world’s largest copper and gold mines. Operated by PT Amman Mineral Nusa Tenggara (formerly by Newmont Mining Corporation), Batu Hijau has been a significant contributor to the regional and national economy. The mine generates substantial export revenue through the extraction of copper and gold, which are critical to global industries ranging from electronics to energy production.
+
+However, the mining industry in West Nusa Tenggara has also sparked concerns about its environmental and social impact. Issues such as deforestation, water pollution, and the displacement of local communities have been raised by environmental groups and local residents.<ref>{{Cite web |last=Armein |first=Florence |date=2014-04-13 |title=Mining Activity Damages Environment in NTB |url=https://www.ekuatorial.com/en/2014/04/mining-activity-damages-environment-in-ntb/ |access-date=2024-09-03 |website=Ekuatorial |language=en-US}}</ref><ref>Ancaman nyata bagi 426 pulau kecil di Nusa Tenggara Barat karena pertambangan (''Real threat to 426 small islands in West Nusa Tenggara due to mining)''</ref><ref>Investigasi Walhi: 60% Hutan NTB Rusak Akibat Tambang-Alih Fungsi Lahan (''60% of West Nusa Tenggara Forests Damaged by Mining and Land Conversion'').detik.com</ref><ref>{{Cite web |title=Policies for Overcoming The Environmental Damage Due to Forest Conversionin Bima, West Nusa Tenggara |url=https://www.jurnal-umbuton.ac.id/index.php/Volkgeist/article/download/2746/1533 |access-date=2 September 2024 |website=Jurnal Volkgeist |publisher=Universitas Muhammadiyah Buton}}
+</ref> In response, the government and the mining company have been working on improving sustainability practices, including reducing environmental degradation and increasing community engagement to ensure that mining activities benefit local populations.<ref>{{Cite web |author=Sukma Ikhlasi Lukman |date=2021 |title=TANGGUNG JAWAB PERUSAHAAN ATAS REKLAMASI LAHAN EKS PERTAMBANGAN |url=https://fh.unram.ac.id/wp-content/uploads/2021/08/SUKMA-IKHLASI-LUKMAN-D1A016298.pdf?__cf_chl_tk=fY8ENT2EoToXiCLAPZakQeiwT2OGMbZliNRpaC2Q2h4-1725325138-0.0.1.1-5076 |access-date=2 September 2024 |website=Fakultas Hukum Universitas Mataram |language=id}}</ref>
+
+===Infrastructure and Economic Development===
+West Nusa Tenggara has been making strides in infrastructure development, particularly to support its tourism and trade sectors.<ref>{{Cite web |last=NTB |first=Dinas PUPR Provinsi |title=Website Dinas PUPR NTB - Membangun Infrastruktur Untuk NTB Yang Makin Gemilang |url=https://dpu.ntbprov.go.id/web/post/Membangun-Infrastruktur-untuk-NTB-yang-Makin-Gemilang |access-date=2024-09-03 |website=dpu.ntbprov.go.id |language=id}}</ref> Significant investments have been made in transportation infrastructure, including the development of highways, ports, and airports. The [[Lombok International Airport]] in Lombok is one of the key gateways to the region, facilitating both international and domestic flights and serving as a crucial link to Bali and other Indonesian provinces.
+
+Road infrastructure has been steadily improved, with better connectivity between tourist areas, agricultural regions, and urban centers. Ports on Lombok and Sumbawa have been modernized to support the export of goods such as agricultural products, fishery products, and minerals.
+
+In addition to transportation, West Nusa Tenggara has focused on improving its energy infrastructure.<ref>{{Cite web |date=2015 |title=Analisis Provinsi Nusa Tenggara Barat 2015 |url=https://simreg.bappenas.go.id/assets/temaalus/document/Publikasi/DokPub/02.%20Analisis%20Provinsi%20Nusa%20Tenggara%20Barat%202015_ok.pdf |access-date=2 September 2024 |website=Bappenas |publisher=Kementerian Perencanaan Pembangunan Nasional/Bappenas |language=id}}
+</ref> The province is exploring opportunities in renewable energy, such as solar and wind power, to meet its growing energy needs sustainably. Investments in rural electrification programs aim to increase access to electricity in remote areas, enhancing the quality of life for residents and supporting economic activities in those regions.
+
+Efforts to diversify the economy include encouraging investment in small and medium-sized enterprises (SMEs), particularly in sectors such as agro-processing, handicrafts, and food production. NTB’s local government has also placed emphasis on improving human resources by investing in education, vocational training, and skill development programs. These initiatives are designed to equip the local workforce with the skills necessary to meet the demands of a rapidly evolving economy.
+
+== Government and administrative divisions ==
+
+The province is administratively divided into eight [[Regencies of Indonesia|regencies]] (''kabupaten'') and two municipalities (''kotamadya''). When created, the province consisted of just six regencies ('''West Lombok''', '''Central Lombok''', '''East Lombok''', '''Sumbawa''', '''Dompu''' and '''Bima''');<ref>{{Citation| author=[[Government of Indonesia]]| url=http://www.djpp.depkumham.go.id/incl-php/buka.php?d=1900+58&f=uu69-1958.htm |title=Establishment of the Second-level Administrative Regions under the First-level Administrative Region of Bali, West Nusa Tenggara and East Nusa Tenggara |edition=in [[Indonesian language|Indonesian]] |id=UU No. 69/1958 |date=9 August 1958 | access-date=2007-08-24 |publisher=Indonesia Ministry of Law and Justice}} {{dead link|date=September 2010|bot=H3llBot}}</ref> the city of '''[[Mataram (city)|Mataram]]''' was separated from West Lombok Regency on 26 July 1993, and the city of '''[[Bima]]''' was separated from Bima Regency on 10 April 2002. Two additional regencies were created - '''West Sumbawa''' from part of Sumbawa Regency on 18 December 2003, and '''North Lombok''' from part of West Lombok Regency on 24 June 2008. The regencies and cities are listed below with their administrative capitals, their areas, and their populations at the 2010 census<ref name="Biro Pusat Statistik 2011">Biro Pusat Statistik, Jakarta, 2011.</ref> and the 2020 census,<ref name="Badan Pusat Statistik 2021">Badan Pusat Statistik, Jakarta, 2021.</ref> together with the official estimates as of mid-2023.<ref name="Badan Pusat Statistik 2024">Badan Pusat Statistik, Jakarta, 28 February 2024, ''Provinsi Nusa Tenggara Barat Dalam Angka 2024'' (Katalog-BPS 1102001.52)</ref>
+
+{| class="wikitable sortable" style="margin-bottom: 0;"
+! Kode<br>Wilayah !! Name of <br>City or<br>Regency!! Capital !! Area <br />in<br />km<sup>2</sup> !! Pop'n <br /> 2010 <br />census !! Pop'n <br /> 2020 <br />census !! Pop'n <br /> mid 2023 <br />estimate !! [[Human Development Index|HDI]]<ref>[http://bappenas.go.id/download.php?id=8975 Indeks-Pembangunan-Manusia-2014]</ref><br />2014 estimates
+|-
+| 52.01 || [[West Lombok Regency]] <br />(Lombok Barat) || [[Gerung]] ||align="right"| {{formatnum: 922.91}} ||align="right"| {{formatnum: 599986}} ||align="right"| {{formatnum: 721481}} ||align="right"| {{formatnum: 753641}} || 0.635 ({{fontcolor|#fc0|Medium}})
+|-
+| 52.02 || [[Central Lombok Regency]] <br />(Lombok Tengah) || [[Praya, Lombok|Praya]] ||align="right"| {{formatnum: 1208.39}} ||align="right"| {{formatnum: 860209}} ||align="right"| {{formatnum: 1034859}} ||align="right"| {{formatnum: 1099201}} || 0.618 ({{fontcolor|#fc0|Medium}})
+|-
+| 52.03 || [[East Lombok Regency]] <br />(Lombok Timur) || [[Selong, Lombok|Selong]] ||align="right"| {{formatnum: 1605.55}} ||align="right"| {{formatnum: 1105582}} ||align="right"| {{formatnum: 1325240}} ||align="right"| {{formatnum: 1404343}} || 0.620 ({{fontcolor|#fc0|Medium}})
+|-
+| 52.08 || [[North Lombok Regency]] <br />(Lombok Utara) || [[Tanjung, Lombok|Tanjung]] ||align="right"| {{formatnum: 809.53}} ||align="right"| {{formatnum: 200072}} ||align="right"| {{formatnum: 247400}} ||align="right"| {{formatnum: 265500}} || 0.601 ({{fontcolor|#fc0|Medium}})
+|-
+| 52.71 || [[Mataram (city)|Mataram City]] || ||align="right"| {{formatnum: 61.30}} ||align="right"| {{formatnum: 402843}} ||align="right"| {{formatnum: 429651}} ||align="right"| {{formatnum: 441147}} || 0.759 ({{fontcolor|green|High}})
+|-
+| || '''''Total [[Lombok]]''''' || ||align="right"| ''{{formatnum: 4607.68}}'' ||align="right"| ''{{formatnum: 3168692}}'' ||align="right"| ''{{formatnum: 3758631}}'' ||align="right"| ''{{formatnum: 3963842}}'' ||
+|-
+| 52.04 || [[Sumbawa Regency]] || [[Sumbawa Besar]] ||align="right"| {{formatnum: 6643.99}}||align="right"| {{formatnum: 415789}} ||align="right"| {{formatnum: 509753}} ||align="right"| {{formatnum: 529487}} || 0.628 ({{fontcolor|#fc0|Medium}})
+|-
+| 52.05 || [[Dompu Regency]] || [[Dompu]] ||align="right"| {{formatnum: 2324.55}}||align="right"| {{formatnum: 218973}} ||align="right"| {{formatnum: 236665}} ||align="right"| {{formatnum: 247188}} || 0.635 ({{fontcolor|#fc0|Medium}})
+|-
+| 52.06 || [[Bima Regency]] || [[Woha, Indonesia|Woha]] ||align="right"| {{formatnum: 4389.40}}|| align="right"| {{formatnum: 439228}} ||align="right"| {{formatnum: 514105}} ||align="right"| {{formatnum: 535530}} || 0.626 ({{fontcolor|#fc0|Medium}})
+|-
+| 52.07 || [[West Sumbawa Regency]] <br />(Sumbawa Barat) || [[Taliwang]] || align="right"| {{formatnum: 1743.58}}||align="right"| {{formatnum: 114951}} ||align="right"| {{formatnum: 145798}}||align="right"| {{formatnum: 152950}}  || 0.671 ({{fontcolor|#fc0|Medium}})
+|-
+| 52.72 || [[Bima City]] || [[Bima]] ||align="right"| {{formatnum: 222.25}}||align="right"| {{formatnum: 142579}} ||align="right"| {{formatnum: 155140}} ||align="right"| {{formatnum: 161362}} || 0.722 ({{fontcolor|green|High}})
+|-
+| || '''''Total [[Sumbawa]]''''' || ||align="right"| ''{{formatnum: 15323.77}}'' ||align="right"| ''{{formatnum: 1331520}}'' ||align="right"| ''{{formatnum: 1561461}}'' ||align="right"| ''{{formatnum: 1626517}}'' ||
+|}
+
+Proposals have been under consideration since 2013 by the People's Representative Council (''Dewan Perwakilan Rakyat'' or DPR) to create a separate '''Sumbawa Island''' province;<ref>{{Cite web |last=Nugraha |first=Panca |date=March 1, 2011 |title=Officials support new province for Sumbawa |url=https://www.thejakartapost.com/news/2011/03/01/officials-support-new-province-sumbawa.html |access-date=2023-06-03 |website=The Jakarta Post |language=en}}</ref> there is no information as to whether the remaining part of the present province (i.e. the districts comprising Lombok Island) would then be renamed. However, since 2013 the Indonesian Government have maintained a moratorium on the intended creation of new provinces, regencies and cities.
+
+The province comprises two of Indonesia's 84 national electoral districts to elect members to the [[Indonesian Parliament|People's Representative Council]]. The '''West Nusa Tenggara I Electoral District''' consists of the 4 regencies on Sumbawa Island, together with the city of Bima, and elects 3 members to the People's Representative Council.  The '''West Nusa Tenggara II Electoral District''' consists of the 4 regencies on Lombok Island, together with the city of Mataram, and elects 8 members to the People's Representative Council.<ref>Law No. 7/2017 (''UU No. 7 Tahun 2017'') as amended by Government Regulation in Lieu of Law No. 1/2022 and
+Regulation of General Elections Commission No. 6/2023.</ref>
+
+== Demographics ==
+{{Historical populations
+|type=.
+|footnote= Source: [[Statistics Indonesia]] 2024 and previous.
+|1971 |2203465
+|1980 |2724664
+|1990 |3369649
+|1995 |3645713
+|2000 |4009261
+|2005 |4184411
+|2010 |4500212
+|2015 |4830118
+|2020 |5320092
+|2023 |5590359}}
+
+West Nusa Tenggara (NTB) Province is located in the southern part of Indonesia, consisting of two large islands, Lombok and Sumbawa, with diverse tribes and cultures. According to the latest census, the population of NTB has reached around 5 million people.<ref>{{Cite journal |last1=Jalaludin |last2=Suriadi |first2=Irwan |date=2021-09-28 |title=Mobilitas dan Persebaran Penduduk NTB (Perspektif Ekonomi dan Kesejahteraan) |url=https://ekonobis.unram.ac.id/index.php/ekonobis/article/view/77 |journal=Journal of Economics and Business |language=id |volume=7 |issue=2 |pages=213–222 |doi=10.29303/ekonobis.v7i2.77 |issn=2654-8712 |access-date=2 September 2024|doi-access=free }}</ref>
+
+===Ethnic groups===
+The province has significant ethnic diversity, with the main tribes being:<ref>{{Cite web |title=Nationality, Ethnicity, Religion, and Daily Language of Indonesian Population - BPS-Statistics Indonesia |url=https://www.bps.go.id/en/publication/2012/05/23/55eca38b7fe0830834605b35/kewarganegaraan-suku-bangsa-agama-dan-bahasa-sehari-hari-penduduk-indonesia.htm |access-date=2024-09-13 |website=www.bps.go.id}}</ref>
+
+*'''Sasak'''
+The Sasak Tribe is the largest ethnic group inhabiting Lombok Island. This tribe has a rich culture with traditions that are still preserved, including in the fields of agriculture, dance, and traditional music such as '''Gendang Beleq'''. The majority of the Sasak tribe is Muslim, with some of them practicing Islam Wetu Telu, a form of Islam influenced by local beliefs.
+
+*'''Samawa (Sumbawa)'''
+The Samawa Tribe or Sumbawa Tribe is the indigenous people of the western part of Sumbawa Island. This tribe is known for its strong agrarian and fishing culture. The Samawa Tribe has customs and traditions such as the Samawa Traditional Festival which features their traditional music and dance. Most of them are also Muslim.
+
+*'''Mbojo''' '''(Bima)'''
+The Mbojo tribe inhabits the eastern region of Sumbawa Island, especially in the [[Bima Regency|Bima]] and [[Dompu Regency|Dompu]] areas. They are known for their very strong customs and their own language, namely the Bima or Mbojo language. In everyday life, the Bima people are heavily involved in agricultural and fishing activities. Islam is also the main belief for this tribe.
+
+*'''Balinese'''
+In several areas in West Nusa Tenggara, especially on Lombok Island, there is a fairly large Balinese community. They are generally descendants of Balinese immigrants who settled in Lombok centuries ago. The Balinese tribe in Lombok maintains Balinese Hindu customs and traditions, which can be seen through the temples and traditional ceremonies they perform.
+
+In addition to these main tribes, West Nusa Tenggara is also inhabited by immigrant tribes such as the Bugis, Javanese and Chinese who contribute to the cultural diversity in this province.
+
+In general, West Nusa Tenggara is a region rich in cultural and ethnic diversity, with traditional values that are still upheld by its people amidst the development of the times.
+
+=== Religion ===
+{{Pie chart
+|thumb = right
+|caption = Religion in West Nusa Tenggara (2022)<ref name="RELIGION">{{cite web|url=https://satudata.kemenag.go.id/dataset/detail/jumlah-penduduk-menurut-agama|title=Jumlah Penduduk Menurut Agama|publisher=[[Ministry of Religious Affairs (Indonesia)|Ministry of Religious Affairs]]|date=31 August 2022|access-date=29 October 2023|language=id|quote=Muslim 241 Million (87), Christianity 29.1 Million (10.5), Hindu 4.69 million (1.7), Buddhist 2.02 million (0.7), Folk, Confucianism, and others 192.311 (0.1), Total 277.749.673 Million}}</ref>
+|label1 = [[Islam]]
+|value1 = 96.88
+|color1 = Green
+|label2 = [[Hinduism]]
+|value2 = 2.38
+|color2 = DarkOrange
+|label3 = [[Buddhism]]
+|value3 = 0.31
+|color3 = Gold
+|label4 = [[Protestantism]]
+|value4 = 0.25
+|color4 = Blue
+|label5 = [[Roman Catholic]]
+|value5 = 0.18
+|color5 = DarkOrchid
+}}
+
+West Nusa Tenggara (NTB), which includes the islands of Lombok and Sumbawa, is predominantly Muslim, with 96.88% of the population adhering to Islam. Islam is deeply rooted in the culture of the indigenous Sasak, Samawa, and Mbojo peoples, shaping daily life, customs, and education since its introduction in the 16th century.<ref>{{Cite web |title=The Influence of Islam on the Work Culture of the Sasak Tribe |url=https://ejournal.stitpn.ac.id/index.php/palapa/article/download/5/2/ |access-date=2 September 2024 |website=Jurnal Palapa |publisher=STIT Palapa Nusantara Lombok |language=id}}</ref>
+
+Hinduism, practiced by 2.38% of the population, is centered in the Balinese community, particularly on Lombok, where Hindu temples and traditional festivals like Galungan and Nyepi are still observed. Buddhism (0.31%), largely practiced by the Chinese community, is present mainly in urban areas such as Mataram. Protestantism (0.25%) and Roman Catholicism (0.18%) are practiced by small groups, mostly migrants from other Indonesian regions like Flores and Timor.<ref>{{Cite web |title=Jumlah Penduduk Menurut Agama {{!}} Satu Data NTB |url=https://data.ntbprov.go.id/dataset/jumlah-penduduk-menurut-agama |access-date=2024-09-03 |website=data.ntbprov.go.id |language=id}}</ref>
+
+Despite Islam’s predominance, West Nusa Tenggara is known for its peaceful interfaith coexistence, with mutual respect among different religious groups. Religious festivals across communities foster a sense of unity and enrich the province’s cultural landscape, reflects the history of West Nusa Tenggara as a crossroads of diverse traditions and beliefs.<ref>{{Cite journal |date=2023 |title=Interaksi Sosial Masyarakat Berbeda Agama Dalam Perspektif Komunikasi Antar Budaya Di Kota Tua Ampenan Mataram |url=https://ejournal.nusantaraglobal.or.id/index.php/jige/article/download/666/669/3395 |journal=Jurnal Ilmu Geografi Dan Ekonomi |language=id |volume=8 |issue=4 |pages=666–669 |access-date=2 September 2024}}</ref>
+
+==Culture==
+The province of West Nusa Tenggara (NTB), which consists of two large islands, Lombok and Sumbawa, has a diverse and unique cultural wealth. The culture in West Nusa Tenggara is a blend of the heritage of indigenous tribes such as Sasak, Samawa, and Mbojo (Bima), influenced by religion, customs, and relations with immigrants and other nations for centuries. Overall, the culture in West Nusa Tenggara reflects the harmony between traditional beliefs, arts, customs, and the daily lives of its people.
+
+* '''Sasak Culture in Lombok'''
+The Sasak people are the indigenous people of Lombok Island, and they have a culture that is very strongly influenced by Islam. Sasak culture is known for its traditional wedding ceremony called '''Merariq''', where the wedding is preceded by the tradition of "running away" the bride as a symbol of the family's agreement and readiness to unite.<ref>{{Cite journal |last1=Fairiza |first1=Andre |last2=Widyatama |first2=Rendra |date=2024-01-31 |title=MERARIQ DALAM PERNIKAHAN SUKU SASAK: ANALISIS KOMUNIKASI DAN DINAMIKA SOSIAL DALAM RITUAL PENCULIKAN |url=https://jurnal.uns.ac.id/jas/article/view/74926 |journal=Jurnal Analisa Sosiologi |language=Indonesian |volume=13 |issue=1 |doi=10.20961/jas.v13i1.74926 |doi-broken-date=1 November 2024 |issn=2615-0778}}</ref>
+
+In the field of art, the Sasak people are associated with their Gendang Beleq music, a traditional music that uses large drums and is usually played in ceremonies or celebrations.<ref>{{Cite book |url=https://www.taylorfrancis.com/books/edit/10.4324/9781315609959/sounding-dance-moving-music-mohd-anis-kendra-stepputat?refId=9add5faa-9355-4c23-b176-f59f32a309ca&context=ubx |title=Sounding the Dance, Moving the Music |editor=Mohd Anis, Kendra Stepputat |publisher=Routledge |year=2017 |doi=10.4324/9781315609959 |isbn=978-1-317-05248-7 |access-date=2 September 2024}}</ref> Woven songket cloth and handmade gold and silver jewelry are also part of their valuable cultural heritage.
+
+* '''Samawa Culture in Sumbawa'''
+The Samawa people, who live in the western part of Sumbawa Island, have traditions that are closely related to agriculture and the sea. One of the most important traditions is '''Barapan Kebo''', or buffalo racing, which is held after the harvest season as a form of gratitude.<ref>{{Cite journal |last=Oktaviani |first=Ranis |date=2019-12-18 |title=Mengenal Tradisi Barapan Kebo di Kabupaten Sumbawa |url=https://ejournal.mandalanursa.org/index.php/JUPE/article/view/838 |journal=JUPE: Jurnal Pendidikan Mandala |language=en |volume=4 |issue=5 |doi=10.58258/jupe.v4i5.838 |issn=2548-5555|doi-access=free }}</ref>
+
+In daily life, the Samawa people still maintain the customary social structure, where customary laws and traditions such as mutual cooperation are still carried out. They are also known for their traditional weaving skills which produce Sumbawa woven cloth which has distinctive patterns and colors.
+
+* '''Mbojo Culture in Bima'''
+The Mbojo people inhabit the eastern part of Sumbawa Island, especially in the Bima and Dompu regions. Their culture is heavily influenced by Islam, but also retains strong traces of the historical Mbojo kingdom. One important tradition is '''Mpa'a Sampari''', a traditional ceremony held to welcome distinguished guests with dance, music, and traditional Bima clothing.<ref>{{Cite web |title=Mengenal Tarian Mpa'a Sampari |url=https://kim.bimakota.go.id/show/detail_berita/kibCF1EMz4itY/mengenal-tarian-mpaa-sampari |access-date=2024-09-03 |website=Kelompok Infomasi Masyarakat Kota Bima |language=en}}</ref>
+
+The Bima community is also known for its '''Tembe Nggoli''' craft, This fabric usually has geometric motifs and distinctive colors, and is used in various traditional events and important ceremonies.<ref>{{Cite journal |last1=Juliyati |first1=Dewi |last2=Rahman |first2=Abdul |date=2023 |title=Kerajinan Tembe Nggoli di Bima Nusa Tenggara Barat Dalam Prespektif Antropologi Fungsionalisme |url=https://prin.or.id/index.php/cemerlang/article/view/729 |journal=CEMERLANG: Jurnal Manajemen Dan Ekonomi Bisnis |language=en |volume=3 |issue=1 |pages=212–224 |doi=10.55606/cemerlang.v3i1.729 |issn=2962-4797}}</ref> In terms of art, the Mbojo tribe has the '''Sere dance''', a traditional war dance that depicts courage and toughness.<ref>{{Cite web |date=2011-05-18 |title=Mengenal Tari Sere |url=https://alanmalingi.wordpress.com/2011/05/18/mengenal-tari-sere/ |access-date=2024-09-04 |website=Romantika Bima |language=id-ID}}</ref>
+
+===Traditional Arts and Crafts===
+In addition to the richness of dance and music arts, West Nusa Tenggara is also famous for its various handicrafts, such as '''Batik Sasambo''', which is a typical West Nusa Tenggara batik that reflects the culture of the Sasak, Samawa, and Mbojo tribes. This batik has motifs inspired by nature and the daily lives of the West Nusa Tenggara community, and is one of the region's leading products.<ref>{{Cite web |date=2023-01-11 |title=Batik NTB: Sejarah, Motif, Teknik, dan Makna Filosofisnya |url=https://www.goodnewsfromindonesia.id/2023/01/11/batik-ntb-sejarah-motif-teknik-dan-makna-filosofisnya |access-date=2024-09-02 |website=Good News from Indonesia |language=id}}</ref>
+
+In addition, ikat and songket weaving are also the pride of the West Nusa Tenggara community. These crafts are produced through a process that requires high patience and precision. Lombok and Sumbawa weaving have unique and varied motifs, reflecting the identity of each tribe.
+
+===Traditional Cuisine===
+NTB's traditional food is also an integral part of its culture. [[Ayam Taliwang]], a typical Lombok food, is famous for its spicy and rich spice taste. [[Plecing kangkung|Plecing Kangkung]] and Sate Rembiga are also popular foods in NTB that reflect the richness of local spices and ingredients.
+
+===Traditional and Religious Ceremonies===
+Traditional and religious ceremonies are still highly maintained in West Nusa Tenggara. Islamic celebrations such as Eid al-Fitr and Eid al-Adha are celebrated enthusiastically throughout the region, but traditional ceremonies such as '''Peresean''' (traditional rattan fighting) are also often held in a series of certain traditional events. The people of West Nusa Tenggara still uphold mutual cooperation and local wisdom in various aspects of life.<ref>{{Cite web |last1=S |first1=Solikatun |last2=Karyadi |first2=Wirasapta |last3=Wijayanti |first3=Ika |title=Eksistensi Seni Pertunjukan Peresean pada Masyarakat Sasak Lombok |url=https://journal.uinmataram.ac.id/index.php/sangkep/article/download/349/501/1654 |access-date=2 September 2024 |website=Jurnal Sangkep |publisher=UIN Mataram |language=en-id}}</ref>
+
+'''End'''
+
+The culture in West Nusa Tenggara is a reflection of the diversity of tribes, religions, and traditions that live harmoniously under the umbrella of strong customs. Each tribe in West Nusa Tenggara has its own uniqueness that is maintained from generation to generation, making West Nusa Tenggara a region with valuable cultural wealth in Indonesia. The harmony between traditional culture and modern influences makes West Nusa Tenggara not only attractive from a tourism perspective, but also an inspiration in diversity and tolerance.
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Wikivoyage}}
+*{{commons category-inline|West Nusa Tenggara}}
+* {{official website|http://www.ntbprov.go.id/}}
+* [https://rinjaninationalpark.org/ Rinjani National Park]
+
+{{West Nusa Tenggara|state=uncollapsed}}
+{{Provinces of Indonesia}}
+{{Authority control}}
+
+[[Category:West Nusa Tenggara| ]]
+[[Category:Provinces of Indonesia]]
+[[Category:1958 establishments in Indonesia]]
+[[Category:Lesser Sunda Islands]]
+[[Category:States and territories established in 1958]]

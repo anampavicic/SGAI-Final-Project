@@ -1,0 +1,108 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Contramaestre
+|other_name             = 
+|native_name            = 
+|nickname               = 
+|settlement_type        = [[Municipalities of Cuba|Municipality]]
+|motto                  = 
+<!-- images and maps  ----------->
+|image_skyline          = Contramaestre DSC01306.jpg
+|image_caption          = A church in Contramaestre
+|image_flag             = 
+|flag_size              = 
+|image_seal             = 
+|seal_size              = 
+|image_shield           = 
+|shield_size            = 120x90px
+|image_map              = Contramaestre (Cuban municipal map).png
+|map_caption            = Contramaestre municipality (red) within <br> Santiago Province (yellow) and Cuba
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[Cuba]]
+|subdivision_type1      = [[Provinces of Cuba|Province]]
+|subdivision_name1      = [[Santiago de Cuba Province|Santiago de Cuba]]
+|subdivision_type2      = 
+|subdivision_name2      = 
+<!-- Politics ----------------->
+|government_footnotes   = 
+|government_type        = 
+|leader_title           = 
+|leader_name            = 
+|leader_title1          = 
+|leader_name1           = 
+|established_title      = 
+|established_date       = 
+|established_title2     = <!-- Incorporated (town) -->
+|established_date2      = 
+|established_title3     = <!-- Incorporated (city) -->
+|established_date3      = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref              = 
+|area_footnotes         = 
+|area_total_km2         = 610.3
+|area_land_km2          = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2         = 
+<!-- Population   ----------------------->
+|population_as_of       = 2022
+|population_footnotes   = <ref name=santiagomun>{{Cite web| url=http://www.santiago.cu/nuestrostgo/Municipio/2.htm| title=Municipalities of Santiago de Cuba| author=Santiago.cu| year=2006| accessdate=2007-10-05| language=es| url-status=dead| archiveurl=https://web.archive.org/web/20071215121200/http://www.santiago.cu/nuestrostgo/Municipio/2.htm| archivedate=2007-12-15}}</ref>
+|population_note        = 
+|population_total       = 104,334
+|population_density_km2 = auto
+<!-- General information  --------------->
+|timezone               = [[Eastern Time Zone|EST]]
+|utc_offset             = -5
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|20|18|0|N|76|15|2|W|region:CU|display=inline,title}}
+|elevation_footnotes    = <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 110
+<!-- Area/postal codes & others -------->
+|postal_code_type       = 
+|postal_code            = 
+|area_code              = +53-226
+|website                = https://www.contramaestre.gob.cu/
+|footnotes              = 
+}}
+'''Contramaestre''' ([[Spanish language|Spanish]] for "[[boatswain]]") is a [[Cuba]]n town and municipality in the [[Santiago de Cuba Province]].
+
+==Geography==
+The municipality is located in the western part of the province, neighboring the provinces of [[Granma Province|Granma]] and [[Holguín Province|Holguín]]; and borders with the municipalities of [[Jiguaní]], [[Urbano Noris]], [[Palma Soriano]] and [[Tercer Frente]].
+
+It includes the villages of Altos de Ventas, Anacahuita, America Libre, Baire, El Naranjo, Guaninao, La Maritonia, Laguna Blanca, Los Negros, Los Pasos, Maffo, Palo Seco, Pino de Baire, Pueblo Nuevo and Xavier.<ref>{{OSM|r|5919047|Contramaestre}}</ref>
+
+==Demographics==
+In 2022, municipal population of Contramaestre was of 104,334,<ref name="citypopulation">{{Cite web |title=Cuba: Administrative Division (Provinces and Municipalities) - Population Statistics, Charts and Map |url=https://www.citypopulation.de/en/cuba/admin/ |access-date=2024-02-03 |website=www.citypopulation.de}}</ref> of which 44,752 in the town. With a total area of {{convert|610|km2|sqmi|abbr=on}}, it has a population density of {{convert|166.9|/km2|/sqmi|abbr=on}}. Contramaestre is known as the land of citric.
+
+==Infrastructure==
+*Main Hospital: Orlando Pantoja Tamayo (22.July.1988)
+*Elementary Schools: Jose de la Luz y Caballero. Semi-internado: Orlando Pantoja T.
+*Secondary Schools: Pepito Tey. Rodolfo Rodríguez
+*Public Library: Luz Berta Sánchez
+
+==See also==
+*[[Municipalities of Cuba]]
+*[[List of cities in Cuba]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category-inline}}
+
+{{Adjacent communities
+ | Centre = Contramaestre
+ | N = [[Urbano Noris]] ([[Holguín Province|Holguín]])
+ | E = [[Palma Soriano]]
+ | S = [[Tercer Frente]]
+ | W = [[Jiguaní]] ([[Granma Province|Granma]])
+}}
+{{Municipalities in Santiago de Cuba}}
+
+[[Category:Cities in Cuba]]
+[[Category:Populated places in Santiago de Cuba Province]]
+
+
+{{Cuba-geo-stub}}

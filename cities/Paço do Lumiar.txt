@@ -1,0 +1,97 @@
+{{for|the village now within the municipality of Lisbon, Portugal|Lumiar}}
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Paço do Lumiar
+|other_name             =
+|native_name            = <!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        = Municipality
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             = Bandeira_de_Paço_do_Lumiar.png
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_map              = Maranhao_Municip_PacodoLumiar.svg
+|mapsize                = 
+|map_caption            = Location of Paço do Lumiar in Maranhao
+|pushpin_map            = Brazil
+|pushpin_label_position = bottom
+|pushpin_map_caption    = Location in Brazil
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Brazil}}
+|subdivision_type1      = [[Regions of Brazil|Region]] 
+|subdivision_name1      = [[Northeast Region, Brazil|Nordeste]]
+|subdivision_type2      = [[States of Brazil|State]]
+|subdivision_name2      = [[Maranhão]]
+|subdivision_type3      = Mesoregion
+|subdivision_name3      = Norte Maranhense
+|subdivision_type4      =
+|subdivision_name4      = 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        = 
+|leader_title           = [[Mayor]]
+|leader_name            = [[Domingos Dutra]] 
+|established_title      = <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = 132.410
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|population_as_of               = 2022<ref name="IBGE">[https://cidades.ibge.gov.br/brasil/ma/paco-do-lumiar/panorama IBGE 2022]</ref>
+|population_footnotes           =
+|population_note                = 
+|population_total               = 145,643
+|population_density_km2         = auto
+<!-- General information  --------------->
+|timezone               = [[Time in Brazil|BRT]]
+|utc_offset             = &minus;3
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|02|31|55|S|44|06|28|W|region:BR|display=inline,title}}
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 
+|elevation_ft           = <!-- accord. to Google Earth-->
+<!-- Area/postal codes & others -------->
+|postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|website                = 
+|footnotes              = 
+}}
+'''Paço do Lumiar''' is a [[Municipalities of Brazil|municipality]] in the [[states of Brazil|state]] of [[Maranhão]] in the [[Northeast Region, Brazil|Northeast region]] of [[Brazil]].<ref name="IBGE_DTB_2008">{{cite web 
+ |url=https://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/divisao_territorial/2008/dtb_2008.zip
+ |title=Divisão Territorial do Brasil 
+ |date=July 1, 2008 
+ |publisher=Divisão Territorial do Brasil e Limites Territoriais, Instituto Brasileiro de Geografia e Estatística (IBGE) 
+ |access-date=December 17, 2009 
+ |language=pt 
+ }}</ref><ref name="IBGE_Pop_2009">{{cite web | url = http://www.ibge.gov.br/home/estatistica/populacao/estimativa2009/POP2009_DOU.pdf | title = Estimativas da população para 1º de julho de 2009| publisher = Estimativas de População, Instituto Brasileiro de Geografia e Estatística (IBGE) | date = August 14, 2009 | access-date=December 17, 2009 | format = [[PDF]]|language=pt }}</ref><ref name="PNUD_IDH_2000">{{cite web |url=http://www.pnud.org.br/atlas/ranking/IDH-M%2091%2000%20Ranking%20decrescente%20(pelos%20dados%20de%202000).htm |title=Ranking decrescente do IDH-M dos municípios do Brasil |year=2000 |publisher=Atlas do Desenvolvimento Humano, Programa das Nações Unidas para o Desenvolvimento (PNUD) |access-date=December 17, 2009 |language=pt |archive-url=https://web.archive.org/web/20111003191537/http://www.pnud.org.br/atlas/ranking/IDH-M%2091%2000%20Ranking%20decrescente%20(pelos%20dados%20de%202000).htm |archive-date=October 3, 2011 |url-status=dead }}</ref><ref name="IBGE_PIB_2005">{{cite web|url=http://www.ibge.gov.br/home/estatistica/economia/pibmunicipios/2005/tab01.pdf |title=Produto Interno Bruto dos Municípios 2002-2005 |date=December 19, 2007 |publisher=Instituto Brasileiro de Geografia e Estatística (IBGE) |access-date=December 17, 2009 |language=pt |url-status=dead |archive-url=https://web.archive.org/web/20081002024524/http://www.ibge.gov.br/home/estatistica/economia/pibmunicipios/2005/tab01.pdf |archive-date=October 2, 2008 }}</ref>
+
+The municipality contains part of the {{convert|1,535,310|ha}} [[Upaon-Açu/Miritiba/Alto Preguiças Environmental Protection Area]], created in 1992.<ref>{{citation|ref={{harvid|APA Upaon-Açu/Miritiba/Alto Preguiças – ISA}}|language=pt
+ |title=APA Upaon-Açu/Miritiba/Alto Preguiças|publisher=ISA: Instituto Socioambiental
+ |url=https://uc.socioambiental.org/pt-br/uc/6878|access-date=2017-02-09}}</ref>
+
+==See also==
+*[[List of municipalities in Maranhão]]
+
+==References==
+{{reflist}}
+
+{{Municipalities of Maranhão}}
+
+{{DEFAULTSORT:Paco Do Lumiar}}
+[[Category:Municipalities in Maranhão]]
+[[Category:Populated coastal places in Maranhão]]
+
+{{Maranhão-geo-stub}}

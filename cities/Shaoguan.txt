@@ -1,0 +1,475 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->| name                            = Shaoguan
+| official_name                   = <!-- Official name in English if different from 'name' -->
+| native_name                     = 韶关市
+| native_name_lang                = zh-Hans
+| other_name                      = Shiukwan
+| nickname                        = 
+| settlement_type                 = [[Prefecture-level city]]
+| total_type                      = <!-- to set a non-standard label for total area and population rows -->
+<!-- images and maps  ----------->| image_skyline                   = {{multiple image
+| border                   = infobox
+| total_width              = 290
+| image_style              = border:1;
+| perrow                   = 1/2/2
+| image1                   = Shaoguan 2019-06-23.jpg
+| image2                   = 韶关市中心的马路边 - By 科技小辛 - panoramio.jpg
+| image3                   = Shaoyang Tower at night3.jpg
+| image4                   = Renhua Sixi Si Ta 2013.12.08 16-35-12.jpg
+| image5                   = Shaoguan plane Feb 2016 bigger.jpg
+}}
+| image_size               = 
+| image_caption            = '''Left to right, top to bottom:''' Downtown Shaoguan from across the [[Bei River]], street scene in central Shaoguan, Shaoyang Tower, the Pagoda of Sixi Temple, aerial view of the city
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| image_blank_emblem              = 
+| blank_emblem_type               = 
+| blank_emblem_size               = 
+| image_map                       = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=7|frame-lat=24.67|frame-long=113.82}}
+| image_map1                      = Guangdong subdivisions - Shaoguan.svg
+| mapsize1                        = 
+| map_caption1                    = Location of Shaoguan City jurisdiction in Guangdong
+| image_dot_map                   = 
+| dot_mapsize                     = 
+| dot_map_caption                 = 
+| dot_x                           = 
+| dot_y                           = 
+| pushpin_map                     = China
+| pushpin_label_position          = 
+| pushpin_map_caption             = Location in China
+| pushpin_mapsize                 = <!-- Location ------------------>
+| subdivision_type                = Country
+| subdivision_name                = [[People's Republic of China]]
+| subdivision_type1               = [[Province (China)|Province]]
+| subdivision_name1               = [[Guangdong]]
+| subdivision_type2               = [[Administrative divisions of the People's Republic of China#County level|County-level&nbsp;divisions]]
+| subdivision_name2               = 10
+| subdivision_type3               = [[Administrative divisions of the People's Republic of China#Township level|Township&nbsp;divisions]]
+| subdivision_name3               = 
+| seat_type                       = Municipal seat
+| seat                            = [[Zhenjiang District]]
+| parts_type                      = 
+| parts_style                     = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+| parts                           = <!-- parts text, or header for parts list -->
+| p1                              = 
+| p2                              = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = CPC Secretary
+| leader_name                     = Jiang Ling ({{lang|zh|江凌}})
+| leader_title1                   = Mayor
+| leader_name1                    = Luo Weifeng ({{lang|zh-hans|骆蔚峰}})
+| leader_title2                   = 
+| leader_name2                    = 
+| leader_title3                   = 
+| leader_name3                    = 
+| leader_title4                   = 
+| leader_name4                    = 
+| established_title               = <!-- Settled -->
+| established_date                = 
+| established_title1              = <!-- Incorporated (town) -->
+| established_date1               = 
+| established_title2              = <!-- Incorporated (city) -->
+| established_date2               = 
+| established_title3              = 
+| established_date3               = 
+| founder                         = 
+| named_for                       = <!-- Area    --------------------->
+| area_footnotes                  = 
+| area_total_km2                  = 18645 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+| area_water_km2                  = 
+| area_water_percent              = 
+| area_urban_km2                  = 2870.7
+| area_metro_km2                  = 2870.7
+| area_blank1_title               = 
+| area_blank1_km2                 = <!-- Elevation -------------------------->
+| elevation_footnotes             = <!--for references: use <ref> </ref> tags-->
+| elevation_m                     = 59
+| elevation_ft                    = 194
+| elevation_max_m                 = 
+| elevation_min_m                 = 
+| elevation_min_ft                = <!-- Population   ----------------------->
+| population_as_of                = 2020 census
+| population_footnotes            = <ref name="citypopulation.de">[http://www.citypopulation.de/php/china-guangdong-admin.php Guăngdōng: Prefectures, Cities, Districts and Counties]</ref>
+| population_note                 = 
+| population_total                = 2855131
+| population_density_km2          = auto<!--For automatic calculation, any density field may contain: auto -->
+| population_metro                = 1028460
+| population_density_metro_km2    = auto
+| population_urban                = 1028460
+| population_density_urban_km2    = auto
+| population_blank1_title         = 
+| population_blank1               = 
+| population_density_blank1_km2   = 
+|demographics_type2   = GDP<ref>{{cite book|author=广东省统计局、国家统计局广东调查总队|title=《广东统计年鉴－2016》|date=August 2016|publisher=中国统计出版社|isbn=978-7-5037-7837-7|url=http://www.gdstats.gov.cn/tjnj/2016/directory.html|url-status=dead|archiveurl=https://web.archive.org/web/20171222072646/http://www.gdstats.gov.cn/tjnj/2016/directory.html|archivedate=2017-12-22}}</ref>
+|demographics2_title1 = [[Prefecture-level city]] 
+|demographics2_info1 = [[CN¥]] 155.4 billion<br />[[US$]] 24.1 billion  
+| demographics2_title2 = Per capita
+| demographics2_info2 = CN¥ 54,377<br />US$ 8,429
+<!-- General information  --------------->
+| timezone                        = [[China Standard Time|China Standard]]
+| utc_offset                      = +8
+| coor_pinpoint                   = Shaoguan municipal government
+| coordinates                     = {{coord|24.811|N|113.597|E|type:adm2nd_region:CN-44_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->| postal_code_type                = <!--  [[Postal code of China|Postal code]] -->
+| postal_code                     = 512000
+| area_code                       = (0)751
+| iso_code                        = [[ISO 3166-2:CN|CN-GD-02]]
+| blank_name                      = <!-- [[GDP]] -->
+| blank_info                      = 
+| blank1_name                     = <!-- GDP per capita -->
+| blank1_info                     = 
+| blank2_name                     = [[Licence plates of the People's Republic of China|Licence plate prefixes]]
+| blank2_info                     = {{lang|zh-cn|粤F}}
+| blank3_name                     = [[Spoken Chinese|Local dialect]]
+| blank3_info                     = [[Hakka language|Hakka]] (regional) <br/>[[Cantonese language|Cantonese]] (native; provincial level)
+| blank4_name                     = Major [[Nationalities of China|Nationalities]]
+| blank4_info                     = Han
+| website                         = 
+| footnotes                       = 
+}}
+{{Infobox Chinese
+ | pic      = SG name.svg
+ | piccap   = "Shaoguan" in [[Traditional Chinese characters|Traditional]] (top) and [[Simplified Chinese characters|Simplified]] (bottom) Chinese characters
+ | picsize  = 105px
+ | t        = {{linktext|韶關}}
+ | s        = {{linktext|韶关}}
+ | p        = Sháoguān
+ | mi       = {{IPAc-cmn|sh|ao|2|.|g|wan|1}}
+ | gr       = Shaurguan
+ | w        = Shao<sup>2</sup>-kuan<sup>1</sup>
+ | psp      = Shiukwan<br/>Shiuchow <small>(former)</small>
+ | j        = Siu4gwaan1
+ | ci       = {{IPAc-yue|s|iu|4|.|gw|aan|1}}
+ | y        = Sìuhgwāan
+ | wuu      = zau<sup>1</sup>kuae<sup>1</sup>
+ | h        = Shâu-kûan
+ | l        = Beautiful pass
+ | order    = st
+ | showflag = phy
+}}
+'''Shaoguan''' is a [[prefecture-level city]] in northern [[Guangdong]] Province ([[Northern Guangdong|Yuebei]]), [[South China]], bordering [[Hunan]] to the northwest and [[Jiangxi]] to the northeast. It is home to the mummified remains of the sixth [[Zen]] [[Buddhism|Buddhist]] patriarch [[Huineng]]. Its built-up (or metro) area made up of Zhenjiang, Wujiang and Qujiang urban conurbated districts was home to 1,028,460 inhabitants as of the [[2020 Chinese census|2020 census]].<ref>{{Cite web |url=http://www.citypopulation.de/php/china-guangdong-admin.php |title=Search result of CHINA: Guăngdōng at citypopulation website}}</ref>
+
+==History==
+'''Shaozhou''' or '''Seochew''' was a prefecture under the [[Tang dynasty|Tang]] and [[Song dynasty|Song]].
+
+In 1589, [[Matteo Ricci]] relocated his mission house{{spaced ndash}}the first ever [[Jesuit China missions|Jesuit mission]] in mainland China{{spaced ndash}}to Shaoguan after a fallout with the authorities in [[Zhaoqing]]. He remained in Shaoguan  for a few years, eventually benefiting from Shaoguan's location on the important north–south travel route to establish connections with traveling dignitaries that allowed him to move north, to [[Nanchang]], [[Nanjing]], and [[Beijing]].<ref>''[[De Christiana expeditione apud Sinas]]''</ref>
+
+During [[World War II]] the city, then called Kukong, was the temporary capital of Guangdong Province.
+
+In June 2009, [[Uyghur people|Uyghur]]s and [[Han Chinese|Han]] workers [[Shaoguan incident|clashed]] at a toy factory in Shaoguan ([[Shaoguan incident]]), which was followed by the [[July 2009 Ürümqi riots|Ürümqi riots]] in July.
+
+==Geography==
+[[File:湴田背村 - panoramio (2).jpg|thumb|left|Fields in Shaoguan]]
+Shaoguan is the northernmost prefecture-level city of Guangdong, bordering [[Chenzhou]] ([[Hunan]]) to the northwest and north, [[Ganzhou]] ([[Jiangxi]]) to the northeast, [[Heyuan]] to the east, [[Guangzhou]] and [[Huizhou]] to the south, and [[Qingyuan]] to the west. It spans latitude 23° 53'−25° 31' N and longitude 112° 53'−114° 45' E.<ref>{{cite news|last1=the Yearbook of Shaoguan |first1= |title=Natural geography|url=https://www.sg.gov.cn/sq/sggk/zrdl/content/post_2304093.html | publisher=Shaoguan Government}}</ref> It is situated at the southern end of the [[Nan Mountains]] (Nan Ling), which primarily run east–west here, and is marked by numerous erosion-created valleys; within its borders lies the {{convert|1902|m|0|abbr=on|adj=on}} [[:zh:石坑崆|Mount Shikeng]] ({{lang|zh|石坑崆}}), the highest point in the province. The city is located on the [[Jingguang Railway]] (Beijing−Guangzhou) about {{convert|221|km}} north of the provincial capital of [[Guangzhou]]. Shaoguan is also readily accessible by road as it is adjacent to the [[G4 Beijing–Hong Kong and Macau Expressway]] as well as numerous other [[China National Highways|National Highways]].
+
+At Shaoguan, the Wu River from the northwest and the Zhen River from the northeast join up to create the North River ([[Bei Jiang]]) which flows south to Guangzhou. The downtown part of Shaoguan is located on a peninsula between the Wu and Zhen Rivers. The rivers are maintained at a constant level by a dam about {{convert|12|km}} downstream from the city. The city has about {{convert|20|km}} of tree-lined riverside esplanades along the banks of the rivers.  There are seven bridges crossing the three rivers.
+
+===Climate===
+Shaoguan has a [[monsoon]]-influenced [[humid subtropical climate]] ([[Köppen climate classification|Köppen]] ''Cfa''), with short, mild, damp winters, rainy springs, long, hot, and humid summers, and relatively sunny autumns. Due to the city's location far inland, winters are significantly cooler than in the rest of the province, with freezing rain possible in the nearby mountain passes in some years. Winter begins dry and relatively sunny but becomes progressively cloudier and damper. Spring is the cloudiest and wettest season, with the sun shining less than 30% of the time. The annual rainfall is around {{convert|1600|mm|in|abbr=on}}, much of it delivered from April thru June. The monthly 24-hour average temperature ranges from {{convert|10.3|°C|1}} in January to {{convert|29.0|°C|1}} in July; the annual mean is {{convert|20.5|°C|1}}. With monthly percent possible sunshine ranging from 16% in March to 54% in July, the city receives 1,617 hours of bright sunshine annually.
+
+{{Weather box|width=auto
+|metric first=y
+|single line=y 
+|collapsed=y
+|location = Shaoguan (1991–2020 normals, extremes 1971–2010)
+|Jan high C = 	14.9
+|Feb high C = 	17.2
+|Mar high C = 	19.7
+|Apr high C = 	25.1
+|May high C = 	29.0
+|Jun high C = 	31.5
+|Jul high C = 	33.8
+|Aug high C = 	33.7
+|Sep high C = 	31.4
+|Oct high C = 	27.9
+|Nov high C = 	22.8
+|Dec high C = 	17.2
+|Jan mean C = 	10.3
+|Feb mean C = 	12.7
+|Mar mean C = 	15.6
+|Apr mean C = 	20.9
+|May mean C = 	24.7
+|Jun mean C = 	27.3
+|Jul mean C = 	28.8
+|Aug mean C = 	28.4
+|Sep mean C = 	26.2
+|Oct mean C = 	22.2
+|Nov mean C = 	17.0
+|Dec mean C = 	11.7
+|Jan low C = 	7.2
+|Feb low C = 	9.6
+|Mar low C = 	12.8
+|Apr low C = 	17.8
+|May low C = 	21.6
+|Jun low C = 	24.4
+|Jul low C = 	25.4
+|Aug low C = 	24.9
+|Sep low C = 	22.6
+|Oct low C = 	18.1
+|Nov low C = 	13.1
+|Dec low C = 	8.0
+|Jan record high C = 27.7 |Jan record low C = −2.5
+|Feb record high C = 30.5 |Feb record low C = -1.4
+|Mar record high C = 32.6 |Mar record low C =  0.9
+|Apr record high C = 33.7 |Apr record low C =  5.7
+|May record high C = 36.4 |May record low C = 12.7
+|Jun record high C = 38.5 |Jun record low C = 16.6
+|Jul record high C = 40.4 |Jul record low C = 20.1
+|Aug record high C = 40.3 |Aug record low C = 20.1
+|Sep record high C = 38.3 |Sep record low C = 15.1
+|Oct record high C = 36.6 |Oct record low C =  6.3
+|Nov record high C = 34.0 |Nov record low C =  1.6
+|Dec record high C = 28.5 |Dec record low C = −4.3
+|precipitation colour = green
+|Jan precipitation mm = 	78.1
+|Feb precipitation mm = 	88.9
+|Mar precipitation mm = 	189.7
+|Apr precipitation mm = 	207.1
+|May precipitation mm = 	303.3
+|Jun precipitation mm = 	288.5
+|Jul precipitation mm = 	151.7
+|Aug precipitation mm = 	144.1
+|Sep precipitation mm = 	93.3
+|Oct precipitation mm = 	46.2
+|Nov precipitation mm = 	64.9
+|Dec precipitation mm = 	56.9
+|Jan humidity = 	77
+|Feb humidity = 	78
+|Mar humidity = 	82
+|Apr humidity = 	81
+|May humidity = 	81
+|Jun humidity = 	81
+|Jul humidity = 	77
+|Aug humidity = 	78
+|Sep humidity = 	78
+|Oct humidity = 	73
+|Nov humidity = 	75
+|Dec humidity = 	74
+|unit precipitation days = 0.1 mm	
+|Jan precipitation days = 	10.9
+|Feb precipitation days = 	12.1
+|Mar precipitation days = 	18.6
+|Apr precipitation days = 	17.0
+|May precipitation days = 	18.3
+|Jun precipitation days = 	18.7
+|Jul precipitation days = 	14.1
+|Aug precipitation days = 	14.0
+|Sep precipitation days = 	10.3
+|Oct precipitation days = 	5.9
+|Nov precipitation days = 	7.6
+|Dec precipitation days = 	7.8
+|year precipitation days = 	
+|Jan sun = 	87.2
+|Feb sun = 	77.7
+|Mar sun = 	66.8
+|Apr sun = 	88.5
+|May sun = 	123.9
+|Jun sun = 	145.8
+|Jul sun = 	214.1
+|Aug sun = 	198.8
+|Sep sun = 	171.9
+|Oct sun = 	171.4
+|Nov sun = 	137.5
+|Dec sun = 	125.8
+|year sun = 	
+| Jan percentsun = 	26
+| Feb percentsun = 	24
+| Mar percentsun = 	18
+| Apr percentsun = 	23
+| May percentsun = 	30
+| Jun percentsun = 	36
+| Jul percentsun = 	51
+| Aug percentsun = 	50
+| Sep percentsun = 	47
+| Oct percentsun = 	48
+| Nov percentsun = 	42
+| Dec percentsun = 	38
+| year percentsun =	
+|Jan snow days = 	0.4
+|Feb snow days = 	0.1
+|Mar snow days = 	0
+|Apr snow days = 	0
+|May snow days = 	0
+|Jun snow days = 	0
+|Jul snow days = 	0
+|Aug snow days = 	0
+|Sep snow days = 	0
+|Oct snow days = 	0
+|Nov snow days = 	0
+|Dec snow days = 	0.2
+|year snow days = 	
+|source 1 = [[China Meteorological Administration]]<ref name="cma graphical">{{cite web |url=http://data.cma.cn/data/weatherBk.html |script-title=zh:中国气象数据网 – WeatherBk Data |publisher=[[China Meteorological Administration]] |language = zh-hans |access-date=28 May 2023}}</ref><ref>
+{{cite web|url=https://experience.arcgis.com/template/e724038fda394e9d9b7921f10fd1aa55/page/%E7%BA%AF%E8%A1%A8%E6%A0%BC%E7%BB%9F%E8%AE%A1-(%E5%AF%B9%E6%AF%948110%E5%8F%98%E5%8C%96)/?org=UQmaps |script-title=zh:中国气象数据网|publisher=[[China Meteorological Administration]] |language = zh-hans | access-date =28 May 2023 |title=Experience Template }}</ref>
+| source 2 = Weather China<ref name = Clim>{{cite web
+| url = http://www.weather.com.cn/cityintro/101280201.shtml?
+| script-title=zh:韶关 - 气象数据 -中国天气网 
+| publisher = Weather China
+| language = zh
+| access-date = 27 November 2022}}</ref>
+}}
+
+==Administrative divisions==
+Shaoguan has direct jurisdiction over 3 [[District (PRC and ROC)|districts]], 2 [[County-level city|county-level cities]] and 5 [[County (People's Republic of China)|counties]]:
+
+{|class="wikitable" style="font-size:90%;"
+!colspan="6"| Map
+! Name
+! Simplified Chinese
+! Hanyu Pinyin
+! Population<br/>{{nowrap|(2010 census)}}
+! Area<br/>(km<sup>2</sup>)
+! Density<br/>(/km<sup>2</sup>)
+|-
+|colspan="6" rowspan="10"| <div style="position: relative" class="center">
+{{Image label begin|image=Administrative Division Shaoguan.png|width=450|link=}} 
+{{Image label|x=150|y=385|scale=450/750|text=[[Wujiang District, Shaoguan|'''Wujiang''']]}}
+{{Image label|x=240|y=260|scale=450/750|text=[[Zhenjiang District|'''Zhenjiang''']]}}
+{{Image label|x=280|y=380|scale=450/750|text=[[Qujiang District, Shaoguan|'''Qujiang''']]}}
+{{Image label|x=480|y=290|scale=450/750|text=[[Shixing County|'''Shixing<br/>County''']]}}
+{{Image label|x=320|y=170|scale=450/750|text=[[Renhua County|'''Renhua<br/>County''']]}}
+{{Image label|x=420|y=460|scale=450/750|text=[[Wengyuan County|'''Wengyuan<br/>County''']]}}
+{{Image label|x=440|y=620|scale=450/750|text=[[Xinfeng County, Guangdong|'''Xinfeng<br/>County''']]}}
+{{Image label|x=110|y=290|scale=450/750|text=[[Ruyuan Yao Autonomous County|'''Ruyuan<br/>County''']]}}
+{{Image label|x=120|y=110|scale=450/750|text=[[Lechang|'''Lechang<br/>{{small|(City)}}''']]}}
+{{Image label|x=580|y=130|scale=450/750|text=[[Nanxiong|'''Nanxiong<br/>{{small|(City)}}''']]}}
+{{Image label end}}
+</div>
+|[[Zhenjiang District]]
+|{{lang|zh-hans|浈江区}}
+|Zhēnjiāng Qū
+|393,521
+|572.11
+|688
+|----------
+|[[Wujiang District, Shaoguan|Wujiang District]]
+|{{lang|zh-hans|武江区}}
+|Wǔjiāng Qū
+|294,708
+|677.78
+|435
+|----------
+|[[Qujiang District, Shaoguan|Qujiang District]]
+|{{lang|zh-hans|曲江区}}
+|Qǔjiāng Qū
+|303,371
+|1,620.77
+|187
+|----------
+|[[Shixing County]]
+|{{lang|zh-hans|始兴县}}
+|Shǐxīng Xiàn
+|205,452
+|2,131.91
+|96
+|----------
+|[[Renhua County]]
+|{{lang|zh-hans|仁化县}}
+|Rénhuà Xiàn
+|200,354
+|2,223.22
+|99
+|----------
+|[[Wengyuan County]]
+|{{lang|zh-hans|翁源县}}
+|Wēngyuán Xiàn
+|331,120
+|2,174.87
+|152
+|----------
+|[[Xinfeng County, Guangdong|Xinfeng County]]
+|{{lang|zh-hans|新丰县}}
+|Xīnfēng Xiàn
+|206,091
+|1,967.39
+|105
+|----------
+|[[Ruyuan Yao Autonomous County]]
+|{{lang|zh-hans|乳源瑶族自治县}}
+|Rǔyuán Yáozú Zìzhìxiàn
+|177,471
+|2,299.01
+|77
+|----------
+|[[Lechang|Lechang City]]
+|{{lang|zh-hans|乐昌市}}
+|Lèchāng Shì
+|397,779
+|2,419,28
+|164
+|----------
+|[[Nanxiong|Nanxiong City]]
+|{{lang|zh|南雄市}}
+|Nánxióng Shì
+|316,179
+|2,326,18
+|136
+|}
+
+==Tourism==
+The Fengcai Tower ({{zh|s=风采楼|labels=no}}) in the centre of Shaoguan was built in the [[Ming dynasty]]. To the south of the tower, at the other end of a pedestrian shopping street, the Dajian Monastery was founded in 660.
+
+Near Shaoguan is the town of Maba, home of relics and museum of the [[Maba Man]], Chinese Neanderthals. Near Maba is [[Nanhua Temple]], which was founded by [[Huineng]], the Sixth Patriarch of [[Zen Buddhism]]. [[Shaoguan Iron and Steel]] is also located near Maba.
+
+[[Mount Danxia|Danxia]] Mountain is located in Renhua County, Shaoguan.
+
+Northwest of Shaoguan, at the town of [[Pingshi, Lechang|Pingshi]], a stretch of river known as the Nine Torrents and Eighteen Shoals is a popular place for white-water rafting.
+
+The city is served by [[Shaoguan Danxia Airport]].
+
+==Education==
+[[Shaoguan University]] is located in the city.
+
+==Language==
+The main languages spoken are Hakka and [[Shaozhou Tuhua]], related to Ping Chinese. Shaozhounese is spoken in Shaozhou city and Hakka (mainly Yetpet and Seunan dialects) are spoken in neighboring counties.
+
+Notable people:
+
+* Zhang, Jiu Ling (張九齡): a high-ranking official of the Tang dynasty. (A.D. 618–A.D. 1127)
+* Yu, Jing (余靖): a high-ranking official of the northern Song dynasty. (A.D 960–A.D. 1127)
+* Chu, Siu Hung (朱韶洪): Hong Kong social activist
+* Regina Ho Yee Ting (何依婷): winner of 2017 Miss Hong Kong pageant, also an actress of Hong Kong
+
+==Gallery==
+<gallery>
+File:Zhongshan Park in Shaoguan.jpg|Zhongshan Park
+File:Shaoguanzhongxindao.JPG|Central Shaoguan
+File:Gdgv01.JPG|Guangdong Grand Canyon in Shaoguan
+File:Nanhua Temple gate.JPG|Nanhua Temple
+</gallery>
+
+==See also==
+* [[Dajian Huineng]]
+* [[Hanshan Deqing]]
+* [[Roman Catholic Diocese of Shaozhou]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Shaoguan}}
+* http://www.shaoguan.gov.cn/ {{in lang|zh}}
+* https://web.archive.org/web/20040924085950/http://shaoguan.com.cn/ {{in lang|zh}}
+* [http://www.shaoguanchina.com Shaoguan, China]
+
+{{Navboxes
+|list = 
+{{Guangdong topics}}
+{{Guangdong}}
+{{Most populous cities in Guangdong}}
+{{Prefectural-level divisions of the People's Republic of China}}
+{{Major cities along the Pearl River}}
+}}
+
+{{Authority control}}
+
+[[Category:Shaoguan| ]]
+[[Category:Prefecture-level divisions of Guangdong]]

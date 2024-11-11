@@ -1,0 +1,500 @@
+{{Short description|Component city in Cavite, Philippines}}
+{{for|the person|Mariano Trías}}
+{{Use Philippine English|date=September 2022}}
+{{Use mdy dates|date=July 2022}}
+{{more citations needed|date=July 2013}}
+{{Infobox settlement
+| name               = {{PH wikidata|name}}
+| image_skyline      = {{Photomontage
+| photo1a  = Camella Homes Tierra Nevada General Trias Cavite Aerial Photo.jpg
+| photo2a  = General Trias Church, Cavite, July 2023.jpg
+| photo2b  = GeneralTrias,Cavitejf2960 14.JPG
+| photo3a  = The_City_Hall_of_General_Trias_since_2023.jpg
+| photo3b  = General Trias City Park, Cavite, July 2023.jpg
+| size     = 250
+| position = center
+| spacing  = 5
+| color    = transparent
+| border   = 0
+| foot_montage =  (''From top, left to right:'' Aerial view showing gated communities, [[St. Francis of Assisi Parish Church (General Trias)|St. Francis of Assisi Parish]], Gen. Mariano Trias Monument, City Hall, City Park)
+}}
+| image_caption      = {{PH wikidata|image_caption}}
+| image_seal         = City of General Trias Seal.png
+| seal_size          = 100x80px
+| image_map          = {{PH wikidata|image_map}}
+| map_caption        = {{PH wikidata|map_caption}}
+| image_map1         = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map        = Philippines
+| pushpin_label_position = left
+| pushpin_map_caption = Location within the {{PH wikidata|country}}
+| coordinates        = {{PH wikidata|coordinates}}
+| settlement_type    = {{PH wikidata|settlement_type}}
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = [[Philippines]]
+| subdivision_type1  = [[Regions of the Philippines|Region]]
+| subdivision_name1  = {{PH wikidata|region}}
+| subdivision_type2  = [[Provinces of the Philippines|Province]]
+| subdivision_name2  = {{PH wikidata|province}}
+| official_name      = {{PH wikidata|official_name}}
+| etymology          = <!--origin of name-->
+| named_for          = [[Mariano Trías]]
+| native_name        = 
+| other_name         = San Francisco de Malabon
+| nickname           = ''Gentri''
+| motto              = 
+| anthem             = 
+| subdivision_type3  = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3  = {{PH legislative district}}
+| established_title  = [[Date of establishment|Founded]]
+| established_date   = December 12, 1748
+| established_title2 = Renamed
+| established_date2  = February 28, 1914 (''as Malabon'')<br>February 24, 1920 (''as General Trias'')
+| established_title3 = Cityhood
+| established_date3  = December 13, 2015
+| parts_type         = [[Barangay]]s
+| parts_style        = para
+| p1                 = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title       = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name        = [[Luis Ferrer IV|Luis A. Ferrer IV]]
+| leader_title1      = [[Vice Mayor]]
+| leader_name1       = Jonas Glyn P. Labuguen
+| leader_title2      = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2       = [[Antonio Ferrer|Antonio A. Ferrer]]
+| leader_title3      = [[Sangguniang Panlungsod|City Council]]
+| leader_name3       = {{PH Town Council
+ | 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Jesse Raphael R. Grepo
+ | 3=Felix A. Grepo
+ | 4=Clarrisel J. Campaña
+ | 5=Kyle Jassel J. Salazar
+ | 6=J-M Vergel M. Columna
+ | 7=Isagani L. Culanding
+ | 8=Jowie S. Carampot
+ | 9=Kristine Jane M. Perdito
+ | 10=Vivencio Q. Lozares Jr.
+ | 11=Richard R. Parin
+ | 12=Alfredo S. Ching
+ | 13=Hernando M. Granados
+}}
+| leader_title4      = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4       = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type    = {{PH wikidata|government_type}}
+| government_footnotes = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m        = {{PH wikidata|elevation_m}}
+| elevation_max_m    = 426
+| elevation_min_m    = 0
+| elevation_max_rank = 
+| elevation_min_rank = 
+| elevation_footnotes = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes = 
+| elevation_min_footnotes = 
+| area_rank          = 
+| area_footnotes     = {{PH area}}
+| area_total_km2     = {{PH wikidata|area}}
+| population_footnotes = {{PH census|current}}
+| population_total   = {{PH wikidata|population_total}}
+| population_as_of   = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title = [[Household]]s
+| population_blank1  = {{PH wikidata|household}}
+| population_blank2_title = 
+| population_blank2  = 
+| population_demonym = Gentriseño
+| population_rank    = 
+| population_note    = 
+| timezone           = [[Philippine Standard Time|PST]]
+| utc_offset         = +8
+| postal_code_type   = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code        = {{PH wikidata|postal_code}}
+| postal2_code_type  = {{PSGCstyle}}
+| postal2_code       = {{PSGC detail}}
+| area_code_type     = {{areacodestyle}}
+| area_code          = {{PH wikidata|area_code}}
+| website            = {{PH wikidata|website}}
+| demographics_type1 = [[Economy of the Philippines|Economy]]
+| demographics1_title1 = {{PH wikidata|income_class_title}}
+| demographics1_info1 = {{PH wikidata|income_class}}
+| demographics1_title2 = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2 = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3 = [[Revenue]]
+| demographics1_info3 = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4 = Revenue rank
+| demographics1_info4 = 
+| demographics1_title5 = [[Asset]]s
+| demographics1_info5 = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6 = Assets rank
+| demographics1_info6 = 
+| demographics1_title7 = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7 = 
+| demographics1_title8 = IRA rank
+| demographics1_info8 = 
+| demographics1_title9 = [[Expenditure]]
+| demographics1_info9 = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10 = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10 = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2 = Service provider
+| demographics2_title1 = Electricity
+| demographics2_info1 = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2 = Water
+| demographics2_info2 = General Trias Water Corporation (GTWC)
+| demographics2_title3 = Telecommunications
+| demographics2_info3 = 
+| demographics2_title4 = Cable TV
+| demographics2_info4 = 
+| demographics2_title5 = 
+| demographics2_info5 = 
+| demographics2_title6 = 
+| demographics2_info6 = 
+| demographics2_title7 = 
+| demographics2_info7 = 
+| demographics2_title8 = 
+| demographics2_info8 = 
+| demographics2_title9 = 
+| demographics2_info9 = 
+| demographics2_title10 = 
+| demographics2_info10 = 
+| blank_name_sec1    = {{PH wikidata|climate_title}}
+| blank_info_sec1    = {{PH wikidata|climate_type}}
+| blank1_name_sec1   = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1   = {{PH wikidata|language}}
+| blank2_name_sec1   = [[Crime index]]
+| blank2_info_sec1   = 
+| blank3_name_sec1   = 
+| blank3_info_sec1   = 
+| blank4_name_sec1   = 
+| blank4_info_sec1   = 
+| blank5_name_sec1   = 
+| blank5_info_sec1   = 
+| blank6_name_sec1   = 
+| blank6_info_sec1   = 
+| blank7_name_sec1   = 
+| blank7_info_sec1   = 
+| blank1_name_sec2   = Major religions
+| blank1_info_sec2   = {{plainlist|
+*[[Roman Catholicism]]
+*[[Protestantism]]
+*[[Islam]]
+}}
+| blank2_name_sec2   = Feast date
+| blank2_info_sec2   = October 4
+| blank3_name_sec2   = Catholic diocese
+| blank3_info_sec2   = [[Diocese of Imus]]
+| blank4_name_sec2   = Patron saint
+| blank4_info_sec2   = [[Saint Francis of Assisi]]
+| blank5_name_sec2   = 
+| blank5_info_sec2   = 
+| blank6_name_sec2   = 
+| blank6_info_sec2   = 
+| blank7_name_sec2   = 
+| blank7_info_sec2   = 
+| short_description  = 
+| footnotes          = 
+}}
+
+'''General Trias''' ({{IPA|tl|hɛnɛˈɾal ˈtɾias|}}), officially the '''City of General Trias'''<ref>{{Cite web |title=History « Official Website of General Trias :: Province of Cavite |url=https://www.generaltrias.gov.ph/about-general-trias/history/ |access-date=2022-11-07}}</ref> ({{lang-fil|Lungsod ng General Trias}}), formerly known as '''San Francisco de Malabon''' is a 1st class [[Cities of the Philippines#Legal classification|component city]] in the [[Provinces of the Philippines|province]] of [[Cavite]], [[Philippines]]. According to the 2020 census, it has a population of 450,583 people.{{PH census|current}}
+
+==Etymology==
+During the earlier part of the Spanish colonial period, General Trias was often referred to as ''Las Estancias'' (the ranches), which was once a part of Cavite el Viejo, the present-day [[Kawit]]. It was also called ''Malabón Grande''. The name ''Malabón'' is derived from Tagalog, meaning "having many [[silt deposit]]s".<ref name="Lesho">{{cite book |last1=Lesho |first1=Marivic |last2=Sippola |first2=Eeva |title=Vergleichende Kolonialtoponomastik Strukturen und Funktionen kolonialer Ortsbenennung |date=2018 |publisher=De Gruyter |chapter=Toponyms in Manila and Cavite, Philippines |isbn=9783110608618 |pages=317–332}}</ref>
+
+The first reference seems to be more probable because [[Mariano Trías|General Mariano Trías]], a noted writer, adopted the nom de guerre "''Labong'' Grande, on the other hand, was affixed to the appellation because at the time, the place was a vast wilderness covering Sitio Tejero, frequently called by the revolutionary as Salinas (present-day Rosario), Santa Cruz de Malabon or Malabon el Chico (present-day [[Tanza]]) and Tierra Alta (present-day [[Noveleta]]). When the town was made independent from Cavite el Viejo, it was finally called by its popular name San Francisco de Malabon, in honor of patron saint, [[Francis of Assisi|Saint Francis of Assisi]].
+
+==History==
+[[File:Tejeros Convention Site (General Trias Drive, Rosario, Cavite; 10-14-2022).jpg|140px|thumb|left|The site of the now demolished friar estate house in then San Francisco de Malabon where the [[Tejeros Convention]] was held on March 22, 1897.]]
+[[Image:Diego Mojica marker, photo 2008.jpg|140px|thumb|left|The Diego Mojica historical marker]]
+
+===First Cry of Cavite===
+The first uprising in Cavite known as the "First Cry of Cavite" occurred in San Francisco de Malabon<ref name="firstcry">{{cite news|url=http://ph.news.yahoo.com/cavite-town-marks-262nd-anniversary.html|title=Cavite town marks 262nd anniversary - Yahoo! News Philippines|work=[[Yahoo!]]|access-date=July 2, 2013}}</ref> about ten o’clock in the morning of August 31, 1896, when the town tribunal was attacked by Filipino revolutionaries led by [[Mariano Trías]], Diego Mojica and Nicolas Portilla in Pasong Kalabaw (now known as Santa Clara).<ref name="legend">{{cite web|url=http://harrybalais.com/travels/heritage-town-general-trias-cavite/|title=Heritage Town: General Trias, Cavite|date=February 11, 2013|work=LegendHarry|access-date=August 23, 2014}}</ref> The second incident followed at twelve noon at Tierra Alta and the third in Cavite el Viejo between two and three o’clock in the afternoon.
+
+===Tejeros Convention===
+A town chapter of the [[Katipunan]] known as Balangay Mapagtiis had already been in existence in the place for sometime. The Sangguniang Bayang Magdiwang headed by Gen. [[Mariano Álvarez]] of Tierra Alta and the Sangguniang Bayang Mapagtiis of San Francisco de Malabon later merged under the name Magdiwang Council with Álvarez as president. The Magdiwang Council hosted the [[Tejeros Convention]] on March 22, 1897, in a friar estate house in Sitio Tejero (now part of Rosario) wherein Gen. [[Emilio Aguinaldo]] was elected president and Mariano Trías, then lieutenant general, as vice-president in a revolutionary government replacing the Katipunan.
+
+===American occupation===
+On October 15, 1903, Act No. 947 was approved by the [[Taft Commission|Philippine Commission]], merging the adjacent town of Santa Cruz de Malabon (present-day [[Tanza]]) with San Francisco de Malabon, with the latter designated as the municipal seat.<ref>{{cite PH act|chamber=Act|number=947|title=An Act Reducing the Twenty-Three Municipalities of the Province of Cavite to Eleven|url=https://issuances-library.senate.gov.ph/legislative%2Bissuances/Act%20No.%20947|date=October 15, 1903|accessdate=June 17, 2023}}</ref> In 1909, a resolution was passed by the San Francisco de Malabon municipal council to separate Santa Cruz de Malabon to become an independent municipality of its own; it took effect in 1910.<ref>{{cite web|url=https://www.tanza.gov.ph/history|title=History|website=Tanza|accessdate=June 17, 2023}}</ref>
+
+On February 28, 1914, Act No. 2390 was passed by the [[Philippine Assembly]], changing the town's name to Malabon.<ref name="act2889">{{Cite PH act| chamber=Act|number=2390|date=February 28, 1914|url=https://lawyerly.ph/laws/view/l8afa|title= An Act Changing the names of the municipalities of Santo Niño and Mawanan, Province of Cagayan; San Isidro Labrador and San Isidro de Potot, Province of Pangasinan; San Francisco de Malabon and Santa Cruz de Malabon, Province of Cavite; Nagpartian and San Miguel, Province of Ilocos Norte; Langaran, Province of Misamis; San Pedro Tunasan, Province of Laguna; Cabagan Nuevo, Province of Isabela; Nueva Caceres, Province of Ambos Camarines; San Pedro Macati, Province of Rizal; San Juan de Bocboc, Province of Batangas; San Juan, Province of Nueva Ecija; township of Barrit - Luluno, Province of Ilocos Sur, and of the Barrios of Tublijon and Gibigaan, Municipality of Sorsogon, Province of Sorsogon |access-date=May 1, 2022}}</ref> On February 24, 1920, Act No. 2889 was approved, renaming the town after General Mariano Trías, who passed away six years earlier.<ref name="PNA">{{Cite web |last= |last2= |last3= |last4= |title=Gen. Trias City pays tribute to local hero |url=https://www.pna.gov.ph/articles/1083026 |access-date=February 24, 2021 |website=www.pna.gov.ph |language=en}}</ref><ref>{{Cite PH act|chamber=Act| number=2889|date=February 24, 1920 |title=An Act Changing The Name of the Municipality of Malabon, Province of Cavite, to General Trias, and for Other Purposes|url=https://lawyerly.ph/laws/view/l8d2f |access-date=February 24, 2021}}</ref>
+
+===Cityhood===
+{{main|Cities of the Philippines}}
+On August 19, 2015, [[President of the Philippines|President]] [[Benigno Aquino III]] signed Republic Act No. 10675 which converted the municipality of General Trias into a [[Philippine city|component city]] of [[Cavite]].<ref name="RA10675">{{cite PH act|title=An Act Converting the Municipality of General Trias in the Province of Cavite Into a Component City to Be Known as the City of General Trias|url=http://www.officialgazette.gov.ph/2015/08/19/republic-act-no-10675/|chamber=RA|number=10675|website=Official Gazette of the Republic of the Philippines|date=August 19, 2015}}</ref> The bill finally came into full effect after majority of the city's residents voted yes to cityhood through a plebiscite.<ref name="rappler-cityhood-yes">{{cite news|title=General Trias in Cavite now a city|url=http://www.rappler.com/nation/115860-cavite-general-trias-cityhood-plebiscite|access-date=December 13, 2015|work=Rappler|date=December 13, 2015}}</ref> General Trias thus became the seventh city in the province and the 145th in the country.
+
+===Lone District of General Trias===
+On September 14, 2018, President [[Rodrigo Duterte]] signed ''Republic Act No. 11069'',<ref name="ra11069">{{cite PH act|chamber=RA|number=11069|title=Amending Section 1 of Republic Act No. 9727, Reapportioning the province of Cavite into eight (8) legislative districts|url=http://www.officialgazette.gov.ph/2018/09/14/republic-act-no-11069 |website=Official Gazette of the Republic of the Philippines|date=July 23, 2018}}</ref> reapportioning the province of Cavite into eight legislative districts to make General Trias the province's sixth legislative district.
+
+==Geography==
+General Trias is an inland city of [[Cavite]] located {{convert|33|km}} southwest of [[Manila]] and {{convert|23|km}} from [[Imus]]. It straddles the northeastern part of the province. The city is surrounded by the municipalities of [[Rosario, Cavite|Rosario]] and [[Noveleta]] in the north, by [[Tanza]] and [[Trece Martires]] in the west, by [[Amadeo, Cavite|Amadeo]] in the south, [[Silang, Cavite|Silang]] in the southeast, and the cities of [[Dasmariñas]] and [[Imus]] to the east.<ref>{{cite web |url=http://www.cavite.gov.ph/home/index.php/cities-and-municipalities/district-vi/general-trias |title=Geography: Municipality of General Trias |publisher=The Official Website of the Provincial Government of Cavite |location=Trece Martires City |access-date=October 6, 2015}}</ref> General Trias has a total land area of {{convert|81.46|sqkm|sp=us}}.{{PSGC detail|area}}
+
+===Climate=== 
+Unlike the tropical weather of its lowlands and lower highlands, the upland villages of Panungyanan and Javalera enjoy tropical highland weather due to their nearness to Tagaytay and Amadeo, which is south of the city.
+
+{{Weather box
+| location     = General Trias, Cavite
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 29
+| Jan low C  = 20
+| Feb high C = 30
+| Feb low C  = 20
+| Mar high C = 32
+| Mar low C  = 21
+| Apr high C = 34
+| Apr low C  = 22
+| May high C = 32
+| May low C  = 24
+| Jun high C = 31
+| Jun low C  = 25
+| Jul high C = 29
+| Jul low C  = 24
+| Aug high C = 29
+| Aug low C  = 24
+| Sep high C = 29
+| Sep low C  = 24
+| Oct high C = 30
+| Oct low C  = 23
+| Nov high C = 30
+| Nov low C  = 22
+| Dec high C = 29
+| Dec low C  = 21
+| Jan precipitation mm = 10
+| Feb precipitation mm = 10
+| Mar precipitation mm = 12
+| Apr precipitation mm = 27
+| May precipitation mm = 94
+| Jun precipitation mm = 153
+| Jul precipitation mm = 206
+| Aug precipitation mm = 190
+| Sep precipitation mm = 179
+| Oct precipitation mm = 120
+| Nov precipitation mm = 54
+| Dec precipitation mm = 39
+| Jan rain days        = 5.2
+| Feb rain days        = 4.5
+| Mar rain days        = 6.4
+| Apr rain days        = 9.2
+| May rain days        = 19.7
+| Jun rain days        = 24.3
+| Jul rain days        = 26.9
+| Aug rain days        = 25.7
+| Sep rain days        = 24.4
+| Oct rain days        = 21.0
+| Nov rain days        = 12.9
+| Dec rain days        = 9.1
+| source 1 = Meteoblue<ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/general-trias_philippines_1713014
+| title =  General Trias: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| access-date = May 12, 2020 }}</ref>
+| date = May 12, 2020 }}
+
+===Barangays===
+[[File:General Trias City map.jpg|thumb|Map showing the constituent barangays of General Trias.]]
+General Trias is politically subdivided into 33 [[barangay]]s:{{PSGC detail|area}}<ref>{{cite web |url=http://generaltrias.gov.ph/about-general-trias/component-barangays/ |title=Component Barangays |publisher=The Municipality of General Trias Official Website |location= General Trias, Cavite |access-date=October 6, 2015}}</ref> Each barangay consists of [[purok]]s and some have [[sitios]].
+
+{{Div col|colwidth=15em}}
+*Alingaro	
+*Arnaldo	
+*Bacao I 
+*Bacao II	
+*Bagumbayan	
+*Biclatan	
+*Buenavista I	
+*Buenavista II	
+*Buenavista III	
+*Corregidor
+*Dulongbayan
+*Governor Ferrer	
+*Javalera	
+*Manggahan	
+*Navarro	
+*Panungyanan	
+*Pasong Camachile I	
+*Pasong Camachile II	
+*Pasong Kawayan I	
+*Pasong Kawayan II	
+*Pinagtipunan	
+*Prinza	
+*Sampalucan	
+*Santiago	
+*San Francisco	
+*San Gabriel	
+*San Juan I ([[Poblacion]])	
+*San Juan II 	
+*Santa Clara	
+*Tapia	
+*Tejero	
+*Vibora	
+*1896th ([[Poblacion]])
+{{div col end}}
+
+==Demographics==
+{{Philippine Census
+| align= none
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+In the 2020 census, the population of General Trias, Cavite, was 450,583 people,{{PH census|current}} with a density of {{convert|{{sigfig|450,583/81.46|2}}|PD/km2|disp=or|sp=us}}.
+
+===Religion===
+A vast majority of inhabitants are [[Roman Catholics]] while [[Protestanism]] is the second largest denomination in the city and some migrants from Mindanao practicing [[Islam]].
+
+===Language===
+[[Filipino language|Filipino]], [[English language|English]] are the most used language.  
+
+==Government==
+===Local government===
+{{main|Sangguniang Panglungsod}}
+{| class="wikitable" style="margin:1.7em; margin-top:0;" align=right
+|- style="text-align:center;
+! colspan="2" bgcolor="peach" align="center" | City of General Trias<br>(2022–2025)
+|- style="text-align:center;"
+! colspan="2" bgcolor="peach" align="center" | Mayor 
+|- style="text-align:center;"
+|colspan="2" align="center" | Luis IV "Jon-Jon" Ferrer ({{small|[[National Unity Party (Philippines)|NUP]]}})
+|- style="text-align:center;"
+!colspan="2" align="center" | Vice Mayor
+|- style="text-align:center;" 
+|colspan="2" align="center" | Jonas Glyn P. Labuguen ({{small|[[National Unity Party (Philippines)|NUP]]}})
+|- style="text-align:center;"
+! colspan="2" bgcolor="peach" align="center"  | Sangguniang Panlungsod Members
+|- style="text-align:center;"
+| Jesse Raphael R. Grepo || Isagani L. Culanding
+|- style="text-align:center;"
+| Felix A. Grepo || Jowie S. Carampot
+|- style="text-align:center;"
+|  Clarissel Campaña-Moral || Kristine Jane P. Barison
+|- style="text-align:center;"
+|  Kyle Jassel J. Salazar || Vivencio Q. Lozares Jr.
+|- style="text-align:center;"
+| J-M Vergel M. Columna || Richard R. Parin
+|- style="text-align:center;"
+|}
+
+Pursuant to Chapter II, Title II, Book III of Republic Act No. 7160 or the Local Government Code of 1991,<ref>{{cite web |website=The LawPhil Project|url=http://www.lawphil.net/statutes/repacts/ra1991/ra_7160_1991.html |title=An Act Providing for a Local Government Code of 1991 |publisher=8th Congress of the Republic of the Philippines |access-date=April 21, 2014}}</ref> the city government is to be composed of a [[mayor]] (''alkalde''), a [[vice mayor]] (''bise alkalde'') and [[councilors|members]] (''kagawad'') of the legislative branch [[Sangguniang Panlungsod]] alongside a secretary to the said legislature, all of which are elected to a three-year term and are eligible to run for three consecutive terms.
+
+===Executive===
+<!-- Deleted image removed: [[File:GenTri CityHall.jpg|thumb|left|top|200px|The General Trias city hall.]] -->
+As with every Philippine city, the city mayor serves as General Trias' chief executive. Elected to a term of three years and limited to three consecutive terms, the mayor appoints the directors of each city department, which include the office of administration, engineering office, information office, legal office, and treasury office. The current mayor is [[Luis Ferrer IV]].
+
+The city's vice mayor performs duties as acting mayor in the absence of the mayor. The vice mayor automatically succeeds as mayor upon the death of the incumbent, or if the mayor is unable to fulfil their duties. The vice mayor also convenes the Sangguniang Panlungsod, the city's legislative body. The current vice mayor is Jonas Glyn Labuguen.
+
+===Legislative===
+Within the city, the City Board or Sangguniang Panlungsod crafts all city ordinances, performs appropriation of city funds, issues franchises and permits, impose fees on city services, and exercise other duties and powers as stipulated by the Local Government Code of 1991.
+
+Under R.A. 10675 Article V Section 10 (a). General Trias is entitled to a City Board composed of 10 members.<ref>{{cite web|website=Official Gazette of the Republic of the Philippines|url=https://www.officialgazette.gov.ph/2015/08/19/republic-act-no-10675/|title=Republic Act No. 10675 &#124; GOVPH |date=August 19, 2015 }}</ref>
+
+== Economy ==
+{{tone|date=August 2013}}
+[[File:General Trias Public Market, Cavite, July 2023.jpg|thumb|General Trias Public Market]]
+{{PH poverty incidence}}
+
+===Industrial estates===
+[[File:5475General Trias City Cavite Barangays Landmarks 39.jpg|thumb|Gateway Business Park]]
+General Trias has been gradually undergoing industrialization since the turn of the 21st century. Several major industrial estates, such as Gateway Business Park, a world class business community in Javalera and the New Cavite Industrial City (''NCIC'') in Manggahan, have chosen General Trias to be their home base.
+
+The [[Cavite Economic Zone|Cavite Export Processing Zone]] (''CEP''Z) occupies about {{convert|0.60|sqkm|sp=us}} of land belonging to General Trias. 110 factories operate in the CEPZ. The others are the Golden Gate Industrial Park (''Phase I'') in Buenavista II and Golden Gate Industrial Park (''Phase II'') in Panungyanan while the rest are found at Barangay Manggahan, Barangay San Francisco and along Governor's Drive.
+
+===Private subdivisions===
+General Trias is considered one of the new frontiers of growth and development in the [[Calabarzon]] area as attested by the giant industrial subdivisions located in the city. Many of these are in the highland barangay of Manggahan, located along Governor's Drive, the barangays of San Francisco, Santiago on the Arnaldo Highway, and barangay Pasong Camachille II on Open Canal Road.
+
+===Township Developments===
+From small private subdivisions, General Trias has been a leading destination for large scale township developments in recent years. To date, a total of 5 townships under construction and development in the city namely:
+* The 140 hectare Maple Grove, situated on Brgys. Bacao 1 and 2, San Juan II, and Tejero.
+* The 2500 hectare Lancaster New City, covering the Brgys. of Navarro, Bacao 1, Pasong Camchille 1 & 2, Pasong Kawayan 1, Santiago, Sta. Clara, Tapia.
+* The 300 hectare Riverpark North, on Brgys. Pasong Camchille 1 & 2. and
+* The 300 hectare Riverpark South, on Brgys. Pasong Kawayan 1 & 2 and Santiago.
+* The 200 hectare Allegria, located in Brgy. San Francisco.
+These townships helps generate jobs and contribute with General Trias' Tax Revenues to be one of the highest in the Province of Cavite.
+
+=== Leisure and shopping malls ===
+[[File:809General Trias Cavite Landmarks Barangays Roads 08.jpg|thumb|Robinsons Place General Trias in 2018]]
+Located at the Tejero intersection and opened in May 2016, the {{convert|55,000|sqm|sp=us|adj=on}} Robinsons Place General Trias (now Robinsons General Trias) is Robinson's fourth shopping mall in the province and the first full-scale mall in General Trias.<ref name="MBRobinsons">{{cite news|url=http://www.mb.com.ph/robinson-place-general-trias-cavites-newest-shopping-lifestyle-destination-opens/|title=Robinson Place General Trias: Cavite's newest shopping & lifestyle destination opens|date=May 31, 2016|work=Manila Bulletin|access-date=June 8, 2016}}</ref><ref name="MBRobinsons2">{{cite news|url=http://www.mb.com.ph/time-to-celebrate-homegrown-tastes-at-robinsons-general-trias/|title=Time to celebrate homegrown tastes at Robinsons General Trias|date=June 5, 2016|work=Manila Bulletin|access-date=June 8, 2016}}</ref><ref name="Austria">{{cite news|url=http://thestandard.com.ph/business/190186/robinsons-bullish-plans-10-new-malls.html|title=Robinsons bullish, plans 10 new malls -|last=Austria|first=Jenniffer|date=October 22, 2015|work=The Standard|access-date=June 8, 2016}}</ref>
+
+On the southern part of the city, lies one of the biggest Golf and Country residential estate Eagle Ridge Golf and Country Club. It covers about {{convert|700|ha}}, which makes it one of the largest residential estate in the Country. The Golf & Country Club, which is one of the component of Eagle Ridge development, is nearing its completion with three playable golf courses and two operational satellite clubhouses.
+
+The {{convert|300|ha|adj=on}} Eagle Ridge Residential expanse features a very upscale housing community, the integral component of the project will make up the whole concept of Eagle Ridge as a golf and residential site.
+
+Since the fourth quarter of 2017, a number of shopping malls and areas are currently being built, including Vista Mall General Trias.
+
+==Festival==
+General Trias celebrates its Valenciana Festival every year.<ref name="valenciana">{{cite web|url=http://www.tempo.com.ph/2012/12/cavite-celebrates-3rd-valenciana-festival/#.Ug7mWz_vn84|title=Cavite celebrates 3rd Valenciana Festival|work=Tempo|access-date=August 17, 2013}}</ref> [[Arroz a la valenciana|Valenciana]], a variation of the [[Valencian Community|Valencian]] [[paella]], was first popularized in General Trias and became part of their culture.
+
+==Infrastructure==
+===Local government projects===
+[[File:General Trias Convention and Cultural Center, Cavite.jpg|thumb|General Trias Convention/Cultural Center]]
+The master plan for General Trias is to achieve an agro-industrial and residential balance. The City of General Trias already have its recreational amenities like a Convention/Cultural Center, Sports Center, Sports Park w/ Grandstand (popular called Track 'n field), and a City Park at Barangay San Juan 2. Since its cityhood numerous renovations of public infrastructure are underway including the building of General Trias City Hall-Manggahan Annex and the takeover of the General Trias Medicare Hospital run by the provincial government <ref>{{cite web | url=https://www.generaltrias.gov.ph/turnover-ng-gentri-medicare-hospital-aprubado-na/ | title=Turnover ng GenTri Medicare Hospital, aprubado na. « Official Website of General Trias :: Province of Cavite }}</ref> converted into the City of General Trias Medicare Hospital run by the city government.<ref>{{cite web | url=https://www.manilatimes.net/2019/12/22/public-square/gen-trias-inaugurates-p63m-1st-public-hospital/666380 | title=Gen. Trias inaugurates P63M 1st public hospital | website=[[The Manila Times]] | date=December 22, 2019 }}</ref> The road-widening activities conducted to fill the increasing number of vehicles that passed through its roads especially in Arnaldo Highway, Governor Ferrer Drive, Crisanto M. De Los Reyes Avenue, and Governor's Drive. It also invested on making Diversion Roads to ease traffic congestion problem and provides an easy and better access of transportation to its constituents who live in remote areas of the city like the road connecting Governor Ferrer Drive of Barangay Buenavista 1 to Arnaldo Highway of Barangay Santiago (Mayor's Drive).
+
+===Transportation===
+[[File:5266Manggahan, General Trias, Cavite 20.jpg|thumb|Jeepneys plying [[Governor's Drive]] in Barangay Manggahan]]General Trias would soon be more accessible with the C-6 Expressway's construction connecting North and South Luzon and the [[Cavite–Laguna Expressway]]'s development connecting [[CAVITEX]] to [[SLEX]]. The expansion of the [[LRT Line 6 (Cavite)|LRT Line 6]] from [[Bacoor]] to [[Dasmariñas]] would also provide fast access from General Trias to Metro Manila.
+
+===Healthcare===
+Several hospitals, both private and government-owned, have also sprouted throughout General Trias ranging from government health centers to private clinics to complete hospitals. GenTri Medical Center and Hospital Inc. and Gentri Doctors Medical Center to name a few are among the biggest hospitals in the entire province of Cavite.
+
+==Education==
+<!-- Per WP:NOTDIRECTORY, only those that are of note can be added here in this section. We don't want to end up with putting cruft here, you know. -->
+[[File:Gen. Artemio Ricarte Elementary School, General Trias, Cavite.jpg|thumb|Gen. Artemio Ricarte Elementary School, located in the city proper]]
+General Trias is home to several educational institutions, notably [[Lyceum of the Philippines University-Cavite]] campus,<ref name="lpucavite">{{cite web|url=http://www.wowcavite.com/features/schools/lyceum-of-the-philippines-university/lyceum-of-the-philippines-university-cavite-course-offerings-and-contact-information/|title=Lyceum of the Philippines University-Cavite (Course Offerings and Contact Information)|work=WowCavite|access-date=August 17, 2013}}</ref> [[Cavite State University]]-General Trias campus, which was established in 2012, and the [[AMA Computer University]] located inside Ara Vista Village in Barangay Biclatan. Also in General Trias there are several private and public elementary and high schools which is supervised by its own [[Department of Education (Philippines)|DepEd]] City School Division.<ref>{{Cite web|url=https://depedgentri.com/|title=Division of General Trias City|website=depedgentri.com}}</ref>
+
+==Notable personalities==
+<!---INCLUDE ONLY PEOPLE WITH A WIKIPEDIA ARTICLE!--->
+*[[Mariano Trías]] (1868-1914), considered the first ''de facto'' [[Vice President of the Philippines|Vice President]] of the revolutionary government established at the [[Tejeros Convention]]. The town was renamed in his honor after the Revolution.
+*[[Kokoy De Santos]] (born 1998), actor.
+
+==Sister cities==
+* {{flagicon|JPN}} [[Tozawa, Yamagata]], Japan<ref>{{cite news | url = http://www.clair.org.sg/exchange/index.html | title = List of Sister City Affiliations with Japan (by country) | newspaper = Clair Singapore | access-date = July 11, 2017 | archive-date = October 23, 2016 | archive-url = https://web.archive.org/web/20161023112337/http://www.clair.org.sg/exchange/index.html | url-status = dead }}</ref>
+
+==See also==
+*[[List of renamed cities and municipalities in the Philippines]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* {{official website|http://www.generaltrias.gov.ph/}}
+* [http://www.cavite.gov.ph Official Website of the Provincial Government of Cavite]
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20081120024509/http://www.census.gov.ph/data/census2007/index.html Philippine Census Information]
+
+{{Geographic location
+ | Centre    = General Trias
+ | North     = [[Noveleta]]
+ | Northeast = [[Kawit]]
+ | East      = [[Imus]]<br />[[Dasmariñas]]
+ | Southeast = [[Silang, Cavite|Silang]]
+ | South     = [[Amadeo, Cavite|Amadeo]]
+ | West      = [[Tanza]]<br />[[Trece Martires]]
+ | Northwest = [[Rosario, Cavite|Rosario]]
+}}
+
+{{Navboxes
+|title = Articles related to General Trias
+|list  =
+{{Cavite}}
+{{Calabarzon}}
+{{Philippine cities}}
+{{Most populous cities in Philippines}}
+}}
+
+{{Authority control}}
+
+[[Category:Cities in Cavite]]
+[[Category:Populated places established in 1748]]
+[[Category:Component cities in the Philippines]]

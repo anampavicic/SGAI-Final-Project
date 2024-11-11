@@ -1,0 +1,42 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+ | official_name                  = Western Transdanubia
+ | native_name                    = Nyugat-Dunántúl
+ | settlement_type                = Region
+ | image_map                      = HU NUTS 23 Nyugat-Dunántúl.png
+ | map_caption                    = 
+ | subdivision_type               = [[List of sovereign states|Country]]
+ | subdivision_name               = {{HUN}}
+ | subdivision_type3              = Capital city
+ | subdivision_name3              = [[Győr]]
+ | area_total_km2                 = 11209
+ | population_as_of 	          = 
+ | population_total 	          = 997939
+ | population_density_km2         = 
+ | timezone         	          = [[Central European Time|CET]]
+ | utc_offset 	                  = +1
+ | timezone_DST 	          = [[Central European Summer Time|CEST]]
+ | utc_offset_DST         	  = +2
+ | blank_name_sec1                = [[Nomenclature of Territorial Units for Statistics|NUTS]] code
+ | blank_info_sec1                = HU22
+ | blank_name_sec2                = [[GDP]] per capita ([[Purchasing Power Standard|PPS]])
+ | blank_info_sec2                = €21,500 (2017)<ref name=eurostat>{{cite web|title=GDP per capita in 281 EU regions in 2017|publisher=Europa web portal|author=Eurostat|date=26 February 2019|url=https://ec.europa.eu/eurostat/documents/2995521/9618249/1-26022019-AP-EN.pdf/f765d183-c3d2-4e2f-9256-cc6665909c80|access-date=27 February 2019}}</ref>
+ | blank1_name_sec2       = [[Human Development Index|HDI]] (2019)
+ | blank1_info_sec2       = 0.866 <ref name="GlobalDataLab">{{Cite web|url=https://hdi.globaldatalab.org/areadata/shdi/|title=Sub-national HDI - Area Database - Global Data Lab|website=hdi.globaldatalab.org|language=en|access-date=2021-07-21}}</ref><br/>{{color|#090|very high}} · [[List of Hungarian regions by Human Development Index|2nd]]
+}}
+'''Western Transdanubia''' ({{langx|hu|Nyugat-Dunántúl}} {{IPA-hu|ˈɲuɡɒt ˈdunaːntuːl|}}) is a statistical ([[Nomenclature of Territorial Units for Statistics|NUTS]] 2) region of [[Hungary]]. It is part of the [[Transdanubia]] (NUTS 1) region. Western Transdanubia includes the counties of [[Zala County|Zala]], [[Vas]], and [[Győr-Moson-Sopron]].
+
+==See also==
+*[[List of regions of Hungary]]
+
+== References ==
+{{reflist}}
+
+{{Regions of Hungary}}
+
+{{coord|47|41|3|N|17|38|6|E|source:itwiki_type:adm1st|display=title}}
+
+[[Category:Western Transdanubia| ]]
+[[Category:NUTS 2 statistical regions of the European Union]]
+
+{{Hungary-geo-stub}}

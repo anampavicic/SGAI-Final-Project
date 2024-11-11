@@ -1,0 +1,367 @@
+{{Short description|Municipality in Cotabato, Philippines}}
+{{more citations needed|date=June 2014}}
+{{Infobox settlement
+| name                    = {{PH wikidata|name}}
+| image_skyline           = Road of gold.jpg
+| image_caption           = Provincial road
+| image_flag              = Flag_of_Carmen,_Cotabato.png
+| flag_size               = 120x80px
+| image_seal              = Seal_of_Carmen,_Cotabato.png
+| seal_size               = 100x80px
+| image_map               = {{PH wikidata|image_map}}
+| map_caption             = {{PH wikidata|map_caption}}
+| image_map1              = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map             = Philippines
+| pushpin_label_position  = left
+| pushpin_map_caption     = Location within the {{PH wikidata|country}}
+| coordinates             = {{PH wikidata|coordinates}}
+| settlement_type         = {{PH wikidata|settlement_type}}
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Philippines]]
+| subdivision_type1       = [[Regions of the Philippines|Region]]
+| subdivision_name1       = {{PH wikidata|region}}
+| subdivision_type2       = [[Provinces of the Philippines|Province]]
+| subdivision_name2       = {{PH wikidata|province}}
+| official_name           = {{PH wikidata|official_name}}
+| etymology               = <!--origin of name-->
+| named_for               = <!--named after (if person or place)-->
+| native_name             = 
+| other_name              = 
+| nickname                = 
+| motto                   = 
+| anthem                  = 
+| subdivision_type3       = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3       = {{PH legislative district}}
+| established_title       = [[Date of establishment|Founded]]
+| established_date        = November 15, 1956
+| parts_type              = [[Barangay]]s
+| parts_style             = para
+| p1                      = {{PH barangay count | {{wikidata|label|raw}} }} (see [[#Barangays|Barangays]])
+| leader_title            = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name             = Rogelio T. Taliño
+| leader_title1           = [[Vice Mayor]]
+| leader_name1            = Roger Ryan J. Taliño
+| leader_title2           = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2            = Jose I. Tejada
+| leader_title3          = [[Sangguniang Bayan|Municipal Council]]
+| leader_name3           = {{PH Town Council
+| 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Alberto G. Rivera
+ | 3=Jaime P. Sillador
+ | 4=Delfos A. Manampan
+ | 5=Benjamin A. Patricio Jr.
+ | 6=Anathy L. Naquitquitan
+ | 7=Arsenio D. Colago
+ | 8=Justo B. Saberola Jr.
+ | 9=Elmer A. Badoy
+}}
+| leader_title4           = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4            = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type         = {{PH wikidata|government_type}}
+| government_footnotes    = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m             = {{PH wikidata|elevation_m}}
+| elevation_max_m         = 337
+| elevation_min_m         = 15
+| elevation_max_rank      = 
+| elevation_min_rank      = 
+| elevation_footnotes     = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes = 
+| elevation_min_footnotes = 
+| area_rank               = 
+| area_footnotes          = {{PH area}}
+| area_total_km2          = 929.81
+| population_footnotes    = {{PH census|current}}
+| population_total        = {{PH wikidata|population_total}}
+| population_as_of        = {{PH wikidata|population_as_of}}
+| population_density_km2  = auto
+| population_blank1_title = [[Household]]s
+| population_blank1       = {{PH wikidata|household}}
+| population_blank2_title = 
+| population_blank2       = 
+| population_demonym      = 
+| population_rank         = 
+| population_note         = 
+| timezone                = [[Philippine Standard Time|PST]]
+| utc_offset              = +8
+| postal_code_type        = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code             = {{PH wikidata|postal_code}}
+| postal2_code_type       = {{PSGCstyle}}
+| postal2_code            = {{PSGC detail}}
+| area_code_type          = {{areacodestyle}}
+| area_code               = {{PH wikidata|area_code}}
+| website                 = {{PH wikidata|website}}
+| demographics_type1      = [[Economy of the Philippines|Economy]]
+| demographics1_title1    = {{PH wikidata|income_class_title}}
+| demographics1_info1     = {{PH wikidata|income_class}}
+| demographics1_title2    = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2     = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3    = [[Revenue]]
+| demographics1_info3     = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4    = Revenue rank
+| demographics1_info4     = 
+| demographics1_title5    = [[Asset]]s
+| demographics1_info5     = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6    = Assets rank
+| demographics1_info6     = 
+| demographics1_title7    = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7     = 
+| demographics1_title8    = IRA rank
+| demographics1_info8     = 
+| demographics1_title9    = [[Expenditure]]
+| demographics1_info9     = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10   = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10    = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2      = Service provider
+| demographics2_title1    = Electricity
+| demographics2_info1     = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2    = Water
+| demographics2_info2     = 
+| demographics2_title3    = Telecommunications
+| demographics2_info3     = 
+| demographics2_title4    = Cable TV
+| demographics2_info4     = 
+| demographics2_title5    = 
+| demographics2_info5     = 
+| demographics2_title6    = 
+| demographics2_info6     = 
+| demographics2_title7    = 
+| demographics2_info7     = 
+| demographics2_title8    = 
+| demographics2_info8     = 
+| demographics2_title9    = 
+| demographics2_info9     = 
+| demographics2_title10   = 
+| demographics2_info10    = 
+| blank_name_sec1         = {{PH wikidata|climate_title}}
+| blank_info_sec1         = {{PH wikidata|climate_type}}
+| blank1_name_sec1        = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1        = {{PH wikidata|language}}
+| blank2_name_sec1        = [[Crime index]]
+| blank2_info_sec1        = 
+| blank3_name_sec1        = 
+| blank3_info_sec1        = 
+| blank4_name_sec1        = 
+| blank4_info_sec1        = 
+| blank5_name_sec1        = 
+| blank5_info_sec1        = 
+| blank6_name_sec1        = 
+| blank6_info_sec1        = 
+| blank7_name_sec1        = 
+| blank7_info_sec1        = 
+| blank1_name_sec2        = Major religions
+| blank1_info_sec2        = 
+| blank2_name_sec2        = Feast date
+| blank2_info_sec2        = 
+| blank3_name_sec2        = Catholic diocese
+| blank3_info_sec2        = 
+| blank4_name_sec2        = Patron saint
+| blank4_info_sec2        = 
+| blank5_name_sec2        = 
+| blank5_info_sec2        = 
+| blank6_name_sec2        = 
+| blank6_info_sec2        = 
+| blank7_name_sec2        = 
+| blank7_info_sec2        = 
+| short_description       = 
+| footnotes               = 
+}}
+'''Carmen''', officially the '''Municipality of Carmen''' ({{langx|hil|Banwa sang Carmen}}; {{langx|mdh|Inged nu Karmin}}, [[Jawi Alphabet|Jawi]]: ايڠد نو كرمين; {{langx|ceb|Lungsod sa Carmen}}; {{langx|tl|Bayan ng Carmen}}), is a 1st class [[municipality of the Philippines|municipality]] in the [[Philippine Province|province]] of [[Cotabato]], [[Philippines]]. According to the 2020 census, it has a population of 79,140 people.{{PH census|current}}
+
+==History==
+Carmen derived its name from surveyor del Carmen, chief of the Cadastral Survey Party, who in 1924 conducted a survey in the area. During the American period, Carmen and Kabacan belonged to one municipal district under Pikit. It was by virtue of Presidential Proclamation NO. 46 and, was reinforced by Executive Order No. 214 issued by the then President Ramon Magsaysay last November 15, 1956 when Carmen was created as a separate and distinct town of Kabacan.
+
+When created a municipality, it was composed of Thirty Eight (38) barangays. Ten barangays were either claimed or ceded to the two adjacent municipalities, Banisilan and President Roxas. Six by the municipality of Banisilan and four to the municipality of President Roxas. Now, only twenty eight (28) barangays remain in which are presently inhabited by the so-called Tri-people composed of the Christians, the Muslims and Indigenous Peoples belonging to the Manobo-Aromanon ethnic group.
+
+Before it was named Carmen, early inhabitants called this large tract of land "Kalalaw" a Maguindanaon term meaning "jar of water", because legend tells that there was once a big Balite tree with a continuous reservoir of water under its dense foliage, that even in long dry seasons, it had never dried up.
+
+Later on, when early settlers came and cultivated large portions of land in what is now the Poblacion, the whole place was unofficially called "Landing" because of the Landing Field reservation of approximately two hundred (200) hectares. The name "Landing" later on changed to Carmen in honor of del Carmen.
+
+The present Christian in this place are an immigrants from Luzon and Visayas. They are brought here by sheer pioneering spirit inspired by widespread rumors of this "Land of Opportunity and Promise". Their settlement started during the American regime. When the Americans launched their policy of attraction to the Muslims providing advanced technology, economic and educational advancement and the art of government. The first Christian settlers came from Cebu and established settlements at Pikit. Then adventurers followed them from Luzon and Visayas most notably the Ilongos and the Ilocanos who came in great numbers.
+
+The territory was reduced when, through ''[[Batas Pambansa]] Blg. 141'' of 1982, twelve ''[[barangay]]s''  were separated to create the municipality of [[Banisilan]].<ref>{{cite web |url=https://issuances-library.senate.gov.ph/legislative%2Bissuances/Batas%20Pambansa%20141 |title=Batas Pambansa Blg. 141 |date=February 8, 1982 |website=Legislative Digital Resources |publisher=[[Senate of the Philippines]] |access-date=March 10, 2024}}</ref>
+
+===Manili Massacre===
+{{Main|Manili massacre}}
+The Manili massacre refers to the mass murder of 70-79 Moro Muslims, including women and children, committed in a mosque in Manili, Carmen, on June 19, 1971. The Muslim residents of the town had gathered in their mosque to participate in a supposed peace talk with Christian groups when a group of armed men dressed in uniforms similar to those worn by members of the Philippine Constabulary opened fire on them.
+
+It was suspected that the Ilaga militant group were the attack's perpetrators, but there were also allegations that the Philippine Constabulary had collaborated with the Ilaga. No one was found culpable for the incident; Feliciano Lucas, also known as "Commander Toothpick", the Ilaga leader who was the prime suspect in the crime, was released after he "surrendered" to Ferdinand Marcos at the Malacañang Palace. The incident resulted in increased hostilities between Moro Muslims and Christians. In response to the incident, former Libyan leader Muammar Gaddafi provided military aid to the secessionist group Moro National Liberation Front.
+
+===Partial inclusion to the Bangsamoro===
+In 2019, seven ''barangays'' were among the 63 in [[Cotabato (province)|the province]] which became part of the [[Special Geographic Area]] of the newly created [[Bangsamoro]],<ref>{{cite news |last=Cabrera |first=Ferdinandh |date=November 21, 2019 |title=NorthCot turns over 63 barangays to Bangsamoro region |url=https://mindanews.com/peace-process/2019/11/northcot-turns-over-63-barangays-to-bangsamoro-region/ |work=[[MindaNews]] |access-date=March 7, 2024}}</ref> after having the affirmative vote won to join [[Autonomous regions of the Philippines|the autonomous region]] in [[2019 Bangsamoro autonomy plebiscite|a plebiscite held]] on February 6.<ref>{{cite news |last=Fonbuena |first=Carmela |date=February 8, 2019 |title=63 out of 67 barangays in Cotabato to join Bangsamoro region |url=https://www.rappler.com/nation/222984-plebiscite-results-number-of-barangays-cotabato-join-bangsamoro-region/ |work=[[Rappler]] |access-date=March 7, 2024}}</ref><ref>{{cite web |url=https://issuances-library.senate.gov.ph/executive-issuance/proclamation-no-656-s-2019 |title=Proclamation No. 656, s. 2019 |date=January 21, 2019 |website=Legislative Digital Resources |publisher=[[Senate of the Philippines]] |access-date=March 7, 2024}}</ref> Manarapan and Nasapian were among the 39 in the province that unsuccessfully voted [[2001 Autonomous Region in Muslim Mindanao expansion and inclusion plebiscite|for the inclusion]] in the [[Autonomous Region in Muslim Mindanao]] in 2001, while the other five<ref>{{cite news |last=Arguillas |first=Carolyn |date=January 14, 2019 |title=67 villages in 7 North Cot towns will vote in Feb. 6 Bangsamoro plebiscite |url=https://mindanews.com/peace-process/2019/01/67-villages-in-7-north-cot-towns-will-vote-in-feb-6-bangsamoro-plebiscite/ |work=[[MindaNews]] |access-date=March 7, 2024}}</ref> were proposed to be part of the Bangsamoro, which replaced ARMM by virtue of ''Republic Act No. 11054''.<ref>{{cite web |url=https://issuances-library.senate.gov.ph/legislative%2Bissuances/Republic%20Act%20No.%2011054 |title=Republic Act No. 11054 |date=July 27, 2018 |website=Legislative Digital Resources |publisher=[[Senate of the Philippines]] |access-date=March 7, 2024}}</ref>
+
+In 2023, the [[Bangsamoro Parliament]] approved the creation of eight new municipalities in the area.<ref>{{cite news |last=Fernandez |first=Edwin |date=August 18, 2023 |title=BARMM approves creation of 8 new towns |url=https://www.pna.gov.ph/articles/1208112 |work=[[Philippine News Agency]] |access-date=April 14, 2024}}</ref> Those ''barangays'' were organized into [[Kapalawan]] (''Bangsamoro Autonomy Act No. 45'')<ref>{{cite news |last=Patinio |first=Ferdinand |date=March 4, 2024 |title=Nearly 90K voters to join plebiscite on creation of 8 Cotabato towns |url=https://www.pna.gov.ph/articles/1220032 |work=[[Philippine News Agency]] |access-date=March 7, 2024}}</ref><ref>{{cite news |last=Medenilla |first=Samuel |date=April 10, 2024 |title=Plebiscite for SGA in BARMM set April 13 |url=https://businessmirror.com.ph/2024/04/10/plebiscite-for-sga-in-barmm-set-april-13/ |newspaper=[[BusinessMirror]] |access-date=April 14, 2024}}</ref> following ratification in a plebiscite on April 13, 2024.<ref>{{cite news |last=Patinio |first=Ferdinand |date=April 14, 2024 |title=North Cotabato residents vote to create 8 municipalities in BARMM |url=https://www.pna.gov.ph/articles/1222583 |work=[[Philippine News Agency]] |access-date=April 14, 2024}}</ref>
+
+==Geography==
+The Municipality of Carmen is geographically located at about the points 124.8 degrees east and 7.2 degrees north. It is bound on the north by the Province of Bukidnon, on the east by the municipalities of Pres. Roxas and Kabacan, on the south by the Province of Maguindanao, and on the west by the Municipality of Aleosan. It is embraced from the north-east, then east, then south by the Mulita and the Rio Grande rivers; from the north-west, then west, then south-west, by the Malitubog and Maridagao rivers. It is approximately 28 kilometers away from the capital town of Kidapawan.
+
+===Barangays===
+Carmen is politically subdivided into 21 [[barangay]]s.{{PSGC detail|area}} Each barangay consists of [[purok]]s  while some have [[sitios]].
+{{Div col|colwidth=15em}}
+*Aroman
+*Bentangan
+*Cadiis
+*General Luna
+*Katanayanan
+*Kibenes
+*Kibudtongan
+*Kilala
+*Kimadzil
+*Lanoon
+*Liliongan
+*Lumayong
+*Macabenban
+*Malapag
+*Manili
+*Palanggalan
+*[[Poblacion]]
+*Ranzo
+*Tacupan
+*Tambad
+*Tonganon
+ {{div col end}}
+
+===Climate===
+{{Weather box
+| location = Carmen, Cotabato
+| width = auto
+| metric first = Yes
+| single line = Yes
+| Jan high C = 31
+| Jan low C = 21
+| Feb high C = 32
+| Feb low C = 21
+| Mar high C = 32
+| Mar low C = 22
+| Apr high C = 33
+| Apr low C = 23
+| May high C = 31
+| May low C = 23
+| Jun high C = 30
+| Jun low C = 23
+| Jul high C = 30
+| Jul low C = 23
+| Aug high C = 30
+| Aug low C = 23
+| Sep high C = 31
+| Sep low C = 23
+| Oct high C = 30
+| Oct low C = 23
+| Nov high C = 31
+| Nov low C = 23
+| Dec high C = 31
+| Dec low C = 22
+| Jan precipitation mm = 38
+| Feb precipitation mm = 24
+| Mar precipitation mm = 29
+| Apr precipitation mm = 31
+| May precipitation mm = 50
+| Jun precipitation mm = 56
+| Jul precipitation mm = 52
+| Aug precipitation mm = 49
+| Sep precipitation mm = 39
+| Oct precipitation mm = 47
+| Nov precipitation mm = 54
+| Dec precipitation mm = 35
+| Jan rain days = 10.1
+| Feb rain days = 7.5
+| Mar rain days = 10.0
+| Apr rain days = 11.5
+| May rain days = 19.7
+| Jun rain days = 20.8
+| Jul rain days = 19.4
+| Aug rain days = 18.5
+| Sep rain days = 16.3
+| Oct rain days = 18.5
+| Nov rain days = 18.4
+| Dec rain days = 12.8
+| source 1 = Meteoblue <small>(Use with caution: this is modeled/calculated data, not measured locally.)</small><ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/carmen_philippines_1718338
+| title = Carmen: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| access-date = 30 January 2020 }}</ref>
+| date = 30 January 2020 
+}}
+
+The municipality has an average temperature of {{convert|28|C}} with a mean maximum of {{convert|32|C}} and mean minimum of {{convert|23|C}}. The coldest part of the year are the months of December, January and February while the hottest are the months of April, May, June, August, and September. It has two (2) distinct seasons, the wet and the dry seasons. The farming season starts in early June and ends in late November when the dry season begins. Typhoon is seldom felt in the area as it is located outside the typhoon belt. This condition is very suitable to nearly every type of productive agricultural activity.
+
+{{clear-left}}
+
+==Demographics==
+{{Philippine Census
+| align = none
+| title = Population census of {{PH wikidata|name}}
+| 1903 = 
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = 
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote = Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} <br /> 2020 Census count was revised as per PSA Board Resolution <br />No. 13 Series of 2021 adopted on November 9, 2021.<ref>{{cite book |title= Total Population, Household Population, Number of Households, and Average Household Size by Region, Province, and City/Municipality: Philippines, 2020  |publisher=[[Philippine Statistics Authority|PSA]] |url=https://psa.gov.ph/sites/default/files/attachments/hsd/pressrelease/3_Tables%201-2_TotPop%2C%20HHPop%2C%20HHs%2C%20and%20AHS_RML_032122_rev_RRDH_CRD.xlsx|date=23 March 2022}}</ref><ref>{{cite web |title=PSA Board Resolution No. 13, Series of 2021: Approving and Adopting the Third Quarter 2021 Philippine Standard Geographic Code Updates to Include the Bangsamoro Autonomous Region in Muslim Mindanao (Barmm) and Correct the Names of 37 Barangays |url=https://www.miaa.gov.ph/images/stories/20220311-PSA-BOARD-RESO-NO-13-S-2021.pdf |access-date=April 1, 2022 |work=Philippine Statistics Authority |year=2021}}</ref>
+}}
+
+In the 2020 census, the population of Carmen, Cotabato, was 79,140 people,{{PH census|current}} with a density of {{convert|{{sigfig|79,140/1,110.43|2}}|PD/km2|disp=or}}.
+
+{{clear-left}}
+
+==Economy==
+{{PH poverty incidence}}
+Since the municipality is an agricultural area, most of the industries are agri-based. Seven barangays have cono rice mills a barangay have kiskisan, 4 barangays have rubber roller mills. Total is 13 cono rice mill, 12 kiskisan and 5 rubber rollers. There is a bright prospect on cottage industries, which utilized raw materials like rattan and bamboo. Rattan craft in barangays Dado could possibly generate employment to its residents. The 40 hectares bamboo plantation at Barangay Guiling can provide fro{{Clarify|date=June 2016}} raw materials to the bamboo craft at Kitacubong. This cottage industry is gaining support and acceptance from local residents considering the affordability and its unique qualities. Technology transfer and skills training have been conducted in the area. Its clients are the prospective entrepreneurs in rattan, bamboo and coconut crafts. Recipients of the training and development seminars are: RIC Camansi, Lower Dado, Pacao, Raradangan the DTI-CARP has establish a Multi-Purpose Hot dryer at Barangay Pacao, the said project generate employment and income from drying service. Barangay Parauran and Pacao could possibly support a fruit juice making industry, the 500 mango trees could adequately supplies for this industry.
+
+===Natural resources===
+The commonly known minerals present in the municipality are sand and gravel which volume and potential are good sources for quarrying but which up to the present are mostly untapped. Other metallic substance of high commercial value are known to be present but these are still unexplored.
+
+Other resources present in the municipality are the large volume of limestone that can be processed into cement. [[Guano]] also abounds in numerous caves in the municipality such as in [[barangay]]s Liliongan and Tonganon. Guano can be manufactured into fertilizers.
+
+{{clear-left}}
+
+==Government==
+
+===List of former chief executives===
+* Dima Dalid (1968–1972){{Citation needed|date=August 2019}}
+* Gonzalo O. Cuarenta (1992–1995)
+* Rogelio Taliño (1995–2007)<!-- Further research needed; he was mayor in 1996, but he was at his last term by early 2007 -->
+* Noemi J. Taliño (2007–2010)
+* Rogelio T. Taliño (2010–2019)
+* Moises C. Arendain (2019–2022)
+
+==Tourism==
+*Liliongan cave, a natural cave with beautiful stalactite and stalagmites formations inside underground creek and thick layer of guano could also be found inside the cave. It is located at Barangay Liliongan, Carmen.
+*Kavurunan Festival celebrates the culture and tradition of the distinct Indigenous people (IP) of the different tribes located in the town of Carmen, Cotabato. The Festivals name is derived from the indigenous [[Lumad peoples#Manobo|Manobo tribe]] word meaning "gathering". This festival also celebrates the coming together of the three ethnic groups located in the area which are the indigenous people, Christians, and Muslims.
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://cmci.dti.gov.ph/lgu-profile.php?lgu=Carmen%20(NC)   Carmen Profile at the DTI Cities and Municipalities Competitive Index]
+*[{{NSCB detail}} Philippine Standard Geographic Code]
+*[https://web.archive.org/web/20120425054409/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=6&fLguType=CM&frmIdRegion=15&frmIdProvince=79&frmIdLgu=1507 Local Governance Performance Management System]
+
+{{Geographic location
+|Centre = Carmen
+|North = [[Kadingilan, Bukidnon]]
+|Northeast = [[Damulog, Bukidnon]]<br />[[President Roxas, Cotabato|President Roxas]]
+|East = [[Antipas, Cotabato|Antipas]]<br />[[Matalam, Cotabato|Matalam]]
+|Southeast = [[Kabacan, Cotabato|Kabacan]]
+|South = [[Pikit, Cotabato|Pikit]] / [[Datu Montawal, Maguindanao]]
+|Southwest = [[Aleosan, Cotabato|Aleosan]]
+|West = [[Libungan, Cotabato|Libungan]]
+|Northwest = [[Banisilan, Cotabato|Banisilan]]
+}}
+{{Cotabato}}
+{{Authority control}}
+
+[[Category:Municipalities of Cotabato]]
+[[Category:Populated places on the Rio Grande de Mindanao]]
+[[Category:Political divisions established by Philippine executive order]]

@@ -1,0 +1,388 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->| name                            = Rizhao
+| official_name                   = 
+| other_name                      = Jihchao
+| native_name                     = 日照市
+| native_name_lang                = zh
+| nickname                        = 
+| settlement_type                 = [[Prefecture-level city]]
+| total_type                      = <!-- to set a non-standard label for total area and population rows -->
+| motto                           = <!-- images and maps  ----------->
+| image_skyline                   = Rizhao sea-port.jpg
+| imagesize                       = 
+| image_caption                   = Rizhao Seaport
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| image_blank_emblem              = 
+| blank_emblem_type               = 
+| blank_emblem_size               = 
+| image_map                       = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=7}}
+| mapsize                         = 
+| map_caption                     = 
+| image_map1                      = ChinaShandongRizhao.png
+| mapsize1                        = 
+| map_caption1                    = Location of Rizhao City jurisdiction in Shandong
+| image_dot_map                   = 
+| dot_mapsize                     = 
+| dot_map_caption                 = 
+| dot_x                           = 
+| dot_y                           = 
+| coor_pinpoint                   = Rizhao municipal government
+| coordinates                     = {{coord|35.417|119.527|type:adm2nd_region:CN-37_source:Gaode|format=dms|display=it}}
+| pushpin_map                     = 
+| pushpin_label_position          = 
+| pushpin_map_caption             = 
+| pushpin_mapsize                 = <!-- Location ------------------>
+| subdivision_type                = Country
+| subdivision_name                = [[China|People's Republic of China]]
+| subdivision_type1               = [[Province of China|Province]]
+| subdivision_name1               = [[Shandong]]
+| subdivision_type2               = [[Administrative divisions of the People's Republic of China#County level|County-level divisions]]
+| subdivision_name2               = 4
+| subdivision_type3               = [[Administrative divisions of the People's Republic of China#Township level|Township-level divisions]]
+| subdivision_name3               = 
+| subdivision_type4               = 
+| subdivision_name4               = 
+| seat_type                       = Municipal seat
+| seat                            = [[Donggang District]]
+| parts_type                      = 
+| parts_style                     = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+| parts                           = <!-- parts text, or header for parts list -->
+| p1                              = 
+| p2                              = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = CPC Secretary
+| leader_name                     = Yang Jun ({{lang|zh-hans|杨军}})
+| leader_title1                   = [[Mayor]]
+| leader_name1                    = Li Tongdao ({{lang|zh-Hans-CN|李同道}})
+| leader_title2                   = 
+| leader_name2                    = 
+| leader_title3                   = 
+| leader_name3                    = 
+| leader_title4                   = 
+| leader_name4                    = 
+| established_title               = <!-- Settled -->
+| established_date                = 
+| established_title1              = <!-- Incorporated (town) -->
+| established_date1               = 
+| established_title2              = <!-- Incorporated (city) -->
+| established_date2               = 
+| established_title3              = 
+| established_date3               = 
+| founder                         = 
+| named_for                       = <!-- Area    --------------------->
+| area_magnitude                  = <!-- use only to set a special wikilink -->
+| unit_pref                       = <!--Enter: Imperial, to display imperial before metric-->
+| area_footnotes                  = <ref>{{cite web
+  |url = https://www.hongheiku.com/xianjirank/
+  |script-title=zh:最新人口信息 www.hongheiku.com
+  |publisher = hongheiku
+  |language = Chinese
+  |access-date = 2021-01-12}}</ref>
+| area_total_km2                  = 5359<!-- ALL fields with measurements are subject to automatic unit conversion-->
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+| area_water_km2                  = 
+| area_water_percent              = 
+| area_urban_km2                  = 1915
+| area_metro_km2                  = 1507
+| area_blank1_title               = 
+| area_blank1_km2                 = <!-- Elevation -------------------------->
+| elevation_footnotes             = <!--for references: use <ref> </ref> tags-->
+| elevation_m                     = 
+| elevation_ft                    = 
+| elevation_max_m                 = 
+| elevation_max_ft                = 
+| elevation_min_m                 = 
+| elevation_min_ft                = <!-- Population   ----------------------->
+| population_as_of                = 2020 census
+| population_footnotes            = <ref name="citypopulation.de">{{cite web| url = https://www.citypopulation.de/en/china/shandong/admin/| title = China: Shāndōng (Prefectures, Cities, Districts and Counties) - Population Statistics, Charts and Map}} </ref>
+| population_note                 = 
+| population_total                = 2968365
+| population_density_km2          = auto<!--For automatic calculation, any density field may contain: auto -->
+| population_metro                = 1172205
+| population_density_metro_km2    = auto
+| population_urban                = 1551513
+| population_density_urban_km2    = auto
+| demographics_type2   = GDP<ref>{{Cite web |title=Shandong Statistical Yearbook-2016|url=http://www.stats-sd.gov.cn/tjnj/nj2016/indexch.htm|website=www.stats-sd.gov.cn}}</ref>
+| demographics2_title1 = [[Prefecture-level city]] 
+| demographics2_info1 = [[Renminbi|CN¥]] 220&nbsp;billion<br />[[US$]] 33&nbsp;billion
+| demographics2_title2 = Per capita
+| demographics2_info2 = CN¥ 75,329<br />US$ 11,383   
+<!-- General information  --------------->
+| timezone                        = [[China Standard Time|China Standard]]
+| utc_offset                      = +8
+<!-- Area/postal codes & others -------->| postal_code_type                = <!--  [[Postal code of China|Postal code]] -->
+| postal_code                     = 276800
+| area_code                       = 0633
+| iso_code                        = [[ISO 3166-2:CN|CN-SD-11]]
+| blank_name                      = [[GDP]]
+| blank_info                      = 
+| blank1_name                     = GDP per capita
+| blank1_info                     = 
+| blank2_name                     = [[Licence plates of the People's Republic of China|License Plate]] Prefix
+| blank2_info                     = {{lang|zh-cn|鲁L}}
+| website                         = 
+| footnotes                       = 
+}}
+{{Infobox Chinese
+|c={{linktext|lang=zh|日照}}
+|l="Sunshine"
+  |p=Rìzhào |w=Jih<sup>4</sup>-chao<sup>4</sup> |mi={{IPAc-cmn|r|^|4|.|zh|ao|4}} |gr=Ryhjaw
+  |j=Jat<sup>3</sup>-ziu<sup>6</sup> |y=Yat-jiuh
+  |tl=Ji̍t-tsiò
+}}
+'''Rizhao''' ({{zh|s=日照|t=日照|p=Rìzhào}}), [[Postal Map Romanization|alternatively romanized]] as '''Jihchao''', is a [[prefecture-level city]] in southeastern [[Shandong]] [[province of China|province]], China. It is situated on the coastline along the [[Yellow Sea]], and features a major seaport, the [[Port of Rizhao]]. It borders [[Qingdao]] to the northeast, [[Weifang]] to the north, [[Linyi]] to the west and southwest, and faces [[Korea]] and [[Japan]] across the [[Yellow Sea]] to the east.
+
+The name of the city literally means "sunshine".<ref name=Worldwatch>[[Worldwatch Institute]]. (2007). ''[[State of the World (book series)|State of the World]] : Our Urban Future.'' {{rp|108}}</ref> The city is known for its sustainability, and it mandates [[solar hot water|solar-water heaters]] in all new buildings. Rizhao city was recognized by the United Nations as one of the most [[UN Habitat Scroll of Honour Award|habitable cities]] in the world in 2009.<ref>{{Cite web |title=China coastal city wins UN Habitat award - China.org.cn |url=http://www.china.org.cn/environment/2009-10/06/content_18659059.htm |access-date=2022-09-25 |website=www.china.org.cn}}</ref><ref>{{cite news |title=Shandong Rizhao becomes the sixth city in China to win the UN Habitat Award |url=https://www.chinanews.com.cn/gn/news/2009/10-06/1898884.shtml |access-date=25 September 2022 |publisher=杨锈祯 党正林 |date=2009-10-06}}</ref>
+
+The city population stands at 2,968,365 people as of the [[2020 Chinese census]], of whom 1,172,205 live in the urban area of [[Donggang District]]. Compared with the 2,801,013 people in [[2010 Chinese census]], there has been a total increase of 167,352 people in the past decade, an increase of 5.97%, with an average annual growth rate of 0.58%.<ref>{{Cite news |date=2021-06-18 |title=Heavyweight! Announcement of the Seventh National Population Census in Rizhao City |url=https://mp.weixin.qq.com/s?src=11&timestamp=1718176161&ver=5317&signature=LNmD6lDU4P-Fac6-xmsBu-XhL-zJJqEUre4WpvPgfu1S9YUK1RkAdEzv7CRa5iTenQWzoCo8eeHF33uFNW9New23QtxNjEpLDgPkzug3Ve282d2xbmqKwJAfdwpTcwNs&new=1 |archive-date= |work=Lanshan Statistics}}</ref>
+
+==History==
+Rizhao is located at the place where the ancient [[Dawenkou culture]] and the [[Longshan culture]] flourished. Rizhao belonged to the [[Dongyi]] people during the [[Xia dynasty|Xia]] and [[Shang dynasty|Shang]] dynasties (2070-1046 BC), and to [[Ju (state)|Ju]] and [[Yue (state)|Yue]] States in the [[Spring and Autumn period]] (770-476 BC) and the [[Warring States period]] (476-221 BC). It became a part of [[Langye Commandery]] in the [[Qin dynasty]] (221-206 BC). Rizhao was named Haiqu County ({{zh|labels=no|t=[[:zh:海曲县|海曲縣]]}}) during the [[Western Han]] (206 BC-25 AD) and Xihai County under the [[Eastern Han]] (25-220 AD).{{Citation needed|date=December 2017}}
+
+During the [[Tang dynasty]], together with Ju County, Rizhao belonged to [[Mi Prefecture]] of Henan Prefecture. In the 10th century, Rizhao city and county was established, with the name meaning "(the first to get) sunshine". In 1940 it came under the control of the [[Chinese Communist Party]]. After being a county and since 1985 a city under the administration of [[Linyi]], Rizhao became a prefecture-level city within Shandong province in 1989.{{Citation needed|date=December 2017}}
+
+The Field Museum of Natural History in [[Chicago]] has done field survey archaeological work in Rizhao over the years.<ref>{{Cite web|url=http://archive.fieldmuseum.org/expeditions/china6_expedition/about.html|title=Expeditions @ Field Museum - Feinman and Underhill - About the Expedition|website=archive.fieldmuseum.org}}</ref>
+
+==Climate==
+Rizhao has a temperate, four-season, [[monsoon]]-influenced climate that lies in the transition between the [[humid subtropical climate|humid subtropical]] ([[Köppen climate classification|Köppen]] ''Cwa'') and [[humid continental climate|humid continental]] (Köppen ''Dwa'') regimes. Winter is cool to cold and windy, but generally dry, with a January average of {{convert|-0.3|°C|1}}. Summer is generally hot and humid, but sweltering days are rare, with an August average of {{convert|25.7|°C|1}}. Due to its proximity to the coast and being on a peninsula, it experiences a one-month delayed spring compared to much of the province. Conversely, fall is milder than inland areas in Shandong. The annual mean temperature is {{convert|12.95|°C|1}}. On average, there are 2,530 hours of bright sunshine annually, and the relative humidity is 70–74&nbsp;%.{{Citation needed|date=December 2017}}
+
+{{Weather box|width=auto
+|metric first=y
+|single line=y 
+|collapsed = Y
+|location = Rizhao (1991–2020 normals, extremes 1971–2010)
+|Jan high C = 	4.4
+|Feb high C = 	6.4
+|Mar high C = 	11.3
+|Apr high C = 	17.2
+|May high C = 	22.5
+|Jun high C = 	25.4
+|Jul high C = 	28.5
+|Aug high C = 	28.9
+|Sep high C = 	25.9
+|Oct high C = 	20.7
+|Nov high C = 	13.4
+|Dec high C = 	6.8
+|Jan mean C = 	0.3
+|Feb mean C = 	2.3
+|Mar mean C = 	6.8
+|Apr mean C = 	12.7
+|May mean C = 	18.2
+|Jun mean C = 	21.8
+|Jul mean C = 	25.5
+|Aug mean C = 	25.9
+|Sep mean C = 	22.3
+|Oct mean C = 	16.6
+|Nov mean C = 	9.3
+|Dec mean C = 	2.7
+|Jan low C = 	-2.8
+|Feb low C = 	-0.9
+|Mar low C = 	3.4
+|Apr low C = 	9.0
+|May low C = 	14.7
+|Jun low C = 	19.1
+|Jul low C = 	23.1
+|Aug low C = 	23.3
+|Sep low C = 	19.0
+|Oct low C = 	12.9
+|Nov low C = 	5.8
+|Dec low C = 	-0.5
+|Jan record high C = 14.6 |Jan record low C = -13.8
+|Feb record high C = 19.0 |Feb record low C = -12.6
+|Mar record high C = 25.0 |Mar record low C = -7.1
+|Apr record high C = 34.0 |Apr record low C = -2.5
+|May record high C = 35.7 |May record low C = 5.9
+|Jun record high C = 38.3 |Jun record low C = 11.5
+|Jul record high C = 41.4 |Jul record low C = 14.9
+|Aug record high C = 36.2 |Aug record low C = 13.4
+|Sep record high C = 37.6 |Sep record low C = 9.4
+|Oct record high C = 30.2 |Oct record low C = 0.5
+|Nov record high C = 25.8 |Nov record low C = -7.2
+|Dec record high C = 17.9 |Dec record low C = -12.2
+|year high C =  |year low C = 
+|year high F =  |year low F =
+|precipitation colour = green
+|Jan precipitation mm = 	11.3
+|Feb precipitation mm = 	18.6
+|Mar precipitation mm = 	22.2
+|Apr precipitation mm = 	37.7
+|May precipitation mm = 	77.5
+|Jun precipitation mm = 	87.2
+|Jul precipitation mm = 	197.2
+|Aug precipitation mm = 	163.4
+|Sep precipitation mm = 	86.9
+|Oct precipitation mm = 	39.0
+|Nov precipitation mm = 	35.3
+|Dec precipitation mm = 	16.5
+|Jan humidity = 	59
+|Feb humidity = 	63
+|Mar humidity = 	63
+|Apr humidity = 	65
+|May humidity = 	70
+|Jun humidity = 	81
+|Jul humidity = 	86
+|Aug humidity = 	83
+|Sep humidity = 	73
+|Oct humidity = 	65
+|Nov humidity = 	63
+|Dec humidity = 	58
+|unit precipitation days = 0.1 mm	
+|Jan precipitation days = 	3.3
+|Feb precipitation days = 	4.5
+|Mar precipitation days = 	5.0
+|Apr precipitation days = 	6.8
+|May precipitation days = 	8.0
+|Jun precipitation days = 	8.6
+|Jul precipitation days = 	13.0
+|Aug precipitation days = 	11.3
+|Sep precipitation days = 	7.5
+|Oct precipitation days = 	5.2
+|Nov precipitation days = 	5.2
+|Dec precipitation days = 	3.5
+|year precipitation days = 	
+|Jan sun = 	172.9
+|Feb sun = 	163.4
+|Mar sun = 	206.8
+|Apr sun = 	217.8
+|May sun = 	230.1
+|Jun sun = 	187.5
+|Jul sun = 	175.3
+|Aug sun = 	196.7
+|Sep sun = 	204.9
+|Oct sun = 	201.3
+|Nov sun = 	173.2
+|Dec sun = 	176.6
+|year sun = 	
+| Jan percentsun = 	55
+| Feb percentsun = 	53
+| Mar percentsun = 	55
+| Apr percentsun = 	55
+| May percentsun = 	53
+| Jun percentsun = 	43
+| Jul percentsun = 	40
+| Aug percentsun = 	48
+| Sep percentsun = 	56
+| Oct percentsun = 	58
+| Nov percentsun = 	57
+| Dec percentsun = 	58
+| year percentsun =	
+|Jan snow days = 	2.8
+|Feb snow days = 	2.3
+|Mar snow days = 	0.9
+|Apr snow days = 	0.1
+|May snow days = 	0
+|Jun snow days = 	0
+|Jul snow days = 	0
+|Aug snow days = 	0
+|Sep snow days = 	0
+|Oct snow days = 	0
+|Nov snow days = 	0.4
+|Dec snow days = 	1.6
+|year snow days = 	
+|source 1 = [[China Meteorological Administration]]<ref name="cma graphical">{{cite web |url=http://data.cma.cn/data/weatherBk.html |script-title=zh:中国气象数据网 – WeatherBk Data |publisher=[[China Meteorological Administration]] |language = zh-hans |access-date=12 August 2023}}</ref><ref>
+{{cite web|url=https://experience.arcgis.com/template/e724038fda394e9d9b7921f10fd1aa55/page/%E7%BA%AF%E8%A1%A8%E6%A0%BC%E7%BB%9F%E8%AE%A1-(%E5%AF%B9%E6%AF%948110%E5%8F%98%E5%8C%96)/?org=UQmaps |script-title=zh:中国气象数据网|publisher=[[China Meteorological Administration]] |language = zh-hans | access-date =12 August 2023}}</ref>
+| source 2 = Weather China<ref name = Clim>{{cite web
+| url = http://www.weather.com.cn/cityintro/101121501.shtml?
+| script-title=zh:日照 - 气象数据 -中国天气网 
+| publisher = Weather China
+| language = zh
+| access-date = 29 November 2022}}</ref>
+}}
+
+==Administration==
+
+The [[prefecture-level city]] of Rizhao administers four [[Administrative divisions of the People's Republic of China#County level|county-level divisions]], including two [[District of China|districts]] and two [[County (People's Republic of China)|counties]].
+
+*[[Donggang District]] ({{lang|zh-hans|东港区}})
+*[[Lanshan District, Rizhao|Lanshan District]] ({{lang|zh-hans|岚山区}})
+*[[Ju County]] ({{lang|zh-hans|莒县}})
+*[[Wulian County]] ({{lang|zh-hans|五莲县}})
+
+{| class="wikitable"
+! Map
+|-
+|<div style="position: relative" class="center">
+{{Image label begin|image=Administrative Division Rizhao.png|width={{{1|570}}}|link=}} 
+{{Image label|x=1020|y=1020|scale={{{1|570}}}/1900|text=[[Donggang District|'''Donggang''']]}}
+{{Image label|x=840|y=1250|scale={{{1|570}}}/1900|text=[[Lanshan District, Rizhao|'''Lanshan''']]}}
+{{Image label|x=890|y=550|scale={{{1|570}}}/1900|text=[[Wulian County|'''Wulian<br/>County''']]}}
+{{Image label|x=400|y=700|scale={{{1|570}}}/1900|text=[[Ju County|'''Ju<br/>County''']]}}
+{{Image label|x=1240|y=1630|scale={{{1|570}}}/1900|text=<span style="color: black;">'''Disputed islands with [[Lianyungang]] in [[Jiangsu]].'''</span>}}
+{{Image label end}}
+</div>
+|}
+
+==Landmarks and tourist attractions==
+
+The Zaishui Art Museum on an artificial lake was completed in 2023, along with a promenade and café by the Spanish firm [[SelgasCano]]. In addition to the museum, [[Jun'ya Ishigami]] designed a horseback-riding center, a hotel, and a 148-foot-high, concrete church.<ref> https://www.architecturalrecord.com/articles/16709-junya-ishigamis-zaishui-art-museum-nimbly-extends-across-a-lake-in-chinas-shandong-province</ref>
+
+The following locations have a 4-star rating according to Chinese classification for scenic spots ({{lang|zh-hans|旅游景区质量等级}}){{Citation needed|date=December 2017}}
+
+* Wulian Mountain  ({{lang|zh-hans|五莲山风景区}})
+* Fulai Mountain ({{lang|zh-hans|浮来山风景区}})
+* Daqing Mountain ({{lang|zh-hans|大青山风景区}})
+* Wanpingkou Beach ({{lang|zh-hans|万平口风景区}})
+* Rizhao Beach National Park ({{lang|zh-hans|日照海滨国家森林公园}})
+* Longmengu ({{lang|zh-hans|龙门崮风景区}})
+* Liujiawan Park ({{lang|zh-hans|刘家湾赶海园}})
+
+==Sustainable development==
+The city now mandates the incorporation of [[solar panel]]s in all new buildings, and oversees the construction process to ensure the panels are correctly installed.<ref>Levinson, Matthew and Chen, Jing, 2008-05-01.[http://www.sciencealert.com.au/features/20080105-17263.html "China — the rise of the green city", ''ScienceAlert Australia and New Zealand''], retrieved on 2008-08-23</ref> The effort to install solar water heaters began in 1992.{{cn|date=August 2023}}
+
+==Transportation==
+
+Rizhao features a major seaport ([[Port of Rizhao]]), located approximately {{convert|620|km|abbr=on}} north of [[Shanghai]], {{convert|170|km|abbr=on}} southwest of [[Qingdao]], and {{convert|120|km|abbr=on}} north of [[Lianyungang]]. The seaport serves as a site for loading and unloading iron ore and coal. Other products passing through the harbor include cement, nickel, bauxite, and the like.<ref>[http://www.researchandmarkets.com/reports/613350/china_company_report_rizhao_port_co_ltd] http://www.researchandmarkets.com/reports/613350/china_company_report_rizhao_port_co_ltd</ref> In 2011 the Port of Rizhao, together with the cities of Qingdao, Weihai and Yantai in [[Shandong]], signed a strategic alliance with [[Busan]], the largest port of the [[Republic of Korea]]. The alliance aims at building a shipping and logistics center in Northeast Asia.<ref>{{cite news |title= Four Chinese ports ally with ROK's largest port|newspaper= Marine News China|date= 29 September 2011|url= http://www.marine-news-china.com/china-news/china-ports/item/418-four-chinese-ports-ally-with-roks-largest-port.html|access-date= September 14, 2012}}</ref> The new iron ore port of [[Lanqiao]] is located close to it as is the Lanshan port region.<ref name="gpe">{{cite book|title=Guide to port entry|date=1 January 2017|publisher=IHS Guides}}</ref>
+
+[[Rizhao Shanzihe Airport]] (IATA: RIZ) is an airport serving the city of Rizhao. The airport received approval from the State Council and the Central Military Commission in October 2013. It is located in the town of {{ill|Houcun, Shandong|zh|后村镇|lt=Houcun}} ({{lang|zh-Hans|后村镇}}), [[Donggang District]]. It was opened on 22 December 2015.{{cn|date=August 2023}}
+
+The city is served by two railway stations, [[Rizhao railway station]] for local trains and [[Rizhao West railway station]] for both local and high-speed services.
+
+==Education==
+
+===Universities and colleges===
+Since becoming a city, Rizhao has seen a significant growth in the number of universities and colleges, {{citation needed span|all of which are located in or near the University City ({{lang|zh-hans|大学城}}) of Donggang District.|date=June 2018}}
+
+* [[Qufu Normal University]] ({{linktext|lang=zh-Hans|曲阜|师范|大学}})
+* [[Jining Medical University]] ({{linktext|lang=zh-Hans|济宁|医学院}})
+* [[Rizhao Polytechnic]]  ({{linktext|lang=zh-Hans|日照|技术|职业|学院}})
+* [[Shandong Foreign Languages Vocational College]] ({{linktext|lang=zh-Hans|山东|外国语|职业|学院}})
+* [[Shandong Maritime Vocational College]] ({{linktext|lang=zh-Hans|山东|海事|职业|学院}})
+* [[Shandong Sport College]] ({{linktext|lang=zh-Hans|山东|体育|学院}})
+* [[:zh:山东水利学院|Shandong Water Polytechnic]](山东水利学院)
+
+== Image gallery ==
+<gallery>
+Image:Wanping kou beach.jpg|Wanpingkou Beach
+Image:Fulai_mountain.jpg|Fulaishan
+Image:Dengta square beach.jpg|Dengta Lighthouse
+Image:Wulian .jpg|Wulian Mountain
+</gallery>
+
+==International relations==
+Rizhao  [[twin towns and sister cities]] are:
+
+* {{flagdeco|TKM}} [[Türkmenabat]], [[Türkmenistan]] (2014) <ref>{{Cite web|url=http://gundogar-news.com/index.php?category_id=3&news_id=2915|title=Города побратимы для Туркменистана &#124; Общество &#124; Гундогар|website=gundogar-news.com}}</ref>
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{commons category|Rizhao}}
+{{Wikivoyage}}
+*{{Official website}}
+
+{{Shandong topics}}
+{{Shandong}}
+{{Prefectural-level divisions of the People's Republic of China}}
+
+{{authority control}}
+
+[[Category:Rizhao| ]]
+[[Category:Cities in Shandong]]
+[[Category:Prefecture-level divisions of Shandong]]

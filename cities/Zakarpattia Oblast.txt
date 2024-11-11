@@ -1,0 +1,547 @@
+{{Short description|Oblast (region) of Ukraine}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name               = Zakarpattia Oblast
+| native_name        = {{native name|uk|Закарпатська область}}
+| native_name_lang   = uk<!-- ISO 639-2 code e.g. "fr" for French. -->
+| official_name      = Zakarpatska oblast<ref>{{Cite book|last1=Syvak|first1=Nina|last2=Ponomarenko|first2=Valerii|last3=Khodzinska|first3=Olha|last4=Lakeichuk|first4=Iryna|date=2011|editor-last=Veklych|editor-first=Lesia|others=scientific consultant Iryna Rudenko; reviewed by Nataliia Kizilowa; translated by Olha Khodzinska|title=Toponymic Guidelines for Map and Other Editors for International Use|url=https://unstats.un.org/unsd/geoinfo/UNGEGN/docs/Toponymic%20guidelines%20PDF/Ukraine/Verstka.pdf|page=20|access-date=2020-10-06|website=[[United Nations Statistics Division]]|publisher=DerzhHeoKadastr and Kartographia|location=Kyiv|isbn=978-966-475-839-7}}</ref>
+| nickname           = {{lang|uk|Закарпаття}} (''Zakarpattia'')
+| settlement_type    = [[Oblasts of Ukraine|Oblast]]
+| image_flag         = Flag of Transcarpathian Oblast.svg
+| flag_alt           = Flag of Zakarpattia Oblast
+| image_shield       = Karpatska Ukraina-2 COA.svg
+| shield_alt         = Coat of arms of Zakarpatska Oblast
+| image_map          = Zakarpattia in Ukraine.svg
+| mapsize            = 275px
+| map_alt            = 
+| map_caption        = 
+| coordinates        = {{coord|48.41|23.29|type:adm1st_region:UA|display=inline,title}}
+| coor_pinpoint      = 
+| coordinates_footnotes = 
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = {{UKR}}
+| subdivision_type1  = 
+| subdivision_name1  = 
+| subdivision_type2  = 
+| subdivision_name2  = 
+| parts_type         = [[List of cities in Zakarpattia Oblast|Largest cities]]
+| parts_style        = para
+| p1                 = 
+| established_title  = Established
+| established_date   = 22 January 1946<ref name=7dniv>[https://web.archive.org/web/20170118134058/http://7dniv.info/publications/30004-s-ogodni-zakarpattya-uviyshlo-do-skladu-ukrajini-68-rokiv-tomu.html "Сьогодні Закарпаття увійшло до складу України. 68 років тому"] [Today Zakarpattia became part of Ukraine. 68 years ago]. ''7dniv''. 29 June 2013</ref>
+| seat_type          = [[Administrative centre|Administrative center]]
+| seat               = [[Uzhhorod]]
+| leader_party       = 
+| leader_title       = [[Governor of Zakarpattia Oblast|Governor]]
+| leader_name        = [[Myroslav Bilets'kyy]] ([[Native Zakarpattia|RZ]])<ref>{{cite news |date= September 9, 2024 |title= Zelensky appointed a temporary head of the Transcarpathian RSA |newspaper= UNN |url= https://unn.ua/en/news/zelensky-appointed-a-temporary-head-of-the-transcarpathian-rsa }}</ref>
+| leader_title1      = [[Zakarpatska Oblast Council|Oblast council]]
+| leader_name1       = 64 seats
+| leader_title2      = Chairperson
+| leader_name2       = Roman Saray
+| unit_pref          = Metric<!-- or US or UK -->
+| area_footnotes     = 
+| area_total_km2     = 12,777
+| area_land_km2      = 
+| area_water_km2     = 
+| area_water_percent = 
+| area_rank          = [[List of Ukrainian oblasts and territories by area|Ranked 24th]]
+| elevation_footnotes = 
+| elevation_m        = 
+| population_footnotes = <ref name="ua2022estimate"/>
+| population_total   = {{decrease}} 1,244,476
+| population_rank    = [[List of Ukrainian oblasts and territories by population|Ranked 15th]]
+| population_as_of   = 2022
+| population_blank1_title = Annual growth
+| population_blank1  = 
+| population_density_km2 = auto
+| demographics_type1 = GDP
+| demographics1_footnotes = <ref>{{Cite web|title=Валовии регіональнии продукт|url=https://ukrstat.gov.ua/druk/publicat/kat_u/2023/05/zb_vrp_2021.xlsx}}</ref>
+| demographics1_title1 = Total
+| demographics1_info1 = ₴ 76 billion<br />(€2.0 billion)
+| demographics1_title2 = Per capita
+| demographics1_info2 = ₴ 60,632<br />(€1,600)
+|blank5_name_sec1= [[Human Development Index|HDI]] (2022)
+|blank5_info_sec1 = 0.722<ref>{{Cite web|title= Sub-national HDI - Area Database - Global Data Lab |url= https://globaldatalab.org/shdi/table/shdi/UKR/?levels=1+4&years=2022&interpolation=0&extrapolation=0 |website=hdi.globaldatalab.org|language=en}}</ref><br />{{color|#0c0|high}} 
+| blank_name_sec1    = [[Raions of Ukraine|Raion]]s
+| blank_info_sec1    = 13
+| blank1_name_sec1   = [[List of cities in Zakarpattia Oblast|Cities]] (total)
+| blank1_info_sec1   = 11
+| blank2_name_sec1   = •&nbsp;[[City of regional significance (Ukraine)|Regional cities]]
+| blank2_info_sec1   = 5
+| blank3_name_sec1   = [[List of urban-type settlements in Ukraine by subdivision#Zakarpattia Oblast|{{nowrap|Urban-type settlements}}]]
+| blank3_info_sec1   = 19
+| blank4_name_sec1   = Villages
+| blank4_info_sec1   = 579
+| timezone1          = [[Eastern European Time|EET]]
+| utc_offset1        = +2
+| timezone1_DST      = [[Eastern European Summer Time|EEST]]
+| utc_offset1_DST    = +3
+| postal_code_type   = [[Ukrainian postal codes|Postal code]]
+| postal_code        = 88-90xxx
+| area_code_type     = [[Area code#Ukraine|Area code]]
+| area_code          = [[Area code#Ukraine|+380-31]]
+| iso_code           = [[ISO 3166-2:UA|UA-21]]
+| registration_plate_type = [[Vehicle registration plates of Ukraine|Vehicle registration]]
+| registration_plate = РЕ, АО{{citation needed|date=February 2017}}
+| blank_name_sec2    = [[FIPS 10-4]]
+| blank_info_sec2    = [[List of FIPS region codes (S-U)#UP: Ukraine|UP25]]
+| website            = {{URL|carpathia.gov.ua}}<!--{{URL|1=https://web.archive.org/web/20071001015647/http://gska2.rada.gov.ua:7777/pls/z7502/A005?rdat1=11.11.2006&rf7571=10949 www.rada.gov.ua}}-->
+| footnotes          = {{smallsup|1}} The [[Hungarian language]] has some minority rights in seven villages of the [[Mukachivskyi Raion]].<ref name="obladministratsiya">{{cite web|url=http://www.carpathia.gov.ua/ua/publication/content/105.htm?lightWords=Мукачівський_район._Соціальна_сфера|title=Mukachivskyi Raion: Social data|access-date=2007-06-02|work=Zakarpattia Oblast Administration|archive-date=2008-02-09|archive-url=https://web.archive.org/web/20080209185754/http://www.carpathia.gov.ua/ua/publication/content/105.htm?lightWords=%D0%9C%D1%83%D0%BA%D0%B0%D1%87%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD._%D0%A1%D0%BE%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D1%81%D1%84%D0%B5%D1%80%D0%B0|url-status=dead}}</ref>
+| other_name         = Kárpátalja
+}}
+
+'''Zakarpattia Oblast''' ([[Ukrainian language|Ukrainian]]: Закарпатська область), also referred to as simply '''Zakarpattia''' ([[Ukrainian language|Ukrainian]]: Закарпаття; [[Hungarian language|Hungarian]]: ''Kárpátalja'') or '''Transcarpathia''' in English, is an [[Administrative divisions of Ukraine|oblast]] located in the [[Carpathian Mountains]] in west [[Ukraine]], mostly coterminous with the historical region of [[Carpathian Ruthenia]]. Its [[Capital (political)|administrative centre]] is the city of [[Uzhhorod]]. Other major cities within the oblast include [[Mukachevo]], [[Khust]], [[Berehove]], and [[Chop, Ukraine|Chop]], the last of which is home to railroad transport infrastructure.
+
+Zakarpattia Oblast was established on 22 January 1946, after [[Third Czechoslovak Republic|Czechoslovakia]] gave up its claim to the territory of [[Carpathian Ruthenia|Subcarpathian Ruthenia]] ([[Czech language|Czech]] and also [[Slovak language|Slovak]]: Podkarpatská Rus) under a treaty between Czechoslovakia and the [[Soviet Union]]. The territory of Subcarpathian Ruthenia was then [[Soviet annexation of Transcarpathia|taken over by the USSR]] and became part of the [[Ukrainian Soviet Socialist Republic|Ukrainian SSR]].
+
+During the [[1991 Ukrainian independence referendum|Ukrainian independence referendum]] held in 1991, [[1991 Transcarpathian general regional referendum|Zakarpatska Oblast voters were given a separate option]] on whether or not they favoured [[autonomy]] for the region.<ref name="magocsi"/> Although a large majority favoured autonomy, it was not granted.<ref name="magocsi"/> However, this referendum was about self-government status, not about autonomy (like in Crimea).<ref name="kuzio">{{cite journal| last= Kuzio| first= Taras| title= The Rusyn Question in Ukraine: sorting out fact from fiction| journal= Canadian Review of Studies in Nationalism| volume= XXXII| issue= 2005}}</ref>
+
+Situated in the [[Carpathian Mountains]] of western Ukraine, except the southwestern Hungarian-populated region that belongs to the [[Hungarian plain]], Zakarpattia Oblast is the only Ukrainian administrative division which borders upon four countries: [[Poland]], [[Slovakia]], [[Hungary]], and [[Romania]]. As the Carpathians are an important tourist and travel destination (housing many ski and spa resorts), they play a major part in the oblast's economy.
+
+With a land area of almost {{convert|13000|km2}}, the oblast is ranked [[List of Ukrainian oblasts and territories by area|23rd by area]] and [[List of Ukrainian oblasts and territories by population|15th by population]] as according to the [[Ukrainian Census (2001)|2001 Ukrainian Census]], the population of Zakarpatska Oblast was 1,254,614. The current population is {{Ua-pop-est2022|1,244,476|punct=.}} This total includes people of many different nationalities of which [[Hungarians]], [[Romanians]], and [[Rusyns]] constitute significant minorities in some of the province's cities, while in others, they form the majority of the population (as in the case of Berehove).
+
+==Name==
+The oblast's name Zakarpattia ({{langx|uk|Закарпаття|Zakarpattia}}), which translates as "Transcarpathian" or literally "beyond the Carpathians," refers to its location on the western side of the [[Carpathian Mountains]], a major [[mountain range]] that forms an arc across [[Central Europe|Central]] and [[Southeast Europe]]. Due to this, the oblast is also often called '''Transcarpathian Oblast''' or '''Transcarpathia''', although the historical region of [[Transcarpathia]] also includes areas outside the oblast, specifically small parts of [[Slovakia]] (mostly in [[Prešov Region]] and [[Košice Region]]) as well as Poland's [[Lemko Region]]. Other historical names for both the oblast and broader region include Transcarpathian Ruthenia, Transcarpathian Ukraine, and Carpathian Ruthenia. The region is also sometimes referred to as "Subcarpathian" (which translates literally to "below (or "feet of") the Carpathians"), such as in Subcarpathian Rus' and Subcarpathia. This name refers to the area's location in the lower elevation [[Carpathian Basin]] (also known as the Pannonian Basin) and is also a reference to the largely overlapping physical geographical region of [[Prykarpattia]] (the Ukrainian name for Ciscarpathia), which encompasses the [[Eastern Carpathian Foothills|northeastern foothills]] of the Carpathian Mountains.
+
+Many historical names included ''Rus''' or ''Ruthenian'' when referring to the region because of the area's large population of [[Rusyns]] (also known as ''Carpatho-Rusyns'', ''Ruthenians'', or ''Rusnaks''), an [[East Slavs|East Slavic]] ethnic group that speaks the [[Rusyn language]] and descend from the original East Slavic population that had inhabited the northeastern regions of the [[Divisions of the Carpathians|Eastern Carpathians]] since the [[Early Middle Ages]]. Transcarpathian/Carpathian Ruthenia, Subcarpathian Rus', and the Ukrainian [[Diminutive|diminutive]] name Rusinko are amongst some of the names that reference the [[Rusyn language|Rusyn]]-speaking population.
+
+The oblast has various names in other languages, including: 
+*{{langx|hu|Kárpátalja}} ({{translation|hu|''Base of the Carpathians''}}
+*{{langx|sk|Zakarpatská oblasť}}; {{lang|sk|Podkarpatská Rus}}
+*{{langx|cs|Zakarpatská oblast}}; {{lang|cs|Podkarpatská Rus}}
+*{{langx|pl|Obwód zakarpacki}}
+*{{langx|ro|Regiunea Transcarpatia}} ({{IPA|ro|red͡ʒiˈune̯a transkarˈpat͡i.a|}})
+*{{langx|ru|Закарпатская область}} ([[Romanization of Russian|translit.]] {{transliteration|ru|''Zakarpatskaya oblast''}})
+*{{langx|uk|Закарпатська область}} ([[Romanization of Ukrainian|translit.]] {{transliteration|uk|''Zakarpatska oblast''}})
+*[[Rusyn language|Rusyn]]: ''Закарпатська область''
+*{{langx|en|Subcarpathia, Subcarpathian Rus', Subcarpathian Ruthenia, Sub-Carpathian Ukraine}} 
+*{{langx|fr|Ukraine Subcarpathique}}
+*{{langx|de|Karpatenrussland, Karpatenland, Karpathenland, Karpatho-Russland, Karpatenukraine, Karpato-Ukraine}}
+
+While the name ''Transcarpathia'' is a translation of the Ukrainian version of the name, the Hungarian name translates as ''Subcarpathia'', in-line with the name of other Hungarian regions such as [[Alpokalja]], a [[Sub-alpine|sub-Alpine]] territory in western Hungary.<ref>{{cite web|url=http://www.hhrf.org/mekk/egyutt10.pdf|title=The name "Kárpátalja", as it appears on the cover of the journal of the Transcarpathian section of the Hungarian Writers' Union|access-date=2014-03-02}}</ref> The ''Transcarpathia'' name and its variants instead reflect the [[East Slavic languages|East Slavic language]] practice of emphasizing the area's location "past" or "beyond" the Carpathians (as opposed to "below"). [[Western Europe|Western European languages]] have variously translated from the Hungarian or East Slavic language versions of the name, with the [[English language|English]] and [[French language|French]] names generally deriving from the Hungarian ''Subcarpathia''.<ref>{{cite web|url=http://zeus.nyf.hu/~nemettsz/subkarpatien.pdf|title=Christian Pischlöger: Kárpátalja vagy Kárpátontúl? College of Nyíregyháza|access-date=2014-03-02}}</ref>
+
+==History==
+{{See also|Carpathian Ruthenia}}
+[[File:Zakarpatski boyky.jpg|thumb|170px|Carpathian highlanders]]
+[[File:Maramures Josephinische Landesaufnahme 1782-1785 Background.jpg|County of Maramures in the Kingdom of Hungary overlaid with the current states of Ukraine and Romania|thumb|right]]
+According to the [[Chronicon Pictum]], the earliest state established in Zakarpattia was [[Ungvar]]i in 677 AD. The name Ungvar derives from a migration of the [[Onoğurs|Onogur]]s<ref>"Attila and the Nomad Hordes" Dr David Nicolle, 1990</ref> of [[Poltava]] who were ruled by the northern Kubiar<ref>"Bulgarian contributions to European civilization" Atanas Bozhkov, 1994</ref> sons of [[Kubrat]]. The Onogur tribes entered [[Etelköz]] through the [[Verecke Pass]]. Some of Ungvari's Kubiars under [[Khan-Tuvan]] eventually joined the Rus' to form [[Rus' Khaganate]]. In the late 9th century Ungvari's ruling [[Árpád dynasty]] began to fulfil their ambitions for the Carpathian basin where by 895 they had relocated to rule over the [[Magyars]].
+
+According to the [[Gesta Hungarorum]], as Prince [[Álmos]] entered on the castle of ''Hung'' and there he appointed his son [[Árpád]] as the primary ruler, hence he was called of the leader of ''Hungvária'', while all of his valiant soldiers as ''Hungvárus'', so since then all the Magyars have been known by this name internationally.
+
+In 895 the Hungarian tribes entered the Carpathian Basin from here through the Verecke pass, and the lands of Transcarpathia were influenced by the [[Principality of Hungary]] since 895, which transformed the [[Kingdom of Hungary]] in 1000. In Transcarpathia, the [[Voivodeship of Maramureș]], granted to a small [[Romanians|Romanian]] nobility, was established in 1343. The region was reorganized into the [[Máramaros County]] in 1402.
+
+Since 1867, it was part of the [[Transleithania|Hungarian]] side of [[Austria-Hungary]] until the latter's demise at the end of [[World War I]]. It approximately consisted of four Hungarian counties ([[Counties of the Kingdom of Hungary|comitatus]]): [[Bereg County|Bereg]], [[Ung County|Ung]], [[Ugocsa County|Ugocsa]] and [[Máramaros County|Maramaros]]. This region was briefly part of the short-lived [[West Ukrainian National Republic]] in 1918. The region was occupied by [[Kingdom of Romania|Romania]] by the end of that year, mostly the eastern portion such as [[Rakhiv]] and [[Khust]]. It was later recaptured by the [[Hungarian Soviet Republic]] in the summer of 1919. Finally, after the [[Treaty of Trianon]] of 1920 it became part of [[Czechoslovakia]] with a supposedly equal level of autonomy as the Slovak lands and Bohemia-Moravia-Czech Silesia (Czech lands).<ref name="Orest2000">{{cite book|title=Ukraine: A History|author=Subtelny, Orest|publisher=[[University of Toronto Press]]|year=2000|isbn=0-8020-8390-0|pages=[https://archive.org/details/ukrainehistory00subt_0/page/448 448]|author-link=Orest Subtelny|url-access=registration|url=https://archive.org/details/ukrainehistory00subt_0/page/448}}</ref>[[File:Hungary-ethnic groups.jpg|thumb|The 1885 ethnographic map of Kingdom of Hungary, based on 1880 census, with [[Ruthenians]] identified in orange (northeastern, upper-right hand corner)]]
+The province has a unique footnote in history as the only region in the former Czechoslovakia to have had an [[United States|American]] governor: its first governor was [[Gregory Zhatkovich]], an American citizen who had earlier emigrated from the region and represented the Rusyn community in the U.S. Zhatkovich was appointed governor by Czechoslovakia's first president, [[Tomáš Masaryk|T. G. Masaryk]] in 1920, and served for about one year until he resigned over differences regarding the region's autonomy. In 1928, it adopted the name of '''[[Carpathian Ruthenia|Subcarpathian Rus']]''' ({{langx|cs|Podkarpatská Rus}}). Nevertheless, such autonomy was granted as late as in 1938, after detrimental events of the [[Munich Agreement|Munich Conference]]; until then this land was administered directly from [[Prague]] by the government-appointed provincial presidents (''{{lang|cs|zemští prezidenti}}'') and/or elected governors (''{{lang|cs|guvernéři}}'').
+
+Following the Munich Agreement, the southern part of the region was awarded to [[Kingdom of Hungary (1920–1946)|Hungary]] under the [[First Vienna Award]] in 1938. The remaining portion was constituted as an autonomous region of the short-lived [[Second Czechoslovak Republic]]. After the Slovak declaration of an [[Slovak Republic (1939-1945)|independent state]] on 14 March, the next day [[Carpatho-Ukraine]] was proclaimed as an independent republic but was immediately occupied and annexed by Hungary,<ref name="a">Subtelny, p. 458</ref> and the [[Protectorate of Bohemia and Moravia]] was proclaimed a day after. [[Avgustyn Voloshyn|Voloshyn]] asked support for recognition in advance from Hitler, but received no answer. The state is known as 'the one-day republic' because it did not exist more than one day.<ref>{{cite book|author=Paul Robert Magocsi|title=With Their Backs to the Mountains: A History of Carpathian Rus? and Carpatho-Rusyns|url=https://books.google.com/books?id=Nzj2DAAAQBAJ&q=Carpatho-Ukraine+one+day+Republic&pg=PA197|date=30 November 2015|publisher=Central European University Press|isbn=978-615-5053-46-7|page=197}}</ref> The military operations and the occupation of Carpatho-Ukraine was finished by the Hungarian troops on March 18.<ref name="2660044karpatskoiukraini2660044bkarpatskoiukraini"/>
+
+The Hungarian invasion was followed by a few weeks of terror in which more than 27,000 people were shot dead without trial and investigation.<ref name="2660044karpatskoiukraini2660044bkarpatskoiukraini"/> Over 75,000 Ukrainians decided to seek asylum in the [[Soviet Union]]; of those almost 60,000 died in [[Gulag]] prison-camps.<ref name="2660044karpatskoiukraini2660044bkarpatskoiukraini"/> Others joined the [[Czechoslovak Army]].<ref name="2660044karpatskoiukraini2660044bkarpatskoiukraini">{{in lang|uk}} [https://ukrinform.ua/rubric-society/2660044-sogodni-80ricca-z-dna-progolosenna-karpatskoi-ukraini.html Today is the 80th anniversary of the proclamation of the Carpathian Ukraine], [[Ukrinform]] (15 March 2019)</ref>
+[[File:Subcarpathia - Carpatho-Ukraine.svg|lang=e|thumb|Map of [[Carpatho-Ukraine]], an entity that lasted only one day (March 15, 1939)]]
+
+The major Jewish communities of the region had existed in [[Munkatch|Mukachevo]], [[Ungvar]], and [[Khust]]. During the German occupation of Hungary (March–December 1944), almost the entire Jewish population was deported; few survived the [[Holocaust]].<ref name="all_zakarpattya-history">{{cite web|url=http://all.zakarpattya.net/eng/begin.html|title=History of the region|access-date=2007-06-01|work=All Zakarpattya|archive-url=https://web.archive.org/web/20070404023619/http://all.zakarpattya.net/eng/begin.html|archive-date=2007-04-04|url-status=dead}}</ref>
+
+In October 1944, the region was occupied by the [[Red Army]]. On 26 November 1944, the First Congress of People's Committees of Zakarpattia Ukraine took place in [[Mukachevo]],<ref name=7dniv/> and sham elections were organized on 10–25 November 1944.<ref>[http://leksika.com.ua/ure/pershiy_zyizd_narodnih_komitetiv_zakarpatskoyi_ukrayini First Congress of People's Committees of Zakarpattia Ukraine (ПЕРШИЙ З'ЇЗД НАРОДНИХ КОМІТЕТІВ ЗАКАРПАТСЬКОЇ УКРАЇНИ)]. [[Ukrainian Soviet Encyclopedia]].</ref> On 29 June 1945, [[Third Czechoslovak Republic|Czechoslovak]] President [[Edvard Beneš]], seeking to postpone the inevitable incorporation of Czechoslovakia into the [[Soviet Bloc]], signed a treaty formally ceding the area to the Soviet Union, and the next month it was united with the [[Ukrainian SSR]] through the "Manifest for unification with Soviet Ukraine" that was accepted by the 1st Congress of People's Committees of Sub-Carpathian Ukraine without any knowledge or approval of the common people. It was then [[Soviet annexation of Transcarpathia|annexed into the Soviet Union]] as Zakarpattia Oblast.<ref name="all_zakarpattya-history"/>
+
+=== Zakarpattia in the Soviet Union ===
+Between 1945 and 1947, the new Soviet authorities fortified the new borders, and in July 1947 declared Transcarpathia as "restricted zone of the highest level", with checkpoints on the mountain passes connecting the region to mainland Ukraine.<ref name="magocsi2">[https://books.google.com/books?id=Nzj2DAAAQBAJ With Their Backs to the Mountains: A History of Carpathian Rus? and Carpatho-Rusyns], by Paul Robert Magocsi, Central European University Press, 2015</ref>
+
+In December 1944, the National Council of Transcarpatho-Ukraine set up a special people's tribunal in [[Uzhgorod]] to try and condemn all collaborationists with the previous governments – both Hungary and Carpatho-Ukraine. The court was allowed to hand down either 10 years of forced labour, or death penalty. Several Ruthenian leaders, including {{ill|Andrej Bródy|cs}} and {{ill|Štefan Fencik|cs}}, were condemned and executed in May 1946. [[Avgustyn Voloshyn]] also died in prison. The extent of the repression showed to many Carpatho-Ruthenian activists that it was not possible to find an accommodation with the coming Soviet regime as it had been with all previous ones.<ref name=magocsi/>
+
+After breaking the [[Greek Catholic Church]] in Eastern [[Galicia (Eastern Europe)|Galicia]] in 1946, Soviet authorities pushed for the return to Orthodoxy of Greek-Catholic parishes in Transcarpathia too, including by engineering the accident and death of recalcitrant bishop [[Theodore Romzha]] on 1 November 1947. In January 1949, the [[Greek Catholic Eparchy of Mukachevo]] was declared illegal; remaining priests and nuns were arrested, and church properties were nationalised and parcelled for public use or lent to the [[Russian Orthodox Church]] (Moscow Patriarchate) as the only accepted religious authority in the region.<ref name=magocsi/>
+
+Cultural institutions were also forbidden, including the russophile Dukhnovych Society, the ukrainophile Prosvita, and the Subcarpathian Scholarly Society. New books and publications were circulated, including the ''Zakarpatsk{{'}}a Pravda'' (130,000 copies). The [[Uzhhorod National University]] was opened in 1945. Over 816 cinemas were open by 1967 to insure the indoctrination of the population with Marxist-Leninist propaganda. The [[Ukrainian language]] was the first language of instruction in schools throughout the region, followed by [[Russian language|Russian]], which was extensively used at the university level. Most new generations had a passive knowledge of the [[Rusyn language]], but no knowledge about local culture. XIX-century Rusyn intellectuals were labelled as "members of the reactionary class and instruments of Vatican obscurantism". The Rusyn anthem and hymn were banned from public performance. Carpatho-Rusyn folk culture and songs, which were promoted, were presented as part of Transcarpathian regional culture as a local variant of Ukrainian culture.<ref name=magocsi/>
+
+As early as 1924, the [[Comintern]] had declared all East Slavic inhabitants of Czechoslovakia ([[Rusyns]], Carpatho-Russians, [[Rusnaks]]) to be [[Ukrainians]]. As of the 1946 census, all Rusyns were recorded as Ukrainians; anyone clinging to the old label was considered a separatist and a potential counter-revolutionary.{{citation needed|date=May 2024}}
+
+Already in February 1945, the National Council proceeded to confiscate 53,000 hectares of land from big landowners and redistribute it to 54,000 peasant households (37% of the population). Forced collectivisation of land started in 1946; around 2,000 peasants were arrested during protests in 1948–49 and sent for forced labour in the [[Gulag]]. Collectivisation, including of mountain shepherds, was completed by May 1950. Central planning decisions set Transcarpathia to become a "land of orchards and vineyards" between 1955 and 1965, planting 98,000 hectares with little results. Attempts to cultivate tea and citrus also failed due to climate. Most vineyards were uprooted twenty years later, during [[Mikhail Gorbachev]]'s anti-alcohol campaign in 1985–87.<ref name=magocsi/>
+
+The Soviet period also meant the upscaling of industrialisation in Transcarpathia. State-owned lumber mills, chemical and food-processing plants widened, with Mukachevo's tobacco factory and Solotvyno's salt works as the biggest ones, providing steady employment to the residents of the region, beyond the traditional subsistence agriculture. And while traditional labour migration routes to the fields of Hungary or the factories of the Nort-West United States were now closed, Carpathian Ruthens and Romanians could now move for seasonal work in Russia's North and East.<ref name=magocsi/>
+
+The inhabitants of the oblast grew steadily in the Soviet period, from 776,000 in 1946 to over 1,2 million in 1989. Uzhgorod increased its residents five-fold, from 26,000 to 117,000, and [[Mukachevo]] likewise from 26,600 to 84,000. This population increase also reflected demographic changes. The arrival of the Red Army meant the departure of 5,100 Magyars and 2,500 Germans, while the 15–20,000 Jews survivors of the Holocaust also decided to move out before the borders were sealed. By 1945, around 30,000 Hungarians and Germans had been interned and sent for labour camps in Eastern Ukraine and Siberia; while amnestied in 1955, around 5,000 did not come back. In January 1946, 2,000 more Germans were deported. In return, a large number of Ukrainians and Russians moved to Transcarpathia, where they found jobs in the industry, the military, or the civilian administration. By 1989, around 170,000 Ukrainians (mainly from nearby Galizia) and 49,000 Russians were living in Transcarpathia, mainly in new residential blocks in the main towns of Uzhgorod and Mukachevo, where the dominant language had soon turned from [[Hungarian language|Hungarian]] and [[Yiddish language|Yiddish]] to Russian. They kept being considered newcomers (''novoprybuli'') due to their disconnect from the Rusyn- and Hungarian-speaking countryside.<ref name=magocsi/>
+
+=== Zakarpattia in independent Ukraine ===
+After the [[History of the Soviet Union (1985–1991)|fall of the Soviet Union]] in 1991, Ukraine held an independence referendum in which the residents of Zakarpattia were asked about the Zakarpattia Oblast Council's proposal for self-rule.<ref name="magocsi">{{cite book |title=Ukraine: An Illustrated History|last=Magocsi|first=Paul Robert|year=2007|publisher=[[University of Washington Press]]|location=[[Seattle, Washington|Seattle]]|isbn=978-0-295-98723-1}}</ref> About 78% of the oblast's population voted in favour of autonomy; however, it was not granted.<ref name="magocsi"/>
+
+At the [[1991 Ukrainian presidential election|first Presidential elections in Ukraine in 1991]], voters from Transcarpathia supported [[Leonid Kravchuk]] by 58%.
+At the [[1994 Ukrainian parliamentary election]], Transcarpathia elected 9 independent MPs over 11 to the Rada. The same year, voters in the region supported the incumbent [[Leonid Kravchuk]] over [[Leonid Kuchma]] by 70.5%
+At the [[1998 Ukrainian parliamentary election]], Transcarpathia turned out to be one of the strongholds (together with Kyiv and L'viv) of [[Viktor Medvedchuk]]'s [[Social Democratic Party of Ukraine (united)]], which back then ran on a moderate [[Ukrainian nationalist]] ideology.
+One year later, at the [[1999 Ukrainian presidential election|Presidential elections]], Transcarpathian voters supported the re-election of [[Leonid Kuchma]] by 85%.
+
+At the [[2002 Ukrainian parliamentary election]], voters from Transcapathia supported the [[Our Ukraine–People's Self-Defense Bloc|Our Ukraine Bloc]], in line with voters from all Western Ukraine. 
+At the [[2004 Ukrainian presidential election]], Transcarpathians voted in majority for [[Viktor Yushchenko]].
+At the [[2006 Ukrainian parliamentary election]], voters from Transcapathia supported the [[Our Ukraine–People's Self-Defense Bloc|Our Ukraine Bloc]] and the [[Yulia Tymoshenko Bloc]], in line with voters in Ciscarpatian East Galizia.
+At the [[2007 Ukrainian parliamentary election]], the [[Our Ukraine–People's Self-Defense Bloc]] linked with former President [[Viktor Yushchenko]] won in most of the region, while the [[Yulia Tymoshenko Bloc]] came out first in [[Uzhhorod]] and its raion.
+
+On 7 March 2007, the Zakarpattia Oblast Council recognized the Rusyn ethnicity.<ref>{{cite web | title=News – 7 march 2007 – The activities of local government. | url=http://www.carpathia.gov.ua/en/news/detail/1247.htm | access-date=2008-12-28 | language=uk | archive-date=2009-02-20 | archive-url=https://web.archive.org/web/20090220021942/http://www.carpathia.gov.ua/en/news/detail/1247.htm | url-status=dead }}</ref><ref>{{cite web|title=Rusyns Recognized as Indigenous Nationality of the Transcarpathian Oblast of Ukraine |url=http://www.rusynmedia.org/News/2007/rimc310507.html |access-date=2008-12-26 |archive-url=https://web.archive.org/web/20080729193053/http://www.rusynmedia.org/News/2007/rimc310507.html |archive-date=2008-07-29 |url-status=dead }}</ref>
+
+On October 25, 2008, 100 delegates to the Congress of Carpathian Ruthenians declared the formation of the "Republic of Carpathian Ruthenia".<ref>{{cite web | title = Svoboda Party Calls On SBU To Launch Criminal Case Against Delegates To Congress Of Carpathian Ruthenians For Declaring Carpathian Ruthenia Republic | url = http://www.ukranews.com/eng/article/158450.html | access-date = 2008-11-06 | url-status = dead | archive-url = https://web.archive.org/web/20081029002658/http://www.ukranews.com/eng/article/158450.html | archive-date = 2008-10-29 }}</ref> The prosecutor's office of Zakarpattia region filed a case against priest [[Dymytrii Sydor]] and Yevhen Zhupan (members of the [[Ukrainian Orthodox Church (Moscow Patriarchate)]] in Ukraine and in close relations with the [[Russkiy Mir Foundation]]),<ref>{{Cite web |title=Батюшці Сидору — від онука Молотова |trans-title=To Father Sidor from grandson of Molotov |url=https://umoloda.kyiv.ua/number/1285/180/45461 |access-date=2023-06-29 |website=Ukraine Moloda |language=uk}}</ref> an [[Our Ukraine (political party)|Our Ukraine]] deputy of the Zakarpattia regional council and chairman of the People's Council of Ruthenians, on charges of encroaching on the territorial integrity and inviolability of Ukraine.<ref>{{cite web | title = Prosecutors File Case Against People Who Initiated Proclamation Of Carpathian Ruthenian Republic On Separatism Charges | url = http://www.ukranews.com/eng/article/159693.html | access-date = 2008-11-06 | url-status = dead | archive-url = https://web.archive.org/web/20090220024530/http://www.ukranews.com/eng/article/159693.html | archive-date = 2009-02-20 }}</ref> On May 1, 2009, National Union Svoboda blocked the holding of the third European congress of the Carpathian Ruthenians, a pro-Russian entity.<ref>{{Cite web |last=Interfax-Ukraine |date=2009-05-01 |title=Right-wing Svoboda 'sabotages' Ruthenian Congress in Uzhgorod - May. 01, 2009 |url=https://archive.kyivpost.com/article/content/ukraine-politics/right-wing-svoboda-sabotages-ruthenian-congress-in-40705.html |access-date=2023-06-29 |website=Kyiv Post}}</ref>
+
+[[File:Червоні карпатські гори.jpg|thumb|[[Carpathian Biosphere Reserve]] became part of the [[World Network of Biosphere Reserves]] of [[UNESCO]] in 1992.]]
+At the [[2010 Ukrainian presidential election]], [[Yulia Tymoshenko]] won in most raions of Transcarpathia save for [[Mukachevo]], [[Berehove]] and [[Vynohradiv]], where [[Viktor Yanukovych]] gained a majority.
+
+In the [[2010 Ukrainian local elections|2010]] and [[2015 Ukrainian local elections|2015 local elections]], the [[United Centre]] won majorities in Transcarpathia. The [[2012 Ukrainian parliamentary election]] saw both the [[United Centre]] and the [[Party of Regions]] win districts in Transcarpathia.
+
+In the [[2014 Ukrainian presidential election|2014 presidential election]], Transcarpathia helped elect [[Petro Poroshenko]] as president of Ukraine. Turnout in the east of the region was among the lowest in Ukraine, below 40%, while it reached 65% in its west.
+At the [[2014 Ukrainian parliamentary election]], electoral results in Transcarpathia saw districts being won by [[Arseniy Yatsenyuk]]'s [[People's Front (Ukraine)|People's Front]] and by the [[Petro Poroshenko Bloc]].
+
+Ukraine's 2017 [[Education in Ukraine|education law]] makes Ukrainian the required language of study in state schools.<ref>{{cite news |title=Ukrainian Language Bill Facing Barrage Of Criticism From Minorities, Foreign Capitals |url=https://www.rferl.org/a/ukraine-language-legislation-minority-languages-russia-hungary-romania/28753925.html |work=[[Radio Free Europe/Radio Liberty]] |date=24 September 2017}}</ref><ref>{{cite news |title=Criticism of Ukraine's language law justified: rights body |url=https://www.reuters.com/article/us-ukraine-language/criticism-of-ukraines-language-law-justified-rights-body-idUSKBN1E227K |publisher=Reuters |date=8 December 2017}}</ref> Since 2017, [[Hungary–Ukraine relations|relations between Ukraine and Hungary]] rapidly deteriorated over the issue of the [[Hungarians in Ukraine|Hungarian minority in Ukraine]].<ref>{{cite news |title=Ukraine defends education reform as Hungary promises 'pain' |url=https://www.irishtimes.com/news/world/europe/ukraine-defends-education-reform-as-hungary-promises-pain-1.3235916 |newspaper=The Irish Times |date=27 September 2017}}</ref>
+[[File:Scenic view north of Mukachevo Transcarpathia.jpg|thumb|Scenic view of Turja Pasika village, north of Mukachevo]]
+Transcaparthian voters supported [[Volodymyr Zelensky]] for president of Ukraine at the [[2019 Ukrainian presidential election|2019 elections]].
+
+At the [[2019 Ukrainian parliamentary election]], president Zelensky's [[Servant of the People (political party)|Servant of the People]] party won a plurality in Transcarpathia. Electoral turnout in the region was the lowest in the country (<42.5%){{cn|date=September 2022}}
+
+==Geography==
+[[File:Украинские Карпаты.png|right|220px|thumb|[[Ukrainian Carpathians]], dividing Zakarpattia (on the south-western side) from [[Prykarpattia]] (on the north-eastern side)]]
+
+The Zakarpattia Oblast has a total area of {{convert|12800|km2|sqmi|0|abbr=on}} and is located on southwestern slopes and foothills of the [[Carpathian Mountains]] covering around 80% of area in the region.<ref name="oblast-council">{{cite web|url=http://www.carpathia.gov.ua/ua/29.htm|title=Geography|access-date=2007-11-18|work=Zakarpattia Oblast Council|language=uk|archive-date=2009-04-30|archive-url=https://web.archive.org/web/20090430111459/http://www.carpathia.gov.ua/ua/29.htm|url-status=dead}}</ref> The rest of the region is covered by the [[Transcarpathian Lowland]] which is part of the [[Pannonian plain]]. Zakarpattia is the only Ukrainian oblast to have boundaries with four countries: Poland, Slovakia, Hungary and Romania.<ref name="CMU"/> On the West it borders the [[Prešov Region|Prešov]] and [[Košice Region]]s of Slovakia and [[Borsod-Abaúj-Zemplén]] and [[Szabolcs-Szatmár-Bereg]] Counties of Hungary, on the South—the [[Satu Mare County|Satu Mare]] and [[Maramureș County|Maramureș Counties]] of Romania, on the East and Northeast—[[Ivano-Frankivsk Oblast]], and on the North—[[Lviv Oblast]] and the [[Subcarpathian Voivodeship]] of Poland.
+
+The Zakarpattia Oblast mostly consists of mountains and small hills covered with [[deciduous]] and [[pinophyta|coniferous]] forests, as well as [[alpine meadow]]s. Mountains cover about 80% of the oblast's area, and cross from North-West to South-East.<ref name="all_zakarpattya-geography">{{cite web|url=http://all.zakarpattya.net/eng/begin.html|title=Transcarpathia is my region|access-date=2007-06-01|work=All Zakarpattya|archive-url=https://web.archive.org/web/20070404023619/http://all.zakarpattya.net/eng/begin.html|archive-date=2007-04-04|url-status=dead}}</ref> The [[Primeval Beech Forests of the Carpathians]], part of which are located within Zakarpattia Oblast, were recognized as a [[UNESCO]] [[World Heritage Site]] in 2007.<ref>{{cite web|url=https://whc.unesco.org/en/list/1133|title=Primeval Beech Forests of the Carpathians|access-date=2007-07-04|work=[[UNESCO]] [[World Heritage Site|World Heritage Centre]]}}</ref>
+
+The largest rivers that flow through the oblast include the [[Tisza|Tysa]], [[Borzhava River|Borzhava]], and the [[Tereblia River|Tereblia]]. A high altitude lake is located in [[Rakhiv Raion]], which is the highest in the region. It is called ''Nesamovyte''. The lake is located in the Hoverla preserve on the slopes of Turkul mountain. The lake's area is {{convert|3000|m2}} and it is located {{convert|1750|m}} [[Above mean sea level|above sea level]].
+
+The region's climate is moderate and [[continental climate|continental]]<ref name="oblast-council"/> with about {{convert|700|-|1000|mm|in|0|abbr=on}} of rainfall per year.<ref name="CMU"/> The average temperature in summer is +21&nbsp;°С (70&nbsp;°F) and −4&nbsp;°С (25&nbsp;°F) in winter.<ref name="oblast-council"/> With an elevation of {{convert|2061|m|ft}} above sea level, [[Hoverla]], part of the [[Chornohora]] mountain range, is the highest point in the oblast.<ref name="oblast-council"/> The lowest point, {{convert|101|m|ft|0|abbr=on}} above [[sea level]], is located in the village of Ruski Heyevtsi (Oroszgejőc in Hungarian) in the [[Uzhhorodskyi Raion]].<ref name="all_zakarpattya-geography"/>
+
+Four of the oblast's historical-cultural sites were nominated for the [[Seven Wonders of Ukraine]] competition in 2007: [[Palanok Castle]], [https://synevyr-park.in.ua/en/service/visit-to-the-chorna-river-tract-and-the-museum-of-forest-and-rafting/ Museum upon the Chorna River], [[St. Michael's Golden-Domed Monastery|Mykhailiv Orthodox Church]], and the [[Nevytsky Castle]].
+
+<gallery mode="packed" heights="160px">
+File:Ранок_на_Кукулі.jpg|Morning in the [[Carpathian Biosphere Reserve]]
+File:Водоспад_Свидовець.JPG|Svydovets (Drahobrat) Waterfall 
+File:НПП_«Синевир»_-_02_-_Ведмідь_бурий_в_центрі_реабілітації.jpg|A bear in [[National Nature Park Synevir|Synevyr National Nature Park]]
+File:Хатинка_на_краю_лісу.jpg|Landscape in [[Khust Raion]]
+</gallery>
+
+==Demographics==
+{{see also|Hungarians in Ukraine|Romanians in Ukraine|Rusyns}}
+[[File:Etnos0.gif|thumb|250px|Ethnic map of Zakarpattia Oblast in 2001.
+{{legend|#FFB6C1|[[Ukrainians]] (incl. [[Rusyns]])}}
+{{legend|#90EE90|[[Hungarian people|Hungarians]]}}
+{{legend|#FBEC5D|[[Romanians]]}}
+{{legend|#4682B4|mixed Ukrainians (incl. Rusyns) }}
+
+Note: The [[Roma minority in Ukraine|Roma]] are not represented in the map.]]
+{{historical populations|1970|1056799|1979|1154417|1989|1252288|2001|1258264|2011|1247350|2022|1244476|align=right|cols=1|source=<ref>{{cite web|title=Division of Ukraine|url=http://pop-stat.mashke.org/ukraine-division.htm|access-date=29 July 2024|archive-date=2 December 2013|archive-url=https://web.archive.org/web/20131202223135/http://pop-stat.mashke.org/ukraine-division.htm|url-status=live}}</ref><ref>{{cite web|title=Ukraine: Provinces and Major Cities|url=https://citypopulation.de/en/ukraine/cities/|access-date=29 July 2024|archive-date=7 February 2024|archive-url=https://web.archive.org/web/20240207192427/https://www.citypopulation.de/en/ukraine/cities/|url-status=live}}</ref>}}According to the [[Ukrainian Census (2001)|2001 Ukrainian Census]], the population of Zakarpattia Oblast is 1,254,614.<ref name="ukr_census_2001">{{cite web|url=http://ukrcensus.gov.ua/eng/regions/reg_zakar/|title=Regions of Ukraine / Zakarpattia region|access-date=2007-06-01|work=[[Ukrainian Census (2001)|2001 Ukrainian Census]]|archive-date=2007-09-30|archive-url=https://web.archive.org/web/20070930165610/http://ukrcensus.gov.ua/eng/regions/reg_zakar/|url-status=dead}}</ref> The current estimated population is {{Ua-pop-est2016|1,259,158}}. With the comparison of the last official Soviet Census of 1989 the total population grew by 0.7%.
+
+Ukrainians and the [[Ukrainian Census (2001)|2001 Ukrainian Census]], does not recognise ethnic [[Rusyns]] as a separate nationality, instead categorizing them as a subgroup of [[Ukrainians]]. Rusyns and the Rusyn language are thus included in the category of Ukrainians and [[Ukrainian language]] group are in the majority (80.5%),<ref name="ukr_census_2001_nat">{{cite web|url=http://2001.ukrcensus.gov.ua/eng/results/general/nationality/Zakarpattia/|title=General results of the census / National composition of population / Zakarpattia region|access-date=2013-01-28|work=[[Ukrainian Census (2001)|2001 Ukrainian Census]]}}</ref> other [[ethnic group]]s are relatively numerous in Zakarpattia. The largest of these are [[Hungarians]] (12.1%), [[Romanians]] (2.6%), [[Russians]] (2.5%), [[Roma minority in Ukraine|Roma]] (1.1%), [[Slovaks]] (0.5%) and [[Germans]] (0.3%).<ref name="ukr_census_2001_nat"/> Most Romanians in Ukraine live in [[Northern Maramureș]], but there is also a small Romanian community living outside of this region, referred to in Romanian as {{lang|ro|volohi}}.<ref>{{cite news|url=https://ziare.com/diaspora/romani-strainatate/si-ei-sunt-romani-si-ei-sunt-ai-nostri-si-ei-au-nevoie-de-romania-1595859|title=Și ei sunt români. Și ei sunt ai noștri. Și ei au nevoie de România|first=Petrisor|last=Peiu|newspaper=Ziare.com|date=2 February 2020|language=ro}}</ref> The Ukrainian government does not recognize the [[Rusyns|Rusyn]] people living in that country as a distinct nationality but rather as an ethnic sub-group of Ukrainians. About 10,100 people (0.8%) identify themselves as Rusyns according to the last census.<ref name="k">{{cite web|url=http://ukrcensus.gov.ua/results/general/nationality/zakarpatia/|title=General results of the census / National composition of population / Zakarpattia region|access-date=2007-06-03|work=[[Ukrainian Census (2001)|2001 Ukrainian Census]]|language=uk|archive-url=https://web.archive.org/web/20090430050457/http://ukrcensus.gov.ua/results/general/nationality/zakarpatia/|archive-date=2009-04-30|url-status=dead}}</ref>{{verification needed|date=January 2017}}
+
+Out of 1,010,100 Ukrainians in the region, 99.2% (~1,002,019) identified their native language as Ukrainian, while about 0.5% (~5,051) consider their native language to be Russian. Out of 151,500 Hungarians, 97.1% (~147,107) consider their native language to be Hungarian, while about 2.6% (~3,939) consider their native language to be Ukrainian. Out of the 32,100 officially recorded Romanians, 99.1% (31,811) identified their native language to be Romanian, while 0.6% (~193) consider their language Ukrainian. Out of 31,000 Russians, 91.6% (28,396) identified their native language as Russian, while 8.1% (~2,511) consider their language Ukrainian. Out of 14,000 Romani peoples only 20.7% (2,898) identify their native language as Romani, while 62.9% (~8,806) consider their language Ukrainian or Russian. Out of 5,600 Slovaks 43.9% (2,458) identify their native language as Slovak, while 42.1% (~2,358) consider their language Ukrainian. Out of 3,500 Germans, 50.0% (1,750) acknowledge their native language, while 38.9% (~1,362) consider their language Ukrainian. About 81% of the oblast population considers the [[Ukrainian language]] their native language, while 12.7% of population gives consideration to the [[Hungarian language]] and just over 5% considers either the [[Russian language|Russian]] or [[Romanian language]]s.
+
+Around two thirds are Eastern Orthodox and about a quarter are Catholic. The largest denomination is the [[Ukrainian Orthodox Church of the Kyivan Patriarchate]], followed by the [[Ukrainian Orthodox Church (Moscow Patriarchate)|Ukrainian Orthodox Church of the Moscow Patriarchate]] and the [[Ruthenian Greek Catholic Church]].<ref name="infolight.org.ua">{{cite web|url=http://infolight.org.ua/content/religiyni-vpodobannya-naselennya-ukrayiny|title=Релігійні вподобання населення України|date=26 May 2015|website=infolight.org.ua|access-date=13 March 2018|archive-date=9 July 2017|archive-url=https://web.archive.org/web/20170709204810/http://infolight.org.ua/content/religiyni-vpodobannya-naselennya-ukrayiny|url-status=dead}}</ref> Smaller religious groups include Roman Catholics and Protestants, which are largely associated with minority groups; Roman Catholics and Protestants tend to be Hungarian or Rusyn.
+
+{| align="center" class="wikitable plainlinks TablePager"
+ |+
+ ! |Nationality
+ ! |Number
+ ! |in 1989 (%)
+ ! |in 2001 (%)
+ ! |growth (%)
+ |-----
+ |[[Ukrainians]] (incl. [[Rusyns]])
+ |1,010,100
+ |78.4
+ |80.5
+ | +3.4%
+ |-----
+ |[[Hungarians]]
+ |151,500
+ |12.5
+ |12.1
+ | -2.7%
+ |-----
+ |[[Romanians]]
+ |32,100
+ |2.4
+ |2.6
+ | +9.0%
+ |-----
+ |[[Russians]]
+ |31,000
+ |4.0
+ |2.5
+ | -37.3%
+ |-----
+ |[[Romani people|Roma]]
+ |14,000
+ |1.0
+ |1.1
+ | +15.4%
+ |-----
+ |[[Slovakians|Slovaks]]
+ |5,600
+ |0.6
+ |0.5
+ | -22.3%
+ |-----
+ |[[Germans]]
+ |3,500
+ |0.3
+ |0.3
+ | +3.0%
+ |+
+ |}
+
+{| width="45%" class="wikitable " style="text-align: right;"
+|-
+! Year !! Fertility !! Birth || Year !! Fertility !! Birth || Year !! Fertility !! Birth
+|-
+|1990 || 2,2 || 21 251 || 2000 || 1,5 || 14 481 || 2010 || 1,9 || 18 301
+|-
+|1991 || 2,2 || 21 059 || 2001 || 1,4 || 13 699 || 2011 || 1,9 || 18 460
+|-
+|1992 || 2,2 || 20 559 || 2002 || 1,5 || 14 207
+|-
+|1993 || 2,0 || 19 264 || 2003 || 1,5 || 14 747
+|-
+|1994 || 1,9 || 17 725 || 2004 || 1,5 || 15 472
+|-
+|1995 || 1,8 || 17 320 || 2005 || 1,6 || 15 750
+|-
+|1996 || 1,7 || 16 473 || 2006 || 1,7 || 16 530
+|-
+|1997 || 1,6 || 15 708 || 2007 || 1,7 || 16 833
+|-
+|}
+
+Their languages and culture are respected by the provision of education, clubs, etc. in their respective languages. Those who recognize Ukrainian as their native language total 81.0% of the population, [[Hungarian language|Hungarian]] — 12.7%, [[Russian language|Russian]] — 2.9%, [[Romanian language|Romanian]] — 2.6%,<ref name="ukr_census_2001"/> and [[Rusyn language|Rusyn]] — 0.5%<ref name="l">{{cite web|url=http://ukrcensus.gov.ua/regions/select_reg5/?box=5.5W&data1=1&rz=1_1&rz_b=2_1&data=1&botton=cens_db&k_t=00|title=Regions of Ukraine / Results of the census|access-date=2007-06-03|work=[[Ukrainian Census (2001)|2001 Ukrainian Census]]|language=uk|archive-date=2007-09-30|archive-url=https://web.archive.org/web/20070930175950/http://ukrcensus.gov.ua/regions/select_reg5/?box=5.5W&data1=1&rz=1_1&rz_b=2_1&data=1&botton=cens_db&k_t=00|url-status=dead}}</ref> Residents in seven of [[Mukachivskyi Raion]]'s villages have the option to learn the Hungarian language in a school or home school environment.<ref name="obladministratsiya"/>
+
+Zakarpattia is home to approximately 14,000 ethnic [[Romani people|Roma]] (Gypsies), the highest proportion of Roma in any oblast in Ukraine. The first Hungarian College in Ukraine is in [[Berehove]], the [[II. Rákoczi Ferenc College]].
+
+Beside the major ethnic groups, Zakarpattia is home to several ethnic sub-groups such as [[Boykos]], [[Lemky]], [[Hutsuls]], and others.
+
+===Religion===
+{{Pie chart
+|thumb=right
+|caption=Religion in Zakarpattia Oblast (2021)<ref name="data.gov.ua"/>
+|label1=[[Greek Catholic Eparchy of Mukachevo|Greek Catholic]]
+|value1 = 26
+|color1 = OrangeRed
+|label2 = [[Roman Catholicism]]
+|value2 = 5
+|color2 = Red
+|label3 = [[Sub-Carpathian Reformed Church|Reformed Church]]
+|value3 = 7
+|color3 = DarkOrchid
+|label4 = [[Protestantism|Other Protestants]]
+|value4 = 13
+|color4 = Orchid
+|label5 = [[Ukrainian Orthodox Church (Moscow Patriarchate)|Ukrainian Orthodox Church]]
+|value5 = 36
+|color5 = DeepSkyBlue
+|label6 = [[Orthodox Church of Ukraine]]
+|value6 = 4
+|color6 = DodgerBlue
+|label7 = Other
+|value7 = 9
+}}
+According to a 2021 survey, 31% of the religious community of Zakarpattia Oblast adheres to [[Catholic Church|Catholicism]], while 40% belong to the [[Ruthenian Greek Catholic Church|Eastern Orthodoxy]] and 20% are [[Protestantism|Protestants]].<ref name="data.gov.ua">{{Cite web |title=Реєстр релігійних громад Закарпатської області - Набори даних - Портал відкритих даних |url=https://data.gov.ua/dataset/0002249-0032 |access-date=2023-02-26 |website=data.gov.ua |language=uk-UA}}</ref> Only one percent of the population does not follow any religion.<ref name="infolight.org.ua"/>
+
+'''The Catholic''' community of Zakarpattia is divided as follows:
+
+* [[Roman Catholic Diocese of Mukachevo|Roman Catholic]] – 17%
+* [[Greek Catholic Eparchy of Mukachevo|Greek Catholic]] – 83%
+
+The '''Greek Catholic''' community falls under the [[Greek Catholic Eparchy of Mukachevo]], associated with the [[Ruthenian Greek Catholic Church]].
+
+The '''Orthodox''' community of Zakarpattia is divided as follows:
+
+* [[Ukrainian Orthodox Church of the Kyivan Patriarchate]] (today [[Orthodox Church of Ukraine]]) - 42%
+* [[Ukrainian Orthodox Church (Moscow Patriarchate)|Ukrainian Orthodox Church of the Moscow Patriarchate]] – 33%
+* Non-denominational – 25%
+[[Sub-Carpathian Reformed Church|The Sub-Carpathian '''Reformed Church''']] is considered to be the oldest Protestant community in Ukraine (the first group of [[Reformed churches|Reformers]] appeared in Sub-Carpathia in the 1530s) and the only church of the [[Calvinism|Calvinist]] tradition.
+
+===Age structure===
+: ''0–14 years:'' 19.1% {{increase}} (male 123,009/female 116,213)
+: ''15–64 years:'' 69.8% {{decrease}} (male 428,295/female 445,417)
+: ''65 years and over:'' 11.1% {{increase}} (male 48,826/female 89,800) (2013 official)
+
+===Median age===
+: ''total:'' 35.1 years {{increase}}
+: ''male:'' 33.2 years {{increase}}
+: ''female:'' 37.1 years {{increase}} (2013 official)
+
+==Economy==
+[[File:Мала Гора поблизу Берегова - виноградний рай.jpg|thumb|220px|Vineyards near Muzhiievo Village. Four major Ukrainian wineries are located in Zakarpattia Oblast]]
+
+Situated in the Carpathian Mountains, Zakarpattia Oblast's economy depends mostly on trans-border trade, vinery and forestry. The oblast is also home to a [[special economic zone]].<ref>{{cite web|url=http://all.zakarpattya.net/eng/begin.html|title=History of the Region|access-date=2007-06-01|work=World Gazetteer|archive-url=https://web.archive.org/web/20070404023619/http://all.zakarpattya.net/eng/begin.html|archive-date=2007-04-04|url-status=dead}}
+</ref><ref name="m">{{Cite Ukrainian law|type=[[Verkhovna Rada|Verkhovna Rada law]]|number=2322-III|law=2322-14|name=On the official economic zone of "Zakarpattia"|date=2004-03-31}}</ref>
+
+The oblast's main industry includes woodworking. Other industries include food, light industry, and mechanical engineering. The foodstuffs segment in the structure of ware production of national consumption is 45%. The total number of large industrial organisations is 319, compared to 733 small industrial organisations.<ref name="CMU">{{cite web|url=http://www.kmu.gov.ua/control/en/publish/article?art_id=117393&cat_id=32596|title=Zakarpattya Region|access-date=2007-06-01|work=[[Cabinet of Ministers of Ukraine]]}}</ref>
+
+The most common crops grown within the region include cereals, potatoes and other vegetables. In 1999, the total amount of grain produced was 175,800 [[ton]]s, of sunflower seeds — 1,300 tons, and potatoes — 378,200 tons.<ref name="CMU"/> The region also produced 76,100 tons of meat, 363,400 tons of milk and 241,900,000 eggs.<ref name="CMU"/> The total amount of registered farms in the region was 1,400 in 1999.<ref name="CMU"/>
+
+In 2011 it had a gross regional product worth [[Ukrainian hryvnia|₴]]18,100,000,000
+
+==Culture==
+{{Expand section|date=June 2024}}
+
+The oblast is known as the birthplace of many prominent Ukrainian scientists, artists and stage performers. The region is considered a major area for organizing and holding international and national scientific and artistic forums. There are four accredited state universities in the oblast as well as a number of secondary schools, including nine recently established educational institutions, intended specifically to promote the language and cultural education of national minorities. The oblast also has five professional theaters, 659 clubs and leisure centers, museums, and a regional philharmonic. The oblast is also known for its cinema. Film screenings in Transcarpathia date back to 1909, when the Hungarian scientific cinema ''Urania'' opened its branch in Uzhhorod, where popular science films were screened. At that time, Uzhhorod residents could watch movies in two places: on Lajos Kossuth Square (now Sandor Petofi Square), and, since 1911, in the Korona Hotel. Many film actors and directors came from the region, including Shari Fedak, Vyacheslav Bihun, Jack Gaffrein, Alta Vashova, Antonin Moskalyk, Ludvik Raza, Mykhailo Fitz, Anastasia Yevtushenko, Beila Shalamon, Rudolph Dzurynets, Urai Tivodar, Antonio Lukic, Yevhen Yanovich, Stephen Gerey, and Dyula Chortosh.
+
+===Wooden churches===
+[[File:Kolodne Church.jpg|thumb|150px|Church in Kolodne]]
+*Serednie Vodyane churches
+*Verkhnye Vodyane church
+*[[Danylovo]] church
+*[[Kolodne]] church
+*[[Krainykovo]] church
+*Nyzhnie Selyshche church
+*{{Interlanguage link multi|Oleksandrivka, Khust Raion|uk|3=Олександрівка (Хустський район)|lt=Oleksandrivka}} church
+*[[Sokyrnytsia]] church
+*[[Huklyvyi]] church
+
+==Politics==
+{{See also|2010 Zakarpattia Oblast local election}}
+<!-- Deleted image removed: [[File:790px-Uschhorod oblastnarada.jpg|thumb|250px|The building of the Zakarpattia Oblast Council in [[Uzhhorod]].]] -->
+<!-- Deleted image removed: [[File:Zakarpattia Oblast official flag.jpg|thumb|250px|The officially adopted flag of the Oblast.]] -->
+[[File:Uschhorod_oblastnarada.jpg|thumb|Regional government headquarters]]
+Zakarpattia Oblast's local administration is controlled by the [[Zakarpattia Oblast Council]] (''[[rada]]'').
+
+The oblast's [[governor of Zakarpattia Oblast|governor]] is appointed by the [[President of Ukraine]].<ref>[http://uatoday.tv/news/poroshenko-appoints-volunteer-heorhiy-tuka-head-of-luhansk-regional-state-administration-460823.html Poroshenko appoints volunteer Heorhiy Tuka head of Luhansk Regional State Administration], [[Ukraine Today]] (22 July 2015)</ref>
+
+===2020===
+Distribution of seats after the [[2020 Ukrainian local elections]]
+{{Plainlist|
+* 12 [[Native Zakarpattia]]
+* 11 [[Servant of the People (political party)|Servant of the People]]
+* 8 [[All-Ukrainian Union "Fatherland"|Fatherland]]
+* 8 [[Party of Hungarians of Ukraine (KMKSZ)|Party of Hungarians]]
+* 7 [[Andriy Baloha's Team]]
+* 6 [[European Solidarity]]
+* 6 [[For the Future (political party)|For the Future]]
+* 6 [[Opposition Platform — For Life]]
+}}
+Election date was 25 October 2020<ref>[https://www.cvk.gov.ua/pls/vm2020/pvm057pid112=12pid102=9129pf7691=9129pt001f01=695rej=0pt00_t001f01=695.html Results of the 2020 elections of the Zakarpattia Oblast Council], [[Central Election Commission of Ukraine]]</ref>
+
+===2015===
+Distribution of seats after the [[2015 Ukrainian local elections]]
+{{Plainlist|
+*  19 [[United Centre]]
+*  15 [[Petro Poroshenko Bloc "Solidarity"|Solidarity]]
+*  11 [[Revival (Ukraine)|Revival]]
+*  8 [[Party of Hungarians of Ukraine (KMKSZ)|Party of Hungarians]]
+*  7 [[All-Ukrainian Union "Fatherland"|Fatherland]]
+*  4 [[Opposition Bloc]]
+}}
+Election date was 25 October 2015<ref>[http://www.cvk.gov.ua/pls/vm2015/PVM057?PID112=12&PID102=9129&PF7691=9129&PT001F01=100&rej=0&pt00_t001f01=100 Results]. Central Electorate Commission</ref>
+
+==Administrative divisions==
+{{main|Administrative divisions of Zakarpattia Oblast}}
+[[File:Zakarpattia Oblast 2020 subdivisions.jpg|thumb|250px|Raions of Zakarpattia Oblast as of August 2020.]]
+[[File:Subcarpathia Ukraine districts en.svg|thumb|250px|Raions and cities of Zakarpattia Oblast before 2020.]]
+[[File:Historical Counties in Zakarpattia.GIF|thumb|250px|Historical regions in Zakarpattia Oblast:
+{| width="100%"
+| valign="top"|{{legend|#4682B4|[[Ung county|Ung]]}}
+{{legend|#C0C0C0|[[Bereg (county)|Bereg]]}}
+| valign="top"|{{legend|#CD5C5C|[[Ugocsa]]}}
+{{legend|#FBEC5D|[[Northern Maramureș]]}}
+|}]]
+
+On 18 July 2020, the number of raions (districts) was reduced to six.<ref>{{Cite news|title=Про утворення та ліквідацію районів. Постанова Верховної Ради України № 807-ІХ.|url=http://www.golos.com.ua/article/333466|access-date=2020-10-03|date=2020-07-18|website=Голос України|language=uk}}</ref><ref>{{cite web |title=Нові райони: карти + склад |date=17 July 2020 |url=https://www.minregion.gov.ua/press/news/novi-rajony-karty-sklad/ |publisher=Міністерство розвитку громад та територій України |language=Ukrainian}}</ref>
+
+Zakarpattia Oblast was previously subdivided into 13 [[raions]] ([[district]]s), as well as 5 cities ([[municipality|municipalities]]) which are directly subordinate to the oblast government: [[Berehove]] (Beregszász), [[Chop, Ukraine|Chop]] (Csap), [[Khust]], [[Mukachevo]], and the administrative centre of the oblast, [[Uzhhorod]]. There are a total of [[List of cities in Zakarpattia Oblast|11 cities]], [[List of urban-type settlements in Ukraine#Kyiv Oblast|19 towns]], and more than 579 villages.
+
+[[File:Berehove4.jpg|thumb|250px|[[Berehove]]]]
+
+Zakarpattia Oblast incorporates four unofficial geographic-historic regions (counties): [[Ung county|Ung]], [[Bereg (county)|Bereg]], [[Ugocsa]] and [[Northern Maramureș]]. There is a project for a reform of the current administrative division of the Oblast<ref>{{Cite web|url=http://www.zakarpat-rada.gov.ua/proekt_reform.php|title=Admin. div. reform|website=Zakarpat-rada-gov.ua|access-date=9 March 2022|archive-date=23 July 2012|archive-url=https://web.archive.org/web/20120723140007/http://zakarpat-rada.gov.ua/proekt_reform.php|url-status=dead}}</ref>
+
+Administrative centres of raions may be located within a city of regional importance, while such city is not technically a part of the raion.
+
+Each raion is subdivided into radas (councils). Cities and towns (urban-type settlements) all have own individual councils, while villages and rural settlements may be formed into multiple settlements councils or an individual village council. A city of regional significance may consist of an individual populated place or be complex of several settlements (the city proper and suburbs) which are governed by their own rada (council). All cities are either of regional importance or of district importance.
+
+{{Bar graph
+| title = [[List of cities in Zakarpattia Oblast|Cities]] and other settlements, by population ([[2001 Ukrainian census|2001 census]])
+| data_max = 150,000
+| bar_width = 30
+| label_type = City
+| data_type = Population
+| label1 = [[Uzhhorod]] <!---Вранішніми вуличками.jpg--->
+| data1 = 115,520
+| label2 = [[Mukachevo]] <!---Мукачево, центр.jpg--->
+| data2 = 86,061
+| label3 = [[Khust]] <!---Хуст забудова.jpg--->
+| data3 = 28,643
+| label4 = [[Vynohradiv]] (Nagyszőlős)<!---Vinohradov.jpg--->
+| data4 = 25,565
+| label5 = [[Berehove]]<!---Berehove2.jpg--->
+| data5 = 24,458
+| label6 = [[Svaliava]]
+| data6 = 17,027
+| label7 = [[Rakhiv]] (Rahó)
+| data7 = 15,243
+| label8 = [[Dubove, Tiachiv Raion|Dubove]]
+| data8 = 9,775
+| label9 = [[Mizhhiria]]
+| data9 = 9,616
+| label10 = [[Korolevo]]
+| data10 = 9,339
+| label11 = [[Tiachiv]] (Técső)
+| data11 = 9,256
+| label12 = [[Irshava]]
+| data12 = 9,000
+| label13 = [[Velykyy Bychkiv]]
+| data13 = 8,920
+| label14 = [[Solotvyno]] (Slatina, Aknaszlatina)
+| data14 = 8,774
+| label15 = [[Velyki Luchky]]
+| data15 = 8,540
+| label16 = Ilnytsia
+| data16 = 8,420
+| label17 = [[Bushtyno]]
+| data17 = 8,091
+}}
+<!---{{refbegin}}<sup>*</sup> former regional municipalities{{refend}}--->
+Villages:
+*[[Batrad]]
+*[[Halabor]]
+
+==Symbols==
+The [[coat of arms of Carpathian Ruthenia|coat of arms of Zakarpattia]] was originally created in the end of the 1920s in the then-Czechoslovakia. The oblast's flag was approved at the XXIII plenary session of the Transcarpathian Regional Council. The anthem of the Transcarpathian region is a folk musical work arranged by M. Keretsman to a poem attributed by some researchers to Oleksandr Dukhnovych, to the music of controversial Transcarpathian politician {{ill|Stepan Fentsyk|uk|Степан Фенцик}} (according to other sources, Stepan Fentsyk himself is the author of the words). The Transcarpathian Regional Council approved the anthem of the Transcarpathian region on 22 December 2009.
+
+==See also==
+* [[Carpathian Ruthenia]], small historical region
+* [[Carpatho-Ukraine]], a short-lived Ukrainian state on the territory
+* [[Ruthenians and Ukrainians in Czechoslovakia (1918-1938)|Ruthenians and Ukrainians in Czechoslovakia]]
+* [[Museum of Folk Architecture and Life, Uzhhorod|Museum of Folk Architecture and Life]], museum displaying Zakarpattia architecture
+* [[Eparchy of Mukačevo and Prešov]]
+*[[Kárpátalja football team]]
+
+==Gallery==
+<gallery mode="packed" heights="160px">
+File:Morning_of_Petros.jpg|[[Petros (Chornohora)|Petros]] - a peak in the [[Chornohora]] with height of {{convert|2,020|m}}
+File:Після_грози.jpg|Mount [[Pikui]]
+File:Над_оз.Ворожеска.jpg|Sheep near the [[Vorozheska|Lake Vorozheska]]
+File:Рута_і_промені.jpg|[[Carpathian Biosphere Reserve]]
+File:21-101-0002 Uzhgorod Exaltation Cathedral RB.jpg|Cathedral of the Exaltation of the Holy Cross in [[Uzhhorod]]
+File:Karpaty, Zakarpats'ka oblast, Ukraine, 89641 - panoramio (23).jpg|Schoenborn Castle-Palace in [[Chynadiiovo]] 
+File:MukachevoCastle1.jpg|[[Palanok Castle]] in [[Mukachevo]]
+File:Дерев'яна церква в селі Нижня Апша..jpg|Wooden Church of St. Nicholas (1604) in Nyzhnia Apsha
+</gallery>
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+{{Commons category|Zakarpattia Oblast}}
+{{refbegin}}
+* [http://www.carpathia.gov.ua/ carpathia.gov.ua] — Official website of Zakarpattia Oblast Administration {{in lang|uk|en}}
+* [http://www.zakarpat-rada.gov.ua/ Zakarpattia Council official site] {{Webarchive|url=https://web.archive.org/web/20101106205002/http://www.zakarpat-rada.gov.ua/ |date=2010-11-06 }} {{in lang|uk}}
+* [http://www.zaholovok.com.ua/ Zaholovok] — Zakarpattia actual news{{in lang|uk}}
+* [http://5ka.at.ua/load/inozemni_movi/22 Zakarpattia essays] — All about Zakarpattia and Ukraine
+* [https://web.archive.org/web/20071001015647/http://gska2.rada.gov.ua:7777/pls/z7502/A005?rdat1=11.11.2006&rf7571=10949 Verkhovna Rada website] — Zakarpattia Oblast data
+* [https://web.archive.org/web/20081018214635/http://48x24.com/home/go?lat=48.62120&lng=22.29710&zoom=13 Photos and infrastructure objects of Zakarpattia on interactive map (Ukrainian Navigational Portal)]
+* [https://web.archive.org/web/20070404023619/http://all.zakarpattya.net/eng/begin.html all.zakarpattya.net] — All about Zakarpattia {{in lang|en|uk}}
+* [http://www.mukachevo.net/ mukachevo.net] — Zakarpattia Oblast informational portal {{in lang|uk}}
+* [http://map.meta.ua/?map=zakarpat_region&l=ua map.meta.ua] — Digital map of Zakarpattia Oblast {{in lang|uk}}
+* [http://karpaty.prygl.net/ukrajina.php Zakarpattia Oblast – photographs] {{Webarchive|url=https://web.archive.org/web/20070319052613/http://karpaty.prygl.net/ukrajina.php |date=2007-03-19 }}
+* [http://words.eugene-home.kiev.ua/ Dictionary of transcarpathian words] {{Webarchive|url=https://web.archive.org/web/20140118000722/http://words.eugene-home.kiev.ua/ |date=2014-01-18 }} {{in lang|uk}}
+{{refend}}
+
+{{Zakarpattia Oblast}}
+{{Administrative divisions of Ukraine}}
+{{Czechoslovakia timeline|state=collapsed}}
+{{Navbox_Rusyns}}
+
+{{Authority control}}
+
+[[Category:Zakarpattia Oblast| ]]
+[[Category:Oblasts of Ukraine]]
+[[Category:States and territories established in 1946]]
+[[Category:1946 establishments in Ukraine]]
+[[Category:Rusyn communities]]

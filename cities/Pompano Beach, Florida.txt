@@ -1,0 +1,823 @@
+{{Use mdy dates|date=May 2021}}
+{{Infobox settlement
+<!-- Basic info ---------------->
+| name                     = Pompano Beach 
+| settlement_type          = [[City (Florida)|City]]
+| nickname                 = 
+| motto                    = "Florida's Warmest Welcome"<ref name="pompanobeachfl.gov">{{cite web|url= http://www.pompanobeachfl.gov/|title=City of Pompano Beach, Florida Website|publisher=City of Pompano Beach, Florida Website|access-date=September 22, 2012}}</ref>
+<!-- images and maps ----------->
+| image_skyline            = File:Pompano Beach Aerial (33138305683).jpg
+| imagesize                = 
+| image_caption            = Coastline of Pompano Beach
+| image_seal               = Seal of Pompano Beach, Florida.svg
+| image_flag               = Flag of Pompano Beach, Florida.svg
+| image_blank_emblem       = Logo of Pompano Beach, Florida.png
+| blank_emblem_type        = [[Wordmark]]
+| blank_emblem_size        = 
+| image_map                = Broward County Florida Incorporated and Unincorporated areas Pompano Beach Highlighted.svg
+| mapsize                  = 250x200px
+| map_caption              = Location of Pompano Beach in Broward County, Florida
+| pushpin_map              = Florida#USA
+| pushpin_map_alt          = 
+| pushpin_map_caption      = Location of Pompano Beach in Florida##Location of Pompano Beach in the contiguous United States
+| pushpin_label            = Pompano Beach
+| pushpin_label_position   = right
+<!-- Location ------------------>
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = [[United States]]
+| subdivision_type1        = [[U.S. State|State]]
+| subdivision_name1        = [[Florida]]
+| subdivision_type2        = [[List of counties in Florida|County]]
+| subdivision_name2        = [[Broward County, Florida|Broward]]
+| government_type          = [[Council-manager government|Council-Manager]]
+| leader_title             = [[Mayor (United States)|Mayor]]
+| leader_name              = Rex Hardin
+| leader_title1            = [[Vice Mayor]]
+| leader_name1             = Andrea McGee
+| leader_title2            = [[Commissioner]]s
+| leader_name2             = Alison Fournier,<br/> Beverly Perkins,<br />Barry Moss, and<br>Rhonda Sigerson-Eaton
+| leader_title3            = [[City Manager]]
+| leader_name3             = Gregory Harrison
+| leader_title4            = [[City Clerk]]
+| leader_name4             = Kervin Alfred
+| established_title        = [[European colonization of the Americas|Settled (Pompano Settlement)]]
+| established_date         = {{circa|mid-1880s–1896|lk=yes}}<ref name="cityhistsoc">{{cite web |url=http://www.pompanohistory.com/phc/our_history/ |title=Our History |publisher=Pompano Beach Historical Society |access-date=July 4, 2010}}{{Dead link|date=May 2020 |bot=InternetArchiveBot |fix-attempted=yes}}</ref><ref name="cityhistory" />
+| established_title2       = [[municipal incorporation|Incorporated (Town of Pompano)]]
+| established_date2        = July 3, 1908<ref name="cityhistory" /><ref name=incdate>{{cite web |url=http://www.broward.org/PlanningAndRedevelopment/DemographicsAndEconomics/Documents/bbtn38.pdf |title=Broward-by-the-Numbers (pages 3–5) |publisher=www.broward.org |access-date=March 4, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20151010175608/http://www.broward.org/PlanningAndRedevelopment/DemographicsAndEconomics/Documents/bbtn38.pdf |archive-date=October 10, 2015}}</ref>
+| established_title3       = [[municipal incorporation|Incorporated (City of Pompano Beach)]]
+| established_date3        = June 6, 1947<ref name="cityhistory" /><ref name="incdate" /><ref name="collier" />
+<!-- Area --------------------->
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2020">{{cite web|title=2020 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2020_Gazetteer/2020_gaz_place_12.txt|publisher=United States Census Bureau|access-date=October 31, 2021}}</ref>
+| area_magnitude           = 
+| area_total_km2           = 63.96
+| area_land_km2            = 62.22
+| area_water_km2           = 1.74
+| area_total_sq_mi         = 24.69
+| area_land_sq_mi          = 24.02
+| area_water_sq_mi         = 0.67
+| area_water_percent       = 5.54
+| area_metro_sq_mi         = <!-- Population ----------------------->
+| population_as_of         = [[2020 United States Census|2020]]
+| population_footnotes     = <ref name="2020CensusPopulationByRace">{{cite web |title=P2: HISPANIC OR LATINO, AND NOT ... - Census Bureau Table |url=https://data.census.gov/table?q=P2&g=160XX00US1258050&tid=DECENNIALPL2020.P2 |website=P2 &#124; HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE |publisher=U.S. Census Bureau |access-date=18 June 2023 }}</ref>
+| population_total         = 112046
+| pop_est_as_of            = 2022
+| population_est           = 112302
+| pop_est_footnotes        = <ref name="2022VintagePopulationEstimate">{{cite web |title=Annual Estimates of the Resident Population for Incorporated Places in Florida: April 1, 2020 to July 1, 2022 |url=https://www2.census.gov/programs-surveys/popest/tables/2020-2022/cities/totals/SUB-IP-EST2022-POP-12.xlsx |website=Florida |publisher=U.S. Census Bureau |access-date=18 June 2023 |date=May 2023 }}</ref>
+| population_rank          = [[List of United States cities by population|270th]] in the United States<br>[[List of municipalities in Florida|20th]] in Florida
+| population_density_km2   = 4675.35
+| population_density_sq_mi = 1804.92
+| timezone                 = [[Eastern Time Zone (North America)|EST]]
+| utc_offset               = −5
+| timezone_DST             = EDT
+| utc_offset_DST           = −4
+| coordinates              = {{coord|26|14|5|N|80|7|32|W|type:city_region:US-FL|display=inline,title}}
+| elevation_footnotes      = 
+| elevation_m              = 4
+| elevation_ft             = 13
+<!-- Area/postal codes & others -------->
+| postal_code_type         = [[ZIP code]]s
+| postal_code              = 33060-33077, 33093, 33097
+| area_code                = [[Area code 754|754]], [[Area code 954|954]]
+| website                  = {{URL|pompanobeachfl.gov}}
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = 12-58050<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=January 31, 2008|title=U.S. Census website}}</ref>
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = 0289162<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+| footnotes                = 
+}}
+'''Pompano Beach''' ({{IPAc-en|ˈ|p|ɒ|m|p|ən|oʊ}} {{respell|POM|pə|noh}}) is a city in [[Broward County, Florida]], United States. It is located along the coast of the Atlantic Ocean, just north of [[Fort Lauderdale, Florida|Fort Lauderdale]] and 36 miles north of [[Miami, Florida|Miami]]. The nearby [[Hillsboro Inlet]] forms part of the [[Atlantic Intracoastal Waterway]]. It is a principal city of the [[Miami metropolitan area]], which was home to 6.14 million people in 2020. As of the [[2020 United States Census|2020 census]], the population was 112,046,<ref name="2020CensusPopulationByRace" /> making it the [[Broward County#Communities|sixth-largest city]] in Broward County, the [[Miami metropolitan area#cities|ninth-largest city]] in the [[South Florida metropolitan area]], and the [[List of municipalities in Florida|20th-largest city]] in Florida.
+
+[[Pompano Beach Airpark]], located within the city, is the home of the [[Goodyear Blimp]] ''Spirit of Innovation''.<ref name="cityhistsoc"/><ref>{{cite web|url=http://www.nestseekers.com/ForSale/walkup/Pompano_Beach/|title=pompano beach walkups for sale|publisher=Nest Seekers International|access-date=September 19, 2012|archive-url=https://web.archive.org/web/20130723065549/http://www.nestseekers.com/ForSale/walkup/Pompano_Beach/|archive-date=July 23, 2013|url-status=dead}}</ref>
+
+==History==
+{{see also|Kester Cottages}}
+
+[[Tequesta]] Indians lived in the area.<ref>[https://www.pompanohistory.com/our_history Our History]</ref>
+
+The city's name is derived from the [[Florida pompano]] (''Trachinotus carolinus''), a fish found off the Atlantic coast.<ref>{{cite web|url=http://www.epodunk.com/cgi-bin/genInfo.php?locIndex=8858|title=Profile for Pompano Beach, Florida, FL|publisher=ePodunk|access-date=September 22, 2012|archive-url=https://web.archive.org/web/20150302184157/http://www.epodunk.com/cgi-bin/genInfo.php?locIndex=8858|archive-date=March 2, 2015|url-status=dead}}</ref>
+
+There had been scattered settlers in the area since at least the mid-1880s, but the first documented permanent residents of the Pompano area were George Butler and Frank Sheen and their families, who arrived in 1896 as railway employees.<ref name="cityhistory">{{cite web |url=http://pompanobeachfl.gov/pages/misc_pages/residents/history/history.html.php |title=History of Pompano Beach, FL |publisher=City of Pompano Beach |access-date=July 4, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20131004223923/http://pompanobeachfl.gov/pages/misc_pages/residents/history/history.html.php |archive-date=October 4, 2013}}</ref> The first train arrived in the small Pompano settlement on February 22, 1896.<ref name="cityhistory" /> It is said that Sheen gave the community its name after jotting down on his survey of the area the name of the fish he had for dinner. The coming of the railroad led to development farther west from the coast. In 1906, Pompano became the southernmost settlement in newly created [[Palm Beach County, Florida|Palm Beach County]].<ref name="cityhistory" /> That year, the [[Hillsboro Inlet Light|Hillsboro Lighthouse]] was completed on the beach.<ref name="cityhistory" />
+
+On July 3, 1908, a new municipality was incorporated in what was then [[Miami-Dade County, Florida|Dade County]]: the Town of Pompano.<ref name="cityhistsoc" /><ref name="cityhistory" /> John R. Mizell was elected the first mayor. In 1915, [[Broward County, Florida|Broward County]] was established, with a northern boundary at the Hillsboro Canal. Thus, within eight years, Pompano had been in three counties.<ref name="cityhistsoc" /><ref name="cityhistory" /> Pompano Beach experienced significant growth during the Florida land boom of the 1920s. In 1940, the U.S. Supreme Court disallowed forced confessions in ''[[Chambers v. Florida]]'', a dispute stemming from a murder in Pompano Beach.<ref>{{cite web|url=http://laws.findlaw.com/us/309/227.html|title=Find Laws, Legal Information, and Attorneys – FindLaw|access-date=July 1, 2016}}</ref>
+
+Following the population boom due to [[World War II]], in 1947, the City of Pompano merged with the newly formed municipality on the beach and became the City of Pompano Beach.<ref name="cityhistsoc" /><ref name="collier">{{cite encyclopedia |editor=William D. Halsey |encyclopedia=Collier's Encyclopedia |title=Pompano Beach |year=1976 |publisher=Macmillan Educational Corporation |volume=19 |page=232}}</ref> In 1950, the population of the city reached 5,682. Like most of [[South Florida|southeast Florida]], Pompano Beach experienced great growth in the late 20th century as many people moved there from northern parts of the United States. A substantial seasonal population also spends its winters in the area. The city of Pompano Beach celebrated its centennial in 2008. It is twinned with [[West Bromwich]] in the [[United Kingdom]].
+
+The majority of the initial inhabitants, both African American and white, in this region migrated from northern Florida, Georgia, and the Carolinas, while some black residents also came from the [[Bahamas]].<ref>[https://www.pompanohistory.com/our_history]</ref>
+
+==Geography==
+According to the [[United States Census Bureau]], the city has a total area of {{convert|65.8|km2|order=flip}}, of which {{convert|62.2|km2|order=flip}} is land and {{convert|3.6|km2|order=flip}}, or 5.54%, is water.<ref name="Census 2010">{{cite web|date=July 15, 2020|title=Census QuickFacts for Pompano Beach, Florida (2019)|url=https://www.census.gov/quickfacts/pompanobeachcityflorida|website=Census.gov|publisher=U.S. Census Bureau, American Fact Finder}}</ref>
+
+A 2017 study showed 73,000 residents living within [[Federal Emergency Management Agency|FEMA]]'s coastal [[floodplain]].<ref>{{Cite web|url=https://www.climatecentral.org/news/us-cities-most-vulnerable-major-coastal-flooding-sea-level-rise-21748|title=These U.S. Cities Are Most Vulnerable to Major Coastal Flooding and Sea Level Rise|date=October 25, 2017|website=www.climatecentral.org|language=en|access-date=December 19, 2019|archive-date=December 19, 2019|archive-url=https://web.archive.org/web/20191219210134/https://www.climatecentral.org/news/us-cities-most-vulnerable-major-coastal-flooding-sea-level-rise-21748|url-status=dead}}</ref>
+
+Pompano Beach is in northeastern Broward County along the Atlantic Ocean. It includes about {{convert|3|mi|0}} of beachfront, extending from the intersection of [[Florida State Road A1A|State Road A1A]] and Terra Mar Drive to the Hillsboro Inlet. The city is bounded by the following municipalities:
+
+On its northeast:
+*[[Hillsboro Beach, Florida|Hillsboro Beach]]
+*[[Lighthouse Point, Florida|Lighthouse Point]]
+
+On its north:
+*[[Deerfield Beach, Florida|Deerfield Beach]]
+
+On its west:
+*[[Coconut Creek, Florida|Coconut Creek]]
+
+On its southwest:
+*[[Margate, Florida|Margate]]
+*[[North Lauderdale, Florida|North Lauderdale]]
+
+On its south:
+*[[Fort Lauderdale, Florida|Fort Lauderdale]]
+
+On its southeast:
+*[[Lauderdale-by-the-Sea, Florida|Lauderdale-by-the-Sea]]
+
+===Climate===
+Pompano Beach has a [[tropical monsoon climate]] ([[Köppen climate classification|''Am'']]) with hot, humid summers and warm winters.
+
+{{Weather box
+|location = Pompano Beach, Florida ([[Pompano Beach Airpark]]), 1991–2020 normals, extremes 1998–present
+|single line = Y
+
+|Jan avg record high F = 84.3
+|Feb avg record high F = 85.6
+|Mar avg record high F = 89.3
+|Apr avg record high F = 91.1
+|May avg record high F = 91.9
+|Jun avg record high F = 93.3
+|Jul avg record high F = 93.8
+|Aug avg record high F = 93.7
+|Sep avg record high F = 93.3
+|Oct avg record high F = 90.5
+|Nov avg record high F = 86.3
+|Dec avg record high F = 85.5
+|year avg record high F = 96.3
+
+| Jan high F = 76.3
+| Feb high F = 78.1
+| Mar high F = 80.2
+| Apr high F = 83.6
+| May high F = 86.3
+| Jun high F = 88.9
+| Jul high F = 90.5
+| Aug high F = 90.7
+| Sep high F = 89.0
+| Oct high F = 86.2
+| Nov high F = 81.3
+| Dec high F = 78.3
+|year high F = 84.1
+|Jan mean F = 68.4
+|Feb mean F = 70.3
+|Mar mean F = 72.6
+|Apr mean F = 76.6
+|May mean F = 79.7
+|Jun mean F = 82.6
+|Jul mean F = 84.0
+|Aug mean F = 84.2
+|Sep mean F = 82.9
+|Oct mean F = 79.9
+|Nov mean F = 74.6
+|Dec mean F = 71.0
+|year mean F = 77.2
+| Jan low F = 60.4
+| Feb low F = 62.4
+| Mar low F = 64.9
+| Apr low F = 69.5
+| May low F = 73.2
+| Jun low F = 76.3
+| Jul low F = 77.5
+| Aug low F = 77.7
+| Sep low F = 76.8
+| Oct low F = 73.7
+| Nov low F = 67.8
+| Dec low F = 63.7
+|year low F = 70.3
+
+|Jan avg record low F = 42.9
+|Feb avg record low F = 46.2
+|Mar avg record low F = 49.7
+|Apr avg record low F = 58.3
+|May avg record low F = 65.1
+|Jun avg record low F = 70.9
+|Jul avg record low F = 72.9
+|Aug avg record low F = 72.3
+|Sep avg record low F = 72.3
+|Oct avg record low F = 61.7
+|Nov avg record low F = 53.2
+|Dec avg record low F = 49.2
+|year avg record low F = 40.5
+
+|Jan record high F = 88
+|Feb record high F = 90
+|Mar record high F = 96
+|Apr record high F = 98
+|May record high F = 99
+|Jun record high F = 99
+|Jul record high F = 98
+|Aug record high F = 97
+|Sep record high F = 102
+|Oct record high F = 94
+|Nov record high F = 89
+|Dec record high F = 95
+|year record high F =
+|Jan record low F = 35
+|Feb record low F = 35
+|Mar record low F = 39
+|Apr record low F = 51
+|May record low F = 56
+|Jun record low F = 66
+|Jul record low F = 70
+|Aug record low F = 63
+|Sep record low F = 68
+|Oct record low F = 52
+|Nov record low F = 40
+|Dec record low F = 34
+|year record low F =
+|precipitation colour = green
+| Jan precipitation inch = 1.93
+| Feb precipitation inch = 2.01
+| Mar precipitation inch = 2.90
+| Apr precipitation inch = 3.36
+| May precipitation inch = 5.46
+| Jun precipitation inch = 8.05
+| Jul precipitation inch = 5.26
+| Aug precipitation inch = 6.30
+| Sep precipitation inch = 7.58
+| Oct precipitation inch = 6.65
+| Nov precipitation inch = 3.67
+| Dec precipitation inch = 2.45
+|year precipitation inch = 55.62
+| unit precipitation days = 0.01 in
+| Jan precipitation days = 7.3
+| Feb precipitation days = 7.2
+| Mar precipitation days = 7.1
+| Apr precipitation days = 6.7
+| May precipitation days = 9.4
+| Jun precipitation days = 14.7
+| Jul precipitation days = 15.7
+| Aug precipitation days = 15.7
+| Sep precipitation days = 16.8
+| Oct precipitation days = 12.1
+| Nov precipitation days = 9.6
+| Dec precipitation days = 9.1
+| year precipitation days = 131.4
+
+|source 1 = NOAA (mean maxima/minima 2006&ndash;2020)<ref>{{cite web |url=https://w2.weather.gov/climate/xmacis.php?wfo=mfl |title=NOWData – NOAA Online Weather Data |publisher=[[National Oceanic and Atmospheric Administration]] |access-date=May 14, 2021}}</ref><ref>{{cite web |url=https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&startDate=0001-01-01&endDate=9996-12-31&stations=USW00092805&format=pdf |title=Summary of Monthly Normals 1991–2020 |publisher=[[National Oceanic and Atmospheric Administration]] |access-date=May 14, 2021}}</ref> }}
+
+==Neighborhoods==
+These are the neighborhoods and communities that are officially recognized by the City of Pompano Beach.<ref>{{cite web |url=https://cdn.pompanobeachfl.gov/city/pages/planning_zoning/Neighborhoods%20map%20with%20streets.pdf |title=City of Pompano Beach, Florida Neighborhood Map |website=Cdn.pompanobeachfl.gov |access-date=September 3, 2021}}</ref>
+{|
+|valign="top" width=25%|
+*Andrews Industrial District
+*Arvida-Pompano Park
+*Avalon Harbor
+*Avondale
+*Beach
+*Blanche Ely
+*Boulevard Park
+*Canal Point
+*Civic Campus
+*Collier City
+|valign="top" width=25%|
+*[[Collier Manor-Cresthaven, Florida|Cresthaven]]
+*Cypress Bend
+*Cypress Cove
+*Cypress Lakes
+*Downtown Pompano Beach
+*Garden Isles
+*Gardens
+*Golfview Estates
+*Harbor Village
+*[[Pompano Beach Highlands, Florida|Pompano Beach Highlands]]
+|valign="top" width=25%|
+*Hillsboro Shores
+*Island Club
+*John Knox Village
+*[[Kendall Green, Florida|Kendall Green]]
+*[[Leisureville, Florida|Leisureville]] 
+*Liberty Park
+*[[Loch Lomond, Florida|Loch Lomond]]
+*Lyons Park
+*Northwest Pompano
+*Old Collier
+|valign="top" width=25%|
+*Old Pompano
+*Palm Aire 
+*Pine Tree Park
+*Pompano Airpark 
+*Sanders Park
+*Santa Barbara Estates
+*Santa Barbara Shores
+*Snug Harbor
+*South Dixie
+*[[Terra Mar, Florida|Terra Mar]]
+|}
+
+==Demographics==
+{{US Census population
+|1920=636
+|1930=2614
+|1940=4427
+|1950=5682
+|1960=15992
+|1970=38587
+|1980=52618
+|1990=72411
+|2000=78191
+|2010=99845
+|2020=112046
+|estimate=112302
+|estyear=2022
+|align-fn=center
+|footnote=U.S. Decennial Census<br>
+1920–1970<ref name="HistoricalCensus1890to1970">{{cite web |title=Census Counts: 1890-2020 |url=http://edr.state.fl.us/Content/local-government/data/data-a-to-z/FLmunicipalcensus.xls |website=Florida Municipal Population Census Counts: 1890 to 2020 |publisher=Office of Economic and Demographic Research, The Florida Legislature |access-date=18 June 2023 |archive-url=https://web.archive.org/web/20220404171529/http://edr.state.fl.us/Content/local-government/data/data-a-to-z/FLmunicipalcensus.xls |archive-date=4 April 2022 |date=2023 |url-status=live}}</ref> 1980<ref name="1980Census1">{{cite web |title=General Population Characteristics FLORIDA 1980 Census of Population |url=https://www2.census.gov/prod2/decennial/documents/1980a_flABCs1-02.pdf |website=07553445v1chA-Cpt11sec1ch002.pdf |publisher=U.S. Census Bureau |access-date=18 June 2023}}</ref> 1990<ref name="1990Census1">{{cite web |title=1990 Census of Population General Population Characteristics Florida Section 1 of 2 |url=https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-11-1.pdf |website=Florida: 1990, Part 1 |publisher=U.S. Census Bureau |access-date=18 June 2023}}</ref><br>2000<ref name="2000CensusPopulationByRace">{{cite web |title=PL002: HISPANIC OR LATINO, AND NOT ... - Census Bureau Table |url=https://data.census.gov/table?q=PL002&g=160XX00US1258050&tid=DECENNIALPL2000.PL002 |website=PL002 &#124; HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE [73] |publisher=U.S. Census Bureau |access-date=18 June 2023 }}</ref> 2010<ref name="2010CensusPopulationByRace">{{cite web |title=P2: HISPANIC OR LATINO, AND NOT ... - Census Bureau Table |url=https://data.census.gov/table?q=P2&g=160XX00US1258050&tid=DECENNIALPL2010.P2 |website=P2 &#124; HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE |publisher=U.S. Census Bureau |access-date=18 June 2023 }}</ref> 2020<ref name="2020CensusPopulationByRace" /> 2022<ref name="2022VintagePopulationEstimate" />
+}}
+
+{|class="wikitable" style="font-size: 90%; text-align: right;"
+!Historical racial composition
+!style="width: 5em;"|2020<ref name="2020CensusPopulationByRace" />
+!style="width: 5em;"|2010<ref name="2010CensusPopulationByRace" />
+!style="width: 5em;"|2000<ref name="2000CensusPopulationByRace" />
+!style="width: 5em;"|1990<ref name="1990Census1" />
+!style="width: 5em;"|1980<ref name="1980Census1" />
+|-
+|style="text-align:left"|[[Non-Hispanic whites|White]] (non-Hispanic)
+|41.0%
+|50.6%
+|60.8%
+|66.5%
+|80.6%
+|-
+|style="text-align:left"|[[Hispanic and Latino Americans|Hispanic or Latino]]
+|23.8%
+|17.5%
+|9.9%
+|5.4%
+|2.2%
+|-
+|style="text-align:left"|[[African American|Black or African American]] (non-Hispanic)
+|28.0%
+|28.2%
+|25.0%
+|27.4%
+|16.8%
+|-
+|style="text-align:left"|[[Asian American|Asian]] and [[Pacific Islander Americans|Pacific Islander]] (non-Hispanic)
+|1.6%
+|1.3%
+|0.8%
+|0.5%
+|rowspan="3"|0.4%
+|-
+|style="text-align:left"|[[Native Americans in the United States|Native American]] (non-Hispanic)
+|0.1%
+|0.2%
+|0.1%
+|0.1%
+|-
+|style="text-align:left"|[[Other races (U.S. Census)|Some other race]] (non-Hispanic)
+|1.3%
+|0.7%
+|0.3%
+|0.1%
+|-
+|style="text-align:left"|[[Multiracial Americans|Two or more races]] (non-Hispanic)
+|4.1%
+|1.5%
+|3.0%
+|N/A
+|N/A
+|-
+!style="text-align:left"|Population
+!style="text-align:right"|112,046
+!style="text-align:right"|99,845
+!style="text-align:right"|78,191
+!style="text-align:right"|72,411
+!style="text-align:right"|52,618
+|}
+{|class="wikitable" style="font-size: 90%; text-align: right;"
+!Demographic characteristics
+!style="width: 7em;"|2020<ref name="2020CensusHouseholds">{{cite web |title=H1 &#124; OCCUPANCY STATUS |url=https://data.census.gov/table?q=H1&g=160XX00US1258050&tid=DECENNIALPL2020.H1 |website=H1: OCCUPANCY STATUS - Census Bureau Table |publisher=U.S. Census Bureau |access-date=18 June 2023 }}</ref><ref name="2020CensusSexByAge">{{cite web |title=P12 &#124; SEX BY AGE FOR SELECTED AGE CATEGORIES |url=https://data.census.gov/table?q=P12&g=160XX00US1258050&tid=DECENNIALDHC2020.P12 |website=P12: SEX BY AGE FOR SELECTED ... - Census Bureau Table |publisher=U.S. Census Bureau |access-date=18 June 2023 }}</ref><ref name="2020CensusMedianAge">{{cite web |title=P13 &#124; MEDIAN AGE BY SEX |url=https://data.census.gov/table?q=P13&g=160XX00US1258050&tid=DECENNIALDHC2020.P13 |website=P13: MEDIAN AGE BY SEX - Census Bureau Table |publisher=U.S. Census Bureau |access-date=18 June 2023 }}</ref>
+!style="width: 7em;"|2010<ref name="2010CensusHouseholds">{{cite web |title=H1 &#124; OCCUPANCY STATUS |url=https://data.census.gov/table?q=H1&g=160XX00US1258050&tid=DECENNIALPL2010.H1 |website=H1: OCCUPANCY STATUS - Census Bureau Table |publisher=U.S. Census Bureau |access-date=18 June 2023 }}</ref><ref name="2010CensusSexByAge">{{cite web |title=P12 &#124; SEX BY AGE |url=https://data.census.gov/table?q=P12&g=160XX00US1258050&tid=DECENNIALSF12010.P12 |website=P12: SEX BY AGE - Census Bureau Table |publisher=U.S. Census Bureau |access-date=18 June 2023 }}</ref><ref name="2010CensusMedianAge">{{cite web |title=P13 &#124; MEDIAN AGE BY SEX |url=https://data.census.gov/table?q=P13&g=160XX00US1258050&tid=DECENNIALSF12010.P13 |website=P13: MEDIAN AGE BY SEX - Census Bureau Table |publisher=U.S. Census Bureau |access-date=18 June 2023 }}</ref>
+!style="width: 7em;"|2000<ref name="2000CensusHouseholds">{{cite web |title=H003 &#124; OCCUPANCY STATUS [3] |url=https://data.census.gov/table?q=H003&g=160XX00US1258050&tid=DECENNIALSF12000.H003 |website=H003: OCCUPANCY STATUS [3] - Census Bureau Table |publisher=U.S. Census Bureau |access-date=18 June 2023 }}</ref><ref name="2000CensusSexByAge">{{cite web |title=P012 &#124; SEX BY AGE [49] |url=https://data.census.gov/table?q=P012&g=160XX00US1258050&tid=DECENNIALSF12000.P012 |website=P012: SEX BY AGE [49] - Census Bureau Table |publisher=U.S. Census Bureau |access-date=18 June 2023 }}</ref><ref name="2000CensusMedianAge">{{cite web |title=P013 &#124; MEDIAN AGE BY SEX [3] |url=https://data.census.gov/table?q=P013&g=160XX00US1258050&tid=DECENNIALSF12000.P013 |website=P13: MEDIAN AGE BY SEX [3] - Census Bureau Table |publisher=U.S. Census Bureau |access-date=18 June 2023 }}</ref>
+!style="width: 7em;"|1990<ref name="1990Census1" />
+!style="width: 7em;"|1980<ref name="1980Census1" />
+|-
+|style="text-align:left"|Households
+|59,742
+|55,885
+|44,496
+|32,157
+|24,244
+|-
+|style="text-align:left"|Persons per household
+|1.88
+|1.79
+|1.76
+|2.25
+|2.17
+|-
+|style="text-align:left"|{{abbr|Sex Ratio|Sex ratio measured in number of males per 100 females}}
+|101.5
+|104.3
+|97.3
+|92.7
+|86.2
+|-
+|style="text-align:left"|Ages 0–17
+|18.4%
+|18.3%
+|17.7%
+|17.1%
+|15.0%
+|-
+|style="text-align:left"|Ages 18–64
+|61.2%
+|62.8%
+|58.9%
+|65.4%
+|55.2%
+|-
+|style="text-align:left"|Ages 65 +
+|20.3%
+|18.9%
+|23.4%
+|17.5%
+|29.8%
+|-
+|style="text-align:left"|Median age
+|43.2
+|42.7
+|42.2
+|41.0
+|50.9
+|-
+!style="text-align:left"|Population
+!style="text-align:right"|112,046
+!style="text-align:right"|99,845
+!style="text-align:right"|78,191
+!style="text-align:right"|72,411
+!style="text-align:right"|52,618
+|}
+{|class="wikitable" style="font-size: 90%; text-align: right;"
+!colspan="4"|Economic indicators
+|-
+!style="width: 14em;"|2017–21 [[American Community Survey]]
+!style="width: 7em;"|Miramar
+!style="width: 7em;"|Broward County
+!style="width: 7em;"|Florida
+|-
+|style="text-align:left"|{{abbr|Median income|Median income in 2021 inflation-adjusted dollars}}<ref name="ACSPersonalIncome">{{cite web |title=S2001: EARNINGS IN THE PAST 12 ... - Census Bureau Table |url=https://data.census.gov/table?q=S2001&g=040XX00US12_050XX00US12011_160XX00US1258050&tid=ACSST5Y2021.S2001 |website=S2001 &#124; EARNINGS IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) |publisher=U.S. Census Bureau |access-date=18 June 2023}}</ref>
+|$31,587
+|$36,222
+|$34,367
+|-
+|style="text-align:left"|{{abbr|Median household income|Median household income in 2021 inflation-adjusted dollars}}<ref name="ACSHouseholdIncome">{{cite web |title=S1901: INCOME IN THE PAST 12 MONTHS ... - Census Bureau Table |url=https://data.census.gov/table?q=S1901&g=040XX00US12_050XX00US12011_160XX00US1258050&tid=ACSST5Y2021.S1901 |website=S1901 &#124; INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) |publisher=U.S. Census Bureau |access-date=18 June 2023}}</ref>
+|$56,109
+|$64,522
+|$61,777
+|-
+|style="text-align:left"|Poverty Rate<ref name="ACSPoverty">{{cite web |title=S1701: POVERTY STATUS IN THE PAST ... - Census Bureau Table |url=https://data.census.gov/table?q=S1701&g=040XX00US12_050XX00US12011_160XX00US1258050&tid=ACSST5Y2021.S1701 |website=S1701 &#124; POVERTY STATUS IN THE PAST 12 MONTHS |publisher=U.S. Census Bureau |access-date=18 June 2023}}</ref>
+|15.6%
+|12.4%
+|13.1%
+|-
+|style="text-align:left"|{{abbr|High school diploma|Percentage of the population aged 25+ with a high school diploma or higher}}<ref name="ACSEducationalAttainment">{{cite web |title=S1501: EDUCATIONAL ATTAINMENT - Census Bureau Table |url=https://data.census.gov/table?q=S1501&g=040XX00US12_050XX00US12011_160XX00US1258050&tid=ACSST5Y2021.S1501 |website=S1501 &#124; EDUCATIONAL ATTAINMENT |publisher=U.S. Census Bureau |access-date=18 June 2023}}</ref>
+|84.7%
+|90.0%
+|89.0%
+|-
+|style="text-align:left"|{{abbr|Bachelor's degree|Percentage of the population aged 25+ with a bachelor's degree or higher}}<ref name="ACSEducationalAttainment" />
+|29.0%
+|34.3%
+|31.5%
+|-
+|style="text-align:left"|{{abbr|Advanced degree|Percentage of the population aged 25+ with an advanced degree}}<ref name="ACSEducationalAttainment" />
+|11.0%
+|13.1%
+|11.7%
+|}
+{|class="wikitable" style="font-size: 90%; text-align: right;"
+!style="width: 20em;"|Language spoken at home{{Efn|name=languages|Language spoken at home among residents at least five years old; only languages (or language groups) which at least 2% of residents have spoken at any time since 1980 are mentioned}}
+!style="width: 5em;"|2015{{efn|name=ACS2015Language|Refers to 2013–2017 [[American Community Survey]] data;<ref name="ACS2015Language">{{cite web |title=C16001: LANGUAGE SPOKEN AT HOME FOR ... - Census Bureau Table |url=https://data.census.gov/table?q=C16001&g=160XX00US1258050&tid=ACSDT5Y2017.C16001&moe=true |website=C16001 &#124; LANGUAGE SPOKEN AT HOME FOR THE POPULATION 5 YEARS AND OVER |publisher=U.S. Census Bureau |access-date=18 June 2023 }}</ref> the last Decennial Census where language data was collected was in the [[2000 United States Census|2000 census]]}}
+!style="width: 5em;"|2010{{efn|name=ACS2010Language|Refers to 2008–2012 [[American Community Survey]] data;<ref name="ACS2010Language">{{cite web |title=B16001: LANGUAGE SPOKEN AT HOME BY - Census Bureau Table |url=https://data.census.gov/table?q=B16001&g=160XX00US1258050&tid=ACSDT5Y2012.B16001&moe=true |website=B16001 &#124; LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER |publisher=U.S. Census Bureau |access-date=18 June 2023 }}</ref> the last Decennial Census where language data was collected was in the [[2000 United States Census|2000 census]]}}
+!style="width: 5em;"|2000<ref name="2000CensusLanguage">{{cite web |title=PCT010: AGE BY LANGUAGE SPOKEN AT ... - Census Bureau Table |url=https://data.census.gov/table?q=PCT010&g=160XX00US1258050&tid=DECENNIALSF32000.PCT010 |website=PCT010 &#124; AGE BY LANGUAGE SPOKEN AT HOME FOR THE POPULATION 5 YEARS AND OVER [83] |publisher=U.S. Census Bureau |access-date=18 June 2023 }}</ref>
+!style="width: 5em;"|1990<ref name="1990Census2">{{cite web |title=1990 Census of Population General Social and Economic Characteristics Florida Section 1 of 3 |url=https://www2.census.gov/library/publications/decennial/1990/cp-2/cp-2-11-1.pdf |website=Florida: 1990, Part 1 |publisher=U.S. Census Bureau |access-date=18 June 2023}}</ref>
+!style="width: 5em;"|1980<ref name="1980Census2">{{cite web |title=General Social and Economic Characteristics FLORIDA 1980 Census of Population |url=https://www2.census.gov/prod2/decennial/documents/1980a_flABCs1-09.pdf |publisher=U.S. Census Bureau |access-date=18 June 2023}}</ref>
+|-
+|style="text-align:left"|[[English language|English]]
+|64.6%
+|64.1%
+|75.7%
+|83.6%
+|91.1%
+|-
+|style="text-align:left"|[[Spanish language|Spanish]] or [[Spanish Creole]]
+|17.4%
+|16.1%
+|9.3%
+|4.7%
+|2.1%
+|-
+|style="text-align:left"|[[French language|French]] or [[Haitian Creole]]
+|10.2%
+|11.8%
+|8.4%
+|6.9%
+|1.7%
+|-
+|style="text-align:left"|[[Portuguese language|Portuguese]]
+|N/A{{efn|name=NotCountedSeparately|Not counted separately; aggregated into "Other" category}}
+|2.8%
+|1.5%
+|0.3%
+|N/A{{efn|name=NotCountedSeparately}}
+|-
+|style="text-align:left"|Other Languages
+|7.8%
+|5.2%
+|5.1%
+|4.5%
+|5.1%
+|}
+{|class="wikitable" style="font-size: 90%; text-align: right;"
+!style="width: 20em;"|Nativity
+!style="width: 5em;"|2015{{efn|name=ACS2015Nativity|Refers to 2013–2017 [[American Community Survey]] data;<ref name="ACS2015ForeignBorn1">{{cite web |title=B05001: NATIVITY AND CITIZENSHIP ... - Census Bureau Table |url=https://data.census.gov/table?q=B05001&g=160XX00US1258050&tid=ACSDT5Y2017.B05001&moe=true |website=B05001 &#124; NATIVITY AND CITIZENSHIP STATUS IN THE UNITED STATES |publisher=U.S. Census Bureau |access-date=18 June 2023 }}</ref><ref name="ACS2015ForeignBorn">{{cite web |title=B05006: PLACE OF BIRTH FOR THE ... - Census Bureau Table |url=https://data.census.gov/table?q=B05006&g=160XX00US1258050&tid=ACSDT5Y2017.B05006&moe=true |website=B05006 &#124; PLACE OF BIRTH FOR THE FOREIGN-BORN POPULATION IN THE UNITED STATES |publisher=U.S. Census Bureau |access-date=18 June 2023 }}</ref> the last Decennial Census where foreign-born population data was collected was in the [[2000 United States Census|2000 census]]}}
+!style="width: 5em;"|2010{{efn|name=ACS2010Nativity|Refers to 2008–2012 [[American Community Survey]] data;<ref name="ACS2010Nativity">{{cite web |title=B05001: NATIVITY AND CITIZENSHIP ... - Census Bureau Table |url=https://data.census.gov/table?q=B05001&g=160XX00US1258050&tid=ACSDT5Y2012.B05001&moe=true |website=B05001 &#124; NATIVITY AND CITIZENSHIP STATUS IN THE UNITED STATES |publisher=U.S. Census Bureau |access-date=18 June 2023 }}</ref><ref name="ACS2010ForeignBorn">{{cite web |title=B05006: PLACE OF BIRTH FOR THE ... - Census Bureau Table |url=https://data.census.gov/table?q=B05006&g=160XX00US1258050&tid=ACSDT5Y2012.B05006&moe=true |website=B05006 &#124; PLACE OF BIRTH FOR THE FOREIGN-BORN POPULATION IN THE UNITED STATES |publisher=U.S. Census Bureau |access-date=18 June 2023 }}</ref> the last Decennial Census where foreign-born population data was collected was in the [[2000 United States Census|2000 census]]}}
+!style="width: 5em;"|2000<ref name="2000CensusNativity">{{cite web |title=P021: PLACE OF BIRTH BY CITIZENSHIP ... - Census Bureau Table |url=https://data.census.gov/table?q=P021&g=160XX00US1258050&tid=DECENNIALSF32000.P021 |website=P021 &#124; PLACE OF BIRTH BY CITIZENSHIP STATUS [15] |publisher=U.S. Census Bureau |access-date=18 June 2023 }}</ref><ref name="2000CensusForeignBorn">{{cite web |title=PCT019: PLACE OF BIRTH FOR THE ... - Census Bureau Table |url=https://data.census.gov/table?q=PCT019&g=160XX00US1258050&tid=DECENNIALSF32000.PCT019 |website=PCT019 &#124; PLACE OF BIRTH FOR THE FOREIGN-BORN POPULATION [126] |publisher=U.S. Census Bureau |access-date=18 June 2023 }}</ref>
+!style="width: 5em;"|1990<ref name="1990Census3">{{cite web |title=1990 Census of Population General Social and Economic Characteristics Florida Section 2 of 3 |url=https://www2.census.gov/library/publications/decennial/1990/cp-2/cp-2-11-2.pdf |website=Florida: 1990, Part 2 |publisher=U.S. Census Bureau |access-date=18 June 2023 }}</ref><ref name="1990Census2" />
+!style="width: 5em;"|1980<ref name="1980Census2" />
+|-
+|style="text-align:left"|'''% population [[Natural-born-citizen clause (United States)|native-born]]'''
+|'''72.8%'''
+|'''74.6%'''
+|'''79.7%'''
+|'''85.8%'''
+|'''90.0%'''
+|-
+|style="text-align:left"|... born in the [[United States]]
+|70.3%
+|72.4%
+|78.5%
+|84.7%
+|89.5%
+|-
+|style="text-align:left"|... born in [[Puerto Rico]] or [[Territories of the United States|Island Areas]]
+|1.3%
+|1.2%
+|0.6%
+|1.6%
+|rowspan="2"|0.5%
+|-
+|style="text-align:left"|... born to [[Jus sanguinis|American parents abroad]]
+|1.2%
+|1.1%
+|0.7%
+|0.6%
+|-
+|style="text-align:left"|'''% population [[Immigration to the United States|foreign-born]]{{efn|name=foreignborn|Only countries of birth which at least 2% of residents were born in at any time since 1980 are mentioned}}'''
+|'''27.2%'''
+|'''25.4%'''
+|'''20.3%'''
+|'''14.2%'''
+|'''10.0%'''
+|-
+|style="text-align:left"|... born in [[Haiti]]
+|6.1%
+|6.9%
+|4.8%
+|4.4%
+|N/A{{efn|name=NotCountedSeparately}}
+|-
+|style="text-align:left"|... born in [[Mexico]]
+|2.6%
+|2.6%
+|2.0%
+|0.5%
+|< 0.1%
+|-
+|style="text-align:left"|... born in [[Brazil]]
+|2.1%
+|2.4%
+|1.4%
+|0.2%
+|N/A{{efn|name=NotCountedSeparately}}
+|-
+|style="text-align:left"|... born in other countries
+|16.4%
+|13.5%
+|12.1%
+|9.1%
+|10.0%
+|}
+
+As of 2010, [[Italian-Americans]] made up 8.5% of the population, forming the second largest ancestry group in the city.<ref>{{cite web|url=http://factfinder.census.gov/bkmk/table/1.0/en/ACS/10_SF4/B01003/1600000US1258050/popgroup~543|archive-url=https://archive.today/20200212082313/http://factfinder.census.gov/bkmk/table/1.0/en/ACS/10_SF4/B01003/1600000US1258050/popgroup~543|url-status=dead|archive-date=February 12, 2020|title=American FactFinder – Results|author=Data Access and Dissemination Systems (DADS)|work=census.gov}}</ref>
+
+As of 2010, before [[annexation]] of other areas, Pompano Beach has the highest concentration of residents of [[Haitians|Haitian]] ancestry in the country, at 9.3% of the population.<ref>{{cite web |url=http://www.epodunk.com/ancestry/Haitian.html |title=Ancestry Map of Haitian Communities |publisher=Epodunk.com |access-date=October 28, 2007 |archive-url=https://web.archive.org/web/20120923063913/http://www.epodunk.com/ancestry/Haitian.html |archive-date=September 23, 2012 |url-status=dead}}</ref> while it had the highest percentage of [[Brazilians]] in the US, at 2.67%.<ref>{{cite web |url=http://www.epodunk.com/ancestry/Haitian.html |title=Ancestry Map of Haitian Communities |publisher=Epodunk.com |access-date=December 5, 2007 |archive-url=https://web.archive.org/web/20120923063913/http://www.epodunk.com/ancestry/Haitian.html |archive-date=September 23, 2012 |url-status=dead}}</ref>
+
+In 2000, the median income for a household in the city was $36,073, and the median income for a family was $44,195. Males had a median income of $31,162 versus $26,870 for females. The per capita income for the city was $23,938. About 13.1% of families and 17.0% of the population were below the poverty line, including 30.1% of those under age 18 and 9.4% of those age 65 or over.
+
+As of 2000, before many of the [[unincorporated area]]s were [[annexation#Subnational annexation|annex]]ed to the city, those who spoke only [[English language|English]] were 76.4% of the population, while those who spoke [[Spanish language|Spanish]] as a [[mother tongue]] were 9.3%, while [[French-based creole languages|French Creole]] (mostly [[Haitian Creole]]) was at 6.2%, [[French language|French]] at 2.4%, [[Portuguese language|Portuguese]] 1.5%, [[German language|German]] was 1.0%, and [[Italian language|Italian]] as a [[first language]] made up 0.9% of the population.<ref>{{cite web |url=http://www.mla.org/map_data_results&state_id=12&county_id=&mode=&zip=&place_id=58050&cty_id=&ll=&a=&ea=&order=r |title=MLA Data Center results for Pompano Beach, FL |publisher=[[Modern Language Association]] |access-date=September 24, 2007}}</ref>
+
+<u>Data for previously unincorporated areas that are now part of Pompano Beach:</u>
+*[[Pompano Beach Highlands, Florida|Pompano Beach Highlands]] as English being at 69.54% who spoke it as a first language, while Spanish at 20.26%, French Creole (Haitian Creole) at 4.74%, Portuguese 3.89%, and [[Vietnamese language|Vietnamese]] at 1.12% of the population.<ref>{{cite web |url=http://www.mla.org/map_data_results&state_id=12&county_id=&mode=place&zip=&place_id=58075&cty_id=&ll=&a=&ea=&order=r |title=MLA Data Center results for Pompano Beach Highlands, FL |publisher=[[Modern Language Association]] |access-date=October 22, 2007}}</ref>
+*[[Collier Manor-Cresthaven, Florida|Collier Manor-Cresthaven]] had speakers of English as their first language at 72.54%, Spanish at 16.92%, French Creole (Haitian Creole) 6.88%, French at 1.40%, Italian at 1.12%, and Portuguese at 1.12% of residents.<ref>{{cite web |url=http://www.mla.org/map_data_results&state_id=12&county_id=&mode=place&zip=&place_id=13625&cty_id=&ll=&a=&ea=&order=r |title=MLA Data Center results for Collier Manor-Cresthaven, FL |publisher=[[Modern Language Association]] |access-date=October 22, 2007}}</ref>
+*[[Leisureville, Florida|Leisureville]]: As of 2000, speakers of English as a first language accounted for 86.24% of all residents, while speakers of French Creole accounted for 10.05%, and speakers of German as a mother tongue made up 3.70% of the population.<ref>{{cite web |url=http://www.mla.org/map_data_results&SRVY_YEAR=2000&geo=&state_id=12&county_id=&mode=place&lang_id=&zip=&place_id=39957&cty_id=&region_id=&division_id=&ll=&a=&ea=&order=a&pc=1|title=MLA Data Center results for Leisureville, FL |publisher=[[Modern Language Association]] |access-date=April 9, 2011}}</ref>
+
+==Education==
+Although there are about 17 post-secondary schools within {{Convert|10|mi|km}} of downtown Pompano Beach, the majority of these are for-profit schools or schools that specialize in a specific field. Students may prefer postsecondary schools that offer programs in a wider variety of disciplines, especially if a student has yet to settle on a specific field of study. Pompano Beach is also the registered office for Augustine Graduate School, a post-secondary school, named for the North African theologian, philosopher, educator, and scholar Augustine, the graduate school offers graduate programs in the areas of psychology, philosophy, theology, education, and business; additionally the graduate school offers graduate certificates in various areas.
+
+[[Broward County Public Schools]] operates public K–12 schools.<ref>{{cite web|url=http://pompanobeachfl.gov/assets/docs/pages/planning_zoning/zoning_map.pdf|title=Zoning Map|publisher=Pompano Beach, Florida|access-date=May 9, 2020}} – Use this map to compare the city limits to the school attendance boundaries.</ref>
+
+'''Elementary schools'''
+* Pompano Beach Elementary School<ref>{{cite web|url=https://www.browardschools.com/cms/lib/FL01803656/Centricity/domain/13425/maps/school%20boundary%20maps/2019-20/elementary/PompanoBeachElementary.pdf|title=Pompano Beach Elementary School|publisher=[[Broward County Public Schools]]|access-date=May 9, 2020}}</ref>
+* C. Robert Markham Elementary
+* Cresthaven Elementary
+* Cypress Elementary
+* Drew Charles Elementary
+* McNab Elementary
+* Norcrest Elementary
+* Palmview Elementary
+* Sanders Park Elementary
+
+'''Middle schools'''
+* Pompano Beach Middle School<ref>{{cite web|url=https://www.browardschools.com/cms/lib/FL01803656/Centricity/domain/13425/maps/school%20boundary%20maps/2019-20/middle/PompanoBeachMiddle.pdf|title=Pompano Beach Middle School|publisher=[[Broward County Public Schools]]|access-date=May 9, 2020}}</ref>
+* Crystal Lake Middle School<ref>{{cite web|url=https://www.browardschools.com/cms/lib/FL01803656/Centricity/domain/13425/maps/school%20boundary%20maps/2019-20/middle/CrystalLakeMiddle.pdf|title=Crystal Lake Middle School|publisher=[[Broward County Public Schools]]|access-date=May 9, 2020}}</ref>
+
+'''High schools'''
+* [[Blanche Ely High School]]<ref>{{cite web|url=https://www.browardschools.com/cms/lib/FL01803656/Centricity/domain/13425/maps/school%20boundary%20maps/2019-20/high/ElyBlancheHigh.pdf|title=Blanche Ely High School|publisher=[[Broward County Public Schools]]|access-date=May 9, 2020}}</ref>
+* [[Pompano Beach High School]] (magnet for northern Broward County)<ref>{{cite web|url=https://www.browardschools.com/cms/lib/FL01803656/Centricity/domain/13425/maps/school%20boundary%20maps/2019-20/high/PompanoBeachHigh.pdf|title=Pompano Beach High School|publisher=[[Broward County Public Schools]]|access-date=May 9, 2020}}</ref>
+* Schools outside of the Pompano Beach city limits: [[Coconut Creek High School|Coconut Creek HS]] ([[Coconut Creek, Florida|Coconut Creek]])<ref>{{cite web|url=https://www.browardschools.com/cms/lib/FL01803656/Centricity/domain/13425/maps/school%20boundary%20maps/2019-20/high/CoconutCreekHigh.pdf|title=Coconut Creek High School|publisher=[[Broward County Public Schools]]|access-date=May 9, 2020}} – Compare to the zoning map.</ref> [[Deerfield Beach High School|Deerfield Beach HS]] ([[Deerfield Beach, Florida|Deerfield Beach]]),<ref>"[https://www.browardschools.com/cms/lib/FL01803656/Centricity/domain/13425/maps/school%20boundary%20maps/2018-19/high/DeerfieldBeachHigh.pdf Deerfield Beach High]." [[Broward County Public Schools]]. Retrieved on September 23, 2018.</ref> and [[Monarch High School (Florida)|Monarch HS]] (Coconut Creek)<ref>{{cite web|url=https://www.browardschools.com/cms/lib/FL01803656/Centricity/domain/13425/maps/school%20boundary%20maps/2019-20/high/MonarchHigh.pdf|title=Monarch High School|publisher=[[Broward County Public Schools]]|access-date=May 9, 2020}} – Compare to the zoning map.</ref>
+
+The [[Roman Catholic Archdiocese of Miami]] operates the Saint Coleman [[K–8 school]] in Pompano Beach; it opened on September 9, 1958.<ref>{{cite web|url=https://www.stcoleman.org/about/history|title=History|publisher=St. Coleman School|access-date=May 10, 2020|quote=2250 SE 12th Street, Pompano Beach, FL 33062}}</ref> The archdiocese formerly operated the St. Elizabeth of Hungary School.<ref>{{cite web|url=http://www.miamiarch.org/ministry/schools/schoolsdetail.cfm?s_id=17|archive-url=https://web.archive.org/web/20031230165603/http://www.miamiarch.org/ministry/schools/schoolsdetail.cfm?s_id=17|url-status=dead|archive-date=December 30, 2003|title=Saint Elizabeth of Hungary|publisher=[[Roman Catholic Archdiocese of Miami]]|date=December 30, 2003|access-date=May 9, 2020|quote=901 NE 33rd Street Pompano Beach, Florida 33064}}</ref> The church attempted to resolve its debt to the archdiocese by loaning $2.13 million from [[Bank of America]], and the school had $337,000 in debt in 2009, and it ballooned to $1.3 million of debt in the 2009–2010 school year. It closed on June 15, 2010.<ref>{{cite web|author=Dellagloria, Rebecca|url=https://www.sun-sentinel.com/news/fl-xpm-2010-04-01-fl-pbf-catholic-0401-20100401-story.html|title=Catholic school's impending closure saddens parents, parish|newspaper=[[South Florida Sun Sentinel]]|date=April 1, 2020|access-date=May 10, 2020}}</ref>
+
+==Economy==
+In recent years, an effort to rejuvenate [[urban decay|rundown areas]] near the city's beach has gained momentum and has stimulated a multibillion-dollar building boom. Community redevelopment agencies were established for the East Atlantic/Beach corridor, as well as for the old downtown and Hammondville/Martin Luther King Jr. corridor.<ref name="cityhistsoc" />
+
+Companies based in Pompano Beach include [[Associated Grocers of Florida]]. Nonprofits include [[Cross International]].
+
+===Largest employers===
+According to the city's 2011 Comprehensive Annual Financial Report,<ref>{{cite web|url=http://pompanobeachfl.gov/pages/department_directory/finance_department/finance/pdfs/CAFR_2012.pdf|title=City of Pompano Beach 2012 Comprehensive Annual Financial Report|url-status=dead|archive-url=https://web.archive.org/web/20140701204916/http://pompanobeachfl.gov/pages/department_directory/finance_department/finance/pdfs/CAFR_2012.pdf|archive-date=July 1, 2014}}</ref> the largest employers in the city are:
+
+{| class="wikitable"
+|-
+! #
+! Employer
+! # of Employees
+|-
+| 1
+|[[Pompano Park]]
+|1,100
+|-
+|2
+|City of Pompano Beach
+|712
+|-
+|3
+|[[Broward County Sheriff's Office]]
+|700
+|-
+|4
+|[[Walmart]]
+|687
+|-
+|5
+|[[Publix]]
+|655
+|-
+|6
+|[[Aetna]] Rx Home Delivery
+|490
+|-
+|7
+|Point Blank Solutions
+|400
+|-
+|8
+|[[Associated Grocers of Florida]]
+|300
+|-
+|9
+|Pompano Masonry 
+|300
+|-
+|10
+|[[FreshPoint]]
+|284
+|}
+
+==Arts and culture==
+===Annual cultural events===
+Pompano Beach holds several annual cultural events including the Pompano Beach Seafood Festival, St. Patrick's Irish Festival, St. Coleman's Italian Festival, the Pompano Beach Holiday Boat Parade, The Holiday Yuletide Parade, The Annual Nautical Flea Market at Pompano Community Park & Amphitheater, and The Annual Blues and Sweet Potato Pie "Juneteenth" Festival.<ref name="pompanobeachfl.gov" />
+
+===Museums and other points of interest===
+The [[Kester Cottages]] (the Pompano Beach Historical Museum), Blanche Ely House Museum, Meridian Gallery, The Historic Ali Cultural Arts Center, Bailey Contemporary Arts, and Pompano Beach Art Gallery are located in the city. Two theatres in the area include Curtain Call Playhouse and Poet Productions.<ref name="pompanobeachfl.gov" /> There are two malls in Pompano Beach. The first is [[Festival Flea Market Mall]], which houses booths and kiosks selling jewelry, electronics, and clothing. The other, [[Pompano Citi Centre]], is an open-air mall.
+
+==Sports==
+Pompano Beach Municipal Golf Course has two 18-hole courses, the Palms, and the Pines, which opened in 2013.<ref>{{Cite web|url=https://gngcd.com/pompano-beach/|title = Pompano Beach Municipal Golf Course}}</ref><ref>{{Cite web|url=https://parks.pompanobeachfl.gov/golf#|title=Golf Course - Pompano Beach Parks|website=Parks.pompanobeachfl.gov|access-date=September 23, 2022}}</ref>
+
+==Parks and recreation==
+Parks include Pompano Beach Community Park, Kester Park, Cresthaven Park, Harbors Edge Park, and Scott Meyers Memorial Park.{{citation needed|date=March 2021}} Fern Forest Nature Center is just across the Coconut Creek city boundary.<ref>{{cite web |title=201 S Lyons Rd Coconut Creek FL 33068 Parcel 494205000041 |url=https://gisweb-adapters.bcpa.net/bcpawebmap_ex/bcpawebmap.aspx#494205000041&isList=1 |website=BCPA Web Map |publisher=Broward County Property Appraiser, Broward County, FL |access-date=22 May 2021}}</ref><ref>{{cite web |title=Fern Forest Nature Center |url=https://www.broward.org/Parks/Pages/park.aspx?park=14 |website=Broward.org/Parks |publisher=Broward County Government, Broward County, FL |access-date=22 May 2021}}</ref>
+
+Pompano Beach Community Park features an aquatic center, [[pickleball]] courts, basketball courts, soccer fields, jogging paths, and baseball fields. Prior to 2008, this park was the location of the [[Pompano Beach Municipal Stadium]], which served as the spring training camp for the [[Texas Rangers (baseball)#Washington Senators (1961–1971)|Washington Senators]] from 1961 to 1971 and the [[Texas Rangers (baseball)|Texas Rangers]] from 1972 through 1986.<ref>{{Cite web|url=https://parks.pompanobeachfl.gov/tennis|title=Tennis Center - Pompano Beach Parks|website=Parks.pompanobeachfl.gov|access-date=September 23, 2022}}</ref><ref>{{Cite web|url=http://wikimapia.org/#lang=en&lat=26.239994&lon=-80.107659&z=17&m=w|title=Wikimapia - Let's describe the whole world!|website=Wikimapia.org|access-date=September 23, 2022}}</ref><ref>{{Cite web|url=https://www.digitalballparks.com/Florida/Pompano.html|title=Municipal Stadium - Pompano Beach Florida - Former Spring Home of the Texas Rangers|website=Digitalballparks.com|access-date=September 23, 2022}}</ref>
+
+==Government==
+In 2004, [[John Rayson]] became the first elected mayor of Pompano Beach. Prior mayors had been selected by city commissioners from among themselves. The vice mayor continues to be selected by city commissioners from among themselves. At the federal level, Pompano Beach is located in [[Florida's 20th congressional district]], which is represented by [[Democratic Party (United States)|Democrat]] [[Sheila Cherfilus-McCormick]]. The current Mayor [[At-large|at Large]] is Rex Hardin.<ref>{{Cite web|url=https://pompanobeachfl.gov/pages/commission_mayor|title = Mayor at Large}}</ref>
+
+==Media==
+Pompano Beach is a part of the Miami–[[Fort Lauderdale, Florida|Fort Lauderdale]]–[[Hollywood, Florida|Hollywood]] media market, which is the twelfth-largest radio market<ref>{{cite web |url=http://www.mediainfocenter.org/compare/top50/#radio |title=Top 50 Radio Markets Ranked By Metro 12+ Population, Spring 2005 |publisher=Northwestern University Media Management Center |access-date=September 24, 2007 |archive-url=https://web.archive.org/web/20070807070323/http://www.mediainfocenter.org/compare/top50/#radio |archive-date=August 7, 2007}}</ref> and the seventeenth-largest television market<ref>{{cite web |url=http://www.mediainfocenter.org/compare/top50/#tv |title=Top 50 TV markets ranked by households |publisher=Northwestern University Media Management Center |access-date=September 24, 2007 |archive-url=https://web.archive.org/web/20070807070323/http://www.mediainfocenter.org/compare/top50/#tv |archive-date=August 7, 2007}}</ref> in the United States. Its primary daily newspapers are the ''[[South Florida Sun-Sentinel]]'' and ''[[The Miami Herald]]'', and their Spanish-language counterparts ''[[El Sentinel del Sur de la Florida|El Sentinel]]'' and ''[[El Nuevo Herald]]''. Local Pompano-based media includes ''The Pompano Pelican'', the longtime local weekly newspaper; the Deerfield-Pompano Beach Forum, published by the Sun-Sentinel Company; ''Pompano Post Community Newspaper'' and PompanoFun.com, a website focusing on local entertainment and events; and television program ''Today in Pompano''.<ref>{{cite web|title=New website part of greater tourism efforts|url=http://blogs.trb.com/community/news/pompano_beach/forum/ |website=Pompano Beach Forum |date=July 27, 2010 |access-date=October 3, 2013}}</ref>
+
+==Infrastructure==
+[[File:Pompano.jpg|thumb|Pompano Beach apartments and hotels seen from [[Atlantic Boulevard (Broward County)|Atlantic Boulevard]]]]
+
+===Transportation===
+The [[South Florida Regional Transportation Authority]] has its headquarters in Pompano Beach,<ref>"[http://www.sfrta.fl.gov/contactus.html Contact Us] {{webarchive|url=https://web.archive.org/web/20110902084206/http://www.sfrta.fl.gov/contactus.html |date=2011-09-02}}." [[South Florida Regional Transportation Authority]]. Retrieved on September 14, 2011. "800 NW 33rd Street, Suite 100 Pompano Beach, Florida 33064"</ref> located next to the [[Pompano Beach (Tri-Rail station)|Pompano Beach]] [[Tri-Rail]] station.
+
+In addition to Tri-Rail, Pompano Beach is also served by several bus routes operated by [[Broward County Transit]]. Two major transfer points are the Northeast Transit Center and Pompano Citi Centre.<ref>{{cite web|url=http://www.broward.org/BCT/Documents/SystemMap.pdf |title=Broward County Transit System Map |date=July 1, 2019 |access-date=August 17, 2019}}</ref>
+
+==Notable people==
+[[File:Mark Gilbert, official State Department photo portrait.jpg|thumb|180px|[[Mark Gilbert]]]]
+[[File:Harry Newman.png|thumb|180px|[[Harry Newman (American football)|Harry Newman]]]]
+[[File:JordanPundik2010promo.jpg|thumb|180px|[[Jordan Pundik]]]]
+* [[Jahseh Onfroy]] (1998–2018), better known as [[XXXTentacion]], rapper who died June 18, 2018, in [[Deerfield Beach, Florida]]
+* [[Kodak Black]] (born 1997), rapper<ref name="Local 10">{{cite web |title=Dieuson Octave |publisher=Local 10.com |url=http://mugshots.local10.com/broward/dieuson-octave/131475 |access-date=December 7, 2015 |archive-url=https://web.archive.org/web/20170309224813/http://mugshots.local10.com/broward/dieuson-octave/131475 |archive-date=March 9, 2017 |url-status=dead}}</ref>
+* [[Leroy Brown (wrestler)|Roland "Bad Bad Leroy Brown" Daniels]] (1950–1988), professional wrestler
+* [[Tyrone Carter]] (born 1976), professional football player, [[Pittsburgh Steelers]]<ref>{{cite web|title=Tyrone Carter|url=https://www.pro-football-reference.com/players/C/CartTy20.htm|publisher=Pro-Football-Reference.com|access-date=June 28, 2014}}</ref>
+* [[Henri Crockett]] (born 1974), professional football player, [[Atlanta Falcons]]<ref>{{cite web|title=Henri Crockett|url=https://www.pro-football-reference.com/players/C/CrocHe20.htm|publisher=Pro-Football-Reference.com|access-date=June 28, 2014}}</ref>
+* [[Zack Crockett]] (born 1972), professional football player, [[Oakland Raiders]]<ref>{{cite web|title=Zack Crockett|url=https://www.pro-football-reference.com/players/C/CrocZa00.htm|publisher=Pro-Football-Reference.com|access-date=June 28, 2014}}</ref>
+* [[Anthony F. DePalma]] (1904–2005), orthopedic surgeon and professor, moved to Pompano Beach in 1976 and retired there
+* [[Blanche General Ely and Joseph A. Ely]] (1903–1994), school founders and principals; see [[Ely Educational Museum]]
+* [[Further Seems Forever]], [[emo]] band
+* [[Mark Gilbert]] (born 1956), Major League Baseball player, and US Ambassador to New Zealand
+* [[Al Goldstein]] (1936–2013), pornographer and former publisher of ''[[Screw magazine|Screw]]'' magazine<ref>{{cite web|url=http://www.browardpalmbeach.com/news/screwed-6324276|title=Screwed|first=Bob|last=Whitby|date=February 22, 2001|access-date=July 1, 2016}}</ref>
+* [[Kelsey Grammer]] (born 1955), actor in the NBC sitcoms ''[[Cheers]]'' and ''[[Frasier]]''<ref>{{cite web|url=http://www.people.com/people/archive/article/0,,20110754,00.html|title=Cheers and Tears : People.com|access-date=July 1, 2016}}</ref>
+* [[Paolo Gregoletto]] (born 1985), bass player in metal band [[Trivium (band)|Trivium]]<ref>{{Cite news|url=http://loudwire.com/trivium-paolo-gregoletto-all-the-remains-phil-labonte-twitter-beef/|title=Paolo Gregoletto + Phil Labonte Engage in Online Beef|last=Childers|first=Chad|website=Loudwire|language=en|access-date=February 22, 2019}}</ref>
+* [[Al Harris (cornerback)|Al Harris]] (born 1974), professional football player, [[Green Bay Packers]]<ref>{{cite web|title=Al Harris|url=https://www.pro-football-reference.com/players/H/HarrAl21.htm|publisher=Pro-Football-Reference.com|access-date=June 28, 2014}}</ref>
+* [[Lamar Jackson]] (born 1997), Heisman winner, NFL MVP, football quarterback for the [[Baltimore Ravens]]
+* [[Ingemar Johansson]] (1932–2009), former world heavyweight boxing champion
+* [[Eddie Jones (basketball)|Eddie Jones]] (born 1971), professional basketball player, [[Dallas Mavericks]]<ref>{{cite web|title=Eddie Jones|url=https://www.basketball-reference.com/players/j/jonesed02.html|publisher=Pro-Basketball Reference.com|access-date=June 28, 2014}}</ref>
+* [[Barry Krauss]] (born 1957), professional football player, [[Miami Dolphins]]<ref>{{cite web|title=Barry Krauss|url=https://www.pro-football-reference.com/players/K/KrauBa21.htm|publisher=Pro-Football-Reference.com|access-date=June 28, 2014}}</ref>
+* [[Jerome McDougle]] (born 1978), professional football player, [[Philadelphia Eagles]]<ref>{{cite web|title=Jerome McDougle|url=https://www.pro-football-reference.com/players/M/McDoJe20.htm|publisher=Pro-Football-Reference.com|access-date=June 28, 2014}}</ref>
+* [[Stockar McDougle]] (born 1977), professional football player [[Jacksonville Jaguars]]
+* [[Harry Newman (American football)|Harry Newman]] (1909–2000), All-Pro football quarterback
+* [[Richard Thomas Nolan]] (born 1937), writer, [[Episcopal Church (United States)|Episcopal Church]] [[canon (priest)|canon]], retired philosophy and religion professor
+* [[Dan Nugent]] (1953–2001), professional football player, [[Washington Redskins]]<ref>{{cite web|title=Dan Nugent|url=https://www.pro-football-reference.com/players/N/NugeDa20.htm|publisher=Pro-Football-Reference.com|access-date=June 28, 2014}}</ref>
+* [[Patrick Peterson]] (born 1990), professional football player, [[Arizona Cardinals]]<ref>{{cite web|title=Patrick Peterson|url=https://www.pro-football-reference.com/players/P/PetePa00.htm|publisher=Pro-Football-Reference.com|access-date=June 28, 2014}}</ref>
+* [[Jason Pierre-Paul]] (born 1989), professional football player, [[New York Giants]]<ref>{{cite web|title=Jason Pierre-Paul|url=https://www.pro-football-reference.com/players/P/PierJa99.htm|publisher=v|access-date=June 28, 2014}}</ref>
+* [[Jabari Price]] (born 1992), professional football player, [[Minnesota Vikings]]<ref>{{cite web|title=Jabari Price|url=https://www.pro-football-reference.com/players/P/PricJa00.htm|publisher=v|access-date=December 17, 2015}}</ref>
+* [[Jordan Pundik]] (born 1972), vocalist in pop-punk band [[New Found Glory]]{{Citation needed|date=November 2009}}
+* [[Jake Roberts|Jake "The Snake" Roberts]] (born 1955), professional wrestler, retired [[World Wrestling Entertainment|WWE]]{{citation needed|date=June 2014}}
+* [[Rashard Robinson]] (born 1995), professional football player, [[New York Jets]]<ref>{{Cite web|url=https://www.pro-football-reference.com/players/R/RobiRa00.htm|title=Rashard Robinson Stats|website=Pro-Football-Reference.com}}</ref>
+* [[Esther Rolle]] (1920–1998), actress, from television's ''[[Good Times]]'' and ''[[Maude (TV series)|Maude]]''{{citation needed|date=June 2014}}
+* [[Clint Session]] (born 1984), professional football player, [[Indianapolis Colts]]<ref>{{cite web|title=Clint Session|url=https://www.pro-football-reference.com/players/S/SessCl99.htm|publisher=Pro-Football-Reference.com|access-date=June 28, 2014}}</ref>
+* [[Corey Simon]] (1977), professional football player, Indianapolis Colts<ref>{{cite web|title=Corey Simon|url=https://www.pro-football-reference.com/players/S/SimoCo00.htm|publisher=Pro-Football-Reference.com|access-date=June 28, 2014}}</ref>
+*[[Andrew Smith (basketball, born 1992)|Andrew Smith]] (born 1992), American-Latvian basketball player in the [[Israeli Basketball Premier League]]
+* [[Harold Solomon]] (born 1952), tennis player ranked No. 5 in the world in 1980
+* [[Brett Swenson]] (born 1988), professional football player, Indianapolis Colts<ref>{{cite web|title=Brett Swenson|url=http://www.msuspartans.com/sports/m-footbl/mtt/swenson_brett00.html|publisher=msuspartans.com|access-date=June 28, 2014|archive-date=January 19, 2010|archive-url=https://web.archive.org/web/20100119002007/http://www.msuspartans.com/sports/m-footbl/mtt/swenson_brett00.html|url-status=dead}}</ref>
+* [[Natalie Vértiz]] (born 1991), [[Peruvian American]] beauty pageant titleholder who represented Peru at [[Miss Universe 2011]]
+* [[Fahreta Živojinović]] (born 1960), better known as Lepa Brana, [[Bosniaks|Bosniak]] and [[Yugoslavs|Yugoslavian]] pop-folk singer
+
+==Sister cities==
+Pompano Beach's [[sister cities]] are:<ref>{{cite web|title=Sister Cities|url=https://pompanobeachfl.gov/pages/sister_city/sister_city|website=pompanobeachfl.gov|publisher=City of Pompano Beach|access-date=November 18, 2020|archive-date=November 24, 2020|archive-url=https://web.archive.org/web/20201124002316/https://pompanobeachfl.gov/pages/sister_city/sister_city|url-status=dead}}</ref>
+* [[Itajaí]], [[Brazil]]
+* [[San Clemente del Tuyú]], [[Argentina]]
+* [[Termoli]], [[Italy]]
+
+==See also==
+{{Portal|Florida|Cities}}
+* [[Merritt Boat & Engine Works]]
+* [[Kester Cottages]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite web|title=Pompano Beach History|author=Pompano Beach Historical Society|access-date=January 15, 2019|url=http://www.pompanohistory.com/our_history}}
+
+==External links==
+* {{Commons category-inline}}
+* [http://www.pompanobeachfl.gov/ City of Pompano Beach] official site
+* [http://www.pompanobeachchamber.com/ Pompano Beach Chamber of Commerce]
+* [http://www.pompanohistory.com/phc/ Pompano Beach Historical Society] {{Webarchive|url=https://web.archive.org/web/20100613120607/http://www.pompanohistory.com/phc/ |date=June 13, 2010 }}
+* [http://www.city-data.com/city/Pompano-Beach-Florida.html City-Data.com]—Comprehensive Statistical Data and more about Pompano Beach
+
+{{Pompano Beach, Florida}}
+{{Broward County, Florida}}
+{{Miami metropolitan area}}
+{{Greater Miami}}
+{{Geography of Florida}}
+
+{{authority control}}
+
+[[Category:Pompano Beach, Florida| ]]
+[[Category:Beaches of Broward County, Florida]]
+[[Category:Cities in Broward County, Florida]]
+[[Category:Cities in Florida]]
+[[Category:Italian-American culture in Florida]]
+[[Category:Populated coastal places in Florida on the Atlantic Ocean]]
+[[Category:Seaside resorts in Florida]]
+[[Category:Beaches of Florida]]
+[[Category:1908 establishments in Florida]]

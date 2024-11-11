@@ -1,0 +1,385 @@
+{{Short description|Municipality in Pampanga, Philippines}}
+{{Other uses}}
+{{Infobox settlement
+| name               = {{PH wikidata|name}}
+| image_skyline      = 8122Balubad, Porac, Pampanga 06.jpg
+| image_caption      = Balubad, Porac
+| image_flag         = Flag_of_Porac,_Pampanga.png
+| flag_size          = 120x80px
+| image_seal         = Porac.png
+| seal_size          = 100
+| image_map          = {{PH wikidata|image_map}}
+| map_caption        = {{PH wikidata|map_caption}}
+| image_map1         = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map        = Philippines
+| pushpin_label_position = left
+| pushpin_map_caption = Location within the {{PH wikidata|country}}
+| coordinates        = {{PH wikidata|coordinates}}
+| settlement_type    = {{PH wikidata|settlement_type}}
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = [[Philippines]]
+| subdivision_type1  = [[Regions of the Philippines|Region]]
+| subdivision_name1  = {{PH wikidata|region}}
+| subdivision_type2  = [[Provinces of the Philippines|Province]]
+| subdivision_name2  = {{PH wikidata|province}}
+| official_name      = {{PH wikidata|official_name}}
+| etymology          = <!--origin of name-->
+| named_for          = <!--named after (if person or place)-->
+| native_name        = 
+| other_name         = 
+| nickname           = 
+| motto              = 
+| anthem             = 
+| subdivision_type3  = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3  = {{PH legislative district}}
+| established_title  = [[Date of establishment|Founded]]
+| established_date   = October 31, 1594<ref>{{Cite web|url=https://www.sunstar.com.ph/article/1772002|title=Porac town celebrates 424th founding anniversary|website=[[SunStar]] |date=November 2018}}</ref>
+| parts_type         = [[Barangay]]s
+| parts_style        = para
+| p1                 = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title       = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name        = Jaime "Jing" V. Capil{{efn|name=sus|Suspended until April 7, 2025<ref name="acting">{{cite news|last=Benjamin|first=Pulta|title=Ombudsman suspends Porac town execs over operations of Lucky 99 POGO|url=https://www.pna.gov.ph/articles/1235157 |access-date=October 10, 2024|work=[[Philippine News Agency]]|publisher=[[Philippine News Agency]]|date=October 9, 2024}}</ref>}}<br />Myla C. Clarete{{efn|Acting until April 7, 2025}}
+| leader_title1      = [[Vice Mayor]]
+| leader_name1       = Francis Laurence C. Tamayo{{efn|name=sus}}
+| leader_title2      = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2       = [[Gloria Macapagal Arroyo]]
+| leader_title3      = [[Councilors]]
+| leader_name3       = {{Collapsible list
+| title       = List
+| frame_style = border:none; padding: 0;
+| list_style  = text-align:left;display:none;
+ |1= Michelle C. Bengco{{efn|name=sus}}
+ |2= Rohner L. Buan{{efn|name=sus}}
+ |3= Adrian R. Carreon{{efn|name=sus}}
+ |4= Hilario d.C Dimalanta{{efn|name=sus}}
+ |5= John Nuevy L. Venzon{{efn|name=sus}}
+ |6= Essel Joy C. David{{efn|name=sus}}
+ |7= Rafael M. Canlapan{{efn|name=sus}}
+ |8= }}
+| leader_title4      = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4       = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type    = {{PH wikidata|government_type}}
+| government_footnotes = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m        = {{PH wikidata|elevation_m}}
+| elevation_max_m    = 1583
+| elevation_min_m    = 36
+| elevation_max_rank = 
+| elevation_min_rank = 
+| elevation_footnotes = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes = 
+| elevation_min_footnotes = 
+| area_rank          = 
+| area_footnotes     = {{PH area}}
+| area_total_km2     = {{PH wikidata|area}}
+| population_footnotes = {{PH census|current}}
+| population_total   = {{PH wikidata|population_total}}
+| population_as_of   = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title = [[Household]]s
+| population_blank1  = {{PH wikidata|household}}
+| population_blank2_title = 
+| population_blank2  = 
+| population_demonym = 
+| population_rank    = 
+| population_note    = 
+| timezone           = [[Philippine Standard Time|PST]]
+| utc_offset         = +8
+| postal_code_type   = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code        = {{PH wikidata|postal_code}}, 2023 (portions under [[Clark Freeport and Special Economic Zone]])
+| postal2_code_type  = {{PSGCstyle}}
+| postal2_code       = {{PSGC detail}}
+| area_code_type     = {{areacodestyle}}
+| area_code          = {{PH wikidata|area_code}}
+| website            = {{PH wikidata|website}}
+| demographics_type1 = [[Economy of the Philippines|Economy]]
+| demographics1_title1 = {{PH wikidata|income_class_title}}
+| demographics1_info1 = {{PH wikidata|income_class}}
+| demographics1_title2 = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2 = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3 = [[Revenue]]
+| demographics1_info3 = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4 = Revenue rank
+| demographics1_info4 = 
+| demographics1_title5 = [[Asset]]s
+| demographics1_info5 = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6 = Assets rank
+| demographics1_info6 = 
+| demographics1_title7 = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7 = 
+| demographics1_title8 = IRA rank
+| demographics1_info8 = 
+| demographics1_title9 = [[Expenditure]]
+| demographics1_info9 = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10 = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10 = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2 = Service provider
+| demographics2_title1 = Electricity
+| demographics2_info1 = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2 = Water
+| demographics2_info2 = 
+| demographics2_title3 = Telecommunications
+| demographics2_info3 = 
+| demographics2_title4 = Cable TV
+| demographics2_info4 = 
+| demographics2_title5 = 
+| demographics2_info5 = 
+| demographics2_title6 = 
+| demographics2_info6 = 
+| demographics2_title7 = 
+| demographics2_info7 = 
+| demographics2_title8 = 
+| demographics2_info8 = 
+| demographics2_title9 = 
+| demographics2_info9 = 
+| demographics2_title10 = 
+| demographics2_info10 = 
+| blank_name_sec1    = {{PH wikidata|climate_title}}
+| blank_info_sec1    = {{PH wikidata|climate_type}}
+| blank1_name_sec1   = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1   = Kapampangan<br />Tagalog
+| blank2_name_sec1   = [[Crime index]]
+| blank2_info_sec1   = 
+| blank3_name_sec1   = 
+| blank3_info_sec1   = 
+| blank4_name_sec1   = 
+| blank4_info_sec1   = 
+| blank5_name_sec1   = 
+| blank5_info_sec1   = 
+| blank6_name_sec1   = 
+| blank6_info_sec1   = 
+| blank7_name_sec1   = 
+| blank7_info_sec1   = 
+| blank1_name_sec2   = Major religions
+| blank1_info_sec2   = 
+| blank2_name_sec2   = Feast date
+| blank2_info_sec2   = 
+| blank3_name_sec2   = Catholic diocese
+| blank3_info_sec2   = 
+| blank4_name_sec2   = Patron saint
+| blank4_info_sec2   = 
+| blank5_name_sec2   = 
+| blank5_info_sec2   = 
+| blank6_name_sec2   = 
+| blank6_info_sec2   = 
+| blank7_name_sec2   = 
+| blank7_info_sec2   = 
+| short_description  = 
+| footnotes          = 
+}}
+
+'''Porac''', officially the '''Municipality of Porac''' ({{lang-pam|Balen ning Porac}}; {{lang-fil|Bayan ng Porac}}), is a 1st class [[municipality of the Philippines|municipality]] in the [[Philippine Province|province]] of [[Pampanga]], [[Philippines]]. According to the 2020 census, it has a population of 140,751 people.{{PH census|current}}
+
+The [[Subic–Clark–Tarlac Expressway]] (SCTEx) traverses this town, the exit of which is located in Barangay Manuali.
+
+With an area of {{convert|31400|ha}}, Porac is the largest town in Pampanga. It was once among the largest municipalities in the archipelago before it was divided into separate municipalities.
+
+==History==
+Porac was founded on October 31, 1594, upon acceptance by Fray Mateo Peralta in the Friar's Intermediate Chapter (recorded by Fray Gaspar de San Agustin, by saying Porac has its First Minister and Friar, Fray Mateo de Mendoza.
+
+The General Headquarters and Military Camp Base of the [[Philippine Commonwealth Army]] and [[Philippine Constabulary]] was stationed in Porac from 1942 to 1946 and the local military operates against the Imperial Japanese military and local collaborators from 1942 to 1945. The [[Mexican Expeditionary Air Force]] were given a base around Porac to help liberate the country from the [[Japanese Empire]] in [[World War II]].<ref>{{cite web |url=http://municipalityofporac.com/hop.html |title=History of Porac |access-date=2012-11-05 |url-status=dead |archive-url=https://web.archive.org/web/20130425050120/http://municipalityofporac.com/hop.html |archive-date=2013-04-25 }}</ref>
+
+==Geography==
+Porac is {{convert|91|km}} from [[Manila]] and  {{convert|25|km}} from the provincial capital [[San Fernando, Pampanga|San Fernando]]. It is south of [[Angeles City]] and north of [[Floridablanca, Pampanga|Floridablanca]]. A portion of [[Mount Pinatubo]] is in the municipality.
+
+Porac has a hilly to mountainous terrain in the majority of its plains. Most rivers, if not all, are heavily silted by mudflow due to the eruption of Mount Pinatubo and succeeding lahar flows. Tourist spots include Darabulbul Falls (nicknamed Dara Falls) in Jalung, Miyamit Falls in Sapang Uwak, and the hot springs of Sitio Puning, accessed through Sapang Bato in Angeles. Babo Pangulo offers a view of Porac and Mount Negron.
+
+===Barangays===
+Porac is politically subdivided into 29 [[barangay]]s. Each barangay consists of [[purok]]s and some have [[sitios]].
+
+{{Div col|colwidth=15em}}
+* Babo Pangulo
+* Babo Sacan (Guanson)
+* Balubad
+* Calzadang Bayu
+* Camias
+* Cangatba
+* Diaz
+* Dolores (Hacienda Dolores)
+* Inararo (Aetas)
+* Jalung
+* Mancatian
+* Manibaug Libutad
+* Manibaug Paralaya
+* Manibaug Pasig
+* Manuali
+* Mitla Proper
+* Palat
+* Pias
+* Pio
+* Planas
+* [[Poblacion]]
+* Pulung Santol
+* Salu
+* San Jose Mitla
+* Santa Cruz
+* Sapang Uwak (Aetas)
+* Sepung Bulaun (Baidbid)
+* Siñura (Seniora)
+* Villa Maria (Aetas)
+{{div col end}}
+
+===Climate===
+{{Weather box
+| location     = Porac, Pampanga
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 30
+| Jan low C  = 19
+| Feb high C = 31
+| Feb low C  = 20
+| Mar high C = 33
+| Mar low C  = 21
+| Apr high C = 34
+| Apr low C  = 23
+| May high C = 33
+| May low C  = 25
+| Jun high C = 31
+| Jun low C  = 25
+| Jul high C = 29
+| Jul low C  = 25
+| Aug high C = 29
+| Aug low C  = 25
+| Sep high C = 29
+| Sep low C  = 24
+| Oct high C = 30
+| Oct low C  = 23
+| Nov high C = 31
+| Nov low C  = 22
+| Dec high C = 30
+| Dec low C  = 20
+| Jan precipitation mm = 8
+| Feb precipitation mm = 9
+| Mar precipitation mm = 15
+| Apr precipitation mm = 34
+| May precipitation mm = 138
+| Jun precipitation mm = 203
+| Jul precipitation mm = 242
+| Aug precipitation mm = 233
+| Sep precipitation mm = 201
+| Oct precipitation mm = 126
+| Nov precipitation mm = 50
+| Dec precipitation mm = 21
+| Jan rain days        = 3.7
+| Feb rain days        = 4.1
+| Mar rain days        = 6.5
+| Apr rain days        = 11.2
+| May rain days        = 21.2
+| Jun rain days        = 24.9
+| Jul rain days        = 27.7
+| Aug rain days        = 26.5
+| Sep rain days        = 25.5
+| Oct rain days        = 21.8
+| Nov rain days        = 12.6
+| Dec rain days        = 5.6
+| source 1 = Meteoblue<ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/porac_philippines_1692914
+| title =  Porac: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| access-date = 5 May 2020 }}</ref>
+| date = 5 May 2020
+}}
+
+The town of Porac has two distinct climates, rainy and dry. The rainy or wet season normally begins in May and runs through October, while the rest of the year is the dry season. The warmest period of the year occurs between March and April, while the coolest period is from December through February.{{clear-left}}
+
+==Demographics==
+{{Philippine Census
+| align = left
+| cols = 2
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2020}}{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+In the 2020 census, the population of Porac, was 140,751 people,{{PH census|current}} with a density of {{convert|{{sigfig|140,751/314.00|2}}|PD/km2|disp=or}}.
+
+{{clear-left}}
+
+== Economy ==
+{{PH poverty incidence}}
+Porac is an important source of granite and a tamping ground of minerals.<ref>{{cite web |title=Porac |url=http://eksite.com/balen/porac.html |publisher=electronic Kabalen |access-date=14 December 2012}}</ref>
+
+Porac is home to the Mekeni Food Corporation, an "AAA" Meat Processing Plant accredited with the National Meat Inspection Service (NMIS). Being classified under the "AAA" category, it is qualified to market its products, not just in the local, but in the international market as well. This means that it is compliant to all government regulatory requirements to assure food quality and safety in its operations (Sun Star, 2006).
+
+In 2014, [[Ayala Land]] and Leonio Land embarked on developing a mixed-used estate in Porac known as Alviera. The development project combines business, residential, recreational, leisure, and institutional. The local government dubbed Alviera as the regional growth center of Central Luzon.[http://www.poracpampanga.gov.ph/index.php/business/attractions/25-welcome-message-11?highlight=WyJzYW5kYm94Il0=] Now, it is a premiere tourist destination in the north, and the Philippines' hub for karting with the presence of the [[Pampanga International Circuit]].<ref>Ladaw, D. [http://lifestyle.inquirer.net/175157/risen-from-the-ashes "Risen from the ashes"], ''Inquirer'', 2014</ref>{{clear-left}}
+
+==Government==
+[[File:Poractownhalljf.JPG|thumb|right|Town hall]]
+The municipal government is divided into three branches: executive, legislative and judiciary. The judicial branch is administered solely by the [[Supreme Court of the Philippines]]. The executive branch is composed of the mayor and the barangay captains for the barangays. The legislative branch is composed of the [[Sangguniang Bayan]] (town assembly), Sangguniang Barangay (barangay council), and the [[Sangguniang Kabataan]] for the youth sector.
+
+==Spanish-era Roman Catholic churches==
+[[File:Poracpampangajfa.JPG|thumb|Façade of Santa Catalina de Alejandria Parish Church]]
+Since the founding of the town of Porac in 1867,<ref name="Porac LGU">{{cite web|title=History of Porac, Pampanga|url=http://www.poracpampanga.gov.ph/index.php/about-porac/history-of-porac|website=www.poracpampanga.gov.ph|access-date=9 November 2014}}</ref> various Roman Catholic structures have been built in the area to aid in the religious practices of the devout Kapampangans. As of writing, three notable Spanish-era religious structures are extant within the municipality. The largest of the three, the [[Santa Catalina de Alejandria Church (Porac)|Santa Catalina de Alejandria Church]] is located at Barangay Poblacion and still functions as one of Porac's main parochial structures. The other two are currently utilized as barangay chapels.
+
+===Santa Catalina de Alejandria Church===
+The [[Santa Catalina de Alejandria Church (Porac)|Santa Catalina de Alejandria parish church]] is under the jurisdiction of the [[Roman Catholic Archdiocese of San Fernando]]. Its original structure, built in 1872, is largely intact but slight revisions have been made to the inside. It underwent restoration in the 1980s. The church is {{convert|52|m}} long, {{convert|12|m}} wide and {{convert|9|m}} high.<ref>{{Cite web |url=http://pampanga.islandsphilippines.com/natural.php |title=Pampanga Religious Tourist Attractions - Pampanga Province Islands Philippines |access-date=2012-11-05 |archive-date=2013-01-03 |archive-url=https://web.archive.org/web/20130103193107/http://pampanga.islandsphilippines.com/natural.php |url-status=dead }}</ref>
+
+In the earthquake of 2019, the church belfry has been destroyed a day after Easter Sunday. Rebuilding operations are planned with call for donations to restore the church bell tower.
+
+===Pio Chapel===
+The 1861 [[Pio Chapel]] is a circular chapel built by Don Felino Gil, founder of the Escuela de Artes y Oficios (now the Don Honorio Ventura Technical State University).<ref name="Henares - Pio Chapel">{{cite web|last1=Henares|first1=Ivan|title=Pampanga: Pio Chapel and the ethics of transferring heritage structures|url=http://www.ivanhenares.com/2006/11/pio-chapel-and-ethics-of-transferring.html|website=www.ivanhenares.com|access-date=9 November 2014}}</ref>
+
+===Hacienda Dolores Chapel===
+Another vintage chapel is located at Barangay Dolores, north of the Porac town proper. The Our Lady of Sorrows Chapel was said to be built by the Dolores family within the old Hacienda Dolores in 1856.<ref name="Flickr - Dolores chapel">{{cite web|title=Dolores chapel|url=https://www.flickr.com/photos/11541098@N06/9582106406/|website=www.flickr.com|date=25 July 2013|access-date=9 November 2014}}</ref> The chapel, like the Pio chapel, is currently utilized as a community chapel. The chapel boasts of a slender octagonal belfry and Doric columns adorning the two-level façade. Notable features of the chapel are finials found on both levels of the façade.
+
+==Archaeology==
+{{main|Archaeology of Porac, Pampanga}}
+The area in and around Babo Balukbuk in Porac has strong indications of human habitation, according to investigations published on the [[University of the Philippines]] Archaeological Studies Program website. Later test excavations confirmed this conclusion through the presence of materials dated around 12th century to 17th century C.E.<ref name=UPDASPArchaeologicalSitesIntroduction>{{Harvnb|UPD ASP Website|Archaeological Sites|Introduction}}></ref>
+
+==Notable personalities==
+<!--NOTE: Only add people who have WP articles as per [[WP:Notability]].-->
+* [[Lito Lapid]] &ndash; Actor and Politician (Senator, 2019–present, 2004 – 2016 and Governor, 1995 – 2004)
+
+==Gallery==
+<gallery widths=200 heights=150>
+File:Porac78jf.JPG|Jose Songco Lapid Sports and Civic Center Gymnasium
+File:Porac679jf.JPG|Rio Grande de Pampanga
+File:Porac567jf.JPG|Public Market
+File:Porac345jf.JPG|Porac Elementary School
+</gallery>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* [https://www.philatlas.com/luzon/r03/pampanga/porac.html Porac Profile at PhilAtlas.com]
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+*[https://web.archive.org/web/20131004104825/http://census.gov.ph/ Philippine Census Information]
+*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=5&frmIdProvince=30&frmIdLgu=581 Local Governance Performance Management System]
+* {{official website|http://www.poracpampanga.gov.ph/}}
+
+{{Geographic location
+| Centre    = Porac
+| North     = [[Bamban, Tarlac]] / [[Mabalacat]] / [[Angeles City]]
+| East      = [[Bacolor]]<br />[[Santa Rita, Pampanga|Santa Rita]]
+| Southeast = [[Guagua]]
+| South     = [[Floridablanca, Pampanga|Floridablanca]]
+| Southwest = [[San Marcelino, Zambales]]
+| Northwest = [[Botolan|Botolan, Zambales]]
+}}
+{{Pampanga}}
+{{Authority control}}
+
+[[Category:Municipalities of Pampanga]]
+[[Category:Spa towns in the Philippines]]

@@ -1,0 +1,156 @@
+{{About|the geographical region of Central Hungary|the seventeenth-century principality also known by that name|Principality of Upper Hungary}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+ | official_name                  = Central Hungary
+ | native_name                    = Közép-Magyarország
+ | settlement_type                = Region
+ | image_map                      = HU NUTS 24 KM.png
+ | map_caption                    = 
+ | subdivision_type               = [[Countries of the world|Country]]
+ | subdivision_name               = {{HUN}}
+ | subdivision_type3              = Capital city
+ | subdivision_name3              = [[Budapest]]
+ | area_total_km2                 = 6391
+ | population_as_of 	          = 2021<ref>{{citation|title=Population on 1 January by age, sex and NUTS 2 region|url=https://ec.europa.eu/eurostat/databrowser/view/DEMO_R_D2JAN/default/table?lang=en}}</ref>
+ | population_total 	          = 1309802
+ | population_density_km2         = auto
+| demographics_type1       = GDP
+| demographics1_footnotes  = <ref>{{cite web | url=https://ec.europa.eu/eurostat/databrowser/view/tgs00003/default/table?lang=en | title=EU regions by GDP, Eurostat|access-date=18 September 2023}}</ref>
+|demographics1_title1     = Total
+|demographics1_info1      = €81.835 billion (2022)
+| demographics1_title2     = Per capita
+|demographics1_info2      = €27,170 (2022)
+ | timezone         	          = [[Central European Time|CET]]
+ | utc_offset 	                  = +1
+ | timezone_DST 	          = [[Central European Summer Time|CEST]]
+ | utc_offset_DST         	  = +2
+| blank_name_sec1       = [[Nomenclature of Territorial Units for Statistics|NUTS]] code
+| blank_info_sec1       = HU1, HU10
+| blank1_name_sec1      = [[Human Development Index|HDI]] (2019)
+| blank1_info_sec1      = 0.932<ref name="GlobalDataLab">{{Cite web|url=https://globaldatalab.org/shdi/shdi/HUN/?levels=1%2B4&interpolation=1&extrapolation=0&nearest_real=0&years=2019&colour_scales=national|title=Sub-national HDI - Area Database - Global Data Lab|website=hdi.globaldatalab.org|language=en|access-date=2018-09-13}}</ref><br/>{{color|#090|very high}} · [[List of Hungarian regions by Human Development Index|1st]]
+}}
+
+[[File:HU NUTS 23 KM.png|255px|thumb|Location of Central Hungary region within Hungary]]
+
+'''Central Hungary''' ({{langx|hu|Közép-Magyarország}} {{IPA-hu|ˈkøzeːp ˈmɒɟɒrorsaːɡ|pron}}) is one of the eight statistical regions in [[Hungary]] ([[Nomenclature of Territorial Units for Statistics|NUTS 1]] and NUTS 2). It includes [[{{Hungarian county name|Pest}}]] and since 2018 no longer includes [[{{Hungarian county name|Budapest}}]], the capital of the region.
+
+== Administration ==
+
+Central Hungary's subregions (population figures from the [[Hungarian Central Statistical Office]] as of 2009)
+
+=== {{Hungarian county name|Pest}} ===
+{| class="wikitable sortable" width=0%
+!Subregion!!Seat!!Area!!Population!!Number of<br/>settlements
+|-
+|Aszód||[[Aszód]]||align=right|{{convert|241.41|km2|sqmi|abbr=on}}||align=right|35,451||align=right|9
+|-
+|Budaörs||[[Budaörs]]||align=right|{{convert|240.36|km2|sqmi|abbr=on}}||align=right|85,115||align=right|10
+|-
+|Cegléd||[[Cegléd]]||align=right|{{convert|1234.00|km2|sqmi|abbr=on}}||align=right|121,149||align=right|15
+|-
+|Dabas||[[Dabas, Hungary|Dabas]]||align=right|{{convert|498.68|km2|sqmi|abbr=on}}||align=right|44,183||align=right|10
+|-
+|Dunakeszi||[[Dunakeszi]]||align=right|{{convert|125.17|km2|sqmi|abbr=on}}||align=right|79,123||align=right|4
+|-
+|Érd||[[Érd]]||align=right|{{convert|117.95|km2|sqmi|abbr=on}}||align=right|99,536||align=right|4
+|-
+|Gödöllő||[[Gödöllő]]||align=right|{{convert|380.88|km2|sqmi|abbr=on}}||align=right|104,471||align=right|12
+|-
+|Gyál||[[Gyál]]||align=right|{{convert|286.54|km2|sqmi|abbr=on}}||align=right|45,944||align=right|5
+|-
+|Monor||[[Monor]]||align=right|{{convert|449.62|km2|sqmi|abbr=on}}||align=right|110,287||align=right|15
+|-
+|Nagykáta||[[Nagykáta]]||align=right|{{convert|711.85|km2|sqmi|abbr=on}}||align=right|76,909||align=right|16
+|-
+|Pilisvörösvár||[[Pilisvörösvár]]||align=right|{{convert|245.44|km2|sqmi|abbr=on}}||align=right|66,702||align=right|14
+|-
+|Ráckeve||[[Ráckeve]]||align=right|{{convert|628.33|km2|sqmi|abbr=on}}||align=right|141,756||align=right|20
+|-
+|Szentendre||[[Szentendre]]||align=right|{{convert|326.58|km2|sqmi|abbr=on}}||align=right|77,676||align=right|13
+|-
+|Szob||[[Szob]]||align=right|{{convert|314.73|km2|sqmi|abbr=on}}||align=right|12,605||align=right|13
+|-
+|Vác||[[Vác]]||align=right|{{convert|431.81|km2|sqmi|abbr=on}}||align=right|70,558||align=right|19
+|-
+|Veresegyház||[[Veresegyház]]||align=right|{{convert|159.79|km2|sqmi|abbr=on}}||align=right|36,793||align=right|8
+|}
+
+==Demography==
+* Total population 1,325,036 (2021)<ref>{{cite book |title=Population by broad age group and NUTS 3 regions (cens_21agr3) |url= https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/cens_21agr3?format=TSV&compressed=true |publisher=EUROSTAT |access-date=31 August 2024|format=PDF |date=2021|location=Brussels}}</ref>
+** 17% aged 0–14 years
+** 65% aged 15–64 years
+** 18% aged 65 and over
+
+==Economy==
+Central Hungary is the richest and most developed region of the country. The unemployment rate stood at 2.7% in 2017 and was much lower than the national and the European average.<ref>{{Cite web|url=https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=de&pcode=tgs00010&plugin=1|title=Regional Unemployment by NUTS2 Region|website=Eurostat}}</ref>
+{| class="wikitable"
+!Year
+!2006
+!2007
+!2008
+!2009
+!2010
+!2011
+!2012
+!2013
+!2014
+!2015
+!2016
+!2017
+|-
+|'''unemployment rate'''<br/>(in %)
+|5.1% 
+|4.8%
+|4.5%
+|6.5%  
+|8.9%
+|9.0%
+|9.5%
+|8.7%
+|6.2%
+|5.3%
+|3.8%
+|2.7%
+|}
+
+==Tourism==
+Central Hungary is part of the [[Budapest Central Transdanubia Tourist Region]].
+
+===Budapest===
+
+In 1987 a [[World Heritage Site]] was declared which includes [[Buda Castle]], the [[Danube]] Riverbank, the [[Andrássy út|Andrássy Avenue]] and its historic surroundings, the [[Line 1 (Budapest Metro)|Millennium Underground Railway]] and [[Hősök tere|Heroes' Square]].
+
+Other important landmarks in [[Buda]] are the [[Gellért Hill]] and the tomb of [[Gül Baba (poet)|Gül Baba]] and [[Rudas Baths]] built during the [[Ottoman Hungary|Ottoman rule of Hungary]], ruins of [[Óbuda|Old Buda]], the Coliseum in Nagyszombat Street and the ruins of [[Aquincum]]. In the [[Buda hills|Buda Hills]] are the [[Chairlift]], the [[Children's railway]] and [[cave]]s with [[stalagmite]]s and [[stalactite]]s.
+
+The most important landmarks in [[Pest, Hungary|Pest]] are the [[Hungarian Parliament Building]], the [[St. Stephen's Basilica]], the [[Inner City (Budapest)|Inner City]] Parish Church, the [[Hungarian Academy of Sciences]], the [[Vigadó Concert Hall]], the [[Hungarian National Museum]], the [[New York Palace (Budapest)|New York Palace]] on the [[Small Boulevard (Budapest)|Small Boulevard]], the [[Dohány Street Synagogue]], the [[Grand Boulevard (Budapest)|Grand Boulevard]], and the [[Museum of Applied Arts (Budapest)|Museum of Applied Arts]].
+
+Other important displays are at the [[Museum of Fine Arts (Budapest)|Museum of Fine Arts]], the [[Hungarian National Gallery]],  the [[Ethnographic Museum (Budapest)|Ethnographic Museum]], the [[Budapest History Museum]] and [[Statue Park]].
+
+Important landmarks are Budapest's oldest bridges, such as the Széchenyi Chain Bridge, the [[Margaret Bridge]], the [[Liberty Bridge (Budapest)|Liberty Bridge]]. The biggest parks are very popular, especially the [[City Park (Budapest)|City Park]] with [[Vajdahunyad Castle]], the [[Széchenyi thermal bath]], the [[Budapest Zoo & Botanical Garden|Budapest Zoo and Botanical Garden]] and the [[Margaret Island]]. Budapest is world-famous for its hot [[spa]]s too.
+
+Budapest holds many perennial events, for example Budapest Fair, Fireworks and [[Budapest Parade]].
+
+==={{Hungarian county name|Pest}}===
+
+Places of interest in [[{{Hungarian county name|Pest}}]] are [[Gödöllő]]  (Royal Castle and [[Arboretum]]), [[Ráckeve]] ([[Serbian Orthodox Church|Serbian]] cathedral and [[Savoya Castle]]), [[Szentendre]] ([[Baroque architecture|Baroque]] town square, [[Margit Kovács]] Museum, Ethnographic Open Air Museum), [[Vác]] (cathedral, [[triumphal arch]]) and [[Visegrád]] (Visegrád Castle).
+
+Other landmarks are the church (built in the [[Middle Ages]]) in [[Zsámbék]], the [[Reformed churches|Reformed church]] of the [[Holy Roman Empire]], the church in [[Fót]] in the [[Romanticism|Romantic style]], [[Apaj]] plain, ancient [[juniper]] fields in [[Tatárszentgyörgy]],  [[equestrianism]] in [[Pusztavacs]], [[Attila the Hun|Attila]] Rise in [[Tápiószentmárton]], the arboretum in [[Vácrátót]] and the bear sanctuary in [[Veresegyház]].
+
+The [[Pilis Mountains]] offer plenty of opportunities for [[hiking]]. There are also the [[Visegrád Hills]], [[Ördögmalom]] [[waterfall]], [[Gödöllő National Park]] and [[Ócsa National Park]].
+
+==See also==
+*[[List of regions of Hungary]]
+
+== References ==
+{{reflist}}
+
+==External links==
+*{{wikivoyage inline|Central Hungary}}
+
+{{Regions of Hungary}}
+
+{{coord|47|28|19|N|19|03|01|E|type:adm1st_source:itwiki|display=title}}
+
+[[Category:Central Hungary| ]]
+[[Category:NUTS 1 statistical regions of the European Union]]
+[[Category:NUTS 2 statistical regions of the European Union]]

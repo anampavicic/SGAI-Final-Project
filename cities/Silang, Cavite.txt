@@ -1,0 +1,617 @@
+{{Short description|Municipality in Cavite, Philippines}}
+{{More citations needed|date=October 2023}}
+{{Use mdy dates|date=December 2022}}
+{{Use Philippine English|date=December 2022}}
+{{Infobox settlement
+| name                     = {{PH wikidata|name}}
+| image_skyline           = {{Photomontage
+| photo1a = Nuestra.jpg
+| photo1b = SilangCavitejf0087 06.JPG
+| photo2a = Silang,Cavitejf9896 11.JPG
+| photo2b = Acienda Windmill Cavite.jpg
+| photo3a = 396Barangays Silang Cavite Landmarks 36.jpg
+| photo3b = 7381Silang, Cavite Landmarks Barangays 24.jpg
+| size = 250
+| spacing = 2
+| position = center
+| color = transparent
+| border = 0
+}}
+| image_caption            = (From left, clockwise): [[Our Lady of Candelaria Parish Church (Silang)|Silang Church]], Town Proper, Acienda Designer Outlet, Patio Medina, St. Benedict Parish–[[Ayala Westgrove Heights|Westgrove]], Welcome Arch
+| image_flag               = File:Flag of Silang, Cavite.png
+| flag_size                = 120x80px
+| image_seal               = Silang Cavite Seal (2023).png
+| seal_size                = 100x80px
+| image_map                = {{PH wikidata|image_map}}
+| map_caption              = {{PH wikidata|map_caption}}
+| image_map1               = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map              = Philippines
+| pushpin_label_position   = left
+| pushpin_map_caption      = Location within the {{PH wikidata|country}}
+| coordinates              = {{PH wikidata|coordinates}}
+| settlement_type          = {{PH wikidata|settlement_type}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = [[Philippines]]
+| subdivision_type1        = [[Regions of the Philippines|Region]]
+| subdivision_name1        = {{PH wikidata|region}}
+| subdivision_type2        = [[Provinces of the Philippines|Province]]
+| subdivision_name2        = {{PH wikidata|province}}
+| official_name            = {{PH wikidata|official_name}}
+| etymology                = <!--origin of name-->
+| named_for                = <!--named after (if person or place)-->
+| native_name              = 
+| other_name               = 
+| nickname                 = Food Bastion for Metro Manila<br/>Gateway to Tagaytay
+| motto                    = 
+| anthem                   = 
+| subdivision_type3        = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3        = {{PH legislative district}}
+| established_title        = [[Date of establishment|Founded]]
+| established_date         = February 3, 1595
+| parts_type               = [[Barangay]]s
+| parts_style              = para
+| p1                       = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title             = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name              = Atty. Kevin A. Anarna
+| leader_title1            = [[Vice Mayor]]
+| leader_name1             = Ted Carranza
+| leader_title2            = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2             = Roy M. Loyola
+| leader_title3            = [[Sangguniang Bayan|Municipal Council]]
+| leader_name3             = {{PH Town Council
+| 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=
+ | 3=Ivee Jayne Reyes
+ | 4=Ivan Chester Amutan
+ | 5=Aristides Jose Virgilio Velazco
+ | 6=Perpetuo Desingaño
+ | 7=Luis Batingal Jr.
+ | 8=Juan Carlo Madlansacay
+ | 9=Eric Garcia
+}}
+| leader_title4            = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4             = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type          = {{PH wikidata|government_type}}
+| government_footnotes     = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m              = {{PH wikidata|elevation_m}}
+| elevation_max_m          = 432
+| elevation_min_m          = 187
+| elevation_max_rank       = 
+| elevation_min_rank       = 
+| elevation_footnotes      = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes  = 
+| elevation_min_footnotes  = 
+| area_rank                = 
+| area_footnotes           = {{PH area}}
+| area_total_km2           = {{PH wikidata|area}}
+| population_footnotes     = {{PH census|current}}
+| population_total         = {{PH wikidata|population_total}}
+| population_as_of         = {{PH wikidata|population_as_of}}
+| population_density_km2   = auto
+| population_blank1_title  = [[Household]]s
+| population_blank1        = {{PH wikidata|household}}
+| population_blank2_title  = 
+| population_blank2        = 
+| population_demonym       = 
+| population_rank          = 
+| population_note          = 
+| timezone                 = [[Philippine Standard Time|PST]]
+| utc_offset               = +8
+| postal_code_type         = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code              = {{PH wikidata|postal_code}}
+| postal2_code_type        = {{PSGCstyle}}
+| postal2_code             = {{PSGC detail}}
+| area_code_type           = {{areacodestyle}}
+| area_code                = {{PH wikidata|area_code}}
+| website                  = {{URL|https://www.facebook.com/silangPIO/}}
+| demographics_type1       = [[Economy of the Philippines|Economy]]
+| demographics1_title1     = {{PH wikidata|income_class_title}}
+| demographics1_info1      = {{PH wikidata|income_class}}
+| demographics1_title2     = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2      = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3     = [[Revenue]]
+| demographics1_info3      = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4     = Revenue rank
+| demographics1_info4      = 
+| demographics1_title5     = [[Asset]]s
+| demographics1_info5      = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6     = Assets rank
+| demographics1_info6      = 
+| demographics1_title7     = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7      = 
+| demographics1_title8     = IRA rank
+| demographics1_info8      = 
+| demographics1_title9     = [[Expenditure]]
+| demographics1_info9      = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10    = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10     = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2       = Service provider
+| demographics2_title1     = Electricity
+| demographics2_info1      = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2     = Water
+| demographics2_info2      = Silang Water District
+| demographics2_title3     = Telecommunications
+| demographics2_info3      = 
+| demographics2_title4     = Cable TV
+| demographics2_info4      = 
+| demographics2_title5     = 
+| demographics2_info5      = 
+| demographics2_title6     = 
+| demographics2_info6      = 
+| demographics2_title7     = 
+| demographics2_info7      = 
+| demographics2_title8     = 
+| demographics2_info8      = 
+| demographics2_title9     = 
+| demographics2_info9      = 
+| demographics2_title10    = 
+| demographics2_info10     = 
+| blank_name_sec1          = {{PH wikidata|climate_title}}
+| blank_info_sec1          = {{PH wikidata|climate_type}}
+| blank1_name_sec1         = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1         = {{PH wikidata|language}}
+| blank2_name_sec1         = [[Crime index]]
+| blank2_info_sec1         = 
+| blank3_name_sec1         = 
+| blank3_info_sec1         = 
+| blank4_name_sec1         = 
+| blank4_info_sec1         = 
+| blank5_name_sec1         = 
+| blank5_info_sec1         = 
+| blank6_name_sec1         = 
+| blank6_info_sec1         = 
+| blank7_name_sec1         = 
+| blank7_info_sec1         = 
+| blank1_name_sec2         = Major religions
+| blank1_info_sec2         =  {{plainlist|
+*[[Roman Catholicism]]
+*[[Aglipayan Church]]
+*[[Protestantism]]
+*[[Islam]]}} 
+| blank2_name_sec2         = Feast date
+| blank2_info_sec2         = February 2
+| blank3_name_sec2         = Ecclesiastical dioceses
+| blank3_info_sec2         = {{plainlist|
+*[[Diocese of Imus]] <small>(Roman Catholic)</small>
+*[[List of dioceses of the Philippine Independent Church|Diocese of Cavite]] <small>(Aglipayan Church)</small>
+}}
+| blank4_name_sec2         = Patron saint
+| blank4_info_sec2         = [[Our Lady of Candelaria]]
+| blank5_name_sec2         = 
+| blank5_info_sec2         = 
+| blank6_name_sec2         = 
+| blank6_info_sec2         = 
+| blank7_name_sec2         = 
+| blank7_info_sec2         = 
+| short_description        = 
+| footnotes                = 
+}}
+
+'''Silang''' ({{IPA|tl|ˈsi.lɐŋ|lang}}), officially the '''Municipality of Silang''' ({{lang-fil|Bayan ng Silang}}), is a 1st class highly urbanized [[municipality of the Philippines|municipality]] in the [[Philippine Province|province]] of [[Cavite]], [[Philippines]]. According to the 2020 census, it has a population of 295,644 people.{{PH census|current}}
+
+Silang is located in the eastern section of Cavite. It is home to the [[Philippine National Police Academy]], [[Philippine Drug Enforcement Agency#PDEA Academy|PDEA Academy]], and [[International Institute of Rural Reconstruction]] head office.
+
+With the continuous expansion of [[Metro Manila]], the municipality is now part of the Manila's conurbation which spans southward toward [[Lipa, Batangas]].
+
+==Etymology==
+The name of Silang (originally called ''Silan'') originates from [[Tagalog language|Tagalog]] ''[[wikt:silang|silang]]'', meaning "mountain pass".<ref name="Lesho">{{cite book |last1=Lesho |first1=Marivic |last2=Sippola |first2=Eeva |title=Vergleichende Kolonialtoponomastik Strukturen und Funktionen kolonialer Ortsbenennung |date=2018 |publisher=De Gruyter |chapter=Toponyms in Manila and Cavite, Philippines |isbn=9783110608618 |pages=317–332}}</ref>
+
+==History==
+
+===Pre-Hispanic period===
+The traditional origins of the town are attributed to ten [[Borneo|Bornean]] [[datu]]s who sailed northward on board [[balangay]]s and ended in Silang through [[Taal Lake]]. Its first settlers were Gat Hingiw, his wife Gat Kaliwanag, and their seven children, who later moved to different parts of the town and established their respective barangays. Gat Pandan stayed in the original community and developed the area.<ref name=Silan>[http://museodesilan.wordpress.com/early-history-silang/ "History of Silang"]. Museo de Silan. Retrieved on June 18, 2013.</ref>
+
+===Spanish colonial era===
+During the start of the Spanish colonization of the Philippines, tracts of land were given by the [[King of Spain]] to the [[conquistador]]es and their descendants, who collected [[tribute]]s from the people residing in their acquired lands. Silang originally belonged to the ''encomienda'' ([[land grant]]) of Diego Jorge de Villalobos; his claim extended to what is today the towns of Carmona, Amadeo, Indang, Alfonso, General Trias, and Tanza.<ref name=Silan/> On February 3, 1595, the parish of Silang was established, formally creating the town.<ref>{{cite news|url=https://www.pna.gov.ph/articles/1061362| title= Silang Church: A national cultural treasure in Cavite|first=Gladys|last=Pino|publisher=Philippine News Agency|date=February 9, 2019|accessdate=May 4, 2019}}</ref> For many years, Silang was one of the biggest towns, by the 20th century its land area was reduced to its current size, as some of its former villages later became independent towns. [[Indang]] was the first to be granted town status in 1655. By the 19th century, the town lost land to the towns of [[Carmona, Cavite|Carmona]] and [[Amadeo, Cavite|Amadeo]], and by 1938, the town's southern lands were ceded to become part of the city of [[Tagaytay]].
+
+The Silang encomienda was later purchased from King [[Ferdinand VI of Spain]] for 2,000 [[Spanish peseta|pesetas]] on March 9, 1746, to prevent it from becoming a "friar land" like the other towns of Cavite, executed through the representation of Bernabe Javier Manahan and Gervacio dela Cruz.<ref name=Silan/>
+
+===Contemporary history===
+On January 22, 2023, the municipality was certified by [[Guinness World Records]] as volunteers from the municipal government and the [[Catholic Church|Catholic]] [[Our Lady of Candelaria Parish Church (Silang)|parish church]] successfully lit 621 candles in a world record attempt for longest line of candles lit in relay, surpassing 366 set in [[India]] in 2016. The attempt was held to commemorate the feast of ''[[Our Lady of Candelaria|Nuestra Señora de Candelaria]]''.<ref>{{cite news |last=Abrina |first=Dennis |date=January 24, 2023 |title=Silang sets new world record for candle relay |url=https://www.manilatimes.net/2023/01/24/news/regions/silang-sets-new-world-record-for-candle-relay/1875536/ |work=[[The Manila Times]] |access-date=January 25, 2023}}</ref><ref>{{cite news |last=Deña |first=Carla |date=January 23, 2023 |title=Silang, Cavite breaks Guinness World Record for longest line of candles lit in relay |url=https://mb.com.ph/2023/01/23/silang-cavite-breaks-guinness-world-record-for-longest-line-of-candles-lit-in-relay/ |work=[[Manila Bulletin]] |access-date=January 25, 2023}}</ref>
+
+==Geography==
+The municipality of Silang is {{convert|23|km|sp=us}} from [[Imus]] and {{convert|43|km|sp=us}} south of [[Manila]]. It is bounded by [[General Trias]], [[Dasmariñas]], [[General Mariano Alvarez]], and [[Carmona, Cavite|Carmona]] to the north, [[Biñan]], [[Santa Rosa, Laguna|Santa Rosa]], [[Cabuyao]], and [[Calamba, Laguna|Calamba]] to the east, [[Tagaytay]] to the south, and [[Amadeo, Cavite|Amadeo]] to the west.
+
+===Barangays===
+Silang is politically subdivided into 64 [[barangay]]s.<ref name="psgc">[http://nap.psa.gov.ph/activestats/psgc/municipality.asp?muncode=042118000&regcode=04&provcode=21 Philippine Standard Geographic Code listing for Silang] {{Webarchive|url=https://web.archive.org/web/20161224094047/http://nap.psa.gov.ph/activestats/psgc/municipality.asp?muncode=042118000&regcode=04&provcode=21 |date=December 24, 2016 }} – National Statistical Coordination Board</ref>
+{{Columns-list|colwidth=22em|* Acacia
+* Adlas
+* Anahaw I
+* Anahaw II
+* Balite I
+* Balite II
+* Balubad
+* Banaba
+* Batas
+* Biga I
+* Biga II
+* Biluso
+* Bucal
+* Buho 
+* Bulihan
+* Cabangaan
+* Carmen
+* Hoyo
+* Hukay
+* Iba
+* Inchican
+* Ipil I
+* Ipil II
+* Kalubkob
+* Kaong
+* Lalaan I
+* Lalaan II
+* Litlit
+* Lucsuhin
+* Lumil
+* Maguyam
+* Malabag
+* Mataas na Burol
+* Malaking Tatiao
+* Munting Ilog
+* Narra I
+* Narra II
+* Narra III
+* Paligawan
+* Pasong Langka
+* [[Poblacion]] I
+* Poblacion II
+* Poblacion III
+* Poblacion IV
+* Poblacion V
+* Pooc I
+* Pooc II
+* Pulong Bunga
+* Pulong Saging
+* Puting Kahoy
+* Sabutan
+* San Miguel I
+* San Miguel II
+* San Vicente I
+* San Vicente II
+* Santol
+* Tartaria
+* Tibig
+* Toledo
+* Tubuan I
+* Tubuan II
+* Tubuan III
+* Ulat
+* Yakal
+}}
+
+=== Climate ===
+{{Hatnote|Average temperatures vary greatly due to variations in elevation across the municipality.}}
+Silang has a [[tropical savanna climate]] (''Aw'' in the [[Köppen climate classification]]) with a pronounced dry season from November to April. Its nearness to Tagaytay is the reason for its near-winter like cold temperatures during the early dry season, especially in the villages straddling the Tagaytay border and the town proper.
+
+{{Weather box
+| location     = Silang, Cavite
+| width        = auto
+| metric first = Ye
+| single line  = Yes
+| Jan high C = 27
+| Jan low C  = 18
+| Feb high C = 28
+| Feb low C  = 18
+| Mar high C = 30
+| Mar low C  = 19
+| Apr high C = 32
+| Apr low C  = 20
+| May high C = 30
+| May low C  = 22
+| Jun high C = 29
+| Jun low C  = 22
+| Jul high C = 27
+| Jul low C  = 22
+| Aug high C = 27
+| Aug low C  = 22
+| Sep high C = 27
+| Sep low C  = 22
+| Oct high C = 28
+| Oct low C  = 21
+| Nov high C = 28
+| Nov low C  = 20
+| Dec high C = 27
+| Dec low C  = 19
+| Jan precipitation mm = 10
+| Feb precipitation mm = 10
+| Mar precipitation mm = 12
+| Apr precipitation mm = 27
+| May precipitation mm = 94
+| Jun precipitation mm = 153
+| Jul precipitation mm = 206
+| Aug precipitation mm = 190
+| Sep precipitation mm = 179
+| Oct precipitation mm = 120
+| Nov precipitation mm = 54
+| Dec precipitation mm = 39
+| Jan rain days        = 5.2
+| Feb rain days        = 4.5
+| Mar rain days        = 6.4
+| Apr rain days        = 9.2
+| May rain days        = 19.7
+| Jun rain days        = 24.3
+| Jul rain days        = 26.9
+| Aug rain days        = 25.7
+| Sep rain days        = 24.4
+| Oct rain days        = 21.0
+| Nov rain days        = 12.9
+| Dec rain days        = 9.1
+| source 1 = Meteoblue<ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/silang_philippines_1686547
+| title =  Silang: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| access-date = May 12, 2020 }}</ref>
+| date = May 12, 2020
+}}
+
+==Demographics==
+{{Philippine Census
+| align= none
+| cols = 3
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+In the 2020 census, the population of Silang, Cavite, was 295,644 people,{{PH census|current}} with a density of {{convert|{{sigfig|295,644/209.43|2}}|PD/km2|disp=or|sp=us}}.
+
+===Religion===
+[[File:Our Lady of Candelaria de Silang.jpg|thumb|[[Our Lady of Candelaria]], Patroness of Silang, Cavite.]]
+The majority of the people in Silang are adherents of the Christian Faith, composed of [[Roman Catholic]]s, [[Members Church of God International]], [[Protestant]]s, and members of independent Christian groups. Majority of the Christian population is composed of [[Roman Catholic]]s under the jurisdiction of the [[Diocese of Imus]].
+
+Adherents of the [[Philippine Independent Church]], also known as the Aglipayan Church, under the jurisdiction of the [[List of dioceses of the Philippine Independent Church|Diocese of Cavite]].
+
+Other Christian groups in the town include mainstream [[Protestant]]s, congregations of [[Mormon]]s, and other churches are also present in the town.
+
+With the influx of migrants from other provinces, other non-Christian faiths, particularly [[Islam]], is practiced in the town.
+
+== Economy ==
+{{PH poverty incidence}}
+[[File:7009Silang, Cavite Landmarks Barangays 05.jpg|thumb|Pineapple plantation in Silang]]
+Silang, like most of the towns in the province of Cavite, depends on a mainly agricultural economy. The primary crops grown in the area are coconut, coffee, corn, banana, pineapple, and tree crops like mango, lanzones, caimito, santol, jackfruit, guava, and avocado. Fertile soils and abundant water sources make Silang suitable not only for common commercial crops but also for high value and exotic crops production. Most of the local farmers practice intercropping to increase land productivity and lessen soil erosion. Fruit production exceeds the demand of the municipality's population, thus, supply excesses are marketed to Metro Manila and neighboring urban centers. A number of poultry and swine farms are also located in some rural barangays.
+
+<!-- [[File:259Barangays Silang Cavite Landmarks 42.jpg|thumb|Microtel by Wyndham South Forbes]] -->
+Manufacturing and trade are Silang's other major sources of income. Trade and investments grew tremendously with the influx of both Manila-based and foreign investors. Total investments were estimated at {{Philippine peso|2.5 billion|link=yes}} between 1996 and 2004, which helped bring about the employment of 3,000 people. Despite the slowdown of progress in 2004, Land Value still soared, allowing investors to infiltrate and start business. The investment trend resulted in the increase in the price of prime realty from {{Philippine peso|3,000}} to {{Philippine peso|15,000}} per square meter and from {{Philippine peso|150}} to {{Philippine peso|500}} per square meter for raw lots in interior barangays. Trade establishments in Silang include gasoline stations, convenience stores, restaurants, lumber/hardware traders, shopping malls, groceries, resorts, and hotels.
+
+The dry goods section of the Silang Public Market can now accommodate 228 stalls.
+
+Silang houses the Maguyam Industrial Complex and the Daichi Industrial Complex, in addition to a total of ten factories operating outside the export processing zone.
+
+==Transportation==
+[[File:Aguinaldo Highway, Santol, Silang, Cavite 07-02-2019 (03).jpg|thumb|[[Aguinaldo Highway]] through Silang in 2019]]
+Silang can be reached by bus or by jeepney. Coming from Manila, it would take around 2 hours to reach the town proper. Silang is accessible by land transportation. Major road networks to and from Laguna and [[Batangas]] traverse it making the town a potential trading center for agricultural products while enjoying an environment that is free of traffic and pollution problems. Commuters are assured of smooth travel within the borders of the municipality with of its good road networks of approximately {{cvt|187.83|km}}. Major roads include [[Aguinaldo Highway]], [[Santa Rosa–Tagaytay Road]], [[Governor's Drive]] (along the municipal boundary with [[General Mariano Alvarez]]), and [[Cavite–Laguna Expressway]]. Six major road projects were completed in 1996, being the Bulihan Resettlement Area Road, the {{cvt|8|km|abbr=on}} Kaong-Maguyam Road, the Caramanzana Drive connecting the Silang Public Market with Aguinaldo Highway, the {{cvt|2|km|abbr=on}} Sabutan-Iba Road, the DPWH funded [[Santa Rosa-Tagaytay Road|Santa Rosa-Silang-Tagaytay Road]], and the Malabag Road. The proposed [[Cavite–Tagaytay–Batangas Expressway]] will have its eastern end built in Silang.
+
+==Landmarks==
+<!---Do NOT include places without a Wikipedia article!--->
+*[[Lucsuhin Natural Bridge]] or Cabag Caves
+*[[Our Lady of Candelaria Parish Church (Silang)|Our Lady of Candelaria Parish Church]]
+*[[Estrella Hospital]]
+*[[Villa Julia Resort]]
+*[[Camella Alta]]
+*[[Metrogate Silang Estates]]
+*[[San Antonio de Padua Parish]]
+
+==Government==
+{{main|Sangguniang Bayan}}
+[[File:Silangjf0107 01.JPG|thumbnail|Old Silang Town Hall]]
+
+===Incumbent municipal officials===
+*Mayor: Edward 'Ted' Carranza
+*Vice Mayor: Mark Anthony Toledo
+*Sangguniang Bayan Members:
+**Ivee Jayne Reyes
+**Ivan Chester Amutan
+**Aristides Jose Virgilio Velazco
+**Perpetuo Desingaño 
+**Luis Junjang Batingal
+**Juan Carlo Madlansacay
+**Eric Cokiat Garcia
+*[[Liga ng mga Barangay]] President: Cris Kidlat Reyes (Brgy. Biluso)
+*[[Sangguniang Kabataan]] Federation President: Jasper Marcus Anarna (Brgy. Maguyam)
+
+===List of chief executives===
+[[Gobernadorcillo]] (Leader of 'pueblo' or bayan during Spanish Era):
+{{Columns-list|colwidth=30em|
+# Don Teodoro de Leon 1850–1852
+# Anastacio Medina 1852–1858
+# Codrato Mercado 1858–1872
+# Severino Belarmino 1872
+# Ancelmo Belardo 1875
+# Julio Medina 1877–1878
+# Lazaro Kiamzon 1879–1880
+# Ignacio Ambalada 1881
+# Angel Belardo 1881–1882
+# Ignacio Ambalada (new term) 1883–1884
+# Benito Gonzales 1884
+# Vito Belarmino 1885–1886
+# Lazaro Kiamzon (new term) 1887
+# Benito Gonzales 1887–1888
+# Gaspar Medina 1889–1890
+# Marcelo Madlansacay 1891–1892
+}}
+
+As the effect of the [[Maura Law]] in 1893, the tribunal del pueblo was changed to'' tribunal municipal ''and leaders of municipalities were called ''Capitan Municipal'':
+# Victor Belardo 1893–1894
+# Nicolas Montoya 1895–1896
+# Martin Medina 1896
+# Isidoro Montoya 1896–1897
+# Marcelo Madlansacay (former gobernadorcillo) 1897
+# Vicente Poblete 1897–1898
+# Jose Kiamzon 1898–1901
+
+During the American Period, the 2nd commission passed the [[Municipal ordinances|Municipal Code]] (Act No. 82) that created Municipalities. The leaders were called ''Presidente Municipal'':
+First Elections were held 1903. (Silang Historical Society)
+{{Columns-list|colwidth=30em|
+# Isaias Benjamin (appointed) 1901–1903
+# Nicolas Madlansacay (elected) 1903–1904
+# Primo Villanueva 1905–1906
+# Pedro Laviña 1907–1908
+# Isaias Benjamin (new term) 1909–1912
+# Jose Kiamzon (former Capitan Municipal) 1912–1916
+# Victor Kiamzon 1916–1919
+# Epifanio Montoya 1919–1922
+# Victor Kiamzon 1922–1925
+# Venancio Toledo 1926–1931
+# Victor Kiamzon 1931–1934
+# Martin Torres – Feb–Aug 1934
+}}
+
+Municipal Mayor(s):
+{{Columns-list|colwidth=30em|
+# Jose Kiamzon 1934–1937
+# Martin Torres 1937–1940
+# Miguel Kiamzon 1940–1943
+# Dominador Kiamzon 1943–1945
+# Martin Torres 1946–1948
+# Mariano Belen 1949–1953
+# Zacarias Batingal – January–October 1954
+# Martin Torres 1954–1955
+# Zacarias Batingal March 1955
+# Martin Torres April–October 1955
+# Pedro Caragao November–December 1955
+# Enrique Asuncion 1956–1971
+# Edgardo Mercado 1972–1986
+# Clarito Ambalada Poblete 1986–1995, June 30, 2004–June 30, 2013
+# Ruben Montoya Madlansacay June 30, 1995–June 30, 2004
+# Emilia Lourdes "Omil" Fule Poblete June 30, 2013–June 30, 2019
+# Socorro Rosario "Corie" Fule Poblete June 30, 2019–June 30, 2022
+# Alston Kevin Amutan Anarna June 30, 2022-April 26, 2024
+# Edward Esperat Carranza April 27, 2024-present
+<ref>{{cite web|url=http://www.calabarzon.dilg.gov.ph/silangcavite|title=Silang|website=DILG CALABARZON|access-date=September 25, 2018|archive-date=September 7, 2018|archive-url=https://web.archive.org/web/20180907042013/http://calabarzon.dilg.gov.ph/silangcavite|url-status=dead}}</ref>
+}}
+
+==Health care==
+[[File:7924Silang, Cavite Landmarks Barangays 50.jpg|thumb|Silang Specialists Medical Center]]
+* [[Estrella Hospital]]
+* Velazco Hospital
+* Silang Specialists Medical Center
+* Mazenod Hospital
+
+==Education==
+;Public high schools:
+* [[Kaong National High School]] 
+* Lumil National High School 
+* General Vito L. Belarmino National High School
+* Malabag National High School
+* Munting Ilog Integrated National High School – Main
+* Bulihan National High School
+* Emilia Ambalada Poblete National High School (Formerly: Munting Ilog National High School- Silang West Annex)
+
+;Private schools:
+{{colbegin}}
+* New Life Christian School of Cavite
+* Scuola di Scienza del Mija
+* Cavite Institute
+* [[La Belle Montessori School]]
+* AIIAS Academy
+* Lora Carnig School of All Nations
+* Little Heirs Academy
+* Sacred Hearts of Jesus and Mary Academe of Cavite
+* Westridge Academy
+* St.Scholastica's College-Westgrove
+* Our Lady Of Peace Academy Of Cavite
+* Mission and Vision Reformed Christian Academy
+* Biga Achievers' Learning Institute
+* Infant Jesus Academy of Silang
+* Living Lamp Academy
+* Silang Adventist Elementary School
+* Hilltop Adventist Elementary School, Inc.
+* Imperial Learning Center
+* Father Michael Donoher Memorial School
+* Trustworthy Learning Center
+* Learning Links Academy
+{{colend}}
+
+;Catholic schools:
+* The Sisters of Mary School – Boystown (Adlas Campus)
+* The Sisters of Mary School – Girlstown (Biga Campus)
+* Father Michael Donoher Memorial School
+* [[Rogationist College]]
+* Sacred Heart Villa School
+* St. Scholastica's College – Westgrove
+* Infant Jesus Academy of Silang
+* Risen Christ Catholic School
+* Paraclete Foundation Community School
+
+;Colleges, state colleges and universities:
+{{colbegin}}
+* Sisters of Mary Technical Education Institute Cavite Inc.
+* [[Adventist University of the Philippines]]
+* [[Adventist International Institute of Advanced Studies]]
+* Imus Computer College (ICC) – Silang Branch
+* [[Cavite State University]] (Silang satellite campus)
+* [[Far Eastern University]] (Silang satellite campus)
+* Philippine Missionary Institute
+* Unida Biblical Seminary
+* [[Rogationist College]]
+* PNPA (Public Safety College)
+* St. Benilde Montessori College
+* Saint Paul Seminary 
+* Our Lady of La Salette Seminary
+{{colend}}
+
+{{wide image|CSUjf9912_01.JPG|1800px|Cavite State University panorama}}
+
+==Gallery==
+<gallery mode=packed>
+File:SilangCavitejf0114 02.JPG|Downtown
+File:Silang,Cavitejf0101_02.JPG|Municipal Police Station
+File:7381Silang, Cavite Landmarks Barangays 04.jpg|Jose Rizal Monument
+File:7009Silang, Cavite Landmarks Barangays 25.jpg|Coconut trees
+File:6718Silang, Cavite Landmarks Barangays 02.jpg|Barangay Bulihan
+<!-- File:6790Silang, Cavite Landmarks Barangays 21.jpg|Barangay Narra
+File:7206Silang, Cavite Landmarks Barangays 07.jpg|Kemp Mart Silang
+File:6790Silang, Cavite Landmarks Barangays 05.jpg|The Risen Christ Parish in Bulihan
+File:209Barangays Silang Cavite Santa Rosa Laguna Landmarks 48.jpg|Boundary marker near Silang–[[Santa Rosa, Laguna|Santa Rosa]] boundary
+File:Silangjf0107 02.JPG|Another version of the official seal
+</gallery>
+
+==Notable people==
+* [[Bayani Agbayani]] (b. 1969), comedian
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+
+{{Geographic location
+| Centre    = Silang
+| North     = [[Dasmariñas]] / [[General Mariano Alvarez|Gen. Mariano Alvarez]] / [[Carmona, Cavite|Carmona]]
+| Northeast = [[Biñan|Biñan, Laguna]]
+| East      = [[Santa Rosa, Laguna]]<br />[[Cabuyao|Cabuyao, Laguna]]
+| South     = [[Tagaytay]]
+| West      = [[Amadeo, Cavite|Amadeo]]
+| Northwest = [[General Trias]]
+}}
+
+{{Navboxes
+| title = Articles Related to Silang, Cavite
+| list  = 
+{{Cavite}}
+{{CALABARZON}}
+}}
+{{Authority control}}
+
+[[Category:Silang, Cavite| ]]
+[[Category:Municipalities of Cavite]]
+[[Category:1595 establishments in the Philippines]]

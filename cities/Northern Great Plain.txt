@@ -1,0 +1,49 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+ | official_name                  = Northern Great Plain
+ | native_name                    = Észak-Alföld
+ | settlement_type                = Region
+ | image_map                      = HU NUTS 23 EA.png
+ | map_caption                    = 
+ | subdivision_type               = [[Countries of the world|Country]]
+ | subdivision_name               = {{HUN}}
+ | subdivision_type3              = Capital city
+ | subdivision_name3              = [[Debrecen]]
+ | area_total_km2                 = 17749
+ | population_as_of 	          = 
+ | population_total 	          = 1514020
+ | population_density_km2         = 85
+ | timezone         	          = [[Central European Time|CET]]
+ | utc_offset 	                  = +1
+ | timezone_DST 	          = [[Central European Summer Time|CEST]]
+ | utc_offset_DST         	  = +2
+ | blank_name_sec1                = [[Nomenclature of Territorial Units for Statistics|NUTS]] code
+ | blank_info_sec1                = HU32
+ | blank_name_sec2                = [[GDP]] per capita ([[Purchasing Power Standard|PPS]])
+ | blank_info_sec2                = €12,900 (2017)<ref name=eurostat>{{cite web|title=GDP per capita in 281 EU regions in 2017|publisher=Europa web portal|author=Eurostat|date=26 February 2019|url=https://ec.europa.eu/eurostat/documents/2995521/9618249/1-26022019-AP-EN.pdf/f765d183-c3d2-4e2f-9256-cc6665909c80|access-date=27 February 2019}}</ref>
+| blank1_name_sec2       = [[Human Development Index|HDI]] (2019)
+| blank1_info_sec2       = 0.831<ref name="GlobalDataLab">{{Cite web|url=https://hdi.globaldatalab.org/areadata/shdi/|title=Sub-national HDI - Area Database - Global Data Lab|website=hdi.globaldatalab.org|language=en|access-date=2021-07-21}}</ref><br/>{{color|#090|very high}} · [[List of Hungarian regions by Human Development Index|6th]]
+}}
+
+The '''Northern Great Plain''' ({{langx|hu|Észak-Alföld}} {{IPA-hu|'eːsɒk 'ɒlføld|}}) is a statistical ([[Nomenclature of Territorial Units for Statistics|NUTS]] 2) region of [[Hungary]]. It is part of the [[Great Plain and North]] (NUTS 1) region. The Northern Great Plain includes the counties of [[Hajdú-Bihar]], [[Jász-Nagykun-Szolnok]], and [[Szabolcs-Szatmár-Bereg]], with a total area of {{convert|17749|km2|sqmi|abbr=on}} and a population of around 1.5 million.<ref>[http://www.itdh.com/engine.aspx?page=Northern_Great_Plain Northern Great Plain]</ref> The region is in the eastern part of [[Hungary]]. It borders [[northern Hungary]] to the north, [[Ukraine]] to the north-east, [[Romania]] to the south-east, the [[Southern Great Plain]] region of Hungary to the south, and [[central Hungary]] to the west. The region's centre, and capital city is [[Debrecen]], the [[List of cities and towns of Hungary#Largest cities in Hungary|second largest city]] within Hungary.
+
+== Gallery ==
+<gallery perrow="5">
+File:HU NUTS 24 EA.png
+File:Eszak-Alfold.gif
+</gallery>
+
+==See also==
+*[[List of regions of Hungary]]
+
+== References ==
+{{reflist}}
+
+{{Regions of Hungary}}
+
+{{coord|47|31|48|N|21|38|21|E|source:itwiki_type:adm1st|display=title}}
+
+[[Category:NUTS 2 statistical regions of the European Union]]
+[[Category:Northern Great Plain]]
+
+{{Hungary-geo-stub}}

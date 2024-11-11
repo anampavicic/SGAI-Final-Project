@@ -1,0 +1,607 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+| name                            = Qiqihar
+| official_name                   = 
+| native_name                     = 齐齐哈尔市
+| native_name_lang                = zh-Hans
+| other_name                      = Ch'i-ch'i-ha-erh, Tsitsihar
+| settlement_type                 = [[Prefecture-level city]]
+| image_skyline                   = Qiqiharskyline4.JPG
+| imagesize                       = 
+| image_caption                   = 
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| image_blank_emblem              = 
+| blank_emblem_type               = 
+| blank_emblem_size               = 
+| nickname                        = The Crane City ({{lang|zh-hans|鹤城}})
+| motto                           = 
+<!-- images and maps  ----------->
+| image_map                       = Location of Qiqihar Prefecture within Heilongjiang (China).png
+| mapsize                         = 
+| map_caption                     = Location of Qiqihar City (yellow) in Heilongjiang (light grey) and China
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| pushpin_map                     = Heilongjiang
+| pushpin_label_position          = 
+| pushpin_mapsize                 = 
+<!-- Location ------------------>
+| pushpin_map_caption             = Location of the city centre in Heilongjiang
+| coor_pinpoint                   = Qiqihar municipal government
+| coordinates                     = {{coord|47.3549|N|123.9182|E|type:adm2nd_region:CN-23_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->
+| subdivision_type                = Country
+| subdivision_name                = [[China|People's Republic of China]]
+| subdivision_type1               = [[Provinces of the People's Republic of China|Province]]
+| subdivision_type2               = [[County-level division]]s
+| subdivision_type3               = towns and townships
+| subdivision_type4               = villages
+| subdivision_name1               = [[Heilongjiang]]
+| subdivision_name2               = 16
+| subdivision_name3               = 156
+| subdivision_name4               = 1361
+| established_title               = Established
+| established_date                = 1125
+| established_title1              = <!-- Incorporated (town) -->
+| established_date1               = 
+| established_title2              = <!-- Incorporated (city) -->
+| established_date2               = 
+| established_title3              = 
+| established_date3               = 
+| founder                         = 
+| named_for                       = 
+<!-- Area    --------------------->
+| seat_type                       = Municipal seat
+| seat                            = [[Jianhua District]]
+| parts_type                      = 
+| parts_style                     = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+| parts                           = <!-- parts text, or header for parts list -->
+| p1                              = 
+| government_footnotes            = 
+| government_type                 = [[Prefecture-level city]]
+| leader_title                    = [[Communist Party of China|CPC]] Qiqihar Secretary
+| leader_name                     = Sun Shen ({{lang|zh-hans|孙珅}})
+| leader_title1                   = Mayor
+| leader_name1                    = Li Yugang ({{lang|zh-hans|李玉刚}})
+| total_type                      = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref                       = <!--Enter: Imperial, to display imperial before metric-->
+| area_footnotes                  = 
+| area_magnitude                  = <!-- use only to set a special wikilink -->
+| area_total_km2                  = 42205.82<!-- ALL fields with measurements are subject to automatic unit conversion-->
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+| area_water_km2                  = 
+| area_water_percent              = 
+| area_urban_km2                  = 4039.3
+| area_metro_km2                  = 970.3
+| area_blank1_title               = 
+| area_blank1_km2                 = 
+<!-- Elevation -------------------------->
+| elevation_footnotes             = <!--for references: use <ref> </ref> tags-->
+| elevation_m                     = 147
+| elevation_min_m                 = 
+<!-- Population   ----------------------->
+| population_total                = 4067489
+| population_as_of                = 2020 census
+| population_footnotes            = <ref name="citypopulation.de"/>
+| population_density_km2          = auto<!--For automatic calculation, any density field may contain: auto -->
+| population_urban                = 1406987
+| population_density_urban_km2    = auto
+| population_metro                = 959787
+| population_density_metro_km2    = auto
+| population_blank1_title         = 
+| population_blank1               = 
+| population_density_blank1_km2   = auto
+| demographics_type2   = GDP
+| demographics2_title1 = [[Prefecture-level city]]
+| demographics2_info1 = [[CN¥]] 127 billion<br />[[US$]] 20.4 billion 
+| demographics2_title2 = Per capita
+| demographics2_info2 = CN¥ 23,041<br />US$ 3,699
+<!-- General information  --------------->
+| population_note                 = 
+| postal_code_type                = [[Postal code of China|Postal code]]
+| postal_code                     = 161000
+| area_code                       = 0452
+| website                         = [https://web.archive.org/web/20071017012317/http://www.qqhr.gov.cn/]
+| footnotes                       = 
+| image_dot_map                   = 
+| dot_mapsize                     = 
+| dot_map_caption                 = 
+| dot_x                           = 
+| dot_y                           = 
+| p2                              = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->
+| leader_title2                   = 
+| leader_name2                    = 
+| leader_title3                   = 
+| leader_name3                    = 
+| leader_title4                   = 
+| leader_name4                    = 
+| elevation_max_m                 = 
+| timezone                        = [[China Standard Time|China Standard]]
+| utc_offset                      = +08:00
+| blank2_name                     = [[Licence plates of the People's Republic of China|License Plate]]
+| blank2_info                     = {{lang|zh-cn|黑B}}
+| blank3_name                     = [[Administrative division codes of the People's Republic of China|Administrative division code]]
+| blank3_info                     = 230200
+| blank4_name                     = <!-- Major [[Nationalities of China|Nationalities]] -->
+| blank4_info                     = 
+| iso_code                        = [[ISO 3166-2:CN|CN-HL-02]]
+| blank5_name                     = [[Köppen climate classification|Climate]]
+| blank5_info                     = [[Humid continental climate#Hot/warm summer subtype|Dwa]]
+}}
+{{Infobox Chinese |order=st |psp=Tsitsihar|t=齊齊哈爾 |s=齐齐哈尔 |w=Ch'i<sup>2</sup>-ch'i<sup>2</sup>-ha<sup>1</sup>-erh<sup>3</sup>|p=Qíqíhā'ěr
+|mnc=ᠴᡳᠴᡳᡤᠠᡵ
+|mnc_rom=Cicigar 
+}}
+
+'''Qiqihar'''{{efn|{{zh|c=|p=Qíqíhā'ěr|s=齐齐哈尔|t=齊齊哈爾}}; <small>[[International Phonetic Alphabet|IPA]]:</small> {{IPAc-cmn|q|i|2|q|i|2|h|a|1|e|r|3}}; {{Lang-mnc|m={{ManchuSibeUnicode|lang=mnc|ᠴᡳᠴᡳᡥᠠᡵ}}|v=Cicihar|a=Qiqihar}}, {{IPA|mnc|t͡ɕʰit͡ɕʰiχar|IPA}}}} is the second-largest city in the [[Heilongjiang]] province of China, in the west central part of the province. The built-up (or metro) area made up of Longsha, Tiefeng and Jianhua districts had 959,787 inhabitants, while the total population of the prefecture-level city was shrinking to 4,067,489 as of the 2020 census (5,367,003 as of 2010).<ref name="citypopulation.de">{{cite web| url = https://www.citypopulation.de/en/china/heilongjiang/admin/| title = China: Hēilóngjiāng (Prefectures, Cities, Districts and Counties) - Population Statistics, Charts and Map}}</ref> These are mainly [[Han Chinese]], though the city is also home to thirty-four minorities including [[Manchus]], [[Daur people|Daur]], and [[Mongols]].<ref>{{cite web|url=http://www.qqhr.gov.cn:80/EN/Overview.htm |title=Qiqihaer China |access-date=December 29, 2009 |url-status=unfit |archive-url=https://web.archive.org/web/20071017012317/http://www.qqhr.gov.cn/EN/Overview.htm |archive-date=October 17, 2007 }}</ref>
+
+Close to Qiqihar are numerous wetlands and the [[Zhalong Nature Reserve]], famous in China for being home to numerous [[red-crowned crane]]s.
+
+==Etymology==
+"Qiqihar" is a [[Dagur language|Dagur]] word meaning "border" or "natural pasture".<ref name="Survey of the City">
+{{cite web
+|url=http://www.qqhr.gov.cn:80/EN/Investment.htm
+|title=Survey of the City
+|publisher=Qiqihar Municipal Government
+|access-date=18 August 2012
+|url-status=live
+|archive-url=https://web.archive.org/web/20071017012317/http://www.qqhr.gov.cn/EN/Investment.htm
+|archive-date=October 17, 2007
+}}</ref> The name Qiqihar comes from {{Lang-mnc|m={{ManchuSibeUnicode|lang=mnc|ᠴᡳᠴᡳᡥᠠᡵ}}|v=Cicihar|a=Qiqihar}}, [[International Phonetic Alphabet|IPA]]: /t͡ɕʰi.t͡ɕʰi.χar/.
+
+== History ==
+
+===Early history===
+[[File:迎恩门（齐齐哈尔）.jpg|left|200px|thumb|Gate of castle wall, Tsitsihar]]
+Qiqihar is one of the oldest cities in the northeast of China. The region was originally settled by nomadic [[Daur people|Daur]] and [[Tungusic peoples|Tungus]] herdsmen. The city's original name was '''Bukui''' ({{zh|labels=no|c=卜奎}}), the Chinese transcription of a Dagur word meaning "auspicious".<ref>{{citation|url=http://www.hljxh.net/wszb/news_view.asp?id=609 |script-title=zh:齐齐哈尔自然环境|date=2006-08-25|access-date=2010-09-11|periodical=Xinhua News|archive-url=https://web.archive.org/web/20110721022646/http://www.hljxh.net/wszb/news_view.asp?id=609|archive-date=2011-07-21|url-status=dead}}</ref> The city's oldest mosque, the [[Bukui Mosque]], predates the foundation of the city by seven years.<ref>{{citation|date=2005-06-27|access-date=2010-09-11 |script-title=zh:卜奎清真寺|periodical=Qiqihar News|url=http://qiqihar.dbw.cn/system/2005/06/27/050067612.shtml}}</ref> During the [[Russian conquest of Siberia|Imperial Russian eastward advance to the Pacific]], Qiqihar became a major garrison center in 1674. In 1691, a stronghold was constructed in Qiqihar because the Qing government campaigned against the [[Mongol]]s.<ref>{{Cite book |script-title=zh:齐齐哈尔历史述略 |last1=Qi |first1=Xipeng (齐锡鹏) |year=1989 |publisher=Heilongjiang People's Press |isbn=978-7-207-01417-7}}</ref>
+
+Around 1700 it was a center for [[Kyakhta trade|Russo-Chinese trade]]. A military depot with barracks and an arsenal was set up there, and many convicted criminals were exiled to the area. Heilongjiang Martial was domiciled in Qiqihar City in 1699.<ref name="Survey of the City"/> Qing China had initially intended to keep the far-northern [[Heilongjiang]] province as a semi-pastoral area, separate from the wider Chinese agricultural economy, so it did not allow seasonal urban migrants, such as those from [[Hebei]] and [[Shandong]] who wished to participate in the Qiqihar [[fur trade]], to own acres and transform the land.
+
+After the [[Russian Empire]] seized [[Outer Manchuria]] according to the [[unequal treaty|unequal treaties]] of [[Treaty of Aigun]] and the [[Convention of Peking]], the Qing decided to lift the various restrictions it placed on [[Northeast China]] and on Heilongjiang residency in particular, in 1868, 1878, and 1904. It enlisted [[Han Chinese]] to help to teach the local [[Solon people]] farming techniques, providing materials and tax exemptions to convert them from hunting.<ref name="Shan">{{Cite journal|title=Ethnicity, Nationalism, and Race Relations: The Chinese Treatment of the Solon Tribes in Heilongjiang Frontier Society, 1900-1931|first=Patrick Fuliang|last=Shan|journal=Asian Ethnicity|volume=7|number=2| date=June 2006 |pages=185–187}}</ref> In 1903, The completion of the [[Chinese Eastern Railway]] made Qiqihar a center for communications between China and Russia. A network of lines radiating from Qiqihar was extended into the northwestern part of Heilongjiang Province including [[Jiagedaqi]] and [[Manzhouli]] in the late 1920s.
+
+===Second Sino-Japanese War===
+[[File:Ma Zhanshan3.jpg|left|200px|thumb|General Ma Zhanshan]]
+In 1931, Japan used a [[false flag]] attack, remembered as the [[September 18 Incident]], to justify moving its [[Guandong Army]] to capture major cities in Northeast China that month, starting with [[Shenyang]], [[Changchun]], then [[Jilin City]]. General [[Ma Zhanshan]] was ordered to act as Governor and Military Commander-in-chief of Heilongjiang Province on October 10, 1931. General Ma declined a Japanese ultimatum to surrender Qiqihar on November 15. However, after the loss in the [[Jiangqiao campaign]], the Japanese began their occupation of Qiqihar on November 19, 1931.<ref>Matsuzaka, The Making of Japanese Manchuria, 1904-1932</ref> [[Liaoning]] fell in December, and [[Harbin]] in February; the puppet [[Manchukuo]] government of the Japanese-occupied territory under General [[Zhang Jinghui]] established Qiqihar as its administrative center and of Longjiang province. Qiqihar became a major military base for Guandong Army and its economic importance also grew rapidly. During the occupation, the [[Imperial Japanese Army]] established [[Unit 516]] in Qiqihar for research into [[chemical warfare#World War II|chemical warfare]].<ref>{{citation|url=http://www.china.org.cn/english/2004/Jun/99589.htm|periodical=China.org.cn|date=2004-06-28|title=Mustard Gas Victims Prepare Case Against Japan|access-date=2010-09-11}}</ref> A major [[mustard gas]] tank left over from the [[Second Sino-Japanese War]] buried underground was accidentally damaged in August 2003, causing 43 injuries and one death.<ref>{{citation|url=https://www.theguardian.com/china/story/0,7369,1017437,00.html|title=Diplomatic row over poison gas|date=2003-08-13|access-date=2010-09-11|periodical=The Guardian}}</ref>
+
+===Modern era===
+[[File:Txu-oclc-6614368-nl51-2.jpg|thumb|Map including Qiqihar (labeled as CH'I-CH'I-HA-ERH (TSITSIHAR) {{lang|zh-hant|齊齊哈爾}}) ([[Army Map Service|AMS]], 1955)]]
+After the defeat of Japan, the Democratic Regime Qiqihar Municipal Government was established, under the administration of [[Nenjiang Province]]. Japanese forces in [[Northeast China]] surrendered to the [[Soviet Union]] while other Japanese forces in the rest of China surrendered to the United States.<ref name="Zarrow">Zarrow, Peter Gue. [2005] (2005). China in War and Revolution, 1895–1949. Routledge. {{ISBN|0-415-36447-7}}. pg 338.</ref><ref name="Glantz">LTC David M. Glantz, [http://usacac.army.mil/cac2/cgsc/carl/download/csipubs/LP7_AugustStormTheSoviet1945StrategicOffensiveInManchuria.pdf "August Storm: The Soviet 1945 Strategic Offensive in Manchuria"]. Leavenworth Papers No. 7, Combat Studies Institute, February 1983, [[Fort Leavenworth]] [[Kansas]].<!-- Mirrored at, or redirected from/to, {{cite web |url=http://www-cgsc.army.mil/carl/resources/csi/glantz3/glantz3.asp |title=Archived copy |accessdate=June 19, 2009 |url-status=dead |archiveurl=https://web.archive.org/web/20090519092515/http://www-cgsc.army.mil/carl/resources/csi/glantz3/glantz3.asp |archivedate=May 19, 2009 }} --></ref> From March to May, Soviet troops progressively withdrew from their positions, giving the [[People's Liberation Army]] more notice than the [[National Revolutionary Army]] so that the former could occupy more positions in the context of the [[Chinese Civil War]].<ref>{{cite book|title=The Soviet Union and Communist China, 1945-1950: The Arduous Road to the Alliance|first=Dieter|last=Heinzig|publisher=M.E. Sharpe|year=2004|page=100}}</ref> Qiqihar was controlled by the Communists on April 24, 1946, along with other important regional cities like Changchun, Jilin City, and Harbin. Qiqihar was established as the capital of Heilongjiang Province after the foundation of People's Republic of China in 1949. However, since Songjiang Province was merged into Heilongjiang Province, the provincial capital was transferred to [[Harbin]] in 1954. During the first five-year plan of China from 1951 to 1956, many factories including Beiman Special Steel Co. and China First Heavy Industries were aid-constructed by the [[Soviet Union]] in [[Fularji District]], making Qiqihar an important center of equipment manufacturing industry in Northeast China. In 1984, Qiqihar was designated to be one of the 13 Larger Municipalities in China by the [[General Office of the State Council]].<ref>{{cite web|url=http://ziliao.hzu.edu.cn/103313.html |script-title=zh:国务院关于批准唐山等市为"较大的市"的通知}}{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+==Geography==
+Qiqihar City sits on a land area of 42,289 square kilometers at an altitude of 100–500 meters, with an average elevation of 146 meters.
+
+===Border===
+Qiqihar is located along the middle and lower reaches of the [[Nen River]] and the hinterland of Songnen Plain, which is adjacent to the [[Greater Khingan]] Range and Hulunbuir Prairie. Bordering prefecture cities are:
+*[[Baicheng]], [[Jilin]] (S)
+*[[Daqing]] (E)
+*[[Heihe]] (N)
+*[[Hulunbuir]], [[Inner Mongolia]] (W)
+*[[Suihua]] (NE)
+*[[Hinggan League]], Inner Mongolia (W)
+The city's metro area is located {{convert|359|km|abbr=on}} from the provincial capital of [[Harbin]], {{convert|282|km|abbr=on}} from Baicheng, {{convert|139|km|abbr=on}} from Daqing, and {{convert|328|km|abbr=on}} from Suihua. The total area under the city's jurisdiction is {{convert|42289|km2|abbr=on}}. The region's elevation above sea level is generally between {{convert|200|and|500|m|sigfig=2|abbr=on}}.<ref name="Geography and Topography">
+{{cite web
+|url=http://www.qqhr.gov.cn:80/EN/dldy.htm
+|title=Geography and Topography
+|publisher=Qiqihar Municipal Government
+|access-date=18 August 2012
+|url-status=live
+|archive-url=https://web.archive.org/web/20071017012317/http://www.qqhr.gov.cn/EN/dldy.htm
+|archive-date=October 17, 2007
+}}</ref>
+
+===Climate===
+Qiqihar has a cold, [[monsoon]]-influenced, [[humid continental climate]] ([[Köppen climate classification|Köppen]] ''Dwa''), with four distinct seasons. It has long, bitterly cold, but dry winters, with a 24-hour average in January of {{convert|-18.1|°C|1}}. Spring and fall are mild, but short and quick transitions. Summers are very warm and humid, with a 24-hour average in July of {{convert|23.3|°C|1}}. The average annual precipitation is {{convert|415|mm|1}}, with over two-thirds of it falling from June to August. The annual mean is {{convert|4.38|°C|1}}. With monthly percent possible sunshine ranging from 56% in July to 73% in February, the city receives abundant sunshine, with 2,839 hours of bright sunshine annually. Extreme temperatures have ranged from {{convert|-39.5|°C|0}} to {{convert|42.1|°C|0}}. Unusual for a place with such cold winters, it has never experienced a temperature of -40 degrees (C/F) or lower.<ref name="Extreme temperatures">{{cite web |url=http://cul.dmmap.com/cul_dmwh_tsfx/cul_dmwh_tsfx_rwjm/20110105/402881e52d55408e012d5579b9980013.html |script-title=zh:黑龙江省齐齐哈尔市地理位置及气候资源概况 |script-website=zh:图骥网 |access-date=2014-01-13 |archive-date=2014-01-14 |archive-url=https://web.archive.org/web/20140114002005/http://cul.dmmap.com/cul_dmwh_tsfx/cul_dmwh_tsfx_rwjm/20110105/402881e52d55408e012d5579b9980013.html |url-status=dead }}</ref>
+{{Weather box
+| location = Qiqihar (1991–2020 normals, extremes 1951-present)
+| metric first = Y
+| single line = Y
+| collapsed = Y
+| Jan record high C = 2.4
+| Feb record high C = 12.8
+| Mar record high C = 23.0
+| Apr record high C = 30.9
+| May record high C = 35.5
+| Jun record high C = 40.8
+| Jul record high C = 39.9
+| Aug record high C = 37.5
+| Sep record high C = 33.3
+| Oct record high C = 26.9
+| Nov record high C = 14.5
+| Dec record high C = 6.9
+| Jan high C = -11.9
+| Feb high C = -6.0
+| Mar high C = 3.1
+| Apr high C = 13.7
+| May high C = 21.6
+| Jun high C = 26.8
+| Jul high C = 28.5
+| Aug high C = 26.5
+| Sep high C = 21.0
+| Oct high C = 11.8
+| Nov high C = -1.0
+| Dec high C = -10.6
+| Jan mean C = -17.9
+| Feb mean C = -12.6
+| Mar mean C = -3.2
+| Apr mean C = 7.4
+| May mean C = 15.6
+| Jun mean C = 21.3
+| Jul mean C = 23.8
+| Aug mean C = 21.7
+| Sep mean C = 15.3
+| Oct mean C = 6.0
+| Nov mean C = -6.0
+| Dec mean C = -15.8
+| Jan low C = -22.9
+| Feb low C = -18.6
+| Mar low C = -9.3
+| Apr low C = 1.0
+| May low C = 9.5
+| Jun low C = 16.0
+| Jul low C = 19.4
+| Aug low C = 17.4
+| Sep low C = 10.2
+| Oct low C = 1.0
+| Nov low C = -10.3
+| Dec low C = -20.3
+| Jan record low C = −39.5
+| Feb record low C = −34.5
+| Mar record low C = −29.4
+| Apr record low C = -14.0
+| May record low C = −7.4
+| Jun record low C = 1.9
+| Jul record low C = 9.9
+| Aug record low C = 7.2
+| Sep record low C = −3.5
+| Oct record low C = -16.0
+| Nov record low C = −27.9
+| Dec record low C = -35.0
+| precipitation colour = green
+| Jan precipitation mm = 2.2
+| Feb precipitation mm = 3
+| Mar precipitation mm = 6.2
+| Apr precipitation mm = 19.2
+| May precipitation mm = 32.1
+| Jun precipitation mm = 78.6
+| Jul precipitation mm = 137.8
+| Aug precipitation mm = 93.1
+| Sep precipitation mm = 45.8
+| Oct precipitation mm = 18.4
+| Nov precipitation mm = 5.2
+| Dec precipitation mm = 5.3
+| Jan humidity = 65
+| Feb humidity = 57
+| Mar humidity = 48
+| Apr humidity = 44
+| May humidity = 47
+| Jun humidity = 62
+| Jul humidity = 71
+| Aug humidity = 73
+| Sep humidity = 64
+| Oct humidity = 56
+| Nov humidity = 59
+| Dec humidity = 66
+| unit precipitation days = 0.1 mm
+| Jan precipitation days = 4.1
+| Feb precipitation days = 2.9
+| Mar precipitation days = 3.7
+| Apr precipitation days = 5.4
+| May precipitation days = 7.8
+| Jun precipitation days = 11.6
+| Jul precipitation days = 13.3
+| Aug precipitation days = 11.3
+| Sep precipitation days = 8.7
+| Oct precipitation days = 4.9
+| Nov precipitation days = 4.0
+| Dec precipitation days = 6.1
+| year precipitation days = 
+| Jan sun = 195.3
+| Feb sun = 215.0
+| Mar sun = 262.4
+| Apr sun = 255.6
+| May sun = 272.0
+| Jun sun = 269.4
+| Jul sun = 261.0
+| Aug sun = 260.3
+| Sep sun = 251.0
+| Oct sun = 224.1
+| Nov sun = 183.8
+| Dec sun = 170.2
+| year sun = 
+| Jan percentsun = 70
+| Feb percentsun = 74
+| Mar percentsun = 71
+| Apr percentsun = 62
+| May percentsun = 58
+| Jun percentsun = 57
+| Jul percentsun = 55
+| Aug percentsun = 60
+| Sep percentsun = 68
+| Oct percentsun = 68
+| Nov percentsun = 67
+| Dec percentsun = 65
+| year percentsun = 
+| Jan snow days = 6.4
+| Feb snow days = 4.2
+| Mar snow days = 5.4
+| Apr snow days = 2.5
+| May snow days = 0.2
+| Jun snow days = 0
+| Jul snow days = 0
+| Aug snow days = 0
+| Sep snow days = 0
+| Oct snow days = 1.9
+| Nov snow days = 5.6
+| Dec snow days = 8.1
+| year snow days = 
+| source 1 = [[China Meteorological Administration]]<ref name="cma graphical">{{cite web |url=http://data.cma.cn/data/weatherBk.html |script-title=zh:中国气象数据网 – WeatherBk Data |publisher=[[China Meteorological Administration]] |language = zh-hans |access-date=12 August 2023}}</ref><ref>
+{{cite web|url=https://experience.arcgis.com/template/e724038fda394e9d9b7921f10fd1aa55/page/%E7%BA%AF%E8%A1%A8%E6%A0%BC%E7%BB%9F%E8%AE%A1-(%E5%AF%B9%E6%AF%948110%E5%8F%98%E5%8C%96)/?org=UQmaps |script-title=zh:中国气象数据网|publisher=[[China Meteorological Administration]] |language = zh-hans | access-date =12 August 2023}}</ref><ref name="CMA old">
+{{cite web|url=http://old-cdc.cma.gov.cn/shuju/search1.jsp?dsid=SURF_CLI_CHN_MUL_MMON_19712000_CES&tpcat=SURF&type=table&pageid=3 |script-title=zh:中国地面国际交换站气候标准值月值数据集（1971－2000年）|publisher=[[China Meteorological Administration]] |access-date=2010-05-25 |url-status=dead |archive-url=https://web.archive.org/web/20130921055035/http://old-cdc.cma.gov.cn/shuju/search1.jsp?dsid=SURF_CLI_CHN_MUL_MMON_19712000_CES&tpcat=SURF&type=table&pageid=3 |archive-date=2013-09-21 
+}}</ref>
+| source = 
+}}
+
+== Subdivisions ==
+[[File:Txu-oclc-6654394-nl-51-4th-ed.jpg|thumb|Map of Qiqihar (labeled as CH'I-CH'I-HA-ERH (TSITSIHAR)) and surrounding areas from the [[International Map of the World]] (1975)]]
+[[File:Txu-pclmaps-oclc-22834566 f-9b.jpg|thumb|Map including Qiqihar]]
+Qiqihar is divided into 16&nbsp;divisions: 7&nbsp;[[District (PRC)|districts]] ({{zh|s={{linktext|区}} |p=qū |labels=no}}), 8&nbsp;[[County (People's Republic of China)|counties]] ({{zh|s={{linktext|县}} |p=xiàn |labels=no}}) and 1&nbsp;[[county-level city]] ({{zh|s={{linktext|县级市}} |p=xiànjí shì |labels=no}}).
+
+{| class="wikitable"  style="font-size:90%;" align=center
+!Colspan="7"| Map
+|-
+|colspan="7" align="center" | <div style="position: relative" class="center">
+{{Image label begin|image=Administrative Division Qiqihar.png|width=600|link=}}
+{{Image label|x=650|y=1030|scale=600/1796|text=[[Longsha District|'''1''']]}}
+{{Image label|x=690|y=950|scale=600/1796|text=[[Jianhua District|'''2''']]}}
+{{Image label|x=730|y=1020|scale=600/1796|text=[[Tiefeng District|<span style="font-size:smaller;">'''Tiefeng'''</span>]]}}
+{{Image label|x=600|y=1110|scale=600/1796|text=[[Ang'angxi District|<span style="font-size:smaller;">'''Ang'angxi'''</span>]]}}
+{{Image label|x=510|y=1060|scale=600/1796|text=[[Fularji District|'''3''']]}}
+{{Image label|x=220|y=830|scale=600/1796|text=[[Nianzishan District|'''4''']]}}
+{{Image label|x=520|y=810|scale=600/1796|text=[[Meilisi Daur District|<span style=" font-size:smaller;">'''Meilisi Daur'''</span>]]}}
+{{Image label|x=230|y=1040|scale=600/1796|text='''[[Longjiang County]]'''}}
+{{Image label|x=1160|y=760|scale=600/1796|text='''[[Yi'an County]]'''}}
+{{Image label|x=390|y=1510|scale=600/1796|text='''[[Tailai County]]'''}}
+{{Image label|x=590|y=570|scale=600/1796|text='''[[Gannan County]]'''}}
+{{Image label|x=860|y=780|scale=600/1796|text=[[Fuyu County, Heilongjiang|'''Fuyu County''']]}}
+{{Image label|x=1320|y=470|scale=600/1796|text='''[[Keshan County]]'''}}
+{{Image label|x=1620|y=570|scale=600/1796|text='''[[Kedong County]]'''}}
+{{Image label|x=1500|y=820|scale=600/1796|text='''[[Baiquan County]]'''}}
+{{Image label|x=1070|y=290|scale=600/1796|text=[[Nehe, Heilongjiang|'''Nehe {{small|(city)}}''']]}}
+{{Image label|x=1000|y=1160|scale=600/1796|text=[[Longsha District|'''1. Longsha''']]}}
+{{Image label|x=1000|y=1220|scale=600/1796|text=[[Jianhua District|'''2. Jianhua''']]}}
+{{Image label|x=1000|y=1280|scale=600/1796|text=[[Fularji District|'''3. Fularji''']]}}
+{{Image label|x=1000|y=1340|scale=600/1796|text=[[Nianzishan District|'''4. Nianzishan''']]}}
+{{Image label end}}
+</div>
+|-
+! #
+! Name
+! [[Hanzi]]
+! [[Hanyu Pinyin]]
+! Population (2010 est.)
+! Area (km<sup>2</sup>)
+! Density (/km<sup>2</sup>)<ref>{{cite book|author1=National Bureau of Statistics of the People's Republic of China |script-title=zh:《中国2010年人口普查分县资料》 |date=December 2012|publisher=China Statistics Press |isbn=978-7-5037-6659-6 |language=zh-hans}}</ref>
+|----------
+|1
+|[[Longsha District]]
+|{{lang|zh-hans|龙沙区}}
+|Lóngshā Qū
+|354,987
+|283
+|1,254
+|----------
+|2
+|[[Jianhua District]]
+|{{lang|zh-hans|建华区}}
+|Jiànhuá Qū
+|292,579
+|81
+|3,612
+|----------
+|3
+|[[Tiefeng District]]
+|{{lang|zh-hans|铁锋区}}
+|Tiěfēng Qū
+|331,951
+|695
+|478
+|----------
+
+|4
+|[[Ang'angxi District]]
+|{{lang|zh-hans|昂昂溪区}}
+|Áng'ángxī Qū
+|80,109
+|623
+|129
+|----------
+|5
+|[[Fularji District]]
+|{{lang|zh-hans|富拉尔基区}}
+|Fùlā'ěrjī Qū
+|256,159
+|375
+|683
+|----------
+|6
+|[[Nianzishan District]]
+|{{lang|zh-hans|碾子山区}}
+|Niǎnzishān Qū
+|72,151
+|290
+|249
+|----------
+|7
+|[[Meilisi Daur District]]
+|{{lang|zh-hans|梅里斯达斡尔族区}}
+|Méilǐsī Dáwò'ěrzú Qū
+|165,852
+|1,948
+|85
+|----------
+|8
+|[[Nehe, Heilongjiang|Nehe City]]
+|{{lang|zh-hans|讷河市}}
+|Nèhé Shì
+|625,892
+|6,664
+|94
+|----------
+|9
+|[[Longjiang County]]
+|{{lang|zh-hans|龙江县}}
+|Lóngjiāng Xiàn
+|572,764
+|6,197
+|92
+|----------
+|10
+|[[Yi'an County]]
+|{{lang|zh-hans|依安县}}
+|Yī'ān Xiàn
+|480,035
+|3,780
+|127
+|----------
+|11
+|[[Tailai County]]
+|{{lang|zh-hans|泰来县}}
+|Tàilái Xiàn
+|302,027
+|4,061
+|74
+|----------
+|12
+|[[Gannan County]]
+|{{lang|zh-hans|甘南县}}
+|Gānnán Xiàn
+|368,734
+|4,384
+|84
+|----------
+|13
+|[[Fuyu County, Heilongjiang|Fuyu County]]
+|{{lang|zh-hans|富裕县}}
+|Fùyù Xiàn
+|276,537
+|4,335
+|64
+|----------
+|14
+|[[Keshan County]]
+|{{lang|zh-hans|克山县}}
+|Kèshān Xiàn
+|403,175
+|3,632
+|111
+|----------
+|15
+|[[Kedong County]]
+|{{lang|zh-hans|克东县}}
+|Kèdōng Xiàn
+|264,285
+|2,083
+|127
+|----------
+|16
+|[[Baiquan County]]
+|{{lang|zh-hans|拜泉县}}
+|Bàiquán Xiàn
+|519,766
+|3,569
+|146
+|}
+
+==Demographics==
+According to the [[Sixth National Population Census of the People's Republic of China|sixth national population census]], the population amounted to 5,367,003 people.<ref>{{lang|zh-Hans|《齐齐哈尔市2010年第六次全国人口普查主要数据公报》}}. Qiqihar Municipal Bureau of Statistics</ref> There are 2,720,725 men and 2,646,278 women. The population age of 0-14 was 691,722, people aged 15–64 4,238,140 and people aged 65 and older 437,141.
+
+== Economy ==
+Qiqihar is a heavily industrialized city involved in manufacturing.
+
+In 2009, the city's 95 large-scale equipment manufacturing enterprises, with total assets of 30.6&nbsp;billion yuan, accounting for the city's industrial enterprises above designated size of 46.5% of total assets, the number of employees 5.2&nbsp;million, accounting for the city's industrial enterprises above the size of 45.6% of the total number of employees. The main business income of 25.57&nbsp;billion yuan, industrial added value of 8.05&nbsp;billion yuan, profits of 1.96&nbsp;billion yuan, 1.03&nbsp;billion yuan of taxes, respectively, year on year growth of 2.9%, 3%, 19.6% and 22.3%, accounting for the city's industrial enterprises above designated size were 40.6%, 40%, 44.3% and 31.7%, respectively.
+
+=== Hospitals ===
+Qiqihar has 23 hospitals.
+
+=== Companies ===
+Companies conducting business in Qiqihar include [[RT-Mart]], [[Walmart]], [[GOME Electrical Appliances]], and Suning Commerce Group.
+
+=== Banks ===
+Since Qiqihar is a large city, numerous banks work here. Some of the banks include [[Bank of China]], [[China Construction Bank]], [[Industrial and Commercial Bank of China]], and [[Agricultural Bank of China]].
+
+== Tourism ==
+Qiqihar is very close to the [[Zhalong Nature Reserve]]. Also, there is the Longsha park.
+
+==Transportation==
+
+=== Airport ===
+Qiqihar is served by its own domestic airport, [[Qiqihar Sanjiazi Airport]].
+
+=== Trains ===
+Qiqihar is well-connected in terms of railway transportation. Trains from [[Qiqihar Railway Station]] connect the city with [[Harbin]], [[Beijing]], [[Dalian]], [[Hangzhou]], [[Xi'an]] and several other major cities in China. [[Qiqihar Sanjiazi Airport]], {{convert|13|km|abbr=on}} from Qiqihar's downtown area, operates daily flights to Beijing, [[Guangzhou]], [[Shangha]]i and other major cities in China. In the district of [[Ang'angxi District|Ang'angxi]], the [[Harbin-Manzhouli Railway]] intersects with the [[Qiqihar-Bei'an Railway]].
+
+The [[Harbin–Qiqihar intercity railway]] opened on 17 August 2015;<ref name=RGnorthern>{{cite web|title=Northernmost PDL opens in Heilongjiang|url=http://www.railwaygazette.com/news/news/asia/single-view/view/northernmost-pdl-opens-in-heilongjiang.html|website=Railway Gazette|publisher=Railway Gazette|access-date=24 September 2022}}</ref><ref>{{cite web|last1=Xuefei|first1=Tian|last2=Huiying|first2=Zhou|title=High-speed rail to open after 6 years of challenges|url=http://www.chinadaily.com.cn/cndy/2015-08/07/content_21524274.htm|website=China Daily|access-date=24 September 2022}}</ref> it provides frequent high-speed service to [[Harbin]], as well as some direct trains to Beijing.<ref>{{cite web |url=http://news.huochepiao.com/2015-7/201573010075831.htm |script-title=zh:哈齐客运专线更名哈齐高铁 成为我省首个高速铁路线路 |script-work=zh:哈尔滨日报 |via=huochepiao.com |date=2015-07-30 |access-date=July 30, 2015 |archive-url=https://web.archive.org/web/20160304065339/http://news.huochepiao.com/2015-7/201573010075831.htm |archive-date=March 4, 2016 |url-status=dead }}</ref>
+
+=== River ===
+The Nen River is used to transport material.
+
+===Gallery===
+<gallery>
+File:Old Qiqihar Station 01.jpg|The old station building, now used for first class
+File:Qiqihar Station 01.jpg|The old station building
+File:Qiqihar Station 02.jpg|The new station building
+</gallery>
+
+== Education ==
+Numerous schools exist in the city. Four elementary schools feed into 8 city or county high schools.
+
+There are two universities: [[Qiqihar University]] and its [[Qiqihar Medical University|medical school]].
+
+==Sister cities==
+*{{flagdeco|US}} [[New Castle County]], [[Delaware]], United States
+*{{flagdeco|Japan}} [[Utsunomiya, Tochigi|Utsunomiya]], [[Tochigi Prefecture|Tochigi]], Japan
+*{{flagdeco|South Korea}} [[Goyang]], [[Gyeonggi]], South Korea
+*{{flagdeco|Egypt}} [[10th of Ramadan City]], Egypt
+*{{flagdeco|Russia}} [[Krasnoyarsk]], Russia<ref>{{Cite web|url=http://www.admkrsk.ru/sites/eng/rel/pages/default.aspx|title=Foreign Relations - Foreign Relations - Krasnoyarsk city administration official website|website=www.admkrsk.ru}}</ref>
+
+== Notable people from Qiqihar ==
+* [[Empress Wanrong|Wanrong]] - Princess consort to Puyi
+* [[Ma Zhanshan]] - General
+* [[Zhou Tienong]] - Vice chair of [[Standing Committee of the National People's Congress|Standing committee of Congress of China]]
+* [[Chen Yunlin]] - politician
+* [[Zhai Zhigang]] - Astronaut
+* [[Liu Boming (astronaut)|Liu Boming]] - Astronaut
+* [[Bai Xue]] - 10,000 meter runner
+* [[Mao Buyi]] - singer-songwriter
+* [[Li Yingying (volleyball)|Li Yingying]] - Chinese female national volleyballer
+
+==References==
+{{Reflist}}
+
+==Notes==
+{{notelist}}
+
+== External links ==
+{{Commons category|Qiqihar}}
+{{Wiktionary|Qiqihar|Qiqiha'er|Qiqihaer|Tsitsihar|Ch'i-ch'i-ha-erh|Chichihaerh}}
+* [https://web.archive.org/web/20071017012317/http://www.qqhr.gov.cn/index.htm Official Website]
+* [http://www.lib.utexas.edu/maps/ams/china_city_plans/txu-oclc-6560750.jpg Historic US Army map of Qiqihar, 1945]
+
+{{Heilongjiang topics}}
+{{Heilongjiang}}
+{{Metropolitan cities of the People's Republic of China}}
+{{Prefectural-level divisions of the People's Republic of China}}
+{{Authority control}}
+
+[[Category:Qiqihar| ]]
+[[Category:Populated places established in the 12th century]]
+[[Category:1125 establishments]]
+[[Category:Prefecture-level divisions of Heilongjiang]]
+[[Category:Cities in Heilongjiang]]
+[[Category:12th-century establishments in China]]

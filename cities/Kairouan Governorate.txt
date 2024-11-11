@@ -1,0 +1,104 @@
+{{short description|Governorate of Tunisia}}
+{{More citations needed|date=January 2015}}
+{{Infobox settlement
+<!-- See Template:Infobox province for additional fields and descriptions -->| name               = Kairouan
+| native_name        = قيروان
+| native_name_lang   = aeb<!-- ISO 639-3 code e.g. "aeb" for Tunisian Arabic -->
+| other_name         = 
+| type               = [[Governorates of Tunisia|Governorate]]
+| image_skyline      = 
+| image_alt          = 
+| image_caption      = 
+| image_shield       = 
+| shield_alt         = 
+| image_map          = Kairouan in Tunisia.svg
+| map_alt            = 
+| map_caption        = Map of Tunisia with Kairouan highlighted
+| image_map1         = Tunisie Gouvernorat de Kairouan.svg
+| map_caption1       = Subdivisions of Kairouan Governorate
+| coordinates        = {{coord|35|40|N|10|06|E|region:TN_type:adm1st|display=inline,title}}
+| coor_pinpoint      = 
+| coordinates_footnotes = 
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = {{TUN}}
+| established_title  = Created
+| established_date   = 21 June 1956
+| seat_type          = Capital
+| seat               = [[Kairouan]]
+| government_footnotes = 
+| leader_party       = 
+| leader_title       = [[Governor]]
+| leader_name        = Dhaker Bargaoui (since 2024) <ref>https://www.tap.info.tn/en/Portal-Top-News-EN/17861830-president-of-the</ref>
+| unit_pref          = Metric<!-- or US or UK -->
+| area_footnotes     = 
+| area_total_km2     = 6712
+| area_rank          = [[List of Tunisian governorates by area|Ranked 8th of 24]]
+| area_note          = 
+| elevation_footnotes = 
+| elevation_m        = 
+| population_footnotes = 
+| population_total   = 570559
+| population_as_of   = 2014
+| population_rank    = [[List of Tunisian governorates by population|Ranked 5th of 24]]
+| population_density_km2 = auto
+| population_demonym = 
+| population_note    = 
+| timezone1          = [[Central European Time|CET]]
+| utc_offset1        = +01
+| postal_code_type   = Postal prefix
+| postal_code        = xx
+| area_code_type     = Calling code
+| area_code          = 
+| iso_code           = [[ISO 3166-2:TN|TN-41]]
+| website            = <!-- [http://www.example.com example.com] -->
+| footnotes          = 
+}}
+'''Kairouan Governorate''' ({{Langx|aeb|ولاية قيروان}} ''{{transl|aeb|Wilāyat Qiyrwān}}''; {{langx|fr|Gouvernorat de Kairouan}}) is one of the twenty-four [[Governorates of Tunisia|governorates]] of [[Tunisia]]. It is landlocked and in the centre-east of the country. It covers an area of 6,712&nbsp;km<sup>2</sup> and has a population of 570,559 (2014 census).  The narrower province of [[Sousse Governorate|Sousse]] borders it to the east, the nearest coastline<ref>{{in lang|fr}}[http://rgph2014.ins.tn/fr/resultats Census 2014 (National Institute of Statistics)] {{webarchive|url=https://web.archive.org/web/20141029170649/http://rgph2014.ins.tn/fr/resultats |date=2014-10-29 }}</ref> The capital is [[Kairouan]].  Lowland parts of the province are semi-arid, experiencing in most years light rains in the winter months and scant rainfall in other months but higher parts attract [[relief precipitation]] in and around the Djebel Zhagdoud and a large part of the Djebel Serj national parks, in the north-east of the province which are geologically outcrops of the Dorsal Atlas mountains in the province to the north.
+
+==Administrative divisions==
+The Kairouan Governorate is divided into eleven [[Delegations of Tunisia|''delegations'']] (''[[mutamadiyat]]''), listed below with their populations at the 2004 and 2014 Censuses,<ref>Institut National de la Statistique Tunisie (web).</ref> and further sub-divided into sectors (''imada'').
+
+{| class="wikitable"
+|-
+! Delegation !! Area <br>in km<sup>2</sup> !! Population <br>2004 Census !! Population <br>2014 Census
+|-
+| [[Alaâ]] ||align="right"| 361 ||align="right"| 31,773 ||align="right"| 28,991 
+|-
+| [[Bou Hajla]] ||align="right"| 690 ||align="right"| 70,589 ||align="right"| 72,371 
+|-
+| [[Chebika, Kairouan|Chebika]] ||align="right"| 513 ||align="right"| 33,889 ||align="right"| 35,308
+|-
+| [[Echrarda]] ||align="right"| 330 ||align="right"| 25,903 ||align="right"| 27,518 
+|-
+| [[Haffouz]] ||align="right"| 611 ||align="right"| 43,792 ||align="right"| 40,066
+|-
+| [[Hajeb El Ayoun]] ||align="right"| 589 ||align="right"| 35,403 ||align="right"| 36,137 
+|-
+| [[Kairouan]] North ||align="right"| 251 ||align="right"| 83,794 ||align="right"| 96,781 
+|-
+| [[Kairouan]] South ||align="right"| 520 ||align="right"| 80,444 ||align="right"| 93,101
+|-
+| [[Nasrallah]] ||align="right"| 685 ||align="right"| 37,112 ||align="right"| 33,789 
+|-
+| [[Oueslatia]] ||align="right"| 915 ||align="right"| 36,195 ||align="right"| 34,452
+|-
+| [[Sbikha]] ||align="right"| 1,069 ||align="right"| 67,315 ||align="right"| 71,922
+|}
+
+Twelve municipalities are included within Kairouan Governorate:
+{{#section:Template:Table of Tunisian municipalities|kairouan}}
+
+==Nature reserves==
+* [[Aïn Chrichira]]<ref>{{cite web|url=http://www.onagri.nat.tn/uploads/divers/atlas/RN_Aincherichira.pdf|title=Reserve Naturelle|work=www.onagri.nat.tn|access-date=23 April 2018}}</ref>
+
+==References==
+{{Reflist}}
+{{Governorates of Tunisia}}
+
+{{Authority control}}
+
+[[Category:Kairouan Governorate| ]]
+[[Category:Governorates of Tunisia]]
+
+
+{{Tunisia-geo-stub}}

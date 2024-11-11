@@ -1,0 +1,573 @@
+{{Short description|Capital city of Negros Oriental, Philippines}}
+{{distinguish|Dalaguete|Dumaguit}}
+{{Infobox settlement
+| name                            = {{PH wikidata|name}}
+| image_skyline                   = Dumaguete May 2020 3.jpg
+| image_alt                       = Skyline of Dumaguete
+| image_caption                   = Aerial view of Dumaguete
+| image_flag                      = Flag_of_Dumaguete,_Negros_Oriental.png
+| flag_size                       = 120x80px
+| image_seal                      = Dumaguete seal.svg
+| seal_size                       = 100x80px
+| image_map                       = {{PH wikidata|image_map}}
+| map_caption                     = {{PH wikidata|map_caption}}
+| image_map1                      = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map                     = #Visayas#Philippines
+| pushpin_label_position          = left
+| pushpin_map_caption             = Location within the {{PH wikidata|country}}
+| coordinates                     = {{PH wikidata|coordinates}}
+| settlement_type                 = {{PH wikidata|settlement_type}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = [[Philippines]]
+| subdivision_type1               = [[Regions of the Philippines|Region]]
+| subdivision_name1               = {{PH wikidata|region}}
+| subdivision_type2               = [[Provinces of the Philippines|Province]]
+| subdivision_name2               = {{PH wikidata|province}}
+| official_name                   = {{PH wikidata|official_name}}
+| native_name                     = 
+| other_name                      = 
+| nickname                        = ''The City of Gentle People''<ref name="Tourism"/>
+| motto                           = 
+| anthem                          = 
+| subdivision_type3               = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3               = {{PH legislative district}}
+| established_title               = [[Date of establishment|Founded]]
+| established_date                = <!--foundation date-->
+| established_title1              = Cityhood
+| established_date1               = November 24, 1948
+| parts_type                      = [[Barangay]]s
+| parts_style                     = para
+| p1                              = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title                    = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name                     = Felipe Antonio B. Remollo ([[Liberal Party (Philippines)|LP]])
+| leader_title1                   = [[Vice Mayor]]
+| leader_name1                    = Ma. Isabel L. Sagarbarria ([[Nationalist People’s Coalition|NPC]])
+| leader_title2                   = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2                    = Manuel T. Sagarbarria ([[Nationalist People’s Coalition|NPC]])
+| leader_title3                   = [[Sangguniang Panlungsod|City Council]]
+| leader_name3                    = {{PH Town Council
+| 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Karissa Faye R. Tolentino-Maxino
+ | 3=Joe Kenneth K. Arbas
+ | 4=Maria Marife L. Cordova
+ | 5=Agustin Miguel A. Perdices
+ | 6=Jose A. Baldado
+ | 7=Bernice Anne A. Elmaco
+ | 8=Rey Lyndon T. Lawas
+ | 9=Antonio J. Remollo
+ | 10=Franklin D. Esmeña Jr.
+ | 11=Jose Victor V. Imbo
+ | 12=Dionie D. Amores ([[Liga ng mga Barangay|ABC]])
+ | 13=Renz Macion ([[Sangguniang Kabataan|SK Federation]])
+}}
+| leader_title4                   = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4                    = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type                 = {{PH wikidata|government_type}}
+| government_footnotes            = <ref>{{DILG detail}}</ref>
+| elevation_m                     = {{PH wikidata|elevation_m}}
+| elevation_max_m                 = 1844
+| elevation_min_m                 = 0
+| elevation_max_rank              =
+| elevation_min_rank              =
+| elevation_footnotes             = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes         = 
+| elevation_min_footnotes         = 
+| area_footnotes                  = {{PH area}}
+| area_total_km2                  = {{PH wikidata|area}}
+| population_footnotes            = {{PH census|current}}
+| population_total                = {{PH wikidata|population_total}}
+| population_as_of                = {{PH wikidata|population_as_of}}
+| population_density_km2          = auto
+| population_blank1_title         = [[Household]]s
+| population_blank1               = {{PH wikidata|household}} 
+| population_blank2_title         = 
+| population_blank2               = 
+| population_demonym              = Dumagueteño (masculine)<br />Dumagueteña (feminine)
+| population_rank                 = 
+| population_note                 = 
+| timezone                        = [[Philippine Standard Time|PST]]
+| utc_offset                      = +8
+| postal_code_type                = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code                     = {{PH wikidata|postal_code}}
+| postal2_code_type               = {{PSGCstyle}}
+| postal2_code                    = {{PSGC detail}}
+| area_code_type                  = {{areacodestyle}}
+| area_code                       = {{PH wikidata|area_code}}
+| website                         = {{PH wikidata|website}}
+| demographics_type1              = Economy
+| demographics1_title1            = {{PH wikidata|income_class_title}}
+| demographics1_info1             = 2nd city income class
+| demographics1_title2            = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2             = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3            = [[Revenue]]
+| demographics1_info3             = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4            = Revenue rank
+| demographics1_info4             = 
+| demographics1_title5            = [[Asset]]s
+| demographics1_info5             = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6            = Assets rank
+| demographics1_info6             = 
+| demographics1_title7            = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7             = 
+| demographics1_title8            = IRA rank
+| demographics1_info8             = 
+| demographics1_title9            = [[Expenditure]]
+| demographics1_info9             = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10           = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10            = 
+| demographics_type2              = Service provider
+| demographics2_title1            = [[List of electric distribution utilities in the Philippines|Electricity]]
+| demographics2_info1             = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2            = Water
+| demographics2_info2             = Metro Pacific Dumaguete Water Services, Inc. (Metro Dumaguete Water)
+| demographics2_title3            = Telecommunications
+| demographics2_info3             = 
+| demographics2_title4            = Cable TV
+| demographics2_info4             =
+| demographics2_title5            = 
+| demographics2_info5             =
+| demographics2_title6            = 
+| demographics2_info6             =
+| demographics2_title7            = 
+| demographics2_info7             =
+| demographics2_title8            = 
+| demographics2_info8             =
+| demographics2_title9            = 
+| demographics2_info9             =
+| demographics2_title10           = 
+| demographics2_info10            =
+| blank_name_sec1                 = {{PH wikidata|climate_title}}
+| blank_info_sec1                 = {{PH wikidata|climate_type}}
+| blank1_name_sec1                = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1                = {{PH wikidata|language}}
+| blank2_name_sec1                = [[Crime index]]
+| blank2_info_sec1                = 
+| blank3_name_sec1                = 
+| blank3_info_sec1                = 
+| blank4_name_sec1                = 
+| blank4_info_sec1                = 
+| blank5_name_sec1                = 
+| blank5_info_sec1                = 
+| blank6_name_sec1                = 
+| blank6_info_sec1                = 
+| blank7_name_sec1                = 
+| blank7_info_sec1                = 
+| blank1_name_sec2                = Major religions
+| blank1_info_sec2                = 
+| blank2_name_sec2                = Feast date
+| blank2_info_sec2                = 
+| blank3_name_sec2                = Catholic diocese
+| blank3_info_sec2                =
+| blank4_name_sec2                = Patron saint
+| blank4_info_sec2                = 
+| blank5_name_sec2                = 
+| blank5_info_sec2                = 
+| blank6_name_sec2                = 
+| blank6_info_sec2                = 
+| blank7_name_sec2                = 
+| blank7_info_sec2                =
+| short_description               =
+| footnotes                       =
+}}
+
+'''Dumaguete''', officially the '''City of Dumaguete''' ({{IPA|tl|dʊmɐˈgɛtɛ|lang}}; {{lang-ceb|Dakbayan sa Dumaguete}}; {{lang-fil|Lungsod ng Dumaguete}}), is a 2nd class [[Cities of the Philippines#Legal classification|component city]] and capital of the [[Provinces of the Philippines|province]] of [[Negros Oriental]], [[Philippines]]. According to the 2020 census, it has a population of 134,103 people.{{PH census|current}} It is the most populous city and the smallest city by land area in Negros Oriental as well as one of the two regional centers in [[Negros Island Region]] (the other one is [[Bacolod]]).
+
+Dumaguete is a [[college town|university city]] with four large universities and several colleges, attracting students of the province and students from across the [[Visayas]] and [[Mindanao]]. The city is best known for [[Silliman University]], the first [[Protestant]] and American university in the country and in Asia.<ref>[http://services.inquirer.net/print/print.php?article_id=20080714-148252 "Heritage Diary of Negros Oriental"] {{Webarchive|url=https://web.archive.org/web/20180312083544/http://services.inquirer.net/print/print.php?article_id=20080714-148252 |date=2018-03-12 }}. Inquirer.net. ''By: Dexter Matilla''. Posted July 14, 2008. Accessed October 15, 2009.</ref> [[List of schools in Dumaguete|Schools in Dumaguete]] include 18 public elementary schools and eight public high schools.<ref name="Tourism"/>
+
+Dumaguete is bounded by the towns of [[Bacong]], [[Sibulan]], and [[Valencia, Negros Oriental|Valencia]]. The power source of the city comes from the [[Palinpinon Geothermal Power Plant|geothermal power plant]] in Valencia.
+
+==Etymology==
+"Dumaguete" was coined from the [[Cebuano language|Cebuano]] word {{Lang|ceb|daggit}}, which means "to snatch". The word {{Lang|ceb|dumaguet}}, meaning "to swoop", was coined because of the area's frequent raids by [[Moro people|Moro]] pirates and its power to attract and keep visitors, both local and foreign. In 1572, Diego López Povedano indicated the place as Dananguet, but [[cartographer]] Pedro Murillo Velarde in 1734 already used the present name of Dumaguete for the settlement.<ref name=":3">{{Cite web |date=2018-07-18 |title=Dumaguete City |url=https://dumagueteinfo.com/attractions/listing/dumaguete-city/ |access-date=2024-02-03 |website=DumagueteInfo Attractions |language=en-US}}</ref>
+
+== History ==
+=== Early history ===
+
+Dumaguete City was once settled by [[datu]]s from Borneo who exiled themselves into the newly established [[Madja-as|Kedatuan of Madja-as]].<ref>[https://babel.hathitrust.org/cgi/pt?id=mdp.39015034052020&seq=1 Maragtas: The story of the life experienced by the datus of Borneo ... and their purchase of the island from King Marikudo, who was king of the Negritos, in the year 1520  (Pedro Alcantara Monteclaro; Translated to English by Esther Abiera)]</ref> They participated in a successful war against [[Chola Empire|Chola]]-occupied Odtojonan in [[Borneo]] (The former homeland) as a constituent kingdom of Madja-as (the re-established nation). Eventually, they allied themselves under the nearby [[Rajahnate of Cebu]] as the people of Dumaguete adopted the Cebuano language, culture, and customs.<ref>{{Cite web |url=http://aboutcagayandeoro.com/10-fun-facts-about-cagayan-de-oro/ |title=10 Fun Facts about Cagayan de Oro |date=5 February 2016 |website=About Cagayan de Oro |language=en-US |access-date=6 September 2018}}</ref>
+
+=== Spanish colonial era ===
+After the [[History of the Philippines (1565–1898)|Spanish colonization of the Philippines]], the island of [[Negros]] was divided into the provinces of Negros Oriental and [[Negros Occidental]] by a royal decree executed by Governor General [[Valeriano Weyler]] on January 1, 1890. Dumaguete was also made the capital of the new Negros Oriental Province.
+
+In 1898, months after the arrival of [[Emilio Aguinaldo]] from exile, the [[Negros Revolution]] suddenly broke out. [[Negros Occidental]] Province, which was still ruled by the Spanish authorities, eventually surrendered to the Negrense Revolutionary Forces after a battle on November 6. They then began a week-long march which captured Dumaguete on November 24. By this time, the Spanish forces had left the entirety of [[Negros]]. The "[[Negros Republic]]" was then proclaimed on November 27.
+
+=== American era ===
+The American era saw the allegiance of the [[Republic of Negros]] grow towards a collaborationist stance as a Pro-American Protectorate amidst the [[Philippine–American War|Philippine-American War]]. The Americans saw the people of Negros as more dependable allies compared to other Filipinos. Therefore, Dumaguete observed the establishment of [[Silliman University]], the first American-founded university in Asia.<ref name="NHI">[https://drive.google.com/file/d/0B9c6mrxI4zoYUmFrNXU4ZGhlQWM/viewf "NHI Resolution No.7, Series 2002"]. National Historical Commission of the Philippines. Retrieved June 8, 2012.</ref><ref>{{Cite web|url=https://ph.news.yahoo.com/siliman-university-rocked-bomb-threat-102116235.html|title=Siliman University rocked by bomb threat; suspends classes|website=ph. news.yahoo.com|language=en-PH|access-date=November 12, 2019}}</ref><ref>{{Cite web|url=https://www.spot.ph/arts-culture/the-latest-arts-culture/79241/silliman-university-dumaguete-a4329-20190928-lfrm|title=This School By the Sea Has Front-Row Seats to a Poetic Dumaguete Morning|website=SPOT.PH| language=en|access-date=November 12, 2019}}</ref>
+
+=== Japanese occupation era ===
+[[Empire of Japan|Imperial Japanese]] [[Japanese occupation of the Philippines|forces]] landed at Dumaguete on May 26, 1942, after the fall of the [[Philippines]], and all of [[Negros Oriental]] Province surrendered shortly thereafter. Resistance against the Japanese occupation continued by guerilla groups in the inner mountains, where many native residents had fled to. The local Negrense guerillas attacked the remaining Japanese officials and troops on August 6, 1945, and after their victory, they welcomed combined American and Filipino forces that formally liberated Negros Oriental.
+
+=== Cityhood ===
+The City of Dumaguete was formally created on July 15, 1948, under Philippine Congressional Republic Act No. 327, also known as the "Charter of the City of Dumaguete". This was later amended on June 21, 1969, by Republic Act No. 5797, which clarified and refined the powers and functions of the local government unit in the earlier act.
+
+=== Martial law ===
+{{main|Martial law under Ferdinand Marcos|NASUTRA monopoly|Negros famine}}
+According to journalist [[Crispin Maslog]] who was teaching at Silliman University at the time,<ref name=CrisMasML>{{Cite news |last=Maslog |first=Crispin |date=April 15, 2021 |title='Probinsyano' remembers Martial Law |language=en |work=[[Rappler]] |url=https://www.rappler.com/voices/thought-leaders/probinsyano-remembers-martial-law |access-date=October 4, 2021}}</ref> Dumaguete was one of the first cities in the country to learn about [[Ferdinand Marcos|Marcos]]' declaration of [[Martial Law under Ferdinand Marcos|martial law]] on September 23, 1972. Local news station DYSR was able to pick up the news from an Australian broadcast. Elsewhere in the country, media outlets such as newspapers and broadcast stations had already been shut down, but DSYR was able to make the announcement before Information Secretary [[Francisco Tatad]] did at around noon. DYSR itself would be shut down later that day.<ref name=CrisMasML/>
+
+Maslog recounts that Silliman University in Dumaguete was one of the last four universities in the Philippines to be allowed to reopen for classes, with Marcos himself complaining about instances where members of the political opposition such as Senators [[Jovito Salonga]] and [[Juan Liwag]] were invited to speak at the university.<ref name=CrisMasML/>
+
+In the mid-1980s, the [[Marcos cronies|crony capitalism]] which characterized the Marcos administration had a major effect on the island of Negros in which Dumaguete is located.<ref name="ChicagoTribuneNegrosFamine">{{Cite news |last=Reaves |first=Joseph A. |date=November 24, 1985 |title=SUGAR-CHOKED ISLAND STARVING |language=en-US |work=Chicago Tribune |url=https://www.chicagotribune.com/news/ct-xpm-1985-11-24-8503210570-story.html |access-date=October 4, 2021}}</ref><ref name="CañaEsquire">{{Cite magazine |last=Caña |first=Paul John |date=April 15, 2021 |title=Sugar Wars: Looking Back at the Negros Famine of the 1980s |url=https://www.esquiremag.ph/long-reads/features/negros-famine-of-the-1980s-a00289-20210415-lfrm2 |url-status=live |magazine=Esquire Magazine Philippines |archive-url=https://web.archive.org/web/20210415100028/https://www.esquiremag.ph/long-reads/features/negros-famine-of-the-1980s-a00289-20210415-lfrm2 |archive-date=April 15, 2021 |access-date=October 4, 2021}}</ref> A [[NASUTRA monopoly|sugar hoarding scheme]] by [[National Sugar Trading Corporation]] (NASUTRA) of [[Roberto Benedicto]] backfired,<ref name="CañaEsquire"/> resulting in the mass-firing of sugar workers in Negros Oriental and Negros Occidental. Worsened by the economic nosedive which had begun in 1983, it eventually became known as the 1985 [[Negros famine]].<ref name="CañaEsquire"/>[[File:Landing Fields - Philippines - Negros Island - NARA - 68161330.jpg|thumb|Aerial view of Dumaguete, date unknown]]
+
+==Geography and environment==
+Dumaguete has a land area of {{convert|3362|ha}}, situated on the plains of the southeastern coast of the large island of [[Negros (Philippines)|Negros]], near the mouth of the [[Banica River]]. Of the province's 19 municipalities and 6 cities, Dumaguete is the smallest in terms of land area. It is bounded on the north by [[Sibulan, Negros Oriental|Sibulan]], south by [[Bacong, Negros Oriental|Bacong]], and west by [[Valencia, Negros Oriental|Valencia]].
+
+As a coastal city, it is bounded on the east by the [[Bohol Sea]] and the [[Tañon Strait]], serving as a natural border of the southeastern border of Negros Oriental. The city's topography is generally flat from two to six kilometers from the shoreline. It slopes gently upwards to the adjoining municipality of Valencia. The highest ground elevation is located at the boundary of the municipality of Valencia, about one hundred meters above mean sea level. About 93% of the land have slopes of less than 3%. The remaining areas have a 3% to 5% slope.
+
+===Climate===
+Dumaguete has a [[tropical monsoon climate]] according to the [[Köppen climate classification|Köppen]] Climate classification with two distinct seasons: wet and dry. The wet season covers the period from June to November, and the dry season starts from December to May, the hottest being April and May. The average maximum temperature is 30.9&nbsp;°C and the average minimum temperature is 24.8&nbsp;°C for the 1991-2020 normals. The relative humidity of the locality for the past years was 81% with January registering the highest.
+
+Northeast monsoon winds (amihan) bring cooler temperatures with little sometimes moderate rain to the city during late October until early March. Trade winds from the Pacific help moderate the sultry conditions of the dry season during April and May, and usually record less hot daytime conditions than the rest of the country; yet nearby warm seas also cause warm and humid nights during this time. When no major wind system is in power, trade winds can occur all year round, providing similar conditions.  Southwest monsoon winds (habagat) usually bring overcast and rainy conditions from June to early October, but can also bring the hottest temperatures of the year due to the [[foehn effect]]; nevertheless, skies are usually clear that nights feel cool, having the widest temperature variation in a day at this time.
+
+{{Weather box
+| location = Dumaguete (1991-2020, extremes 1910–2021)
+| metric first = Yes
+| single line = Yes
+| width = auto
+| Jan record high C = 33.7
+| Feb record high C = 34.2
+| Mar record high C = 34.2
+| Apr record high C = 36.8
+| May record high C = 36.2
+| Jun record high C = 37.4
+| Jul record high C = 36.6
+| Aug record high C = 36.7
+| Sep record high C = 37.0
+| Oct record high C = 36.1
+| Nov record high C = 34.7
+| Dec record high C = 34.2
+| year record high C = 37.4
+| Jan high C = 29.2
+| Feb high C = 29.4
+| Mar high C = 30.2
+| Apr high C = 31.2
+| May high C = 31.9
+| Jun high C = 31.7
+| Jul high C = 31.5
+| Aug high C = 31.9
+| Sep high C = 31.7
+| Oct high C = 31.2
+| Nov high C = 30.7
+| Dec high C = 30.1
+| year high C = 30.9
+| Jan mean C = 26.9
+| Feb mean C = 26.9
+| Mar mean C = 27.5
+| Apr mean C = 28.3
+| May mean C = 28.7
+| Jun mean C = 28.4
+| Jul mean C = 28.0
+| Aug mean C = 28.2
+| Sep mean C = 28.1
+| Oct mean C = 27.9
+| Nov mean C = 27.9
+| Dec mean C = 27.6
+| year mean C = 27.9
+| Jan low C = 24.6
+| Feb low C = 24.5
+| Mar low C = 24.7
+| Apr low C = 25.4
+| May low C = 25.5
+| Jun low C = 25.0
+| Jul low C = 24.5
+| Aug low C = 24.4
+| Sep low C = 24.4
+| Oct low C = 24.6
+| Nov low C = 25.1
+| Dec low C = 25.0
+| year low C = 24.8
+| Jan record low C = 19.3
+| Feb record low C = 19.8
+| Mar record low C = 19.6
+| Apr record low C = 18.9
+| May record low C = 20.7
+| Jun record low C = 20.7
+| Jul record low C = 19.8
+| Aug record low C = 20.5
+| Sep record low C = 18.0
+| Oct record low C = 20.8
+| Nov record low C = 20.4
+| Dec record low C = 19.8
+| year record low C = 18.0
+| rain colour = green
+| Jan rain mm = 96.7
+| Feb rain mm = 73.7
+| Mar rain mm = 68.2
+| Apr rain mm = 49.1
+| May rain mm = 84.5
+| Jun rain mm = 144.0
+| Jul rain mm = 146.0
+| Aug rain mm = 104.6
+| Sep rain mm = 116.8
+| Oct rain mm = 158.6
+| Nov rain mm = 146.4
+| Dec rain mm = 134.0
+| year rain mm = 1,322.6
+| unit rain days = 0.1 mm
+| Jan rain days = 11
+| Feb rain days = 8
+| Mar rain days = 7
+| Apr rain days = 5
+| May rain days = 8
+| Jun rain days = 12
+| Jul rain days = 14
+| Aug rain days = 11
+| Sep rain days = 12
+| Oct rain days = 13
+| Nov rain days = 11
+| Dec rain days = 12
+| year rain days = 124
+| Jan humidity = 84
+| Feb humidity = 83
+| Mar humidity = 81
+| Apr humidity = 79
+| May humidity = 79
+| Jun humidity = 81
+| Jul humidity = 82
+| Aug humidity = 80
+| Sep humidity = 81
+| Oct humidity = 82
+| Nov humidity = 82
+| Dec humidity = 83
+| year humidity = 81
+| source 1 = [[Philippine Atmospheric, Geophysical and Astronomical Services Administration|PAGASA]]<ref name=PAGASAnormals>
+{{cite web
+| url = https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20NORMALS%20(1991-2020)/DUMAGUETE.pdf#toolbar=0&navpanes=0
+| title = Dumaguete City, Negros Oriental Climatological Normal Values
+| publisher = Philippine Atmospheric, Geophysical and Astronomical Services Administration
+| access-date = October 3, 2022}}</ref><ref name=PAGASAextremes>
+{{cite web
+| url = https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20EXTREMES%20(as%20of%202021)/Dumaguete.pdf#toolbar=0&navpanes=0
+| title = Dumaguete City, Negros Oriental Climatological Extremes
+| publisher = Philippine Atmospheric, Geophysical and Astronomical Services Administration
+| access-date = October 3, 2022}}</ref>
+}}
+
+=== Environment ===
+Dumaguete has a rich and unique marine ecosystem that provides livelihoods to fishers<ref name=":0">{{Cite web|last=Manahan|first=Job|date=July 22, 2021|title=Dumaguete reclamation to devastate nearby protected areas, marine biodiversity— conservation group|url=https://news.abs-cbn.com/news/07/22/21/wwf-concerned-dumaguete-proposed-land-reclamation-project|access-date=July 28, 2021|website=ABS-CBN News|language=en}}</ref> and supports tourism.<ref>{{Cite web|last=|first=|date=July 22, 2021|title=Sustainability: WWF-Philippines: Dumaguete should choose the enlightened way forward in the service of life|url=https://adobomagazine.com/sustainability/sustainability-wwf-philippines-dumaguete-should-choose-the-enlightened-way-forward-in-the-service-of-life/|access-date=July 28, 2021|website=Adobo Magazine Online|language=en-US}}</ref> The coastal environment, which includes [[seagrass meadow]]s, acts as efficient carbon sinks that [[Climate change mitigation|mitigate the effects of climate change]].<ref name=":1">{{Cite web|last=Cabico|first=Gaea Katreena|date=July 13, 2021|title=Reclamation in Dumaguete seen to pose devastating impacts on environment, communities|url=https://www.philstar.com/headlines/2021/07/13/2112202/reclamation-dumaguete-seen-pose-devastating-impacts-environment-communities|access-date=July 28, 2021|website=Philstar}}</ref> This ecosystem includes 36.15 hectares of seagrasses and 36.20 hectares of coral reef.<ref name=":0" /> Dumaguete has four [[marine protected area]]s covering 104 hectares that host over 200 species of fish.<ref name=":2">{{Cite web|last1=Bello|first1=Raizza|last2=Dagle|first2=Robbin|date=July 11, 2021|title=Environmental scientists, groups oppose Dumaguete 'smart city' reclamation project|url=https://www.rappler.com/nation/scientists-groups-oppose-dumaguete-smart-city-reclamation-project|access-date=July 28, 2021|website=Rappler|language=en}}</ref><ref name=":1" />
+
+In 2021, the fragile marine ecosystem was under threat from a proposed {{Convert|174|ha|abbr=on|adj=on}} [[Land reclamation|reclamation]] project that was met with opposition from youth organizations, church groups, residents, and environmental scientists, including [[National Scientist of the Philippines|Philippine national scientist]] [[Angel Alcala]].<ref>{{Cite web|last=|first=|date=July 16, 2021|title='An underwater tomb': Dumaguete reclamation would be a monumental ecological disaster - scientist|url=https://news.abs-cbn.com/news/07/16/21/dumaguete-reclamation-monumental-ecological-disaster-scientist|access-date=July 28, 2021|website=ABS-CBN News|language=en}}</ref><ref name=":2" /> Later that year, the city government halted the project.<ref>{{Cite web |last=Cirineo |first=Julian |date=2021-09-10 |title=Dumaguete mayor, council halt contract signing with Smart City developer |url=https://www.rappler.com/nation/dumaguete-mayor-remollo-council-halt-contract-signing-smart-city-developer/ |access-date=2024-02-24 |website=RAPPLER |language=en-US}}</ref>
+
+=== Barangays ===
+[[File:Dumaguete-Barangay-Map.svg|thumb|right|Dumaguete's barangay partitions]]
+Dumaguete is politically subdivided into 30 [[barangay]]s. Each barangay consists of [[purok]]s and some have [[sitios]].
+
+Most of the barangays are classified as urban. The eight ''poblacions'' comprise the city's downtown area and are assigned by numbers. The smallest barangay is Poblacion 4 with an area of only 5.11 [[hectare]]s, while the largest is Banilad with 362.71 hectares.
+
+{{PH brgy table lite|top}}
+{{PH brgy table lite|074610001| Bagacay | 9592| 8266}}
+{{PH brgy table lite|074610002| Bajumpandan | 7880| 4500}}
+{{PH brgy table lite|074610003| Balugo | 4110| 2980}}
+{{PH brgy table lite|074610004| Banilad | 9664| 8286}}
+{{PH brgy table lite|074610005| Bantayan | 4430| 4920}}
+{{PH brgy table lite|074610006| Batinguel |  9965|  8148}}
+{{PH brgy table lite|074610007| Buñao | 2723| 2727}}
+{{PH brgy table lite|074610008| Cadawinonan | 6887| 4892}}
+{{PH brgy table lite|074610009| Calindagan | 6709| 8056}}
+{{PH brgy table lite|074610010| Camanjac | 4859| 4142}}
+{{PH brgy table lite|074610011| Candau-ay | 9593| 6583}}
+{{PH brgy table lite|074610012| Cantil-e |  4697|  3229}}
+{{PH brgy table lite|074610013| Daro |  6164|  6373}}
+{{PH brgy table lite|074610014| Junob |  7651|  6054}}
+{{PH brgy table lite|074610015| Looc |  4063|  4058}}
+{{PH brgy table lite|074610016| Mangnao-Canal |  3113|  3707}}
+{{PH brgy table lite|074610017| Motong |  2429|  2137}}
+{{PH brgy table lite|074610018| Piapi |  4842|  6149}}
+{{PH brgy table lite|074610019| Poblacion 1 (Tinago) |  2141|  2170}}
+{{PH brgy table lite|074610020| Poblacion 2 |  1055|  1305}}
+{{PH brgy table lite|074610021| Poblacion 3 |  193|  150}}
+{{PH brgy table lite|074610022| Poblacion 4 |  225|  218}}
+{{PH brgy table lite|074610023| Poblacion 5 |  142|  132}}
+{{PH brgy table lite|074610024| Poblacion 6 |  255|  325}}
+{{PH brgy table lite|074610025| Poblacion 7 |  175|  202}}
+{{PH brgy table lite|074610026| Poblacion 8 |  1569|  2363}}
+{{PH brgy table lite|074610027| Pulantubig |  2994|  3266}}
+{{PH brgy table lite|074610028| Tabuctubig |  1399|  1684}}
+{{PH brgy table lite|074610029| Taclobo |  9458|  9691}}
+{{PH brgy table lite|074610030| Talay |  5126|  4170}}
+{{PH brgy table lite|bottom|120883}}
+{{clear left}}
+
+==Demographics==
+{{Philippine Census
+| align= left
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+As of the [[census]] in 2020, there are 134,103 people and 32,276 households residing in the city. According to the [[National Statistical Coordination Board]], Dumaguete has the lowest poverty incidence among urban centers in the Visayas.<ref>{{Cite web |title=City and Municipal-level Small Area Poverty Estimates, 2009 |url=http://www.nscb.gov.ph/poverty/2009_SAE/2009%20FINAL%20sae.pdf |archive-url=https://web.archive.org/web/20121113210747/http://www.nscb.gov.ph/poverty/2009_SAE/2009%20FINAL%20sae.pdf |archive-date=November 13, 2012 |access-date=February 26, 2024 |website=[[National Statistical Coordination Board]]}}</ref> It has an average daylight population of 400,000 people. Dumaguete is the most populous city in Negros Oriental, comprising 9.05% of the province's total population. During the [[2019 Philippine general election|2019 election]], its total voting population was 89,193 voters.
+
+The Philippine Retirement Authority, a government agency under the [[Department of Tourism (Philippines)|Department of Tourism]], has named the city as the "Best Place to Retire in the Philippines for 2018".<ref>{{Cite news |work=Philippine Information Agency|url=https://pia.gov.ph/news/articles/1011532 |title = Dumaguete City cited best PH place to retire}}</ref> Dumaguete is also listed fifth in ''[[Forbes|Forbes Magazine]]'s'' "7 Best Places to Retire Around the World".<ref>{{Cite web |last=Eisenberg |first=Richard |title=The 7 Best Places To Retire Around The World |url=https://www.forbes.com/sites/nextavenue/2014/08/25/the-7-best-places-to-retire-around-the-world/ |access-date=2024-02-24 |website=Forbes |language=en}}</ref>
+{{clear left}}
+
+==Economy==
+{{missing information|key economic measures such as per capita income and employment, and economic sustainability markers|date=October 2021}}
+{{PH poverty incidence}}[[File:Jollibee.jpg|thumb|A [[Jollibee]] branch in Dumaguete]]
+The major sources of income in Dumaguete are tourism, the academe, retail, BPO, technology, and IT firms. There are a significant number of banking institutions including a branch of [[Bangko Sentral ng Pilipinas]] in Dumaguete. Shopping centers in Dumaguete include [[CityMall (Philippines)|CityMall]] Dumaguete, Unitop Mall, Cang's Inc. Shopping Complex, Lee Super Plaza, and [[Robinsons Dumaguete]]. Business activities are concentrated in the downtown area.
+
+With the completion of four lanes, the Metro Dumaguete Diversion Road helps decongest the traffic in the main thoroughfares of the central business district from the town of [[Sibulan]] down to [[Bacong]]. The new highway is expected to economically benefit the barangays of the city as new centers for economic growth.<ref>{{Cite web |date=September 10, 2019 |title=DPWH breaks ground on Metro Dumaguete Diversion Road |url=https://www.dpwh.gov.ph/dpwh/news/16857 |access-date=February 5, 2024 |website=[[Department of Public Works and Highways]]}}</ref>
+
+These growing industries have made Dumaguete the hub for shopping, education, financial, IT, commerce, lifestyle, and sports in the province of Negros Oriental.
+
+=== Real estate and infrastructure ===
+The real estate industry in the city includes several constructions of condominiums, [[mixed-use development|mixed-use development town centers]], and massive horizontal housing projects. Shopping centers such as Filinvest Malls Dumaguete by [[Filinvest]] Group, Bayshores Dumaguete, and popular restaurants, bars, and dining strips along Flores Avenue have excellent views of Dumaguete Bay. Filinvest is set to develop the beach area for another vertical residential complex in the coastal barangay of Mangnao through its Futura Shores Dumaguete.
+
+[[CityMall (Philippines)|CityMall]] Dumaguete, a community mall anchored by SM Retail (SM Savemore and Ace Hardware) owned by [[DoubleDragon Properties]], and Cang's Shopping Complex are located on the national highway serving shoppers in the north. A public transport terminal with multi-level parking spaces is being built at the back of [[Robinsons Dumaguete]] within the Dumaguete Business Park. Joining the existing Dumaguete Business Park are the Lifestyle 8880 District, a commercial complex with hotel and convention center in Daro,<ref>{{Cite web |date=September 9, 2019 |title=CITY WELCOMES LIFESTYLE 8880 COMPLEX IN DARO! |url=https://dumaguetecity.gov.ph/2019/09/09/city-welcomes-lifestyle-8880-complex-in-daro/ |access-date=February 4, 2024 |website=Dumaguete City Government}}</ref> and the E.C. Ouano Sr. Complex in Bajumpandan, which is being used for government offices and other facilities.<ref>{{Cite web |date=April 19, 2022 |title=INAUGURATION OF THE CONCRETED ROAD NETWORK INSIDE THE DONATED E.C. OUANO SR. COMPLEX AS THE SITE OF THE GOVERNMENT CENTER IN BARANGAY BAJUMPANDAN |url=https://dumaguetecity.gov.ph/2022/04/19/inauguration-of-the-concreted-road-network-inside-the-donated-e-c-ouano-sr-complex-as-the-site-of-the-government-center-in-barangay-bajumpandan/ |access-date=February 4, 2024 |website=Dumaguete City Government}}</ref>[[File:DelonixDumaguete.jpg|thumb|Delonix, a business process outsourcing company in Dumaguete]]
+
+=== Business process outsourcing ===
+Dumaguete's outsourcing industry has a range of businesses, such as call centers, publishing, [[medical transcription]], animation, editing, and architectural outsourcing. Dumaguete is listed among Next Wave Cities in the country with over 30 IT, [[Knowledge process outsourcing|KPO]] and BPO locators, and has been described as a hub for [[Business Process Outsourcing]] and [[Information Technology]].<ref>[http://www.asianjournalusa.com/default.asp?sourceid=&smenu=67&twindow=Default&mad=No&sdetail=8868&wpage=&skeyword=&sidate=&ccat=&ccatm=&restate=&restatus=&reoption=&retype=&repmin=&repmax=&rebed=&rebath=&subname=&pform=&sc=1028&hn=asianjournalusa&he=.com Baguio, Dumaguete now in top 10 BPO Next Wave Cities]{{Dead link|date=February 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite news|newspaper=Philippine Daily Inquirer|url=http://business.inquirer.net/money/topstories/view/20110227-322562/Small-city-hits-big-league-in-BPO-trade |title=Business - Small city hits big league in BPO trade - INQUIRER.net |access-date=March 29, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150402130459/http://business.inquirer.net/money/topstories/view/20110227-322562/Small-city-hits-big-league-in-BPO-trade |archive-date=April 2, 2015 }}</ref>{{clear left}}
+
+==Tourism==
+[[File:Close-up of silvanas.jpg|thumb|''[[Silvana (food)|Silvanas]]'', a popular delicacy in Dumaguete]]
+[[File:Dumaguete City Rizal Boulevard.jpg|thumb|Rizal Boulevard]]
+Data from the [[Department of Tourism (Philippines)|Department of Tourism]] show that Dumaguete, the province's main gateway, and Negros Oriental are listed among the top ten most visited tourist destinations in the country.<ref name=":4">[http://www.enjoyphilippines.com/News/top-tourist-destinations-in-the-philippines.html Top Tourist Destinations in the Philippines] {{webarchive |url=https://web.archive.org/web/20100909205628/http://www.enjoyphilippines.com/News/top-tourist-destinations-in-the-philippines.html |date=September 9, 2010 }}</ref>
+
+=== Historical landmarks ===
+Rizal Boulevard is known for its hotels, coffee shops, fine dining restaurants, and bars that were mostly converted from sugar mansions and prominent ancestral houses. The boulevard extension to the north of the [[Port of Dumaguete]] is also being developed with new hotels, resorts, restaurants, and bars. The boulevard provides views of Dumaguete Bay and the neighboring islands of [[Cebu]] and [[Siquijor]].
+
+Rizal Boulevard also has a [[Esplanade|promenade]] where locals and visitors can relax, dine, and exercise. This area, known locally as Pantawan People's Park, extends from the Port of Dumaguete to the mouth of the [[Banica River]]. Food carts in the Pantawan area sell Filipino street food such as [[Balut (food)|balut]], [[tempura]], [[Ngo hiang|kikiam]], and [[Fish ball|fishballs]]. The reclaimed Pantawan People's Park is the city's newest park located at the southern end of Rizal Boulevard.
+
+The [[Dumaguete Cathedral|St. Catherine of Alexandria Cathedral]] is known as the oldest stone church of Negros Island and the ecclesiastical seat of the bishop of the [[Roman Catholic Diocese of Dumaguete]]. The detached 1879 ''[[Belfry (architecture)|Campanario]]'', the belfry on one of the [[watchtower]]s of the cathedral, had been used to warn against [[Moro people|moro invaders]] in the 1800 [[Spanish–Moro conflict]]. It is one of the oldest [[Tourist attraction|heritage landmarks]] of Dumaguete and Central Visayas. On November 23, 2023, Msgr. Julius Perpetuo Heruela, chair of the Commission on Church Cultural Heritage announced the [[Important Cultural Property (Philippines)|Important Cultural Property]] historical marker installation at the Campanario.<ref>{{cite news |last1=  Partlow|first1=  Mary Judaline|title=Belfry at Dumaguete church named Important Cultural Property|url= https://www.pna.gov.ph/articles/1187950|accessdate=May 31, 2024 |publisher=[[Philippine News Agency]] |date=November 7, 2022}}</ref> On May 29, 2024, the [[National Museum of the Philippines]] granted P9-M funds for the belfry [[conservation and restoration of cultural property]] project. The renovation, reinforcement and [[retrofitting]] will be a joint undertaking of the NMP, Diocese  of Dumaguete and the local government.<ref>{{cite news |last1=Partlow |first1=Mary Judaline |title=P9-M allocated for restoration of Dumaguete’s bell tower|url= https://www.pna.gov.ph/articles/1225781|accessdate=May 31, 2024 |publisher= [[Philippine News Agency]]|date=May 29, 2024}}</ref>
+
+The [[Dumaguete Presidencia]], formerly the city hall, was restored to its original design and is now the branch of the [[National Museum of the Philippines|National Museum]] in Dumaguete. The cathedral, belfry, and museum are all located near Quezon Park, named after the first President of the Philippines, [[Manuel L. Quezon]].
+
+[[Silliman University]]'s Anthropology Museum, located in the university's Hibbard Hall, contains archaeological artifacts excavated from throughout Negros and parts of Mindanao.<ref>{{Cite web |title=Anthropology Museum &#124; Silliman University |url=https://su.edu.ph/academics/museums/anthropology-museum/ |access-date=2024-02-26 |website=my.su.edu.ph}}</ref> The [[National Commission for Culture and the Arts]] and Dumaguete LGU installed [[Eddie Romero]]'s [[centennial]] [[Bust (sculpture)|bust]] by sculptor Frederic Caedo. It was unveiled by Mayor Felipe Antonio B. Remollo, Joey Romero and NCCA Deputy Director Marichu Tellano at the [[Henry Luce|Claire Isabel McGill Luce]] Auditorium.<ref>{{cite news |last1= Guerrero|first1= Amadís Maria|title=Dumaguete honors native son Eddie Romero, national artist|url= https://entertainment.inquirer.net/566373/dumaguete-honors-native-son-eddie-romero-national-artist|accessdate=July 16, 2024 |publisher=[[Philippine Daily Inquirer]] |date=July 15, 2024}}</ref>
+
+====Negros Oriental Capitol building====
+On May 17, 2024, the 1924 [[Modern Greek architecture|Grecian]]-[[Ionic order|Ionic]] [[Daniel Burnham]] "[[Negros Oriental]] Capitol" building's historical marker  for the [[centennial]] [[anniversary]]-[[Jubilee (biblical)|"Jubilee Year"]] commemoration was installed  by the [[National Historical Commission of the Philippines]]' Directress Carminda Arevalo. Governor Manuel "Chaco" L. Sagarbarria signed the marker's Certificate of Transfer in the presence of [[Imee Marcos]], [[Francis Tolentino]], [[Mark Villar]], [[Risa Hontiveros]], [[Lito Lapid]], [[Jinggoy Estrada]], Irish Ambassador William John Carlos and Philippine Tour Operators Association who graced the historic event. [[Kuh Ledesma]],  [[Silliman University]] Dance Troupe and Orchestra Sin Arco performed with others followed by the finale, [[Fireworks competitions|Pyro Musical Competition]] at the Freedom Park.<ref>{{cite news |last1= Partlow|first1=Mary Judaline |title=6 senators to join Negros Oriental’s jubilee celebration|url=https://www.pna.gov.ph/articles/1224919 |accessdate=May 17, 2024 |publisher=[[Philippine News Agency]] |date=May 16, 2024}}</ref><ref>{{cite news |last1= Adel|first1= Rosette|title=NHCP unveils historical marker for Negros Oriental’s Capitol building|url=https://www.philstar.com/headlines/2024/05/18/2356113/watch-nhcp-unveils-historical-marker-negros-orientals-capitol-building |accessdate=May 17, 2024 |publisher= [[The Philippine Star]]|date=May 18, 2024}}</ref>
+
+=== Festivals ===
+[[File:The Sandurot Encounter.jpg|thumb|Sandurot Festival street dance]]
+[[File:BuglasanFest.jpg|thumb|Buglasan Festival]]
+One of the city's important annual celebrations is the Sandurot Festival, which is held every September to commemorate Dumaguete's history. The celebration starts with the ''Paghimamat'', a re-enactment of how people from different ethnic and cultural backgrounds came to Dumaguete, bringing gifts of rich cultures. ''Pasundalan'' follows, gracing the city streets with dancing to drumbeats and other instruments participated by different barangays and schools in Dumaguete. The street dancing ends at Quezon Park after which the participants prepare for the grand ''Pasundayag'', a display of dances portraying different stories of the Dumaguete tradition.
+
+Another important annual occasion in Dumaguete is the Buglasan Festival, also known locally as the "Festival of All Festivals", which is also held throughout the whole Negros Oriental province every October since 2002. The majority of activities are held in the Provincial Capitol and Ninoy Aquino Freedom Park with booths and local products either on display or for sale. It is also spread to other venues such as the Sidlakang Negros Village at Barangay Piapi and the city's Rizal Boulevard. Showdowns and street dancing are among the activities done in observance of the festival.
+
+== Healthcare ==
+[[File:SUMCFI.jpg|thumb|[[Silliman University Medical Center]]]]
+Dumaguete has four major [[tertiary hospital]]s, namely the Holy Child Hospital (HCH), Negros Oriental Provincial Hospital, ACE Dumaguete Doctors Hospital, and the [[Silliman University Medical Center]] which is currently associated with [[St. Luke's Medical Center]] in Metro Manila.<ref>[http://www.philstar.com/Article.aspx?articleId=568534&publicationSubCategoryId=75 "St. Luke's inks MOA with Silliman Medical Center"] {{Webarchive|url=https://archive.today/20130131145801/http://www.philstar.com/Article.aspx?articleId=568534&publicationSubCategoryId=75 |date=January 31, 2013 }}. Philstar.com. Retrieved April 28, 2010.</ref> The Dumaguete Health Office is responsible for the implementation and planning of the health care programs provided by the city government, which also operates and supervises Health Centers in the barangays of the city.
+
+==Transportation==
+
+===Air===
+{{multiple image
+<!-- Essential parameters -->
+| align     = right
+| direction = vertical
+| width = 200
+| image1 = Dumaguete airport.jpg
+| caption1 = [[Sibulan Airport]]
+| image2 = Port and city of Dumaguete view (184143153).jpg
+| caption2 = The Port of Dumaguete
+| image3 = Dumaguete Negros Oriental 3.jpg
+| caption3 = A tricycle in Dumaguete, one of the primary modes of public transport in the city.
+}}
+[[Sibulan Airport|Dumaguete-Sibulan Airport]] is the city's domestic airport located in the neighboring town of [[Sibulan]] in the north. It provides daily flights to and from [[Manila]] and [[Cebu City]] through [[Cebu Pacific]], [[Cebgo]] and [[PAL Express]] while [[Cebgo]] is servicing both [[Mindanao]] important urban centers, thrice weekly flights to [[Davao City]] and [[Cagayan de Oro]].<ref name="CebuPacific">[http://www.cebupacificair.com/aboutus/press/2007/01252007.html "CEB adds 2nd daily frequency to Manila-Dumaguete "] {{webarchive |url=https://web.archive.org/web/20110618132939/http://www.cebupacificair.com/aboutus/press/2007/01252007.html |date=June 18, 2011 }}. Cebu Pacific. Retrieved November 4, 2010.</ref> In March 2021, upgrade works were made to the Dumaguete-Sibulan Airport which included pavement reconstruction, expansion of the terminal building, and expansion of [[Civil Aviation Authority of the Philippines|CAAP]] administrative buildings.<ref>{{Cite news |date=March 11, 2021 |title=THE MUCH-IMPROVED AIRPORT OF DUMAGUETE! |url=https://dotr.gov.ph/55-dotrnews/3197-in-photos-welcome-to-the-much-improved-airport-of-dumaguete.html |publisher=[[Department of Transportation (Philippines)|Department of Transportation]]}}</ref>
+
+An airport to replace Sibulan Airport is being planned to be built in [[Bacong]], a town bordering Dumaguete in the south. Construction is expected to cost [[Philippine peso|₱]]17 billion.<ref>{{cite news |last1=Partlow |first1=Judy Flores |title=To a new site in Bacong town Solon wants to relocate airport from Dumaguete |url=https://www.philstar.com/region/2014/11/19/1393472/new-site-bacong-town-solon-wants-relocate-airport-dumaguete |access-date=September 29, 2021 |date=November 19, 2014 |archive-url=https://web.archive.org/web/20141214150540/https://www.philstar.com/region/2014/11/19/1393472/new-site-bacong-town-solon-wants-relocate-airport-dumaguete |archive-date=December 14, 2014}}</ref><ref>{{Cite web |date=February 4, 2023 |title=New Dumaguete airport capable of serving millions |url=https://www.pna.gov.ph/index.php/articles/1194412 |access-date=February 5, 2024 |website=[[Philippine News Agency]]}}</ref>
+
+===Sea===
+{{main|Port of Dumaguete}}
+Dumaguete, as a major port city, is a jump-off point for passengers travelling to other Visayas and Mindanao areas. Currently, the port is equipped with two modern port operations and passenger terminal facilities. It is also the headquarters site of Coast Guard Station Negros Oriental under the Philippine Coast Guard Central Visayas District. As a major point of the Philippine Western Nautical Highway System, there are daily ferry connections to [[Cebu]], [[Bohol]], [[Siquijor]] and [[Mindanao]] operated by [[Archipelago Philippine Ferries Corporation]] (FastCat), [[Aleson Shipping Lines]], [[Montenegro Lines]], Medallion Transport, [[Ocean Fast Ferries|Ocean Jet Shipping]], Seen Sam Shipping Inc., [[Cokaliong]], H S Star Marine Shipping Corp. and other companies.
+
+Alternatively, there are smaller ports north of the city where short and frequent ferry connections mostly to the Province of Cebu are available. Dumaguete is a port of call for travelers to [[Manila]], [[Dapitan]], and [[Zamboanga City]] by a ship serviced by [[2GO Travel]].
+
+===Land===
+The main form of public transport in Dumaguete is the [[motorized tricycle (Philippines)|motorized tricycle]]. The Dumaguete version of the motorized tricycle can fit up to six passengers.
+
+For transport to destinations outside the city limit, there are [[jeepney]]s and buses travelling set routes. [[Vallacar Transit|Vallacar Transit Corporation]] operates Ceres buses from a 2-storey terminal building in Barangay Calindagan. Buses from Dumaguete have routes going to Bacolod/[[Negros Occidental]], [[Cebu City]]/[[Cebu Province]], [[Zamboanga City]] and [[Pagadian City]] via [[Dipolog]]/[[Dapitan]] of [[Zamboanga Peninsula]], Caticlan (Boracay) and [[Quezon City#Cubao|Cubao]]/[[Metro Manila]] using [[Philippine Nautical Highway System|Western Nautical Highway]]. Dumaguete is {{convert|215|km}} from [[Bacolod City]] via [[Kabankalan]]-[[Mabinay]]-[[Bais, Negros Oriental|Bais]] Road.
+
+==Sports==
+Dumaguete has hosted numerous Asian, national, regional, and provincial sports events, such as the 4th Asian University Basketball Federation (AUBF) 2005, the [[2013 Palarong Pambansa]], 2012 Philippine National Games (POC-PSC), Philippine Volleyball League, National Frisbee Championship, Batang Pinoy Visayas, Dumaguete Dragon Boat Challenge, Unigames, CVIRAA, the Palarong NIR for short-lived [[Negros Island Region]] among others. The Don Mariano Perdices Memorial Coliseum hosted the 2010 Central Visayas Regional Athletic Meet and [[2013 Palarong Pambansa]] that was located in Dumaguete. Its capacity was 25,000 people with a rubberized track oval, main lobby, dormitory, and hostel. Beside it is the Olympic-sized swimming pool known as the Lorenzo G. Teves Memorial Aqua Center. The Lamberto Macias Sports Complex is an indoor arena located near the coliseum which can accommodate around 6,000 people.<ref>{{Cite web|url=http://cviraa2010.weebly.com/venues.html|title = Venues -}}</ref>
+
+==Education==
+{{main|List of schools in Dumaguete}}
+[[File:SUHall2.jpg|right|thumb|Dumaguete is best known for [[Silliman University]].<ref name="PAL">[http://www.philippineairlines.com/destinations/the_philippines/dumaguete.jsp "Dumaguete, Negros Oriental"]. Philippine Airlines. Retrieved September 1, 2010.</ref>]]
+
+Dumaguete is a [[college town|university city]], also called the "center of learning in the South," due to the presence of well-known universities. Public elementary and high schools including [[Dumaguete Science High School]], the regional science high school of Central Visayas, is governed by Dumaguete City Schools Division of [[Department of Education (Philippines)|DepEd]].
+
+* '''[[Silliman University]] (SU, 1901)''' is the dominant institution of higher learning in Dumaguete, providing the city with a [[college town|university town]] atmosphere. It is the first [[Protestantism|Protestant]] university in the country and the first American university in Asia. The {{Convert|610000|m2}} campus is adjacent to and intermixed with the city's downtown district.<ref name="UPnumber1">[http://www.up.edu.ph/upnewsletter.php?issue=33&i=511 UP is No.1 based on PRC exams] {{webarchive |url=https://web.archive.org/web/20120207155621/http://www.up.edu.ph/upnewsletter.php?issue=33&i=511 |date=February 7, 2012 }}. UP Newsletter, Vol. XXVIII, No. 09. September 1, 2007. Accessed May 26, 2009.</ref> Some of its buildings have likewise been recognized as landmarks, including the Silliman Hall, Hibbard Hall, Katipunan Hall, the Luce Auditorium, and the Silliman Main Library (considered one of the biggest libraries in the Philippines).<ref name="Tourism">[http://www.experiencephilippines.org/tourism/featured-destinations-tourism/featured-destination-tourism-5/ "Dumaguete City, the City of Gentle People"]. Department of Tourism. Retrieved November 4, 2010.</ref><ref>[http://www.negroschronicle.com/tours.html Negros Chronicle. Where to go in Negros Oriental] {{webarchive|url=https://web.archive.org/web/20160527033956/http://www.negroschronicle.com/tours.html |date=May 27, 2016 }}. Accessed September 1, 2009.</ref><ref>[http://www.wowphilippines.com.ph/explore_phil/place_details.asp?content=thingstodo&province=41 WOWPhilippines: Things to do and see in Negros Oriental]. Accessed September 1, 2009.</ref> [[Commission on Higher Education (Philippines)|CHED]] designated the Center of Excellence for its Nursing, Teacher Education, Marine Science and Information Technology, and the Center of Development for its Anthropology, Biology, Accountancy, and Medical Technology programs.
+* '''[[Foundation University (Philippines)|Foundation University]] (FU, 1949)''' is a private non-sectarian university with its Main Campus located at Miciano Road, offering tertiary education programs, while the North Campus along Locsin Street is the home of Foundation Preparatory Academy for its basic education programs.
+* '''[[Negros Oriental State University]] (NORSU, 1907)''' is the province's only state university, with two main campuses in the city. The Main Campus 1 is beside the Provincial Capitol building, while the Main Campus 2 is located in barangay Bajumpandan. It is the first academic institution in the country to offer a [[Bachelor of Science|BS]] in Geothermal Engineering. CHED designated the Center of Development for its Teacher Education program.
+* '''[[St. Paul University Dumaguete]] (SPUD, 1904)''' is the first [[St. Paul University System|Saint Paul educational institution]] to be established in the Philippines by the [[Sisters of Saint Paul of Chartres]] (SPC) from France and the second oldest Catholic university in the Central Visayas. It is recognized by CHED as a fully autonomous Higher Education Institution (HEI).
+* '''Colegio de Santa Catalina de Alejandria (COSCA, 1959)''' run by Catholic Diocesan clergy is located beside the Dumaguete Cathedral Church. Formerly known as Dumaguete Cathedral College, it offers pre-school to college programs. Its flagship courses are Commerce/Business Administration, Criminology, and Radiologic Technology.
+* '''Metro Dumaguete College (MDC, 2002)''' is an academic institution with a campus in Barangay Daro, offering a Senior High School program, laddered [[TESDA]] accredited Technical Vocational programs, and other 4-year college courses.
+
+==Notable people==
+{{main|List of people from Dumaguete}}
+
+==Sister cities==
+<!-- Note to editors: Please do not put a link in a header. -->
+Dumaguete has the following [[Town twinning|sister cities]]:
+
+===Local===
+* [[Bacolod]], [[Negros Occidental]]
+* [[Mandaue]], [[Cebu]]
+* [[Butuan]], [[Agusan del Norte]]
+* [[Makati]], [[Metro Manila]]
+
+===International===
+* {{Flagicon|Republic of Korea}} [[Yeongdong County]] of [[North Chungcheong]], [[South Korea|Republic of Korea]]
+* {{Flagicon|United States}} [[Alameda, California|Alameda]] of [[California]], [[United States]]
+
+==Gallery==
+<gallery widths="200" heights="150" mode=packed class="center">
+File:Silliman Avenue.jpg|Silliman Avenue near the "Gate of Knowledge" of Silliman University
+File:St. Catherine of Alexandria Church.jpg|[[Dumaguete Cathedral|St. Catherine of Alexandria Cathedral]]
+File:Dumaguete belltower.jpg|Dumaguete Belfry with grotto
+File:Dumaguete City Hall.jpg|Dumaguete City Hall
+File:Negros Oriental Provincial Capitol.jpg|Provincial Capitol of Negros Oriental
+File:Dumaguete City Public Market.jpg|Dumaguete Public Market
+File:I love Dumaguete.jpg|The old "I Love Dumaguete" Sign previously situated at Rizal Boulevard
+File:DumaGetMe Sign.jpg|The popular "#DumaGetMe" Signage landmark located at Rizal Boulevard
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+{{Wikivoyage}}
+*[https://web.archive.org/web/20070528004657/http://www.dumaguetecity.gov.ph/ Official Website of the City of Dumaguete]
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+*[https://web.archive.org/web/20081120024509/http://www.census.gov.ph/data/census2007/index.html Philippine Statistics Authority]
+*{{Cite NIE|wstitle=Dumaguete|short=x}}
+
+{{Geographic location
+| Centre = Dumaguete
+| North  = [[Sibulan]]
+| East   = ''[[Bohol Sea]]''
+| South  = [[Bacong]]
+| West   = [[Valencia, Negros Oriental|Valencia]]
+}}
+{{Navboxes
+| title = Articles Related to Dumaguete
+| list  =
+{{Negros Oriental}}
+{{Central Visayas}}
+{{Philippine cities}}
+{{Philippine Provincial Capitals}}
+{{Largest cities and municipalities in Visayas}}
+}}
+
+{{Authority control}}
+
+[[Category:Dumaguete| ]]
+[[Category:Cities in Negros Oriental]]
+[[Category:Provincial capitals of the Philippines]]
+[[Category:Port cities and towns in the Philippines]]
+[[Category:Component cities in the Philippines]]

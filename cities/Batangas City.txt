@@ -1,0 +1,657 @@
+{{Short description|Capital of Batangas, Philippines}}
+{{Infobox settlement
+| name                   = {{PH wikidata|name}}
+| image_skyline          = {{multiple image
+ | border                 = infobox
+ | total_width            = 250
+ | image_style            = border:1;
+ | perrow                 = 1/2/2
+ | image1                 = Batangas Capitol Panorama.jpg
+ | image2                 = Montemaria.jpg
+ | image3                 = Batangas City Basilica 2024-03-27.jpg
+ | image4                 = Batangas Port, April 2023 (3).jpg <!--  BatangasCityjf9715 03.JPG -->
+ | image5                 = 2014-11-03 Batangas City Hall 002.jpg
+ }}
+| image_caption          = From top to bottom: Batangas Capitol, Montemaria, [[Minor Basilica of the Immaculate Conception (Batangas City)|Minor Basilica of the Immaculate Conception]], [[Batangas Port|Port of Batangas]], City Hall
+| image_flag = BatangasCityFlag.jpg
+| flag_size = 120x80px
+| image_seal             = Ph seal Batangas City.png
+| seal_size              = 180x80px
+| image_map              = {{PH wikidata|image_map}}
+| map_caption            = {{PH wikidata|map_caption}}
+| image_map1             = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map            = Philippines
+| pushpin_label_position = left
+| pushpin_map_caption    = Location within the {{PH wikidata|country}}
+| coordinates            = {{PH wikidata|coordinates}}
+| settlement_type        = {{PH wikidata|settlement_type}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = [[Philippines]]
+| subdivision_type1      = [[Regions of the Philippines|Region]]
+| subdivision_name1      = {{PH wikidata|region}}
+| subdivision_type2      = [[Provinces of the Philippines|Province]]
+| subdivision_name2      = {{PH wikidata|province}}
+| official_name          = {{PH wikidata|official_name}}
+| etymology              =  <!--origin of name-->
+| named_for              =  <!--named after (if person or place)-->
+| native_name            =
+| other_name             =
+| nicknames               = {{plainlist|
+* Industrial Port of Calabarzon
+* Eco Tourist City of the Past, Present and Future
+* Green City Batangas
+}}
+| motto                  = All here So near<br/>''Eto Batangueño Disiplinado''
+| anthem                 = ''Batangas, Lungsod Kong Mahal'' (Batangas, My Beloved City)
+| subdivision_type3      = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3      = {{PH legislative district}}
+| established_title      = [[Date of establishment|Founded]]
+| established_date       = March 10, 1917
+| established_title1     = Cityhood
+| established_date1      = July 23, 1969
+| parts_type             = [[Barangay]]s
+| parts_style            = para
+| p1                     = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title           = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name            = Beverley Rose A. Dimacuha-Mariño
+| leader_title1          = [[Vice Mayor]]
+| leader_name1           = Alyssa Renee A. Cruz-Atienza
+| leader_title2          = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2           = [[Marvey Mariño]]
+| leader_title3          = [[Sangguniang Panlungsod|City Council]]
+| leader_name3           = {{PH Town Council
+ | 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Hamilton G. Blanco
+ | 3=Karlos Emmanuel A. Buted
+ | 4=Andrea Loise F. Macaraig
+ | 5=Nestor E. Dimacuha
+ | 6=Oliver Z. Macatangay
+ | 7=Armando C. Lazarte
+ | 8=Nelson J. Chavez
+ | 9=Jose Jonash Luis F. Tolentino
+ | 10=Zester Carlo M. Hernandez
+ | 11=Isidra M. Atienza
+ | 12=Lorenzo A. Gamboa Jr.
+ | 13=Michael C. Villena}}
+| leader_title4          = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4           = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type        = {{PH wikidata|government_type}}
+| government_footnotes   = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m            = {{PH wikidata|elevation_m}}
+| elevation_max_m        = 965
+| elevation_min_m        = 0
+| elevation_max_rank     =
+| elevation_min_rank     =
+| elevation_footnotes    = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes= 
+| elevation_min_footnotes= 
+| area_rank              =
+| area_footnotes         = {{PH area}}
+| area_total_km2         = {{PH wikidata|area}}
+| population_footnotes   = {{PH census|current}}
+| population_total       = {{PH wikidata|population_total}}
+| population_as_of       = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title= [[Household]]s
+| population_blank1      = {{PH wikidata|household}}
+| population_blank2_title= 
+| population_blank2      = 
+| population_demonyms    = Batangueño (male)<br/>Batangueña (female)<br/>Batanguenean
+| population_rank        =
+| population_note        =
+| timezone               = [[Philippine Standard Time|PST]]
+| utc_offset             = +8
+| postal_code_type       = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code            = {{PH wikidata|postal_code}}
+| postal2_code_type      = {{PSGCstyle}}
+| postal2_code           = {{PSGC detail}}
+| area_code_type         = {{areacodestyle}}
+| area_code              = {{PH wikidata|area_code}}
+| website                = {{PH wikidata|website}}
+| demographics_type1     = [[Economy of the Philippines|Economy]]
+| demographics1_title1   = {{PH wikidata|income_class_title}}
+| demographics1_info1    = {{PH wikidata|income_class}}
+| demographics1_title2   = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2    = 4.63% (2015)<ref>{{cite web |url=https://psa.gov.ph/sites/default/files/City%20and%20Municipal-level%20Small%20Area%20Poverty%20Estimates_%202009%2C%202012%20and%202015_0.xlsx|title=PSA releases the 2015 Municipal and City Level Poverty Estimates|location=Quezon City, Philippines |access-date=January 1, 2020}}</ref>
+| demographics1_title3   = [[Revenue]]
+| demographics1_info3    = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4   = Revenue rank
+| demographics1_info4    = 
+| demographics1_title5   = [[Asset]]s
+| demographics1_info5    = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6   = Assets rank
+| demographics1_info6    = 
+| demographics1_title7   = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7    = 
+| demographics1_title8   = IRA rank
+| demographics1_info8    = 
+| demographics1_title9   = [[Expenditure]]
+| demographics1_info9    = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10  = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10   = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2     = Service provider
+| demographics2_title1   = [[List of electric distribution utilities in the Philippines|Electricity]]
+| demographics2_info1    = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2   = Water
+| demographics2_info2    = 
+| demographics2_title3   = Telecommunications
+| demographics2_info3    = 
+| demographics2_title4   = Cable TV
+| demographics2_info4    =
+| demographics2_title5   = 
+| demographics2_info5    =
+| demographics2_title6   = 
+| demographics2_info6    =
+| demographics2_title7   = 
+| demographics2_info7    =
+| demographics2_title8   = 
+| demographics2_info8    =
+| demographics2_title9   = 
+| demographics2_info9    =
+| demographics2_title10  = 
+| demographics2_info10   =
+| blank_name_sec1        = {{PH wikidata|climate_title}}
+| blank_info_sec1        = {{PH wikidata|climate_type}}
+| blank1_name_sec1       = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1       = {{PH wikidata|language}}
+| blank2_name_sec1       = [[Crime index]]
+| blank2_info_sec1       = 
+| blank3_name_sec1       = Numbered highways
+| blank3_info_sec1       = {{plainlist|
+*{{jct|country=PHL|E|2|name1=[[Southern Tagalog Arterial Road|STAR Tollway]]|noshield=yes|nolink1=yes}}
+*{{jct|country=PHL|N|4|name1=[[Jose P. Laurel Highway]]}}
+*{{jct|country=PHL|N|434|nolink1=yes}}
+*{{jct|country=PHL|N|436|nolink1=yes}}
+*{{jct|country=PHL|N|437|nolink=yes}}
+*{{jct|country=PHL|N|438|nolink=yes|name1=Antonio Carpio Road}}
+*{{jct|country=PHL|N|439|nolink=yes}}
+}}
+| blank4_name_sec1       = 
+| blank4_info_sec1       = 
+| blank5_name_sec1       = 
+| blank5_info_sec1       = 
+| blank6_name_sec1       = 
+| blank6_info_sec1       = 
+| blank7_name_sec1       = 
+| blank7_info_sec1       = 
+| blank1_name_sec2       = Major religions
+| blank1_info_sec2       = 
+| blank2_name_sec2       = Feast date
+| blank2_info_sec2       = January 16
+| blank3_name_sec2       = Catholic diocese
+| blank3_info_sec2       =
+| blank4_name_sec2       = Patron saint
+| blank4_info_sec2       = 
+| blank5_name_sec2       = 
+| blank5_info_sec2       = 
+| blank6_name_sec2       = 
+| blank6_info_sec2       = 
+| blank7_name_sec2       = 
+| blank7_info_sec2       =
+| short_description      =
+| footnotes              =
+}}
+
+'''Batangas City''', officially the '''City of Batangas''' ({{lang-tgl|Lungsod ng Batangas}}), is a 1st class [[Cities of the Philippines#Legal classification|component city]] and capital of the [[Provinces of the Philippines|province]] of [[Batangas]], [[Philippines]]. According to the 2020 census, it has a population of 351,437 people.{{PH census|current}}
+
+Batangas City is classified as one of the fastest urbanizing cities of the Philippines, and is known as the "Industrial Port City of [[Calabarzon]]". It is home to the [[Batangas International Port]], one of the busiest passenger and container terminals in the Philippines. It also hosts one of the largest oil refineries in the country, three [[natural gas]] power plants, and several other major industries. In addition, the city also serves as the educational, industrial and the transportation center of the province.
+
+Batangas City is one of the proposed metropolitan area in the Philippines. Metro Batangas is proposed to include the component city of Batangas, as well as the towns of [[Alitagtag]], [[Bauan, Batangas|Bauan]], [[Ibaan, Batangas|Ibaan]], [[Lobo, Batangas|Lobo]], [[Mabini, Batangas|Mabini]], [[Rosario, Batangas|Rosario]], [[San Juan, Batangas|San Juan]], [[San Luis, Batangas|San Luis]], [[San Pascual, Batangas|San Pascual]], [[Santa Teresita, Batangas|Santa Teresita]], [[Taal, Batangas|Taal]], [[Taysan, Batangas|Taysan]] and [[Tingloy]].
+
+== History ==
+=== Foreign rule ===
+[[File:Philippine Island - Batangas - NARA - 68155870.jpg|thumb|left|Aerial view of Batangas, circa 1923]]
+
+The first [[Spain|Spanish]] missionaries arrived in Batangas City in 1572 due to group migration. Finally, in 1581, Spanish authorities governing the Philippines created a ''[[pueblo]]'' in the area which included the hill (now ''Hilltop'') where the present Provincial Capitol of Batangas stands after the formal end of the Coumintang Kingdom. The town was named "Batangan" because huge logs, locally called "batang", abounded in the place. The Spanish government appointed Don Agustin Casilao as Batangan's first [[gobernadorcillo]]. Said title of "little governor" as head of the pueblo or ''municipio'' was replaced in 1894 by "''capital municipal''". It is not clear who succeeded Casilao nor is it known whether there were subsequent appointments of capital municipal. Don Agustin Casilao is sometimes referred to as Agustino or Augustino in some sources. By 1870, its barangays were Balagtas, [[Bilogo]], Bolbok, Bukal, Catandala, Konde, De La Paz, Kumintang Ibaba, Matuko, Mapagong, Paharang Kanluran, Pairang, Pinamucan, Patulo, Sampaga, San Agapito, San Isidro and Talahib.<ref name="government8">{{Harvnb|Local Government of Batangas City|1999|pp=8}}</ref><ref>{{Harvnb|City Investment & Tourism Office|2006}}</ref>
+
+At the coming of the [[United States|Americans]] in the early 1900s, local civil government of Batangas was set up. It took effect on July 4, 1901, with Jose Villanueva elected as "Municipal President." His term expired in 1903.<ref name="government8"/>
+
+Subsequent elections installed the following as municipal presidents: Juan Palacios, 1904–1905; Jose Arguelles, 1906; Marcelo Llana, 1907; Sisenando Ferriols, 1908–1909; Ventura Tolentino, 1910–1914; Julian Rosales, 1915; Juan Gutierrez, 1916–1919; Julian Rosales, 1920–1922; Juan Buenafe, 1923–1930; Perfecto Condez, 1931–1937; Juan Buenafe, 1938–1940.
+In 1941 the title "Municipal President" was changed to "Municipal Mayor." Pedro Berberabe was elected first municipal mayor.<ref name="government8"/>
+
+Batangas City was severely damaged due to the [[Military of Japan|Japanese]] [[A6M Zero]] bombardment and on December 12, 1941, the Batangas Airport which is located in Barangay Alangilan is totally destroyed. On October 14, 1943, municipal councilor Roman L. Perez was appointed Mayor by the [[Japanese people|Japanese]] after the inauguration of the Second Republic of the Philippines. Liberation begun when 158th Regimental Combat Team (or 158th RCT) under the command of the [[US 6th Army]] reached Poblacion, Batangas City by March 11 during the [[Philippines Campaign (1944–45)|Philippines Liberation Campaign of 1944–45]]. By the end of April the same that year, some elements of the 188th Glider Infantry Regiment of the [[11th Airborne Division]] was left to clear the barangays east and mountains south of the city as the main Allied Force continued their drive towards the [[Quezon Province]]. Some of local guerrillas and irregulars of the [[Philippine resistance against Japan|President Quezon's Own Guerrillas (PQOG)]] was entering and re-invaded in Batangas City. Throughout the battle, recognized guerrilla fighters played an important key role in the advancement of the combined American and Philippine troops, providing key roads and information for the Japanese location of defenses and movements. Hostilities ended as the war came closer to the end.<ref>{{cite web|url=http://www.batangascity.gov.ph/historicalbackground.htm|title=Official Website: Historical Background|access-date=July 9, 2010|archive-url=https://web.archive.org/web/20100726192457/http://www.batangascity.gov.ph/historicalbackground.htm|archive-date=July 26, 2010|url-status=dead}}</ref><ref name="ibiblio1">{{cite web|url=http://www.ibiblio.org/hyperwar/USA/USA-P-Triumph/USA-P-Triumph-23.html|title=Ibiblio.org: Triumph in the Philippines, Chapter XXIII Securing the Visayan Passages, Southern Luzon|access-date=July 9, 2010}}</ref>
+
+=== Independence and onwards ===
+
+After the Liberation, President [[Manuel Roxas]] issued his reappointment. Mayor Perez ran and won in 1944, the first post-War elections in the country. In November 1949, he was killed by an unknown assassin. Vice Mayor Atilano Magadia succeeded Perez as Mayor, serving until 1951. Mayor Macario Chavez was elected in 1951; his four-year term ended in 1955.<ref name="government8"/>
+
+People voted Pedro S. Tolentino overwhelmingly as mayor in 1956. He was reelected three times.<ref name="government8"/>
+
+=== Cityhood ===
+{{main|Cities of the Philippines}}
+
+In 1965, Republic Act No. 4586 was signed by President [[Diosdado Macapagal]], converting Batangas into a city. If successful, it would be renamed as Laurel, after former President [[Jose P. Laurel]], a native of [[Tanauan, Batangas|Tanauan]].<ref>{{cite PH act|chamber=RA|number=4586|date=June 19, 1965|title=An Act Creating Laurel City|accessdate=June 25, 2023|website=The Lawphil Project - Arellano Law Foundation, Inc.|url=https://lawphil.net/statutes/repacts/ra1965/ra_4586_1965.html}}</ref> However, the voters rejected the cityhood and renaming of Batangas in a plebiscite.
+
+On June 21, 1969, Republic Act No. 5495 was enacted to convert Batangas into a city, this time using its same name.<ref>{{cite PH act|chamber=RA|number=5945|date=June 21, 1969|title=An Act Creating Batangas City|accessdate=June 25, 2023|website=The Lawphil Project - Arellano Law Foundation, Inc.|url=https://lawphil.net/statutes/repacts/ra1969/ra_5495_1969.html}}</ref> Later on July 23, Batangas formally became a city by virtue of Proclamation No. 581 that was signed a week earlier.<ref>{{cite PH act|chamber=PP|number=581, s. 1969|date=July 16, 1969|title=Designating July 23, .1969, as the date for the formal organization of the government of Batangas City|website=[[Official Gazette (Philippines)|Official Gazette of the Republic of the Philippines]]|url=https://www.officialgazette.gov.ph/1969/07/16/proclamation-no-581-s-1969/}}</ref> Pedro S. Tolentino became its first city mayor.
+
+=== Contemporary history ===
+The succeeding city mayors are Mayor Macario M. Mendoza, 1974–1979; Alfredo M. Borbon, 1979–1980, Conrado C. Berberabe, 1980–1986; Jose M. Atienza, 1986–1987; Mario M. Perez, 1987, Eduardo B. Dimacuha, 1988–1998, Angelito A. Dimacuha, 1998–2001 and again Eduardo B. Dimacuha, 2001–2010, Vilma A. Dimacuha, 2010–2013 and again Eduardo B. Dimacuha, 2013–2016, Beverley Rose A. Dimacuha, 2016–present.<ref>{{Harvnb|Local Government of Batangas City|1999|pp=7, 8}}</ref>
+
+Meanwhile, on January 19, 2008, President [[Gloria Macapagal Arroyo]] opened Phase II project of the Batangas City International Container Port (with turn-over to the [[Philippine Ports Authority]]). She also inspected a major road project in [[Southern Tagalog]]. She then inspected the P1.5-billion [[Southern Tagalog Arterial Road]] (STAR), Stage II-Phase 1 connecting [[Lipa City|Lipa]] (19.74&nbsp;kilometers and Batangas and the [[South Luzon Expressway]] (SLEX) road widening, expansion and the STAR toll way development projects in Batangas.<ref>{{cite news|work=ABS-CBN News|url=http://www.abs-cbnnews.com/storypage.aspx?StoryId=106155|archive-url=https://archive.today/20070709212017/http://www.abs-cbnnews.com/storypage.aspx?StoryId=106155|url-status=dead|archive-date=July 9, 2007|title=President Arroyo inaugurates Batangas Port project|access-date=July 9, 2010}}</ref>
+
+== Geography ==
+Batangas City lies in the southernmost part of Batangas, facing [[Batangas Bay]]. It is bordered by [[San Jose, Batangas|San Jose]] to the north, [[Verde Island Passage]] to the south, [[Ibaan]], [[Taysan, Batangas|Taysan]], and [[Lobo, Batangas|Lobo]] to the east, and [[San Pascual, Batangas|San Pascual]] to the west. The [[Calumpang River]] crosses the city from northeast to southwest. The area west of Calumpang River is generally plains while the eastern area is mostly foothills and mountains.
+
+Batangas City is {{convert|105|km|sp=us}} from [[Manila]].
+
+===Barangays===
+
+Batangas City is politically subdivided into 105 [[barangay]]s.<ref>{{Harvnb|Local Government of Batangas City|1999|pp=13, 14}}</ref><ref>{{cite web |title=Philippine Standard Geographic Code (PSGC) - Batangas City |url=https://psa.gov.ph/classification/psgc/?q=psgc/barangays/0401005000 |website=psa.gov.ph |publisher=Philippine Statistics Authority}}</ref> Each barangay consists of [[purok]]s and some have [[sitios]].
+
+{{PH brgy table lite|top}}
+{{PH brgy table lite|041005001| Alangilan                                |15669|13332}}
+{{PH brgy table lite|041005002| Balagtas                                 |10214| 9120}}
+{{PH brgy table lite|041005003| Balete                                   |10520| 9098}}
+{{PH brgy table lite|041005004| Banaba Center                            | 2808| 1984}}
+{{PH brgy table lite|041005005| Banaba Ibaba                             | 3408| 2023}}
+{{PH brgy table lite|041005006| Banaba West                          | 3949| 3413}}
+{{PH brgy table lite|041005007| Banaba East                          | 2373| 1931}}
+{{PH brgy table lite|041005008| Barangay 1                               |  771|  706}}
+{{PH brgy table lite|041005009| Barangay 2                               |  501|  606}}
+{{PH brgy table lite|041005010| Barangay 3                               |  261|  367}}
+{{PH brgy table lite|041005011| Barangay 4                               | 1638| 1499}}
+{{PH brgy table lite|041005012| Barangay 5                               |  569|  634}}
+{{PH brgy table lite|041005013| Barangay 6                               | 1810| 2009}}
+{{PH brgy table lite|041005014| Barangay 7                               |  451|  715}}
+{{PH brgy table lite|041005015| Barangay 8                               |  478|  577}}
+{{PH brgy table lite|041005016| Barangay 9                               |  257|  283}}
+{{PH brgy table lite|041005017| Barangay 10                              |  263|  353}}
+{{PH brgy table lite|041005018| Barangay 11                              |  348|  768}}
+{{PH brgy table lite|041005019| Barangay 12                              | 1393| 1377}}
+{{PH brgy table lite|041005020| Barangay 13                              |  348|  509}}
+{{PH brgy table lite|041005021| Barangay 14                              |  233|  294}}
+{{PH brgy table lite|041005022| Barangay 15                              |  196|  170}}
+{{PH brgy table lite|041005023| Barangay 16                              |  101|  197}}
+{{PH brgy table lite|041005024| Barangay 17                              |  116|  104}}
+{{PH brgy table lite|041005025| Barangay 18                              |  328|  382}}
+{{PH brgy table lite|041005026| Barangay 19                              |  400|  955}}
+{{PH brgy table lite|041005027| Barangay 20                              |  383|  344}}
+{{PH brgy table lite|041005028| Barangay 21                              |  680|  664}}
+{{PH brgy table lite|041005029| Barangay 22                              |   94|  234}}
+{{PH brgy table lite|041005030| Barangay 23                              |  698|  635}}
+{{PH brgy table lite|041005031| Barangay 24                              | 1411| 2877}}
+{{PH brgy table lite|041005032| [[Bilogo]]                               | 2073| 1829}}
+{{PH brgy table lite|041005033| [[Bolbok, Batangas City|Bolbok]]                                   |12788|11806}}
+{{PH brgy table lite|041005034| Bucal                                    | 3129| 2460}}
+{{PH brgy table lite|041005035| Calicanto                                |10769|10315}}
+{{PH brgy table lite|041005036| Catandala                                |  706|  644}}
+{{PH brgy table lite|041005037| Concepcion                               | 3933| 3412}}
+{{PH brgy table lite|041005038| Conde Itaas                              | 1427| 1305}}
+{{PH brgy table lite|041005039| Conde Labac                              | 2355| 1763}}
+{{PH brgy table lite|041005040| Cuta                                     |14072|11460}}
+{{PH brgy table lite|041005041| Dalig                                    | 3220| 2248}}
+{{PH brgy table lite|041005042| Dela Paz                                 | 2726| 2377}}
+{{PH brgy table lite|041005043| Dela Paz Pulot Aplaya                    |  587|  583}}
+{{PH brgy table lite|041005044| Dela Paz Pulot Itaas                     |  429|  419}}
+{{PH brgy table lite|041005045| Domoclay                                 | 3908| 3246}}
+{{PH brgy table lite|041005046| Dumantay                                 | 5753| 3685}}
+{{PH brgy table lite|041005047| Gulod Itaas                              | 6028| 4950}}
+{{PH brgy table lite|041005048| Gulod Labac                              | 2415| 2433}}
+{{PH brgy table lite|041005049| Haligue Kanluran                         | 1210| 1112}}
+{{PH brgy table lite|041005050| Haligue Silangan                         | 2016| 1699}}
+{{PH brgy table lite|041005051| Ilijan                                   | 4562| 3920}}
+{{PH brgy table lite|041005052| Kumba                                    | 1013|  914}}
+{{PH brgy table lite|041005053| Kumintang Ibaba                          | 9162|10134}}
+{{PH brgy table lite|041005054| Kumintang Ilaya                          |10900|10320}}
+{{PH brgy table lite|041005055| Libjo                                    |12256|10964}}
+{{PH brgy table lite|041005056| Liponpon Isla Verde                      |  664|  746}}
+{{PH brgy table lite|041005057| Maapas                                   |  202|  208}}
+{{PH brgy table lite|041005058| Mabacong                                 | 2159| 1873}}
+{{PH brgy table lite|041005059| Mahabang Dahilig                         | 1568| 1430}}
+{{PH brgy table lite|041005060| Mahabang Parang                          | 3394| 3267}}
+{{PH brgy table lite|041005061| Mahacot Kanluran                         |  695|  600}}
+{{PH brgy table lite|041005062| Mahacot Silangan                         |  772|  680}}
+{{PH brgy table lite|041005063| Malalim                                  | 1352| 1190}}
+{{PH brgy table lite|041005064| Malibayo                                 |  485|  461}}
+{{PH brgy table lite|041005065| Malitam                                  | 8563| 6686}}
+{{PH brgy table lite|041005066| Maruclap                                 | 1049|  957}}
+{{PH brgy table lite|041005067| Pagkilatan                               | 1603| 1321}}
+{{PH brgy table lite|041005068| Paharang Kanluran                        | 1310| 1314}}
+{{PH brgy table lite|041005069| Paharang Silangan                        | 1395| 1222}}
+{{PH brgy table lite|041005070| Pallocan Kanluran                        | 6854| 6259}}
+{{PH brgy table lite|041005071| Pallocan Silangan                        | 3286| 2026}}
+{{PH brgy table lite|041005072| Pinamucan                                | 4295| 3607}}
+{{PH brgy table lite|041005073| Pinamucan Ibaba                          | 1822| 1410}}
+{{PH brgy table lite|041005074| Pinamucan Silangan                       | 1228| 1125}}
+{{PH brgy table lite|041005075| Sampaga                                  | 4458| 3980}}
+{{PH brgy table lite|041005076| San Agapito Isla Verde                   | 1186| 1191}}
+{{PH brgy table lite|041005077| San Agustin Kanluran Isla Verde          |  669|  715}}
+{{PH brgy table lite|041005078| San Agustin Silangan Isla Verde          |  720|  775}}
+{{PH brgy table lite|041005079| San Andres Isla Verde                    |  893|  972}}
+{{PH brgy table lite|041005080| San Antonio Isla Verde                   |  943| 1098}}
+{{PH brgy table lite|041005081| San Isidro                               | 7378| 6887}}
+{{PH brgy table lite|041005082| [[San Jose Sico]]                        | 5815| 4627}}
+{{PH brgy table lite|041005083| San Miguel                               | 2351| 2247}}
+{{PH brgy table lite|041005084| San Pedro                                | 1910| 1510}}
+{{PH brgy table lite|041005085| Santa Clara                              |12843|10584}}
+{{PH brgy table lite|041005086| Santa Rita Aplaya                        | 1795| 2281}}
+{{PH brgy table lite|041005087| Santa Rita Karsada                       |20321|17330}}
+{{PH brgy table lite|041005088| Santo Domingo                            | 1915| 1789}}
+{{PH brgy table lite|041005089| Santo Niño                               | 2468| 2520}}
+{{PH brgy table lite|041005090| Simlong                                  | 4188| 3800}}
+{{PH brgy table lite|041005091| Sirang Lupa                              | 1779| 1369}}
+{{PH brgy table lite|041005092| Sorosoro Ibaba                           | 3042| 2713}}
+{{PH brgy table lite|041005093| Sorosoro Ilaya                           | 7650| 1801}}
+{{PH brgy table lite|041005094| Sorosoro Karsada                         | 3581| 1764}}
+{{PH brgy table lite|041005095| Tabangao Ambulong                        | 6038| 4862}}
+{{PH brgy table lite|041005096| Tabangao Aplaya                          | 2508| 3216}}
+{{PH brgy table lite|041005097| Tabangao Dao                             | 2978| 2625}}
+{{PH brgy table lite|041005098| Talahib Pandayan                         | 2299| 2301}}
+{{PH brgy table lite|041005099| Talahib Payapa                           |  519|  575}}
+{{PH brgy table lite|041005100| Talumpok Kanluran                        | 2900| 2867}}
+{{PH brgy table lite|041005101| Talumpok Silangan                        | 2301| 1845}}
+{{PH brgy table lite|041005102| Tinga Itaas                              | 3060| 2801}}
+{{PH brgy table lite|041005103| Tinga Labac                              | 7164| 5883}}
+{{PH brgy table lite|041005104| Tulo                                     | 4359| 3684}}
+{{PH brgy table lite|041005105| Wawa                                     | 8605| 6455}}
+{{PH brgy table lite|bottom|305607}}
+{{clear-left}}
+
+Pagkilatan was formerly a sitio of Matoco.<ref>{{cite PH act|chamber=RA|number=942|url=https://lawphil.net/statutes/repacts/ra1953/ra_942_1953.html#:~:text=Republic%20Act%20No.,942&text=AN%20ACT%20CREATING%20THE%20BARRIO,OF%20BATANGAS%2C%20PROVINCE%20OF%20BATANGAS.|date=June 20, 1953|title=An Act Creating the Barrio of Pagkilatan in the Municipality of Batangas, Province of Batangas|website=The Lawphil Project - Arellano Law Foundation, Inc.|access-date=June 25, 2023}}</ref> Malalim was formerly the "southern portion of the barrio of Sirang Lupa, the northern portion of the barrio Mahabang Dahilig, and the eastern portion of San Isidro" "together with the sitio of Malalim"; this territory became a barrio (barangay) in 1954.<ref>{{cite PH act|chamber=RA|number=1043|date=June 12, 1954|url=https://thecorpusjuris.com/legislative/republic-acts/ra-no-1043.php|title=An Act to Convert the Sitio of Malalim in the Barrio of Mahabang Dahilig, Municipality of Batangas, Province of Batangas, into a Barrio|website=The Corpus Juris|access-date=June 25, 2023}}</ref> In the same year, sitio Malitam, formerly part of barrio Libjo, was elevated as a barrio.<ref>{{cite PH act|chamber=RA|number=1141|url=https://lawphil.net/statutes/repacts/ra1954/ra_1141_1954.html|date=June 17, 1954|title=An Act to Convert the Sitio of Malitam, in the Barrio of Libjo, Municipality of Batangas, Province of Batangas, into a Barrio|website=The Lawphil Project - Arellano Law Foundation, Inc.|access-date=June 25, 2023}}</ref> San Antonio was constituted from the sitios of Ilaya, Labac, Matalisay, Pajo and Cacawan, from the barrio of San Agapito.<ref>{{cite web|url=http://lawph.com/statutes/ra1308.html|title=An Act to Convert the Sitios of Ilaya Labac, Matalisay, Pajo and Cacawan in Isla Verde, in the Municipality of Batangas, Province of Batangas, to a Barrio to Be Known As Barrio San Antonio of the Same Municipality|publisher=LawPH.com|access-date=April 11, 2011}}</ref> In 1957, the barrio of Talumpok was divided into two. Sitios Romano, Poyesan, Bondeo and Latag were constituted into Talumpok Silangan, while sitios Ginto, Duhatan, Kulingkang, Piit and Cuaba were constituted into Talumpok Kanluran.<ref>{{cite PH act|chamber=RA|number=1669|url=https://thecorpusjuris.com/legislative/republic-acts/ra-no-1669.php|title=An Act Dividing the Barrio of Talumpoc, Municipality of Batangas, Province of Batangas, into Two Barrios to Be Known As the Barrios of Talumpok Silangan and Talumpok Kanluran of Said Municipality|website=The Corpus Juris|access-date=June 25, 2023|date=June 20, 1957}}</ref>
+
+Balagtas was formerly known as Patay, Kumintang Ilaya as Sambat Ilaya, and Kumintang Ibaba as Sambat Ibaba.<ref>{{cite PH act|chamber=RA|number=1695|url=https://lawphil.net/statutes/repacts/ra1957/ra_1695_1957.html|title=An Act Changing the Names of Certain Barrios in the Municipality of Batangas, Province of Batangas|website=The Lawphil Project - Arellano Law Foundation, Inc.|access-date=June 25, 2023|date=June 20, 1957}}</ref>
+
+===Climate===
+{{Weather box
+|location = Batangas City (Ambulong Weather Station, normals 1991–2020, extremes 1919-2020)
+|metric first = Yes
+|single line = Yes
+| Jan record high C = 34.9
+| Feb record high C = 37.2
+| Mar record high C = 38.0
+| Apr record high C = 38.3
+| May record high C = 38.8
+| Jun record high C = 38.0
+| Jul record high C = 36.8
+| Aug record high C = 36.7
+| Sep record high C = 35.8
+| Oct record high C = 37.3
+| Nov record high C = 36.5
+| Dec record high C = 35.3
+|year record high C = 
+
+| Jan high C = 30.1
+| Feb high C = 31.1
+| Mar high C = 32.5
+| Apr high C = 34.3
+| May high C = 33.9
+| Jun high C = 32.8
+| Jul high C = 31.5
+| Aug high C = 31.1
+| Sep high C = 31.4
+| Oct high C = 31.6
+| Nov high C = 31.2
+| Dec high C = 30.1
+
+| Jan mean C = 26.3
+| Feb mean C = 26.7
+| Mar mean C = 27.7
+| Apr mean C = 29.1
+| May mean C = 29.3
+| Jun mean C = 28.7
+| Jul mean C = 27.8
+| Aug mean C = 27.7
+| Sep mean C = 27.8
+| Oct mean C = 27.7
+| Nov mean C = 27.5
+| Dec mean C = 26.7
+|year mean C = 27.7
+
+| Jan low C = 22.4
+| Feb low C = 22.2
+| Mar low C = 23.0
+| Apr low C = 23.9
+| May low C = 24.6
+| Jun low C = 24.6
+| Jul low C = 24.2
+| Aug low C = 24.3
+| Sep low C = 24.2
+| Oct low C = 23.9
+| Nov low C = 23.8
+| Dec low C = 23.3
+
+| Jan record low C = 16.0
+| Feb record low C = 16.1
+| Mar record low C = 16.2
+| Apr record low C = 17.5
+| May record low C = 20.0
+| Jun record low C = 20.6
+| Jul record low C = 19.2
+| Aug record low C = 19.0
+| Sep record low C = 19.5
+| Oct record low C = 18.9
+| Nov record low C = 18.3
+| Dec record low C = 16.8
+|year record low C = 
+
+| precipitation colour = green
+| Jan precipitation mm = 25.8
+| Feb precipitation mm = 22.1
+| Mar precipitation mm = 21.0
+| Apr precipitation mm = 25.0
+| May precipitation mm = 129.4
+| Jun precipitation mm = 213.2
+| Jul precipitation mm = 338.3
+| Aug precipitation mm = 305.5
+| Sep precipitation mm = 271.0
+| Oct precipitation mm = 192.6
+| Nov precipitation mm = 139.6
+| Dec precipitation mm = 132.6
+
+| Jan rain days= 5
+| Feb rain days= 3
+| Mar rain days= 3
+| Apr rain days= 3
+| May rain days= 9
+| Jun rain days= 13
+| Jul rain days= 18
+| Aug rain days= 17
+| Sep rain days= 16
+| Oct rain days= 12
+| Nov rain days= 11
+| Dec rain days= 9
+
+| Jan humidity = 81
+| Feb humidity = 79
+| Mar humidity = 78
+| Apr humidity = 75
+| May humidity = 79
+| Jun humidity = 82
+| Jul humidity = 85
+| Aug humidity = 86
+| Sep humidity = 86
+| Oct humidity = 85
+| Nov humidity = 83
+| Dec humidity = 84
+| year humidity = 82
+|source 1 = 
+[[Philippine Atmospheric, Geophysical and Astronomical Services Administration|PAGASA]]<ref name=PAGASAnormals>
+{{cite web
+| url = https://data.gov.ph/sites/default/files/pagasanormvalambubat1981-2010.csv
+| title = Ambulong, Batangas Climatological Normal Values
+| publisher = Philippine Atmospheric, Geophysical and Astronomical Services Administration
+| access-date = December 7, 2018}}</ref><ref name=PAGASAextremes>
+{{cite web
+| archive-url = https://web.archive.org/web/20220307194106/https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20EXTREMES%20(as%20of%202020)/Ambulong.pdf
+| archive-date = March 7, 2022
+| url = https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20EXTREMES%20(as%20of%202020)/Ambulong.pdf
+| title = Batangas City, Davao del Sur Climatological Extremes
+| publisher = Philippine Atmospheric, Geophysical and Astronomical Services Administration
+| access-date = June 10, 2022}}</ref>
+}}
+
+Batangas City has a [[tropical savanna climate]] ([[Köppen climate classification system]] type ''Aw/As''), straddling on a bordering [[tropical monsoon climate]] ([[Köppen climate classification system]] type ''Am'') to the east. The city is dry from January to April, with temperatures reaching up to {{convert|33.3|°C|°F}} in April, and rainy for the rest of the year, with July being the rainiest month, with up to {{convert|288|mm|in|sp=us}} of rainfall. Humidity levels are high for most of the year.
+
+==Demographics==
+{{Philippine Census
+| align= none
+| cols = 3
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+In the 2020 census, the population of Batangas City was 351,437 people,{{PH census|current}} with a density of {{convert|{{sigfig|351,437/282.96|2}}|PD/km2|disp=or|sp=us}}.
+
+==Economy==
+[[File:BatangasPier80828acg.jpg|thumb|right|Port of Batangas]]
+{{PH poverty incidence}}
+With the expansion of Batangas Port, the operation of different heavy industries and the construction of Phase II of the STAR Tollway project and diversion roads, Batangas City has seen a gradual shift from an agricultural economy to a commercial economy and eventually to an industrial economy.
+
+The northwest of the city hosts different commercial establishments while the lowland areas surrounding Batangas Bay hosts the heavy industries of the city. However, despite its gradual shift in becoming a major commercial/industrial hub for Calabarzon, it still shares rural landscapes that is still preserved in the north part of the city. The Poblacion area is the major retail and commercial center of the city. It is filled with banks, restaurants, and local businesses.
+
+Being a major port city, Batangas has seen an increase in migrants from nearby provinces, islands, and even nation states such as China, India, Indonesia and Malaysia.
+
+===Agriculture===
+Agriculture remains an important source of food and income for residents of rural barangays. Residents in rural areas practice subsidence farming, with some of their harvest sold to the lowland public wet markets. Major crops include coconut, corn, vegetables, and mangoes.
+
+===Industries===
+[[File:JG Summit Petrochemical Complex.jpg|thumb|JG Summit Petrochemical Complex]]
+Industries in Batangas City are concentrated around Batangas Port, Tabangao and Pinamucan areas, and Sorosoro Karsada. [[Royal Dutch Shell|Shell]], through its Philippine subsidiary, Pilipinas Shell, owns large refineries in Tabangao, and provides most of the fuel supply sold in Shell gas stations in southern Luzon and Metro Manila. JG Summit Holdings operates a petrochemical facility in Pinamucan Ibaba, with expansions to accommodate a coal power plant, which raised controversy to locals and environmentalists. Other companies also set up refineries for distribution to the province and nearby areas.
+
+===Commerce===
+[[File:SM City Batangas, April 2023.jpg|thumb|SM City Batangas]]
+Batangas City hosts shopping malls such as SM City Batangas, operated by SM Supermalls, and Bay City Mall and Nuciti Central, owned by local retail companies. There is a sizeable number of supermarkets in the urbanized areas, some being part of malls while others being stand-alone neighborhood markets, fiercely competing with local public markets.
+
+The ''Poblacion'' area hosts numerous shops, restaurants, banks, pawnshops, and other establishments. Two major public markets in the city proper serves produce from the rural barangays of the city as well as nearby municipalities.
+
+The Diversion Road, constructed to divert traffic going to Batangas Port and Bauan from the city proper, is seeing a rise in retail stores in addition to industrial space. Numerous car dealerships are built along the length of the road in barangays Alangilan and Balagtas. Fast food restaurants, like [[McDonald's Philippines|McDonald's]] and [[Shakey's Pizza]] are also rising near the Batangas City Grand Terminal.
+
+===Real estate===
+In response to population and economic growth, local or national real estate companies are developing subdivisions to accommodate the increasing populations. Large-scale developments are present, mostly of local developers, but major developers like [[Ayala Land]] and [[Vista Land]] (through Camella) also have presence in the city.{{cn|date=March 2024}}
+
+PonteFino Corporate Group and PonteFino Estates' The Forum I.T. Business Park is a 4.26-hectare [[Philippine Economic Zone Authority]]-certified commercial [[township]] in Batangas City. Its PonteFino Hotel is located along  Governor Antonio Carpio Road, Pastor Village, Gulod Labac.<ref>{{cite news |last1= Mirasol|first1= Patricia |title=PonteFino Estates launches I.T. business park in Batangas|url= https://www.bworldonline.com/economy/2024/09/30/624696/pontefino-estates-launches-i-t-business-park-in-batangas/|accessdate=October 2, 2024 |work= [[BusinessWorld]]|date=September 30, 2024}}</ref>
+{{clear-left}}
+
+==Culture==
+===Cuisine===
+A specialty dish of the city is ''pancit na pula'' (also known as ''pancit tikyano'' or ''miki pula''), a variation of [[Pancit miki|pansit miki guisado]] of red miki noodles.
+
+The city is also famous for its ''[[nilupak]]''. The art of making the dish is indigenous to the area and has been cited as having a great potential for inclusion in the [[UNESCO Intangible Cultural Heritage Lists]].
+
+===Festivals===
+Batangas City host three major religious festivals, such as the Feast of the [[Santo Niño de Cebu|Santo Niño]] at every third Sunday of January, as well as religious processions during [[Good Friday]] and the [[Feast of the Immaculate Conception]]. The ''Sublian'' Festival, held every July 23, revives the old Batangueño tradition of ''subli''. The Batangas City Founding Day celebrations are done alongside the ''Sublian'' Festival on the same day.
+
+==Infrastructure==
+===Transportation===
+[[File:BatangasCityjf9045 04.JPG|thumb|Batangas City Grand Terminal]]
+Batangas City's public transportation mainly include jeepneys and tricycles. Also, the city has transportation between barangays and other cities and municipalities. The city's central transportation hub is the Batangas City Grand Terminal, location along the Diversion Road in Alangilan.
+
+====Roads====
+[[File:2014-11-03 P. Burgos Street, Batangas City Poblacion 002.jpg|thumb|right|P. Burgos Street, looking north]]
+Batangas City serves as a terminus for major highways like the [[Southern Tagalog Arterial Road]] (STAR Tollway), [[Jose P. Laurel Highway]] (N4) and Batangas-Quezon Road (N435), and Bauan-Batangas Road (N436). In the early 2000s, a diversion road is built to provide travellers a bypass to the existing highway through the urban centers. Despite the construction of the diversion, traffic bottlenecks remained inside the city. The city government is constructing a bypass road in the east to provide better access to the fast-growing industrial areas in the south of the city.
+
+The ''poblacion'' of the city features a road network based on a rough grid, typical of Spanish-era cities and towns. Streets in the area are mostly named from historical figures, such as [[Apolinario Mabini]], [[Diego Silang]], [[Juan B. Alegre]], the [[Gomburza]] ([[Mariano Gomez (priest)|Mariano Gomez]], [[José Burgos]], and [[Jacinto Zamora]]) and the ''[[ilustrados]]'' ([[José Rizal]], [[Marcelo del Pilar]], and [[Graciano López Jaena]]).
+
+====Railways====
+Batangas City, then a town, was served by a branch line of the [[Philippine National Railways]] until its closure.
+ 
+As part of President [[Rodrigo Duterte]]'s infrastructure development program, [[DuterteNomics]] or "Build-Build-Build", a railway line from [[Calamba, Laguna|Calamba]] will be constructed to connect with the city. The railway line, the Calamba-Batangas Line, a part of the longer Manila-Matnog Railway, is approved by the National Economic Development Authority on September 12, 2017, and funding will be provided by the Chinese government. Start of construction of the railway, as part of the Manila-Matnog Railway, is not yet set.<ref>{{cite news|title=NEDA Board approves Manila subway, PNR South Rail projects|url=http://www.gmanetwork.com/news/money/economy/625567/neda-board-approves-manila-subway-pnr-south-rail-projects/story/|work=GMA News|date=September 12, 2017|access-date=September 15, 2017}}</ref>
+
+===Utilities===
+[[File:San Lorenzo Power Plant Batangas (Santa Rita, Batangas City; 12-05-2023).jpg|thumb|San Lorenzo Combined Cycle Power Plant]]
+Electricity services in Batangas City is provided by [[Meralco]] for most of its barangays. Some barangays in the eastern rural area near the boundary with [[Taysan, Batangas|Taysan]] are served by the Batangas II Electric Cooperative (BATELEC-II). Power in off-grid [[Verde Island]] is provided by diesel generators and solar panels.
+
+The water services in the urbanized areas are provided by the Batangas City Water District (BCWD). Rural areas are localized and provided by the Rural Waterworks and Sewage Authority.
+
+The city is also locations of two major power plants that supply power to the Luzon grid: 
+*Ilijan Power Plant – a natural gas power plant owned and operated by the [[Korea Electric Power Company]] (KEPCO)
+*San Lorenzo – Santa Rita Power Plant – a [[Combined cycle power plant|combined cycle]] natural gas power plant owned and operated by Firstgen
+
+==Education==
+Among the higher education institutions in the city is the [[Batangas State University]], [[Lyceum of the Philippines University–Batangas]], [[University of Batangas]], [[St. Bridget College]] and [[STI College]].<ref>{{cite news |last1= Dumlao |first1=Doris |title=STI inaugurates P250M academic center in Batangas|url= https://business.inquirer.net/185601/sti-inaugurates-p250m-academic-center-in-batangas|accessdate=September 13, 2024 |work= [[Philippine Daily Inquirer]]|date=January 27, 2015}}</ref>
+
+The [[Department of Education (Philippines)|Department of Education]] also maintains a division in Batangas City.<ref>{{cite web|last1=Bueno|first1=Donato|title=Message|url=http://www.depedbatangascity.com/|archive-url=https://web.archive.org/web/20141119231629/http://www.depedbatangascity.com/|url-status=dead|archive-date=November 19, 2014|publisher=Division of Batangas City (Department of Education)|access-date=April 26, 2016}}</ref> For of the academic year of 2013–2014, there are 82 public elementary schools<ref>{{cite web|title=Masterlist of Schools Based on School Year in Public Elementary Schools – Batangas City|url=http://depedcalabarzon.ph/wp-content/uploads/2012/07/MASTERLIST-PUBLIC.ELEM_.-BATANGAS-CITY.pdf|archive-url=https://web.archive.org/web/20160630144804/http://depedcalabarzon.ph/wp-content/uploads/2012/07/MASTERLIST-PUBLIC.ELEM_.-BATANGAS-CITY.pdf|url-status=dead|archive-date=June 30, 2016|website=Department of Education – Calarbarzon|access-date=April 26, 2016}}</ref> and 18 public high schools.<ref>{{cite web|title=Masterlist of Schools Based on School Year in Public Secondary Schools – Batangas City|url=http://depedcalabarzon.ph/wp-content/uploads/2012/07/MASTERLIST-PUBLIC.SEC_.-BATANGAS-CITY.pdf|website=Department of Education – Calarbarzon|access-date=April 26, 2016|archive-date=October 13, 2017|archive-url=https://web.archive.org/web/20171013160654/http://depedcalabarzon.ph/wp-content/uploads/2012/07/MASTERLIST-PUBLIC.SEC_.-BATANGAS-CITY.pdf|url-status=dead}}</ref>  For the academic year of 2016–2017, 50 private schools offering various levels of education from pre-school to college level have legal permit to operate in the city.<ref>{{cite web|title=LIST OF PRIVATE SCHOOLS OPERATING WITH PERMIT/RECOGNITION REPUBLIC OF THE PHILIPPINES Department of Education Region IV-A CALABARZON BATANGAS CITY|url=http://depedcalabarzon.ph/wp-content/uploads/2014/03/Masterlist-of-Private-Schools-S.Y.-2016-2017-%E2%80%93-Batangas-City1.pdf|website=Department of Education – Calarbarzon|access-date=April 26, 2016|archive-date=March 1, 2017|archive-url=https://web.archive.org/web/20170301102101/http://depedcalabarzon.ph/wp-content/uploads/2014/03/Masterlist-of-Private-Schools-S.Y.-2016-2017-%E2%80%93-Batangas-City1.pdf|url-status=dead}}</ref>
+
+<gallery>
+Batangas State University Welcome Logo.jpg|Batangas State University
+Batangas National High School, April 2023.jpg|Batangas National High School
+University of Batangas, April 2023.jpg|University of Batangas
+</gallery>
+
+==Media==
+[[GMA Network]] serve Batangas City through local channels. [[ABS-CBN]]'s regional channel, ABS-CBN Southern Tagalog ([[DZAD-TV]], channel 10) have hosted its studios in Batangas City until they moved to Lipa in 2015. GMA serves Batangas City through channels 12 ([[D-12-ZB-TV]]) and GTV via channel 26 (DZDK-TV). Cable television is provided by Batangas MyCATV (formerly Batangas CATV).
+
+Batangas City has local newspapers like the English-language ''Sun.Star People's Courier'' and the Tagalog-language ''Balikas''. Newspapers marketed in Metro Manila, such as the major broadsheets ''[[Philippine Star]]'', ''[[Philippine Daily Inquirer]]'', and ''[[Manila Bulletin]]'', and tabloids like ''Abante'', ''Balita'', ''[[People's Journal]]'', ''[[Pilipino Mirror]]'', and ''[[Pilipino Star Ngayon]]'', are also sold in the city through local distributors.
+
+The city is the center of the radio listening market in Batangas, and is served by local radio stations, as well as some radio stations from Lipa and other parts of the Mega Manila area. The [[Roman Catholic Archdiocese of Lipa]], through the Radyo Bayanihan System, hosts two local radio stations: ALFM 95.9 Radyo Totoo ([[DWAL]]), a [[Religious radio|religion]], [[News radio|news]], [[Talk radio|talk]], and music-oriented station, and 99.1 Spirit FM ([[DWAM]]), a religion and music-oriented station. Other radio stations include 91.9 Air1 Radio Southern Tagalog (DWCH), an [[Adult contemporary music|adult contemporary]]-oriented station, 99.9 GV FM (DZGV), a [[contemporary hit radio]] station, and 104.7 Brigada News FM ([[DWEY]]), an FM news radio station. [[Batangas State University]] hosts a [[college radio]] station, 107.3 BatStateU FM (DWPB-FM). Signals from other stations in Metro Manila are not clearly received because of the local topography.
+
+==Gallery== <!-- Add additional images only to Commons Category:Batangas City, as per [[WP:IG]] -->
+{{Wide image|2014-12-25 Batangas City skyline 015.jpg|900px|Panorama of Batangas City and Mount Pinamucan}}
+
+<gallery>
+2014-12-07 Parish of the Most Holy Trinity Batangas City 001.jpg|Parish of the Most Holy Trinity in Barangay Pallocan West
+File:Plaza Mabini, Batangas City, April 2023.jpg|Plaza Mabini
+File:Mount Banoy.JPG|Mount Banoy
+9677Batangas City Barangays Roads Landmarks 44.jpg|Rizal Monument
+</gallery>
+
+== Footnotes ==
+{{reflist|30em}}
+
+== References ==
+* {{citation| author = City Investment & Tourism Office| year = 2006| title = Parine na't Magsaya sa Lungsod ng Batangas (pamphlet)| location=Batangas City, Philippines}}
+* {{citation| author= Local Government of Batangas City| publication-date = July 23, 1999| date = July 23, 1999| title = Batangas City Profile| location = Batangas City, Philippines| volume = 1| issue = 1| pages =7, 8, 13, 14}}
+
+== External links ==
+{{Commons category}}
+{{wikivoyage|Batangas City}}
+{{wikisource|1911 Encyclopædia Britannica/Batangas}}
+* {{official website|http://www.batangascity.gov.ph}}
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20081120024509/http://www.census.gov.ph/data/census2007/index.html Philippine Census Information]
+
+{{s-start}}
+{{s-bef|before=[[Taal, Batangas|Taal]]}}
+{{s-ttl|title=Capital of [[Batangas]]|years=1754–present}}
+{{s-inc}}
+{{s-end}}
+
+{{Geographic location
+|Northwest = [[San Pascual, Batangas|San Pascual]]
+|North     = [[San Jose, Batangas|San Jose]]
+|Northeast = [[Ibaan, Batangas|Ibaan]]
+|West      = ''[[Batangas Bay]]''
+|Center    = Batangas City
+|East      = [[Taysan, Batangas|Taysan]]<br>[[Lobo, Batangas|Lobo]]
+|Southwest = ''[[Isla Verde Passage]]''<br>[[Puerto Galera, Oriental Mindoro]]
+|South     = ''[[Isla Verde Passage]]''<br>[[San Teodoro, Oriental Mindoro|San Teodoro]] / [[Baco, Oriental Mindoro]]
+|}}
+{{Navboxes
+|title = Articles related to Batangas City
+|state= uncollapsed
+|list  =
+{{Batangas}}
+{{Batangas City's Major Schools}}
+{{Philippine cities}}
+{{Philippines Provincial Capitals}}
+{{Metropolitan areas of the Philippines}}
+{{Most populous cities in Philippines}}
+{{CALABARZON}}
+}}
+
+{{Authority control}}
+
+[[Category:Batangas City| ]]
+[[Category:Cities in Batangas]]
+[[Category:Populated places established in 1581]]
+[[Category:1581 establishments in the Philippines]]
+[[Category:Provincial capitals of the Philippines]]
+[[Category:Port cities and towns in the Philippines]]
+[[Category:Component cities in the Philippines]]

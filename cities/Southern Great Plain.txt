@@ -1,0 +1,42 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+ | official_name                  = Southern Great Plain
+ | native_name                    = Dél-Alföld
+ | settlement_type                = Region
+ | image_map                      = HU NUTS 23 DA.png
+ | map_caption                    = 
+ | subdivision_type               = [[Countries of the world|Country]]
+ | subdivision_name               = {{HUN}}
+ | subdivision_type3              = Capital city
+ | subdivision_name3              = [[Szeged]]
+ | area_total_km2                 = 18339
+ | population_as_of 	          = 
+ | population_total 	          = 1334506
+ | population_density_km2         = 73
+ | timezone         	          = [[Central European Time|CET]]
+ | utc_offset 	                  = +1
+ | timezone_DST 	          = [[Central European Summer Time|CEST]]
+ | utc_offset_DST         	  = +2
+ | blank_name_sec1                = [[Nomenclature of Territorial Units for Statistics|NUTS]] code
+ | blank_info_sec1                = HU33
+ | blank_name_sec2                = [[GDP]] per capita ([[Purchasing Power Standard|PPS]])
+ | blank_info_sec2                = €14,500 (2017)<ref name=eurostat>{{cite web|title=GDP per capita in 281 EU regions in 2017|publisher=Europa web portal|author=Eurostat|date=26 February 2019|url=https://ec.europa.eu/eurostat/documents/2995521/9618249/1-26022019-AP-EN.pdf/f765d183-c3d2-4e2f-9256-cc6665909c80|access-date=27 February 2019}}</ref>
+ | blank1_name_sec2       = [[Human Development Index|HDI]] (2019)
+ | blank1_info_sec2       = 0.849 <ref name="GlobalDataLab">{{Cite web|url=https://hdi.globaldatalab.org/areadata/shdi/|title=Sub-national HDI - Area Database - Global Data Lab|website=hdi.globaldatalab.org|language=en|access-date=2021-07-21}}</ref><br/>{{color|#090|very high}} · [[List of Hungarian regions by Human Development Index|3rd]]
+}}
+The '''Southern Great Plain''' ({{langx|hu|Dél-Alföld}} {{IPA-hu|'deːl 'ɒlføld|}}) is a statistical ([[Nomenclature of Territorial Units for Statistics|NUTS]] 2) region of [[Hungary]]. It is part of [[Great Plain and North]] (NUTS 1) region. The Southern Great Plain includes the counties of [[Bács-Kiskun County|Bács-Kiskun]], [[Békés County|Békés]], and [[Csongrád-Csanád County|Csongrád-Csanád]]. The region is in the southern part of [[Hungary]]. It borders [[Central Hungary]] and the [[Northern Great Plain]] regions to the north, [[Romania]] to the east, [[Serbia]] to the south, and the [[Southern Transdanubia]] and [[Central Transdanubia]] regions to the west. The regional centre, and capital city is [[Szeged]], the [[List of cities and towns of Hungary#Largest cities in Hungary|third largest city]] of Hungary.
+
+==See also==
+*[[List of regions of Hungary]]
+
+== References ==
+{{Reflist}}
+
+{{Regions of Hungary}}
+{{Authority control}}
+
+[[Category:NUTS 2 statistical regions of the European Union]]
+[[Category:Southern Great Plain|*]]
+
+
+{{Hungary-geo-stub}}

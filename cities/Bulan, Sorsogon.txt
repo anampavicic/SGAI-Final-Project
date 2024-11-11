@@ -1,0 +1,415 @@
+{{Short description|Municipality in Sorsogon, Philippines}}
+{{more citations needed|date=February 2013}}
+{{Infobox settlement
+| name               = {{PH wikidata|name}}
+| image_skyline      = Sunset at Ticao Pass.jpg
+| image_caption      = Sunset at Ticao Pass
+| image_flag         = Flag_of_Bulan,_Sorsogon.png
+| flag_size          = 120x80px
+| image_seal         = 
+| seal_size          = 100x80px
+| image_map          = {{PH wikidata|image_map}}
+| map_caption        = {{PH wikidata|map_caption}}
+| image_map1         = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map        = Philippines
+| pushpin_label_position = right
+| pushpin_map_caption = Location within the {{PH wikidata|country}}
+| coordinates        = {{PH wikidata|coordinates}}
+| settlement_type    = {{PH wikidata|settlement_type}}
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = [[Philippines]]
+| subdivision_type1  = [[Regions of the Philippines|Region]]
+| subdivision_name1  = {{PH wikidata|region}}
+| subdivision_type2  = [[Provinces of the Philippines|Province]]
+| subdivision_name2  = {{PH wikidata|province}}
+| official_name      = {{PH wikidata|official_name}}
+| etymology          = <!--origin of name-->
+| named_for          = <!--named after (if person or place)-->
+| native_name        = 
+| other_name         = The Home of Padaraw Festival
+| nickname           = Fishing Capital of Bicol
+| motto              = "Unhan Bulan"
+| anthem             = 
+| subdivision_type3  = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3  = {{PH legislative district}}
+| established_title  = [[Date of establishment|Founded]]
+| established_date   = 
+| parts_type         = [[Barangay]]s
+| parts_style        = para
+| p1                 = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title       = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name        = Romeo A. Gordola
+| leader_title1      = [[Vice Mayor]]
+| leader_name1       = Chezka Mae B. Robles
+| leader_title2      = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2       = ''Vacant''
+| leader_title3      = [[Sangguniang Bayan|Municipal Council]]
+| leader_name3       = {{PH Town Council
+| 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Joefrey O. Azur
+ | 3=Chezka Mae B. Robles
+ | 4=Renato D. Guban
+ | 5=Olaf S. Gotladera
+ | 6=Excel G. Zuñiga
+ | 7=Mildred H. Pelagio
+ | 8=Augusto G. Geronga
+ | 9=Tito G. Guelas
+}}
+| leader_title4      = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4       = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type    = {{PH wikidata|government_type}}
+| government_footnotes = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m        = {{PH wikidata|elevation_m}}
+| elevation_max_m    = 190
+| elevation_min_m    = 0
+| elevation_max_rank = 
+| elevation_min_rank = 
+| elevation_footnotes = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes = 
+| elevation_min_footnotes = 
+| area_rank          = 
+| area_footnotes     = {{PH area}}
+| area_total_km2     = {{PH wikidata|area}}
+| population_footnotes = {{PH census|current}}
+| population_total   = {{PH wikidata|population_total}}
+| population_as_of   = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title = [[Household]]s
+| population_blank1  = {{PH wikidata|household}}
+| population_blank2_title = 
+| population_blank2  = 
+| population_demonym = 
+| population_rank    = 
+| population_note    = 
+| timezone           = [[Philippine Standard Time|PST]]
+| utc_offset         = +8
+| postal_code_type   = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code        = {{PH wikidata|postal_code}}
+| postal2_code_type  = {{PSGCstyle}}
+| postal2_code       = {{PSGC detail}}
+| area_code_type     = {{areacodestyle}}
+| area_code          = {{PH wikidata|area_code}}
+| website            = {{PH wikidata|website}}
+| demographics_type1 = Economy
+| demographics1_title1 = {{PH wikidata|income_class_title}}
+| demographics1_info1 = {{PH wikidata|income_class}}
+| demographics1_title2 = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2 = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3 = [[Revenue]]
+| demographics1_info3 = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4 = Revenue rank
+| demographics1_info4 = 
+| demographics1_title5 = [[Asset]]s
+| demographics1_info5 = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6 = Assets rank
+| demographics1_info6 = 
+| demographics1_title7 = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7 = 
+| demographics1_title8 = IRA rank
+| demographics1_info8 = 
+| demographics1_title9 = [[Expenditure]]
+| demographics1_info9 = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10 = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10 = 
+| demographics_type2 = Service provider
+| demographics2_title1 = Electricity
+| demographics2_info1 = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2 = Water
+| demographics2_info2 = 
+| demographics2_title3 = Telecommunications
+| demographics2_info3 = 
+| demographics2_title4 = Cable TV
+| demographics2_info4 = 
+| demographics2_title5 = 
+| demographics2_info5 = 
+| demographics2_title6 = 
+| demographics2_info6 = 
+| demographics2_title7 = 
+| demographics2_info7 = 
+| demographics2_title8 = 
+| demographics2_info8 = 
+| demographics2_title9 = 
+| demographics2_info9 = 
+| demographics2_title10 = 
+| demographics2_info10 = 
+| blank_name_sec1    = {{PH wikidata|climate_title}}
+| blank_info_sec1    = {{PH wikidata|climate_type}}
+| blank1_name_sec1   = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1   = {{Plainlist |
+*[[Southern_Sorsogon_language|- Bisakol (Southern Sorsogon)]]
+*[[Tagalog_language|- Tagalog]]
+}}
+| blank2_name_sec1   = [[Crime index]]
+| blank2_info_sec1   = 
+| blank3_name_sec1   = 
+| blank3_info_sec1   = 
+| blank4_name_sec1   = 
+| blank4_info_sec1   = 
+| blank5_name_sec1   = 
+| blank5_info_sec1   = 
+| blank6_name_sec1   = 
+| blank6_info_sec1   = 
+| blank7_name_sec1   = 
+| blank7_info_sec1   = 
+| blank1_name_sec2   = Major religions
+| blank1_info_sec2   = 
+| blank2_name_sec2   = Feast date
+| blank2_info_sec2   = 
+| blank3_name_sec2   = Catholic diocese
+| blank3_info_sec2   = 
+| blank4_name_sec2   = Patron saint
+| blank4_info_sec2   = 
+| blank5_name_sec2   = 
+| blank5_info_sec2   = 
+| blank6_name_sec2   = 
+| blank6_info_sec2   = 
+| blank7_name_sec2   = 
+| blank7_info_sec2   = 
+| short_description  = 
+| footnotes          = 
+| seal_link          = 
+}}
+
+'''Bulan''', officially the '''Municipality of Bulan''' ([[Waray Sorsogon]]: ''Bungto san Bulan''; [[Waray language|Waray]]: ''Bungto han Bulan''; [[Tagalog language|Tagalog]]: ''Bayan ng Bulan''), is a 1st class [[municipality of the Philippines|municipality]] in the [[Philippine Province|province]] of [[Sorsogon]], [[Philippines]]. According to the 2020 census, it has a population of 105,190 people, making it the most populated town in the province.{{PH census|current}}
+
+
+One of Bicol's fastest growing economy and primed to be the next city of Sorsogon. Bulan now is being groomed to be the next city of the province given its being a first class municipality with an estimated population of 120k, 196 square kilometers land area and an annual regular income of not less than P200M Bulan almost had the status of being a city. The town is said to propose a cityhood bill in 2024.
+
+It is also one of the Top Five Municipalities with the Highest Operating Income in Bicol, ISO Accredited LGU, with Seal of Good Financial Housekeeping from DILG, and a lot more.
+
+==Geography==
+The Municipality of Bulan is located at the south-westernmost tip of the [[Bicol Peninsula]] of the island of Luzon. It has an area of exactly 20,094 hectares and is the terminal and burgeoning center of trade and commerce of its neighboring towns. It comprises fifty-five (55) barangays and eight (8) zones and is populated by people of diversified origin.
+
+This municipality is bounded on the north by the Municipality of [[Magallanes, Sorsogon|Magallanes]], on the east by the municipalities of [[Juban, Sorsogon|Juban]] and [[Irosin, Sorsogon|Irosin]], on the south by the Municipality of [[Matnog, Sorsogon|Matnog]], and on the west by [[Ticao Pass]]. It has a distance of {{convert|667|km}} from [[Manila]], {{convert|63|km}} from the province's capital [[Sorsogon City]], {{convert|20|km}} from the town of [[Irosin, Sorsogon|Irosin]] and {{convert|30|km}} from the town of [[Matnog, Sorsogon|Matnog]].
+
+===Barangays===
+Bulan is politically subdivided into 63 [[barangay]]s. Each barangay consists of [[purok]]s and some have [[sitios]].
+{{Div col|colwidth=15em}}
+* A. Bonifacio (Tinurilan)
+* Abad Santos (Kambal)
+* Aguinaldo (Lipata Dako)
+* Antipolo
+* Aquino (Imelda)
+* Bical
+* Beguin
+* Bonga
+* Butag
+* Cadandanan
+* Calomagon
+* Calpi
+* Cocok-Cabitan
+* Daganas
+* Danao
+* Dolos
+* E. Quirino (Pinangomhan)
+* Fabrica
+* G. Del Pilar (Tanga)
+* Gate
+* Inararan
+* J. Gerona (Biton)
+* J.P. Laurel (Pon-od)
+* Jamorawon
+* Libertad (Calle Putol)
+* Lajong
+* Magsaysay (Bongog)
+* Managa-naga
+* Marinab
+* Nasuje
+* Montecalvario
+* N. Roque (Calayugan)
+* Namo
+* Obrero
+* Osmeña (Lipata Saday)
+* Otavi
+* Padre Diaz
+* Palale
+* [[Quezon (Cabarawan)]]<ref>https://www.facebook.com/groups/161120340733350/, http://ph.geoview.info/cabarawan,6906823p, https://www.facebook.com/photo.php?fbid=1925324608817&set=t.1113197609&type=3&theater {{User-generated source|certain=yes|date=March 2022}}</ref>
+* R. Gerona (Butag)
+* Recto
+* Roxas (Busay)
+* Sagrada
+* San Francisco (Polot)
+* San Isidro (Cabugaan)
+* San Juan Bag-o
+* San Juan Daan
+* San Rafael (Togbongon)
+* San Ramon
+* San Vicente
+* Santa Remedios
+* Santa Teresita (Trece)
+* Sigad
+* Somagongsong
+* Tarhan
+* Taromata
+* Zone 1 (Ilawod)
+* Zone 2 (Sabang)
+* Zone 3 (Central)
+* Zone 4 (Central Business District)
+* Zone 5 (Canipaan)
+* Zone 6 (Baybay)
+* Zone 7 (Iraya)
+* Zone 8 (Loyo)
+{{div col end}}
+
+===Climate===
+{{Weather box
+| location     = Bulan, Sorsogon
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 27
+| Jan low C  = 22
+| Feb high C = 28
+| Feb low C  = 21
+| Mar high C = 29
+| Mar low C  = 22
+| Apr high C = 31
+| Apr low C  = 23
+| May high C = 31
+| May low C  = 24
+| Jun high C = 30
+| Jun low C  = 25
+| Jul high C = 29
+| Jul low C  = 25
+| Aug high C = 29
+| Aug low C  = 25
+| Sep high C = 29
+| Sep low C  = 25
+| Oct high C = 29
+| Oct low C  = 24
+| Nov high C = 29
+| Nov low C  = 23
+| Dec high C = 28
+| Dec low C  = 23
+| Jan precipitation mm = 65
+| Feb precipitation mm = 44
+| Mar precipitation mm = 42
+| Apr precipitation mm = 39
+| May precipitation mm = 87
+| Jun precipitation mm = 150
+| Jul precipitation mm = 184
+| Aug precipitation mm = 153
+| Sep precipitation mm = 163
+| Oct precipitation mm = 154
+| Nov precipitation mm = 127
+| Dec precipitation mm = 100
+| Jan rain days        = 13.9
+| Feb rain days        = 9.2
+| Mar rain days        = 11.0
+| Apr rain days        = 12.5
+| May rain days        = 19.6
+| Jun rain days        = 24.3
+| Jul rain days        = 26.5
+| Aug rain days        = 25.0
+| Sep rain days        = 25.5
+| Oct rain days        = 24.4
+| Nov rain days        = 19.4
+| Dec rain days        = 15.1
+| source 1 = Meteoblue <small>(modeled/calculated data, not measured locally)</small><ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/forecast/modelclimate/bulan_philippines_1722985
+| title =  Bulan, Sorsogon : Average Temperatures and Rainfall
+| publisher = Meteoblue
+| accessdate = 29 December 2018}}</ref>
+| date = 29 December 2018
+}}
+{{clear-left}}
+
+==Demographics==
+
+{{Philippine Census
+| align= none
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+==Economy==
+{{PH poverty incidence}} 
+
+Residents of Bulan are now looking forward to its city hood because of its rapid-economic growth considering the fact that it is cited as the richest municipality in the province and 5th among the 1st class municipalities in [[Bicol Region]] with an average annual income of PHP 58.8M (2009). If it happens, Bulan will be the second city in the province and will be the 8th in the region.
+
+Major exports of this town are from its coastal waters, agricultural lands produce [[rice]], [[copra]], [[abaca]] fiber. Most of the revenues come from the fishing port of Bulan and businesses.
+
+
+=== Development areas ===
+
+Commercial businesses are heavily concentrated in the town center. The expansion of the commercial area under the Comprehensive Land Use Plan (CLUP) has been approved, stretching from the Poblacion Zone Business District to Zone 7, Barangay Aquino, and extending to Barangay Fabrica. This will form the new Central Business District (CBD) of the town, aimed at alleviating traffic congestion and reducing the burden on commercial establishments in the downtown area. The expansion also includes an 80-meter radius on both sides of the National Highway.
+
+Due to Bulan's rapidly growing economy and revenue, alongside its large population growth, the old and unfinished Bulan airport will start construction soon and will serve as the gateway to the province of [[Sorsogon]].
+
+Bulan port also will undergo rehabilitation so locals would not have to go to [[Matnog]] to access the [[Visayas]] and [[Masbate]] Area.
+
+=== Growth ===
+
+Although poverty is still high in Bulan, the government has improve people's lives. Bulan is ranked in the Top 10 richest municipalities out of 107 Municipalities in the [[Bicol Region]], from 5th to 2nd fastest growing as of 2021 with an average annual income of 145.60M (41.91% increase) after [[Aroroy]], Masbate.   
+   
+{{clear-left}}
+
+==Infrastracture==
+
+=== Telecommunications ===
+Bulan has fixed landline phones and fiber internet from BTTI (Bicol Telephone and Telegraph, Inc.). Mobile or cellular networks are Globe, Smart and Dito Telecommunications Companies.
+
+==Education==
+
+=== Primary education ===
+Previously, the primary education in Bulan was divided into two Districts, the Bulan North District comprising all the Barangays towards the north coastal Barangays, to the interior land-locked northern Barangays. The Bulan South District comprised the southern Coastal Barangays. Presently, it is now divided into four districts namely, Bulan I, Bulan II, Bulan III, and Bulan IV.
+
+=== Secondary education ===
+Bulan has many secondary educational institutions. The largest public high school is Bulan National High School. Formerly, it was the Bulan High School/Bulan Vocational High School, before the former was converted into Sorsogon State College Bulan Campus. BNHS has satellite Campuses at Barangays Otavi, Beguin, J.P. Laurel, San Juan Bag-o. There is also a Secondary School in San Francisco, one of the biggest Barangay of Bulan. The San Francisco National High School.
+On the coastal area, [[QNHS (Quezon National High School)|Quezon National High School]],<ref>https://www.facebook.com/photo.php?fbid=1652365681667577&set=pcb.479725778872803&type=3&theater, https://www.facebook.com/groups/161120340733350/ {{User-generated source|certain=yes|date=March 2022}}</ref> is one and only coastal high school in the area. Where students from nearby barangays (Osmeña, Aguinaldo, Sagrada and even Coron-Coron & Sua - part of Municipality of Matnog, use to send their students. The only school to represent major national events as headed by Mrs. Adelia O. Gregorio (Principal), Mr. Renato B. Gallenito and their co-teachers (by: HBF).
+
+There are various private secondary schools. The St. Louise De Marillac School (Formerly Colegio de la Inmaculada Concepcion) a Catholic school run by the [[Daughters of Charity of Saint Vincent de Paul|Daughters of Charity]] religious congregation, Immaculate Conception Academy of Bulan (Formerly Immaculate Conception Learning Center) a Catholic School, Saint Bonaventure Academy of Butag, the Southern Luzon Institute-Kenerino Ramirez Asuncion Memorial School (SLI-KRAMS) were the oldest school in Bulan, Solis Institute of Technology, and A.G. Villaroya Technological Foundation Institute.
+
+=== Tertiary education ===
+*[[Sorsogon State College|Sorsogon State University]] - Bulan Campus
+* R.G. De Castro Colleges (formerly Quezon Academy)
+*SLI-KRAMS
+*Solis Institute of Technology
+*A.G. Villaroya (Post-Secondary courses only)
+
+=== Alternative Learning System ===
+Aside from the formal education system, a parallel alternative learning system program is incorporated in the education system to provide a viable alternative to the existing formal education structure. It encompasses both the non-formal and informal sources of knowledge and skills such as those acquired at home, the church, media, environment or even the life itself and span the pre-literacy to higher skills continuum.
+
+There are two major existing programs implemented. 1) Basic Literacy Program 2)Accreditation and Equivalency (A & E). ALS implementers such as Mobile Teachers and District ALS Coordinators were the one administer the implementation of the programs. It is intended for Out-of-School Youth and Adults who are unschooled or school drop-out. For more inquiries look for Bulan South and Bulan North Districts ALS implementers.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.philatlas.com/luzon/r05/sorsogon/bulan.html Bulan Profile at PhilAtlas.com]
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20081120024509/http://www.census.gov.ph/data/census2007/index.html Philippine Census Information]
+* [https://web.archive.org/web/20160304205439/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=8&frmIdProvince=49&frmIdLgu=204 Local Governance Performance Management System]
+* [https://web.archive.org/web/20100806131445/http://dilgbicol.org/lgu-profiles.html LGU Profile of Bulan,Sorsogon]
+
+{{Geographic location
+| Centre    = Bulan
+| North     = [[Magallanes, Sorsogon|Magallanes]]
+| Northeast = [[Juban, Sorsogon|Juban]]
+| East      = [[Irosin, Sorsogon|Irosin]]
+| Southeast = [[Matnog, Sorsogon|Matnog]]
+| South     = ''Ticao Pass''
+| West      = [[Monreal, Masbate]]{{pad|5em}}<br />[[San Jacinto, Masbate]] / ''Ticao Pass''
+}}
+{{Sorsogon}}
+{{Authority control}}
+
+[[Category:Municipalities of Sorsogon]]

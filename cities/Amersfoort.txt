@@ -1,0 +1,376 @@
+{{short description|City and municipality in Utrecht, Netherlands}}
+{{Other uses}}
+{{Use dmy dates|date=May 2018}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Name and transliteration -->| name               = Amersfoort
+| settlement_type    = [[Cities of the Netherlands|City]] and [[List of municipalities of the Netherlands|municipality]]
+<!-- Images, nickname, motto -->| image_skyline      = {{multiple image
+  | total_width            = 270
+  | border                 = infobox
+  | perrow                 = 1/2/1
+  | caption_align          = center
+  | image1                 = Amersfoort Zuidsingel.JPG
+  | alt1                   = Zuidsingel
+  | caption1               = Zuidsingel
+  | image2                 = Lieve Vrouwekerkhof, 3811 Amersfoort, Netherlands - panoramio (14).jpg
+  | alt2                   = Lieve Vrouwekerkhof
+  | caption2               = Lieve Vrouwekerkhof
+  | image3                 = Hof, 3811 Amersfoort, Netherlands - panoramio (38).jpg
+  | alt3                   = Havik
+  | caption3               = Havik
+  | image4                 = Woudzoom, Amersfoort, Netherlands - panoramio.jpg
+  | alt4                   = Woudzoom
+  | caption4               = Woudzoom
+  }}
+| image_alt          = 
+| image_caption      = 
+| image_flag         = Amersfoort flag outline.svg
+| flag_size          = 100x67px
+| flag_alt           = 
+| image_shield       = Amersfoort wapen.svg
+| shield_size        = 100x80px
+| shield_alt         = 
+| nickname           = Keistad (Boulder City)
+<!-- Maps, coordinates -->| image_map          = Map - NL - Municipality code 0307 (2009).svg
+| map_alt            = Highlighted position of Amersfoort in a municipal map of Utrecht
+| map_caption        = Location in Utrecht
+| pushpin_map        = Netherlands#Europe
+| pushpin_map_caption = Location within the Netherlands##Location within Europe
+| pushpin_relief     = 1
+| coordinates        = {{coord|52|9|N|5|23|E|region:NL|display=inline,title}}
+| coordinates_footnotes = 
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = [[Netherlands]]
+| subdivision_type1  = [[Provinces of the Netherlands|Province]]
+| subdivision_name1  = [[Utrecht (province)|Utrecht]]
+| established_title  = [[City rights]]
+| established_date   = 1259
+| government_footnotes = <ref name="mayor_now">{{cite web
+ |url=http://www.amersfoort.nl/Burgemeester.html
+ |title=Burgemeester
+ |trans-title=Mayor
+ |language=nl
+ |publisher=Gemeente Amersfoort
+ |access-date=3 April 2014
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20140716154451/http://www.amersfoort.nl/Burgemeester.html
+ |archive-date=16 July 2014
+}}</ref>
+| governing_body     = [[Municipal council (Netherlands)|Municipal council]]
+| leader_party       = [[Christian Democratic Appeal|CDA]]
+| leader_title       = [[Burgemeester|Mayor]]
+| leader_name        = [[Lucas Bolsius]]
+<!-- Geographic information -->| total_type         = Municipality
+| unit_pref          = Metric
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->| area_footnotes     = <ref>{{Dutch municipality total area|dataref}}</ref>
+<!-- square kilometers -->| area_total_km2     = {{Dutch municipality total area|Amersfoort}}
+| area_land_km2      = {{Dutch municipality land area|Amersfoort}}
+| area_water_km2     = {{Dutch municipality water area|Amersfoort}}
+| elevation_footnotes = <ref name="AHN">{{cite web
+ |url=http://www.ahn.nl/postcodetool
+ |title=Postcodetool for 3811LM
+ |language=nl
+ |author=<!--Staff writer(s); no by-line.-->
+ |work=Actueel Hoogtebestand Nederland
+ |publisher=Het Waterschapshuis
+ |access-date=3 April 2014
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20130921053543/http://www.ahn.nl/postcodetool
+ |archive-date=21 September 2013
+}}</ref>
+| elevation_m        = 3
+| elevation_max_footnotes = <!-- for references: use <ref> tags -->
+| elevation_max_m    = 
+| elevation_min_footnotes = <!-- for references: use <ref> tags -->
+| elevation_min_m    = <!-- Population, demographics -->
+| population_footnotes = <ref>{{Dutch municipality population|dataref}}</ref><ref>{{Dutch municipality population urbanmetro|dataref}}</ref>
+| population_total   = {{Dutch municipality population|Amersfoort}}
+| population_as_of   = Municipality, {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{YEAR|{{Dutch municipality population|popbaseyear}}}}; Urban and Metro, {{MONTHNAME|{{Dutch municipality population urbanmetro|popbasemonth}}}} {{YEAR|{{Dutch municipality population urbanmetro|popbaseyear}}}}
+| population_density_km2 = {{Dutch municipality population density|Amersfoort}} <!-- For automatic calculation: auto-->
+| population_urban   = {{Dutch municipality population urbanmetro|Amersfoort Urban}}
+| population_metro   = {{Dutch municipality population urbanmetro|Amersfoort Metro}}
+| population_demonym = Amersfoorter(s)
+<!-- Other information -->| timezone           = [[Central European Time|CET]]
+| utc_offset         = +1
+| timezone_DST       = [[Central European Summer Time|CEST]]
+| utc_offset_DST     = +2
+| postal_code_type   = [[Postal codes in the Netherlands|Postcode]]
+| postal_code        = 3800–3829
+| area_code_type     = [[Telephone numbers in the Netherlands|Area code]]
+| area_code          = 033
+| website            = {{URL|1=http://www.amersfoort.nl}}
+| module             = {{infobox mapframe|zoom=5}}
+| footnotes          = Click on the map for a fullscreen view
+| image_blank_emblem = Amersfoort.svg
+| blank_emblem_type  = [[Brandmark]]
+| blank_emblem_size  = 120px
+}}
+
+'''Amersfoort''' ({{IPA|nl|ˈaːmərsfoːrt|-|Nl-Amersfoort.ogg}}) is a [[Cities of the Netherlands|city]] and [[List of municipalities of the Netherlands|municipality]] in the [[Provinces of the Netherlands|province]] of [[Utrecht (province)|Utrecht]], [[Netherlands]]. As of 31 January 2023, the municipality had a population of 160,902, making it the second-largest of the province and fifteenth-largest of the country. Amersfoort is also one of the largest Dutch railway junctions with its three stations—[[Amersfoort Centraal railway station|Amersfoort Centraal]], [[Amersfoort Schothorst railway station|Schothorst]] and [[Amersfoort Vathorst railway station|Vathorst]]—due to its location on two of the Netherlands' main east to west and north to south railway lines. The city was used during the [[1928 Summer Olympics]] as a venue for the [[Modern pentathlon at the 1928 Summer Olympics|modern pentathlon]] events. Amersfoort marked its 750th anniversary as a city in 2009.<ref>{{Cite web|url= http://www.amersfoort750.nl/|title= Home Page|publisher= Amersfoort 750|language= nl|access-date= 24 January 2009| archive-url= https://web.archive.org/web/20090202024759/http://amersfoort750.nl/| archive-date= 2 February 2009 | url-status= live}}</ref>
+
+== History ==
+[[Hunter-gatherer|Hunter gatherers]] set up camps in the Amersfoort region in the [[Mesolithic]] period. Archaeologists have found traces of these camps, such as the remains of hearths, and sometimes microlithic flint objects, to the north of the city.
+
+=== Antiquity ===
+[[File:Koppelpoort Amersfoort 2008.jpg|thumb|[[Koppelpoort]]]]
+[[File:Amersfoort, de Monnikendam RM8053 positie1 2012-12-08 11.14.jpg|thumb|Monnikendam]]
+Remains of settlements dating to  1000&nbsp;BC have been found in the Amersfoort area. The name Amersfoort, after a [[ford (river)|ford]] in the Amer River, today called the [[Eem]], first appeared in the 11th century. The city grew around what is now the ''Hof'', where the [[Prince-Bishopric of Utrecht|Bishops of Utrecht]] established a court in order to control the "{{Interlanguage link multi|Gelderse Vallei|nl}}" area. It was granted city rights in 1259 by the bishop of Utrecht, [[Henry I van Vianden]]. A first defensive wall, made of brick, was completed around 1300 but expansion led to the construction of a new wall in 1380, which was completed around 1450. The [[Koppelpoort]], a combined land and water gate, is part of this second wall. The first wall was demolished and houses were built in its place. Today's ''Muurhuizen'' (wallhouses) Street is located where the first wall stood.
+
+The ''[[Onze Lieve Vrouwetoren|Onze-Lieve-Vrouwentoren]]'' (Tower of [[Blessed Virgin Mary|Our Lady]])<ref>{{cite web |url= http://www.skyscrapercity.info/100.php?id=4&bid=1185 |title= Onze Lieve Vrouwentoren |access-date= 26 March 2008 |publisher= SkyscraperCity |url-status= dead |archive-url= https://web.archive.org/web/20070928003736/http://www.skyscrapercity.info/100.php?id=4&bid=1185 |archive-date= 28 September 2007 |df= dmy-all}}</ref> is one of the tallest medieval church towers in the Netherlands at {{convert|98|m|ft|0}}. When it was built, it was the middle point of The Netherlands,<ref>{{cite web |title=Wat te doen in Amersfoort? |date=30 June 2021 |url=https://www.wearetravellers.nl/europa/wat-te-doen-in-amersfoort-10-tips/ |publisher=Roëlle}}</ref> it was exactly built in the center and a reference for the Dutch grid system. The nickname of the tower is Lange Jan ('Long John').<ref>{{cite web |title=Amersfoort - Middle point of the Netherlands |url=http://www.onzelievevrouwetoren.nl/english/ |publisher=OnzeLieveVrouwenToren |access-date=16 April 2019 |archive-date=26 October 2021 |archive-url=https://web.archive.org/web/20211026045944/https://www.onzelievevrouwetoren.nl/english/ |url-status=dead }}</ref>
+
+The construction of the tower and the church was started in 1444. The church was destroyed by an explosion in 1787, but the tower survived, and the layout of the church still can be discerned today through the use of different types of stone in the pavement of the open space that was created. It is now the reference point of the [[Geography of the Netherlands|RD coordinate system]], the coordinate grid used by the Dutch topographical service: the RD coordinates are (155.000, 463.000).
+
+The inner city of Amersfoort has been preserved well since the [[Middle Ages]]. Apart from the Onze-Lieve-Vrouwetoren, the [[Koppelpoort]], and the ''Muurhuizen'' (Wall-houses), there is also the Sint-Joriskerk (Saint George's church), the canal-system with its bridges, as well as medieval and other old buildings; many are designated as national monuments. In the Middle Ages, Amersfoort was an important centre for the textile industry, and there were a large number of breweries. [[Jews]] also lived in Amersfoort in the Middle Ages, before being expelled from the province in 1546 and beginning to return to the city in 1655.<ref>{{cite web |title=The Jewish Community of Amersfoort |url=https://dbs.bh.org.il/place/amersfoort |publisher=The Museum of the Jewish People at Beit Hatfutsot |access-date=17 June 2018 |archive-date=17 June 2018 |archive-url=https://web.archive.org/web/20180617093421/https://dbs.bh.org.il/place/amersfoort |url-status=dead }}</ref>
+
+=== Origin of the ''Keistad'' ===
+[[Image:Amersfoort, de Amersfoortse Kei foto6 2012-12-08 10.47.jpg|thumb|''Amersfoortse Kei'']]
+The nickname for Amersfoort, ''Keistad'' (boulder-city), originates in the ''Amersfoortse Kei'', a {{convert|9|t|lb|0|lk=on|adj=on}} [[boulder]] that was dragged from the [[Soest, Netherlands|Soest]] moors into the city in 1661 by 400 people because of a bet between two landowners. The people got their reward when the winner bought everyone [[beer]] and [[pretzels]]. Other nearby towns then nicknamed the people of Amersfoort ''Keientrekker'' (boulder-puller). This story embarrassed the inhabitants, and they buried the boulder in the city in 1672, but after it was found again in 1903 it was placed in a prominent spot as a monument. There are not many boulders in the Netherlands, so it can be regarded as an icon.
+
+=== Nieuw Amersfoort ===
+[[File:RM8067 Westsingel 49 ab.jpg|thumb|The historic [[brasserie]] of Amersfoort, now a [[Rijksmonument]]]]
+[[File:Netherlands, Amersfoort, map of 1865.JPG|thumb|left|Amersfoort in 1865]]
+One of the six Dutch towns established in the 17th century in what is now [[Brooklyn]] was called "Nieuw Amersfoort" (New Amersfoort). The original patentees were [[Wolfert Gerritse van Couwenhoven|Wolfert Gerritse van Kouwenhoven]] and [[Andries Hudde]].<ref>{{Cite web|url=https://cityroom.blogs.nytimes.com/2007/11/01/dutch-deed-fetches-more-than-a-handful-of-beads/|title=Dutch Deed Fetches More Than a Handful of Beads|last=Kilgannon|first=Corey|date=2007-11-01|website=City Room|language=en-US|access-date=2018-05-16}}</ref> Unlike other Dutch names which were retained up to the present, Nieuw Amersfoort is now called "[[Flatlands, Brooklyn|Flatlands]]".
+
+In the 18th century, the city flourished because of the cultivation of [[tobacco]],<ref group="note">The Russian word for the tobacco ''[[Nicotiana rustica]]'', махорка (makhorka), may bear an etymological debt to this city. See the [http://dic.academic.ru/dic.nsf/vasmer/43178/%D0%BC%D0%B0%D1%85%D0%BE%D1%80%D0%BA%D0%B0 dictionary of Max Vasmer.]</ref> but from about 1800 onwards began to decline.
+
+The decline was halted by the establishment of the first railway connection in 1863, and some years later, by the building of a substantial number of infantry and cavalry barracks, which were needed to defend the western cities of the Netherlands.
+
+After the 1920s, growth stalled again; in 1970, the national government designated Amersfoort, then numbering some 70,000 inhabitants, as a "growth city".
+
+=== First World War ===
+During the First World War, the area of Amersfoort with nearby [[Soesterberg]] and [[Zeist]] was one of the places in The Netherlands where many refugees from Belgium were sheltered. The "Belgenmonument", located in the vicinity of the former refugee camp Elisabethdorp, commemorates this period and the hardships of the Belgian refugees.
+
+=== Second World War ===
+[[File:Amersfoort-plaats-OpenTopo.jpg|thumb|Topographic map of Amersfoort, 2014]]
+Since Amersfoort was the largest garrison town in the Netherlands before the outbreak of the [[World War II|Second World War]], with eight barracks, and part of the [[Grebbe line|main line of defence]], the whole population of then 43,000 was evacuated at the start of the invasion by the Germans in May 1940. After four days of battle, the population was allowed to return.
+
+There was a functioning Jewish community in the town, at the beginning of the war numbering about 700 people. Half of them were deported and killed, mainly in [[Auschwitz]] and [[Sobibor extermination camp|Sobibor]]. In 1943, the [[synagogue]], dating from 1727, was severely damaged on the orders of the then Nazi-controlled city government. It was restored and opened again after the war, and has been served since by a succession of [[rabbi]]s.
+
+There was a [[Nazism|Nazi]] [[concentration camp]] near the city of Amersfoort during the war. The camp, officially called ''Polizeiliches Durchgangslager Amersfoort'' (Police Transit Camp Amersfoort), better known as ''[[Kamp Amersfoort]]'', was actually located in the neighbouring municipality of [[Leusden]].
+
+After the war the leader of the camp, Joseph Kotälla, served a life sentence in prison. He died in captivity in 1979. Some of the victims of the camp are buried in [[Rusthof cemetery]] near the town.
+
+Among the victims were prisoners of war from the [[Soviet Union]], including 101 Central Asians, mostly [[Uzbeks]]. Locals would commemorate them, but the identity of the 101 soldiers was not known, until journalist Remco Reiding started investigating this case in 1999, after hearing about the cemetery. Amongst the few remaining people who witnessed the 101 soldiers is Henk Broekhuizen.<ref name=Soldat>[http://www.soldat.ru/search/f_glory/soldiers.html "Soviet Field of Glory"] {{in lang|ru}}</ref><ref name="BBC2017CentralAsians">{{cite news |author=Rustam Qobil |publisher=BBC |title=Why were 101 Uzbeks killed in the Netherlands in 1942? |url=https://www.bbc.co.uk/news/magazine-39849088 |date=9 May 2017 |access-date=9 May 2017}}</ref>
+
+== Culture ==
+Amersfoort has a historic centre, surrounded by ramparts, and home to dozens of monuments, like 
+* the [[Onze Lieve Vrouwetoren]] (English: Tower of Our Lady);
+* the [[Koppelpoort]] (a medieval gate)
+
+Other culturally important buildings are:
+* Municipal Library in [[Culture House Eemhuis]]
+* the building of the [[Rijksdienst voor het Cultureel Erfgoed]] (Cultural Heritage Agency)
+* *[[De WAR, Amersfoort, the Netherlands|De WAR]], a space for artists and innovators
+
+=== Museums ===
+[[Image:Lieve Vrouwekerkhof, 3811 Amersfoort, Netherlands - panoramio (12).jpg|Amersfoort city centre|thumb]]
+[[File:20140513Eemhuis43rx.JPG|thumb|[[Culture House Eemhuis]]]]
+[[File:Amersfoort,_stier_op_het_verkeersplein_bij_het_Kamp_foto10_2012-12-08_11.43.jpg|thumb|'The Bull']]
+* [[The Mondriaan House]]: birthplace of the painter [[Piet Mondriaan]]. Exhibits a lifesize reconstruction of his workshop in Paris. Some temporary shows and work by artists inspired by the painter.
+* [[Flehite]]: historic, educational and temporary exhibitions behind a splendid facade. The museum closed in 2007 due to asbestos contamination. It was refurbished and reopened in May 2009.
+* Zonnehof: small elegant modernist building designed by Gerrit Rietveld on an eponymous square just south of the centre with temporary exhibitions of mostly contemporary art. (closed)
+* Armando Museum: work by the painter [[Armando (artist)|Armando]] who lived in Amersfoort as a child in a renovated church building. Most of the church and the art on exhibition was destroyed in a fire on 22 October 2007.<ref>{{cite news| title =Armando Museum fire| publisher =Armandomuseum.nl| url =http://www.armandomuseum.nl| date =22 October 2007| access-date =4 November 2007| archive-url =https://web.archive.org/web/20071111184857/http://www.armandomuseum.nl/| archive-date =11 November 2007| url-status =dead| df =dmy-all}}</ref>
+* [[Dutch Cavalry Museum]]: museum in 475 years old barracks. Most other military museums in the Netherlands got absorbed into the National Military Museum (''Nationaal Militair Museum''), but the cavalry museum has stood strong. It shows Dutch cavalry and tanks.
+* Culinary Museum (was closed in 2006).
+* Kunsthal KAdE:<ref>[http://www.kunsthalkade.nl/ Kunsthalkade.nl]</ref> a modern art exhibition hall.
+
+=== Sports ===
+Amersfoort had its own professional [[Association football|football (soccer)]] club named HVC Amersfoort. It was founded on 30 July 1973, but disbanded on 30 June 1982 because of financial problems. The city also hosted the riding part of the [[Modern pentathlon at the 1928 Summer Olympics|modern pentathlon]] event for the [[1928 Summer Olympics]].<ref>{{cite book|title=The ninth Olympiad, being the official report of the Olympic games of 1928 celebrated at Amsterdam |editor1-last=van Rossem |editor1-first=George |editor1-link=George van Rossem |others=Translated by Sydney W. Fleming |year=1931 |publisher=Netherlands Olympic Committee (Committee 1928); J.H. de Bussy |place=Amsterdam |page=277 |url=http://www.la84foundation.org/6oic/OfficialReports/1928/1928.pdf |oclc=10243706 |url-status=dead |archive-url=https://web.archive.org/web/20080408184510/http://www.la84foundation.org/6oic/OfficialReports/1928/1928.pdf |archive-date=8 April 2008 }}</ref> Amersfoort also hosted the [[Dutch Open (tennis)]] tournament from 2002 until its end in 2008.
+
+The city is also home to the baseball and softball club [[Quick Amersfoort]]. The club's top men's baseball team plays in the [[Honkbal Hoofdklasse]], the highest level of Dutch baseball.
+
+It is the hometown of field and track athlete [[Femke Bol]].
+
+=== Landmarks===
+The ''[[DierenPark Amersfoort]]'' zoo was founded in 1948.
+
+== Demographics ==
+
+As of 2020, Amersfoort had a total population of 157,276 people.<ref name=":0">{{Cite web |title=CBS Statline |url=https://opendata.cbs.nl/statline/#/CBS/nl/dataset/37713/table |access-date=2023-11-18 |website=opendata.cbs.nl |language=nl}}</ref>
+
+=== Inhabitants by origin ===
+{| class="wikitable"
+!2020<ref name=":0" />
+!Numbers
+!%
+|-
+!Dutch natives
+|117,863
+|74.9%
+|-
+!Western migration background
+|14,019
+|8.91%
+|-
+!Non-Western migration background
+|25,394
+|16.1%
+|-
+|[[Turkey]]
+|6,299
+|4%
+|-
+|[[Morocco]]
+|5,161
+|3.3%
+|-
+|[[Indonesia]]
+|4,592
+|2.91%
+|-
+|[[Netherlands Antilles]] and [[Aruba]]
+|1,819
+|1.2%
+|-
+|[[Suriname]]
+|1,747
+|1.11%
+|-
+|Total
+|157,276 
+|100%
+|}
+
+== Transport ==
+
+=== Bus ===
+Bus services are provided by 2 firms: U-OV and Syntus. Syntus provides services in town and the entirety of the province Utrecht, save for the bus to the city Utrecht, which is provided by U-OV.
+
+=== Rail ===
+[[File:Hoofdingang-Station-Amersfoort.JPG|thumb|[[Amersfoort Centraal railway station]]]]
+Amersfoort has three railway stations:
+*[[Amersfoort Centraal railway station|Amersfoort Centraal]], the main station, located on the western edge of the city at the crossing of the [[Amsterdam–Zutphen railway|Amsterdam–Zutphen]] and [[Utrecht–Kampen railway|Utrecht–Kampen]] railways
+*[[Amersfoort Schothorst railway station|Amersfoort Schothorst]], located northeast of the city centre on the Utrecht–Kampen railway
+*[[Amersfoort Vathorst railway station|Amersfoort Vathorst]], located in the extreme northeast of the city on the Utrecht–Kampen railway
+
+All three serve direct trains to [[Utrecht Centraal railway station|Utrecht Centraal]] and [[Zwolle railway station|Zwolle]]. Amersfoort Centraal and Amersfoort Schothorst also have direct service to [[Den Haag Centraal railway station|Den Haag Centraal]], [[Amsterdam Centraal railway station|Amsterdam Centraal]], and [[Amsterdam Zuid railway station|Amsterdam Zuid]]. Amersfoort Centraal further serves direct trains to [[Enschede railway station|Enschede]], [[Rotterdam Centraal railway station|Rotterdam Centraal]], [[Schiphol Airport railway station|Schiphol Airport]], [[Leeuwarden railway station|Leeuwarden]], [[Groningen railway station|Groningen]], [[Ede-Wageningen railway station|Ede–Wageningen]] and [[Berlin Hauptbahnhof]].
+
+=== Road ===
+Two major motorways pass Amersfoort:
+*along the north, the [[A1 motorway (Netherlands)|A1 motorway]] (Amsterdam–[[Apeldoorn]])
+*along the east, the [[A28 motorway (Netherlands)|A28 motorway]] (Utrecht–Groningen)
+
+=== Water ===
+The river [[Eem]] (pronounced roughly "aim") begins in Amersfoort, and the town has a port for inland water transport. The Eem connects to the nearby ''[[Eemmeer]]'' (Lake Eem). The Valleikanaal drains the eastern {{Interlanguage link multi|Gelderse Vallei|nl}} and joins with other sources to form the Eem in Amersfoort.
+
+== Local government ==
+The [[Municipal council (Netherlands)|municipal council]] of Amersfoort consists of 39 seats. The municipal council elections are held every 4 years. As of 2022, the seats are divided as follows:<ref>{{cite web|url=https://www.amersfoort.nl/leden-van-de-gemeenteraad |title=Leden van de gemeenteraad|access-date=29 May 2023|language=nl |publisher=Gemeente Amersfoort}}</ref><ref>{{cite web|url=https://www.amersfoort.nl/bestuur-en-organisatie/to-3/leden-gemeenteraad.htm|title=Leden Gemeenteraad|access-date=8 November 2018|language=nl|publisher=Gemeente Amersfoort|archive-date=8 November 2018|archive-url=https://web.archive.org/web/20181108184822/https://www.amersfoort.nl/bestuur-en-organisatie/to-3/leden-gemeenteraad.htm|url-status=dead}}</ref>
+
+* [[D'66|D66]] – 6 seats (5 seats in 2018)
+* [[GroenLinks]] – 6 seats (6 seats in 2018)
+* [[Christian Democratic Appeal|CDA]] – 5 seats (6 seats in 2018)
+* [[ChristenUnie]] – 4 seats (4 seats in 2018)
+* [[People's Party for Freedom and Democracy|VVD]] – 4 seats (6 seats in 2018)
+* Amersfoort2014 – 4 seats (3 in 2018)
+* [[Labour Party (Netherlands)|PvdA]] – 2 seats (2 seats in 2018)
+* [[Party for the Animals|Partij voor de Dieren]] – 2 seats (not represented in 2018)
+* [[Socialist Party (Netherlands)|SP]] – 2 seats (3 seats in 2018)
+* Beter Amersfoort - 1 seat (not represented in 2018) 
+* Burger Partij Amersfoort – 1 seat (2 seats in 2018)
+* Amersfoort voor Vrijheid - 1 seat (not represented in 2018) 
+* Denk – 1 seat (1 seat in 2018)
+
+The city has a [[Trial court|court of first instance]] (''kantongerecht'').
+
+== Economy ==
+[[File:Amersfoort Altstadt 13.jpg|thumb|right|Canal, city centre]]
+[[File:Amersfoort Altstadt 09.jpg|thumb|right|Street with shops]]
+[[File:Amersfoort Havik 3.JPG|thumb|right|Havik]]
+The city is a main location for several international companies:
+* Royal [[VolkerWessels]] Stevin N.V., a major European construction-services business.
+* [[FrieslandCampina]], a Dutch dairy cooperative.
+* [[Royal HaskoningDHV]], consultants and engineers.
+* [[Golden Tulip Hospitality Group]], international hotel chain Golden Tulip Hotels, Inns and Resorts.<ref>{{cite web|url=http://corporate.goldentulip.com/contact/default.aspx?Language=EN |title=Contact |publisher=[[Golden Tulip Hospitality Group]] |access-date=27 June 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100912213325/http://corporate.goldentulip.com/contact/default.aspx?Language=EN |archive-date=12 September 2010 }}</ref>
+* [[Nutreco]], animal feed and human foodstuffs
+* [[Yokogawa Electric]], an electrical engineering and software company, the European headquarters for which are located in Amersfoort
+
+It also has a number of [[non-governmental organization]]s and foundations:
+* [[Christian Union (Netherlands)|Christian Union]], a Christian democratic political party in the Netherlands.
+* [[Oikocredit]], headquarters of global cooperative society, financing economic development focused on poverty alleviation.
+* [[Socialist Party (Netherlands)|Socialist Party]], a left-wing social-democratic political party in The Netherlands.
+* [[Royal Dutch Lawn Tennis Association|KNLTB]], the Dutch national [[tennis|lawn-tennis]] association.
+* Vereniging Eigen Huis, the largest home-owners association in the Netherlands; with 700,000 members, it is also the largest in the world
+
+== Notable residents ==
+{{See also|Category:People from Amersfoort|label 1=People from Amersfoort}}
+[[File:Piet Mondriaan.jpg|140px|thumb|Piet Mondriaan, 1899]]
+* [[Paulus Buys]] (1531–1594) &ndash; [[Grand Pensionary]]
+* [[Johan van Oldenbarnevelt]] (1547–1619) &ndash; statesman.<ref>{{Cite EB1911|wstitle= Oldenbarneveldt, Johan van |volume= 20 |last= Edmundson |first= George |author-link= George Edmundson | pages = 69&ndash;71 |short=1 }}</ref>
+* [[Piet Mondriaan]] (1872–1944) &ndash; painter, pioneer of 20th century [[abstract art]]
+* [[Dirk Fok van Slooten]] (1891–1953) &ndash; botanist<ref>{{cite web |url=https://www.nationaalherbarium.nl/FMCollectors/S/SlootenDFvan.htm |title=Slooten, Dirk Fok van |publisher=[[National Herbarium of the Netherlands]] |access-date=1 October 2022}}</ref>
+* [[Willem Sandberg]] (1897–1984) &ndash; graphic designer, [[Stedelijk Museum]] director
+* [[Jan van Hulst]] (1903-1975) &ndash; recognised as [[Righteous Among the Nations]]
+* [[Johannes Heesters]] (1903–2011) &ndash; actor and singer <ref> [https://www.imdb.com/name/nm0373535/ IMDb Database] retrieved 11 November 2019 </ref>
+* [[Ben Pon (senior)]] (1904–1968) &ndash; car importer and developer of the [[Volkswagen Type 2]]
+* [[Victor Kaisiepo]] (1948–2010) &ndash; advocate for [[West Papua (region)|West Papuan]] self-determination.<ref name=rn>{{cite news|title=Papuan activist Kaisiëpo dies |url=http://www.rnw.nl/english/article/papuan-activist-kaisiëpo-dies|work=[[Radio Netherlands Worldwide]]|date=31 January 2010 |access-date=20 February 2010}}</ref>
+* [[Paul Cobben]] (born 1951) &ndash; philosopher
+* [[Gino Vannelli]] (born 1952) &ndash; Canadian singer, songwriter, musician and composer
+* [[Carolein Smit]] (born 1960) – Dutch [[ceramic art]] sculptor 
+* Father [[Roderick Vonhögen]] (born 1968) &ndash; television host and podcaster
+* [[Blaudzun]] (born 1974) &ndash; singer and filmmaker, stage name of Johannes Sigmond<ref>{{cite web|url= http://www.muziekencyclopedie.nl/action/entry/Blaudzun |title= Blaudzun|publisher= Muziek Encyclopedie|language= nl|access-date= 23 June 2014}}</ref>
+* [[Sarah Wiedenheft]] (born 1993) &ndash; anime dubbing actress <ref> [https://www.imdb.com/name/nm6441957/ IMDb Database] retrieved 11 November 2019 </ref>
+
+;Sport
+* [[Ben Pon]] (1936-2019) &ndash; sports car racing driver
+* [[Loet Geutjes]] (born 1943) &ndash; water polo player
+* [[Feike de Vries]] (born 1943) &ndash; water polo player
+* [[Ton van Heugten]] (1945–2008) &ndash; former sidecarcross world champion
+* [[Anke Rijnders]] (born 1956) &ndash; swimmer
+* [[Frank Drost]] (born 1963) &ndash; swimmer
+* [[Joop Kasteel]] (born 1964) &ndash; Professional Fighter and Bodybuilder
+* [[Jan Wagenaar (waterpolo)|Jan Wagenaar]] (born 1965) &ndash; water polo player
+* [[John van den Brom]] (born 1966) &ndash; a former professional footballer and manager 
+* [[Arie van de Bunt]] (born 1969) &ndash; water polo goalkeeper
+* [[Valentijn Overeem]] (born 1976) &ndash; mixed martial artist
+* [[Alistair Overeem]] (born 1980) &ndash; mixed martial artist & kickboxer
+* [[Marco van Ginkel]] (born 1992) &ndash; Dutch football player for [[AC Milan|Milan]] & the [[Netherlands national football team|Netherlands national team]]
+* [[Bart Ramselaar]] (born 1996) – Dutch professional footballer for FC Utrecht
+* [[Femke Bol]] (born 2000) – Dutch hurdler and sprinter<ref>Liselot Bouman, "[https://www.runnersworld.com/nl/atleten/a44751420/femke-bol/ Lees hier alles over atlete Femke Bol]" (in Dutch), ''[[Runners World]]'', 9 August 2023. Retrieved 15 September 2024.</ref>
+* [[Puck Pieterse]] (born 2002) – Dutch cyclist
+
+== Sister city ==
+* {{flagicon|Czech Republic}} [[Liberec]], [[Czech Republic]]
+
+== See also ==
+{{Portal|Netherlands}}
+*[[Rusthof cemetery]]
+
+== References ==
+{{reflist}}
+
+=== Notes ===
+{{reflist|group=note}}
+
+== External links ==
+*{{Commons category-inline}}
+*{{wikivoyage-inline|Amersfoort}}
+* {{Official website|http://www.amersfoort.nl}}
+
+<!--Please note that not all directions need to be filled-->
+<!--Please note that preferably only neighboring municipalities or bodies of water should be used-->
+{{Geographic location
+|Centre    = Amersfoort
+|North     = [[Bunschoten]]
+|Northeast = [[Nijkerk]]{{space}}([[Gelderland|GE]])
+|East      = [[Barneveld (municipality)|Barneveld]]{{space}}([[Gelderland|GE]])
+|South     = [[Leusden]]
+|Southwest = [[Zeist]]
+|West      = [[Soest, Netherlands|Soest]]
+|Northwest = [[Baarn]]
+}}
+
+{{Dutch municipality Amersfoort}}
+{{Utrecht Province}}
+{{1928 Summer Olympic venues}}
+{{Olympic venues modern pentathlon}}
+{{Authority control}}
+
+[[Category:Amersfoort| ]]
+[[Category:Cities in the Netherlands]]
+[[Category:Municipalities of Utrecht (province)]]
+[[Category:Populated places in Utrecht (province)]]
+[[Category:Venues of the 1928 Summer Olympics]]
+[[Category:Olympic modern pentathlon venues]]
+[[Category:Holocaust locations in the Netherlands]]

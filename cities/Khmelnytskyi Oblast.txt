@@ -1,0 +1,218 @@
+{{Short description|Oblast (region) of Ukraine}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name               = Khmelnytskyi Oblast
+| native_name        = Хмельницька область
+| native_name_lang   = uk<!-- ISO 639-2 code e.g. "fr" for French. -->
+| official_name      = Khmelnytska oblast<ref>{{Cite book|last1=Syvak|first1=Nina|last2=Ponomarenko|first2=Valerii|last3=Khodzinska|first3=Olha|last4=Lakeichuk|first4=Iryna|date=2011|editor-last=Veklych|editor-first=Lesia|others=scientific consultant Iryna Rudenko; reviewed by Nataliia Kizilowa; translated by Olha Khodzinska|title=Toponymic Guidelines for Map and Other Editors for International Use|url=https://unstats.un.org/unsd/geoinfo/UNGEGN/docs/Toponymic%20guidelines%20PDF/Ukraine/Verstka.pdf|page=20|access-date=2020-10-06|website=[[United Nations Statistics Division]]|publisher=DerzhHeoKadastr and Kartographia|publication-place=Kyiv|isbn=978-966-475-839-7}}</ref>
+| nickname           = {{lang|uk|Хмельниччина}} ({{transliteration|uk|Khmelnychchyna}})
+| settlement_type    = [[Oblasts of Ukraine|Oblast]]
+| image_flag         = Flag_of_Khmelnytskyi_Oblast.svg
+| flag_alt           = Flag of Khmelnytskyi oblast
+| image_shield       = Coat_of_Arms_of_Khmelnytskyi_Oblast.svg
+| shield_alt         = Coat of arms of Khmelnytskyi oblast
+| image_map          = Khmelnytskyi in Ukraine.svg
+| mapsize            = 275px
+| map_alt            = 
+| map_caption        = 
+| coordinates        = {{coord|49.53|26.87|type:adm1st_region:UA|display=inline,title}}
+| coor_pinpoint      = 
+| coordinates_footnotes = 
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = {{UKR}}
+| parts_type         = [[List of cities in Khmelnytskyi Oblast|Largest cities]]
+| parts_style        = para
+| p1                 = [[Khmelnytskyi, Ukraine|Khmelnytskyi]], [[Kamianets-Podilskyi]]
+| established_title  = Established
+| established_date   = 22 September 1937
+| seat_type          = [[Administrative centre|Administrative center]]
+| seat               = [[Khmelnytskyi, Ukraine|Khmelnytskyi]]
+| leader_party       = 
+| leader_title       = [[Governor of Khmelnytskyi oblast|Governor]]
+| leader_name        = [[Serhii Tiurin]]<ref>{{cite news |title=Zelenskyy appointed new head of Khmelnytskyi Oblast State Administration|url=https://www.pravda.com.ua/eng/news/2024/05/3/7454092/|access-date=3 May 2024|work=[[Ukrainska Pravda]]|date=3 May 2024|language=English}}</ref>
+| leader_title1      = [[Khmelnytskyi Oblast Council|Oblast council]]
+| leader_name1       = 84 seats
+| leader_title2      = Chairperson
+| leader_name2       = Violeta Labazyuk<ref>{{cite web|url=http://km-oblrada.gov.ua/management-regional-council/golova-xmelnickoi-oblasnoi/|title=Голова Хмельницької обласної ради|work=km-oblrada.gov.ua|language=uk}}</ref>
+| unit_pref          = Metric<!-- or US or UK -->
+| area_footnotes     = 
+| area_total_km2     = 20645
+| area_land_km2      = 
+| area_water_km2     = 
+| area_water_percent = 
+| area_rank          = [[List of Ukrainian oblasts and territories by area|Ranked 19th]]
+| elevation_footnotes = 
+| elevation_m        = 
+| population_footnotes = <ref name="ua2022estimate"/>
+| population_total   = {{decrease}} 1228829
+| population_rank    = [[List of Ukrainian oblasts and territories by population|Ranked 14th]]
+| population_as_of   = 2022
+| population_blank1_title = Annual growth
+| population_blank1  = 
+| population_density_km2 = auto
+| demographics_type1 = GDP
+| demographics1_footnotes = <ref>{{Cite web|title=Валовии регіональнии продукт|url=https://ukrstat.gov.ua/druk/publicat/kat_u/2023/05/zb_vrp_2021.xlsx}}</ref>
+| demographics1_title1 = Total
+| demographics1_info1 = ₴ 120 billion<br />(€3.1 billion)
+| demographics1_title2 = Per capita
+| demographics1_info2 = ₴ 96,964<br />(€2,500)
+|blank5_name_sec1= [[Human Development Index|HDI]] (2022)
+|blank5_info_sec1 = 0.722<ref>{{Cite web|title= Sub-national HDI - Area Database - Global Data Lab |url= https://globaldatalab.org/shdi/table/shdi/UKR/?levels=1+4&years=2022&interpolation=0&extrapolation=0 |website=hdi.globaldatalab.org|language=en}}</ref><br />{{color|#0c0|high}}
+| blank_name_sec1    = [[Raions of Ukraine|Raion]]s
+| blank_info_sec1    = 3
+| blank1_name_sec1   = [[List of cities in Ukraine by subdivision#Khmelnytskyi oblast|Cities]] <small>(total)</small>
+| blank1_info_sec1   = 13
+| blank2_name_sec1   = •&nbsp;[[City of regional significance (Ukraine)|Regional cities]]
+| blank2_info_sec1   = 4
+| blank3_name_sec1   = [[List of urban-type settlements in Ukraine by subdivision#Khmelnytskyi oblast|{{nowrap|Urban-type settlements}}]]
+| blank3_info_sec1   = 24
+| blank4_name_sec1   = Villages
+| blank4_info_sec1   = 1416
+| timezone1          = [[Eastern European Time|EET]]
+| utc_offset1        = +2
+| timezone1_DST      = [[Eastern European Summer Time|EEST]]
+| utc_offset1_DST    = +3
+| postal_code_type   = [[Ukrainian postal codes|Postal code]]
+| postal_code        = [[Ukrainian postal codes|29000-31999]]
+| area_code_type     = [[Area code#Ukraine|Area code]]
+| area_code          = [[Area code#Ukraine|+380-38]]
+| iso_code           = [[ISO 3166-2:UA|UA-68]]
+| registration_plate_type = [[Vehicle registration plates of Ukraine|Vehicle registration]]
+| registration_plate = вх, нх
+| blank_name_sec2    = [[FIPS 10-4]]
+| blank_info_sec2    = [[List of FIPS region codes (S-U)#UP: Ukraine|UP09]]
+| website            = [http://adm-km.gov.ua adm-km.gov.ua]
+| footnotes          = 
+}}'''Khmelnytskyi Oblast''' ({{langx|uk|Хмельницька область|translit=Khmelnytska oblast}}), also known as '''Khmelnychchyna''' ({{langx|uk|Хмельниччина}}), is an [[administrative divisions of Ukraine|oblast]] (province) in western [[Ukraine]] covering portions of the historical regions of western [[Podolia]] and southern [[Volhynia]]. The [[Capital (political)|administrative center]] of the oblast is the city of [[Khmelnytskyi, Ukraine|Khmelnytskyi]].
+
+The current estimated population is around {{Ua-pop-est2022|1,228,829|.}}
+
+Created in 1937 out of border okrugs of [[Vinnytsia Oblast]], in 1941–44 it was under [[Nazi Germany]] occupation and part of the [[Reichskommissariat Ukraine]] (Wolhynien und Podolien general district). Following the [[Kamenets-Podolsky pocket]] in spring of 1944 as part of the Proskurov-Chernovtsy operation, Soviet troops removed the German occupation in the region. Until 4 February 1954 it was called '''Kamianets-Podilskyi Oblast''' ({{Langx|uk|Кам'янець-Подільська область|translit=Kamianets-Podilska oblast}}) and was centered in [[Kamianets-Podilsky]] until 1941. The region rebranding took place after the official renaming of the region's administrative center to [[Khmelnytskyi, Ukraine|Khmelnytskyi]].
+
+==Geography==
+Khmelnytskyi Oblast has a total area of {{convert|20600|km²|2|abbr=on}} (3.4% of the total area of Ukraine) and is located between 48°27' and 50°37' north latitude and between 26°09' and 27°56' east longitude. It is {{convert|220|km|2|abbr=on}} long when measured from north to south, and is {{convert|120|km|2|abbr=on}} in length when measured from east to west. It is associated with a historical region of [[Podolia]], yet in reality its territory is split almost in half, the northern in [[Volhynia]], and the southern in [[Podolia]]. Its Volhynian region contains smaller cities like [[Iziaslav, Ukraine|Iziaslav]], [[Starokostiantyniv]], [[Shepetivka]], while its Podolian portion more developed cities of [[Khmelnytskyi]] and [[Kamianets-Podilskyi]].
+
+The oblast borders the [[Rivne Oblast]] to the northwest, the [[Zhytomyr Oblast]] to the northeast, the [[Vinnytsia Oblast]] to the east, the [[Chernivtsi Oblast]] to the south, and the [[Ternopil Oblast]] to the west.
+
+===Elevations===
+
+The [[Podolian Upland]] (270–370 meters above [[sea-level]]) occupies the central area of the Khmelnytskyi Oblast. The northwestern areas of the oblast are part of the [[Volyn]] highland (highest point — 329 m above sea-level), while to the north, the oblast claims a part of the historic region of [[Polesia#Geography|Polissia]] (highest point — 200–250 m above sea-level). The southwestern territory of the Khmelnytskyi Oblast is crossed by the Tovtry range ({{langx|uk|Товтровий кряж}}, [[Romanization of Ukrainian|translit.]] ''Tovtryi kryazh''), which includes Mount [[Velyka Buhaikha]] ({{langx|uk|Велика Бугаїха}}), the highest point of the oblast at 409 m above sea-level. The extreme south of the oblast has a surface with canyon-like river valleys. The [[Dneister Reservoir]] located there is the lowest point of the oblast (121 m above sea-level) .
+
+===Rivers and Lakes===
+
+There are 120 rivers with a length of {{convert|10|km|2|abbr=on}} or more in the Khmelnytskyi Oblast. The largest of these are the [[Dniester]] River (which flows for {{convert|160|km|2|abbr=on}} within the oblast), as well as its [[tributaries]]: [[Smotrych River|Smotrych]], [[Ushytsia River|Ushytsia]], and the [[Zbruch River|Zbruch]] — and the [[Southern Buh]] River (which flows for {{convert|120|km|2|abbr=on}} within the oblast), as well as its tributaries: [[Buzhok River|Buzhok]], [[Ikva River|Ikva]], and [[Vovk River|Vovk]]. The rivers of the Dnieper River's basin — [[Horyn River|Horyn]], [[Khomora River|Khmora]], and [[Sluch River (Ukraine)|Sluch Rivers]] also run through the oblast. The oblast's lakes are located mostly in basin of the Horyn River. The largest reservoir in the oblast is the Dniester Reservoir.
+
+There are 1858 ponds and/or reservoirs in the oblast. The largest of these include Shchedrivske (with a surface area of {{cvt|12.58|km2}}), Novostavske (with a surface area of {{cvt|11.68|km2}}), and Kuzmynske (with a surface area of {{cvt|7.65|km2}}).
+
+==History==
+Historic administrative affiliation of the area:
+* 1937-1941: [[USSR]], [[Ukrainian SSR]]
+* 1944-1991: [[USSR]], [[Ukrainian SSR]]
+* since 1991: [[Ukraine]]: <small>Khmelnytskyi Oblast </small>
+
+Khmelnytskyi Oblast was created on September 22, 1937, as the Kamianets-Podilskyi Oblast ({{langx|uk|Кам’янець-Подільськa область}}, [[Romanization of Ukrainian|translit.]], ''Kamyanets-Podil'ska oblast’'') out of border okrugs (Proskuriv and Kamianets-Podilskyi) of the [[Vinnytsia Oblast]].
+
+In March 1941 the [[development of the administrative divisions of Ukraine|administrative center of the oblast]] was moved from [[Kamianets-Podilskyi]] to the city of Proskuriv. During the [[World War II]] the territory was part of another administrative division (General District Wolhynien und Podolien, see [[Reichskommissariat Ukraine]]), but after [[modern history of Ukraine|liberation from the Nazi Germany]], Khmelnytskyi Oblast was reinstated in its original borders. In 1954, Proskuriv was renamed Khmelnytskyi, and soon afterward, the oblast was renamed to Khmelnytskyi Oblast ({{langx|uk|Хмельницька область}}, [[Romanization of Ukrainian|translit.]], ''Khmel'nytska oblast’'').
+
+==Administrative divisions==
+{{Main|Administrative divisions of Khmelnytskyi Oblast}}
+
+The oblast is subdivided into 3 [[raions]] (''administrative districts''). It consists of 6 municipalities, [[List of cities in Ukraine by subdivision#Khmelnytska oblast|13 cities]], [[List of urban-type settlements in Ukraine by subdivision#Khmelnytska oblast|24 towns]], and more than 1,417 villages.
+
+The following data incorporates the number of each type of administrative divisions of Kyiv Oblast:
+
+* Administrative Center – 1 ([[Khmelnytskyi, Ukraine|Khmelnytskyi]])
+* [[Raions]] — 3;
+* City raions — 0;
+* Settlements — 1452, including:
+** [[List of villages in Khmelnytskyi Oblast|Villages]] — 1415;
+** Cities/Towns — 37, including:
+*** [[Urban-type settlement]] — 24;
+*** Cities — 13, including:
+**** Cities of oblast' subordinance — 6;
+**** Cities of raion subordinance — 7;
+* [[Selsovet]]s — 568.
+
+The local administration of the oblast' is controlled by the Khmelnytskyi Regional Council. The governor of the oblast' is the Khmelnytskyi Regional Council speaker, appointed by the [[President of Ukraine]].
+
+[[File:Kamieniec Podolski widok 01.jpg|thumb|250px|The [[Kamianets-Podilskyi Castle]]. The bastion on the right was guarding the bridgehead leading to the fortress. In the far right the "New Castle" is visible.]]
+
+==Demographics==
+
+Khmelnytskyi Oblast's population is 1,401,140 as of January 1, 2004. As of 2002, the oblast ranks 13th by population in Ukraine. The population density is 69.5/km<sup>2</sup>.
+
+Pensioners make up 453,800 thousand people or 31,7% of population. The [[birth rate]] per 1,000 residents is 8.3, and the [[death rate]] — per 1000 residents – 16.1.<ref name="CMU">[http://www.kmu.gov.ua/control/en/publish/article?art_id=116766&cat_id=32596/ Cabinet of Ministers of Ukraine – Khmelnytsky Region] URL accessed on November 26, 2006</ref> The urban population, according to the [[Ukrainian Census (2001)|2001 Ukrainian Census data]], accounted for 729,600 people, or 51%, and the rural population — for 701,200 people, or 49%.<ref>[http://www.ukrcensus.gov.ua/eng/regions/region_khmel// Ukrcensus.gov.ua – Khmel'nyts'kyi region region] {{Webarchive|url=https://web.archive.org/web/20070930155844/http://www.ukrcensus.gov.ua/eng/regions/region_khmel// |date=2007-09-30 }} URL accessed on January 11, 2007</ref>
+
+According to the data, the number of men accounted for 659,900 people, or 46.1%, that of women — 770,900 people, or 53.9%.
+
+===Age structure===
+: ''0-14 years:'' 15.1% {{increase}} (male 101,597/female 95,783)
+: ''15-64 years:'' 68.5% {{decrease}} (male 435,464/female 463,058)
+: ''65 years and over:'' 16.4% {{decrease}} (male 69,479/female 145,420) (2013 official)
+
+===Median age===
+: ''total:'' 40.4 years {{increase}}
+: ''male:'' 37.1 years {{increase}}
+: ''female:'' 43.6 years {{steady}} (2013 official)
+
+==Economy==
+
+The economy of the oblast mostly deals with the [[energy industry]], [[transport]] and [[agriculture]]. The oblast is situated at a historical crossroad of the [[railway]] and [[highway]] routes connecting [[Central Europe]] to [[Black Sea]] coast and [[Russia]] (with the city of [[Shepetivka]] being the most important railway junction). The [[Khmelnytskyi Nuclear Power Plant|''Khmelnyts’ka'' nuclear power plant]] in the city of [[Netishyn]] is the most important industrial company of the oblast. Notable [[machinery]], [[armament]] and [[chemical]] industries are also present.
+
+==Attractions==
+*[[Kamianets-Podilskyi|Kamianets]] National Historical-Architectural Reserve (including the Old Town and the [[Kamianets-Podilskyi Castle|Castle]])
+*[[Medzhybizh|Mezhybizh]] National Historical-Cultural Reserve (including the [[Medzhybizh Fortress|Fortress]])
+*[[Samchyky Palace and Park Ensemble|Samchyky National Historical-Cultural Reserve]]
+
+==Nomenclature==
+
+Most of Ukraine's oblasts are named after their [[administrative center]] cities, officially referred to as "oblast centers" ({{langx|uk|обласний центр}}, [[Romanization of Ukrainian|translit.]] ''oblasnyi tsentr''). The name of each oblast is a [[relative clause|relative]] [[adjective]], formed by adding a feminine [[suffix]] to the name of respective center city: ''Khmelnytskyi'' is the center of the ''Khmelnyts’ka oblast’''.
+
+== Gallery ==
+<gallery>
+File:Проскурівська каланча.jpg|[[Khmelnytskyi|Proskuriv]] kalancha
+File:Стара фортеця.jpg|[[Kamianets-Podilskyi Castle]]
+File:Шепетівка (45).jpg|[[Shepetivka]]
+File:Проспект Незалежності у Нетішині.jpg|Independence Avenue in [[Netishyn]]
+File:Славута. Костел святої Дороти.png|Church of Saint Dorothy in [[Slavuta]]
+File:Старокостянтинів. Івана хрестителя.jpg|John the Baptist Church in [[Starokostiantyniv]]
+File:Starokostyantyniv veja 1.jpg|Defense tower in Starokostiantyniv
+File:Kamieniec Podolski national university.JPG|[[Kamianets-Podilskyi Ivan Ohiienko National University|National University named after I. Ohiienko]]
+File:Хмельницкий областной совет. Фото 4.jpg|Khmelnytskyi Oblast administration building
+File:Khmelnitsky, Proskurivska St, beginning, 2005 08 10.jpg|Proskurivska street in Khmelnytskyi
+File:Палац в літній день в с.Самчики.jpg|Chechels' Palace, a part of the [[Samchyky Palace and Park Ensemble|Samchyky Estate]]
+File:Letichev.jpg|Medieval fortress in [[Letychiv]]
+File:Khmelnytskyi Oblast 059.jpg|Highway H03
+File:Заслав зима.jpg|Horyn River in [[Iziaslav, Ukraine|Iziaslav]]
+File:Подільські товтри 2.jpg|Dniester panorama
+</gallery>
+
+==See also==
+* [[Romanization of Ukrainian]]
+* [[List of villages in Khmelnytskyi Oblast]]
+* [[Subdivisions of Ukraine]]
+* [[Volhynia]]
+* [[Podolia]]
+
+==References==
+{{refbegin}}
+:'''Inline'''
+{{reflist}}
+* [http://www.kmu.gov.ua/control/en/publish/article?art_id=116766&cat_id=32596/ Information Card of the Region] – Official site of the Cabinet of Ministers of Ukraine
+{{refend}}
+
+==External links==
+{{Commons category|Khmelnytskyi Oblast}}
+{{refbegin}}
+* [http://www.adm-km.gov.ua/new/ adm-km.gov.ua] – Official website of Khmelnytska oblast Administration {{in lang|uk}}
+* [http://khmelnytsky.com.ua/ Khmelnytsky] – Site of Khmelnytskyi {{in lang|uk|ru}}
+{{refend}}
+
+{{Khmelnytskyi Oblast}}
+{{Administrative divisions of Ukraine}}
+
+{{Authority control}}
+
+[[Category:Khmelnytskyi Oblast| ]]
+[[Category:Oblasts of Ukraine]]
+[[Category:States and territories established in 1937]]
+[[Category:1937 establishments in Ukraine]]

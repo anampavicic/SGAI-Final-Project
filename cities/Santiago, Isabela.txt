@@ -1,0 +1,576 @@
+{{Short description|Independent component city in Cagayan Valley, Philippines}}
+{{pp-pc}}
+{{Use mdy dates|date=July 2022}}
+{{Use Philippine English|date=December 2022}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                   = {{PH wikidata|name}}
+| image_skyline          = National Road, Santiago City Centro (Santiago, Isabela; 11-24-2022).jpg
+| image_caption          = Santiago Centro
+| image_flag             = File:Flag of Santiago, Isabela.png
+| flag_size              = 120x80px
+| image_seal             = Santiago Isabela.png 
+| seal_size              = 100x80px
+| image_map              = {{PH wikidata|image_map}}
+| image_map1             = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map            = Philippines
+| pushpin_label_position = right
+| pushpin_map_caption    = Location within the {{PH wikidata|country}}
+| coordinates            = {{PH wikidata|coordinates}}
+| settlement_type        = {{PH wikidata|settlement_type}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = [[Philippines]]
+| subdivision_type1      = [[Regions of the Philippines|Region]]
+| subdivision_name1      = {{PH wikidata|region}}
+| subdivision_type2      = [[Provinces of the Philippines|Province]] 
+| subdivision_name2      = {{PH wikidata|province}} <br /> <small> (geographically only) </small>
+| official_name          = {{PH wikidata|official_name}}
+| native_name            =
+| other_name             =
+| nickname               = ''Queen City of the North''
+| motto                  =
+| named_for              = [[James the Great|St. James the Great]]
+| anthem                 = ''Santiago, Bayan ng Pag-Ibig''<br/>{{small|([[English language|English]]: Santiago, the Town of Love}})
+| subdivision_type3      = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3      = {{PH legislative district}}
+| established_title      = [[Date of establishment|Founded]]
+| established_date       = May 4, 1743
+| established_title1     = Cityhood
+| established_date1      = July 6, 1994
+| parts_type             = [[Barangay]]s
+| parts_style            = para
+| p1                     = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title           = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name            = Alyssa Sheena T. Dy<ref>{{cite web|title=Santiago City, Election Results 2022|url= https://ph.rappler.com/elections/2022/cagayan-valley-santiago-city |work=COMELEC|publisher=rappler.com|access-date=February 25, 2023}}</ref>
+| leader_title1          = [[Vice Mayor]]
+| leader_name1           = Alvin N. Abaya
+| leader_title2          = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2           = Joseph S. Tan
+| leader_title3                   = [[Sangguniang Panlungsod|City Council]]
+| leader_name3           = {{PH Town Council
+ | 1 = <ref>{{cite news|title=2022 Election Results:Santiago City, Isabela|url=https://www.gmanetwork.com/news/eleksyon2022/results/local/REGION+II/ISABELA/CITY+OF+SANTIAGO/?tfb_a&smartsearch|work=GMA News|access-date=September 10, 2022}}</ref><div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Arlene A. Reyes
+ | 3=Paul C. de Jesus
+ | 4=Resureccion T. Ponce
+ | 5=Cassandra E. Sable
+ | 6=Katrina Camille B. Bautista
+ | 7=Jamayne C. Tan
+ | 8=Nicoline Shane A. Miranda
+ | 9=Orlando T. Chan
+ | 10=Marcelino C. Cabucana Jr.
+ | 11=Sherman A. Miguel
+}}
+| leader_title4          = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4           = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type        = {{PH wikidata|government_type}}
+| government_footnotes   = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m            = {{PH wikidata|elevation_m}}
+| elevation_max_m        = 919
+| elevation_min_m        = 56
+| elevation_max_rank     =
+| elevation_min_rank     =
+| elevation_footnotes    = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes= 
+| elevation_min_footnotes=
+| area_rank              = 
+| area_footnotes         = {{PH area}}
+| area_total_km2         = {{PH wikidata|area}}
+| population_footnotes   = {{PH census|current}}
+| population_total       = {{PH wikidata|population_total}}
+| population_as_of       = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title= [[Household]]s
+| population_blank1      = {{PH wikidata|household}} 
+| population_blank2_title= 
+| population_blank2      = 
+| population_demonym     = Santiagueño
+| population_rank        =
+| population_note        =
+| timezone               = [[Philippine Standard Time|PST]]
+| utc_offset             = +8
+| postal_code_type       = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code            = {{PH wikidata|postal_code}}
+| postal2_code_type      = {{PSGCstyle}}
+| postal2_code           = {{PSGC detail}}
+| area_code_type         = {{areacodestyle}}
+| area_code              = {{PH wikidata|area_code}}
+| website                = {{PH wikidata|website}}
+| demographics_type1     = [[Economy of the Philippines|Economy]]
+| demographics1_title1   = {{PH wikidata|income_class_title}}
+| demographics1_info1    = {{PH wikidata|income_class}}
+| demographics1_title2   = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2    = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3   = [[Revenue]]
+| demographics1_info3    = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4   = Revenue rank
+| demographics1_info4    = 
+| demographics1_title5   = [[Asset]]s
+| demographics1_info5    = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6   = Assets rank
+| demographics1_info6    = 
+| demographics1_title7   = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7    =  
+| demographics1_title8   = IRA rank
+| demographics1_info8    = 
+| demographics1_title9   = [[Expenditure]]
+| demographics1_info9    = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10  = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10   = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2     = Service provider
+| demographics2_title1   = Electricity
+| demographics2_info1    = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2   = Water
+| demographics2_info2    = 
+| demographics2_title3   = Telecommunications
+| demographics2_info3    = 
+| demographics2_title4   = Cable TV
+| demographics2_info4    =
+| demographics2_title5   = 
+| demographics2_info5    =
+| demographics2_title6   = 
+| demographics2_info6    =
+| demographics2_title7   = 
+| demographics2_info7    =
+| demographics2_title8   = 
+| demographics2_info8    =
+| demographics2_title9   = 
+| demographics2_info9    =
+| demographics2_title10  = 
+| demographics2_info10   =
+| blank_name_sec1        = {{PH wikidata|climate_title}}
+| blank_info_sec1        = {{PH wikidata|climate_type}}
+| blank1_name_sec1       = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1       = {{PH wikidata|language}}
+| blank2_name_sec1       = [[Crime index]]
+| blank2_info_sec1       = 
+| blank3_name_sec1       = 
+| blank3_info_sec1       = 
+| blank4_name_sec1       = 
+| blank4_info_sec1       = 
+| blank5_name_sec1       = 
+| blank5_info_sec1       = 
+| blank6_name_sec1       = 
+| blank6_info_sec1       = 
+| blank7_name_sec1       = 
+| blank7_info_sec1       = 
+| blank1_name_sec2       = Major religions
+| blank1_info_sec2       = 
+| blank2_name_sec2       = Feast date
+| blank2_info_sec2       = 
+| blank3_name_sec2       = Catholic diocese
+| blank3_info_sec2       =
+| blank4_name_sec2       = Patron saint
+| blank4_info_sec2       = 
+| blank5_name_sec2       = 
+| blank5_info_sec2       = 
+| blank6_name_sec2       = 
+| blank6_info_sec2       = 
+| blank7_name_sec2       = 
+| blank7_info_sec2       =
+| short_description      =
+| footnotes              =
+}}
+
+'''Santiago''', officially the '''City of Santiago''' ({{langx|ilo|Siudad ti Santiago}}; {{langx|ibg|Siudad nat Santiago}}; {{langx|gad|Siudad na Santiago}}; {{langx|fil|Lungsod ng Santiago}}), is a 1st class [[Cities of the Philippines#Legal classification|independent component city]] in the [[Cagayan Valley]] region of the [[Philippines]]. According to the 2020 census, it has a population of 148,580 people.{{PH census|current}}
+
+It is formerly known as '''Carig''' during the time of the Spanish, it is located between the southwestern part of [[Isabela (province)|Isabela]] and the northwestern boundary of [[Quirino]] in northeastern [[Luzon]] island of the [[Philippines]].<ref>{{cite web|title=Santiago City Local Government Office|url=http://santiago-city.com/place/santiago-city-local-government-office/|publisher=Santiago-City.com Website|access-date=November 5, 2013|url-status=dead|archive-url=https://web.archive.org/web/20131105030607/http://santiago-city.com/place/santiago-city-local-government-office/|archive-date=November 5, 2013}}</ref> It is the gateway to the vast plains of [[Cagayan Valley]].
+
+Santiago is situated {{convert|72|km}} south of [[Ilagan]], the provincial capital, and {{convert|326|km}} north of [[Metro Manila]]. The city sits on a vast area of predominantly flat and fertile land in the Cagayan Valley, surrounded by the Namamparang Mountains to the south, the [[Sierra Madre (Philippines)|Sierra Madre]] to the east and the [[Cordillera Central (Luzon)|Cordillera Mountain Range]] to the west alongside the [[Magat River]].
+
+Despite being statistically grouped by the [[Philippine Statistics Authority]] and geographically located within the boundaries of the province of [[Isabela (province)|Isabela]], as well as part of the province's [[Legislative districts of Isabela|4th District]], Santiago is administratively and legally independent from the province as stated in Section 25 of the [[Philippine legal codes|Local Government Code]].<ref>{{cite web|title=Republic Act No. 7160 LOCAL GOVERNMENT CODE OF 1991|url=http://www.lawphil.net/statutes/repacts/ra1991/ra_7160_1991.html|publisher=The LawPhil Project|access-date=November 5, 2013}}</ref> And also, it is the second most populous city in that province after the capital city of [[Ilagan]].
+
+==Etymology==
+Santiago was previously a native settlement discovered by the early Spanish missionaries at the bank of the old Carig River (now Diadi River) from which its original name, Carig, was derived. When the [[Spain|Spanish]] settled in, it was named Pueblo of Santiago Apostol de Carig, with [[Santiago (name)|Santiago]] as the Spanish name of [[James the Great|Saint James the Apostle]]. In the early 1950s, the Municipal President Vicente Carreon changed the name to simply Santiago.
+
+==History== 
+Carig was initially established in 1743 at the foothills of mount Dalayag between present-day Isabela and [[Nueva Vizcaya]]. A few years later, it was moved to its present location 15 kilometers away. Carig was also the site of a military garrison established by the Spaniards as a base for expeditions against unconquered tribes in present-day [[Ifugao]] and Quirino and to guard the mountain pass to Nueva Vizcaya.<ref>{{cite book |last=Salgado|first=Pedro|title=Cagayan Valley and Easter Cordillera: 1581-1898, Volume I |publisher=Rex Publishing |orig-date=2002|pages=577–580|chapter=Formation of Christian Towns in Diffun (Southern Isabela)|isbn=}}</ref>
+
+The early inhabitants of Santiago were the [[Gaddang people|Gaddang]]s and the [[Ibanag people|Ibanag]]s.
+
+Santiago was originally a part of the province of [[Cagayan]] (comprising the whole [[Cagayan Valley]] region), which was reorganized as a political subdivision in 1583 with Nueva Segovia (now [[Lal-lo]]) as its capital.
+
+When the province of Nueva Vizcaya was created in 1839, Santiago became part of the new province. On May 1, 1856, when the province of Isabela was carved out by a Royal Decree, Santiago was among the towns relinquished to the newly created province. The first five barrios after the Cadastral survey in 1927 were Patul, Batal, Nabbuan, Buenavista and Dubinan.
+
+It was said that there were only about three Filipino-owned sari-sari stores in Santiago in 1917. The settlers acquired most of their merchandise and other provisions from Chinese traders in [[Echague]], the landing zone for products intended for Santiago and other towns, owing to its proximity to the [[Cagayan River]].
+
+It was when the Villaverde Trail was opened when things were set in motion. It facilitated the entry of immigrants from various provinces in [[Luzon]] to the Cagayan Valley and Santiago absorbed a sizable share of these travelers. The new route served as an impetus for growth and introduced new technologies and business opportunities, and made Santiago a melting pot of different cultures.
+
+In 1942, during [[World War II]], Japanese forces occupied Santiago. In 1945, the town was liberated by the Filipino soldiers of the 1st, 2nd, 12th, 13th and 15th Infantry Division and the USAFIP-NL 11th Infantry Regiment of the [[Armed Forces of the Philippines|Philippine Commonwealth Army]], the 1st Constabulary Regiment of the [[Philippine Constabulary]] and the recognized guerrilla fighter units. Santiago survived through the war, although badly damaged, and from then on developed to become the leading trading and commercial city in Cagayan Valley.
+
+===Cityhood===
+{{main|Cities of the Philippines}}
+On December 17, 1993, the bill converting Santiago into an independent component city was approved by the House of Representatives spearheaded by the then Mayor Jose "Pempe" Miranda. In the following year, the Senate Committee on Local Government approved another public hearing dated February 23, 1994.
+
+On May 5, 1994, President [[Fidel V. Ramos]] signed Republic Act 7720. The plebiscite was held on July 6, 1994, showed that voters approved this conversion, making Santiago the first city in [[Cagayan Valley]] and 5th independent component city, after [[Cotabato City]], [[Dagupan]], [[Naga, Camarines Sur|Naga]], and [[Ormoc]].<ref>{{Cite web|last=Perante|first=Caesar M.|date=June 30, 2018|title=Transforming Santiago City into an independent component city up north|url=https://businessmirror.com.ph/2018/06/30/transforming-santiago-city-into-an-independent-component-city-up-north/|url-status=live|archive-url=https://web.archive.org/web/20190924194729/https://businessmirror.com.ph/2018/06/30/transforming-santiago-city-into-an-independent-component-city-up-north/|archive-date=September 24, 2019|access-date=July 11, 2021|website=BusinessMirror|language=en-PH}}</ref>
+
+On February 14, 1998, Republic Act 8528 repealed this statute transforming it to a component city.<ref>{{Cite web|date=September 16, 1999|title=G.R. No. 133064|url=https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/59051|url-status=live|archive-url=https://web.archive.org/web/20170915224918/http://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/59051|archive-date=September 15, 2017|access-date=July 11, 2021|website=Supreme Court of the Republic of the Philippines}}</ref> On December 29, 1999, the [[Supreme Court of the Philippines|Supreme Court]] struck down the law and restored Santiago's independent cityhood.
+
+====Reversal attempts====
+During the 13th Congress, House Bill No. 3709 which sought to amend certain sections of Republic Act No. 7720, was filed by [[Isabela's 4th congressional district|Isabela's 4th District]] Representative Anthony C. Miranda, but did not pass.<ref>{{cite web |title=House Bill No. 3709, 13th Congress of the Republic |url=https://issuances-library.senate.gov.ph/bills/house-bill-no-3709-13th-congress-republic |website=[[Senate of the Philippines]] |access-date=23 April 2024}}</ref>
+
+==Geography==
+The total land area of Santiago is 80% flat or nearly level land in the northwestern, eastern and western parts of the city. While adjacent areas have gently undulating and moderately rolling areas, and the remaining areas constitute steeply undulating and rolling lands. The Dariuk Hills is the highest point in the city.{{fact|date=June 2023}}
+
+Santiago is located between 16º35’00” to 16º47’30” north latitude and 121º25’00” to 121º37’00” east longitude.
+
+===Barangays===
+Santiago is politically subdivided into 37 [[barangay]]s.{{PSGC detail|area}} Each barangay consists of [[purok]]s while some have [[sitios]].
+
+{{stack|float=left|{{PH brgy table lite|top}}
+{{PH brgy table lite|023135001| Abra               | 1756| 1580}}
+{{PH brgy table lite|023135002| Ambalatungan       | 1547| 1376}}
+{{PH brgy table lite|023135003| Balintocatoc (Dariuk)       | 3777| 3598}}
+{{PH brgy table lite|023135004| Baluarte           | 5225| 4282}}
+{{PH brgy table lite|023135005| Bannawag Norte     | 1436| 1177}}
+{{PH brgy table lite|023135006| Batal              | 8461| 7994}}
+{{PH brgy table lite|023135007| Buenavista (Sitio Carubucod)        | 4010| 3776}}
+{{PH brgy table lite|023135008| Cabulay            | 3320| 3452}}
+{{PH brgy table lite|023135009| Calao East ([[Poblacion]])  | 3259| 4111}}
+{{PH brgy table lite|023135010| Calao West ([[Poblacion]])  | 1411| 1024}}
+{{PH brgy table lite|023135011| Calaocan (Talab)          | 6496| 6176}}
+{{PH brgy table lite|023135012| Villa Gonzaga (Caralet)      | 1723| 1619}}
+{{PH brgy table lite|023135013| Centro East ([[Poblacion]]) | 1223| 1823}}
+{{PH brgy table lite|023135014| Centro West ([[Poblacion]]) | 1185| 2375}}
+{{PH brgy table lite|023135015| Divisoria (Lantaran)        | 4373| 4372}}
+{{PH brgy table lite|023135016| Dubinan East       | 1888| 2485}}
+{{PH brgy table lite|023135017| Dubinan West       | 3103| 3312}}
+{{PH brgy table lite|023135018| Luna (Palasian)               | 1100| 1003}}
+{{PH brgy table lite|023135019| Mabini             | 6223| 7724}}
+{{PH brgy table lite|023135020| Malvar             | 3508| 3305}}
+{{PH brgy table lite|023135021| Nabbuan            | 3417| 3040}}
+{{PH brgy table lite|023135022| Naggasican         | 5560| 5379}}
+{{PH brgy table lite|023135023| Patul              | 5459| 4621}}
+{{PH brgy table lite|023135024| Plaridel (Dullit)         | 6245| 6531}}
+{{PH brgy table lite|023135025| Rizal              |13803|12709}}
+{{PH brgy table lite|023135026| Rosario (Pakret)            |11441|11364}}
+{{PH brgy table lite|023135027| Sagana (Kaminurian)           | 4473| 3667}}
+{{PH brgy table lite|023135028| Salvador (Kapayakan)          | 1991| 1687}}
+{{PH brgy table lite|023135029| San Andres         | 1747| 1371}}
+{{PH brgy table lite|023135030| San Isidro         | 1050|  848}}
+{{PH brgy table lite|023135031| San Jose (Matunga-tungao)           | 1195| 1032}}
+{{PH brgy table lite|023135032| Sinili (Casilihan)             | 1409| 1335}}
+{{PH brgy table lite|023135033| Sinsayon           | 3172| 3246}}
+{{PH brgy table lite|023135034| Santa Rosa (Marubo-rubo)         |  703|  605}}
+{{PH brgy table lite|023135035| Victory Norte      | 4707| 5055}}
+{{PH brgy table lite|023135036| Victory Sur        | 2348| 2166}}
+{{PH brgy table lite|023135037| Villasis           | 1026| 1584}}
+{{PH brgy table lite|bottom|132804}}}}
+{{clear left}}
+
+===Climate===
+
+Santiago has a climate with no pronounced wet or dry season. Usually, the city has a considerably dry climate with minimum rainfall. The average yearly temperature is measured at {{Convert|24.9|C}}. Annual and daily temperature variation is minimal. Temperature ranges are usually from {{Convert|18|to|35|C}}.
+
+{{Weather box
+| width = auto
+| location     = Santiago City
+| metric first = y
+| single line  = y
+| Jan high C = 27
+| Feb high C = 27
+| Mar high C = 29
+| Apr high C = 28
+| May high C = 27
+| Jun high C = 25
+| Jul high C = 26
+| Aug high C = 27
+| Sep high C = 31
+| Oct high C = 29
+| Nov high C = 27
+| Dec high C = 27
+| year high C = 
+| Jan low C = 20
+| Feb low C = 20
+| Mar low C = 21
+| Apr low C = 20
+| May low C = 21
+| Jun low C = 20
+| Jul low C = 21
+| Aug low C = 22
+| Sep low C = 23
+| Oct low C = 23
+| Nov low C = 21
+| Dec low C = 21
+| year low C = 
+| Jan rain mm = 162
+| Feb rain mm = 156
+| Mar rain mm = 90
+| Apr rain mm = 60
+| May rain mm = 144
+| Jun rain mm = 201
+| Jul rain mm = 159
+| Aug rain mm = 108
+| Sep rain mm = 111
+| Oct rain mm = 237
+| Nov rain mm = 276
+| Dec rain mm = 171
+| year rain mm = 
+| Jan rain days = 14
+| Feb rain days = 12
+| Mar rain days = 11
+| Apr rain days = 11
+| May rain days = 16
+| Jun rain days = 19
+| Jul rain days = 16
+| Aug rain days = 14
+| Sep rain days = 16
+| Oct rain days = 18
+| Nov rain days = 18
+| Dec rain days = 15
+| source 1 = World Weather Online <small>(modeled/calculated data, not measured locally)</small><ref name="met_norms">{{cite web
+ | url        = http://www.worldweatheronline.com/Santiago-weather-averages/Isabela/PH.aspx
+ | title      = Average High/Low Temperature for Santiago City, Philippines
+ | publisher  = World Weather Online
+ | access-date = November 5, 2013}}</ref>
+| date     = November 2013
+}}
+
+==Demographics==
+{{Philippine Census
+| align = none
+| cols = 2
+| title = Population Census of Santiago
+| 1903 =  
+| 1918 =  {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+===Religion===
+
+The dominant religion in the city is [[Roman Catholicism in the Philippines|Roman Catholic]] (Saint James the Apostle Parish in Barangay Centro West and Saint Francis of Assisi Parish in Barangay Rizal). However, other Christian sectors are also present in Santiago such as [[Iglesia ni Cristo]], [[United Methodist Church]], Pentecostal Missionary Church of Christ (4th Watch), [[Jesus is Lord Church]], Christ the Rock Church and [[the Church of Jesus Christ of Latter-day Saints]]. Being a district full of different cultures, such as Indians, Muslims, and Chinese, several religious groups have also opened their places of worship to the public, such as the Chinese Temple, the Muslim Mosque and the Gurudwara Jagat Sudhar Indian Sikh Temple.
+
+== Economy ==
+
+Home of several business enterprises, banking institutions, educational entities, as well as manufacturing companies, Santiago is considered the Commercial and Trading Center of Cagayan Valley and tagged as the Investment Hub of the North.<ref>{{cite web|title=Department of Tourism Region 2|url=http://www.dotregion2.com.ph/welcome/index.php/2013-09-29-01-25-09/santiago-city|access-date=November 8, 2013}}</ref>
+[[File:Robinson’s Place Santiago at Night.jpg|thumb|Robinsons Place Santiago as of May 2020]]
+
+[[Robinsons Malls|Robinsons Land Corporation]] launched [[Robinsons Place Santiago]] as its pioneer mall in Cagayan Valley. [[Vista Land and Lifescapes, Inc.]] built its first horizontal subdivision in the Valley with Camella Isabela Communities, Inc. In 2013, it launched another project named Camella Santiago. In 2018, Camella Santiago expanded and named as Camella Santiago Trails. It is building its banner mall in the Cagayan Valley Region, the [[Vista Mall Santiago]]. Another multi-national real estate developer will soon be built its prime subdivision, Primeworld Suburb, owned by Primeworld land holdings Company.
+
+The head-office of Grupo Marilens, the largest homegrown corporation in the region, is in Santiago. Aljay, an agri-chemical company, has a presence in the city and has a manufacturing plant for agrichemical, fertilizer and feeds supply for poultry and piggery and the only manufacturing plant for fertilizers and agrichemicals in the region.
+
+Three of the biggest TV networks in the country (i.e. [[ABS-CBN]], [[GMA Network|GMA7]], [[TV5 (Philippines)|TV5]]) stationed their regional networks and relay stations in the city. [[San Miguel Corp]]., [[Pepsi|Pepsi Cola]], [[Purefoods]], [[Digital Telecommunications Phils., Inc.|Digitel]] and [[PLDT]] also operate in the city.
+
+{{stack|float=left|{{PH poverty incidence}}}}
+Santiago houses some of the biggest hospitals in the region. De Vera's Medical Center, Callang General Hospital and Medical Center and Santiago Adventist Hospital are private hospitals. The Southern Isabela Medical Center is the biggest public hospital while Flores Memorial Hospital and Medical Center is the oldest in the city. Santiago also has Renmar Specialists' Hospital, which is a specialty hospital for complicated cases of pulmonology and orthopedics. Santiago Medical City is the latest addition. The city's location is key to the growth of smaller hospitals like Renmar Hospital and Corado Hospital.
+
+Based on the 2016 City Competitiveness Index, Santiago is the fastest growing local economy in the entire Philippines and is now ranked 51 in terms of economy size among all cities in the country.
+
+Despite rapid industrialization, agriculture is still the main source of livelihood. The main crops are rice, corn, and high-value fruits and vegetables. The city is where imposing grain stations can be found. Rice mills abound. It is the pivotal place for crops where harvests from [[Ifugao]], [[Kalinga (province)|Kalinga]], [[Quirino]], [[Nueva Vizcaya]], and parts of [[Isabela (province)|Isabela]] are transported either to [[Nueva Ecija]], [[Bulacan]], [[Pangasinan]] or [[Batangas]]. In addition to the city's product is muscovado sugar which the local government has been promoting for export.
+
+==Government==
+
+===Local government===
+{{main|Sangguniang Panlungsod}}
+As an independent component city in the Province of Isabela, government officials of Isabela are not voted by the electorates of this city. The provincial government has no political jurisdiction over local transactions of the city government. Residents of this city are not allowed to run in the provincial level except for congress representation which the city of Santiago forms part of Isabela's 4th congressional district.
+
+The city of Santiago is governed by a [[mayor-council]] system. There are ten city councilors. The council is the official governing body of the city, also known as the Sanguniang Panglungsod. The council agenda is presided over by the city vice mayor.
+
+Barangays are also headed by elected officials: [[Barangay Captain]], [[Sangguniang Barangay|Barangay Council]], whose members are called [[Barangay Kagawad|Barangay Councilors]]. The barangays have SK federation which represents the barangay, headed by SK chairperson and whose members are called SK councilors. All officials in the city are elected every three years.
+
+===Elected officials===
+<!--NOTE: For updating by June 30, 2025-->
+{| class="wikitable" style="line-height:1.20em; font-size:100%;"
+|+ Members of the Santiago City Council (2022–2025)<ref>{{cite web|title=Santiago City, Election Results 2022|url= https://ph.rappler.com/elections/2022/cagayan-valley-santiago-city |work=COMELEC|publisher=rappler.com|access-date=February 25, 2023}}</ref><ref>{{cite web|title=Santiago City Council|url= https://cityofsantiago.gov.ph/sangguniang-panlunsod/ |work=City Government of Santiago|publisher=cityofsantiago.gov.ph|access-date=February 25, 2023}}</ref>
+|-
+! Position
+! Name
+|-
+|'''District Representative'''<br />(4th Legislative District the Province of Isabela)
+| style="text-align:center;" | Joseph S. Tan
+|-
+|'''Chief Executive''' of the City of Santiago
+| style="text-align:center;" | Mayor Alyssa Sheena T. Dy
+|-
+|'''Presiding Officer''' of the City Council of Santiago
+| style="text-align:center;" | Vice Mayor Alvin N. Abaya
+|-
+|rowspan=10| '''Councilors''' of the City of Santiago
+| style="text-align:center;" | Arlene Jane Alvarez-Reyes
+|-
+| style="text-align:center;" | Paul C. De Jesus
+|-
+| style="text-align:center;" | Resureccion Turingan-Ponce
+|-
+| style="text-align:center;" | Cassandra Eunice Sable
+|-
+| style="text-align:center;" | Katrina Camille B. Bautista
+|-
+| style="text-align:center;" | Jamayne C. Tan
+|-
+| style="text-align:center;" | 
+Nicoline Shane A. Miranda
+|-
+| style="text-align:center;" | Orlando T. Chan
+|-
+| style="text-align:center;" | Marcelino Cabucana Jr.
+|-
+| style="text-align:center;" | Sherman A. Miguel
+|-
+|}
+
+===Congress representation===
+{{main|Isabela's 4th congressional district}}
+Santiago is represented in the Philippine Congress as part of Isabela's [[Legislative districts of Isabela|4th legislative district]]. Currently, Joseph S. Tan is the city's representative.<ref>{{cite web|title=House of Representatives: 19th Congress|url= https://www.congress.gov.ph/members/search.php?id=tan-j |work=Official Website of the House of Representatives PH|publisher=congress.gov.ph|access-date=May 15, 2022}}</ref>
+
+==Culture and tourism==
+[[File:Santiago Isabela 3.jpg|thumbnail|right|Town center]]
+The majority of the population speaks Tagalog and Ilocano. English is the medium of instruction in schools and is generally understood and spoken especially in the business community.
+
+Tourism is a new industry in the city. Serving as the jump-off point in northeastern Luzon for tourists, many landmarks are developed. Tourist spots near Santiago are Quirino Province, [[Magat Dam]] in Isabela, [[Banaue Rice Terraces]] in Ifugao, and white sand beaches in [[Aurora Province]] facing the Pacific Ocean.
+
+===Festivals===
+* Balamban Dance Festival (formerly known as Balamban Butterfly Festival) - In the year 2014, a new festival was conceptualized by the city government to celebrate Santiago's cityhood. Balamban which means butterfly is a cultural dance of lowland Christians that originated in Santiago. The dance depicts the graceful movement and fluttering of butterflies that throng Dariuk Hills' scented gardens. It is usually danced during wedding celebrations in Santiago.
+*Pattaradday Festival - From 2006 to 2013, Santiago's cityhood anniversary was celebrated through Pattaradday, a concept owned by a private organization called Pattaradday Foundation Inc. Pattaradday means unity in Ibanag. Ibanags are historically said to be the first settlers of the locality. It celebrated the unity of the ethno-linguistic groups that have merged in the city to make it the melting pot of culture of Region II. The festival won Hall of Fame in the Search for Best Tourism Event in the Philippines conducted by the Association of Tourism Officers of the Philippines. It featured different festivities participated in by many street dances from all over the country.
+*"Redireksyon" thru the initiative of former City Mayor Jose "Pempe" C. Miranda
+* [[Feast of Saint James]] (Santiago de Carig) - Celebrated every July 25 of the year is the Feast of Saint James the Apostle, the Patron Saint of the city. It features the life history of the patron saint as it saves the Christians against the Moros (based on the battle of [[Battle of Clavijo]] which, Saint James the Apostle appeared as "[[Santiago Matamoros]]" or Saint James the Moor-Killer) through [[zarzuela]] and the "Grand Batalla" (Grand Battle) or the Moro-Moro, a dance choreography depicting the battle.
+
+==Insfrastructure==
+Santiago is the gateway to the plains of Cagayan Valley. It connects several provinces with the following major roads crossing the city:
+
+*[[Pan-Philippine Highway]]
+*Santiago - Tuguegarao Road
+*Santiago - Saguday Road
+*Santiago - Diffun Road (Patul Road)
+*Santiago Bypass Road (Sinsayon to Rizal)
+*Santiago Bypass Road (Rizal to Divisoria)
+*Santiago Bypass Road (Sinsayon to Baluarte; planned)
+*Santiago Bypass Road (Baluarte to Divisoria; planned)
+*Santiago City Road
+*Alvarez Boulevard
+
+Serving as a bridge to the region's provincial network, numerous bus terminals are present in the city. These include [[Victory Liner]], Northeast Luzon Bus Line (formerly Nelbusco), [[GV Florida Transport]], [[Five Star Bus Company]], EMC LBS bus lines, GMW Trans among others. 
+
+The Integrated Transport Terminal and Commercial Complex has also been established to cater for all public utility jeepneys, buses, and vans that operate from nearby provinces and localities to the city.
+
+==Education==
+Notable school institutions located in the city are the School of Saint James the Apostle (formerly La Salette Elementary School), [[Santiago Cultural Institute]] (Chinese School), Children First School, Infant Jesus Montessori School, AMA Computer College Santiago City Campus, TAPS, Patria Sable Corpus College, [[University of La Salette]] and [[Northeastern College]], one of the oldest schools in the region. The Southern Isabela College of Arts and Trades is the biggest vocational school operating in the city. Also, there are numerous international schools operating in the city.
+
+The Schools Division Office of Santiago City governs the city's public education system. The division office is a field office of the [[Department of Education (Philippines)|DepEd]] in [[Cagayan Valley]] region.<ref>{{Cite web |title=DEPED REGIONAL OFFICE NO. 02 |url=https://region2.deped.gov.ph/page/14/ |website=DepED RO2 {{!}} The official website of DepED Regional Office No. 02}}</ref> The office governs the public elementary and public high schools throughout the city.
+
+==Media==
+These are radio and TV stations that are available in the city.<ref>{{Cite web |title=Cagayan Valley Region, Philippines Radio Stations |url=http://radiostationworld.com/locations/philippines/cagayan_valley/radio_stations/ |access-date=April 2, 2022 |website=Radio Station World}}</ref><ref>{{Cite web |title=Radio Stations in Isabela Province, Philippines |url=https://www.asiawaves.net/philippines/isabela-radio.htm |access-date=April 2, 2022 |website=AsiaWaves.net}}</ref> Some stations may not be in operation.
+
+===AM Radio===
+* 828&nbsp;kHz DZRH Nationwide (DWRH; [[Manila Broadcasting Company]]) ''(repeater)''
+* [[DWSI|DWSI 864&nbsp;Sonshine Radio Santiago]] (DWSI; [[Sonshine Media Network International]]
+* [[DZMR|1143&nbsp;DZMR Missions Radio]] (DZMR; [[Far East Broadcasting Company]])
+* DWEY 1179&nbsp;Life Radio Santiago (DWET; [[Pentecostal Missionary Church of Christ (4th Watch)|End-Time Mission Broadcasting Service]])
+
+===FM Radio===
+* 92.9&nbsp;Brigada News FM Cauayan (DWYI; [[Brigada Mass Media Corporation]]) (Served and the airwaves of [[Cauayan, Isabela|Cauayan]], [[Isabela (province)|Isabela]] and expanded areas)
+* 93.7&nbsp;Radyo Natin Santiago (DWTR; [[Manila Broadcasting Company]]/[[Radyo Natin Network]])
+* [[DWIP-FM|94.5&nbsp;MHz Love Radio Santiago]] (DWIP; [[Manila Broadcasting Company]])
+* 96.9&nbsp;Big Radio ([[Rajah Broadcasting Network]]) (Soon to Air)
+* [[DWMX|97.7&nbsp;Sweet Radio]] (DWMX; Soundstream Broadcasting Corporation/[[Catholic Media Network]])
+* 100.1&nbsp;MHz DWIZ Isabela (Own operated by [[Aliw Broadcasting Corporation]] and Barangay Rizal LPFM)
+* 102.1&nbsp;Radio Maria Isabela (DZRC; [[Radio Maria Philippines]]/[[Catholic Media Network]]) ''(repeater)''
+* 104.9 XFM ([[Palawan Broadcasting Corporation]]/Yes2Health Advertising, Inc.)
+*106.7&nbsp;MHz Radio Adventist Hospital
+*107.9&nbsp;MHz Taps Radio
+
+===Television===
+List of television stations<ref>{{Cite web |date=June 2016 |title=LIST OF TV BROADCAST STATION |url=https://philippines.mom-rsf.org/uploads/tx_lfrogmom/documents/17-167_import.pdf |access-date=April 2, 2022 |website=Media Owners Monitor}}</ref> that are in operation in the city. Some stations may no longer in operation.
+* Channel 2 - [[ABS-CBN Corporation]] (DWAT) ''(defunct)''
+* Channel 7 - [[GMA Network (company)|GMA Network Inc.]] (DWLE)
+* Channel 21 - Interactive Broadcast Media, Inc.
+* Channel 23 - Amcara Bctg. Net. Inc (DWWA) ''(defunct)''
+* Channel 25 - Mediascape, Inc. (DWDH)
+* Channel 29 - [[Radio Philippines Network|Radio Philippines Network, Inc.]]
+* Channel 31 - First United Broadcasting Corporation
+* Channel 37 - Swara Sug Media Corporation (DWSA)
+
+===Cable and Satellite TV===
+*Regal Cable TV Network
+*New City Cable System
+*[[Cignal TV]]
+*[[G Sat]]
+
+==Notable personalities==
+<!-- NOTE: Only add people who have Wikipedia articles as per WP:Notability.-->
+
+===Entertainment===
+* [[Sheena (singer)|Sheena Mae Catacutan]], member of [[Pinoy pop]] group [[Bini (group)|Bini]] and former ''[[Pinoy Big Brother: Otso]]'' housemate.<ref>{{cite news |title=BINI: The binibinis of P-Pop in full bloom |url=https://www.pep.ph/peptionary/179013/bini-members-a5157-20240223?s=j29v9o74fan1gmhbuj210m9cvk |access-date=17 June 2024 |publisher=PEP.ph |date=23 February 2024}}</ref> 
+* [[4th Impact]] (formerly 4th Power, Cercado Sisters, Gollayan Sisters, and MICA), girl group consisting of sisters Almira, Irene, Mylene and Celina Cercado.<ref>{{cite news |title=10 things to know about ‘X Factor UK’ Pinoy girl group 4th Impact |url=https://www.rappler.com/entertainment/113633-x-factor-uk-4th-impact-pinoy-group-facts/ |access-date=17 June 2024 |publisher=Rappler |date=29 November 2015}}</ref> 
+* [[Peter Musñgi]], voice-over artist for [[Intercontinental Broadcasting Corporation]] (early 1980s–1987), [[Banahaw Broadcasting Corporation]] (1984–1986), [[ABS-CBN]] (1987–2020), [[Star Cinema]] (1993–present), [[Kapamilya Channel]] and [[Kapamilya Channel#Facebook and YouTube|Kapamilya Online Live]] (2020–present).<ref>{{cite news |title='The voice of ABS-CBN' recalls the first time he saw the station shut down |url=https://news.abs-cbn.com/ancx/culture/spotlight/05/11/20/the-voice-of-abs-cbn-recalls-the-first-time-he-saw-the-station-shut-down |access-date=9 July 2021 |work=ANCX |publisher=ABS-CBN |date=11 May 2020}}</ref> 
+* Karina Bautista, actress and former ''[[Pinoy Big Brother: Otso]]'' housemate.<ref>{{cite news |title=LOOK: Meet Miss Independent Karina Bautista in these 32 Photos |url=https://ent.abs-cbn.com/pbbotso/articles-photos/116112018-look-meet-miss-independent-karina-bautista-in-these-32-photos-6409 |access-date=17 June 2024 |publisher=ABS-CBN |date=22 November 2018}}</ref>
+
+===Military===
+* [[Florence Finch]], Filipino-American member of the [[Philippine resistance against Japan|World War II resistance]] against the Japanese occupation of the Philippines.<ref>{{cite news |title=Florence Finch |url=https://www.nps.gov/articles/000/florence-finch.htm|access-date=17 June 2024 |publisher=National Park Service}}</ref> 
+
+===Politics===
+* [[Heherson Alvarez]], politician and [[Senate of the Philippines|Senator]].<ref>{{cite news |title=Heherson Alvarez |url=https://legacy.senate.gov.ph/senators/former_senators/heherson_alvarez.htm |access-date=17 June 2024 |publisher=Senate of the Philippines}}</ref>
+
+==Sister cities==
+
+{{More citations needed section|date=March 2015}}
+
+===Local===
+*{{flagicon|PHL}} [[Ilagan, Isabela]]{{citation needed|date=March 2015}}
+*{{flagicon|PHL}} [[Makati]]{{citation needed|date=March 2015}}
+*{{flagicon|PHL}} [[Marikina]]{{citation needed|date=March 2015}}
+*{{flagicon|PHL}} [[Puerto Princesa]]{{citation needed|date=March 2015}}
+
+===International===
+*{{flagicon|GEO}} [[Rustavi]], [[Georgia (country)|Georgia]]{{citation needed|date=March 2015}}
+*{{flagicon|DOM}} [[Santo Domingo]], Dominican Republic
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wikivoyage|Santiago City}}
+{{Commons category}}
+
+===Official Websites===
+* {{official website|http://www.cityofsantiago.gov.ph}}
+
+===General information===
+* [http://www.lcp.org.ph/get_cf_detailed.php?id=5 League of Cities of the Philippines]
+* [http://www.dotregion2.com.ph/d2/index.php?option=com_content&view=article&id=70&Itemid=82 DOT Region 2]
+* [http://www.competitive.org.ph/cmcindex/pages/profile/?lgu=Santiago%20(IA) City Profile at the National Competitiveness Council of the Philippines]
+* [http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20081120024509/http://www.census.gov.ph/data/census2007/index.html Philippine Census Information]
+* [https://web.archive.org/web/20091027030611/http://geocities.com/CapitolHill/Lobby/7788/  Information about Santiago City]
+* [http://provinceofisabela.ph/index.php/municipalities/fourth-district/2013-07-10-15-19-03 Santiago City at the Isabela Government Website]
+
+{{Geographic location  <!-- for directly adjacent LGU's based on revised map [[:File:Ph fil isabela.png]] -->
+| Centre    = Santiago City
+| North     = [[Ramon, Isabela|Ramon]]
+| Northeast = [[San Isidro, Isabela|San Isidro]]
+| East      = [[Echague]]
+| Southeast = [[Jones, Isabela|Jones]]
+| South     = [[Saguday|Saguday, Quirino]]
+| Southwest = [[Diffun|Diffun, Quirino]]
+| West      = [[Cordon, Isabela|Cordon]]
+}}
+{{Navboxes
+| title = Articles Related to Santiago, Isabela
+| list  = 
+{{Isabela}}
+{{Cagayan Valley}}
+{{Philippine cities}}
+}}
+
+{{Authority control}}
+
+[[Category:Santiago, Isabela| ]]
+[[Category:Cities in Isabela (province)]]
+[[Category:Independent component cities in the Philippines]]
+[[Category:Populated places established in 1858]]
+[[Category:1858 establishments in the Philippines]]

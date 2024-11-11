@@ -1,0 +1,73 @@
+{{expand Portuguese|topic=geo|date=June 2022}}
+
+{{for|the Kazakh settlement|Sumbe (ancient settlement)}}
+{{Infobox settlement
+|name                   = Sumbe
+|other_name             = Novo Redondo
+|settlement_type        = [[List of municipalities of Angola|Municipality]]
+| image_skyline         = {{Photomontage
+| photo1a               = Marginal do Sumbe - panoramio.jpg
+| photo1b               = Igreja do Sumbe - panoramio.jpg
+| photo2a               = Praia do Sumbe - panoramio.jpg
+| position              = center
+| color_border          = white
+| color                 = white
+| size                  = 280
+}}
+|pushpin_map            = Angola <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|subdivision_type       = Country<!--Country-->
+|subdivision_name       = {{flag|Angola}}<!--the name of the country-->
+|subdivision_type1      = Province
+|subdivision_name1      = [[Cuanza Sul Province|Cuanza Sul]]
+|area_land_km2          = 4638<!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|elevation_m            = 0
+|population_as_of       = 2014
+|population_footnotes   = <ref name =Censo2014>{{cite web |url=https://www.ine.gov.ao/images/Censo_2014/Publicacao-Cuanza_Sul_FINAL.pdf |title=Resultados Definitivos Recenseamento Geral da População e Habitação – 2014 Província do Cuanza Sul |access-date=3 May 2020 |website=Instituto Nacional de Estatística, República de Angola |df=dmy }}{{Dead link|date=February 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|population_total       = 279968
+|population_density_km2 = 5.5<!--For automatic calculation, any density field may contain: auto -->
+|population_urban       = 205832
+|population_urban_footnotes= <ref>[https://www.citypopulation.de/en/angola/cities/ Citypopulation.de] {{Webarchive|url=https://web.archive.org/web/20200422022755/https://www.citypopulation.de/en/angola/cities/ |date=2020-04-22 }} Population of the major cities in Angola</ref>
+|coordinates            = {{coord|11|12|19|S|13|50|30|E|region:AO-CUS|display=inline,title}}
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Semi-arid climate#Hot semi-arid climates|BSh]]
+|module={{Infobox lighthouse | embed=yes | qid = Q106880888
+| yearbuilt = 1889 (first) <ref name=angola>{{Cite rowlett|ago|access-date=11 May 2017}}</ref>
+| yearlit = 1970s (current) <ref name=angola/>
+| yeardeactivated = 1970s (first)
+| construction = masonry tower (current) <ref name=angola/>
+| shape = cylindrical truncated tower with lantern (current)<br>cylindrical post atop a 1-storey house (first)
+| marking = white and red horizontal band (current)<br>black post (first) <ref name=angola/>
+| height = {{convert|15|m|ft}} (current)<br>{{convert|7|m|ft}} (first)
+| focalheight = {{convert|34|m|ft}}<ref name=listoflights113>{{cite ngall|113|2016|}}</ref>
+}}}}
+
+'''Sumbe''', formerly '''Novo Redondo''', is a [[List of cities and towns in Angola|city]] located in west central [[Angola]]. It is the administrative capital of [[Cuanza Sul Province]]. In 2014 its population was 279,968.<ref name =Censo2014/>
+
+== Geography ==
+Sumbe municipality stretches, North until the Queve river, West until the Balombo river, West limited by the Atlantic Ocean and East to the Conda Municipality.
+
+===Climate===
+The city has a dry tropical climate. The hottest temperatures are from January to April, and the coldest months are July and August.
+
+==Transportation==
+Air transportation is serviced by Angola Air Services, SAL, and Inter Transit.<ref>{{cite web|url=http://www.welcometoangola.co.ao/?it=province_more&co=344&tp=25&LG=2|title=Welcome to Kwanza Sul|publisher=Welcome to Angola|access-date=2022-08-22|archive-date=2021-10-16|archive-url=https://web.archive.org/web/20211016030911/https://welcometoangola.co.ao/?it=province_more&co=344&tp=25&LG=2|url-status=live}}</ref>
+
+==See also==
+*[[List of lighthouses in Angola]]
+
+==References==
+{{reflist}}
+
+{{Portal bar|Africa|Engineering}}
+{{Municipalities of Angola}}
+{{Cuanza Sul Province}}
+
+{{Authority control | additional=Q106880888}}
+
+[[Category:Populated places in Cuanza Sul Province]]
+[[Category:Municipalities of Angola]]
+[[Category:Provincial capitals in Angola]]
+[[Category:Lighthouses in Angola]]
+
+
+{{Angola-geo-stub}}

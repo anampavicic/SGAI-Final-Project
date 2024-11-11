@@ -1,0 +1,1105 @@
+{{Short description|City in Florida, United States}}
+{{Redirect|Orlando (city)|other places named Orlando|Orlando#Places}}
+{{Use mdy dates|date=May 2024}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name               = Orlando
+| settlement_type    = [[List of municipalities in Florida|City]]
+| image_skyline      = {{multiple image
+| border                   = infobox
+| total_width              = 300
+| caption_align            = center
+| perrow = 1/2/2/2/2
+| image1 = Lake Eola Park in Orlando 02.jpg
+| caption1 = [[Downtown Orlando]] skyline
+| image2 = Universal Studios Florida (28462831407).jpg
+| caption2 = [[Universal Studios Florida]] at [[Universal Orlando]]
+| image3 = Cinderella Castle, Magic Kingdom Walt Disney World (2024).jpg
+| caption3 = [[Cinderella Castle]] at [[Magic Kingdom]]
+| image9 = Orange County Courthouse tall 2.jpg
+| caption9 = [[Orange County Courthouse (Florida)|Orange County Courthouse]]
+| image4 = Journey to Atlantis - SeaWorld Orlando.jpg
+| caption4 = [[SeaWorld Orlando]]
+| image6 = Orlando Eye (25911209566).jpg
+| caption6 = [[Orlando Eye]] at [[ICON Park]]
+| image7 = Amway Center.jpg
+| caption7 = [[Kia Center]]
+| image8 = Orlando City Hall 2009.jpg
+| caption8 = [[Orlando City Hall]]
+| image5 = Old Orlando Railroad Depot-1.jpg
+| caption5 = [[Church Street Station]]}}
+| image_flag         = {{#property:p41}}
+| flag_link          = Flag of Orlando, Florida
+| image_seal         = {{#property:p158}}
+| nicknames          = The City Beautiful, O-Town, Theme Park Capital of the World
+| image_map          = {{maplink
+  | frame              = yes
+  | plain              = yes
+  | frame-align        = center
+  | frame-width        = 290
+  | frame-height       = 290
+  | frame-coord        = {{coord|qid=Q49233}}
+  | zoom               = 10
+  | type               = shape
+  | marker             = city
+  | stroke-width       = 2
+  | stroke-color       = #0096FF
+  | fill               = #0096FF
+  | id2                = Q49233
+  | type2              = shape-inverse
+  | stroke-width2      = 2
+  | stroke-color2      = #5F5F5F
+  | stroke-opacity2    = 0
+  | fill2              = #000000
+  | fill-opacity2      = 0
+}}
+| map_caption        = Interactive map of Orlando
+| pushpin_map        = Florida#USA
+| pushpin_label_position = left
+| pushpin_label      = Orlando
+| pushpin_map_caption = Location within Florida##Location within the United States
+| pushpin_relief     = 1
+| coordinates        = {{Coord|28|32|24|N|81|22|48|W|type:city_region:US-FL|display=inline,title}}
+| coordinates_footnotes = <ref name=gnis/>
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = {{Flag|United States}}
+| subdivision_type1  = [[U.S. state|State]]
+| subdivision_name1  = {{Flag|Florida}}
+| subdivision_type2  = [[List of counties in Florida|County]]
+| subdivision_name2  = [[Orange County, Florida|Orange]]
+| established_title  = [[Settler colonialism|Settled (Jernigan)]]
+| established_date   = {{Start date and age|1843}}
+| established_title1 = [[Municipal corporation|Incorporated]] [[Town (Florida)|(Town of Orlando)]]
+| established_date1  = {{Start date and age|1875|07|31}}
+| established_title2 = [[Municipal corporation|Incorporated]] [[City (Florida)|(City of Orlando)]]
+| established_date2  = {{Start date and age|1885|02|04}}
+| government_type    = [[Mayor-Council government|Strong Mayor–Council]]
+| leader_title       = [[List of mayors of Orlando, Florida|Mayor]]
+| leader_name        = [[Buddy Dyer]]
+| leader_party       = [[Democratic Party (United States)|D]]
+| leader_title1      = [[City Council]]
+| leader_name1       = {{collapsible list|bullet=yes
+|title = Members
+|1 = Jim Gray ([[Republican Party (United States)|R]])
+|2 = Tony Ortiz (R)
+|3 = Robert Stuart (D)
+|4 = Patty Sheehan (D)
+|5 = Shan Rose ''(interim)'' (D)
+|6 = Bakari F. Burns (D)
+ }}
+| total_type         = Total
+| unit_pref          = Imperial
+| area_footnotes     = <ref name="CenPopGazetteer2020">{{cite web|title=2020 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2020_Gazetteer/2020_gaz_place_12.txt|publisher=United States Census Bureau|access-date=October 31, 2021}}</ref>
+| area_total_sq_mi   = 119.08
+| area_land_sq_mi    = 110.85
+| area_water_sq_mi   = 8.23
+| area_urban_sq_mi   = 644.61
+| elevation_footnotes = <ref name=gnis>{{GNIS|2404443}}</ref>
+| elevation_ft       = 89
+| population_total   = 307573
+| population_rank    = [[List of United States cities by population|58th, U.S.]]
+| population_as_of   = [[2020 United States census|2020]]
+| population_density_sq_mi = 2774.65
+| population_demonym = {{#property:p1549}}
+| population_urban   = 1,853,896 ([[List of United States urban areas|26th, U.S.]])
+| population_density_urban_km2 = 1,110.4
+| population_density_urban_sq_mi = 2,876.0
+| population_metro   = 2,691,925 ([[Table of United States Metropolitan Statistical Areas|23rd, U.S.]])
+| population_blank1_title = [[Combined statistical area|CSA]]
+| population_blank1  = 4,222,422 ([[Table of United States Combined Statistical Areas|15th, U.S.]])
+| demographics_type2 = GDP
+| demographics2_footnotes = <ref>{{Cite web |title= Total Gross Domestic Product for Orlando-Kissimmee-Sanford, FL (MSA) |url= https://fred.stlouisfed.org/series/NGMP36740 |publisher=Federal Reserve Bank of St. Louis}}</ref>
+| demographics2_title1 = Orlando (MSA)
+| demographics2_info1 = $194.5 billion (2022)
+| timezone1          = [[Eastern Time Zone|EST]]
+| utc_offset         = −5
+| timezone1_DST      = [[Eastern Time Zone|EDT]]
+| utc_offset_DST     = −4
+| postal_code_type   = [[ZIP Code]]
+| postal_code        = 32801-32812, 32814-32822, 32824-32837, 32839, 32853-32862, 32867-32869, 32872, 32877-32878, 32885-32887, 32891, 32896-32897, 32899
+| area_codes         = [[Area codes 407 and 689|407]], [[Area codes 407 and 689|689]]
+| website            = [http://www.orlando.gov www.orlando.gov]
+| blank_name         = [[Federal Information Processing Standards|FIPS code]]
+| blank_info         = 12-53000
+| blank1_name        = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info        = 2404443<ref name=gnis/>
+| footnotes          = 
+| area_total_km2     = 308.41
+| area_land_km2      = 287.10
+| area_water_km2     = 21.31
+| population_density_km2 = 1071.30
+| pop_est_as_of      = 
+| pop_est_footnotes  = 
+| population_est     = 
+| named_for          = Orlando Reeves, a soldier killed during the [[Seminole War]]
+}}
+
+'''Orlando''' ({{IPAc-en|ɔr|ˈ|l|æ|n|d|oʊ}} {{Respell|or|LAN|doh}}) is a city in and the [[county seat]] of [[Orange County, Florida]], United States. Part of [[Central Florida]], it is the center of the [[Greater Orlando|Orlando metropolitan area]], which had a population of 2,509,831 in 2017, according to the [[United States Census Bureau|U.S. Census Bureau]]. It is the sixth-largest metropolitan area in the [[Southern United States]] and the third-largest metropolitan area in Florida behind [[Miami metropolitan area|Miami]] and [[Tampa Bay area|Tampa Bay]]. Orlando had a city population of 307,573 in the 2020 census, making it the fourth-most populous city in Florida behind [[Jacksonville, Florida|Jacksonville]], [[Miami]], and [[Tampa, Florida|Tampa]].<ref>{{cite web |url=https://www.orlando.gov/files/sharedassets/public/v/1/departments/edv/city-planning/growth-projections-2022/2022-to-2050-growth-projections-report-october-2020.pdf |title=Growth Management Plan: 2022 – 2050 Growth Projections Report |date=October 2022 |publisher=City of Orlando |access-date=August 13, 2024}}</ref> In July 2023, its population was 320,742 inhabitants. It is the state's most populous inland city.
+
+Orlando is one of the most-visited cities in the world primarily due to tourism, major events, and convention traffic. It is the third-most visited city in the U.S. after [[New York City]] and [[Miami]], with over 2.9 million visitors as of 2022.<ref>[https://www.worldatlas.com/cities/america-s-10-most-visited-cities.html "America's 10 most visited cities"], World Atlas, December 5, 2023</ref> [[Orlando International Airport]] is the 13th-busiest airport in the United States and the 29th-busiest in the world.<ref>[http://www.airports.org/cda/aci_common/display/main/aci_content07_c.jsp?zn=aci&cp=1-5-212-218-224_666_2__ Passenger Traffic for past 12 months ending May 2011] {{webarchive|url=https://web.archive.org/web/20110812030729/http://www.airports.org/cda/aci_common/display/main/aci_content07_c.jsp?zn=aci&cp=1-5-212-218-224_666_2__ |date=August 12, 2011 }}. Airports.org. Retrieved August 21, 2011.</ref> The two largest and most internationally renowned tourist attractions in the Orlando area are the [[Walt Disney World]] Resort, opened by the [[Walt Disney Company]] in 1971 and located about {{convert|21|mi|km}} southwest of [[downtown Orlando]] in [[Bay Lake, Florida|Bay Lake]], and the [[Universal Orlando]] Resort, opened in 1990 as a major expansion of [[Universal Studios Florida]] and the only theme park inside Orlando city limits.
+
+With the exception of the theme parks, most major cultural sites like the [[Orlando Museum of Art]] and [[Dr. Phillips Center for the Performing Arts]] and world-renowned nightlife, bars and clubs are located in Downtown Orlando. Other attractions like [[Orlando Eye]] at [[ICON Park]] are located along [[International Drive]]. The city is also one of the busiest American cities for conferences and conventions; [[Orange County Convention Center]] is the second-largest convention facility in the United States.
+
+Like other major cities in the [[Sun Belt]], Orlando grew rapidly from the 1960s into the first decade of the 21st century. Orlando is home to the [[University of Central Florida]], which became the [[List of United States university campuses by enrollment|largest university campus in the United States]] in terms of enrollment as of 2015.{{update inline|date=April 2022}} In 2010, Orlando was listed as a "Gamma+" level [[global city]] by the [[Globalization and World Cities Research Network]].<ref>{{cite web |title=The World According to GaWC 2020 |url=https://www.lboro.ac.uk/gawc/world2020t.html |website=GaWC – Research Network |publisher=Globalization and World Cities |access-date=August 31, 2020}}</ref>
+
+==Etymology==
+Fort Gatlin, as the Orlando area was once known, was established at what is now just south of the city limits by the [[4th U.S. Artillery]] under the command of Lieutenant Colonel Alexander C. W. Fanning on November 9, 1838, during the construction of a series of fortified encampments across Florida during the [[Second Seminole War]].<ref name=FLhistorical>{{cite web |url=https://myfloridahistory.org/date-in-history/fort-gatlin-established |title=Fort Gatlin established |website=myfloridahistory.org |publisher=Florida Historical Society |access-date=March 1, 2017 |archive-url=https://web.archive.org/web/20170302114957/https://myfloridahistory.org/date-in-history/fort-gatlin-established |archive-date=March 2, 2017 |url-status=dead }}</ref> The fort and surrounding area were named for John S. Gatlin, an Army physician who was killed in [[Dade's Massacre]] on December 28, 1835. The site of construction for Fort Gatlin, a defensible position with fresh water between three small lakes, was likely chosen because the location was on a main trail and is less than 250 yards from a nearby Council Oak tree, where [[Indigenous peoples of the Americas|Native Americans]] had traditionally met. [[Ee-mat-la|King Phillip]] and [[Wild Cat (Seminole)|Coacoochee]] frequented this area and the tree was alleged to be the place where the previous [[Dade's Massacre|1835 ambush]] that had killed over 100 soldiers had been planned.<ref name=Dickenson2003>{{cite web |url=https://www.orlandosentinel.com/2003/07/06/giant-council-oak-is-gone-but-its-presence-is-felt/ |title=Giant Council Oak Is Gone, But Its Presence Is Felt|last= Wallace Dickinson|first= Joy|date=July 6, 2003 |work=The Orlando Sentinel |access-date=March 1, 2017 }}</ref> When the [[United States Armed Forces|U.S. military]] abandoned the fort in 1839, the surrounding community was built up by settlers.<ref name=FLhistorical />
+
+Prior to being known by its current name, Orlando was once known as Jernigan. This name originates from the first European permanent settlers, Issac and [[Aaron Jernigan]], cattlemen who moved from the state of Georgia and acquired land {{convert|2|mi|km|abbr=}} northwest of Fort Gatlin along the west end of Lake Holden in July 1843 by the terms of the [[Armed Occupation Act]].<ref>{{cite book|last=Dickinson|first=Joy Wallace|title=Orlando : city of dreams|year=2003|publisher=Arcadia Pub.|location=Charleston, South Carolina|isbn=978-0-7385-2442-9|pages=21–22}}</ref><ref name= Andrews2000>{{cite web |url=https://www.orlandosentinel.com/2000/05/07/sites-key-to-orlando-history-fort-gatlin/ |title=Site's Key To Orlando History: Fort Gatlin|last= Andrews|first=Mark |date=May 7, 2000 |work=The Orlando Sentinel |access-date=March 1, 2017 }}</ref> Aaron Jernigan became Orange County's first state representative in 1845, but his pleas for additional military protection went unanswered.<ref>{{Cite web |last=By |date=June 14, 1998 |title=AARON JERNIGAN: POSTMASTER, LEGISLATOR – MURDER SUSPECT |url=https://www.orlandosentinel.com/1998/06/14/aaron-jernigan-postmaster-legislator-murder-suspect/ |access-date=January 8, 2024 |website=Orlando Sentinel |language=en-US}}</ref>
+
+Fort Gatlin was briefly reoccupied by the military for a few weeks during October and November 1849, and subsequently a volunteer militia was left to defend the settlement.<ref name="Andrews2000" /> A historical marker indicates that by 1850, the Jernigan homestead (or Fort Gatlin in some sources)<ref name="Andrews1998" /> served as the nucleus of a village named Jernigan.<ref name="marker">[http://www.waymarking.com/waymarks/WMH4KB Orlando's First Settler, Aaron Jernigan] Retrieved March 2, 2017.</ref> According to an account written years later by his daughter, at that time, about 80 settlers were forced to shelter for about a year in "a [[stockade]] that Aaron Jernigan built on the north side of Lake Conway". One of the county's first records, a [[grand jury]]'s report, mentions a stockade where it states homesteaders were "driven from their homes and forced to huddle together in hasty defences [sic]." Aaron Jernigan led a local volunteer militia during 1852.<ref name="Andrews2000" />
+
+A post office opened at Jernigan in 1850. Jernigan appears on an 1855 map of Florida, and by 1856, the area had become the [[county seat]] of Orange County.<ref name=Dickinson2005 >{{cite web |url=https://www.orlandosentinel.com/2005/03/13/youre-really-living-in-the-land-of-jernigan/ |title=You're Really Living in the Land of Jernigan|last=Dickinson|first=Joy Wallace|date=March 13, 2005 |work=The Orlando Sentinel |access-date=March 4, 2017 }}</ref><ref name=FLhistorical /> In 1857, the post office was removed from Jernigan, and opened under the name of Orlando at a new location in present-day downtown Orlando.<ref name= Andrews2000 /> During the [[American Civil War]], the post office closed, but reopened in 1866. The move is believed to have been sparked, in part, by Aaron Jernigan's fall from grace after he was relieved of his militia command by military officials in 1856. His behavior was so notorious that [[United States Secretary of War]] [[Jefferson Davis]] wrote, "It is said they [Jernigan's militia] are more dreadful than the Indians."<ref name="Dickinson, Cheney" /> In 1859, Jernigan and his sons were accused of committing a murder at the town's post office. They were then transported to [[Ocala]], but escaped.<ref name=marker />
+
+At a meeting in 1857, debate had grown concerning the name of the town. Pioneer William B. Hull recalled how James Speer (a local resident, and prominent figure in the stories behind the naming of Orlando) rose in the heat of the argument and said, "This place is often spoken of as 'Orlando's Grave.' Let's drop the word 'grave' and let the county seat be Orlando."<ref name="Andrews1998" /><ref name="Dickinson, Cheney" />
+
+The origin of the name is unknown but at least five stories relate how Orlando got its name. The most common stories are that the name Orlando originated from the tale of a man who died in 1835 during an attack by Native Americans in the area during the [[Second Seminole War]]. Several of the stories relay an oral history of the marker for a person named Orlando, and the ''[[double entendre]]'', "Here lies Orlando." One variant includes a man named Orlando who was passing by on his way to [[Tampa, Florida|Tampa]] with a herd of [[oxen]], died, and was buried in a marked grave.<ref name="travel">[http://www.florida-backroads-travel.com/history-of-orlando.html History of Orlando] Florida Backroads Travel. Retrieved March 2, 2017.</ref>
+
+Through a retelling of history, a marker of some sort was believed to have been found by one of the original pioneers, but Speer's family has since claimed that Speer simply used the Orlando Reeves legend to help push his plan for naming the settlement after the Shakespearean character from ''[[As You Like It]]'', his favorite play.<ref name=Andrews1998 /> This has become the most common accepted version of how Orlando got its name.
+
+===Orlando Reeves===
+
+Historians agree that likely no soldier was named Orlando Reeves.<ref name=Dickenson2001>{{cite web |url=https://www.orlandosentinel.com/2001/01/28/mystery-of-name-tracked-down-long-winding-trail/ |title=Mystery of Name Tracked Down Long, Winding Trail|last=Dickinson |first=Joy Wallace |date=January 28, 2001 |work=Orlando Sentinel |access-date=March 3, 2017 }}</ref> [[Folklore]] is that Reeves was acting as a [[Border guard|sentinel]] for a company of soldiers that had set up camp for the night on the banks of [[Lake Eola|Sandy Beach Lake]].<ref name="Dickinson, Reeves">{{cite book|last=Dickinson|first=Joy Wallace|title=Orlando: City of Dreams|year=2003|publisher=Arcadia Pub.|location=Charleston, South Carolina|isbn=978-0-7385-2442-9|pages=13–14, 24}}</ref> Several different lakes are mentioned in the various versions, as no soldiers were in what is now downtown during 1835.<ref name=Andrews1994>{{cite web |url=https://www.orlandosentinel.com/1994/11/13/the-legend-of-orlandos-name-crumbles-under-expert-scrutiny/ |title=The Legend of Orlando's Name Crumbles Under Expert Scrutiny|last= Andrews|first= Mark|date= November 13, 1994|work=Orlando Sentinel |access-date=March 4, 2017 }}</ref>
+
+The legend grew throughout the early 1900s, particularly with local historian Olive Brumbaugh (or Kena Fries<ref name="Dickinson, Reeves" />{{verify source|date=March 2017}}) retelling in various writings and on local radio station [[WDBO (AM)|WDBO]] in 1929.<ref name=Andrews1998 /> Another historian, Eldon H. Gore, promoted the Reeves legend in ''History of Orlando'' published in 1949.<ref name=Andrews1998>{{cite web |url=https://www.orlandosentinel.com/1998/01/18/legendary-orlando-reeves-was-a-remarkable-man-or-was-he/ |title=Legendary Orlando Reeves Was A Remarkable Man – Or Was He?|last= Andrews|first= Mark|date= January 18, 1998 |work=Orlando Sentinel |access-date=March 3, 2017 }}</ref> A memorial beside [[Lake Eola]] – originally placed by students of Orlando's Cherokee Junior School in 1939 and updated in 1990 – designates the spot where the city's supposed namesake fell.<ref name=Dickenson2001 /><ref name="Dickinson, Reeves" />
+
+Conflicting legends exist. One legend has Reeves killed during an extended battle with the Seminoles after being field promoted after his platoon commander fell.<ref name=Andrews1998 /> An in-depth review of military records in the 1970s and 1980s, though, turned up no record of Orlando Reeves ever existing.<ref name=Andrews1998 /><ref name=Dickenson2001 /><ref name="Dickinson, Reeves" /> Some versions attempt to account for Reeves having no military records by using the name of other people named Orlando that exist in some written records – Orlando Acosta; however, not much is known about Acosta or whether he even existed. Another version of the story has Orlando Reed, supposedly an Englishman and mail carrier between Fort Gatlin and [[Fort Mellon]], allegedly killed while camping with his friends near Fort Gatlin.<ref name=Andrews1998 />
+
+A second variation also places the story in 1835 during the Second Seminole War. This name is taken from a [[South Carolinian]] [[cattle ranching|cattle rancher]] named Orlando Savage Rees. Rees owned a [[Volusia County]] [[sugar mill]] and [[plantation]], as well as several large estates in Florida and [[Mississippi]].<ref name=Andrews1998 /> Rees' sugar farms in the area were burned out in the Seminole attacks of 1835 (the year Orlando Reeves supposedly died). Subsequently, Rees led an expedition to recover stolen slaves and cattle. In 1837, Rees also attempted to stop a peace treaty with the Seminoles because it did not reimburse him for the loss of slaves and crops.<ref name="Dickinson, Cheney">{{cite book|last=Dickinson|first=Joy Wallace|title=Orlando: City of Dreams|year=2003|publisher=Arcadia Pub.|location=Charleston, South Carolina|isbn=978-0-7385-2442-9|pages=24–25}}</ref>
+
+Rees could have left a pine-bough marker with his name next to the trail; later residents misread "Rees" as "Reeves" and also mistook it as a grave maker.<ref name="Dickinson, Cheney"/> In subsequent years, this story has merged with the Orlando Reeves story (which may have originally incorporated part of Dr. Gatlin's story).<ref name=Andrews1998 />
+
+On two separate occasions, relatives of Rees claimed their ancestor was the namesake of the city. F. K. Bull of South Carolina (Rees' great-grandson) told an Orlando reporter of a story in 1955; years later, Charles M. Bull Jr., of Orlando (Rees' great-great-grandson) offered local historians similar information.<ref name="Dickinson, Cheney"/> Unlike Orlando Reeves, who cannot be traced to any historical record, the record is considerable that Orlando Rees did exist and was in Florida during that time. For example, in 1832, [[John James Audubon]] met with Rees in his large estate at Spring Garden, about 45 minutes from Orlando.<ref name="Dickinson, Cheney"/>
+
+===Orlando (''As You Like It'')===
+[[File:Lake Lucerne, Orlando, FL.jpg|thumb|Lake Lucerne, c. 1905]]
+
+The final variation has the city named after [[Orlando (As You Like It)|the protagonist]] in the Shakespeare play ''[[As You Like It]]''.<ref name=Andrews1998 />
+
+In 1975, Judge Donald A. Cheney put forth a new version of the story in an ''[[Orlando Sentinel]]'' article.<ref name="Dickinson, Cheney"/> Cheney (a local historian and then chairman of the county historical commission<ref>{{cite web |title=About |url=http://cflhistory.org/about/#:~:text=In%201957%2C%20when%20the%20red%2Dbrick%20courthouse%20was%20demolished%2C%20the%20Orange%20County%20Board%20of%20County%20Commissioners%20established%20a%20historical%20commission%20to%20manage%20the%20museum%20collection%20and%20tapped%20Judge%20Donald%20Cheney%20to%20be%20its%20first%20chairman. |website=Historical Society of Central Florida |access-date=April 17, 2022}}</ref>) recounted a story told to him by his father, Judge [[John Moses Cheney]] (a major figure in Orlando's history, who arrived in Orlando in 1885).
+
+The elder Cheney recounted that another gentleman at that time, James Speer, proposed the name Orlando after the character in ''As You Like It''.<ref name=Andrews1998 /> According to Cheney, Speer, "was a gentleman of culture and an admirer of William Shakespeare ..."<ref name="Dickinson, Cheney" /> Quoting a letter that Speer wrote, "Orlando was a veritable [[Arden, Warwickshire|Forest of Arden]], the locale of ''As You Like It''."<ref name=Reflections>[http://www.thehistorycenter.org/wp-content/uploads/2016/01/Reflections_Fall2015-_lr.pdf ''Reflections'']. Fall 2015 Vol. 13 No. 4. {{Retrieved|access-date= March 1, 2017}}</ref> Speer's descendants have also confirmed this version of the naming and the legend has continued to grow.<ref name="Dickinson, Cheney" />
+
+This account also has some validity in that, as mentioned above, Speer was instrumental in changing the name of the settlement from Jernigan to Orlando, though he may have used the Orlando Reeves legend in lieu of his true intent to use the Shakespearean character. According to yet another version of the story, Orlando may have been the name of one of his employees.<ref name=Andrews1998 /><ref name=travel /> One of [[downtown Orlando]]'s major streets is named Rosalind Avenue; [[Rosalind (As You Like It)|Rosalind]] is the heroine of ''As You Like It'', but this could also be a coincidence.
+
+==History==
+
+{{see also|Timeline of Orlando, Florida}}
+
+===Settlement===
+
+In 1823, the [[Treaty of Moultrie Creek]] created a [[Seminole]] reservation encompassing much of central Florida, including the area that would become Orlando. The [[Indian Removal Act]] of 1830 authorized relocation of the Seminole from Florida to Oklahoma, leading to the Second Seminole War. In 1842, white settlement in the area was encouraged by the Armed Occupation Act. The first settler, Mr. [[Aaron Jernigan]] of Camden County, Georgia, arrived the following year and settled near Lake Holden.
+
+[[File:Orlando Mizell-Leu House Hist Dist03.jpg|thumb|Mizell-Leu House (built 1888), a fine example of Florida Vernacular Style Architecture. The home is located in the Mizell-Leu House Historic District.]]
+
+[[Mosquito County]] was renamed Orange County in 1845, with the county seat shortly thereafter relocated to Mellonville, a few miles west of [[Sanford, Florida|Sanford]]. By 1856, settlement had begun in earnest in the interior of the county and a more centrally-located Courthouse was sought. The new town of Orlando, laid out in 1857,<ref name=FLhistorical /> consisted of four streets surrounding a courthouse square. The fledgling village suffered greatly during the [[Union blockade]]. The [[Reconstruction Era]] brought on a population explosion, resulting in the incorporation of the Town of Orlando on July 31, 1875, with 85 residents (22 voters). For a short time in 1879, the town revoked its charter, and was subsequently reincorporated.<ref name="Historic Orange County:The Story of Orlando and Orange County">{{cite book |last=Mosier |first=Tana |date=2009 |title=Historic Orange County:The Story of Orlando and Orange County |url=http://hpnbooks.com/wordpress/?p=1372 |archive-url=https://web.archive.org/web/20171201035737/http://hpnbooks.com/wordpress/?p=1372 |url-status=dead |archive-date=December 1, 2017 |location=Texas |publisher=Mahler Books |page=51 |isbn=9781893619999 }}</ref> Orlando was established as a city in 1885.<ref>[http://www.cityoforlando.net/about_orlando.htm] {{webarchive|url=https://web.archive.org/web/20140314190141/http://www.cityoforlando.net/about_orlando.htm|date=March 14, 2014}}</ref>
+
+The period from 1875 to 1895 is remembered as Orlando's Golden Era, when it became the hub of Florida's [[citrus]] industry. The period ended with the [[Great Freeze|Great Freeze of 1894–95]], which forced many owners to give up their independent citrus [[Grove (nature)|grove]]s, thus consolidating holdings in the hands of a few "citrus barons", who shifted operations south, primarily around [[Lake Wales, Florida|Lake Wales]] in [[Polk County, Florida|Polk County]].<ref name=travel /> The freeze caused many in Florida, including many Orlandoans, to move elsewhere, mostly to [[Northern United States|the North]], [[California]], or the [[Caribbean]].
+[[File:The Wyoming, Orlando, FL.jpg|thumb|right|The Wyoming Hotel, c. 1905]]
+Notable homesteaders in the area included the Curry family. Through their property in east Orlando flowed the [[Econlockhatchee River]], which travelers crossed by [[ford (crossing)|fording]]. This was commemorated by the street's name, Curry Ford Road. Also, just south of the [[Orlando International Airport]] in the Boggy Creek area are {{convert|150|acre|km2}} of property homesteaded in the late 19th century by the Ward family. This property is still owned by the Ward family, and can be seen from southbound flights out of Orlando International Airport immediately on the south side of SR 417.
+
+===Post-Industrial Revolution===
+
+Orlando became a popular resort during the years between the [[Spanish–American War]] and [[World War I]]. In the 1920s, Orlando experienced extensive housing development during the [[Florida Land Boom]], causing land prices to soar. During this period, dozens of neighborhoods in the vicinity of downtown were constructed. The boom ended when several [[hurricanes]] hit Florida in the late 1920s, along with the [[Great Depression]].
+
+During [[World War II]], a number of Army personnel were stationed at the [[Orlando Air Force Base|Orlando Army Air Base]] and nearby [[McCoy Air Force Base|Pinecastle Army Air Field]]. Some of these servicemen stayed in Orlando to settle and raise families. In 1956, the aerospace and defense company [[Martin Marietta]] (now [[Lockheed Martin]]) established a plant in the city. Orlando AAB and Pinecastle AAF were transferred to the [[United States Air Force]] in 1947 when it became a separate service and were redesignated as air force bases (AFB). In 1958, Pinecastle AFB was renamed McCoy Air Force Base after Colonel Michael N. W. McCoy, a former commander of the 320th Bombardment Wing at the installation, killed in the crash of a [[B-47]] Stratojet bomber north of Orlando. In the 1960s, the base subsequently became home to the 306th Bombardment Wing of the [[Strategic Air Command]], operating [[B-52 Stratofortress]] and [[KC-135]] Stratotanker aircraft, in addition to detachment operations by [[EC-121]] and [[Lockheed U-2|U-2]] aircraft.
+
+In 1968, Orlando AFB was transferred to the [[United States Navy]] and became Naval Training Center Orlando. In addition to boot camp facilities, the NTC Orlando was home of one of two Navy Nuclear Power Schools, and home of the [[Naval Air Warfare Center Training Systems Division]]. When McCoy AFB closed in 1976, its runways and territory to its south and east were imparted to the city to become [[Orlando International Airport]], while a small portion to the northwest was transferred to the Navy as McCoy NTC Annex. That closed in 1995, and became a housing, though the former McCoy AFB still hosts a Navy Exchange, as well as national guard and reserve units for several branches of service. NTC Orlando was completely closed by the end of 1999 by the [[Base Realignment and Closure Commission]], and converted into the Baldwin Park neighborhood. The Naval Air Warfare Center had moved to Central Florida Research Park near UCF in 1989.
+
+[[File:Lucerne Circle, Orlando, FL.jpg|thumb|right|Lucerne Circle, c. 1905]]
+[[File:Lake Eola from East Central Blvd., Orlando, FL.jpg|thumb|right|[[Lake Eola Park|Lake Eola]] in 1911]]
+
+===Tourism in history===
+
+A major factor in Orlando's growth occurred in 1962, when the new Orlando Jetport, the precursor of the present-day Orlando International Airport, was built from a portion of the McCoy Air Force Base. By 1970, four major airlines ([[Delta Air Lines]], [[National Airlines (NA)|National Airlines]], [[Eastern Airlines]], and [[Southern Airways]]) were providing scheduled flights. McCoy Air Force Base officially closed in 1975, and most of it is now part of the airport. The airport still retains the former Air Force Base airport code (MCO).
+
+Perhaps the most critical event for Orlando's economy, though, occurred in 1965 when [[Walt Disney]] announced plans to build [[Walt Disney World]]. Although Disney had considered the regions of Miami and [[Tampa]] for his park, one of the major reasons behind his decision not to locate there was due to [[hurricane]]s – Orlando's inland location, although not free from hurricane damage, exposed it to less threat than coastal regions. The vacation resort opened in October 1971, ushering in an explosive population and economic growth for the Orlando metropolitan area, which now encompasses Orange, [[Seminole County, Florida|Seminole]], [[Osceola County, Florida|Osceola]], and [[Lake County, Florida|Lake]] Counties. As a result, tourism became the centerpiece of the area's economy. Orlando now has more [[theme park]]s and entertainment attractions than anywhere else in the world.<ref>{{cite web|title=10 Best Hotels in Orlando for AARP Members in 2017|url=https://www.expedia-aarp.com/Orlando-Hotels.d178294.Travel-Guide-Hotels|website=AARP Travel Center|publisher=Expedia|access-date=May 5, 2017}}</ref>
+
+===21st century===
+[[File:Orlando downtown 2011.jpg|thumb|View of downtown Orlando (center) and periphery to [[Lake Apopka]] (upper-right); January 2011]]
+
+Today, the historic core of "Old Orlando" resides in [[downtown Orlando]] along Church Street, between Orange Avenue and Garland Avenue.
+The urban development and the central business district of downtown have rapidly shaped the downtown skyline during recent history. The present-day [[historic district]] is primarily associated with the neighborhoods around [[Lake Eola]] but stretches west across the city to Lake Lorna Dune and north into the College Park Neighborhood where you can find century-old oaks line brick streets. These neighborhoods include the "Downtown Business District," "North Quarter," "Parramore," "Callahan," "South Eola Heights, "Lake Eola Heights,"Thornton Park" and "College Park", and contain some of the oldest homes in Orlando.
+
+====2016 mass shooting====
+
+{{main|Orlando nightclub shooting}}
+On June 12, 2016, more than 100 people were shot at [[Pulse (nightclub)|Pulse]], a [[gay bar|gay nightclub]] in Orlando. Fifty (including the gunman) were killed and 60 were wounded. The gunman, whom the police [[SWAT team]] shot to death, was identified as 29-year-old [[Omar Mateen|Omar Mir Seddique Mateen]], an American security guard. The act of terrorism was both the deadliest [[mass shooting]] in modern United States history at the time and one of the deadliest mass shootings perpetrated by a single person in recorded world history. Mateen pledged allegiance to the Islamic State during his unsuccessful negotiations with police.<ref>{{cite web|url=http://www.orlandosentinel.com/news/pulse-orlando-nightclub-shooting/os-911-calls-released-orlando-shooting-20170922-story.html|title=Transcripts of 911 calls reveal Pulse shooter's terrorist motives|first=Caitlin|last=Doornbos|date=September 23, 2016 }}</ref> After the shooting, the city held numerous vigils. In November 2016, Orlando mayor Buddy Dyer announced the city's intention to acquire the Pulse Nightclub to build a permanent memorial for the 49 victims of the shooting. The city offered to buy it for $2.25&nbsp;million, but the club's owner declined to sell.<ref>{{cite web|url=http://www.orlandosentinel.com/news/politics/political-pulse/os-pulse-nightclub-no-sale-orlando-20161205-story.html|title=Pulse nightclub owner says she won't sell to city|first=Jeff Weiner, Gal Tziperman|last=Lotan}}</ref>
+
+==Geography==
+
+The geography of Orlando is mostly [[wetlands]], consisting of many lakes and swamps. The terrain is generally flat, making the land fairly low and wet.<ref>{{Cite web|url=http://www.city-data.com/states/Florida-Topography.html|title=Topography – Florida|website=www.city-data.com|access-date=December 4, 2018}}</ref> The area is dotted with hundreds of lakes, the largest of which is [[Lake Apopka]]. Central Florida's [[bedrock]] is mostly [[limestone]] and very porous; the Orlando area is susceptible to [[sinkholes]]. Probably the most famous incident involving a sinkhole happened in 1981 in Winter Park, a city immediately north of downtown Orlando, dubbed [[Winter Park, Florida#The Winter Park sinkhole|"The Winter Park Sinkhole]]".
+
+===Cityscape===
+====Neighborhoods====
+{{see also|List of neighborhoods in Orlando, Florida}}
+{{Panorama
+|image   = File:Sunset 408.jpg
+|height  = 300
+|width   = 300
+|alt     = [[Interstate 4|I-4]] with backdrop of [[List of tallest buildings in Orlando|Orlando skyline]], pictured 2004
+}}
+There are 115 neighborhoods within the city limits and many [[Unincorporated area|unincorporated]] communities. Orlando's city limits resemble a checkerboard, with pockets of unincorporated Orange County surrounded by city limits. Such an arrangement results in some areas being served by both Orange County and the City of Orlando. This also explains Orlando's relatively low city population when compared to its metropolitan population. The city and county are working together in an effort to "round-out" the city limits with Orlando annexing portions of land already bordering the city limits.<ref>{{cite web |url=http://www.cityoforlando.net/gis/wp-content/uploads/sites/22/2014/03/AnnexationsMap34x44General.pdf |title=Map of Orlando |publisher=Cityoforlando.net |access-date=August 2, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140713122906/http://www.cityoforlando.net/gis/wp-content/uploads/sites/22/2014/03/AnnexationsMap34x44General.pdf |archive-date=July 13, 2014 }}</ref>{{failed verification|date=May 2014}}
+
+At the center of the Greater Orlando region is [[Downtown Orlando]], the historic core and [[central business district]] of the city. It is bordered by Marks Street in the north, Mills Avenue ([[SR 15 (FL)|SR 15]]) in the east, [[Orange Blossom Trail]] ([[U.S. Route 441 in Florida|US 441]]) in the west, and Kaley Avenue in the south. It is home to many of the region's major banks, skyscrapers, government buildings, and cultural and tourist attractions, along with a large residential population. It is mostly composed of high-rise residential towers and office towers. Among the 79 of the high-rises in the [[Greater Orlando]] region, 46 are located in downtown.<ref>{{Cite web|url=https://www.emporis.com/city/101340/orlando-fl-usa|archive-url=https://web.archive.org/web/20150322015123/http://www.emporis.com/city/101340/orlando-fl-usa|url-status=usurped|archive-date=March 22, 2015|title=Orlando &#124; Buildings &#124; EMPORIS|website=[[Emporis]]|access-date=Aug 23, 2019}}</ref> It is also the home to many of the city's cultural venues, such as [[Dr. Phillips Center for the Performing Arts]], [[Kia Center]], and [[Orlando Museum of Art]].
+
+Southeast of Downtown is the rapidly growing neighborhood of [[Lake Nona, Orlando, Florida|Lake Nona]]. Along with being home to [[Lake Nona Golf & Country Club]], it is also the health district for the city, with [[Lake Nona Medical City]]. It features the [[University of Central Florida]]'s Health Sciences Campus, which includes the university's [[University of Central Florida College of Medicine|College of Medicine]], [[Burnett School of Biomedical Sciences]], the [[University of Central Florida College of Nursing]], and the [[University of Central Florida College of Dental Medicine]] (along with a [[teaching hospital]]).<ref name="medcampus">{{cite web|url=http://www.cityoforlando.net/elected/mayor/soc04_medical.htm |publisher=City of Orlando – Office of the Mayor |title=Medical City |year=2010 |access-date=September 18, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20130117104720/http://www.cityoforlando.net/elected/mayor/soc04_medical.htm |archive-date=January 17, 2013 }}</ref> The medical city also includes the [[Sanford-Burnham Medical Research Institute]], [[Nemours Children's Hospital, Florida|Nemours Children's Hospital]], and [[University of Florida College of Pharmacy]], in addition to the [[United States Department of Veterans Affairs|Orlando Veterans Administration Medical Center]] (which began seeing clinical patients in 2015).<ref>{{cite web|title=Orlando Construction Milestones – Orlando VA Medical Center|url=http://www.orlando.va.gov/newmedcenter/consttimeline.asp|website=www.orlando.va.gov|publisher=Orlando VA Medical Center|language=en}}</ref>
+
+In the southwestern side of Orlando, is the main [[tourist strip]] for the city, along with some residential neighborhoods. [[International Drive]], commonly known as '''I-Drive''', is a major {{convert|11.1|mi|adj=on}} [[thoroughfare]] in the southwestern section of Orlando, serving a similar purpose to that of the [[Las Vegas Strip]] in [[Las Vegas]], as the core of the tourism area. The northern part of the strip extends into the city limits of and the remainder of the central and southern portions are all located in unincorporated [[Orange County, Florida|Orange County]]. An additional extension is known as '''International Drive South''', partly located in the northern portion of [[Osceola County, Florida|Osceola County]], but is not connected to the main stem of this route. Surrounding cross-roads include Sand Lake Road, Kirkman Road, [[State Road 536 (Florida)|SR 536]], and '''Universal Boulevard''', which runs parallel to the midsection of International Drive. At its northern end, International Drive is home to [[Orlando International Premium Outlets]] and [[Universal Orlando]] resort, along with being in close proximity to the upcoming [[Universal Epic Universe|Epic Universe]] theme park (set to open in 2025).<ref>[http://www.premiumoutlets.com/outlets/outlet.asp?id=96 Orlando Premium Outlets-International Official Website], Orlando International Premium Outlets. Accessed May 20, 2024.</ref><ref>[https://www.universalorlando.com/], Universal Orlando Resort. Accessed May 20, 2024.</ref><ref>{{Cite web |title=Epic Universe. Five Immersive Worlds. One Amazing Theme Park. |url=https://www.universalorlando.com/web/en/us/theme-parks/epic-universe |access-date=March 2, 2024 |website=Universal Orlando Resort}}</ref> Further south on International Drive, it features the [[Madame Tussauds]] wax museum, the [[Orange County Convention Center]], [[Pointe Orlando]] entertainment complex, [[SeaWorld Orlando]] (along with [[Aquatica (water parks)|Aquatica]], SeaWorld's water park), [[Fun Spot America]], [[ICON Park]] (featuring its famous ferris wheel, [[Orlando Eye]]), the [[World's Largest Entertainment McDonald's]], and other tourist ventures.<ref>[http://www.internationaldriveorlando.com/ International Drive Resort Area Official Website], International Drive Resort Area Official Website. Accessed May 20, 2024.</ref> The '''Millennia neighborhood''' is a residential neighborhood that is also the home of [[The Mall at Millenia]], an upscale super-regional mall.<ref>[http://www.mallatmillenia.com/ The Mall at Millenia website], The Mall at Millennia website. Accessed May 20, 2024.</ref> The mall's Macy's store was the first in [[Central Florida]], and it was also one of only seven Macy's stores in Florida that predated the company's merger with [[Burdines]].<ref>{{cite news |last1=Meitner |first1=Sarah Hale |title='FLORIDA STORE' WILL SOON WEAR NATIONAL NAME: BURDINES-MACY'S |url=https://www.orlandosentinel.com/news/os-xpm-2003-05-23-0305230359-story.html |access-date=18 August 2022 |agency=Orlando Sentinel |date=23 May 2003}}</ref><ref>{{cite news |last1=Albright |first1=Mark |title=Burdines Macy's // Will it still be the Florida store? |url=https://www.tampabay.com/archive/2004/01/25/burdines-macy-s-will-it-still-be-the-florida-store/ |access-date=18 August 2022 |agency=Tampa Bay Times |date=25 January 2004}}</ref> Bloomingdale's and Neiman Marcus are also regional firsts and these remain their only locations in the Greater Orlando region.
+
+The western side of Orlando includes various neighborhoods (within city limits, incorporated municipalities, and unincorporated within Orange County) with a wide a range of housing in differing class-levels. Neighborhoods in the western side of town include [[Apopka, Florida|Apoka]], [[Dr. Phillips, Florida|Dr. Phillips]], [[MetroWest (Orlando)|MetroWest]], [[Pine Hills, Florida|Pine Hills]], and [[Windermere, Florida|Windermere]]. The north side of Orlando, includes a wide range of older and more established neighborhoods, including [[Eatonville, Florida|Eatonville]], [[Fern Park, Florida|Fern Park]], [[Maitland, Florida|Maitland]], and [[Winter Park, Florida|Winter Park]]. Finally, the east side of Orlando includes neighborhoods such as [[Alafaya, Florida|Alafaya]], [[Azalea Park, Florida|Azalea Park]], and [[Union Park, Florida|Union Park]]. The east side is the home of the [[University of Central Florida]] (UCF).<ref>[https://www.ucf.edu/ University of Central Florida official website], accessed May 20, 2024.</ref> As of fall 2023, the university had a total enrollment of 69,320 students, making it the [[List of United States university campuses by enrollment|fourth-largest on-campus student body of any public university in the United States]].<ref>[https://www.ucf.edu/about-ucf/facts/], UCF Facts: Enrollment. Accessed May 20, 2024.</ref>
+
+A list of all major neighborhoods and suburbs:
+[[File:Pine Street, Orlando (May 2023).JPG|thumb|Single-family homes in the [[Thornton Park, Orlando, Florida|Thornton Park]] neighborhood, near [[Downtown Orlando|Downtown]]]]
+
+* [[Downtown Orlando]]
+* [[Winter Park, Florida|Winter Park]]
+* [[Celebration, Florida|Celebration]]
+* [[Pine Hills, Florida|Pine Hills]]
+* [[Windermere, Florida|Windermere]]
+* [[Dr. Phillips, Florida|Dr. Phillips]]
+* [[Hunter's Creek, Florida|Hunter's Creek]]
+* [[Lake Nona, Orlando, Florida|Lake Nona]]
+* [[Parramore]]
+* [[Williamsburg, Florida|Williamsburg]]
+* [[Lake Buena Vista, Florida|Lake Buena Vista]]
+* [[Bay Lake, Florida|Bay Lake]]
+* [[Kissimmee, Florida|Kissimmee]]
+* [[Winter Garden, Florida|Winter Garden]]
+* [[Eatonville, Florida|Eatonville]]
+* [[Poinciana, Florida|Poinciana]]
+* [[Maitland, Florida|Maitland]]
+* [[Apopka, Florida|Apopka]]
+* [[Casselberry, Florida|Casselberry]]
+* [[Four Corners, Florida|Four Corners]]
+* [[Altamonte Springs, Florida|Altamonte Springs]]
+* [[Meadow Woods, Florida|Meadow Woods]]
+* [[Edgewood, Florida|Edgewood]]
+* [[MetroWest (Orlando)|MetroWest]]
+* [[College Park (Orlando)|College Park]]
+* Baldwin Park
+* Wedgefield
+* Avalon Park
+
+====Skyscrapers====
+{{Panorama
+|image   = File:The City beautiful.jpg
+|height  = 300
+|width   = 400
+|alt     = A panorama of the [[Lake Eola]] in [[Downtown Orlando]]
+|caption = [[Lake Eola]] with the backdrop of [[List of tallest buildings in Orlando|Orlando's skyline]]
+}}
+Metro Orlando has a total of 19 completed skyscrapers. The majority are located in downtown Orlando and the rest are located in the tourist district southwest of downtown.<ref>{{cite web|url=http://www.emporis.com/en/wm/ci/bu/?id=101340 |archive-url=https://web.archive.org/web/20040602033554/http://www.emporis.com/en/wm/ci/bu/?id=101340 |url-status=usurped |archive-date=June 2, 2004 |title=Buildings of Orlando |publisher=Emporis.com |access-date=November 17, 2012}}</ref> Skyscrapers built in downtown Orlando have not exceeded {{convert|441|ft|m|0|abbr=on}}, since 1988, when the [[SunTrust Center]] was completed.{{citation needed|date=June 2016}} The main reason for this is the [[Orlando Executive Airport]], just under {{convert|2|mi|km|abbr=}} from the city center, which does not allow buildings to exceed a certain height without approval from the FAA.<ref>{{Cite web|url=https://www.orlandosentinel.com/news/breaking-news/os-downtown-orlando-skyline-20150125-story.html|title=No Space Needle or Gateway Arch: What defines Orlando's skyline?|last=Schlueb|first=Mark|website=OrlandoSentinel.com|date=January 25, 2015 |language=en-US|access-date=December 6, 2018}}</ref>
+
+=====Downtown Orlando=====
+{{main|List of tallest buildings in Orlando}}
+* [[200 South Orange]], 1988, {{convert|441|ft|m|0|abbr=on}}, formerly [[SunTrust Center]] it's the tallest skyscraper in [[Greater Orlando]]<ref>{{cite web |title=200 South Orange |url=https://www.skyscrapercenter.com/building/200-south-orange/10294 |website=Council on Tall Buildings and Urban Habitat |access-date=October 3, 2022}}</ref>
+* [[The Vue at Lake Eola]], 2008, {{convert|426|ft|m|0|abbr=on}}
+* [[Orange County Courthouse (Florida)|Orange County Courthouse]], 1997, {{convert|416|ft|m|0|abbr=on}}
+* [[Bank of America Center (Orlando)|Bank of America Center]], 1988, {{convert|409|ft|m|0|abbr=on}}
+* [[55 West on the Esplanade]], 2009, {{convert|377|ft|m|0|abbr=on}}
+* [[Solaire at the Plaza]], 2006, {{convert|359|ft|m|0|abbr=on}}
+* Church Street Plaza Tower 1, 2019, {{convert|315|ft|m|abbr=on}}
+* [[Dynetech Centre|Dynetech Center]], 2009, {{convert|357|ft|m|0|abbr=on}}
+* Regions Bank Tower, 1986, {{convert|292|ft|m|0|abbr=on}}
+* [[Plaza South Tower|Premiere Trade Plaza Office Tower II]] 2006, {{convert|277|ft|m|abbr=on}}
+* [[Citrus Center]], 1971, {{convert|281|ft|m|abbr=on}}
+* Citi Tower, 2017, {{convert|275|ft|m|abbr=on}}
+* SkyHouse Orlando, 2013, {{convert|262|ft|m|abbr=on}}
+* Modera Central, 2018, {{convert|260|ft|m|abbr=on}}
+* The Waverly on Lake Eola, 2001, {{convert|280|ft|m|abbr=on}}
+
+<gallery>
+File:SunTrustCenter.jpg|[[200 South Orange]]
+File:The VUE at Lake Eola.jpg|[[The VUE at Lake Eola]]
+File:Bank of America building from I4.jpg|[[Bank of America Center (Orlando, Florida)|Bank of America Center]]
+File:The Solaire at the Plaza 01.jpg|[[Solaire at the Plaza]]
+File:Premiere Trade Plaza Office Tower II.jpg|[[Plaza South Tower]]
+File:CNL Center City Commons (Orlando) May 2023.jpg|[[CNL Center City Commons]]
+</gallery>
+
+=====Outside downtown Orlando=====
+* [[Hyatt Regency Orlando]], 2010, {{convert|428|ft|m|0|abbr=on}}
+* [[SeaWorld SkyTower]], {{convert|400|ft|m|0|abbr=on}}
+* [[The Wheel at ICON Park]], 2015, {{convert|400|ft|m|0|abbr=on}}
+* [[Orlando International Airport]]'s [[Air traffic control|ATC tower]], 2002, {{convert|346|ft|m|0|abbr=on}}
+* StarFlyer Orlando on International Drive, 2018, {{convert|450|ft|m|0|abbr=on}}
+<gallery>
+File:Hyatt Regency Orlando hotel (Orlando, Florida) 003.jpg|[[Hyatt Regency Orlando]]
+File:Seaworld-Orlando-Tower-1473.jpg|[[SeaWorld SkyTower]]
+File:Orlando Eye.jpg|[[Orlando Eye]]
+</gallery>
+
+===Climate===
+[[File:Orlando Tstorm.jpg|thumb|left|240px|Rainy season in the city]]
+According to the [[Köppen climate classification]], Orlando has a [[humid subtropical climate]] (''Cfa'') like much of the deep Southern United States. The two basic seasons in Orlando are a hot and rainy season, lasting from May until late October (roughly coinciding with the [[Atlantic hurricane season]]), and a warm and dry season from November through April.<ref>{{Cite web|url=https://www.wesh.com/article/florida-rainy-season/27786924|title=What is the Central Florida rainy season?|first=Amy|last=Sweezey|date=June 10, 2019|website=WESH}}</ref> The area's warm and humid climate is caused primarily by its low elevation, its position relatively close to the [[Tropic of Cancer]], and its location in the center of a [[list of peninsulas|peninsula]]. Many characteristics of its climate are a result of its proximity to the [[Gulf Stream]], which flows around the peninsula of Florida.
+
+During the height of Orlando's humid summer season, high temperatures are typically in the low 90s °F (32–34&nbsp;°C), while low temperatures rarely fall below the low 70s °F (22–24&nbsp;°C). The average window for {{convert|90|°F}} temperatures is April 9 to October 14. The area's humidity acts as a buffer, usually preventing actual temperatures from exceeding {{convert|100|°F|0}}, but also pushing the [[heat index]] to over {{convert|110|°F|0}}. The city's highest recorded temperature is {{convert|103|°F|0}}, set on September 8, 1921. During these months, strong afternoon thunderstorms occur almost daily. These storms are caused by air masses from the [[Gulf of Mexico]] and the Atlantic Ocean colliding over Central Florida. They are highlighted by spectacular [[lightning]] and can also bring heavy rain (sometimes several inches per hour) and powerful winds as well as rare damaging [[hail]].<ref>{{cite web |title=Thunderstorms |url=http://climatecenter.fsu.edu/topics/thunderstorms |website=Florida Climate Center |access-date=January 10, 2019}}</ref>
+
+During the winter, humidity is much lower and temperatures are more moderate, and can fluctuate more readily. The monthly daily average temperature in January is {{convert|60.6|°F|1}}. Temperatures dip below the freezing mark on an average of only 1.6 nights per year and the lowest recorded temperature is {{convert|18|°F}}, set on [[Great Freeze|December 28, 1894]]. The annual mean minimum is just above {{convert|30|F|C}} putting Orlando in [[hardiness zone]] 10a. Because the winter season is dry and freezing temperatures usually occur only after cold fronts (and their accompanying precipitation) have passed, snow is exceptionally rare. The only accumulation ever to occur in the city proper since record keeping began was in 1948, although some accumulation occurred in surrounding areas in a snow event in January 1977 that reached Miami. Flurries have also been observed [[December 1989 United States cold wave|in 1989]], 2006,<ref>[https://www.usatoday.com/weather/news/2006-11-21-florida-cold_x.htm Snow falls in central Florida as state endures unusual Nov. cold snap] ''[[USA Today]]''; Retrieved May 23, 2012</ref> and 2010.<ref>[https://www.washingtonpost.com/wp-dyn/content/article/2010/01/10/AR2010011002684.html Florida cold spell brings flurries to Orlando] ''[[The Washington Post]]''; Retrieved May 23, 2012</ref>
+
+The average annual rainfall in Orlando is {{convert|51.45|in}}, a majority of which occurs in the period from June to September. October through May are Orlando's dry season. During this period (especially in its later months), often a [[wildfire]] hazard exists. During some years, fires have been severe. In 1998, a strong [[El Niño-Southern Oscillation|El Niño]] caused an unusually wet January and February, followed by drought throughout the spring and early summer, causing a record wildfire season that created numerous air-quality alerts in Orlando and severely affected normal daily life, including the postponement of that year's [[Coke Zero 400|Pepsi 400]] [[NASCAR]] race in nearby [[Daytona Beach, Florida|Daytona Beach]].<ref>{{cite web |url=http://articles.sun-sentinel.com/1998-07-03/sports/9807020466_1_winston-tower-first-night-event-daytona-international-speedway |title=Pepsi 400 Postponed By Fires – Sun Sentinel |publisher=Articles.sun-sentinel.com |date=July 3, 1998 |access-date=October 16, 2012 |archive-date=May 7, 2013 |archive-url=https://web.archive.org/web/20130507083355/http://articles.sun-sentinel.com/1998-07-03/sports/9807020466_1_winston-tower-first-night-event-daytona-international-speedway |url-status=dead }}</ref>
+
+Orlando is a major population center and has a considerable [[hurricane]] risk, although it is not as high as in [[South Florida]]'s urban corridor or other coastal regions. Since the city is located {{convert|42|mi|km}} inland from the Atlantic and {{convert|77|mi|km}} inland from the Gulf of Mexico,{{efn|Distance measured from Orlando City Hall to nearest Atlantic coastline, near [[Oak Hill, Florida|Oak Hill]], [[Brevard County, Florida|Brevard County]], and nearest Gulf coastline, near, [[Pine Island, Hernando County, Florida|Pine Island]], [[Hernando County, Florida|Hernando County]], using [[Google Earth]]'s Ruler tool.}} hurricanes usually weaken before arriving. Storm surges are not a concern since the region is {{convert|100|ft|m}} [[above mean sea level]]. Despite its location, the city does see strong hurricanes. During the notorious [[2004 Atlantic hurricane season|2004 hurricane season]], Orlando was hit by three hurricanes that caused significant damage, with [[Hurricane Charley]] the worst of these. The city also experienced widespread damage during [[Hurricane Donna]] in 1960.<ref>{{Cite web |title=Hurricane Donna is born |url=https://www.history.com/this-day-in-history/hurricane-donna-is-born |access-date=March 14, 2022 |website=HISTORY |language=en}}</ref>
+
+[[Tornado]]es are not usually connected with the strong thunderstorms of the humid summer. They are more common during the infrequent cold days of winter, as well as in passing hurricanes. The two worst major outbreaks in the area's history, a [[1998 Kissimmee tornado outbreak|1998 outbreak]] that killed 42 people and a [[2007 Groundhog Day tornado outbreak|2007 outbreak]] that killed 21, both happened in February.
+
+{{Weather box
+|location = Orlando ([[Orlando International Airport]]), Florida (1991–2020 normals, extremes 1892–present)
+|single line = Yes
+|Jan record high F = 88
+|Feb record high F = 90
+|Mar record high F = 97
+|Apr record high F = 99
+|May record high F = 102
+|Jun record high F = 101
+|Jul record high F = 101
+|Aug record high F = 101
+|Sep record high F = 103
+|Oct record high F = 98
+|Nov record high F = 93
+|Dec record high F = 91
+|year record high F = 103
+|Jan avg record high F = 83.5
+|Feb avg record high F = 85.5
+|Mar avg record high F = 88.4
+|Apr avg record high F = 91.1
+|May avg record high F = 94.5
+|Jun avg record high F = 96.1
+|Jul avg record high F = 96.1
+|Aug avg record high F = 95.4
+|Sep avg record high F = 93.8
+|Oct avg record high F = 91.0
+|Nov avg record high F = 86.7
+|Dec avg record high F = 83.7
+|year avg record high F = 97.2
+|Jan high F = 71.8
+|Feb high F = 74.9
+|Mar high F = 78.9
+|Apr high F = 83.6
+|May high F = 88.4
+|Jun high F = 90.8
+|Jul high F = 92.0
+|Aug high F = 91.6
+|Sep high F = 89.6
+|Oct high F = 84.7
+|Nov high F = 78.3
+|Dec high F = 73.8
+|year high F =
+|Jan mean F = 60.6
+|Feb mean F = 63.6
+|Mar mean F = 67.3
+|Apr mean F = 72.2
+|May mean F = 77.3
+|Jun mean F = 81.2
+|Jul mean F = 82.6
+|Aug mean F = 82.6
+|Sep mean F = 81.0
+|Oct mean F = 75.5
+|Nov mean F = 68.2
+|Dec mean F = 63.3
+|year mean F =
+|Jan low F = 49.5
+|Feb low F = 52.4
+|Mar low F = 55.8
+|Apr low F = 60.7
+|May low F = 66.3
+|Jun low F = 71.6
+|Jul low F = 73.2
+|Aug low F = 73.7
+|Sep low F = 72.4
+|Oct low F = 66.2
+|Nov low F = 58.2
+|Dec low F = 52.9
+|year low F =
+|Jan avg record low F = 33.2
+|Feb avg record low F = 36.5
+|Mar avg record low F = 41.3
+|Apr avg record low F = 49.2
+|May avg record low F = 58.2
+|Jun avg record low F = 67.5
+|Jul avg record low F = 70.5
+|Aug avg record low F = 70.7
+|Sep avg record low F = 67.8
+|Oct avg record low F = 53.4
+|Nov avg record low F = 44.4
+|Dec avg record low F = 37.6
+|year avg record low F = 31.3
+|Jan record low F = 19
+|Feb record low F = 19
+|Mar record low F = 25
+|Apr record low F = 37
+|May record low F = 47
+|Jun record low F = 53
+|Jul record low F = 64
+|Aug record low F = 63
+|Sep record low F = 50
+|Oct record low F = 38
+|Nov record low F = 28
+|Dec record low F = 18
+|year record low F = 18
+|precipitation colour = green
+| Jan precipitation inch = 2.48
+| Feb precipitation inch = 2.04
+| Mar precipitation inch = 3.03
+| Apr precipitation inch = 2.58
+| May precipitation inch = 4.02
+| Jun precipitation inch = 8.05
+| Jul precipitation inch = 7.46
+| Aug precipitation inch = 7.69
+| Sep precipitation inch = 6.37
+| Oct precipitation inch = 3.46
+| Nov precipitation inch = 1.79
+| Dec precipitation inch = 2.48
+|year precipitation inch = 51.45
+| unit precipitation days = 0.01 in
+| Jan precipitation days = 7.0
+| Feb precipitation days = 6.4
+| Mar precipitation days = 6.8
+| Apr precipitation days = 6.3
+| May precipitation days = 8.4
+| Jun precipitation days = 16.2
+| Jul precipitation days = 17.1
+| Aug precipitation days = 17.2
+| Sep precipitation days = 14.2
+| Oct precipitation days = 8.4
+| Nov precipitation days = 6.0
+| Dec precipitation days = 7.1
+| year precipitation days = 121.1
+|Jan snow inch =
+|Feb snow inch =
+|Mar snow inch =
+|Apr snow inch =
+|May snow inch =
+|Jun snow inch =
+|Jul snow inch =
+|Aug snow inch =
+|Sep snow inch =
+|Oct snow inch =
+|Nov snow inch =
+|Dec snow inch =
+|year snow inch =
+|unit snow days = 0.1 in
+|Jan snow days =
+|Feb snow days =
+|Mar snow days =
+|Apr snow days =
+|May snow days =
+|Jun snow days =
+|Jul snow days =
+|Aug snow days =
+|Sep snow days =
+|Oct snow days =
+|Nov snow days =
+|Dec snow days =
+|year snow days =
+|source 1 = NOAA<ref>{{cite web
+| url = https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&startDate=0001-01-01&endDate=9996-12-31&stations=USW00012815&format=pdf
+| title = NOWData – NOAA Online Weather Data
+| publisher = [[National Oceanic and Atmospheric Administration]]
+| accessdate = October 24, 2022
+}}</ref><ref>{{cite web
+| url = https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00012815&format=pdf&dataTypes=MLY-TMAX-NORMAL,MLY-TMIN-NORMAL,MLY-TAVG-NORMAL,MLY-PRCP-NORMAL,MLY-SNOW-NORMAL
+| title = Monthly Normals 1991–2020
+| publisher = [[National Oceanic and Atmospheric Administration]]
+| accessdate = October 24, 2022
+}}</ref> }}
+
+==Demographics==
+
+{{Historical populations
+|type= USA
+|1890|2856
+|1900|2481
+|1910|3894
+|1920|9282
+|1930|27330
+|1940|36736
+|1950|52367
+|1960|88135
+|1970|99006
+|1980|128251
+|1990|164693
+|2000|185951
+|2010|238300
+|2020|307573
+|estref=
+|align-fn= center
+|source=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2016}}</ref>
+|footnote=Population 1890–2010<ref>{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population And Housing|publisher=U.S. Census Bureau|access-date=October 25, 2008}}</ref><ref>{{cite web|url=http://2010.census.gov/news/releases/operations/cb11-cn95.html|title=Census 2010 News &#124; U.S. Census Bureau Delivers Florida's 2010 Census Population Totals, Including First Look at Race and Hispanic Origin Data for Legislative Redistricting|publisher=2010.census.gov|date=March 17, 2011|access-date=November 17, 2012|url-status=dead|archive-url=https://web.archive.org/web/20121214183722/http://2010.census.gov/news/releases/operations/cb11-cn95.html|archive-date=December 14, 2012}}</ref><br />2018 Estimate<ref>{{cite web|url=https://www.census.gov|title=Annual Estimates of the Resident Population for Incorporated Places of 50,000 or More: April 1, 2010 to July 1, 2018|access-date=June 15, 2019}}</ref><ref>{{cite book|last=Florida Department of Agriculture|date=1906|title=Census of the State of Florida|url=https://books.google.com/books?id=rn0zAQAAMAAJ&q=Census+of+the+State+of+Florida|location=Urbana, I.L.}}</ref>|2023|320,742}}
+
+===2020 census===
+{| class="wikitable" style="text-align:center;"
+|+'''Orlando, Florida  – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP008>{{Cite web|title=P004 Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Orlando city, Florida|url=https://data.census.gov/table?q=p004&g=160XX00US1253000&tid=DECENNIALSF12000.P004|publisher=United States Census Bureau}}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Orlando city, Florida|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US1253000&tid=DECENNIALPL2010.P2|publisher=United States Census Bureau}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Orlando city, Florida|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US1253000&tid=DECENNIALPL2020.P2|publisher=United States Census Bureau}}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] (NH)
+|94,452
+|98,533
+|style='background: #ffffe6; |103,010
+|50.79%
+|41.35%
+|style='background: #ffffe6; |33.49%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] (NH)
+|48,547
+|63,584
+|style='background: #ffffe6; |70,183
+|26.11%
+|26.68%
+|style='background: #ffffe6; |22.81%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] (NH)
+|485
+|483
+|style='background: #ffffe6; |446
+|0.26%
+|0.20%
+|style='background: #ffffe6; |0.15%
+|-
+|[[Asian Americans|Asian]] (NH)
+|4,915
+|8,756
+|style='background: #ffffe6; |12,984
+|2.64%
+|3.67%
+|style='background: #ffffe6; |4.22%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] or [[Native Hawaiian]] (NH)
+|127
+|130
+|style='background: #ffffe6; |177
+|0.07%
+|0.06%
+|style='background: #ffffe6; |0.06%
+|-
+|[[Other races (U.S. Census)|Some other race]] (NH)
+|634
+|1,688
+|style='background: #ffffe6; |3,908
+|0.34%
+|0.71%
+|style='background: #ffffe6; |1.27%
+|-
+|[[Multiracial Americans|Two or more races/Multiracial]] (NH)
+|4,281
+|4,643
+|style='background: #ffffe6; |15,804
+|2.30%
+|1.95%
+|style='background: #ffffe6; |5.14%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|32,510
+|60,483
+|style='background: #ffffe6; |101,061
+|17.48%
+|25.38%
+|style='background: #ffffe6; |32.86%
+|-
+|'''Total'''
+|'''185,951'''
+|'''238,300'''
+|style='background: #ffffe6; |'''307,573'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|-
+|}
+
+As of the [[2020 United States census]], there were 307,573 people, 113,238 households, and 61,667 families residing in the city.<ref>{{Cite web|title=S1101 HOUSEHOLDS AND FAMILIES – 2020: Orlando city, Florida|url=https://data.census.gov/table?q=Orlando+city;+Florida+&tid=ACSST5Y2020.S1101|website=[[United States Census Bureau]]}}</ref>
+
+As of the [[2010 United States census]], there were 238,300 people, 97,661 households, and 51,716 families residing in the city.<ref>{{Cite web|title=S1101 HOUSEHOLDS AND FAMILIES – 2010: Orlando city, Florida|url=https://data.census.gov/table?q=Orlando+city;+Florida+&tid=ACSST5Y2010.S1101|website=[[United States Census Bureau]]}}</ref>
+
+[[File:Race and ethnicity 2010- Orlando (5560430278).png|thumb|Map of racial distribution in Orlando, 2010 U.S. Census. Each dot is 25 people: {{legend inline|outline=white|white|text=⬤|textcolor=#ff0000|White}} {{legend inline|outline=white|white|text=⬤|textcolor=#0000ff|Black}} {{legend inline|outline=white|white|text=⬤|textcolor=#00ffaa|Asian}} {{legend inline|outline=white|white|text=⬤|textcolor=#ffa600|Hispanic}} {{legend inline|outline=white|white|text=⬤|textcolor=#ffff07|Other}}]]
+
+In 2014, the city's population was spread out, with 12.0% under the age of 18, 5.7% from 18 to 24, 27.3% from 25 to 44, 18.6% from 45 to 64, and 36.3% who were 65 years of age or older. The median age was 33 years. For every 100 females, there were 95.3 males. For every 100 females age 18 and over, there were 91.3 males.<ref>{{cite web|title = American FactFinder – Results|url = http://factfinder.census.gov/bkmk/table/1.0/en/ACS/14_5YR/S0101/1600000US1253000|website = factfinder.census.gov|access-date = January 21, 2016|first = U.S. Census|last = Bureau|archive-url = https://archive.today/20200213095942/http://factfinder.census.gov/bkmk/table/1.0/en/ACS/14_5YR/S0101/1600000US1253000|archive-date = February 13, 2020|url-status = dead}}</ref>
+
+Orlando not only has the largest population of [[Stateside Puerto Ricans|Puerto Ricans]] in Florida, but it is also home to the fastest-growing Puerto Rican community on the mainland US.<ref>{{cite web|url=https://www.npr.org/templates/story/story.php?storyId=105691084 |title=Puerto Ricans Gain Political Clout in Florida |website=NPR.org |publisher=NPR |access-date=November 17, 2012}}</ref> Between 1980 and 2010,<ref>{{cite web |url=http://quickfacts.census.gov/qfd/states/12/1253000.html |title=Orlando (city), Florida |work=State & County QuickFacts |publisher=U.S. Census Bureau |access-date=April 21, 2012 |archive-url=https://web.archive.org/web/20120427151842/http://quickfacts.census.gov/qfd/states/12/1253000.html |archive-date=April 27, 2012 |url-status=dead }}</ref> the overall Latino/Hispanic population in Orlando increased from 4.1 to 25.4%. In addition to Puerto Ricans, [[Cuban American|Cubans]] also have a large presence in the city.<ref>{{cite web|title=Florida – Race and Hispanic Origin for Selected Cities and Other Places: Earliest Census to 1990 |publisher=U.S. Census Bureau |url=https://www.census.gov/population/www/documentation/twps0076/twps0076.html |access-date=April 21, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120812191959/http://www.census.gov/population/www/documentation/twps0076/twps0076.html |archive-date=August 12, 2012}}</ref> Orlando also has a large and growing [[Brazilian American|Brazilian]] population, and is a popular travel destination for many Brazilians. There are Brazilian restaurants and shops located on International Drive and, in addition to [[Spanish language|Spanish]] and [[English language|English]], [[Portuguese language|Portuguese]]-language signs and information can be found throughout [[Orlando International Airport]].
+
+A large [[Caribbean American|Caribbean]] population is also present in Orlando, with a significant [[West Indian American|West Indian]] community (particularly [[Bahamian American|Bahamians]], [[Dominican American|Dominicans]], [[Jamaican American|Jamaicans]], [[Guyanese Americans|Guyanese people]]—of both [[India]]n and [[African people|African]] descent—and [[Trinidadian and Tobagonian American|Trinidadian and Tobagonian]] populations) and an established [[Haitian Americans|Haitian]] community.{{citation needed|date=November 2021}} Orlando has a considerable [[Muslims|Muslim]] population,<ref>{{Cite web |title=Being Muslim in Greater Orlando : Orlando Family Magazine |url=https://www.orlandofamilymagazine.com/index.php/all-articles/being-muslim-in-greater-orlando/ |access-date=December 6, 2023 |language=en}}</ref><ref>{{Cite web |title=Muslim Women's Organization |url=https://www.mwo-orlando.org/ |access-date=December 6, 2023 |website=Muslim Women's Organization |language=en-US}}</ref> and an active [[Jewish people|Jewish]] community as well.<ref>{{cite news|title=The Art of Parenting course offered at JLI|url=http://www.heritagefl.com/story/2015/01/16/news/the-art-of-parenting-course-offered-at-jli/3867.html|agency=Heritage Florida Jewish News|date=January 16, 2015}}</ref><ref>{{cite journal|last1=Sheskin|first1=Ira M.|title=Jewish identity in the sunbelt: the Jewish population of Orlando, Florida|journal=Contemporary Jewry|date=December 1994|volume=15|issue=1|pages=26–38|doi=10.1007/BF02986640|s2cid=147133009| issn = 0147-1694 }}</ref>
+
+Orlando has a large [[LGBT]]+ population and is recognized as one of the most accepting and tolerant cities in the Southeast. {{As of|2015}}, around 4.1% of Orlando's population identify as LGBT+,<ref>{{cite news|url=https://www.nytimes.com/2015/03/21/upshot/the-metro-areas-with-the-largest-and-smallest-gay-population.html|title=The Metro Areas With the Largest, and Smallest, Gay Populations|first1=David|last1=Leonhardt|first2=Claire Cain|last2=Miller|work=The New York Times |date=March 20, 2015|access-date=June 8, 2017|via=NYTimes.com}}</ref> making Orlando the city with the 20th-highest percentage of LGBT residents in the country.<ref>{{cite web |url=http://www.bizjournals.com/orlando/morning_call/2015/03/orlando-has-20th-highest-lgbt-percentage-among.html |title=Orlando has 20th-highest LGBT percentage among largest U.S. metros |work=Orlando Business Journal |last=Barth |first=Cindy |date=March 24, 2015 |access-date=July 29, 2021 }}</ref> The city is host to [[Gay Days at Walt Disney World|Gay Days]] every June (a [[Pride Month]] event at [[Walt Disney World]]),<ref>{{cite web|url=http://www.wdwinfo.com/disney-gay-days.htm|title=Disney Gay Days 2017|website=www.WDWInfo.com|access-date=June 8, 2017}}</ref> holds a huge [[Come Out with Pride|Pride festival and parade]] every October (since 2005), and is home to Florida's first openly gay [[City Commissioner]], Patty Sheehan.<ref>{{Cite web|url=https://beta.orlando.gov/Directory/Mayor-City-Council/Patty-Sheehan/Commissioner-Patty-Sheehan-Biography|title=Commissioner Patty Sheehan Biography|website=beta.orlando.gov|language=en-US|access-date=February 20, 2019}}</ref>
+
+According to the [[National Immigration Forum]], the majority of Orlando's foreign-born population are from Latin America (64.1%): Mexico (35,357), Colombia (30,967), Haiti (29,464); Asia (17.3%): Philippines (13,267), India (12,610), Vietnam (11,407); Europe (12.4%): United Kingdom (14,395), Germany (8,358), Italy (3,302) and Africa (3.0%): Morocco (2,846), Egypt (1,306), South Africa (1,295).<ref>{{cite web|url=https://immigrationforum.org/wp-content/uploads/2015/04/Immigration-2020-Orlando.pdf|title=ORLANDO: AN IMMIGRATION SNAPSHOT}}</ref>
+
+===Languages===
+
+[[File:Orlando-fl.gif|thumb|right|U.S. Census map]]
+As of 2000, 75% of all residents speak English as their [[first language]], while 16.60% speak Spanish, 1.9% speak [[Haitian Creole]], 1.3% speak [[French language|French]], 0.99% speak Portuguese, and 0.5% of the population speak [[Arabic language|Arabic]] as their [[mother language]]. In total, 24% of the population 5 years and older speak a language other than English at home.<ref>{{cite web|url=http://www.mla.org/map_data_results&state_id=12&county_id=&mode=&zip=&place_id=53000&cty_id=&ll=&a=&ea=&order=r |title=Modern Language Association Data Center Results of Orlando, Florida |publisher=MLA.org |date=March 15, 2006 |access-date=November 17, 2012}}</ref>
+
+According to the American Community Survey of 2006–2008, 69% of Orlando's residents over the age of five spoke only English at home. Spanish-speakers represented 19.2% of Orlando's population. Speakers of other [[Indo-European languages]] made up 9% of the city's population. Those who spoke an [[Languages of Asia|Asian language]] made up 1% of the population, and speakers of other languages made up the remaining 0.6% of the populace.<ref>{{cite web |url=http://factfinder.census.gov/servlet/ADPTable?_bm=y&-geo_id=16000US1253000&-qr_name=ACS_2008_3YR_G00_DP3YR2&-ds_name=ACS_2008_3YR_G00_&-_lang=en&-redoLog=false&-_sse=on |title=Orlando city, Florida – Selected Social Characteristics in the United States: 2006–2008 |publisher=Factfinder.census.gov |access-date=November 17, 2012 |archive-url=https://archive.today/20200211182902/http://factfinder.census.gov/servlet/ADPTable?_bm=y&-geo_id=16000US1253000&-qr_name=ACS_2008_3YR_G00_DP3YR2&-ds_name=ACS_2008_3YR_G00_&-_lang=en&-redoLog=false&-_sse=on |archive-date=February 11, 2020 |url-status=dead }}</ref>
+
+===Metropolitan statistical area===
+
+{{Main|Greater Orlando}}
+Orlando is the hub city of the '''[[Greater Orlando|Orlando–Kissimmee–Sanford, Florida Metropolitan Statistical Area]]''', colloquially known as "'''Greater Orlando'''" or "'''Metro Orlando'''". The area encompasses four counties ([[Lake County, Florida|Lake]], [[Orange County, Florida|Orange]], [[Osceola County, Florida|Osceola]], and [[Seminole County, Florida|Seminole]]). As of 2020, the population of the [[metropolitan statistical area]] (MSA) was 2,673,376, making it the third largest in Florida and the [[Metropolitan statistical area|22nd-largest metro area]] in the United States.
+
+When [[Combined Statistical Area]]s (CSA) were instituted in 2000, Orlando was initially joined with [[The Villages, Florida]], Micropolitan Statistical Area, to form the "Orlando-The Villages, Florida, Combined Statistical Area". In 2006, the metropolitan areas of [[Deltona, Florida|Deltona]] ([[Volusia County, Florida|Volusia County]]) and [[Palm Coast, Florida Metropolitan Statistical Area|Palm Coast]] ([[Flagler County, Florida|Flagler County]]) were added to create the "Orlando-Deltona-Daytona Beach, Florida, Combined Statistical Area".<ref>[https://www.whitehouse.gov/omb/bulletins/fy2007/b07-01.pdf] {{webarchive|url=https://web.archive.org/web/20090825135211/http://www.whitehouse.gov/omb/bulletins/fy2007/b07-01.pdf|archive-url=https://web.archive.org/web/20061225095329/http://www.whitehouse.gov/omb/bulletins/fy2007/b07-01.pdf|archive-date=December 25, 2006|url-status=live|date=August 25, 2009}}</ref> As of 2020, the CSA has been renamed the '''Orlando–Lakeland–Deltona, Florida Combined Statistical Area''' and had the [[Combined statistical area|15th highest population]] in the US, with a total of 4,197,095 people.
+
+==Economy==
+
+{{See also|List of Florida companies|List of Orlando companies}}
+[[File:Orange County Convention Center.jpg|thumb|The North/South Concourse of the [[Orange County Convention Center]]]]
+
+===Industry===
+
+Orlando is a major industrial and [[hi-tech]] center. The metro area has a $13.4&nbsp;billion technology industry employing 53,000 people;{{Citation needed|date=May 2011}} and is a nationally recognized cluster of innovation in digital media, agricultural technology, aviation, aerospace, and software design. More than 150 international companies, representing approximately 20 countries, have facilities in Metro Orlando.
+
+Orlando has the 7th-largest research park in the country, [[Central Florida Research Park]], with over {{convert|1025|acre|km2}}. It is home to over 120 companies, employs more than 8,500 people, and is the hub of the nation's military simulation and training programs. Near the end of each year, the [[Orange County Convention Center]] hosts the world's largest modeling and simulation conference: [[Interservice/Industry Training, Simulation and Education Conference|Interservice/Industry Training, Simulation and Education Conference (I/ITSEC)]]. Metro Orlando is home to the simulation procurement commands for the U.S. Army, Navy, Air Force, Marines and Coast Guard.
+
+[[Lockheed Martin]] has a large manufacturing facility for missile systems, aeronautical craft and related high-tech research. Other notable engineering firms have offices or labs in Metro Orlando: KDF, [[General Dynamics]], [[Harris Corporation|Harris]], [[Mitsubishi|Mitsubishi Power Systems]], [[Siemens]], [[Veritas Technologies|Veritas]]/[[NortonLifeLock|Symantec]], multiple [[United States Air Force]] facilities, [[Naval Air Warfare Center Training Systems Division]], [[Delta Connection]] Academy, [[Embry–Riddle Aeronautical University]], [[General Electric]], [[Air Force Agency for Modeling and Simulation]], U.S. Army Program Executive Office for Simulation, Training, and Instrumentation (PEO STRI), [[United States Army Research, Development and Engineering Command]], [[United States Army Simulation and Training Technology Center]], [[AT&T]], [[Boeing]], CAE Systems Flight and Simulation Training, [[Hewlett-Packard]], Institute for Simulation and Training, [[National Center for Simulation]], [[Northrop Grumman]] and [[Raytheon]]. The Naval Training Center until a few years ago was one of the two places where nuclear engineers were trained for the [[United States Navy]]. Now the land has been converted into the Baldwin Park development. Numerous office complexes for large corporations have popped up along the [[Interstate 4]] corridor north of Orlando, especially in [[Maitland, Florida|Maitland]], [[Lake Mary, Florida|Lake Mary]] and [[Heathrow, Florida|Heathrow]].
+
+Orlando is close enough to [[Patrick Space Force Base]], [[Cape Canaveral Space Force Station]], and [[Kennedy Space Center]] for residents to commute to work from the city's suburbs. It also allows easy access to [[Port Canaveral]], a [[cruise ship]] terminal.
+
+Orlando is the home base of [[Darden Restaurants]], the parent company of [[Olive Garden]] and [[LongHorn Steakhouse]], and the largest operator of casual dining restaurants in the world by revenue. In September 2009 it moved to a new headquarters and central distribution facility.<ref>{{cite web |url=http://www.orlandosentinel.com/business/orl-darden-headquarters-orlando-opens-092609,0,4594693.story |title=Darden headquarters to open Wednesday in Orlando |work=Orlando Sentinel |date=September 26, 2009 |access-date=November 17, 2012 |archive-url=https://web.archive.org/web/20100211231926/http://www.orlandosentinel.com/business/orl-darden-headquarters-orlando-opens-092609,0,4594693.story |archive-date=February 11, 2010 |url-status=dead }}</ref>
+
+Former Darden Restaurants subsidiary [[Red Lobster]] is based in [[Downtown Orlando]].
+
+===Film, television, and entertainment===
+
+Another important sector is the film, television, and electronic gaming industries, aided by the presence of [[Universal Studios Florida|Universal Studios]], [[Disney's Hollywood Studios]], [[Full Sail Real World Education|Full Sail University]], [[University of Central Florida College of Arts and Humanities|UCF College of Arts and Humanities]], the [[Florida Interactive Entertainment Academy]], and other entertainment companies and schools. The U.S. [[Institute for Simulation and Training|modeling, simulation, and training]] (MS&T) industry is centered on the Orlando region as well, with a particularly strong presence in the [[Central Florida Research Park]] adjacent to [[University of Central Florida]] (UCF). Nearby Maitland is the home of Tiburon, a division of the video game company [[Electronic Arts]]. Tiburon Entertainment was acquired by EA in 1998 after years of partnership, particularly in the [[Madden NFL]] series and [[NCAA Football series]] of video games. Nearby [[Full Sail University]], located in [[Winter Park, Florida|Winter Park]], draws new-media students in the areas of video game design, film, show production, and computer animation, among others, its graduates spawning several start-ups in these fields in the Orlando area. The headquarters of Ripley Entertainment Inc. are also located in Orlando.
+
+===Healthcare===
+[[File:Nemours-childrens-hospital-florida.jpg|thumb|[[Nemours Children's Hospital, Florida|Nemours Children's Hospital]] located in [[Lake Nona Medical City]], a rapidly growing healthcare hub<ref>Vatner, Jonathan. [https://www.nytimes.com/2010/09/08/realestate/08medical.html "Orlando's Newest Attraction Is Medical"], ''[[The New York Times]]'', September 7, 2010. Accessed April 7, 2024.</ref>]]
+Orlando has two non-profit hospital systems: [[Orlando Health]] and [[AdventHealth]]. Orlando Health's [[Orlando Regional Medical Center]] is home to Central Florida's only Level I [[trauma center]], and [[Winnie Palmer Hospital for Women and Babies]] and [[AdventHealth Orlando]] have the area's only Level III [[neonatal intensive care unit]]s. Orlando's medical leadership was further advanced with the completion of [[University of Central Florida]]'s College of Medicine, a new [[Veterans Health Administration|VA Hospital]] and the new [[Nemours Children's Hospital, Florida|Nemours Children's Hospital]], which is located in a new medical district in the [[Lake Nona Medical City|Lake Nona]] area of the city.<ref>{{cite news|url=http://www.local6.com/news/11154722/detail.html |title=Lake Nona Is Site of New VA Hospital |date=March 2, 2007 |publisher=[[Internet Broadcasting Systems]]/[[WKMG-TV]] |access-date=July 15, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20090212095036/http://www.clickorlando.com/news/11154722/detail.html |archive-date=February 12, 2009 }}<br />{{cite web|title=Nemours Children's Hospital, Orlando |url=http://www.nemours.org/about/location/nchorlando.html |publisher=Nemours Foundation |access-date=November 18, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20111017101851/http://nemours.org/about/location/nchorlando.html |archive-date=October 17, 2011 }}</ref>
+
+===Housing and employment===
+
+Historically, the unemployment rate in Greater Orlando was low, which resulted in growth that led to [[urban sprawl]] in the surrounding area and, in combination with the [[United States housing bubble]], to a large increase in home prices. Metro Orlando's unemployment rate in June 2010 was 11.1 percent, was 11.4 percent in April 2010, and was about 10 percent in about the same time of year in 2009.<ref>Stratton, Jim. [https://archive.today/20120913021607/http://www.orlandosentinel.com/news/local/breakingnews/os-florida-jobless-rate-may-20100618,0,2950269.story "Florida jobless rate drops to 11.7 percent"], ''Orlando Sentinel'', June 18, 2010.</ref> As of August 2013, the area's jobless rate was 6.6 percent.<ref>{{cite news|last=Stratton |first=Jim |url=https://www.orlandosentinel.com/2013/09/20/florida-unemployment-rate-falls-to-7-percent/ |title=Florida unemployment rate falls to 7 percent |newspaper=[[Orlando Sentinel]] |date=September 20, 2013 |access-date=October 27, 2015}}</ref> Housing prices in Greater Orlando went up 37.08% in one year, from a median of $182,300 in November 2004 to $249,900 in November 2005, and eventually peaked at $264,436 in July 2007. From there, with the economic meltdown, prices plummeted, with the median falling below $200,000 in September 2008, at one point falling at an annual rate of 39.27%. The median dipped below $100,000 in 2010 before stabilizing around $110,000 in 2011. As of April 2012, the median home price is $116,000.<ref>"[https://web.archive.org/web/20120117074221/http://www.orlrealtor.com/resource/resmgr/statistics_reports/orlando8yearhistory.pdf Metropolitan Orlando Housing Trends Summary]." ''Orlando Regional Realtor Association.'' May 9, 2012. Retrieved on My 17, 2012.</ref>
+
+===Tourism===
+
+{{See also|List of amusement parks in Central Florida|List of Orlando, Florida attractions}}
+[[File:Cinderella Castle October 1.jpg|thumb|upright|[[Cinderella Castle]] at the [[Magic Kingdom]], [[Walt Disney World]]]] One of the main driving forces in Orlando's economy is its tourism industry and the city is one of the leading tourism destinations in the world. Nicknamed the 'Theme Park Capital of the World', the Orlando area is home to [[Walt Disney World]], [[Universal Orlando]], [[SeaWorld Orlando]], [[Legoland Florida]] and [[Fun Spot America]] Theme Parks. A record 75&nbsp;million visitors came to the Orlando region in 2018, making it the top tourist destination in the United States.<ref>{{cite news|last=Santana|first=Marco|title=Surge in Latin American visitors push Visit Orlando tourism to record in 2018|work=Orlando Sentinel|date=May 9, 2019|url=https://www.orlandosentinel.com/business/os-bz-visit-orlando-attendance-numbers-20190509-7h4lodd7cffhnh6r6xmw7hbnw4-story.html|access-date=May 19, 2019}}</ref>
+
+The Orlando area features 7 of the 10 most visited [[theme park]]s in North America (5 of the top 10 in the world), as well as the 4 most visited [[water park]]s in the U.S.<ref>[http://www.teaconnect.org/sites/default/files/misc/files/2012_theme_index_combined_1-3_online.pdf 2012 TEA AECOM Themed Index] {{webarchive|url=https://web.archive.org/web/20131127000255/http://teaconnect.org/sites/default/files/misc/files/2012_theme_index_combined_1-3_online.pdf |archive-url=https://web.archive.org/web/20130817034333/http://teaconnect.org/sites/default/files/misc/files/2012_theme_index_combined_1-3_online.pdf |archive-date=August 17, 2013 |url-status=live |date=November 27, 2013 }}.'' '', May 23, 2014</ref> The Walt Disney World resort is the area's largest attraction with its many facets such as the [[Magic Kingdom]], [[Epcot]], [[Disney's Hollywood Studios]], [[Disney's Animal Kingdom]], [[Disney's Typhoon Lagoon]], [[Disney's Blizzard Beach]] and [[Disney Springs]]. [[Universal Orlando]], like Walt Disney World, is a multi-faceted resort comprising [[Universal Studios Florida]], [[Universal Islands of Adventure]], [[Universal Volcano Bay]], [[Universal CityWalk Orlando|Universal CityWalk]], and the soon to be [[Universal Epic Universe|Epic Universe]]. [[SeaWorld Orlando]] is a large park that features numerous zoological displays and marine animals alongside an amusement park with roller coasters like [[Mako (roller coaster)|Mako]], [[Manta (SeaWorld Orlando)|Manta]], and [[Kraken (roller coaster)|Kraken]]. The property also comprises more than one park, alongside [[Aquatica Orlando|Aquatica water park]] and [[Discovery Cove]]. [[Fun Spot America Theme Parks|Fun Spot Orlando]] and [[Fun Spot America Theme Parks|Kissimmee]] are more typical amusement parks with big thrills in a small space with roller coasters like [[White Lightning (roller coaster)|White Lightning]] and [[Freedom Flyer]] in Orlando and [[Mine Blower]] and [[Fun Spot America Theme Parks|Rockstar Coaster]] in Kissimmee. Orlando is also home to I-Drive 360 on [[International Drive]] home to The Wheel at ICON Park, [[Madame Tussauds]], and [[Sea Life Centres|Sealife Aquarium]]. Orlando attractions also appeal to many locals who want to enjoy themselves close to home.
+
+The convention industry is also critical to the region's economy. The [[Orange County Convention Center]], expanded in 2004 to over {{convert|2|e6ft2|m2|spell=in}} of exhibition space, is now the second-largest convention complex in terms of space in the United States, trailing only [[McCormick Place]] in Chicago. The city vies with Chicago and [[Las Vegas]] for hosting the most convention attendees in the United States.<ref>Bergen, Kathy.  [http://www.hotel-online.com/News/PR2003_3rd/Sep03_ChicagoConventions.html Las Vegas and Orlando Bruising Chicago's Trade Show Business] {{Webarchive|url=https://web.archive.org/web/20110918112510/http://www.hotel-online.com/News/PR2003_3rd/Sep03_ChicagoConventions.html |date=September 18, 2011 }}.  ''The [[Chicago Tribune]]'', September 11, 2003</ref> Major events at the venue include the annual [[IAAPA]] theme park trade show and the large multigenre fan convention, [[MegaCon]].
+
+====Golf====
+
+Numerous golf courses can be found in the city, with the most famous<ref>{{Cite web|title=Orlando Golf Courses {{!}} Find Private & Public Golf Courses|url=https://www.visitorlando.com/en/things-to-do/sports-and-recreation-outdoors/golf?page=1|access-date=June 19, 2020|website=www.visitorlando.com|language=en}}</ref> being [[Bay Hill Club and Lodge]], home to the [[Arnold Palmer Invitational]].
+
+==Culture==
+
+===Film===
+
+In the mid-to-late 1990s, Orlando was known as "Hollywood East" because of numerous film production studios in the area, although such activity has slowed down considerably into the 2000s. Perhaps the most famous film-making moment in the city's history occurred with the implosion of Orlando's previous City Hall for the movie ''[[Lethal Weapon 3]]''. The same year, Orlando native [[Wesley Snipes]] starred in the film ''[[Passenger 57]]'', which was shot predominantly in his hometown. For the next decade, Orlando was production center for television shows, direct-to-video productions, and commercial production.<ref>"What Happened to Hollywood East?" ''Southwest Orlando Bulletin'', July 17, 2004</ref> In 1997, Walt Disney Feature Animation operated a studio in [[Disney's Hollywood Studios]] in [[Walt Disney World]]. The feature animation studio produced the films ''[[Mulan (1998 film)|Mulan]]'', ''[[Lilo & Stitch]]'', and the early stages of ''[[Brother Bear]]'', but shutdown in 2004 due to the company's newfound focus on [[computer animation]].<ref>{{cite web | url=http://www.filmbuffonline.com/News/2003-2004/DisneyClosesStudio.htm | title=Disney Closes Florida Animation Studio }}</ref> [[Universal Studios Florida]]'s [[Soundstage 21]] is home to [[Total Nonstop Action Wrestling|TNA Wrestling]]'s flagship show [[TNA Impact!]]. Nickelodeon Studios, which through the 1990s produced hundreds of hours of GAK-filled game shows targeted at children,{{Citation needed|date=May 2011}} no longer operates out of Universal Studios Florida. In the 2000s–2020s, [[entertainment industry|entertainment]] related operations have predominantly consolidated the city's tourism-related businesses — namely events, concerts, hotels, and [[trade shows]].<ref>{{cite web | url=https://www.orlandoweekly.com/news/lawmakers-debate-repealing-floridas-film-and-entertainment-office-33799186 | title=Lawmakers debate repealing Florida's film and entertainment office }}</ref>
+
+The [[Florida Film Festival]], which takes place in venues throughout the area, is one of the most respected regional film festivals in the country and attracts budding filmmakers from around the world. Orlando's [[indie film]] scene has been active since Haxan Film's ''[[The Blair Witch Project]]'' (1999) and a few years later with [[Charlize Theron]] winning her [[Academy Award]] for ''[[Monster (2003 film)|Monster]]'' (2003). A Florida state film incentive has also helped increase the number of films being produced in Orlando and the rest of the state.
+
+===Theater and performing arts===
+[[File:Dr. Phillips Center Pics 03.jpg|thumb|right|[[Dr. Phillips Center for the Performing Arts|Dr. Phillips Center]]]]
+The Orlando Metropolitan Area is home to a substantial theater population. Several professional and semi-professional houses and many community theaters include the Central Florida Ballet, Orlando Ballet, [[Orlando Shakespeare Theater]], Opera Orlando, Orlando Family Stage, and IceHouse Theatre in [[Mount Dora, Florida|Mount Dora]]. [[Orlando Theatre Project]], closed in 2009. Additionally, both [[University of Central Florida]] and [[Rollins College]] (Winter Park) are home to theater departments that attract an influx of young artists to the area.
+
+The [[Bob Carr Performing Arts Centre]] had hosted national Broadway tours on a regular basis. This venue was built in 1926 and underwent a major renovation in 1974.<ref>{{cite web|url=http://www.cityoforlando.net/venues/bob-carr/ |title=Bob Carr Performing Arts Centre |work=City of Orlando Venues |url-status=dead |archive-url=https://web.archive.org/web/20140924093846/http://www.cityoforlando.net/venues/bob-carr/ |archive-date=September 24, 2014 }}</ref> The Bob Carr has since closed due to the 2020 COVID-19 pandemic and has yet to host a show since February 2020. While waiting on the completion of Phase II construction of the [[Dr. Phillips Center for the Performing Arts]], the newly designated Bob Carr Theater will continue to host non-Broadway events.<ref>{{cite web |title=Dr. Phillips Center's 3-month-out update |url=http://www.mynews13.com/content/news/cfnews13/on-the-town/article.html/content/news/articles/cfn/2014/7/30/dr_phillips_center_s.html |url-status=dead |archive-url=https://web.archive.org/web/20160122213411/http://www.mynews13.com/content/news/cfnews13/on-the-town/article.html/content/news/articles/cfn/2014/7/30/dr_phillips_center_s.html |archive-date=January 22, 2016 |access-date=September 23, 2014 |work=News 13: Spectrum News}}</ref>
+
+The [[Orlando International Fringe Theater Festival]], which draws touring companies from around the world, is hosted in various venues over Orlando's Loch Haven Park every spring. At the festival, there are also readings and fully staged productions of new and unknown plays by local artists.<ref>{{cite web|url=http://orlandofringe.org/ |title=2010 Orlando Fringe Festival &#124; Orlando International Fringe Theatre Festival |publisher=Orlandofringe.org |access-date=November 17, 2012}}</ref> Also in the spring, there is The Harriett Lake Festival of New Plays, hosted by Orlando Shakespeare Theater.<ref>{{cite web|url=http://www.vroomvroomvroom.com.au/playfest/ |title=Playfest! The Harriet Lake Festival of New Plays |publisher=Vroomvroomvroom.com |access-date=March 19, 2014}}</ref> Founded in 2002, the Orlando Cabaret Festival showcases local, national, and internationally renowned cabaret artist to Mad Cow Theatre in [[Downtown Orlando]] each spring.<ref>{{cite web |url=http://www.orlandocabaret.com/InDash_Display.aspx?PGID=164 |title=About Us – Orlando Cabaret Festival |publisher=Orlandocabaret.com |access-date=November 17, 2012 |archive-url=https://web.archive.org/web/20130508133313/http://www.orlandocabaret.com/InDash_Display.aspx?PGID=164 |archive-date=May 8, 2013 |url-status=dead }}</ref>
+
+Classical Music and Music Theater are also represented. Orlando has two professional orchestras – the Orlando Symphony Orchestra, which was founded in 1991 when the Central Florida Friends of Music reorganized, and the [[Orlando Philharmonic Orchestra]], founded in 1993, the second of which also serves as the orchestra for productions of Opera Orlando, which developed when the Florida Opera Theater, founded in 2009, reorganized in 2016.
+
+===Literary arts===
+[[File:Regional History Center in Orlando.JPG|thumb|[[Orange County Regional History Center]]]]
+The indie literary presses [https://burrowpress.com/ Burrow Press] and [https://www.autofocuslit.com/about Autofocus] are based in Orlando. There is also a large concentration of slam poets and poetry events in and around the metro area which has led to the city being dubbed Litlando. This name is fitting as [https://myfloridahistory.org/frontiers/article/13#:~:text=Some%20people%20believe%20that%20Speer,Like%20It%E2%80%9D%20is%20named%20Rosalind. legend goes] that the city's name and Rosalind Avenue in downtown Orlando were taken from characters from the Shakespeare play "[[As You Like It]]" while Lake Ivanhoe was named after the namesake character from the 1820 book, [[Ivanhoe]], by Walter Scott.
+
+===Music and local culture===
+[[File:MetroWest Village fountain.jpg|thumb|Replica of the [[Horses of Saint Mark]] in [[Venice]], Italy at the entrance of [[MetroWest (Orlando)|MetroWest]]]]
+Orlando is home to numerous recording studios and producers, and as a result, contributed heavily to the [[boyband]] craze of the mid-1990s. The groups [[Backstreet Boys]], [[N Sync]], and [[O-Town]] were each formed in Orlando prior to their mainstream commercial breakthroughs. The alternative rock groups [[Matchbox Twenty]], [[Seven Mary Three]], and [[Alter Bridge]] hail from Orlando, as well as the Christian hip hop act [[Group 1 Crew]]. Orlando also has a prominent metal scene, spawning bands such as [[Death (metal band)|Death]] and [[Trivium (band)|Trivium]]. There are also [[hip hop music]], [[heavy metal music|metal]], rock music, [[reggaeton]] and Latino music scenes that have all been active within the city.
+
+A substantial amount of the teenage and young adult populations identify as being [[Goth subculture|goth]], [[emo]], or [[Punk subculture|punk]].<ref name="Darker Side of Orlando">{{cite web|url=http://articles.orlandosentinel.com/2013-08-08/entertainment/os-tod-caviness-thee-grotto-20130808_1_downtown-orlando-grotto-darker-side|archive-url=https://web.archive.org/web/20130810225700/http://articles.orlandosentinel.com/2013-08-08/entertainment/os-tod-caviness-thee-grotto-20130808_1_downtown-orlando-grotto-darker-side|url-status=dead|archive-date=August 10, 2013|title=Thee Grotto carves out dance floor space in downtown Orlando|work=tribunedigital-orlandosentinel}}</ref>{{failed verification|date=October 2019}} Orlando experienced its own [[Second Summer of Love]] between 1991 and 1992 that popularized the subculture surrounding [[electronic dance music]] in Florida.<ref name="Kelemen1998">{{cite web |url=http://www.orlandoweekly.com/orlando/the-florida-winter-had-ju/Content?oid=2259479 |title=Wizards of Aahz: The Florida winter had ju... |last1= Kelemen |first1=Matt |date=September 2, 1998 |website=orlandoweekly.com |publisher=The Orlando Weekly |access-date=November 30, 2015 |quote=Collins could not be aware of it at the time, but those Saturday nights – eventually known as "Aahz"-- would kick-start an underground culture and spawn countless DJ careers. Orlando would never be the same...By 1991–1992, Orlando experienced its own "summer of love" through the culture that sprang up around the weekend acid-house nights at the Beacham Theatre presided over by Collins and Dave Cannalte, and nurtured by Beacham promoter StaceBass...only New York, San Francisco and L.A. had similar scenes, and they were characterized by warehouse parties. Orlando had a headquarters in the heart of its downtown district...From then on the crowds would refer to the Beacham as "Aahz" no matter what the owners called it.}}</ref><ref>{{Cite magazine |last=Spanos |first=Brittany |author-link=Brittany Spanos |date=March 23, 2018 |title='N Sync vs. Backstreet Boys: Remembering Their Fierce Boy-Band Rivalry |url=https://www.rollingstone.com/music/music-features/n-sync-vs-backstreet-boys-remembering-the-nineties-definitive-boy-band-rivalry-204787/ |access-date=March 14, 2022 |magazine=Rolling Stone |language=en-US}}</ref> Over the years, the intensity of the music increased. In the late 1990s, [[Skrape]], a metal band, was established, shortly followed by the [[screamo]] band [[From First to Last]] as well as the [[alternative metal]] band [[Fireflight]].{{citation needed|date=October 2019}} In the early 2000s, the heavy metal bands [[Trivium (band)|Trivium]] and [[Mindscar]] formed.{{citation needed|date=October 2019}} In the later 2000s, more screamo bands, such as [[Blood on the Dance Floor (duo)|Blood on the Dance Floor]], [[Sleeping with Sirens]], and [[Broadway (band)|Broadway]] were established.<ref name="From First to Last Origins">{{cite web|url=http://www.epitaph.com/artists/artist/147/From_First_To_Last|title=From First To Last|author=Epitaph Records|date=March 21, 2006|work=Epitaph Records}}</ref>{{failed verification|date=October 2019}} The [[Vans Warped Tour]], a concert containing metalcore/screamo/punk bands, takes place in Orlando annually.<ref name="Vans Warped Tour 2014">{{cite web|url=http://www.last.fm/festival/3741494+The+Vans+Warped+Tour+2014|title=The Vans Warped Tour 2014|work=last.fm}}</ref>{{failed verification|date=October 2019}} The [[American Awesome Alliance]] post-hardcore band formed in 2012.<ref>{{cite web|author=Lee Dyess |url=http://www.allmusic.com/artist/lee-dyess-mn0000241759/credits |title=Lee Dyess &#124; Credits |publisher=AllMusic |date= |access-date=August 19, 2015}}</ref>
+
+Sprawling [[urban contemporary|urban]] developments have led a number of [[hip hop music|hip hop]] artists from Orlando to garner mainstream recognition and sign with major labels, most notably [[Tyla Yaweh]] (signed to [[Epic Records]]), [[Hotboii]] (signed to [[Interscope Records]]) and [[9lokkNine]] (signed to [[Cash Money Records]]). The 2019 [[single (music)|single]], "[[223's]]" by [[YNW Melly]] and 9lokkNine, marked the first US [[Billboard Hot 100|''Billboard'' Hot 100]] entry of an 
+Orlando-based hip hop act.<ref>{{cite web | url=https://www.respectmyregion.com/rappers-orlando/ | title=3 Rappers from Orlando You Need to Have on Your Radar | date=September 18, 2021 }}</ref><ref>https://genius.com/who-is-19-year-old-orlando-rapper-9lokknine-with-viral-hits-223-s-10-percent-crayola{{dead link|date=August 2024}}</ref>
+
+Gaming YouTuber [[Dream (YouTuber)|Dream]] is based in Orlando. He has accumulated 40 million combined subscribers and signed a recording deal with [[Republic Records]] in 2023.<ref>{{cite web | url=https://www.sportskeeda.com/amp/esports/news-the-timing-immaculate-dream-gives-fans-heads-up-informs-hurricane-impeding-face-reveal-plans | title="The timing is immaculate" – Dream gives fans a heads-up, informs of hurricane impeding his face reveal plans | date=September 28, 2022 }}</ref>
+
+===Shopping malls===
+[[File:Millenia Mall 02.JPG|thumb|[[The Mall at Millenia]]]]
+* [[The Mall at Millenia]] is a contemporary two-level upscale shopping mall, including the department stores of [[Bloomingdale's]], [[Macy's]], and [[Neiman Marcus]]. The mall covers an area of {{convert|1.118|e6ft2|m2}}. [[IKEA]] Orlando opened adjacent to the mall on November 14, 2007.
+* [[Orlando Fashion Square]] is located on East Colonial Drive, near [[Downtown Orlando]]. Seritage Growth Properties (NYSE: SRG) is planning a late-summer 2017 completion of a major renovation that will welcome new shops and restaurants to the East Colonial Drive area.
+* [[Orlando International Premium Outlets]] is an outdoor outlet mall with over 180 stores.
+
+====Lifestyle centers====
+* [[Universal CityWalk#Universal CityWalk Orlando|Universal CityWalk]] is an entertainment and retail district located at the entrance of [[Universal Studios Florida]]. CityWalk originally began as an expansion at Universal's first park in [[Universal Studios Hollywood]]. CityWalk Orlando opened in February 1999 as one major component of the expansion that transformed Universal Studios Florida into the [[Universal Orlando|renowned resort]] it is today.
+
+===In popular culture===
+
+The films ''[[Miami Connection]]'', ''[[Ernest Saves Christmas]]'', ''[[Larry the Cable Guy: Health Inspector]]'', ''[[Never Back Down]]'', and ''[[The Florida Project]]'' take place in and were filmed entirely in Orlando. The novel ''[[Paper Towns (novel)|Paper Towns]]'' takes place in the city, but the [[Paper Towns (film)|film adaptation]] was shot in [[North Carolina]]. Establishing shots were filmed around Orlando; notably in downtown and along Orange Blossom Trail. ''[[Geostorm]]'' has a scene where Orlando is destroyed by a lightning storm. However, those scenes were filmed in [[New Orleans]]. ''[[Parenthood (film)|Parenthood]]'' was filmed entirely in Orlando, but takes place in St. Louis. ''[[D.A.R.Y.L.]]'' was partially filmed in Orlando; notably the climactic chase scene takes place in downtown Orlando along State Road 408 (East/West Expressway).{{citation needed|date=December 2018}} Scenes were also filmed for ''[[Transformers: Dark of the Moon]]'' at the [[Orlando International Airport]] in early October 2010.<ref>{{Cite web|url=http://www.wftv.com/news/25239061/detail.html|archive-url=https://web.archive.org/web/20101003111357/http://www.wftv.com/news/25239061/detail.html|url-status=dead|archive-date=October 3, 2010|title='Transformers 3' Begins Filming in Central Fla. – News Story – WFTV Orlando|date=October 3, 2010|access-date=December 12, 2018}}</ref> Orlando is also the city very prominently featured in the [[American Broadcasting Company|ABC]] sitcom ''[[Fresh Off the Boat]]''. Though set in [[Louisiana]], filming for ''[[Passenger 57]]'' took place in [[Wesley Snipes]]' hometown of Orlando, Florida, with [[Orlando-Sanford International Airport]] standing in for "Lake Lucille" airport.<ref>{{Cite web|url=http://www.imdb.com/title/tt0105104/locations|title=Passenger 57 (1992) – IMDb|via=www.imdb.com}}{{unreliable source?|date=July 2021}}</ref> The airport's former combination main hangar and control tower from its time as [[Naval Air Station Sanford]] was used for many key scenes just prior to its demolition after filming.<ref>{{cite web |url=http://www.orlandoweekly.com/Blogs/archives/2014/06/27/location-matters-the-orlando-sanford-airport-from-passenger-57 |archive-url=https://web.archive.org/web/20141222063843/http://www.orlandoweekly.com/Blogs/archives/2014/06/27/location-matters-the-orlando-sanford-airport-from-passenger-57 |url-status=dead |archive-date=December 22, 2014 |title=Location Matters: the Orlando Sanford Airport from 'Passenger 57' |work=Orlando Weekly |last=Greene |first=James Jr. |date=June 27, 2014 |access-date=July 29, 2021 }}</ref> Various scenes from ''[[Monster (2003 film)|Monster]]'', set in [[Daytona Beach]], were also filmed in the Orlando, [[Winter Park, Florida]] and [[Kissimmee]] areas.<ref>{{Cite web|url=https://news.orlando.org/blog/13-movies-you-didnt-know-were-filmed-in-orlando-and-where-to-watch-them/|title=13 Movies You Didn't Know Were Filmed in Orlando|date=June 27, 2018|website=Orlando Economic Partnership}}</ref>
+
+==Sports==
+{{Main|Sports in Orlando, Florida}}
+
+[[File:AmwayCenterCourt.JPG|right|thumb|[[Kia Center]] (formerly '''"Amway Center"''') is an [[indoor arena]], which is the home of the [[Orlando Magic]] of the [[National Basketball Association|NBA]], the [[Orlando Solar Bears (ECHL)|Orlando Solar Bears]] of the [[ECHL]] and the [[Orlando Predators (NAL)|Orlando Predators]] of the [[National Arena League]]. Pictured is the Kia Center in its basketball-venue arrangement, after hosting the Magic's first NBA regular season game of the [[2010–11 Orlando Magic season|2010-11 season]]]]
+[[File:Orlando City Stadium (04-21-18) 1.jpg|thumb|[[Inter&Co Stadium]], is a [[soccer-specific stadium]], which is the home of the [[Orlando City SC]] of the [[Major League Soccer]] (MLS) and  the [[Orlando Pride]] of the [[National Women's Soccer League]] (NWSL). Pictured is the Orlando City SC as it hosts against the [[San Jose Earthquakes]] on April 21, 2018]]
+
+Orlando is the home city of two major league professional sports teams: the [[Orlando Magic]] of the [[National Basketball Association]] (NBA), and [[Orlando City SC]] of [[Major League Soccer]] (MLS).
+
+Orlando has three minor league professional teams: the [[Orlando Solar Bears (ECHL)|Orlando Solar Bears]] [[ECHL]] [[ice hockey]] team, the [[Orlando Predators (NAL)|Orlando Predators]] of the [[National Arena League]] (NAL), and the [[Orlando Anarchy]] of the [[Women's Football Alliance]].
+
+The original [[Orlando Solar Bears (IHL)|Orlando Solar Bears]] were part of the [[International Hockey League (1945–2001)|International Hockey League]] winning the last [[Turner Cup]] championship in 2001, before the league folded. From 1991 to 2016, the city was also home to the [[Orlando Predators]] of the [[Arena Football League]]. Orlando was home to the [[Orlando Renegades]] of the [[United States Football League]] in 1985. The team folded along with the league in 1986.<ref>{{cite web|title = USFL.info – Orlando Renegades|url = http://www.usfl.info/renegades/|website = www.usfl.info|access-date = December 25, 2015|archive-url = https://web.archive.org/web/20151208022919/http://www.usfl.info/renegades/|archive-date = December 8, 2015|url-status = dead|df = mdy-all}}</ref>
+
+In 2016, the [[Orlando Pride]] began to play in the [[National Women's Soccer League]]. Starting in 2017, they shared Inter&Co Stadium with Orlando City SC.
+
+Orlando's sports teams have collectively won two [[Arena Bowl]]s (1998, 2000), two titles in ice hockey, three titles in [[minor league baseball]], and two titles in soccer.
+
+The city has hosted the [[NBA All-Star Game]] twice: in [[1992 NBA All-Star Game|1992]] at the old [[Orlando Arena]], and in [[2012 NBA All-Star Game|2012]] at the current [[Kia Center]]. Orlando also hosted the 2015 ECHL All-Star Game at Kia Center.
+
+Orlando also hosts the [[University of Central Florida]] (UCF) [[UCF Knights|Knights]] college athletics teams, which compete in [[NCAA Division I|Division I]] of the [[National Collegiate Athletic Association]] (NCAA) as a member of the [[Big 12 Conference]] (Big 12 Conference).
+
+[[Camping World Stadium]] (the former Citrus Bowl stadium) hosts two annual college football [[bowl game]]s: the [[Citrus Bowl (game)|Citrus Bowl]] and the [[Pop-Tarts Bowl]]. It also hosted the [[1998 MLS All-Star Game|1998 Major League Soccer All-Star Game]]. Orlando is the host city for the annual [[Florida Classic]], one of the largest [[NCAA Division I Football Championship Subdivision|FCS]] football classics in the nation. It also began hosting the [[National Football League]]'s [[Pro Bowl]], as well as a series of [[NCAA Division I Football Bowl Subdivision|FBS]] kickoff games called the [[Orlando Kickoff]], in 2016.
+
+Inter&Co Stadium, home of the Orlando City Soccer Club and Orlando Pride, also hosts one FBS college bowl game, The [[Cure Bowl]], and hosted the [[2019 MLS All-Star Game]].
+
+Orlando is home to many notable athletes former and present, including baseball players [[Carlos Peña]], [[Frank Viola]], [[Ken Griffey Jr.]] and [[Barry Larkin]]; basketball players [[Shaquille O'Neal]] and [[Tracy McGrady]]; soccer players [[Alex Morgan]], [[Marta (footballer)|Marta]], [[Nani (footballer)|Nani]] and [[Kaká]]; and golfers, including [[Tiger Woods]], [[Mark O'Meara]] and [[Arnold Palmer]].{{citation needed|date=June 2017}}
+
+The annual [[Community Effort Orlando]] (CEO) is the second-biggest [[fighting game]] tournament of the country. Having grown since its introduction in 2010, the event got over 4,000 attendees from more than 25 countries in 2016.<ref>{{cite web|url=http://www.bizjournals.com/orlando/news/2016/06/01/3-new-things-coming-to-orlandos-biggest-video-game.html|work=[[Orlando Business Journal]]|title=3 new things coming to Orlando's biggest video game tournament|last=Richardson|first=Matthew|date=June 1, 2016}}</ref><ref>{{cite web|url=http://www.redbull.com/us/en/esports/stories/1331802322815/community-effort-orlando-is-what-it-sounds-like|work=[[Red Bull GmbH|Red Bull]]|title=Community Effort Orlando is What it Sounds Like|last=Alphonse|first=Craig|date=June 23, 2016}}</ref>
+
+In 2020, the remaining games of the [[2019–20 NBA season]] were arranged to be played in the [[2020 NBA Bubble|NBA Bubble]] at the [[ESPN Wide World of Sports Complex]] in the Orlando suburb [[Bay Lake, Florida]].<ref>{{Cite web|url=http://www.nba.com/article/2020/06/04/bog-approves-22-team-season-restart|title=NBA Board of Governors approves 22-team restart of 2019–20 season|first=Tim|last=Reynolds|agency=Associated Press|website=NBA.com}}</ref>
+
+The following are the major professional sports teams in the Orlando metropolitan area:
+
+{| class="wikitable sortable"
+|-
+|+ Professional sports teams
+|-
+!Club
+!Sport
+!League
+!Venue
+!Average attendance
+!Founded
+!Titles
+|-
+| [[Orlando Magic]]
+| [[Basketball]]
+| style="text-align:center;"| [[National Basketball Association|NBA]]
+| [[Kia Center]]
+| align=center | 16,785
+| align=center | 1989
+| align=center | 0
+|-
+| [[Orlando City SC]]
+| [[Association football|Soccer]]
+| style="text-align:center;" | [[Major League Soccer|MLS]]
+| [[Inter&Co Stadium]]
+| align=center | 20,404<ref>{{Cite web |title=MLS attendance 2023 – Orlando City SC |url=https://www.orlandocitysc.com/stadium/ |date=May 1, 2023 |access-date=May 23, 2023 |website=Goal |language=en}}</ref>
+| align=center | 2015
+| align=center | 1
+|-
+| [[Orlando Predators (NAL)|Orlando Predators]]
+| [[Arena football]]
+| style="text-align:center;"| [[National Arena League|NAL]]
+| [[Kia Center]]
+| align=center |  —
+| align=center | 2019
+| align=center | 0
+|-
+| [[Orlando Solar Bears (ECHL)|Orlando Solar Bears]]<ref>[http://www.sportsbusinessdaily.com/Daily/Issues/2015/05/12/Research-and-Ratings/ECHL-gate.aspx "ECHL Attendance Down 2%; Ontario (CA) Reign Lead In Final Season With League"], May 12, 2015.</ref>
+| [[Ice hockey]]
+| style="text-align:center;"| [[ECHL]]
+| [[Kia Center]]
+| align=center | 6,209
+| align=center | 2012
+| align=center | 0
+|-
+| [[Orlando Anarchy]]
+| [[Women's gridiron football|Women's football]]
+| style="text-align:center;"| [[Women's Football Alliance|WFA]]
+| [[Trinity Preparatory School]]
+| align=center |  —
+| align=center | 2010
+| align=center | 1
+|-
+| [[Orlando Pride]]
+| [[Women's association football|Women's soccer]]
+| style="text-align:center;"| [[National Women's Soccer League|NWSL]]
+| [[Inter&Co Stadium]]
+| align=center | 4,837
+| align=center | 2016
+| align=center | 0
+|}
+
+==Government and politics==
+{{Panorama
+|image   = File:Orlando cty crths pano01.jpg
+|height  = 300
+|width   = 400
+|alt     = A panorama of the [[Orange County Courthouse (Florida)|Orange County Courthouse]]
+|caption = The [[Orange County Courthouse (Florida)|Orange County Courthouse]] complex comprises the [[Ninth Judicial Circuit Court of Florida]] and the Orange County [[county court (Florida)|Court]]
+}}
+{{Infobox UCR
+|city_name= Orlando
+|year= 2014
+|homicide= 15
+|rape= 167
+|robbery= 620
+|aggravated_assault= 1,538
+|violent_crime= 2,340
+|burglary= 3,342
+|larceny_theft= 12,182
+|motor_vehicle_theft= 991
+|arson= 55
+|property_crime= 16,515
+|source_url= https://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2014/crime-in-the-u.s.-2014/tables/table-8/table-8-by-state/Table_8_Offenses_Known_to_Law_Enforcement_by_Florida_by_City_2014.xls
+|source_name= 2014 FBI UCR Data
+|notes= 2014 population: 259,675
+}}
+
+===Municipal government===
+
+Orlando is governed via the [[mayor-council system]] the mayor is a strong-mayor.<ref>{{cite web |url=http://www.floridaleagueofcities.com/docs/default-source/CMRI/2016citiescountygovtpopulation.pdf?sfvrsn=0 |title=Florida Cities by Population & Form of Government |access-date=April 13, 2019}}</ref> The mayor is elected in a citywide vote. The six members of the city council are each elected from districts.
+{{main|List of mayors of Orlando, Florida}}
+[[List of mayors of Orlando|Mayor]]: [[Buddy Dyer]] ([[Democratic Party (U.S.)|D]])
+
+City Council:
+[[File:Orlando City Council 2019.svg|thumb|right|Current composition of Orlando City Council]]
+{| class="wikitable sortable"
+! District !! Name !! Party (officially nonpartisan)
+|- {{Party shading/Republican}}
+| 1 || Jim Gray || [[Republican Party (U.S.)|Republican]]<ref name=council>{{cite web |title=Municipal elections in Orlando, Florida (2017) |url=https://ballotpedia.org/Municipal_elections_in_Orlando,_Florida_(2017) |website=Ballotpedia |language=en}}</ref>
+|- {{Party shading/Republican}}
+| 2 || Tony Ortiz || [[Republican Party (U.S.)|Republican]]<ref name=council/>
+|- {{Party shading/Democratic}}
+| 3 || Robert Stuart || [[Democratic Party (U.S.)|Democratic]]<ref name=council/>
+|- {{Party shading/Democratic}}
+| 4 || Patty Sheehan || [[Democratic Party (U.S.)|Democratic]]<ref name =council/>
+|- {{Party shading/Democratic}}
+| 5 || Shan Rose ''(interim)''|| [[Democratic Party (U.S.)|Democratic]]<ref name = council/>
+|- {{Party shading/Democratic}}
+| 6 || Bakari F. Burns || [[Democratic Party (U.S.)|Democratic]]<ref>{{cite web |title=The Rainbow Democrats endorses Bakari Burns for Orlando City Commissioner, District 6 |url=https://rainbowdemocrats.org/2019/11/27/the-rainbow-democrats-endorses-bakari-burns-for-orlando-city-commissioner-district-6/ |website=Rainbow Democrats, Inc. |access-date=December 4, 2019 |language=en |date=November 27, 2019}}</ref>
+|}
+
+=== Police brutality lawsuit settlements ===
+
+In April 2015 it was reported that 56 year old June Walker Scott had filed a $4.5&nbsp;million federal lawsuit against the City of Orlando and certain officers. According to the suit, the city has paid $3.3&nbsp;million since 2012 to people who have accused officers of excessive force.<ref>{{Cite news|url=http://www.orlandosentinel.com/news/breaking-news/os-police-brutality-lawsuit-june-scott-20150406-story.html |title=Woman files $4.5M excessive-force suit against Orlando police |work=Orlando Sentinel |last=Stutzman |first=Rene |date=April 6, 2015 |access-date=April 24, 2019}}</ref>
+
+===Politics===
+
+From the mid-20th century to the early 21st century, Orlando was one of the most politically conservative cities in the United States, having voted for the Republican candidate in every presidential election from 1948 to 2004. This streak was broken when [[Barack Obama]] won it in 2008, becoming the first Democrat to carry the city in a presidential election since [[Franklin D. Roosevelt]] in 1944. It has since become a Democratic stronghold in statewide and local elections.
+
+==Education==
+
+Public primary and secondary education is handled by [[Orange County Public Schools]]. Some of the private schools include [[Saint James Cathedral School]] (founded 1928), [[Orlando Lutheran Academy]], [[Forest Lake Academy]], [[The First Academy]], [[Ibn Seena Academy]], [[Trinity Preparatory School]], [[Lake Highland Preparatory School]], [[Bishop Moore High School]] and [[Orlando Christian Prep]].
+
+===Area institutions of higher education===
+
+[[File:UCFlibrary.jpg|right|thumb|The [[University of Central Florida]] Library]]
+[[File:Full sail university sign.JPG|thumb|upright|[[Full Sail University]]]]
+
+====State universities====
+* [[University of Central Florida]]
+* [[Florida A&M University College of Law]]
+* [[Florida State University College of Medicine]]
+
+====State colleges====
+* [[Valencia College]]
+* [[Seminole State College of Florida]] (Sanford, Oviedo, & Altamonte Springs)
+
+====Private universities, colleges, and others====
+* [[AdventHealth University]], Main Campus
+* [[Ana G. Méndez University System]]
+* [[Anthem College]], Orlando Campus
+* [[Asbury Theological Seminary]], Orlando Campus
+* [[Belhaven University]], Orlando Campus
+* [[Columbia College (Missouri)|Columbia College]], Orlando Campus
+* [[Connecticut School of Broadcasting]], Orlando Campus
+* [[DeVry University]], Orlando campus
+* [[Dwayne O. Andreas School of Law]], [[Barry University]]
+* [[Everest University]], Orlando campus
+* [[Florida Institute of Technology]], Orlando campus
+* [[Full Sail University]] (in Winter Park)
+* [[Herzing College]] (in Winter Park)
+* [[Hindu University of America]]
+* [[International Academy of Design & Technology-Orlando]]
+* [[ITT Technical Institute]], Lake Mary Campus
+* [[Keiser University]], Orlando Campus
+* [[Le Cordon Bleu College of Culinary Arts]], Orlando Campus closed in 2015
+* [[McBurney College]] (Orlando Campus)
+* [[Nova Southeastern University]], Orlando campus
+* [[Palm Beach Atlantic University]], Orlando Campus
+* Polytechnic University of Puerto Rico, Orlando Campus
+* [[Reformed Theological Seminary]], Orlando campus
+* [[Remington College]] of Nursing (in Lake Mary)
+* [[Rollins College]] (in Winter Park)
+* [[Southern Technical College]]
+* [[Strayer University]], Orlando campus
+* [[University of Florida College of Pharmacy]] (in Apopka)
+
+====Supplementary schools====
+
+The [[Orlando Hoshuko]], a [[hoshuko|weekend supplementary school for Japanese children]], is held at the Lake Highland Preparatory School in Orlando.<ref>"[http://orlandohoshuko.org/ja/Map.html 地図] {{webarchive|url=https://web.archive.org/web/20150216112431/http://orlandohoshuko.org/ja/Map.html |date=February 16, 2015 }}." [[Orlando Hoshuko]]. Retrieved on February 16, 2015. "住所: 901 Highland Ave. Orlando, Florida 32803 "</ref>
+
+==Media==
+
+{{see also|List of newspapers in Florida|List of radio stations in Florida|List of television stations in Florida}}
+
+===Television===
+
+Orlando is the center of the 19th-largest [[media market]] in the United States according to [[Nielsen Media Research]] as of the 2010–2011 TV season.<ref>{{cite web|url=http://blog.nielsen.com/nielsenwire/media_entertainment/number-of-u-s-tv-households-climbs-by-one-million-for-2010-11-tv-season/ |title=Number of U.S. TV Households Climbs by One Million for 2010–11 TV Season &#124; Nielsen Wire |publisher=Blog.nielsen.com |date=August 27, 2010 |access-date=December 10, 2011}}</ref> Three major network affiliates operate in the city: [[WKMG-TV]] 6 ([[CBS]]), [[WFTV]] 9 ([[American Broadcasting Company|ABC]]) and [[Fox Broadcasting Company|Fox]] [[Owned-and-operated station|O&O]] [[WOFL]] 35. WFTV and WOFL operate additional stations in Orlando, with WFTV operating independent station [[WRDQ]] 27 and WOFL operating [[MyNetworkTV]] [[Owned-and-operated station|O&O]] [[WRBW]] 65. The market's [[NBC]] affiliate, [[WESH]] 2, is licensed to [[Daytona Beach, Florida|Daytona Beach]] and also owns and operates [[The CW|CW]] affiliate [[WKCF]] 18, licensed to [[Clermont, Florida|Clermont]]; both stations operate out of studios based in nearby [[Eatonville, Florida|Eatonville]].
+
+The city is also served by three [[Public broadcasting|public television]] stations: [[WUCF-TV]] 24, the market's [[PBS]] member station operated by the [[University of Central Florida]], and two independent stations: [[Daytona State College]]'s [[WDSC-TV]] 15 in [[New Smyrna Beach, Florida|New Smyrna Beach]] and [[Eastern Florida State College]]'s [[WEFS]] 68 in [[Cocoa, Florida|Cocoa]].
+
+Four Spanish-language channels are licensed in Orlando, including [[UniMás]] O&O [[WOTF-DT]] 43 and [[Telemundo]] affiliate [[WTMO-CD]] 31. [[Univision]] affiliate [[WVEN-TV]] 43, which operates WOTF-DT under a [[Local marketing agreement|LMA]], is based in Daytona Beach. Several English-language stations also operate Spanish-language subchannels.
+
+The city's cable system is run by [[Bright House Networks]], which merged with [[Charter Communications|Charter]] in May 2016, and is now called Spectrum. Spectrum operates [[News 13]], a cable-exclusive regional 24/7 news channel which covers Central Florida news, including that of Orlando.
+
+Orlando is also home to [[NBC Sports]]' [[Golf Channel]] cable television network. Facilities, including studios and administration, are located at 7580 Golf Channel Drive, just blocks from the [[International Drive|I-Drive]] tourism corridor.
+
+===Radio===
+
+25 [[AM broadcasting|AM]] and 28 [[FM broadcasting|FM]] stations transmit to the Orlando area. Some of the country's biggest radio station owners have major presences in Orlando, including [[iHeartMedia]], [[Cox Radio]], and [[Audacy, Inc.|Audacy]].
+
+===Newspapers===
+
+Orlando's primary newspaper, the ''[[Orlando Sentinel]]'', is the second-largest newspaper in Florida by circulation. The ''Sentinel''{{'s}} Spanish language edition, ''[[El Sentinel (Orlando)|El Sentinel]]'', is the largest Spanish language newspaper in Florida.<ref>{{cite web|url=http://www.mondonewspapers.com/usa/circulation/florida.html |title=Highest Circulation Florida Newspapers – the biggest newspapers in Florida at Mondo Times |publisher=Mondonewspapers.com |access-date=December 10, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20100819045407/http://www.mondonewspapers.com/usa/circulation/florida.html |archive-date=August 19, 2010 }}</ref>
+
+The city is also served by the following newspapers:
+* ''[[Orlando Business Journal]]''
+* ''[[Orlando Weekly]]''
+* ''[https://bungalower.com Bungalower]''
+* ''[https://www.yourcommunitypaper.com/ The Community Paper]''
+
+==Transportation==
+
+Orlando uses the [[Lynx (Orlando)|Lynx]] bus system as well as a downtown bus service called Lymmo. Orlando and other neighboring communities are also serviced by [[SunRail]], a local commuter rail line that began service in 2014.
+
+===Airports===
+
+[[File:Orlando_International_Airport_terminal_from_arriving_airplane.jpg|thumb|right|[[Orlando International Airport]]]]
+* '''[[Orlando International Airport]]''' ('''MCO''') is Orlando's primary airport and the busiest airport in the state of Florida. The airport serves as a hub and a focus hub city for [[Frontier Airlines]], [[JetBlue Airways]] and [[Southwest Airlines]]. The airport serves as a major international gateway for the mid-Florida region with major foreign carriers including [[Aerolíneas Argentinas]], [[Aer Lingus]], [[Aeroméxico]], [[Air Canada]], [[British Airways]], [[Lufthansa]], [[Emirates Airlines]], [[Norwegian Air Shuttle]], [[TAM Airlines|Latam]], and [[Virgin Atlantic]].
+* '''[[Orlando Sanford International Airport]]''' ('''SFB''') in nearby suburb of [[Sanford, Florida]] serves as a secondary airport for the region and is a focus city airport for [[Allegiant Air]].
+* '''[[Orlando Executive Airport]]''' ('''ORL''') near Downtown Orlando serves primarily executive jets, flight training schools, and general small-aircraft aviation.
+
+===Roads===
+
+Orlando, like other major cities, experiences gridlock and traffic jams daily, especially when commuting from the northern suburbs in [[Seminole County, Florida|Seminole County]] south to downtown and from the eastern suburbs of Orange County to Downtown. Heavy traffic is also common in the tourist district south of downtown. Rush hours (peak traffic hours) are usually weekday mornings (after 7&nbsp;am) and afternoons (after 4&nbsp;pm). There are various traffic advisory resources available for commuters including downloading the Tele-Traffic App (available for [[iPhone]] and [[Android (operating system)|Android]]), dialing [[5-1-1]] (a free automated traffic advisory system provided by the [[Florida Department of Transportation]], available by dialing 511), visiting the Florida 511 Web site, listening to traffic reports on major radio stations, and reading electronic traffic advisory displays (also called [[Variable-message signs]], information is also provided by [[FDOT]]) on the major highways and roadways.
+
+====Major highways====
+
+[[File:Orlando, Florida - Downtown from I-4 East.jpg|thumb|upright=1.15|[[Interstate 4|I-4]] eastbound approaching Downtown Orlando]]
+* [[File:I-4.svg|25x20px]] [[Interstate 4]] is Orlando's primary interstate highway. Orlando is the second-largest city served by only one interstate, surpassed only by [[Austin, Texas]], and is the largest metropolitan area in the US serviced by a single interstate. The interstate begins in [[Tampa, Florida]], and travels northeast across the midsection of the state directly through Orlando, ending in [[Daytona Beach]]. As a key connector to Orlando's suburbs, downtown, area attractions, and both coasts, I-4 commonly experiences heavy traffic and congestion. I-4 is also known as State Road 400.
+* [[File:Toll Florida 408.svg|20px]] [[Florida State Road 408|East-West Expressway]] (Toll 408) is a major east–west highway managed by the [[Central Florida Expressway Authority]]. The highway intersects with I-4 in [[Downtown Orlando]], providing a key artery for residents commuting from eastern and western suburbs including the [[University of Central Florida]] and Waterford Lakes area. The highway also intersects with the [[Florida State Road 417|Central Florida Greeneway]] (Toll 417) and [[Florida's Turnpike]]. By late 2006, the I-4/408 interchange had almost completed undergoing a major overhaul that creates multiple fly-over bridges and connectors to ease heavy traffic. The agency recently{{When|date=February 2012}} finished construction of lane expansions, new toll plazas, and sound barriers along the roadway, though much work remains to be done.
+* [[File:Toll Florida 528.svg|20px]] [[Florida State Road 528|Beachline Expressway]] (Toll 528) provides key access to the [[Orlando International Airport]] and serves as a gateway to the Atlantic coast, specifically [[Cocoa Beach]] and Cape Canaveral.
+* [[File:Toll Florida 417.svg|20px]] [[Florida State Road 417|Central Florida Greeneway]] (Toll 417) is a key highway for East Orlando, the highway is also managed by the [[Central Florida Expressway Authority]] and serves as Orlando's eastern beltway. The highway intersects with the [[Florida State Road 408|East-West Expressway]] (Toll 408), the [[Florida State Road 528|Beachline Expressway]] (Toll 528), and begins and ends on Interstate 4.
+* [[File:Toll Florida 429.svg|20px]] [[Florida State Road 429|Daniel Webster Western Beltway]] (Toll 429) serves as Orlando's western beltway. It is managed jointly by the Florida Turnpike and the Central Florida Expressway Authority. The highway serves as a "back entrance" to Walt Disney World from Orlando's northwestern suburbs including Apopka via [[Florida's Turnpike]].
+* [[File:Toll Florida 414.svg|20px]] [[Florida State Road 414|John Land Apopka Expressway]] (Toll 414) A new east to west tollway serving northern Orlando. Phase I opened on February 14, 2009, and extends from [[U.S. Route 441 in Florida|US 441]] to [[Florida State Road 429|State Road 429]]. Phase II opened on January 19, 2013, and links SR 429 to US 441 several miles west of the former SR 429 (now renamed [[Florida State Road 451|State Road 451]]) intersection.
+* [[File:Florida's Turnpike shield.svg|25x20px]] [[Florida's Turnpike]] (Toll 91) is a major highway that connects northern Florida with Orlando and terminates in Miami.
+
+===Rail===
+
+The Orlando area is served by one through railroad. The line, now known as the Central Florida Rail Corridor (CFRC), was previously known as the "A" line (formerly the [[Atlantic Coast Line Railroad]]'s main line). The line was purchased from [[CSX Transportation]] by the State of Florida in 2013 and is now used by [[SunRail]], the Central Florida commuter rail system. Some freight spurs still exist off of the line, which are operated by the [[Florida Central Railroad (current)|Florida Central Railroad]]. [[Amtrak]] passenger service runs along CFRC. See also [[:File:Orlando area railroads.png|a map of these railroads]].
+
+[[File:Orlando Amtrak Station Platform.JPG|thumb|right|Platform-side, [[Orlando (Amtrak station)|Orlando Amtrak Station]]]]
+[[File:Walt Disney World Epcot Spaceship Earth (50099802977).jpg|thumb|[[Walt Disney World]]'s [[Walt Disney World Monorail System|Monorail System]]]]
+[[Amtrak]] intercity [[Passenger train|passenger rail]] service operates from the [[Orlando Health/Amtrak station|Orlando Amtrak Station]] south of downtown. The [[Mission Revival Style architecture|Mission Revival-style]] station has been in continuous use since 1927,<ref>Mulligan, M. "Railroad Depots of Central Florida", page 42. Arcadia Publishing, 2008.</ref> first for the [[Atlantic Coast Line Railroad|Atlantic Coast Line]], then the [[Seaboard Coast Line Railroad]] (signage for which is still displayed over the station's main entrance). Amtrak's ''[[Silver Meteor]]'' and ''[[Silver Star (Amtrak)|Silver Star]]'' service Orlando four times daily, twice bound for points north to [[New York Penn Station|New York City]] and twice bound for points south to [[Miami station (Amtrak)|Miami]]. Orlando also serves as a transfer hub for [[Amtrak Thruway]] bus service. Orlando Station has the highest Amtrak ridership in the state, with the exception of the ''[[Auto Train]]'' depot located in nearby [[Sanford station (Amtrak)|Sanford]].<ref>[http://www.amtrak.com/pdf/factsheets/FLORIDA09.pdf "Amtrak Fact Sheet, Fiscal Year 2009".] [http://www.amtrak.com/ ''Amtrak'']. Retrieved February 2, 2010.</ref>
+
+Historically, Orlando's other major railroad stations have included:
+* [[Church Street Station|Atlantic Coast Line Railroad Orlando station]] (now Church Street Station, a commercial development)
+* [[Orlando (SAL station)|Seaboard Air Line Railroad Orlando station]] (Central Avenue Station; 1898–1955).
+
+====Commuter rail====
+{{update|section|date=January 2023}}
+{{Main|SunRail}}
+[[File:SunRail train leaving Winter Park Station.JPG|thumb|right|A southbound [[SunRail]] train leaving [[Winter Park station]]]]
+In 2005, federal and state funding was granted for the establishment of [[SunRail]], a local [[commuter rail]] service, to operate on the former CSX "A" line tracks between [[DeLand, Florida|DeLand]] and [[Poinciana, Florida|Poinciana]], passing through the downtown area and surrounding urban neighborhoods along the way. The service is expected to substantially reduce traffic congestion along the I-4 corridor, especially between Downtown Orlando and the suburban communities in Seminole and Volusia Counties. Federal and state funds covered approximately 80% of the estimated $400&nbsp;million cost for track modifications and construction of stations along the route. The counties involved approved local matching funds in 2007 and the line was originally projected to begin operations in 2011.<ref>{{cite web|url=http://www.sunrail.com/ |title=A Better Way To Go |publisher=SunRail |access-date=August 2, 2014}}</ref> However, the project was ultimately voted down by Florida State Senate in 2008 and again in 2009 due to an amendment that would have approved a $200&nbsp;million insurance policy for the system. Although there had been growing concern the system would be scrapped, a deadline extension combined with a new insurance arrangement with CSX brought new hope that SunRail will be completed after all.<ref>[http://www.orlandosentinel.com/news/local/orl-sunrail-commuter-legislature-070209,0,7151760.story]   {{webarchive|url=https://web.archive.org/web/20090704013658/http://www.orlandosentinel.com/news/local/orl-sunrail-commuter-legislature-070209%2C0%2C7151760.story|date=July 4, 2009}}</ref> In a special session in December 2009, the Florida Legislature approved commuter rail for Florida, which also enabled high-speed rail [[Federal government of the United States|federal]] funding. SunRail began passenger service on May 1, 2014. Phase I of the rail system runs from [[DeBary, Florida|DeBary]] to Sand Lake Road in South Orlando. Phase II, connects DeBary and continues north to [[DeLand, Florida|DeLand]], as well as extending from Sand Lake Road in Orlando south to [[Poinciana, Florida|Poinciana]]. Attempts to establish a smaller [[light rail]] service for the Orlando area were also considered at one time,{{when|date=October 2013}} but were also met with much resistance.
+
+===={{Anchor|High speed rail}}Inter-city rail====
+[[File:Brightline at Orlando International Intermodal Terminal (52372432604).jpg|thumb|The [[Orlando International Airport Intermodal Terminal]] is the terminus for [[Brightline]], an inter-city [[inter-city rail|rail service]] between Orlando and [[Miami]]]]
+{{Main|Brightline}}
+
+A privately funded initiative known as ''All Aboard Florida'', which would provide [[inter-city rail]] service from Miami to Orlando, was announced in March 2012.<ref>{{cite web|url=http://www.allaboardflorida.com/facts/index.html |title=Brightline Book Rides & Enjoy Florida Train Travel |access-date=February 16, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150209031734/http://www.allaboardflorida.com/facts/index.html |archive-date=February 9, 2015 }}</ref> Now known as [[Brightline]], the train currently runs from [[MiamiCentral|Downtown Miami]] to the [[Orlando International Airport Intermodal Terminal]]. The Orlando extension includes {{convert|40|mi|km|abbr=}} of new railway track and top speeds reach {{convert|125|mph|km/h|abbr=on}}, becoming one of the fastest rail services in the United States.<ref>{{Cite web|last=Tate|first=Curtis|title=High-speed rail coming down the track: America's newest, fastest trains, from Acela to Brightline|url=https://www.usatoday.com/story/travel/2020/07/30/acela-brightline-us-fastest-trains-high-speed-rail-coming/5535529002/|access-date=June 7, 2021|website=USA TODAY|language=en-US}}</ref> Service to Orlando began on September 22, 2023.<ref name=":0">{{cite web |title=Orlando |url=https://www.gobrightline.com/train-stations/fl/orlando |access-date=September 23, 2023 |website=Brightline}}</ref> Future plans are underway to add a station near [[Disney Springs]].<ref>{{Cite news |last1=Lynch |first1=Ryan |last2=Bilbao |first2=Richard |title=Brightline confirms alternative train station near Disney — but not on property — in the works |work=Orlando Business Journal |url=https://www.bizjournals.com/orlando/news/2022/06/28/florida-orlando-brightline-disney-rail.html |access-date=June 30, 2022}}</ref>
+
+===Bus===
+
+[[File:Lynx 102 bus Orlando.jpg|thumb|right|[[Lynx (Orlando)|Lynx]] bus on the Route 102 line in Orlando]]
+[[Lynx (Orlando)|Lynx]] provides local transit service covering a five-county area: [[Orange County, Florida|Orange]], [[Seminole County, Florida|Seminole]], [[Osceola County, Florida|Osceola]], Polk, and [[Volusia County, Florida|Volusia]].<ref>{{cite web|url=http://www.golynx.com/?id=3 |title=The Central Florida Regional Transportation Authority—LYNX |publisher=Golynx.com |access-date=November 17, 2012}}</ref><ref>{{cite web|url=http://www.golynx.com/news-events/news_detail.stml?portalProcess_dd_0_1_1=showPublicPosting&calendar_entry_id=1608 |title=Lake County to End Commuter Contract to LYNX |publisher=Golynx.com |date=August 29, 2013}}</ref> Lynx bus frequency varies depending on the route and time of day.
+
+[[Greyhound Lines]] offers intercity bus service from Orlando to multiple locations across the country. The Orlando Greyhound Station is located west of Downtown Orlando.
+
+Having a very well-developed tourism industry and millions of visitors per year the City of Orlando has multiple options for groups arriving and touring the city and surrounding areas by local charter bus companies.
+
+===Taxi===
+
+Orlando is served by a collection of independently owned taxi companies. In downtown Orlando, taxis can be hailed on a regular basis. Taxis are also available in and around the Amway Center, Orlando Convention Center, and all major attractions/theme parks. Orlando also has service from car-sharing companies like Uber and Lyft, which offer service at all airports.
+
+===Airport shuttles===
+
+Transportation between the Orlando International Airport and various locations in and around Orlando is provided by airport shuttle services. Several shuttles operate 24 hours a day, 7 days a week.
+
+==International relations==
+
+===Sister cities===
+{{See also|List of sister cities in Florida}}
+Orlando's sister cities are:<ref>{{cite web|url=https://www.orlando.gov/Our-Government/Mayor-City-Council/Buddy-Dyer/International-Affairs |title=International Affairs|publisher=City of Orlando|website=orlando.gov|access-date=February 10, 2023}}</ref>
+* [[Curitiba]], Brazil
+* [[Guilin]], China
+* [[Monterrey]], Mexico
+* [[Reykjanesbær|Reykjanesbaer]], Iceland
+<!--Reykjanesbær - ended in 2022-->
+* [[Seine-et-Marne]], France
+* [[Tainan]], Taiwan
+* [[Urayasu]], Japan
+* [[Valladolid]], Spain
+
+===Foreign consulates===
+Given Orlando's status as a busy international tourist destination and growing industrial and commercial base, there are several foreign consulates and honorary consulates in Orlando including (as of April 2023): Austria, Brazil, Chile, Colombia, Czech Republic, France, Germany, Haiti, Iceland (Honorary), Italy (Honorary), Japan, Mexico, the Netherlands, and Switzerland (Honorary).<ref>{{Cite web |date=April 2023 |title=Directory of Consulates, Bi-National Chambers and Sister Cities in Florida |url=https://files.floridados.gov/media/706427/directory-updated-april-2023.pdf |archive-url=https://web.archive.org/web/20230504082855/https://files.floridados.gov/media/706427/directory-updated-april-2023.pdf |archive-date=May 4, 2023 |url-status=live |access-date=October 7, 2023 |website=Florida Department of State}}</ref> In 1999, Orlando had the second-highest number of foreign consulates in Florida next to Miami.<ref>{{cite web |url=http://www.embassiesabroad.com/embassies-in/UnitedStates |title=Foreign Embassies and Consulates in United States |publisher=Embassiesabroad.com |date=September 15, 1999 |access-date=November 17, 2012 |archive-url=https://web.archive.org/web/20100429022020/http://www.embassiesabroad.com/embassies-in/UnitedStates |archive-date=April 29, 2010 |url-status=dead }}</ref>
+
+==See also==
+* [[List of people from Orlando, Florida]]
+
+==Notes==
+
+{{notelist}}
+
+==References==
+
+{{reflist|2}}
+* [https://journals.sagepub.com/doi/abs/10.1177/004728759203000305 The Economic Contribution of Conventions: The Case of Orlando, Florida]
+
+==Bibliography==
+
+{{See also|Timeline of Orlando, Florida#Bibliography|l1=Bibliography of the history of Orlando, Florida}}
+
+==External links==
+{{Sister project links|voy=Orlando|Orlando, Florida}}
+* {{Official website|http://www.cityoforlando.net/}}
+{{Portal bar|North America|United States|Florida|Cities}}
+{{Geographic location
+|title     = Greater Orlando Metropolitan Area
+|Northwest = [[Apopka, Florida|Apopka]], [[Astatula, Florida|Astatula]], [[Mount Dora, Florida|Mount Dora]], [[Eustis, Florida|Eustis]], [[Tavares, Florida|Tavares]], [[Leesburg, Florida|Leesburg]], {{nowrap|[[The Villages, Florida|The Villages]]}}
+|North     = [[Eatonville, Florida|Eatonville]], [[Maitland, Florida|Maitland]], [[Altamonte Springs, Florida|Altamonte Springs]], [[Longwood, Florida|Longwood]], [[Lake Mary, Florida|Lake Mary]], [[Sanford, Florida|Sanford]], [[Deltona, Florida|Deltona]], [[DeBary, Florida|DeBary]], [[Orange City, Florida|Orange City]], [[DeLand, Florida|DeLand]]
+|Northeast = [[Winter Park, Florida|Winter Park]], [[Casselberry, Florida|Casselberry]], [[Oviedo, Florida|Oviedo]], [[Winter Springs, Florida|Winter Springs]], [[Daytona Beach, Florida|Daytona Beach]], [[New Smyrna Beach, Florida|New Smyrna Beach]], [[Ormond Beach, Florida|Ormond Beach]]
+|West      = [[Windermere, Florida|Windermere]], [[Ocoee, Florida|Ocoee]], [[Winter Garden, Florida|Winter Garden]], [[Clermont, Florida|Clermont]], [[Bushnell, Florida|Bushnell]]
+|Centre    = Orlando
+|East      = [[Union Park, Florida|Union Park]], [[Avalon Park, Florida|Avalon Park]], [[Chuluota, Florida|Chuluota]], [[Bithlo, Florida|Bithlo]], [[Christmas, Florida|Christmas]], [[Titusville, Florida|Titusville]], [[Cocoa Beach, Florida|Cocoa Beach]], [[Cape Canaveral, Florida|Cape Canaveral]]
+|Southwest = [[Lake Buena Vista, Florida|Lake Buena Vista]], [[Celebration, Florida|Celebration]], [[Davenport, Florida|Davenport]], [[Winter Haven, Florida|Winter Haven]], [[Lakeland, Florida|Lakeland]], [[Haines City, Florida|Haines City]]
+|South     = [[Edgewood, Florida|Edgewood]], [[Belle Isle, Florida|Belle Isle]], [[Kissimmee, Florida|Kissimmee]], [[Poinciana, Florida|Poinciana]]
+|Southeast = [[St. Cloud, Florida|St. Cloud]], [[Harmony, Florida|Harmony]], [[Holopaw, Florida|Holopaw]], [[Kenansville, Florida|Kenansville]], [[Yeehaw Junction, Florida|Yeehaw Junction]], [[Melbourne, Florida|Melbourne]], [[Palm Bay, Florida|Palm Bay]]
+}}
+{{Orlando, Florida}}
+{{Navboxes
+|title = Articles relating to Orlando and [[Orange County, Florida|Orange County]]
+|list  =
+{{Metro Orlando}}
+{{Orlando Radio}}
+{{Orlando TV}}
+{{Orange County, Florida}}
+{{Geography of Florida}}
+}}
+{{USPopulousCities}}
+{{Florida county seats}}
+{{Authority control}}
+
+[[Category:Orlando, Florida| ]]
+[[Category:Cities in Florida]]
+[[Category:Cities in Orange County, Florida]]
+[[Category:Cities in the Greater Orlando]]
+[[Category:County seats in Florida]]
+[[Category:Populated places established in 1875]]
+[[Category:1875 establishments in Florida]]

@@ -1,0 +1,110 @@
+{{short description|Region of Guinea}}
+{{More citations needed|date=December 2009}}
+{{Coord|10|30|N|9|15|W|display=title}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                     = Kankan
+| native_name              = 
+| native_name_lang         = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type          = [[Regions of Guinea|Region]]
+| image_skyline            = 
+| image_alt                = 
+| image_caption            = 
+| image_flag               = 
+| flag_alt                 = 
+| image_seal               = 
+| seal_alt                 = 
+| image_shield             = 
+| shield_alt               = 
+| nickname                 = 
+| motto                    = 
+| image_map                = Kankan in Guinea.svg
+| map_alt                  = 
+| map_caption              = Kankan Region in Guinea
+| pushpin_map              = 
+| pushpin_label_position   = 
+| pushpin_map_alt          = 
+| pushpin_map_caption      = 
+| coordinates              = 
+| coor_pinpoint            = 
+| coordinates_footnotes    = 
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = [[Guinea]]
+| subdivision_type1        = 
+| subdivision_type2        = 
+| subdivision_type3        = 
+| subdivision_name1        = 
+| subdivision_name2        = 
+| subdivision_name3        = 
+| established_title        = 
+| established_date         = 
+| founder                  = 
+| seat_type                = Capital
+| seat                     = [[Kankan]]
+| government_footnotes     = 
+| leader_party             = 
+| leader_title             = Governor
+| leader_name              = [[Aboubacar Diakité]]<ref>{{Cite news|title=Administration du territoire : voici la liste des Gouverneurs des 8 régions de la Guinée|url=https://guineematin.com/2021/10/13/administration-du-territoire-voici-la-liste-des-gouverneurs-des-8-regions-de-la-guinee/|website=guineematin.com|date=13 October 2021|access-date=4 November 2021|language=fr}}</ref>
+| unit_pref                = Metric<!-- or US or UK -->
+| area_footnotes           = 
+| area_total_km2           = 72145
+| area_land_km2            = 
+| area_water_km2           = 
+| area_water_percent       = 
+| area_note                = 
+| elevation_footnotes      = 
+| elevation_m              = 
+| population_total         = 1,972,357
+| population_as_of         = 2014 census
+| population_footnotes     = 
+| population_density_km2   = auto
+| population_demonym       = 
+| population_note          = 
+| timezone1                = 
+| utc_offset1              = 
+| timezone1_DST            = 
+| utc_offset1_DST          = 
+| postal_code_type         = 
+| postal_code              = 
+| area_code                = 
+| area_code_type           = 
+| iso_code                 = 
+| blank_name_sec2          = [[Human Development Index|HDI]] (2017)
+| blank_info_sec2          = 0.344<ref name="GlobalDataLab">{{Cite web|url=https://hdi.globaldatalab.org/areadata/shdi/|title=Sub-national HDI - Area Database - Global Data Lab|website=hdi.globaldatalab.org|language=en|access-date=2018-09-13}}</ref><br/>{{color|#500|low}} · [[List of regions of Guinea by Human Development Index|8th of 8]]
+| website                  = <!-- {{URL|example.com}} -->
+| footnotes                = 
+}}
+
+'''Kankan Region''' ({{lang-nqo|ߞߊ߲ߞߊ߲߫ ߕߌ߲߬ߞߎߘߎ߲}}) is a [[Regions of Guinea|region]] of [[Guinea]] located in the east of the country. It is the largest region of Guinea by area. The region has five (5) [[Prefectures of Guinea|prefectures]] (Kankan, Kérouané, Kouroussa, Mandiana and Siguiri).
+
+It is bordered by the countries of [[Mali]] and [[Côte d'Ivoire]] and the Guinean regions of [[Nzérékoré Region|Nzérékoré]] and [[Faranah Region|Faranah]].
+
+==Administrative divisions==
+Kankan Region is divided into five prefectures; which are further sub-divided into sub-prefectures:
+
+{|class="wikitable sortable"
+|-
+!Prefecture !! Capital !! Population<br>(2014) !! Land Area<br>(km<sup>2</sup>) !! Sub-<br>Prefectures
+|-
+| [[Kankan Prefecture]] || [[Kankan]] || 273,538 || 19,750 || 13
+|-
+| [[Kérouané Prefecture]] || [[Kérouané]] || 70,547 || 7,020 || 8
+|-
+| [[Kouroussa Prefecture]] || [[Kouroussa]] || 168,630 || 14,050 || 12
+|-
+| [[Mandiana Prefecture]] || [[Mandiana]] || 135,399 || 12,825 || 12
+|-
+| [[Siguiri Prefecture]] || [[Siguiri]] || 187,002 || 18,500 || 13
+|}
+
+==References==
+<references />
+
+{{Guinea-regions}}
+
+{{Authority control}}
+
+[[Category:Kankan Region| ]]
+
+[[Category:Regions of Guinea]]
+
+{{Guinea-geo-stub}}

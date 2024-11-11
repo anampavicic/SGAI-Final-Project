@@ -1,0 +1,1200 @@
+{{short description|Administrative region of the Philippines}}
+{{About|a region in the Philippines|other uses|Cagayan (disambiguation)}}
+{{Use mdy dates|date=March 2020}} 
+{{Use Philippine English|date=November 2022}}
+{{Infobox settlement
+| official_name      = Cagayan Valley
+| native_name        = ''Tanap ti Cagayan''
+| settlement_type    = [[Regions of the Philippines|Region]]
+| image_skyline      = {{multiple image
+| border                   = infobox
+| total_width              = 260
+| image_style              = border:1;
+| perrow                   = 1/2/2/2
+| image1                   = Palaui Island Sta. Ana, Cagayan.jpg
+| image2                   = Allan Jay Quesada - Tumauini Cathedral - afternoon exterior DSC 0158.jpg
+| image3                   = The forested edge of the Mt. Cagua volcanic crater - ZooKeys-266-001-g009.jpg
+| image4                   = Wakay Beach Sabtang Batanes 2.jpg
+| image5                   = Cape Engano Back.JPG
+}}
+'''Clockwise from the top''': [[Palaui Island Protected Landscape and Seascape]], [[Cagua Volcano]], [[Cape Engaño Lighthouse]], [[Sabtang]], [[Tumauini Church]]
+| image_alt          =
+| image_caption      = <!-- images and maps -->
+| image_flag         =
+| flag_size          = 120x80px
+| image_seal         =
+| seal_size          = 100x80px
+| image_map          = {{PH wikidata|image_map}}
+| map_caption        = Location in the Philippines
+<!-- Motto -->| nickname           =
+| motto              = <!-- Location -->
+| coordinates        = <!-- {{coord|region:PH|format=dms|display=inline,title}} -->
+| subdivision_type   = Country
+| subdivision_name   = {{PHL}}
+| subdivision_type1  = [[Island groups of the Philippines|Island group]]
+| subdivision_name1  = [[Luzon]]
+
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->| seat_type          = Regional center<br />{{nobold|and largest city}}
+| seat               = [[Tuguegarao]]
+
+<!-- Politics -->| leader_title       =
+| leader_name        = <!-- Area -->
+| area_total_km2     = {{PH wikidata|area}}
+| area_footnotes     = <!-- Population -->
+| pop_est_as_of      = 2020
+| population_est     = 3,657,741<ref>{{cite web|date=August 27, 2020|title=POPULATION PROJECTIONS BY REGION, PROVINCE, CITIES AND MUNICIPALITIES, 2020-2025|url=https://www.doh.gov.ph/node/15619|access-date=October 16, 2020|work=www.doh.gov.ph|publisher=Department of Health|archive-date=May 14, 2021|archive-url=https://web.archive.org/web/20210514203439/https://doh.gov.ph/node/15619|url-status=dead}}</ref>
+| population_as_of   = {{PH wikidata|population_as_of}}
+| population_total   = {{PH wikidata|population_total}}
+| population_footnotes = {{PH census|2015}}
+| population_density_km2 = auto
+
+<!-- General information -->| timezone           = [[Philippine Standard Time|PST]]
+| utc_offset         = +8
+| iso_code           = PH-02
+
+<!-- Others -->| blank_name_sec1    = [[Provinces of the Philippines|Provinces]]
+| blank_info_sec1    = {{Collapsible list
+ | titlestyle = font-weight:normal;text-align:left;background-color:WhiteSmoke;
+ | title      = 5
+ | [[Batanes]]
+ | [[Cagayan]]
+ | [[Isabela (province)|Isabela]]
+ | [[Nueva Vizcaya]]
+ | [[Quirino]]
+ }}
+| blank1_name_sec1   = [[Cities of the Philippines|Independent cities]]
+| blank1_info_sec1   = {{Collapsible list
+ | titlestyle = font-weight:normal;text-align:left;background-color:WhiteSmoke;
+ | title      = 1
+ | [[Santiago, Isabela|Santiago]]
+ }}
+| blank2_name_sec1   = [[Cities of the Philippines|Component cities]]
+| blank2_info_sec1   = {{Collapsible list
+ | titlestyle = font-weight:normal;text-align:left;background-color:WhiteSmoke;
+ | title      = 3
+ | [[Cauayan, Isabela|Cauayan]]
+ | [[Ilagan]]
+ | [[Tuguegarao]]
+ }}
+| blank3_name_sec1   = [[Municipalities of the Philippines|Municipalities]]
+| blank3_info_sec1   = 89
+| blank4_name_sec1   = [[Barangay]]s
+| blank4_info_sec1   = 2,311
+| blank5_name_sec1   = [[House of Representatives of the Philippines|Cong. districts]]
+| blank5_info_sec1   = 12<ref>{{cite web|title=Republic Act No. 11080 - An act reapportioning the second largest province of the Philippines into six legislative districts|url=https://newsinfo.inquirer.net/1036988/duterte-creates-two-new-legislative-districts-in-isabela|work=Inquirer PH|date=September 27, 2018|publisher=Inquirer.Net|access-date=September 29, 2018}}</ref>
+| blank_name_sec2    = [[Languages of the Philippines|Languages]]
+| blank_info_sec2    = {{hlist | [[Ilocano language|Ilocano]] | [[Ibanag language|Ibanag]] | [[Ivatan language|Ivatan]] | [[Itawis language|Itawis]] | [[Gaddang language|Gaddang]] | [[Yogad language|Yogad]] | [[Isinai language|Isinay]] | [[isnag language|Isnag]]| [[Ilongot language|Ilongot]] | [[pangasinan language|Pangasinan]]| [[Tagalog language|Tagalog]] | [[English language|English]] | ''others'' }}
+| blank1_name_sec2   = [[List of regions of the Philippines by GDP|GDP]] (2023)
+| blank1_info_sec2   = [[Philippine peso|₱]]510.83 billion<br />[[USD|$]]9.18 billion<ref name="grdp">{{Cite web |title=2021 to 2023 Gross Regional Domestic Product (GRDP)|url=https://psa.gov.ph/statistics/grdp/tables |access-date=April 26, 2024 |publisher=Philippine Statistics Authority|website=openstat.psa.gov.ph}}</ref>
+| blank2_name_sec2   = Growth rate
+| blank2_info_sec2   = {{increase}} (6.2%)<ref name="grdp" />
+| blank3_name_sec2   = [[Human Development Index|HDI]]
+| blank3_info_sec2   = {{increase}} 0.709 ({{fontcolor|green|High}})
+| blank4_name_sec2   = HDI rank
+| blank4_info_sec2   = [[List of Philippine provinces and regions by Human Development Index|7th in the Philippines]] (2019)
+| website            =
+| elevation_max_point = [[Mount Pulag]]
+| elevation_max_ft   = 9,606
+| image_map1         = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250|zoom=8}}{{hidden end}}
+}}
+'''Cagayan Valley''' ({{langx|ilo|Tanap ti Cagayan}}; {{langx|fil| Lambak ng Cagayan}}), designated as '''Region II''', is an [[Regions of the Philippines|administrative region]] in the [[Philippines]]. Located in the northeastern section of [[Luzon]],<ref name="NSCB" /> it is composed of five [[Provinces of the Philippines|Philippine provinces]]: [[Batanes]], [[Cagayan]], [[Isabela (province)|Isabela]], [[Nueva Vizcaya]], and [[Quirino]]. The region hosts four chartered cities: [[Cauayan, Isabela|Cauayan]], [[Ilagan]], [[Santiago, Isabela|Santiago]], and [[Tuguegarao]] (the regional center and largest city).<ref name="PSA-CitiesList" />
+
+Most of its land area lies in the valley between the [[Cordillera Central (Luzon)|Cordilleras]] and the [[Sierra Madre (Philippines)|Sierra Madre]] mountain ranges. The eponymous [[Cagayan River]], the country's largest and longest, runs through the region, flows from the [[Caraballo Mountains]], and ends in [[Aparri]]. Cagayan Valley is the second-largest Philippine administrative region by land area.<ref>[http://www.dotregion2.com.ph/d2/index.php?option=com_content&view=article&id=49&Itemid=53 Cagayan Valley] {{webarchive|url=https://web.archive.org/web/20130511235653/http://www.dotregion2.com.ph/d2/index.php?option=com_content&view=article&id=49&Itemid=53|date=May 11, 2013}}, Department of Tourism - Region 2, Retrieved June 21, 2012</ref> According to a literacy survey in 2019, 93% of Cagayan Valley's citizens (ages 10 to 64) are [[Functional literacy|functionally literate]], which is 5th out of the seventeen [[regions of the Philippines]]. <ref>{{cite web | url=https://psa.gov.ph/statistics/education-mass-media/node/163646 | title=&#124; Philippine Statistics Authority &#124; Republic of the Philippines }}</ref>
+
+{{TOC limit|3}}
+
+== History ==
+{{Expand section|date=March 2016}}
+=== Spanish colonial era ===
+During the Spanish era, Cagayan Valley had a larger territory than today, then named ''Provincia de Cagayan.'' Then it included the territories of the above-mentioned provinces and the eastern parts of the [[Cordillera Administrative Region|Cordillera]] provinces of [[Apayao]], [[Kalinga (province)|Kalinga]], [[Mountain Province]], [[Ifugao]] and [[Benguet]], and the north part of [[aurora (province)|Aurora]]. Historian and missionary Jose Burgues said, "The old Cagayan Valley comprises the province of Cagayan, Isabela and Nueva Vizcaya as well as the military Districts of Apayao, Itaves, Quiangan, Cayapa and Bintangan, plus the area of the Sierra Madre to the Pacific Ocean in the said trajectory."<ref>''Descripcion del Valle de Cagayan'', 1897, Jose Burgues</ref> The exception is [[Palanan]], which was established in 1625 by Spanish forces who arrived by ship from the Pacific coastal town of [[Baler, Aurora|Baler]] in Tayabas province (now part of Aurora). Thus, Palanan was originally a part of [[Pampanga]],<ref>{{Cite web |url=https://www.sunstar.com.ph/amp/story/more-articles/tantingco-the-kapampangan-in-us |title=Tantingco: The Kapampangan in Us |website=[[SunStar]] |date=May 2, 2013 |access-date=2024-01-23 |archive-date=2024-01-23 |archive-url=https://web.archive.org/web/20240123034705/https://www.sunstar.com.ph/amp/story/more-articles/tantingco-the-kapampangan-in-us |url-status=live }} "At one point, Pampanga’s borders extended all the way to Palanan, Isabela in the north and to Infanta, Quezon in the south, with the Pacific Ocean on its east side and the China Sea on its west side." (Baler which was the origin of Spanish forces and Tagalog settlers who settled Palanan was part of Pampanga along with Casiguran.)</ref> then to [[Laguna (province)|Laguna]], Tayabas (now [[quezon|Quezon Province]]; Tayabas became independent from Laguna), and [[Nueva Ecija]], before being transferred to Nueva Vizcaya and finally Isabela. Also, unlike the rest of Cagayan Valley, it was served by Franciscan missionaries from Baler rather than the Dominicans. The population of the town was natively Paranan, then subsequently augmented by local Negritos, migrants from Baler who are [[tagalog people|Tagalogs]] and outlaws from Cagayan Valley, with the lingua franca of the settlement being Tagalog as opposed to Ilocano or Ibanag.<ref>{{cite book |last=Salgado|first=Pedro|title=Cagayan Valley and Easter Cordillera: 1581-1898, Volume I |publisher=Rex Publishing |orig-date=2002|pages=496–499|chapter=Other Missions in Isabela|isbn=}}</ref> The ''Atta'' or [[Negrito]]s, the first people in valley, were later moved to the uplands or variably assimilated by the Austronesians, from whom the [[Ibanag people|Ibanags]], [[Itawes]], Yogads, [[gaddang people|Gaddangs]], Irayas, [[malaweg language|Malawegs]], and [[paranan language|Paranans]] descended - who actually came from one ethnicity. These are the people found by the Spaniards in the different villages along the rivers all over Cagayan Valley. The Spaniards rightly judged that these various villagers came from a single racial stock and decided to make the Ibanag language the ''lingua franca'', both civilly and ecclesiastically for the entire people of Cagayan which they called collectively as the ''Cagayanes'' which later was transliterated to become ''Cagayanos''. Various other peoples, mainly the [[Ilocano people|Ilocanos]], [[Pangasinan people|Pangasinenses]], [[Kapampangan people|Kapampangans]] and [[Tagalog people|Tagalogs]], as well as [[Visayans]], [[Moro people|Moros]], [[ivatan people|Ivatans]], and even foreigners like the Chinese, Indians, Arabs, Spaniards and others were further infused to the native Cagayanes to become the modern ''Cagayano'' that we know today.
+In 1818, [[Nueva Ecija]] annexed the towns of Palanan from Isabela, as well as Cagayan, Nueva Vizcaya, Quirino, Baler, Casiguran, [[infanta, Quezon|Infanta]] (formerly called Binangonan de Lampon) and [[Polillo Islands]] from [[quezon|Tayabas]], and part of Rizal.<ref>{{Cite web|url=http://www.aurora.ph/mobile/casiguran.html|title=Aurora, Philippines – History|website=www.aurora.ph|language=en|access-date=February 18, 2023}}</ref><ref>[https://region3.dilg.gov.ph/nueva-ecija/index.php/about/who-we-are Who We Are: Nueva Ecija]</ref> In the nineteenth and 20th centuries, the prosperity found in tobacco cultivation caused many [[Ilokano people]] to settle here, it was only in this large-scale Ilocano settlement that made Ilocano language replace Ibanag as the ''lingua franca'' of the region. Ilocano settlers already migrated to Nueva Vizcaya (including present-day Quirino) earlier in 1700s also to work on the tobacco plantations, and later immigrants with skills construct churches and other structures needed for development, as the native Igorot tribes rejected labor imposed by the Spaniards. Tobacco is still a major factor in the economy of Cagayan, though a special economic zone and free port has been created to strengthen and diversify the provincial economy.
+
+=== During World War II ===
+During [[World War II]], at [[Balete Pass]] in Nueva Vizcaya, the retreating [[Japanese Imperial Army]] under General [[Tomoyuki Yamashita]] dug in and held on for three months against the American and Filipino forces who eventually drove them out; the pass is now called Dalton Pass in honor of General Dalton, USA, who was killed in the fighting. 
+
+=== During the Marcos dictatorship ===
+{{main|Martial law under Ferdinand Marcos|Human rights abuses of the Marcos dictatorship}}
+Loan-funded government spending to promote [[Ferdinand Marcos' 1969 reelection campaign]] caused<ref name=Balbosas1992>{{Cite journal |last=Balbosa |first=Joven Zamoras |date=1992 |title=IMF Stabilization Program and Economic Growth: The Case of the Philippines |journal=Journal of Philippine Development |volume=XIX |issue=35 |url=https://dirp4.pids.gov.ph/ris/pjd/pidsjpd92-2imf.pdf |access-date=November 6, 2022 |archive-date=September 21, 2021 |archive-url=https://web.archive.org/web/20210921141056/https://dirp4.pids.gov.ph/ris/pjd/pidsjpd92-2imf.pdf |url-status=dead }}</ref><ref name="Balisacan&Hill2003">{{Cite book |url=https://books.google.com/books?id=O_L9k58WM9UC&q=The+Philippine+economy+under+Marcos:+A+balance+sheet |title=The Philippine Economy: Development, Policies, and Challenges |last1=Balisacan |first1=A. M. |last2=Hill |first2=Hal |date=2003 |publisher=Oxford University Press |isbn=9780195158984 |language=en}}</ref> the Philippine economy to take a sudden downwards turn in the form of the [[1969 Philippine balance of payments crisis]],<ref name="Cororaton1997">{{Cite journal |last=Cororaton |first=Cesar B.  |title=Exchange Rate Movements in the Philippines |journal=DPIDS Discussion Paper Series 97-05 |pages=3, 19}}</ref><ref name="Celoza1997">{{Cite book|url=https://books.google.com/books?id=Sp3U1oCNKlgC|title=Ferdinand Marcos and the Philippines: The Political Economy of Authoritarianism|last=Celoza|first=Albert F.|date=1997|publisher=Greenwood Publishing Group|isbn=9780275941376|language=en}}</ref><ref>{{Cite book |url=https://archive.org/details/philippinesreade00schi |title=The Philippines reader : a history of colonialism, neocolonialism, dictatorship, and resistance |last=Schirmer |first=Daniel B. |date=1987 |publisher=South End Press |isbn=0896082768 |edition=1st |location=Boston |oclc=14214735 }}</ref> which in turn led to social unrest throughout the country.<ref name="Kessler1989">{{Cite book |url=https://archive.org/details/rebellionrepress0000kess |title=Rebellion and repression in the Philippines |last=Kessler |first=Richard J. |date=1989 |publisher=Yale University Press |isbn=0300044062 |location=New Haven |oclc=19266663 |url-access=registration }}</ref> {{rp|page="43"}} Cagayan Valley became one of the flashpoints of conflict, with many previously-moderate young people joining the armed resistance against Marcos after being radicalized by various crackdowns.<ref name="Pimentel2006">{{Cite book |title=U.G. an underground tale: the journey of Edgar Jopson and the first quarter storm generation |last=Pimentel |first=Benjamin |date=2006 |publisher=Anvil Publishing, Inc |isbn=9712715906 |location=Pasig |oclc=81146038}}</ref><ref name="Rodis">{{Cite news |url=https://globalnation.inquirer.net/118130/remembering-the-first-quarter-storm |title=Remembering the First Quarter Storm |last=Rodis |first=Rodel |newspaper=[[Philippine Daily Inquirer]] |access-date=January 27, 2020 |url-status=live |archive-url=https://web.archive.org/web/20150131131959/http://globalnation.inquirer.net/118130/remembering-the-first-quarter-storm/ |archive-date=January 31, 2015 |language=en}}</ref><ref name="Lacaba 1982 11–45, 157–178">{{Cite book|title=Days of Disquiet, Nights of Rage: The First Quarter Storm & Related Events|last=Lacaba|first=Jose F.|publisher=Salinlahi Pub. House|year=1982|location=Manila|pages=11–45, 157–178}}</ref>
+
+With only a year left in his last constitutionally allowed term as president, Ferdinand Marcos placed the Philippines under [[Martial Law under Ferdinand Marcos|Martial Law]] in September 1972 and thus retained the position for fourteen more years.<ref name ="Kasaysayan9ch10">{{Cite book |title=Kasaysayan, The Story of the Filipino People Volume 9:A Nation Reborn. |publisher=Asia Publishing Company Limited |year=1998 |editor-last=Magno |editor-first=Alexander R. |location=Hong Kong |chapter=Democracy at the Crossroads}}</ref> This period in Philippine history is remembered for the Marcos administration's record of [[Human rights abuses of the Marcos dictatorship|human rights abuses]],<ref name="McCoy199909202">{{cite web|url=http://www.hartford-hwp.com/archives/54a/062.html|title=Alfred McCoy, Dark Legacy: Human rights under the Marcos regime|date=September 20, 1999|publisher=[[Ateneo de Manila University]]}}</ref><ref name="Abinales&Amoroso20052">{{Cite book|title=State and society in the Philippines|last1=Abinales|first1=P.N.|last2=Amoroso|first2=Donna J.|date=2005|publisher=Rowman & Littlefield Publishers|isbn=978-0742510234|location=Lanham, MD|oclc=57452454}}</ref> particularly targeting political opponents, student activists, journalists, religious workers, farmers, and others who fought against the Marcos dictatorship.<ref name="Rappler">{{Cite news|url=https://www.rappler.com/newsbreak/iq/182828-marcos-dictatorship-martial-law-youth-leaders-killed|title=Gone too soon: 7 youth leaders killed under Martial Law|work=Rappler|access-date=June 15, 2018}}</ref>
+
+In Isabela, protests erupted when [[Marcos crony]] [[Danding Cojuangco]] managed to block a Spanish-era grant which was supposed to see the return of Hacienda San Antonio and Hacienda Santa Isabel in Ilagan to local farmers, displacing tens of thousands of farmers who were supposed to get those lands back a hundred years after the Spanish accosted them.<ref name="BantayogPadillaSabino">{{Cite news |date=November 29, 2017 |title=PADILLA, Sabino "Abe" Garcia Jr. |language=en-US |url=http://www.bantayog.org/padilla-sabino-garcia-jr/ |access-date=September 9, 2020}}</ref> The [[Roman Catholic Diocese of Ilagan]] led efforts to support the farmers in their cause, succeeding in forcing the Marcos administration to finally concede land titles to 4,000 farmers, but earning the ire of the dicatatorship against leading church figures such as Ilagan Bishop [[Miguel Purugganan]], Diocesan Social Action Center researcher Sabino "Abe" Padilla, and the various nuns and lay workers of the Diocese.<ref name="PuruggananProfile">{{Cite web |date=October 9, 2015 |title=PURUGGANAN, Miguel Gatan |url=http://www.bantayog.org/purugganan-miguel-gatan/ |access-date=September 4, 2020 |website=Bantayog ng mga Bayani |language=en-US}}</ref>
+
+Also during that time, logging concessions were awarded to [[Juan Ponce Enrile]], [[Herminio Disini]], and other cronies, leading to the severe degradation of forest cover in the region, which contributed to widespread flooding and other environmental issues that persist today.<ref name="LoggingCagayanValley">{{Cite news |last=REYES |first=RACHEL A. G.  |date=2016-10-18 |title=Marcos cronies and the golden oriole of Isabela |url=https://www.manilatimes.net/2016/10/18/opinion/analysis/marcos-cronies-golden-oriole-isabela/291811 |url-status=dead |archive-url=https://web.archive.org/web/20201108174750/https://www.manilatimes.net/2016/10/18/opinion/analysis/marcos-cronies-golden-oriole-isabela/291811/ |archive-date=2020-11-08 |access-date=2024-05-10 |language=en}}</ref><ref name="VitugLoggingBook">{{Cite book |last=Danguilan Vitug |first=Marites |title=The Politics of Logging: Power from the Forest |date=1993 |publisher=Philippine Center for Investigative Journalism |isbn=978-971-8686-01-0 |location=Manila}}</ref>
+
+==== Integration of new provinces ====
+
+Kalinga-Apayao and Ifugao were transferred to the Cagayan Valley region in 1972, and afterwards Ferdinand Marcos imposed a migration policy for Ilokanos into those provinces; the natives of Apayao called [[isnag people|Isnag]] become minority there.
+
+=== Later 20th Century ===
+{{main|People Power Revolution|Cordillera autonomy movement}}
+After the [[People Power Revolution]] in 1986, many of the activists who had joined the underground movement against Marcos decided to "surface," as the new administration of [[Corazon Aquino]] released political prisoners and initiated peace talks.<ref>{{Cite journal |last=Villegas |first=Bernardo M. |date=1987-02-01 |title=The Philippines in 1986: Democratic Reconstruction in the Post-Marcos Era |url=https://online.ucpress.edu/as/article/27/2/194/22346/The-Philippines-in-1986-Democratic-Reconstruction |journal=Asian Survey |language=en |volume=27 |issue=2 |pages=194–205 |doi=10.2307/2644614 |jstor=2644614 |issn=0004-4687}}</ref> However, anti-left sentiment in her new cabinet, which included individuals who had aligned themselves with the [[Reform the Armed Forces Movement]], made the peace process difficult. Negotiations eventually collapsed, and unrest in Cagayan valley persisted.<ref>Curaming, Rommel and Claudio, Lisandro, A Historicised (Re)Assessment of EDSA 'People Power' (1986) (February 1, 2010). Asia Research Institute Working Paper No. 134. https://ssrn.com/abstract=1716572 or http://dx.doi.org/10.2139/ssrn.1716572</ref><ref name="Marchadesch20171124">{{Cite news |last=Marchadesch |first=Barbara |date=November 24, 2017 |title=TIMELINE: The peace talks between the government and the CPP-NPA-NDF, 1986 – present |language=en-US |work=GMA News Online |url=https://www.gmanetwork.com/news/news/specialreports/634324/timeline-the-peace-talks-between-the-government-and-the-cpp-npa-ndf-1986-present/story/ |url-status=live |access-date=April 15, 2020 |archive-url=https://web.archive.org/web/20171124103321/http://www.gmanetwork.com/news/news/specialreports/634324/timeline-the-peace-talks-between-the-government-and-the-cpp-npa-ndf-1986-present/story/ |archive-date=November 24, 2017}}</ref>
+
+When the [[Cordillera Administrative Region]] was formed in 1987 under [[Corazon Aquino]], the indigenous provinces of Ifugao and [[Kalinga-Apayao]] (later divided into the provinces of [[Kalinga province|Kalinga]] and [[Apayao]]) were transferred into the newly formed region.
+
+=== Contemporary history ===
+==== COVID-19 pandemic ====
+{{main|COVID-19 pandemic in Cagayan Valley}}
+During the worldwide [[COVID-19 pandemic]], the [[severe acute respiratory syndrome coronavirus&nbsp;2]] ({{nowrap|SARS-CoV-2}}) virus reached Cagayan Valley on March 21, 2020, when the first case of the disease was confirmed in [[Tuguegarao]].<ref>{{cite news |last1=Ablat |first1=Jhon Dave |title=Passenger from Manila is Cagayan Valley's 1st COVID-19 case |url=https://news.mb.com.ph/2020/03/23/passenger-from-manila-is-cagayan-valleys-1st-covid-19-case/ |access-date=April 22, 2020 |date=March 23, 2020 }}{{Dead link|date=February 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> All provinces have confirmed at least one COVID-19 case, with [[Batanes]] being the last province to confirm a COVID-19 case on September 28, 2020.<ref name="batanesnolonger"> {{cite news |last1=Mocon-Ciriaco |first1=Claudeth |title=DOH: Batanes no longer Covid-free, all PHL provinces now have Covid cases |url=https://businessmirror.com.ph/2020/09/30/doh-batanes-no-longer-covid-free-all-phl-provinces-now-have-covid-cases/ |access-date=September 30, 2020 |work=BusinessMirror |date=September 30, 2020}}</ref>
+
+==== Extreme climate events ====
+{{main|Climate change in the Philippines|Typhoon Vamco}}
+In November 2020, [[Typhoon Vamco]] (known in the Philippines as ''Typhoon Ulysses'') crossed the island of [[Luzon]],<ref>{{Cite news |last=Villanueva |first=Raymund B. |date=November 14, 2020 |title= Worst flooding in decades: Cagayan Valley's turn to cry for help |url=https://nordis.net/2020/11/14/article/news/cagval/worst-flooding-in-decades-cagayan-valleys-turn-to-cry-for-help/ |url-status=live |archive-url=https://web.archive.org/web/20240622145337/https://nordis.net/2020/11/14/article/news/cagval/worst-flooding-in-decades-cagayan-valleys-turn-to-cry-for-help/ |archive-date=2024-06-22 |access-date=2024-06-22 |work=Northern Dispatch}}</ref> causing dam operators from all around the island to release large amounts of water into their impounds as they neared their spilling points. All seven of [[Magat Dam]]'s gates were opened to prevent [[dam failure]], but the overflow into the [[Cagayan River]] and caused widespread floods in [[Cagayan]] and [[Isabela (province)|Isabela]].<ref>{{Cite web|last=Lalu|first=Gabriel Pabico|date=2020-11-13|title=Robredo assures Cagayan Valley: We heard you, gov't finding ways to reach you|url=https://newsinfo.inquirer.net/1360466/robredo-assures-cagayan-valley-we-heard-you-govt-finding-ways-to-reach-you|access-date=2020-11-13|website=INQUIRER.net|language=en}}</ref><ref>{{Cite web|date=2020-11-13|title=Cagayan province turned into 'Pacific Ocean': disaster management official|url=https://news.abs-cbn.com/news/11/14/20/cagayan-province-turned-into-pacific-ocean-disaster-management-official|access-date=2020-11-13|website=ABS-CBN News|language=en}}</ref><ref name="Robredobacksprobe">{{Cite web|title=Robredo backs probe into oversights that may have led to Cagayan Valley floods|url=https://www.philstar.com/headlines/2020/11/16/2057278/robredo-backs-probe-oversights-may-have-led-cagayan-valley-floods|access-date=2020-11-16|website=Philstar.com}}</ref> This event was worsened by the information gap had developed b as a result of the recent [[ABS-CBN franchise renewal controversy|shutdown of the ABS-CBN broadcast network]], because those areas had previously gotten weather updates primarily from the network.<ref name=":7">{{Cite web|last=Marquez|first=Consuelo|date=2020-11-14|title=After ABS-CBN shutdown, lack of Ulysses warning made Cagayan residents suffer– Robredo|url=https://newsinfo.inquirer.net/1360703/after-abs-cbn-shutdown-lack-of-ulysses-warning-made-cagayan-residents-suffer-robredo|access-date=2020-11-14|website=INQUIRER.net|language=en}}</ref><ref name=":8">{{Cite web|title=ABS-CBN's Wide Reach Missed by Netizens as Typhoon Ulysses Hits Philippines|url=https://www.msn.com/en-ph/entertainment/entertainmentnews/abs-cbns-wide-reach-missed-by-netizens-as-typhoon-ulysses-hits-philippines/ar-BB1aWXFi|access-date=2020-11-14|website=www.msn.com}}</ref><ref name="RoqueDeniesInfoGap">{{Cite web|title=Roque denies information gap in Cagayan floods, but vows to 'do better' in disaster response|url=https://cnnphilippines.com/news/2020/11/16/Roque-information-gap-Cagayan-flood.html|archive-url=https://web.archive.org/web/20201116090652/https://cnnphilippines.com/news/2020/11/16/Roque-information-gap-Cagayan-flood.html|url-status=dead|archive-date=November 16, 2020|access-date=2020-11-16|website=cnn|language=en}}</ref>
+
+==Geography==
+{{stack|float=right|[[File:Map of northern Luzon Island, Philippines, with the Sierra Madre and Cordillera mountain ranges indicated - ZooKeys-266-001-g001.jpg|thumb|{{center|Northern Luzon topography showing Cagayan Valley}}]]}}
+
+Cagayan Valley is the large mass of land in the northeastern region of [[Luzon]], comprising the provinces of [[Cagayan]], [[Isabela (province)|Isabela]], [[Nueva Vizcaya]], [[Quirino]], and the [[Batanes]] group of islands. It is bordered to the west by the [[Cordillera Central (Luzon)|Cordillera]] mountain range, to the east by the [[Sierra Madre (Philippines)|Sierra Madre]], to the south by the [[Caraballo Mountains]], and to the north by the [[Luzon Strait]].
+
+The region contains two landlocked provinces, Quirino and Nueva Vizcaya, which are ruggedly mountainous and heavily forested. Nueva Vizcaya is the remnant of the southern province created when Cagayan Province was divided in two in 1839. They are ethnically and linguistically diverse, with a substrate of [[Agta people|Agtas]], [[Negrito]]s who are food-gatherers with [[no fixed abode]]s, overlaid by [[Ilongot people|Ilongots]] and others in a number of tribes, some of whom were fierce head-hunters (they have given up the practice), with the latest but largest element of the population being the [[Ilocano people|Ilocanos]], closely followed by the [[Ibanag people|Ibanags]].
+
+===Administrative divisions===
+Cagayan Valley comprises five [[Provinces of the Philippines|provinces]], one independent [[Cities of the Philippines|city]], three component [[Cities of the Philippines|cities]], 89 [[Municipalities of the Philippines|municipalities]], and 2,311 barangays.<ref name="NSCB">{{cite web|title=List of Regions|url=http://www.nscb.gov.ph/activestats/psgc/listreg.asp|publisher=National Statistical Coordination Board|access-date=January 9, 2011|archive-url=https://web.archive.org/web/20081013150956/http://www.nscb.gov.ph/activestats/psgc/listreg.asp|archive-date=October 13, 2008}}</ref>
+
+====[[Provinces of the Philippines|Provinces]]====
+[[File:Ph cagayan valley.png|thumb|upright|Political map of Cagayan Valley]]
+{| class="wikitable sortable" style="background-color:#FDFDFD;text-align:center;font-size:90%;border:1pt solid grey;"
+|-
+! scope="col" style="border-bottom:none;" class="unsortable" | Province
+! scope="col" style="border-bottom:none;" class="unsortable" | Capital
+! rowspan="2" |Largest settlement
+! scope="col" style="border-bottom:none;" colspan=2 | Population {{small|(2020 census)}}<ref>{{Cite web|date=August 27, 2020|title=POPULATION BY REGION, PROVINCE, CITIES AND MUNICIPALITIES, 2020-2025|url=https://www.doh.gov.ph/node/15619|access-date=October 20, 2020|website=Department of Health|archive-date=May 14, 2021|archive-url=https://web.archive.org/web/20210514203439/https://doh.gov.ph/node/15619|url-status=dead}}</ref>
+! scope="col" style="border-bottom:none;white-space:nowrap;" class="unsortable" colspan=2 | Area<ref name="PSA-NSCB-ProvinceList">{{cite web |title=PSGC Interactive; List of Provinces |url=http://www.nscb.gov.ph/activestats/psgc/listprov.asp |website=[[Philippine Statistics Authority]] |access-date=March 29, 2016 |archive-url=https://web.archive.org/web/20130111015112/http://www.nscb.gov.ph/activestats/psgc/listprov.asp |archive-date=January 11, 2013 }}</ref>
+! scope="col" style="border-bottom:none;" colspan=2 | Density
+! scope="col" style="border-bottom:none;" class="unsortable" | Cities
+! scope="col" style="border-bottom:none;" class="unsortable" | {{abbr|Muni.|Municipalities}}
+! scope="col" style="border-bottom:none;" class="unsortable" | {{abbr|Barangay|Barangays}}
+|-
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-top:none;" colspan=2 |
+! scope="col" style="border-style:none none solid solid;" | km<sup>2</sup>
+! scope="col" style="border-style:none solid solid none;white-space:nowrap;" class="unsortable" | sq mi
+! scope="col" style="border-style:none none solid solid;" | /km<sup>2</sup>
+! scope="col" style="border-style:none solid solid none;white-space:nowrap;" class="unsortable" | /sq mi
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-top:none;" |
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Batanes]]
+| colspan="2" style="text-align:center;" | [[Basco, Batanes|Basco]]
+| {{percent and number|18831|3685744|disp=table|1|pad=yes}}
+| {{convert|219.01|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|18831/219.01|2}}|PD/km2|abbr=values|disp=table}}
+| 0
+| 6
+| [[List of barangays in Batanes|29]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Cagayan]]
+| colspan="2" style="text-align:center;" | [[Tuguegarao]]
+| {{percent and number|1268603|3685744|disp=table|1|pad=yes}}
+| {{convert|9,295.75|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|1268603/9,295.75|2}}|PD/km2|abbr=values|disp=table}}
+| 1
+| 28
+| [[List of barangays in Cagayan|820]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Isabela (province)|Isabela]]
+| colspan="2" style="text-align:center;" | [[Ilagan]]
+| {{percent and number|1697050|3685744|disp=table|1|pad=yes}}
+| {{convert|12,414.93|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|1697050/12,414.93|2}}|PD/km2|abbr=values|disp=table}}
+| 3
+| 34
+| [[List of barangays in Isabela|1,055]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Nueva Vizcaya]]
+| colspan="2" style="text-align:center;" | [[Bayombong]]
+| {{percent and number|497432|3685744|disp=table|1|pad=yes}}
+| {{convert|3,975.67|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|497432/3,975.67|2}}|PD/km2|abbr=values|disp=table}}
+| 0
+| 15
+| [[List of barangays in Nueva Vizcaya|275]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Quirino]]
+| style="text-align:center;" | [[Cabarroguis]]
+| style="text-align:center;" | [[Diffun]]
+| {{percent and number|203828|3685744|disp=table|1|pad=yes}}
+| {{convert|3,323.47|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|203828/3,323.47|2}}|PD/km2|abbr=values|disp=table}}
+| 0
+| 6
+| [[List of barangays in Quirino|132]]
+|-class="sortbottom"
+! scope="row" colspan=4 style="text-align:left;" | Total
+! scope="col" style="text-align:right;" | 3,685,744
+! scope="col" style="text-align:right;" | 28,228.83
+! scope="col" | {{convert|28,228.83|km2|disp=number|2}}
+! scope="col" style="text-align:right;" | {{sigfig|3685744/28,228.83|2}}
+! scope="col" style="text-align:right;" | {{convert|{{sigfig|3451410/28,228.83|2}}|PD/km2|disp=number}}
+! scope="col" | 4
+! scope="col" | 89
+! scope="col" | 2,311
+|-class="sortbottom" style="text-align:left;background-color:#F2F2F2;border-top:double grey;"
+| colspan=13 style="padding-left:1em;" |
+• Figures for Isabela include the ''independent component city'' of [[Santiago, Isabela|Santiago]].
+|}
+
+===== Governors and vice governors =====
+{| class="wikitable sortable"
+|-
+!width=140 |Province
+!width=150 |Image
+!width=235 |Governor
+!width=120 colspan=2 |Political Party
+!width=150 |Vice Governor
+|-
+|{{center|[[File:Ph seal batanes.png|75px]]}}{{center|[[Batanes]]}}
+|align=center |[[File:Gov Cayco.png|138x138px|alt=]]
+|[[Marilou Cayco]]
+| {{party name with colour|Liberal Party (Philippines)}}
+|Ignacio C. Villa
+|-
+|{{center|[[File: Official Seal of Cagayan.svg|75px]]}}{{center|[[Cagayan]]}}
+|align=center |[[File:Gov Mamba.png|138x138px]]
+|[[Manuel Mamba|Manuel N. Mamba]]
+| {{party name with colour|Nacionalista Party}}
+|[[Boy Vargas|Melvin K. Vargas, Jr.]]
+|-
+|{{center|[[File:Official Seal of Isabela.svg|75px]]}}{{center|[[Isabela (province)|Isabela]]}}
+|align=center |[[File:Gov Albano.png|138x138px]]
+|[[Rodolfo Albano III]]
+| {{party name with colour|Partido Demokratiko Pilipino-Lakas ng Bayan}}
+|Faustino G. Dy III
+|-
+|{{center|[[File: Nueva Vizcaya Seal.svg|75px]]}}{{center|[[Nueva Vizcaya]]}}
+|align=center |[[File:Gov Padilla.png|138x138px|alt=]]
+|[[Carlos Padilla (politician)|Carlos Padilla]]
+| {{party name with colour|Nacionalista Party}}
+|Jose Gambito
+|-
+|{{center|[[File: Official Seal of Quirino.svg|75px]]}}{{center|[[Quirino]]}}
+|align=center |[[File:Gov Cua.png|138x138px]]
+|[[Dakila Cua|Dakila Carlo E. Cua]]
+| {{party name with colour|Pederalismo ng Dugong Dakilang Samahan}}
+|Julius Caesar S. Vaquilar
+|}
+
+==== [[Cities of the Philippines|Cities]] and [[Municipalities of the Philippines|Municipalities]] ====
+{{unbulleted list
+| {{Color box|#BFF5FF|†|border=darkgray}} {{font|Regional center|size=90%}}
+}}
+
+{| class="wikitable sortable collapsible collapsed" style="text-align:center;background-color:#FDFDFD;font-size:90%;table-layout:fixed;"
+|-
+! scope="col" style="border-bottom:none;" class="unsortable" | City/Municipality
+! scope="col" style="border-bottom:none;" class="unsortable" | Population {{small|(2020)}}{{PH census|2020}}
+! scope="col" style="border-bottom:none;" class="unsortable" colspan=2 | Area<ref name="PSA-CitiesList">{{cite web|title=PSGC Interactive; List of Cities |url=http://www.nscb.gov.ph/activestats/psgc/listcity.asp |website=Philippine Statistics Authority |access-date=March 29, 2016 |archive-url=https://web.archive.org/web/20110429190752/http://www.nscb.gov.ph/activestats/psgc/listcity.asp |archive-date=April 29, 2011 }}</ref>
+! scope="col" style="border-bottom:none;" class="unsortable" colspan=2 | Density
+! scope="col" style="border-bottom:none;" class="unsortable" | Class
+! scope="col" style="border-bottom:none;" class="unsortable" | Income class
+! scope="col" style="border-bottom:none;" class="unsortable" | Province
+|-
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-style:hidden hidden solid solid;" | km<sup>2</sup>
+! scope="col" style="border-style:hidden solid solid hidden;" class="unsortable" | {{nowrap|sq mi}}
+! scope="col" style="border-style:hidden hidden solid solid;" | /km<sup>2</sup>
+! scope="col" style="border-style:hidden solid solid hidden;" class="unsortable" | {{nowrap|/sq mi}}
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-top:none;" |
+|-
+
+! scope="row" style="text-align:left;background-color:initial;" | [[Abulug]]
+| style="text-align:right;" | 34,579
+| {{convert|162.60|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|34579/162.60|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 3rd
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Aglipay, Quirino|Aglipay]]
+| style="text-align:right;" | 30,714
+| {{convert|161.70|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|30714/161.70|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 3rd
+| [[Quirino]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Alcala, Cagayan|Alcala]]
+| style="text-align:right;" | 41,295
+| {{convert|187.20|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|41295/187.20|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 3rd
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Alfonso Castañeda]]
+| style="text-align:right;" | 8,539
+| {{convert|375.40|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|8539/375.40|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Nueva Vizcaya]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Alicia, Isabela|Alicia]]
+| style="text-align:right;" | 73,874
+| {{convert|154.10|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|73874/154.10|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Allacapan]]
+| style="text-align:right;" | 35,234
+| {{convert|306.80|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|35234/306.80|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 3rd
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Ambaguio]]
+| style="text-align:right;" | 15,472
+| {{convert|156.26|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|15472/156.26|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 5th
+| [[Nueva Vizcaya]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" |  [[Amulung]]
+| style="text-align:right;" | 50,336
+| {{convert|264.51|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|50336/264.51|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 2nd
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" |  [[Angadanan]]
+| style="text-align:right;" | 44,977
+| {{convert|204.40|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|44977/204.40|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 3rd
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Aparri]]
+| style="text-align:right;" | 68,839
+| {{convert|286.64|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|68839/286.64|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Aritao]]
+| style="text-align:right;" | 42,197
+| {{convert|265.60|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|42197/265.60|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 2nd
+| [[Nueva Vizcaya]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" |  [[Aurora, Isabela|Aurora]]
+| style="text-align:right;" | 36,621
+| {{convert|115.56|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|36621/112.56|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 3rd
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Bagabag, Nueva Vizcaya|Bagabag]]
+| style="text-align:right;" | 37,985
+| {{convert|183.90|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|37985/183.90|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 2nd
+| [[Nueva Vizcaya]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Baggao]]
+| style="text-align:right;" | 87,753
+| {{convert|920.60|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|87753/920.60|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Ballesteros, Cagayan|Ballesteros]]
+| style="text-align:right;" | 34,488
+| {{convert|120.00|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|34488/120.00|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 4th
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Bambang, Nueva Vizcaya|Bambang]]
+| style="text-align:right;" | 55,789
+| {{convert|345.00|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|55789/345.00|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Nueva Vizcaya]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Basco, Batanes|Basco]]
+| style="text-align:right;" | 9,517
+| {{convert|49.46|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|9517/49.46|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 5th
+| [[Batanes]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Bayombong]]
+| style="text-align:right;" | 67,714
+| {{convert|136.00|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|67714/136.00|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Nueva Vizcaya]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Benito Soliven]]
+| style="text-align:right;" | 29,752
+| {{convert|184.40|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|29752/184.40|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 4th
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Buguey]]
+| style="text-align:right;" | 32,148
+| {{convert|164.50|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|32148/164.50|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 3rd
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Burgos, Isabela|Burgos]]
+| style="text-align:right;" | 26,040
+| {{convert|73.10|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|26040/73.10|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 4th
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Cabagan]]
+| style="text-align:right;" | 53,897
+| {{convert|430.40|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|53897/430.40|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Cabarroguis]]
+| style="text-align:right;" | 33,533
+| {{convert|260.20|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|33533/260.20|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 3rd
+| [[Quirino]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Cabatuan, Isabela|Cabatuan]]
+| style="text-align:right;" | 39,990
+| {{convert|72.00|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|39990/72.00|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 3rd
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Calayan, Cagayan|Calayan]]
+| style="text-align:right;" | 17,410
+| {{convert|164.50|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|17410/164.50|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 3rd
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Camalaniugan]]
+| style="text-align:right;" | 25,236
+| {{convert|76.50|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|25236/76.50|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 4th
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Cauayan, Isabela|Cauayan]]
+| style="text-align:right;" | 143,403
+| {{convert|336.40|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|143403/336.40|2}}|PD/km2|abbr=values|disp=table}}
+| Component city
+| 3rd
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Claveria, Cagayan|Claveria]]
+| style="text-align:right;" | 31,900
+| {{convert|194.80|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|31900/194.80|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 3rd
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Cordon, Isabela|Cordon]]
+| style="text-align:right;" | 46,477
+| {{convert|144.00|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|46477/144.00|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 3rd
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Delfin Albano]]
+| style="text-align:right;" | 29,928
+| {{convert|189.00|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|29928/189.00|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 4th
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Diadi]]
+| style="text-align:right;" | 19,236
+| {{convert|181.20|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|19236/181.20|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 4th
+| [[Nueva Vizcaya]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Diffun]]
+| style="text-align:right;" | 56,102
+| {{convert|320.10|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|56102/320.10|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 2nd
+| [[Quirino]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Dinapigue]]
+| style="text-align:right;" | 5,821
+| {{convert|574.40|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|5821/574.40|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Divilacan]]
+| style="text-align:right;" | 5,827
+| {{convert|889.49|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|5827/889.49|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 2nd
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Dupax del Norte]]
+| style="text-align:right;" | 33,295
+| {{convert|347.30|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|33295/347.30|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 3rd
+| [[Nueva Vizcaya]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Dupax del Sur]]
+| style="text-align:right;" | 21,224
+| {{convert|374.70|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|21224/374.70|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 2nd
+| [[Nueva Vizcaya]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Echague]]
+| style="text-align:right;" | 88,410
+| {{convert|680.80|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|88410/680.80|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Enrile, Cagayan|Enrile]]
+| style="text-align:right;" | 36,705
+| {{convert|184.50|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|36705/184.50|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 3rd
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Gamu]]
+| style="text-align:right;" | 30,655
+| {{convert|129.40|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|30655/129.40|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 4th
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Gattaran]]
+| style="text-align:right;" | 58,874
+| {{convert|707.50|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|58874/707.50|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Gonzaga, Cagayan|Gonzaga]]
+| style="text-align:right;" | 41,680
+| {{convert|567.43|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|41680/567.43|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Iguig]]
+| style="text-align:right;" | 30,060
+| {{convert|108.10|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|30060/108.10|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 4th
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Ilagan]]
+| style="text-align:right;" | 158,218
+| {{convert|1,166.26|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|158218/1,166.26|2}}|PD/km2|abbr=values|disp=table}}
+| Component city
+| 1st
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Itbayat]]
+| style="text-align:right;" | 3,128
+| {{convert|83.13|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|3128/83.13|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 5th
+| [[Batanes]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Ivana, Batanes|Ivana]]
+| style="text-align:right;" | 1,407
+| {{convert|16.54|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|1407/16.54|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 6th
+| [[Batanes]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Jones, Isabela|Jones]]
+| style="text-align:right;" | 45,628
+| {{convert|670.14|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|45628/670.14|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Kasibu]]
+| style="text-align:right;" | 41,776
+| {{convert|318.80|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|41776/318.80|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 3rd
+| [[Nueva Vizcaya]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Kayapa, Nueva Vizcaya|Kayapa]]
+| style="text-align:right;" | 26,469
+| {{convert|482.90|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|26469/482.90|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 3rd
+| [[Nueva Vizcaya]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Lal-lo]]
+| style="text-align:right;" | 48,733
+| {{convert|702.80|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|48733/702.80|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Lasam]]
+| style="text-align:right;" | 41,225
+| {{convert|213.70|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|41225/213.70|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 3rd
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Luna, Isabela|Luna]]
+| style="text-align:right;" | 20,697
+| {{convert|45.70|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|20697/45.70|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 5th
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Maconacon]]
+| style="text-align:right;" | 3,977
+| {{convert|538.66|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|3977/538.66|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 3rd
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Maddela]]
+| style="text-align:right;" | 40,943
+| {{convert|918.57|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|40943/918.57|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Quirino]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Mahatao]]
+| style="text-align:right;" | 1,703
+| {{convert|12.90|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|1703/12.90|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 6th
+| [[Batanes]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Mallig]]
+| style="text-align:right;" | 32,208
+| {{convert|133.40|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|32208/133.40|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 4th
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Nagtipunan]]
+| style="text-align:right;" | 25,399
+| {{convert|1,607.40|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|25399/1,607.40|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Quirino]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Naguilian, Isabela|Naguilian]]
+| style="text-align:right;" | 33,788
+| {{convert|169.81|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|33788/880.24|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 4th
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Palanan]]
+| style="text-align:right;" | 17,684
+| {{convert|880.24|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|17684/880.24|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Pamplona, Cagayan|Pamplona]]
+| style="text-align:right;" | 24,781
+| {{convert|173.30|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|24781/173.30|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 4th
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Peñablanca]]
+| style="text-align:right;" | 50,300
+| {{convert|1,193.20|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|50300/1,193.20|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Piat, Cagayan|Piat]]
+| style="text-align:right;" | 24,805
+| {{convert|139.60|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|24805/139.60|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 4th
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Quezon, Isabela|Quezon]]
+| style="text-align:right;" | 27,037
+| {{convert|189.90|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|27037/189.90|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 4th
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Quezon, Nueva Vizcaya|Quezon]]
+| style="text-align:right;" | 24,055
+| {{convert|187.50|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|24055/187.50|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 4th
+| [[Nueva Vizcaya]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Quirino, Isabela|Quirino]]
+| style="text-align:right;" | 25,023
+| {{convert|126.20|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|25023/126.20|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 4th
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Ramon, Isabela|Ramon]]
+| style="text-align:right;" | 56,523
+| {{convert|135.17|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|56523/135.17|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 2nd
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Reina Mercedes, Isabela|Reina Mercedes]]
+| style="text-align:right;" | 27,900
+| {{convert|57.14|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|27900/57.14|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 4th
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Rizal, Cagayan|Rizal]]
+| style="text-align:right;" | 19,077
+| {{convert|124.40|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|19077/124.40|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 5th
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Roxas, Isabela|Roxas]]
+| style="text-align:right;" | 65,839
+| {{convert|184.80|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|65839/184.80|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Sabtang]]
+| style="text-align:right;" | 1,696
+| {{convert|40.70|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|1696/40.70|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 6th
+| [[Batanes]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Saguday]]
+| style="text-align:right;" | 17,137
+| {{convert|55.50|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|17137/55.50|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 5th
+| [[Quirino]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[San Agustin, Isabela|San Agustin]]
+| style="text-align:right;" | 22,096
+| {{convert|278.40|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|22096/278.40|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 3rd
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[San Guillermo]]
+| style="text-align:right;" | 20,915
+| {{convert|325.49|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|20915/325.49|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 4th
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[San Isidro, Isabela|San Isidro]]
+| style="text-align:right;" | 27,044
+| {{convert|71.90|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|27044/71.90|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 5th
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[San Manuel, Isabela|San Manuel]]
+| style="text-align:right;" | 34,085
+| {{convert|112.77|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|34085/112.77|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 4th
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[San Mariano, Isabela|San Mariano]]
+| style="text-align:right;" | 60,124
+| {{convert|1,469.50|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|60124/1,469.50|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[San Mateo, Isabela|San Mateo]]
+| style="text-align:right;" | 66,663
+| {{convert|120.60|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|66663/120.60|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[San Pablo, Isabela|San Pablo]]
+| style="text-align:right;" | 26,320
+| {{convert|637.90|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|26320/637.90|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 2nd
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Sanchez-Mira]]
+| style="text-align:right;" | 26,164
+| {{convert|198.80|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|26164/198.80|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 3rd
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Santa Ana, Cagayan|Santa Ana]]
+| style="text-align:right;" | 35,688
+| {{convert|441.30|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|35688/441.30|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 2nd
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Santa Fe, Nueva Vizcaya|Santa Fe]]
+| style="text-align:right;" | 18,276
+| {{convert|399.81|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|18276/399.81|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 3rd
+| [[Nueva Vizcaya]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Santa Maria, Isabela|Santa Maria]]
+| style="text-align:right;" | 25,758
+| {{convert|140.00|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|25758/140.00|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 4th
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Santa Praxedes, Cagayan|Santa Praxedes]]
+| style="text-align:right;" | 4,434
+| {{convert|109.97|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|4434/109.97|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 5th
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Santa Teresita, Cagayan|Santa Teresita]]
+| style="text-align:right;" | 19,573
+| {{convert|166.98|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|19573/166.98|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 4th
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Santiago, Isabela|Santiago]]&nbsp;{{ref label|Santiago|1|1}}
+| style="text-align:right;" | 148,580
+| {{convert|275.00|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|148580/275.50|2}}|PD/km2|abbr=values|disp=table}}
+| Independent component city
+| 1st
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Santo Niño, Cagayan|Santo Niño]]
+| style="text-align:right;" | 28,537
+| {{convert|512.90|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|28537/512.90|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 2nd
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Santo Tomas, Isabela|Santo Tomas]]
+| style="text-align:right;" | 24,528
+| {{convert|60.70|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|24528/60.70|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 4th
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Solana, Cagayan|Solana]]
+| style="text-align:right;" | 88,445
+| {{convert|234.60|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|88445/234.60|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Solano, Nueva Vizcaya|Solano]]
+| style="text-align:right;" | 65,287
+| {{convert|139.80|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|65287/139.80|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Nueva Vizcaya]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Tuao]]
+| style="text-align:right;" | 63,970
+| {{convert|215.50|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|63970/215.50|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:#BFF5FF;border-right:0;" |† [[Tuguegarao]]
+| style="text-align:right;" | 166,334
+| {{convert|144.80|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|166334/144.80|2}}|PD/km2|abbr=values|disp=table}}
+| Component city
+| 3rd
+| [[Cagayan]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Tumauini]]
+| style="text-align:right;" | 70,743
+| {{convert|467.30|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|70743/467.30|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 1st
+| [[Isabela (province)|Isabela]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Uyugan]]
+| style="text-align:right;" | 1,380
+| {{convert|16.28|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|1380/16.28|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 6th
+| [[Batanes]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Villaverde, Nueva Vizcaya|Villaverde]]
+| style="text-align:right;" | 20,118
+| {{convert|81.50|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|20118/81.50|2}}|PD/km2|abbr=values|disp=table}}
+| Municipality
+| 5th
+| [[Nueva Vizcaya]]
+|-class="sortbottom" style="text-align:left;background-color:#F2F2F2;"
+| colspan=9 |
+{{note label|Santiago|1|1}}Santiago City is administratively and legally independent from the province of Isabela as stated in Section 25 of the LGC.<ref>{{cite web|title=Republic Act No. 7160 LOCAL GOVERNMENT CODE OF 1991|url=http://www.lawphil.net/statutes/repacts/ra1991/ra_7160_1991.html|publisher=The LawPhil Project|access-date=November 5, 2013}}</ref>
+|}
+
+==Demographics==
+{{Philippine Census
+
+| align= left
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 =
+| 2030 =
+| footnote= Source: Philippine Statistics Authority<ref name=NSO>{{cite web|url=https://www.census.gov.ph/sites/default/files/attachments/hsd/pressrelease/Population%20and%20Annual%20Growth%20Rates%20for%20The%20Philippines%20and%20Its%20Regions%2C%20Provinces%2C%20and%20Highly%20Urbanized%20Cities%20Based%20on%201990%2C%202000%2C%20and%202010%20Censuses.pdf |title=Population and Annual Growth Rates for The Philippines and Its Regions, Provinces, and Highly Urbanized Cities |work=2010 Census and Housing Population |publisher=Philippine Statistics Authority |access-date=August 9, 2013 |archive-url=https://web.archive.org/web/20130928012059/http://www.census.gov.ph/sites/default/files/attachments/hsd/pressrelease/Population%20and%20Annual%20Growth%20Rates%20for%20The%20Philippines%20and%20Its%20Regions%2C%20Provinces%2C%20and%20Highly%20Urbanized%20Cities%20Based%20on%201990%2C%202000%2C%20and%202010%20Censuses.pdf |archive-date=September 28, 2013 }}</ref>
+}}
+
+{| class="wikitable" style="background-color:#F9F9F9;border-style:solid;border-color:#AAAAAA;border-width:1px;table-layout:fixed;width:18.5em;white-space:nowrap;"
+|-style="font-size:90%"
+! scope="col" | Population percentage<br />{{small|(2020)}}
+|-style="font-size:90%;"
+| {{#invoke:Chart|pie chart
+| radius  = 110
+| slice 1 = 18831 : Batanes
+| slice 2 = 1268603 : Cagayan
+| slice 3 = 1697050 : Isabela
+| slice 4 = 497432 : Nueva Vizcaya
+| slice 5 = 203828 : Quirino
+| percent = true
+}}
+|}
+
+{{clear left}}
+
+===Languages===
+[[Ilocano language|Ilocano]] is the main lingua franca (orally) of the region. Other languages include [[Ibanag language|Ibanag]] and [[Ivatan language|Ivatan]], the main language of [[Batanes]]. The use of [[Tagalog language|Tagalog]] and [[English language|English]] also serve as the region's language in education, governance, tourism, popular culture, and commerce inside and outside the region.
+
+==Economy==
+{{stack|float=left|{{PH poverty incidence}}}}
+[[File:NuevaVizcayajf5590 11.JPG|thumb|Rice fields in [[Nueva Vizcaya]]]]
+[[File:Tuguegarao City Scenery.jpg|thumb|A view of Tuguegarao, Cagayan as seen in April 2011]]
+
+The province of [[Isabela (province)|Isabela]] and the city of [[Santiago, Isabela|Santiago]]<ref>{{cite web|title= Transforming Santiago City into an independent component city up north |url= https://businessmirror.com.ph/2018/06/30/transforming-santiago-city-into-an-independent-component-city-up-north/ |work=Ceasar M. Perante of the Business Mirror|date= June 30, 2018 |publisher=businessmirror.com.ph|access-date=June 30, 2018}}</ref> are notably the most progressive province and richest city in the region, respectively.<ref>{{cite web|title= Santiago City: In the commercial hub of Cagayan Valley|url= https://business.inquirer.net/63071/santiago-city-in-the-commercial-hub-of-cagayan-valley |work= Amadís Ma. Guerrero - @inquirerdotnet
+|date= June 4, 2012 |publisher=businessinquirer.net|access-date=June 4, 2012}}</ref><ref>[http://nobert-bermosa.blogspot.com/2011/06/top-10-highest-income-earning.html Top 10 Highest earning Philippine province] ''Nobert Bermosa website''. Retrieved June 17, 2012.</ref><ref>{{cite web|title=Richest Cities and Provinces in PH 2021|url=https://www.cnnphilippines.com/news/2022/10/18/QC-Cebu-remain-PH-richest-city-province-COA-.html|work=CNN PH|publisher=cnnphilippines.com|access-date=October 18, 2022|archive-date=October 17, 2022|archive-url=https://web.archive.org/web/20221017225757/https://www.cnnphilippines.com/news/2022/10/18/QC-Cebu-remain-PH-richest-city-province-COA-.html|url-status=dead}}</ref> Isabela was the 9th richest province in the [[Philippines]] in 2021, being the only province from the region to be included in the list.<ref>[http://nobert-bermosa.blogspot.com/2011/06/top-10-highest-income-earning.html Top 10 Highest earning Philippine province], ''Nobert Bermosa website'', Retrieved June 17, 2012.</ref><ref>{{cite web|title=Isabela,10th richest province in the Philippines in 2011|url=http://lifestyle.inquirer.net/174837/isabela-uncovered/|work=Inquirer PH|date=October 19, 2014|publisher=Inquirer|access-date=October 19, 2014}}</ref><ref>{{cite web|title=Richest Cities and Provinces in PH 2021|url=https://www.cnnphilippines.com/news/2022/10/18/QC-Cebu-remain-PH-richest-city-province-COA-.html|work=CNN PH|publisher=cnnphilippines.com|access-date=October 18, 2022|archive-date=October 17, 2022|archive-url=https://web.archive.org/web/20221017225757/https://www.cnnphilippines.com/news/2022/10/18/QC-Cebu-remain-PH-richest-city-province-COA-.html|url-status=dead}}</ref><ref>{{cite web|title=Isabela, the Regional Trade and Industrial Center of north-eastern Luzon|url=http://lifestyle.inquirer.net/174837/isabela-uncovered/|work=Inquirer PH|date=October 19, 2014|publisher=Inquirer|access-date=October 19, 2014}}</ref><ref>{{cite web|title= Cagayan Valley is 5th fastest growing region in the country in 2019 |url= http://neda.rdc2.gov.ph/?p=1798 |work= NEDA Region 2|publisher=neda.rdc2.gov.ph|access-date=November 23, 2020}}</ref>
+
+The city of [[Tuguegarao]] is the center of excellence in education, commerce, trade and culture and as the economic center of the region, the city continuously aims for outstanding performance and competence in administration, citizen participation, community and economic development, cultural arts, education, fiscal management, infrastructure, intergovernmental cooperation, planning, public safety, recreation and leisure services, social services, and technology. Its economy gradually shifted from agriculture to secondary/tertiary economic activities such as trading, commerce and services. The shift was ushered by city's role as the ''Regional Government Center'' and ''Center of Commerce in Northern Luzon''.<ref>{{cite web|title=Tuguegarao; The Country's Premiere Ybanag City|url=https://philippinescities.com/tuguegarao-city-cagayan/|publisher=Philippine Cities|access-date=June 5, 2018}}</ref><ref>{{cite web|title= Cagayan Valley's economy rebounds to 5.1% in 2021 |url= https://pia.gov.ph/news/2022/05/23/cagayan-valleys-economy-rebounds-to-51-in-2021 |work= Mark Djeron Tumabao of the Philippine Information Agency|date= May 23, 2022 |publisher=pia.gov.ph|access-date=May 23, 2022}}</ref><ref>{{cite web|title= DBP-backed infra projects to boost economic activity in Tuguegarao City |url= https://www.dbp.ph/newsroom/dbp-backed-infra-projects-to-boost-economic-activity-in-tuguegarao-city/ |work= Development Bank of the Philippines|date= October 4, 2019 |publisher=dbp.ph|access-date=October 4, 2019}}</ref>
+
+[[Tuguegarao|Tuguegarao City]] was included to be one of the digital cities for 2025 to sustain the rapid growth of the Information Technology and Business Process Management and to promote development in the city. The program (Digital Cities 2025) was created through a partnership between the DICT, the IT and Business Process Association of the Philippines (IBPAP), and Leechiu Property Consultants (LPC).<ref>{{Cite news |title=25 PH cities chosen to be next 'digital cities' by 2025|url=https://www.pna.gov.ph/articles/1107517|access-date=2020-09-02|work=Philippine News Agency |language=en}}</ref>
+
+[[Cauayan, Isabela|Cauayan]] is a component city in the province of Isabela. It is dubbed as the ''Ideal City of the North'' and the host city for the proposed '''Isabela Special Economic Zone''' and the '''Regional Agro-Industrial Growth Center'''.<ref>{{cite web|title= Metropolitan Cauayan eyed as PH's agro-industrial capital |url= https://www.pna.gov.ph/articles/1022527 |work= Merlito Edale of the Philippines News Agency|publisher=pna.gov.ph|access-date=January 23, 2018}}</ref> It is the home of Cosmos Bottling Corporation, now acquired by the giant multinational business conglomerate San Miguel Corporation manufactures soft drinks in the area and the Mega Asia Bottling Corporation with its newly built plant for RC Cola brand. It is also here where the regional sales offices of several multi-national companies are located. As a young city, it has enormous potential for small to large enterprises and its real estate industry is just beginning. Medium size commercial centers or subdivisions are the appropriate ventures to put up.<ref>{{cite web| title =Cauayan; The Ideal City of the North| url = https://philippinescities.com/cauayan-city-isabela/| publisher=Philippine Cities| access-date=June 5, 2018}}</ref><ref>{{cite web|title=Future Investment Hub|url= http://www.rdc2.gov.ph/invest/isabela/index.php/basic-facts-2/future-investment-hub |work=Official Website of Isabela the Queen Province of the PH|publisher=rdc2.gov.ph|access-date=December 31, 2015}}</ref>
+
+[[Ilagan]] is a component city and the capital of the province of Isabela. The city is the ''Corn Capital of the Philippines'' and has been considered as the ''Primary Growth Center of Region 2''.<ref>{{cite web|title=Economic Profile; City of Ilagan|url= https://cmci.dti.gov.ph/lgu-profile.php?lgu=Ilagan |work=CMCI DTI|publisher=cmci.dti.gov.ph|access-date=March 8, 2022}}</ref><ref>{{Cite web|first=CESO |last=Communications|date=January 17, 2020|title=Ilagan Makes Its Way On The Map|url=https://www.ceso-saco.com/ilagan-makes-its-way-on-the-map/|access-date=October 17, 2021|website=CESO - Stronger economies. Better lives.}}</ref><ref>{{cite web|title=LANDBANK-funded bridges, hospital help boost Ilagan City's dev't|url= https://www.landbank.com/news/landbank-funded-bridges-hospital-help-boost-ilagan-citys-devt |work=Landbank of the Philippines|publisher=landbank.com|access-date=March 23, 2023}}</ref> Most of the industries in the city are agri-based. Over the past decades, there has been a great number of local investments in poultry and hog raising. There are several poultry contract growers and small and medium scale hog raisers in the city. Other support facilities, warehouses and small and big rice mills, strategically located in the different barangays of the city to address the storage needs of farmers during the harvest season. Of all cities in the country, Ilagan ranks as the top producer of corn.<ref>{{cite web|title=The Corn Capital of the Philippines|url= https://agriculture.cityofilagan.com |work=ILAGAN CITY AGRICULTURIST OFFICIAL WEBSITE|publisher=agriculture.cityofilagan.com|access-date=August 11, 2015}}</ref> As an agriculture-based city, it produces ample supply of corn, rice, vegetables and legumes. Fruits like the banana are year-round products especially in the mountainous areas of the city. Ilagan also produces seasonal fruits such as mangoes and pomelo. Commerce and trade is considered to be the city's second economic-based income. It is also the hub of the [[Coca-Cola FEMSA Philippines|Coca-Cola FEMSA Philippines, Inc.]], one of the industrial complexes in the region.<ref>{{cite web| title =Ilagan; The Corn Capital of the Philippines| url = https://philippinescities.com/ilagan-city-isabela/| publisher=Philippine Cities| access-date=June 5, 2018}}</ref><ref>{{cite web|title=Local Economic Development & Investment Promotion in the City of Ilagan|url= https://cityofilagan.com/local-economic-development-investment-promotion-ilagan/ |work=Official website of the City of Ilagan|publisher=cityofilagan.com|access-date=March 8, 2022}}</ref>
+
+[[Solano, Nueva Vizcaya|Solano]] is a first class municipality and the main commercial and financial center of the province of Nueva Vizcaya. It also has the most fast food restaurants chains and the most banks among the municipalities in the entire region. According to the 2016 Cities and Municipalities Competitiveness Index conducted by the National Competitiveness Council, Solano took the 25th spot overall and ranked 30th among the first class and second class municipalities in the Philippines. This further solidified the status of Solano as the undisputed premier town of Cagayan Valley being the premier town in Nueva Vizcaya and the fastest-growing municipality in the region.<ref>{{cite web| title =Solano; The Premiere Town of Cagayan Valley| url = http://nuevavizcaya.gov.ph/municipalities/solano/| publisher=NuevaVizcaya.gov.ph| access-date=June 5, 2018}}</ref><ref>{{cite web| title =2016 Cities and Municipalities Competitiveness Index| url = http://www.cmcindex.org.ph/pages/rankings/2016rankings.php| publisher=cmcindex.org.ph| access-date=June 5, 2018}}</ref><ref>{{cite web|title= Solano gears up for cityhood |url= https://www.manilatimes.net/2023/01/10/news/regions/solano-gears-up-for-cityhood/1873581/amp |work= LEANDER C. DOMINGO of The Manila Times|date= January 10, 2023 |publisher=manilatimes.net|access-date=January 10, 2023}}</ref>
+
+Cagayan has several attractions which include beaches, swimming, snorkeling, skin-diving, fishing in the river and the sea, hiking in primeval forest, mountain-climbing, archaeological sites, the collection of the provincial museum, the Callao Caves, and many churches.
+The '''[[Cagayan Economic Zone Authority]] (CEZA)''' is situated in [[Santa Ana, Cagayan]].
+
+[[Quirino Province|Quirino]] is the youngest province in the region. With its agricultural based nature, the vast vegetative agricultural covers reveal the major source of living of the people. Farming has been the main industry in the province, with rice and corn as major crops as with other provinces in the region. Virgin forest and wealthy bodies of water have been great contributors in its development. Small scale industries like furniture making, basketry, rattan craft, and dried/fossilized flower production, where the province was famously known, are prevalent. Banana products also sold in and out the province and also for export purposes. The small scale business and associations also make their own products like banana chips, peanuts, patupats and others. The province also produces a substantial amount of fruits/crops like mango, citrus, pineapple, coffee, coconut, papaya, ''lanzones'', ''rambutan'' and vegetables.<ref>{{cite web| title =Economy of Quirino Province| date=July 15, 2013 |url=http://ilovequirinoprov.blogspot.com/2013/07/normal-0-false-false-false-en-us-x-none_4296.html?m=1| publisher=I Love Quirino| access-date=June 7, 2018}}</ref><ref>{{cite web| title=The Province of Quirino| url=http://pia.gov.ph/provinces/quirino| publisher=Department of Trade and Industry (Region 2)| access-date=June 7, 2018| archive-url=https://web.archive.org/web/20180612142315/http://pia.gov.ph/provinces/quirino| archive-date=June 12, 2018}}</ref>
+
+The province of [[Nueva Vizcaya]] has basically an agricultural economy with commerce, trade, and industry contributing to its growth and development. Among other major economic activities are farming and cattle and swine raising. Primary crops are ''palay'' and corn. The province produces quality onions and vegetables often sold in Metro Manila. Oranges and mangoes are now major crops being exported fresh to other Asian countries; earning its title as the ''Citrus Capital of the Philippines''.<ref>{{cite web| title=The Province of Nueva Vizcaya| url=http://pia.gov.ph/provinces/nueva-vizcaya| publisher=DTI Region 2| access-date=June 7, 2018| archive-url=https://web.archive.org/web/20180612140725/http://pia.gov.ph/provinces/nueva-vizcaya| archive-date=June 12, 2018}}</ref><ref>{{cite web| title =The Province of Nueva Vizcaya; Citrus Capital of the Philippines|date=February 28, 2015 |url=https://businessmirror.com.ph/a-taste-of-nueva-vizcayas-golden-harvest/|publisher=Business Mirror| access-date=February 28, 2015}}</ref>
+
+[[Batanes]] is the northernmost and smallest province in the region as well as in the whole Philippines. It is the only province located outside the mainland Cagayan Valley. Due to its geographical location, fishing is considered as a major industry and source of livelihood for the people. Garlic and cattle are major export crops. Ivatans also plant ''camote'' (sweet potato), cassava, gabi or tuber and a unique variety of white ''uvi''. Sugarcane is raised to produce ''palek'', a kind of native wine, and vinegar. Tourism also contributes to the province's thriving economy.<ref>{{cite web|title=The Province of Batanes|url=http://pia.gov.ph/provinces/batanes|work=Philippine Information Agency|access-date=June 7, 2018|archive-url=https://web.archive.org/web/20180612162117/http://pia.gov.ph/provinces/batanes|archive-date=June 12, 2018}}</ref>
+
+===Agriculture===
+
+Cagayan Valley being the country's second largest region in terms of land area. As of 2022, Cagayan Valley region remains to be the top producer of corn in the whole country and second in rice production.<ref>{{cite web|title= Region 2 posts high rice, corn yield |url= https://www.da.gov.ph/region-2-posts-high-rice-corn-yield/ |work= DA Communications Group |date= February 3, 2022 |publisher=da.gov.ph|access-date=February 3, 2022}}</ref><ref>{{cite web|title= Cagayan Valley posted the highest increment in agricultural production in 2019 at 6.6 percent |url= https://psa.gov.ph/content/cagayan-valley-posted-highest-increment-agricultural-production-2019-66-percent |work= Philippine Statistics Authority|publisher=psa.gov.ph|access-date= October 30, 2020}}</ref> Isabela is now dubbed as the top producer of Corn in the Philippines and the Rice Granary of the North.<ref>{{cite web|title= Cagayan Valley remains number 1 corn producer, 2nd in rice |url= http://rdc.rdc2.gov.ph/?p=138 |work= Philippine Information Agency & Regional Dev't Council (RII)|publisher=rdc.rdc2.gov.ph|access-date=January 17, 2023}}</ref><ref>{{cite web|title= Cagayan Valley, the granary region: where to? |url= https://business.inquirer.net/213089/cagayan-valley-the-granary-region-where-to |work= Inquirer.net|date= August 8, 2016 |publisher= Rolando T. Dy - @inquirerdotnet
+|access-date=August 8, 2016}}</ref>
+
+===Trade and industry===
+In 2014, retail giants like [[Robinsons Malls|Robinsons Land]] and [[SM Prime]] opened its pioneer malls in the region, the [[Robinsons Place Santiago]] and [[SM City Cauayan]] in [[Santiago, Isabela|Santiago City]] and [[Cauayan, Isabela|Cauayan]] respectively.<ref>{{cite web|title=SM City Cauayan now open|url= https://lifestyle.inquirer.net/174808/sm-city-cauayan-is-now-open/amp/ |work=inquirer.net|date= October 18, 2014 |publisher=lifestyle.inquirer.net|access-date=October 19, 2014}}</ref><ref>{{cite web|title=Robinsons opening malls in Roxas and Santiago cities|url= https://business.inquirer.net/162912/robinsons-opening-malls-in-roxas-and-santiago-cities-this-month/amp |work=inquirer.net|publisher=business.inquirer.net|access-date=February 3, 2014}}</ref> The two retail companies further strengthened their presence in the region with the opening of [[SM Center Tuguegarao Downtown]]<ref>{{cite web|title= SM Prime opens its Newest Mall in Tuguegarao City, Cagayan|url= https://www.sminvestments.com/press_release/sm-prime-opens-its-newest-mall-in-tuguegarao-city-cagayan/ |work=SM Investments|date= October 10, 2017 |publisher=sminvestments.com|access-date=October 10, 2017}}</ref> in 2017 and [[Robinsons Malls|Robinsons Place Tuguegarao]]<ref>{{cite web|title= Robinsons Land opens 50th mall|url= https://www.bworldonline.com/corporate/2018/07/20/174191/robinsons-land-opens-50th-mall/?amp |work=Business World|date= July 19, 2018 |publisher=bworldonline.com|access-date=July 20, 2018}}</ref> in 2018, both are located in the region's capital, [[Tuguegarao City]]. In 2022, [[SM Prime]] opened [[SM Supermalls|SM City Tuguegarao]], its third in the region and second in Tuguegarao City.<ref>{{cite web|title= Newest SM mall opens in Tuguegarao|url= https://www.philstar.com/business/2022/11/19/2224782/newest-sm-mall-opens-tuguegarao/amp/ |work=Philippine Star Global|date= November 19, 2022 |publisher=philstar.com|access-date=November 19, 2022}}</ref>
+
+In 2018, [[Vista Land|Vista Land and Life Scapes, Inc]]. announced the establishment of its first high-end mall in the region that is Vista Mall Santiago in [[Santiago, Isabela|Santiago City]], and they are also putting up Vista Mall in [[Tuguegarao|Tuguegarao City]] it will be second on the region after Vista Mall Santiago.<ref>{{cite web|title= Vista Land Plans to Adds 7 New Malls to its Portfolio by 2020|url= https://www.orissa-international.com/business-news/vista-land-plans-to-adds-7-new-malls-to-its-portfolio-by-2020/ |work=Orissa International|publisher=orissa-international.com|access-date=January 1, 2019}}</ref><ref>{{cite web|title= Vista Land to build seven new malls in next 2 years |url= https://manilastandard.net/business/corporate/284664/vista-land-to-build-seven-new-malls-in-next-2-years.html |work=Manila Standard Business|date= January 6, 2019 |publisher=manilastandard.net|access-date=January 6, 2019}}</ref>
+
+===Aquaculture and fishing industry===
+
+On January 11, 2008, the Bureau of Fisheries and Aquatic Resources (BFAR) stated that [[tilapia]] ([[species]] of [[cichlid]] [[fishes]] from the [[tilapiine cichlid]] [[tribe]]) production grew and Cagayan Valley is now the [[Philippines]]' [[tilapia]] capital ([[Saint Peter]]'s fish).<ref>{{cite web|title= Cagayan Valley country's tilapia capital |url= https://www.philstar.com/nation/2008/01/13/38369/cagayan-valley-countryrsquos-tilapia-capital/amp/ |work= Charlie Lagasca(Philstar.com) |date= January 13, 2008 |publisher=philstar.com|access-date=January 13, 2008}}</ref><ref>{{cite web| title=Cagayan Valley emerges as the Tilapia capital in the Philippines |url= https://m.efeedlink.com/contents/01-15-2008/4d7777eb-bf11-40e7-aa67-9aa07037bf9b-a001.html|work=eFeedLink |publisher=efeedlink.com|access-date=January 15, 2008}}</ref>
+<ref name="DTIGovPH">{{cite web|title=Profiles|url=http://www.dti.gov.ph/rog/index.php/25-regions/region-02?start=5|website=[[Department of Trade and Industry (Philippines)|Department of Trade and Industry]]|access-date=March 6, 2016|quote=The region is hailed as the "Tilapia Capital of the Philippines" The main crops are rice, corn, and tobacco. Fishing is prevalent in the coast of Cagayan, Isabela, Batanes and Magat Dam in Isabela.|archive-url=https://web.archive.org/web/20160307112024/http://www.dti.gov.ph/rog/index.php/25-regions/region-02?start=5|archive-date=March 7, 2016}}</ref> Production supply grew 37.25% since 2003, with 14,000 metric tons (MT) in 2007. The recent aquaculture congress found that the growth of tilapia production was due to government interventions: provision of fast-growing species, accreditation of private hatcheries to ensure supply of quality fingerlings, establishment of demonstration farms, providing free fingerlings to newly constructed fishponds, and the dissemination of tilapia to [[Nueva Vizcaya]] (in [[Diadi]] town). Cagayan Valley is one of the largest tilapia producing regions in the country,<ref>{{cite web|title= Cagayan Valley Tops Charts for Tilapia |url= https://thefishsite.com/articles/cagayan-valley-tops-charts-for-tilapia |work= The Fish Site|date= January 14, 2008 |publisher=thefishsite.com|access-date=January 14, 2008}}</ref> with Isabela as the leading producer.<ref>{{cite web|title= Tilapia farmers cope with climate change in Isabela |url= https://www.agriculture.com.ph/2021/01/22/tilapia-farmers-cope-with-climate-change-in-isabela/ |work= Agriculture Magazine|publisher=agriculture.com.ph|access-date=January 22, 2021}}</ref><ref>{{cite web| title= Isabela fish farm reels in success with LANDBANK support |url= https://www.landbank.com/news/isabela-fish-farm-reels-in-success-with-landbank-support |work= Landbank of the Philippines|publisher=landbank.com|access-date=July 7, 2022}}</ref> The development of the tilapia farming industry in the province came about with the water supply provided by the Magat Reservoir for irrigating rice fields. The high demand for food fish in the region was also a contributing factor. Based on the data from the Bureau Fisheries and Aquatic Resources in 2020, there are about 1,000 hectares of freshwater ponds in Isabela, producing around 16,000 metric tons of tilapia a year.<ref>{{cite web| title=Isabela holds the record as the highest producer of Tilapia in Region 2| url=http://www.boi.gov.ph/files/investment%20fact%20sheet/Isabela.pdf| publisher=boi.gov.ph| access-date=June 7, 2018| archive-url=https://web.archive.org/web/20180127160705/http://www.boi.gov.ph/files/investment%20fact%20sheet/Isabela.pdf| archive-date=January 27, 2018}}</ref><ref>{{cite web| title= BFAR promotes tilapia, ulang polyculture to benefit fish farmers in Cagayan Valley |url= https://mb.com.ph/2022/10/08/bfar-promotes-tilapia-ulang-polyculture-to-benefit-fish-farmers-in-cagayan-valley/ |work=Liezle Basa Iñigo of Manila Bulletin |publisher=mb.com.ph|access-date=October 8, 2022}}</ref><ref>{{cite web| title= Tilapia industry gets support from DA |url= https://northernforum.net/tilapia-industry-gets-support-from-da/?amp_markup=1 |work= Jerico Joshua Kahulugan of the Northern Forum|publisher=northernforum.net|access-date=February 7, 2023}}</ref>
+
+Cagayan's coastline is one of the longest in the country having almost 73% of Cagayan Valley Region's coastal seaboards. This is aside from the large rivers and their tributaries, lakes, creeks and streams which are also rich fishing and aquaculture grounds. Untapped coastal fishing grounds stretch from the towns of [[Santa Praxedes, Cagayan|Santa Praxedes]] in the west to [[Santa Ana, Cagayan|Santa Ana]] on the east, on its northern coast facing the [[Babuyan Channel]];<ref>{{cite web|title=Claveria lives up to its name as Coastal Paradise of the North|url=https://www.pna.gov.ph/articles/1008828 |work= Max Prudencio of the Philippine News Agency|publisher=pia.gov.ph|access-date=September 7, 2017}}</ref><ref>{{cite web|title= Cagayan tourism town to boost fishery industry |url= https://www.manilatimes.net/2018/08/03/business/agribusiness/cagayan-tourism-town-to-boost-fishery-industry/426059 |work= The Manila Times|date= August 3, 2018 |publisher=manilatimes.net|access-date=August 3, 2018}}</ref> and from Santa Ana down to [[Peñablanca, Cagayan|Peñablanca]] on its eastern coast facing the [[Philippine Sea]].<ref>{{cite web|title= Beltfishing is the next big thing in Santa Ana, Cagayan|url=https://pia.gov.ph/features/2021/11/18/beltfishing-is-the-next-big-thing-in-santa-ana-cagayan |work= Mark Djeron Tumabao of the Philippine Information Agency|publisher=pia.gov.ph|access-date=November 18, 2021}}</ref> Despite this endowment, the province's fish production is not even enough to supply and sustain its own fish requirements. Deep sea fishing is not a common occurrence in the province – thus, foreign poachers are the ones reaping the bounties of its seas. Cagayan's deep seas are known for species like tuna, tuna-like fishes, hairtail, snapper, scad, slipmouth, mullet, grouper, shrimp, squid, and lobsters. The inland waters are used primarily by subsistence fishermen. Few privately-operated fishponds and fish cages contribute to the overall fish supply of the Province.<ref>{{cite web|title= CAGAYAN PROVINCE FISHERIES AND AQUATIC RESOURCES |url= https://www.cagayan.gov.ph/resources/ |work= Official Website of the Provincial Government of Cagayan|publisher=cagayan.gov.ph|access-date=December 31, 2022}}</ref>
+
+The coastal waters of Isabela are big sources of marine life that could supply the fish requirements of the region, according to a study commissioned by the Bureau of Fisheries and Aquatic Resources (BFAR). The study stated that Isabela waters are rich in untapped fisheries and marine resources and also has extensive sea grass beds and coral reefs that are home to variety of fish species which include sardines and mackerel and have sizable chunks of oceanic tunas, which thrive throughout the year. The fishing ground has 238 marine fish species. High species diversity could be an indication that the habitat is still good and undisturbed.<ref>{{cite web|title= Isabela has enough fish to feed Cagayan Valley, study says |url= https://newsinfo.inquirer.net/971534/isabela-has-enough-fish-to-feed-cagayan-valley-study-says/amp |work= Inquirer.net|publisher=newsinfo.inquirer.net|access-date=February 27, 2018}}</ref><ref>{{cite web|title= Isabela waters can augment fish supply in Cagayan Valley |url= https://www.manilatimes.net/2018/02/22/business/green-business/isabela-waters-can-augment-fish-supply-cagayan-valley/381805/amp |work= Leander C. Domingo of The Manila Times|date= February 22, 2018 |publisher=manilatimes.net|access-date=February 22, 2018}}</ref><ref>{{cite web|title= Palanan, Isabela: Angels' Paradise |url= https://businessmirror.com.ph/2017/05/07/palanan-isabela-angels-paradise/ |work= Leonardo Perante II of the Business Mirror|date= May 7, 2017 |publisher=businessmirror.com.ph|access-date=May 7, 2017}}</ref>
+
+The fishing industry in Cagayan Valley has been in perturbed condition owing to the declining pattern of production for the past years.<ref>{{cite web|title=1st Quarter 2019 Fish Production in Cagayan Valley Continues to Display Negative Indicator at 10.65 Percent|url=http://rsso02.psa.gov.ph/article/1st-quarter-2019-fish-production-cagayan-valley-continues-display-negative-indicator-1065 |work=Philippine Statistics Authority |publisher=rsso02.psa.gov.ph|access-date=June 25, 2019}}</ref> Since 2015, average annual reduction in fisheries production in the region was estimated at three thousand metric tons or more than five percent decrease per year. In 2020, the latest estimated production at 45,382 metric tons is 4.6 percent lower than the 2018 total fish production of 47,572 metric tons and almost one third lower than the highest production realized in 2011 at 64,876 metric tons.<ref>{{cite web|title= Fish Production in the Region Fell Short Anew |url= http://rsso02.psa.gov.ph/article/fish-production-region-fell-short-anew |work= Philippine Statistics Authority - Region II|publisher=rsso02.psa.gov.ph|access-date=March 25, 2020}}</ref><ref>{{cite web|title= Fish Production in Cagayan Valley Deccelerates Further by 8.90 Percent in 4th Quarter of 2018 |url= http://rsso02.psa.gov.ph/article/fish-production-cagayan-valley-deccelerates-further-890-percent-4th-quarter-2018 |work= Philippine Statistics Authority - Region II|publisher=rsso02.psa.gov.ph|access-date=February 27, 2019}}</ref>
+
+By fishing grounds classification in the region, there is an inland municipal fisheries production and marine municipal fisheries production, the latter, particularly in provinces with coastal areas in the provinces of Cagayan, Isabela and Batanes. According to the [[Philippine Statistics Authority]] (PSA), inland municipal production for 2021 has gone up close to 2,000 metric tons, while marine municipal production reached close to 3,300 metric tons, both as an initial production in the first quarter of 2020.<ref>{{cite web|title= FROM THE MANILA TIMES: DTI, BFAR to boost Cagayan fishery industry |url= https://www.da.gov.ph/from-the-manila-times-dti-bfar-to-boost-cagayan-fishery-industry/ |work= DA Communications Group |publisher=da.gov.ph|access-date=March 3, 2022}}</ref>
+
+According to the Bureau Fisheries and Aquatic Resources (BFAR), since 2010 to 2015, the fish sufficiency level in Cagayan Valley is on downtrend level because of the various threats to the industry. Several problems have affected the sector in the recent years including the weather disturbances, use of illegal fishing gears and methods and the increasing demand of a fast-growing population. The provinces of Batanes and Cagayan have passed the 100 percent sufficiency level at 138 percent while Cagayan recorded 96 percent. However, the performances of Isabela, Quirino and Nueva Vizcaya at 17 percent, 11 percent and 10 percent, respectively, have affected the total performance of the region. Data obtained from the Bureau Fisheries and Aquatic Resources showed that from 2006 to 2015, the sufficiency level has dropped significantly in 2010 until it reached its lowest level at 44 percent in the last five years.<ref>{{cite web|title= Fish sufficiency level in Cagayan Valley on downtrend |url= https://northernforum.net/3-fish-sufficiency-level-in-cagayan-valley-on-downtrend/?amp_markup=1 |work= Benjamin De Yro of the Northern Forum|publisher=northernforum.net|access-date=October 17, 2016}}</ref><ref>{{cite news|title= Fish Production sa Cagayan Valley, Bumaba dahil sa Pandemic- BFAR region 2 |url= https://rmn.ph/fish-production-sa-cagayan-valley-bumaba-dahil-sa-pandemic-bfar-region-2/ |work= Geronimo Dig of RMN Network|date= September 21, 2021 |publisher=rmn.ph|access-date=September 21, 2021 |last1= Dig |first1= Geronimo }}</ref> However, the overall fisheries production in the region grew by one percent in 3rd Quarter of 2020. From the total output of 11,954 metric tons in 2019, it accelerated to 12,075 metric tons in 2020.<ref>{{cite web|title= Good Performance Of Aquaculture Lift Up Fishery Production in Q3 2020 |url= http://rsso02.psa.gov.ph/article/good-performance-aquaculture-lift-fishery-production-q3-2020 |work= Philippine Statistics Authority - Region II|publisher=rsso02.psa.gov.ph|access-date=December 15, 2020}}</ref>
+
+===Citrus industry===
+
+Cagayan Valley is positioned to become the country's ''Citrus Capital'' through a program undertaken by the [[Nueva Vizcaya State University|Nueva Vizcaya State University (NVSU)]] with funding from the ''Philippine Council for Agriculture, Aquatic and Natural Resources Research and Development of the Department of Science and Technology (DoST-PCAARRD).'' The country's domestic supply of citrus is currently insufficient to meet local demand, according to DoST-PCAARRD, due to "high incidence of pest and diseases, poor orchard management, and low adoption of improved management practices, among many other factors." The NVSU's citrus research and development program includes yield improvement, setting up a [[gene bank]], and value chain analysis. It targets a 233% increase in yield — from 4.5 tons per hectare ha (t/ha) to 15 t/ha — and a 60% reduction in post-harvest losses from 25% to 10% by 2019. The targets are part of the ''Citrus Industry Strategic S&T Program (ISP)'' of DoST-PCAARRD. By the end of 2017, the program team is expected to produce value chain maps for ''calamansi'', ''orange'', and ''pomelo'' in the region; characterize fifteen species for the database system of the gene bank study; improve NVSU and ''Municipal Agriculture Office (MAGRO)'' citrus nurseries producing 10,000 and 2,000 budded seedlings, respectively; establish new 1-hectare orchard with planting materials from NVSU; and generate data on the description of local citrus pests and diseases.<ref>{{cite web| title =Cagayan Valley aims to become 'Citrus Capital of the Philippines'| url = http://bworldonline.com/cagayan-valley-aims-become-citrus-capital-philippines/| publisher=Business World| access-date=October 5, 2017}}</ref><ref>{{cite web| title =Cagayan Valley eyes "Citrus Capital of the Philippines" title | url = http://www.pcaarrd.dost.gov.ph/home/portal/index.php/quick-information-dispatch/3061-cagayan-valley-eyes-citrus-capital-of-the-philippines-title| publisher= pcaarrd.dost| access-date=November 15, 2017}}</ref>
+{{clear left}}
+
+==Infrastructure==
+===Roads and Bridges===
+* '''Pigalo Bridge''' - The [[Pigalo Bridge]] traverses over the Cagayan River in Angadanan, Isabela. This bridge also connects the two municipalities of Angadanan, Northeast Isabela and San Guillermo, Isabela at Southwest. The proposed construction of the Pigolo Bridge approaches the span of about 450 lin. meters across the Cagayan River, the project started on April 10, 2017, and was completed on April 29, 2019.<ref>{{cite web| url = http://build.gov.ph/Home/Project_Details/69?Agency=DPWH | title = Pigalo Bridge |website=Department of Public Works and Highways | access-date=August 1, 2019}}</ref>
+* '''Buntun Bridge''' - [[Buntun Bridge]] took three administrations to finish the construction from 1960 to 1969 connecting the municipality of Solana and Tuguegarao City. considered to be one of the longest bridge in the country crossing the longest river in the country called Cagayan River also known as the Rio Grande de Cagayan. The bridge was stretched to 1,369 m (meters) in length.<ref>{{Cite web|title=Cagayan - Crossing Buntun Bridge, the Longest River Bridge in the Philippines|url=https://www.pinoyadventurista.com/2012/02/buntun-bridge.html|access-date=2020-09-02|website=pinoyadventurista.com}}</ref>
+
+==Image gallery==
+<gallery widths="200" heights="150">
+Ultrabasic forests above 1200 m at Barangay Diddadungan - ZooKeys-266-001-g006.jpg| Sierra Madre mountains at [[Palanan, Isabela|Palanan]]
+Batanes Landscapes.jpg|Landscape of [[Batanes]]
+View of the forested west coast of Isabela Province (Dinapique) - ZooKeys-266-001-g003.jpg| Eastern coast of [[Isabela (province)|Isabela]]
+Saint Peter Metropolitan Cathedral Tuguegarao front (Rizal Street, Tuguegarao, Cagayan; 11-18-2022).jpg| [[Tuguegarao Cathedral]]
+Aparri Beach.jpg| Northern coast of [[Cagayan]]
+View of the northeast coast of Luzon from the foothills of Mt. Cagua - ZooKeys-266-001-g005.jpg|Northern end of the Sierra Madre with Palaui Island in the background
+Fundacion Pacita, Batanes Island, Philippines.JPG|Batanes coastline in Batan Island
+</gallery>
+
+==Notable people==
+{{main|Cagayan#Notable personalities|Isabela (province)#Notable personalities|Nueva Vizcaya#Notable personalities}}
+
+==See also==
+* [[List of Cultural Properties of the Philippines in Cagayan Valley]]
+
+==References==
+{{Reflist|30em}}
+
+== External links ==
+* {{Commons category-inline}}
+* {{Wikivoyage inline}}
+* {{OSM relation}}
+
+{{Geographic location
+| Centre = Cagayan Valley
+| North = ''[[Luzon Strait]]''
+| West = [[Cordillera Administrative Region]]
+| East = ''[[Philippine Sea]]''
+| South = [[Central Luzon]]
+| Northwest = [[Ilocos Region]]
+| Southwest = [[Ilocos Region]]
+}}
+{{Cagayan Valley}}
+{{Regions of the Philippines}}
+
+[[Category:Cagayan Valley| ]]
+[[Category:Regions of the Philippines]]
+[[Category:Luzon]]
+[[Category:Valleys of the Philippines]]

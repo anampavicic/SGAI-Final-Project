@@ -1,0 +1,503 @@
+{{about|the city|the landform|Spokane Valley}}
+{{Use mdy dates|date=August 2021}}
+{{Infobox settlement
+<!-- Basic info ----------->
+|name                     = Spokane Valley, Washington
+|native_name              = 
+|native_name_lang         = 
+|named_for                = [[Spokane Valley]]
+|settlement_type          = [[List of municipalities in Washington|City]]
+|nickname                 = The Valley
+|motto                    = "A community of opportunity where individuals and families can grow and play, and businesses will flourish and prosper."
+<!-- Images --------------->
+|image_skyline            = File:City of Spokane Valley (city hall, 2022-07-21).jpg
+|imagesize                = 
+|image_caption            = Spokane Valley City Hall
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = File:City of Spokane Valley (logo).svg
+|blank_emblem_type        = Logo
+|blank_emblem_size        = 
+|image_dot_map            = 
+|dot_mapsize              = 
+|dot_map_caption          = 
+|dot_x                    = 
+|dot_y                    = 
+|p2                       = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Maps ----------------->
+|image_map                = Spokane Valley in Spokane County.png
+|mapsize                  = 300px
+|map_caption              = 
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|pushpin_map              = <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_mapsize          = 
+<!-- Location ------------->
+|pushpin_map_caption      = 
+|coor_pinpoint            = <!-- can be used to specify exactly where/what the coordinates refer to -->
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in Washington|County]]
+|subdivision_name1        = [[Washington (state)|Washington]]
+|subdivision_name2        = [[Spokane County, Washington|Spokane]]
+|established_title        = Settled
+|established_date         = 1849
+|established_title2       = [[Municipal corporation|Incorporated]]
+|established_date2        = March 31, 2003
+<!-- Area ----------------->
+|seat_type                = 
+|seat                     = 
+|parts_type               = 
+|parts_style              = <!-- =list (for list), coll (for collapsed list), para (for paragraph format) Default is list if up to 5 items, coll if more than 5-->
+|parts                    = <!-- parts text, or header for parts list -->
+|p1                       =
+|government_footnotes     = 
+|government_type          = [[Council–manager]]
+|governing_body           = Spokane Valley City Council
+|leader_title1            = City manager
+|leader_name1             = John Hohman<ref>{{cite web|url=https://www.spokanevalley.org/content/6836/6894/default.aspx|title=Executive & Legislative Support - The City Manager|publisher=}}</ref>
+|leader_title2            = Mayor
+|leader_name2             = Pam Haley<ref name="Spokane Valley City Council">{{cite web|url=https://www.spokanevalley.org/content/6836/6892/6935/default.aspx|title=Spokane Valley City Council|publisher=}}</ref>
+|leader_title3            = Deputy mayor
+|leader_name3             = Rod Higgins<ref name="Spokane Valley City Council"/>
+|total_type               = <!-- to set a non-standard label for total area and population rows -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2020">{{cite web|title=2020 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2020_Gazetteer/2020_gaz_place_53.txt|publisher=United States Census Bureau|access-date=July 24, 2022}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 98.44
+|area_total_sq_mi         = 38.01
+|area_land_km2            = 97.69
+|area_land_sq_mi          = 37.72
+|area_water_km2           = 0.75
+|area_water_sq_mi         = 0.29
+|area_water_percent       = 
+<!-- Elevation ------------>
+|elevation_footnotes      = <!--for references: use <ref> tags-->
+|elevation_min_m          = 
+|elevation_min_ft         = 
+|elevation_m              = 610
+|elevation_ft             = 2002
+|elevation_max_m          = 
+|elevation_max_ft         = 
+<!-- Population ----------->
+|population_as_of         = [[2020 United States census|2020]]
+|population_est           = 108235
+|pop_est_as_of            = 2023
+|pop_est_footnotes        = <ref name="USCensusEst2023"/>
+|population_footnotes     = <ref name="2020 Census (City)"/>
+|population_total         = 102976
+|population_rank          = US: [[List of United States cities by population|295th]]<br>WA: [[List of municipalities in Washington|8th]]
+|population_density_km2   = 1034.46
+|population_density_sq_mi = 2679.22
+|population_urban         = 447279 (US: [[List of United States urban areas|90th]])
+|population_metro         = 597919 (US: [[Metropolitan statistical area|97th]])
+|population_blank1_title  = [[Combined Statistical Area|CSA]]
+|population_blank1        = 781497 (US: [[Combined statistical area|70th]])
+<!-- General information -->
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|coordinates              = {{coord|47|40|24|N|117|14|22|W|type:city_region:US-WA|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 99206, 99216, 99212, 99016, 99027, 99037<ref>{{cite web| title = ZIP Code by City and State| publisher = [[United States Postal Service]]| url = https://tools.usps.com/zip-code-lookup.htm?bycitystate| access-date = June 8, 2021}}</ref>
+|area_code                = [[Area code 509|509]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 53-67167<ref name="GR1">{{cite web|url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html|publisher=United States Census Bureau|access-date=April 23, 2011|date=February 12, 2011|title=US Gazetteer files: 2010, 2000, and 1990}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1967430<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=March 13, 2017|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=December 23, 2002}}</ref>
+|website                  = {{URL|https://www.spokanevalleywa.gov/|spokanevalleywa.gov}}
+|footnotes                = 
+}}
+
+'''Spokane Valley''' is a city in [[Spokane County, Washington]], United States, and the largest [[suburb]] of [[Spokane, Washington|Spokane]]. It is located east of Spokane, west of [[Coeur d'Alene, Idaho]], and surrounds the city of [[Millwood, Washington|Millwood]] on three sides. The city incorporated as the City of Spokane Valley on March 31, 2003. The population was 102,976 at the [[2020 United States census|2020 census]],<ref name="2020 Census (City)">{{cite web|title=Explore Census Data |url=https://data.census.gov/profile/Spokane_Valley_city,_Washington?g=160XX00US5367167 |publisher=[[United States Census Bureau]] |access-date=November 1, 2023}}</ref> making it the [[List of cities in Washington|ninth-most populous city]] in Washington state. Spokane Valley is named after [[Spokane Valley|the valley]] of the [[Spokane River]], in which it is located. The city and the general area is colloquially referred to as "The Valley" by residents of the [[Spokane–Coeur d'Alene combined statistical area|Spokane–Coeur d'Alene area]].
+
+Spokane Valley hosts a variety of community events such as the Spokane County Interstate Fair, Valleyfest, and the Inland Northwest Craft Beer Festival and is home to the Spokane Valley Heritage Museum and the home ground of the [[Spokane Indians]] minor league baseball team.
+
+==History==
+[[File:Home surrounded by orchards, Greenacres, Washington, approximately 1903 (WASTATE 1660).jpeg|thumb|left|Orchard in [[Greenacres, Washington|Greenacres]], c. 1903]]
+
+The City of Spokane Valley incorporated on March 31, 2003.<ref>{{cite web|title= History of the Spokane Valley|url= http://www.spokane.net/town_resources/OurHistory/OurHistorySpokaneValley.aspx|work= Spokane.net|access-date= July 12, 2009|url-status= dead|archive-url= https://web.archive.org/web/20091202014323/http://www.spokane.net/town_resources/OurHistory/OurHistorySpokaneValley.aspx|archive-date= December 2, 2009}}</ref>  At its creation, it was the third-largest newly incorporated city in US history (after [[Centennial, Colorado]], which incorporated in 2001; and [[Miami Gardens, Florida]], which incorporated about five weeks before Spokane Valley).
+
+The city formed from combining the urbanized unincorporated areas east of Spokane City, including [[census-designated place]]s (CDPs) of [[Dishman, Washington|Dishman]], [[Opportunity, Washington|Opportunity]], [[Trentwood, Washington|Trentwood]], [[Veradale, Washington|Veradale]], part of [[Greenacres, Washington|Greenacres]], and East Spokane. The new city boundaries did not include the incorporated areas such as [[Millwood, Washington|Millwood]] and [[Liberty Lake, Washington|Liberty Lake]], nor the protected areas such as the [[Dishman Hills|Dishman Hills Natural Area]]. It was initially delayed by a petition from Spokane, because it included the Yardley industrial area, to which Spokane had already extended utilities, and had plans to annex. Prior to the successful vote May 21, 2002, there had been four failed attempts to form a city in the Valley. The main arguments for incorporation centered around increased voice in local governance and the threat of annexation by the [[Spokane, Washington|City of Spokane]]. The main arguments against incorporation included contentment with [[Spokane County, Washington|Spokane County]] provided services and the threat of increased taxes and bureaucracy by the new city. Both sides claimed their opponents' arguments were entirely untrue scare tactics.<ref>{{cite news |last1=Hutson |first1=Lorie |title=Ads for Valley city called misleading |agency=The Spokesman-Review |date=May 18, 2002 |page=B1}}</ref><ref>{{cite news |title=Incorporation 101 |agency=The Spokesman-Review |issue=Valley Voice |date=May 18, 2002 |pages=4–8}}</ref>
+
+==Geography==
+{{broader|Spokane Valley}}
+According to the [[United States Census Bureau]], the city has a total area of {{convert|38.06|sqmi|sqkm|2}}, of which {{convert|37.77|sqmi|sqkm|2}} is land and {{convert|0.29|sqmi|sqkm|2}} is water.<ref name="Gazetteer files">{{cite web|title=US Gazetteer files 2010|url=https://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt|publisher=United States Census Bureau|access-date=December 19, 2012|url-status=dead|archive-url=https://web.archive.org/web/20120702145235/http://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt|archive-date=July 2, 2012}}</ref> Water features in the city include [[Shelley Lake]], a small lake which is fed by the [[Saltese Creek]].<ref name=TopoView>{{cite map |title = TopoView: The National Map|url = https://viewer.nationalmap.gov/basic/?basemap=b1&category=histtopo,ustopo&title=Map%20View|format = GeoPDF |type = Topographic map |series = 7.5 Minute Series |scale = 1:24,000 |location = Reston, VA |publisher = [[United States Geological Survey]]|access-date = May 25, 2021}}</ref>
+
+The City of Spokane Valley lies along the banks of the Spokane River as it flows from its source in [[Lake Coeur d'Alene]] on its way to the [[Columbia River]] at the [[Franklin D. Roosevelt Lake]] reservoir.<ref name=TopoView/> The city lies along both banks of the river, but most of the city lies to the south of the river.<ref name=TopoView/> To the south of the valley in which the city sits is the southern extent of the [[Selkirk Mountains]], which are most prominent in the area east of Coeur d'Alene.<ref name=TopoView/><ref>{{cite web| title = Southwest Selkirks| publisher = Peakbagger| url = https://www.peakbagger.com/range.aspx?rid=13148| access-date = June 8, 2021}}</ref>{{unreliable source?|date=June 2021}} The valley is within the Northern Rockies Level III [[ecoregion]].<ref>{{cite web| title = Ecoregion Download Files by State - Region 10| date = March 10, 2016| publisher = [[U.S. Environmental Protection Agency]]| url = https://www.epa.gov/eco-research/ecoregion-download-files-state-region-10| access-date = May 25, 2021}}</ref> The valley exhibits signs of the prehistoric geologic events that shaped the area and region such as the [[Missoula Floods]] which ended 12,000 to 15,000 years ago.<ref>{{cite report| last= Breckenridge| first= Roy M.| date= May 1993| title= Glacial Lake Missoula and the Spokane Floods| url= http://www.idahogeology.org/PDF/GeoNotes_(G)/geonote_26.pdf| publisher= Idaho Geological Survey| series= GeoNotes| volume= 26| access-date= November 29, 2011| archive-url= https://web.archive.org/web/20120426010742/http://www.idahogeology.org/PDF/GeoNotes_(G)/geonote_26.pdf| archive-date= April 26, 2012| url-status= dead}}</ref><ref name=DHNRCA>{{cite web| title = Dishman Hills Natural Resources Conservation Area| publisher = [[Washington State Department of Natural Resources]]| others = Lands and Resources Division| url = https://www.dnr.wa.gov/publications/eng_rms_dish_both.pdf| access-date = June 8, 2021}}</ref> The [[Spokane Valley|Spokane valley]] was gouged out by repeated failures in the ice dam that held [[Glacial Lake Missoula]].<ref name=DHNRCA/>
+
+The city limits are roughly defined to the west and southwest by Havana Street and the Dishman Hills Conservation Area; to the north by Felts Field, the City of [[Millwood, Washington|Millwood]], the Spokane River, and a few minor roads north of the river; to the east by Barker Road; and to the south by the small hills which divide the city from the [[Palouse]] region.<ref>{{cite map| title = WSDOT GeoPortal| publisher = [[Washington State Department of Transportation]]| url = https://wsdot.wa.gov/data/tools/geoportal/| access-date = June 8, 2021}}</ref>
+
+The city of Spokane Valley is part of the Spokane–Coeur d'Alene Combined Statistical Area (CSA) and lies between the two anchor cities, directly east of [[Spokane, Washington|Spokane]] and to the west of [[Coeur d'Alene, Idaho|Coeur d'Alene]].<ref name=TopoView/> The city is also part of the wider Inland Northwest region, consisting of eastern Washington, northern Idaho, northwestern Montana, and northeastern Oregon.
+{{wide image|Spokane Valley panorama from Eagle Peak 20130803.jpg|1000px|Panorama of Spokane Valley looking east from Eagle Peak}}
+
+===Neighborhoods and communities===
+Prior to World War II, Spokane Valley had been a predominantly rural area, a productive site for farms and orchards since it was first irrigated in 1895.<ref name=thumbnail>{{cite web| last = Kershner| first = Jim| title = Spokane Valley — Thumbnail History| publisher = HistoryLink| date = May 25, 2012| url = https://www.historylink.org/File/10119| access-date = June 26, 2021}}</ref> In 1940, the population of the valley was 10,000.<ref name=Klingle/> During World War II, with increased industrial activity in the central business district, particularly the railroads, new migrants to the Spokane area began to settle, shop, and do business in outlying areas where it was more quiet and less crowded and blighted.<ref name=Klingle/> In 1960 the population of the valley was about 45,000 and by 1970 it had become a suburb of 60,000 residents.<ref name=Klingle/> The City of Spokane Valley incorporated in 2003, centered around the historic communities of [[Opportunity, Washington|Opportunity]], [[Dishman, Washington|Dishman]], and [[Veradale, Washington|Veradale]] and including the communities of [[Green Acres, Washington|Greenacres]], [[Trentwood, Washington|Trentwood]], Yardley, and Chester, forging together an assemblage of small townships, mercantile hubs, and unincorporated communities.<ref name=thumbnail/> Because the City of Spokane Valley shares its name with the unincorporated area it was carved from, the term "Spokane Valley" is often used in reference to an area greater than that defined by the city limits.
+
+===Climate===
+Spokane Valley experiences a temperate climate ([[Köppen climate classification|Köppen]] ''Csa''), with a warm summer and rainy winter.<ref name=CD>{{cite web| title = Spokane Valley Climate| publisher = Climate-Data.org| url = https://en.climate-data.org/north-america/united-states-of-america/washington/spokane-valley-16030/| access-date = June 8, 2021}}</ref><ref>{{cite journal |last1=Beck |first1=Hylke E. |last2=Zimmermann |first2=Niklaus E. |last3=McVicar |first3=Tim R. |last4=Vergopolan |first4=Noemi |last5=Berg |first5=Alexis |author6-link=Eric Franklin Wood |last6=Wood |first6=Eric F. |title=Present and future Köppen-Geiger climate classification maps at 1-km resolution |journal=Scientific Data |date=October 30, 2018 |volume=5 |pages=180214 |doi=10.1038/sdata.2018.214 |pmid=30375988 |pmc=6207062 |language=En |issn=2052-4463|bibcode=2018NatSD...580214B}}</ref> Precipitation averages just over {{convert|16|in|mm}} annually, with December averaging the most precipitation with {{convert|3.5|in|mm}} and July the least with {{convert|0.6|in|mm}}.<ref name=CD/> July is the hottest month of the year, with an average temperature of {{convert|73|°F}} and January is the coldest, with an average temperature of {{convert|28.3|°F}}.<ref name=CD/>
+
+{{Weather box <!--Infobox begins-->
+|collapsed=Y
+
+|location= Spokane ([[Felts Field]]) 1998-present normals and extremes
+|single line= Y
+
+|Jan record high F= 59
+|Feb record high F= 60
+|Mar record high F= 74
+|Apr record high F= 87
+|May record high F= 95
+|Jun record high F= 113
+|Jul record high F= 112
+|Aug record high F= 112
+|Sep record high F= 102
+|Oct record high F= 86
+|Nov record high F= 69
+|Dec record high F= 63
+
+|Jan avg record high F = 51.5
+|Feb avg record high F = 53.4
+|Mar avg record high F = 64.9
+|Apr avg record high F = 76.2
+|May avg record high F = 86.6
+|Jun avg record high F = 93.5
+|Jul avg record high F = 100.3
+|Aug avg record high F = 99.2
+|Sep avg record high F = 90.6
+|Oct avg record high F = 75.3
+|Nov avg record high F = 59.6
+|Dec avg record high F = 51.6
+|year avg record high F= 101.9
+
+|Jan high F= 37.1
+|Feb high F= 42.5
+|Mar high F= 51.0
+|Apr high F= 59.0
+|May high F= 68.6
+|Jun high F= 75.2
+|Jul high F= 87.0
+|Aug high F= 85.6
+|Sep high F= 75.6
+|Oct high F= 60.2
+|Nov high F= 44.8
+|Dec high F= 36.6
+|year high F = 60.3
+
+|Jan low F= 26.2
+|Feb low F= 27.2
+|Mar low F= 31.7
+|Apr low F= 36.2
+|May low F= 43.3
+|Jun low F= 50.3
+|Jul low F= 56.2
+|Aug low F= 54.8
+|Sep low F= 46.6
+|Oct low F= 37.9
+|Nov low F= 30.6
+|Dec low F= 25.6
+|year low F =38.9
+
+|Jan avg record low F = 9.3
+|Feb avg record low F = 13.8
+|Mar avg record low F = 20.4
+|Apr avg record low F = 26.8
+|May avg record low F = 32.0
+|Jun avg record low F = 41.3
+|Jul avg record low F = 46.4
+|Aug avg record low F = 45.5
+|Sep avg record low F = 36.0
+|Oct avg record low F = 25.6
+|Nov avg record low F = 17.1
+|Dec avg record low F = 9.4
+|year avg record low F= 2.5
+
+|Jan record low F= -10
+|Feb record low F= -3
+|Mar record low F= 2
+|Apr record low F= 24
+|May record low F= 28
+|Jun record low F= 37
+|Jul record low F= 39
+|Aug record low F= 40
+|Sep record low F= 26
+|Oct record low F= 12
+|Nov record low F= -2
+|Dec record low F= -10
+
+|precipitation colour= green
+|Jan precipitation inch= 1.92
+|Feb precipitation inch= 1.14
+|Mar precipitation inch= 1.91
+|Apr precipitation inch= 1.23
+|May precipitation inch= 1.51
+|Jun precipitation inch= 1.66
+|Jul precipitation inch= 0.40
+|Aug precipitation inch= 0.51
+|Sep precipitation inch= 0.61
+|Oct precipitation inch= 1.10
+|Nov precipitation inch= 1.94
+|Dec precipitation inch= 2.31
+|year precipitation inch= 16.25
+
+|Jan snow inch= 
+|Feb snow inch= 
+|Mar snow inch= 
+|Apr snow inch= 
+|May snow inch= 
+|Jun snow inch= 
+|Jul snow inch= 
+|Aug snow inch= 
+|Sep snow inch= 
+|Oct snow inch= 
+|Nov snow inch= 
+|Dec snow inch=
+
+|source 1= <ref>{{cite web |url= http://w2.weather.gov/climate/xmacis.php?wfo=otx
+|title= NOWData - NOAA Online Weather Data
+|publisher= [[NOAA]]
+|access-date=July 2, 2021 }}</ref>
+|source 2=<ref>{{cite news
+|last = Harris
+|first = Cliff
+| title = The summers of 1939, 1961 and 1967 were the hottest ever in Coeur d'Alene
+| newspaper = [[Coeur d'Alene Press]]
+| date = May 11, 2015
+| url = https://cdapress.com/news/2015/may/11/the-summers-of-1939-1961-and-1967-were-the-5/
+| access-date = June 8, 2021}}</ref>}}
+
+==Demographics==
+{{US Census population
+|2000= 80927
+|2010= 89755
+|2020= 102976
+|estyear=2023
+|estimate=108235
+|estref=<ref name="USCensusEst2023">{{cite web|url=https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html|date=November 1, 2023|title=City and Town Population Totals: 2020-2023|publisher=United States Census Bureau|accessdate=August 25, 2024}}</ref>
+|align-fn=center
+|footnote=U.S. Decennial Census<ref>{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|author=United States Census Bureau|author-link=United States Census Bureau|access-date=August 3, 2013}}</ref><br> 2000<ref name=2000CensusWA>{{Cite web|first= |last= |authorlink=   |title= 2000 Census of Population - General Population Characteristics - Washington  |website=[[United States Census Bureau]]|date= 2000|url=https://www2.census.gov/census_2000/datasets/demographic_profile/Washington/2kh53.pdf |accessdate=|archive-url=| archive-date=}}</ref> 2010<ref name=2010CensusP2/> 2020<ref name=2020CensusP2/>
+}}
+
+Spokane Valley first appeared as a city in the [[2010 U.S. Census]] after being incorporated in 2003 from all or the predominant parts of the deleted [[Dishman, Washington|Dishman]], [[Green Acres, Washington|Green Acres]], [[Opportunity, Washington|Opportunity]], [[Trentwood, Washington|Trentwood]], and [[Veradale, Washington|Veradale]] [[census designated places|CDP]]s and additional area.<ref name=2010CensusTX>{{Cite web|title=2010 Census of Population - Population and Housing Unit Counts - Washington |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-49.pdf|website=[[United States Census Bureau]]}}</ref>
+
+===2020 census===
+{| class="wikitable" style="text-align:center;"
+|+'''Spokane Valley, Washington – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Spokane Valley city, Washington |url=https://data.census.gov/table?q=p2&g=160XX00US5367167&tid=DECENNIALPL2010.P2|publisher=United States Census Bureau |access-date=February 25, 2024}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Spokane Valley city, Washington|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US5367167&tid=DECENNIALPL2020.P2|publisher=United States Census Bureau |access-date=February 25, 2024}}</ref>
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|79,467
+|style='background: #ffffe6; |83,459
+|88.54%
+|style='background: #ffffe6; |81.05%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|982
+|style='background: #ffffe6; |1,733
+|1.09%
+|style='background: #ffffe6; |1.68%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|952
+|style='background: #ffffe6; |1,055
+|1.06%
+|style='background: #ffffe6; |1.02%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|1,528
+|style='background: #ffffe6; |1,912
+|1.70%
+|style='background: #ffffe6; |1.86%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|230
+|style='background: #ffffe6; |689
+|0.26%
+|style='background: #ffffe6; |0.67%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|80
+|style='background: #ffffe6; |485
+|0.09%
+|style='background: #ffffe6; |0.47%
+|-
+|[[Multiracial Americans|Mixed Race or Multi-Racial]] (NH)
+|2,386
+|style='background: #ffffe6; |6,390
+|2.66%
+|style='background: #ffffe6; |6.21%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|4,130
+|style='background: #ffffe6; |7,253
+|4.60%
+|style='background: #ffffe6; |7.04%
+|-
+|'''Total'''
+|'''89,755'''
+|style='background: #ffffe6; |'''102,976'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+As of the [[2020 United States census|2020 census]], there were 102,976 people, 45,163 households in the city.
+
+===2010 census===
+As of the [[2010 United States census|2010 census]], there were 89,755 people, 36,558 households, and 23,119 families residing in the city. The [[population density]] was {{convert|2376.4|PD/sqmi|PD/km2|1}}. There were 38,851 housing units at an average density of {{convert|1028.6|/sqmi|/km2|1}}. The racial makeup of the city was 90.9% [[White (U.S. Census)|White]], 1.1% [[African American (U.S. Census)|African American]], 1.2% [[Native American (U.S. Census)|Native American]], 1.7% [[Asian (U.S. Census)|Asian]], 0.3% [[Race (U.S. Census)|Pacific Islander]], 1.4% from [[Race (U.S. Census)|other races]], and 3.3% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 4.6% of the population.
+
+There were 36,558 households, of which 31.6% had children under the age of 18 living with them, 45.6% were [[Marriage|married couples]] living together, 12.2% had a female householder with no husband present, 5.4% had a male householder with no wife present, and 36.8% were non-families. 29.0% of all households were made up of individuals, and 11.2% had someone living alone who was 65 years of age or older. The average household size was 2.43 and the average family size was 2.99.
+
+The median age in the city was 37.3 years. 24% of residents were under the age of 18; 9.5% were between the ages of 18 and 24; 26.1% were from 25 to 44; 26.4% were from 45 to 64; and 14.1% were 65 years of age or older. The gender makeup of the city was 48.9% male and 51.1% female.
+
+==Arts and culture==
+===Places of worship===
+{{multiple image |total_width=300
+ | align = right
+ | perrow = 2
+ | image1 = HolyLadyofKazanRussianOrthodoxChurchSpokane.jpg
+ | caption1 = Holy Lady of Kazan Russian Orthodox Church
+ | image2 = SpokaneIslamicCenter.jpg
+ | caption2 = Spokane Islamic Center
+}}
+
+The Spokane Islamic Center in Spokane Valley became the first mosque in the Spokane area in 2009.<ref>{{cite news| last = Stamp| first = Mary| title = Muslim mosque invites dialogue| newspaper = The Spokesman-Review| date = February 14, 2009| url = http://www.spokesman.com/stories/2009/feb/14/muslim-mosque-invites-dialogue| access-date = May 18, 2021}}</ref> A messianic Jewish synagogue and two Sikh temples are also located in the city.<ref>{{Cite web |url=https://www.messianicspokane.com/about |title=403 Forbidden |access-date=May 19, 2021 |archive-date=May 19, 2021 |archive-url=https://web.archive.org/web/20210519032633/https://www.messianicspokane.com/about |url-status=dead }}</ref><ref>{{cite news| last = Simmons| first = Tracy| title = Second Sikh temple opens in Spokane Valley| newspaper = The Spokesman-Review| date = August 27, 2017| url = https://www.spokesman.com/stories/2017/aug/27/second-sikh-temple-opens-in-spokane-valley/| access-date = May 12, 2023}}</ref>
+
+The greater [[Spokane Valley|valley area]] is also home to the [[Spokane Washington Temple|59th temple of The Church of Jesus Christ of Latter-day Saints]], dedicated in 1999,<ref>{{cite web| last = Dockstader| first = Julie| title = Amid rays of sunshine, 59th temple dedicated| newspaper = [[Deseret News]]| date = August 28, 1999| url = https://www.deseret.com/1999/8/28/20775485/amid-rays-of-sunshine-59th-temple-dedicated| access-date = June 8, 2021}}</ref> which administers 15 regions across eastern Washington, northern Idaho, and northwestern Montana.<ref>{{cite web| title = Temples of The Church of Jesus Christ of Latter-day Saints: Spokane Washington Temple| publisher = ChurchofJesusChristTemples.org| url = https://churchofjesuschristtemples.org/spokane-washington-temple/district/| access-date = June 8, 2021}}</ref>
+
+===Arts and theater===
+An organization that is dedicated to cultivating the arts in the city is the Spokane Valley Arts Council, an independent non-profit organization founded in 2004.<ref name=SVAC>{{cite web| last = Edelen| first = Amy| title = Spokane Valley Arts Council creating 'museum without walls'; plans to donate another sculpture| newspaper = [[The Spokesman-Review]]| date = February 15, 2018| url = https://www.spokesman.com/stories/2018/feb/15/spokane-valley-arts-council-creating-museum-withou/| access-date = June 8, 2021}}</ref> The council maintains an exhibit of local artists in the CenterPlace Regional Event Center foyer, and commissions sculptures and monuments for community parks and buildings, as well as sponsors an artist showcase auction and fundraiser each October.<ref>{{cite web| title = Visitors: Arts and culture| publisher = City of Spokane Valley| url = https://www.spokanevalley.org/content/6838/8451/default.aspx| access-date = June 8, 2021}}</ref><ref name=SVAC/><ref>{{cite web| title = The Annual SVAC Artist Showcase Art Auction| publisher = Spokane Valley Arts Council| url = https://www.spokanevalleyarts.org/art-auction| access-date = June 8, 2021}}</ref> The exhibits are rotated every three months.<ref name=SVAC/>
+
+In the theatre arts, the professional not-for-profit Spokane Valley Summer Theatre provides a season of live theater in the Central Valley Performing Arts Center located in [[Central Valley High School (Washington)|Central Valley High School]].<ref>{{cite web| last = Connery| first = Emily| title = Marnie Rorholm is named director of development for Spokane Valley Summer Theatre| newspaper = The Spokesman-Review| date = January 14, 2021| url = https://www.spokesman.com/stories/2021/jan/14/marnie-rorholm-is-named-director-of-development-fo/| access-date = June 8, 2021}}</ref>
+
+===Museums===
+====Spokane Valley Heritage Museum====
+[[File:Opportunity Township Hall.jpg|thumb|right|[[Spokane Valley Museum]], housed in the old Opportunity Township Hall]]
+
+The [[Spokane Valley Heritage Museum]] opened in 2005 and is located in the historic [[Mission Revival architecture|Spanish mission revivalist]]-style [[Opportunity, Washington|Opportunity]] Township Hall.<ref>{{cite web| last = Yahya| first = Ayisha| title = Spokane Valley Museum brings a blast from past| newspaper = The Spokesman-Review| date = August 19, 2005| url = http://www.spokesman.com/stories/2005/aug/19/spokane-valley-museum-brings-a-blast-from-past/| access-date = June 8, 2021}}</ref><ref name=White>{{cite web| last = White| first = Rebecca| title = Spokane Valley Heritage Museum gets $70,000 grant for renovations| newspaper = The Spokesman-Review| date = April 2, 2020| url = https://www.spokesman.com/stories/2020/apr/02/spokane-valley-heritage-museum-to-apply-70000-gran/| access-date = June 8, 2021}}</ref> The museum's goal is to collect, preserve and exhibit the history and culture of the Spokane Valley and the museum houses archives of old newspapers and records, photographs, as well as exhibits that feature stories about the Native Americans that historically inhabited the valley, apple orchards and industry in the valley, and exhibits that recount the city's early history with aircraft and flight.<ref name=White/>
+
+===Community events===
+====Spokane County Interstate Fair====
+On the Friday after Labor Day, the Spokane County Fair and Expo Center hosts the ten-day Spokane County Interstate Fair.<ref>{{cite web| title = About the Fair| publisher = Spokane County| url = https://www.spokanecounty.org/1079/About-the-Fair| access-date = June 8, 2021}}</ref> Events and activities at the fair revolve around traditional [[Agricultural show|county fair]] activities such as [[carnival game]]s and rides, food, a [[rodeo]], and a [[livestock show]] accompanied by live music.<ref>{{cite news| last = Flynn| first = Caroline| title = Spokane County Interstate Fair aims to bring diverse crowds in 2018| newspaper = KXLY| date = September 7, 2018| url = https://www.kxly.com/spokane-county-interstate-fair-aims-to-bring-diverse-crowds-in-2018/| access-date = June 8, 2021}}</ref>
+
+The Spokane County Fair and Expo Center is home to dozens of various events throughout the year; it is situated on {{convert|97|acre|km2}}, with over {{Convert|140,000|ft2|m2}} of exhibition space, livestock facilities, indoor and outdoor arenas, lawns, and parking.<ref>{{cite web| title = County Buildings, Parks, Fair & Expo Facilities and other Locations: Spokane County Fair & Expo Center| publisher = Spokane County| url = https://www.spokanecounty.org/facilities/facility/details/Spokane-County-Fair-Expo-Center-14| access-date = June 8, 2021}}</ref>
+
+====Valleyfest====
+[[File:Valleyfest7.jpg|thumb|A live music performance at the 2022 Valleyfest.]]
+
+Valleyfest is an annual three day festival held every September at Mirabeau Point Park, the adjacent CenterPlace Regional Event Center, and Plantes Ferry Park and Sports Complex.<ref name=Lusk>{{cite web| last = Lusk| first = Kimberly| title = Celebrate community at Valleyfest, PorchFest, Southeast Spokane County Fair| newspaper = The Spokesman-Review| date = September 21, 2019| url = https://www.spokesman.com/stories/2019/sep/21/celebrate-community-at-valleyfest-porchfest-southe/| access-date = June 8, 2021}}</ref><ref name=KHQ>{{cite news| title = Sunday is last day to visit the 30th annual Valleyfest| publisher = KHQ| date = September 21, 2019| url = https://www.khq.com/news/sunday-is-last-day-to-visit-the-30th-annual-valleyfest/article_63f3e1d6-dcd7-11e9-ab27-ff5ee958cccf.html| access-date = June 8, 2021}}</ref> Festivities include the Hearts of Gold parade down Sprague Avenue, "Fishing at the Falls", a classic car show, and a 5K or 10K run and [[duathlon]] that starts and ends at Plantes Ferry Park.<ref name=KHQ/> The event features live music and hosts various other activities at the CenterPlace Regional Event Center.<ref name=Lusk/>
+
+====Inland NW Craft Beer Festival====
+The Inland Northwest Craft Beer Festival (formerly the Spokane Oktoberfest) is a two-day [[beer festival]] hosted by the Washington Beer Commission annually in September at Avista Stadium. The festival showcases the offerings of local and Washington state [[Craft brewery and microbrewery|breweries]] and sometimes breweries in other western states. The festival features live music and [[food truck]] vendors for attendees; one day of the festival caters to family friendly activities as well and features a [[Inflatable castle|bouncy house]].<ref>{{cite web| last = Wildermuth| first = Greg| title = 509 Beer: Tips to help you enjoy this weekend's Inland Northwest Craft Beer Festival| newspaper = The Spokesman-Review| date = September 19, 2019| url = https://www.spokesman.com/stories/2019/sep/19/509-beer-tips-to-help-you-enjoy-this-weekends-inla/| access-date = June 8, 2021}}</ref>
+
+==Sports==
+[[File:Spokane Indians tag out.jpg|thumb|[[Spokane Indians]] game at [[Avista Stadium]]]]
+
+The [[Spokane Indians]], a [[Single-A Advanced|High Single-A]] baseball team in the [[Northwest League]] (NWL) and a [[farm team]] of the [[Colorado Rockies]] since 2021, have their home ground in the valley.<ref name="Blanchette">{{cite news| last = Blanchette| first = John| title = Jewel on Havana Street| newspaper = The Spokesman-Review| date = June 15, 2008| url = http://www.spokesman.com/stories/2008/jun/15/john-blanchette-jewel-on-havana-street| access-date = November 5, 2014}}</ref><ref>{{cite web| last = Stoker| first = Greg| title = The Northwest League Is Moving Upward| publisher = Minor League Sports Report| date = December 8, 2020| url = http://minorleaguesportsreport.com/index.php/the-northwest-league-is-moving-upward/| access-date = March 27, 2021}}</ref> The Indians play their home games at the 6,803-seat [[Avista Stadium]] and have won seven NWL titles since their Short-Season-A debut in 1982.<ref>{{cite web| title = About Avista Stadium| publisher = The Spokesman-Review| url = https://www.spokesman.com/sports/team/spokane-indians/stadium/| access-date = June 8, 2021}}</ref><ref name="Blanchette"/> Prior to 1982, the Indians played in the [[Triple-A (baseball)|Triple-A level]] [[Pacific Coast League]] (PCL); the franchise has won 12 league titles: four in the PCL and eight in the NWL.<ref>{{cite web| title = A Brief History of the Spokane Indians| publisher = [[Minor League Baseball]]| url = https://www.milb.com/spokane/history/teamhistory| access-date = June 8, 2021}}</ref>
+
+Spokane Valley hosts the annual Cycle Celebration, a cycling event presented by the organizers of Valleyfest. The event caters to beginning riders as well as more serious riders with 10-mile, 25-mile, and 50-mile marked routes with comfort stations along the course.<ref name=bikes>{{cite web| last = Thomas| first = Jake| title = Bikes| newspaper = [[Inlander]]| date = June 16, 2016| url = https://www.inlander.com/spokane/bikes/Content?oid=2797020| access-date = June 8, 2021}}</ref> Each route starts at the Mirabeau Point Park Meadows and the 10-mile course is routed east onto the [[Spokane River Centennial Trail]], while the 25-mile course takes riders to the [[Saltese Uplands Conservation Area|Saltese Uplands]], and the most rigorous 50-mile course is routed through a rural area over hills and prairies that provide views of [[Mica Peak]] and [[Mount Spokane]] before reaching the finish line at [[Liberty Lake (Washington)|Liberty Lake]].<ref name=bikes/>
+
+==Parks and recreation==
+[[File:MirabeauPointPark.jpg|thumb|Mirabeau Point Park waterfall]]
+
+The City of Spokane Valley maintains about {{convert|254 |acre|km2}} of parkland and open spaces.<ref>{{cite web| title = Parks| publisher = City of Spokane Valley| url = https://www.spokanevalley.org/content/6836/6910/8099/default.aspx| access-date = June 8, 2021}}</ref> Among the most notable parks is Mirabeau Point Park, as it contains the CenterPlace Regional Event Center, the Discovery Playground, the flat and grassy Mirabeau Meadows as well as a natural area that features walking trails and an artificial [[spring (hydrology)|spring]]-fed waterfall, the Mirabeau Springs waterfall.<ref>{{cite web| title = Mirabeau Point Park and Discovery Playground| publisher = Spokane Valley Community and Economic Development| url = https://www.spokanevalleyed.org/living-here/outdoor-recreation/mirabeau-point-park/| access-date = June 8, 2021}}</ref> The natural area of the park is a popular place for the rock climbing community, featuring 14 bolted routes,<ref>{{cite web| last1 = Ryals| first1 = Mitch| last2 = Holt| first2 =  Forrest| title = Rock Climbing| newspaper = Inlander| date = September 5, 2017| url = https://www.inlander.com/spokane/rock-climbing/Content?oid=5254393| access-date = June 8, 2021}}</ref><ref>{{cite web| last = Box| first = Lindsay| title = Best rock climbing in and around Spokane, WA| publisher = The Lands Council| url = https://landscouncil.org/news/best-rock-climbing-in-and-around-spokane-wa| access-date = June 9, 2021}}</ref> and toward the eastern edge of the park is a connection to the [[Spokane River Centennial Trail|Centennial Trail]]. Spokane Valley also has three seasonal outdoor pools.<ref>{{cite web| title = Spokane Valley Outdoor Pools| publisher = City of Spokane Valley| url = https://www.spokanevalley.org/pools| access-date = June 8, 2021}}</ref>
+
+==Government==
+The City of Spokane Valley was incorporated on March 31, 2003, and operates as a non-charter code city under a [[council-manager government]].<ref>{{cite web| title = Washington City and Town Profiles| publisher = [[Municipal Research and Services Center]]| url = https://mrsc.org/Home/Research-Tools/Washington-City-and-Town-Profiles.aspx| access-date = June 9, 2021}}</ref><ref name=inccouncil>{{cite web| title = City Council| publisher = City of Spokane Valley| url = https://www.spokanevalley.org/content/6836/6892/default.aspx| access-date = June 9, 2021}}</ref> Under the council-manager form of government, law making authority is vested in an elected city council and a hired city manager who is responsible to administer and execute the policies and plans of the legislative branch.<ref>{{cite web| title = Government| publisher = City of Spokane Valley| url = https://www.spokanevalley.org/content/6834/9135/default.aspx| access-date = June 9, 2021}}</ref> The city council consists of seven councilmembers whom are elected at-large every two years with four-year terms; Council meetings are held in the Council Chambers of City Hall on Tuesdays at 6&nbsp;pm.<ref name=inccouncil/> The Mayor is appointed from among the councilmembers on a biennial basis at the first meeting of a new council and is the ceremonial leadership position in the city.<ref name=inccouncil/>
+
+In Washington state government, the city of Spokane Valley is located in Washington's 4th [[Washington State Legislature|legislative district]] and in the federal government, the city is in [[Washington's 5th congressional district]] and is represented by Representative [[Cathy McMorris-Rodgers]] and Senators [[Maria Cantwell]] and [[Patty Murray]].<ref>{{cite web| title = District Finder: District 4 Legislators| publisher = [[Washington State Legislature]]| url = https://app.leg.wa.gov/districtfinder| access-date = June 9, 2021}}</ref>
+
+==Education==
+[[File:Central Valley High School, Spokane Valley.jpg|thumb|right|[[Central Valley High School (Washington)|Central Valley High School]]]]
+
+Within Spokane Valley city limits, the public has access to one library which is part of the Spokane County Library District and features a [[studio]] which can be used for recording, production, and broadcasting.<ref>{{cite web| title = Spokane Valley| publisher = Spokane County Library District| url = https://www.scld.org/locations/spokane-valley/| access-date = June 11, 2021}}</ref> For educational attainment, 93.3 percent of the city residents have a high school diploma or higher and 23.4 percent hold a bachelor's degree or higher.<ref name="quickfacts"/>
+
+Public primary and secondary education in Spokane Valley is provided by multiple public school districts, including the [[Central Valley School District (Washington)|Central Valley School District]] (CVSD), [[West Valley School District (Spokane)|West Valley School District]] (WVSD), [[East Valley School District (Spokane)|East Valley School District]] (EVSD), and a portion of western Spokane Valley by [[Spokane Public Schools]] (SPS).<ref>{{cite web| title = Spokane County School Districts| publisher = Spokane County Building and Planning| others = Spokane County GIS| url = https://www.spokanecounty.org/DocumentCenter/View/120/SchoolDistricts-Map-PDF| format = PDF| access-date = June 11, 2021}}</ref> Of the school districts exclusive to the valley, the largest in terms of enrollment is CVSD with a student population of 14,593 in grades PK-12th grade, followed by EVSD with 4,277, and WVSD with 3,862.<ref>{{cite web| title = Central Valley School District| publisher = [[Niche (company)|Niche]]| url = https://www.niche.com/k12/d/central-valley-school-district-wa/| access-date = June 11, 2021}}</ref><ref>{{cite web| title = East Valley School District| publisher = Niche| url = https://www.niche.com/k12/d/east-valley-school-district-spokane-wa/| access-date = June 11, 2021}}</ref><ref>{{cite web| title = West Valley School District| publisher = Niche| url = https://www.niche.com/k12/d/west-valley-school-district-spokane-wa/| access-date = June 11, 2021}}</ref> There are also several [[Independent school|private schools]] in the city, most of which are [[Parochial school|parochial]]. Private schools include the PK-12 grade [[Valley Christian School (Spokane Valley, Washington)|Valley Christian School]], a [[non-denominational]] Christian school and The Oaks Academy, an [[Association of Classical and Christian Schools|ACCS]]-accredited K-12 non-denominational Christian school.<ref>{{cite web| title = Valley Christian School| publisher = Niche| url = https://www.niche.com/k12/valley-christian-school-spokane-valley-wa/| access-date = May 12, 2021}}</ref><ref>{{cite web| title = The Oaks Academy| publisher = Niche| url = https://www.niche.com/k12/the-oaks-academy-spokane-valley-wa/|access-date = May 12, 2021}}</ref> High school students in the region can attend Spokane Valley Tech, a vocational school supported by a consortium of area school districts that offers free technical training for high school juniors and seniors to gain skills for career development in emerging industries and prepare for college.<ref>{{cite web| title = About SVT| publisher = Spokane Valley Tech| url = https://www.spokanevalleytech.org/apps/pages/index.jsp?uREC_ID=1237893&type=d&pREC_ID=1467272| access-date = June 11, 2021}}</ref> The Spokane Valley Tech Skills Center and STEM Academy primarily serves high school students attending public and private high schools in the greater Spokane area and eastern Washington region.<ref>{{cite web| last = Leinberger| first = Lisa| title = Spokane Valley Tech expands hands-on learning curriculum| newspaper = The Spokesman-Review| date = August 2, 2014| url = https://www.spokesman.com/stories/2014/aug/02/spokane-valley-tech-expands-hands-on-learning/| access-date = June 11, 2021}}</ref>
+
+Historically, Spokane Valley had a four-year liberal arts college called [[Spokane University]], which was founded in 1913 and was noted for its [[fine arts]] program which included [[Clyfford Still]], a leading figure in the [[abstract Expressionists|abstract expressionist]] movement as an alum; the university ceased operations in 1933 amidst the [[Great Depression]].<ref name=university>{{cite web| last = Kassa| first = Thomas| title = Spokane University| publisher = Spokane Historical| url = https://spokanehistorical.org/items/show/536| access-date = June 11, 2021}}</ref> The locale it once occupied bears reminders of the institution in the form of a road name, University Road and a public high school that once used the former university campus, [[University High School (Washington)|University High School]].<ref name=university/> The Valley Christian School currently occupies the campus grounds.
+
+Active higher education institutions in the Spokane Valley includes a campus of [[Carrington College (US)|Carrington College]], which primarily offers degree programs in [[healthcare]] fields such as [[medical assistant|medical assisting]], [[Paraveterinary worker|veterinary assisting]] and [[medical billing]] and [[Medical classification|coding]].<ref>{{cite web| title = Career Training at Carrington's Spokane Campus| publisher = [[Carrington College (US)|Carrington College]]| url = https://carrington.edu/location/spokane-washington/| access-date = June 11, 2021}}</ref> The school has produced a large portion of the medical assistants in the area hospitals.<ref>{{cite web| title = Providence starts its own medical assistant apprenticeship program| newspaper = Spokane Journal of Business| date = November 22, 2017| url = https://www.spokanejournal.com/local-news/providence-starts-its-own-medical-assistant-apprenticeship-program/| access-date = June 11, 2021}}</ref>
+
+==Media==
+Spokane Valley is part of neighboring Spokane's television and radio markets.<ref>{{cite web| title = Polidata Region Maps: County-Based Regions and Markets for Washington| publisher = POLIDATA| url = https://www.polidata.org/pub/maps/rg2000/wa_reg.pdf| access-date = June 11, 2021}}</ref><ref>{{cite web| title = 2012 Arbitron Radio Metro Map Based on Fall 2012 Market Definitions| publisher = [[Nielsen Holdings|The Nielsen Company]]| url = http://www.arbitron.com/downloads/Arb_US_Metro_Map_12.pdf| access-date = June 11, 2021}}</ref> The city has a weekly newspaper which publishes on Fridays, the ''Valley News Herald'', which formed in 1996 with the merger of the ''Valley News'' and the ''Valley Herald''.<ref name=officialpub>{{cite web| title = List of Official Publications| publisher = Spokane County| url = https://www.spokanecounty.org/2128/List-of-Official-Publications| access-date = June 11, 2021}}</ref><ref>{{cite web| title = Valley News Herald (Opportunity, Wash.)| publisher = [[Library of Congress]]| url = https://www.loc.gov/item/sn96006934| access-date = June 11, 2021}}</ref><ref>{{cite web| last = Coddington| first = Brian| title = Valley Herald, Valley News Form Single Paper| newspaper = The Spokesman-Review| date = September 7, 1996| url = https://www.spokesman.com/stories/1996/sep/07/valley-herald-valley-news-form-single-paper/| access-date = June 11, 2021}}</ref>
+
+==Infrastructure==
+===Transportation===
+[[File:SpokaneValleyWA I-90 CityLimit.jpg|thumb|[[Interstate 90]] entering Spokane Valley]]
+
+====Roads and highways====
+Due to the city's [[suburb]]an nature and its rural roots before its post World War II [[suburbanization]], the [[Urban planning|design]] of Spokane Valley's streets contain many curvilinear streets, discontinuous streets, [[Dead end (street)|cul-de-sacs]], and other features typical of suburbs.<ref name=Klingle>{{cite web| last = Klingle| first = Matthew W.| title = V. The River City: Planning and Design along the Spokane River| publisher = University of Washington| others = Center for the Study of the Pacific Northwest| series = Building Nature: Topics in the Environmental History of Seattle and Spokane (curriculum project for Washington schools)| url = https://www.washington.edu/uwired/outreach/cspn/Website/Classroom%20Materials/Curriculum%20Packets/Building%20Nature/V.html| access-date = June 13, 2021}}</ref> The major retail corridor and one of the most highly trafficked [[arterial road]]s in the city is [[Sprague Avenue (Spokane, Washington)|Sprague Avenue]], which travels east–west from [[downtown Spokane]] to [[Liberty Lake, Washington|Liberty Lake]].<ref name=Map>{{cite map| title = City of Spokane Valley Transportation Network| publisher = City of Spokane Valley| format = [[ArcGIS]]| url = https://spokanevalley.maps.arcgis.com/apps/webappviewer/index.html?id=cfa6b3119dd44554b13edf134738e413| access-date = June 13, 2021}}</ref><ref>{{cite map| title = Spokane County - Average Daily Traffic| publisher = Spokane County| others = Public Works| url = http://cp.spokanecounty.org/engineering/WebMaps/AvgDailyTraffic/ADT.html| access-date = June 13, 2021}}</ref> Other east–west arterials for the valley include Trent Avenue, Mission Avenue, Broadway Avenue, and 32nd Avenue.<ref name=Map/> Sprague Avenue in Spokane Valley is designated as [[Interstate 90 Business (Spokane Valley, Washington)|Interstate 90 Business]] and Trent Avenue carries the designation of [[Washington State Route 290]], where it is routed from the Interstate 90 Hamilton interchange in Spokane northeast to the Idaho border.<ref name=Map/> For north–south travel, the major arterial streets are Argonne/Mullan roads, Pines road, Evergreen road and Sullivan road.<ref name=Map/> Pines Road is the northernmost portion of [[Washington State Route 27]], serving Spokane and [[Whitman County, Washington|Whitman]] counties and routed between [[Pullman, Washington|Pullman]] and Spokane Valley where it terminates at the intersection with Trent Avenue; Washington State Route 27 is part of the [[Palouse Scenic Byway]].<ref name=Map/><ref>{{cite map| title = Scenic Byways Travel Planner| publisher = Washington Department of Transportation| format = PDF|url = https://wsdot.wa.gov/sites/default/files/2018/07/17/scenic-byways-travel-planner.pdf| access-date = June 13, 2021}}</ref>
+Spokane Valley can be accessed from [[Interstate 90 in Washington|Interstate 90]] at exits 285 to 293 as it travels from its termini of [[Seattle|Seattle, Washington]] in the west to [[Boston, Massachusetts]] in the east, connecting Spokane, Spokane Valley, and Coeur d'Alene along its transcontinental route.<ref name=Map/> The average commute to work is about 21 minutes.<ref name="quickfacts">{{cite web| title = QuickFacts| publisher = United States Census Bureau| url = https://www.census.gov/quickfacts/fact/table/spokanevalleycitywashington/PST045219| access-date = May 11, 2021}}</ref> Traffic congestion on the interstate is increasing and causing travel delays particularly during peak commute hours according to the [[Washington State Department of Transportation]] (WSDOT); starting in 2019, the WSDOT started installing [[ramp meter]]s to help reduce the congestion caused by accidents in particular, which contributed to a quarter of the congestion issues according to a study.<ref>{{cite web| last = Prager| first = Mike| title = State looking for ways to ease Interstate 90 congestion through Spokane| newspaper = The Spokesman-Review| date = May 15, 2017| url = https://www.spokesman.com/stories/2017/may/15/state-looking-for-ways-to-head-off-i-90-congestion/| access-date = June 13, 2021}}</ref><ref>{{cite web| last = Knapp| first = Kaitlin| title = Ramp meters are going up at five I-90 ramps in Spokane, meant to reduce congestion and crashes| publisher = KXLY| date = June 24, 2020| url = https://www.kxly.com/ramp-meters-are-going-up-at-five-i-90-ramps-in-spokane-meant-to-reduce-congestion-and-crashes/| access-date = June 13, 2021}}</ref>
+
+====Public transportation====
+The public transportation needs for Spokane Valley as well as most of Spokane County is served by [[Spokane Transit Authority]] (STA), which maintains the [[Pence-Cole Valley Transit Center]] (VTC) and has a few park-and-ride locations throughout the city.<ref>{{cite web| title = FAQ (Frequently Asked Questions)| publisher = [[Spokane Transit Authority]]| url = https://www.spokanetransit.com/about-sta/faq-frequently-asked-questions| access-date = June 13, 2021}}</ref><ref>{{cite web| title = Park & Ride Locations| publisher = Spokane Transit Authority| url = https://www.spokanetransit.com/ride-sta/park-ride| access-date = June 13, 2021}}</ref> The STA has one regular route, and two peak use express routes that service the VTC hub.<ref>{{cite map| title = STA System Map| publisher = Spokane Transit Authority| url = https://www.spokanetransit.com/files/routes-schedules/STA_System_Map_091519_Web.pdf| access-date = June 13, 2021}}</ref> Spokane Valley has a [[Walk Score]] of 25, indicating it is car-dependent and a Transit Score of 25 indicating there are some public transit options.<ref>{{cite web| title = Spokane Valley, Washington, 99016| publisher = [[Walk Score]]| url = https://www.walkscore.com/score/e-sprague-ave-and-n-barker-rd-spokane-wa-99016| access-date = June 13, 2021}}</ref>
+
+====Airports====
+The closest major airport serving Spokane Valley and the [[Spokane–Coeur d'Alene Combined Statistical Area|Spokane–Coeur d'Alene area]] is [[Spokane International Airport]], which is served by six airlines and is {{convert|16|mi|km}} to the west in Spokane.<ref>{{cite web| title = About Spokane International Airport| publisher = [[Spokane International Airport]]| url = https://business.spokaneairports.net/about-spokane-international/| access-date = May 11, 2021}}</ref> [[Felts Field]] is a [[general aviation]] airport located near Spokane Valley along the south bank of the Spokane River; the [[Federal Aviation Administration]] [[FAA airport categories|categorizes]] it as a regional reliever facility.<ref>{{cite web| title = Felts Field Airport| publisher = AirNav| url = http://www.airnav.com/airport/KSFF| access-date = May 11, 2021}}</ref><ref>{{cite web| title = List of NPIAS Airports with Activity and Development Estimate| publisher = [[Federal Aviation Administration]]| series = 2021-2025 NPIAS| url = https://www.faa.gov/airports/planning_capacity/npias/current/media/NPIAS-2021-2025-Appendix-A.pdf| access-date = June 13, 2021}}</ref>
+
+===Healthcare===
+Spokane Valley is served by one [[general hospital]], the 123-bed MultiCare Valley Hospital as well as specialty and urgent care clinics operated by the [[MultiCare Health System]], [[Providence Health & Services]], and the Community Health Association of Spokane (CHAS Health), a non-profit [[Federally Qualified Health Center]] that primarily serves the needs of the uninsured with medical, dental, pharmacy, and behavioral health services.<ref>{{cite web| title = MultiCare Valley Hospital| publisher = Washington State Hospital Association| url = https://www.wsha.org/members/multicare-valley-hospital/| access-date = June 13, 2021}}</ref><ref>{{cite web| title = Spokane Valley| publisher = MultiCare Indigo Health| url = https://www.indigohealth.com/locations/urgent-care-spokane-valley/| access-date = June 13, 2022}}</ref><ref>{{cite web| title = Providence Urgent Care - Spokane Valley| publisher = Providence| url = https://www.providence.org/our-services/urgent-care/urgent-care-spokane-valley| access-date = June 13, 2021}}</ref><ref>{{cite web| title = Valley Clinic| publisher = CHAS Health| url = https://chas.org/location/valley-clinic/| access-date = June 13, 2021}}</ref> Ambulance service in Spokane County is contracted to [[American Medical Response]] (as of 2021).<ref>{{cite web| title = AMR in the Spokane Community| publisher = [[American Medical Response]]| url = https://www.amr.net/home/spokane| access-date = June 13, 2021}}</ref>
+
+{{Infobox UCR
+|city_name= Spokane Valley
+|year= 2022
+|homicide= 3
+|rape= 49
+|robbery= 71
+|aggravated_assault= 239
+|violent_crime= 362
+|burglary= 563
+|larceny_theft= 3408
+|motor_vehicle_theft= 563
+|arson= 8
+|property_crime= 4542
+|source_url= https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend
+|source_name= 2022 FBI UCR Data
+|notes= 2022 population: 107,325
+}}
+
+===Utilities===
+Electric service in Spokane Valley is provided by a variety of providers, including [[Avista Utilities]], Inland Power & Light, Modern Electric Water Company, and Vera Water & Power.<ref name=utilities>{{cite web| title = Utilities| publisher = City of Spokane Valley| url = https://www.spokanevalley.org/content/6836/6896/8501/default.aspx| access-date = June 13, 2021}}</ref> Water service is also provided by a patchwork of different providers, including the City of Spokane Water Department, Modern Electric Water Company, and various [[water district]]s.<ref name=utilities/> This is due to the rural beginnings of the neighborhoods that now make up the city of Spokane Valley and a legacy of the providers that came into operation to meet the needs of the agricultural consumers that predated the suburbanization of the area.<ref>{{cite web| last = Maben| first = Scott| title = Liquid asset: Spokane Valley-Rathdrum Prairie aquifer| newspaper = The Spokesman-Review| date = September 7, 2014| url = https://www.spokesman.com/stories/2014/sep/07/liquid-asset-spokane-valley-rathdrum-prairie/| access-date = June 13, 2021}}</ref> The city draws its water supply from the [[Spokane Valley–Rathdrum Prairie Aquifer]]. For sewer service, Spokane County Environmental Services is the sole provider and Avista Utilities is the sole provider for natural gas.<ref name=utilities/> The valley is serviced by [[Xfinity|Xfinity Comcast]] and [[Centurylink]] and some smaller telecom providers for cable TV and residential internet.<ref name=utilities/>
+
+===Public safety===
+====Police department====
+The Spokane Valley Police Department (SVPD) is a contracted division of the [[Spokane County Sheriff's Office]], with Spokane Valley being the largest city the sheriff's office serves.<ref>{{cite web| title = Spokane Valley Police Department| publisher = City of Spokane Valley| url = https://www.spokanevalley.org/Police| access-date = June 13, 2021}}</ref> Deputies assigned to the Spokane Valley Precinct use distinct patrol vehicles and have distinct uniforms and patches. The SVPD has is an accredited member of the Washington Association of Sheriffs and Police Chiefs.<ref>{{cite web| last = White| first = Rebecca| title = Spokane Valley, county proclaim appreciation for law enforcement, activists call it tone deaf| newspaper = The Spokesman-Review| date = July 1, 2020| url = https://www.spokesman.com/stories/2020/jul/01/spokane-valley-county-proclaim-appreciation-for-la/| access-date = June 13, 2021}}</ref>
+
+====Fire department====
+{{main|Spokane Valley Fire Department}}
+The [[Spokane Valley Fire Department]] (SVFD) is a special-purpose fire district that has served the greater Spokane Valley area since 1940.<ref>{{cite web| title = Our history| publisher = Spokane Valley Fire Department| url = https://www.spokanevalleyfire.com/about-us/our-history/| access-date = July 6, 2019}}</ref> The department was originally formed as the Spokane Valley Fire Protection District No. 1, though they had unofficially been referred to as the "Spokane Valley Fire Department" or "Valley Fire Department" since the 1940s.<ref>{{Cite web|url=https://books.google.com/books?id=re00AAAAIBAJ&q=valley+fire+department&pg=PA25|title = The Spokesman-Review}}</ref> SVFD officially adopted their present name in 2007.<ref name=SVFD>{{cite web| last = Culver| first = Nina| title = Spokane Valley Fire Department quietly celebrates 80th| newspaper = The Spokesman-Review| date = April 2, 2020| url = https://www.spokesman.com/stories/2020/apr/02/spokane-valley-fire-department-quietly-celebrates-/| access-date = June 13, 2021}}</ref> The SVFD provides emergency services to the cities of Spokane Valley, [[Liberty Lake, Washington|Liberty Lake]], [[Millwood, Washington|Millwood]], and nearby areas of unincorporated Spokane County such as [[Otis Orchards-East Farms, Washington|Otis Orchards]] and Pasadena Park.<ref>{{Cite web|url=https://www.spokanevalleyfire.com/about-us/|title = About Us}}</ref>
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{Cite book| last= Edwards| first= Jonathan| title= Illustrated history of Spokane county| publisher= W.H. Lever| author2=Nelson Durham| year=1900| location=Spokane, Washington| url= http://www.secstate.wa.gov/history/publications_view.aspx?pub=100&p=314&i=images/publications/SL_edwardsillustrated/directory.djvu| format= [[DJVU]] |isbn=978-1-153-38635-7| oclc=25321986| others= Washington State Library's Classics in Washington History collection}}
+* {{Cite book| last= Boutwell| first= Florence| title= The Spokane Valley: A History of the Early Years| volume= 1| publisher= Arthur H. Clark Company| year= 1994| location= Spokane, WA|isbn= 978-0870622359| oclc=32029798}}
+* {{Cite book| last= Boutwell| first= Florence| title= The Spokane Valley: A History of the Growing Years, 1921-1945| volume= 2| publisher= Arthur H. Clark Company| year= 1995| location= Spokane, WA|isbn= 978-0870622465| oclc=32029798}}
+* {{Cite book| last= Boutwell| first= Florence| title= The Spokane Valley: Out in the Gravel| volume= 3| publisher= Arthur H. Clark Company| year= 1996| location= Spokane, WA|isbn= 978-0870622687| oclc=32029798}}
+
+==External links==
+*{{Official website|https://www.spokanevalleywa.gov/}}
+* [http://www.communityindicators.ewu.edu/index.cfm Spokane Community Indicators]
+
+{{Spokane County, Washington}}
+{{Washington}}
+
+{{Authority control}}
+
+[[Category:Spokane Valley, Washington| ]]
+[[Category:Cities in Washington (state)]]
+[[Category:Cities in Spokane County, Washington]]
+[[Category:Populated places established in 2003]]
+[[Category:2003 establishments in Washington (state)]]
+[[Category:Washington (state) placenames of Native American origin]]

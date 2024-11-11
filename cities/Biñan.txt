@@ -1,0 +1,626 @@
+{{Short description|Component city in Laguna, Philippines}}
+{{Use mdy dates|date=July 2022}}
+{{Infobox settlement
+| name               = {{PH wikidata|name}}
+| image_skyline      = {{Photomontage
+| photo1a = Plaza Rizal, Biñan, Laguna, February 2023.jpg
+| photo2a = 3684Biñan City, Laguna Barangays Landmarks 36.jpg
+| photo2b = 3581Biñan City, Laguna Barangays Landmarks 21.jpg
+| photo3a = 384Biñan City Roads Laguna Roads Landmarks 40.jpg 
+| photo3b = 3732Biñan City, Laguna Barangays Landmarks 22.jpg
+| size = 275
+| spacing = 2
+| position = center
+| color = transparent
+| border = 0
+}}
+| image_caption      = (''From top, left to right:'' Plaza Rizal · [[Alonte Sports Arena]] · City Hall · Southwoods City · [[Biñan Football Stadium]])
+| image_flag         = Flag of Biñan, Laguna.png
+| image_seal         = Binan City Seal.png
+| seal_size          = 100x80px
+| image_map          = {{PH wikidata|image_map}}
+| map_caption        = {{PH wikidata|map_caption}}
+| image_map1         = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map        = Philippines
+| pushpin_label_position = left
+| pushpin_map_caption = Location within the {{PH wikidata|country}}
+| coordinates        = {{PH wikidata|coordinates}}
+| settlement_type    = {{PH wikidata|settlement_type}}
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = [[Philippines]]
+| subdivision_type1  = [[Regions of the Philippines|Region]]
+| subdivision_name1  = {{PH wikidata|region}}
+| subdivision_type2  = [[Provinces of the Philippines|Province]]
+| subdivision_name2  = {{PH wikidata|province}}
+| official_name      = {{PH wikidata|official_name}}
+| etymology          = <!--origin of name-->
+| named_for          = <!--named after (if person or place)-->
+| native_name        = 
+| other_name         = 
+| nickname           = 
+| motto              = 
+| anthem             = 
+| subdivision_type3  = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3  = {{PH legislative district}}
+| established_title  = [[Date of establishment|Founded]]
+| established_date   = February 4, 1747
+| established_title1 = Cityhood
+| established_date1  = February 2, 2010
+| parts_type         = [[Barangay]]s
+| parts_style        = para
+| p1                 = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title       = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name        = Walfredo R. Dimaguila, Jr.<br>([[Lakas–CMD]])
+| leader_title1      = [[Vice Mayor]]
+| leader_name1       = Angelo B. Alonte ([[Lakas–CMD]])
+| leader_title2      = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2       = [[Len Alonte|Marlyn A. Naguiat]]<br/>([[Lakas–CMD]])
+| leader_title3      = [[Sangguniang Panlungsod|City Council]]
+| leader_name3       = {{PH Town Council
+ | 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Jonalina R. Reyes
+ | 3=Libunero O. Alatiit
+ | 4=Rommel R.  Dicdican
+ | 5=Flaviano D. Pecaña Jr.
+ | 6=Christopher  A. Alba
+ | 7=Jayson A. Souza
+ | 8=Victor L. Cariño
+ | 9=Elmario B. Dimaranan
+ | 10=Rafael L. Cardeño Jr.
+ | 11=Alvin Z. Garcia
+ | 12=Elvis L. Bedia
+ | 13=Jose Francisco Ruben P. Yatco
+}}
+| leader_title4      = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4       = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type    = {{PH wikidata|government_type}}
+| government_footnotes = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m        = {{PH wikidata|elevation_m}}
+| elevation_max_m    = 343
+| elevation_min_m    = 2
+| elevation_max_rank = 
+| elevation_min_rank = 
+| elevation_footnotes = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes = 
+| elevation_min_footnotes = 
+| area_rank          = 
+| area_footnotes     = {{PH area}}
+| area_total_km2     = {{PH wikidata|area}}
+| population_footnotes = {{PH census|current}}
+| population_total   = {{PH wikidata|population_total}}
+| population_as_of   = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title = [[Household]]s
+| population_blank1  = {{PH wikidata|household}}
+| population_blank2_title = 
+| population_blank2  = 
+| population_demonym = Biñanense
+| population_rank    = 3 out of 30 (in Laguna)
+| population_note    = 
+| timezone           = [[Philippine Standard Time|PST]]
+| utc_offset         = +8
+| postal_code_type   = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code        = {{PH wikidata|postal_code}}, 4034 (Laguna Technopark)
+| postal2_code_type  = {{PSGCstyle}}
+| postal2_code       = {{PSGC detail}}
+| area_code_type     = {{areacodestyle}}
+| area_code          = {{PH wikidata|area_code}}
+| website            = {{PH wikidata|website}}
+| demographics_type1 = [[Economy of the Philippines|Economy]]
+| demographics1_title1 = {{PH wikidata|income_class_title}}
+| demographics1_info1 = {{PH wikidata|income_class}}
+| demographics1_title2 = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2 = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3 = [[Revenue]]
+| demographics1_info3 = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4 = Revenue rank
+| demographics1_info4 = 
+| demographics1_title5 = [[Asset]]s
+| demographics1_info5 = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6 = Assets rank
+| demographics1_info6 = 
+| demographics1_title7 = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7 = 
+| demographics1_title8 = IRA rank
+| demographics1_info8 = 
+| demographics1_title9 = [[Expenditure]]
+| demographics1_info9 = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10 = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10 = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2 = Service provider
+| demographics2_title1 = Electricity
+| demographics2_info1 = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2 = Water
+| demographics2_info2 = 
+| demographics2_title3 = Telecommunications
+| demographics2_info3 = 
+| demographics2_title4 = Cable TV
+| demographics2_info4 = 
+| demographics2_title5 = 
+| demographics2_info5 = 
+| demographics2_title6 = 
+| demographics2_info6 = 
+| demographics2_title7 = 
+| demographics2_info7 = 
+| demographics2_title8 = 
+| demographics2_info8 = 
+| demographics2_title9 = 
+| demographics2_info9 = 
+| demographics2_title10 = 
+| demographics2_info10 = 
+| blank_name_sec1    = {{PH wikidata|climate_title}}
+| blank_info_sec1    = {{PH wikidata|climate_type}}
+| blank1_name_sec1   = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1   = {{PH wikidata|language}}
+| blank2_name_sec1   = [[Crime index]]
+| blank2_info_sec1   = 
+| blank3_name_sec1   = 
+| blank3_info_sec1   = 
+| blank4_name_sec1   = 
+| blank4_info_sec1   = 
+| blank5_name_sec1   = 
+| blank5_info_sec1   = 
+| blank6_name_sec1   = 
+| blank6_info_sec1   = 
+| blank7_name_sec1   = 
+| blank7_info_sec1   = 
+| blank1_name_sec2   = Major religions
+| blank1_info_sec2   = 
+| blank2_name_sec2   = Feast date
+| blank2_info_sec2   = 
+| blank3_name_sec2   = Catholic diocese
+| blank3_info_sec2   = 
+| blank4_name_sec2   = Patron saint
+| blank4_info_sec2   = [[Isidore the Laborer]]
+| blank5_name_sec2   = 
+| blank5_info_sec2   = 
+| blank6_name_sec2   = 
+| blank6_info_sec2   = 
+| blank7_name_sec2   = 
+| blank7_info_sec2   = 
+| short_description  = 
+| footnotes          = 
+}}
+
+'''Biñan''' ({{IPA-all|biˈɲan}}), officially the '''City of Biñan''' ({{lang-fil|Lungsod ng Biñan}}), is a 1st class [[Cities of the Philippines#Legal classification|component city]] in the [[Provinces of the Philippines|province]] of [[Laguna (province)|Laguna]], [[Philippines]]. According to the 2020 census, it has a population of 407,437 people.{{PH census|current}}
+
+Biñan has become both a suburban residential community of [[Metro Manila]] and a location for some of the Philippines' largest [[industrial estates]] and [[export processing zones]]. Prior to its cityhood in 2010, Biñan was the richest [[Municipalities of the Philippines|municipality]] in the Philippines with an annual gross income of {{Philippine peso|677 million|link=yes}} ({{US$|14.383 million|link=yes}}) and net income of ₱250 million (US$5.308 million), as of 2007 by the [[Commission on Audit (Philippines)|Commission on Audit]].<ref>{{cite web|title=2007 Financial Statements Highlights for Local Government Units |url=http://www.coa.gov.ph/Reports/RFP/2007FS_Highlights-LGUs.pdf |publisher=Commission On Audit Philippines |access-date=August 26, 2012 |archive-date=September 20, 2009 |archive-url=https://web.archive.org/web/20090920082041/http://www.coa.gov.ph/Reports/RFP/2007FS_Highlights-LGUs.pdf |url-status=dead }}</ref> According to the 2020 census, it has a population of 407,437, making it the third largest in population in the province of Laguna, after [[Calamba, Laguna|Calamba]] and [[Santa Rosa, Laguna|Santa Rosa]].{{PH census|current}}
+
+By virtue of Republic Act No. 10658, signed on March 27, 2015, by [[Benigno Aquino III|President Benigno Aquino III]], Biñan has been separated from the [[Laguna's 1st congressional district|first congressional district of Laguna]] and formed the [[Legislative district of Biñan|lone congressional district of Biñan]].
+
+==Etymology==
+Where Biñan got its name is a mystery. Some deduced that before [[Juan de Salcedo|Captain Juan de Salcedo]] proceeded to [[Cainta]] and [[Taytay, Rizal|Taytay]] finally reaching [[Bay, Laguna|Bay]], he landed in Biñan. According to the story, Padres Alfonso de Alvarado and Diego Espinar planted a huge wooden cross on the spot where the present-day San Isidro Labrador parish stands and co-celebrated a [[Thanksgiving|Thanksgiving Mass]]. Curious natives gathered and the two Spanish missionaries took advantage of the situation. They baptized each one of them. From then on, old folks say they called the place “Binyagan,” which means a baptismal place in [[Tagalog language|Tagalog]]. The place's root word ''[[wikt:binyag|binyag]]'' is originally a [[Brunei Malay]] word which means “to pour water from above,” according to the dictionary ''[[Vocabulario de la lengua tagala]]''. The Spanish tongue's difficulty in pronouncing the local dialect acquired for the once town its name — "Biñan".
+
+An 1846 book in [[French language|French]] also spelled the town as Viñan.<ref>{{cite book |last1=Mallat De Bassilan |first1= Jean-Baptiste |date=1846 |title=Les Philippines: histoire, géographie, moeurs |trans-title= |url=https://books.google.com/books?id=D6sUAAAAQAAJ&dq=%22pueblo+de+Vi%C3%B1an%22&pg=PA130 |accessdate=March 13, 2024 |language=fr |location=Paris |publisher=A. Bertrand |isbn= |archive-url= |archive-date= |via= |quote=}}</ref> It is also spelled in other references as Biniang, Binyang, Binang, or Biñang.
+
+==History==
+[[File:Alberto Mansion Biñan City, Laguna.jpg|thumb|left|[[Alberto Mansion]]]]
+[[File:Rizal in Biñan 1948 PHC historical marker.jpg|thumb|left|Rizal in Biñan historical marker]]
+Captain [[Juan de Salcedo]] explored [[Laguna de Bay]] and founded Biñan at the end of June 1571, a month after [[Miguel López de Legazpi]] established [[Manila]]. In 1644, [[Dominican Order|Dominican]] friars turned the area into a hacienda known as Hacienda de San Isidro Labrador de Biñán, in honor of Saint [[Isidore the Laborer]].<ref>{{cite journal|last1=Santiago |first1= Luciano P.R. |title=The Roots of Pila, Laguna: A Secular and Spiritual History of the Town (900 Ad to the Present) |trans-title= |url=https://www.jstor.org/stable/29792218 |journal=Philippine Quarterly of Culture and Society|volume=25|number=3/4|date=1997|pages= 125–155 |accessdate=March 13, 2024 |publisher=University of San Carlos Publications |jstor= 29792218 }}</ref><ref name="pueblo" /> When the seat of the provincial government of the ''Provincia de la Laguna de Bay'' was transferred from [[Bay, Laguna|Bay]] to [[Pagsanjan]] in 1688, Biñan separated from Tabuco (now the city of [[Cabuyao]]). In the 1600s Biñan had 256 Chinese-Filipino and 1,639 Native Filipino tributes. <ref name="ConquestandPestilence">Conquest and Pestilence in the Early Spanish Philippines By Linda A. Newson)</ref>{{rp|142}}
+
+In 1747, the Spaniards officially converted Biñan into a ''[[pueblo]]'' (town).<ref name="pueblo">{{cite news|url=https://www.manilastandard.net/?p=314204584|title=The evolution of Biñan from pueblo to city|date=February 4, 2022|first=Pepe|last=Alas|publisher=Manila Standard|accessdate=March 13, 2024}}</ref><ref>{{cite news|url=https://manilastandard.net/?p=314204548|title=Araw ng Biñan '22 celebrates history, culture, progress|date=February 4, 2022|first= Peter Paul|last=Duran|publisher=Manila Standard|accessdate=March 13, 2024}}</ref><ref>{{cite news|url=https://opinyon.net/laguna/araw-ng-binan-2023-promoting-values-regeneration|title=Araw ng Biñan 2023: PROMOTING 'VALUES REGENERATION'|first1=James|last1=Veloso|first2=Catherine|last2=Go|date=January 30, 2023|accessdate=March 13, 2024|publisher=OpinYon News}}</ref> [[Santa Rosa, Laguna|Santa Rosa]] separated from Biñan in 1791 and was later established as an independent town on January 18, 1792.<ref name="santarosa">{{cite web|url=https://santarosacity.gov.ph/about-us|title=Historical Timeline|accessdate=March 13, 2024|website=Santa Rosa}}</ref>
+
+Historically, Biñan has gained recognition nationwide for being part of the life of [[José Rizal]], one of the [[National hero of the Philippines|country's national hero]]. In June 1869, when Rizal was a child, he traveled to Biñan with his brother [[Paciano Rizal|Paciano]]. They moved into his aunt's home, which would serve as their lodging, near the town proper. Here, he received his [[School of Dr. Jose P. Rizal Site and Museum|first formal education]] through the tutelage of Maestro Justiniano Aquino Cruz and, after a year and a half of instruction, recommended the young Rizal to pursue higher education in Manila. The home where José Rizal resided was given a plaque of appreciation in his honor. Biñan's town square now has a monument in the center honoring Biñan's connection to Rizal.<ref>{{cite web|url=https://www.binan.gov.ph/history|title=History|website=Biñan City Official Website|accessdate=March 13, 2024}}</ref>
+
+In 1903, the adjacent towns of [[Muntinlupa]], then part of [[Rizal (province)|Rizal province]], and [[San Pedro, Laguna|San Pedro Tunasan]] were consolidated with Biñan.<ref>{{cite PH act|chamber=Act|number=939|title=An Act reducing the thirty municipalities of the Province of La Laguna to nineteen|url=https://lawyerly.ph/laws/view/l4037|date=October 12, 1903|accessdate=June 15, 2023}}</ref><ref>{{cite PH act|url=https://elibrary.judiciary.gov.ph/dtSearch/dtisapi6.dll?cmd=getdoc&DocId=622&Index=%2A9b8c493322d6ea4e01a8b64cca8b398a|title=An Act Amending Act Numbered Nine hundred and thirty-nine, entitled "An Act reducing the thirty municipalities of the Province of La Laguna to nineteen," and Act Numbered Nine hundred and forty-two, entitled "An Act reducing the thirty - two municipalities of the Province of Rizal to fifteen," and providing that the boundary line between the Provinces of La Laguna and Rizal be changed so as to include in La Laguna the municipality of Muntinlupa now a part of Rizal.|chamber=Act|number=1008|date=November 25, 1903|accessdate=April 24, 2022}}{{Dead link|date=October 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Both towns were later separated when Muntinlupa was returned to Rizal as part of [[Taguig]] in 1905 and San Pedro Tunasan regained its independent municipality status effective 1907.<ref>{{cite PH act|url=https://lawyerly.ph/laws/view/l43ec|chamber=Act|number=1308|date=March 22, 1905|accessdate=April 24, 2022|title=An Act providing for the return of the former municipality of Muntinlupa from the Province of La Laguna to the Province of Rizal, repealing paragraph (e) of section one and sections two and three of Act Numbered One thousand and eight, and changing the name of the municipality of Pateros, of the Province of Rizal, to Taguig.}}</ref><ref>{{cite PH act|url=https://issuances-library.senate.gov.ph/legislative%2Bissuances/Act%20No.%201553|chamber=Act|number=1553|date=October 29, 1906|accessdate=June 16, 2023|title=An Act Increasing the Number of Municipalities in the Province Of La Laguna from Twenty to Twenty-one, by Separating From Biñan the Former Municipality of San Pedro Tunasan, Reconstituting the Latter as a Municipality, and Giving to Each the Territory Which It Comprised Prior to the Passage of Act Numbered Nine Hundred and Thirty-nine.}}</ref>
+
+===Cityhood===
+{{main|Cities of the Philippines}}
+On February 2, 2010, by the virtue of the Republic Act No. 9740, Biñan became a component city after its voters accepted the ratification in the plebiscite. It became the 4th city in the province and 139th in the [[Philippines]].
+
+==Geography==
+Biñan is located {{convert|35|km|sp=us}} south of [[Manila]] and {{convert|52|km|sp=us}} from [[Santa Cruz, Laguna|Santa Cruz]]. It is bounded on the north by [[San Pedro, Laguna|San Pedro]], on the west by [[General Mariano Alvarez]], [[Carmona, Cavite|Carmona]], and [[Silang, Cavite|Silang]], on the south by [[Santa Rosa, Laguna|Santa Rosa]], while on the east lies [[Laguna de Bay]], the largest lake in the country.
+
+The city covers a total land area of {{convert|43.50|sqkm|sqmi|abbr=on}} that represents {{percentage|43.5|1,917.85|2|%=&nbsp;percent}} of the entire Laguna province. In 2020, Biñan had a total population of 407,437.{{PH census|current}} It is the third most populated in the province ({{percentage|407,437|3,382,193|1}} of the provincial population), next only to Calamba ({{percentage|539,671|3,382,193|1}}) and Santa Rosa City ({{percentage|414,812|3,382,193|1}}).
+
+===Topography===
+Biñan is generally plain with 85.33 percent of its total area having a slope of zero to 2.5 percent. This covers all the 24 barangays except for small portions of Barangay Biñan and San Francisco having a slope ranging from 2.6 to 25 percent, meaning it is gently sloping to strongly sloping. With more than three-fourths of its area generally level to nearly level, this makes Biñan suitable for agricultural and urban development.
+
+===Soil properties===
+Of the eleven-soil series that compose the land area of Laguna, Carmona and Gingua series covers about two types that can only be seen in Biñan. Carmona series covers about {{convert|2,577|ha}} or {{percentage|25.77|43.5|2|%=&nbsp;percent}} seen in Biñan's land area. Agricultural land in these areas is primarily devoted to rice and sugar production. Gingua series, on other hand, specifically the fine sandy type covers {{convert|315|ha}} which is one of the most productive soils in Laguna where a variety of crops especially vegetables are grown profitably. The other two basic soil series comprising Biñan are Guadalupe series covering {{convert|660|ha}} and Lipa series with {{convert|798|ha}}.
+
+===Barangays===
+[[File:City of Biñan Barangay Map Official.jpg|thumb|Map of Biñan showing the barangays]]
+
+Biñan is politically subdivided into 24 barangays, all classified as urban. Each barangay consists of [[purok]]s and some have [[sitios]].
+
+Barangay San Francisco occupies the largest area, which is about 16.83 percent of Biñan, while Barangay Casile has the smallest area with only {{convert|12|ha|sp=us}} or 0.27 percent.
+
+{{Div col|colwidth=15em}}
+* Biñan 
+* Bungahan
+* Santo Tomas (Calabuso)
+* Canlalay
+* Casile
+* De La Paz
+* Ganado
+* San Francisco (Halang)
+* Langkiwa
+* Loma
+* Malaban
+* Malamig
+* Mampalasan (Mamplasan)
+* Platero
+* Poblacion
+* Santo Niño
+* San Antonio
+* San Jose
+* San Vicente
+* Soro-Soro
+* Santo Domingo
+* Timbao
+* Tubigan
+* Zapote
+{{div col end}}
+
+===Climate===
+The climate of Biñan is characterized by two pronounced seasons: dry from November to April and wet during the rest of the year. Maximum rainfall occurs from June to September with an annual average rainfall of {{convert|200|mm|abbr=on}}. Biñan is protected by mountains in the peripheral areas, and thus it is making the area cooler.
+
+{{Weather box
+| location     = Biñan, Laguna
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 29
+| Jan low C  = 21
+| Feb high C = 30
+| Feb low C  = 21
+| Mar high C = 32
+| Mar low C  = 21
+| Apr high C = 34
+| Apr low C  = 23
+| May high C = 33
+| May low C  = 24
+| Jun high C = 32
+| Jun low C  = 24
+| Jul high C = 30
+| Jul low C  = 24
+| Aug high C = 29
+| Aug low C  = 24
+| Sep high C = 29
+| Sep low C  = 24
+| Oct high C = 30
+| Oct low C  = 23
+| Nov high C = 30
+| Nov low C  = 22
+| Dec high C = 29
+| Dec low C  = 23
+| Jan precipitation mm = 10
+| Feb precipitation mm = 10
+| Mar precipitation mm = 12
+| Apr precipitation mm = 27
+| May precipitation mm = 94
+| Jun precipitation mm = 153
+| Jul precipitation mm = 206
+| Aug precipitation mm = 190
+| Sep precipitation mm = 179
+| Oct precipitation mm = 120
+| Nov precipitation mm = 54
+| Dec precipitation mm = 39
+| Jan rain days        = 5.2
+| Feb rain days        = 4.5
+| Mar rain days        = 6.4
+| Apr rain days        = 9.2
+| May rain days        = 19.7
+| Jun rain days        = 24.3
+| Jul rain days        = 26.9
+| Aug rain days        = 25.7
+| Sep rain days        = 24.4
+| Oct rain days        = 21.0
+| Nov rain days        = 12.9
+| Dec rain days        = 9.1
+| source 1 = Meteoblue<ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/bay_philippines_1725919
+| title =  Bay: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| access-date = May 11, 2020 }}</ref>
+| date = May 11, 2020 }}
+
+==Demographics==
+{{Philippine Census
+| align= none
+| cols = 3
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2008 = 269608
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+===Religion===
+[[File:Sto Niño de Cebu Church, Biñan, Laguna, Jul 2024 (1).jpg|thumb|right|Front view of Sto. Niño de Cebu Parish in Southwoods City]]
+The majority of the people of Biñan are [[Roman Catholic]]s. Other religious groups include [[Jesus Miracle Crusade International Ministry (JMCIM)]], [[the Church of Jesus Christ of Latter-day Saints]], the [[Members Church of God International]], [[Iglesia ni Cristo]] (Church of Christ), [[Evangelical Christianity|Evangelical Christians]], [[United Church of Christ in the Philippines]], the [[United Methodist Church]], [[Presbyterianism|Presbyterian Churches]], [[Baptists|Baptist]] and Bible Fundamental churches.
+
+{{clear left}}
+
+== Economy ==
+{{stack|float=left|{{PH poverty incidence}}}}
+Biñan has been popularly recognized as a trading center area immediately south of Metro Manila. The city has the largest [[Palengke|public market]] in the province of Laguna and in the [[Calabarzon|Calabarzon Region]]. Retailers from nearby towns often plow the city proper to purchase goods and merchandise intended to be sold elsewhere. Biñan has also been a center of commerce in the region because of the numerous banking institutions across the city, plus the ever-growing number of commercial establishments and emerging shopping centers.
+
+A common sight is the preparations and setting up of the wholesalers and the arrival of [[jeepney]]s and trucks carrying various items such as fruits, vegetables, dry goods, dairy products, meat, fish, etc. The market activity would be 24 hours with peak reaching the early hours (3:00–7:00&nbsp;am [[Philippine Standard Time|PHT]]) as [[Filipino people|Filipinos]] are known to work in the early hours of the day trying to prevent exposure to the heating sun.
+
+The city is also known for a type of [[pancake]] made from rice flour, topped with cheese or butter, called Puto Biñan. There are also slices of savory salted egg on top to contrast the mildly sweet pancake base. The best-known makers of Puto in Biñan are located in barangay San Vicente, and the city is renowned as "The Home of the Famous Puto Biñan in Laguna".
+
+{{Wide image|Biñan Plaza panorama.jpg|800px|Panoramic view of Plaza Rizal}}
+
+===Major industries===
+Manufacturing of footwear, headwear, [[Puto (food)|puto]] and special [[pasalubong]] like pinipig and ampaw are some of the major industries of Biñan.
+
+===Shopping centers===
+[[File:9562National Highway, Carmona Biñan City, Laguna 24.jpg|thumb|left|Central Mall Biñan]]
+Notable malls and shopping centers in the city include the [[Southwoods Mall]] (managed by [[Megaworld Lifestyle Malls|Megaworld]]), [[Pavilion Mall]] (managed by [[Ayala Malls]]), Central Mall Biñan, C. Morales Mall, and Umbria Commercial Center.
+
+===Investment sites===
+<!-- Deleted image removed: [[File:One asia business center.jpg|thumb|An aerial perspective of the master plan for the One Asia Business Center.]] -->
+[[File:384Biñan City Roads Laguna Roads Landmarks 48.jpg|thumb|right|Southwoods City]]
+
+Biñan has two [[industrial park]]s namely, the Laguna International Industrial Park (LIIP) and the Laguna Technopark Incorporated (LTI). The two industrial parks have created a good image in contributing favorably in Biñan as well as in the [[Economy of the Philippines|Philippine economy]] in terms of local employment and the generation of foreign exchange. To date, Biñan has benefited a large number of residents being employed in different companies there. To name a few, they are [[Honda]] Parts Manufacturing Corporation, Kito Corporation, Nissin Brake, Ryonan Electric, Cirtek Electronics, [[SunPower]], [[Nidec Corporation]], Isuzu Philippines, Atlas Copco, Diageo, [[Furukawa Group|Furukawa Electric]], [[Takata Corporation|Takata]], Toshiba Philippines, Optodev, Inc., [[Transitions Optical|Transitions Optical Philippines Inc.]], [[Hitachi|Hitachi Computer Products Asia]], [[Amkor|Amkor Technology Philippines, Inc.]], [[Integrated Microelectronics, Inc.]] (IMI), [[TDK]], Gardenia Bakeries Philippines Inc., and several other multi-national companies.
+
+As of 2008, Biñan, headed by its Historical, Tourism and Cultural Council has formed "Biñan Business Club", a non-government organization composed of all business establishments of the then-municipality. The Biñan Business Club works to anticipate trends and provide support to help local business enterprises and the community face them head on. The Club commits itself to the essential aspects of economic development and poverty alleviation. It knows that the Biñan community counts on the help of the organization to attract, retain and enhance business through traditional and non-traditional strategies.
+
+One Asia Business Center is a {{convert|10|ha|adj=on}} development located within the Jubilation New Biñan. This business park will be a major component of an integrated master planned development of Jubilation or what is called the New Biñan City which is composed of residential, commercial, recreational and institutional uses.<ref>{{cite web|title=One Asia Business Center|url=http://earthandstyle.com/style/earth-style-commercial-projects/one-asia-business-center|website=earthandstyle.com|access-date=August 26, 2012}}</ref>
+
+Inaugurated on July 25, 2012, Southwoods City, located in Barangay San Francisco, situated at Southwoods Exit along the South Luzon Expressway, has been proclaimed by the Philippine Economic Zone Authority (PEZA) as of July 2010 as a [[Special Economic Zone]]. It is a {{convert|15|ha|adj=on}} project which includes a strip mall, residential condominium towers, an outlet center, a lifestyle park and a [[Business Process Outsourcing]] (BPO) center, the existing Splash Island water park, among other facilities.<ref>{{cite news|title=Southwoods Center to become to P2.5B BPO Center and IT Park|url=http://www.sunstar.com.ph/manila/feature/2012/07/25/southwoods-center-become-p25b-bpo-center-and-it-park-233973|work=SunStar Manila|access-date=August 6, 2012|archive-url=https://web.archive.org/web/20160304055141/http://www.sunstar.com.ph/manila/feature/2012/07/25/southwoods-center-become-p25b-bpo-center-and-it-park-233973|archive-date=March 4, 2016|url-status=dead}}</ref>
+
+Other upcoming developments in Biñan are Greenfield City Biñan,<ref>{{cite web|url=https://greenfield.com.ph/project/future-development/|title=Future Development|accessdate=March 28, 2024|website=Greenfield Development Corporation}}</ref> Meadowcrest (by Federal Land),<ref>{{cite web|url=https://meadowcrest.ph/|title=Meadowcrest|website=Meadowcrest|accessdate=March 28, 2024}}</ref> and Broadfield (by [[Ayala Land|Alveo]]), all in the southern portion of the city.<ref>{{cite web|url=https://alveoland-ayala.com/projects-outside-metro-manila/cavite/broadfield/|title=Broadfield|website=Alveo by Ayala Land|accessdate=March 28, 2024}}</ref>
+
+{{clear left}}
+
+==Transportation==
+[[File:Manila South Road, Biñan Santo Domingo (Gen. Malvar, Biñan, Laguna; 06-28-2023).jpg|left|thumb|Manila South Road in Barangay Santo Domingo]]
+
+The city is accessible to all types of land transportation via [[South Luzon Expressway]] through Greenfield City/Unilab (Mamplasan), Southwoods, and Carmona exits. The [[Cavite–Laguna Expressway]] starts in the city, specifically at Mamplasan Rotonda, and has an interchange near Laguna Technopark Gate 3 and a toll plaza within the city limits. The Manila South Road ([[N1 highway (Philippines)|N1]]) also passes through the city. General Malvar Street, mostly part of [[N65 highway|N65]], connects the city to the province of Cavite.
+
+Public transportation within the city, like in most of the urban areas in the Philippines, is facilitated mostly by inexpensive [[jeepney]]s and [[Motorized tricycle (Philippines)|tricycles]] especially for short distances. The [[Biñan station|Biñan]] and [[Golden City 1 station|Golden City 1]] railway stations of the [[Philippine National Railways]] (PNR) serve the city. The PNR is slated to be succeeded by the under construction [[North–South Commuter Railway]] with one station at Biñan. The old city proper hosts terminals for bus companies that operate routes to and from [[Metro Manila]].
+
+List of accredited transport cooperatives as of January 2021:<ref>{{Cite web |date=January 2021 |title=Accredited Transport Cooperatives as of January 2021 |url=https://otc.gov.ph/wp-content/uploads/2021/02/Accredited-Transport-Cooperatives-Jan-2021-Web.pdf |website=[[Office of Transportation Cooperatives]]}}</ref>
+* Biñan Driver Operator Transport Cooperative
+* Bringing the Lord Message UV Transport Service Cooperative
+* Heartlink Transport and Multipurpose Cooperative
+* Highway Stars Transport Service Cooperative
+* Pagasa ng Mamayanang Nagkakaisa Transport Service and Multipurpose Cooperative (PAMANA TSC-MPC)
+
+==Government==
+[[File:Biñan City Hall.jpg|thumb|Biñan City Hall at night]]
+[[File:Sentrong Pangkultura ng Biñan, Laguna, February 2023.jpg|thumb|The old Biñan Municipal Hall is the previous seat of municipal government. It now houses the ''Sentrong Pangkultura ng Biñan''.]]
+{{see also|Sangguniang Panglungsod}}
+
+Biñan is classified as a component city. The mayor is the chief executive and is assisted by the vice mayor, who presides over a legislative council consisting of 14 members: 12 elected members at-large, the President of the Sangguniang Kabataan (Youth Council) Federation representing the youth sector, and the President of the Association of Barangay Chairmen (ABC) as barangay sectoral representative. The council is in charge of creating the city's policies in the form of Ordinances and Resolutions.
+
+The incumbent mayor is Walfredo "Arman" Dimaguila Jr., who previously served as the city's vice mayor. Angelo Alonte is the incumbent vice mayor. It is represented in the Congress by [[Marlyn Alonte]], a former mayor of the city.
+
+The new Biñan City Hall in Barangay Zapote currently serves as the seat of city government. It was constructed to reflect its status as a component city. It succeeded the former municipal hall that is located in Barangay Poblacion (old town proper) and is still standing and has been repurposed as the ''Sentrong Pangkultura ng Biñan'' ({{translation|Cultural Center of Binan|literal=yes}}). This initiative aims to preserve and promote the city's rich cultural and artistic heritage.
+
+===Elected officials===
+{|class=wikitable
+|+ Biñan City Officials (2022-2025)
+|-
+!Name !!colspan=2|Party
+|-
+! colspan=3| House of Representatives
+|-
+| [[Marlyn Alonte|Marlyn B. Alonte-Naguiat]]
+| {{party name with colour|Lakas-CMD}}
+|-
+! colspan=3| City Mayor
+|-
+| Walfredo R. Dimaguila Jr.
+| {{party name with colour|Lakas-CMD}}
+|-
+! colspan=3| City Vice Mayor 
+|-
+| Angelo B. Alonte
+| {{party name with colour|National Unity Party (Philippines)}}
+|-
+! colspan=3| City Councilors 
+|-
+| Jonalina A. Reyes
+| {{party name with colour|Lakas-CMD}}
+|-
+| Libunero O. Alatiit
+| {{party name with colour|Lakas-CMD}}
+|-
+| Romel R. Dicdican
+| {{party name with colour|Lakas-CMD}}
+|-
+| Flaviano D. Pecaña Jr.
+| {{party name with colour|Lakas-CMD}}
+|-
+| Christopher A. Alba
+| {{party name with colour|Lakas-CMD}}
+|-
+| Jayson A. Souza
+| {{party name with colour|Lakas-CMD}}
+|-
+| Victor L. Cariño
+| {{party name with colour|Lakas-CMD}}
+|-
+| Elmario B. Dimaranan
+| {{party name with colour|Lakas-CMD}}
+|-
+| Rafael L. Cardeño Jr. 
+| {{party name with colour|Partido Federal ng Pilipinas}}
+|-
+| Alvin Z. Garcia
+| {{party name with colour|Lakas-CMD}}
+|-
+| Elvis L. Bedia
+| {{party name with colour|Lakas-CMD}}
+|-
+| Jose Francisco Ruben P. Yatco
+| {{party name with colour|Nacionalista Party}}
+|-
+! colspan=4| ''Ex Officio'' City Council Members
+|-
+| '''[[Liga ng mga Barangay|ABC]] President'''
+| colspan=3|  Rodolfo C. Montañez Jr. <small>(Langkiwa)</small>
+<!-- | {{party name with colour|Nonpartisan}} -->
+|-
+| '''[[Sangguniang Kabataan|SK]] President'''
+| colspan=3| Maria Angelica Querubin A. Alonte <small>(Canlalay)</small>
+<!-- | {{party name with colour|Nonpartisan}} -->
+|}
+
+===City seal===
+The then-mayor of Biñan, [[Marlyn Alonte]], envisioned the new seal of the city, as Biñan became a city of the province of Laguna. The seal symbolized the following:
+
+[[File:Binan City Seal.png|160px|right]]
+
+*The Rizal Monument is used to depict the heroism of the National Hero of the Philippines, [[José Rizal|Dr. José Rizal]], who had his first formal education at Biñan under the tutelage of Maestro Justiniano Aquino Cruz who after a year and a half of tutelage advised the young Rizal to continue his education in Manila.
+*The large [[mortar and pestle]] signify subterranean and earth-related resources, thus emblematizing the agricultural activities of the city, the renowned “Puto Biñan” and the “family” represents solidarity and the result of human industry and initiative in the areas of manufacturing and intellectual production.
+*The “2010” represents the year that [[Republic Act]] No. 9740 was signed into law creating the City of Biñan and ratified by majority vote of its people during the [[plebiscite]] held on February 2, 2010.
+*The book signifies the city's continuous quest for knowledge and its commitment to providing quality [[free education]] to its constituents.
+*The industries represent the budding industries located at the Laguna Technopark and the Laguna International Industrial Park.
+*The Heroes Monument symbolizes the bravery, sacrifice and valor of Biñan's ancestors.
+*The pair of slippers had been adapted from the old Municipal Seal which, together with the cap represent the small businesses which originated from Biñan and entrepreneurial skills of its people.
+*The [[#Barangays|24 barangays]] that constitute the demographic profile of the Municipality of Biñan.
+*Their golden color signifies their individual verdant and abundant indigenous resources readily available for conversion into productive and profitable uses.
+*The elements enumerated above are encircled at the outer edge by a golden circle, wherein the words “City of Biñan” are written within.
+*The two golden stars flanking the words “City of Biñan” represent Service and Integrity.
+
+===The Lone District of Biñan===
+{{Main|Legislative districts of Biñan}}
+
+On January 26, 2015, a 15–0 vote from senators approved the House Bill No. 3917 in the third and final reading, amending the charter city of Biñan to a congressional district in Laguna and will be separated from the first district.<ref>{{Cite news|url =http://www.mb.com.ph/binan-city-now-a-congressional-district/|title =Biñan City now a congressional district|work=Manila Bulletin|url-status =dead|archive-url =https://web.archive.org/web/20151126225533/http://www.mb.com.ph/binan-city-now-a-congressional-district/|archive-date =November 26, 2015}}</ref> Republic Act No. 10658, which [[Benigno Aquino III|President Aquino]] signed into law on March 27, 2015, separated Biñan from the [[Laguna's 1st congressional district|first legislative district of Laguna]]. Under the law, the incumbent representative of the first district of Laguna will continue to represent the new district until the expiration of his term. The [[Commission on Elections (Philippines)|Commission on Elections]] was tasked to issue the necessary rules and regulations to implement the measure within 30 days after its effectivity.<ref>{{cite news|url=http://www.philstar.com/nation/2015/04/02/1439918/binan-now-congressional-district|title=Biñan now a congressional district|work=The Philippine Star|date= April 2, 2015}}</ref>
+
+==Education==
+[[File:Perps.jpg|upright|thumb|The University of Perpetual Help System Laguna]]
+
+Biñan is also considered the educational center of the first legislative district of Laguna, having the greatest number of secondary and tertiary schools in the area. Most barangays in the city also have their own respective public elementary schools.
+
+Biñan has 3 universities: the [[University of Perpetual Help System Laguna]], the first [[List of state schools, colleges and universities in the Philippines|university]] in the city, located at Barangay Santo Niño via the National Highway; the Biñan campus of the [[Polytechnic University of the Philippines]], located at Barangay Zapote; and the Laguna Campus of [[De La Salle University]]<ref>{{cite web|title=A BRAVE NEW WORLD The De La Salle University Science and Technology Campus|url=http://www.dlsu.edu.ph/announcements/default.asp?id=2961|archive-url=https://archive.today/20140203040309/http://www.dlsu.edu.ph/announcements/default.asp?id=2961|url-status=dead|archive-date=February 3, 2014}}</ref> at Barangays Malamig and Biñan.
+
+Some other prominent schools and colleges in the city include:
+
+{{div col|colwidth=27em}}
+;Local educational institutions
+*[[AMA Computer University|AMA Biñan Campus]]
+*[[Caritas Don Bosco School]]
+*[[Colegio San Agustin – Biñan]]
+*[[La Consolacion College – Biñan]]
+*[[Saint Michael's College of Laguna]]
+*Alpha Angelicum Academy
+*Ann Arbor Montessori Learning Center – Biñan Campus
+*Biñan Integrated National High School
+*Biñan National High School (Dela Paz Annex)
+*Biñan Secondary School of Applied Academics
+*Biñan City Science and Technology High School
+*Casa Del Niño Montessori School – Biñan Branch
+*Catholic School of Pacita
+*Citi Global College (formerly Don Bosco Global College-Biñan)
+*Colegio San Antonio-Biñan (formerly Saint Anthony School of Biñan)
+*Escuela de Gracia of Binan Inc
+*HeadStarter Workshop
+*Holy Family of Nazareth School
+*Holy Infant Jesus Of Prague School
+*Holy Spirit School
+*Integrated Jubilation Montessori Center of Biñan (Formerly International Jubilation Montessori Center of Biñan)
+*International Electronics And Technical Institute (IETI)-Biñan
+*Jacob Alfred A. Young School – Biñan
+*Jacobo Z. Gonzales Memorial National High School
+*Jacobo Z. Gonzales Memorial School Of Arts And Trades, a [[TESDA|technical-vocational]] school
+*Kidsfirst Integrated School 
+*KIDS HAUS-Child Development Center Integrated School
+*Lake Shore Educational Institution
+*Liceo De Santo Tomas De Aquinas 
+*Biñan Elementary School
+*Malaban East Elementary School
+*Malaban Elementary School
+*Mamplasan Elementary School
+*Manila Montessori School
+*Montessori Children's Workshop
+*Nereo Joaquin National High School
+*Nereo R. Joaquin National High School
+*Panorama Montessori School
+*Saint-Sebastien Elementary school
+*San Francisco Elementary School
+*San Vicente Elementary School
+*South City Homes Academy
+*St. Francis of Assisi College
+*Santa Catalina College – Biñan
+*Trimex Colleges
+{{div col end}}
+
+;International schools
+*[[The Beacon Academy]]
+*[[Brent International School]] Manila
+
+== Notable personalities ==
+<!---♦♦♦ Only add a person to this list if they already have their own article on the English Wikipedia ♦♦♦---> 
+<!---♦♦♦ Please keep the list in alphabetical order by LAST NAME ♦♦♦---> 
+* [[Ambrosio Rianzares Bautista]], lawyer and author of the [[Declaration of Philippine Independence]]
+* [[Fernando Canon]], Filipino revolutionary general, poet, inventor, engineer, musician
+* [[Encarnacion Alzona]], [[National Scientist of the Philippines]] for Philippine History
+* [[Dioscoro L. Umali]], [[National Scientist of the Philippines]] for Agriculture and Rural Development
+* [[Conrado M. Vasquez]], first [[Philippine Ombudsman|Ombudsman of the Philippines]] and an [[Associate Justice of the Supreme Court of the Philippines|Associate Justice]] of the [[Supreme Court of the Philippines]].
+* [[Ronnie Alonte]], actor, singer, dancer,
+* [[Angeli Gonzales]], doctor
+* [[Ken Chan (Filipino actor)|Ken Chan]], Filipino-Chinese actor
+* [[Zephanie Dimaranan]], first grand winner of [[Idol Philippines]]<ref name="ABS-CBN-Zephanie">{{cite news |last1=Bardinas |first1=Mary Ann |title=How the young, delicate Zephanie Dimaranan's past rejections turn her into a fierce contender on Idol Philippines |url=https://entertainment.abs-cbn.com/tv/shows/idolphilippines/show-updates/2019/07/25/06072519-how-zephanie-dimaranans-past-rejections-turn-her-into-a-fierce-idol-ph-contender |access-date=July 28, 2019 |work=ABS-CBN News|date=July 25, 2019}}</ref><ref name="ABS-CBNNews-Zephanie">{{cite news |title=Zephanie Dimaranan named 'Idol Philippines' grand winner |url=https://news.abs-cbn.com/entertainment/07/28/19/zephanie-dimaranan-named-idol-philippines-grand-winner |access-date=July 28, 2019 |work=ABS-CBN News|date=July 28, 2019}}</ref>
+* [[Barbie Forteza]], actress 
+* [[Rose Ann Gonzales]], multi-awarded former child actress now works for Congresswoman Len Alonte-Naguiat's Congressional Office
+*Led Sobrepeña, singer ([[The Singing Bee (Philippine game show)]], actor
+* [[Precious Lara Quigaman]], actress, [[Miss International]] 2005
+* [[Marco Sison]], OPM icon, singer/actor, recording artist, served as former Board Member in the province of Laguna and also a former councilor from Biñan, Laguna
+* [[Filomena Almarines]], folk saint 
+* [[Chris Javier]], basketball player
+* [[Maurice Shaw]], basketball player
+<!---♦♦♦ Only add a person to this list if they already have their own article on the English Wikipedia ♦♦♦---> 
+<!---♦♦♦ Please keep the list in alphabetical order by LAST NAME ♦♦♦--->
+
+==Sister cities==
+;Local
+*[[Cabuyao, Laguna|Cabuyao]], Laguna{{citation needed|date=July 2019}}
+*[[Santa Rosa, Laguna|Santa Rosa]], Laguna{{citation needed|date=July 2019}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikivoyage}}
+{{Commons category|Biñan}}
+{{EB1911 poster|Binan}}<!-- * [http://www.binan.ph/ Official Website of the City of Biñan Laguna] -->
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+*[https://web.archive.org/web/20081120024509/http://www.census.gov.ph/data/census2007/index.html Philippine Census Information]
+*[https://web.archive.org/web/20120523035240/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=6&frmIdProvince=36&frmIdLgu=682 Local Governance Performance Management System]
+
+{{Geographic location
+| Centre    = Biñan
+| North     = [[San Pedro, Laguna|San Pedro]]
+| Northeast = ''[[Laguna de Bay]]''
+| Southeast = [[Santa Rosa, Laguna|Santa Rosa]]
+| Southwest = [[Silang, Cavite]]
+| West      = [[General Mariano Alvarez, Cavite]]<br />[[Carmona, Cavite]]
+}}
+{{Navboxes
+| title = Articles Related to Biñan
+| list  = 
+{{Laguna}}
+{{Philippine cities}}
+{{Calabarzon}}
+{{Most populous cities in Philippines}}}}
+{{Authority control}}
+
+{{DEFAULTSORT:Binan}}
+[[Category:Biñan| ]]
+[[Category:Cities in Laguna (province)]]
+[[Category:Populated places established in 1747]]
+[[Category:1740s establishments in the Philippines]]
+[[Category:Populated places on Laguna de Bay]]
+[[Category:Component cities in the Philippines]]

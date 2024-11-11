@@ -1,0 +1,805 @@
+{{Short description|Capital of South Cotabato, Philippines}}
+{{Use mdy dates|date=July 2022}}
+{{Use Philippine English|date=January 2023}}
+{{Infobox settlement
+| name                    = {{PH wikidata|name}}
+| translit_lang1          = Other
+| translit_lang1_type1    = [[Jawi script|Jawi]]
+| translit_lang1_info1    = كوروندل
+| image_skyline            = {{Photomontage
+| photo1a = Koronadal Poblacion, Gensan Drive-Marbel Roundball northbound (Koronadal, South Kotabato; 08-14-2023).jpg
+| photo2a = City Hall, City of Koronadal, Philippines.JPG
+| size = 250
+| spacing = 2
+| color = transparent
+| border = 0
+}}
+| image_caption           = Koronadal Poblacion Roundabout (top), City Hall (bottom)
+| image_flag              = Flag_of_Koronadal,_South_Cotabato.png
+| flag_size               = 120x80px
+| image_seal              = Ph seal Koronodal.png
+| seal_size               = 100x80px
+| image_map               = {{PH wikidata|image_map}}
+| map_caption             = {{PH wikidata|map_caption}}
+| image_map1              = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map             = Philippines
+| pushpin_label_position  = left
+| pushpin_map_caption     = Location within the {{PH wikidata|country}}
+| coordinates             = {{PH wikidata|coordinates}}
+| settlement_type         = {{PH wikidata|settlement_type}}
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Philippines]]
+| subdivision_type1       = [[Regions of the Philippines|Region]]
+| subdivision_name1       = {{PH wikidata|region}}
+| subdivision_type2       = [[Provinces of the Philippines|Province]]
+| subdivision_name2       = {{PH wikidata|province}}
+| official_name           = {{PH wikidata|official_name}}
+| etymology               = <!--origin of name-->
+| named_for               = <!--named after (if person or place)-->
+| other_name              = Marbel
+| nickname                = {{plainlist|
+* ''Ilonggo City of Mindanao''
+* ''Crown City of the South''
+* ''Sports Mecca of the South''
+}}
+| motto                   = ''Bagong Koronadal... Ngayon at Bukas!''
+| anthem                  = 
+| subdivision_type3       = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3       = {{PH legislative district}}
+| established_title       = [[Date of establishment|Founded]]
+| established_date        = January 10, 1939<br/>{{small|(as Marbel Settlement District)}}
+| established_title1      = Chartered
+| established_date1       = August 18, 1947
+| established_title2      = Cityhood
+| established_date2       = October 8, 2000
+| parts_type              = [[Barangay]]s
+| parts_style             = para
+| p1                      = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title            = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name             = Eliordo "Bebot" U. Ogena
+| leader_title1           = Vice Mayor
+| leader_name1            = Erlinda "Bing" Pabi Araquil
+| leader_title2           = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2            = Peter B. Miguel
+| leader_title3                   = [[Sangguniang Panlungsod|City Council]]
+| leader_name3           = {{PH Town Council
+ | 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Edwin G. Abris
+ | 3=Marie Antonina I. Hurtado
+ | 4=Annabelle G. Pingoy
+ | 5=Maylene May S. Bascon
+ | 6=Francis Ross S. Dideles
+ | 7=Prechie Louella B. Ogoy
+ | 8=Jose Henry D. Aguirre
+ | 9=Handel Dee R. Cadellino-Cubilo
+ | 10=James M. Lagasca
+ | 11=Bernardo B. Hinay
+}} 
+| leader_title4           = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4            = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type         = {{PH wikidata|government_type}}
+| government_footnotes    = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m             = {{PH wikidata|elevation_m}}
+| elevation_max_m         = 2271
+| elevation_min_m         = 7
+| elevation_max_rank      =
+| elevation_min_rank      =
+| elevation_footnotes     = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes = 
+| elevation_min_footnotes = 
+| area_rank               = 
+| area_footnotes          = {{PH area}}
+| area_total_km2          = {{PH wikidata|area}}
+| population_footnotes    = {{PH census|current}}
+| population_total        = {{PH wikidata|population_total}}
+| population_as_of        = {{PH wikidata|population_as_of}}
+| population_density_km2  = auto
+| population_blank1_title = [[Household]]s
+| population_blank1       = {{PH wikidata|household}} 
+| population_blank2_title = 
+| population_blank2       = 
+| population_demonym      = Koronadaleños; Marbeleños
+| population_rank         = 
+| population_note         = 
+| timezone                = [[Philippine Standard Time|PST]]
+| utc_offset              = +8
+| postal_code_type        = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code             = {{PH wikidata|postal_code}}
+| postal2_code_type       = {{PSGCstyle}}
+| postal2_code            = {{PSGC detail}}
+| area_code_type          = {{areacodestyle}}
+| area_code               = {{PH wikidata|area_code}}
+| website                 = {{PH wikidata|website}}
+| demographics_type1     = [[Economy of the Philippines|Economy]]
+| demographics1_title1   = {{PH wikidata|income_class_title}}
+| demographics1_info1    = {{PH wikidata|income_class}}
+| demographics1_title2   = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2    = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3   = [[Revenue]]
+| demographics1_info3    = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4   = Revenue rank
+| demographics1_info4    = 
+| demographics1_title5   = [[Asset]]s
+| demographics1_info5    = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6   = Assets rank
+| demographics1_info6    = 
+| demographics1_title7   = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7    = 
+| demographics1_title8   = IRA rank
+| demographics1_info8    = 
+| demographics1_title9   = [[Expenditure]]
+| demographics1_info9    = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10  = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10   = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2     = Service provider
+| demographics2_title1   = [[List of electric distribution utilities in the Philippines|Electricity]]
+| demographics2_info1    = {{PH electricity distribution | {{wikidata|label|raw}} }} 
+| demographics2_title2   = Water
+| demographics2_info2    = 
+| demographics2_title3   = Telecommunications
+| demographics2_info3    = 
+| demographics2_title4   = Cable TV
+| demographics2_info4    =
+| demographics2_title5   = 
+| demographics2_info5    =
+| demographics2_title6   = 
+| demographics2_info6    =
+| demographics2_title7   = 
+| demographics2_info7    =
+| demographics2_title8   = 
+| demographics2_info8    =
+| demographics2_title9   = 
+| demographics2_info9    =
+| demographics2_title10  = 
+| demographics2_info10   =
+| blank_name_sec1        = {{PH wikidata|climate_title}}
+| blank_info_sec1        = {{PH wikidata|climate_type}}
+| blank1_name_sec1       = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1       = {{PH wikidata|language}}
+| blank2_name_sec1       = [[Crime index]]
+| blank2_info_sec1       = 
+| blank3_name_sec1       = 
+| blank3_info_sec1       = 
+| blank4_name_sec1       = 
+| blank4_info_sec1       = 
+| blank5_name_sec1       = 
+| blank5_info_sec1       = 
+| blank6_name_sec1       = 
+| blank6_info_sec1       = 
+| blank7_name_sec1       = 
+| blank7_info_sec1       = 
+| blank1_name_sec2       = Major religions
+| blank1_info_sec2       = 
+| blank2_name_sec2       = Feast date
+| blank2_info_sec2       = 
+| blank3_name_sec2       = Catholic diocese
+| blank3_info_sec2       =
+| blank4_name_sec2       = Patron saint
+| blank4_info_sec2       = 
+| blank5_name_sec2       = 
+| blank5_info_sec2       = 
+| blank6_name_sec2       = 
+| blank6_info_sec2       = 
+| blank7_name_sec2       = 
+| blank7_info_sec2       =
+| short_description      =
+| footnotes              =
+}}
+
+'''Koronadal''', officially the '''City of Koronadal''' ({{langx|hil|Dakbanwa sang Koronadal}}; {{langx|ceb|Dakbayan sa Koronadal}}; [[Maguindanao language|Maguindanaon]]: ''Kuta nu Kurunadal'', [[Jawi Alphabet|Jawi]]: كوت نو كوروندل; {{langx|fil|Lungsod ng Koronadal}}), also known as '''Marbel''', is a 1st class [[Cities of the Philippines#Legal classification|component city]] and capital of the [[Provinces of the Philippines|province]] of [[South Cotabato]], [[Philippines]]. According to the 2020 census, it has a population of 195,398 people.{{PH census|current}}
+
+It is the capital of the province of [[South Cotabato]] as well as the regional administrative center of [[Soccsksargen]] (Region XII) and also the second most populous city in both former and latter after [[General Santos|General Santos City]].<ref>{{Cite news |url= https://businessmirror.com.ph/2019/03/10/phls-one-stop-shop-halal-center-opens/ |title= PHL's one-stop shop halal center opens |date= March 10, 2019 |access-date= December 16, 2021 |work= BusinessMirror |last= Usman |first= Edd }}</ref>
+
+Koronadal is one of the [[Planned community|Planned Cities of the Philippines]] that were signed by [[Congress of the Philippines|Congress]] on 1965. It became a component city of [[South Cotabato]] by virtue of Republic Act 8803 dated October 8, 2000.<ref name=facts>{{Cite web |url=http://www.koronadal.gov.ph/city_quick_facts.htm |title=Kanami Koronadal :: Official Website of the City Government |access-date=May 19, 2012 |archive-url=https://web.archive.org/web/20120711193518/http://www.koronadal.gov.ph/city_quick_facts.htm |archive-date=July 11, 2012 |url-status=dead }}</ref>
+
+Koronadal is one of the two cities in Mindanao where majority of the citizens are ethnic [[Hiligaynon people|Hiligaynons]], who comprise 95% of the city's population, the other being [[Tacurong City]], [[Sultan Kudarat]].<ref name=facts/> In 2003 and 2005 the city was recognized as "Most Competitive City" in the small-city category, and in 2005 and 2006 as the most business friendly city in Mindanao.<ref>{{Cite news |url= https://www.mindanews.com/business/2007/11/koronadal-searching-for-product-to-serve-as-citys-identity/ |date= November 6, 2007 |access-date= December 16, 2021 |last= Estabillo |first= Allen |title= Koronadal searching for product to serve as city's identity |work= [[MindaNews]] }}</ref>
+
+==Etymology==
+The word Koronadal is believed to have been derived from two [[Blaan language|Blaan words]]—''kalon'' meaning cogon grass, and ''nadal'' or ''datal'' meaning plain, which aptly described the place to the natives.<ref name="kanami">{{Cite web |url=http://www.koronadal.gov.ph/aboutkoronadal.htm |title=Kanami Koronadal :: Official Website |access-date=May 19, 2012 |archive-url=https://web.archive.org/web/20120420113134/http://www.koronadal.gov.ph/aboutkoronadal.htm |archive-date=April 20, 2012 |url-status=dead }}</ref> On the other hand, '''Marbel''', which is another name for the poblacion, is a Blaan term ''marb el'' which means "murky waters" referring to a river, now called the Marbel River.
+
+==History==
+[[File:Cotabato province 1918 map.JPG|thumb|left|upright=0.8|[[Cotabato (province)|Cotabato province]] 1918 map]]
+
+The settlement of Koronadal and its creation as a municipality by virtue of Executive Order No. #82 dated August 18, 1947, was marked by a rapid initial development, so that when the province of [[South Cotabato]] was created under Republic Act No. 4849 on July 18, 1966, it easily became the capital town. In the past, the place was populated by [[Blaan people]] and [[Maguindanao people|Maguindanaons]].<ref name="kanami" />
+
+Koronadal City used to comprise the area extending from the banks of [[Buluan Lake]] to the north to Barangay Polonoling in the municipality of [[Tupi, South Cotabato]] to the south from Quezon mountain range to the northeast to the municipality of [[T'boli, South Cotabato]] to the southeast.
+
+It was on August 18, 1947, when President [[Manuel Roxas]] signed the Executive Order creating the municipalities in the entire province of Cotabato, one of which was Marbel (now Koronadal). The same executive order likewise mandated the official function of the municipal government which began after the qualification and election of the first set of municipal officials.
+
+The municipal government of Koronadal began its official function on January 1, 1948, with an approved Annual Estimated Budget of {{Philippine peso|30,000.00|1948|link=yes}}. The land area of the municipality by then was comparable with the Province of [[Bataan]] embracing the present municipalities of [[Banga, South Cotabato|Banga]], [[Lake Sebu, South Cotabato|Lake Sebu]], [[Norala]], [[Santo Niño, South Cotabato|Santo Niño]], [[Surallah]], [[T'Boli, South Cotabato|T'Boli]], [[Tampakan]], [[Tupi, South Cotabato|Tupi]], and [[Isulan]] in Sultan Kudarat.
+
+Municipal Council Resolution No. 32, Series of 1948 mandated and proclaimed January 10 of each year as the Municipal Town Fiesta commemorating the foundation of Marbel Settlement District of the National Land Settlement.
+
+===Cityhood===
+{{main|Cities of the Philippines}}
+Koronadal was converted into a component city of South Cotabato by virtue of Republic Act No. 8803 on October 8, 2000. At present, Koronadal City is a fast-developing growth center composed of twenty-seven barangays including the four zones in the poblacion. Being the capital city of South Cotabato, it is the center of the province in terms of political, cultural and socio-economic activities.
+
+By virtue of Executive Order No. 304 signed by then President [[Gloria Macapagal Arroyo]], Koronadal City was named as the Regional political and socio-economic center of [[Soccsksargen]] on March 30, 2004. Regional departments, bureaus and offices were ordered to move from [[Cotabato City]], the former Regional Center of the Region.<ref>{{Cite web |url= https://www.officialgazette.gov.ph/2004/04/27/the-presidents-day-april-27-2004/ |date= April 27, 2004 |access-date= December 16, 2021 |title= The President's Day: April 27, 2004 |work= Official Gazette |publisher= [[Office of the Press Secretary (Philippines)|Office of the Press Secretary]] }}</ref>
+
+==Geography==
+Koronadal is located in the central part of southern [[Mindanao]], in a gently sloping plain surrounded by low mountains.<ref name="geo">{{cite web |title=Geography |url=https://www.koronadal.gov.ph/history/geography/ |website=koronadal.gov.ph |publisher=City of Koronadal |access-date=July 8, 2020}}</ref>
+
+===Barangays===
+[[File:McDonald's Koronadal - panoramio.jpg|thumb|Juan Posadas Street, Poblacion Zone 2, Koronadal City]]
+Koronadal City is politically subdivided into 27 [[barangay]]s. Each barangay consists of [[purok]]s  while some have [[sitios]].
+
+There are 8 barangays which classified as urban (highlighted in '''bold''').
+
+{{Div col|colwidth=15em}}
+* Assumption (Bulol)
+* Avanceña (Barrio Tres)
+* Cacub
+* Caloocan
+* Carpenter Hill
+* Concepcion (Barrio Sais)
+* Esperanza
+* '''General Paulino Santos (Barrio Uno)'''
+* Mabini
+* Magsaysay
+* Mambucal
+* '''Morales'''
+* Namnama
+* New Pangasinan (Barrio Kwatro)
+* Paraiso
+* '''Poblacion Zone I'''
+* '''Poblacion Zone II'''
+* '''Poblacion Zone III'''
+* '''Poblacion Zone IV'''
+* Rotonda
+* San Isidro
+* San Jose (Barrio Singko)
+* San Roque
+* '''Santa Cruz'''
+* '''Santo Niño (Barrio Dos)'''
+* Saravia (Barrio Otso)
+* Topland (Barrio Syete)
+ {{div col end}}
+
+===Climate===
+{{Weather box
+| location     = Koronadal City, South Cotabato
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 31
+| Jan low C  = 23
+| Feb high C = 31
+| Feb low C  = 23
+| Mar high C = 32
+| Mar low C  = 23
+| Apr high C = 32
+| Apr low C  = 24
+| May high C = 31
+| May low C  = 24
+| Jun high C = 30
+| Jun low C  = 24
+| Jul high C = 29
+| Jul low C  = 24
+| Aug high C = 30
+| Aug low C  = 24
+| Sep high C = 30
+| Sep low C  = 24
+| Oct high C = 30
+| Oct low C  = 24
+| Nov high C = 30
+| Nov low C  = 24
+| Dec high C = 31
+| Dec low C  = 23
+| Jan precipitation mm = 64
+| Feb precipitation mm = 45
+| Mar precipitation mm = 59
+| Apr precipitation mm = 71
+| May precipitation mm = 140
+| Jun precipitation mm = 179
+| Jul precipitation mm = 192
+| Aug precipitation mm = 198
+| Sep precipitation mm = 163
+| Oct precipitation mm = 147
+| Nov precipitation mm = 113
+| Dec precipitation mm = 66
+| Jan rain days        = 12.2
+| Feb rain days        = 10.3
+| Mar rain days        = 12.7
+| Apr rain days        = 15.7
+| May rain days        = 26.0
+| Jun rain days        = 27.4
+| Jul rain days        = 28.1
+| Aug rain days        = 28.2
+| Sep rain days        = 26.0
+| Oct rain days        = 26.7
+| Nov rain days        = 22.9
+| Dec rain days        = 16.6
+| source 1 = Meteoblue <small>(modeled/calculated data, not measured locally)</small><ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/koronadal_philippines_1708522
+| title =  Koronadal: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| access-date = May 15, 2020 }}</ref>
+| date = May 15, 2020
+}}
+
+The climate of Koronadal is mild and sub-tropical, belonging to [[Climate of the Philippines#Climate types|climate Type IV]]. The place is typhoon free. Rainy months are from June to October.<ref name="geo"/>
+
+==Demographics==
+{{Philippine Census
+| align= none
+| cols = 2
+| title = Population census of {{PH wikidata|name}}
+| 1903 = 
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote = Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}}
+}}
+
+=== Language ===
+The main language of the city is [[Hiligaynon language|Hiligaynon]], earning the city its nickname "Ilonggo Capital of Mindanao". [[Tagalog language|Tagalog]], [[Maguindanao language|Maguindanaon]], [[Ilocano language|Ilocano]] and [[Cebuano language|Cebuano]] are also widely spoken. While [[Maranao language|Maranao]], [[English language|English]], and [[Arabic language|Arabic]] are also heard in the city.<ref name="lang">{{cite web |title=Language |url= https://www.koronadal.gov.ph/history/geography/ |website=koronadal.gov.ph |publisher=City of Koronadal |access-date=August 1, 2020}}</ref>
+
+===Religion===
+Churches and Mosques in Koronadal:
+{{columns-list|colwidth=30em|
+
+'''Churches'''
+*Christ the King Cathedral (San Antonio de Padua Parish Church), Downtown Koronadal
+*San Guillermo Parish Church, Brgy. Morales
+*Sagrada Familia Parish Church, Brgy. San Jose
+*Sacred Heart Parish Church, Brgy. General Paulino Santos
+*Our Lady of the Holy Rosary Parish Church, Santa Cruz
+*Passionist Seminary, Brgy. Paraiso
+*Our Lady of Perpetual Help Seminary, Brgy. Santo Niño
+*Seventh-Day Adventist Church, Downtown Koronadal
+*Marbel Baptist Church (SBC), Downtown Koronadal
+*Artesian Christian Fellowship (SBC), Brgy. San Roque
+*Southern Cathedral of Faith (SBC), Downtown Koronadal
+*Southern Baptist Church (SBC), Downtown Koronadal
+*Gethsemane Baptist Church (SBC), Brgy. Sta. Cruz
+*Life-Changing International Ministries (SBC), Brgy. Morales
+*Bo. 6 Baptist Church (SBC), Brgy. Concepcion
+*Iglesia ni Cristo, Downtown Koronadal
+*Iglesia ni Cristo, Brgy. Morales
+*Members Church of God International, Downtown Koronadal
+*The Church of Jesus Christ of Latter-day Saints, Downtown Koronadal
+
+'''Mosques'''
+*Koronadal Grand Mosque, Downtown Koronadal
+*Balik-Islam Mosque, Brgy. Morales
+*Engineer Buisan Mosque, Downtown Koronadal
+*Masjid Al-Fuqarah, Prk Kings compound
+*Marbel Masjid, F.Antipolo Street
+*Al-Masjidul Azraq, Tamnag 
+*Macasayon Old Mosque, Tamnag
+}}
+
+== Economy ==
+{{PH poverty incidence}}
+
+===Retail and commercial===
+[[File:KCC Mall of Marbel - panoramio.jpg|thumb|right|KCC Mall of Marbel 2015]]
+Home for many shopping malls in South Cotabato, it serves as one of the tourism economic activity of the city. Koronadal is considered as the main shopping hub for nearby municipalities and provinces.
+{{clear-left}}
+
+==Government==
+Koronadal became a city on October 8, 2000. Since then the City Government of Koronadal has been in charge of the political, socio-cultural and economic development of the city.
+
+Incumbent Officials:
+*Mayor:  Eliordo Ogena (Since 2019-present)
+*Vice Mayor:  Erlinda P. Araquil (Since 2022–present)
+{| class="wikitable wiki table" cellspacing="0" cellpadding="3" border="3" style="margin: 0 1em 0 0; background: white; border: 1px #aaa solid; font-size: 90%;"
+! colspan="4" |List of Mayors and Vice Mayors
+|-
+! width="4%" bgcolor="#DFCCF1" |Year
+! width="8%" bgcolor="#DFCCF1" |Mayor
+! width="15%" bgcolor="#DFCCF1" |Notes
+! width="8%" bgcolor="#DFCCF1" |Vice Mayor
+|-
+| rowspan="2" align="center" |1940
+| colspan="3" bgcolor="#cfe2f3" align="center" |''The Marbel Settlement District was created under Commonwealth Act No. #141 dated January 10, 1940''
+|-
+| rowspan="2" align="center" |Bai Luma Panat
+| rowspan="2" align="center" " |First Municipal District Mayor appointed by Colonel Dionisio Gutierrez
+| rowspan="2" |
+|-
+| align="center" |1941 - 1943
+|-
+| align="center" |1943 - 1947
+| align="center" |Sergio Morales
+| align="center" |Appointed by Brigadier General Salipada Pendatun
+|
+|-
+| align="center" |1947
+| colspan="3" bgcolor="#cfe2f3" align="center" |''The Municipality of Koronadal was created by the virtue of Executive Order No. #82 dated August 18, 1947''
+|-
+| align="center" |1947 - 1951
+| align="center" |Sergio Morales
+| align="center" |
+|
+|-
+| align="center" |1951
+| colspan="3" bgcolor="#cfe2f3" align="center" |''The first local election in Koronadal was held''
+|-
+| align="center" |1951 - 1955
+| rowspan="2" align="center" |Hilario De Pedro Sr.
+| align="center" |First elected Municipal Mayor
+| align="center" |Venancio Magbanua
+|-
+| align="center" |1955 - 1959
+| align="center" |
+| align="center" |
+|-
+| align="center" |1959 - 1963
+| rowspan="3" align="center" |Arturo Rojas Sr.
+| rowspan="3" align="center" |
+| align="center" |
+|-
+| align="center" |1964 - 1967
+| align="center" |
+|-
+| align="center" |1968 - 1969
+| align="center" |
+|-
+| align="center" |1969 - 1970
+| rowspan="3" align="center" |Gerardo Calaliman
+| align="center" |
+| align="center" |
+|-
+| align="center" |1971 - 1975
+| align="center" |
+| align="center" |
+|-
+| align="center" |1975 - 1980
+| align="center" |
+| align="center" |
+|-
+| align="center" |1980
+| colspan="3" bgcolor="#cfe2f3" align="center" |''The first local election since the declaration of Martial Law''
+|-
+| align="center" |1980 - 1988
+| align="center" |[[Ismael Sueno]]
+| align="center" |
+| align="center" |
+|-
+| align="center" |1988
+| colspan="3" bgcolor="#cfe2f3" align="center" |''Local election under the new Constitution''
+|-
+| align="center" |1988 - 1992
+| rowspan="3" align="center" |Fernando Miguel
+| align="center" |
+| align="center" |
+|-
+| align="center" |1992 - 1995
+| align="center" |
+| align="center" |
+|-
+| align="center" |1995 - 1998
+| align="center" |
+| align="center" |
+|-
+| align="center" |1998 - 2000
+| align="center" |Vicente De Jesus
+| align="center" |
+| align="center" |
+|-
+| align="center" |2000
+| colspan="3" bgcolor="#cfe2f3" align="center" |''The Municipality of Koronadal was converted into a City by the Republic Act No. #8803 dated August 16, 2000''
+|-
+| align="center" |2000 - 2001
+| align="center" |Vicente De Jesus
+| align="center" |First City Mayor
+| align="center" |
+|-
+| align="center" |2001 - 2004
+| rowspan="3" align="center" |Fernando Miguel
+| align="center" |
+| align="center" |
+|-
+| align="center" |2004 - 2007
+| align="center" |
+| align="center" |
+|-
+| align="center" |2007 - 2010
+| align="center" |
+| align="center" |
+|-
+| align="center" |2010 - 2013
+| rowspan="3" align="center" |Peter Miguel
+| align="center" |
+| rowspan="3" align="center" |Eliordo Ogena
+|-
+| align="center" |2013 - 2016
+| align="center" |
+|-
+| align="center" |2016 - 2019
+| align="center" |
+|-
+| align="center" |2019 - 2022
+| rowspan="2" align="center" |Eliordo Ogena
+| align="center" |
+| align="center" |Peter Miguel
+|-
+| align="center" |2022 - Present
+| align="center" |
+| align="center" |Erlinda Araquil 
+|}
+==Culture==
+
+===B’laan culture===
+
+The [[B'laan people]] are one of the indigenous peoples of the Southern Philippine island of Mindanao. Another tribe called the Maguindanao also inhabits the same area. The two tribes consider themselves to be brothers and sisters. Long ago, an Arab male (ancestral brother) married a B'laan female (ancestral sister) and through this marriage union, Islam arrived in Southern Mindanao so that when the Spaniards arrived, their attempts to establish Catholicism were unsuccessful in the south. Eventually the B'laan and the Maguindanao became trade partners with the B'laan settling in the mountains and the Maguindanao settling along the coastal areas. From that time until now, the B'laans have been producing rice, vegetables, livestock, and rainforest products. The original religion of the Blaan is Animist. Presently, only 5% of the 8,000 B'laan tribal people are considered to be evangelical.
+
+===Maguindanaon culture===
+
+The cultural diversity of the region is the result of a large influx of migrants from the north during American colonial period which continued later. Found here are three main cultural groups: the early Filipinos who belong to various indigenous tribes living in the highlands and remote areas of Mindanao, the Maguindanaons who were early converts to Islam and who regard the region as their traditional homeland in the historical [[Sultanate of Maguindanao]], and the Catholic Filipinos who founded settlements and communities in the course of their migrations from other parts of the country.
+
+===Catholic culture===
+
+The [[Roman Catholicism in the Philippines|Catholic Filipinos]] make up the great majority (over 70%) of the Southern Philippine population. They are relatively newcomers to the area; the first wave of Christian migrants came in the seventeenth century when the Spaniards sought to populate Zamboanga, Jolo, Dapitan and other areas by encouraging people from Luzon and the Visayas to settle there. In the nineteenth century Spanish policy found considerable success in encouraging migrations to Iligan and Cotabato. 
+
+The Americans continued this pattern during their colonial administration. In 1913 the American colonial government provided resources for the establishment of agricultural colonies in Mindanao. By the time the Philippine Commonwealth was established, Mindanao had become a veritable frontier. Wave upon wave of migrants poured into the region, chiefly among them the Hiligaynons, Cebuanos, Ilocanos, and Kapampangans. These people did much to clear the virgin areas of Mindanao and open them to extensive agriculture and industry.
+
+===Events===
+Koronadal also hosted an international activity called Pyesta Kalon Datal: Koronadal International Folkloric Festival in coordination with [[International Council of Organizations of Folklore Festivals and Folk Arts|Conseil international des organisations de festivals de folklore et d'arts traditionnels]] or the International Council of Organizations of Folklore Festivals and Folk Art (CIOFF) last August 10 to 18, 2015<ref>{{Cite news |url= http://www.manilatimes.net/koronadal-goes-international-with-pyesta-kalon-datal/207570/ |date= August 8, 2015 |access-date= December 16, 2021 |work= The Manila Times |title= Koronadal goes international with 'Pyesta Kolon Datal' }}</ref> and August 11 to 18, 2018<ref>{{cite web|url=https://www.facebook.com/notes/soccsksargen-tourism/koronadal-city-to-host-2nd-cioff-2018-international-festival/1257922954340255/|title=Koronadal City to host 2nd CIOFF 2018 International Festival &#124; Facebook|website=www.facebook.com}}</ref> and several national activities such as the [[Palarong Pambansa]] in 1996 with [[General Santos]] and solo in 2007, Mindanao Business Forum, and [[National Schools Press Conference]]. On June 12, 2009, President [[Gloria Macapagal Arroyo]] together with Defense Secretary [[Gibo Teodoro]] celebrated the 111th Independence Day in the city, which marks a significant and historic event in the history of Koronadal.
+
+====Festivals====
+[[File:T'nalak Festival T'boli.jpg|thumbnail|right|T'nalak Festival]]
+*'''Hinugyaw Festival''' (January 8–10) – is the festival that marks the foundation anniversary of Koronadal as a municipality. It shows the festive spirit of the people of Koronadal with street dancing and night beer parties in the streets of Koronadal among other worthwhile activities.
+*'''T'nalak Festival''' (July 16–18) – a festival that celebrates South Cotabato's Tboli tribe with colorful abaca cloth created and woven by the women from their tribe. It symbolizes the blending of culture, strength and unity of the various ethnic groups living in the province. They have Dayana Civic Parade which highlighted by a float and cheer dance competition. They perform on the streets of the city showcasing native costumes of Blaan, Tboli and other tribal groups in Mindanao.
+*'''Cityhood Charter Anniversary''' (October 8) – celebrates the cityhood of Koronadal highlighted by "Negosyo Festival" showcasing the vibrancy of business and other economic enterprises in the City of Koronadal; consumers enjoy month-long citywide grand sale as participating business establishments give discounts of up to 70% off their regular prices on goods or services. Through ''Presidential Proclamation 689'', October 8, 2024 was declared a [[Public holidays in the Philippines|special non-working day]] for the celebration of the city’s 24th Charter anniversary.<ref>{{cite news |last1=Flores |first1= Helen|title=Palace declares special holidays in 5 areas|url= https://www.philstar.com/nation/2024/09/23/2387224/palace-declares-special-holidays-5-areas|accessdate=September 25, 2024 |work=[[The Philippine Star]] |date=September 23, 2024}}</ref>
+
+==Tourism==
+[[File:Seventeen Martyrs of Koronadal historical marker.jpg|thumb|upright|Historical marker for the burial site of the Seventeen Martyrs of Koronadal]]
+{{Div col|colwidth=25em|style=font-size:100%;}}
+===Museums===
+*Historical Marker of the Seventeen Martyrs
+*Notre Dame of Marbel University Library and Museum
+*South Cotabato Community Museum
+*Tantoco Memorial Showcase
+
+===Parks===
+*Bong Gumne de Muhon
+*CIOFF Park
+*Damweng Dmatal
+*Freedom Park
+*General Paulino Santos Roundball
+*Paraiso Verde Water Park
+*Rizal Park
+
+===Resorts===
+*El Gawel Zoo
+*Mambucal Hot Spring
+
+===Shrines===
+*Albert Morrow and Santiago Odi Memorial Shrine
+*Filipino–Japanese Memorial Shrine
+
+===Waterfalls===
+*Saravia Falls
+*Siok Falls
+*Supon Falls
+{{div col end}}
+
+==Healthcare==
+Health Facilities in Koronadal are also widely distributed to all Marbeleños.
+
+Hospitals in the City of Koronadal:
+*South Cotabato Provincial Hospital, Aguinaldo Street
+*Allah Valley Medical Specialists' Center, General Santos Drive
+*Dr. Arturo P. Pingoy Medical Center, General Santos Drive
+*Socomedics Medical Center, Judge Alba Street
+
+==Education==
+Education in Koronadal is widely distributed to all Koronadaleños. As for the school year 2009–2010, there are 95 primary and elementary schools in the city, both in public and private schools; while there are 17 secondary schools, both in public and private schools.
+
+===Elementary and high schools===
+The list below shows some prominent secondary and elementary schools present in the city:
+{{Div col|colwidth=25em|style=font-size:100%;}}
+*Dolores Peneza Montessori Academy Inc. (''formerly Casa Dolores Montessori School, Inc'')
+*King's College of Marbel, Inc.
+*Koronadal International School
+*Koronadal National Comprehensive High School
+*Koronadal Southern Elementary School (Chinese School)
+*Maryland School
+*Marymount School
+*[[Notre Dame – Sienna School of Marbel|Notre Dame - Siena School of Marbel]]
+*[[Notre Dame of Marbel University|Notre Dame of Marbel University - Integrated Basic Education Department]]
+*Notre Dame of San Jose
+*[[Philippine Science High School SOCCSKSARGEN Region Campus]]
+*St Alexius College - Integrated School Department
+{{div col end}}
+
+===Higher educational institutions===
+[[File:Saint Marcellin Champagnat Statue, NDMU.jpg|thumb|[[Notre Dame of Marbel University]]]]
+There are two universities in the city:
+*[[Notre Dame of Marbel University]]
+*[[University of the Philippines Manila|University of the Philippines Manila – Koronadal School of Health Sciences]]
+
+Other colleges are also vibrant in the education business. The list below shows the tertiary level schools present in the city:
+{{Div col|colwidth=25em|style=font-size:100%;}}
+*[[AMA Computer Learning Center|ACLC College of Marbel]]
+*Goldenstate College Marbel
+*Green Valley College Foundation Incorporated
+*[[Holy Child College of Information Technology]] ''(Defunct)''
+*King's College of Marbel, Inc.
+*Korbel College
+*Marbel Institute of Technology College
+*Marvelous College of Technology, Inc.
+*[[Ramon Magsaysay Memorial Colleges |Ramon Magsaysay Memorial Colleges - Marbel]]
+*Regency Polytechnic College
+*St. Alexius College - Dr. Arturo P. Pingoy Medical Center
+*SITE Dizon
+*[[STI Colleges|STI College Koronadal]]
+*SouthPhil Institute of Technology, Inc.
+{{div col end}}
+
+===Seminaries===
+Koronadal is also home to two seminaries, the Our Lady of Perpetual Help Seminary or locally known as OLPHS and the St. Gabriel College Seminary run by the Passionist Fathers of the Philippines which is located at Purok San Gabriel, Brgy. Zone 3.
+
+=={{anchor|Accessibility and Transportation}}Transportation==
+
+==={{anchor|By land}}Land===
+====Public Utility Vehicle====
+Popular mode of public transportation in the city are the [[tricycle|tricycles]] which was divided in 2021 into 4 cluster routes:
+*Red cluster (Northern Barangays)
+**Avanceña
+**Caloocan
+**part of General Paulino Santos
+**part of Morales
+**Poblacion Zone 1
+**San Jose
+*Yellow cluster (Eastern Barangays)
+**Cacub
+**Concepcion
+**Esperanza
+**General Paulino Santos
+**Mabini
+**Magsaysay
+**New Pangasinan
+**Poblacion Zone 2
+**Rotonda
+**San Roque
+**Santo Niño
+**Topland
+*Green cluster (Southern Barangays)
+**Assumption
+**Carpenter Hill
+**Mambucal
+**Poblacion Zone 2
+**Santa Cruz
+**San Isidro
+**Saravia
+*Blue cluster (Western Barangays)
+**Morales
+**Paraiso
+**Poblacion Zone 4
+
+In accordance with the [[Public Utility Vehicle Modernization Program]] of the Philippine government, the government of Koronadal launched on 2022 the 10 routes that will serve the city:
+{| class="wikitable"
+|+
+!Route
+!Destination
+!Notes
+|-
+|Route 1
+|San Jose - Downtown via Public Market Terminal
+|''Future route''
+|-
+|Route 2
+|Saravia - Downtown via Public Market Terminal
+|Active route
+|-
+|Route 3
+|Topland - Downtown via Public Market Terminal
+|''Future route''
+|-
+|Route 4
+|San Roque - Downtown via Public Market Terminal
+|''Future route''
+|-
+|Route 5
+|Paraiso - Downtown via Public Market Terminal
+|''Future route''
+|-
+|Route 6
+|San Isidro - Downtown loop via the Integrated Public Transport Terminal
+|CW & CCW
+Active route
+|-
+|Route 7
+|Morales - Downtown via the Integrated Public Transport Terminal
+|''Future route''
+|-
+|Route 8
+|Downtown loop 1 via the Integrated Public Transport Terminal
+|CW & CCW
+''Future route''
+|-
+|Route 9
+|Downtown loop 2 via the Integrated Public Transport Terminal
+|CW & CCW
+''Future route''
+|-
+|
+|Tampakan - Downtown
+|Active route
+|}
+*
+
+====Railway====
+Koronadal will house the {{stn|Koronadal}} terminus station of the [[Mindanao Railway]] Phase Two which will involve a {{Convert|150|km|mi|abbr=on}} segment south of Phase 1 between the cities of [[Digos]] and [[Koronadal]], passing through [[General Santos]].<ref>{{Cite news|date=October 27, 2020|title=Mindanao Railway Project to take 10-15 years to complete|url=https://mb.com.ph/2020/10/27/mindanao-railway-project-to-take-10-15-years-to-complete/?amp|accessdate=February 23, 2023}}</ref>
+
+==={{anchor|By air}}Air===
+The nearest airport that serve Koronadal City is the [[General Santos International Airport]] in [[General Santos]]. Alternative airports like [[Francisco Bangoy International Airport]] in [[Davao City]] and the [[Cotabato Airport]] in [[Cotabato City]] are also accessible.
+
+=== {{anchor|By sea}}Sea ===
+The nearest seaport that serve Koronadal is the [[Port of General Santos|Makar Wharf]] in [[General Santos]]. Alternative seaports like the [[Port of Davao|Sasa Port]] in [[Davao City]] is also accessible.
+
+==Notable personalities==
+<!-- Only include people with WP articles as per [[WP:Notability (people)]] -->
+*[[Christian Perez (darts player)|Christian Perez]] - darts player
+*[[Jason Sabio]] - footballer who plays for [[Kaya F.C.|Kaya]]
+*[[Kenneth Duremdes]] - [[Philippine Basketball Association|PBA]] basketball player
+*[[Ernestine Tiamzon]] - DLSU Lady Spiker
+*[[Lovely Abella]] - GMA artist
+*[[Orlando Quevedo]] - cardinal of a Roman Catholic Church who served as an [[Roman Catholic Archdiocese of Cotabato|Archbishop Emeritus of Cotabato]] from 1998 to 2018. He was born and spent his very early years in [[Laoag]], [[Ilocos Norte]] but was raised in Koronadal, a town at the time of his arrival in [[Mindanao]], where he finished his remaining grade school and entire high school years.
+
+==Sister cities==
+* [[Iloilo City]]<ref name="PanayNews-SisterCities">{{cite news |last1=Tayona |first1=Glenda |last2=Silubrico |first2=Ruby |title=Iloilo to showcase culture to 'sister cities' tonight |url=https://www.panaynews.net/iloilo-to-showcase-culture-to-sister-cities-tonight/ |access-date=April 9, 2019 |work=Panay News |date=August 25, 2018 |archive-url=https://web.archive.org/web/20190409192355/https://www.panaynews.net/iloilo-to-showcase-culture-to-sister-cities-tonight/ |archive-date=April 9, 2019}}</ref>
+* [[Valenzuela, Metro Manila|Valenzuela]]
+* [[Ozamiz]]
+* [[Cotabato City]]<ref>{{cite web|url=https://www.facebook.com/1490359257650276/posts/2528916660461192  |archive-url=https://ghostarchive.org/iarchive/facebook/1490359257650276/2528916660461192 |archive-date=February 26, 2022 |url-access=limited|title=Resolution Sisterhood Cities in Region12 |website=[[Facebook]] }}{{cbignore}}</ref>
+* [[Pagadian]]
+* [[Mandaluyong]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikivoyage}}
+{{Commons category}}
+* {{official website|http://www.koronadal.gov.ph}}
+* [https://cmci.dti.gov.ph/lgu-profile.php?lgu=Koronadal Koronadal Profile at the DTI Cities and Municipalities Competitive Index]
+* [https://web.archive.org/web/20120422202538/http://www.koronadalsite.com/ KoronadalSite "Taga Koronadal Ako Ya"]
+* [http://koronadaltravelguide.yolasite.com City Travel Guide]
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+
+{{Geographic location
+| Centre    = Koronadal
+| North     = [[Lutayan|Lutayan, Sultan Kudarat]]
+| Northeast = [[Columbio|Columbio, Sultan Kudarat]]
+| East      = [[Tampakan]]
+| Southeast = [[Tupi, South Cotabato|Tupi]]
+| Southwest = [[Banga, South Cotabato|Banga]]
+| Northwest = [[Tantangan]]
+}}
+{{Navboxes
+| title = Articles Related to Koronadal
+| list  = 
+{{South Cotabato}}
+{{Soccsksargen}}
+{{Philippine cities}}
+{{Philippine Provincial Capitals}}
+{{Largest cities and municipalities in Mindanao}}
+}}
+
+{{Authority control}}
+
+[[Category:Koronadal| ]]
+[[Category:Cities in South Cotabato]]
+[[Category:Provincial capitals of the Philippines]]
+[[Category:Planned communities in the Philippines]]
+[[Category:Populated places established in 1947]]
+[[Category:1947 establishments in the Philippines]]
+[[Category:Component cities in the Philippines]]
+[[Category:Political divisions established by Philippine executive order]]

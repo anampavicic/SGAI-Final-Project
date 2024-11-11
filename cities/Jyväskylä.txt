@@ -1,0 +1,947 @@
+{{Short description|City in Central Finland, Finland}}
+{{Infobox settlement
+ | name                     = Jyväskylä
+ | official_name            = {{lang|fi|Jyväskylän kaupunki}}{{Clear}}{{lang|sv|Jyväskylä stad}}{{Clear}}{{lang|en|City of Jyväskylä}}
+ | nickname                 = [[Athens]] of Finland; Capital of Finnish [[Rap music|rap]];<ref name="rapcapital1"/><ref name="rapcapital2"/> Capital of [[Sport in Finland|Finnish sport]]<ref name="sportcapital">{{Cite web|url=https://www.jyvaskyla.fi/node/34619|title=16 reasons why Jyväskylä is the Capital of Sport in Finland|access-date=2021-04-30|archive-date=2021-04-30|archive-url=https://web.archive.org/web/20210430042143/https://www.jyvaskyla.fi/node/34619|url-status=dead}}</ref>
+ | settlement_type          = City
+ | image_skyline            = Jyväskylä collage2.jpg
+ | image_caption            = Clockwise from top-left: Lutakko Square, ''Äijälänsalmi'' Strait, apartments in Lutakko, old [[power station]] of [[Vaajakoski]], the Jyväskylä City Church, and a courtyard in downtown Jyväskylä
+ | image_shield             = Jyväskylä.vaakuna.svg
+ | shield_size              = 120x80px
+ | image_map                = Jyväskylä sijainti Suomi.svg
+ | map_caption              = Location of Jyväskylä in Finland
+ | coordinates              = {{coord|62|14.5|N|025|44.5|E|type:city_region:FI-08|display=inline,title}}
+ | subdivision_type         = Country
+ | subdivision_name         = {{flag|Finland}}
+ | subdivision_type1        = [[Regions of Finland|Region]]
+ | subdivision_name1        = [[Central Finland]]
+ | subdivision_type2        = [[Sub-regions of Finland|Sub-region]]
+ | subdivision_name2        = [[Jyväskylä sub-region]]
+ | leader_title             = [[City manager]]
+ | leader_name              = [[Timo Koivisto]]<ref name=koi>[http://yle.fi/uutiset/timo_koivistosta_jyvaskylan_uusi_kaupunginjohtaja/7614028 Timo Koivistosta Jyväskylän uusi kaupunginjohtaja] {{Webarchive|url=https://web.archive.org/web/20160304062430/http://yle.fi/uutiset/timo_koivistosta_jyvaskylan_uusi_kaupunginjohtaja/7614028 |date=2016-03-04 }} Yle. 10 Nov 2014. {{in lang|fi}}</ref>
+ | established_title        = [[Charter]]
+ | established_date         = 1837
+ | area_footnotes           = {{Data Finland municipality|area_footnotes|Jyväskylä}}
+ | area_total_km2           = {{Data Finland municipality|area_total_km2|Jyväskylä}}
+ | area_land_km2            = {{Data Finland municipality|area_land_km2|Jyväskylä}}
+ | area_water_km2           = {{Data Finland municipality|area_water_km2|Jyväskylä}}
+ | area_urban_km2           = 99.25
+ | area_rank                = {{Data Finland municipality|area_rank|Jyväskylä}}
+ | population_as_of         = {{Data Finland municipality|population_as_of|Jyväskylä}}
+ | population_footnotes     = {{Data Finland municipality|population_footnotes|Jyväskylä}}
+ | population_total         = {{Data Finland municipality|population_total|Jyväskylä}}
+ | population_density_km2   = {{Data Finland municipality|population_density_km2|Jyväskylä}}
+ | population_urban         = 117,974
+ | population_density_urban_km2 = 1188.7
+ | population_rank          = {{Data Finland municipality|population_rank|Jyväskylä}}
+ | demographics_type1       = {{Data Finland municipality|demographics_type1|Jyväskylä}}
+ | demographics1_footnotes  = {{Data Finland municipality|demographics1_footnotes|Jyväskylä}}
+ | demographics1_title1     = {{Data Finland municipality|demographics1_title1|Jyväskylä}}
+ | demographics1_info1      = {{Data Finland municipality|demographics1_info1|Jyväskylä}}
+ | demographics1_title2     = {{Data Finland municipality|demographics1_title2|Jyväskylä}}
+ | demographics1_info2      = {{Data Finland municipality|demographics1_info2|Jyväskylä}}
+ | demographics1_title3     = {{Data Finland municipality|demographics1_title3|Jyväskylä}}
+ | demographics1_info3      = {{Data Finland municipality|demographics1_info3|Jyväskylä}}
+ | demographics1_title4     = {{Data Finland municipality|demographics1_title4|Jyväskylä}}
+ | demographics1_info4      = {{Data Finland municipality|demographics1_info4|Jyväskylä}}
+ | demographics_type2       = {{Data Finland municipality|demographics_type2|Jyväskylä}}
+ | demographics2_footnotes  = {{Data Finland municipality|demographics2_footnotes|Jyväskylä}}
+ | demographics2_title1     = {{Data Finland municipality|demographics2_title1|Jyväskylä}}
+ | demographics2_info1      = {{Data Finland municipality|demographics2_info1|Jyväskylä}}
+ | demographics2_title2     = {{Data Finland municipality|demographics2_title2|Jyväskylä}}
+ | demographics2_info2      = {{Data Finland municipality|demographics2_info2|Jyväskylä}}
+ | demographics2_title3     = {{Data Finland municipality|demographics2_title3|Jyväskylä}}
+ | demographics2_info3      = {{Data Finland municipality|demographics2_info3|Jyväskylä}}
+ | blank_name               = {{Data Finland municipality|blank_name|Jyväskylä}}
+ | blank_info               = {{Data Finland municipality|blank_info|Jyväskylä}}
+ | blank2_name              = [[Unemployment]] rate
+ | blank2_info              = 11.8%
+ | timezone                 = [[Eastern European Time|EET]]
+ | utc_offset               = +02:00
+ | timezone_DST             = [[Eastern European Summer Time|EEST]]
+ | utc_offset_DST           = +03:00
+ | website                  = {{URL|https://www.jyvaskyla.fi/en/}}
+}}
+'''Jyväskylä''' ({{IPA|fi|ˈjyʋæsˌkylæ|lang|fi-Jyvaskyla.ogg}}) is a [[city]] in [[Finland]] and the regional capital of [[Central Finland]]. It is located in the [[Finnish Lakeland]]. The population of Jyväskylä is approximately {{formatnum:{{#expr:{{Data Finland municipality/population count|Jyväskylä}}round -3}}}}, while the [[Jyväskylä sub-region|sub-region]] has a population of approximately {{formatnum: {{#expr: {{Data Finland municipality/population count|Jyväskylä}} + {{Data Finland municipality/population count|Hankasalmi}} + {{Data Finland municipality/population count|Laukaa}} + {{Data Finland municipality/population count|Muurame}} + {{Data Finland municipality/population count|Petäjävesi}} + {{Data Finland municipality/population count|Toivakka}} + {{Data Finland municipality/population count|Uurainen}}round -3}}}}. It is Finland's {{ordinal|{{Data Finland municipality/population count sequence|Jyväskylä}}}} most populous [[Municipalities of Finland|municipality]], and fifth most populous [[List of urban areas in Finland by population|urban area]].
+
+Jyväskylä is located about {{convert|150|km|mi|abbr=on}} northeast of [[Tampere]], the third largest city in Finland; and about {{convert|270|km|mi|abbr=on}} north of [[Helsinki]], the national capital. The [[Jyväskylä sub-region]] includes Jyväskylä, [[Hankasalmi]], [[Laukaa]], [[Muurame]], [[Petäjävesi]], [[Toivakka]], and [[Uurainen]]. Other neighbouring municipalities of Jyväskylä are [[Joutsa]], [[Jämsä]] and [[Luhanka]].
+
+Jyväskylä is the largest city in the Central Finland and Finnish Lakeland region. Jyväskylä was one of the fastest growing cities in Finland during the 20th century;<ref name=pop_great>{{cite web |publisher=City of Jyväskylä |title=A short history of Jyväskylä |url=http://www3.jkl.fi/historia/lyhyt/1837_1880.shtml |access-date=2011-12-02 |archive-date=2016-03-04 |archive-url=https://web.archive.org/web/20160304135002/http://www3.jkl.fi/historia/lyhyt/1837_1880.shtml |url-status=live }}</ref><ref name=elinkeino>{{cite web |publisher=[[University of Jyväskylä]] |title=Jyväskylän kaupungin elinkeinoelämän vaikuttavuus 1990-luvulla |url=https://jyx.jyu.fi/dspace/bitstream/handle/123456789/8124/1867.pdf?sequence=1 |access-date=2011-12-03 |archive-date=2016-03-03 |archive-url=https://web.archive.org/web/20160303195432/https://jyx.jyu.fi/dspace/bitstream/handle/123456789/8124/1867.pdf?sequence=1 |url-status=live }}</ref><ref name=statistics>{{cite web |work=Official Finnish population statistics 1939 |publisher=[[Finnish Government]] |title=Mouvement de la Population de Finlande en 1939 |url=http://www.doria.fi/bitstream/handle/10024/67319/vamu1919-1920.pdf |access-date=2011-12-03 |archive-date=2021-08-30 |archive-url=https://web.archive.org/web/20210830222900/https://www.doria.fi/bitstream/handle/10024/67319/vamu1919-1920.pdf |url-status=live }}</ref> in 1940, there were only 8,000 inhabitants in Jyväskylä.
+
+[[Elias Lönnrot]], the author of the Finnish national epic, the ''[[Kalevala]]'', nicknamed the city "the [[Athens]] of Finland". This nickname refers to Jyväskylä's important role as an educational centre.<ref>{{cite web|url= http://www3.jkl.fi/tiedotus/human_tech_city/index.php/2008-02/154|title= Bene veniatis in urbem Jyväskylä|author= Tervoja, Pia|date= August 2008|publisher= City of Jyväskylä|access-date= 27 February 2012|archive-date= 1 December 2017|archive-url= https://web.archive.org/web/20171201040620/http://www3.jkl.fi/tiedotus/human_tech_city/index.php/2008-02/154|url-status= dead}}</ref> The works of the famous Finnish architect [[Alvar Aalto]] can be seen throughout the city. The city hosts the [[Rally Finland]], which is part of the [[World Rally Championship]]. The annual [[Jyväskylä Arts Festival]] is also held in the city.
+
+==Etymology==
+The second part of the city's name, ''kylä'', means village. The first part of the city's name, ''jyväs-'', looks like the stem of an adjective ''*jyvänen'', derived from ''jyvä'', "grain" (compare [[:wikt:Jyväskylä#Finnish|Wiktionary]]). Alternatively, it has been associated with ''[[Taxus]]'', a genus of [[Taxaceae|yews]], and the [[Old Prussian language|Old Prussian]] word ''juwis''. It has also been speculated that the word ''jyväs'' refers to the sun's reflection of the surface of the water.<ref>{{cite web|url= http://www.sissoset.net/aineisto/nimi.htm|title= Miten Sissoset muinoin saivat nimensä jousipuusta?|author= Kosonen, Ilmari|date= 28 February 2005|work= Saunan synty|publisher= Sissosten sukuseura ry.|access-date= 26 February 2012|archive-date= 5 March 2021|archive-url= https://web.archive.org/web/20210305104321/http://www.sissoset.net/aineisto/nimi.htm|url-status= live}}</ref>
+
+Erkki Fredrikson, the curator of the [[Museum of Central Finland]], put forward a theory related to the name, that the origin word for the city's name was ''syväs'' and not ''jyväs'', and that the name was once derived from ''Jyväsjoki'' (literally the "grain river"), which, according to Fredrikson's assumption, was actually called ''Syväsjoki'' (literally the "deep river"). However, the name Jyväsjoki was registered in 1506 for the region's first known resident, Heikki Ihanninpoika Jyväsjoki. His house was located at the mouth of the Äijälänjoki River, which in Fredrikson's opinion also supports the Syväsjoki theory. The village, known at the beginning as Jyväsjoki village, gradually transformed into Jyväskylä.<ref>{{cite web|url=https://www.ksml.fi/paikalliset/2416514|title=Jyväskylän nimi saattaa perustua väärintulkintaan|first=Satu|last=Kakkori|work=[[Keskisuomalainen]]|date=April 6, 2009|access-date=August 6, 2022|language=fi|archive-date=May 17, 2023|archive-url=https://web.archive.org/web/20230517233135/https://www.ksml.fi/paikalliset/2416514|url-status=live}}</ref>
+
+==History==
+[[File:Jyväskylä town square early 20th century.jpg|thumb|left|Jyväskylä town square in the early 20th century]]
+[[File:Kirkkopuisto Jyväskylä 1900s.jpg|thumb|left|Kirkkopuisto Park in the early 20th century]]
+[[File:Jyväskylä_Kirkkopuisto_February_2022.jpg|thumb|left|Kirkkopuisto Park in 2022]]
+In the Jyväskylä region, there are archeological findings from the [[Stone Age]]. According to the oldest available taxation documents (''maakirja''), there were seven estates on the Jyväskylä region in 1539. One of them, the estate of Mattila, alone possessed the areas stretching from the village of [[Keljo]] to the villages of [[Vesanka]] and [[Palokka]]. The oldest estate in Jyväskylä continuously held by the same family is the estate of Lahti, which emerged when the estate of Mattila was split between two brothers in 1600.<ref>{{Citation | last = Berndtson | first = Nils | author-link = Nils Berndtson|title= Lahden talon ja suvun varhaisista vaiheista
+| series = Keski-Suomen museon monistesarja 2/1983 | year = 1983 | issue = 2 | pages = 1–23 | place = Jyväskylän kaupunki, Finland | publisher = Keski-Suomen museo | issn = 0357-8186 }}</ref> The history of the Lahti family and estate have had a significant impact on the development of Jyväskylä region. Lahdenrinne, in the south-west corner of Jyväsjärvi lake, belongs to the old heartland of the estate of Lahti.<ref name="Hallikas">{{cite web|url= http://www.kolumbus.fi/jarmo.hallikas/Ritoniemen%20historia/Varhainenhistoria.html|title= Ritoniemi hämäläisten eräalueesta viihtyisäksi asuinalueeksi|last1= Hallikas|first1= Jarmo|year= 2010|publisher= Jarmo Hallikas|access-date= 9 August 2015|archive-date= 4 March 2016|archive-url= https://web.archive.org/web/20160304113309/http://www.kolumbus.fi/jarmo.hallikas/Ritoniemen%20historia/Varhainenhistoria.html|url-status= live}}</ref>
+
+The name Jyväskylä was mentioned in 1575 as ''Jyueskylä''. Its name is derived from the lake [[Jyväsjärvi]]. A shorter form of the name, ''Jyväs'' (written ''Jyuexe'') was mentioned slightly earlier in 1565 and again (this time written ''Jyues'') in 1570.<ref>{{Cite web|title=SuomalainenPaikannimikirja_e-kirja_kuvallinen.pdf|url=https://kaino.kotus.fi/www/verkkojulkaisut/julk63/SuomalainenPaikannimikirja_e-kirja_kuvallinen.pdf|page=115|url-status=live|access-date=August 16, 2022|website=kaino.kotus.fi|language=fi|archive-date=August 25, 2021|archive-url=https://web.archive.org/web/20210825125113/https://kaino.kotus.fi/www/verkkojulkaisut/julk63/SuomalainenPaikannimikirja_e-kirja_kuvallinen.pdf}}</ref>
+
+The City of Jyväskylä was founded on 22 March 1837, when Emperor of Russia and [[Grand Duke of Finland]], [[Nicholas I of Russia]], signed the charter of the city and the infrastructure was essentially built from scratch;<ref name="Yle Areena">{{cite web|url= http://yle.fi/aihe/artikkeli/2007/01/04/jyvaskyla-suomen-ateena|title= Jyväskylä - Suomen Ateena|last1= Landström|first1= Rita|year= 2007|publisher= Yle|access-date= 9 August 2015|archive-date= 1 December 2017|archive-url= https://web.archive.org/web/20171201082248/https://yle.fi/aihe/artikkeli/2007/01/04/jyvaskyla-suomen-ateena|url-status= live}}</ref> before that, Jyväskylä was a village belonging to the larger [[rural municipality]] of [[Laukaa]], being the largest village of the whole parish.<ref>[http://www3.jkl.fi/historia/lyhyt/1837_1880.shtml 1837-1880: KYLÄ KULKUREITTIEN RISTEYSPAIKASSA – Jyväskylän lyhyt historia] {{Webarchive|url=https://web.archive.org/web/20160304135002/http://www3.jkl.fi/historia/lyhyt/1837_1880.shtml |date=2016-03-04 }} (in Finnish)</ref> At the times Finnish military battalion [[Suomen kaarti]] participated under his rule in military operations against the Polish [[November Uprising]] and later in Hungary, Turkey and Bessarabia (today Moldova). While [[Nicholas I of Russia]] abolished many autonomous areas, it has been argued, that the loyalty of Finnish military influenced his approach towards Finnish autonomy.<ref>Gripenberg G.A.: Lifgardets 3 finska skarpskyttebataljon 1812-1905</ref>  The original town was built between [[Jyväsjärvi|Lake Jyväsjärvi]] (which is connected to Lake Päijänne) and the Jyväskylä ridge (Harju), and consisted of most of the current grid-style city centre.
+
+The establishment of schools in the 1850s and '60s proved to be the most significant step in regards to the later development of Jyväskylä. The first three [[Finnish language|Finnish]]-speaking schools in the world were founded in Jyväskylä, the lycée in 1858, the teachers’ college in 1863, and the girls’ school in 1864. Well-trained teaching staff and pupils from different parts of the country changed the atmosphere of Jyväskylä irrevocably.<ref name="Jäppinen">{{cite web|url= http://www3.jkl.fi/historia/short/1837_1880.shtml|title= Schools for non-Swedish Speakers|last1= Jäppinen|first1= Jussi|last2= Voutilainen|first2= Heli-Maija|year= 2003|work= From Marketplace to a Wonderful Town - A Brief Introduction to the History of Jyväskylä|publisher= City of Jyväskylä|access-date= 26 February 2012|archive-date= 5 March 2012|archive-url= https://web.archive.org/web/20120305200622/http://www3.jkl.fi/historia/short/1837_1880.shtml|url-status= live}}</ref>
+
+In the early 20th century, the town expanded several times. Most of today's Jyväskylä was built after the [[Continuation War]], when evacuees from [[Moscow Armistice|ceded territories]] were settled in the city, and housing was badly needed. During the 21st century Jyväskylä has grown fast – by over 1,000 inhabitants every year.<ref>{{cite web|url=http://www.jyvaskyla.fi/info/tietoja_jyvaskylasta/vaestotilastoja|title=Jyväskylän kaupungin väestöarvio|year=2012|work=Väestötilastoja|publisher=City of Jyväskylä|access-date=15 September 2012|archive-date=16 December 2017|archive-url=https://web.archive.org/web/20171216182556/http://www.jyvaskyla.fi/info/tietoja_jyvaskylasta/vaestotilastoja|url-status=live}}</ref>
+
+[[Säynätsalo]] was consolidated with Jyväskylä in 1993, and [[Jyväskylän maalaiskunta]] and [[Korpilahti]], for their part, on January 1, 2009.
+
+==Geography==
+Jyväskylä is located on the northern coast of Lake [[Päijänne]], {{convert|147|km}} north-east of [[Tampere]], {{convert|148|km}} south-west of [[Kuopio]] and {{convert|270|km}} north of [[Helsinki]]. The hilly and forested terrain in Jyväskylä is surrounded by hundreds of lakes. To reach Jyväskylä from the east, one needs to go through or pass the hill [[Kanavuori]], which used to host a military depot full of ammunition and armaments.
+
+Jyväskylä is located in the [[Finnish Lakeland]]. There are [[List of lakes in Jyväskylä|328 lakes in the city]], and lakes and rivers constitute 20,1% ({{convert|295|km2|sqmi|abbr=on|disp=semicolon}}) of the total area of the city. The city's largest lakes are [[Päijänne]], [[Leppävesi]], Tuomiojärvi, Palokkajärvi, Luonetjärvi, and Alvajärvi-Korttajärvi. The city center is located on the shores of a small [[Jyväsjärvi]].<ref>{{cite web |url=http://www.jarviwiki.fi/wiki/Jyv%C3%A4skyl%C3%A4 |title=Jyväskylä |year=2012 |work=Järviwiki |publisher=Finland's Environmental Administration |access-date=26 February 2012 |archive-date=23 February 2012 |archive-url=https://web.archive.org/web/20120223050823/http://www.jarviwiki.fi/wiki/Jyv%C3%A4skyl%C3%A4 |url-status=live }}</ref>
+<gallery mode="nolines">
+Jyväsjärvi_view_from_Kuokkala_bridge.jpg|View over lake Jyväsjärvi from Kuokkala bridge
+Jyväsjärvi_in_winter.jpg|Frozen lake Jyväsjärvi in winter
+Lake_Päijänne_view_from_Säynätsalo.jpg|Northern lake Päijänne near Säynätsalo
+Channel_between_lakes_Jyväsjärvi_and_Päijänne.jpg|Channel connecting lakes Jyväsjärvi and Päijänne
+Vaajavirta_Naissaari.jpg|View on Vaajavirta river from Naissaari island
+Tuomiojärvi_Jyväskylä.jpg|Lake Tuomiojärvi
+Tourujoki_summer.jpg|Tourujoki in summertime 
+Tourujoki_winter.jpg|Tourujoki in wintertime 
+</gallery>
+
+The landscape in Jyväskylä is hilly, forested and full of waters. The architect [[Alvar Aalto]] compared the hilly landscape of Jyväskylä to [[Toscana]] in [[Italy]]: ''"The slope of Jyväskylä ridge is almost like the mountain vineyards of [[Fiesole]]"''.<ref name="aalto">{{cite book|url=https://books.google.com/books?id=YV9FzaIu5kYC&q=aalto+jyv%C3%A4skyl%C3%A4+toscana&pg=PA38|title=Nature and space: Aalto and Le Corbusier|publisher=Routledge|year=2003|isbn=9780415281256|access-date=2010-07-17|archive-date=2023-09-22|archive-url=https://web.archive.org/web/20230922150824/https://books.google.com/books?id=YV9FzaIu5kYC&q=aalto+jyv%C3%A4skyl%C3%A4+toscana&pg=PA38|url-status=live}}</ref>
+
+===Climate===
+The defined climate is a [[Subarctic climate|subarctic continental]] ([[Köppen climate classification|Köppen]]: ''Dfc'').<ref>{{Cite web|url=http://www.weatherbase.com/weather/weather-summary.php3?s=53920&cityname=Jyvaskyla,+Finland|title=Jyvaskyla, Finland Köppen Climate Classification (Weatherbase)|website=Weatherbase|access-date=2019-03-03|archive-date=2019-03-06|archive-url=https://web.archive.org/web/20190306044634/http://www.weatherbase.com/weather/weather-summary.php3?s=53920&cityname=Jyvaskyla,+Finland|url-status=live}}</ref> Because of its northern location, winters are long, snowy, cold, and dark. During midwinter, the city receives daylight for only around five hours. Summers are mild, with the average daily maximum temperature being {{convert|22|°C|0|abbr=on}} in July. During the summer, Jyväskylä experiences long daylight and white nights i.e. midnight [[twilight]].<ref>{{Cite web |title=Sunrise and sunset times in Jyväskylä |url=https://www.timeanddate.com/sun/finland/jyvaskyla |access-date=2022-10-23 |website=www.timeanddate.com |language=en |archive-date=2022-10-23 |archive-url=https://web.archive.org/web/20221023004810/https://www.timeanddate.com/sun/finland/jyvaskyla |url-status=live }}</ref>
+
+{{Weather box
+|location = Jyväskylä Airport (1991-2020 normals, extremes 1959-present)
+|metric first = Yes
+|single line = Yes
+|Jan record high C = 7.8
+|Feb record high C = 11.0
+|Mar record high C = 16.2
+|Apr record high C = 22.6
+|May record high C = 29.3
+|Jun record high C = 32.8
+|Jul record high C = 34.2
+|Aug record high C = 32.3
+|Sep record high C = 26.2
+|Oct record high C = 20.1
+|Nov record high C = 13.2
+|Dec record high C = 9.4
+|Jan avg record high C = 3.3
+|Feb avg record high C = 3.4
+|Mar avg record high C = 8.6
+|Apr avg record high C = 16.8
+|May avg record high C = 24.3
+|Jun avg record high C = 26.8
+|Jul avg record high C = 28.1
+|Aug avg record high C = 26.3
+|Sep avg record high C = 20.4
+|Oct avg record high C = 13.0
+|Nov avg record high C = 7.6
+|Dec avg record high C = 3.9
+|year avg record high C = 29.3
+|Jan high C = −4.3
+|Feb high C = −3.9
+|Mar high C = 0.9
+|Apr high C = 7.5
+|May high C = 15.0
+|Jun high C = 19.4
+|Jul high C = 22.0
+|Aug high C = 19.8
+|Sep high C = 13.9
+|Oct high C = 6.4
+|Nov high C = 1.2
+|Dec high C = -2.1
+|Jan mean C = -7.3
+|Feb mean C = -7.6
+|Mar mean C = -3.5
+|Apr mean C = 2.5
+|May mean C = 9.1
+|Jun mean C = 14.0
+|Jul mean C = 16.7
+|Aug mean C = 14.6
+|Sep mean C = 9.4
+|Oct mean C = 3.6
+|Nov mean C = -0.9
+|Dec mean C = -4.5
+|Jan low C = −10.9
+|Feb low C = −11.5
+|Mar low C = −8.1
+|Apr low C = -2.4
+|May low C = 2.8
+|Jun low C = 8.2
+|Jul low C = 11.2
+|Aug low C = 9.5
+|Sep low C = 5.1
+|Oct low C = 0.6
+|Nov low C = −3.2
+|Dec low C = −7.5
+|Jan avg record low C = -26.4
+|Feb avg record low C = -26.4
+|Mar avg record low C = -20.3
+|Apr avg record low C = -11.2
+|May avg record low C = -4.5
+|Jun avg record low C = 0.8
+|Jul avg record low C = 4.7
+|Aug avg record low C = 2.4
+|Sep avg record low C = -2.6
+|Oct avg record low C = -8.8
+|Nov avg record low C = -14.4
+|Dec avg record low C = -20.7
+|year avg record low C = -29.9
+|Jan record low C = -38.5
+|Feb record low C = -38.5
+|Mar record low C = -32.7
+|Apr record low C = -20.5
+|May record low C = -9.0
+|Jun record low C = -3.3
+|Jul record low C = 0.9
+|Aug record low C = -2.2
+|Sep record low C = -9.2
+|Oct record low C = -19.3
+|Nov record low C = -27.2
+|Dec record low C = -34.8
+|precipitation colour = green
+|Jan precipitation mm = 43
+|Feb precipitation mm = 33
+|Mar precipitation mm = 32
+|Apr precipitation mm = 33
+|May precipitation mm = 43
+|Jun precipitation mm = 67
+|Jul precipitation mm = 79
+|Aug precipitation mm = 67
+|Sep precipitation mm = 58
+|Oct precipitation mm = 65
+|Nov precipitation mm = 53
+|Dec precipitation mm = 50
+|year precipitation mm = 622
+|unit precipitation days = 0.1 mm
+|Jan precipitation days = 22
+|Feb precipitation days = 18
+|Mar precipitation days = 15
+|Apr precipitation days = 12
+|May precipitation days = 13
+|Jun precipitation days = 15
+|Jul precipitation days = 16
+|Aug precipitation days = 15
+|Sep precipitation days = 16
+|Oct precipitation days = 19
+|Nov precipitation days = 21
+|Dec precipitation days = 22
+|year precipitation days=204
+|Jan sun = 25
+|Feb sun = 63
+|Mar sun = 136
+|Apr sun = 179
+|May sun = 252
+|Jun sun = 244
+|Jul sun = 261
+|Aug sun = 208
+|Sep sun = 123
+|Oct sun = 59
+|Nov sun = 20
+|Dec sun = 10
+|Jan snow days  = 28.5
+|Feb snow days  = 27.2
+|Mar snow days  = 28.9
+|Apr snow days  = 19.1
+|May snow days  = 0.0
+|Jun snow days  = 0.0
+|Jul snow days  = 0.0
+|Aug snow days  = 0.0
+|Sep snow days  = 0.1
+|Oct snow days  = 6.1
+|Nov snow days  = 19.4
+|Dec snow days  = 26.2
+|year snow days = 155.5
+|source 1 = FMI climatological normals for Finland 1991-2020<ref name="FMI">{{cite web |url=https://helda.helsinki.fi/bitstream/handle/10138/336063/Tilastoja%20Suomen%20ilmatosta%20ja%20merest%c3%a4%201991-2020.pdf?sequence=1&isAllowed=yff |title=FMI normals 1991-2020 |publisher=fmi.fi |access-date=21 April 2023 |archive-date=21 April 2023 |archive-url=https://web.archive.org/web/20230421151218/https://helda.helsinki.fi/bitstream/handle/10138/336063/Tilastoja%20Suomen%20ilmatosta%20ja%20merest%C3%A4%201991-2020.pdf?sequence=1&isAllowed=yff |url-status=live }}</ref> Weatheronline.co.uk<ref name="Weatheronline.co.uk">{{cite web|url=https://www.weatheronline.co.uk/weather/maps/city?FMM=1&FYY=1991&LMM=12&LYY=2020&WMO=02935&CONT=euro&REGION=0004&LAND=FI&ART=SNT&R=0&NOREGION=1&LEVEL=162&LANG=en&MOD=tab|title=Weatheronline.co.uk}}</ref>
+|source 2 = record highs and lows<ref name="FMI open data">{{cite web
+|url = https://kilotavu.com/fmi-tilastot.php?taulukkomoodi=true
+|title = FMI open data
+|publisher = FMI
+|access-date = 21 April 2023
+|archive-date = 17 March 2023
+|archive-url = https://web.archive.org/web/20230317073347/https://kilotavu.com/fmi-tilastot.php?taulukkomoodi=true
+| url-status = live
+}}</ref><ref>{{cite web
+|url = https://kilotavu.com/asema-taulukko.php?asema=101339
+|title = FMI open data (Taulukkotilasto: Jyväskylä lentoasema)
+|publisher = FMI
+|access-date = 22 June 2024
+|archive-date = 22 June 2024
+|archive-url = https://web.archive.org/web/20240622111842/https://kilotavu.com/asema-taulukko.php?asema=101339
+| url-status = live
+}}</ref>
+}}
+
+==Demographics==
+
+===Population===
+{{Historical populations
+|type= none
+|state = collapsed
+|1840|177
+|1850|587
+|1860|858
+|1870|1331
+|1880|2060
+|1890|2597
+|1900|3031
+|1910|3619
+|1920|5715
+|1930|7684
+|1940|10943
+|1950|30661
+|1960|39636
+|1970|57025
+|NaN= 667
+|
+}}
+The city of Jyväskylä has {{formatnum: {{Data Finland municipality/population count|Jyväskylä }}}} inhabitants, making it the {{ordinal|{{Data Finland municipality/population count sequence|Jyväskylä}}}} most populous municipality in Finland. The [[Jyväskylä sub-region|Jyväskylä region]] has a population of {{formatnum: {{#expr: {{Data Finland municipality/population count|Jyväskylä}} + {{Data Finland municipality/population count|Hankasalmi}} + {{Data Finland municipality/population count|Laukaa}} + {{Data Finland municipality/population count|Muurame}} + {{Data Finland municipality/population count|Petäjävesi}} + {{Data Finland municipality/population count|Toivakka}} + {{Data Finland municipality/population count|Uurainen}} }} }}, making it the sixth largest region in Finland after [[Helsinki metropolitan area|Helsinki]], [[Tampere metropolitan area|Tampere]], [[Turku metropolitan area|Turku]], [[Oulu sub-region|Oulu]] and [[Lahti sub-region|Lahti]]. Jyväskylä is home to 3% of Finland's population. 6.1% of the population has a foreign background, which is lower than in the major Finnish cities of [[Helsinki]], [[Espoo]], [[Tampere]], [[Vantaa]] or [[Turku]].<ref name="Stat-finland-population-38,000-persons">{{Cite web | url=https://stat.fi/en/publication/cl8lprraorrr20dut5a0tywm5 | title=Number of foreign-language speakers grew by nearly 38,000 persons | date=31 May 2023 | publisher=Statistics Finland | access-date=12 September 2023 | language=en | archive-date=7 September 2023 | archive-url=https://web.archive.org/web/20230907001445/https://stat.fi/en/publication/cl8lprraorrr20dut5a0tywm5 | url-status=live }}</ref>
+
+Jyväskylä was the fastest growing Finnish city in the 20th century. The population has continued to grow rapidly in the 21st century.<ref name=pop_great /><ref name=elinkeino />
+
+{{Bar chart
+| title   = Population size of Jyväskylä (and merged municipalities) 1980–2020<ref name="Stat-finland-population-38,000-persons"/>
+| label_type  = Year
+| data_type   = Population
+| bar_width = 47
+| width_units = em
+| label1  = 1980
+| label2  = 1985
+| label3  = 1990
+| label4  = 1995
+| label5  = 2000
+| label6  = 2005
+| label7  = 2010
+| label8  = 2015
+| label9  = 2020 
+| data_max = 150000
+| data1  = 96966
+| data2  = 99993
+| data3  = 103921
+| data4  = 109657
+| data5  = 116519
+| data6  = 124205
+| data7  = 130816
+| data8  = 137368
+| data9  = 145943
+}}
+
+=== Languages ===
+
+{{Pie chart
+|thumb = left
+|caption = Population by mother tongue (2023)<ref name="statistics-finland-population-2023-final">{{cite web |url= https://stat.fi/en/publication/cln1i2dtgwknt0cut9yem67se |title= Population growth biggest in nearly 70 years  |date= 2024-04-26 |series= Population structure |publisher= Statistics Finland |issn= 1797-5395  |access-date=2024-04-29 }}</ref>
+|label1 = Finnish
+|value1 = 93.0
+|color1 = #002F6C
+|label2 = Russian
+|value2 = 1.3
+|color2 = #D52B1E
+|label3 = Farsi
+|value3 = 0.5
+|color3 = #239F40
+|label4 = English
+|value4 = 0.5
+|color4 = #FFFFFF
+|label5 = Arabic
+|value5 = 0.4
+|color5 = #165D31
+|label6 = Kurdish
+|value6 = 0.3
+|color6 = #009A3D
+|label7 = Chinese
+|value7 = 0.3
+|color7 = #FFFF00
+|label8 = Other
+|value8 = 3.8
+|color8 = #C5C5C5
+}}
+Jyväskylä is the third largest monolingual [[Finnish language|Finnish-speaking]] municipality in Finland after Tampere and Oulu. There are {{formatnum: {{Data Finland municipality/native language Swedish|Jyväskylä }} }} [[Swedo-Finnish|Swedish-speakers]] in Jyväskylä, i.e. they make up about {{Formatnum: {{pct|{{Data Finland municipality/native language Swedish|Jyväskylä}}|{{Data Finland municipality/native language total|Jyväskylä}}|1}}}} of the city's population.<ref name="statistics-finland-population-2023-final"/> As [[English language|English]] and [[Swedish language|Swedish]] are compulsory school subjects, functional bilingualism or trilingualism acquired through language studies is not uncommon.
+
+At least 100 different languages are spoken in Jyväskylä. The most widely spoken foreign languages are [[Russian language|Russian]] (1.3%), [[Persian language|Farsi]] (0.5%), [[English language|English]] (0.5%) and [[Arabic]] (0.4%).<ref name="statistics-finland-population-2023-final"/>
+
+=== Immigration ===
+
+{|class="wikitable" style="float:right;" 
+|colspan="3"|'''Population by country of birth (2022)'''<ref name="Stat-finland-population-38,000-persons"/>
+|-\
+! Nationality || Population || %
+|-
+|{{flag|Finland}} || 136,897 || 93.8
+|-
+|{{flag|Soviet Union}} || 1,133 || 0.8
+|-
+|{{flag|Sweden}} || 765 || 0.5
+|-
+|{{flag|Russia}} || 484 || 0.3
+|-
+|{{flag|Iran}} || 420 || 0.3
+|-
+|{{flag|Afghanistan}} || 395 || 0.3
+|-
+|{{flag|China}} || 341 || 0.2
+|-
+|{{flag|Iraq}} || 301 || 0.2
+|-
+|{{flag|Thailand}} || 280 || 0.2
+|-
+|{{flag|Estonia}} || 279 || 0.2
+|-
+|{{flag|Turkey}} || 238 || 0.2
+|- 
+|Other || 4,354 || 2.9
+|- 
+|}
+{{As of|2023}}, 10,163 people with a migrant background lived in Jyväskylä, representing 6.9% of the population.{{refn|Statistics Finland classifies a person as having a "foreign background" if both parents or the only known parent were born abroad.<ref name="statistics-finland-persons-with-foreign-background">{{cite web |access-date=18 September 2023 |title=Persons with foreign background |publisher=Statistics Finland |url=https://www.stat.fi/tup/maahanmuutto/maahanmuuttajat-vaestossa/ulkomaalaistaustaiset_en.html |archive-date=5 January 2021 |archive-url=https://web.archive.org/web/20210105084300/https://www.stat.fi/tup/maahanmuutto/maahanmuuttajat-vaestossa/ulkomaalaistaustaiset_en.html |url-status=live }}</ref>|group=note}} There are 10,277 residents who were born abroad, which makes up 7.0% of the population. The number of foreign citizens in Jyväskylä is 6,718.<ref name="statistics-finland-population-2023-final"/><ref name="Stat-finland-population-2022">{{Cite web | url=https://stat.fi/en/publication/cl8lphfzbrm4j0cw1b5wyor1h | title=Population structure 2000-2022, urban-rural classification | date=26 May 2023 | publisher=Statistics Finland | access-date=12 September 2023 | language=en | archive-date=9 June 2023 | archive-url=https://web.archive.org/web/20230609223540/https://stat.fi/en/publication/cl8lphfzbrm4j0cw1b5wyor1h | url-status=live }}</ref> Most foreign-born citizens come from the [[Soviet Union|former Soviet Union]], [[Sweden]], [[Russia]], [[Iran]], and [[Afghanistan]].<ref name="Stat-finland-population-38,000-persons"/>
+
+The relative share of immigrants in Jyväskylä's population is below the national average. Nevertheless, the city's new residents are increasingly of foreign origin. This will increase the proportion of foreign residents in the coming years.
+
+=== Religion ===
+[[File:Baptist Church Vaajakoski.jpg|thumb|The [[Vaajakoski Baptist Church|Baptist church building]] located in [[Vaajakoski]], Jyväskylä]]
+In 2023, the [[Evangelical Lutheran Church of Finland|Evangelical Lutheran Church]] was the largest religious group with 62.1% of the population of Jyväskylä. Other religious groups accounted for 3.1% of the population. 34.8% of the population had no religious affiliation.<ref>[https://pxdata.stat.fi/PXWeb/pxweb/en/StatFin/StatFin__vaerak/statfin_vaerak_pxt_11ra.px Key figures on population by region, 1990-2023] Statistics Finland</ref>
+
+==Military==
+Jyväskylä hosts the headquarters of the [[Finnish Air Force]], in [[Tikkakoski]]. As a central location, it has traditionally been important base for military operations. Jyväskylä became known as major firearms manufacturer ([[Tikkakoski (company)|Tikkakoski]]) during the world wars, producing machine guns and ammunition.
+
+According to reporting in ''[[Helsingin Sanomat]]'', since the 1990s Jyväskylä has served as a [[signals intelligence]] collection site, primarily targeting military maneuvers around St. Petersburg.<ref>{{cite news |publisher=intelNews |title=Journalist destroys computer with hammer during security raid in Finland |first=Joseph |last=Fitsanakis |date=December 19, 2017 |access-date=December 19, 2017 |url=https://intelnews.org/2017/12/19/01-2233/ |quote=Based on classified documents dating as far back as 1999, the article claims that the Finnish intelligence services have operated the top-secret program in Jyväskylä for years. It focuses on monitoring the maneuvers of Russian military units stationed around the St. Petersburg area, allegedly by tracking electromagnetic radiation emissions. |archive-date=May 7, 2021 |archive-url=https://web.archive.org/web/20210507050110/https://intelnews.org/2017/12/19/01-2233/ |url-status=live }}</ref>
+
+==Economy==
+[[File:Innova in Jyväskylä.jpg|thumb|left|Jyväskylä is a hub of [[information technology|IT]]. Innova Tower hosts multiple tech companies.]]
+Because of excellent connections, Jyväskylä was a busy marketplace even before the first permanent settlements were founded in the current city centre.<ref name=tomm>{{cite book |last= Tommila|first= Päiviö|date= 1972|title= Jyväskylän kaupungin historia 1837–1965. I osa|trans-title= History of Jyväskylä City. Vol I.|language= fi|location= Jyväskylä |pages=17–18 |publisher=City of Jyväskylä |isbn=951-95011-2-6}}</ref> The establishment of Finland's first three Finnish-speaking schools: the lycée in 1858, the teachers’ college in 1863, and the girls’ school in 1864 proved to be the most significant steps in regards to later development of Jyväskylä. Educational services became the heart of the economic growth of the city. In 1912 Wilhelm Schauman founded a [[plywood]] mill on the shores of Jyväsjärvi. Soon other kinds of forest based businesses opened factories and premises in the city. Thus, [[lumber]], [[Pulp (paper)|pulp]], and [[paper]] became the second stronghold of the economy in Jyväskylä. Later, the high quality education and paper machinery industry tempted information technology businesses to settle in the city.<ref name="Jäppinen"/>
+
+Nowadays, the main sources of subsistence in Jyväskylä are educational and health care services, [[paper machine]]ry production, information technology, and [[renewable energy]]. The most important private employers are paper machinery producer [[Metso]] ltd., retail trade company [[S Group|Keskimaa]] Cooperative Society, real estate service company [[ISS A/S|ISS]], and wind turbine gear manufacturer [[Moventas]].<ref>{{cite web|url= http://www.jyvaskyla.fi/info/tietoja_jyvaskylasta|title= Jyväskylä 2011|date= 2 December 2011|publisher= City of Jyväskylä|access-date= 26 February 2012|archive-date= 24 February 2012|archive-url= https://web.archive.org/web/20120224121050/http://www.jyvaskyla.fi/info/tietoja_jyvaskylasta|url-status= dead}}</ref> The biggest public employers are the City of Jyväskylä, the Central Finland Health Care District, the [[University of Jyväskylä]], and the [[Air Force Academy, Finnish Air Force|Air Force Academy]].
+
+[[File:Kärkkäinen Jyväskylä.jpg|thumb|right|[[J. Kärkkäinen]] [[discount store]] in Jyväskylä]]
+{{As of|2010}}, only 1% of the labor force works on the [[primary sector of the economy|primary sector]], 21% on the [[secondary sector of the economy|secondary sector]], and 78% on the [[tertiary sector of the economy|service sector]] of the economy.<ref>{{cite web|url= http://www.jyvaskyla.fi/international/business|title= Business|date= 25 June 2012|publisher= City of Jyväskylä|access-date= 9 July 2012|archive-date= 12 May 2012|archive-url= https://web.archive.org/web/20120512104102/http://jyvaskyla.fi/international/business|url-status= dead}}</ref>
+
+In April 2012, the unemployment rate in Jyväskylä was 12.2%, which was higher than average in Finland (9.8% in 1/2012).<ref>{{cite web |url= http://www.ely-keskus.fi/fi/tiedotepalvelu/2012/Sivut/Keski-Suomentyollisyyskatsaustammikuu2012.aspx |title= Keski-Suomen työllisyyskatsaus tammikuu 2012 |author= Lauri Hiltunen |date= 21 February 2012 |publisher= Central Finland [[Centre for Economic Development, Transport and the Environment]] |access-date= 26 February 2012 |url-status= dead |archive-url= https://archive.today/20120729084452/http://www.ely-keskus.fi/fi/tiedotepalvelu/2012/Sivut/Keski-Suomentyollisyyskatsaustammikuu2012.aspx |archive-date= 29 July 2012 }}</ref> As of July 2012, there are about 61,000 jobs in Jyväskylä. The average income per income earner was €24,380 in 2010.<ref>{{cite web|url= http://www.jyvaskyla.fi/info/tietoja_jyvaskylasta|title= Jyväskylä pähkinänkuoressa|date= 25 June 2012|publisher= City of Jyväskylä|access-date= 9 July 2012|archive-date= 24 February 2012|archive-url= https://web.archive.org/web/20120224121050/http://www.jyvaskyla.fi/info/tietoja_jyvaskylasta|url-status= dead}}</ref>
+
+In 2011, Jyväskylä topped in an image evaluation study among businesses. The city reached the highest score of large Finnish cities in the study, succeeding especially in the availability of skilled work force, on commercial services, on transport connections, and on geographical location.<ref>{{cite web |url=http://www.ksml.fi/uutiset/keski-suomi/jyvaskylan-imago-kestaa-edelleen/979945 |title=Jyväskylän imago kestää edelleen |author=Anna Kivinen |date=2 December 2011 |publisher=Keskisuomalainen |access-date=26 February 2012 |archive-date=10 December 2011 |archive-url=https://web.archive.org/web/20111210071923/http://www.ksml.fi/uutiset/keski-suomi/jyvaskylan-imago-kestaa-edelleen/979945 |url-status=dead }}</ref>
+
+The [[Gross domestic product]] per capita in the city of Jyväskylä was €33,688 in 2005. The self-sufficiency in workplaces exceeded 100% in the city, raising the GDP per capita higher than the national average. The GDP per capita of the whole Jyväskylä region was €28,718 in 2007. The regional GDP per capita is lower than the Finnish national average, mainly due to high number of students and a relatively high unemployment rate.<ref>{{cite web |url=http://www.rakli.fi/attachements/2008-09-05T11-04-0765.pdf |title=Faktoista tulevaisuudeksi - muutosten fundamentit; Aluetaloudet ja työssäkäyntialueet faktojen valossa |author=Erkki Niemi |date=2 September 2009 |publisher=Statistics Finland |access-date=26 February 2012 |url-status=dead |archive-url=https://web.archive.org/web/20130616035233/http://www.rakli.fi/attachements/2008-09-05T11-04-0765.pdf |archive-date=16 June 2013 }}</ref>
+
+==Culture==
+[[File:Säynatsalo.jpg|thumb|right|Functionalistic [[Säynätsalo Town Hall]] by Alvar Aalto is open also for visitors interested in his architecture.]]
+[[File:Focke-Wulf FW 44 J Stieglitz (SZ-4) K-SIM 02.jpg|thumb|right|A German biplane [[Focke-Wulf Fw 44|''Stieglitz'']] in the [[Aviation Museum of Central Finland]]]]
+
+===Museums===
+The [[Alvar Aalto Museum]] and the [[Museum of Central Finland]] form a center of culture in the immediate vicinity of the historical campus of the [[University of Jyväskylä]]. Both museums are designed by functionalist [[Alvar Aalto]]. The Alvar Aalto Museum displays the artist's most important work and design.<ref>{{cite web|url= http://www.finnishdesign.com/museums-and-factories/alvar-aalto-museum|title= Alvar Aalto Museum|author= finnishdesign.com|date= 2015|publisher= finnishdesign.com|access-date= 9 August 2015|archive-date= 10 August 2015|archive-url= https://web.archive.org/web/20150810044701/http://www.finnishdesign.com/museums-and-factories/alvar-aalto-museum|url-status= live}}</ref> The Museum of Central Finland specializes in cultural history. It serves both as the town museum of Jyväskylä and the provincial museum of Central Finland.<ref>{{cite web|url= http://www.jyvaskyla.fi/keskisuomenmuseo/english|title= Museum of Central Finland|author= Jyväskylän kaupunki|date= 2015|publisher= City of Jyväskylä|access-date= 9 August 2015|archive-date= 1 October 2015|archive-url= https://web.archive.org/web/20151001142316/http://www.jyvaskyla.fi/keskisuomenmuseo/english|url-status= dead}}</ref> In summer 2015 Alvar Aalto Foundation and the city of Jyväskylä launched an architect competition to connect the two museums.<ref>{{cite web |url= http://www.archdaily.com/769375/alvar-aalto-foundation-launches-competition-to-form-museum-center-in-jyvaskyla |title= Alvar Aalto Foundation Launches Competition to Form Museum Center in Jyväskylä |author= Karissa Rosenfield |date= 29 June 2015 |publisher= arch daily |access-date= 9 August 2015 |archive-date= 20 August 2015 |archive-url= https://web.archive.org/web/20150820224538/http://www.archdaily.com/769375/alvar-aalto-foundation-launches-competition-to-form-museum-center-in-jyvaskyla |url-status= live }}</ref>
+
+One of architect Aalto's most significant works, Säynätsalo Town Hall, is located in Säynätsalo island.<ref>Quantrill, Malcolm (2012). ''Finnish Architecture and the Modernist Tradition'', p. 108. Taylor & Francis. {{ISBN|1135822794}}, 9781135822798.</ref>
+
+The city hosts the [[Craft Museum of Finland]], which presents a range of different handicraft techniques from across the country, as well as a centre dedicated to the conservation of textiles that serves private customers, museums and organisations. The National Costume Center of Finland forms a part of the museum.<ref>{{cite web|url= http://www.helsinkitimes.fi/themes/themes/travel/7259-craft-museum-of-finland.html|title= Craft Museum of Finland|author= Yannick Ilunga|date= 8 August 2013|publisher= Helsinki Times|access-date= 9 August 2015|archive-date= 8 September 2015|archive-url= https://web.archive.org/web/20150908035646/http://www.helsinkitimes.fi/themes/themes/travel/7259-craft-museum-of-finland.html|url-status= live}}</ref>
+
+The [[Aviation Museum of Central Finland]] near the [[Jyväskylä Airport]] in Tikkakoski exhibits the aviation history of Finland.<ref>{{cite web|url= http://www.tripadvisor.fi/Attraction_Review-g189942-d3844123-Reviews-The_Aviation_Museum_of_Central_Finland-Jyv%C3%A4skyl%C3%A4_Western_Finland.html|title= Keski-Suomen Ilmailumuseo|author= Tripadvisor|publisher= Tripadvisor Times|access-date= 9 August 2015|archive-date= 22 September 2023|archive-url= https://web.archive.org/web/20230922150835/https://www.tripadvisor.ie/Attraction_Review-g189942-d3844123-Reviews-Finnish_Air_Force_Museum-Jyvaskyla_Central_Finland.html|url-status= live}}</ref>
+
+The [[University of Jyväskylä]] Museum is specialized in the history of the university and diversity of nature in Central Finland.<ref>{{cite web
+|url= https://www.jyu.fi/erillis/museo/en
+|title= Jyväskylä University Museum
+|publisher= Jyväskylä University
+|access-date= 9 August 2015
+|archive-date= 23 July 2015
+|archive-url= https://web.archive.org/web/20150723072245/https://www.jyu.fi/erillis/museo/en
+|url-status= live
+}}</ref>
+
+Jyväskylä Art Museum, located the city centre is the regional art museum of Central Finland. In collaboration with the Centre for Creative Photography, the Jyväskylä Art Museum maintains The Ratamo Printmaking and Photography Centre. This centre consists of the Galleria Ratamo along with a printmaking workshop, photography studio and artist workspaces all situated in Jyväskylä's former roundhouse.<ref>{{cite web|url= http://www.jyvaskyla.fi/taidemuseo/english|title= Jyväskylä Art Museum|author= Jyväskylän kaupunki|publisher= City of Jyväskylä|access-date= 9 August 2015|archive-date= 1 October 2015|archive-url= https://web.archive.org/web/20151001152542/http://www.jyvaskyla.fi/taidemuseo/english|url-status= dead}}</ref>
+
+In addition, historical churches in the city are open for public, most notables of them being the [[Taulumäki Church]] and the Jyväskylä City Church.
+
+===Theaters===
+The biggest theater in the city is the [[Jyväskylä City Theatre]], designed by Alvar Aalto. It stands right in the center of the city.<ref>{{cite web |url= http://www.jyvaskyla.fi/international/news/50th_anniversary_of_jyvaskyla_city_theatre |title= 50th anniversary of Jyväskylä City Theatre |author= Satu Heikkinen |date= 17 January 2011 |publisher= City of Jyväskylä |access-date= 9 August 2015 |archive-date= 12 September 2015 |archive-url= https://web.archive.org/web/20150912235500/http://www.jyvaskyla.fi/international/news/50th_anniversary_of_jyvaskyla_city_theatre |url-status= dead }}</ref>
+
+In addition to the City Theatre, more than dozen amateur drama companies serve audiences of all ages. The most popular theatres include:
+* Huoneteatteri (The Room Theatre), Sammonkatu 4
+* Jyväskylä University Student Theatre, Student Union Building, Keskussairaalantie 2
+* Jyväskylän kansannäyttämö, Sammonkatu 7
+* AdAstra Theatre, Koskenharjuntie 8
+* Teatterikone, Köhniönkatu 31
+* Jyväskylän teatteriyhdistys Kulissi, Siltakatu 25
+* Improvisaatioteatteri Ässiä Hatusta, University Campus, Student Union Building, Keskussairaalantie 2<ref>{{cite web|url= https://www.jyu.fi/en/workwithus/international-staff-guide/living-in-finland/social-activities/theatres|title= Theatres|publisher= University of Jyväskylä|access-date= 9 August 2015|archive-date= 4 March 2016|archive-url= https://web.archive.org/web/20160304104814/https://www.jyu.fi/en/workwithus/international-staff-guide/living-in-finland/social-activities/theatres|url-status= live}}</ref>
+
+===Music===
+In the 2010s, Jyväskylä earned a reputation as one of the most productive and high-quality [[rap music]] centers, and Jyväskylä has been titled in the media as the "capital of Finnish rap".<ref>{{cite web|url=https://www.fum.fi/uutiset/jyvaskylan-hiphop-piirien-keskeisimmat-nimet-pysyttelevat-tarkoituksella-laidalla-isommassa-kuvassa-haastattelussa-rekami-joniveli/|title=Jyväskylän hiphop-piirien keskeisimmät nimet pysyttelevät tarkoituksella laidalla isommassa kuvassa – haastattelussa Rekami & Joniveli|website=FUM.fi|access-date=2021-04-20|language=fi|archive-date=2018-03-12|archive-url=https://web.archive.org/web/20180312144013/https://www.fum.fi/uutiset/jyvaskylan-hiphop-piirien-keskeisimmat-nimet-pysyttelevat-tarkoituksella-laidalla-isommassa-kuvassa-haastattelussa-rekami-joniveli/|url-status=dead}}</ref><ref name="rapcapital1">{{cite web|url=https://www.surkkari.fi/jutut/ossi-valpio-jyvaskyla-suomen-hiphop-paakaupunki/|title=Ossi Valpio: "Jyväskylä on Suomen hiphop-pääkaupunki" - Surkkari.fi|website=Surkkari.fi|access-date=2021-04-20|language=fi|archive-date=2018-03-12|archive-url=https://web.archive.org/web/20180312083159/https://www.surkkari.fi/jutut/ossi-valpio-jyvaskyla-suomen-hiphop-paakaupunki/|url-status=dead}}</ref> [[Gettomasa]], among others, the rap artists from Jyväskylä who deserved their encouragement.<ref>{{cite web|url=https://www.jylkkari.fi/2019/10/jyvaskyla-rap-neljannen-aallon-aika/|title=Jyväskylä räp: Neljännen aallon aika|work=Jyväskylän Ylioppilaslehti|date=2019-10-28|access-date=2021-04-20|language=fi|archive-date=2021-04-20|archive-url=https://web.archive.org/web/20210420021547/https://www.jylkkari.fi/2019/10/jyvaskyla-rap-neljannen-aallon-aika/|url-status=live}}</ref><ref name="rapcapital2">{{cite web|url=https://www.klangi.fi/uutiset/suomirapin-paakaupungissa-kuplii-pinnan-alla-ainakin-nama-tulokkaat-kannattaa-painaa-mieleen/|title=Suomiräpin pääkaupungissa kuplii pinnan alla – ainakin nämä tulokkaat kannattaa painaa mieleen|work=Klangi|date=2019-09-02|access-date=2021-04-20|language=fi|archive-date=2021-04-20|archive-url=https://web.archive.org/web/20210420021546/https://www.klangi.fi/uutiset/suomirapin-paakaupungissa-kuplii-pinnan-alla-ainakin-nama-tulokkaat-kannattaa-painaa-mieleen/|url-status=live}}</ref>
+
+===Annual events===
+[[File:Petter Solberg - Rally Finland 2009.JPG|thumb|[[Petter Solberg]] on the Killeri super special stage of the [[Rally Finland]]]]
+* Arctic and Fabulous Film Festival offers different forms and genres of Nordic film in the middle of most freezing winter season in February.<ref>{{cite web|url= http://www.arktisenupeeta.net/arctic-heat-film-festival-2015/|title= Arctic Heat Film Festival 2015|publisher= Arktisen upeeta -festivaali|access-date= 30 October 2015|archive-date= 12 February 2016|archive-url= https://web.archive.org/web/20160212014156/http://www.arktisenupeeta.net/arctic-heat-film-festival-2015/|url-status= dead}}</ref>
+* Jyväskylä City's Birthday Week (last week of March) offers a number of concerts, theatre, exhibitions and debates around the city.<ref>{{cite web |url= http://www.jyvaskyla.fi/kulttuuri/palvelut/tapahtumat |title= Tapahtumat |publisher= Jyväskylän kaupungin kulttuuripalvelut |language= fi |access-date= 30 October 2015 |archive-date= 7 April 2015 |archive-url= https://web.archive.org/web/20150407174607/http://www.jyvaskyla.fi/kulttuuri/palvelut/tapahtumat |url-status= dead }}</ref>
+* Jyrock in April is an indie and alternative rock and pop festival.<ref>{{cite web | url=http://www.jyrock.fi/in-english/ | title=Jyrock In English | publisher=JYY | access-date=30 October 2015 | archive-date=3 March 2016 | archive-url=https://web.archive.org/web/20160303024711/http://www.jyrock.fi/in-english/ | url-status=dead }}</ref>
+* Lutakko liekeissä in August is a rock festival held in rock club Tanssisali Lutakko.<ref>{{cite web | url=http://www.lutakkofestival.com/info_en.htm | title=Lutakko liekeissä info | publisher=Jelmu | access-date=30 October 2015 | archive-date=4 March 2016 | archive-url=https://web.archive.org/web/20160304090214/http://www.lutakkofestival.com/info_en.htm | url-status=dead }}</ref>
+* Yläkaupungin Yö in May is one of the biggest annual street festivals of the city.<ref>{{cite web | url=http://www.ylakaupunginyo.fi/in-english/ | title=Yläkaupungin yö 2015 Festival | publisher=Yläkaupungin yö ry | access-date=30 October 2015 | archive-date=4 March 2016 | archive-url=https://web.archive.org/web/20160304110541/http://www.ylakaupunginyo.fi/in-english/ | url-status=dead }}</ref>
+* Sataman Yö is an annual pop music festival organised one week before the midsummer in the harbour of Jyväskylä.<ref>{{cite web | url=http://www.satamanyo.fi/sataman-yo/ | title=Jyväskylän kesä alkaa Sataman yöstä | publisher=Sataman yö | language=fi | access-date=30 October 2015 | archive-date=11 October 2015 | archive-url=https://web.archive.org/web/20151011200100/http://www.satamanyo.fi/sataman-yo/ | url-status=dead }}</ref>
+* [[Jyväskylä Arts Festival]] in the middle of July accommodates musicians, bands, contemporary circus, comedians, mimes, physical theatre, storytellers and film makers. It is one of the most well known festivals in Finland.<ref>{{cite web | url=http://jyvaskylankesa.fi/en/jyvaskyla-festival-nutshell/ | title=Jyväskylä Festival in a Nutshell | publisher=Jyväskylän kesä | access-date=30 October 2015 | archive-date=28 June 2014 | archive-url=https://web.archive.org/web/20140628232256/http://jyvaskylankesa.fi/en/jyvaskyla-festival-nutshell/ | url-status=dead }}</ref>
+* [[Neste Oil Rally Finland]] in the end of July is the biggest annually organised event in Nordic countries and a part of the WRC World Rally Championships.<ref>{{cite web | url=http://www.nesteoilrallyfinland.fi/en/ralli/ | title=Neste Oil Rally Finland - More Than a Rally - Info | publisher=Neste Oil Rally Finland | access-date=30 October 2015 | archive-url=https://web.archive.org/web/20151031185302/http://www.nesteoilrallyfinland.fi/en/ralli | archive-date=31 October 2015 | url-status=dead }}</ref>
+* [[Athenis Finlandiae]] organised in August is a cultural festival combining elements from ancient history, arts and science.<ref>{{cite web | url=http://www.athenisfinlandiae.com/english.htm | archive-url=https://web.archive.org/web/20130729221049/http://athenisfinlandiae.com/english.htm | url-status=dead | archive-date=July 29, 2013 | title=Nordic Countries and Cultures in Athenis Finlandie 2015 - Culture Event | publisher=Athenis Finlandieae | access-date=30 October 2015 }}</ref>
+* Finlandia Marathon in the beginning of September is a marathon festival designed for everybody from a top athlete to an amateur jogger. Time of Dance – the largest annual festival of Finnish contemporary dance is taking place in the end of September.<ref>{{cite web | url=http://www.finlandiamarathon.fi/ | title=Finlandia Marathon 2016 | publisher=Finlandia Marathon | language=fi | access-date=30 October 2015 | archive-date=23 November 2015 | archive-url=https://web.archive.org/web/20151123082605/http://www.finlandiamarathon.fi/ | url-status=live }}</ref>
+* The International Print Triennial Graphica Creativa is organised every three years since 1975. It was the very first international graphic art exhibition in Finland. The latest triennial was organised in 2012.<ref>{{cite web | url=http://www.jyvaskyla.fi/taidemuseo/english/exhibitions/ag1111b | title=The 13th International Printmaking Triennial. Naapurit Neighbours. Graphica Creativa 2012. | publisher=Jyväskylä Art Museum | access-date=30 October 2015 | archive-date=4 March 2016 | archive-url=https://web.archive.org/web/20160304051305/http://www.jyvaskyla.fi/taidemuseo/english/exhibitions/ag1111b | url-status=dead }}</ref>
+
+==Sports==
+[[File:Eino Kaakkolahti.jpg|right|thumb|[[Eino Kaakkolahti]] passing during a pesäpallo ([[Finnish baseball]]) match in 1958]]
+[[File:Synergia Arena.jpg|right|thumb|[[Synergia-areena]] is the main [[ice hockey]] venue.]]
+[[File:Killeri during Rally Finland 2007.JPG|right|thumb|[[Killeri]] [[harness racing]] track]]
+[[File:Bandyliiga Final Oulu 20140315 04.JPG|thumbnail|right|[[Jyväskylän Seudun Palloseura]] won the national [[bandy]] title in 2019. Here in the 2014 final.]]
+The [[University of Jyväskylä]] is the only university in Northern Europe with a faculty of sports. The faculty has been a key player to develop a strong sports culture in the city, which is why Jyväskylä is also dubbed the "capital of [[Sports in Finland|Finnish sport]]".<ref name="sportcapital"/><ref>[https://www.jyvaskyla.fi/en/capital-of-sport/why Why is Jyväskylä The Capital of Sport?] {{Webarchive|url=https://web.archive.org/web/20230517233835/https://www.jyvaskyla.fi/en/capital-of-sport/why |date=2023-05-17 }} – Jyvaskyla.fi</ref>
+
+The city hosts the [[Rally Finland|Secto Rally Finland]] (formerly known as the 1000 Lakes Rally).<ref>[https://www.kosunenracing.com/neste.html Neste Rally Finland] {{Webarchive|url=https://web.archive.org/web/20230517234148/https://www.kosunenracing.com/neste.html |date=2023-05-17 }} – Kosunen Racing</ref> It is the biggest annually organised public event in the [[Nordic countries]], gathering over 500,000 spectators every year. The rally has been held since 1951, first as a national competition, then from 1959 on as a [[European Rally Championship]] event and since the introduction of the [[World Rally Championship]] in [[1973 World Rally Championship season|1973]], as Finland's WRC event.
+
+Ice hockey venue [[Synergia-areena]], Hippos Finnish baseball stadium, swimming hall AaltoAlvari, and many other primary sport venues of the city are located in [[Hippos (Jyväskylä)|Hippos]], two kilometres ({{convert|2|km|1|abbr=off|disp=output only}}) away from the city centre. The Matti Nykänen ski jumping hill is located next to the Laajavuori ski resort just few kilometres west from the city centre. The main football stadium lies on the slopes of Harju just next to the city centre. The Killeri hippodrome on the western parts of the city serves different horse racing competitions. At winter time, amateur ice skaters can practice their skills in Viitaniemi or on the lake Jyväsjärvi, which has a {{convert|3.5|km|1|abbr=on}} long ice skating track.
+
+The inventor of Finnish national sport [[pesäpallo]], [[Lauri Pihkala|Lauri "Tahko" Pihkala]], studied and lived in Jyväskylä. The Upper secondary school of Jyväskylän Lyseo hosted the historic event of first pesäpallo match in world in September 1920.<ref>{{cite web|url= http://www.peda.net/verkkolehti/jkl/lyseo/townhistory?m=content&a_id=6|title= Sports: Jyväskylä and Epinal|last1= Karhunen|first1= Marjo|last2= Kettunen|first2= Marja|last3= Villaume|first3= Marie|last4= Claudel|first4= Stéphanie|date= 28 May 2002|work= Epinal and Jyväskylä: Town History Project|publisher= Jyväskylä Lyceum|access-date= 26 February 2012|archive-url= https://web.archive.org/web/20120430004205/http://www.peda.net/verkkolehti/jkl/lyseo/townhistory?m=content&a_id=6|archive-date= 30 April 2012|url-status= dead}}</ref><ref>{{cite web |url=http://www.finnica.fi/keski-suomi/urheilu/kuntuli.htm |title=Kun pesäpallosta tuli pesäpalloa |author=Esa Sironen |date=2001–2003 |work=Pitkäpallosta playoffseihin |publisher=Suomalaisuuskeskus Finnica |access-date=26 February 2012 |archive-date=5 February 2012 |archive-url=https://web.archive.org/web/20120205200015/http://www.finnica.fi/keski-suomi/urheilu/kuntuli.htm |url-status=live }}</ref>
+
+Sports teams from Jyväskylä include:
+*[[JYP Jyväskylä|JYP]] plays in the top-tier Finnish men's [[ice hockey]] league, [[SM-liiga]]. The team was the 2009 and 2012 [[SM-liiga|Finnish Champion]]. The team also won the [[European Trophy]] in 2013 and the European [[Champions Hockey League]] tournament in 2018.
+*[[JYP Naiset]] is a three-time [[Aurora Borealis Cup|Finnish Champion]] of the [[Naisten Liiga (ice hockey)|Naisten Liiga]], the top-tier Finnish women's ice hockey league. As of 2021, the team plays in the second-tier [[Naisten Mestis]].
+*[[JyPK]] (Jyväskylän Pallokerho) plays in the [[Kansallinen Liiga]], the premier division of Finnish women's [[Association football|football]].
+*[[FC Vaajakoski]] plays in [[Kakkonen]], the third tier of the men's [[Finnish football league system]].
+*[[FC Blackbird]] and [[Jyväskylän Jalkapalloklubi]] (JJK Jyväskylä) play in [[Kolmonen]], the fourth tier of the men's [[Finnish football league system]]. JJK played in the premier division [[Veikkausliiga]] in 2017.
+*[[Jyväskylän Seudun Palloseura]] (JPS) plays in the highest [[bandy]] division, [[Bandyliiga]], and won the Finnish Championship for the first time in 2019.<ref>{{cite web | url=https://translate.google.co.uk/translate?hl=en&sl=fi&u=https://jps.fi/uutiset/2092 | title=JPS - JPS on Suomen Mestari 2019 | access-date=2019-03-10 | archive-date=2023-09-22 | archive-url=https://web.archive.org/web/20230922150826/https://jps-fi.translate.goog/uutiset/2092?_x_tr_sl=fi&_x_tr_tl=en&_x_tr_hl=en | url-status=live }}</ref><ref>[https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/53540953_2220983167966194_5711889067218567168_n.jpg?_nc_cat=104&_nc_ht=scontent-arn2-1.xx&oh=df5c57a8241b022af98bb33e9c45c4dc&oe=5CDC461E Team picture after the victory]{{Dead link|date=September 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Their home arena is the [[Vehkalammen kenttä]].
+*[[Jyväskylä Track and Field Club]] (JKU) is one of the leading [[track and field]] clubs in Finland.
+*[[Jyväskylän Kiri]] is the most successful men's [[pesäpallo]] team in history. Currently they play in the top division [[Superpesis]].
+*[[Jyväskylän Saukot]] plays in the Finnish men's women's [[water polo]] top division.
+*[[Kampuksen Dynamo]] (KaDy) plays [[futsal]] in the Finnish top league.
+*[[Kirittäret]] holds fourteen Finnish Championships in women's [[pesäpallo]] and plays in the [[Superpesis]].
+*[[Jyväskylän seudun Jaguaarit]] plays in the Finnish third-tier [[American football]] league, the Amerikkalaisen jalkapallon II-divisioona (2nd Division).
+*[[Happee]] plays in the top-tier Finnish [[floorball]] leagues, the men's [[F-liiga]] and women's [[F-liiga (women)|F-liiga]]. Men's Finnish Championship in 2014.
+*[[Hongikon Nuorisoseuran Urheilijat]] (HoNsU) plays basketball in the [[Naisten Korisliiga]], the top-tier women's league, and the men's [[Koripallon I-divisioona]], the second-tier men's league.
+*[[Jyväskylä Freestyle Club]] is the main [[freestyle skiing]] club.
+*[[Jyväskylä Ski Club]] (JHS) is one of the most well known [[cross-country skiing (sport)|cross-country skiing]], [[ski jumping]], [[alpine skiing]], [[snowboarding]], [[Nordic combined]], and [[biathlon]] clubs in Finland.
+*[[Meloiloa Canoe Club]] plays [[canoe polo]] and practices [[whitewater slalom]], [[canoe racing]], [[wildwater canoeing]] and marathon kayaking.
+*[[Jyväskylä Rugby Club]] plays [[rugby union]] (rugby) in the [[Finnish Championship League]]; former national champions.
+*[[Jyväskylän Fight Club]] is the city's most successful [[martial arts]] and [[Brazilian Jiu-Jitsu]] academy.
+*[[Jigotai]] is the largest martial arts club in Central Finland ([[judo]], [[karate]], [[kickboxing]], [[tai chi]], [[aikido]], [[taido]], etc.)
+*[[Mukwan]] is a well-known [[Taekwondo]] and [[martial arts]] club in Jyväskylä since 1984.
+*[[Liikunnan Riemu]] plays [[futsal]] in the Finnish top league, the [[Futsal-Liiga]], since 2013.
+*[[Jyväskylän Liitokiekkoilijat Ry]] (JyLi Ry) competes in [[Ultimate (sport)|Ultimate]], [[Disc golf]] and other disc sports.
+*[[Jaguars Spirit Athletes]] (JSA) is the primary [[cheerleading]] club.
+*[[Toyota Gazoo Racing WRT]], the official [[Toyota]] world rally team run by 4-time world champion and Jyväskylä native [[Tommi Mäkinen]].
+The city hosted the 2006 [[FIBA Europe Under-16 Championship for Women]] Division B.
+
+== Government ==
+[[File:Jyväskylä City Hall.jpg|thumb|The Jyväskylä City Hall]]
+The city council of Jyväskylä is the main decision-making body at the local level. Its 75 members are elected every fourth year in municipal elections. The city council elects the mayor. The current mayor is [[Timo Koivisto]].<ref name=koi />
+{{clear|left}}
+
+===Seat distribution in the city council===
+{| class="wikitable sortable"
+|-
+! Party
+! Seats 2021<ref>{{cite web |url=https://tulospalvelu.vaalit.fi/KV-2021/fi/kutulos_179.html |title=Jyväskylä: Tulos puolueittain ja yhteislistoittain |publisher=Ministry of Justice |date=22 June 2021 |access-date=8 July 2021 |archive-date=23 April 2023 |archive-url=https://web.archive.org/web/20230423144514/https://tulospalvelu.vaalit.fi/KV-2021/fi/kutulos_179.html |url-status=live }}</ref>
+! 2021
+! 2017
+! 2012
+! 2008
+! 2004
+! 2000
+! 1996
+! 1992
+! 1988
+! 1984
+! 1980
+! 1976
+|-
+| [[Social Democratic Party of Finland|Social Democrats]]
+! 13
+! 19,1%
+| 19,3%
+| 24,1%
+| 26,6%
+| 29,9%
+| 31,9%
+| 33,7%
+| 35,8%
+| 33,3%
+| 32,4%
+| 33,0%
+| 33,1%
+|-
+| [[National Coalition Party]]
+! 13
+! 18,3%
+| 17,4%
+| 18,6%
+| 21,0%
+| 20,0%
+| 20,6%
+| 22,9%
+| 20,0%
+| 25,7%
+| 25,4%
+| 25,7%
+| 23,8%
+|-
+| [[Green League]]
+! 12
+! 17,4%
+| 19,9%
+| 11,1%
+| 11,7%
+| 11,5%
+| 11,4%
+| 10,3%
+| 10,0%
+| 2,8%
+| 3,7%
+| -
+| -
+|-
+| [[Centre Party (Finland)|Centre Party]]
+! 9
+! 13,6%
+| 15,9%
+| 17,0%
+| 19,1%
+| 19,1%
+| 17,3%
+| 13,3%
+| 10,2%
+| 12,1%
+| 12,1%
+| 9,7%
+| 7,0%
+|-
+| [[Left Alliance (Finland)|Left Alliance]]
+! 7
+! 9,8%
+| 10,1%
+| 9,2%
+| 8,5%
+| 9,0%
+| 9,6%
+| 11,0%
+| 13,3%
+| 15,7%
+| 16,5%
+| 19,8%
+| 22,1%
+|-
+| [[True Finns]]
+! 9
+! 12,9%
+| 8,1%
+| 11,6%
+| 4,5%
+| 0,3%
+| -
+| -
+| 2,8%
+| 4,2%
+| 4,8%
+| 1,1%
+| 1,1%
+|-
+| [[Christian Democrats (Finland)|Christian Democrats]]
+! 4
+! 5,7%
+| 6,4%
+| 5,7%
+| 5,8%
+| 6,3%
+| 6,9%
+| 7,1%
+| 5,2%
+| 4,0%
+| 4,3%
+| 5,4%
+| 5,6%
+|-
+| [[Communist Party of Finland (Unity)|Communist Party]]
+! 0
+! 2,2%
+| 0,7%
+| 1,2%
+| 1,8%
+| 2,4%
+| 3,5%
+| 1,9%
+| -
+| -
+| -
+| -
+| -
+|-
+| [[Swedish People's Party]]
+! 0
+! 0,3%
+| 0,1%
+| 0,0%
+| 0,2%
+| 0,2%
+| 0,2%
+| 0,3%
+| 0,4%
+| 0,6%
+| 0,6%
+| 0,6%
+| -
+|-
+| [[Pirate Party (Finland)|Pirate Party]]
+! 0
+! -
+| 1,4%
+| 0,8%
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| Others
+! 0
+! 3,3%
+| 0,2%
+| 0,2%
+| 0,1%
+| 0,1%
+| 0,2%
+| 1,5%
+| 2,3%
+| 1,7%
+| 0,1%
+| 4,7%
+| 7,3%
+|}
+
+The prevalence of the social democratic party can be explained in part by the [[Vaajakoski]], a major industrial center historically that is currently part of Jyväskylä, and its heritage of industrial workers voting social democrats.
+
+Jyväskylä was the only place during the 2017 municipal elections where the Green League was the largest party.<ref>{{cite web| url = https://yle.fi/uutiset/osasto/news/temporary_greens_chair_refuses_to_speculate_on_leadership_bid_as_party_bleeds_support/10468071| title = Temporary Greens chair refuses to speculate on leadership bid as party bleeds support {{!}} News {{!}} Yle Uutiset| date = 21 October 2018| access-date = 3 November 2018| archive-date = 3 November 2018| archive-url = https://web.archive.org/web/20181103092012/https://yle.fi/uutiset/osasto/news/temporary_greens_chair_refuses_to_speculate_on_leadership_bid_as_party_bleeds_support/10468071| url-status = live}}</ref>
+
+=== Administrative division ===
+{{main|Districts of Jyväskylä}}
+The city of Jyväskylä is divided into fourteen '''[[Ward (subnational entity)|ward]]s''' ({{lang|fi|suuralueet}}; {{lang|sv|storområden}}), which are further divided into 89 [[district]]s. The ward division does not always follow district boundaries.
+[[File:Lutakko.jpg|thumb|right|Lutakko is a neighbourhood close to the city centre.]]
+
+The following is a listing of the 14 wards of Jyväskylä by population, as of November 2010<ref>{{cite web |url=http://www.jyvaskyla.fi/info/tietoja_jyvaskylasta/suuralueet |title=Tietoja Jyväskylästä suuralueittain |date=7 July 2011 |publisher=City of Jyväskylä |access-date=26 February 2012 |archive-url=https://web.archive.org/web/20180811003728/http://www.jyvaskyla.fi/info/tietoja_jyvaskylasta/suuralueet |archive-date=11 August 2018 |url-status=dead }}</ref>
+# [[Kantakaupunki, Jyväskylä|Kantakaupunki (city centre)]], population 25,149
+# [[Kuokkala, Jyväskylä|Kuokkala]], population 16,904
+# [[Vaajakoski-Jyskä]], population 14,588
+# [[Palokka-Puuppola]], population 14,395
+# [[Kypärämäki-Kortepohja]], population 10,537
+# [[Huhtasuo]], population 8,691
+# [[Keltinmäki-Myllyjärvi]], population 7,524
+# [[Keljo]], population 5,494
+# [[Halssila]], population 5,479
+# [[Tikkakoski-Nyrölä]], population 5,401
+# [[Korpilahti]], population 4,993
+# [[Lohikoski-Seppälänkangas]], population 4,650
+# [[Säynätsalo]], population 3,340
+# [[Kuohu-Vesanka]], population 2,118
+
+===Former city managers===
+* [[Varma T. Suosalmi]] 1930–1935 
+* [[Arvo Haapasalo]] 1935–1955
+* [[Jorma Tuominen]] 1955–1959
+* [[Veli Järvinen]] 1959–1974 
+* [[Jaakko Loven]] 1975–1994
+* [[Pekka Kettunen]]  1994–2004
+* [[Markku Andersson]]  2004–2015<ref>{{cite web|url=http://yle.fi/uutiset/andersson_elakkeelle__jyvaskyla_pohtii_pormestaria/7117291|title=Andersson eläkkeelle – Jyväskylä pohtii pormestaria|website=Yle Uutiset|date=3 March 2014|access-date=16 March 2018|archive-date=2 October 2015|archive-url=https://web.archive.org/web/20151002162735/http://yle.fi/uutiset/andersson_elakkeelle__jyvaskyla_pohtii_pormestaria/7117291|url-status=live}}</ref>
+
+==Cityscape==
+[[File:Jyväskylä_summer_view_from_Harju.jpg|thumb|Summer view from Harju]]
+[[File:Jyväskylä_winter_view_from_Harju.jpg|thumb|Winter view from Harju]]
+[[File:Kortepohja_Architecture.jpg|thumb|The [[Kortepohja]] residential area, showcasing historic 1960s architecture]]
+
+Jyväskylä was founded in the northern end of the lake [[Päijänne]] at the crossroads of three major waterways. [[List of lakes in Jyväskylä|Lakes]] control the cityscape.<ref name="Jäppinen"/> The city [[grid plan]] from 1833 by Jacob Leonard Boringh can be well recognised in the city center.<ref>{{cite web|url= http://www3.jkl.fi/tiedotus/lehti/index.php/2005-02/582|title= Kaunis kaupunki selkeytyy|author= Arja Liinamaa|date= 16 March 2005|work= Jyväskylä lehti|publisher= City of Jyväskylä|access-date= 26 February 2012|archive-date= 5 March 2012|archive-url= https://web.archive.org/web/20120305200628/http://www3.jkl.fi/tiedotus/lehti/index.php/2005-02/582|url-status= dead}}</ref> Nevertheless, due to very rapid population growth, the cityscape has gone through one of the most massive changes in all of Finland.<ref>{{cite web|url= https://www.jyu.fi/ajankohtaista/arkisto/2005/03/tiedote-2009-10-01-09-25-38-780898|title= Summary: Have you ever seen a beautiful town?|author= Liisa Harjula|date= March 2005|work= Väitös: Jyväskylän keskustan kaupunkirakenne hajosi 1950-70-luvuilla (Jäppinen)|publisher= University of Jyväskylä|access-date= 26 February 2012|archive-date= 2012-04-14|archive-url= https://web.archive.org/web/20120414214256/https://www.jyu.fi/ajankohtaista/arkisto/2005/03/tiedote-2009-10-01-09-25-38-780898|url-status= live}}</ref>
+
+Nowadays, Jyväskylä is a city of modern architecture. The city has more buildings designed by one of the best known international [[functionalism (architecture)|functionalist]] architects [[Alvar Aalto]] than any other city in the world.<ref>{{cite web|url= http://jyvaskylanseutu.fi/travel/places_to_visit|title= Travel in Jyväskylä Region - Places to Visit|year= 2012|publisher= Jyväskylä Regional Tourist Information|access-date= 26 February 2012|url-status= dead|archive-url= https://archive.today/20120712224945/http://jyvaskylanseutu.fi/travel/places_to_visit|archive-date= 12 July 2012}}</ref>
+
+The establishment of schools in the 1850s and 1860s proved to be the most important step from the point of view of the later development of Jyväskylä.<ref name="Jäppinen"/> The headquarters of the [[University of Jyväskylä]] are considered to be Aalto's masterpieces. Later, a modern architect [[Arto Sipinen]], a pupil of Aalto, has influenced the cityscape since the 1970s by designing most of the new university buildings in the city.
+
+The outskirts of the city are mainly populated by student apartments and single-family houses. Some of the most important buildings, like [[Säynätsalo Town Hall]], designed by Aalto are located outside the city centre in Säynätsalo and Muuratsalo.
+
+Consolidated areas Korpilahti, Jyväskylän maalaiskunta, Säynätsalo and also western parts of Jyväskylä are mainly countryside dominated by hilly forests and lakes.
+
+{{wide image|360-panorama Jyvaskyla Finland.jpg|1800px|A 360 degree panorama of Jyväskylä taken from the Horisontti building. From left to right: Lutakko with the city centre and Harju in the background, lake Jyväsjärvi, Kuokkala bridge with Kuokkala neighbourhood and Kuokkala water tower in the background, and Ylistönrinne campus. }}
+
+==Transport==
+[[File:S81 passing Pumperinmäki at Jyväskylä.jpg|thumb|S81 passing Pumperinmäki at Jyväskylä. Jyväskylä is in the crossroads of main road and railway networks.]]
+[[Jyväskylä railway station]] is served by [[VR Group|VR]] direct trains to [[Helsinki]], [[Pieksämäki]], [[Tampere]], [[Turku]], [[Vaasa]] and many other destinations in Finland. The station was extensively modernised in 2002.
+
+[[Jyväskylä Airport]] is situated in [[Tikkakoski]], about {{convert|20|km}} north of Jyväskylä. It has regular direct flights to [[Helsinki Airport]]. The airport serves also as a military and charter airport.
+
+The city is on crossroads of many main roads of Finland. [[Finnish national road 4|Highway 4]] ([[European route E75|E75]]) passes the city from south to north, and [[Finnish national road 9|Highway 9]] ([[European route E63|E63]]) from southeast to northwest. [[Finnish national road 23|Highway 23]] between [[Pori]] and [[Joensuu]] also runs through Jyväskylä.
+
+[[Jyväskylä harbour]] is home to many passenger ships operating on lake Päijänne. During summer time, there are direct ship connections to [[Lahti]], [[Jämsä]], [[Suolahti]], [[Viitasaari]], and some other cities.
+
+The public transportation system of Jyväskylä is managed by the city under the [[Linkki (transport)|Linkki]] brand and operated under contract to the city by [[Jyväskylän liikenne]], [[Länsilinjat]] and Mennään Bussilla.<ref>{{cite web|title=Järjestäjä, liikennöitsijä ja päätöksenteko|url=http://linkki.jyvaskyla.fi/info/toimijat|website=Linkki - Jyväskylän seudun joukkoliikenne|publisher=Jyväskylän kaupunki|access-date=12 May 2015|archive-date=30 March 2015|archive-url=https://web.archive.org/web/20150330071144/http://linkki.jyvaskyla.fi/info/toimijat|url-status=dead}}</ref> It is based on bus lines.
+
+==Education==
+[[File:Jyväskylä University - Department of Physics.JPG|thumb|left|[[University of Jyväskylä]] Ylistönrinne Campus]]
+Jyväskylä is a traditional centre of education. Including school children, and the students in high schools, vocational schools, the university of applied sciences, and the universities, the number of students and pupils in the city reaches 45,000, boosting Jyväskylä's reputation as a "student city". Over 30% of the city population are students.<ref>{{cite web|url= http://www.jyvaskyla.fi/palvelut/opiskelu/uusiopiskelija|title= Tervetuloa opiskelemaan Jyväskylään|year= 2012|publisher= City of Jyväskylä|access-date= 26 February 2012|archive-url= https://web.archive.org/web/20120314202438/http://www.jyvaskyla.fi/palvelut/opiskelu/uusiopiskelija|archive-date= 14 March 2012|url-status= dead}}</ref> A number of firsts in Finnish education have taken place in Jyväskylä:
+* Jyväskylä Lyceum (Finnish: ''Jyväskylän Lyseon lukio'') is the world's first junior secondary school with Finnish as the language of instruction.<ref>{{Cite web|url=https://www.gradia.fi/oppimaan/lyseo/siksi-jyvaskylan-lyseon-lukioon|title=Siksi Jyväskylän Lyseon lukioon|website=Gradia|language=fi|trans-title=Choose Jyväskylän Lyseon lukio because|access-date=2018-10-06|quote=Lyseo on edelläkävijä: ensimmäinen suomenkielinen lukio. Lyseossa yhdistyvät jo vuodesta 1858 alkavat akateemiset perinteet ja tulevaisuuden taidot. [In English: Lyseo is a pioneer: the first Finnish speaking upper secondary school. In Lyseo academic traditions and the skills of the future have combined since the year 1858]|archive-date=2021-05-12|archive-url=https://web.archive.org/web/20210512151509/https://www.gradia.fi/oppimaan/lyseo/siksi-jyvaskylan-lyseon-lukioon|url-status=live}}</ref> It started its first term on 1 October 1858 and turned 160 years old in 2018. Lyceum still exists and is one of the three upper secondary schools in the city.
+* The first Finnish-medium teacher training college (1863)
+* The first Finnish-medium school for girls (1864)
+* Finland's first Summer University (1912)
+[[File:University of Jyväskylä main Building.jpg|thumb|right|Main building of the [[University of Jyväskylä]] designed by Alvar Aalto]]
+Due to this, among other things, the city has earned the nickname ''Athens of Finland''. The teacher training college later evolved into the College of Education (1934) and further into the multidisciplinary [[University of Jyväskylä]] (1966).
+
+The [[University of Jyväskylä]] is one of the most popular universities in Finland.{{citation needed|date=February 2022}} Almost 16,000 students are enrolled to study for a bachelor's or master's degree, and the university also offers PhD programs in most of its subjects. Historically, the university has excelled in the study of education, but in the last few decades it has also gained respect in the sciences. It is the only university in Finland offering university-level education in sports, training sports teachers and coaches. Today the university offers also Cyber Security degrees, in close co-operation with the [[Finnish Defence Forces]].<ref>{{cite web|url=https://www.jyu.fi/it/kyber|title=Kyberturvallisuuden maisteriopinnot|website=Informaatioteknologian tiedekunta|access-date=16 March 2018|archive-date=28 November 2016|archive-url=https://web.archive.org/web/20161128050626/https://www.jyu.fi/it/kyber|url-status=live}}</ref> According to the [[Ministry of Employment and the Economy]] the city has been acknowledged in 2013 as the Cyber Security City, providing a portfolio of Cyber Security related studies and activities.<ref>{{cite web|url=http://www.tem.fi/files/37118/Jyvaskyla.pdf|title=Julkaisut|website=Työ- ja elinkeinoministeriö|access-date=16 March 2018|archive-date=4 March 2016|archive-url=https://web.archive.org/web/20160304101236/http://www.tem.fi/files/37118/Jyvaskyla.pdf|url-status=live}}</ref>
+
+[[JAMK University of Applied Sciences]] has 8.000 students. It has four different units: School of Business and Services Management, School of Health and Social Studies, School of Technology and Teacher Education College.<ref>{{cite web |url=http://www.jamk.fi/english/aboutus |title=Creating Competence |date=25 January 2011 |publisher=JAMK University of Applied Sciences |access-date=26 February 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120311134123/http://www.jamk.fi/english/aboutus |archive-date=11 March 2012 }}</ref> [[HUMAK University of Applied Sciences]] educates cultural management in Jyväskylä.
+
+== Notable people ==
+[[File:Ismo_Leikola_in_Kauhajoki_2007.jpg|thumb|upright|Stand-up comedian, [[Ismo Leikola]]]]
+[[File:Steve_'N'_Seagulls_-Paléo_2016.jpg|thumb|upright|Finnish bluegrass country band, [[Steve 'n' Seagulls]]]]
+[[File:Matti_Nykänen_2014-01-30_001.jpg|thumb|upright|Ski jumping champion, [[Matti Nykänen]]]]
+<!---♦♦♦ Only add a person to this list if they already have their own article on the English Wikipedia ♦♦♦---> 
+<!---♦♦♦ Please keep the list in alphabetical order by LAST NAME within each group ♦♦♦---> 
+<!--- Add more groups if/when needed  ---> 
+{{cmn|
+{{clear}}<!--- Required here (cmn bug) --->
+
+=== Artists ===
+* [[Olavi Ahonen]], actor
+* [[Gettomasa]], rap artist
+* [[Ilmari Hannikainen]], composer
+* [[Pekka Hannikainen]], composer
+* [[Tauno Hannikainen]], cellist, conductor
+* [[Jonas Heiska]], painter
+* [[Arja Koriseva]], singer
+* [[Ismo Leikola]], stand-up comedian
+* [[Wivi Lönn]], architect
+* [[Pekka Kostiainen]], composer and choral conductor
+* [[Sofi Oksanen]], contemporary writer
+* [[Timo Parvela]], author of [[Children's literature|juvenile fiction]]
+* [[Timo Rautiainen (musician)|Timo Rautiainen]], heavy metal singer, guitarist, songwriter
+* [[Jack Smack]], guitarist for [[Private Line (band)|Private Line]]
+* [[Päiviö Tommila]], historian, professor
+* [[Wallu Valpio]], media person
+* [[Sonja Vectomov]], musical artist
+* [[Sonja Vectomov (sculptor)|Sonja Vectomov]], sculptor and pedagogue
+* [[Laura Voutilainen]], pop singer
+
+===Engineers/Aviators===
+* [[Karhumäki brothers]], aviation pioneers
+* [[Aimo Lahti]], weapon designer
+* [[Eino Luukkanen]], fighter ace
+
+=== Music groups ===
+* [[Deuteronomium (band)|Deuteronomium]], Christian metal band
+* [[Ghost Brigade (band)|Ghost Brigade]], metal band
+* [[Rikos Records]], independent record label
+* [[Jyväskylä Sinfonia]], orchestra
+* [[Seminaarinmäen mieslaulajat]], male choir
+* [[Steve 'n' Seagulls]], country band
+* [[Swallow the Sun]], melodic death metal band
+* [[Timo Rautiainen & Trio Niskalaukaus]], metal band
+* [[Lost Society]], metal band
+* [[Excalion]], melodic metal band
+
+=== Politicians ===
+* [[Urho Castrén]], politician who served briefly as the [[Prime Minister of Finland]] in 1944
+* [[Otto Wille Kuusinen]], member of Soviet [[Politburo]], Secretary of the [[Central Committee of the Communist Party of the Soviet Union]]
+* [[Mauri Pekkarinen]], senior [[centrist]] politician, member in four different cabinets since 1991
+* [[Paavo Rantanen]], [[diplomat]] and minister
+* [[Alpo Rusi]], diplomat and professor of international relations
+* [[Matti Vanhanen]], Prime Minister of Finland (2003–2010)
+* [[Henna Virkkunen]], Member of EU Parliament (2014–)
+* [[Väinö Voionmaa]], Senator, Minister, professor, former member of [[Finnish Parliament]]
+* [[Hilda Tihlä]], writer, social activist
+
+=== Sports ===
+* [[Juhana Aho]], ice hockey player
+* [[Mikko Hirvonen]], [[Rallying|rally]] driver
+* [[Julius Honka]], ice hockey player
+* [[Risto Jussilainen]], Olympic medalist in [[ski jump]]
+* [[Juha Kankkunen]], rally driver and four-time [[World Rally Championship|World Rally Champion]]
+* [[Eero Markkanen]], football player
+* [[Lauri Markkanen]], basketball player
+* [[Tommi Mäkinen]], rally driver and four-time World Rally Champion
+* [[Olli Määttä]], ice hockey player
+* [[Matti Nykänen]], four-time Olympic gold medalist in [[ski jump]]
+* [[Lauri Pihkala|Lauri "Tahko" Pihkala]], inventor of [[Pesäpallo|pesäpallo, Finnish baseball]]
+* [[Sirkka Polkunen]], Olympic gold medalist in [[cross-country skiing (sport)|cross-country skiing]]
+* [[Harri Rovanperä]], rally driver
+* [[Kalle Rovanperä]], rally driver and two-time World Rally Champion
+* [[Matti Salkojärvi]], footballer
+* [[Jani Soininen]], Olympic gold medalist in [[ski jump]]
+* [[Raimo Summanen]], [[ice hockey]] player and coach
+* [[Pauli Toivonen]], rally driver
+* [[Henri Toivonen]], rally driver
+* [[Tarmo Uusivirta]], [[Boxing|boxer]]
+* [[Sami Vatanen]], ice hockey player
+}}
+
+==International relations==
+[[File:Viitaniemi 2008-06-29.jpg|thumb|The Stavanger Park, close to the city center, is named after Jyväskylä's Norwegian twin city [[Stavanger]].]]
+{{See also|List of twin towns and sister cities in Finland}}
+
+===Twin towns — Sister cities — Friendship cities===
+Jyväskylä is a member city of [[Eurotowns network]]<ref>{{cite web |url= http://eurotowns.org/ |title= Eurotowns |access-date= 2012-11-19 |archive-date= 2016-05-04 |archive-url= https://web.archive.org/web/20160504154936/http://eurotowns.org/ |url-status= live }}</ref> and is [[Twin towns and sister cities|twinned]] with:<ref>{{Cite web |title=Twin cities |date=26 January 2018 |publisher=City of Jyväskylä |access-date=21 August 2019 |url=https://www.jyvaskyla.fi/en/international-relations/networks/twin-cities |archive-date=23 April 2021 |archive-url=https://web.archive.org/web/20210423072646/https://www.jyvaskyla.fi/en/international-relations/networks/twin-cities |url-status=live }}</ref>
+{| class="wikitable"
+|- valign="top"
+|
+*{{flagicon|DEN}} [[Esbjerg Municipality]], [[Denmark]] (1947)
+*{{flagicon|SWE}} [[Eskilstuna Municipality]], [[Sweden]] (1947)
+*{{flagicon|HUN}} [[Debrecen]], [[Hungary]] (1970)
+*{{flagicon|CHN}} [[Jining]], China (2018)
+*{{flagicon|PRC}} [[Kunming]], [[China]] (2005)
+*{{flagicon|PRC}} [[Mudanjiang]], [[China]] (1988)
+*{{flagicon|ISL}} [[Neskaupstaður|Fjarðabyggð]], [[Iceland]] (1958)
+||
+*{{flagicon|JPN}} [[Niiza]], [[Japan]] (1997)
+*{{flagicon|GER}} [[Potsdam]], [[Germany]] (1985)
+*{{flagicon|POL}} [[Poznań]], [[Poland]] (1974)
+*{{flagicon|NOR}} [[Stavanger]], [[Norway]] (1947)
+*{{flagicon|EST}} [[Tartu Parish]], [[Estonia]] (1991)
+*<del>{{flagicon|RUS}} [[Yaroslavl]], [[Russia]] (1966){{refn|group=note|All cooperation with Yaroslav has been halted since March 2022 due to the [[Russian invasion of Ukraine]].<ref>{{Cite web |date=2022-03-02 |title=Yksimielinen päätös: Jyväskylä jäädyttää ystävyyskaupunkisuhteen ja tukee Ukrainaa 100 000 eurolla |url=https://www.ksml.fi/paikalliset/4499099 |access-date=2023-03-31 |website=Keskisuomalainen |language=fi |archive-url=https://web.archive.org/web/20230423014335/https://www.ksml.fi/paikalliset/4499099 |archive-date=2023-04-23}}</ref>}}</del>
+|}
+
+==See also==
+{{Portal|Finland|Europe|Geography|Cities}}
+* [[Asteroid]] [[1500 Jyväskylä]] (named after the town by its Finnish discoverer, [[Yrjö Väisälä]]).
+* [[Nokkakivi Amusement Park]]
+* [[St. Olaf's Church, Jyväskylä]]
+* [[Vaajakoski Motorway]]
+
+==Notes==
+{{reflist|group=note}}
+{{notelist}}
+
+== References ==
+{{Reflist|30em}}
+
+== Further reading ==
+; History
+*{{cite book |last=Kokko |first=Marja |title=Jyväskylän kaupungin historia 1965–2007 |year=2007 |publisher=City of Jyväskylä |location=Helsinki |language=fi |isbn=978-952-5332-96-4 }}
+*{{cite book |last=Tommila |first=Päiviö |title=Jyväskylän kaupungin historia 1837–1965 |volume=II |year=1970 |publisher=City of Jyväskylä |location=Jyväskylä |language=fi |isbn=951-95011-0-X }}
+*{{cite book |last=Tommila |first=Päiviö |title=Jyväskylän kaupungin historia 1837–1965 |volume=I |year=1972 |publisher=City of Jyväskylä |location=Jyväskylä |language=fi |isbn=951-95011-2-6 }}
+
+==External links==
+{{Commons|Jyväskylä}}
+*{{wikivoyage inline|Jyväskylä}}
+*[https://www.jyvaskyla.fi/en/ City of Jyväskylä] – International version of the official website
+*[https://kartta.jkl.fi/IMS/en/Map Map of Jyväskylä]
+*[https://www.jyvaskylanseutu.fi/en/jyvaskyla-region Region of Jyväskylä Tourist Information]
+
+{{Geographic location
+ | Centre = Jyväskylä<br />{{Nobold|(nearly surrounds [[Muurame]])}}
+ | NE = [[Laukaa]]
+ | E  = [[Toivakka]]
+ | SE = [[Joutsa]]
+ | S  = [[Luhanka]]
+ | SW = [[Jämsä]]
+ | W  = [[Petäjävesi]]
+ | NW = [[Uurainen]]
+}}
+{{CentralFinland}}
+{{50 most populous Nordic urban settlements}}
+{{50 most populous Finnish municipalities}}
+{{Authority control}}
+
+{{DEFAULTSORT:Jyvaskyla}}
+[[Category:Jyväskylä| ]]
+[[Category:Grand Duchy of Finland]]
+[[Category:Populated lakeshore places in Finland]]
+[[Category:Inland port cities and towns in Finland]]
+[[Category:Rally Finland]]
+[[Category:Municipalities of Central Finland]]
+[[Category:Populated places established in 1837]]
+[[Category:1837 establishments in Finland]]

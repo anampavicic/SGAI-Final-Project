@@ -1,0 +1,1162 @@
+{{Short description|City and municipality in Limburg, Netherlands}}
+{{for|the treaty signed in Maastricht in 1992|Maastricht Treaty}}
+{{Use dmy dates|date=July 2021}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Name and transliteration -->| name               = Maastricht
+| native_name        = {{native name|li|Mestreech}}
+| settlement_type    = [[Netherlands|City]] and [[List of municipalities of the Netherlands|municipality]]
+<!-- Images, nickname, motto -->| image_skyline      = {{multiple image
+  | total_width            = 280
+  | border                 = infobox
+  | perrow                 = 1/2/1/2/1
+  | caption_align          = center
+  | image1                 = Maastricht sunset.jpg
+  | alt1                   = River Meuse in winter
+  | caption1               = River [[Meuse]] in winter
+  | image2                 = Maastricht, kerstverlichting 2014, Markt01.JPG
+  | alt2                   = Town Hall by night
+  | caption2               = [[Maastricht City Hall]] at night
+  | image3                 = Maastricht platz vor liebfrauenkirche.jpg
+  | alt3                   = Sidewalk cafés at Onze Lieve Vrouweplein
+  | caption3               = Sidewalk cafés at [[Onze Lieve Vrouweplein]]
+  | image4                 = Maasbrug Maastricht - panoramio.jpg
+  | alt4                   = Saint Servatius Bridge
+  | caption4               = [[Sint Servaasbrug|Saint Servatius Bridge]]
+  | image5                 = Maastricht, kapel Sterre der Zee, 2014.JPG
+  | alt5                   = Our Lady, Star of the Sea chapel
+  | caption5               = [[Our Lady, Star of the Sea]] chapel
+  | image6                 = 20140525 Maastricht; Sint-Janskerk and Sint-Servaasbasilica at dusk.JPG
+  | alt6                   = St. John's and Basilica of Saint Servatius|St. Servatius' churches at Vrijthof (Maastricht)|Vrijthof square
+  | caption6               = St. John's and [[Basilica of Saint Servatius|St. Servatius']] churches at [[Vrijthof|Vrijthof square]]
+  | image7                 = 2016 Maastricht, St-Pietersberg, Lichtenberg 22.jpg
+  | alt7                   = View from Mount Saint Peter
+  | caption7               = View from [[Mount Saint Peter]]
+  }}
+| image_flag         = Flag of Maastricht.svg
+| flag_size          = 100x67px
+| flag_alt           = 
+| image_shield       = Maastricht wapen.svg
+| shield_size        = 100x80px
+| shield_alt         = 
+| anthem             = Mestreechs Volksleed
+<!-- Maps, coordinates -->| image_map          = Map - NL - Municipality code 0935 (2009).svg
+| map_alt            = Highlighted position of Maastricht in a municipal map of Limburg
+| map_caption        = Location in Limburg
+| pushpin_map        = Netherlands#Europe
+| pushpin_map_caption = Location within the Netherlands##Location within Europe
+| pushpin_relief     = 1
+| coordinates        = {{coord|50|51|N|5|41|E|region:NL|display=inline,title}}
+| coordinates_footnotes = 
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = {{flag|Netherlands}}
+| subdivision_type1  = [[Provinces of the Netherlands|Province]]
+| subdivision_name1  = [[Limburg (Netherlands)|Limburg]]
+| seat_type          = [[Seat of local government|City Hall]]
+| seat               = [[Maastricht City Hall]]
+| established_title  = Settled
+| established_date   = ≈ circa 50 AD
+| established_title1 = City rights
+| established_date1  = gradually acquired
+| parts_type         = <!-- defaults to: Boroughs -->
+| parts_style        = coll
+| parts              = 7 districts
+| p1                 = '''Centrum''' ([[Binnenstad, Maastricht|Binnenstad]], [[Jekerkwartier]], Kommelkwartier, Statenkwartier, Boschstraatkwartier, Sint Maartenspoort, [[Wyck, Maastricht|Wyck-Céramique]])
+| p2                 = '''Noordoost''' (Beatrixhaven, [[Borgharen]], [[Itteren]], Meerssenhoven)
+| p3                 = '''Oost''' (Wyckerpoort, Wittevrouwenveld, Nazareth, Limmel, [[Amby, Maastricht|Amby]], Scharn, Heugemerveld)
+| p4                 = '''Zuidoost''' (Randwyck, Heugem, [[Heer, Maastricht|Heer]], De Heeg, Vroendaal)
+| p5                 = '''Zuidwest''' ([[Villapark]], Jekerdal, [[Biesland, Maastricht|Biesland]], Campagne, Wolder, [[Sint Pieter]])
+| p6                 = '''West''' (Brusselsepoort, Mariaberg, Belfort, Pottenberg, Malpertuis, Caberg, Malberg, Dousberg-Hazendans, Daalhof)
+| p7                 = '''Noordwest''' ([[Boschpoort]], Bosscherveld, Frontenkwartier, Belvédère, Lanakerveld)
+| government_footnotes = <ref name="mayor_now">{{cite web
+ |url         = http://www.gemeentemaastricht.nl/bestuur-en-organisatie/college/collegeleden/burgemeester-annemarie-penn-te-strake/
+ |title       = Mrs. Annemarie Penn-te Strake
+ |trans-title = Mr. Annemarie Penn-te Strake
+ |language    = nl
+ |publisher   = Gemeente Maastricht
+ |access-date  = 12 October 2013
+|url-status     = dead
+ |archive-url  = https://web.archive.org/web/20150703134421/http://www.gemeentemaastricht.nl/bestuur-en-organisatie/college/collegeleden/burgemeester-annemarie-penn-te-strake/
+ |archive-date = 3 July 2015
+}}</ref>
+| governing_body     = [[Municipal council (Netherlands)|Municipal council]]
+| leader_party       = 
+| leader_title       = [[List of mayors of Maastricht|Mayor]]
+| leader_name        = [[Wim Hillenaar]]  (CDA)
+<!-- Geographic information -->| total_type         = Municipality<!-- to set a non-standard label for total area and population rows -->
+| unit_pref          = Metric
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->| area_footnotes     = <ref>{{Dutch municipality total area|dataref}}</ref>
+<!-- square kilometers -->| area_total_km2     = {{Dutch municipality total area|Maastricht}}
+| area_land_km2      = {{Dutch municipality land area|Maastricht}}
+| area_water_km2     = {{Dutch municipality water area|Maastricht}}
+| elevation_footnotes = <ref name="AHN">{{cite web
+ |url=http://www.ahn.nl/postcodetool 
+ |title=Postcodetool for 6211DW 
+ |language=nl 
+ |work=Actueel Hoogtebestand Nederland 
+ |publisher=Het Waterschapshuis 
+ |access-date=12 October 2013 |url-status=dead 
+ |archive-url=https://web.archive.org/web/20130921053543/http://www.ahn.nl/postcodetool 
+ |archive-date=21 September 2013 }}</ref>
+| elevation_m        = 49
+| elevation_min_m    = <!-- Population, demographics -->
+| elevation_max_footnotes = <!-- for references: use <ref> tags -->
+| elevation_min_footnotes = <!-- for references: use <ref> tags -->
+| population_total   = {{Dutch municipality population|Maastricht}}
+| population_as_of   = Municipality, {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{YEAR|{{Dutch municipality population|popbaseyear}}}}; Urban and Metro, {{MONTHNAME|{{Dutch municipality population urbanmetro|popbasemonth}}}} {{YEAR|{{Dutch municipality population urbanmetro|popbaseyear}}}}
+| population_footnotes = <ref>{{Dutch municipality population|dataref}}</ref><ref>{{Dutch municipality population urbanmetro|dataref}}</ref>
+| population_density_km2 = {{Dutch municipality population density|Maastricht}} <!-- For automatic calculation: auto-->
+| population_urban   = 277,721
+| population_metro   = ≈ 3,500,000
+| population_demonyms = ([[Dutch language|Dutch]]) Maastrichtenaar;<br/> ([[Maastrichtian dialect|Limb.]]) Mestreechteneer or "Sjeng" (nickname)
+<!-- Other information -->| population_note    = Urban population for Dutch-Belgian region;<ref>Including the Belgian municipalities of [[Lanaken]], [[Riemst]] and [[Maasmechelen]] to the west and [[Visé]] to the south.</ref> metropolitan population for Dutch-Belgian-German region.<ref>Basically, the metropolitan areas of Maastricht, [[Liège]], Hasselt-Genk, Sittard-Geleen, Heerlen-Kerkrade and Aachen-Düren constitute the densely populated urban core of the [[Meuse–Rhine Euroregion]].</ref>
+| timezone1          = [[Central European Time|CET]]
+| utc_offset1        = +1
+| timezone1_DST      = [[Central European Summer Time|CEST]]
+| utc_offset1_DST    = +2
+| postal_code_type   = [[Postal codes in the Netherlands|Postcode]]
+| postal_code        = 6200–6229
+| area_code          = 043
+| area_code_type     = [[Telephone numbers in the Netherlands|Area code]]
+| website            = {{URL|1=https://www.gemeentemaastricht.nl/en}}
+| footnotes          = 
+| elevation_max_m    = 
+}}
+
+'''Maastricht''' ({{IPAc-en|ˈ|m|ɑː|s|t|r|ɪ|x|t}} {{respell|MAH|strikht}}, {{IPAc-en|USalso|m|ɑː|ˈ|s|t|r|ɪ|x|t}} {{respell|mah|STRIKHT}},<ref>{{Cite American Heritage Dictionary|Maastricht|access-date=4 April 2019}}</ref><ref>[https://web.archive.org/web/20190404124526/https://en.oxforddictionaries.com/definition/us/maastricht "Maastricht"] (US) and {{Cite encyclopedia |url=http://www.lexico.com/definition/Maastricht |archive-url=https://web.archive.org/web/20200322182032/https://www.lexico.com/definition/maastricht |url-status=dead |archive-date=2020-03-22 |title=Maastricht |dictionary=[[Lexico]] UK English Dictionary |publisher=[[Oxford University Press]]}}</ref><ref>{{Cite Merriam-Webster|Maastricht|access-date=4 April 2019}}</ref> {{IPA|nl|maːˈstrɪxt|lang|145 Maastricht.ogg}}; {{langx|li|Mestreech}} {{IPA|li|məˈstʀeːx|}}; {{langx|fr|Maestricht}} {{small|(archaic)}}; {{langx|es|Mastrique}} {{small|(archaic)}}) is a [[city]] and a [[Municipalities of the Netherlands|municipality]] in the southeastern [[Netherlands]]. It is the [[capital city|capital]] and largest city of the province of [[Limburg (Netherlands)|Limburg]]. Maastricht is located on both sides of the [[Meuse]] ({{langx|nl|Maas}}), at the point where the river is joined by the [[Jeker]]. [[Mount Saint Peter]] (''Sint-Pietersberg'') is largely situated within the city's municipal borders. Maastricht is adjacent to the border with [[Belgium]] and is part of the [[Meuse-Rhine Euroregion]], an international metropolis with a population of about 3.9 million, which includes the nearby German and Belgian cities of [[Aachen]], [[Liège]], and [[Hasselt]].
+
+Maastricht developed from a [[Roman Republic|Roman]] settlement (''Trajectum ad Mosam'') to a medieval river trade and religious centre. In the 16th century it became a garrison town and in the 19th century an early industrial centre.<ref>{{cite web|url=http://www.zichtopmaastricht.nl|title=Zicht op Maastricht|publisher=zichtopmaastricht.nl |access-date=19 August 2012}}</ref> Today, the city is a thriving cultural and regional hub. It became well known through the [[Maastricht Treaty]] and as the birthplace of the [[euro]].<ref>{{cite news|url=http://www.economist.com/node/21531445 |title=The Economist ''Charlemagne: Return to Maastricht'' Oct 8th 2011 |publisher=Economist.com |date= 8 October 2011|access-date=23 May 2012}}</ref> Maastricht has 1,677 national heritage buildings (''[[rijksmonument]]en''), the second highest number in the Netherlands, after [[Amsterdam]]. The city is visited by tourists for shopping and recreation, and has a large international student population.
+
+== History ==
+{{For timeline}}
+
+=== Toponymy ===
+Maastricht is mentioned in ancient documents as ''[Ad] Treiectinsem [urbem]'' ab. 575, ''Treiectensis'' in 634, ''Triecto'', ''Triectu'' in 7th century, ''Triiect'' in 768–781, ''Traiecto'' in 945, ''Masetrieth'' in 1051.<ref>As ''Treiectinsem urbem'', "the city of Trajectum", in [[Gregory of Tours]], [http://www.thelatinlibrary.com/gregorytours/gregorytours2.shtml ''Historia Francorum'', 2, 5] {{Webarchive|url=https://web.archive.org/web/20150316175253/http://www.thelatinlibrary.com/gregorytours/gregorytours2.shtml |date=16 March 2015 }} (late 6th ct.).</ref><ref>M. Gysseling, ''Toponymisch Woordenboek van België, Nederland, Luxemburg, Noord-Frankrijk en West-Duitsland (vóór 1226)'' (Tongeren, 1960) [http://bouwstoffen.kantl.be/tw/facsimile/?find=maastricht p. 646].</ref>
+
+The place name ''Maastricht'' is an [[Old Dutch]] compound ''Masa-'' (> ''Maas'' "the [[Meuse]] river") + Old Dutch ''*treiekt'', itself borrowed from Gallo-Romance <small>*TRA(I)ECTU</small> cf. its Walloon name ''li trek'', from Classical Latin ''trajectus'' ("[[Ford (crossing)|ford]], passage, place to cross a river") with the later addition of ''Maas'' "Meuse" to avoid the confusion with the ''-trecht'' of [[Utrecht]] having exactly the same original form and etymology. The Latin name first appears in medieval documents and it is not known whether ''{{lang|la|*Trajectu(s)}}'' was Maastricht's name during Roman times.
+
+A resident of Maastricht is referred to as ''Maastrichtenaar'' whilst in the local dialect it is either ''Mestreechteneer'' or, colloquially, ''[[Sjeng (name)|Sjeng]]'' (derived from the formerly popular French name ''Jean'').
+
+=== Early history ===
+[[File:Maastricht - rijksmonument 527161 - Museumkelder Derlon 20100821.jpg|thumb|left|Roman sanctuary in the basement of Hotel Derlon]]
+[[Neanderthal]] remains have been found to the west of Maastricht (Belvédère excavations). Of a later date are [[Palaeolithic]] remains, between 8,000 and 25,000 years old. [[Celts]] lived here around 500 BC, at a spot where the river [[Meuse]] was shallow and therefore easy to cross.
+
+It is not known when the Romans arrived in Maastricht, nor whether the settlement was founded by them. The Romans built a bridge across the Meuse in the 1st century AD, during the reign of [[Augustus Caesar]]. The bridge was an important link in the main road between [[Bavay]] and [[Colonia Claudia Ara Agrippinensium|Cologne]]. Roman Maastricht was relatively small. Remains of the Roman road, the bridge, a religious shrine, a [[Roman bath]], a [[granary]], some houses and the 4th-century [[castrum]] walls and gates, have been excavated. Fragments of provincial Roman sculptures, as well as coins, jewelry, glass, pottery and other objects from Roman Maastricht are on display in the exhibition space of the city's public library (''Centre Céramique'').
+
+According to legend, the [[Armenia]]n-born [[Saint Servatius]], [[Bishopric of Tongeren|Bishop of Tongeren]], died in Maastricht in 384 where he was interred along the Roman road, outside the castrum. According to [[Gregory of Tours]] it was bishop [[Monulph]] who around 570 built the first stone church on the grave of Servatius, a precursor of the present-day [[Basilica of Saint Servatius]]. The city remained an early [[Christianity|Christian]] [[diocese]] until it lost the distinction to nearby [[Liège]] in the 8th or 9th century.
+
+=== Middle Ages ===
+In the early [[Middle Ages]] Maastricht, along with [[Aachen]] and [[Liège]], formed part of what is considered the heartland of the [[Carolingian dynasty]]. At this time, the town was an important centre for river trade and manufacturing. [[Merovingian]] coins minted in Maastricht have been found throughout Europe. In 881 the town was plundered by the [[Vikings]]. In the 10th century it briefly became the capital of the [[Lower Lorraine|duchy of Lower Lorraine]].
+
+During the 11th and 12th centuries the town flourished culturally. Several [[Provost (religion)|provosts]] of the chapter of Saint Servatius held important positions in the [[Holy Roman Empire]]. The two [[collegiate church]]es were largely rebuilt and redecorated during this era. Maastricht [[Romanesque art#Sculpture|Romanesque stone sculpture]] and [[silversmithing]] are regarded as highlights of [[Mosan art]]. Maastricht painters were praised by [[Wolfram von Eschenbach]] in his [[Parzival]]. Around the same time, the poet [[Henric van Veldeke]] wrote a legend of Saint Servatius, one of the earliest works in [[Dutch literature]]. The two main churches acquired a wealth of [[relic]]s and the septennial [[Pilgrimage of the Relics, Maastricht|Maastricht Pilgrimage]] became a major event that drew up to 100,000 pilgrims.
+
+Unlike most Dutch towns, Maastricht did not receive [[City rights in the Netherlands|city rights]] at a certain date. These gradually developed during its long history. In 1204 the city's [[condominium (international law)|dual authority]] was formalised in a treaty, with the [[Prince-Bishopric of Liège|prince-bishop of Liège]] and the [[Duchy of Brabant|duke of Brabant]] holding joint sovereignty over the city. Soon afterwards the first ring of medieval walls were built. In 1275, the old Roman bridge collapsed under the weight of a procession, allegedly killing 400 people. A replacement bridge, funded by church [[indulgence]]s, was built slightly to the north and survives until today, the [[Sint Servaasbrug]].<ref>{{citation|title=Christendom and Christianity in the Middle Ages: The Relations Between Religion, Church, and Society|first=Adriaan H.|last=Bredero|publisher=Wm. B. Eerdmans Publishing|year=1994|isbn=978-0-8028-4992-2|page=352|url=https://books.google.com/books?id=CD-2apInJSYC&pg=PA352}}.</ref>
+
+Throughout the Middle Ages, the city remained a centre for trade and manufacturing principally of [[wool]] and [[leather]] but gradually economic decline set in. After a brief period of economic prosperity around 1500, the city's economy suffered during the [[European wars of religion|wars of religion]] of the 16th and 17th centuries, and recovery did not happen until the [[industrial revolution]] in the early 19th century.
+
+=== 16th to 18th centuries ===
+[[File:1579 Siege of Maastricht - Aranjuez Palace.jpg|thumb|left|The [[Siege of Maastricht (1579)]] as depicted in the [[Palace of Aranjuez]]|200x200px]]
+The strategic location of Maastricht at a major river crossing necessitated the construction of an array of fortifications around the city during this period. The Spanish and Dutch [[garrison]]s became an important factor in the city's economy. In 1579 the city was sacked by the Spanish army led by the [[Alexander Farnese, Duke of Parma|Duke of Parma]] ([[Siege of Maastricht (1579)|Siege of Maastricht, 1579]]). For over fifty years the Spanish crown took over the role previously held by the dukes of Brabant in the joint sovereignty over Maastricht. In 1632 [[Capture of Maastricht|the city was conquered]] by Prince [[Frederick Henry, Prince of Orange|Frederick Henry]] of [[Principality of Orange|Orange]] and the Dutch [[Netherlands States-General|States General]] replaced the Spanish crown in the joint government of Maastricht. There was an attempt in 1634 of Spanish forces to [[Siege of Maastricht (1634)|recapture the city]], but to no avail.
+
+Another [[Siege of Maastricht (1673)]] took place during the [[Franco-Dutch War]]. In June 1673, [[Louis XIV of France#Early wars in the Low Countries|Louis XIV]] laid siege to the city because French supply lines were being threatened. During this siege, [[Vauban]], the famous French military engineer, developed a new tactic in order to break down the strong fortifications surrounding Maastricht. His systematic approach remained the standard method of attacking fortresses until the 20th century. On 25 June 1673, while preparing to storm the city, captain-lieutenant [[Charles de Batz de Castelmore]], also known as the ''comte [[d'Artagnan]]'', was killed by a musket shot outside the Tongerse Poort. This event was embellished in [[Alexandre Dumas, père|Alexandre Dumas']] novel ''[[The Vicomte de Bragelonne]]'', part of the [[D'Artagnan Romances]]. French troops occupied Maastricht from 1673 to 1678.
+
+In 1748 the French again conquered the city at what is known as the [[Siege of Maastricht (1748)|Second French Siege of Maastricht]], during the [[War of Austrian Succession]]. After each siege the city's fortifications were restored and expanded. The French revolutionary army failed to take the city in 1793 but a year later they succeeded. The condominium was dissolved and Maastricht was annexed to the [[French First Republic]], later the [[First French Empire]]. For almost twenty years (1795–1814/15) Maastricht was the capital of the French [[Département in France#Napoleonic Empire|département]] of [[Meuse-Inférieure]].
+
+=== 19th and early 20th century ===
+[[File:Boschstraat Sphinx, 1865.jpg|thumb|19th-century industry: Maastricht potteries in Boschstraat]]
+After the [[Napoleonic era]], Maastricht became part of the [[United Kingdom of the Netherlands]] in 1815. It was made the capital of the newly formed [[Province of Limburg (1815–1839)]]. When the southern provinces of the newly formed kingdom [[Belgian Revolution|seceded in 1830]], the Dutch garrison in Maastricht remained loyal to the Dutch king, [[William I of the Netherlands|William I]], even when most of the inhabitants of the town and the surrounding area sided with the Belgian revolutionaries. In 1831, arbitration by the [[Great Powers]] allocated the city to the Netherlands. However, neither the Dutch nor the Belgians agreed to this and the arrangement was not implemented until the 1839 [[Treaty of London, 1839|Treaty of London]]. During this period of isolation Maastricht developed into an early industrial town.
+
+[[File:Maastricht Liberation Plate, 14 Sept. 1944.jpg|thumb|left|170px|Plate commemorating the liberation, 14 September 1944]]
+Because of its eccentric location in the southeastern Netherlands, as well as its geographical and cultural proximity to Belgium and Germany, integration of Maastricht and Limburg into the Netherlands did not come about easily. Maastricht retained a distinctly non-Dutch appearance during much of the 19th century and it was not until the [[First World War]] that the city was forced to look northwards.
+
+Like the rest of the Netherlands, Maastricht remained neutral during World War I. However, being wedged between Germany and Belgium, it received large numbers of refugees, putting a strain on the city's resources. Early in [[World War II]], the city was taken by the [[Nazi Germany|Germans]] by surprise during the [[Battle of Maastricht]] of May 1940. On 13 and 14 September 1944 it was the first Dutch city to be liberated by [[Allies of World War II|Allied forces]] of the US [[30th Infantry Division (United States)|Old Hickory Division]]. The three Meuse bridges were destroyed or severely damaged during the war. As elsewhere in the Netherlands, the majority of Maastricht [[Jews]] died in [[Nazi concentration camps]].<ref>About 77% of Maastricht's relatively small Jewish community of 505 members did not survive the war. {{aut|P.J.H. Ubachs & I.M.H. Evers}} (2005): ''Historische Encyclopedie Maastricht'', pp. 256-257. Walburg Pers, Zutphen. {{ISBN|90-5730-399-X}}.</ref>
+
+=== After World War II ===
+[[File:Europese Raad in Maastricht, 27a Van Agt e.a. tijdens conferentie, 28a en 29a overzicht tijdens conferentie met links Thatcher, Bestanddeelnr 931-3910.jpg|thumb|Prime minister [[Dries van Agt]] presiding over the 1981 [[European Council]] in the town hall]]
+During the latter half of the century, traditional industries (such as Maastricht's [[pottery|potteries]]) declined and the city's economy shifted to a [[service economy]]. [[Maastricht University]] was founded in 1976. Several European institutions found their base in Maastricht. In 1981 and 1991 [[European Council]]s were held in Maastricht, the latter one resulting a year later in the signing of the [[Maastricht Treaty]], leading to the creation of the [[European Union]] and the [[euro]].<ref>Gnesotto, N. (1992). European union after Minsk and Maastricht. ''International Affairs''. 68(2), 223-232.</ref> Since 1988, [[The European Fine Art Fair]], regarded as the world's leading art fair, annually draws in some of the wealthiest art collectors.
+
+Since the 1990s, large parts of the city have been refurbished, including the areas around the main railway station and the Maasboulevard [[promenade]] along the Meuse, the Entre Deux and Mosae Forum shopping centres, as well as some of the main shopping streets. A prestigious quarter designed by international architects and including the new [[Bonnefanten Museum]], a public library, and a theatre was built on the grounds of the former Société Céramique factory near the town centre. Further large-scale projects, such as the redevelopment of the area around the [[A2 motorway (Netherlands)|A2 motorway]], the Sphinx Quarter and the Belvédère area are under construction.
+
+In the early 2000s, Maastricht launched several campaigns against drug-dealing in an attempt to stop foreign buyers taking advantage of the liberal Dutch legislation and causing trouble in the downtown area.<ref>{{cite web |author=<!-- Tekst: -->Maastricht Van onze verslaggever |url=http://www.limburger.nl/article/20080311/REGIONIEUWS06/803110348/1056 |title=Coffee Corner: Dagblad de Limburger |publisher=Limburger.nl |access-date=23 May 2012 |archive-date=31 August 2015 |archive-url=https://web.archive.org/web/20150831232055/http://www.limburger.nl/article/20080311/REGIONIEUWS06/803110348/1056 |url-status=dead }}</ref>
+
+== Geography ==
+=== Neighbourhoods ===
+[[File:Jekerkwartier07.jpg|thumb|right|Typical street in the [[Jekerkwartier]], part of the city centre]]
+[[File:Maastricht-plaats-OpenTopo.jpg|right|thumb|Dutch topographic map of Maastricht, March 2014]]
+
+Maastricht consists of seven areas (''wijken'') and 44 neighbourhoods (''buurten''). Each area and neighbourhood has a number which corresponds to its [[Statistics Netherlands|CBS]] code.
+
+# Maastricht Centrum (CBS area code: 093500): [[Binnenstad, Maastricht|Binnenstad]], [[Jekerkwartier]], Kommelkwartier, Statenkwartier, Boschstraatkwartier, Sint Maartenspoort, [[Wyck, Maastricht|Wyck-Céramique]]
+# South-West (093501): [[Villapark]], Jekerdal, [[Biesland, Maastricht|Biesland]], Campagne, Wolder, [[Sint Pieter]])
+# West (093502): Brusselsepoort, Mariaberg, Belfort, Pottenberg, Malpertuis, Caberg, Malberg, Dousberg-Hazendans, Daalhof
+# North-West (093503): [[Boschpoort]], Bosscherveld, Frontenkwartier, Belvédère, Lanakerveld
+# North-East (093505): Beatrixhaven, [[Borgharen]], [[Itteren]], Meerssenhoven
+# East (093504): Wyckerpoort, Wittevrouwenveld, Nazareth, Limmel, [[Amby, Maastricht|Amby]], Scharn, Heugemerveld
+# South-East (093506): Randwyck, Heugem, [[Heer, Maastricht|Heer]], De Heeg, Vroendaal
+
+Itteren, Borgharen, Limmel, Amby, Heer, Heugem, Scharn, Oud-Caberg, [[Sint Pieter]] and Wolder are neighbourhoods that used to be separate municipalities or villages until they were annexed by the city of Maastricht in the course of the 20th century.
+
+=== Neighbouring municipalities ===
+The outlying areas of the following municipalities are bordering the municipality of Maastricht directly.
+
+''Clockwise from north-east to north-west:''
+{{columns-list|colwidth=15em|
+*[[Bunde, Limburg|Bunde]], 
+*[[Meerssen]], 
+*[[Berg en Terblijt]], 
+*[[Bemelen]], 
+*[[Cadier en Keer]], 
+*[[Gronsveld]],
+*[[Oost, Limburg|Oost]], 
+*Lanaye (B),
+*Petit-Lanaye (B),
+*[[Kanne]] (B), 
+*Vroenhoven (B), 
+*Kesselt (B), 
+*Veldwezelt (B), 
+*[[Lanaken]] (B),
+*Neerharen (B).
+}}
+
+''(B = Situated in Belgium)''
+
+=== Border ===
+Maastricht's [[city limits]] has an international border with Belgium. Most of it borders Belgium's [[Flanders|Flemish]] region, but a small part to the south also has a border with [[Wallonia]]. Both countries are part of Europe's [[Schengen Area]] and, thus, are open without border controls.
+
+=== Climate ===
+Maastricht features the same climate as most of the Netherlands (''Cfb'', [[Oceanic climate]]), however, due to its more inland location in between hills, summers tend to be warmer (especially in the Meuse valley, which lies {{cvt|70|m|disp=sqbr}} lower than the meteorological station) and winters a bit colder, although the difference is only noticeable on just a few days a year. The highest temperature recorded was on 25 July 2019 at {{convert|39.6|°C|1|abbr=on}}.
+
+{{Weather box
+|location = Maastricht (1991−2020 normals, extremes 1906−present)
+|single line = y
+|metric first = y
+|Jan record high C = 16.5
+|Feb record high C = 19.8
+|Mar record high C = 24.2
+|Apr record high C = 29.7
+|May record high C = 33.1
+|Jun record high C = 37.2
+|Jul record high C = 39.6
+|Aug record high C = 36.8
+|Sep record high C = 34.3
+|Oct record high C = 28.7
+|Nov record high C = 21.4
+|Dec record high C = 17.0
+|Jan avg record high C = 12.5
+|Feb avg record high C = 13.6
+|Mar avg record high C = 18.3
+|Apr avg record high C = 23.2
+|May avg record high C = 27.3
+|Jun avg record high C = 30.9
+|Jul avg record high C = 32.5
+|Aug avg record high C = 31.8
+|Sep avg record high C = 26.8
+|Oct avg record high C = 22.1
+|Nov avg record high C = 16.3
+|Dec avg record high C = 12.8
+|year avg record high C = 34.3
+|Jan high C = 5.7
+|Feb high C = 6.7
+|Mar high C = 10.7
+|Apr high C = 15.0
+|May high C = 18.8
+|Jun high C = 21.7
+|Jul high C = 23.8
+|Aug high C = 23.5
+|Sep high C = 19.7
+|Oct high C = 14.8
+|Nov high C = 9.7
+|Dec high C = 6.3
+|year high C = 
+|Jan mean C = 3.2
+|Feb mean C = 3.7
+|Mar mean C = 6.6
+|Apr mean C = 10.1
+|May mean C = 13.8
+|Jun mean C = 16.8
+|Jul mean C = 18.8
+|Aug mean C = 18.4
+|Sep mean C = 15.0
+|Oct mean C = 11.0
+|Nov mean C = 6.8
+|Dec mean C = 4.0
+|year mean C = 10.7
+|Jan low C = 0.5
+|Feb low C = 0.7
+|Mar low C = 2.7
+|Apr low C = 5.0
+|May low C = 8.7
+|Jun low C = 11.7
+|Jul low C = 13.8
+|Aug low C = 13.4
+|Sep low C = 10.6
+|Oct low C = 7.3
+|Nov low C = 3.8
+|Dec low C = 1.4
+|year low C = 6.6
+|Jan avg record low C = -7.3
+|Feb avg record low C = -6.0
+|Mar avg record low C = -3.5
+|Apr avg record low C = -1.0
+|May avg record low C = 2.5
+|Jun avg record low C = 6.4
+|Jul avg record low C = 9.0
+|Aug avg record low C = 8.8
+|Sep avg record low C = 5.6
+|Oct avg record low C = 0.8
+|Nov avg record low C = -2.6
+|Dec avg record low C = -5.5
+|year avg record low C = -9.5
+|Jan record low C = -19.3
+|Feb record low C = -21.4
+|Mar record low C = -12.9
+|Apr record low C = -5.6
+|May record low C = -1.6
+|Jun record low C = 0.7
+|Jul record low C = 4.3
+|Aug record low C = 4.9
+|Sep record low C = -0.9
+|Oct record low C = -6.5
+|Nov record low C = -12.0
+|Dec record low C = -18.3
+|precipitation colour = green
+|Jan precipitation mm = 63.8
+|Feb precipitation mm = 57.6
+|Mar precipitation mm = 54.6
+|Apr precipitation mm = 41.0
+|May precipitation mm = 57.7
+|Jun precipitation mm = 68.9
+|Jul precipitation mm = 72.8
+|Aug precipitation mm = 82.8
+|Sep precipitation mm = 57.5
+|Oct precipitation mm = 63.6
+|Nov precipitation mm = 62.2
+|Dec precipitation mm = 74.3
+|year precipitation mm = 756.8
+|Jan precipitation days = 12.0
+|Feb precipitation days = 10.8
+|Mar precipitation days = 10.4
+|Apr precipitation days = 8.4
+|May precipitation days = 9.4
+|Jun precipitation days = 9.7
+|Jul precipitation days = 10.2
+|Aug precipitation days = 10.2
+|Sep precipitation days = 8.8
+|Oct precipitation days = 10.7
+|Nov precipitation days = 11.7
+|Dec precipitation days = 13.2
+|year precipitation days = 125.7
+|unit precipitation days = 1 mm
+|Jan snow days = 6.1
+|Feb snow days = 6.7
+|Mar snow days = 3.3
+|Apr snow days = 0.3
+|May snow days = 0.1
+|Jun snow days = 0.0
+|Jul snow days = 0.0
+|Aug snow days = 0.0
+|Sep snow days = 0.0
+|Oct snow days = 0.1
+|Nov snow days = 1.1
+|Dec snow days = 4.7
+|year snow days = 22.2
+|Jan humidity = 86.4
+|Feb humidity = 83.2
+|Mar humidity = 77.7
+|Apr humidity = 71.7
+|May humidity = 72.1
+|Jun humidity = 72.8
+|Jul humidity = 73.1
+|Aug humidity = 74.8
+|Sep humidity = 79.4
+|Oct humidity = 83.9
+|Nov humidity = 87.9
+|Dec humidity = 88.3
+|year humidity = 79.3
+|Jan sun = 66.9
+|Feb sun = 86.0
+|Mar sun = 138.5
+|Apr sun = 180.8
+|May sun = 208.7
+|Jun sun = 205.5
+|Jul sun = 209.0
+|Aug sun = 197.5
+|Sep sun = 157.0
+|Oct sun = 118.2
+|Nov sun = 74.1
+|Dec sun = 53.5
+|year sun = 1695.7
+|Jan percentsun = 25.4
+|Feb percentsun = 30.3
+|Mar percentsun = 37.5
+|Apr percentsun = 43.7
+|May percentsun = 43.4
+|Jun percentsun = 41.7
+|Jul percentsun = 42.1
+|Aug percentsun = 43.8
+|Sep percentsun = 41.3
+|Oct percentsun = 35.5
+|Nov percentsun = 27.4
+|Dec percentsun = 21.5
+|year percentsun =36.1
+|source 1 = [[Royal Netherlands Meteorological Institute]] (snowy days 2003–2020)<ref name=91-20>{{cite web
+| url = https://www.knmi.nl/klimaat-viewer/grafieken-tabellen/klimaattabellen-per-station/maastricht/klimaattabel_maastricht_1991-2020
+| title= Klimaatviewer
+| publisher = [[Royal Netherlands Meteorological Institute]]
+| access-date = January 12, 2023}}</ref><ref name=extremes>{{cite web
+| url = https://www.knmi.nl/nederland-nu/klimatologie/daggegevens
+|title= Daggegevens van het weer in Nederland
+| publisher = [[Royal Netherlands Meteorological Institute]]
+| access-date = January 12, 2023}}</ref> Infoclimat<ref>{{cite web
+| url = https://www.infoclimat.fr/climatologie/annee/1991/maastricht/valeurs/06380.html
+| title = Climatologie de l'année à Maastricht
+| publisher = Infoclimat
+| language = fr
+| access-date = 16 October 2023}}</ref>
+}}
+
+== Demographics ==
+
+=== Historical population ===
+{{Historical populations
+|title       = Historical population
+|align       = right
+|cols        = 
+|pop_name    = 
+|percentages = pagr
+|footnote    = 
+|source      = {{Harvnb|Lourens|Lucassen|1997|pp=32–33}} (1400-1795)<br />[[Statistics Netherlands]] (1970–2010)
+|1400|7000
+|1500|10000
+|1560|13500
+|1600|12600
+|1650|18000
+|1740|12500
+|1796|17963
+|1818|20000
+|1970|93927
+|1980|109285
+|1990|117008
+|2000|122070
+|2010|118533
+}}
+
+=== Inhabitants by nationality ===
+{| class="wikitable"
+|+Maastricht residents by nationality – Top 10 (2000–2021)
+! Nationality || 2021 || 2014<ref name=Nationality2014>{{cite journal | title = Bevolking; geslacht, leeftijd, nationaliteit en regio, 1 januari ''(in Dutch)'' | publisher = Centraal Bureau voor de Statistiek| journal = Bevolking; Geslacht, Leeftijd, Nationaliteit en Regio, 1 Januari | volume = 2014 | url = http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=70634ned&D1=0&D2=0&D3=a&D4=462&D5=4,9,14,16,l&HDR=T,G1,G4&STB=G3,G2&VW=T | page =1 | date = 24 October 2014 | access-date = 3 February 2015 }}</ref> || 2010 || 2000
+|-
+|{{flagicon|NED}} [[Netherlands]] || 100,297 || 107,418 || 109,722 || 116,171
+|-
+|{{flagicon|GER}} [[Germany]] || 3,908 || 3,869 || 1,956 || 783
+|-
+|{{flagicon|ITA}} [[Italy]] || 1,572 || 653 || 387 || 280
+|-
+|{{flagicon|BEL}} [[Belgium]] || 1,475 || 1,055 || 946 || 909
+|-
+|{{flagicon|ESP}} [[Spain]] || 913 || 431 || 232 || 241
+|-
+|{{flagicon|UK}} [[United Kingdom]] || 842 || 815 || 386 || 280
+|-
+|{{flagicon|PRC}} [[China]] || 739 || 595 || 248 || 87
+|-
+|{{flagicon|FRA}} [[France]] || 686 || 351 || 214 || 120
+|-
+|{{flagicon|USA}} [[United States]] || 665 || 623 || 277 || 162
+|-
+|{{flagicon|TUR}} [[Turkey]] || 436 || 404 || 368 || 404
+|-
+|}
+
+=== Inhabitants by country of birth ===
+{| class="wikitable"
+|+ Maastricht residents by country of birth – Top 10 (2000–2020)
+! Country of birth || 2020 || 2013<ref name=Countryofbirth2013>{{cite journal | title = Bevolking op 1 januari; leeftijd, geboorteland en regio ''(in Dutch)'' | publisher = Centraal Bureau voor de Statistiek| journal = Bevolking Op 1 Januari; Leeftijd, Geboorteland en Regio | volume = 201w | url = http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=70648ned&D1=0&D2=0&D3=a&D4=461&D5=4,14,l&HDR=T,G3&STB=G1,G2,G4&VW=T | page =1 | date = 17 July 2013 | access-date = 3 February 2015 }}</ref> || 2010 || 2000
+|-
+|{{flagicon|NED}} [[Netherlands]] || 93,162|| 100,269 || 102,433 || 109,632
+|-
+|{{flagicon|GER}} [[Germany]] || 3,949 || 4,100 || 2,467|| 1,444
+|-
+|{{flagicon|BEL}} [[Belgium]] || 2,355 || 1,920 || 1,839 || 1,900
+|-
+|{{flagicon|USA}} [[United States]] || 1,380 || 753 || 383 || 217
+|-
+|{{flagicon|IDN}} [[Indonesia]] || 1,020 || 1,199 || 1,267 || 1,556
+|-
+|{{flagicon|PRC}} [[China]] <small>(excl. Hong Kong and Macau)</small> || 1,019|| 651 || 373 || 215
+|-
+|{{flagicon|TUR}} [[Turkey]] || 973 || 919 || 836 || 784
+|-
+|{{flagicon|UK}} [[United Kingdom]] || 926 || 677 || 404 || 310
+|-
+|{{flagicon|MAR}} [[Morocco]] || 829 || 838 || 867 || 859
+|-
+|{{flagicon|POL}} [[Poland]] || 563 || 437 || 316 || 152
+|-
+|}
+
+=== Languages ===
+Maastricht is a city of linguistic diversity, partly as a result of its location at the crossroads of multiple language areas and its international student population.
+
+* [[Dutch language|Dutch]] is the national language and the language of elementary and secondary education (excluding international institutions) as well as administration. Dutch in Maastricht is often spoken with a distinctive Limburgish [[Accent (dialect)|accent]], which should not be confused with the Limburgish language.
+* [[Limburgish]] (or ''Limburgian'') is the overlapping term of the [[tonal languages|tonal]] dialects spoken in [[Limburg (Netherlands)|the Dutch]] and [[Limburg (Belgium)|the Belgian]] provinces of Limburg. The [[Maastrichtian dialect]] (''Mestreechs'') is only one of many variants of Limburgish. It is characterised by stretched [[vowel]]s and some French influence on its vocabulary. In recent years the Maastricht dialect has been in decline (see [[dialect levelling]]) and a language switch to Standard Dutch has been noted.<ref name="Dialect of Maastricht">{{cite web|title=The dialect of Maastricht |year=1999 |publisher=University of Nijmegen, Centre for Language Studies |url=http://www.let.kun.nl/gep/carlos/Maastrich2ipa.pdf |author1=Gussenhoven, C. |author2=Aarts, F. |name-list-style=amp |access-date=12 July 2009 |url-status=dead |archive-url=https://web.archive.org/web/20110612092141/http://www.let.kun.nl/gep/carlos/Maastrich2ipa.pdf |archive-date=12 June 2011 }}</ref>
+* [[French language|French]] used to be the language of education and culture in Maastricht. In the late 18th century the language gained a powerful position as the judicial and administrative language, and throughout the following century it was the preferred language of the upper classes. Between 1851 and 1892 a Francophone newspaper (''Le Courrier de la Meuse'') was published in Maastricht.<ref name="Kessels-van der Heijde">{{cite book |title=Maastricht, Maestricht, Mestreech |last=Kessels-van der Heijde |first=Maria |year=2002 |publisher=Uitgeverij Verloren |location=Hilversum, Netherlands |isbn= 9065507132|pages=11–12 |url=https://books.google.com/books?id=NP3deKbb9QoC&q=maastricht+tussen+1813+en+1830&pg=PA5|access-date=11 February 2012}}</ref> The language is often part of secondary school curricula. Many proper names are French and the language has left many traces in the local dialect.
+* [[German language|German]], like French, is often part of secondary school curricula. Due to Maastricht's geographic proximity to Germany and the great number of German students in the city, German is widely spoken.
+* [[English language|English]] has become an important language in education. At [[Maastricht University]] and [[Hogeschool Zuyd]] it is the language of instruction for many courses. Many foreign students and [[expatriates]] use English as a [[lingua franca]]. English is also a mandatory subject in Dutch secondary schools.
+
+=== Religion ===
+{{Pie chart
+|thumb = right
+|caption = Religions in Maastricht (2013)<ref>{{cite web|url=https://www.cbs.nl/nl-nl/maatwerk/2014/40/kerkelijkheid-en-kerkbezoek-2010-2013|publisher=Centraal Bureau voor de Statistiek|title=Kerkelijkheid en kerkbezoek, 2010/2013}}</ref>
+|label1 = [[Catholic Church|Roman Catholic]]
+|value1 = 60.1
+|color1 = DarkOrchid
+|label2 = [[Protestant Church in the Netherlands]]
+|value2 = 2.8
+|color2 = DodgerBlue
+|label3 = Other Christian denominations 
+|value3 = 2.2
+|color3 = Turquoise
+|label4 = [[Islam in the Netherlands|Islam]]
+|value4 = 3.3
+|color4 = Green
+|label5 = [[Hinduism]]
+|value5 = 0.1
+|color5 = Orange
+|label6 = [[Buddhism]]
+|value6 = 0.4
+|color6 = Yellow
+|label7 = [[Judaism]]
+|value7 = 0.2
+|color7 = Blue
+|label8 = [[Irreligion|No affiliation]]
+|value8 = 30.9
+|color8 = Honeydew
+}}
+In 2010–2014, 69.8% of the population of Maastricht regarded themselves as religious. 60.4% of the total population stated an affiliation with the Roman Catholic Church. 13.9% attended a religious ceremony at least once a month.<ref>[https://www.cbs.nl/nl-nl/maatwerk/2015/20/religie-en-kerkbezoek-naar-gemeente-2010-2014 'Religie en kerkbezoek naar gemeente 2010-2014'], on website ''cbs.nl'', 13 May 2015 (download Excel file).</ref>
+
+== Economy ==
+[[File:SintPietersbergWegLangsGroeve008.jpg|thumb|[[ENCI]] quarry]]
+[[File:RandwyckNoordKantoren07.jpg|thumb|Office park Randwyck-Noord]]
+
+=== Private companies based in Maastricht ===
+* [[Sappi]]&nbsp;– South African Pulp and Paper Industry
+* Royal Mosa&nbsp;– ceramic tiles
+* [[O-I Glass|O-I Manufacturing]]&nbsp;– previously Kristalunie Maastricht; glass
+* [[BASF]]&nbsp;– previously Ten Horn; pigments
+* [[Mondi]]&nbsp;– packaging
+* Rubber Resources/Elgi Rubber&nbsp;– previously [[Apollo Vredestein|Vredestein]]; rubber recycling
+* Radium Foams&nbsp;– [[Talalay process|Talalay]] products
+* [[Hewlett-Packard]]&nbsp;–e previously Indigo, manufacturer of electronic data systems
+* [[Vodafone]]&nbsp;– mobile phone company
+* [[Q-Park]]&nbsp;– international operator of parking garages
+* [[DHL Express|DHL]]&nbsp;– international express mail services
+* [[Teleperformance]]&nbsp;– contact center services
+* [[Mercedes-Benz]]&nbsp;– customer contact centre for Europe
+* VGZ&nbsp;– health insurance, customer contact centre
+* Pie Medical Imaging&nbsp;– cardiovascular quantitative analysis software
+* Esaote (formerly Pie Medical Equipment)&nbsp;– manufacturer of medical and veterinary diagnostic equipment
+* BioPartner Centre Maastricht&nbsp;– life sciences spin-off companies
+* [[Medtronic]]&nbsp;– medical devices, R&D center
+
+=== Public institutions ===
+[[File:Provincial Government Buildings on the Meuse.jpg|thumb|Provincial Government Buildings]]
+[[File:2017 Maastricht, EIPA 09.jpg|thumb|European Institute of Public Administration]]
+
+Since the 1980s, a number of European and international institutions have made Maastricht their base. They provide an increasing number of employment opportunities for [[Expatriate|expats]] living in the Maastricht area.
+* [[Administration (government)|Administration]] of the Dutch province of [[Limburg (Netherlands)|Limburg]]
+* [[Meuse-Rhine Euroregion]]
+* Limburg Development Company LIOF
+* RHCL and SHCL&nbsp;– archives of the province of Limburg
+* [[Eurocontrol]]&nbsp;– The European Organisation for the Safety of Air Navigation
+* [[European Journalism Centre]]
+* [[European Institute of Public Administration]] (EIPA)
+* [[European Centre for Development Policy Management (ECDPM)]]
+* European centre for work and society (ECWS)
+* Maastricht Centre for Transatlantic Studies (MCTS)
+* Expert Centre for Sustainable Business and Development Cooperation (ECSAD)
+* Council of European Municipalities and Regions (REGR)
+* European Centre for Digital Communication (EC/DC)
+* [[UNU-MERIT]]
+* Maastricht Research School of Economics of TEchnology and ORganization (METEOR)
+* Research Institute for Knowledge Systems (RIKS)
+* Cicero Foundation (CF)
+
+== Culture and tourism ==
+[[File:Maastricht 2008 OLV Wall.jpg|thumb|right|Medieval city wall (''Onze-Lieve-Vrouwewal'')]]
+[[File:FortStPieter57.jpg|thumb|View of Maastricht from the fortress on [[Mount Saint Peter]]]]
+[[File:Sint-Servaasbasiliek en Sint-Servaasbasiliek, Maastricht-40301.jpg|thumb|[[Vrijthof]] with Saint John's (left) and [[Basilica of Saint Servatius|Saint Servatius Basilica]]]]
+[[File:OLV-01 (cropped).jpg|thumb|View of [[Basilica of Our Lady, Maastricht|Our Lady's]] from the church tower of Saint John's]]
+[[File:Maastricht, kerstverlichting 2014, Onze-Lieve-Vrouweplein04.JPG|thumb|Christmas decorations at [[Onze Lieve Vrouweplein]]]]
+[[File:20130504 Maastricht 06 Stadhuis.JPG|thumb|Markt and town hall]]
+[[File:13th century Dominican church converted into a bookstore in Maastricht, the Netherlands.JPG|thumb|13th-century Dominican church converted into a bookstore]]
+[[File:2016 Maastricht, St-Pietersberg, Slavante 08.jpg|thumb|Slavante on the slopes of [[Mount Saint Peter]]]]
+[[File:20130504 Maastricht Céramique seen from West bank of the Meuse 01 Bonnefantenmuseum.JPG|thumb|The landmark tower of the [[Bonnefanten Museum]] on the east bank of the Meuse in [[Wyck, Maastricht|Wyck-Céramique]]]]
+[[File:2018 Bonnefantenmuseum, collectie Neutelings, zaaloverzicht 1.jpg|thumb|Medieval art in the [[Bonnefantenmuseum]]]]
+[[File:Arca di san servazio, legno, rame dorato, pietre preziose, gemme e smalti, 1160 ca. 01.jpg|thumb|Chest of Saint Servatius in the [[Treasury of the Basilica of Saint Servatius]]]]
+[[File:Maastricht-39e Diesviering in de St. Janskerk (Universiteit Maastricht) (5a).JPG|thumb|[[Maastricht University]] faculty on their way to the annual ''dies natalis'']]
+[[File:Maastricht, TEFAF2014-13.jpg|thumb|[[The European Fine Art Fair|TEFAF]], Maastricht's prestigious art fair]]
+[[File:10e internationale Reuzenstoet - Maastricht - 2 June 2019 - 34.jpg|thumb|Giants' Parade, 2019: Gigantius of Maastricht]]
+
+=== Sights of Maastricht ===
+Maastricht is known in the Netherlands and beyond for its lively squares, narrow streets, and historic buildings. The city has 1,677 national heritage buildings (''[[rijksmonument]]en''), more than any Dutch city outside Amsterdam. In addition to that there are 3,500 locally listed buildings (''gemeentelijke monumenten''). The entire city centre is a conservation area (''beschermd stadsgezicht'') and largely traffic-free. The tourist information office ([[Tourism in the Netherlands|VVV]]) is located in the basement of Dinghuis, a late-medieval courthouse overlooking Grote Staat.
+Maastricht's main sights include:
+* '''[[Meuse]] ({{langx|nl|Maas}}) river''', with several parks and promenades along the river, and some interesting bridges:
+** [[Sint Servaasbrug]], partly from the 13th century; the oldest bridge in the Netherlands;
+** [[Hoge Brug]] ("High Bridge"), a modern pedestrian bridge designed by René Greisch.
+* '''City fortifications''', including:
+** Remnants of the first and second medieval [[city wall]] and several towers (13th and 14th centuries);
+** Helpoort ("Hell's Gate"), an imposing gate with two towers, built around 1230, the oldest city gate in the Netherlands;
+** Wycker Waterpoort, a medieval gate in Wyck, used for accessing the city from the Meuse, demolished in the 19th century but rebuilt shortly afterwards;
+** Hoge Fronten (or: Linie van Du Moulin), remnants of 17th and 18th-century [[fortifications]], including a number of well-preserved [[bastions]], [[couvreface]]s, [[Lunette (fortification)|lunettes]] and dry [[moat]]s;
+** Fort Sint-Pieter, an early 18th-century [[fortress]] on the flanks of [[Mount Saint Peter]], offering guided tours and panoramic views of the city; and Fort Willem I, an early 19th-century fortress on the Caberg elevation;
+** [[Casemate]]s, an underground network of tunnels, built as sheltered emplacements for guns and cannons. These connected tunnels built of brick and limestone run for around fourteen kilometres underneath the city's fortifications. Guided tours are available.
+* '''Binnenstad''': inner-city pedestrianized district with popular shopping streets Grote and Kleine Staat, high-end shopping streets Stokstraat and Maastrichter Smedenstraat, and two indoor shopping centres. Several main sights in Maastricht as well as a large number of cafés, pubs and restaurants are centred around the three main squares in Binnenstad:
+** [[Vrijthof]], the largest and possibly best-known square in Maastricht, with many well-known pubs and restaurants. Other sights include:
+*** [[Basilica of Saint Servatius]], a predominantly Romanesque church with an imposing [[westwork]] and important 12th and 13th-century sculptures; most notably the westwork interior figurative [[Capital (architecture)|capitals]], the westwork [[reredo]], and the sculpted South Portal. The tomb of [[Saint Servatius]] in the crypt is a favoured place of [[Christian pilgrimage|pilgrimage]]. The church has an important [[Treasury of the Basilica of Saint Servatius|church treasury]];
+*** [[Saint John Church (Maastricht)|Sint-Janskerk]], a Gothic church dedicated to [[Saint John the Baptist]], the city's main Protestant church since 1632, adjacent to the Basilica of Saint Servatius, with a distinctive limestone tower painted red;
+*** Spaans Gouvernement ("Spanish Government Building"), a 16th-century former canon's house, later used as a residence for the [[Duchy of Brabant|Brabant]] and [[Habsburg Netherlands|Habsburg]] rulers, now housing the [[Fotomuseum aan het Vrijthof]];
+*** Hoofdwacht, an 18th-century military guard house, built in the style of the [[Dutch Baroque architecture|Dutch Baroque]], used for exhibitions;
+*** Generaalshuis ("General's House"), a [[Neoclassical architecture|Neoclassical]] mansion, now the city's main theater (Theater aan het Vrijthof).
+** [[Onze Lieve Vrouweplein]], a tree-lined square with a number of pavement cafes. Main sights:
+*** [[Basilica of Our Lady, Maastricht|Basilica of Our Lady]], a partly 11th-century church, one of the Netherlands' most significant Romanesque buildings with an imposing Mosan westwork and an important [[church treasury]]. Perhaps best known for the shrine of [[Our Lady, Star of the Sea]] in an adjacent Gothic chapel;
+*** Derlon Museumkelder, a permanent exhibition of ancient Roman remains in the basement of Hotel Derlon.
+** Markt, the town's historic market square. Sights include:
+*** The [[Maastricht City Hall|Town Hall]], built in the 17th century by [[Pieter Post]] and considered one of the highlights of [[Dutch Baroque architecture]]. Nearby is Dinghuis, the late medieval town hall and courthouse with an early [[Renaissance in the Low Countries|Renaissance]] façade;
+*** Mosae Forum, a shopping centre and civic building designed by [[Jo Coenen]] and [[Bruno Albert]] in the early 2000s. Inside the Mosae Forum parking garage there is a small exhibition of [[Citroën]] miniature cars;
+*** Entre Deux, a rebuilt shopping centre in [[Postmodern architecture|Postmodern style]], which has won several international awards.<ref>{{cite web|url=http://www.entredeux.nl/ |title=Entre Deux |publisher=Entredeux.nl |access-date=23 May 2012}}</ref> It includes a bookstore located inside a former 13th-century Dominican church. In 2008, British newspaper ''[[The Guardian]]'' proclaimed this the world's most beautiful bookshop.<ref>{{cite news|url=https://www.theguardian.com/books/2008/jan/11/bestukbookshops |title=Top shelves |newspaper=The Guardian |date= 3 March 2008|access-date=23 May 2012 |location=London}}</ref>
+* '''[[Jekerkwartier]]''', a neighbourhood named after the small river [[Jeker]], which pops up between old houses and remnants of city walls. The western part of the neighbourhood (named the Maastricht [[Latin Quarter, Paris|Latin Quarter]]) is dominated by university buildings and (performing) arts schools. Sights include:
+** several churches and monasteries: the 13th-century First Franciscan Monastery, the 17th-century "Veiled Sisters" and Bonnefanten monasteries, and the 18th-century Second Franciscan Monastery and Walloon and Lutheran churches;
+** [[Maastricht Natural History Museum]], a small museum of natural history in a former monastery;
+** Grote Looiersstraat ("Great Tanners' Street"), a former canal that was filled in during the 19th century, lined with elegant houses, the city's [[poorhouse]] (now part of the university library) and Sint-Maartenshofje, a typically Dutch [[hofje]].
+* '''Kommelkwartier''', '''Statenkwartier''' and '''[[Boschstraatkwartier]]''', three relatively quiet inner city neighbourhoods with several monasteries, university buildings and industrial heritage building:
+** [[Crosier Monastery, Maastricht|Crosier Monastery]] in Kommelkwartier, a well-preserved Gothic monastery, now a five-star hotel;
+** Sint-Matthiaskerk, a 14th-century parish church dedicated to [[Matthew the Apostle|Saint Matthew]];
+** Sphinx Quarter, an upcoming neighbourhood and cultural hotspot in the north of the city centre. Several of the industrial buildings of the former Sphinx glass, crystal and ceramics factories have been transformed for new uses;
+** Bassin, a restored early 19th-century inner harbor surrounded by industrial heritage buildings, re-used as cultural venues, bars and restaurants.
+* '''[[Wyck, Maastricht|Wyck]]''', the old quarter on the right bank of the river Meuse.
+** Saint Martin's Church, a [[Gothic Revival architecture|Gothic Revival]] church designed by [[Pierre Cuypers]] in 1856;
+** Rechtstraat and Hoogbrugstraat are the oldest streets in Wyck with many historic buildings and a mix of specialty shops, art galleries and restaurants;
+** Stationsstraat and Wycker Brugstraat are elegant streets with the majority of the buildings dating from the late 19th century. At the east end of Stationsstraat stands the [[Maastricht railway station]] from 1913.
+* '''Céramique''', a modern neighbourhood on the site of the former Société Céramique potteries, including a park along the river Meuse (Charles Eyckpark) and a showcase of architectural highlights:
+** Wiebengahal, one of the few remaining industrial buildings in the neighbourhood and an early example of [[Modern architecture|modernist architecture]] in the Netherlands, dating from 1912;
+** [[Bonnefanten Museum]] by [[Aldo Rossi]], featuring a landmark rocket-shaped tower;
+** Centre Céramique, a public library and exhibition space by [[Jo Coenen]];
+** La Fortezza, a red brick office and apartment building by [[Mario Botta]];
+** Siza Tower, a residential tower clad with zinc and white marble, by [[Álvaro Siza Vieira]];
+** Other buildings in Céramique by [[MBM (architecture firm)|MBM]], [[Cruz y Ortiz]], [[Luigi Snozzi]], [[Aurelio Galfetti]], [[Herman Hertzberger]], [[Wiel Arets]], [[Hubert-Jan Henket]], [[Charles Vandenhove]] and [[Bob Van Reeth]].
+* '''[[Mount Saint Peter|Sint-Pietersberg]]''' ("Mount Saint Peter"): modest hill and nature reserve south of the city, peaking at {{convert|171|m|0}} [[Above mean sea level|above sea level]]. It serves as Maastricht's main recreation area and a viewing point. The main sights include:
+** Fort Sint-Pieter, an early 18th-century military fortress fully restored in recent years;
+** [[Caves of Maastricht]] aka ''Grotten Sint-Pietersberg'', an underground network of man-made tunnels ("caves") in limestone quarries. Guided tours are available;
+** ENCI Quarry: a former quarry and nature reserve with several lakes, accessible via a spectacular staircase with viewing platforms;
+** Slavante, a 19th-century former gentlemen's club on the site of a Franciscan monastery (of which parts are still standing), now a popular hang-out, offering panoramic views over the Meuse valley;
+** Lichtenberg, a ruined medieval castle keep and an adjacent 18th-century farmstead;
+** D'n Observant ("The Observer"), an artificial hilltop, made with the spoils of a nearby quarry, now a nature reserve.
+
+=== Museums in Maastricht ===
+* [[Bonnefanten Museum]] is the foremost museum for old masters and contemporary fine art in the province of Limburg. The collection features medieval sculpture ([[The Virgin and Child with St. Anne (van Steffeswert)|The Virgin and Child with St. Anne]]), early Italian painting ([[Giovanni del Biondo]], [[Domenico di Michelino]], [[Jacopo del Casentino]], [[Sano di Pietro]], [[Pietro Nelli]]), [[Southern Netherlands|Southern Netherlandish]] and German Renaissance painting ([[Colijn de Coter]], [[Roelandt Savery]], [[Pieter Coecke van Aelst]], [[Pieter Brueghel the Younger]], [[Lucas Cranach the Elder]]), and contemporary art ([[Sol LeWitt]], [[Robert Mangold]], [[Richard Serra]], [[Luciano Fabro]], [[Marcel Broodthaers]], [[Joseph Beuys]], [[Neo Rauch]], [[Gilbert and George]], [[Peter Doig]], [[Gary Hume]], [[Grayson Perry]], [[Luc Tuymans]], [[Ai Weiwei]]).
+* The [[Treasury of the Basilica of Saint Servatius]] includes religious artifacts from the 4th to 20th centuries, notably those related to [[Saint Servatius]]. Highlights include the [[shrine]], the key and the [[crosier]] of Saint Servatius, and the reliquary bust donated by [[Alexander Farnese, Duke of Parma]].
+* The [[Basilica of Our Lady, Maastricht#Treasury Basilica of Our Lady|Treasury of the Basilica of Our Lady]] contains religious art, textiles, reliquaries, liturgical vessels and other artifacts from the Middle Ages and later periods.
+* Derlon Museumkelder is a preserved archeological site in the basement of a hotel with Roman and pre-Roman remains.
+* The [[Maastricht Natural History Museum]] exhibits collections relating to the [[geology]], [[paleontology]] and [[flora]] and [[fauna]] of [[Limburg (Netherlands)|Limburg]]. Highlights in the collection are several fragment of skeletons of [[Mosasaur]]s found in a quarry in [[Mount Saint Peter]].
+* [[Fotomuseum aan het Vrijthof]] is a local museum of photography housed in the 16th-century Spanish Government building, featuring some period rooms and temporary exhibitions of photographers.
+
+=== Events and festivals ===
+* ''Dies natalis'', birthday of the [[University of Maastricht]], with procession of university faculty to St. John's Church where [[honorary degree]]s are awarded (9 January).
+* [[Carnival]] ([[Maastrichtian dialect|Maastrichtian]]: ''Vastelaovend'') - a traditional three-day festival in the southern part of the Netherlands; in Maastricht mainly outdoors with typical ''[[Zaate Herremenie]]kes'' (February/March).
+* [[The European Fine Art Fair]] (TEFAF), the world's leading art and antiques fair (March).
+* Tattoo Expo Maastricht, an anunual international tattoo exhibition (March).
+* [[Amstel Gold Race]], an international cycling race which starts in Maastricht (usually April).
+* [[KunstTour]], an annual art festival (May).
+* European Model United Nations (EuroMUN), an annual international conference (May).
+* ''Stadsprocessie'', religious [[procession]] with reliquaries of [[Servatius of Tongeren|Saint Servatius]] and other local saints (first Sunday after 13 May).
+* [[Pilgrimage of the Relics, Maastricht|Pilgrimage of the Relics]] (Dutch: ''Heiligdomsvaart''), [[Christian pilgrimage|pilgrimage]] with relics display and processions dating from the Middle Ages (May/June; once in 7 years; next: 2025).
+* Giants' Parade (Dutch: ''Reuzenstoet''), parade of [[Processional giants and dragons in Belgium and France|processional giants]], mainly from Belgium and France (June; once in 5 years; next: 2024).
+* ''Maastrichts Mooiste'', an annual running and walking event (June).
+* [[Fashionclash]], international fashion event throughout the city (June).
+* [[Vrijthof]] concerts by [[André Rieu]] and the [[Johann Strauss Orchestra]] (July/August).
+* ''Preuvenemint'', a large culinary event held on the Vrijthof square (August).
+* ''Inkom'', the traditional opening of the academic year and introduction for new students of Maastricht University (August).
+* [[Musica Sacra (Maastricht)|Musica Sacra]], a festival of religious (classical) music (September).
+* ''Nederlandse Dansdagen'' (Netherlands Dance Days), a modern dance festival (October).
+* Jazz Maastricht, a [[jazz festival]] formerly known as Jeker Jazz (autumn).
+* ''11de van de 11de'' (the 11th of the 11th), the official start of the carnival season (11 November).
+* Jumping Indoor Maastricht, an international ''concours hippique'' ([[showjumping]]) (November).
+* Magic Maastricht (''Magisch Maastricht''), a winter-themed funfair and Christmas market held on Vrijthof square and other locations throughout the city (December/January).
+Furthermore, the Maastricht Exposition and Congress Centre (MECC) hosts many events throughout the year.
+
+== Nature ==
+[[File:Maastricht.jpg|thumb|A pond in ''Stadspark'', Maastricht's main park]]
+[[File:20130504 Maastricht Céramique 09 Charles Eyckpark.JPG|thumb|Relaxing in Charles Eyckpark]]
+[[File:SintPietersbergSchaapskudde007.jpg|thumb|Sheep on [[Mount Saint Peter]]]]
+[[File:Jekerdal met Wijngaarden.jpg|thumb|Jeker valley with vineyards]]
+
+=== Parks ===
+There are several city parks and recreational areas in Maastricht:<ref>{{cite web|url=http://commons.wikimedia.org/wiki/Category:Parks_in_Maastricht|title=Category:Parks in Maastricht - Wikimedia Commons|website=commons.wikimedia.org}}</ref>
+* Stadspark, the main public park in Maastricht, partly 19th-century, with remnants of the medieval city walls, a branch of the [[Jeker]] river, a mini-zoo and several public sculptures (e.g. the statue of [[d'Artagnan]] in Aldenhofpark, a 20th-century extension of Stadspark). Other extensions of the park are called Kempland, Henri Hermanspark, Monseigneur Nolenspark and Waldeckpark. From 2014 onwards, the grounds of the former Tapijn military barracks will be gradually added to the park;
+* Jekerpark, a new park along the river Jeker, separated from Stadspark by a busy road;
+* Frontenpark, a new park west of the city centre, incorporating parts of the [[fortifications]] of Maastricht from the 17th to 19th centuries;
+* Charles Eykpark, a modern park between the public library and [[Bonnefanten Museum]] on the east bank of the Meuse river, designed in the late 1990s by Swedish landscape architect [[Gunnar Martinsson]].
+* Griendpark, a modern park on the east bank of the river with an inline-skating and skateboarding course.
+* Geusseltpark in eastern Maastricht and J.J. van de Vennepark in western Maastricht, both with elaborate sports facilities.
+
+=== Natural areas ===
+* The Meuse river and its green banks in outlying areas. In the northern areas around [[Itteren]] and [[Borgharen]] 'new nature' is being created in combination with river protection measures and gravel mining.<ref>{{cite web|url=http://commons.wikimedia.org/wiki/Category:Meuse_River_in_Maastricht|title=Category:Meuse River in Maastricht - Wikimedia Commons|website=commons.wikimedia.org}}</ref>
+* Pietersplas, an artificial lake between Maastricht and [[Gronsveld]] that was the result of gravel pits on the banks of the Meuse river. There is a beach on the northern slope of the lake and a [[marina]] near Castle Hoogenweerth. The eastern riverbed between Pietersplas and the provincial government building is a nature reserve (Kleine Weerd).
+* The Jeker Valley, along the river [[Jeker]], starts near the city centre in Stadspark and leads via Jekerpark to an area with green meadows, fertile fields, some vineyards on the slopes of Cannerberg, several water mills and [[Château Neercanne]], and continues further south into Belgium.
+* The green flanks of [[Mount Saint Peter]], including many footpaths.<ref>{{cite web|url=http://commons.wikimedia.org/wiki/Category:Sint_Pietersberg|title=Category:Sint Pietersberg - Wikimedia Commons|website=commons.wikimedia.org}}</ref> 
+* Dousberg and Zouwdal, a modest hill and valley surrounded by urban development on the western edge of the city, partly in Belgium. A large part of the hill is now in use as an international golf course (Golfclub Maastricht).<ref>{{cite web|url=http://commons.wikimedia.org/wiki/Category:Dousberg|title=Category:Dousberg - Wikimedia Commons|website=commons.wikimedia.org}}</ref>
+* Landgoederenzone, an extended area in the northeast of Maastricht (partly in [[Meerssen]]) consisting of around fifteen country estates, such as Severen, Geusselt, Bethlehem, Mariënwaard, Kruisdonk, Vaeshartelt, Meerssenhoven, [[Borgharen]] and Hartelstein. Some of the castles, villas and stately homes are surrounded by industrial areas or quarries.
+* Bike paths through agricultural areas in several outlying quarters (like "Biesland" and "Wolder").
+
+== Sports ==
+[[File:2018 Maastricht, Zuid-Willemsvaart 13.jpg|thumb|Student rowing club MSRV Saurus in [[Zuid-Willemsvaart]]]]
+* In [[association football|football]], Maastricht is represented by [[MVV Maastricht]] (Dutch: ''Maatschappelijke Voetbal Vereniging Maastricht''), who (as of the 2016–2017 season) play in the Dutch first division of the national competition (which is the second league after the [[Eredivisie]] league). MVV's home is the [[De Geusselt|Geusselt]] stadium near the A2 highway.
+* Maastricht is also home to the [[Maastricht Wildcats]], an American Football League team and member of the AFBN ([[American Football Bond Nederland]]).
+* Since 1998, Maastricht has been the traditional starting place of the annual [[Amstel Gold Race]], the only Dutch cycling classic. For several years the race also finished in Maastricht, but since 2002 the finale has been in the municipality of [[Valkenburg aan de Geul|Valkenburg]]. [[Tom Dumoulin]] was born in Maastricht.
+* Since 2000, Maastricht has been the first city in the Netherlands with a [[Lacrosse]] team. The Student Sport Association "Maaslax" is closely linked to Maastricht University and a member of the NLB ([[Dutch Lacrosse Association|Nederlandse Lacrosse Bond]]).
+
+== Politics ==
+=== City council ===
+{| class="wikitable" style="float:right;"
+! style="background-color:#E9E9E9;text-align:left;vertical-align:top;" |Parties
+! style="background-color:#E9E9E9;text-align:right;vertical-align:top;" |2014<br/><ref>{{Cite web |date=19 March 2014 |title=Maastricht municipal election 2014 |url=https://www.verkiezingsuitslagen.nl/verkiezingen/detail/GR20140319/656429|access-date=28 April 2024|website=www.verkiezingsuitslagen.nl|language=nl}}</ref>
+! style="background-color:#E9E9E9;text-align:right;vertical-align:top;" |2018<br/><ref>{{Cite web |date=21 March 2018 |title=Maastricht municipal election 2018 |url=https://www.verkiezingsuitslagen.nl/verkiezingen/detail/GR20180321/671841|access-date=28 April 2024|website=www.verkiezingsuitslagen.nl|language=nl}}</ref>
+! style="background-color:#E9E9E9;text-align:right;vertical-align:top;" |2022<br/><ref>{{Cite web |date=16 March 2022 |title=Maastricht municipal election 2022 |url=https://www.verkiezingsuitslagen.nl/verkiezingen/detail/GR20220316/731250|access-date=28 April 2024|website=www.verkiezingsuitslagen.nl|language=nl}}</ref>
+|-
+| style="text-align:left;" |Senioren Partij Maastricht (SPM)
+| 6
+| 5
+| 5
+|-
+| style="text-align:left;" |[[Christian Democratic Appeal|CDA]]
+| 5
+| 5
+| 4
+|-
+| style="text-align:left;" |[[Democrats 66|D66]]
+| 5
+| 5
+| 4
+|-
+| style="text-align:left;" |[[GroenLinks]]
+| 4
+| 5
+| 4
+|-
+| style="text-align:left;" |[[Labour Party (Netherlands)|PvdA]]
+| 5
+| 3
+| 4
+|-
+| style="text-align:left;" |[[People's Party for Freedom and Democracy|VVD]]
+| 3
+| 3
+| 3
+|-
+| style="text-align:left;" |Partij Veilig Maastricht
+| 3
+| 3
+| 3
+|-
+| style="text-align:left;" |[[Socialist Party (Netherlands)|SP]]
+| 5
+| 3
+| 2
+|-
+| style="text-align:left;" |[[Party for the Animals]] (PvdD) 
+| –
+| –
+| 2
+|-
+| style="text-align:left;" |[[Volt Netherlands|Volt]]
+| –
+| –
+| 2
+|-
+| style="text-align:left;" |[[Party for Freedom]] (PVV)
+| –
+| 2
+| 1
+|-
+| style="text-align:left;" |Liberale Partij Maastricht (LPM)
+| 1
+| 1
+| 1
+|-
+| style="text-align:left;" |[[50PLUS]] (50+)
+| –
+| 1
+| 1
+|-
+| style="text-align:left;" |Sociaal Actieve Burgerpartij (SAB)
+| –
+| 1
+| 1
+|-
+| style="text-align:left;" |M:OED
+| –
+| 2
+| 1
+|-
+| style="text-align:left;" |[[Forum for Democracy]] (FvD)
+| –
+| –
+| 1
+|-
+| style="text-align:left;" |Stadsbelangen Mestreech (SBM)
+| 1
+| –
+| –
+|-
+| style="text-align:left;" |Christelijke Volkspartij (Maastricht)
+| 1
+| –
+| –
+|-
+!style="text-align:left;background-color:#E9E9E9"|Total
+!style="background-color:#E9E9E9"| 39
+!style="background-color:#E9E9E9"| 39
+!style="background-color:#E9E9E9"| 39
+|}
+
+The municipal government of Maastricht consists of a [[city council]], a [[mayor]] and a number of [[aldermen]]. The city council, a 39-member legislative body directly [[2022 Dutch municipal elections|elected]] every four years, appoints the aldermen on the basis of a coalition agreement between two or more parties after each election.
+
+=== Aldermen and mayors ===
+The mayor and aldermen make up the executive branch of the municipal government. 
+
+The mayor from 2002, [[Gerd Leers]] ([[Christian Democratic Appeal|CDA]]), resigned in January 2010 following allegations of irregularities in a holiday villa project in Bulgaria owned by Leers.<ref>{{cite news |title=Maastrichtse burgemeester Leers stapt op |url=http://www.nu.nl/politiek/2161977/maastrichtse-burgemeester-leers-stapt.html |newspaper=[[NU.nl]] |date=14 January 2010 |agency=[[Algemeen Nederlands Persbureau|ANP]] |language=nl |trans-title=Maastricht mayor Leers resigns}}</ref> He was replaced by [[Onno Hoes]], a Liberal ([[People's Party for Freedom and Democracy|VVD]]), the only male mayor in the country officially married to a man. In 2013 Hoes was subject to controversy after disclosures of intimate affairs with several other men, although he remained mayor.<ref>{{cite web|url=https://www.telegraaf.nl/nieuws/1021705/onno-hoes-mag-blijven|title=Onno Hoes mag blijven|date=19 December 2013|website=Telegraaf|access-date=3 January 2019|archive-date=3 January 2019|archive-url=https://web.archive.org/web/20190103210455/https://www.telegraaf.nl/nieuws/1021705/onno-hoes-mag-blijven|url-status=dead}}</ref> After a new affair in 2014, Hoes eventually stepped down.<ref>Grindstad, Ingrid. [http://www.nltimes.nl/2014/12/10/maastricht-mayor-hoes-resigns-amidst-sex-smear-campaign/ "Maastricht mayor Hoes resigns amidst sex smear campaign"], ''NL Times'', Amsterdam, 10 December 2014. Retrieved on 10 December 2014.</ref>
+
+From July 2015, [[Annemarie Penn-te Strake]] became mayor.<ref>{{cite web|url=http://www.1limburg.nl/annemarie-penn-geinstalleerd-als-burgemeester-maastricht|title=Annemarie Penn geïnstalleerd als burgemeester Maastricht|date=1 July 2015|access-date=3 July 2015|archive-date=3 July 2015|archive-url=https://web.archive.org/web/20150703164227/http://www.1limburg.nl/annemarie-penn-geinstalleerd-als-burgemeester-maastricht|url-status=dead}}</ref> She was an independent serving no political party, although her husband was a former chairman<ref name="1lim_Olaf">{{Cite web | title = Olaf Penn stopt bij Senioren Partij Maastricht | work = 1Limburg | date = 23 April 2015 | access-date = 5 February 2017 | url = https://www.1limburg.nl/olaf-penn-stopt-bij-senioren-partij-maastricht | archive-date = 6 February 2017 | archive-url = https://web.archive.org/web/20170206175838/https://www.1limburg.nl/olaf-penn-stopt-bij-senioren-partij-maastricht | url-status = dead }}</ref> of the Maastricht Seniorenpartij.<ref>{{cite web|url=http://www.nu.nl/binnenland/4036864/annemarie-penn-nieuwe-burgemeester-maastricht.html|title=Annemarie Penn nieuwe burgemeester Maastricht - NU - Het laatste nieuws het eerst op NU.nl|website=www.nu.nl|date=23 April 2015}}</ref> She had served in the Dutch judicial system for many years, and during her tenure as mayor she still served as attorney general.<ref>{{cite web|url=https://www.om.nl/organisatie/procureurs-generaal/mr-penn-strake/|title=Mr. J.M. Penn-te Strake - Openbaar Ministerie|date=3 July 2015|url-status=dead|archive-url=https://web.archive.org/web/20150703075229/https://www.om.nl/organisatie/procureurs-generaal/mr-penn-strake/|archive-date=3 July 2015}}</ref> In July 2023 Wim Hillenaar [[Christian Democratic Appeal|(CDA)]] took over as mayor.<ref>{{Cite web |date=9 June 2023|title=Benoeming burgemeester Maastricht |url=https://archief28.sitearchief.nl/archives/sitearchief/20180223220341/https://www.rijksoverheid.nl/actueel/nieuws/2023/06/09/benoeming-burgemeester-maastricht|access-date=28 April 2024|website=rijksoverheid.nl/|language=nl}}</ref>
+
+=== Cannabis ===
+One controversial issue which dominated Maastricht politics for many years was the city's approach to soft drugs. Under the [[Drug policy of the Netherlands|Dutch soft drug policy]], individuals may buy [[cannabis (drug)|cannabis]] from [[Cannabis coffee shop|'coffeeshops']] under certain conditions. From the 1980s, Maastricht saw a growing influx of '[[drug tourism|drug tourists]]', mainly from neighbouring Belgium, France and Germany. The city government attempted to reduce negative side effects, including illegal sale of hard drugs in the city centre and anti-social behaviour.
+[[File:2018 Maastricht, Maaspromenade, coffeeshop boten 2.jpg|thumb|Two [[Cannabis coffee shop|'coffeeshop']] boats at Maasboulevard]]
+A 2008 proposal to relocate the coffeeshops to the outskirts of the city<ref>{{cite news|first=Marlise |last=Simons |year=2018 |url=https://www.nytimes.com/2006/08/20/world/cannabis-cafes-get-nudge-to-fringes-of-a-dutch-city.html |title=Cannabis Cafes Get Nudge to Fringes of a Dutch City|work=[[The New York Times]], 20 August 2006|accessdate=6 May 2024}}</ref> was opposed by neighbouring municipalities (some in Belgium) and by the Dutch and Belgian parliaments. In December 2010, a Maastricht law to restrict entry to coffeeshops to local residents was upheld by the [[Court of Justice of the European Union]],<ref>{{cite web |publisher=Court of Justice of the European Union |url=http://curia.europa.eu/jurisp/cgi-bin/gettext.pl?where=&lang=en&num=79898783C19090137&doc=T&ouvert=T&seance=ARRET |title=Marc Michel Josemans v. Burgemeester van Maastricht, case C‑137/09 |date=16 December 2010 |archive-url=https://archive.today/20120712215326/http://curia.europa.eu/jurisp/cgi-bin/gettext.pl?where=&lang=en&num=79898783C19090137&doc=T&ouvert=T&seance=ARRET |archive-date=12 July 2012 |url-status=dead }}</ref> with the Dutch government introducing a similar national law in 2012.<ref>{{cite web |url=http://www.rnw.nl/english/video/weed-pass-sparks-new-problems |archive-url=https://web.archive.org/web/20121020144225/http://www.rnw.nl/english/video/weed-pass-sparks-new-problems |url-status=dead |archive-date=20 October 2012 |title=Weed pass sparks new problems |website=[[Radio Netherlands Worldwide]] |accessdate=6 May 2024}}{{webarchive|url=https://web.archive.org/web/20121020144225/http://www.rnw.nl/english/video/weed-pass-sparks-new-problems}}</ref> The new system led to a reduction in drug tourism in Maastricht's cannabis shops, but an increase in drug dealing on the streets.<ref>{{cite news|author=Theo Sniekers|url=https://web.archive.org/web/20180819114908/https://www.limburger.nl/cnt/dmf20170723_00043928/vier-limburgse-steden-in-landelijke-top-6-qua-drugsoverlast |title=Vier Limburgse steden in landelijke top 6 qua drugsoverlast'] |work=limburger.nl|date=24 July 2017|language=nl|access-date=28 April 2024}}</ref> A 2018 Maastricht University study showed a substantial decline in drug nuisance since 2012, although criminal drug networks had grown due to police budget cuts.<ref>{{cite news|author=Pascale Thewissen |year=2018|url=https://web.archive.org/web/20181004225823/https://www.limburger.nl/cnt/dmf20181003_00075435/meer-zicht-krijgen-op-georganiseerde-drugsnetwerken |title=Meer zicht krijgen op georganiseerde drugsnetwerken|work=limburger.nl |date=4 October 2018|language=nl|access-date=28 April 2024}}</ref>
+
+== Transport ==
+[[File:2019 Maastricht, Europaplein (3).jpg|thumb|[[A2 motorway (Netherlands)|A2 motorway]] and Koning Willem-Alexandertunnel]]
+[[File:2010.07.20.155053 Bahnhof Maastricht.jpg|thumb|[[Maastricht railway station|Maastricht main railway station]]]]
+[[File:20190707 maastricht068a.jpg|thumb|[[Arriva#Netherlands|Arriva]] bus at Boschstraat]]
+[[File:Maastricht AachenAirport Terminal.jpg|thumb|[[Maastricht Aachen Airport]]]]
+
+=== By car ===
+Maastricht is served by the [[A2 motorway (Netherlands)|A2]] and [[A79 motorway (Netherlands)|A79]] motorways. The city can be reached from [[Brussels]] and [[Cologne]] in approximately one hour and from [[Amsterdam]] in about two and a half hours.
+
+The A2 motorway runs through Maastricht in a double-decked tunnel. Before 2016, the A2 motorway ran through the city; heavily congested, it caused air pollution in the urban area. Construction of a two-level tunnel designed to solve these problems started in 2011 and was opened (in stages) by December 2016.<ref>{{cite web|url=http://www.a2maastricht.nl/page.aspx?id=334|title=A2maastricht.nl - Homepage A2 Maastricht|website=www.a2maastricht.nl|access-date=31 July 2010|archive-url=https://web.archive.org/web/20100503054342/http://www.a2maastricht.nl/page.aspx?id=334|archive-date=3 May 2010|url-status=dead}}</ref>
+
+In spite of several large underground car parks, parking in the city centre forms a major problem during weekends and bank holidays because of the large numbers of visitors. Parking fees are deliberately high to encourage visitors to use public transport or [[park and ride]] facilities away from the centre.
+
+=== By train ===
+Maastricht is served by three rail operators, all of which call at the main [[Maastricht railway station]] near the centre and two of which call at the smaller [[Maastricht Randwyck railway station|Maastricht Randwyck]], near the business and university district. Only Arriva also calls at [[Maastricht Noord railway station|Maastricht Noord]], which opened in 2013. Intercity trains northwards to [[Amsterdam]], [[Eindhoven]], [['s-Hertogenbosch|Den Bosch]] and [[Utrecht (city)|Utrecht]] are operated by [[Nederlandse Spoorwegen|Dutch Railways]]. The line to [[Heerlen]], [[Valkenburg aan de Geul|Valkenburg]] and [[Kerkrade]] is operated by [[Arriva]]. The [[National Railway Company of Belgium]] runs south to [[Liège]] in [[Belgium]]. The westbound railway to [[Hasselt]] (Belgium) closed in 1954. The former railway to [[Aachen]] was closed down in the 1980s. However, Aachen can still be reached via Heerlen.
+
+=== By bus ===
+Regular bus lines connect the city centre, outer areas, business districts and railway stations. The regional [[Arriva#Netherlands|Arriva]] bus network extends to most parts of [[South Limburg (Netherlands)|South Limburg]] and [[Aachen]] (Germany). Regional buses by [[De Lijn]] connect Maastricht with [[Hasselt]], [[Tongeren]] and [[Maasmechelen]], and one bus connects Maastricht with [[Liège]], operated by [[Société Régionale Wallonne du Transport|TEC]]. Various bus companies such as [[Flixbus]] and [[Eurolines]] provide [[intercity bus service]]s from Maastricht to many European destinations.
+
+=== By air ===
+Maastricht is served by the nearby [[Maastricht Aachen Airport]] {{airport codes|MST|EHBK}}, in nearby [[Beek]], and it is informally referred to by that name. The airport is located about {{convert|10|km|0|abbr=off}} north of the city centre. The airport is served by [[Corendon Dutch Airlines]] and [[Ryanair]] which operate scheduled flights to destinations around the Mediterranean, the Canary Islands, North-Africa and also [[London Stansted Airport]] from March 2022. There are also charter flights to [[Lourdes]] which are operated by [[Enter Air]].
+
+=== By boat ===
+Maastricht has a river [[port]] (''Beatrixhaven'') and is connected by water with [[Belgium]] and the rest of the Netherlands through the river [[Meuse]], the [[Juliana Canal]], the [[Albert Canal]] and the [[Zuid-Willemsvaart]]. Although there are no regular boat connections to other cities, various organized boat trips for tourists connect Maastricht with Belgium cities such as [[Liège]].
+
+=== Distances to other cities ===
+These distances are [[as the crow flies]] and so do not represent actual overland distances.
+
+{{div col|colwidth=20em}}
+*{{flagicon|BEL}} [[Liège]]: {{convert|25.5|km|1|abbr=on}} south
+*{{flagicon|GER}} [[Aachen]]: {{convert|31.0|km|1|abbr=on}} east
+*{{flagicon|NLD}} [[Eindhoven]]: {{convert|66.8|km|1|abbr=on}} north-west
+*{{flagicon|GER}} [[Düsseldorf]]: {{convert|86.2|km|1|abbr=on}} north-east
+*{{flagicon|GER}} [[Cologne]]: {{convert|89.6|km|1|abbr=on}} east
+*{{flagicon|BEL}} [[Brussels]]: {{convert|95.1|km|1|abbr=on}} west
+*{{flagicon|BEL}} [[Antwerp]]: {{convert|97.8|km|1|abbr=on}} north-west
+*{{flagicon|GER}} [[Bonn]]: {{convert|99.9|km|1|abbr=on}} south-east
+*{{flagicon|BEL}} [[Charleroi]]: {{convert|102.1|km|1|abbr=on}} south-west
+*{{flagicon|BEL}} [[Mons, Belgium|Mons]]: {{convert|130.8|km|1|abbr=on}} south-west
+*{{flagicon|LUX}} [[Luxembourg City]]: {{convert|141.4|km|1|abbr=on}} south
+*{{flagicon|BEL}} [[Ghent]]: {{convert|141.5|km|1|abbr=on}} west
+*{{flagicon|NLD}} [[Utrecht (city)|Utrecht]]: {{convert|142.4|km|1|abbr=on}} north-west
+*{{flagicon|NLD}} [[Rotterdam]]: {{convert|144.5|km|1|abbr=on}} north-west
+*{{flagicon|NLD}} [[Amsterdam]]: {{convert|175.1|km|1|abbr=on}} north-west
+*{{flagicon|FRA}} [[Lille]]: {{convert|186.3|km|1|abbr=on}} west
+*{{flagicon|GER}} [[Frankfurt am Main]]: {{convert|228.8|km|1|abbr=on}} south-east
+*{{flagicon|NLD}} [[Groningen]]: {{convert|269.6|km|1|abbr=on}} north
+*{{flagicon|FRA}} [[Strasbourg]]: {{convert|288.7|km|1|abbr=on}} south-east
+*{{flagicon|FRA}} [[Paris]]: {{convert|325.6|km|1|abbr=on}} south-west
+*{{flagicon|GER}} [[Hannover]]: {{convert|325.7|km|1|abbr=on}} north-east
+*{{flagicon|GER}} [[Stuttgart]]: {{convert|341.3|km|1|abbr=on}} south-east
+*{{flagicon|SWI}} [[Basel]]: {{convert|390.2|km|1|abbr=on}} south-east
+*{{flagicon|GBR}} [[London]]: {{convert|411.5|km|1|abbr=on}} north-west
+*{{flagicon|SWI}} [[Zürich]]: {{convert|438.7|km|1|abbr=on}} south-east
+{{div col end}}
+
+== Education ==
+[[File:Maastricht University - Campus Randwyck.jpg|thumb|[[Maastricht University]], Campus Randwyck]]
+[[File:Maastricht, Oud Gouvernement02.jpg|thumb|Students at work at UM Law School]]
+[[File:Kasteel Bethlehem.jpg|thumb|Hotel Management School at [[Bethlehem Castle]]]]
+
+=== Secondary education ===
+* ''Bernard Lievegoedschool'' ([[Anthroposophical]] education)
+* ''Bonnefantencollege''
+* ''Porta Mosana College''
+* [[Sint-Maartenscollege]]
+* [[United World College Maastricht]]
+
+=== Tertiary education ===
+* [[Maastricht University]] (Dutch: ''Universiteit Maastricht'' or UM) including:
+** [[University College Maastricht]]
+** [[Maastricht School of Management]] (merged with UM in 2022)
+* [[Zuyd University|Zuyd University of Applied Sciences]] (Dutch: ''Hogeschool Zuyd'', also has departments in [[Sittard]] and [[Heerlen]]) including:
+** [[Toneelacademie Maastricht|Academy for Dramatic Arts Maastricht]] (Dutch: ''Toneelacademie Maastricht'')
+** [[Academie Beeldende Kunsten Maastricht|School of Fine Arts Maastricht]] (Dutch: ''Academie Beeldende Kunsten Maastricht'')
+** [[Maastricht Academy of Music]] (Dutch: ''Conservatorium Maastricht'')
+** ''Academy of architecture''
+** ''Faculty of International Business and Communication''
+** ''Maastricht Hotel Management School''
+* [[Teikyo University]] (Maastricht campus closed in 2007)
+
+=== Other ===
+* [[Jan Van Eyck Academie]] - post-academic art institute
+* [[Berlitz Language Schools|Berlitz Language School]] Maastricht
+* ''Talenacademie Nederland''
+
+== International relations ==
+{{See also|List of twin towns and sister cities in the Netherlands}}
+
+=== Twin towns ===
+Maastricht is [[Twin towns and sister cities|twinned]] with:
+{| class="wikitable"
+|- valign="top"
+|
+* {{flagicon|PRC}} [[Chengdu]], [[China]] (since 2012)
+* {{flagicon|NCA}} [[El Rama]], [[Nicaragua]]
+||
+* {{flagicon|GER}} [[Koblenz]], [[Germany]]
+* {{flagicon|BEL}} [[Liège]], [[Belgium]]
+|}
+
+== Notable people ==
+{{see also|Category:People from Maastricht}}
+[[File:Debije-boerhaave.jpg|thumb|upright|145px|[[Peter Debye]]]]
+[[File:Giro d'Italia 2017, dumoulin (34343448193).jpg|thumb|upright|145px|[[Tom Dumoulin]]]]
+[[File:20071012Minckelers.jpg|thumb|upright|145px|[[Jan Pieter Minckeleers]]]]
+[[File:Henriette-d'Oultremont.jpg|thumb|upright|145px|[[Henrietta d'Oultremont]]]]
+[[File:Andre Rieu 2010.jpg|thumb|upright|145px|[[André Rieu]]]]
+[[File:Maastricht - Victor de Stuers - Kruisherengang 12 - 20100717.jpg|thumb|upright|145px|[[Victor de Stuers]]]]
+
+=== Born in Maastricht ===
+* [[Jean-Eugène-Charles Alberti]] (1777 – after 1843) – painter
+* [[Henri Arends]] (1921–1993) – conductor
+* [[Doris Baaten]] (born 1956) – voice actress
+* [[Gerard Bergholtz]] (born 1939) – footballer
+* [[Mieke de Boer]] (born 1980) – female darts player
+* [[Alphons Boosten]] (1893–1951) – architect
+* [[Theo Bovens]] (born 1959) – politician
+* [[Joseph Bruyère]] (born 1948) – Belgian cyclist
+* [[Jeu van Bun]] (1918–2002) – footballer
+* [[Jean-Baptiste Coclers]] (1696–1772) – painter
+* [[Louis Bernard Coclers]] (1740–1817) – painter
+* [[Wilhelm René de l'Homme de Courbière]] (1733–1811) – Prussian field marshal
+* [[Peter Debye]] (1884–1966) – [[Nobel prize]] winning chemist
+* [[Tom Dumoulin]] (born 1990) – cyclist, [[2017 Giro d'Italia|Giro d'Italia]] winner
+* [[Robin Frijns]] (born 1991) – Racing Driver
+* [[Hendrick Fromantiou]] (1633/4&nbsp;– after 1693) – still life painter
+* [[Joop Haex]] (1911–2002) – politician
+* [[André Henri Constant van Hasselt]] (1806–1874) – French-writing poet
+* [[Hubert Hermans]] (born 1937) – psychologist and creator of Dialogical Self Theory
+* [[Pieter van den Hoogenband]] (born 1978) – swimmer and a triple Olympic champion
+* [[Pierre Kemp]] (1886–1967) – poet
+* [[Sjeng Kerbusch]] (1947–1991) – behavior geneticist
+* [[Mathieu Kessels]] (1784–1836) – sculptor
+* [[Lambert of Maastricht]] ({{Circa|636|705}}) – bishop, saint
+* [[Marie-Louise Linssen-Vaessen]] (1928–1993) – freestyle swimmer
+* [[Eric van der Luer]] (born 1965) – footballer, football manager
+* [[Pierre Lyonnet]] (1708–1789) – naturalist, cryptographer, engraver
+* [[Félix de Mérode]] (1791–1857) – politician, writer
+* [[David de Meyne]] (1569–1620) – painter and cartographer
+* [[Andreas Victor Michiels]] (1797–1849) – military and administrative officer in the [[Dutch East Indies]]
+* [[Jan Pieter Minckeleers]] (1748–1824) – scientist and inventor of coal gas lighting
+* [[Bram Moszkowicz]] (born 1960) – ex-barrister
+* [[Benny Neyman]] (1951–2008) – singer of popular songs
+* [[Tom Nijssen]] (born 1964) – tennis player
+* [[Jacques Ogg]] (born 1948) – harpsichordist
+* [[Henrietta d'Oultremont]] (1792–1864) – second wife of [[William I of the Netherlands]]
+* [[Jan Peumans]] (born 1951) – Belgian politician
+* [[Guido Pieters]] (born 1948) – film director
+* [[Dick Raaymakers]] (1930–2013) – composer, theater maker
+* [[Prince Rajcomar]] (born 1985) – football player
+* [[Louis Regout]] (1861–1915) – politician
+* [[André Rieu]] (born 1949) – violinist, conductor and composer
+* [[Fred Rompelberg]] (born 1945) – cyclist, former world record holder
+* [[Louis Rutten]] (1884–1946) – Dutch geologist
+* [[Henri Sarolea]] (1844–1900) – railway entrepreneur and contractor
+* [[Bryan Smeets]] (born 1992) – football player
+* [[Hubert Soudant]] (born 1946) – conductor
+* [[Victor de Stuers]] (1843–1916) – politician, monument conservationist
+* [[Jac. P. Thijsse]] (1865–1945) – botanist, conservationist
+* [[Germaine Thyssens-Valentin]] (1902–1987) – pianist
+* [[Ad van Tiggelen]] (born 1958) – fantasy writer Adrian Stone
+* [[Frans Timmermans]] (born 1961) – politician
+* [[Johann Friedrich August Tischbein]] (1750–1812) – portrait painter
+* [[Maxime Verhagen]] (born 1956) – politician
+* [[Carel de Vogelaer]] (1653–1695) – painter
+* [[Hubert Vos]] (1855–1935) – painter
+* [[Ad Wijnands]] (born 1959) – cyclist, Tour de France stage winner
+* [[Jeroen Willems]] (1962–2012) – actor, singer
+* [[Henri Winkelman]] (1876–1952) – general
+* [[Danny Wintjens]] (born 1983) – football goalkeeper
+* [[Boudewijn Zenden]] (born 1976) – football player
+* [[Kim Zwarts]] (born 1955) – photographer
+
+=== Residing in Maastricht ===
+[[File:Busto-reliquiario di san servazio, in rame dorato con gemme, 1580 ca. 02.jpg|thumb|upright|145px|[[Servatius of Tongeren|Saint Servatius]]]]
+* [[Jo Bonfrère]] (born 1946) – football player
+* [[Willy Brokamp]] (born 1946) – football player
+* [[Jeroen Brouwers]] (1940–2022) – writer, journalist
+* [[Gondulph of Maastricht]] (c.524–c.607) – bishop, saint
+* [[Theo Hiddema]] (born 1944) – lawyer
+* [[Willem Hofhuizen]] (1915–1986) – painter
+* [[Monulph]] of Maastricht (6th century) – bishop, saint
+* [[Max Moszkowicz]] (1926–2022) – lawyer
+* [[Servatius of Tongeren|Servatius of Maastricht]] (4th century–384?) – bishop, saint
+* [[Jan van Steffeswert]] (15th/16th century) – sculptor, wood carver
+* [[Aert van Tricht]] (15th/16th century) – metal caster
+* [[Heinrich von Veldeke|Henric van Veldeke]] (12th century) – poet, hagiographer
+
+== Local anthem ==
+In 2002 the municipal government officially adopted a local anthem ([[Limburgish]] ([[Maastrichtian dialect|Maastrichtian variant]]): ''Mestreechs Volksleed'', {{langx|nl|Maastrichts Volkslied}}) composed of lyrics in [[Maastrichtian dialect|Maastrichtian]], written by [[Alphonse Olterdissen|Alfons Olterdissen]]. The theme was originally composed by his brother, Guus Olterdissen, though the theme is similar to the theme "[[Pe-al nostru steag e scris Unire|Pe al nostru steag e scris Unire]]" of the Romanian composer [[Ciprian Porumbescu]] (1853–1883). It is unknown if the Olterdissen brothers were aware of the Romanian piece.<ref name="Municipality of Maastricht">{{cite web |title=Municipality of Maastricht: Maastrichts Volkslied|year=2008 |publisher=N.A. Maastricht|url=http://www.maastricht.nl/maastricht/show/id=64886/notextonly=42282|author=Municipality of Maastricht |access-date=5 August 2009}}</ref>
+
+{| class="wikitable collapsible collapsed" style="width:100%;"
+|-
+! class="plainlinksneverexpand" | Maastrichtian municipal anthem ''(Mestreechs Volksleed)'' (adopted 2002, written 1910)
+|-
+|
+; 1
+: Hoera! Vivat! Mestreech!!!
+: Jao diech höbs us aon 't hart gelege,
+: Mestreech, door alle ieuwe heer.
+: Veer bleve diech altied genege
+: En deilde dreufheid en plezeer.
+: Veer huurde nao dien aw histories
+: Te peerd op grampeer ziene sjoet.
+: Ues ouge blónke bij dien glories
+: Of perelde bij diene noet.
+
+; 2
+: En dee vaan diech 't sjoens wèlt prijze,
+: In taol, die al wie zinge klink,
+: Dat dee op nui Mestreechter wijze
+: Zien aajd Mestreech mèt us bezingk.
+: Me zong vaan diech ten alle tije,
+: Eus mojers zonge bij de weeg,
+: En voolte veer us rech tevreie
+: Daan zong ze e leedsje vaan Mestreech.
+
+;3
+: Doe, blom vaan Nederlands landouwe,
+: Gegreujd op 't graaf vaan Sintervaos,
+: Bis weerdig dobbel te besjouwe,
+: Gespiegeld in de blanke Maos.
+: 'n Staar, De witste oet de klaore,
+: Besjijnt diech mèt häör straole zach
+: En, um diech zuver te bewaore,
+: 'nen Ingel hèlt bij diech de wach.
+
+;4
+: Wie dèks woorste neet priesgegeve,
+: Mèh heels dien kroen toch opgeriech
+: En ongeknak bis te gebleve,
+: Door euze band vaan trouw aon diech.
+: Daorum de hand us tòwgestoke,
+: 't Oug geriech op 't stareleech;
+: En weur dat oug daan ins gebroke,
+: Daan beidt veur us het aajd Mestreech.
+|}
+
+== Gallery ==
+<gallery mode="packed">
+Maastricht 2008 Meuse River.jpg|The [[Meuse]]
+Sint Servaasbrug2.jpg|[[Sint Servaasbrug|Saint Servatius Bridge]]
+Dinghuis.jpg|Dinghuis
+Maastricht, het stadhuis foto10 2011-01-30 12.07.JPG|Townhall
+Maastricht 2008 Mosae Forum.jpg|Mosae Forum
+Maastricht 2008 Saint Servatius Basilica.jpg|Saint Servatius Basilica
+Maastricht platz vor liebfrauenkirche.jpg|Onze-Lieve-Vrouweplein
+Apsis Onze Lieve Vrouwkerk Maastricht.jpg|[[Basilica of Our Lady, Maastricht|Basilica of Our Lady]]
+Maastricht 2008 Lang Grachtje.jpg|Lang Grachtje
+Maastricht Helpoort BW 2017-08-19 13-58-28.jpg|Helpoort ("Hell's Gate")
+Maastricht 2008 Father Vink Tower.jpg|Pater Vink Tower
+Maastricht - rijksmonument 28017 - rondeel Haat en Nijd 20100522.jpg|[[Bastion]] Haet ende Nijt
+Maastricht 2008 City Park 02.jpg|Stadspark
+Maastricht 2008 Jeker River.jpg|[[Jeker]] river
+Bassin12.jpg|Bassin harbour
+Maastricht, kerk in westelijk stadsdeel 2007-04-27 12.26.JPG|[[Sint-Lambertuskerk (Maastricht)|Saint Lambert Church]]
+Maastricht, station.gif|Train station, Wyck
+Maastricht, Stationsomgeving04.jpg|Stationsplein, Wyck
+Maastricht 2008 High Bridge.jpg|Hoeg Brögk
+Maastricht2013, CharlesEyckpark08.jpg|Charles Eyckpark, Céramique
+20130505 Maastricht Céramique 01.JPG|Public library, Céramique
+Maastricht 2008 Fortress Sint Pieter 02.jpg|Fortress Sint Pieter
+20130504 Maastricht Slavante 02 Walls of Slavante.JPG|View from Slavante
+Lichtenberg-002.JPG|Castle ruin Lichtenberg
+Maastricht - rijksmonument 27963 - Huis de Torentjes - Lage Kanaaldijk 63 20100515.jpg|Huis de Torentjes
+20130504 Maastricht Views of ENCI Quarry 03.JPG|ENCI quarry
+KasteelCastle Neercanne.jpg|[[Château Neercanne]]
+SintPietersbergPanorama001.jpg|View on Cannerberg
+</gallery>
+
+<!--spacing-->
+{{wide image|VrijthofMaastricht.JPG|750px|Vrijthof square, early morning}}
+
+== See also ==
+* [[Jewish Maastricht|Jewish inhabitants of Maastricht]]
+* [[Maastricht Treaty]]
+* [[Treaty of Maastricht (1843)]]
+* The [[Maastrichtian]] Age, which marks the end of the [[Cretaceous]] Period and [[Mesozoic]] Era of geological time
+
+== References ==
+;Notes
+{{reflist}}
+
+;Literature
+*{{cite book |last1=Lourens |first1=Piet |last2=Lucassen |first2=Jan |title=Inwonertallen van Nederlandse steden ca. 1300–1800 |year=1997 |place=Amsterdam |publisher=NEHA |isbn=9057420082 }}
+
+==Bibliography==
+{{See also|Timeline of Maastricht#Bibliography|l1=Bibliography of the history of Maastricht}}
+
+==External links==
+{{Sister project links |wikt=no |commons=Maastricht |n=no |voy=Maastricht |b=no|q=no|species=no |s=no |v=no}}
+*[http://www.maastrichtportal.nl/home.html?lang=2 Maastricht city portal]
+*[https://web.archive.org/web/20150821020616/http://www.gemeentemaastricht.nl/english/ Maastricht municipality website]
+*[https://www.livius.org/maa-mam/maastricht/maastricht.html Maastricht in Roman times] {{Webarchive|url=https://web.archive.org/web/20140719142241/http://www.livius.org/maa-mam/maastricht/maastricht.html |date=19 July 2014 }}
+*[http://www.fortified-places.com/maastricht.html Webpage about Maastricht fortifications] {{Webarchive|url=https://web.archive.org/web/20191024145408/http://www.fortified-places.com/maastricht.html |date=24 October 2019 }}
+*[http://www.fortified-places.com/sieges/maastricht1673.html Webpage about the 1673 siege] {{Webarchive|url=https://web.archive.org/web/20120509234652/http://www.fortified-places.com/sieges/maastricht1673.html |date=9 May 2012 }}
+*[https://web.archive.org/web/20151005125310/http://maastrichttourism.nl/ Maastricht tourism website]
+
+<!--Please note that not all directions need to be filled-->
+<!--Please note that preferably only neighboring municipalities or bodies of water should be used-->
+{{Geographic location<!--- abbreviations per [[ISO 3166-2:BE]] --->
+|Centre    = Maastricht
+|Northeast = [[Meerssen]]
+|East      = [[Valkenburg aan de Geul]]
+|South     = [[Visé]]{{space}}([[Belgium|BE]]-[[Liège Province|WLG]])
+|Southeast = [[Eijsden-Margraten]]
+|Southwest = [[Riemst]]{{space}}([[Belgium|BE]]-[[Limburg (Belgium)|VLI]])
+|Northwest = [[Lanaken]]{{space}}([[Belgium|BE]]-[[Limburg (Belgium)|VLI]])
+}}
+
+{{Maastricht}}
+{{Limburg Province (Netherlands)}}
+{{Dutch capital cities}}
+{{Authority control}}
+
+[[Category:Maastricht| ]]
+[[Category:Belgium–Netherlands border crossings]]
+[[Category:Cities in the Netherlands]]
+[[Category:Municipalities of Limburg (Netherlands)]]
+[[Category:Populated places in Limburg (Netherlands)]]
+[[Category:Provincial capitals of the Netherlands]]
+[[Category:Roman sites in the Netherlands]]
+[[Category:South Limburg (Netherlands)]]
+[[Category:Vauban fortifications]]

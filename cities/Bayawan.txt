@@ -1,0 +1,498 @@
+{{Short description|Component city in Negros Oriental, Philippines}}
+{{Use Philippine English|date=March 2023}}
+{{Use mdy dates|date=July 2022}}
+{{More citations needed|date=March 2013}}
+{{Infobox settlement
+| name               = {{PH wikidata|name}}
+| image_skyline      = {{Photomontage
+| photo1a = St.Tomas de Villanueva Parish Church.jpg
+| photo2a = Ibayaw City Hall.jpg
+| size = 250
+| spacing = 2
+| color = transparent
+| border = 0
+}}
+| image_caption      = St. Tomas de Villanueva Parish Church (top), Bayawan City Hall (bottom)
+| image_flag         = Flag of Bayawan, Negros Oriental.png
+| flag_size          = 120x80px
+| image_seal         = Bayawan LGU logo.png
+| seal_size          = 100x80px
+| image_map          = Ph locator negros oriental bayawan.png
+| map_caption        = Map of Negros Oriental showing the location of Bayawan
+| image_map1         = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map        = Philippines
+| pushpin_label_position = left
+| pushpin_map_caption = Location within the {{PH wikidata|country}}
+| coordinates        = {{PH wikidata|coordinates}}
+| settlement_type    = {{PH wikidata|settlement_type}}
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = [[Philippines]]
+| subdivision_type1  = [[Regions of the Philippines|Region]]
+| subdivision_name1  = {{PH wikidata|region}}
+| subdivision_type2  = [[Provinces of the Philippines|Province]]
+| subdivision_name2  = {{PH wikidata|province}}
+| official_name      = {{PH wikidata|official_name}}
+| other_name         = 
+| nickname           = 
+| motto              = 
+| anthem             = "Ibayaw ang Bayawan"
+| subdivision_type3  = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3  = {{PH legislative district}}
+| established_title  = [[Date of establishment|Founded]]
+| established_date   = 1872
+| established_title1 = Cityhood
+| established_date1  = December 23, 2000
+| named_for          = [[Bisayan languages|Visayan]] term ''bayaw'', meaning "raise"
+| parts_type         = [[Barangay]]s
+| parts_style        = para
+| p1                 = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title       = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name        = John "Jack" T. Raymond Jr. ([[Nationalist People's Coalition|NPC]])
+| leader_title1      = [[Vice Mayor]]
+| leader_name1       = Henry E. Carreon Jr. ([[Nationalist People's Coalition|NPC]])
+| leader_title2      = [[House of Representatives of the Philippines#Current composition|Representative]]
+| leader_name2       = [[Negros Oriental's 3rd congressional district#Representation history|''Vacant'']] {{smaller|([[Martin Romualdez]] serves as legislative caretaker)}}
+| leader_title3      = [[Sangguniang Panlungsod|City Council]]
+| leader_name3       = {{PH Town Council
+| 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Mark Fidencio L. Aurelia
+ | 3=Narciso N. Casipong
+ | 4=Rusmar Ian D. Tijing
+ | 5=Merlita R. Gaudiel
+ | 6=Nico Angelo L. Lim
+ | 7=Rolando B. Abrasaldo
+ | 8=Karl T. Saraña
+ | 9=Luis J. Sumalpong
+ | 10=Felipe O. Santiago Jr.
+ | 11=Ma. Luciana T. Tizon
+}}
+| leader_title4      = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4       = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type    = {{PH wikidata|government_type}}
+| government_footnotes = <ref>{{DILG detail}}</ref>
+| elevation_m        = {{PH wikidata|elevation_m}}
+| elevation_max_m    = 1827
+| elevation_min_m    = 0
+| elevation_max_rank = 
+| elevation_min_rank = 
+| elevation_footnotes = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes = 
+| elevation_min_footnotes = 
+| area_footnotes     = {{PH area}}
+| area_total_km2     = {{PH wikidata|area}}
+| population_footnotes = {{PH census|current}}
+| population_total   = {{PH wikidata|population_total}}
+| population_as_of   = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title = [[Household]]s
+| population_blank1  = {{PH wikidata|household}}
+| population_blank2_title = 
+| population_blank2  = 
+| population_demonym = 
+| population_rank    = 
+| population_note    = 
+| timezone           = [[Philippine Standard Time|PST]]
+| utc_offset         = +8
+| postal_code_type   = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code        = {{PH wikidata|postal_code}}
+| postal2_code_type  = {{PSGCstyle}}
+| postal2_code       = {{PSGC detail}}
+| area_code_type     = {{areacodestyle}}
+| area_code          = {{PH wikidata|area_code}}
+| website            = {{PH wikidata|website}}
+| demographics_type1 = [[Economy of the Philippines|Economy]]
+| demographics1_title1 = {{PH wikidata|income_class_title}}
+| demographics1_info1 = 1st city income class
+| demographics1_title2 = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2 = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3 = [[Revenue]]
+| demographics1_info3 = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4 = Revenue rank
+| demographics1_info4 = 
+| demographics1_title5 = [[Asset]]s
+| demographics1_info5 = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6 = Assets rank
+| demographics1_info6 = 
+| demographics1_title7 = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7 = 
+| demographics1_title8 = IRA rank
+| demographics1_info8 = 
+| demographics1_title9 = [[Expenditure]]
+| demographics1_info9 = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10 = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10 = 
+| demographics_type2 = Service provider
+| demographics2_title1 = Electricity
+| demographics2_info1 = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2 = Water
+| demographics2_info2 = 
+| demographics2_title3 = Telecommunications
+| demographics2_info3 = 
+| demographics2_title4 = Cable TV
+| demographics2_info4 = 
+| demographics2_title5 = 
+| demographics2_info5 = 
+| demographics2_title6 = 
+| demographics2_info6 = 
+| demographics2_title7 = 
+| demographics2_info7 = 
+| demographics2_title8 = 
+| demographics2_info8 = 
+| demographics2_title9 = 
+| demographics2_info9 = 
+| demographics2_title10 = 
+| demographics2_info10 = 
+| blank_name_sec1    = {{PH wikidata|climate_title}}
+| blank_info_sec1    = {{PH wikidata|climate_type}}
+| blank1_name_sec1   = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1   = {{PH wikidata|language}}
+| blank2_name_sec1   = [[Crime index]]
+| blank2_info_sec1   = 
+| blank3_name_sec1   = 
+| blank3_info_sec1   = 
+| blank4_name_sec1   = 
+| blank4_info_sec1   = 
+| blank5_name_sec1   = 
+| blank5_info_sec1   = 
+| blank6_name_sec1   = 
+| blank6_info_sec1   = 
+| blank7_name_sec1   = 
+| blank7_info_sec1   = 
+| blank1_name_sec2   = Major religions
+| blank1_info_sec2   = 
+| blank2_name_sec2   = Feast date
+| blank2_info_sec2   = 
+| blank3_name_sec2   = Catholic diocese
+| blank3_info_sec2   = 
+| blank4_name_sec2   = Patron saint
+| blank4_info_sec2   = 
+| blank5_name_sec2   = 
+| blank5_info_sec2   = 
+| blank6_name_sec2   = 
+| blank6_info_sec2   = 
+| blank7_name_sec2   = 
+| blank7_info_sec2   = 
+| short_description  = 
+| footnotes          = 
+}}
+
+'''Bayawan''', officially the '''City of Bayawan''' ({{lang-ceb|Dakbayan sa Bayawan}}), is a 1st class [[Cities of the Philippines#Legal classification|component city]] in the [[Provinces of the Philippines|province]] of [[Negros Oriental]], [[Philippines]]. According to the 2020 census, it has a population of 122,747 people.{{PH census|current}}
+
+Bayawan is located {{convert|102|km}} from [[Dumaguete]], the provincial capital of [[Negros Oriental]]. It is a coastal city with a land area of {{convert|69908|ha}}, the largest in the province and whole [[Negros]] island. [[Mabinay, Negros Oriental|Mabinay]] bounds it to the north, [[Tanjay]] and [[Bais, Negros Oriental|Bais]] to the east, [[Santa Catalina, Negros Oriental|Santa Catalina]] to the southeast and [[Basay, Negros Oriental|Basay]] to the west and it also shares a boundary with [[Kabankalan City|Kabankalan]] of [[Negros Occidental]] on the northwest.
+
+Bayawan used to be known as New Tolong, and only had its modern name starting 1952.<ref>{{cite web|url=http://lawph.com/statutes/ra694.html |archive-url=https://archive.today/20120711224002/http://lawph.com/statutes/ra694.html |url-status=dead |archive-date=July 11, 2012 |title=An Act to Change the Name of the Municipality of New Tolong, Province of Oriental Negros, to Bayawan |publisher=LawPH.com |access-date=April 9, 2011 }}</ref>
+
+Bayawan became a chartered city in December 2000. It boasts its distinction as a "Character City" (International Association of Character Cities) and a pioneer "Healthy City" (DOH certified) in the Philippines. The Asian Institute of Management recognized the city as "one of the Top 10 Best Cities to Live In in the Philippines (Small Cities Category)" under its Competitive Cities Survey of 2007.<ref>[http://www.nscb.gov.ph/factsheet/pdf01/fs1_01.asp NSCB - 2001 Factsheet - 12 New Cities Created] {{webarchive |url=https://web.archive.org/web/20060423041852/http://www.nscb.gov.ph/factsheet/pdf01/fs1_01.asp |date=April 23, 2006 }}, July–December 2000.</ref>
+
+The town is home to the ''Minagahat language'', the Indigenous language of Southern Negros as listed by [[Komisyon sa Wikang Filipino]]. The language is vital to the culture and arts of the people of southern Negros.
+
+== Etymology ==
+An altercation happened between a priest and the natives that used to live in the area. The town center was previously located in an uphill settlement called 'Omod', and a chapel was erected to serve the religious needs of the new converts. During a mass, a native threw a lance in the priest, who was raising the [[Sacramental|Holy Host]] at that time, instantly killing him.
+
+The name "Bayawan" stems from the Visayan term "Bayaw"– to hoist or elevate, in reference to the priest's action just before his death.<ref name=":0">{{Cite web |title=History of Bayawan |url=http://www.bayawancity.gov.ph/?mnu=3&flnk=83 |access-date=July 9, 2024}}</ref>
+
+==History==
+It was in 1751 when the Spanish friars first established their settlement. 116 years later, Tolong Nuevo (Bayawan's former name) had existed as early as 1868 as part of Tolong Viejo (now the Municipality of Santa Catalina). It was not until 1872 when she was formally organized as a pueblo.
+
+In 1953, the name Tolong Nuevo was changed to Bayawan, by virtue of Republic Act 694 as approved by the 3rd congress of the Philippines, consigning the name “Tolong” into obscurity and deep oblivion soon slowly to be forgotten by the succeeding generations. This made Bayawan a separate municipality.<ref name=":0" />
+
+===Cityhood===
+{{main|Cities of the Philippines}}
+Bayawan, after meeting all of its requirements for its cityhood, became a city on December 23, 2000, via plebiscite that was set by COMELEC.
+
+==Geography==
+Bayawan City has a land area of 699.08&nbsp;km<sup>2</sup>, one of the largest in the Visayas. This accounts for 13% of the province's land area. [[Mabinay, Negros Oriental|Mabinay]] bounds it to the north, [[Santa Catalina, Negros Oriental|Santa Catalina]] to the south, [[Tanjay]] to the east, [[Basay, Negros Oriental|Basay]] to the west, and it also shares a boundary with [[Kabankalan]] of [[Negros Occidental]] on the northwest. The coastline is 15&nbsp;km west to east, with 7 coastal barangays.
+
+Bayawan City is subdivided into three development zones:
+*The '''urban area''' constitutes only 2.3% (15.73&nbsp;km<sup>2</sup>) of the city's total area and contains the main institutional, commercial and [[central business district]] of the city. It functions as the main economic hub, while economic growth nodes are established in strategically located barangays in the hinterlands.
+*The '''sub-urban area''' is about 14.7% (102.6&nbsp;km<sup>2</sup>) of the total area and is set to contain the agro-industrial zones, industrial zones and human settlements. The existing industrial activity (lime plant), the establishment of saw mills, and the identified industrial zones in the area show the natural pattern of development. Residential zones are considered in the sub-urban area to provide settlements for the people in the commercial center and in the industrial zones.
+*The '''rural area''' accounts for 83.1% of the total land area and is basically agricultural. However, some barangays are identified to contain a high level of commerce, trade and agro-processing industry being the economic growth nodes of the city. These growth nodes are singled out due to their strategic geographic location while other rural barangays are mainly agricultural production areas.
+
+===Barangays===
+Bayawan is politically subdivided into 28 [[barangay]]s. Each barangay consists of [[purok]]s and some have [[sitios]].
+
+Kalumboyan was formerly a sitio of Nangka, while Balabag (now Villareal) was a sitio of Manihihon. They were converted into independent barrios in 1955.<ref>{{cite web|url=https://issuances-library.senate.gov.ph/legislative%2Bissuances/Republic%20Act%20No.%201303 |title=REPUBLIC ACT NO. 1303 An Act Creating the Barrios of Kalumboyan and Villareal in the Municipality of Bayawan, Province of Oriental Negros |publisher=Senate of the Philippines |access-date=January 6, 2024 }}</ref>
+
+{{PH brgy table lite|top}}
+{{PH brgy table lite|074606001| Ali-is | 2980| 3114}}
+{{PH brgy table lite|074606002| Banaybanay | 4896| 3596}}
+{{PH brgy table lite|074606003| Banga | 7568| 6078}}
+{{PH brgy table lite|074606005| Boyco (Pob.) | 1407| 1502}}
+{{PH brgy table lite|074606006| Bugay |  5607|  4982}}
+{{PH brgy table lite|074606007| Cansumalig | 1715| 2402}}
+{{PH brgy table lite|074606008| Dawis | 4683| 5112}}
+{{PH brgy table lite|074606009| Kalamtukan | 3618| 3886}}
+{{PH brgy table lite|074606010| Kalumboyan | 7004| 7124}}
+{{PH brgy table lite|074606011| Malabugas | 6126| 4828}}
+{{PH brgy table lite|074606012| Mandu-ao |  4780|  4575}}
+{{PH brgy table lite|074606013| Maninihon |  7502|  5894}}
+{{PH brgy table lite|074606014| Minaba |  2890|  2170}}
+{{PH brgy table lite|074606015| Nangka |  10637| 9940}}
+{{PH brgy table lite|074606016| Narra |  6603| 5707}}
+{{PH brgy table lite|074606017| Pagatban |  2152| 1980}}
+{{PH brgy table lite|074606018| Poblacion |  2921| 2787}}
+{{PH brgy table lite|074606028| San Isidro |  1280|  1169}}
+{{PH brgy table lite|074606019| San Jose |  2450| 1794}}
+{{PH brgy table lite|074606020| San Miguel |  1731| 1652}}
+{{PH brgy table lite|074606021| San Roque |  1452|  1872}}
+{{PH brgy table lite|074606022| Suba (Pob.) |  2412| 2532}}
+{{PH brgy table lite|074606023| Tabuan |  4539|  4770}}
+{{PH brgy table lite|074606024| Tayawan |  6419|  5585}}
+{{PH brgy table lite|074606025| Tinago (Pob.) |  3191|  3240}}
+{{PH brgy table lite|074606026| Ubos (Pob.) |  1600|  1662}}
+{{PH brgy table lite|074606027| Villareal |  10730|  10047}}
+{{PH brgy table lite|074606004| Villasol | 3854| 4074}}
+{{PH brgy table lite|bottom|114074}}
+{{clear-left}}
+
+===Climate===
+Under the [[Climate of the Philippines#Climate types|Modified Coronas' Climate Classification system]], Bayawan has two distinct climate seasons: the dry season, well pronounced in the months of January to May; and the wet season, in the months of June to December.{{Weather box
+| location     = Bayawan
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 31
+| Jan low C  = 22
+| Feb high C = 31
+| Feb low C  = 22
+| Mar high C = 32
+| Mar low C  = 22
+| Apr high C = 33
+| Apr low C  = 24
+| May high C = 31
+| May low C  = 25
+| Jun high C = 30
+| Jun low C  = 25
+| Jul high C = 29
+| Jul low C  = 25
+| Aug high C = 29
+| Aug low C  = 25
+| Sep high C = 29
+| Sep low C  = 25
+| Oct high C = 29
+| Oct low C  = 25
+| Nov high C = 30
+| Nov low C  = 24
+| Dec high C = 30
+| Dec low C  = 23
+| Jan precipitation mm = 46
+| Feb precipitation mm = 45
+| Mar precipitation mm = 56
+| Apr precipitation mm = 83
+| May precipitation mm = 163
+| Jun precipitation mm = 203
+| Jul precipitation mm = 236
+| Aug precipitation mm = 204
+| Sep precipitation mm = 210
+| Oct precipitation mm = 211
+| Nov precipitation mm = 143
+| Dec precipitation mm = 77
+| Jan rain days        = 12.1
+| Feb rain days        = 9.8
+| Mar rain days        = 14.3
+| Apr rain days        = 17.5
+| May rain days        = 26.0
+| Jun rain days        = 27.8
+| Jul rain days        = 28.4
+| Aug rain days        = 26.9
+| Sep rain days        = 26.7
+| Oct rain days        = 27.9
+| Nov rain days        = 23.3
+| Dec rain days        = 17.2
+| source 1 = Meteoblue <small>(Use with caution: this is modeled/calculated data, not measured locally.)</small><ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/bayawan_philippines_1725804
+| title =  Bayawan: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| access-date = May 6, 2020 }}</ref>
+| date = May 6, 2020
+}}
+
+==Demographics==
+{{Philippine Census
+| align= left
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+As of the 2020 [[census]], the city has a population of 122,747.
+
+In 2000, 21,814 of 101,391 inhabitants of the city comprise the urban population. The population density is 180/km<sup>2</sup>, which is manageable compared to other cities in the country.
+
+{{clear left}}
+
+==Economy==
+{{PH poverty incidence}}
+[[File:IbayawBayawan Rice1.jpg|alt=|thumb|Rice fields in Bayawan]]
+[[File:Push net fishing at Bayawan City Boulevard.jpg|thumb|Local fishermen practicing push net fishing off the coast of Bayawan City Boulevard]]
+Bayawan is more of the rural setting than urbanized with only 2.25% of its total land area as urban area. The city is basically agricultural and its economy sits on an agricultural platform. Revenues from land farming, livestock production, aqua-culture activities and marine fishing are a major income contribution of the city. In 2000, the assessment of City Agriculture Office (CAO) indicated that agricultural production was valued at Php 2.3 Billion; 91.4% of which came from crop production, 7.9% from livestock production, and 0.7% from fisheries.
+
+On a general scale, the city is not yet self-sufficient since its local revenue is only 12% of the total revenue and 88% comes from its [[Internal Revenue Allotment]] (IRA) (Year 2000 Data).
+
+The City however has several investment opportunities especially in the field of agro-industry and processing as well as in the processing of marine products. The vast agricultural resources and the LGU's thrust on agricultural development opens avenues of investing in feed mills, palm oil mills, rice mills, corn mills, storage and other farming and post harvest facilities and equipment. Besides agri-industries, the trading and auction markets are already well established in the hinterland barangays especially in Dawis and Kalumboyan. Moreover, the fishery industry and aqua-culture also offers wide business opportunities especially in the establishment of the proposed fishing port.
+
+Another window for investors is in the transportation system. With the opening of the Bayawan-Kabankalan Road Network, more transport facilities will be required. The city is already recognized as a transport hub in South Negros, and planned to be enhanced further with improvement of the road network.
+
+Currently, the people in the city are engaged in self-employment activities such as farming, fishing, trading or buying & selling activities. Resident professionals in the city are in abundance however majority often migrate seeking employment opportunities.
+
+[[Puregold|Puregold Bayawan]] opened last November 2019 as the first full-service mall in the city.
+
+{{clear left}}
+
+==Environment==
+[[File:WaterFalls2021.jpg|thumb|Niludhan Falls]]
+Bayawan has one of the most barren mountains in the province. The Department of Environment & Natural Resources (DENR) have classified that 72.7% and 27.3% (198.05&nbsp;km<sup>2</sup>) of the total land area of Bayawan as A&D (alienable and disposable) and as forestlands respectively. However, recent assessment of land use utilization shows that only 17.8% of the total land area is used as forestlands. From these, it can be deduced that a large portion of the land area supposedly classified as forestlands are cultivated and unsuitably used. This situation can be attributed to the improper settling and farming practices of the people in the hinterlands. There are uncontrolled and unmonitored conversions of classified forestlands through slash and burn practices, then cultivation by the people in all parts of the upland barangays. However, these lands have or in the process of application for land titles (ownership).
+
+The haphazard conversion and cultivation of the forestlands and denudation of the forest cover have resulted to the perennial problem of flooding in both upland and lowland barangays during rainy season. Its adverse effects include the severe siltation of the three rivers in the city and loss of soil fertility in the hinterlands due to soil erosion and landslides. In addition, some springs has become intermittent (no water flowing during dry season) because of the destruction of their watersheds.
+
+In terms of sanitary sewerage and solid waste disposal, only the urban barangays have established sewerage in the city, however, the system drains directly into the rivers or directly into the sea without wastewater treatment. Other households utilize backyard septic tanks for their wastewater disposal. Solid wastes are collected by the LGU in the urban barangays and dumped into an open dumpsite in Barangay Banga. In anticipation for more solid wastes in the future as development spins in the city, a new dumping site was acquired in Barangay Nangka.
+
+==Tourism==
+[[File:Tawotawo wiki.jpg|thumb|Tawo Tawo Festival in Bayawan City, February 2013]]
+* Niludhan Fals
+* Banay Banay Falls
+* Lourdes Falls
+* Bayawan Boulevard
+* Bayawan City Plaza
+* Danapa Eco Park
+* Narra Water Park
+* [https://photos.google.com/u/6/album/AF1QipMWGR0KKoa_-9sqakSDsxAZhdoB6EcWJun-Mupf Bayawan City Waste Management and Ecological Center]
+
+==Infrastructure==
+The main infrastructure of the city is concentrated in the city proper, although various dams for agricultural purposes have been constructed to improve irrigation in the farmlands. The connecting road to [[Kabankalan City]] is also nearing completion. The 2.5 kilometers long boulevard fronting the beachfront in the city proper is among the longest in the province, and has become a major local venue as well as a tourist attraction.
+
+===Transport===
+As of 2000 the city had 645.23&nbsp;km of roads; 6.26% of which are National Roads; 19.41% are Provincial Roads; 1.79% are City Roads/Streets; and majority of which is 72.54% are Barangay Roads. Moreover, of the total road length only 5.75% are concrete roads and 2.81% asphalt roads. Of the unpaved roads, only 105 kilometers are gravel roads and the remaining 75.16% or 485 kilometers are earth fill roads. This translates that most of the roads especially the barangay roads in the upland barangays are not passable during bad weather conditions. The road situation affected for the residents in the hinterlands and the farmers have to shoulder very high cost of transporting their products.
+
+The improvement of road infrastructure of the city especially the provincial road that connects the City Proper, Kalumboyan and Manduao to the City of Kabankalan in Negros Occidental is deemed to open up a new dimension in the economic and social activity of the city. The improvement of the city's transport route to Mabinay and towards the Cities of Tanjay and Bais is recently seen to be apparent.
+
+===Bridges and spillways===
+There are 13 bridges with a total length of 494.95 meters that provide passengers over the different rivers or creeks in the city. Ten of these bridges are made of reinforced concrete, having a total length of 287.15 meters. Among these, seven with a total length of 277.85 meters are classified as National bridges and two with total length of 9.3 meters as Barangay. One is made of reinforced concrete with steel frame with a length of 175.7 meters and classified as National. Two (2) Barangay bridges with a total length of 32.1 meters are made of wood with steel bracing for pedestrian use.
+
+One bridge (Milagrosa Bridge) located in Sitio Milagrosa Barangay Nangka is totally damaged. It is to be converted into a spillway.
+
+Hugno Footbridge is a proposed bridge located in Hugno, Barangay Nangka.
+
+There are 52 spillways present in different Barangays. Only 18 spillways were in excellent condition. Fourteen need improvement, repair, and to be developed. Two to be replaced with a bridge, seven need to be replaced, three were proposed, six to be re-constructed, and two were damaged and needs re-construction.
+
+Generally, the inland barangays only have Level I (developed source) water system or Level II (communal waterworks) have just been recently established in Barangay Tabuan through BIARSP which is 1.6 million project. Only Barangay Nangka and Kalumboyan have level III water system that only the bario proper is being served, when there are no waterworks in the area especially as in the case in sitios the usual water sources are dug wells or springs.
+
+In this aspect, the city has formulated policies and work programs to address the water problems of the city. To address the needs in the barangay, water sources are assessed and projects are outlined such that potable water can be conveyed into every household. New water sources (such as the Danapa Spring in Nangka) are looked into for feasible development into a water supply infrastructure project so that the water needs of the city's households, industries and commercial sectors will be met.
+
+===Flood control and drainage===
+[[File:Constructed wetland Bayawan City (4113800865).jpg|thumb|Constructed wetland and septage management system in Bayawan]]
+The city proper of Bayawan experiences flooding during rainy season. The existing sewerage/drainage system is still inadequate and unable to effectively drain rainwater especially during strong typhoons. A reinforced concrete wharf located in Barangay Ubos and Suba along the Bayawan River, having a length of 326 meters served as a [[flood control]] structure. This structure is to hold the water especially during high tides and strong typhoons from coming/ flowing into the City Proper. This flood control mechanism however also needs improvement especially that the carrying capacity of the Bayawan River has been immensely reduced from its siltation.
+
+Along the Coastal Margin (Pagatban, Malabugas, Banga and Villareal) and even in the upland barangays with low-lying built-up areas (such Minaba, Kalumboyan and Tabuan), flooding is also a perennial issue since there are no established drainage infrastructure projects in these barangays.
+
+Identified short-term solutions of flooding include the proper maintenance and repair of existing infrastructure and the expansion of construction projects. Well-thought of, effective and efficient drainage design and work programs are yet to be created. The long-term solution will include the effective rehabilitation of the watershed areas, reforestation, ripropping of riverbanks and maintenance of river easements such that soil erosion and subsequent siltation of the rivers will be reduced if not eliminated. This entails long-term integrated (multi-sectoral) and environment-focused planning, sound policy-making, strong political will and support, effective law enforcement, and vigilant monitoring.
+
+Various command irrigation projects are now being implemented by the National Irragation Authority (NIA). Among these are the Tabuan Communal Irrigation Project (CIP), Mantapi CIP and the upper/ lower Malabugas CIP of which the LGU have provided a Php 1 million equity per projects. Moreover, the LGU have allocated Php 22.02 million as counterpart for the proposed Bayawan CIP which has a total project cost of Php 130.47 million. The Bayawan CIP is among the priority projects of the 10 year Bayawan Urban Infrastructure Development Plan.
+
+Making cities safe from disaster is everybody's business. Equally Bayawan in its crossroad of development, being efficient and effective not only through environmental management, administrative processes, infrastructure and business, but particularly on disaster preparedness. With the increase in localized disasters has necessitated a corresponding increase in disaster preparedness and response capacity at the community and local government levels. The presence of early warning systems ''(LFEWS)'' linked to the Disaster Risk Reduction to provide accurate and timely advice to Barangay emergency response organizations.
+
+===Power===
+The source of power of the city is the [[Energy Development Corporation|Palinpinon Geothermal Power Plant]] and is delivered through the Negros Oriental II Electric Cooperative (NORECO II). In spite of the relatively close proximity of the city to and abundance of the power source, only 16.64% of the total number of households in the whole city are energized. Most of the households served are located in the urban areas. At present, NORECO II have served 4,106 household out of a potential 18,623 subscribers in the city. The energized household are those of the urban barangays and some rural barangays namely Malabugas, Pagatban, Nangka, San Roque, San Miguel, Minaba Tayawan, Tabuan, Dawis, Kalumboyan, Ali-is, Narra.
+
+The low level of energization in the city can be directly attributed to the existing road conditions. It follows that the unfavorable road conditions make the installation of power infrastructures difficult. Besides, the current standard of living of the people in the hinterlands (which is way below the poverty level) does not provide an encouraging market for the electric Service provider. The low energization level of the City does not require much solution on finding of power sources or the installation of electrical infrastructures but more on improving the road conditions and finding socio-economic solutions.
+
+===Telecommunications===
+The city has telephone services, cellular mobile telephone services, wireless local coop services, satellite communication, print media, broadcast media (radio), telegraph/ telegram, postal services and fast courier delivery services provided for the public. The onset of fast and modern communication facilities resulted to the gradual phase-out of the traditional means of communication in the city.
+
+Telecommunications in the city is along the current trends although more expansion and promotion is needed. The city has three telephone service companies: [[PLDT]], Cruztelco and [[Globe Telecom]]. Cruztelco being the pioneer telephone company in the city has 400 lines installed and have an existing 131 subscribers. PLDT has 1,200 cables installed and an existing 616 subscribers and 122 potential subscribers with pending application. A cell site of Smart Communications is also in operation. National and provincial dailies and periodicals are delivered and available in the city. Also, the Local Government Unit (LGU) of Bayawan circulates copies of GABAYAN, an official newsletter of the city, every quarter. Radio and Television are the broadcast media available in the city. Radio Natin has broadcast coverage up to the Municipalities of Santa Catalina, Basay, Pamplona, and Siaton. Television cable networks E & E Cable TV and Fil Products Cable TV operates in the city. Broadband internet access is also widely available from numerous internet cafes within the city proper. DOTC public calling stations exist in Barangay Nangka, Maninihon, San Roque and Dawis.
+
+===Housing===
+There are two Housing Projects owned by private developers—with an expected total units of 663 houses. The LGU has begun implementing low cost housing projects, starting with Fishermen's Village in Tawi-Tawi. Resettlement areas will be provided for the Informal Settlers within the urban area.
+
+==Education==
+Bayawan City has three tertiary institutions, the [[Negros Oriental State University]] (formerly NONAS), Bayawan College (now defunct) and Southern Tech College. Nursery education is provided by day-care centers located in each urban barangay.
+
+The public schools in Bayawan are administered by the Schools Division of Bayawan City.
+
+===High schools===
+{{div col}}
+* Abundio Agarpao, Sr. Memorial High School — Sitio Gamao, Narra
+* Antonio M. Lacson, Sr. Memorial High School — Sitio Tavera, Nangka
+* Atilano B. Cabangal Memorial High School — Sitio Milagrosa, Nangka
+* Banaybanay High School — Banaybanay
+* Bayawan National High School — Nat'l Highway, Villareal
+* Bayawan City Science and Technology Education Center-HS — Cabcabon Hills, Banga
+* Bugay National High School — Bugay
+* Cansumalig High School — Cansumalig
+* Dawis High School — Dawis
+* Enzo Nicolai T. Teves High School — Sitio Tinastasan, Malabugas
+* Kalamtukan High School — Kalamtukan
+* Kalumboyan National High School — Kalumboyan
+* Lapay National High School — Sitio Lapay, Dawis
+* Manduaw National High School — Mandu-ao
+* Minaba National High School — Minaba
+* Narra High School — Narra
+* Omod High School — Sitio Omod, Maninihon
+* Pagatban High School — Pagatban
+* San Jose High School — San Jose
+* Tabuan Provincial Community High School — Tabuan
+* Tayawan High School — Tayawan
+* Villasol National High School — Villasol
+{{div col end}}
+
+Integrated schools:
+* Ali-is Integrated School <small>(formerly ''Ali-is ES'')</small> — Ali-is
+
+===Private schools===
+* Bayawan Angelicum Inc. — S. Martinez Street, Ubos
+* Early Readers Montessorian School, Inc. — F. Teologia Street, Suba
+* St. Augustine Academy of Bayawan, Inc. — Nat'l Highway, Ubos
+* Southern Tech College Foundation, Inc. — Nat'l Highway, Villareal
+* UCCP-Bayawan City Learning Center, Inc. — Zamora Street, Ubos
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+{{Wikivoyage}}
+* {{official website|http://www.bayawancity.gov.ph/}}
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+*[https://web.archive.org/web/20081120024509/http://www.census.gov.ph/data/census2007/index.html Philippine Census Information]
+*[https://web.archive.org/web/20160304071947/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=10&frmIdProvince=58&frmIdLgu=1105 Local Governance Performance Management System]
+
+{{Geographic location
+| Centre    = Bayawan
+| North     = [[Kabankalan, Negros Occidental]]
+| Northeast = [[Mabinay, Negros Oriental|Mabinay]]
+| East      = [[Bais, Negros Oriental|Bais]]<br>[[Tanjay]]
+| Southeast = [[Santa Catalina, Negros Oriental|Santa Catalina]]
+| South     = ''Tolong Bay ([[Sulu Sea]])''
+| West      = [[Basay, Negros Oriental|Basay]]
+| Northwest = [[Ilog, Negros Occidental]]
+}}
+{{Navboxes
+| title = Articles Related to Bayawan
+| list  =
+{{Negros Oriental}}
+{{Philippine cities}}
+}}
+
+{{Authority control}}
+
+[[Category:Cities in Negros Oriental]]
+[[Category:Populated places established in 1872]]
+[[Category:1872 establishments in the Philippines]]
+[[Category:Component cities in the Philippines]]

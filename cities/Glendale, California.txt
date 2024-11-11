@@ -1,0 +1,888 @@
+{{for|the community in Humboldt County|Glendale, Humboldt County, California}}
+{{Use mdy dates|date=May 2024}}
+{{Infobox settlement
+| name               = Glendale, California
+<!-- Images and maps ------>| settlement_type    = [[List of municipalities in California|City]]
+| image_skyline      = {{multiple image
+ | total_width        = 280
+ | border             = infobox
+ | perrow             = 1/2/3
+ | caption_align      = center
+ | image1             = Glendale panorama (cropped).jpg
+ | alt1               = Aerial view of Glendale with the Verdugo Mountains in the background
+ | caption1           = Aerial view of Glendale with the [[Verdugo Mountains]] in the background
+ | image2             = PacificTheatresGlendale.jpg
+ | alt2               = Americana at Brand
+ | caption2           = [[Americana at Brand]]
+ | image3             = Nestlé building from Glenoaks 2014 (cropped2).jpg
+ | alt3               = Highrises in Downtown Glendale
+ | caption3           = Highrises in Downtown Glendale
+ | image4             = Holy Family Catholic Church, Glendale, California (cropped).JPG
+ | alt4               = Holy Family Catholic Church
+ | caption4           = [[Holy Family Catholic Church (Glendale, California)|Holy Family Catholic Church]]
+ | image5             = Glendale, Grand Central Air Terminal, 2018.02.11 (cropped).jpg
+ | alt5               = Grand Central Airport
+ | caption5           = [[Grand Central Airport (California)|Grand Central Airport]]
+ | image6             = St. Mark's Episcopal Church (Exterior).JPG
+ | alt6               = St. Mark's Episcopal Church
+ | caption6           = [[St. Mark's Episcopal Church (Glendale, California)|St. Mark's Episcopal Church]]
+}}
+| image_flag         = Flag of Glendale, California.png
+| image_seal         = Seal of Glendale, California.png
+| nickname           = Jewel City
+| population_demonyms = Glendalian
+| motto              = 
+| image_map          = LA County Incorporated Areas Glendale highlighted.svg
+| map_caption        = Location within [[Los Angeles County]]
+| pushpin_map        = California#USA
+| pushpin_relief     = 1
+| pushpin_mapsize    = 290px
+| pushpin_map_caption = Location within California##Location within the United States
+| pushpin_label      = Glendale
+| pushpin_label_position = right
+| coordinates        = {{coord|34|08|46|N|118|15|18|W|display=inline,title}}
+| subdivision_type   = [[Country]]
+| subdivision_name   = {{Flagu|United States}}
+| subdivision_type1  = [[U.S. state|State]]
+| subdivision_name1  = {{flag|California}}
+| subdivision_type2  = [[List of counties in California|County]]
+| subdivision_name2  = {{flag country|Los Angeles County, California}}
+<!-- History -------------->| established_title  = [[Municipal corporation|Incorporated]]
+| established_date   = February 15, 1906<ref>{{Cite web |title=California Cities by Incorporation Date |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc |url-status=dead |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc |archive-date=November 3, 2014 |access-date=August 25, 2014 |publisher=California Association of [[Local Agency Formation Commission]]s |format=Word}}</ref>
+<!-- Government ----------->| government_type    = [[Council-manager government|Council-Manager]]<ref name="cc" />
+| leader_title       = [[Mayor]]
+| leader_name        = [[Elen Asatryan]]<ref name="cc" />
+| leader_title2      = [[City Council]]
+| leader_name2       = [[Ardy Kassakhian]] <br> Vartan Gharpetian <br> [[Ara Najarian]] <br> Dan Brotman
+| leader_title3      = [[City Treasurer]]
+| leader_name3       = [[Rafi Manoukian]]<ref>{{Cite web |title=City Treasurer |url=http://glendaleca.gov/government/departments/city-Treasurer |url-status=live |archive-url=https://web.archive.org/web/20151029170648/http://www.glendaleca.gov/government/departments/city-treasurer |archive-date=October 29, 2015 |access-date=February 4, 2015 |website=City of Glendale}}</ref>
+| leader_title4      = [[City Manager]]
+| leader_name4       = Roubik Golanian<ref>{{Cite web |title=Office Of The City Manager |url=https://www.glendaleca.gov/government/departments/management-services/glendale-city-managers |url-status=live |archive-url=https://web.archive.org/web/20210709185707/https://www.glendaleca.gov/government/departments/management-services/glendale-city-managers |archive-date=July 9, 2021 |access-date=July 8, 2021 |website=City Of Glendale}}</ref>
+<!-- Area ----------------->| unit_pref          = Imperial
+| area_footnotes     = <ref name="CenPopGazetteer2019">{{Cite web |title=2019 U.S. Gazetteer Files |url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt |url-status=live |archive-url=https://web.archive.org/web/20200116044541/https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt |archive-date=January 16, 2020 |access-date=July 1, 2020 |publisher=United States Census Bureau}}</ref>
+| area_total_km2     = 79.25
+| area_total_sq_mi   = 30.60
+| area_land_km2      = 78.92
+| area_land_sq_mi    = 30.47
+| area_water_km2     = 0.33
+| area_water_sq_mi   = 0.13
+| area_water_percent = 0.43
+| area_note          = <!-- Elevation ------------>
+| elevation_footnotes = <ref>{{Cite GNIS|1660679|Glendale|access-date=October 22, 2014}}</ref>
+| elevation_m        = 159
+| elevation_ft       = 522
+<!-- Population ----------->| population_total   = 196543
+| population_as_of   = [[2020 United States census|2020]]
+| population_footnotes = <ref name="quif">{{Cite web |title=QuickFacts : Glendale city, California |url=https://www.census.gov/quickfacts/fact/table/glendalecitycalifornia/INC110219 |url-status=live |archive-url=https://web.archive.org/web/20210302025438/https://www.census.gov/quickfacts/fact/table/glendalecitycalifornia/INC110219 |archive-date=March 2, 2021 |access-date=February 3, 2022 |website=Census.gov}}</ref>
+| population_density_km2 = 2519.7
+| population_density_sq_mi = 6450.4
+| population_est     = 
+| pop_est_as_of      = 
+| pop_est_footnotes  = <ref name="USCensusEst2019">{{Cite web |title=Population and Housing Unit Estimates |url=https://www.census.gov/programs-surveys/popest/data/tables.2019.html |url-status=live |archive-url=https://web.archive.org/web/20210420062715/https://www.census.gov/programs-surveys/popest/data/tables.2019.html |archive-date=April 20, 2021 |access-date=May 21, 2020 |website=Census.gov}}</ref>
+| population_rank    = [[List of cities in Los Angeles County, California|4th]] in Los Angeles County<br />[[List of largest California cities by population|24th]] in California<br />[[List of United States cities by population|138th]] in the United States
+| postal_code_type   = [[ZIP Code]]s<ref>{{Cite web |title=ZIP Code(tm) Lookup |url=https://tools.usps.com/go/ZipLookupAction!input.action |url-status=live |archive-url=https://web.archive.org/web/20181226014919/https://tools.usps.com/go/ZipLookupAction!input.action%0A |archive-date=December 26, 2018 |access-date=November 30, 2014 |publisher=[[United States Postal Service]]}}</ref>
+| postal_code        = 91201–91210, 91214, 91221, 91222, 91224–91226
+| area_code          = [[Area codes 747 and 818|747 and 818]]
+| area_code_type     = [[North American Numbering Plan|Area code]]
+| website            = {{URL|glendaleca.gov}}
+| timezone           = [[Pacific Time Zone|Pacific]]
+| utc_offset         = −8
+| timezone_DST       = PDT
+| utc_offset_DST     = −7
+<!-- Codes ---------------->| blank_name         = [[Federal Information Processing Standard|FIPS code]]
+| blank_info         = {{FIPS|06|30000}}
+| blank1_name        = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info        = {{GNIS 4|1660679}}, {{GNIS 4|2410597}}
+}}
+
+'''Glendale''' is a city in the [[San Fernando Valley]]<ref>{{Cite web |last=Wimberley |first=Laura |title=LibGuides: Los Angeles & the San Fernando Valley: San Fernando Valley |url=https://libguides.csun.edu/la-san-fernando-valley/sfv |url-status=live |archive-url=https://web.archive.org/web/20220111020749/https://libguides.csun.edu/la-san-fernando-valley/sfv |archive-date=January 11, 2022 |access-date=January 14, 2022 |website=libguides.csun.edu |language=en}}</ref> and [[Verdugo Mountains]]<ref>{{Cite web |title=Verdugos |url=http://maps.latimes.com/neighborhoods/region/verdugos/ |url-status=live |archive-url=https://web.archive.org/web/20130813033504/http://maps.latimes.com/neighborhoods/region/verdugos/ |archive-date=August 13, 2013 |access-date=May 20, 2021 |website=Mapping L.A.}}</ref> regions of [[Los Angeles County, California]], United States. At the [[2020 United States census|2020 U.S. Census]] the population was 196,543,<ref name=quif/> up from 191,719 at the [[2010 United States Census|2010 census]],<ref name="Census 2010">{{Cite web |title=Geographic Identifiers: 2010 Census Summary File 1 (G001), Glendale city, California |url=http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/G001/1600000US0630000 |url-status=dead |archive-url=https://archive.today/20200213082729/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/G001/1600000US0630000 |archive-date=February 13, 2020 |access-date=September 4, 2019 |website=American FactFinder |publisher=U.S. Census Bureau}}</ref> making it the 4th-most populous city in Los Angeles County and the [[List of largest California cities by population|24th-most populous city in California]]. It is located about {{convert|10|mi|0}} north of downtown [[Los Angeles]].
+
+Glendale lies in the Verdugo Mountains, and is a [[suburb]] in the [[Los Angeles metropolitan area]]. The city is bordered to the northwest by the [[Shadow Hills, Los Angeles|Shadow Hills]] and [[Tujunga, Los Angeles, California|Tujunga]] neighborhoods of Los Angeles; to the northeast by [[La Cañada Flintridge, California|La Cañada Flintridge]] and the unincorporated area of [[La Crescenta, California|La Crescenta]]; to the west by [[Burbank, California|Burbank]] and [[Griffith Park]]; to the east by [[Eagle Rock, Los Angeles|Eagle Rock]] and [[Pasadena, California|Pasadena]]; to the south by the [[Atwater Village, Los Angeles|Atwater Village]] neighborhood of Los Angeles; and to the southeast by [[Glassell Park, Los Angeles|Glassell Park]] neighborhood of Los Angeles. The [[Interstate 5 in California|Golden State]], [[Ventura Freeway|Ventura]], [[Glendale Freeway|Glendale]], and [[Foothill Freeway|Foothill]] freeways run through the city.
+
+==History==
+===Spanish rule===
+In 1798, [[Jose Maria Verdugo|José María Verdugo]], a [[corporal]] in the Spanish army from [[Baja California Peninsula|Baja California]], received the [[Rancho San Rafael]] from Governor [[Diego de Borica]], formalizing his possession and use of land on which he had been grazing livestock and farming since 1784. Rancho San Rafael was a Spanish concession, of which 25 were made in California. Unlike the later Mexican land grants, the concessions were similar to grazing permits, with the title remaining with the Spanish crown.<ref>Beck, Warren A., Haase, Ynez D. (1974). ''Historical Atlas of California''. Norman: University of Oklahoma Press.</ref>
+[[File:Catalina Verdugo Adobe.jpg|thumb|left|The [[Catalina Verdugo Adobe]] is the city's oldest building. It was built on [[Rancho San Rafael]], granted to [[José María Verdugo]] in 1784, which included all of modern-day Glendale.]]
+
+===Mexican rule===
+[[New Spain]] achieved its independence from the Spanish Empire in 1821, and from 1824, Rancho San Rafael existed within the new [[First Mexican Republic|Mexican Republic]].
+
+===1847 to present===
+Mexican rule ended during the Mexican–American War: Americans took control from the [[Californios]] after a series of battles, culminating with the signing of the [[Treaty of Cahuenga]] on January 13, 1847.<ref>{{Cite book |last=Guinn |first=James Miller |url=https://books.google.com/books?id=KyFPAAAAYAAJ |title=Historical and biographical record of southern California: containing a history of southern California from its earliest settlement to the opening year of the twentieth century |publisher=Chapman pub. co. |year=1902 |page=50 |access-date=September 30, 2011 |archive-url=https://web.archive.org/web/20230318040525/https://books.google.com/books?id=KyFPAAAAYAAJ |archive-date=March 18, 2023 |url-status=live}}</ref> With the [[Mexican Cession|cession]] of California to the United States following the [[Mexican–American War]], the 1848 [[Treaty of Guadalupe Hidalgo]] provided that the land grants would be honored. As required by the Land Act of 1851, a claim was filed with the [[Public Land Commission]] in 1852,<ref>{{Cite web |title=United States. District Court (California : Southern District) Land Case 381 SD |url=http://content.cdlib.org/view?docId=hb109nb422&chunk.id=c01-1.3.6.4&brand=oac |url-status=live |archive-url=https://web.archive.org/web/20210714042733/https://oac.cdlib.org/view?docId=hb109nb422&chunk.id=c01-1.3.6.4&brand=oac |archive-date=July 14, 2021 |access-date=October 25, 2022}}</ref> confirmed by the Commission in 1855, and the grant was [[Land patent|patented]] to Julio and Catalina Verdugo in 1882.<ref>{{Cite web |title=Report of the Surveyor General 1844 – 1886 |url=http://www.slc.ca.gov/Misc_Pages/Historical/Surveyors_General/reports/Willey_1884_1886.pdf |url-status=dead |archive-url=https://web.archive.org/web/20090504094306/http://www.slc.ca.gov/Misc_Pages/Historical/Surveyors_General/reports/Willey_1884_1886.pdf |archive-date=May 4, 2009}}</ref>
+
+In 1860, José María Verdugo's grandson [[Jose Maria Verdugo#Julio Verdugo|Teodoro Verdugo]] built the [[Catalina Verdugo Adobe]], which is the oldest building in Glendale. The property is the location of the Oak of Peace, where early [[Californio]] leaders including [[Pio Pico]] met in 1847 and decided to surrender to [[Lieutenant Colonel]] [[John C. Frémont]].
+[[File:Glendale-1870s.jpg|thumb|left|View of Glendale in the 1870s]]
+Verdugo's descendants sold the ranch in various parcels, some of which are included in present-day [[Atwater Village, Los Angeles, California|Atwater Village]], [[Eagle Rock, Los Angeles, California|Eagle Rock]], and [[Highland Park, Los Angeles, California|Highland Park]] neighborhoods of Los Angeles.
+
+In 1883, soon after [[Atwater Village]] was settled, the [[Atwater Tract Office]] brought train service to the area.<ref>{{Cite news |last=Creason |first=Glen |date=June 18, 2021 |title=The Secret, Sordid History Of Threemile House, A Den Of Iniquity On The Edge Of 1890s LA |url=https://laist.com/news/arts-and-entertainment/the-secret-sordid-history-of-threemile-house-a-den-of-iniquity-on-the-edge-of-1890s-la |url-status=live |archive-url=https://web.archive.org/web/20221025185638/https://laist.com/news/arts-and-entertainment/the-secret-sordid-history-of-threemile-house-a-den-of-iniquity-on-the-edge-of-1890s-la |archive-date=October 25, 2022 |access-date=December 9, 2021 |agency=LAist}}</ref> In 1884, residents gathered to form a townsite and chose the name "Glendale". It was bounded by First Street (now Lexington Drive) on the north, Fifth Street (now Harvard Street) on the south, Central Avenue on the west, and the Childs Tract on the east.<ref>{{Cite web |date=July 2006 |title=Historical Resources Technical Report for the Glendale Downtown Specific Plan EIR City of Glendale, California |url=http://www.glendaleca.gov/home/showdocument?id=12686 |url-status=live |archive-url=https://web.archive.org/web/20160115172937/http://www.glendaleca.gov/home/showdocument?id=12686 |archive-date=January 15, 2016 |access-date=July 8, 2021 |website=City of Glendale}}</ref> Residents to the southwest formed [[Tropico, California|Tropico]] in 1887.<ref>{{Cite web |last=Masters |first=Nathan |date=June 16, 2014 |title=The Lost City of Tropico, California |url=https://www.kcet.org/shows/lost-la/the-lost-city-of-tropico-california |url-status=live |archive-url=https://web.archive.org/web/20191002003326/https://www.kcet.org/shows/lost-la/the-lost-city-of-tropico-california |archive-date=October 2, 2019 |access-date=December 25, 2020 |website=KCET |language=en}}</ref>
+
+[[File:Glendale-Brand-1915.jpg|thumb|left|Brand Street in Glendale – a [[Glendale–Burbank Line]] streetcar stops to pick up and drop off passengers in 1915.]]
+
+An important civic [[wikt:booster|booster]] of the era was [[Leslie Coombs Brand]] (1859–1925), who built an estate in 1904 called El Miradero, featuring an eye-catching mansion, the architecture of which combined characteristics of Spanish, Moorish, and Indian styles, copied from the East Indian Pavilion at the 1893 [[World's Columbian Exposition]] held in Chicago, which he visited.
+
+Brand partnered with [[Henry E. Huntington]] to bring the [[Pacific Electric]] Railway, or the "Red Cars", to the area. The [[Glendale–Burbank Line]], which was operational from 1904 to 1955, ran from [[Downtown Los Angeles]] to [[Burbank, California|Burbank]] via Glendale. The dual-track streetcars entered the Glendale city limit by crossing San Fernando Road, and the line continued northerly in the pavement of Brand Boulevard, crossing Los Feliz Boulevard, Chevy Chase Boulevard, Colorado Boulevard, Broadway and Lexington Drive. The main line continued north to Verdugo Wash where the line became a single track. At Arden Junction at Glenoaks Boulevard, the line branched. The old main line continued north in the pavement of Brand Boulevard to a terminus in North Glendale at Mountain Avenue. The Burbank Line diverged westerly as a single-track line on private way in the center of Glenoaks Boulevard, then continued westerly past Central, Pacific, Highland, Western, and Alameda Avenues to a terminus in Burbank at Cypress Avenue.<ref>{{Cite web |title=Glendale-Burbank Line |url=http://www.erha.org/pewgb.htm |url-status=live |archive-url=https://web.archive.org/web/20090114163234/http://www.erha.org/pewgb.htm |archive-date=January 14, 2009 |access-date=October 25, 2022}}</ref>
+
+Brand loved to fly, and built a private airstrip in 1919 and hosted "fly-in" parties, providing a direct link to the soon-to-be-built nearby [[Grand Central Airport (United States)|Grand Central Airport]]. The grounds of El Miradero are now city-owned Brand Park and the mansion is the Brand Library, according to the terms of his will.<ref>{{Cite web |date=July 28, 2010 |title=The Brand legacy, Mansion and Library |url=http://www.brandlibrary.org/brand_history.asp |url-status=dead |archive-url=https://web.archive.org/web/20101206190412/http://brandlibrary.org/brand_history.asp |archive-date=December 6, 2010 |access-date=January 29, 2011 |publisher=Brandlibrary.org}}</ref>
+
+The Forest Lawn Cemetery opened in 1906 and was renamed [[Forest Lawn Memorial Park (Glendale)|Forest Lawn Memorial-Park]]<ref>Kath, Laura. Forest Lawn: The first 100 years, Tropico Press, 2006</ref> in 1917. Pioneering [[endocrinology|endocrinologist]] and entrepreneur [[Henry Harrower|Henry R. Harrower]] opened his clinic in Glendale in 1920, which for many years was the largest business in the city.
+
+In 1922, the Atwater Tract Office was demolished, and construction began on the [[Glendale Transportation Center]].<ref>{{Cite web |title=Glendale, CA (GDL) |url=https://www.greatamericanstations.com/stations/glendale-ca-gdl/ |url-status=live |archive-url=https://web.archive.org/web/20221025185639/https://www.greatamericanstations.com/stations/glendale-ca-gdl/ |archive-date=October 25, 2022 |access-date=October 25, 2022}}</ref>
+
+[[File:Old Flag of Glendale, California.gif|thumb|Old flag of Glendale]]
+
+The city flag was adopted by Glendale on September 18, 1924, and was designed by Hugh A. Maron, who also won $100 for designing it. The flag was then changed to the current one (seen above) in 2001.
+
+The American Green Cross, an early [[Conservation ethic|conservation]] and tree preservation society, was formed in 1926 (it disbanded three years later and the current organization of that name is unrelated).
+[[File:GlendaleHotel2 (cropped).jpg|thumb|right|The historic [[Hotel Glendale]] was built in the 1920s.]]
+[[Grand Central Airport (California)|Grand Central Airport]] was the departure point for the first commercial west-to-east transcontinental flight flown by [[Charles Lindbergh]].
+
+===Sundown town status===
+Until as late as the 1960s, Glendale was a [[sundown town]]. Nonwhites were required to leave city limits by a certain time each day or risk arrest and possible violence.<ref>{{Cite web |last=Crouch |first=Angie |date=October 13, 2020 |title=City of Glendale Apologizes for Its History as a 'Sundown Town' |url=https://www.nbclosangeles.com/news/local/city-of-glendale-apologizes-for-its-history-as-a-sundown-town/2443011/ |url-status=live |archive-url=https://web.archive.org/web/20210118151026/https://www.nbclosangeles.com/news/local/city-of-glendale-apologizes-for-its-history-as-a-sundown-town/2443011/ |archive-date=January 18, 2021 |access-date=January 11, 2021 |publisher=NBC Los Angeles}}</ref> In the 1930s, Glendale and [[Burbank, California|Burbank]] prevented the [[Civilian Conservation Corps]] from stationing African American workers in a local park, citing sundown town ordinances that both cities had adopted.<ref>{{Cite book |last=Loewen |first=James W. |author-link=James W. Loewen |url=https://books.google.com/books?id=abhIDwAAQBAJ&pg=PT81 |title=Sundown Towns: A Hidden Dimension of American Racism |date=2005 |publisher=[[The New Press]] |isbn=978-1-62097-454-4 |location=New York City |access-date=March 10, 2019 |archive-url=https://web.archive.org/web/20230318040521/https://books.google.com/books?id=abhIDwAAQBAJ&pg=PT81 |archive-date=March 18, 2023 |url-status=live |via=Google Books}}</ref> In 1964, Glendale was selected by [[George Lincoln Rockwell]] to be the West Coast headquarters of the [[American Nazi Party]]. After a legal battle with the city of Glendale, the party moved their headquarters to [[El Monte, California|El Monte]] in 1966.<ref>{{Cite news |date=February 16, 2018 |title=From the Archives: A protest at Nazi headquarters in El Monte |url=https://www.latimes.com/visuals/photography/la-me-fw-archives-protest-at-nazi-headquarters-in-el-monte-20171005-story.html |url-status=live |archive-url=https://web.archive.org/web/20201009184539/https://www.latimes.com/visuals/photography/la-me-fw-archives-protest-at-nazi-headquarters-in-el-monte-20171005-story.html |archive-date=October 9, 2020 |access-date=October 13, 2020 |work=LA Times}}</ref><ref>{{Cite web |date=January 4, 2014 |title=The American Nazi Party's attempts to establish itself in the South Bay |url=http://blogs.dailybreeze.com/history/2014/01/04/the-american-nazi-partys-attempts-to-establish-itself-in-the-south-bay/?doing_wp_cron=1602629332.1215291023254394531250 |url-status=live |archive-url=https://web.archive.org/web/20201014144634/http://blogs.dailybreeze.com/history/2014/01/04/the-american-nazi-partys-attempts-to-establish-itself-in-the-south-bay/?doing_wp_cron=1602629332.1215291023254394531250 |archive-date=October 14, 2020 |access-date=October 13, 2020 |publisher=The Daily Breeze}}</ref>
+
+The emergence of increasingly visible ethnic groups—including [[Armenians]], [[Cubans]] and [[Filipinos]] and [[Koreans]]—changed the official discourse in Glendale. In 1972, C.E. Perkins, then [[city manager]], encouraged the [[Rotary International|Rotary Club of Glendale]] to prepare itself as the city could no longer remain isolated in an increasingly diverse America.<ref>{{Cite book |last=Arroyo |first=Juliet |title=Glendale, 1940–2000: Images of America |date=2006 |publisher=Arcadia Publishing |isbn=0738531073}}</ref>
+
+==Geography==
+[[File:Glendale California From Forest Lawn.jpg|thumb|left|View of Glendale with the [[San Gabriel Mountains]] and the [[Verdugo Mountains]] in the background]]
+
+Glendale is located in the southeastern [[San Fernando Valley]]. According to the [[United States Census Bureau]], the city has a total area of {{convert|79.212|km2|mi2|1|abbr=on|order=flip}}; {{convert|30.5|sqmi|km2}} of it is land and {{convert|0.13|sqmi|km2}} of it (0.43%) is covered by water. Glendale is the fourth largest<ref>{{Cite web |title=News {{!}} City of Glendale, CA |url=https://www.glendaleca.gov/Home/Components/News/News/8496/16 |url-status=live |archive-url=https://web.archive.org/web/20220914081909/https://www.glendaleca.gov/Home/Components/News/News/8496/16 |archive-date=September 14, 2022 |access-date=September 14, 2022 |website=www.glendaleca.gov |language=en}}</ref> city within Los Angeles County. It is bordered to the north by the foothill communities of [[La Cañada Flintridge, California|La Cañada Flintridge]], [[La Crescenta, California|La Crescenta]], and [[Sunland-Tujunga, Los Angeles|Tujunga]]; to the south by the [[Atwater Village]] and [[Glassell Park]] communities incorporated by the city of Los Angeles; to the east by [[Pasadena, California|Pasadena]] and [[Eagle Rock, California|Eagle Rock]] (also incorporated within Los Angeles); and to the west by Griffith Park and the city of [[Burbank, California|Burbank]]. Glendale is located {{convert|10|mi|km}} north of [[downtown Los Angeles]].<ref name="Texeirap1">{{Cite news |last=Texeira |first=Erin |date=June 25, 2000 |title=Ethnic Friction Disturbs Peace of Glendale |url=https://www.latimes.com/archives/la-xpm-2000-jun-25-mn-44684-story.html |url-status=live |archive-url=https://web.archive.org/web/20160305231927/http://articles.latimes.com/2000/jun/25/news/mn-44684 |archive-date=March 5, 2016 |access-date=July 18, 2021 |work=[[Los Angeles Times]]}}</ref>
+
+===Geology===
+Several known earthquake faults criss-cross the Glendale area and adjacent mountains, as in much of Southern California. Among the more recognized faults are the Sierra Madre and Hollywood faults, situated in the city's northern and southwestern portions, respectively. Additionally, the Verdugo and Raymond faults intersect through the city's central and southeastern areas. The San Gabriel fault, meanwhile, is located northeast of the city. Roughly {{convert|75|mi|km}} northeast of Glendale is a major portion of the [[San Andreas Fault]] known as the "Big Bend", where quake-recurrence tracking shows major activity roughly every 140–160 years. The closest portion of the San Andreas is actually {{convert|29|mi|km}} from Glendale. The last major quake along the southern San Andreas was recorded in 1857.
+[[File:Forest Lawn and Verdugo Mountains.jpg|thumb|right|[[Forest Lawn Memorial Park (Glendale)|Forest Lawn Memorial Park]] and the [[Verdugo Mountains]]]]
+In the [[1971 San Fernando earthquake]], which took place along the western edge of the Sierra Madre Fault, surface ruptures were nearly {{convert|12|mi|km}} long, including one portion a few miles northwest of Glendale. Most of the damage was in the northern San Fernando Valley, though 31 structures in Glendale suffered major damage and had to be demolished, plus numerous chimneys collapsed. The [[1994 Northridge earthquake]] had an epicenter about {{convert|18|mi|km}} from Glendale. The city suffered severe damage to a public parking structure and sections of the [[Glendale Galleria]] parking structures and exterior columns incurred damages.<ref>[https://web.archive.org/web/20110717013745/http://www.ci.glendale.ca.us/pdf/HMP/HMP_Sec-6_Earthquakes.pdf Ci.glendale.ca] City of Glendale report</ref>
+
+===Climate===
+Glendale has a [[Mediterranean climate]] ([[Köppen climate classification]]: ''Csa''), with hot summers and mild winters with occasional rainfall. The highest recorded temperature in Glendale was {{convert|115|°F|°C}} on September 6, 2020. The lowest recorded temperature was {{convert|17|°F|°C}} on February 15, 1990. The warmest month is August and the coolest month is January.
+
+The annual average precipitation is just over {{convert|21|in|mm}}, mostly falling between November and April. Rainfall totals are highly variable from year to year, with the wettest years (sometimes over {{convert|30|in|mm}} of rainfall) usually associated with warm [[El Niño]] conditions, and the drier years (sometimes under {{convert|10|in|mm}} of rainfall) with cool [[La Niña]] episodes in the Pacific.
+
+The hills and mountains of northern Glendale very rarely have snow, owing to its warmer temperatures during the winter. It may only occur about every five to ten years. The last time it snowed was February 26, 2011, in which snow accumulation of approximately {{convert|3|in|cm}} occurred and sleet was present. Frost sometimes occurs at night from late November to early March. Heavy rains and thunderstorms are also common during the winter. The spring brings temperate weather, with little rain. The summer is usually fairly warm, with highs from {{convert|85|°F|°C}}, to the low 100s (40&nbsp;°C). Summer is usually very dry, but thunderstorms can come from Arizona, bringing high humidity into the area. These rare days cause heat indices over {{convert|120|°F|°C}}. Fall often brings clear and dry weather, but can be gusty due to the Santa Ana winds, blowing in once or twice a year from October to December. Santa Ana winds can reach up to {{convert|70|mph|km/h}}, with gusts up to {{convert|100|mph|km/h}} in mountain passes and canyons. Thunderstorms occur very rarely and they are accompanied by gusty winds and hail.<ref>{{Cite web |title=Forecasts |url=http://www.weather.com/weather/wxclimatology/monthly/graph/91205 |url-status=dead |archive-url=https://web.archive.org/web/20181128210904/https://weather.com/weather/wxclimatology/monthly/graph/91205 |archive-date=November 28, 2018 |access-date=December 1, 2018}}</ref>
+{{Weather box
+|location = Glendale, California
+|single line = Y
+|Jan record high F = 93
+|Feb record high F = 92
+|Mar record high F = 96
+|Apr record high F = 105
+|May record high F = 102
+|Jun record high F = 110
+|Jul record high F = 110
+|Aug record high F = 107
+|Sep record high F = 115
+|Oct record high F = 110
+|Nov record high F = 98
+|Dec record high F = 93
+|year record high F = 115
+|Jan high F = 68
+|Feb high F = 70
+|Mar high F = 70
+|Apr high F = 75
+|May high F = 76
+|Jun high F = 82
+|Jul high F = 87
+|Aug high F = 88
+|Sep high F = 86
+|Oct high F = 81
+|Nov high F = 74
+|Dec high F = 69
+|year high F = 77
+|Jan low F = 45
+|Feb low F = 47
+|Mar low F = 48
+|Apr low F = 51
+|May low F = 55
+|Jun low F = 59
+|Jul low F = 62
+|Aug low F = 63
+|Sep low F = 62
+|Oct low F = 56
+|Nov low F = 49
+|Dec low F = 45
+|year low F = 54
+|Jan record low F = 23
+|Feb record low F = 17
+|Mar record low F = 23
+|Apr record low F = 34
+|May record low F = 37
+|Jun record low F = 41
+|Jul record low F = 45
+|Aug record low F = 48
+|Sep record low F = 44
+|Oct record low F = 37
+|Nov record low F = 29
+|Dec record low F = 26
+|year record low F =17
+|precipitation colour = green
+|Jan precipitation inch = 3.74
+|Feb precipitation inch = 4.19
+|Mar precipitation inch = 3.56
+|Apr precipitation inch = 0.90
+|May precipitation inch = 0.34
+|Jun precipitation inch = 0.08
+|Jul precipitation inch = 0.02
+|Aug precipitation inch = 0.15
+|Sep precipitation inch = 0.35
+|Oct precipitation inch = 0.49
+|Nov precipitation inch = 1.26
+|Dec precipitation inch = 2.10
+|year precipitation inch = 17.17
+|source 1 =<ref>{{Cite web |title=Zipcode 91205 |url=https://www.plantmaps.com/91205 |url-status=live |archive-url=https://web.archive.org/web/20210421074151/https://www.plantmaps.com/91205 |archive-date=April 21, 2021 |access-date=April 21, 2021 |website=Plantmaps.com}}</ref>
+|source 2 =<ref>{{Cite web |title=Glendale, CA Monthly Weather |url=https://weather.com/weather/monthly/l/Glendale+CA?canonicalCityId=8d4121c168edcfdb0f861a331d68fe219c91371e4679c866e5f0dd4db4645790 |url-status=live |archive-url=https://web.archive.org/web/20200604052718/https://weather.com/weather/monthly/l/Glendale+CA?canonicalCityId=8d4121c168edcfdb0f861a331d68fe219c91371e4679c866e5f0dd4db4645790 |archive-date=June 4, 2020 |access-date=June 3, 2020 |website=Weather.com |publisher=Intellicast}}</ref>
+|date=June 2020
+}}
+
+==Demographics==
+{{US Census population
+|1910= 2746
+|1920= 13536
+|1930= 62736
+|1940= 82582
+|1950= 95702
+|1960= 119442
+|1970= 132664
+|1980= 139060
+|1990= 180038
+|2000= 194973
+|2010= 191719
+|2020= 196543
+|estimate= 189221
+|estyear= 2022
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{Cite web |title=Census of Population and Housing |url=https://www.census.gov/programs-surveys/decennial-census.html |url-status=live |archive-url=https://web.archive.org/web/20150426102944/http://www.census.gov/prod/www/decennial.html |archive-date=April 26, 2015 |access-date=June 4, 2015 |publisher=Census.gov}}</ref> 2020 and 2022<ref name=quif/>
+}}
+
+The [[2020 United States census]] reported that Glendale had a population of 196,543. The age distribution was 22.9% under 18, 58.7% from 18 to 64, and 18.4% who were 65 or older.<ref>{{citeweb|url=https://www.census.gov/quickfacts/fact/table/glendalecitycalifornia,losangelescitycalifornia,CA/POP010220|title=QuickFacts: Glendale city, California; Los Angeles city, California; California|access-date=September 25, 2024}}</ref>
+
+As of 2021, Glendale’s population includes:<ref>{{citeweb|url=https://www.glendaleca.gov/home/showpublisheddocument/71891/638385123529600000|title=2022-2023 Report on the Status of Women and Girls in Glendale|author=[[Mount Saint Mary's University]]|access-date=September 25, 2024}}</ref>
+
+* 54,000 [[child|children]] under the age of 18 years,
+* 10,100 [[woman|women]] who live alone,
+* 7,000 [[man|men]] who live alone, and
+* 730 women and men who are in [[homosexuality|same-sex]] relationships, either as [[marriage|married]] or [[Domestic partnership|unmarried]] couples.
+
+===Race and ethnicity===
+{| class="wikitable" style="text-align:center;"
+|+'''Glendale, California – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name="2000CensusP004">{{Cite web |title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Glendale city, California |url=https://data.census.gov/table?g=160XX00US0630000&tid=DECENNIALSF12000.P004 |access-date=January 26, 2024 |publisher=United States Census Bureau}}</ref>
+!Pop 2010<ref name="2010CensusP2">{{Cite web |title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Glendale city, California |url=https://data.census.gov/table?q=p2&g=160XX00US0630000&tid=DECENNIALPL2010.P2 |access-date=January 26, 2024 |publisher=United States Census Bureau}}</ref>
+!{{partial|Pop 2020}}<ref name="2020CensusP2">{{Cite web |title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Glendale city, California |url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US0630000&tid=DECENNIALPL2020.P2 |access-date=January 26, 2024 |publisher=United States Census Bureau |archive-date=January 15, 2024 |archive-url=https://web.archive.org/web/20240115211516/https://data.census.gov/cedsci/table?q=p2&g=160XX00US0630000&tid=DECENNIALPL2020.P2 |url-status=live }}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|105,597
+|117,929
+|style='background: #ffffe6; |122,519
+|54.16%
+|61.51%
+|style='background: #ffffe6; |62.34%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|2,230
+|2,325
+|style='background: #ffffe6; |3,365
+|1.14%
+|1.21%
+|style='background: #ffffe6; |1.71%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|293
+|192
+|style='background: #ffffe6; |203
+|0.15%
+|0.10%
+|style='background: #ffffe6; |0.10%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|31,227
+|31,073
+|style='background: #ffffe6; |29,461
+|16.02%
+|16.21%
+|style='background: #ffffe6; |14.99%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|143
+|105
+|style='background: #ffffe6; |120
+|0.07%
+|0.05%
+|style='background: #ffffe6; |0.06%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|370
+|366
+|style='background: #ffffe6; |709
+|0.19%
+|0.19%
+|style='background: #ffffe6; |0.36%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|16,661
+|6,315
+|style='background: #ffffe6; |6,591
+|8.55%
+|3.29%
+|style='background: #ffffe6; |3.35%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|38,452
+|33,414
+|style='background: #ffffe6; |33,575
+|19.72%
+|17.43%
+|style='background: #ffffe6; |17.08%
+|-
+|'''Total'''
+|'''194,973'''
+|'''191,719'''
+|style='background: #ffffe6; |'''196,543'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+====Armenians====
+{{see also|History of Armenian Americans in Los Angeles}}
+[[File:Armenian Genocide memorial at St Marys Armenian Apostolic Church in Glendale.jpg|thumb|right|[[Armenian genocide]] memorial]]
+Glendale has one of the largest communities of [[Armenian Americans|Armenian]] descent in the United States.<ref>{{Cite news |last=Rath |first=Arun |date=April 25, 2015 |title=The Armenian Diaspora Remembers And Mourns |url=https://www.npr.org/2015/04/25/402229648/the-armenian-diaspora-remembers-and-mourns |url-status=live |archive-url=https://web.archive.org/web/20201027231029/https://www.npr.org/2015/04/25/402229648/the-armenian-diaspora-remembers-and-mourns |archive-date=October 27, 2020 |access-date=April 5, 2018 |work=NPR News}}</ref>
+
+=====History=====
+Armenian families have lived in the city since the 1920s, but the surge in immigration escalated in the 1970s. Armenian Americans are well integrated into the city, with many businesses, several Armenian schools, and ethnic/cultural organizations serving this ethnic group.
+
+Beginning in the late 1970s, as a result of the [[Lebanese Civil War]] and the [[Iranian Revolution]], a dramatic influx of Armenians began to arrive in Glendale.<ref>{{Cite web |last=McCormick |first=Chris |date=April 4, 2016 |title=Armenian Exceptionalism |url=https://www.theatlantic.com/business/archive/2016/04/glendale-armenians/475926/ |access-date=August 19, 2024 |website=[[The Atlantic]] |archive-date=February 14, 2021 |archive-url=https://web.archive.org/web/20210214064631/https://www.theatlantic.com/business/archive/2016/04/glendale-armenians/475926/ |url-status=live }}</ref>
+
+Beginning in the late 1980s, with assistance from family and friends already there, Armenians from the former Soviet Union began arriving.<ref name=Texeirap1/> In the [[Glendale Unified School District]], by 1988, along with students from the Middle East, they had become the largest ethnic group in the public schools, now having a larger number than Latinos.<ref name="CliffordRoark2">{{Cite news |last=Clifford |first=Frank |last2=Roark |first2=Anne C. |date=May 6, 1991 |title=Racial Lines in County Blur but Could Return: Population: Times study of census finds communities far more mixed. Some experts fear new ethnic divisions |url=https://www.latimes.com/archives/la-xpm-1991-05-06-mn-917-story.html |url-status=live |archive-url=https://web.archive.org/web/20140329034651/https://articles.latimes.com/1991-05-06/news/mn-917_1_black-population |archive-date=March 29, 2014 |access-date=July 10, 2021 |work=[[Los Angeles Times]]}}</ref>
+
+By 1996, longtime [[Anglo]] residents, largely fueled by [[anti-Armenian sentiment]], decried the increased density in South Glendale.<ref>{{Cite news |last=Rodriguez |first=Gregory |date=June 16, 1996 |title=Glendale's 'Racist Shadow' Shrinks as City Transforms Itself |url=https://www.latimes.com/archives/la-xpm-1996-06-16-op-15622-story.html |url-status=live |archive-url=https://web.archive.org/web/20190108213253/http://articles.latimes.com/1996-06-16/opinion/op-15622_1_city-officials |archive-date=January 8, 2019 |access-date=March 7, 2023 |work=[[The Los Angeles Times]]}}</ref> By 1999, about 25% of the population spoke Armenian and there were many Armenian businesses.<ref>{{Cite news |last=Gettleman |first=Jeffrey |author-link=Jeffrey Gettleman |date=February 6, 1999 |title=Armenian Artists Stranded in Glendale |url=https://www.latimes.com/archives/la-xpm-1999-feb-06-me-5390-story.html |url-status=live |archive-url=https://archive.today/20140328121606/http://articles.latimes.com/1999/feb/06/local/me-5390 |archive-date=March 28, 2014 |access-date=July 10, 2021 |work=[[Los Angeles Times]]}}</ref>
+
+According to the [[United States 2000 Census]], Glendale is home to 65,343 Armenian Americans<ref>{{Cite web |last=American FactFinder, United States Census Bureau |title=U.S. Census Bureau – Ancestry:2010 – Glendale city, California |url=http://factfinder.census.gov/bkmk/table/1.0/en/ACS/10_SF4/B01001/1600000US0630000/popgroup~513 |url-status=dead |archive-url=https://archive.today/20200212093800/http://factfinder.census.gov/bkmk/table/1.0/en/ACS/10_SF4/B01001/1600000US0630000/popgroup~513 |archive-date=February 12, 2020 |access-date=March 18, 2013 |publisher=Factfinder.census.gov}}</ref> (making up 34.1% of the total population), increasing from 1990 when there were 31,402 Armenian Americans in the city.<ref>{{Cite web |date=September 8, 2002 |title=Armenian Population Up Valley, Glendale And Burbank Show Big Percentage Hikes |url=http://www.thefreelibrary.com/ARMENIAN+POPULATION+UP+VALLEY,+GLENDALE+AND+BURBANK+SHOW+BIG...-a091245026 |url-status=dead |archive-url=https://web.archive.org/web/20170716000624/https://www.thefreelibrary.com/ARMENIAN+POPULATION+UP+VALLEY%2c+GLENDALE+AND+BURBANK+SHOW+BIG...-a091245026 |archive-date=July 16, 2017 |access-date=January 29, 2011 |publisher=Thefreelibrary.com}}</ref> As of 2005, one-third of Los Angeles' estimated 153,000 Armenians (or 51,000, around a quarter of Glendale's 205,000 residents) lived in Glendale. At that time, Armenians held a majority on the Glendale city council,<ref>Shields, Nicholas. "[https://www.latimes.com/archives/la-xpm-2005-apr-07-me-election7-story.html Armenians Will Hold a Majority on Glendale Council] ." ''[[Los Angeles Times]]''. April 7, 2005. Retrieved March 28, 2014.</ref> and it had done so since that year.<ref name=CovarrubiasArme/> By 2005, the Armenian population was 40% of the total population.<ref name="CovarrubiasArme">{{Cite news |last=Covarrubias |first=Amanda |date=August 8, 2005 |title=New Era for Glendale Armenians |url=https://www.latimes.com/archives/la-xpm-2005-aug-08-me-armenian8-story.html |url-status=live |archive-url=https://archive.today/20130128034356/http://articles.latimes.com/2005/aug/08/local/me-armenian8 |archive-date=January 28, 2013 |access-date=July 10, 2021 |work=[[Los Angeles Times]]}}</ref>
+
+In 2014, a Glendale Police Department spokesperson, stated, "In five to eight years, the [Armenian] community went from a few thousand to about 40,000."<ref name=Texeirap1/> Levon Marashlian, an instructor of [[Armenian history]] at [[Glendale Community College (California)|Glendale College]], stated that in the early 1990s Glendale's Armenian community became the largest in the [[Los Angeles metropolitan area]], surpassing the Armenian community of Hollywood.<ref name=Texeirap1/> Alice Petrossian, the GUSD director of intercultural education, stated that Burbank lies within the middle of other Armenian communities, so it attracted Armenians.<ref name=CliffordRoark2/> There are also a great number of Armenian immigrants from Iran who, due to the religious restrictions and lifestyle limitations of the [[Islamic Republic of Iran|Islamic government]], immigrated to the US, many to Glendale since it was where their relatives resided.
+
+=====Organizations=====
+In 1994, a new headquarters of the [[Armenian National Committee of America]]-Western Region opened in Glendale. ANCA Chairman Raffi Hamparian stated "One could look at it cynically and say they're coming because this is an election year, but on the other hand[,] the Armenian community has a lot of friends, because we're active in the public life of many cities[.]"<ref>{{Cite news |last=Ryfle |first=Steve |date=October 27, 1994 |title=Glendale: Armenian Center to Celebrate Opening |url=https://www.latimes.com/archives/la-xpm-1994-10-27-me-55263-story.html |url-status=live |archive-url=https://archive.today/20140328121542/http://articles.latimes.com/1994-10-27/local/me-55263_1_armenian-community |archive-date=March 28, 2014 |access-date=July 10, 2021 |work=[[Los Angeles Times]]}}</ref> In 2004, the Armenian Cultural Foundation started planning for an educational and [[Leisure centre|recreational]] youth center in south Glendale. In 2009, upon the center's completion, the various [[Armenian Revolutionary Federation]]-aligned organizations — such as the [[Armenian National Committee of America]], the [[Armenian Relief Society]], the [[Armenian Youth Federation]] and [[Hamazkayin]] — moved to this new facility.<ref>{{Citation |title=About the Center |url=https://gycglendale.org/about-the-center/ |access-date=August 6, 2024 |archive-date=August 6, 2024 |archive-url=https://web.archive.org/web/20240806184258/https://gycglendale.org/about-the-center/ |url-status=live }}</ref>
+
+The [[Armenian Assembly of America]]'s Western Region office is in Glendale.<ref>{{Citation |title=Contact Us |url=https://www.armenian-assembly.org/contact-us |access-date=August 6, 2024 |archive-date=August 6, 2024 |archive-url=https://web.archive.org/web/20240806182556/https://www.armenian-assembly.org/contact-us |url-status=live }}</ref>
+
+The [[Armenian General Benevolent Union]] serves Glendale through its [[Pasadena, California|Pasadena]]-based Pasadena-Glendale chapter.<ref>{{Citation |title=Pasadena-Glendale Chapter |url=https://agbuwesternregion.org/pasadena-chapter/ |access-date=August 6, 2024 |archive-date=August 6, 2024 |archive-url=https://web.archive.org/web/20240806184605/https://agbuwesternregion.org/pasadena-chapter/ |url-status=live }}</ref>
+
+[[Homenetmen]], a non-aligned [[sport]] and [[scouting]] organization, started its Glendale Ararat chapter in 1983. Since 1996, the chapter has been located in neighboring [[Glassell Park, Los Angeles|Glassell Park]].<ref>{{Citation |title=History of Ararat |url=https://www.ararat.org/about-us/history-of-ararat/ |access-date=August 6, 2024 |archive-date=August 6, 2024 |archive-url=https://web.archive.org/web/20240806190751/https://www.ararat.org/about-us/history-of-ararat/ |url-status=live }}</ref>
+
+====Other ethnic groups====
+The Mexican American community was established in Glendale by the 1960s. The late 1980s and early 1990s also saw increases in Mexican American population as Glendale offers higher-quality education in a safer suburban environment away from the city.<ref name=Texeirap1/>
+
+Several Korean cities have sought to create business and cultural relationships with Glendale.<ref>{{Cite web |date=December 31, 2012 |title=S. Korea pursues closer ties with Glendale |url=https://www.latimes.com/socal/glendale-news-press/community/tn-818-1231-s-korea-pursues-closer-ties-with-glendale-story.html |url-status=live |archive-url=https://web.archive.org/web/20220824235930/https://www.latimes.com/socal/glendale-news-press/community/tn-818-1231-s-korea-pursues-closer-ties-with-glendale-story.html |archive-date=August 24, 2022 |access-date=August 24, 2022 |website=[[Los Angeles Times]] |agency=Glendale News-Press}}</ref> Central Park has the only West Coast monument to Korean [[comfort women]] of [[World War II]].<ref>{{Cite web |last=Southern California Public Radio |date=August 11, 2014 |title=Glendale wins legal battle over monument to WW II 'comfort women' |url=http://www.scpr.org/blogs/multiamerican/2014/08/11/17131/glendale-monument-comfort-women/ |url-status=live |archive-url=https://web.archive.org/web/20150924095551/http://www.scpr.org/blogs/multiamerican/2014/08/11/17131/glendale-monument-comfort-women/ |archive-date=September 24, 2015 |access-date=June 1, 2015 |website=Southern California Public Radio}}</ref>
+
+{{as of|2012}}, [[Filipino Americans]] were the third largest minority group in Glendale, making up seven percent of the city's total population, overtaking [[Korean Americans]].<ref>{{Cite news |last=Levine |first=Brittany |date=April 26, 2012 |title=Glendale sees rise in Filipino population |url=https://www.latimes.com/tn-gnp-0427-city-sees-shifts-in-population-story.html |url-status=live |archive-url=https://web.archive.org/web/20170219000315/http://www.latimes.com/tn-gnp-0427-city-sees-shifts-in-population-story.html |archive-date=February 19, 2017 |access-date=February 17, 2017 |work=Los Angeles Times}}</ref>
+In 2022, the Filipino American Friendship Monument was unveiled in Central Park.<ref>{{Cite web |date=April 6, 2022 |title=Filipino American Friendship Monument unveiled in Glendale, CA — |url=https://www.asianjournal.com/usa/los-angeles/filipino-american-friendship-monument-unveiled-in-glendale-ca/ |url-status=live |archive-url=https://web.archive.org/web/20220630191039/https://www.asianjournal.com/usa/los-angeles/filipino-american-friendship-monument-unveiled-in-glendale-ca/ |archive-date=June 30, 2022 |access-date=August 24, 2022}}</ref>
+
+After the [[Iranian Revolution]], many [[Iranian Americans|Persians]] migrated to the cities seeking a suburban city with lower crime and quality education.<ref name="LAT 1990-02-13">{{Cite news |last=Mitchell |first=John L. |date=February 13, 1990 |title=Iranian Jews Find a Beverly Hills Refuge : Immigrants: Khomeini's revolution drove 40,000 of them into exile. At least 30,000 may live in or near the city that symbolizes wealth |url=https://www.latimes.com/archives/la-xpm-1990-02-13-me-543-story.html |url-status=live |archive-url=https://archive.today/20120707035446/http://articles.latimes.com/1990-02-13/local/me-543_1_beverly-hills |archive-date=July 7, 2012 |access-date=July 18, 2021 |work=[[Los Angeles Times]]}}</ref>
+
+===Religion===
+====Christianity====
+{{further|Christianity in the United States|Oriental Orthodoxy in North America}}
+
+[[St. Mark's Episcopal Church (Glendale, California)|St. Mark's Episcopal Church]] dates back to 1888, but the current building was built in 1948.<ref>{{Cite web |title=History |url=https://www.saintmarks.la/history |access-date=August 21, 2024 |archive-date=August 21, 2024 |archive-url=https://web.archive.org/web/20240821174201/https://www.saintmarks.la/history |url-status=live }}</ref>
+
+[[Holy Family Catholic Church (Glendale, California)|Holy Family Catholic Church]] dates back to 1907, but the current building was [[Sacredness|consecrated]] in 1922.<ref>{{Cite web |title=History |url=https://www.hfglendale.org/history |access-date=August 21, 2024 |archive-date=May 25, 2024 |archive-url=https://web.archive.org/web/20240525144439/https://hfglendale.org/history |url-status=live }}</ref>
+
+Since 1975, St. Mary's [[Armenian Apostolic Church]] has served Glendale.<ref>{{Cite web |title=About Us |url=https://stmarysglendale.org/about-us/ |access-date=August 21, 2024 |archive-date=August 21, 2024 |archive-url=https://web.archive.org/web/20240821172710/https://stmarysglendale.org/about-us/ |url-status=live }}</ref>
+
+The [[St. Gregory the Illuminator Cathedral (Glendale, California)|Cathedral of Saint Gregory the Illuminator]] was consecrated in 2001.<ref>{{Citation |title=Saint Gregory the Illuminator Armenian Catholic Cathedral |url=http://www.ourladyofnareg.org/parishes/saint-gregory-the-illuminator-armenian-catholic-cathedral/ |access-date=August 6, 2024 |archive-date=January 16, 2024 |archive-url=https://web.archive.org/web/20240116223554/http://www.ourladyofnareg.org/parishes/saint-gregory-the-illuminator-armenian-catholic-cathedral/ |url-status=live }}</ref> In 2012, the [[Armenian Catholic Eparchy of Our Lady of Nareg in the United States of America and Canada|North American diocese]] of the [[Armenian Catholic Church]] moved from [[New York City]] to Glendale.<ref name="MirrorSpec">{{Cite news |last=Mirror-Spectator Staff |date=November 8, 2012 |title=New Bishop Takes Charge of Catholic Armenian Flock in US |url=http://www.mirrorspectator.com/2012/11/08/new-bishop-takes-charge-of-catholic-armenian-flock-in-us/ |access-date=April 13, 2015 |publisher=The American Mirror-Spectator}}</ref>
+
+====Islam====
+{{further|Islam in the United States}}
+Since 2012, the Islamic Center of Glendale, a [[Sunni Islam|Sunni]] [[mosque]], has served Glendale.<ref>{{Cite web |last=[[Liana Aghajanian]] |date=July 23, 2012 |title=Intersections: A new mosque connects local Muslims |url=https://www.latimes.com/socal/glendale-news-press/opinion/tn-gnp-0723-intersections-a-new-mosque-connects-local-muslims-story.html |access-date=August 21, 2024 |website=[[Glendale News-Press]] |archive-date=August 21, 2024 |archive-url=https://web.archive.org/web/20240821171126/https://www.latimes.com/socal/glendale-news-press/opinion/tn-gnp-0723-intersections-a-new-mosque-connects-local-muslims-story.html |url-status=live }}</ref>
+
+====Judaism====
+{{further|American Jews}}
+Since 1949, Temple Sinai, a [[Reform Judaism|Reform]] [[synagogue]], has served Glendale.<ref>{{Cite web |date=March 6, 2023 |title=History & Vision |url=https://www.temple-sinai.net/welcome/history-vision/ |access-date=August 21, 2024 |archive-date=August 21, 2024 |archive-url=https://web.archive.org/web/20240821171456/https://www.temple-sinai.net/welcome/history-vision/ |url-status=live }}</ref>
+
+====Other====
+Since 2008, a [[Self-Realization Fellowship]] temple has served Glendale.<ref>{{Cite web |title=Glendale Temple |url=https://yogananda.org/glendale-temple |access-date=August 21, 2024 |archive-date=August 21, 2024 |archive-url=https://web.archive.org/web/20240821174002/https://yogananda.org/glendale-temple |url-status=live }}</ref>
+
+=== LGBT+ community ===
+
+Since 2019,<ref>{{cite web |url=https://www.latimes.com/socal/glendale-news-press/news/la-tn-gnp-me-glendale-pride-crescenta-valley-20190514-story.html|work=[[Glendale News-Press]]|author=Andrew J. Campa|title=Several Glendale schools, students participate in Pride art showcase|date=May 14, 2019 |access-date=October 21, 2024}}</ref> [[glendaleOUT]] has [[advocacy|advocated]] on behalf of Glendale's [[LGBT|LGBT+]] residents. Since 2022, the orgination has hosted the annual '''Glendale [[LGBT Pride|Pride]] in the Park''' event held at Adams Square Mini Park.<ref>{{cite web |url=https://www.eglendalelac.org/pride-month-2022|title=Pride Month|access-date=October 21, 2024}}</ref><ref>{{cite web |url=https://www.eglendalelac.org/blog/art-spotlight-glendaleout|title=Spotlight on glendaleOUT|author=Jacqueline Hernandez|access-date=October 21, 2024}}</ref> The event is a [[family-friendly]] [[picnic]].<ref>{{cite web |url=https://www.losangelesblade.com/2024/05/31/southern-californias-lgbtq-2024-pride-events/|work=[[Los Angeles Blade]]|title=Southern California’s LGBTQ+ 2024 Pride events|date=May 31, 2024|access-date=October 23, 2024}}</ref>
+
+[[GALAS LGBTQ+ Armenian Society]] provides specialized services to the local Armenian LGBT+ community, and the organization has been recognized as a community leader by Glendale [[elected officials]]. At the Glendale City Council's 2024 proclamation declaring June as LGBTQ+ [[Pride Month]], GALAS Boardmember [[Shant Jaltorossian]] commented, stating “Our work as a cultural hub and resource group emphasizes the importance of [[intersectionality]] in our fight for [[justice]]. GALAS will continue to build a loving community which celebrates our roots, both Armenian and LGBTQ+, as we advocate for a better, more inclusive future."<ref>{{cite web |url=https://outlooknewspapers.com/glendalenewspress/news/city-approves-1b-budget-proclaims-pride-month/article_25b593b9-3de9-57f8-9f46-6da2bef40ebe.html|title=City Approves $1B Budget, Proclaims Pride Month|work=[[Glendale News-Press]]|author=Kennedy Zak|date=July 1, 2024|access-date=August 28, 2024}}</ref>
+
+====Anti-LGBT+ hate in Glendale====
+{{See also|Anti-LGBT curriculum laws in the United States|2020s anti-LGBT movement in the United States|Censorship of school curricula in the United States}}
+
+At the June 6, 2023 Glendale Unified [[Board of Education]] meeting, where an annual [[Pride Month]] declaration was to occur, a crowd of more than 200 — including [[Far-right politics|far-right]] organizations such as the [[Proud Boys]]<ref>{{cite web |url=https://knock-la.com/glendale-pride/ |author1=Motter, John |author2=Kurtzman, Jordan|title=Proud Boys and Others Descend on Glendale Unified School District to Protest Pride |work=Knock LA |date=June 9, 2023|access-date=October 23, 2024}}</ref> — gathered outside the [[Glendale Unified School District]] headquarters. As tensions between pro- and anti-LGBT+ sides rose, the Glendale Police Department declared an [[unlawful assembly]].<ref>{{cite web |url=https://www.dailynews.com/2023/06/06/lgbtq-protections-and-gender-policy-sparks-glendale-school-board-war/ |author=Harter, Clara |title=LGBTQ protections and gender policy sparks Glendale school board war |work= [[Los Angeles Daily News]]|date=June 6, 2023|access-date=October 23, 2024}}</ref> Some [[progressivism|progressive]] Armenian [[activists]] have noted a "deliberate [[Divide and rule|divide and conquer]] strategy" seeking to pit the local Armenian and LGBT+ communities against each other.<ref>{{cite web |url=https://www.theguardian.com/world/2024/jan/29/los-angeles-lgbtq-glendale-armenian |work=[[Guardian US]] |author=Beckett, Lois |title='Chaos campaign': how an Armenian enclave became the center of an anti-LGBTQ+ battle |date=January 29, 2024| access-date=January 29, 2024}}</ref> Following the incident, [[GALAS LGBTQ+ Armenian Society|GALAS]], Armenian-American Action Network, and [[Democratic Party (United States)|Southern California Armenian Democrats]] released a joint statement "calling attention to the collective safety of LGBTQ+ Armenians, the need for active [[allyship]], and the dangers of [[Anti-Armenian sentiment|alarmist and racist narratives about the Armenian immigrant population]]."<ref>{{cite web |archive-url=https://web.archive.org/web/20240302025828/https://www.galasla.org/post/in-response-to-the-recent-events-in-los-angeles-area-schools|url=https://www.galasla.org/post/in-response-to-the-recent-events-in-los-angeles-area-schools|title=In Response to the Recent Events in Los Angeles Area Schools |archive-date=2024-03-02|date=June 8, 2023|access-date=October 23, 2024}}</ref>
+
+==Economy==
+{{As of|2023}}, the top employers in the city are (with number of employees):<ref>{{Cite web |title=Annual Comprehensive Financial Report: Fiscal Year Ended June 30, 2023 |url=https://www.glendaleca.gov/home/showpublisheddocument/73434/638561115237230000 |access-date=July 23, 2024 |website=Glendaleca.gov |archive-date=July 23, 2024 |archive-url=https://web.archive.org/web/20240723205547/https://www.glendaleca.gov/home/showpublisheddocument/73434/638561115237230000 |url-status=live }}</ref>
+
+{| class="wikitable"
+|-
+! #
+! Employer
+! # of Employees
+|-
+|1
+|[[Glendale Unified School District]]
+|4,000
+|-
+|2
+|[[Adventist Health Glendale]]
+|2,600
+|-
+|3
+|[[Bank of America Home Loans|Countrywide Home Loans]]
+|1,815
+|-
+|4
+|City of Glendale
+|1,785
+|-
+|5
+|Glenair Inc.
+|1,768
+|-
+|6
+|[[Glendale Community College (California)|Glendale Community College]]
+|1,500
+|-
+|7
+|[[Walt Disney Imagineering]]
+|1,011
+|-
+|8
+|Alecto Healthcare Services
+|900
+|-
+|9
+|[[DreamWorks Animation]]
+|891
+|-
+|10
+|[[Keck Hospital of USC|USC Verdugo Hills Hospital]]
+|750
+|}
+
+===Industry and development===
+[[File:GlendaleCA 801NorthBrand.jpg|thumb|right|upright|801 North Brand, one of Glendale's many modern skyscrapers: Companies such as [[Cigna]], [[Citi]], NexusLab, Great West Life, [[ServiceTitan]] and Unum have offices downtown.]]
+
+[[Grand Central Airport (California)|Grand Central Airport]] was a municipal airport developed from 1923 which became the largest employer in Glendale for many years, and contributed to the development of aviation in the United States in many important ways. The main terminal building still stands and includes both Art Deco and Spanish-style architectural elements. The facility was the first official terminal for the Los Angeles area, as well as the departure point for the first commercial west-to-east transcontinental flight flown by [[Charles Lindbergh]]. During [[World War II]], the Grand Central Air Terminal building was camouflaged to protect it from enemy targeting. It was closed down in 1959, and made way for the Grand Central Business Centre, an [[industrial park]].
+
+Forest Lawn Memorial Park started in Tropico (later annexed to Glendale) in 1906 and is famous for its art collection and the burial of many celebrities, as well as for the 1933 opening of the first funeral home on cemetery grounds anywhere in the United States.<ref>Kath, Laura, Forest Lawn: The first 100 years, Tropico Press, 2006</ref> The [[Bob's Big Boy]] chain of [[hamburger]] restaurants started in Glendale on East Colorado in August 1936, and the [[Baskin-Robbins]] "31 Flavors" chain of [[ice cream]] parlors started in Adams Square in 1945.
+
+The city experienced significant development in the 1970s, with the completion of the [[Glendale Freeway|Glendale Freeway (Highway 2)]] and the [[Ventura Freeway|Ventura Freeway (Highway 134)]]. This included redevelopment of Brand Boulevard, renovation of the 1925 [[Alex Theatre]], and construction of the [[Glendale Galleria]] shopping mall which opened in 1976, and was further expanded in 1982.
+
+Several large companies have offices in Glendale including the U.S. headquarters of [[IHOP (restaurant)|International House of Pancakes]]. The Los Angeles regional office of California's [[State Compensation Insurance Fund]] is in Glendale. Americas United Bank was founded in Glendale in 2006 and is still headquartered there. In August 2013, [[Avery Dennison]] Corp., a label maker for major brands, announced plans to move its headquarters from [[Pasadena, California|Pasadena]] to Glendale.<ref>{{Cite web |date=August 3, 2013 |title=Avery Dennison moving its headquarters from Pasadena to Glendale |url=http://www.dailynews.com/breakingnews/ci_23779793/avery-dennison-moving-its-headquarters-from-pasadena-glendale |url-status=dead |archive-url=https://archive.today/20130802045328/http://www.dailynews.com/breakingnews/ci_23779793/avery-dennison-moving-its-headquarters-from-pasadena-glendale |archive-date=August 2, 2013 |website=Los Angeles Daily News}}</ref> Avery employs about 26,000 people.
+
+In 2005, construction began near the Galleria of developer [[Caruso Affiliated|Rick Caruso]]'s "[[Americana at Brand]]", a {{convert|15.5|acre|m2|adj=on}} outdoor shopping and residential community. Caruso had previously designed and built [[the Grove at Farmers Market]]. The new Glendale development was opened to the public on May 2, 2008, and features 75 shops and restaurants, 238 apartments, 100 condominiums, and a [[AMC Theatres]] 18-plex Cinema which seats 3,000 people.<ref>{{Cite news |last=Vincent |first=Roger |date=April 25, 2008 |title=An outpost of glitz in Glendale |url=https://www.latimes.com/archives/la-xpm-2008-apr-25-fi-americana25-story.html |archive-url=https://archive.today/20190910145955/https://www.latimes.com/archives/la-xpm-2008-apr-25-fi-americana25-story.html |archive-date=September 10, 2019 |access-date=July 18, 2021 |work=[[Los Angeles Times]]}}</ref>
+
+====Film and television industry====
+[[File:Dreamworksanimationentrance.jpg|thumb|right|[[DreamWorks Animation]] headquarters]]
+Glendale, along with neighboring [[Burbank, California|Burbank]], has served as a major production center for the [[Cinema of the United States|American film industry]], and [[animation]] in particular.
+
+Located near [[Walt Disney]]'s Hyperion studio in [[Los Feliz, Los Angeles|Los Feliz]], the [[Alex Theatre]] was Disney's favorite place during the 1930s to gauge audience reactions to his [[cartoon]]s.<ref>{{Cite web |date=May 13, 2015 |title=Disney's Preview Palace: The Alex Theater |url=http://cartoonresearch.com/index.php/the-alex-theater/ |access-date=August 14, 2024 |archive-date=August 14, 2024 |archive-url=https://web.archive.org/web/20240814232101/https://cartoonresearch.com/index.php/the-alex-theater/ |url-status=live }}</ref> Following his death in 1966, Disney was interred at [[Forest Lawn Memorial Park (Glendale)|Forest Lawn Memorial Park]].<ref>{{Cite web |last=Greg Melville |date=September 29, 2022 |title=Inside the Disneyland of Graveyards |url=https://www.smithsonianmag.com/history/inside-the-disneyland-of-graveyards-180980510/ |access-date=August 14, 2024 |website=[[Smithsonian (magazine)|Smithsonian]]}}</ref>
+
+When [[The Walt Disney Company]] outgrew its Burbank studio lot in the early 1960s, it expanded to Glendale's [[Grand Central Airport (California)|Grand Central Business Centre]]. First came the headquarters for [[Walt Disney Imagineering|Imagineering]], and from 1985 to 1995, during the [[Disney Renaissance]], [[Walt Disney Animation Studios]] (then known as Walt Disney Feature Animation) was headquartered in the Grand Central Business Centre. [[Disneytoon Studios]], a division of WDAS, is still located in the Grand Central Business Centre near GC3, along with the Animation Research Library, Disney Animation's archive. Today, Disney's Grand Central Creative Campus (known as GC3 for short) is also home to [[Disney Consumer Products|Consumer Products]], [[Disney Interactive]], [[Marvel Animation]] and [[The Muppets Studio]].<ref>{{Cite news |last=Patten |first=Dominic |date=September 19, 2012 |title=Marvel Studios Heading to Walt Disney Backyard |url=https://www.deadline.com/2012/09/marvel-studios-heading-to-walt-disney-company-backyard-the-avengers-thor-captain-america/ |url-status=live |archive-url=https://web.archive.org/web/20131110195308/http://www.deadline.com/2012/09/marvel-studios-heading-to-walt-disney-company-backyard-the-avengers-thor-captain-america/ |archive-date=November 10, 2013 |access-date=December 29, 2012 |work=Deadline.com}}</ref> Disney-owned [[KABC-TV]] is located on Circle 7 Drive to the south of GC3.
+
+Between 1991 and 2006,<ref>{{Cite web |title=UNIVERSAL CARTOON STUDIOS |url=http://www.animationguild.org/_Home/home_FRM1.html |url-status=live |archive-url=https://web.archive.org/web/20060310223635/http://www.animationguild.org/_Home/home_FRM1.html |archive-date=March 10, 2006}}</ref> [[Universal Animation Studios|Universal Cartoon Studios]] was located in Glendale.
+
+In 1992, [[Walt Disney Animation Studios|Disney]] and [[Warner Bros. Animation|Warner Bros.]] animator and director [[Darrell Van Citters]] and his business partner [[Ashley Postlewaite]] founded [[Renegade Animation]] in neighboring Burbank, and it soon moved to Glendale.<ref>{{Cite web |title=Renegade Celebrates 25 Years! |url=http://www.renegadeanimation.com/history.html |access-date=August 19, 2024}}</ref>
+
+In 1994, [[Steven Spielberg]], [[Jeffrey Katzenberg]], and [[David Geffen]] formed [[DreamWorks SKG]], a diversified entertainment company. [[DreamWorks Animation]] remains located in the city's Grand Central Business Centre on land formerly occupied by a helicopter landing base next to the old airfield (and next to KABC-TV). Following [[Comcast]]'s 2016 purchase of DreamWorks Animation, Katzenberg stated that "We will absolutely continue to make animated films here."<ref>{{Cite web |last=Dave McNary |date=May 4, 2016 |title=Comcast Toppers: DreamWorks Animation Will Stay in Glendale |url=https://variety.com/2016/film/news/comcast-dreamworks-animation-glendale-1201767024/ |access-date=August 6, 2024 |website=[[Variety (magazine)|Variety]] |archive-date=August 6, 2024 |archive-url=https://web.archive.org/web/20240806223903/https://variety.com/2016/film/news/comcast-dreamworks-animation-glendale-1201767024/ |url-status=live }}</ref>
+
+In 2002, the city's redevelopment agency gave Animation Initiative Glendale six months to develop a viable plan for adapting the historic Fidelity Federal Savings and Loan building<ref>{{Cite web |title=Fidelity Federal Savings and Loan (1956) |url=https://www.midcenturybanks.com/new-page-26 |access-date=August 6, 2024}}</ref> for use as an animation museum.<ref>{{Cite web |last=Patricia Ward Biederman |date=November 19, 2002 |title=Animation Center Vision Gets Glendale's Support |url=https://www.latimes.com/archives/la-xpm-2002-nov-19-me-bank19-story.html |access-date=August 6, 2024 |website=[[Los Angeles Times]] |archive-date=August 14, 2024 |archive-url=https://web.archive.org/web/20240814234812/https://www.latimes.com/archives/la-xpm-2002-nov-19-me-bank19-story.html |url-status=live }}</ref><ref>{{Cite web |last=Patricia Ward Biederman |date=December 14, 2002 |title=Cartoon Fans Draw a Bead on Glendale |url=https://www.latimes.com/archives/la-xpm-2002-dec-14-me-animation14-story.html |access-date=August 6, 2024 |website=[[Los Angeles Times]] |archive-date=August 14, 2024 |archive-url=https://web.archive.org/web/20240814233010/https://www.latimes.com/archives/la-xpm-2002-dec-14-me-animation14-story.html |url-status=live }}</ref> These plans were ultimately unsuccessful.
+
+In 2024, East End Studios announced the completion of a [[Filmmaking#Production|film production]] complex, named "Glendale", featuring two [[sound stage]]s and ancillary facilities.<ref>{{Cite web |last=Steven Sharp |date=June 5, 2024 |title=Rendering vs. Reality: East End Studios at 1239 S. Glendale Avenue |url=https://la.urbanize.city/post/rendering-vs-reality-east-end-studios-1239-s-glendale-avenue |access-date=August 6, 2024 |website=Urbanize LA}}</ref> A second, much larger East End Studios facility in Glendale, named "Griffith", is currently being built.<ref>{{Cite web |last=Steven Sharp |date=April 5, 2023 |title=Renderings revealed: East End Studios development at 5426 San Fernando Road in Glendale |url=https://la.urbanize.city/post/renderings-revealed-east-end-studios-development-5426-san-fernando-road-glendale |access-date=August 6, 2024 |website=Urbanize LA |archive-date=August 6, 2024 |archive-url=https://web.archive.org/web/20240806225317/https://la.urbanize.city/post/renderings-revealed-east-end-studios-development-5426-san-fernando-road-glendale |url-status=live }}</ref>
+
+In October 2024, Mayor [[Elen Asatryan]] travelled to [[South Korea]], where she struck an [[entertainment]] partnership deal with the [[Incheon Free Economic Zone]]. The agreement includes a new government-to-government platform jointly built by the governments of [[Incheon]] and Glendale and sharing it with entertainment companies in both cities. <ref>{{cite web |url=https://www.koreatimes.co.kr/www/tech/2024/10/129_384996.html|work=[[The Korea Times]]|title=Incheon-Glendale deal envisions K-pop-Hollywood collaboration|author=Ko Dong-hwan|date=October 25, 2024|access-date=October 28, 2024}}</ref>
+
+====Technology industry====
+Glendale Tech Week was created in 2016 to celebrate technology through [[panel discussion]]s, workshops, and [[networking]] events.<ref>{{Cite web|url=https://www.glendaletechweek.com/about|title=About|access-date=September 9, 2024|archive-date=September 10, 2024|archive-url=https://web.archive.org/web/20240910070459/https://www.glendaletechweek.com/about|url-status=live}}</ref>
+
+In 2017, Glendale's City Council adopted the Glendale Tech Strategy, a roadmap for growing Glendale's technology-based sector.<ref>{{Cite web |url=https://www.chooseglendaleca.com/tech|title=Glendale's Tech Ecosystem|access-date=September 9, 2024}}</ref>
+
+In 2023, Glendale and neighboring [[Burbank, California|Burbank]] partnered to launch Upstart Valley, a program to support [[Startup company|startups]], [[Entrepreneurship|entrepreneurs]], and the [[High tech|technology industry]].<ref>{{Cite web|url=https://www.glendaleca.gov/Home/Components/News/News/8762/16|title=Cities of Glendale and Burbank Collaborate to Launch 'Upstart Valley' Hub|date=April 18, 2023|access-date=September 9, 2024|archive-date=September 10, 2024|archive-url=https://web.archive.org/web/20240910070459/https://www.glendaleca.gov/Home/Components/News/News/8762/16|url-status=live}}</ref>
+
+Notable technology companies in Glendale include:
+* [[Evite]]
+* [[LegalZoom]]
+* [[ServiceTitan]]
+
+==Arts and culture==
+
+===Cuisine===
+
+Influenced by the city's [[immigrant]] history, Glendale's food culture includes a wide selection of international cuisines, including [[Filipino cuisine]]<ref>{{Cite web |last=Brittany Levine |date=October 14, 2013 |title=Glendale acknowledges its Filipino population |url=https://www.latimes.com/socal/glendale-news-press/news/tn-gnp-city-acknowledges-its-filipino-population-20131014-story.html |access-date=August 19, 2024 |website=[[Glendale News-Press]]}}</ref> and [[Armenian cuisine]] and also [[Iranian cuisine]].<ref>{{Cite web |last=Rebecca Roland |date=May 10, 2017 |title=The 19 Essential Restaurants in Glendale |url=https://la.eater.com/maps/best-glendale-california-restaurants |access-date=August 19, 2024 |website=[[Eater (website)|Eater]] |archive-date=August 19, 2024 |archive-url=https://web.archive.org/web/20240819232913/https://la.eater.com/maps/best-glendale-california-restaurants |url-status=live }}</ref><ref>{{Cite web |last=Patricia Kelly Yeo |date=May 4, 2024 |title=The best restaurants in Glendale |url=https://www.timeout.com/los-angeles/restaurants/best-glendale-restaurants |access-date=August 19, 2024 |website=[[Time Out (magazine)|Time Out]] |archive-date=September 20, 2024 |archive-url=https://web.archive.org/web/20240920054335/https://www.timeout.com/los-angeles/restaurants/best-glendale-restaurants |url-status=live }}</ref>
+
+Zhengyalov Hatz, which serves [[zhingyalov hats]], is the [[Michelin Guide]]'s only Armenian restaurant in the [[United States]].<ref>{{Cite web |date=July 20, 2023 |title=The MICHELIN Guide's Only Armenian Restaurant in America |url=https://guide.michelin.com/us/en/article/features/michelin-guide-armenian-restaurant-california-glendale-zhengyalov-hatz |access-date=August 14, 2024 |archive-date=August 14, 2024 |archive-url=https://web.archive.org/web/20240814182217/https://guide.michelin.com/us/en/article/features/michelin-guide-armenian-restaurant-california-glendale-zhengyalov-hatz |url-status=live }}</ref>
+
+===Landmarks===
+{{See also|Glendale Register of Historic Resources and Historic Districts|National Register of Historic Places listings in Los Angeles County, California}}
+
+Important landmarks in Glendale include the [[Alex Theatre]],<ref>{{Cite web |title=Alexander Theatre |url=https://npgallery.nps.gov/AssetDetail/NRIS/96000102 |access-date=August 14, 2024 |archive-date=January 30, 2022 |archive-url=https://web.archive.org/web/20220130224642/https://npgallery.nps.gov/AssetDetail/NRIS/96000102 |url-status=live }}</ref> the [[Glendale Main Post Office]],<ref>{{Cite web |title=US Post Office--Glendale Main |url=https://npgallery.nps.gov/AssetDetail/NRIS/85000128 |access-date=August 14, 2024 |archive-date=September 20, 2024 |archive-url=https://web.archive.org/web/20240920054335/https://npgallery.nps.gov/AssetDetail/NRIS/85000128 |url-status=live }}</ref> and the [[Glendale Transportation Center]].<ref>{{Cite web |title=Glendale Southern Pacific Railroad Depot |url=https://npgallery.nps.gov/AssetDetail/NRIS/97000376 |access-date=August 14, 2024 |archive-date=December 15, 2023 |archive-url=https://web.archive.org/web/20231215150439/https://npgallery.nps.gov/AssetDetail/NRIS/97000376 |url-status=live }}</ref>
+
+===Libraries===
+The [[Glendale Public Library]] operates 8 public [[library|libraries]] in the city.<ref>{{Cite web |title=In-Person Services |url=https://www.eglendalelac.org/in-person-services |access-date=August 14, 2024 |archive-date=September 20, 2024 |archive-url=https://web.archive.org/web/20240920054335/https://www.eglendalelac.org/in-person-services |url-status=live }}</ref>
+
+===Museums and galleries===
+[[File:Neon sign from La Fonda Mexican restaurant (Glendale, California).jpg|thumb|200px|right|upright|[[Museum of Neon Art]]]]
+{{See also|List of museums in Los Angeles County, California}}
+
+In 2016, the [[Museum of Neon Art]] (MONA), which focuses on historical [[Neon lighting|neon]] signs, moved to downtown Glendale, with the City committed to funding the museum's new site and construction.<ref>{{Cite web |last=Ahn |first=Abe |date=February 3, 2016 |title=The Museum of Neon Art Switches Back on in LA |url=http://hyperallergic.com/267144/the-museum-of-neon-art-switches-back-on-in-la/ |url-status=live |archive-url=https://web.archive.org/web/20220129083853/https://hyperallergic.com/267144/the-museum-of-neon-art-switches-back-on-in-la/ |archive-date=January 29, 2022 |access-date=February 3, 2022 |website=Hyperallergic.com}}</ref> The museum has featured exhibitions dedicated to the local community, including [[Armenians]]<ref>{{Cite web |title=Memorial to Armenian Genocide |url=https://www.neonmona.org/myportfolio/memorial-to-armenian-genocide/ |access-date=August 14, 2024 |archive-date=September 20, 2024 |archive-url=https://web.archive.org/web/20240920054337/https://www.neonmona.org/myportfolio/memorial-to-armenian-genocide/ |url-status=live }}</ref> and [[LGBT|LGBTQ+]] people.<ref>{{Cite web |date=October 27, 2023 |title=Local museum features neon art championed by LGBTQ+ artists |url=https://abc7.com/museum-of-neon-art-lgbtq-history-queer-artists-glendale/13975858/ |access-date=August 14, 2024 |archive-date=August 14, 2024 |archive-url=https://web.archive.org/web/20240814222428/https://abc7.com/museum-of-neon-art-lgbtq-history-queer-artists-glendale/13975858/ |url-status=live }}</ref>
+
+In 2024, the [[Martial Arts History Museum]], which is devoted to the history of [[martial arts]], moved to Glendale.<ref>{{Cite web |last=Kennedy Zak |date=July 22, 2024 |title=Martial Arts Museum Finds New Home |url=https://glendalenewspress.outlooknewspapers.com/2024/07/22/martial-arts-museum-finds-new-home/ |access-date=August 14, 2024 |website=[[Glendale News-Press]] |archive-date=August 14, 2024 |archive-url=https://web.archive.org/web/20240814185643/https://glendalenewspress.outlooknewspapers.com/2024/07/22/martial-arts-museum-finds-new-home/ |url-status=live }}</ref> The museum has displays relating to [[China|Chinese]] [[kung fu]], [[Philippines|Filipino]] [[Arnis|kali]], [[Hawaii]]an [[Kapu Kuialua]], [[Japan]]ese [[judo]] and [[karate]], [[Korea]]n [[taekwondo]], and [[Thailand|Thai]] [[Muay Thai]].<ref>{{Cite web |date=January 15, 2018 |title=Meet Michael Matsuda of Martial Arts History Museum in Burbank |url=https://voyagela.com/interview/meet-michael-matsuda-martial-arts-history-museum-burbank/ |access-date=August 14, 2024 |website=Voyage LA |archive-date=August 14, 2024 |archive-url=https://web.archive.org/web/20240814185644/https://voyagela.com/interview/meet-michael-matsuda-martial-arts-history-museum-burbank/ |url-status=live }}</ref> At this new, larger location, the museum will also feature [[Armenia]]n [[Folk wrestling#Western Asia|kokh]] and [[Mexico|Mexican]] [[lucha libre]].<ref>{{Cite web |date=April 16, 2024 |title=Martial Arts History Museum Reopens Its Doors |url=https://glendalenewspress.outlooknewspapers.com/2024/04/16/martial-arts-history-museum-reopens-its-doors/ |access-date=August 14, 2024 |website=[[Glendale News-Press]] |archive-date=August 14, 2024 |archive-url=https://web.archive.org/web/20240814190734/https://glendalenewspress.outlooknewspapers.com/2024/04/16/martial-arts-history-museum-reopens-its-doors/ |url-status=live }}</ref>
+
+Local [[art gallery|galleries]] include ace/121 Gallery,<ref>{{Cite web |title=About |url=https://www.ace121gallery.com/about |access-date=August 14, 2024 |archive-date=August 14, 2024 |archive-url=https://web.archive.org/web/20240814221051/https://www.ace121gallery.com/about |url-status=live }}</ref> Armenian Arts,<ref>{{Cite web |title=About Armenian Arts |url=https://www.armenianarts.com/about-armenian-arts/ |access-date=August 14, 2024 |archive-date=August 15, 2024 |archive-url=https://web.archive.org/web/20240815042646/https://www.armenianarts.com/about-armenian-arts/ |url-status=live }}</ref> Junior High,<ref>{{Cite web |title=Junior High |url=https://juniorhighlosangeles.com/ |access-date=August 22, 2024 |archive-date=September 20, 2024 |archive-url=https://web.archive.org/web/20240920054336/https://juniorhighlosangeles.com/ |url-status=live }}</ref> and Tufenkian Fine Arts.<ref>{{Cite web |title=Contact |url=https://www.tufenkianfinearts.com/contact/ |access-date=August 14, 2024 |archive-date=August 14, 2024 |archive-url=https://web.archive.org/web/20240814215544/https://www.tufenkianfinearts.com/contact/ |url-status=live }}</ref>
+
+===Performing arts===
+[[File:Alex Theater.jpg|thumb|right|upright|The [[Alex Theatre]]]]
+The [[Alex Theatre]] opened in 1925 as the Alexander Theatre, and featured featured [[vaudeville]] performances and [[silent film]]s on a single screen.<ref>{{Cite web |last=Holly Andres |date=September 2, 2021 |title=Historic Alex Theatre in Glendale celebrates its 96th year with an open house on Sept. 4 |url=https://www.dailynews.com/2021/09/02/historic-alex-theatre-in-glendale-celebrates-its-96th-year-with-an-open-house-on-sept-4/ |access-date=August 14, 2024 |website=[[Los Angeles Daily News]] |archive-date=August 14, 2024 |archive-url=https://web.archive.org/web/20240814230336/https://www.dailynews.com/2021/09/02/historic-alex-theatre-in-glendale-celebrates-its-96th-year-with-an-open-house-on-sept-4/ |url-status=live }}</ref> Currently, the theatre is a performing arts center featuring live performances and film screenings.<ref>{{Cite web |title=Alex Theatre |url=https://www.laconservancy.org/locations/alex-theatre |url-status=live |archive-url=https://web.archive.org/web/20220130135815/https://www.laconservancy.org/locations/alex-theatre |archive-date=January 30, 2022 |access-date=February 3, 2022}}</ref>
+
+Local [[theatre]] companies include Antaeus Theatre Company <ref>{{Cite web |title=Antaeus History & Mission |url=https://antaeus.org/antaeus-history-mission |access-date=August 14, 2024 |archive-date=September 20, 2024 |archive-url=https://web.archive.org/web/20240920054337/https://antaeus.org/antaeus-history-mission |url-status=live }}</ref> and The Nocturne Theatre.<ref>{{Cite web |title=About us |url=https://thenocturnetheatre.com/about-us/ |access-date=August 14, 2024 |archive-date=August 14, 2024 |archive-url=https://web.archive.org/web/20240814181449/https://thenocturnetheatre.com/about-us/ |url-status=live }}</ref>
+
+The City sponsors several [[concert]] series: the Brand Summer Music Series, at the Brand Library;<ref>{{Cite web|url=https://www.glendaleartsandculture.org/brandsummermusicseries|title=Brand Summer Music Series|access-date=August 30, 2024|archive-date=August 30, 2024|archive-url=https://web.archive.org/web/20240830225901/https://www.glendaleartsandculture.org/brandsummermusicseries|url-status=live}}</ref> the Jewel City Concert Series, at the Artsakh Paseo;<ref>{{Cite web|url=https://www.glendaleartsandculture.org/jewelcityconcertseries|title=Jewl City Concert Series|access-date=August 30, 2024|archive-date=August 30, 2024|archive-url=https://web.archive.org/web/20240830225902/https://www.glendaleartsandculture.org/jewelcityconcertseries|url-status=live}}</ref> and the Summer Concert Series, at Verdugo Park.<ref>{{Cite web |url=https://www.glendaleca.gov/government/departments/community-services-parks/special-events/summer-concerts-series#ad-image-3|title=Summer Concerts Series|access-date=August 30, 2024}}</ref>
+
+===Public art===
+The City of Glendale's [[public art]] includes "Beyond the Box", a [[utility box art]] program which includes more than 150 [[mural]]s,<ref>{{Cite web |title=BEYOND THE BOX - MURAL ART PROGRAM |url=https://www.glendaleartsandculture.org/beyondthebox |access-date=August 14, 2024 |archive-date=August 14, 2024 |archive-url=https://web.archive.org/web/20240814225627/https://www.glendaleartsandculture.org/beyondthebox |url-status=live }}</ref> and "Creative Crosswalks", a [[Pedestrian crossing|crosswalk]] mural program.<ref>{{Cite web |title=CREATIVE CROSSWALKS |url=https://www.glendaleartsandculture.org/creativecrosswalks |access-date=August 14, 2024 |archive-date=August 14, 2024 |archive-url=https://web.archive.org/web/20240814225626/https://www.glendaleartsandculture.org/creativecrosswalks |url-status=live }}</ref>
+
+In 2016, a 1936 [[Streamline Moderne]] [[filling station]] in the Adams Hills neighborhood was added to the [[Glendale Register of Historic Resources and Historic Districts]] and converted into a public art gallery.<ref>{{Cite web |url=https://www.latimes.com/socal/glendale-news-press/tn-gnp-me-0624-adams-park-20160623-story.html|work=[[Glendale News-Press]]|title=Historic designation fuels celebration of '30s gas station in Adams Hill neighborhood|author=Arin Mikailian|date=June 23, 2016|access-date=August 27, 2024}}</ref>
+
+==Parks and recreation==
+The city has nearly 50 public parks, from Deukmejian Wilderness Park in the north to Cerritos Park in the south.<ref>{{Cite web |title=Parks – Glendale, CA |url=http://parksmap.glendaleca.gov/ |url-status=dead |archive-url=https://web.archive.org/web/20150504200930/http://parksmap.glendaleca.gov/ |archive-date=May 4, 2015 |access-date=June 1, 2015}}</ref>
+
+==Government==
+===Local government===
+[[File:Glendale, City Hall, 2015.12.20.jpg|thumb|400px|right|Glendale City Hall]]
+According to the city's most recent comprehensive annual financial report, the city's various funds had $576&nbsp;million in revenues, $543&nbsp;million in expenditures, $2,090&nbsp;million in total assets, $481&nbsp;million in total liabilities, and $460&nbsp;million in cash and investments.<ref name="City of Glendale CAFR">[https://web.archive.org/web/20110717013619/http://www.ci.glendale.ca.us/admin-svcs/CAFR/YearEnd6-08/introductory_section.pdf City of Glendale CAFR]. Retrieved August 12, 2009.</ref>
+Glendale elects its City Council members at large, to a four-year term. Elections are held on a Tuesday after the first Monday in April of odd-numbered years along with the [[Glendale Unified School District]] Board of Education and the Glendale Community College District Board of Trustees.
+
+====Elected officials====
+=====City Council=====
+The current Mayor and City Council members are:<ref name="cc">{{Cite web |title=City Council |url=http://glendaleca.gov/government/city-council |url-status=live |archive-url=https://web.archive.org/web/20151030033836/http://www.glendaleca.gov/government/city-council |archive-date=October 30, 2015 |access-date=May 27, 2020 |website=glendaleca.gov}}</ref>
+* [[Elen Asatryan]] (Mayor)
+* Dan Brotman
+* Vartan Gharpetian
+* [[Ardy Kassakhian]]
+* [[Ara Najarian]]
+
+=====City Clerk=====
+The current City Clerk is Suzie Abajian.<ref>{{Cite web |title=City Clerk |url=https://www.glendaleca.gov/government/departments/city-clerk |access-date=August 6, 2024 |website=glendaleca.gov |archive-date=August 6, 2024 |archive-url=https://web.archive.org/web/20240806171313/https://www.glendaleca.gov/government/departments/city-clerk |url-status=live }}</ref>
+
+=====Board of Education=====
+The current [[Glendale Unified School District]] Board of Education members are:<ref>{{Cite web |title=Meet the Board of Education |url=https://www.gusd.net/board |access-date=August 6, 2024 |website=gusd.net |archive-date=August 6, 2024 |archive-url=https://web.archive.org/web/20240806171617/https://www.gusd.net/board |url-status=live }}</ref>
+* Shant Sahakian (President)
+* Ingrid Gunnell (Vice President)
+* Kathleen Cross (Clerk)
+* Neda Farid
+* Telly Tse
+
+=====Community College District=====
+The current [[Glendale Community College District]] Board of Trustees are:<ref>{{Cite web |title=Current Board Members |url=https://www.glendale.edu/about-gcc/board-of-trustees/board-members |access-date=August 6, 2024 |website=glendale.edu}}</ref>
+* Desirée Portillo Rabinov (President)
+* Yvette Vartanian Davis (Vice President)
+* Armine Hacopian (Clerk)
+* Sevan Benlian
+* Ann Ransford
+
+====Board, commissions and committees====
+Glendale has numerous boards and commissions, subject to the [[Brown Act]], to support the City Council:<ref>{{Cite web |title=Boards and Commissions |url=https://www.glendaleca.gov/government/departments/city-clerk/boards-and-commissions |access-date=July 31, 2024}}</ref>
+* [[Arts]] & [[Culture]] Commission
+* [[Audit]] Committee
+* Building & Fire Board of Appeals
+* [[Hollywood Burbank Airport|Burbank/Glendale/Pasadena Airport Authority]]
+* Charter Review Committee
+* [[Civil service commission|Civil Service Commission]]
+* Commission on the Status of Women
+* [[Community Development Block Grant]] Advisory Committee
+* Design Review Board
+* Glendale Housing Authority
+* Glendale Water & Power Commission
+* [[Historic Preservation]] Commission
+* Metropolitan [[Water District]]
+* Parks, Recreation & Community Services Commission
+* [[Urban planning|Planning]] Commission
+* [[Sustainability]] Commission
+* [[Transportation]] and [[Parking]] Commission
+* [[Vector control|Vector Control]] District
+
+In addition, Glendale also has [[committees]], not subject to the Brown Act, including:
+* [[Armenian Genocide]] Commemorative Event Committee
+* [[Interpersonal relationship|Human Relations]] Committee
+
+===County representation===
+The [[Los Angeles County Department of Health Services]] operates the Glendale Health Center in Glendale.<ref>"[http://publichealth.lacounty.gov/phn/docs/HealthCenter/glendale.pdf Glendale Health Center] {{Webarchive|url=https://web.archive.org/web/20100527190336/http://publichealth.lacounty.gov/phn/docs/HealthCenter/glendale.pdf |date=May 27, 2010 }}." [[Los Angeles County Department of Health Services]]. Retrieved on March 27, 2010.</ref>
+
+The Los Angeles County Department of Public Social Services operates the Glendale DPSS welfare office on San Fernando Road.
+
+The Los Angeles County Department of Parks and Recreation operates Crescenta Valley park in North Glendale
+
+The Los Angeles County Department of Aging and Disabilities operates an undisclosed Adult Protective Services office in Glendale
+
+In the [[Los Angeles County Board of Supervisors]], Glendale is in the Fifth District, represented by [[Kathryn Barger]].<ref>{{Cite web |title=Supervisor Kathryn Barger &#124; The 5th District |url=https://kathrynbarger.lacounty.gov/the-5th-district/ |url-status=live |archive-url=https://web.archive.org/web/20211207181855/https://kathrynbarger.lacounty.gov/the-5th-district/ |archive-date=December 7, 2021 |access-date=February 3, 2022 |website=Kathrynbarger.lacounty.gov}}</ref>
+
+===State and federal representation===
+In the [[United States House of Representatives]], Glendale is in {{Representative|cacd|30|fmt=district}}.<ref>{{Cite GovTrack|CA|30}}</ref>
+
+In the [[California State Legislature]], Glendale is in {{Representative|casd|25|fmt=sdistrict}}, and in both {{Representative|caad|44|fmt=adistrict}}, and {{Representative|caad|52|fmt=adistrict}}.<ref name="swd">{{Cite web |title=Statewide Database |url=http://statewidedatabase.org/gis/gis2011/index_2011.html |url-status=live |archive-url=https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html |archive-date=February 1, 2015 |access-date=November 18, 2014 |publisher=UC Regents}}</ref>
+
+==Crime and public safety==
+{{see also|Crime in Glendale, California}}
+In 1977 and 1978, 10 murdered women were found in and around Glendale in what became known as the case of the [[Hillside Strangler]]. The murders were the work of [[Kenneth Bianchi]] and [[Angelo Buono]], the latter of whom resided at 703 East Colorado Street, where most of the murders took place.<ref>{{Cite news |last=Rasmussen |first=Cecilia |date=August 17, 1992 |title=Crime Figure |url=https://www.latimes.com/archives/la-xpm-1992-08-17-me-5255-story.html |url-status=live |archive-url=https://web.archive.org/web/20110913234402/http://articles.latimes.com/1992-08-17/local/me-5255_1_crime-figure/2 |archive-date=September 13, 2011 |access-date=April 20, 2011 |work=[[Los Angeles Times]]}}</ref>
+
+In 2014, Glendale was named the ninth-safest city in America in a report published by 24/7 Wall Street based on violent crime rates in cities with more than 100,000 people.<ref>{{Cite web |last=Glendale News Press |date=November 13, 2014 |title=Jewel City shines in FBI report |url=http://www.glendalenewspress.com/news/tn-gnp-jewel-city-shines-in-fbi-report-20141113,0,7495330.story |url-status=dead |archive-url=https://web.archive.org/web/20141126011527/http://www.glendalenewspress.com/news/tn-gnp-jewel-city-shines-in-fbi-report-20141113,0,7495330.story |archive-date=November 26, 2014 |access-date=December 3, 2014 |website=Los Angeles Times}}</ref> Also in 2014, real estate company Movoto used FBI data crime data from 2013 to conduct a study of 100 U.S. cities with populations between 126,047 and 210,309 residents and concluded that Glendale was the safest mid-sized city in America.<ref>{{Cite news |date=January 16, 2014 |title=These Are The 10 Safest Mid-Sized Cities In America |url=http://www.movoto.com/blog/top-ten/safest-mid-sized-cities-in-america/ |url-status=dead |archive-url=https://archive.today/20140123201106/http://www.movoto.com/blog/top-ten/safest-mid-sized-cities-in-america/ |archive-date=January 23, 2014 |access-date=December 3, 2014 |work=Movoto.com}}</ref>
+
+==Education==
+[[File:GCC bro.jpg|thumb|left|[[Glendale Community College (California)|Glendale Community College]]]]
+The [[Glendale Unified School District]] operates the public schools in Glendale.<ref name="CensusSchoolMap2020">{{Cite web |title=2020 CENSUS - SCHOOL DISTRICT REFERENCE MAP: Los Angeles County, CA |url=https://www2.census.gov/geo/maps/DC2020/PL20/st06_ca/schooldistrict_maps/c06037_los_angeles/DC20SD_C06037.pdf |access-date=January 16, 2024 |publisher=[[U.S. Census Bureau]] |pages=6, 10 (PDF pp. 7, 11/19) |archive-date=January 21, 2022 |archive-url=https://web.archive.org/web/20220121194221/https://www2.census.gov/geo/maps/DC2020/PL20/st06_ca/schooldistrict_maps/c06037_los_angeles/DC20SD_C06037.pdf |url-status=live }}</ref> The GUSD high schools include [[Glendale High School (Glendale, California)|Glendale High School]], [[Herbert Hoover High School (Glendale)|Herbert Hoover High School]], [[Anderson W. Clark Magnet High School|Clark Magnet High School]], [[Crescenta Valley High School]] located in La Crescenta and [[Allan F. Daily High School]]. A number of private schools also operate in Glendale, including Chamlian Armenian School,<ref>{{Cite web |date=March 24, 2010 |title=Vahan & Anoush Chamlian Armenian School |url=http://www.chamlian.org/ |url-status=live |archive-url=https://web.archive.org/web/20110202105252/http://www.chamlian.org/ |archive-date=February 2, 2011 |access-date=January 29, 2011 |publisher=Chamlian.org}}</ref> [[Holy Family High School (Glendale, California)|Holy Family High School]], Salem Lutheran School, and Glendale Adventist Academy. Glendale is also home to [[Glendale Community College (California)|Glendale Community College]].
+Middle schools are Roosevelt Middle School, Toll Middle School, Rosemont Middle School, and Wilson Middle School.
+
+==Media==
+Glendale community news is covered by the ''[[Glendale News-Press]]'', which was founded in 1905. The ''[[Crescenta Valley Weekly]]'' covers local news, community events, and sports in Glendale and the [[Crescenta Valley]].
+
+[[KABC-TV]], an [[American Broadcasting Company|ABC]] owned-and-operated television station serving the Los Angeles metropolitan area and the rest of the Greater Los Angeles area, has maintained its studios and offices in Glendale since December 2000.
+
+==Infrastructure==
+===Public safety===
+The Glendale Fire Department responds to about 17,000 calls for service annually.<ref>{{Cite web |title=City of Glendale, CA : Administration |url=http://www.glendaleca.gov/government/departments/fire-department/administration- |url-status=dead |archive-url=https://web.archive.org/web/20150125013919/http://www.glendaleca.gov/government/departments/fire-department/administration- |archive-date=January 25, 2015 |website=glendaleca.gov}}</ref> The department has nine stations, with mutual aid provided other local departments.<ref>{{Cite web |title=About ISO |url=http://www.isomitigation.com/docs/about0001.html |url-status=dead |archive-url=https://web.archive.org/web/20150219042926/http://www.isomitigation.com/docs/about0001.html |archive-date=February 19, 2015 |access-date=March 1, 2015}}{{failed verification|date=July 2021}}</ref> The Verdugo Fire Communications Center in Glendale was established in 1979 to consolidate fire dispatching and telecommunications between 13 local fire departments.<ref>{{Cite web |title=City of Glendale, CA : Verdugo Fire History |url=http://www.glendaleca.gov/government/departments/fire-department/verdugo-fire-communications/verdugo-fire-history |url-status=live |archive-url=https://web.archive.org/web/20150327090740/http://glendaleca.gov/government/departments/fire-department/verdugo-fire-communications/verdugo-fire-history |archive-date=March 27, 2015 |access-date=March 1, 2015 |website=glendaleca.gov}}</ref>
+
+===Transportation===
+{{see also|Glendale Transportation Center}}
+[[File:GlendaleStationStreetside.jpg|thumb|right|The [[Glendale Transportation Center]], executed in a [[California Churrigueresque]] style]]
+
+====Bus services====
+[[LADOT]], [[Metro Local]], [[Metro Rapid]], and [[Glendale Beeline]] all have buses that run in the city. [[Glendale Transportation Center]] provides connections to [[Greyhound bus]]es.<ref>{{Cite web |title=Glendale Transportation Center &#124; City of Glendale, CA |url=https://www.glendaletransit.com/about/glendale-transportation-center |url-status=live |archive-url=https://web.archive.org/web/20220203032250/https://www.glendaletransit.com/about/glendale-transportation-center |archive-date=February 3, 2022 |access-date=February 3, 2022 |website=Glendaletransit.com}}</ref>
+
+The [[North Hollywood to Pasadena Transit Corridor]] is a proposed {{convert|18|mi|km|adj=on}} [[bus rapid transit]] line. It is planned to operate between [[Pasadena City College]] and the [[North Hollywood station]], where it will connect with the [[B Line (Los Angeles Metro)|Metro B Line]] and the [[G Line (Los Angeles Metro)|Metro G Line]]. The line is planned to connect downtown Burbank to Glendale via Glenoaks Boulevard before heading south on Central Avenue and then continuing east on Broadway. The line is expected to open in 2027.<ref>{{Cite web |date=April 12, 2019 |title=A pair of mass transit projects could shape Glendale mobility |url=https://www.latimes.com/socal/glendale-news-press/news/tn-gnp-me-north-hollywood-pasadena-brt-glendale-streetcar-20190411-story.html |url-status=live |archive-url=https://web.archive.org/web/20220202194110/https://www.latimes.com/socal/glendale-news-press/news/tn-gnp-me-north-hollywood-pasadena-brt-glendale-streetcar-20190411-story.html |archive-date=February 2, 2022 |access-date=February 3, 2022 |website=Glendale News-Press}}</ref> The project is part of Metro's [[Twenty-eight by '28]] initiative.<ref>{{Cite web |title=Metro – File #: 2017-0780 |url=https://metro.legistar.com/LegislationDetail.aspx?ID=3218962&GUID=60FE3AED-0408-4DE8-AD12-A866EDD48526&Options=ID%7CText%7C&Search= |url-status=live |archive-url=https://web.archive.org/web/20220203053652/https://metro.legistar.com/LegislationDetail.aspx?ID=3218962&GUID=60FE3AED-0408-4DE8-AD12-A866EDD48526&Options=ID%7CText%7C&Search= |archive-date=February 3, 2022 |access-date=February 3, 2022 |website=Metro.legistar.com}}</ref>
+
+A 2021 Metro staff report for the Metro Board's Planning and Programming Committee has recommended corridors where the transportation agency could pursue new bus rapid transit lines, including one between downtown Glendale and [[East Los Angeles College]], a {{convert|13.64|mi|km|adj=on}} corridor passing through [[Los Feliz, Los Angeles|Los Feliz]], [[Silver Lake, Los Angeles|Silver Lake]], and [[Echo Park]].<ref>{{Cite web |last=Sharp |first=Steven |date=October 13, 2020 |title=Metro staff recommend five corridors for future BRT lines &#124; Urbanize LA |url=https://urbanize.city/la/post/metro-staff-recommend-five-corridors-future-brt-lines |url-status=live |archive-url=https://web.archive.org/web/20220207235601/https://urbanize.city/la/post/metro-staff-recommend-five-corridors-future-brt-lines |archive-date=February 7, 2022 |access-date=March 17, 2022 |publisher=Urbanize.city}}</ref>
+
+====Train services====
+[[Metrolink (California)|Metrolink]]'s [[Antelope Valley Line]] and [[Ventura County Line]] stop at the Glendale Transportation Center. Also, [[Amtrak]]'s [[Pacific Surfliner]] stops at Glendale Transportation Center. <ref>{{Cite web |title=Glendale Station &#124; Metrolink |url=https://www.metrolinktrains.com/rider-info/general-info/stations/glendale/ |url-status=live |archive-url=https://web.archive.org/web/20220203211423/https://metrolinktrains.com/rider-info/general-info/stations/glendale/ |archive-date=February 3, 2022 |access-date=February 3, 2022 |website=Metrolinktrains.com}}</ref>
+
+Since 2016, Metro and Eco-Rapid Transit have been studying the feasibility of adding more frequent service and infill stations along the corridor. Also studied has been the creation of a [[Los Angeles Metro Rail|light rail]] line along the Burbank-Glendale-Union Station corridor, potentially allowing trains to leave the existing right-of-way to travel through the commercial core of Glendale.<ref>{{Cite web |date=March 13, 2019 |title=Here's What Improved Rail Service Could Look Like Between Burbank, Glendale, and DTLA |url=https://urbanize.city/la/post/heres-what-improved-rail-service-could-look-between-burbank-glendale-and-dtla |url-status=live |archive-url=https://web.archive.org/web/20220203025327/https://urbanize.city/la/post/heres-what-improved-rail-service-could-look-between-burbank-glendale-and-dtla |archive-date=February 3, 2022 |access-date=February 3, 2022 |website=Urbanize.city}}</ref>
+
+====Streetcar====
+Using a grant from the [[Southern California Association of Governments]], the City of Glendale is now in the midst of a feasibility study for a [[tram|streetcar]] project. The city is considering two alignments for the proposed system, both of which would feature 16 stops running approximately {{convert|2.88|mi|km}} between Stocker Street in the north and the Glendale Transportation Center in the south, where it would connect with Metrolink and Amtrak trains.<ref>{{Cite web |date=August 8, 2019 |title=Glendale Considers Two Alignments for Proposed Streetcar System &#124; Urbanize LA |url=https://urbanize.city/la/post/glendale-considers-two-alignments-proposed-streetcar-system |url-status=live |archive-url=https://web.archive.org/web/20220203224735/https://urbanize.city/la/post/glendale-considers-two-alignments-proposed-streetcar-system |archive-date=February 3, 2022 |access-date=March 17, 2022 |publisher=Urbanize.city}}</ref>
+
+====Airports====
+The closest airport that serves Glendale is the [[Hollywood Burbank Airport]]. The airport is owned by the Burbank–Glendale–Pasadena Airport Authority, a joint powers agreement between the cities of Burbank, Glendale, and Pasadena.<ref>{{Cite web |title=Airport Authority |url=https://hollywoodburbankairport.com/airport-authority/ |url-status=live |archive-url=https://web.archive.org/web/20220201225543/https://hollywoodburbankairport.com/airport-authority/ |archive-date=February 1, 2022 |access-date=February 3, 2022 |website=Hollywood Burbank Airport}}</ref>
+
+====Freeways and highways====
+Glendale is served by four [[freeway]]s: the [[Glendale Freeway]] ([[California State Route 2|State Route 2]]), the [[Ventura Freeway]] ([[Ventura Freeway#State Route 134|State Route 134]]), the [[Foothill Freeway]] ([[Interstate 210 and State Route 210 (California)|Interstate 210]]) and the [[Golden State Freeway]] ([[Interstate 5]])
+
+Major surface streets in the city include: Brand Boulevard, Broadway, Canada Boulevard, Central Avenue, Chevy Chase Drive, [[Colorado Boulevard]], [[Foothill Boulevard (Southern California)|Foothill Boulevard]], Glendale Avenue, [[Glenoaks Boulevard]], Grandview Avenue, La Crescenta Avenue, Honolulu Avenue, Pennsylvania Avenue, [[Riverside Drive (Los Angeles, California)|Riverside Drive]], [[Victory Boulevard (Los Angeles)|Victory Boulevard]], Pacific Avenue, Sonora Avenue, Western Avenue, [[San Fernando Road]], Verdugo Road/Boulevard, Mountain Street, and Ocean View Boulevard.
+
+==Notable people==<!--consensus reached to standardize this heading per WP:WikiProject Cities/US Guideline -->
+<!-----
+please follow the given format and place in alphabetical order by last name.
+
+name (date of birth-date of death), profession. NOTABLE accomplishments in brief.
+
+this isn't a resume. they can click on the listing for more info.
+------>
+{{div col|colwidth=30em}}
+* [[Tatev Abrahamyan]], chess player
+* [[Allisyn Ashley Arm]], actress, filmmaker
+* [[Dan Avidan]], vocalist in [[Ninja Sex Party]] and [[Starbomb]], co-host of [[Web series|webseries]] ''[[Game Grumps]]''
+* [[Chet Baker]], jazz musician
+* [[Zoe Barnett]], actress
+* [[Kimberly Beck]], actress
+* [[Captain Beefheart]], musician
+* [[Dawn Bender]], actress
+* [[Christian Bergman]], baseball pitcher
+* [[Elvin Bishop]], musician
+* [[Aloe Blacc]], musician
+* [[David Brin]], author
+* [[Clara Bryant]], actress
+* [[Angelo Buono]], serial killer
+* [[Julia Butters]], child actress
+* [[Lucille Carroll]], actress, MGM studio executive
+* [[Armen Chakmakian]], musician and composer
+* [[Caryl Chessman]], criminal
+* [[Migdia Chinea]], filmmaker
+* [[John Cho]], actor
+* [[Claudia Christian]], actress
+* [[Michael Cisco]], novelist
+* [[Ray Combs]] (1956–1996), former ''[[Family Feud]]'' host
+* [[Doug Davidson]], soap opera actor
+* [[Bette Davis]], actress
+* [[John Debney]], [[Academy Award]]-nominated composer
+* [[Emilio Delgado]], actor, Luis on ''[[Sesame Street]]''
+* [[Doug Dohring]], CEO of [[Neopets]]
+* [[Nicole Eggert]], actress
+* [[Erika Eleniak]], model and actress
+* [[Douglas Emerson]], actor
+* [[Robert Englund]], actor, ''[[Nightmare on Elm Street]]''
+* [[Yvonne Lime Fedderson]], actress, third wife of producer [[Don Fedderson]]
+* [[Pat Flaherty (racing driver)|Pat Flaherty]], [[auto racing]] driver, winner of 1956 [[Indianapolis 500]]
+* [[Doug Forrester]], businessman and politician from [[New Jersey]]
+* [[Edward Furlong]], actor
+* [[Beverly Garland]], actress and hotel owner
+* [[Daryl Gates]], former LAPD police chief
+* [[Go Betty Go]], rock star
+* [[Scott Gorham]], musician
+* [[Ellen Louise Graham]], journalist at ''[[The Wall Street Journal]]'' and 1999 [[Pulitzer Prize]] finalist
+* [[Woody Guthrie]], musician
+* [[Joe Hahn]], musician
+* [[Peter D. Hannaford]], political consultant and author associated with [[Ronald Reagan]]
+* [[Egoraptor|Arin Hanson]], animator, vocalist of [[Starbomb]], co-host of the [[Web series|webseries]] ''[[Game Grumps]]''
+* [[Thomas B. Hayward]], United States admiral
+* [[Tim Heidecker]], comedian and musician
+* [[Pamela Hensley]], actress
+* [[Taraji P. Henson]], Academy Award–nominated actress
+* [[Babe Herman]], MLB right fielder
+* [[Hardcore Holly]], professional wrestler
+* [[Chris Holmes (musician)|Chris Holmes]], lead guitarist, [[W.A.S.P. (band)|W.A.S.P.]]
+* [[John Holmes (actor)|John Holmes]], pornographic actor<ref>{{Cite book |last=Sager |first=Mike |url=https://books.google.com/books?id=3QBuyvqIq9sC&pg=PP1 |title=Scary Monsters and Super Freaks: Stories of Sex, Drugs, Rock 'n' Roll and Murder |publisher=Da Capo Press |year=2003 |isbn=9781560255635 |pages=11, 12}}{{Dead link|date=June 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Cite book |last=Schiller, Dawn |title=The Road Through Wonderland |page=47, Ch 12}}</ref>
+* [[Ashlyne Huff]], musician<ref name="allmusic">{{Cite web |last=Leahey |first=Andrew |title=Ashlyne Huff – Biography |url=https://www.allmusic.com/artist/p2121462 |url-status=live |archive-url=https://web.archive.org/web/20230318040523/https://www.allmusic.com/artist/ashlyne-huff-mn0002417996 |archive-date=March 18, 2023 |access-date=August 20, 2010 |website=[[AllMusic]]}}</ref>
+* [[Lux Interior]] and [[Poison Ivy (musician)|Poison Ivy]], musicians, [[The Cramps]]
+* [[Kathy Ireland]], model and actress
+* [[Jay-R]], actor, TV host
+* [[Nicole Jung]], KPop artist<ref>{{Cite web |last=Jung |first=Nicole |date=December 8, 2020 |title=interview |url=https://www.youtube.com/watch?v=63zHpegSGxc#t=4m59s |url-status=live |archive-url=https://ghostarchive.org/varchive/youtube/20211211/63zHpegSGxc |archive-date=December 11, 2021 |access-date=December 19, 2020 |website=YouTube}}{{cbignore}}</ref>
+* [[Maren Jensen]], actress
+* [[Margaret Kerry]], actress<ref name="Main">{{Cite web |date=January 16, 2020 |title=The Real-Life Tinker Bell Reconnected with a Lost Love at 90 and It's Wonderful |url=https://lamag.com/featured/tinker-bell-love-story |access-date=August 14, 2024 |website=[[Los Angeles (magazine)|Los Angeles]] |archive-date=August 14, 2024 |archive-url=https://web.archive.org/web/20240814235445/https://lamag.com/featured/tinker-bell-love-story |url-status=live }}</ref>
+* [[James Kerwin]], filmmaker
+* [[Ed King]], guitarist, [[Strawberry Alarm Clock]] & [[Lynyrd Skynyrd]]
+* [[Robert Knapp (actor)|Robert Knapp]], actor
+* [[Don Knotts]], Emmy-winning actor, lived in Glendale
+* [[Nathan Kress]], actor
+* [[Greg Kriesel]], bassist, [[The Offspring]]
+* [[Shia LaBeouf]], actor
+* [[Jonna Lee (actress)|Jonna Lee]], actress
+* [[Robert B. Lewis]], thoroughbred owner
+* [[Mike Lieberthal]], MLB All-Star catcher
+* [[Yvonne Lime]], actress
+* [[Eric Lloyd]], actor
+* [[Mario Lopez]], TV personality
+* [[Katherine "Scottie" MacGregor]], actress
+* [[Benji Madden]], lead guitarist, [[Good Charlotte]]
+* [[Joel Madden]], lead vocalist, Good Charlotte
+* [[Daron Malakian]], lead guitarist, [[System of a Down]]
+* [[Rafi Manoukian]], politician
+* [[Vanes Martirosyan]], boxer
+* [[Tim Matheson]], actor
+* [[Rex Mays]], champion race driver<ref>{{Cite news |last=Glick |first=Shav |date=October 20, 1987 |title=Auto Races Once Again Replacing Horse Races – Rex Mays' Death at Del Mar Track Is Not Forgotten |url=https://www.latimes.com/archives/la-xpm-1987-10-20-sp-14564-story.html |url-status=live |archive-url=https://archive.today/20120710165712/http://articles.latimes.com/1987-10-20/sports/sp-14564_1_del-mar |archive-date=July 10, 2012 |access-date=July 8, 2021 |work=[[Los Angeles Times]] |quote="Mays, a handsome 6-footer who was born and raised in Riverside and spent most of his adult years in Glendale,"}}</ref>
+* [[Mike Mazurki]], actor and professional wrestler
+* [[Brandon McCarthy]], former pitcher for [[Los Angeles Dodgers]]
+* [[Doug McClure]], actor
+* [[Eva Mendes]], actress
+* [[Don Milan]], [[NFL]] player
+* [[Terry Moore (actress)|Terry Moore]], actress
+* [[Jim E. Mora]], football coach
+* [[Dennis Muren]], special effects artist
+* [[Clarence Nash]], original voice of [[Donald Duck]]
+* [[Taylor Negron]], actor, comedian
+* [[Ross O'Donovan]], animator and YouTube personality
+* [[Florence Oberle]], actress
+* [[Ken Osmond]], actor from ''[[Leave It to Beaver]]''
+* [[Kelly Packard]], actress
+* [[Patti Paniccia]] (born 1952), law professor, lawyer, journalist and former professional surfer
+* [[Melissa Pastore (pastor)|Melissa Pastore]], pastor
+* [[Paul Petersen]], actor from ''[[The Donna Reed Show]]''
+* [[Sam Phillips (singer)|Sam Phillips]], musician
+* [[Jamie Pineda]], front woman of pop music project [[Sweetbox]]
+* [[Al Pollard]], [[NFL]] player and announcer<ref name="databasesports">{{Cite web |year=2006 |title=Al Pollard Past Stats, Statistics, History, and Awards |url=http://www.databasefootball.com/players/playerpage.htm?ilkid=POLLAAL01 |url-status=dead |archive-url=https://web.archive.org/web/20110807105149/http://www.databasefootball.com/players/playerpage.htm?ilkid=POLLAAL01 |archive-date=August 7, 2011 |access-date=December 13, 2009 |website=DatabaseSports.com}}</ref>
+* [[Donald Prothero]], paleontologist and author
+* [[Scott Radinsky]], MLB pitcher<ref>{{Cite web |title=Scott Radinsky Stats |url=http://www.baseball-almanac.com/players/player.php?p=radinsc01 |url-status=live |archive-url=https://web.archive.org/web/20121106180855/http://www.baseball-almanac.com/players/player.php?p=radinsc01 |archive-date=November 6, 2012 |access-date=December 3, 2012 |publisher=Baseball Almanac}}</ref>
+* [[Ronnie Radke]], vocalist, [[Falling In Reverse]]<ref>{{Cite news |last=Wells |first=Jason |date=August 7, 2012 |title=Rock singer arrested in Glendale on domestic assault warrant |url=http://www.glendalenewspress.com/news/tn-gnp-0807-rock-singer-ronald-radke-arrested-in-glendale-on-domestic-assault-warrant,0,4375010.story |url-status=dead |archive-url=https://archive.today/20130803114505/http://www.glendalenewspress.com/news/tn-gnp-0807-rock-singer-ronald-radke-arrested-in-glendale-on-domestic-assault-warrant,0,4375010.story |archive-date=August 3, 2013 |access-date=July 8, 2021 |work=[[Glendale News-Press]]}}</ref>
+* [[James Rallison]], [[YouTuber]] known as TheOdd1sOut
+* [[Frederick Emil Resche]], U.S. Army brigadier general<ref name="Davis">{{Cite book |last=Davis |first=Henry Blaine Jr. |url=https://books.google.com/books?id=fJvvAAAAMAAJ |title=Generals in Khaki |date=1998 |publisher=Pentland Press |isbn=978-1-5719-7088-6 |location=Raleigh, NC |pages=306–307 |access-date=October 30, 2022 |archive-url=https://web.archive.org/web/20230318040526/https://books.google.com/books?id=fJvvAAAAMAAJ |archive-date=March 18, 2023 |url-status=live |via=[[Google Books]]}}</ref>
+* [[Archie Reynolds]], [[MLB]] player
+* [[Michael Richards]], actor from ''[[Seinfeld]]''
+* [[Nicole Richie]], fashion designer, TV personality
+* [[Debra Jo Rupp]], actress
+* [[Devin Sarno]], composer
+* [[Maureen Kennedy Salaman]], proponent of alternative medicine and author
+* [[Steven L. Sears]], writer and producer
+* [[T. Sean Shannon]], ''SNL'' comedy writer
+* [[Bob Siebenberg]], drummer of [[Supertramp]]
+* [[Stirling Silliphant]], screenwriter, producer
+* [[Rick Springfield]], musician
+* [[Mary Kay Stearns]], actress
+* [[Casey Stengel]], MLB player and Hall of Fame manager for [[New York Yankees]]
+* [[Carl Steven]], former child actor
+* [[Joseph Stroud (poet)|Joseph Stroud]], poet and educator
+* [[Gary Sutherland]], MLB player
+* [[System of a Down]], alternative metal band
+* [[Gloria Talbott]], actress
+* [[Diana Taurasi]], WNBA player, Olympian
+* [[Vic Tayback]], actor, star of 1970s CBS sitcom ''Alice''
+* [[Jayceon Terrell Taylor]], rapper, musician known professionally as The Game
+* [[Michael Tonkin]], MLB pitcher
+* [[Ann Tyrrell]], actress
+* [[Ron Underwood]], director
+* [[Lupe Vélez]], actress
+* [[Shawna Waldron]], actress
+* [[Paul Walker]], actor
+* [[Gordon Waller]], singer with [[Peter and Gordon]]
+* [[John Wayne]], iconic film actor, attended [[Glendale High School (Glendale, California)|Glendale High School]]
+* [[Tanya Falan Welk-Roberts|Tanya Falan Welk]], singer
+* [[Lorin Whitney]], organist and recording artist
+* [[Dale Wood (composer)|Dale Wood]], organist and composer
+* [[Gregg Zaun]], MLB catcher
+{{div col end}}
+
+==Sister cities==
+Glendale's [[Sister city|sister cities]] are:<ref>{{Cite web |title=Glendale's Sister City Program |url=https://www.glendaleca.gov/government/departments/management-services/communications-community-relations/glendale-s-sister-city-program |url-status=live |archive-url=https://web.archive.org/web/20200608063612/https://www.glendaleca.gov/government/departments/management-services/communications-community-relations/glendale-s-sister-city-program |archive-date=June 8, 2020 |access-date=June 8, 2020 |website=City of Glendale}}</ref>
+{{div col|colwidth=20em}}
+* {{Flagicon|Artsakh}} [[Martuni, Nagorno-Karabakh|Martuni]], Artsakh
+* {{flagicon|ARM}} [[Gyumri]], Armenia
+* {{flagicon|ARM}} [[Kapan]], Armenia
+* {{flagicon|DOM}} [[Santiago de los Caballeros|Santiago]], Dominican Republic
+* {{flagicon|JPN}} [[Higashiōsaka]], Japan
+* {{flagicon|MEX}} [[Rosarito Beach Municipality|Rosarito Beach]], Mexico
+* {{flagicon|MEX}} [[Tlaquepaque]], Mexico
+* {{flagicon|KOR}} [[Boeun County|Boeun]], South Korea
+* {{flagicon|KOR}} [[Gimpo]], South Korea
+* {{flagicon|KOR}} [[Goseong County, South Gyeongsang|Goseong]], South Korea
+* {{flagicon|PHL}} [[Santa Rosa, Laguna]], Philippines
+{{div col end}}
+
+==See also==
+{{Portal|Greater Los Angeles}}
+* [[List of cities in California]]
+* [[Largest cities in Southern California]]
+* [[M.V. Hartranft]], early 20th-century land developer in Glendale
+* [[Casa Adobe De San Rafael]] California Historic Landmark in Glendale
+* [[List of sundown towns in the United States]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wikivoyage|Glendale (California)}}
+{{Commons category|Glendale, California}}
+* {{Official website}}
+* [http://www.glendalechamber.com/ Glendale Chamber of Commerce]
+
+{{Geographic location
+|Center    = Glendale [https://maps.google.com/maps?q=Glendale+ca&hl=en&client=firefox-a&hnear=Glendale,+Los+Angeles,+California&gl=us&t=m&z=12]
+|North     = [[La Crescenta-Montrose, California|La Crescenta-Montrose]] & [[La Cañada, California|La Cañada]]
+|Northeast = [[Altadena, California|Altadena]]
+|East      = [[Pasadena, California|Pasadena]]
+|Southeast = [[Eagle Rock, Los Angeles]]
+|South     = [[Atwater Village, Los Angeles]]
+|Southwest = [[Atwater Village, Los Angeles|Atwater Village]] & [[Silver Lake, Los Angeles]]
+|West      = [[Burbank, California|Burbank]] & ''[[Los Angeles Zoo|LA Zoo]] & [[Griffith Park]]''
+|Northwest = [[Sunland-Tujunga, Los Angeles]]
+}}
+{{Glendale, California}}
+{{Cities of Los Angeles County, California}}
+{{Greater Los Angeles Area}}
+{{Southern California megaregion}}
+{{authority control}}
+
+[[Category:Glendale, California| ]]
+[[Category:Cities in Los Angeles County, California]]
+[[Category:Communities in the San Fernando Valley]]
+[[Category:Incorporated cities and towns in California]]
+[[Category:Crescenta Valley]]
+[[Category:San Rafael Hills]]
+[[Category:Verdugo Mountains]]
+[[Category:Ethnic enclaves in the United States]]
+[[Category:Armenian-American culture in California]]
+[[Category:Armenian diaspora communities in the United States]]
+[[Category:Populated places established in 1906]]
+[[Category:1906 establishments in California]]
+[[Category:Sundown towns in California]]

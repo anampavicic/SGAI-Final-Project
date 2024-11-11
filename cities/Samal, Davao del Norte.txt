@@ -1,0 +1,446 @@
+{{Short description|Component city in Davao del Norte, Philippines}}
+{{Use Philippine English|date=February 2023}}
+{{Use mdy dates|date=July 2022}}
+{{More citations needed|date=April 2014}}
+{{Infobox settlement
+| name                     = {{PH wikidata|name}}
+| image_skyline            = Samal beach 3.jpg
+| image_alt                = 
+| image_caption            = 
+| image_flag               = Flag_of_Samal,_Davao_del_Norte.png
+| flag_size                = 120x80px
+| image_seal               = Samal Davao del Norte.png
+| seal_size                = 120x90px
+| image_blank_emblem       = 
+| blank_emblem_size        = 100x80px
+| image_map                = {{PH wikidata|image_map}}
+| map_caption              = {{PH wikidata|map_caption}}
+| image_map1               = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map              = Philippines
+| pushpin_label_position   = right
+| pushpin_map_caption      = Location within the {{PH wikidata|country}}
+| coordinates              = {{PH wikidata|coordinates}}
+| settlement_type          = {{PH wikidata|settlement_type}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = {{PHL}}
+| subdivision_type1        = [[Regions of the Philippines|Region]]
+| subdivision_name1        = {{PH wikidata|region}}
+| subdivision_type2        = [[Provinces of the Philippines|Province]]
+| subdivision_name2        = {{PH wikidata|province}}
+| official_name            = {{PH wikidata|official_name}}
+| etymology                = <!--origin of name-->
+| named_for                = <!--named after (if person or place)-->
+| native_name              = 
+| other_name               = 
+| nickname                 = 
+| motto                    = 
+| anthem                   = 
+| subdivision_type3        = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3        = {{PH legislative district}}
+| established_title        = [[Date of establishment|Founded]]
+| established_date         = July 8, 1948
+| established_title1       = Cityhood
+| established_date1        = January 30, 1998
+| parts_type               = [[Barangay]]s
+| parts_style              = para
+| p1                       = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title             = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name              = Al David T. Uy
+| leader_title1            = [[Vice Mayor]]
+| leader_name1             = Lemuel "Toto" Reyes
+| leader_title2            = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2             = Alan R. Dujali
+| leader_title3            = [[Sangguniang Panlungsod|City Council]]
+| leader_name3             = {{PH Town Council
+ | 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2='''Babak District'''
+ | 3=Lemuel T. Reyes
+ | 4=Edwin M. Jansol
+ | 5=Austerio F. Obenza
+ | 6=Michael D. Robledo Sr.
+ | 7='''Peñaplata (Samal) District'''
+ | 8=Ruel H. Bantillo
+ | 9=Ginaphine P. Colmenares
+ | 10=Noland L. Dacer
+ | 11=Gie-arr R. Valdez
+ | 12='''Kaputian district'''
+ | 13=Jan Albert R. Ortiz
+ | 14=Aldwin M. Jumao-as
+ | 15=Ricardo A. Tacsanan
+ | 16=Metodio D. Gonato
+}}
+| leader_title4            = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4             = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type          = {{PH wikidata|government_type}}
+| government_footnotes     = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m              = {{PH wikidata|elevation_m}}
+| elevation_max_m          = 535
+| elevation_min_m          = 0
+| elevation_max_point      = Mount Puting-Bato
+| elevation_max_rank       = 
+| elevation_min_rank       = 
+| elevation_footnotes      = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes  = 
+| elevation_min_footnotes  = 
+| area_rank                = 
+| area_footnotes           = {{PH area}}
+| area_total_km2           = {{PH wikidata|area}}
+| population_footnotes     = {{PH census|current}}
+| population_total         = {{PH wikidata|population_total}}
+| population_as_of         = {{PH wikidata|population_as_of}}
+| population_density_km2   = auto
+| population_blank1_title  = [[Household]]s
+| population_blank1        = {{PH wikidata|household}}
+| population_blank2_title  = 
+| population_blank2        = 
+| population_demonym       = 
+| population_rank          = 
+| population_note          = 
+| timezone                 = [[Philippine Standard Time|PST]]
+| utc_offset               = +8
+| postal_code_type         = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code              = 8118 (Babak), 8119 (Peñaplata), 8120 (Kaputian)<ref>{{cite web | url=https://phlpost.gov.ph/zip-code-locator/ | title=Zip Code Locator &#124; PHLPost }}</ref>
+| postal2_code_type        = {{PSGCstyle}}
+| postal2_code             = {{PSGC detail}}
+| area_code_type           = {{areacodestyle}}
+| area_code                = {{PH wikidata|area_code}}
+| website                  = {{PH wikidata|website}}
+| demographics_type1       = [[Economy of the Philippines|Economy]]
+| demographics1_title1     = {{PH wikidata|income_class_title}}
+| demographics1_info1      = {{PH wikidata|income_class}}
+| demographics1_title2     = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2      = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3     = [[Revenue]]
+| demographics1_info3      = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4     = Revenue rank
+| demographics1_info4      = 
+| demographics1_title5     = [[Asset]]s
+| demographics1_info5      = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6     = Assets rank
+| demographics1_info6      = 
+| demographics1_title7     = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7      = 
+| demographics1_title8     = IRA rank
+| demographics1_info8      = 
+| demographics1_title9     = [[Expenditure]]
+| demographics1_info9      = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10    = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10     = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2       = Service provider
+| demographics2_title1     = Electricity
+| demographics2_info1      = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2     = Water
+| demographics2_info2      = 
+| demographics2_title3     = Telecommunications
+| demographics2_info3      = 
+| demographics2_title4     = Cable TV
+| demographics2_info4      = 
+| demographics2_title5     = 
+| demographics2_info5      = 
+| demographics2_title6     = 
+| demographics2_info6      = 
+| demographics2_title7     = 
+| demographics2_info7      = 
+| demographics2_title8     = 
+| demographics2_info8      = 
+| demographics2_title9     = 
+| demographics2_info9      = 
+| demographics2_title10    = 
+| demographics2_info10     = 
+| blank_name_sec1          = {{PH wikidata|climate_title}}
+| blank_info_sec1          = {{PH wikidata|climate_type}}
+| blank1_name_sec1         = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1         = {{PH wikidata|language}}
+| blank2_name_sec1         = [[Crime index]]
+| blank2_info_sec1         = 
+| blank3_name_sec1         = 
+| blank3_info_sec1         = 
+| blank4_name_sec1         = 
+| blank4_info_sec1         = 
+| blank5_name_sec1         = 
+| blank5_info_sec1         = 
+| blank6_name_sec1         = 
+| blank6_info_sec1         = 
+| blank7_name_sec1         = 
+| blank7_info_sec1         = 
+| blank1_name_sec2         = Major religions
+| blank1_info_sec2         = 
+| blank2_name_sec2         = Feast date
+| blank2_info_sec2         = 
+| blank3_name_sec2         = Catholic diocese
+| blank3_info_sec2         = 
+| blank4_name_sec2         = Patron saint
+| blank4_info_sec2         = 
+| blank5_name_sec2         = 
+| blank5_info_sec2         = 
+| blank6_name_sec2         = 
+| blank6_info_sec2         = 
+| blank7_name_sec2         = 
+| blank7_info_sec2         = 
+| short_description        = 
+| footnotes                = 
+}}
+
+'''Samal''', officially the '''Island Garden City of Samal''' ('''IGaCOS'''; {{lang-ceb|Pulong Harding Dakbayan sa Samal}}; {{lang-fil|Pulong Harding Lungsod ng Samal}}) is a 4th class [[Cities of the Philippines#Legal classification|component city]] in the [[Provinces of the Philippines|province]] of [[Davao del Norte]], [[Philippines]]. According to the 2020 census, it has a population of 116,771 people.{{PH census|current}}<ref name=":0">{{Cite web |last=Saaduddin |first=Jii |date=2023-05-26 |title=Island Garden City Of Samal: The #1 Popular Beach Vacation Destination In Davao Region |url=https://davaocorporate.info/island-garden-city-of-samal/ |access-date=2023-06-06 |language=en-US}}</ref>
+
+It is made up of Samal Island and the smaller Talikud Island in [[Davao Gulf]], from the merger of former municipalities of Samal, Babak, and Kaputian.
+
+Samal is a part of the [[Metro Davao|Metropolitan Davao]] area and is two kilometers away from [[Davao City]], in mainland [[Mindanao]], the largest city and the primary economic center of that island.
+
+==Etymology==
+[[File:Samal Island Views - September 2018.webm|thumb|left|Features of the Island Garden City of Samal]]
+The name Samal was derived from the [[Sama-Bajau peoples]], the natives who were the first inhabitants of the island. The first [[datu]] on the island was Datu Taganiyug, a native of what is now Peñaplata, today the governance center of the city. In the past, the people of the island named a place about what the said place is known for. For example, the name ''Peñaplata'' is said to be derived from the word "piña" or pineapple because of the abundance of pineapple in the area; this, however, is [[folk etymology]], for ''peñaplata'' means "rock of silver" in [[Spanish language in the Philippines|Spanish]]. Tagpopongan is the first barangay on the island whose name was from the word "tagpo" or meet. It was so called because this place was chosen by the datus as their meeting place. The word Samal was also known before because it was commonly used as a surname by dat
+{{Clear left}}
+==History==
+
+===Early beginnings===
+The island was initially home to the Sama-Bajau people. Later on, Spain managed to conquer the island in the late 1840s when Nueva Vergara (Davao City today) was established.
+
+===World War 2===
+The [[Pacific War]], which happened during [[World War II]], struck the island. Japanese fighter planes bombed the island. Japanese forces occupied the island and forced the people to work for four years until they were expelled by the Allied forces. After the war, infrastructure was built, such as [[schools]], [[church (building)|churches]], and stores in the area.
+
+===Official founding of the municipality===
+The time came on July 8, 1948, when the entire island itself became part of the newly created municipality of Samal;<ref>per Executive Order No. 151, s. 1948</ref> it was the official founding of the municipality. Five years later in 1953, the municipality of Babak was created from Samal,<ref>per Executive Order No. 596, s. 1953</ref> marking the political division of the island between the two municipalities. The island experienced further political division when the municipality of Kaputian was created from the island in 1966.<ref>per Republic Act No. 4754 of June 18, 1966</ref> During this period, the standard of living in these three municipalities became low and extremely rural.
+
+===Proposed province===
+In 1969, a proposal to create the sub-province of Samal was created by Republic Act No. 5999<ref>{{Cite web |url=http://www.chanrobles.com/republicacts/republicactno5999.html |title=Republic Act No. 5999 |website=Chan Robles Virtual Law Library}}</ref> and covered the area of the present-day city. The act was enacted without President [[Ferdinand Marcos]]' approval. However, the sub-province was never inaugurated.
+
+===Cityhood===
+{{main|Cities of the Philippines}}
+The city was created through Republic Act No. 8471 on January 30, 1998. This act paved the way for the dissolution and merger of the three former municipalities of Samal, Babak, and Kaputian into one local government unit by turning them into districts, now officially named IGaCoS, the Island Garden City of Samal. The first city mayor was Rogelio P. Antalan, who later served for three consecutive terms from 1998 to 2007.
+
+On April 19, 2000, [[Air Philippines Flight 541]] crashed in the city, killing all 131 people on board.<ref>{{Cite web |last=Ranter |first=Harro |title=ASN Aircraft accident Boeing 737-2H4 RP-C3010 Davao |url=https://aviation-safety.net/database/record.php?id=20000419-0 |url-status=live |archive-url=https://web.archive.org/web/20190331105729/http://aviation-safety.net/database/record.php?id=20000419-0 |archive-date=2019-03-31 |access-date=2019-07-20 |website=aviation-safety.net}}</ref>
+
+===Hostage crisis===
+On September 22, 2015, Kjartan Sekkingstad, aged 55, from [[Sotra]], Norway, was [[Abu Sayyaf#2015 Samal Island kidnappings|abducted by Abu Sayyaf Islamist guerrillas]] from a high-end tourist resort on Samal Island, along with two Canadian men, [[John Ridsdel]], aged 68, and [[Robert Hall (Canadian businessman)|Robert Hall]], aged 67, and a Filipina woman, Marites Flor, Hall's girlfriend.<ref>{{cite web |last1=Mogato |first1=Manuel |title=Gunmen abduct three foreign tourists from southern Philippines resort |url=https://www.reuters.com/article/us-philippines-kidnapping/gunmen-abduct-three-foreign-tourists-from-southern-philippines-resort-idUSKCN0RM03220150922 |website=reuters.com |publisher=Reuters |access-date=October 12, 2017 |date=September 21, 2015}}</ref> In April and June 2016, the Canadians were beheaded after ransoms were not paid, and in June 2016 Flor was released. On September 17, 2016, Sekkingstad was released on Jolo island, 600 miles south of Manila after captor Abu Sayyaf received $638,000 in ransom for his release. He was handed over to another rebel group, the [[Moro National Liberation Front]]. The MNLF was in peace talks with the government and had been working with authorities to secure Sekkingstad's release. It is not known who paid the ransom for Sekkingstad, but it was not the Norwegian government.<ref>{{Cite web|url=http://norwaytoday.info/news/abu-sayyaf-released-sekkingstad/|title = Abu Sayyaf has released Sekkingstad|date = September 17, 2016}}</ref>
+
+==Geography==
+Samal is the only city in the country that encompasses two entire islands, hence its name the Island Garden City. While pristine beaches dot the island's shores, hills dominate the middle portions of the island. Talikud Island is located southwest of the main island.
+
+IGaCoS enjoys an evenly distributed rainfall throughout the year and a typhoon-free climate, which makes it ideal for agricultural production and tourism.
+
+===Climate===
+{{Weather box
+| location     = Samal, Davao del Norte
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 29
+| Jan low C  = 22
+| Feb high C = 30
+| Feb low C  = 22
+| Mar high C = 30
+| Mar low C  = 22
+| Apr high C = 30
+| Apr low C  = 22
+| May high C = 31
+| May low C  = 23
+| Jun high C = 31
+| Jun low C  = 24
+| Jul high C = 30
+| Jul low C  = 24
+| Aug high C = 30
+| Aug low C  = 24
+| Sep high C = 30
+| Sep low C  = 24
+| Oct high C = 30
+| Oct low C  = 24
+| Nov high C = 30
+| Nov low C  = 23
+| Dec high C = 30
+| Dec low C  = 22
+| Jan precipitation mm = 98
+| Feb precipitation mm = 86
+| Mar precipitation mm = 91
+| Apr precipitation mm = 83
+| May precipitation mm = 133
+| Jun precipitation mm = 158
+| Jul precipitation mm = 111
+| Aug precipitation mm = 101
+| Sep precipitation mm = 94
+| Oct precipitation mm = 117
+| Nov precipitation mm = 131
+| Dec precipitation mm = 94
+| Jan rain days        = 16.4
+| Feb rain days        = 14.3
+| Mar rain days        = 16.3
+| Apr rain days        = 18.5
+| May rain days        = 25.3
+| Jun rain days        = 25.0
+| Jul rain days        = 23.8
+| Aug rain days        = 21.9
+| Sep rain days        = 20.8
+| Oct rain days        = 24.4
+| Nov rain days        = 24.3
+| Dec rain days        = 18.7
+| source 1 = Meteoblue <small>(modeled/calculated data, not measured locally)</small><ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/samal_philippines_1690666
+| title =  Samal: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| access-date = February 29, 2020 }}</ref>
+| date = February 29, 2020 }}
+
+===Barangays===
+Samal is politically subdivided into 46 [[barangay]]s. Each barangay consists of [[purok]]s  while some have [[sitios]].
+
+In 1955, the sitios of Mambago, San Isidro, Santo Niño, San Antonio, San Agustin, Dangcaan, Balet, Tambo, Camudmud, and Cogon were converted into barrios of the now-defunct municipality of Babak.<ref>{{cite web|url=http://lawph.com/statutes/ra1307.html|title=An Act Converting Certain Sitios in the Municipality of Babak, Province of Davao, into Barrios|publisher=LawPH.com|access-date=April 11, 2011}}</ref>
+{{Div col|colwidth=15em}}
+* Adecor
+* Anonang
+* Aumbay
+* Aundanao
+* Balet
+* Bandera
+* Caliclic (Dangca-an)
+* Camudmud
+* Catagman
+* Cawag
+* Cogon
+* Cogon (Talikud)
+* Dadatan
+* Del Monte
+* Guilon
+* Kanaan
+* Kinawitnon
+* Libertad
+* Libuak
+* Licup
+* Limao
+* Linosutan
+* Mambago-A
+* Mambago-B
+* Miranda ([[Poblacion]])
+* Moncado (Villarica)([[Poblacion]])
+* Pangubatan
+* Peñaplata ([[Poblacion]])
+* Poblacion (Kaputian)
+* San Agustin
+* San Antonio
+* San Isidro (Babak)
+* San Isidro (Kaputian)
+* San Jose (San Lapuz)
+* San Miguel (Magamomo)
+* San Remigio
+* Santa Cruz (Talicod II)
+* Santo Niño
+* Sion (Zion)
+* Tagbaobo
+* Tagbay
+* Tagbitan-ag
+* Tagdaliao
+* Tagpopongan
+* Tambo
+* Toril
+ {{div col end}}
+
+==Demographics==
+[[File:Babakbaywalk.jpg|thumb|right|Baywalk in Babak District, Samal Island]]
+
+{{Philippine Census
+| align= none
+| cols = 2
+| title= Population census of {{PH wikidata|name}}
+| 1903 = 
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+Cebuano is the common language spoken of the people of Samal Island, followed by Isama, and Tausug.
+
+==Economy==
+{{PH poverty incidence}}
+
+===Agriculture===
+The city's economy depends greatly on its agricultural production. Copra, mango, corn, vegetables, citrus, and fish are the major products of the island. Livestock production is also a major product with Davao City as the primary market. In addition, rice is also produced in the barangays of Libuak in Babak District and Aumbay in Peñaplata District.
+
+===Tourism===
+[[File:Kaputian, Island Garden City of Samal, 8120 Davao del Norte, Philippines - panoramio (2).jpg|thumbnail|right|Beach in Kaputian, Samal Island]]
+The city is the largest [[resort city]] in the country. It has good beaches and houses many beach resorts. It has also numerous marine reefs and tranquil waters that lure tourists to visit them, especially on Talikud Island. There are 34 registered resorts with a combined capacity of 1,000 rooms in the city.<ref>{{cite web|url=http://www.edgedavao.net/index.php?option=com_content&view=article&id=15078:igacos-bullish-on-tourism-campaign&catid=68:the-big-news&Itemid=96 |title=IGaCOS bullish on tourism campaign |publisher=Edgedavao.net |date=March 26, 2014 |access-date=April 7, 2015}}</ref> Because of these, the [[Department of Tourism (Philippines)|Department of Tourism]] named it one of the best visiting islands in [[Mindanao]] and currently one of the fastest growing tourist destinations in the country. Thus, tourism is the main source of income in the city. Biggest taxes are imposed to tourism and resort industry.
+[[File:Bigiw boats in Samal Island.jpg|thumb|right|''[[Bigiw]]'' sailboats in Samal Island]]
+
+There are three main festivals held annually in the city, namely: 
+*Kabasan Festival, coincides with the founding of Babak municipality every year in May, features bikini open contests, fireworks display, street-dancing and street parties, and [[motocross]] events
+*White Nights Festival, takes place every two days with Kaputian as the venue, celebrating the city's cultural and historical heritage; and
+*Hugyaw Madayaw Festival, a spin-off of Davao's [[Kadayawan Festival]] which is also held annually in August, and also an attempt to preserve the diminishing Sama culture in the island.
+
+[[Monfort Bat Sanctuary]], the world's largest fruit bat colony,<ref>{{cite web|title=Largest colony of Geoffrey's Rousette Fruit Bat (Rousetteus amplexicaudatus)|url=http://www.guinnessworldrecords.com/world-records/8000/largest-colony-of-geoffreys-rousette-fruit-bat-%28rousetteus-amplexicaudatus%29|publisher=[[Guinness World Records]]|access-date=December 7, 2012|quote=The Monfort Bat Colony, located in the Monfort Cave on the Samal Island in Mindanao, Philippines, is the largest colony of Geoffrey's Rousette Fruit Bat (Rousetteus amplexicaudatus)". As per an estimate from Bat Conservation International in 2006, the population in the Monfort cave was approximately 1.8 million.}}</ref> is also located in the island.
+
+===Fishing===
+Fishing is also a growing business sector in this city, since the city was situated on the island, it cannot fully complement the demand for meat products imported from other parts of the country, especially in nearby [[Davao City]] in the mainland. The city has no both container port and deep-water transport terminal, except for a barge wharf at Babak district, to deliver market products directly to the city, so the city government advocated building fishery complexes across the city to minimize the demand for market products imported to the city. Fish, pearls, and [[crustaceans#Consumption by humans|edible crustaceans]] such as shrimps, prawns, and crabs are the main aquatic consumable products in the city.
+
+==Government==
+The center of city governance is located at Barangay Peñaplata, Samal District, situated at the west central coast of the island. The city has three districts: Babak, Samal and Kaputian. These districts used to serve as separate towns until the 1998 city merger.
+
+==Transportation==
+[[File:Babakstreet.jpg|thumb|right|Samal Circumferential Road in Babak District, Samal Island]]
+[[roll-on/roll-off|Barge/ferry service]] or passenger boats from the [[Port of Davao|Sasa Wharf & Santa Ana Wharf]] in Davao City serves the island city. The modes of transportation on the island are motorcycles, tricycles or trikes, and bus and private car services offered by resorts.
+
+Bus operators:
+#Island City Express (operated by [[Mindanao Star]]) daily route to Kaputian, Babak, Peñaplata from mainland Mindanao via Davao City (via Kinawitnon ferry port).
+
+===Proposed Samal-Davao Bridge===
+{{main|Davao–Samal Bridge}}
+Efforts to link Samal Island to mainland Mindanao via Davao City have been going on for decades. One of the earliest records of government attempts to get the project going is a news item from the Mindanao Times dated January 18, 1979, with the headline titled “Bridge to Link City and Samal”. It was not the first time that such project had been proposed. Several years earlier, talk of a bridge surfaced when an aluminum plant was being planned to be built on Samal Island by an eight-nation consortium of giant corporations.<ref name=":0" />
+
+Decades later, talks of the proposed project resurfaced notably through informal surveys among both Davao City and Samal Island residents about the bridge with majority (138 out of 150 individuals) said they agreed the construction of the project.<ref>{{Cite web |last=Caña |first=Paul John |date=September 27, 2022 |title=Everyone Wants the P24 Billion Samal Island-Davao City Bridge, But It Will Destroy Marine Life in the Process. What Now? |url=https://www.esquiremag.ph/long-reads/features/samal-island-davao-city-bridge-a2056-20230927-lfrm2 |website=Esquire Magazine Philippines}}</ref> Few years later, 3.98-kilometer bridge, a flagship project under the “Build, Build, Build” program during the administration of former President Rodrigo Duterte, will be hugely funded through a loan agreement with the Chinese government. The project groundbreaking ceremony soon led by Duterte's successor, President [[Bongbong Marcos]] who was joined by Duterte's daughter Vice President [[Sara Duterte]] and her brother, Rodrigo's son Davao City mayor [[Sebastian Duterte|Baste Duterte]].<ref>{{Cite web |last=Pinlac |first=Beatrice |date=2022-10-27 |title=Bongbong Marcos leads Samal-Davao bridge groundbreaking in Davao City |url=https://newsinfo.inquirer.net/1685582/davao-samal-bridge-breaks-ground-in-davao-city |access-date=2024-02-16 |website=INQUIRER.net |language=en}}</ref> The project is scheduled to be completed in 2027.<ref>{{Cite web |last=CEDadiantiTyClea |date=2023-12-18 |title=No obstacles to Davao-Samal bridge construction — official |url=https://www.bworldonline.com/the-nation/2023/12/18/564365/no-obstacles-to-davao-samal-bridge-construction-official/ |access-date=2024-02-16 |website=BusinessWorld Online |language=en-US}}</ref>
+
+==Sister cities==
+===Local===
+* {{flagicon|PHI}} [[Las Piñas]], Philippines
+
+== See also ==
+*[[Port of Davao|International Seaport of Davao]]
+
+==References==
+{{Reflist}}<ref>{{Cite web|title=Philstar.com {{!}} Latest Philippine news and multimedia|url=https://www.philstar.com/|access-date=November 4, 2020|website=Philstar.com}}</ref>
+
+==External links==
+{{Wikivoyage|Samal}}
+{{Commons category}}
+* [https://cmci.dti.gov.ph/lgu-profile.php?lgu=Igacos Samal Profile at the DTI Cities and Municipalities Competitive Index]
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+* [http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=14&frmIdProvince=75&frmIdLgu=1482 Local Governance Performance Management System]
+* {{official website|http://samalcity.gov.ph/}}
+* [http://www.samalguide.com/ Samal Island Guide]
+
+{{Adjacent communities
+|Centre    = Samal
+|North     = [[Panabo]] / [[Tagum]]<br />''[[Davao Gulf]]''
+|East      = ''[[Davao Gulf]]'' / [[Pantukan|Pantukan, Compostela Valley]]<br />{{pad|5em}}[[Banaybanay|Banaybanay, Davao Oriental]]
+|South     = ''[[Davao Gulf]]''
+|West      = [[Davao City]]
+}}
+{{Navboxes
+| title = Articles Related to Samal, Davao del Norte
+| list  =
+{{Davao del Norte}}
+{{Davao Region}}
+{{Philippine cities}}
+{{Most populous cities in Philippines}}
+}}
+
+{{Authority control}}
+
+[[Category:Cities in Davao del Norte]]
+[[Category:Planned communities in the Philippines]]
+[[Category:Populated places established in 1948]]
+[[Category:1948 establishments in the Philippines]]
+[[Category:Island cities in the Philippines]]
+[[Category:Component cities in the Philippines]]
+[[Category:Political divisions established by Philippine executive order]]

@@ -1,0 +1,558 @@
+{{Short description|Capital of Bohol, Philippines}}
+{{Use Philippine English|date=February 2023}}
+{{Use mdy dates|date=July 2022}}
+{{Infobox settlement
+| name                            = {{PH wikidata|name}}
+| image_skyline                   = Tagbilaran Plaza Rizal, Cathedral (CPG Avenue, Tagbilaran, Bohol; 01-09-2023).jpg
+| image_caption                   = Plaza Rizal
+| image_flag                      = <!--{{PH wikidata|image_flag}}-->Flag_of_Tagbilaran,_Bohol_(New).png
+| flag_size                       = 120x80px
+| image_seal                      = <!--{{PH wikidata|image_seal}}-->Tagbilaran Bohol.png
+| seal_size                       = 100x80px
+| image_map                       = {{PH wikidata|image_map}}
+| map_caption                     = {{PH wikidata|map_caption}}
+| image_map1                      = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map                     = Philippines
+| pushpin_label_position          = left
+| pushpin_map_caption             = Location within the {{PH wikidata|country}}
+| coordinates                     = {{PH wikidata|coordinates}}
+| settlement_type                 = {{PH wikidata|settlement_type}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = [[Philippines]]
+| subdivision_type1               = [[Regions of the Philippines|Region]]
+| subdivision_name1               = {{PH wikidata|region}}
+| subdivision_type2               = [[Provinces of the Philippines|Province]]
+| subdivision_name2               = {{PH wikidata|province}}
+| official_name                   = {{PH wikidata|official_name}}
+| etymology                       = <!--origin of name-->
+| named_for                       = <!--named after (if person or place)-->
+| native_name                     = 
+| other_name                      = 
+| nickname                        = 
+| motto                           = 
+| anthem                          = 
+| subdivision_type3               = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3               = {{PH legislative district}}
+| established_title               = Incorporated
+* Municipality
+* City
+| established_date                = <br />{{PH wikidata|founded}}
+| parts_type                      = [[Barangay]]s
+| parts_style                     = para
+| p1                              = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title                    = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name                     = [[Jane Cajes Yap]]
+| leader_title1                   = [[Vice Mayor]]
+| leader_name1                    = [[Adam Jala|Adam Relson L. Jala]]
+| leader_title2                   = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2                    = [[Edgardo Migriño Chatto|Edgardo M. Chatto]]
+| leader_title3                   = [[Sangguniang Panlungsod|City Council]]
+| leader_name3                    = {{PH Town Council
+ |20 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ |  1=Jose Esteban Timoteo B. Butalid
+ |  2=Adam Relson L. Jala
+ |  3=Agustinus V. Gonzaga
+ |  4=Jonas R. Cacho
+ |  5=Eliezer L. Borja
+ |  6=Vicente N. Polinar
+ |  7=Joseph T. Bompat
+ |  8=Dulce C. Glovasa
+ |  9=Philipp S. Besas
+ | 10=Nerio D. Zamora II
+ |991=2019
+}}
+| leader_title4                   = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4                    = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type                 = {{PH wikidata|government_type}}
+| government_footnotes            = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m                     = {{PH wikidata|elevation_m}}
+| elevation_max_m                 = 449
+| elevation_min_m                 = 0
+| elevation_max_rank              = 
+| elevation_min_rank              = 
+| elevation_footnotes             = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes         = 
+| elevation_min_footnotes         = 
+| area_rank                       = 
+| area_footnotes                  = {{PH area}}
+| area_total_km2                  = {{PH wikidata|area}}
+| population_footnotes            = {{PH census|current}}
+| population_total                = {{PH wikidata|population_total}}
+| population_as_of                = {{PH wikidata|population_as_of}}
+| population_density_km2          = auto
+| population_blank1_title         = [[Household]]s
+| population_blank1               = {{PH wikidata|household}}
+| population_blank2_title         = 
+| population_blank2               = 
+| population_demonym              = 
+| population_rank                 = 
+| population_note                 = 
+| timezone                        = [[Philippine Standard Time|PST]]
+| utc_offset                      = +8
+| postal_code_type                = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code                     = {{PH wikidata|postal_code}}
+| postal2_code_type               = {{PSGCstyle}}
+| postal2_code                    = {{PSGC detail}}
+| area_code_type                  = {{areacodestyle}}
+| area_code                       = {{PH wikidata|area_code}}
+| website                         = {{PH wikidata|website}}
+| demographics_type1              = [[Economy of the Philippines|Economy]]
+| demographics1_title1            = {{PH wikidata|income_class_title}}
+| demographics1_info1             = {{PH wikidata|income_class}}
+| demographics1_title2            = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2             = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3            = [[Revenue]]
+| demographics1_info3             = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4            = Revenue rank
+| demographics1_info4             = 
+| demographics1_title5            = [[Asset]]s
+| demographics1_info5             = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6            = Assets rank
+| demographics1_info6             = 
+| demographics1_title7            = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7             = 
+| demographics1_title8            = IRA rank
+| demographics1_info8             = 
+| demographics1_title9            = [[Expenditure]]
+| demographics1_info9             = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10           = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10            = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2              = Service provider
+| demographics2_title1            = [[List of electric distribution utilities in the Philippines|Electricity]]
+| demographics2_info1             = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2            = Water
+| demographics2_info2             = 
+| demographics2_title3            = Telecommunications
+| demographics2_info3             = 
+| demographics2_title4            = Cable TV
+| demographics2_info4             = 
+| demographics2_title5            = 
+| demographics2_info5             = 
+| demographics2_title6            = 
+| demographics2_info6             = 
+| demographics2_title7            = 
+| demographics2_info7             = 
+| demographics2_title8            = 
+| demographics2_info8             = 
+| demographics2_title9            = 
+| demographics2_info9             = 
+| demographics2_title10           = 
+| demographics2_info10            = 
+| blank_name_sec1                 = {{PH wikidata|climate_title}}
+| blank_info_sec1                 = {{PH wikidata|climate_type}}
+| blank1_name_sec1                = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1                = {{PH wikidata|language}}
+| blank2_name_sec1                = [[Crime index]]
+| blank2_info_sec1                = 
+| blank3_name_sec1                = 
+| blank3_info_sec1                = 
+| blank4_name_sec1                = 
+| blank4_info_sec1                = 
+| blank5_name_sec1                = 
+| blank5_info_sec1                = 
+| blank6_name_sec1                = 
+| blank6_info_sec1                = 
+| blank7_name_sec1                = 
+| blank7_info_sec1                = 
+| blank1_name_sec2                = Major religions
+| blank1_info_sec2                = 
+| blank2_name_sec2                = Feast date
+| blank2_info_sec2                = 
+| blank3_name_sec2                = Catholic diocese
+| blank3_info_sec2                = 
+| blank4_name_sec2                = Patron saint
+| blank4_info_sec2                = {{PH wikidata|patron_saint}}
+| blank5_name_sec2                = 
+| blank5_info_sec2                = 
+| blank6_name_sec2                = 
+| blank6_info_sec2                = 
+| blank7_name_sec2                = 
+| blank7_info_sec2                = 
+| short_description               = 
+| footnotes                       = 
+}}
+'''Tagbilaran''', officially the '''City of Tagbilaran''' ({{langx|ceb|Dakbayan sa Tagbilaran}}; {{langx|hil|Dakbanwa sang Tagbilaran}}; {{langx|fil|Lungsod ng Tagbilaran}}), is a 3rd class [[Cities of the Philippines#Legal classification|component city]] and capital of the [[Provinces of the Philippines|province]] of [[Bohol]], [[Philippines]]. According to the 2020 census, it has a population of 104,976 people making it the most populous in the province.{{PH census|current}}
+
+Encompassing a land area of {{convert|32.7|km2|abbr=on}}, with a coastline of {{convert|13|km|abbr=on}} on the southwestern part of the island, the city shares its boundaries with the towns of [[Cortes, Bohol|Cortes]], [[Corella, Bohol|Corella]], and [[Baclayon, Bohol|Baclayon]].
+
+Tagbilaran is the principal gateway to Bohol, {{convert|630|km|abbr=on}} southeast of the national capital of [[Manila]] and {{convert|72|km|abbr=on}} south of the regional capital, [[Cebu City]].<ref>{{cite web| url=https://www.valuealliance.com/en/flights/pvg/tag/shanghai-to-tagbilaran | title = ''Tagbiliran'' | publisher = Value Alliance | access-date = January 30, 2019}}</ref>
+
+==Etymology==
+According to oral tradition, the name is a [[Hispanicization|Hispanicized]] form of "''Tagubilaan''", a compound of ''tagu'', meaning "''to hide''" and "''Bilaan''", referring to the [[Blaan people]], who were said to have raided the [[Visayas|Visayan Islands]]. This explanation seems to correlate with the government's explanation. According to the official government website of Tagbilaran, it is said to have been derived from ''tinabilan'' meaning ''shielded'', as the town was protected by [[Panglao Island|Panglao]] from potential invaders.<ref>{{Cite web|url=https://tagbilaran.gov.ph/history/|title = History}}</ref>
+
+==History==
+[[File:Landing Fields - Philippines - Bohol Island - NARA - 68160498.jpg|thumb|left|Aerial view of Tagbilaran, 1937]]
+A hundred years before Spaniards arrived in the Philippines, the settlement which eventually became Tagbilaran was already involved in trading with China and Malaya. Tagbilaran Strait was the location of the Precolonial kingdom of the [[Kedatuan of Dapitan]]. This early settlement had contact with the Spaniards in 1565, when the Spanish conquistador [[Miguel López de Legazpi]] and the native chieftain [[Datu Sikatuna]] pledged peace and cooperation through the famous blood compact.
+
+(San Jose de) Tagbilaran was established as a town on 9 February 1742, by General Don Francisco Antonio Calderón de la Barca, Governor of the Visayas, who separated it from the town of [[Baclayon, Bohol|Baclayon]]. The town was dedicated to St. Joseph the Worker. Since then it was part of the province of Bohol until it became a chartered city on 18 July 1966, by virtue of Republic Act No. 4660.
+
+The city was occupied by the [[United States]] during the [[Philippine–American War]] and by [[Empire of Japan|Imperial Japan]] during [[World War II]].
+
+'''Sitio Ubos''' (''Lower Town'') is Tagbilaran's former harbor site and is considered to be the city's oldest portion, having been a busy trading center since the seventeenth century until the early twentieth century. As such, the place houses the oldest and largest number of heritage houses in Bohol. Sitio Ubos declined as a major port towards the end of the Spanish era when the causeway to Panglao Island was constructed. Since then, the area lost its former glory and its old houses were either demolished or neglected.{{sfn|Akpenodu| Saloma|2011}}
+
+In 2002, in recognition of its cultural and historic significance, Sitio Ubos was declared a "Cultural Heritage Area". Some of the surviving heritage houses to this day include the Rocha–Suarez House, Rocha House, Hontanosas House, Beldia House, and Yap House.{{sfn|Akpenodu| Saloma|2011}}
+{{clear left}}
+
+===Historic events===
+
+One of the most important events in [[Philippine history]] (immortalized on canvas by the famous Filipino painter [[Juan Luna]]) was the [[blood compact]] between [[Datu Sikatuna]], a local native chieftain, and Captain [[Miguel López de Legazpi]], the Spanish explorer and colonizer. It was believed that it took place in the coast of Bool, now a district of Tagbilaran, on 16 March 1565, a day after Legazpi and his crew of [[conquistador]]es on four ships chanced upon the shores of Bool during their trip to the province of [[Butuan]] from [[Camiguin]] Island because of strong southwest monsoon winds and low tide. 
+
+But in March 2006, the National Historical Institute (now National Historical Commission of the Philippines) installed a stone marker with an iron plaque at Villalimpia, Hinawanan Bay, Loay, to rectify the error once and for all. The historical marker states that:
+
+'''Ang Sandugo'''
+
+''Sa look ng Hinawanan, Loay naganap ang sandugo sa pagitan nina Miguel Lopez de Legazpi at Datu Sikatuna ng Bohol sa loob ng barkong San Pedro ng Espanya, 25 Marso 1565. Isinagawa sa pamamagitan ng pag-inom ng alak na inihalo sa dugo mula sa hiwa sa dibdib ng dalawang pinuno. Naging simula ng pagkakaibigan ng mga Espanyol at mga Boholano at Kristiyanisasyon ng Pulo.''
+
+Tagbilaran was occupied by Imperial Japanese forces on 17 May 1942, after the fall of the Philippines during World War II.
+
+During the Japanese occupation, the municipal government of Tagbilaran, whose mayor at the time was Manuel Espuelas, moved from the Poblacion to Tiptip.<ref>{{Cite web|url=http://nlpdl.nlp.gov.ph:81/HD01/p9/m31/b11/lgujpg.htm|title=Historical and Cultural Life of the Barrio of Tiptip|website=National Library of the Philippines Digital Library|access-date=January 21, 2017}}</ref> Another significant event was the Battle of Ubujan wherein a guerrilla unit under the command of Captain Francisco Salazar (aka Vicente Cubello) engaged Japanese troops against overwhelming odds.<ref>[http://www.tagbilaran.gov.ph/?page_id=9 History of Tagbilaran] Retrieved December 6, 2009.</ref>
+
+===2013 earthquake===
+
+An [[2013 Bohol earthquake|earthquake with magnitude 7.2]], with an epicenter near [[Sagbayan, Bohol]], struck Bohol on October 15, 2013. Tagbilaran received four fatalities and 21 injuries, and damage to buildings, including the seaport, airport, and city hall.
+
+==Geography==
+[[Image:Banat-i Hill.jpg|thumb|right|200px|Banat-i Hill bordering the end of Tagbilaran]]
+Tagbiliran is shaped a strip with two hills, Elley Hull (100 meters) and Banat-i (145 meters), located on its southern and northern borders respectively.<ref>{{cite news |title=The City of Tagbilaran Fast Facts |url=https://books.google.com/books?id=Slg1AAAAIBAJ&pg=PA6 |access-date=8 March 2024 |publisher=Philippine Daily Inquirer |date=1 July 2005 |language=en}}</ref> 
+
+===Climate===
+{{Weather box
+|width       = auto
+|metric first= yes
+|single line =  yes
+|location= Tagbilaran City (1981–2010)
+<!--Average high temperatures-->
+|Jan high C = 31.1
+|Feb high C = 31.6
+|Mar high C = 32.4
+|Apr high C = 33.3
+|May high C = 33.5
+|Jun high C = 32.9
+|Jul high C = 32.5
+|Aug high C = 32.8
+|Sep high C = 32.8
+|Oct high C = 32.4
+|Nov high C = 32.0
+|Dec high C = 31.4
+|year high C = 32.4
+<!--Mean daily temperature-->
+|Jan mean C = 26.8
+|Feb mean C = 27.1
+|Mar mean C = 27.6
+|Apr mean C = 28.5
+|May mean C = 29.0
+|Jun mean C = 28.7
+|Jul mean C = 28.4
+|Aug mean C = 28.7
+|Sep mean C = 28.6
+|Oct mean C = 28.2
+|Nov mean C = 27.8
+|Dec mean C = 27.2
+|year mean C = 28.0
+<!--Average low temperatures-->
+|Jan low C = 22.6
+|Feb low C = 22.5
+|Mar low C = 22.8
+|Apr low C = 23.6
+|May low C = 24.4
+|Jun low C = 24.4
+|Jul low C = 24.3
+|Aug low C = 24.5
+|Sep low C = 24.4
+|Oct low C = 24.0
+|Nov low C = 23.6
+|Dec low C = 23.0
+|year low C = 23.7
+<!--Rainfall-->
+|rain colour= green
+|Jan rain mm = 101.0
+|Feb rain mm = 79.6
+|Mar rain mm = 76.6
+|Apr rain mm = 67.5
+|May rain mm = 81.5
+|Jun rain mm = 128.2
+|Jul rain mm = 126.7
+|Aug rain mm = 116.3
+|Sep rain mm = 126.5
+|Oct rain mm = 176.3
+|Nov rain mm = 178.9
+|Dec rain mm = 153.6
+|year rain mm = 1412.6
+<!--Average daily % humidity-->
+|Jan humidity = 83
+|Feb humidity = 81
+|Mar humidity = 79
+|Apr humidity = 78
+|May humidity = 79
+|Jun humidity = 81
+|Jul humidity = 82
+|Aug humidity = 80
+|Sep humidity = 81
+|Oct humidity = 83
+|Nov humidity = 85
+|Dec humidity = 84
+|year humidity = 81
+<!--Average number of rainy days-->
+|unit rain days = 0.1 mm <!--If entering the average number of days, then the unit requirement should be used, because this varies between countries. Eg. 0.2 cm, 0.2 mm.-->
+|Jan rain days = 14
+|Feb rain days = 11
+|Mar rain days = 11
+|Apr rain days = 9
+|May rain days = 10
+|Jun rain days = 15
+|Jul rain days = 15
+|Aug rain days = 13
+|Sep rain days = 14
+|Oct rain days = 18
+|Nov rain days = 18
+|Dec rain days = 16
+|year rain days = 164
+<!--Mandatory fields, source-->
+|source 1 = [[Philippine Atmospheric, Geophysical and Astronomical Services Administration|PAGASA]]<ref name=PAGASAnormals>
+{{cite web
+| archive-url = https://web.archive.org/web/20181018214345/https://data.gov.ph/sites/default/files/pagasanormvaltagbibohol1981-2010.csv
+| archive-date = October 18, 2018
+| url = https://data.gov.ph/?q=dataset/climatological-normal-values/resource/bdb2dc43-9f9f-40a9-9f30-10ad763b5e81
+| title = Tagbilaran City, Bohol Climatological Normal Values
+| publisher = Philippine Atmospheric, Geophysical and Astronomical Services Administration
+| access-date = October 18, 2018}}</ref>
+}}
+
+===Barangays===
+Tagbilaran is politically subdivided into 15 barangays. Each barangay consists of [[purok]]s and some have [[sitios]].
+
+With a population of 104,976 for the year 2020 census,{{PH census|current}} and an annual growth rate of {{PAGR|2010.3315|96792|2015.5836|{{formatnum:104,976|R}}}}. However, 44% of the city's population reside in the four urban districts where trade and commerce are also concentrated.
+{| style="margin:0 auto;" 
+| {{PH brgy table lite|top|true}}
+{{PH brgy table lite|071242001| [[Bool, Tagbilaran|Bool]]             | 6132| 5972| 3.49| 99=Gainsboro}}
+{{PH brgy table lite|071242002| [[Booy, Tagbilaran|Booy]]             | 9838| 8800| 1.46| 99=SlateGray}}
+{{PH brgy table lite|071242003| Cabawan                               | 1734| 1531| 2.67| 99=#d9d9d9}}
+{{PH brgy table lite|071242004| [[Cogon, Tagbilaran|Cogon]]           |17750|17114| 2.04| 99=DarkSlateGray}}
+{{PH brgy table lite|071242006| Dampas                                | 9838| 8440| 4.44| 99=LightSlateGray}}
+{{PH brgy table lite|071242005| Dao                                   | 8858| 6772| 3.91| 99=DimGray}}
+{{PH brgy table lite|071242008| Manga                                 | 7224| 6460| 1.17| 99=Gray}}
+{{PH brgy table lite|071242009| [[Mansasa]]                               | 6069| 6156| 0.83| 99=Silver}}
+{{PH brgy table lite|071242010| Poblacion I                           | 3057| 3072| 0.26| 99=#cccccc}}
+{{PH brgy table lite|071242011| Poblacion II                          | 5431| 5029| 0.70| 99=White}}
+{{PH brgy table lite|071242012| Poblacion III                         | 5873| 6051| 0.71| 99=LightGrey}}
+{{PH brgy table lite|071242013| [[San Isidro, Tagbilaran|San Isidro]] | 5424| 4821| 4.29| 99=#b3b3b3}}
+{{PH brgy table lite|071242014| Taloto                                | 7367| 6376| 2.45| 99=DarkGray}}
+{{PH brgy table lite|071242015| Tiptip                                | 4882| 4360| 2.82| 99=#bfbfbf}}
+{{PH brgy table lite|071242016| Ubujan                                | 5574| 5134| 1.46| 99=WhiteSmoke}}
+{{PH brgy table lite|bottom|96792|true}}
+|
+{| 
+|[[File:Tagbilaran bw-001.jpg|250px|thumb|right|Map of Tagbilaran showing barangays and islands]]
+|-
+| style='padding-left:2.5em;' | {{#invoke:Chart|pie chart
+| radius  = 110
+| slices  =
+( 17750 : Cogon        : DarkSlateGray )
+(  9838 : Booy         : SlateGray     )
+(  9838 : Dampas       : LightSlateGray)
+(  8858 : Dao          : DimGray       )
+(  7224 : Manga        : Gray          )
+(  7367 : Taloto       : DarkGray      )
+(  6069 : Mansasa      : Silver        )
+(  5873 : Poblacion III: LightGrey     )
+(  6132 : Bool         : Gainsboro     )
+(  5574 : Ubujan       : WhiteSmoke    )
+(  5431 : Poblacion II : White         )
+(  5424 : San Isidro   : #b3b3b3       )
+(  4882 : Tiptip       : #bfbfbf       )
+(  3057 : Poblacion I  : #cccccc       )
+(  1734 : Cabawan      : #d9d9d9       )
+| percent = true
+| hide group legends = yes
+}}
+|}
+|}
+
+==Demographics==
+{{Philippine Census
+| align= none
+| cols = 3
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote = {{font|size=110%|text=Source: Philippine Statistics Authority}}{{font|size=118%|text={{PH census|2015}}{{PH census|2010}}{{PH census|2007}}}}
+}}
+
+==Economy==
+[[File:Island City Mall.jpg|thumb|right|Island City Mall (usually known as 'ICM')]]
+{{PH poverty incidence}}
+
+The city has the advantage of being the province's main business capital and center of governance, education and transportation. Local and international visitors to Bohol pass through the city via the Port of Tagbilaran.
+
+Alturas Group (operator of Alturas Mall, Island City Mall and Plaza Marcela), Bohol Quality Corporation and Alvarez Group are some of the notable locally owned companies based in the city.
+{{clear left}}
+
+==Government==
+[[File:New Tagbilaran City Hall (cropped).png|alt=|thumb|Tagbilaran City Hall in March 2019]]
+
+===Chief Executives since 1742===
+{{main|Mayor of Tagbilaran}}
+[[File:TagbilaranFlag.jpg|thumb|Former flag of Tagbilaran]]
+The city is governed locally by [[Mayor of Tagbilaran|a mayor]], although historically by a [[gobernadorcillo]] and [[presidente municipal]] afterwards.
+{{#section-h:Mayor of Tagbilaran|List of chief executives}}
+
+==Tourism==
+[[File:boholtropics.jpg|thumb|right|Bohol Tropics Resort Club]]
+{{Main|List of Cultural Properties in Tagbilaran}}
+
+The city is a start-off point to Bohol province's attractions: the Chocolate Hills, tarsiers, white sandy beaches, dive spots, heritage sites and old stone churches. Home to several hotels, resorts, and restaurants, the city has recently become a venue for national conventions and gatherings.
+
+===Festivals===
+
+Saulog-Tagbilaran Festival is a celebration every April 20 to May 2. This includes street-dancing, fluvial procession, nightly activities, [[novena]] masses and beauty pageant. Tagbilaranon families invite relatives and friends for a lunch or dinner during desperas (visper) and katumanan (grand feast day May 1).
+
+The [[Sandugo Festival]] is an annual celebration in Tagbilaran in commemoration of the [[blood compact]] between [[Miguel López de Legazpi]] and [[Datu Sikatuna]] in March 1565. The festival is celebrated every July to coincide with the month-long activities celebrating the city's Charter Day on July 1 and the Province's (Bohol) Day on July 22.
+
+==Transportation==
+[[File:Tagbilaran City, Bohol, Philippines Sea Port.jpg|thumb|Tagbilaran sea port]]
+[[File:Tagbilaran Airport 1.JPG|thumb|right|Tagbilaran Airport terminal building]]
+
+Tagbilaran's land network consists of sealed and unsealed roads. Local transport plying the routes within the city are [[motorized tricycle (Philippines)|tricycle]]s, multicabs, taxis, and [[jeepney]]s. Buses, taxis and vans are usually hired for out-of-town travel. The Integrated Bus Terminal (IBT) located in the city district of Dao serves as the terminal point for public transport vehicles serving the inter-city routes within the province and also serves as the embarkation point for passengers taking the [[Pan-Philippine Highway|Pan-Philippine Highway (AH26)]] bus route from Tagbilaran to Metro Manila.  There is also a long-distance bus station within Cogon market.
+
+The city is linked by sea to the major port cities in the [[Visayas]] Islands and [[Mindanao]], which of major commercial importance is its link to the regional capital of [[Cebu City]]. A fastcraft ferry ride to Cebu City's Pier 1 takes approximately 2 hours depending on weather and sea conditions.<ref>{{cite web|url=https://www.geckoroutes.com/philippines/cebu-to-bohol/|title=Cebu to Bohol|work=GeckoRoutes|date=September 19, 2019|access-date=October 4, 2019}}</ref> The route is served by Ocean Jet exclusively as of June 2024 several times daily, with [[Weesam Express]] and [[Supercat Fast Ferry Corporation|SuperCat]] having suspended operations.
+
+[[Bohol–Panglao International Airport]] is situated at the [[Panglao Island]] southwest of the city. It replaced [[Tagbilaran Airport]] on November 27, 2018.<ref>{{cite news|url=https://www.rappler.com/business/217678-duterte-inaugurates-bohol-panglao-international-airport-november-27-2018|title=Duterte inaugurates Bohol-Panglao International Airport|last=Rey|first=Aika|work=Rappler|date=November 27, 2018|access-date=October 4, 2019}}</ref> It serves as the principal gateway airport to the rest of the province. Airlines using the airport serve primarily the Tagbilaran-Manila route, Tagbilaran-Clark route, and also Mindanao. The route is served by [[Cebu Pacific]], [[PAL Express]], and [[AirAsia Philippines]] using [[Airbus A319]], [[Airbus A320]] and [[ATR 72]] planes. Flight time to Manila is approximately 1h:15.
+
+==Healthcare==
+The city is served with a mix of public and private health care institutions that also cater to the health needs of the rest of the province. Complex major cases and services are sent to nearby [[Cebu City]] due to limited facilities.
+
+Health facilities:
+{{div col}}
+* Holy Name University Medical Center Foundation, Inc.
+* Borja Family Hospital Corporation
+* Englewood Hospital
+* [[Governor Celestino Gallares Memorial Regional Hospital]] (tertiary public)
+* MMG Bohol Cooperative Hospital
+* Ramiro Community Hospital (tertiary private)
+* Bohol St. Jude General Hospital
+* Tagbilaran Community Hospital
+* Tagbilaran Maternity and Children's Hospital
+{{div col end}}
+
+==Education==
+
+As the capital of [[Bohol]], Tagbilaran is the main center for education in the province. All of the province's universities are located in the city as well as other well-known institutions of learning.
+
+Colleges and universities:
+{{div col}}
+* [[AMA Computer Learning Center|ACLC College of Tagbilaran]]
+* [[Bohol Island State University]] (BISU)
+* [[BIT International College]] (BIT-IC, formerly Bohol Institute of Technology (BIT))
+* Bohol Technical Institute (BTI)
+* Cristal e-College
+* [[Holy Name University]]
+* Holy Spirit School of Tagbilaran
+* [[Immaculate Heart of Mary Seminary]] (IHMS)
+* [[PMI Colleges Bohol]]
+* [[University of Bohol]]
+{{div col end}}
+
+==Notable personalities==
+<!--NOTE: Only add people with own Wikipedia article as per WP notability.-->
+{{div col|colwidth=30em}}
+
+===Sports===
+* [[Mark Magsayo]] &ndash; Boxer<ref>{{cite news |last1=Saldajeno |first1=Ivan Stewart |title=Mark Magsayo wins WBC featherweight title |url=https://www.pna.gov.ph/articles/1166145 |access-date=2 January 2023 |work=Philippine News Agency |date=23 January 2022}}</ref>
+* [[Czar Amonsot]] – Boxer<ref>{{cite news |last1=Waters |first1=Luke |title=Aussie trainer helps revive Filipino boxer's title dream |url=https://www.sbs.com.au/news/article/aussie-trainer-helps-revive-filipino-boxers-title-dream/71azh3f4o |access-date=2 January 2023 |work=SBS News |date=25 September 2015 |language=en}}</ref>
+* [[Vanessa Sarno]] – Medalist, [[Olympic Weightlifting|Weightlifting]]
+
+===Academe===
+* [[José Abueva]] – Academician
+
+===Culture and Arts===
+* [[Napoleon Abueva]] – Artist
+
+===Entertainment and Media===
+* [[Colet (singer)|Colet Vergara]] - Member of [[Pinoy pop]] group [[Bini (group)|Bini]]<ref>{{cite news |last1=Ngojo |first1=Jessa |title=Meet the BINI Bisdak beauties |url=https://cebudailynews.inquirer.net/578523/meet-the-bini-bisdak-beauties |access-date=26 July 2024 |work=Cebu Daily News }}</ref>
+* [[Rich Asuncion]] – Starstruck Finalist/TV Actress 
+* [[Maxelende Ganade]] – Singer-songwriter
+* [[Luke Mejares]] – TV Personality/Singer
+* [[Hazel Mae]] - sportscaster
+* [[Marco Sison]] – Singer
+* [[Isagani Yambot]] – Journalist
+
+===Politics===
+* [[Cecilio Putong]] – [[Secretary of Education (Philippines)|Secretary of Education]] (1952)
+* [[Fermin Torralba]] – Secretary of the [[Senate of the Philippines|Philippine Senate]] (1931–1935)
+* [[Nestor Principe]] - Martial arts instructor and activist martyred during the [[Martial law under Ferdinand Marcos|Marcos dictatorship]] and honored at the [[Bantayog ng mga Bayani]]
+
+
+{{div col end}}
+
+==Notes==
+
+{{notelist}}
+
+==References==
+
+{{Reflist}}
+
+==Sources==
+
+{{refbegin}}
+* {{cite book
+| last1      = Akpenodu
+| first1     = Erik
+| first2     = Czarina
+| last2      = Saloma
+| title      = Casa Boholana: Vintage Houses of Bohol
+| date       = 2011
+| publisher  = Ateneo de Manila UP
+| location   = Manila
+| isbn       = 978-9715506182
+}}
+{{refend}}
+
+==External links==
+{{Commons category}}
+{{wikivoyage|Tagbilaran}}
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+* {{official website|http://www.tagbilaran.gov.ph}}
+* [http://www.bohol.gov.ph Provincial Government of Bohol]
+
+{{Geographic location
+| Centre    = Tagbilaran
+| North     = [[Cortes, Bohol|Cortes]]
+| Northeast = [[Corella, Bohol|Corella]]
+| East      = [[Baclayon]]
+| West      = ''[[Cebu Strait|Maribojoc Bay (Cebu Strait)]]''
+| South     = [[Dauis]]
+}}
+
+{{Navboxes
+| title = Articles related to Tagbilaran
+| list  =
+{{Bohol}}
+{{Central Visayas}}
+{{Philippine cities}}
+{{Philippine Provincial Capitals}}
+}}
+
+{{Authority control}}
+
+[[Category:Tagbilaran| ]]
+[[Category:Cities in Central Visayas]]
+[[Category:Populated places in Bohol]]
+[[Category:Provincial capitals of the Philippines]]
+[[Category:Port cities and towns in the Philippines]]
+[[Category:Component cities in the Philippines]]

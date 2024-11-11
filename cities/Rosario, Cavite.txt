@@ -1,0 +1,547 @@
+{{Short description|Municipality in Cavite, Philippines}}
+{{More citations needed|date=October 2013}}
+{{Infobox settlement
+| name                     = {{PH wikidata|name}}
+| image_skyline            = Rosario,_Cavite_Municipal_Hall_April_2023.jpg
+| image_flag               = Rosario_flag.png
+| image_caption            = Rosario Municipal Hall
+| flag_size                = 120x80px
+| image_seal               = Ph seal cavite rosario.jpg
+| seal_size                = 100x80px
+| image_map                = {{PH wikidata|image_map}}
+| map_caption              = {{PH wikidata|map_caption}}
+| image_map1               = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map              = Philippines
+| pushpin_label_position   = left
+| pushpin_map_caption      = Location within the {{PH wikidata|country}}
+| coordinates              = {{PH wikidata|coordinates}}
+| settlement_type          = {{PH wikidata|settlement_type}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = [[Philippines]]
+| subdivision_type1        = [[Regions of the Philippines|Region]]
+| subdivision_name1        = {{PH wikidata|region}}
+| subdivision_type2        = [[Provinces of the Philippines|Province]]
+| subdivision_name2        = {{PH wikidata|province}}
+| official_name            = {{PH wikidata|official_name}}
+| etymology                = <!--origin of name-->
+| named_for                = <!--named after (if person or place)-->
+| native_name              = 
+| other_name               = Salinas <br/>Tejeros
+| nickname                 = 
+| motto                    = 
+| anthem                   = Mahal ko ang Rosario
+| subdivision_type3        = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3        = {{PH legislative district}}
+| established_title        = [[Date of establishment|Founded]]
+| established_date         = October 22, 1845
+| established_title1       = Annexation to [[Noveleta]]
+| established_date1        = October 15, 1903
+| established_title2       = Chartered
+| established_date2        = 1911 <!-- EO enacted January 11, 1911 but effectivity not available online -->
+| parts_type               = [[Barangay]]s
+| parts_style              = para
+| p1                       = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title             = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name              = Jose Voltaire V. Ricafrente III
+| leader_title1            = [[Vice Mayor]]
+| leader_name1             = Joanne Michelle B. Gonzales
+| leader_title2            = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2             = [[Jolo Revilla|Ramon Jolo Revilla]]
+| leader_title3            = [[Sangguniang Bayan|Municipal Council]]
+| leader_name3             = {{PH Town Council
+| 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Mark Jay G. Velarde
+ | 3=Raul J. Hernandez
+ | 4=Vivian R. Andico.
+ | 5=Christopher P. Go
+ | 6=Rolando A. Convento
+ | 7=Crisanto A. Nazareno
+ | 8=Michael E. del Rosario
+ | 9=Manuel C. Pueblo
+}}
+| leader_title4            = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4             = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type          = {{PH wikidata|government_type}}
+| government_footnotes     = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m              = {{PH wikidata|elevation_m}}
+| elevation_max_m          = 35
+| elevation_min_m          = 0
+| elevation_max_rank       = 
+| elevation_min_rank       = 
+| elevation_footnotes      = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes  = 
+| elevation_min_footnotes  = 
+| area_rank                = 
+| area_footnotes           = {{PSGC detail|area}}
+| area_total_km2           = {{PH wikidata|area}}
+| population_footnotes     = {{PH census|current}}
+| population_total         = {{PH wikidata|population_total}}
+| population_as_of         = {{PH wikidata|population_as_of}}
+| population_density_km2   = auto
+| population_blank1_title  = [[Household]]s
+| population_blank1        = {{PH wikidata|household}}
+| population_blank2_title  = 
+| population_blank2        = 
+| population_demonym       = 
+| population_rank          = 
+| population_note          = 
+| timezone                 = [[Philippine Standard Time|PST]]
+| utc_offset               = +8
+| postal_code_type         = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code              = {{PH wikidata|postal_code}}
+| postal2_code_type        = {{PSGCstyle}}
+| postal2_code             = {{PSGC detail}}
+| area_code_type           = {{areacodestyle}}
+| area_code                = {{PH wikidata|area_code}}
+| website                  = {{PH wikidata|website}}
+| demographics_type1       = [[Economy of the Philippines|Economy]]
+| demographics1_title1     = {{PH wikidata|income_class_title}}
+| demographics1_info1      = {{PH wikidata|income_class}}
+| demographics1_title2     = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2      = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3     = [[Revenue]]
+| demographics1_info3      = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4     = Revenue rank
+| demographics1_info4      = 
+| demographics1_title5     = [[Asset]]s
+| demographics1_info5      = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6     = Assets rank
+| demographics1_info6      = 
+| demographics1_title7     = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7      = 
+| demographics1_title8     = IRA rank
+| demographics1_info8      = 
+| demographics1_title9     = [[Expenditure]]
+| demographics1_info9      = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10    = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10     = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2       = Service provider
+| demographics2_title1     = Electricity
+| demographics2_info1      = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2     = Water
+| demographics2_info2      = Rosario Water System & Maynilad Cavite
+| demographics2_title3     = Telecommunications
+| demographics2_info3      = 
+| demographics2_title4     = Cable TV
+| demographics2_info4      = 
+| demographics2_title5     = 
+| demographics2_info5      = 
+| demographics2_title6     = 
+| demographics2_info6      = 
+| demographics2_title7     = 
+| demographics2_info7      = 
+| demographics2_title8     = 
+| demographics2_info8      = 
+| demographics2_title9     = 
+| demographics2_info9      = 
+| demographics2_title10    = 
+| demographics2_info10     = 
+| blank_name_sec1          = {{PH wikidata|climate_title}}
+| blank_info_sec1          = {{PH wikidata|climate_type}}
+| blank1_name_sec1         = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1         = {{PH wikidata|language}}
+| blank2_name_sec1         = [[Crime index]]
+| blank2_info_sec1         = 
+| blank3_name_sec1         = 
+| blank3_info_sec1         = 
+| blank4_name_sec1         = 
+| blank4_info_sec1         = 
+| blank5_name_sec1         = 
+| blank5_info_sec1         = 
+| blank6_name_sec1         = 
+| blank6_info_sec1         = 
+| blank7_name_sec1         = 
+| blank7_info_sec1         = 
+| blank1_name_sec2         = Major religions
+| blank1_info_sec2         = {{plainlist|
+*[[Roman Catholicism]]
+*[[Protestantism]]
+*[[Islam]]
+}}
+| blank2_name_sec2         = Feast date
+| blank2_info_sec2         = 
+| blank3_name_sec2         = Catholic diocese
+| blank3_info_sec2         = [[Diocese of Imus]]
+| blank4_name_sec2         = Patron saint
+| blank4_info_sec2         = [[Our Lady of the Most Holy Rosary, Queen of the Caracol|Our Lady of the Most Holy Rosary]]
+| blank5_name_sec2         = 
+| blank5_info_sec2         = 
+| blank6_name_sec2         = 
+| blank6_info_sec2         = 
+| blank7_name_sec2         = 
+| blank7_info_sec2         = 
+| short_description        = 
+| footnotes                = 
+}}
+
+'''Rosario''', officially the '''Municipality of Rosario''' ({{lang-tgl|Bayan ng Rosario}}),  is a 1st class [[municipality of the Philippines|municipality]] in the [[Philippine Province|province]] of [[Cavite]], [[Philippines]]. According to the 2020 census, it has a population of 110,807 people.{{PH census|current}}
+
+Formerly known as  '''''Salinas''''', Rosario has an area of {{convert|5.6|sqkm|sp=us}}, making it the most densely populated city/municipality in Cavite at 16,473 per km<sup>2</sup>. With the continuous expansion of Metro Manila, the municipality is now included in Manila [[conurbation]] which reaches [[Lipa, Batangas]] in its southernmost part. It is accessible by land and water transportation.<ref name="rosario">[http://www.cavite.gov.ph/cavite%20home/index.php?option=com_content&view=article&id=208 Province of Cavite Website] - Rosario</ref>
+
+==Etymology==
+There are three religious versions for naming the town "Rosario." These are:
+
+The first version says, the image of the Madonna and the Child was found one day floating on the water by a group of kids playing along the seashore. They played with the image, using it as a toy and afterwards hid it in the bushes near the sea. Every time they came back, however, they would see the image already floating leisurely on the water, as if waiting for them. They thought it strange, but could not explain how the image got back to the water.
+
+Not long after their elders learned about the image and took it to an empty nipa shack. Thus began a public veneration of the [[Madonna and Child]]. The hut was transformed into a place of worship. News of miraculous happenings attributed to the image spread around. The religious fervor was so great and the people were moved by the image that they decided to adopt it as the patroness of the town and changed the name ''Salinas Marcella'' to ''Rosario''.
+
+The different names given to the town are remembered. Marcella exists as one of the national roads of the town. Salinas is associated with the finest and famous smoked fish (Tinapang Salinas) produced by the townspeople.
+
+Rosario was formerly called Tejero, which may have originated from the word ''tejer'' (Spanish to weave) because weaving fish nets was then the main occupation of the women. Rosario was also called Salinas derived from the word ''sal'' (Spanish salt) during the Philippine Revolution because salt-making was a prime industry of the town.  The place was likewise called Marcella or Marcelles due to its proximity to the sea (“mar” in Spanish). Rosario was, finally, named in honor of their patroness [[Nuestra Señora Virgen del Santissimo Rosario, Reina de Caracol]] or (''[[Our Lady of the Most Holy Rosary]]'').<ref name="rosario" />
+
+== History ==
+On October 22, 1845, Spanish Governor General Narciso Claveria promulgated a Decree for the establishment of a new town comprising Salinas-Leiton and Tierra Alta of San Francisco de Malabon, what is now the city of General Trias. On October 27, Don Juan Arlegui, Vicar-General of the Archdiocese of Manila informed the Politico-Military Governor of Cavite Don Miguel Roca, that he was designated by the Governor-General to look for a person of unquestionable integrity who will be entrusted with the money for the construction of the church building.<ref name=":0">{{Cite web|title=About Rosario|url=https://rosariocavite.com.ph/about-rosario|access-date=2021-10-15|website=rosariocavite.com.ph|language=en}}</ref>
+
+On November 3, 1845, presbyter Don Mamerto Mariano Ner, who was at that time one of the priests of the Curia of Manila, was appointed as the first parish priest and served until December 1866.<ref name=":0" />
+
+The municipality of Rosario was originally a part of San Francisco de Malabon (now [[General Trias]]) which itself was part of Silang.<ref>{{Cite web |last=Sembrano |first=Edgar Allan |date=2022-10-04 |title=Silang seeks to save cultural treasure church |url=https://lifestyle.inquirer.net/428801/silang-seeks-to-save-cultural-treasure-church/ |access-date=2023-11-27 |website=Lifestyle.INQ |language=en-US}}</ref> It became an independent municipality in 1846, one year after the founding of the Santissimo Rosario Parish. The second smallest town in Cavite Province, Rosario has now emerged into the " biggest, not in terms of its land area nor its per capita income but because of the great transitions that occurred with the town's political, social, cultural and economic developments since 1845.<ref name=":0" />
+
+On October 15, 1903, Rosario and Cavite El Viejo (now [[Kawit]]) were merged with [[Noveleta]] by virtue of Act No. 947 enacted by the [[Taft Commission|Philippine Commission]].<ref>{{cite PH act|chamber=Act|number=947|title=An Act Reducing the Twenty-Three Municipalities of the Province of Cavite to Eleven|url=https://issuances-library.senate.gov.ph/legislative%2Bissuances/Act%20No.%20947|date=October 15, 1903|accessdate=June 17, 2023}}</ref> In 1911, Rosario regained its independent status as a municipality of Cavite by virtue of Executive Order No. 92.<ref>{{cite PH act|chamber=EO|number=92|title=Separating the former municipality of Rosario from that of Neleta, Cavite|date=January 11, 1911}}</ref>  <!-- http://youseemore.com/san_carlos/uploads/OFFICIAL%20GAZETTE%20INDEX%20%201902%20-1912.pdf ; exact date of the effectivity of independent status is not available online, so keep it undated in 1911 -->
+
+== Geography ==
+Rosario is {{convert|30|km}} south of Manila and {{convert|20|km}} from [[Imus]]. It occupies part of the north to north-western section of the province along the western coast of Luzon.  It is flanked by Noveleta on the east, [[Manila Bay]] on the north, General Trias on the southeast and Tanza on the south-west.<ref name="rosario" />
+
+=== Land area ===
+Rosario has a land area of only {{convert|569|ha|sp=us}}, as based on previous data recorded. At present, the municipality has not yet conducted any cadastral survey of its juridical land territory. A total of twenty (20) barangays make up this lowland coastal town.
+
+=== Climate ===
+{{Weather box
+| location     = Rosario, Cavite
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 29
+| Jan low C  = 21
+| Feb high C = 30
+| Feb low C  = 20
+| Mar high C = 32
+| Mar low C  = 21
+| Apr high C = 34
+| Apr low C  = 22
+| May high C = 32
+| May low C  = 24
+| Jun high C = 31
+| Jun low C  = 25
+| Jul high C = 29
+| Jul low C  = 24
+| Aug high C = 29
+| Aug low C  = 24
+| Sep high C = 29
+| Sep low C  = 24
+| Oct high C = 30
+| Oct low C  = 23
+| Nov high C = 30
+| Nov low C  = 22
+| Dec high C = 29
+| Dec low C  = 21
+| Jan precipitation mm = 10
+| Feb precipitation mm = 10
+| Mar precipitation mm = 12
+| Apr precipitation mm = 27
+| May precipitation mm = 94
+| Jun precipitation mm = 153
+| Jul precipitation mm = 206
+| Aug precipitation mm = 190
+| Sep precipitation mm = 179
+| Oct precipitation mm = 120
+| Nov precipitation mm = 54
+| Dec precipitation mm = 39
+| Jan rain days        = 5.2
+| Feb rain days        = 4.5
+| Mar rain days        = 6.4
+| Apr rain days        = 9.2
+| May rain days        = 19.7
+| Jun rain days        = 24.3
+| Jul rain days        = 26.9
+| Aug rain days        = 25.7
+| Sep rain days        = 24.4
+| Oct rain days        = 21.0
+| Nov rain days        = 12.9
+| Dec rain days        = 9.1
+| source 1 = Meteoblue<ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/rosario_philippines_1691483
+| title =  Rosario: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| access-date = 12 May 2020 }}</ref>
+| date = 12 May 2020
+}}
+
+=== Barangays ===
+
+Rosario is politically subdivided into 20 [[barangay]]s.{{PSGC detail|area}} Each barangay consists of [[purok]]s and some have [[sitios]].
+
+{{Div col|colwidth=15em}}
+* Bagbag I
+* Bagbag II
+* Kanluran
+* Ligtong I
+* Ligtong II
+* Ligtong III
+* Ligtong IV
+* Muzon I
+* Muzon II
+* Poblacion
+* Sapa I
+* Sapa II
+* Sapa III
+* Sapa IV
+* Silangan I
+* Silangan II
+* Tejeros Convention
+* Wawa I
+* Wawa II
+* Wawa III
+{{div col end}}
+
+==Demographics==
+{{Philippine Census
+| align= none
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+In the 2020 census, the population of Rosario, Cavite, was 110,807 people,{{PH census|current}} with a density of {{convert|{{sigfig|110,807/38.16|2}}|PD/km2|disp=or|sp=us}}.
+
+Rosario's potential labor force comprises 59.25% of the figure given above, with the majority engaged in fishing and trade activities. The growth rate is 3.63%.
+
+=== Religion ===
+Roman Catholic is the prominent religion of Rosario. There are two Catholic churches. One is in Poblacion,The Most Holy Rosary Parish, and another one in Ligtong,San Isidro Labrador Parish. Recently, Islam was introduced by the [[Maranao]] business people from Mindanao. The other religions in Rosario includes Iglesia ni Cristo and Born Again Christians.
+
+== Economy ==
+
+[[File:Sardine fish being dried under the Sun from Rosario, Cavite, Philippines.jpg|thumb|left|Tinapa being dried up under the Sun in Barangay Wawa Dos]]
+
+Fishing is a major economic activity due to the abundant fishing grounds particularly in Barangays Wawa, Sapa Muzon and Ligtong. The Rosario Fish Port in Barangay Sapa is a major fishing port. Predominant cottage industries related to fishing include smoked fish (''tinapa'') processing, fish drying (''daing''), fish paste (''[[bagoong]]'') making, fish sauce (''[[Bagoong#Patis|patis]]'') making and canning.  Marine species caught within municipal fishing grounds include squid, mackerel, slipmouth, herring, goatfish, tuna, mullet, porgy, shrimp, barracuda, cavalla, snapper, catfish and roundscad.
+Salinas is also the birthplace of the well-known Marina’s bibingka and the local Cavite version of pasit luglog, also known as pasit palabok, which was introduced by Aling Ely’s carinderia.  Both uses the local ingredients of tinapa flakes and kesong puti otherwise known as casillo. 
+
+The Fil-Oil Development and Management Corporation (FMDC) has begun developing {{convert|134|ha|sp=us}} of the Philippine National Oil Corporation property into a special economic zone, the [[Cavite Economic Zone]], that will include an industrial estate, low-cost housing, and a new port facility. A proposed reclamation will increase the land area of Barangay Sapa II and III by {{convert|200|ha|sp=us}}.
+
+On November 20, 2009, [[SM Prime Holdings]], the largest mall-operator in the country, opened [[SM City Rosario]], its 36th mall.{{clear-left}}
+
+{{PH poverty incidence}}
+
+==Government==
+{{main|Sangguniang Bayan}}
+
+===Elected officials===
+The following are the elected officials of the town elected last  [[2022 Cavite local elections|May 9, 2022]] which serves until June 30, 2025:
+{| class="wikitable"
+|-
+! Position !! Official
+|-
+| Mayor || Jose Voltaire V. Ricafrente ([[PDP–Laban|PDPLBN]])
+|-
+| Vice Mayor || Joanne Michelle B. Gonzales ([[PDP–Laban|PDPLBN]])
+|}
+{| class="wikitable"
+|-
+! Sangguniang Bayan Members
+! Party
+|-
+| Vivian R. Andico
+| [[PDP–Laban|PDPLBN]]
+|-
+| Mark Jay G. Velarde
+| [[PDP–Laban|PDPLBN]]
+|-
+| Michael Del Rosario
+| [[PDP–Laban|PDPLBN]]
+|-
+| Raul Hernandez
+| [[PDP–Laban|PDPLBN]]
+|-
+| Christopher P. Go
+| [[PDP–Laban|PDPLBN]]
+|-
+| Crisanto Nazareno
+| [[PDP–Laban|PDPLBN]]
+|-
+| Rolando A. Convento
+| [[PDP–Laban|PDPLBN]]
+|-
+| Michele Joanne Gonzales
+|-
+! ABC President
+|John Paulo Nazareno
+|-
+! SK Federation President
+|Maric Solis
+|}
+
+===List of former municipal heads===
+{{Col-begin}}
+{{Col-break}}
+'''Gobernadorcillos'''
+* 1845 - Jacinto Jimenez
+* 1846 - Pablo Buendia
+* 1847 - Ventura Caldeira
+* 1848 - Jacinto Jimenez
+* 1849 - Adriano Zacarias
+* 1850 - Reducindo Cruz
+* 1851 - Pablo Buendia
+* 1852 - Jacinto Jimenez
+* 1853 - Reducindo Buenviaje
+* 1854 - Roberto Jimenez
+* 1855 - Lino Ner
+* 1856 - Lino Ner
+* 1857 - Benito Atangan
+* 1858 - Isidoro Gonzales
+* 1859 - Natalio Buenaflor
+* 1860 - Tomas Panganiban
+* 1861-1862 - Isidoro Gonzales
+* 1863-1864 - Lino Ner
+* 1865-1866 - Bernabe Raqueno
+* 1867-1868 - Lino Ner
+* 1869-1870 - Juan Buendia
+* 1871-1872 - Benito Atangan
+* 1873-1874 - Basilio Copon
+* 1875-1877 - Lino Ner
+* 1878-1879 - Bernabe Raqueño
+* 1880-1881 - Mariano Odvina
+* 1882-1883 - Francisco Prudente
+* 1884-1885 - Ciriaco Abutin
+* 1886-1887 - Pantaleon Raqueño
+* 1888-     - Francisco Sales
+* 1889-1890 - Mariano Punzalan
+* 1891-1892 - Pablo Raqueño
+{{Col-break}}
+'''Capitan Presidents'''
+* 1893      - Roman Bulda
+* 1894 Marcelo Rodriguez
+* 1895-1898 - Catalino Abueg
+
+'''Presidente Municipal'''
+* 1899-1900 - Catalino Abueg
+* 1901-1905 - Andres Ner
+* 1906-1907 - Benigno Santi
+* 1908-1909 - Andres Villanueva
+* 1910-1912 - Andres Giongco
+* 1913-1915 - Pascual Jimenez
+* 1915-1922 - Julio Mata
+* 1922-1925 - Andres Giongco
+* 1925-1930 - Julio Mata
+* 1930-1934 - Narciso Jimenez Ner
+
+'''Municipal Mayors'''
+* 1934-1937 - Julio Mata
+* 1938-1941 - Jose Castro
+* 1942-1943 - Agustin Abadilla
+{{Col-break}}
+'''Japanese sponsored Mayor'''
+* 1944-1945 - Julio Mata
+
+'''Liberation Military Mayor'''
+* 1945      - Narciso Jimenez Ner
+
+'''Appointed by Pres. Osmena'''
+* 1946      - David Jimenez
+
+'''Appointed by Pres. Roxas'''
+* 1947      - Julio Mata
+
+'''Municipal Mayor'''
+* 1948-1951 - David P. Jimenez 
+* 1952-1959 - Antonio Guhit
+* 1960-1963 - Pedro Giongco
+* 1964–1978, 1980-1986 - Calixto Enriquez
+* 1978-1980 - Agripina Abueg
+* 1986-1988 - Oscar Reyes
+* 1988-1992 - Ernesto Andico
+* 1992–1998, 2007–2016, 2019–2020 - Jose M. Ricafrente, Jr.
+* 1998-2007 - Renato M. Abutan
+* 2016–2019, 2020–present - Jose Voltaire V. Ricafrente
+{{col-end}}
+
+== Education ==
+Primary schools:
+* Rosario Elementary School
+* Agustin Abadilla Elementary School
+* David P. Jimenez Elementary School
+* Mayor Calixto D. Enriquez Elementary School (Ligtong Elem. School)
+* Silangan Elementary School Founded June 18, 1962
+* Bagbag I Elementary School-Main (Greenfields Subd.)
+* Bagbag II Elementary School-Annex (Sunrise Subd.)
+* Tejeros Convention Elementary School
+* Bible Christian Academy (Cuevas Subd.)
+* Galilee Academy (Manggahan Compound)
+* Santo Rosario Catholic School (Most Holy Rosary Parish Compound)
+* King Arthur Academy of Cavite, Inc. (Karlaville Subd.)
+
+Secondary schools:
+* Bagbag National High School
+* Cafuir Learning Center (defunct)
+* Cavite State University - Science Education Laboratory School
+* Rosario Institute
+* Rosario National High School
+*Escuela Secondaria Señor de Salinas
+* STI High School - Rosario
+* Bible Christian Academy (Cuevas Subd)
+* Galilee Academy (Manggahan Compound)
+* Santo Rosario Catholic School (Most Holy Rosary Parish Compound)
+
+Tertiary schools:
+* [[Cavite State University Rosario Campus]]
+* STI College - Rosario Branch
+* Imus Computer College - Rosario Branch
+* Datacom Institute of Computer and Technology - Rosario Campus
+
+==Gallery==
+<gallery widths="200" heights="150">
+File:Cavitejf3150_01.JPG|Welcome arch
+File:Rosario Parish Church, Cavite.jpg|Our Lady of the Most Holy Rosary Church
+File:LigtongChurchRosariojf3207 01.JPG|San Isidro Labrador Parish Church
+File:CEZ_Gate_1_2023.jpg|Cavite Economic Zone
+File:Cavitejf3325.JPG|Former Town hall
+File:Rosario,Cavitejf3296_02.JPG|Former Rosario commercial center
+</gallery>
+
+{{wide image|Rosario,Cavitejf_3175_02.JPG|1200px|Fish port}}
+
+== See also ==
+* [[List of renamed cities and municipalities in the Philippines]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Commons category}}
+*[https://archive.today/20130416122659/http://www.cavite.gov.ph/cavite%20home/index.php?option=com_content&view=article&id=208 Rosario, Cavite -  cavite.gov.ph]
+*[{{NSCB detail}} Philippine Standard Geographic Code]
+*[https://web.archive.org/web/20131004104825/http://census.gov.ph/ Philippine Census Information]
+
+{{Geographic location
+| Northwest = ''[[Manila Bay]]''
+| Northeast = [[Noveleta]]
+| Center    = Rosario
+| Southwest = [[Tanza]]
+| Southeast = [[General Trias]]
+}}
+
+{{Navboxes
+| title = Articles related to Rosario, Cavite
+| list  = 
+{{Cavite}}
+{{CALABARZON}}
+}}
+
+{{Authority control}}
+
+[[Category:Municipalities of Cavite]]
+[[Category:Populated places on Manila Bay]]

@@ -1,0 +1,424 @@
+{{Short description|Component city in Negros Oriental, Philippines}}
+{{Use Philippine English|date=April 2023}}
+{{Use mdy dates|date=July 2022}}
+{{Infobox settlement
+| name                     = {{PH wikidata|name}}
+| image_skyline            = File:GoGuihulngan.jpg
+| image_caption            = 
+| image_flag               = Flag_of_Guihulngan,_Negros_Oriental.png
+| flag_size                = 120x80px
+| image_seal               = Guihulngan city seal.png
+| seal_size                = 100x80px
+| image_map                = {{PH wikidata|image_map}}
+| map_caption              = {{PH wikidata|map_caption}}
+| image_map1               = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe
+|frame-width=250}}{{hidden end}}
+| pushpin_map              = Philippines
+| pushpin_label_position   = left
+| pushpin_map_caption      = Location within the {{PH wikidata|country}}
+| coordinates              = {{PH wikidata|coordinates}}
+| settlement_type          = {{PH wikidata|settlement_type}}
+| subdivision_type         = Country
+| subdivision_name         = Philippines
+| subdivision_type1        = [[Regions of the Philippines|Region]]
+| subdivision_name1        = {{PH wikidata|region}}
+| subdivision_type2        = [[Provinces of the Philippines|Province]]
+| subdivision_name2        = {{PH wikidata|province}}
+| established_title        = [[Date of establishment|Founded]]
+| established_date         = 1800
+| established_title1       = Cityhood
+| established_date1        = July 14, 2007 (Lost cityhood in 2008 and 2010)
+| established_title2       = Affirmed Cityhood
+| established_date2        = February 15, 2011
+| official_name            = {{PH wikidata|official_name}}
+| nickname                 = 
+| motto                    = ''Abanté Guihulngan!''
+| anthem                   = 
+| subdivision_type3        = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3        = {{PH legislative district}}
+| parts_type               = [[Barangay]]s
+| parts_style              = para
+| p1                       = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title             = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name              = Filomeno L. Reyes ([[Nacionalista Party|NP]])
+| leader_title1            = [[Vice Mayor]]
+| leader_name1             = Ana Eunica Beatriz A. Reyes ([[Nacionalista Party|NP]])
+| leader_title2            = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2             = Jocelyn Sy-Limkaichong
+| leader_title3            = [[Sangguniang Panlungsod|City Council]]
+| leader_name3             = {{PH Town Council
+ | 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Ernesto A. Reyes
+ | 3=Mary Grace R. Antique
+ | 4=Alvin Lance M. Trinidad
+ | 5=Lor Abednego S. Besario
+ | 6=Angelito M. Pique
+ | 7=Melbourne T. Bustamante
+ | 8=Earl Joseph P. Molas
+ | 9=Simplicio Sergio V. Mijares
+ | 10=Maria Theresa V. Rizon
+ | 11=Paulo Edison D. dela Rita Jr.
+}}
+| leader_title4            = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4             = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type          = {{PH wikidata|government_type}}
+| government_footnotes     = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m              = {{PH wikidata|elevation_m}}
+| elevation_max_m          = 1195
+| elevation_min_m          = 0
+| elevation_max_rank       = 
+| elevation_min_rank       = 
+| elevation_footnotes      = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes  = 
+| elevation_min_footnotes  = 
+| area_footnotes           = {{PH area}}
+| area_total_km2           = {{PH wikidata|area}}
+| population_footnotes     = {{PH census|current}}
+| population_total         = {{PH wikidata|population_total}}
+| population_as_of         = {{PH wikidata|population_as_of}}
+| population_density_km2   = auto
+| population_blank1_title  = [[Household]]s
+| population_blank1        = {{PH wikidata|household}}
+| population_blank2_title  = 
+| population_blank2        = 
+| population_demonym       = 
+| population_rank          = 
+| population_note          = 
+| timezone                 = [[Philippine Standard Time|PST]]
+| utc_offset               = +8
+| postal_code_type         = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code              = {{PH wikidata|postal_code}}
+| postal2_code_type        = {{PSGCstyle}}
+| postal2_code             = {{PSGC detail}}
+| area_code_type           = {{areacodestyle}}
+| area_code                = {{PH wikidata|area_code}}
+|website= {{PH wikidata|website}}
+| demographics_type1       = [[Economy of the Philippines|Economy]]
+| demographics1_title1     = {{PH wikidata|income_class_title}}
+| demographics1_info1      = {{PH wikidata|income_class}}
+| demographics1_title2     = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2      = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3     = [[Revenue]]
+| demographics1_info3      = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4     = Revenue rank
+| demographics1_info4      = 
+| demographics1_title5     = [[Asset]]s
+| demographics1_info5      = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6     = Assets rank
+| demographics1_info6      = 
+| demographics1_title7     = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7      = 
+| demographics1_title8     = IRA rank
+| demographics1_info8      = 
+| demographics1_title9     = [[Expenditure]]
+| demographics1_info9      = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10    = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10     = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2       = Service provider
+| demographics2_title1     = Electricity
+| demographics2_info1      = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2     = Water
+| demographics2_info2      = 
+| demographics2_title3     = Telecommunications
+| demographics2_info3      = 
+| demographics2_title4     = Cable TV
+| demographics2_info4      = 
+| demographics2_title5     = 
+| demographics2_info5      = 
+| demographics2_title6     = 
+| demographics2_info6      = 
+| demographics2_title7     = 
+| demographics2_info7      = 
+| demographics2_title8     = 
+| demographics2_info8      = 
+| demographics2_title9     = 
+| demographics2_info9      = 
+| demographics2_title10    = 
+| demographics2_info10     = 
+| blank_name_sec1          = {{PH wikidata|climate_title}}
+| blank_info_sec1          = {{PH wikidata|climate_type}}
+| blank1_name_sec1         = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1         = {{PH wikidata|language}}
+| blank2_name_sec1         = [[Crime index]]
+| blank2_info_sec1         = 
+| blank3_name_sec1         = 
+| blank3_info_sec1         = 
+| blank4_name_sec1         = 
+| blank4_info_sec1         = 
+| blank5_name_sec1         = 
+| blank5_info_sec1         = 
+| blank6_name_sec1         = 
+| blank6_info_sec1         = 
+| blank7_name_sec1         = 
+| blank7_info_sec1         = 
+| blank1_name_sec2         = Major religions
+| blank1_info_sec2         = 
+| blank2_name_sec2         = Feast date
+| blank2_info_sec2         = 
+| blank3_name_sec2         = Catholic diocese
+| blank3_info_sec2         = 
+| blank4_name_sec2         = Patron saint
+| blank4_info_sec2         = 
+| blank5_name_sec2         = 
+| blank5_info_sec2         = 
+| blank6_name_sec2         = 
+| blank6_info_sec2         = 
+| blank7_name_sec2         = 
+| blank7_info_sec2         = 
+| short_description        = 
+| footnotes                = 
+}}
+
+'''Guihulngan''', officially the '''City of Guihulngan''' ({{lang-ceb|Dakbayan sa Guihulngan}}; {{lang-fil|Lungsod ng Guihulngan}}), is a 5th class [[Cities of the Philippines#Legal classification|component city]] in the [[Provinces of the Philippines|province]] of [[Negros Oriental]], Philippines. According to the 2020 census, it has a population of 102,656 people,{{PH census|current}} the third-most populous city in [[Negros Oriental]] after the cities of [[Dumaguete]] and [[Bayawan]]. Guihulngan is also dubbed by its residents as the "rising city of the north".
+
+Guihulngan is {{convert|116|km}} from [[Dumaguete]].
+
+==Etymology==
+There are numerous versions of how the city got its name. According to legend, the first was caused by a river that flowed directly to the town proper from the mainspring at Sitio Anahaw, Barangay Nagsaha, hence the name "''Guipadulngan''," which means the place where the river flows to its end.<ref>{{Cite web |title=GUIHULNGAN CITY – NEGROS ORIENTAL |url=https://dumaguete.com/guihulngan-city-negros-oriental/#google_vignette |access-date=June 21, 2024 |website=dumaguete.com}}</ref>
+
+==History==
+Some of the towns of early creation were founded at the close of the 18th century and the beginning of the 19th century. Dauin, for example, was founded in 1787, Tayasan, in 1790; Jimalalud, in 1797; ''Guijulñgan'', in 1800; and Bacong, in 1801.<ref>{{cite journal |last1=Felipe |first1=Buencamino |title=Census of the Philippine Islands taken under the direction of the Philippine Legislature in the year 1918 |publisher=Publisher Manila, Bureau of printing |oclc=1041773123 }}</ref>
+
+As constituted in 1898, it included the following towns: Amblan, [[Ayungon]], Ayuquitan, [[Bacong]], [[Bais, Negros Oriental|Bais]], Bayanan, Canoan, Dauin, [[Dumaguete]]  (capital), Guijulñgan, [[Manjuyod]], Nueva Valencia, [[Siaton]], [[Tanjay]], [[Tayasan]], Tolon, and [[Zamboanguita]].<ref>{{cite journal |last1=Felipe |first1=Buencamino |title=Census of the Philippine Islands taken under the direction of the Philippine Legislature in the year 1918 |publisher=Publisher Manila, Bureau of printing |oclc=1041773123 }}</ref>
+
+The second is associated with the gruesome incident in the 19th century when the Philippines was a colony of Spain; men and women of different ages were said to be captured, beheaded and thrown into the sea by the Moros, now known as Tañon Strait. Other accounts claim that the [[Moro people|Moro invaders]] dropped a bell into the sea when they found out that it was used by the lookout to warn the townsfolk of their coming. Since that time, the place has been called ''Guihulugan'' which means, "Place where a thing was dropped". But in the Spanish writing, "U" and "N" are similar, which is why it became commonly written and known as ''Guihulngan''.
+
+Whether it originated as ''Guipadulngan'' or ''Guihulngan'', the name is indeed symbolic, as the town is “dropped” with abundant blessings from the Almighty for a significant "end".<ref>{{Cite web |url=http://www.insidenegros.com/negros-oriental/guihulngan-city/ |title=Guihulngan - Inside Negros |access-date=February 21, 2012 |archive-url=https://web.archive.org/web/20120210161101/http://www.insidenegros.com/negros-oriental/guihulngan-city/ |archive-date=February 10, 2012 |url-status=dead }}</ref>
+
+In 17th century map Murillo-Velarde Map it somewhat appears as ''Dijolongan''.
+
+Three ''[[barrio]]s'' were created in 1959.<ref>{{cite web |url=https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/14223 |title=Republic Act No. 2498 |date=June 21, 1959 |website=Supreme Court E-Library |publisher=[[Supreme Court of the Philippines]] |access-date=March 15, 2024}}</ref>
+
+'''History of the Villegas Clan''' 
+
+Don Jose Villegas, a Chinese mestizo merchant from Dumanjug, Cebu, was driven by ambition and vision. In the early 1800s, he grew up in a bustling coastal town, learning trade from his father. His business acumen led him to Guihulngan on Negros Island, where he built a successful enterprise and became a respected community figure. His philanthropic efforts further cemented his legacy.
+
+Don Jose's family continued his legacy. His descendants, including Pelagio Vergara Villegas, married Agapita Silva, and their children became prominent figures in Negros Oriental. Notable family members include Esperidion, Simplicio, Restituto, and Constancio Villegas, who held various political positions. Their contributions extended through multiple generations, including mayors, congressmen, and judges.
+
+The family of Dominga Vergara Villegas, married to Don Pedro Cirilo Laguda Hermoso, is historically significant due to its ties to Visayan hero Don Deigo de la Vina . Their lineage, including Pedro Vicente Hermoso married to  Milagros “Isang “ Geopano , contributed notably to their communities, intertwining with the region's heroic legacy.
+
+Siblings Pelagio, Dominga, and Pedro Vergara Villegas significantly impacted their communities. Pelagio and Pedro were local heroes in Guihulngan, while Dominga's family legacy gave colorful footprints in the community .
+
+The Villegas family's heritage intertwined with historical events, notably through connections to heroes like Pantaleon "Leon Kilat" Villegas, a revolutionary leader. Their story reflects a rich legacy of entrepreneurship,sugar industry , public service, and resilience in the Philippines.'''Historical Notes from Family Historian Franco R. Villegas and Prof. Penn T. Larena'''
+
+===Cityhood===
+{{main|Cities of the Philippines}}
+{{Hatnote|For further information, see [[League of Cities of the Philippines v. COMELEC]].}}
+[[File:GuihulnganRizalFreedomPark3.jpg|thumb|left|Esplanade at the Guihulngan Rizal Freedom Park Boulevard]]
+On July 14, 2007, Guihulngan becomes a city in the province of Negros Oriental through ratification of Republic Act 9409 which was approved last March 24.<ref name=vds>{{ cite web |url=http://www.visayandailystar.com/archives.visayandailystar.com/2007/July/17/negor2.htm |title=Guihulgnan becomes sixth city of NegOr |first=Juancho |last=Gallarde |publisher=Visayan Daily Star |date=July 17, 2007 |access-date=July 28, 2009}}</ref>
+
+The [[Supreme Court of the Philippines|Supreme Court]] declared the cityhood law of Guihulngan and 15 other cities unconstitutional after a petition filed by the [[League of Cities of the Philippines]] in its ruling on November 18, 2008. On December 22, 2009, the cityhood law of Guihulngan and 15 other municipalities regain its status as cities again after the court reversed its ruling on November 18, 2008. On August 23, 2010, the court reinstated its ruling on November 18, 2008, causing Guihulngan and 15 cities to become regular municipalities. Finally, on February 15, 2011, Guihulngan becomes a city again including the 15 municipalities declaring that the conversion to cityhood met all legal requirements.
+
+After six years of legal battle, in its board resolution, the [[League of Cities of the Philippines]] acknowledged and recognized the cityhood of Guihulngan and 15 other cities.
+
+==Geography==
+Guihulngan is located in the northern part of the province on the coast of [[Tañon Strait]].
+
+===Barangays===
+[[File:Inbound4333816410537120824.jpg|thumb|220px|Barangay Hibaiyo landscape]]
+Guihulngan is politically subdivided into 33 [[barangay]]s. Each barangay consists of [[purok]]s and some have [[sitios]].
+
+{{PH brgy table lite|top}}
+{{PH brgy table lite|074611001| Bakid | 1280| 1212}}
+{{PH brgy table lite|074611002| Balogo | 2638| 2945}}
+{{PH brgy table lite|074611003| Banwague | 1484| 1438}}
+{{PH brgy table lite|074611004| Basak | 4231| 4086}}
+{{PH brgy table lite|074611005| Binobohan | 1600| 1727}}
+{{PH brgy table lite|074611006| Buenavista | 4474| 4390}}
+{{PH brgy table lite|074611007| Bulado | 3650| 3129}}
+{{PH brgy table lite|074611008| Calamba | 3258| 3265}}
+{{PH brgy table lite|074611009| Calupa-an | 1876| 1767}}
+{{PH brgy table lite|074611010| Hibaiyo | 5602| 5068}}
+{{PH brgy table lite|074611011| Hilaitan | 5329| 4990}}
+{{PH brgy table lite|074611012| Hinakpan | 2262| 2214}}
+{{PH brgy table lite|074611013| Humayhumay | 1563| 1378}}
+{{PH brgy table lite|074611014| Imelda | 1392| 1204}}
+{{PH brgy table lite|074611015| Kagawasan | 1797| 1531}}
+{{PH brgy table lite|074611016| Linantuyan | 2704| 2233}}
+{{PH brgy table lite|074611017| Luz | 1713| 1660}}
+{{PH brgy table lite|074611018| Mabunga | 1858| 1856}}
+{{PH brgy table lite|074611021| Magsaysay | 2065| 1743}}
+{{PH brgy table lite|074611022| Malusay | 3727| 3295}}
+{{PH brgy table lite|074611023| Mani-ak | 2181| 2173}}
+{{PH brgy table lite|074611019| Mckinley | 2501| 2133}}
+{{PH brgy table lite|074611020| Nagsaha | 1563| 1470}}
+{{PH brgy table lite|074611025| Padre Zamora | 2707| 2273}}
+{{PH brgy table lite|074611026| Plagatasanon | 1074| 801}}
+{{PH brgy table lite|074611027| Planas | 1887| 1619}}
+{{PH brgy table lite|074611028| Poblacion | 16161| 13434}}
+{{PH brgy table lite|074611029| Sandayao | 3537| 3721}}
+{{PH brgy table lite|074611030| Tacpao | 1474| 1511}}
+{{PH brgy table lite|074611031| Tinayunan Beach | 3816| 3095}}
+{{PH brgy table lite|074611032| Tinayunan Hill | 2541| 2477}}
+{{PH brgy table lite|074611033| Trinidad | 6318| 5864}}
+{{PH brgy table lite|074611034| Villegas | 2393| 1973}}
+{{PH brgy table lite|bottom|93675}}
+{{clear-left}}
+
+===Climate===
+{{Weather box
+| location             = Guihulngan, Negros Oriental
+| width                = auto
+| metric first         = Yes
+| single line          = Yes
+| Jan high C           = 29
+| Jan low C            = 23
+| Feb high C           = 30
+| Feb low C            = 22
+| Mar high C           = 31
+| Mar low C            = 23
+| Apr high C           = 32
+| Apr low C            = 24
+| May high C           = 31
+| May low C            = 25
+| Jun high C           = 30
+| Jun low C            = 25
+| Jul high C           = 30
+| Jul low C            = 25
+| Aug high C           = 30
+| Aug low C            = 25
+| Sep high C           = 30
+| Sep low C            = 25
+| Oct high C           = 30
+| Oct low C            = 24
+| Nov high C           = 29
+| Nov low C            = 24
+| Dec high C           = 29
+| Dec low C            = 23
+| Jan precipitation mm = 42
+| Feb precipitation mm = 34
+| Mar precipitation mm = 40
+| Apr precipitation mm = 61
+| May precipitation mm = 124
+| Jun precipitation mm = 188
+| Jul precipitation mm = 190
+| Aug precipitation mm = 191
+| Sep precipitation mm = 189
+| Oct precipitation mm = 186
+| Nov precipitation mm = 124
+| Dec precipitation mm = 73
+| Jan rain days        = 10.0
+| Feb rain days        = 8.5
+| Mar rain days        = 9.5
+| Apr rain days        = 12.8
+| May rain days        = 22.3
+| Jun rain days        = 26.8
+| Jul rain days        = 28.4
+| Aug rain days        = 27.9
+| Sep rain days        = 27.3
+| Oct rain days        = 27.6
+| Nov rain days        = 20.5
+| Dec rain days        = 13.1
+| source 1             = Meteoblue <small>(Use with caution: this is modeled/calculated data, not measured locally.)</small><ref name="met_norms">
+{{cite web
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/guihul%c3%b1gan_philippines_1712520
+| title   =Guihulngan: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| access-date = May 6, 2020 }}</ref>
+| date                 = May 6, 2020
+}}
+
+==Demographics==
+[[File:GuihulnganRizalFreedomPark2.jpg|thumb|Entrance to the Guihulngan Rizal Freedom Park]]
+{{Philippine Census
+| align= none
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}}
+}}
+
+== Economy ==
+[[File:Guihulngan scene - Flickr.jpg|thumb|265px|A [[streetcorner]] in downtown Guihulngan]]
+{{PH poverty incidence}}
+
+Guihulngan City is becoming the hub for businesses in the northern part of Negros Oriental. National and regional retail known brands such as [[Puregold]], [[Prince Hypermart]] and [[MR.DIY]] have set up their branches in the city as well as banking institutions like [[Philippine National Bank]], [[Land Bank of the Philippines]], [[Producers Bank]] and [[BDO Network Bank]].
+
+==Tourism==
+
+===Landmarks===
+[[File:GuihulnganRizalFreedomPark1.jpg|thumb|Guihulngan Rizal Freedom Park grandstand]]
+A huge bell with a Carabao was served as the main attraction of the city located at the side of Justice Hall along the National Highway.
+
+==Festival==
+'''''Cara-Bell Festival (Every May 24)''''' &ndash; Legend has it that marauding pirates used to slaughter natives of the town and drop their corpses into the sea. Guihulugan Festival of Guihulngan is usually celebrated on May 24. This festival is also referred to as the Cara-Bell Festival because of a story about a bell that saved the lives of the natives. According to some legends of the olden days, Moro pirates sailed the lands of Negros Oriental.
+
+==Education==
+[[Negros Oriental State University]], the only state university in the province of [[Negros Oriental]] has a satellite campus in the city. It is known as the Guihulngan City Campus.
+
+[[Saint Francis College – Guihulngan]] (SFC-G) is a private institution located in Bateria, Guihulngan, Negros Oriental. Inspired by the Charism of Saint Francis of Assisi, it was founded by three Franciscan friars.
+
+The public schools in Guihulngan are administered by the Schools Division of Guihulngan City.
+
+===High schools===
+{{div col}}
+* Balogo National High School — Balogo
+* Buenavista National High School — Buenavista
+* Guihulngan National Agricultural School — Plagatasanon
+* Guihulngan National High School-Poblacion — Osmeña Avenue, Poblacion
+* Guihulngan NHS-Binobohan Annex — Binobohan
+* Guihulngan NHS-Lip-o Extension — Sitio Lip-o, Imelda
+* Guihulngan NHS-Maculos Extension — Sitio Maculos, Bulado
+* Guihulngan NHS-Hilaitan — Hilaitan
+* Guihulngan NHS-Hibaiyo Annex — Hibaiyo
+* Linantuyan National High School — Linantuyan
+* Magsaysay National High School — Magsaysay
+* Maximina Lim Tabilon High School — Calupa-an
+* P. Zamora National High School — Padre Zamora
+* Planas National High School — Planas
+* Sandayao National High School — Sandayao
+* Trinidad High School — Trinidad
+{{div col end}}
+
+===Private schools===
+* Saint Francis College - Guihulngan — Nat'l Highway, Bateria, Poblacion
+* Kiddieville Learning Center, Inc. — Hilaitan
+* Guihulngan Christian School Inc. — Larena Street, Poblacion
+* ABC Learning Center - Guihulngan, Inc. — Bateria, Poblacion
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{Commons category}}
+{{Wikivoyage|Guihulngan}}
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20190711082638/https://www.census.gov.ph/ Philippine Census Information]
+* [http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=10&frmIdProvince=58&frmIdLgu=1115 Local Governance Performance Management System] {{Webarchive|url=https://web.archive.org/web/20160304054446/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=10&frmIdProvince=58&frmIdLgu=1115 |date=March 4, 2016 }}
+* {{official website|http://www.guihulngan.gov.ph}}
+
+{{Geographic location
+|Centre    = Guihulngan
+|North     = [[Canlaon]] / [[Vallehermoso, Negros Oriental|Vallehermoso]]
+|East      = ''[[Tañon Strait]]''
+|South     = [[La Libertad, Negros Oriental|La Libertad]]
+|Southwest = [[Binalbagan, Negros Occidental]]
+|West      = [[Moises Padilla, Negros Occidental]]<br>[[Isabela, Negros Occidental]]
+|Northwest = [[La Castellana, Negros Occidental]]
+}}
+{{Navboxes
+|title = Articles Related to Guihulngan
+|list  =
+{{Negros Oriental}}
+{{Philippine cities}}
+}}
+
+{{Authority control}}
+
+[[Category:Cities in Negros Oriental]]
+[[Category:Component cities in the Philippines]]

@@ -1,0 +1,1481 @@
+{{redirect|Albuquerque}}
+{{Use mdy dates|date=April 2024}}
+{{More citations needed|date=June 2024}}
+{{infobox settlement
+| name               = Albuquerque
+| settlement_type    = [[List of municipalities in New Mexico|City]]
+| image_skyline      = <!--see following template-->
+{{multiple image
+ | align             = center
+ | border            = infobox
+ | perrow            = 1/1/2/2/1
+ | total_width       = 300
+ | caption_align     = center
+ | image1 = Albuquerque pano sunset.jpg
+ | caption1 = Skyline, with [[Sandia–Manzano Mountains|Sandia–Manzano mountain range]] backdrop
+ | image2 = Abqdowntown.jpg
+ | caption2 = [[Downtown Albuquerque]]
+ | image3 = Sandia Peak Tramway Car by Anna Cummings Photography.jpg
+ | caption3 = [[Sandia Peak Tramway]]
+ | image4 = Albuquerque Alvarado Transportation Building.JPG
+ | caption4 = [[Alvarado Transportation Center|Alvarado Center]]
+ | image5 = San Felipe de Neri Church-Albuquerque.jpg|
+ | caption5 = [[San Felipe de Neri Church]]
+ | image6 = Rio Grande-2.jpg
+ | caption6 = [[Rio Grande]]
+ | image7 = AIBF Mass Ascent, 2007.jpg
+ | caption7 = [[Albuquerque International Balloon Fiesta]]
+}}
+| image_flag         = Flag of Albuquerque, New Mexico.svg
+| seal_size          = 80px
+| flag_size          = 120px
+| flag_link          = Flag of Albuquerque, New Mexico
+| image_seal         = Seal of Albuquerque, New Mexico.svg
+| nicknames          = The Duke City, ABQ, The 505, Burque, The Q.
+| motto              = <!--Note: Please do not add nicknames or motto without discussing on talk page first.-->
+| image_map          = {{maplink
+  | frame              = yes
+  | plain              = yes
+  | frame-align        = center
+  | frame-width        = 290
+  | frame-height       = 290
+  | frame-coord        = {{coord|35.08434|-106.6504}}
+  | zoom               = 10
+  | type               = shape
+  | marker             = city
+  | stroke-width       = 2
+  | stroke-color       = #0096FF
+  | fill               = #0096FF
+  | id2                = Q34804
+  | type2              = shape-inverse
+  | stroke-width2      = 2
+  | stroke-color2      = #5F5F5F
+  | stroke-opacity2    = 0
+  | fill2              = #000000
+  | fill-opacity2      = 0
+}}
+| map_caption        = Interactive map of Albuquerque
+| pushpin_map        = New Mexico#USA
+| pushpin_map_caption = Location in New Mexico##Location in the United States
+| pushpin_relief     = 1
+| coordinates        = {{coord|35|06|39|N|106|35|36|W|region:US-NM|display=inline,title}}
+| subdivision_type   = Country
+| subdivision_name   = United States
+| subdivision_type1  = State
+| subdivision_type2  = [[List of counties in New Mexico|County]]
+| subdivision_type3  = [[List of metropolitan areas in New Mexico|Metropolitan area]]
+| subdivision_name1  = [[New Mexico]]
+| subdivision_name2  = [[Bernalillo County, New Mexico|Bernalillo]]
+| subdivision_name3  = [[Albuquerque metropolitan area]]
+| established_title  = Founded
+| established_date   = 1706 (as Alburquerque)
+| established_title2 = [[Municipal corporation|Incorporated]]
+| established_date2  = 1891 (as Albuquerque)
+| founder            = [[Francisco Cuervo y Valdés]]
+| named_for          = [[Francisco Fernández de la Cueva, 10th Duke of Alburquerque]]
+| government_type    = [[Mayor–council government]]
+| leader_title       = [[Mayor of Albuquerque|Mayor]]
+| leader_name        = [[Tim Keller (politician)|Tim Keller]] ([[Democratic Party (United States)|D]])
+| leader_title1      = [[Albuquerque City Council|City Council]]
+| leader_name1       = {{Collapsible list
+  |title = Councilors
+  |frame_style = border:none; padding: 0;
+  |list_style  = text-align:left;display:none;
+  |1  = '''5 [[Democratic Party (United States)|Democrats]],<br />4 [[Republican Party (United States)|Republicans]]'''
+  |2  = Louie Sánchez ([[Democratic Party (United States)|D]])
+  |3  = Tammy Fiebelkorn ([[Democratic Party (United States)|D]])
+  |4  = Isaac Benton ([[Democratic Party (United States)|D]])
+  |5  = Dan Lewis ([[Republican Party (United States)|R]])
+  |6  = Brooke Bassan ([[Republican Party (United States)|R]])
+  |7  = Pat Davis ([[Democratic Party (United States)|D]])
+  |8  = Klarissa J. Peña ([[Democratic Party (United States)|D]])
+  |9  = Trudy Jones ([[Republican Party (United States)|R]])
+  |10  = Renee Grout ([[Republican Party (United States)|R]])
+}}
+| unit_pref          = Imperial
+| area_total_km2     = 489.39
+| area_total_sq_mi   = 194.93
+| area_land_km2      = 486.03
+| area_land_sq_mi    = 188.27
+| area_water_km2     = 4.35
+| area_water_sq_mi   = 1.62
+| elevation_footnotes = <ref name=gnis/>
+| elevation_ft       = 5312
+| population_total   = 564559
+| population_as_of   = [[2020 United States census|2020]]
+| population_footnotes = <ref name="USCensusDecennial2020CenPopScriptOnly"/>
+| population_rank    = [[List of North American cities by population|85th]] in North America<br />[[List of United States cities by population|32nd]] in the United States<br />[[List of municipalities in New Mexico|1st]] in New Mexico
+| population_density_sq_mi = 3014.68
+| population_density_km2 = 1163.97
+| population_urban   = 769,837 ([[List of United States urban areas|US: 59th]])
+| population_density_urban_km2 = 1,129.9
+| population_density_urban_sq_mi = 2,926.3
+| population_metro_footnotes = <ref name="2020Pop">{{cite web |title=2020 Population and Housing State Data |url=https://www.census.gov/library/visualizations/interactive/2020-population-and-housing-state-data.html |publisher=United States Census Bureau |access-date=August 23, 2021}}</ref>
+| population_metro   = 960000 ([[List of metropolitan statistical areas|US: 61st]])
+| population_demonym = Albuquerquean (uncommon), Burqueño, Burqueña
+| postal_code_type   = [[ZIP Code]]s
+| postal_code        = 87101–87125, 87131,<br />87151, 87153, 87154,<br />87158, 87174, 87176,<br />87181, 87184, 87185,<br />87187, 87190–87199
+| area_codes         = [[Area code 505|505]]
+| website            = {{official URL}}
+| leader_title2      = [[New Mexico House of Representatives|State House]]
+| leader_name2       = {{collapsible list
+  |title = Representatives
+  |frame_style = border:none; padding: 0;
+  |list_style  = text-align:left;display:none;
+  |1  = '''13 [[Democratic Party (United States)|Democrats]],<br />11 [[Republican Party (United States)|Republicans]]'''
+  |2  = G. Andres Romero ([[Democratic Party (United States)|D]])
+  |3  = Javier Martínez ([[Democratic Party (United States)|D]])
+  |4  = Patricio Ruiloba ([[Democratic Party (United States)|D]])
+  |5  = Eleanor Chavez ([[Democratic Party (United States)|D]])
+  |6  = Patricia Roybal Caballero ([[Democratic Party (United States)|D]])
+  |7  = Miguel Garcia ([[Democratic Party (United States)|D]])
+  |8 = Sarah Maestas Barnes ([[Republican Party (United States)|R]])
+  |9  = Antonio Maestas ([[Democratic Party (United States)|D]])
+  |10  = Deborah Armstrong ([[Democratic Party (United States)|D]])
+  |11  = Gail Chasey ([[Democratic Party (United States)|D]])
+  |12 = Sheryl M. Williams-Stapleton ([[Democratic Party (United States)|D]])
+  |13 = Jim Dines ([[Republican Party (United States)|R]])
+  |14 = Stephanie Maez ([[Democratic Party (United States)|D]])
+  |15 = James Smith ([[Republican Party (United States)|R]])
+  |16 = Paul Pacheco ([[Republican Party (United States)|R]])
+  |17 = Conrad James ([[Republican Party (United States)|R]])
+  |18 = Christine Trujillo ([[Democratic Party (United States)|D]])
+  |19 = Georgene Louis ([[Democratic Party (United States)|D]])
+  |20 = Larry Larranaga ([[Republican Party (United States)|R]])
+  |21 = Jimmie C. Hall ([[Republican Party (United States)|R]])
+  |22 = David Adkins ([[Republican Party (United States)|R]])
+  |23 = Nathaniel Gentry ([[Republican Party (United States)|R]])
+  |24 = William Rehm ([[Republican Party (United States)|R]])
+  |25 = Monica Youngblood ([[Republican Party (United States)|R]])
+  }}
+| leader_title3      = [[New Mexico State Senate|State Senate]]
+| leader_name3       = {{Collapsible list
+  |title = State senators
+  |frame_style = border:none; padding: 0;
+  |list_style  = text-align:left;display:none;
+  |1  = '''1 [[Republican Party (United States)|Republican]],<br />13 [[Democratic Party (United States)|Democrats]]'''
+  |2 = [[Mark Moores]] ([[Republican Party (United States)|R]])
+  |3 = [[Linda M. Lopez|Linda Lopez]] ([[Democratic Party (United States)|D]])
+  |4 = [[Jerry Ortiz y Pino]] ([[Democratic Party (United States)|D]])
+  |5  = [[Moe Maestas]] ([[Democratic Party (United States)|D]])
+  |6  = [[Harold Pope Jr.|Harold Pope]] ([[Democratic Party (United States)|D]])
+  |7  = [[Katy Duhigg]] ([[Republican Party (United States)|R]])
+  |8  = [[Antoinette Sedillo Lopez]] ([[Democratic Party (United States)|D]])
+  |9  = [[Martin Hickey]] ([[Democratic Party (United States)|D]])
+  |10  = [[Daniel Ivey-Soto]] ([[Democratic Party (United States)|D]])
+  |11 = [[Bill O'Neill (New Mexico politician)|Bill O'Neill]] ([[Democratic Party (United States)|D]])
+  |12 = [[Bill Tallman]] ([[Democratic Party (United States)|D]])
+  |13 = [[Michael Padilla]] ([[Democratic Party (United States)|D]])
+  |14 = [[Mimi Stewart]] ([[Democratic Party (United States)|D]])
+  }}
+| leader_title4      = [[United States House of Representatives|U.S. House]]
+| leader_name4       = [[Melanie Stansbury]] (D)<br />[[Gabe Vasquez]] (D)
+| timezone           = [[Mountain Standard Time|MST]]
+| utc_offset         = −7
+| timezone_DST       = [[Mountain Daylight Time|MDT]]
+| utc_offset_DST     = −6
+| blank_name         = [[Federal Information Processing Standards|FIPS code]]
+| blank_info         = 35-02000
+| blank1_name        = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info        = 2409678<ref name=gnis>{{GNIS|2409678}}</ref>
+| pop_est_footnotes  = 
+| area_footnotes     = <ref name="TigerWebMapServer">{{cite web|title=ArcGIS REST Services Directory|url=https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/5/query?where=STATE='35'&outFields=NAME,STATE,PLACE,AREALAND,AREAWATER,LSADC,CENTLAT,CENTLON&orderByFields=PLACE&returnGeometry=false&returnTrueCurves=false&f=json|publisher=United States Census Bureau|accessdate=October 12, 2022}}</ref>
+| pop_est_as_of      = 
+| population_est     = 
+}}
+
+'''Albuquerque''' ({{IPAc-en|ˈ|æ|l|b|ə|k|ɜɹ|k|i|audio=en-us-Albuquerque.ogg}} {{respell|AL|bə|kur|kee}}; {{IPA|es|alβuˈkeɾke|lang|Pronunciation of Albuquerque in Spanish.ogg}}),{{efn|Spanish also {{lang|es|Alburquerque}} {{IPA|es|alβuɾˈkeɾke||Alburquerque.ogg}}; {{langx|nv|Beeʼeldííl Dahsinil}} {{IPA-nv|peː˩ʔe˩ltiː˥l ta˩hsi˩ni˩l|}}; {{langx|kee|Arawageeki}}; {{langx|tow|Vakêêke}}; {{langx|zun|Alo:ke:k'ya}}; {{langx|apj|Gołgéeki'yé}}.}} also known as '''ABQ''', '''Burque''', and the '''Duke City''', is the [[List of municipalities in New Mexico|most populous city]] in the [[U.S. state]] of [[New Mexico]].<ref>{{Cite web|url=https://www.census.gov/quickfacts/fact/table/albuquerquecitynewmexico/PST045217|title=U.S. Census Bureau QuickFacts: Albuquerque city, New Mexico|website=Census Bureau QuickFacts|access-date=September 15, 2018|archive-url=https://web.archive.org/web/20180915121930/https://www.census.gov/quickfacts/fact/table/albuquerquecitynewmexico/PST045217|archive-date=September 15, 2018|url-status=live}}</ref> Founded in 1706 as ''{{lang|es|La Villa de Alburquerque}}'' by [[Santa Fe de Nuevo México]] governor [[Francisco Cuervo y Valdés]], and named in honor of [[Francisco Fernández de la Cueva, 10th Duke of Alburquerque]] and [[List of viceroys of New Spain|Viceroy of New Spain]], it served as an [[Old Town Albuquerque|outpost]] on [[Camino Real de Tierra Adentro|El Camino Real]] linking Mexico City to the northernmost territories of [[New Spain]].
+
+Located in the [[Albuquerque Basin]], the city is flanked by the [[Sandia Mountains]] to the east and the [[West Mesa]] to the west, with the [[Rio Grande]] and [[bosque]] flowing north-to-south through the middle of the city.<ref name="Isolated Traveller 2021">{{cite web |date=October 6, 2021 |title=30 Interesting Facts About Albuquerque |url=https://www.isolatedtraveller.com/20-interesting-facts-about-albuquerque/ |access-date=May 17, 2022 |website=Isolated Traveller}}</ref> According to the [[2020 United States census|2020 census]], Albuquerque had 564,559 residents,<ref name="QuickFacts">{{cite web |title=QuickFacts: Albuquerque city, New Mexico |url=https://www.census.gov/quickfacts/fact/table/albuquerquecitynewmexico/POP010220 |publisher=United States Census Bureau |access-date=August 24, 2021}}</ref> making it the [[List of United States cities by population|32nd-most populous city]] in the United States and the fourth largest in the [[Southwestern United States|Southwest]]. The [[Albuquerque metropolitan area]] had 955,000 residents in 2023, and forms part of the [[Albuquerque–Santa Fe–Los Alamos combined statistical area]], which had a population of 1,162,523.<ref name="TIGERweb Redirect 2020">{{cite web | title=Combined Statistical Areas - 2020 Census - Data as of January 1, 2020 | website=TIGERweb Redirect | date=January 1, 2020 | url=https://tigerweb.geo.census.gov/tigerwebmain/Files/bas22/tigerweb_bas22_csa_2020_tab20_us.html | access-date=May 17, 2022}}</ref>
+
+Albuquerque is a hub for technology, fine arts, and [[media in Albuquerque, New Mexico|media companies]].<ref name="Shankland 2021">{{cite web | last=Shankland | first=Stephen | title=Intel investing $3.5B in New Mexico fab upgrade, boosting US chipmaking | website=CNET | date=May 3, 2021 | url=https://www.cnet.com/tech/mobile/intel-investing-3-5b-in-new-mexico-fab-upgrade-boosting-us-chipmaking/ | access-date=May 17, 2022}}</ref><ref name="ABQ Film Office 2010">{{cite web | title=Making Movies in the 505 | website=ABQ Film Office | date=January 1, 2010 | url=https://www.abqfilmoffice.com/ | access-date=May 17, 2022}}</ref>  It is home to several [[List of historic landmarks in Albuquerque, New Mexico|historic landmarks]],<ref name="City of Albuquerque Historic Landmarks">{{cite web | title=Historic Landmarks | website=City of Albuquerque | date=March 14, 2022 | url=https://www.cabq.gov/planning/boards-commissions/landmarks-commission/historic-landmarks | access-date=May 17, 2022}}</ref> the [[University of New Mexico]], the [[Albuquerque International Balloon Fiesta]], the [[Gathering of Nations]], the [[New Mexico State Fair]], and a diverse [[List of restaurants in Albuquerque, New Mexico|restaurant scene]], which features both [[New Mexican cuisine|New Mexican]] and [[global cuisine]].<ref name="Food Com 2018">{{cite web | title=An Albuquerque Appetite: Where to Eat in New Mexico's Biggest City | website=Food Com | date=May 24, 2018 | url=https://www.foodnetwork.com/restaurants/photos/restaurant-guide-albuquerque | access-date=May 17, 2022}}</ref>
+
+{{toclimit|3}}
+
+==History==
+{{Main|History of Albuquerque, New Mexico}}
+{{For timeline}}
+
+[[Petroglyphs]] carved into basalt in the western part of the city bear testimony to a Native American presence in the area dating back many centuries.<ref>{{Cite web |date=20 March 2021 |title=What are Petroglyphs |url=https://www.nps.gov/petr/learn/historyculture/what.htm |access-date=19 June 2024 |website=National Park Service}}</ref> These are preserved in the [[Petroglyph National Monument]].
+
+The [[Tanoan languages|Tanoan]] and [[Keres languages|Keresan]] peoples had lived along the Rio Grande for centuries before European colonists arrived in the area that developed as Albuquerque. By the 1500s, there were around 20 [[Tiwa Puebloans|Tiwa]] pueblos along a {{convert|60|mi|km|adj=on}} stretch of river from present-day [[Algodones, New Mexico|Algodones]] to the [[Rio Puerco (Rio Grande tributary)|Rio Puerco]] confluence south of [[Belen, New Mexico|Belen]]. Of these, 12 or 13 were densely clustered near present-day [[Bernalillo, New Mexico|Bernalillo]], and the remainder were spread out to the south.<ref name=barrett>{{cite book | last1=Barrett | first1=Elinore M. | title=Conquest and Catastrophe: Changing Rio Grande Pueblo Settlement Patterns in the Sixteenth and Seventeenth Centuries | date=2002 | publisher=UNM Press | location=Albuquerque | isbn=9780826324139 | url=https://books.google.com/books?id=rLAICgAAQBAJ | access-date=September 25, 2017 | language=en | via=Google Books}}</ref>
+
+Two Tiwa [[pueblos]] lie on the outskirts of present-day Albuquerque. Both have been continuously inhabited for many centuries: [[Sandia Pueblo]] was founded in the 14th century,<ref>{{cite web
+  | title = History of Sandia Pueblo
+  | work = Sandia Pueblo website
+  | publisher = Pueblo of Sandia
+  | year = 2006
+  | url = http://www.sandiapueblo.nsn.us/history.html
+  | access-date = January 17, 2008 |archive-url = https://web.archive.org/web/20080102031937/http://www.sandiapueblo.nsn.us/history.html <!-- Bot retrieved archive --> |archive-date = January 2, 2008}}</ref> and [[Pueblo of Isleta]] is documented in written records since the early 17th century. It was then chosen as the site of the [[San Agustín de la Isleta Mission]], a [[Catholic mission]].
+
+The historic [[Navajo]], [[Apache]], and [[Comanche]] peoples were likely to have set camps in the Albuquerque area, as there is evidence of trade and cultural exchange among the different Native American groups going back centuries before European arrival.<ref>{{cite book|last1=Seymour|first1=Deni|title=From the Land of Ever Winter to the American Southwest|date=2012|publisher=University of Utah Press}}</ref>
+[[File:Viceroyalty of New Spain Location 1819 (without Philippines).png|left|thumb|In 1706, Albuquerque was founded as a villa of [[Santa Fe de Nuevo México|Nuevo México]], [[New Spain]]]]
+Albuquerque was founded in 1706 as an outpost as ''La Villa de Alburquerque'' by [[Francisco Cuervo y Valdés]] in the provincial kingdom of [[Santa Fe de Nuevo México]].<ref>{{Cite web|title = About – Albuquerque Historical Society|url = http://albuqhistsoc.org/who-we-are/|website = Albuquerque Historical Society|access-date = January 4, 2016|archive-url = https://web.archive.org/web/20151219010115/http://albuqhistsoc.org/who-we-are/|archive-date = December 19, 2015|url-status = live}}</ref> The settlement was named after the original town of Viceroy [[Francisco Fernández de la Cueva, 10th Duke of Alburquerque|Francisco Fernández de la Cueva]], 10th [[duke of Alburquerque]], who was from [[Alburquerque, Badajoz]] in southwest Spain.
+
+Albuquerque developed primarily for farming and sheep herds. It was a strategically located trading and military outpost along the [[El Camino Real de Tierra Adentro|Camino Real]]. It served other [[Tiwa Puebloans|Tiquex]] and [[Hispanos of New Mexico|Hispano]] towns settled in the area, such as [[Barelas]], [[Corrales, New Mexico|Corrales]], [[Isleta Pueblo]], [[Los Ranchos de Albuquerque, New Mexico|Los Ranchos]], and [[Sandia Pueblo]].<ref>{{cite web |url=http://www.nmallstar.com/albuquerque_visitor_information.html |title=History |publisher=Nmallstar.com |access-date=February 18, 2012 |archive-url=https://web.archive.org/web/20120325201851/http://www.nmallstar.com/albuquerque_visitor_information.html#Albuquerques |archive-date=March 25, 2012 }}</ref>
+
+After gaining independence in 1821, Mexico established a military presence here. The town of Alburquerque was built in the traditional Spanish villa pattern: a central [[plaza]] surrounded by government buildings, homes, and a church. This central plaza area has been preserved and is open to the public as a cultural area and center of commerce. It is referred to as "[[Old Town Albuquerque]]" or simply "Old Town". Historically it was sometimes referred to as "La Placita" (''Little Plaza'' in Spanish). On the north side of Old Town Plaza is [[San Felipe de Neri Church]]. Built in 1793, it is one of the oldest surviving buildings in the city.<ref>{{cite web
+|url=http://www.stoppingpoints.com/nm/Bernalillo/San+Felipe+de+Neri+Church.html
+|author=New Mexico Department of Cultural Affairs, Historic Preservation Division
+|title=San Felipe de Neri Church Historical Marker
+|access-date=December 5, 2012
+|archive-url=https://web.archive.org/web/20130513010127/http://www.stoppingpoints.com/nm/Bernalillo/San+Felipe+de+Neri+Church.html
+|archive-date=May 13, 2013
+|url-status=live
+}}</ref>
+
+After the New Mexico Territory became a part of the United States in the mid-19th century, a federal garrison and quartermaster depot, the Post of Albuquerque, were established here, operating from 1846 to 1867. In ''Beyond the Mississippi'' (1867), [[Albert D. Richardson]], traveling to California via coach, passed through Albuquerque in late October 1859—its population was 3,000 at the time—and described it as "one of the richest and pleasantest towns, with a Spanish cathedral and other buildings more than two hundred years old."<ref>{{Cite book|last=Richardson|first=Albert D.|title=Beyond the Mississippi: From the Great River to the Great Ocean|publisher=American Publishing Co.|year=1867|location=Hartford, Conn.|pages=249}}</ref>
+
+During the [[American Civil War|Civil War]], Albuquerque was occupied for a month in February 1862 by [[Confederate States of America|Confederate]] troops under General [[Henry Hopkins Sibley]]. He soon afterward advanced with his main body into northern New Mexico.{{citation needed|date=June 2024}} During his retreat from [[Union (American Civil War)|Union]] troops into [[Texas]], he made a stand on April 8, 1862, and fought the [[Battle of Albuquerque]] against a detachment of Union soldiers commanded by Colonel [[Edward Canby|Edward R. S. Canby]]. This daylong engagement at long range led to few casualties. The residents of Albuquerque aided the Republican Union to rid the city of the occupying Confederate troops.{{citation needed|date=June 2024}}
+
+[[file:Albuquerque (1880).jpg|thumb|upright|Downtown Albuquerque in the 1880s|alt=|left]]
+
+When the [[Atchison, Topeka and Santa Fe Railway|Atchison, Topeka and Santa Fe Railroad]] arrived in 1880, it bypassed the Plaza, locating the passenger depot and railyards about <span style="white-space:nowrap">2&nbsp;miles&nbsp;(3&nbsp;km)</span> east in what quickly became known as New Albuquerque or New Town. The railway company built a hospital for its workers that was later used as a juvenile psychiatric facility. It has since been converted to a hotel.<ref>{{cite web|last1=Galloway|first1=Lindsey|title=A hospital turned hotel in New Mexico|url=http://www.bbc.com/travel/story/20130520-a-hospital-turned-hotel-in-new-mexico|publisher=BBC Travel|access-date=July 15, 2017|archive-url=https://web.archive.org/web/20170511180757/http://www.bbc.com/travel/story/20130520-a-hospital-turned-hotel-in-new-mexico|archive-date=May 11, 2017|url-status=live}}</ref>
+
+Many Anglo merchants, mountain men, and settlers slowly filtered into Albuquerque, creating a major mercantile commercial center in [[Downtown Albuquerque]]. From this commercial center on July 4, 1882, [[Park Van Tassel]] became the first to fly a balloon in Albuquerque with a landing at Old Town.<ref name="Fogel">{{Cite book| last = Fogel | first = Gary | title = Sky Rider: Park Van Tassel and the Rise of Ballooning in the West | publisher = University of New Mexico Press | location = Albuquerque | year = 2021 | isbn = 978-0-8263-6282-7 }}</ref> This was the first balloon flight in the New Mexico Territory.
+
+Due to a rising rate of violent crime, gunman [[Milton J. Yarberry|Milt Yarberry]] was appointed the town's first marshal that year. New Albuquerque was incorporated as a town in 1885, with Henry N. Jaffa its first mayor. It was incorporated as a city in 1891.<ref name="Simmons">{{Cite book| last = Simmons | first = Marc | title = Albuquerque | publisher = University of New Mexico Press | location = Albuquerque | year = 1982 | isbn = 0-8263-0627-6 }}</ref>{{Rp|232–233}}
+
+Old Town remained a separate community until the 1920s, when it was absorbed by Albuquerque. [[Old Albuquerque High School]], the city's first public high school, was established in 1879. [[Congregation Albert]], a [[Reform Judaism|Reform]] synagogue established in 1897, by Henry N. Jaffa, who was also the city's first mayor, is the oldest continuing Jewish organization in the city.<ref name="congregationalbert.org">{{cite web|url=http://www.congregationalbert.org/|title=Home|work=congregationalbert.org|access-date=June 14, 2015|archive-url=https://web.archive.org/web/20150612085809/http://www.congregationalbert.org/|archive-date=June 12, 2015}}</ref>
+[[File:Old Albuquerque High School Albuquerque.jpg|thumb|upright|[[Old Albuquerque High School|Old Albuquerque High]], built in 1914. Victorian and Gothic styles were used in the late 19th and early 20th centuries.|alt=|left]]
+
+By 1900, Albuquerque boasted a population of 8,000 and all the modern amenities, including an electric street railway connecting Old Town, New Town, and the recently established University of New Mexico campus on the East Mesa.{{citation needed|date=June 2024}}  In 1902, the [[Alvarado Hotel]] was built adjacent to the new passenger depot, and it remained a famous symbol of the city for decades.<ref>{{Cite news |date=1969 |title=The Alvarado Hotel |url=https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1658&context=nma |work=New Mexico Architect |pages=20–23 |via=University of New Mexico}}</ref> Outdated, it was razed in 1970 and the site was converted to a parking lot.<ref>{{Cite news |date=1970 |title=The Alvarado Hotel |url=https://wheelsmuseum.org/wp-content/uploads/2019/10/The-Alvarado-Hotel.pdf |access-date=19 June 2024 |work=New Mexico Architect |pages=16–19 |via=Wheels Museum}}</ref>
+
+In 2002, the [[Alvarado Transportation Center]] was built on the site in a style resembling the old landmark. The large metro station functions as the downtown headquarters for the city's transit department. It also serves as an intermodal hub for local buses, [[Greyhound Lines|Greyhound]] buses, [[Amtrak]] passenger trains, and the [[New Mexico Rail Runner Express|Rail Runner]] commuter rail line.{{citation needed|date=June 2024}}
+
+In the early days of transcontinental air service, Albuquerque was an important stop on many transcontinental air routes, earning it the nickname "Crossroads of the Southwest".<ref>{{Cite web|url=http://kirtland.baseguide.net/history.html|title=Kirtland AFB Guide/Directory - History|website=kirtland.baseguide.net}}</ref>
+
+During the early 20th century, New Mexico's dry climate attracted many [[tuberculosis]] patients to the city in search of a cure,{{citation needed|date=June 2024}} this was before penicillin was found to be effective. Several sanitaria were developed on the [[West Mesa]] to serve TB patients. Presbyterian Hospital and St. Joseph Hospital, two of the largest hospitals in the Southwest, had their beginnings during this period. Influential [[New Deal]]–era governor [[Clyde Tingley]] and famed Southwestern architect [[John Gaw Meem]] were among those who came to New Mexico seeking recovery from TB.{{citation needed|date=June 2024}}
+
+[[File:McCanna-Hubbell Building, Albuquerque NM.jpg|thumb|The [[McCanna–Hubbell Building]], built in 1915, is one of downtown Albuquerque's many historic buildings|alt=|left]]
+
+The first travelers on [[U.S. Route 66|Route 66]] appeared in Albuquerque in 1926. Soon dozens of motels, restaurants, and gift shops sprouted along the roadside to serve them. Route 66 originally ran through the city on a north–south alignment along Fourth Street. In 1937 it was realigned along [[Central Avenue (Albuquerque)|Central Avenue]], a more direct east–west route.{{citation needed|date=June 2024}}  The intersection of Fourth and Central downtown was the principal crossroads of the city for decades. The majority of the surviving structures from the Route 66 era are on Central, though there are also some on Fourth. Signs between Bernalillo and Los Lunas along the old route now have brown, historical highway markers denoting it as ''Pre-1937 Route 66.''{{citation needed|date=June 2024}}
+
+The establishment of [[Kirtland Air Force Base]] in 1939, [[Sandia Base]] in the early 1940s, and [[Sandia National Laboratories]] in 1949, would make Albuquerque a key player of the Atomic Age. Meanwhile, the city continued to expand outward into the Northeast Heights, reaching a population of 201,189 by 1960 per the U.S. Census.<ref>{{Cite book |url=https://www2.census.gov/library/publications/decennial/1960/population-and-housing-phc-1/41953654v1ch2.pdf |title=U.S. Census of Population and Housing: 1960. Census Tracts. |date=1961 |publisher=U.S. Government Printing Office |series=Final Report PHC(1)-4. |location=Washington, D.C. |pages=13}}</ref>
+
+By 1990, it was 384,736 and in 2007 it was 518,271. In June 2007, Albuquerque was listed as the sixth fastest-growing city in the United States.<ref name=autogenerated1>{{Cite news |author=Les Christie |url=https://money.cnn.com/2007/06/27/real_estate/fastest_growing_cities/ |title=The fastest growing U.S. cities&nbsp;– June 28, 2007 |publisher=CNN |date=June 28, 2007 |access-date=May 9, 2009 |archive-url=https://web.archive.org/web/20130404170946/http://money.cnn.com/2007/06/27/real_estate/fastest_growing_cities/ |archive-date=April 4, 2013 |url-status=live }}</ref> In 1990, the [[United States Census Bureau|U.S. Census Bureau]] reported Albuquerque's population as 34.5% Hispanic and 58.3% non-Hispanic white.<ref name="census1">{{cite web|title=Race and Hispanic Origin for Selected Cities and Other Places: Earliest Census to 1990 |publisher=U.S. Census Bureau |url=https://www.census.gov/population/www/documentation/twps0076/twps0076.html |access-date=April 23, 2012 |archive-url=https://web.archive.org/web/20080912052919/http://www.census.gov/population/www/documentation/twps0076/twps0076.html |archive-date=September 12, 2008 }}</ref>
+
+On April 11, 1950, a USAF [[Boeing B-29 Superfortress|B-29 bomber]] carrying a [[nuclear weapon]] crashed into a mountain near [[Manzano Base]].<ref>{{cite web | author = Tiwari J, Gray CJ | title = U.S. Nuclear Weapons Accidents  | url = http://www.cdi.org/Issues/NukeAccidents/accidents.htm | archive-url = https://web.archive.org/web/20120423145613/http://www.cdi.org/issues/nukeaccidents/accidents.htm | archive-date = April 23, 2012}}</ref> On May 22, 1957, a B-36 accidentally dropped a [[Mark 17 nuclear bomb]] 4.5 miles from the control tower while landing at [[Kirtland Air Force Base]]. Only the conventional trigger detonated, as the bomb was unarmed. These incidents were not reported as they were classified as secret for decades.<ref>Adler, Les. [http://www.hkhinc.com/newmexico/albuquerque/doomsday/ "Albuquerque's Near-Doomsday."] {{Webarchive|url=https://web.archive.org/web/20190515060717/http://www.hkhinc.com/newmexico/albuquerque/doomsday/ |date=May 15, 2019 }} ''Albuquerque Tribune''. January 20, 1994.</ref>
+
+Following the end of WWII, population shifts as well as suburban development, [[urban sprawl]] and gentrification, Albuquerque's downtown entered a period of decline. Many historic buildings were razed in the 1960s and 1970s to make way for new plazas, high-rises, and parking lots as part of the city's urban renewal phase.{{citation needed|date=June 2024}}  {{as of|2010}}, only recently has Downtown Albuquerque come to regain much of its urban character{{citation needed|date=June 2024}}, mainly through the construction of many new loft apartment buildings and the renovation of historic structures such as the [[KiMo Theater]].
+
+During the 21st century, Albuquerque's population has continued to grow rapidly. The population of the city proper was estimated at 564,559 in 2020<ref>{{Cite web |title=Explore Census Data |url=https://data.census.gov/profile/Albuquerque_city,_New_Mexico?g=160XX00US3502000 |access-date=2024-11-07 |website=data.census.gov}}</ref>, 528,497 in 2009, and 448,607 in the 2000 census.<ref>{{Cite news|first=Erick |last=Siermers |title=Managing Albuquerque's growth |url=http://www.abqtrib.com/news/2007/sep/17/albuquerque-metro-area-population-projected-reach-/ |date=September 17, 2007 |access-date=September 17, 2007 |archive-url=https://web.archive.org/web/20100222005227/http://abqtrib.com/news/2007/sep/17/albuquerque-metro-area-population-projected-reach-/ |archive-date=February 22, 2010 }}</ref> During 2005 and 2006, the city celebrated its tricentennial with a diverse program of cultural events.
+
+The passage of the Planned Growth Strategy in 2002–2004 was the community's strongest effort to create a framework for a more balanced and sustainable approach to urban growth.<ref>{{cite web |url=http://www.cabq.gov/council/pgs.html |title=Planned Growth Strategy |publisher=Cabq.gov |date=March 19, 2007 |access-date=July 2, 2010 |archive-url=https://web.archive.org/web/20080517213447/http://www.cabq.gov/council/pgs.html |archive-date=May 17, 2008 }}</ref>
+
+Urban sprawl is limited on three sides—by the [[Sandia Pueblo]] to the north, the [[Pueblo of Isleta|Isleta Pueblo]] and Kirtland Air Force Base to the south, and the Sandia Mountains to the east. Suburban growth continues at a strong pace to the west, beyond the Petroglyph National Monument, once thought to be a natural boundary to sprawl development.<ref>{{cite web|url=http://www.nps.gov/petr/ |title=Petroglyph National Monument |publisher=Nps.gov |date=June 10, 2010 |access-date=July 2, 2010| archive-url= https://web.archive.org/web/20100828110802/http://www.nps.gov/petr/| archive-date=August 28, 2010| url-status= live}}</ref>
+
+Because of less-costly land and lower taxes, much of the growth in the metropolitan area is taking place outside of the city of Albuquerque itself. In Rio Rancho to the northwest, the communities east of the mountains, and the incorporated parts of [[Valencia County]], population growth rates approach twice that of Albuquerque. The primary cities in Valencia County are [[Los Lunas, New Mexico|Los Lunas]] and [[Belen, New Mexico|Belen]], both of which are home to growing industrial complexes and new residential subdivisions. The mountain towns of [[Tijeras, New Mexico|Tijeras]], [[Edgewood, New Mexico|Edgewood]], and [[Moriarty, New Mexico|Moriarty]], while close enough to Albuquerque to be considered suburbs, have experienced much less growth compared to Rio Rancho, Bernalillo, Los Lunas, and Belen. Limited water supply and rugged terrain are the main limiting factors for development in these towns. The [[Mid Region Council of Governments]] (MRCOG), which includes constituents from throughout the Albuquerque area, was formed to ensure that these governments along the middle Rio Grande would be able to meet the needs of their rapidly rising populations. MRCOG's cornerstone project is currently the [[New Mexico Rail Runner Express]].{{Citation needed|date=May 2024}}
+
+==Geography==
+
+[[File:Albuquerque by Sentinel-2 2023-05-06.jpg |thumb|Satellite view of Albuquerque taken in May 2023|alt=]]
+[[File:Rio Grande looking south, west of ABQ.jpg|thumb|upright|Aerial view of the Rio Grande flowing through Albuquerque in 2016]]
+Albuquerque is located in north-central New Mexico. To its east are the [[Sandia–Manzano Mountains]]. The [[Rio Grande]] flows north to south through its center, while the [[West Mesa]] and [[Petroglyph National Monument]] make up the western part of the city. Albuquerque has one of the highest elevations of any major city in the U.S., ranging from {{convert|4,900|ft|m}} [[Above mean sea level|above sea level]] near the [[Rio Grande]] to over {{convert|6,700|ft|m}} in the foothill areas of [[Sandia Heights, New Mexico|Sandia Heights]] and Glenwood Hills. The civic apex is found in an undeveloped area within the Albuquerque Open Space; there, the terrain rises to an elevation of approximately {{convert|6,880|ft|m}}, and the metropolitan area's highest point is [[Sandia Crest]] at an altitude of {{convert|10,678|ft|m}}.
+
+According to the [[United States Census Bureau]], Albuquerque has a total area of <span style="white-space:nowrap">{{convert|490.9|sqkm|order=flip}}</span>, of which <span style="white-space:nowrap">{{convert|486.2|km2|order=flip}}</span> is land and <span style="white-space:nowrap">{{convert|4.7|km2|order=flip}}</span>, or 0.96%, is water.<ref>{{cite web| url=http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/G001/1600000US3502000| archive-url=https://archive.today/20200212191210/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/G001/1600000US3502000| archive-date=February 12, 2020| title=Geographic Identifiers: 2010 Demographic Profile Data (G001): Albuquerque city, New Mexico| publisher=U.S. Census Bureau, American Factfinder| access-date=January 27, 2014}}</ref>
+
+Albuquerque lies within the fertile [[Rio Grande Valley (New Mexico)|Rio Grande Valley]] with its [[Bosque]] forest, in the center of the [[Albuquerque Basin]], flanked on the eastern side by the [[Sandia Mountains]] and to the west by the [[West Mesa]].<ref name=lcalabre>
+{{cite web
+ |title=Vegetation & The Environment in NM
+ |url=http://www.unm.edu/~lcalabre/project/
+ |author=Laura Calabrese
+ |publisher=University of New Mexico
+ |access-date=July 24, 2012 |archive-url=https://web.archive.org/web/20131211155214/http://www.unm.edu/~lcalabre/project/
+ |archive-date=December 11, 2013 }}</ref><ref name=ausherman>{{cite book
+ | title = 60 Hikes Within 60 Miles: Albuquerque: Including Santa Fe, Mount Taylor, and San Lorenzo Canyon
+ | edition = 2nd
+ | author = Stephen Ausherman
+ | publisher = Menasha Ridge Press
+ | year = 2012
+ | isbn = 9780897326001
+ | page = 288
+ | url = https://books.google.com/books?id=MGAAynl9q0kC&pg=PA288
+ | access-date = November 12, 2015
+| archive-url = https://web.archive.org/web/20160204194401/https://books.google.com/books?id=MGAAynl9q0kC&pg=PA288&lpg=PA288
+ | archive-date = February 4, 2016
+| url-status = live
+ }}</ref> Located in central New Mexico, the city also has noticeable influences from the adjacent [[Colorado Plateau]] semi-desert, New Mexico Mountains forested with juniper and pine, and Southwest plateaus and plains steppe ecoregions, depending on where one is located.
+
+===Landforms and drainage===
+{{Unreferenced section|date=June 2024}}
+Albuquerque has one of the highest and most varied elevations of any major city in the United States, though the effects of this are greatly tempered by its southwesterly continental position.{{Citation needed|date=June 2024|reason=Specifically for effect of southwestern continental position.}} The elevation of the city ranges from <span style="white-space:nowrap">4,949&nbsp;feet&nbsp;(1,508&nbsp;m)</span> [[Above mean sea level|above sea level]] near the Rio Grande<ref>{{Cite web |title=Rio Grande at Albuquerque, NM - USGS Water Data for the Nation |url=https://waterdata.usgs.gov/monitoring-location/08330000/all-graphs/#period=P7D |access-date=2024-06-19 |website=waterdata.usgs.gov}}</ref> (in the Valley) to <span style="white-space:nowrap">6,165&nbsp;feet&nbsp;(1,879&nbsp;m)</span> in the foothill areas of [[Sandia Heights, New Mexico|Sandia Heights]].<ref>{{Cite web |title=Geographic Names Information System |url=https://edits.nationalmap.gov/apps/gaz-domestic/public/gaz-record/2584202 |access-date=2024-06-19 |website=edits.nationalmap.gov}}</ref> At the [[Albuquerque International Sunport]], the elevation is <span style="white-space:nowrap">5,355&nbsp;feet&nbsp;(1,632&nbsp;m)</span> above sea level.<ref>{{Cite web |title=Facts & Figures |url=https://www.abqsunport.com/facts-figures/#:~:text=sunport%20facilities&text=ABQ's%20elevation%20is%205%2C355%20feet,106%20degrees%2C%2037%20minutes%20West. |access-date=19 June 2024 |website=Albuquerque International Sunport}}</ref>
+
+The Rio Grande is classified, like the [[Nile]], as an "exotic" river. The New Mexico portion of the Rio Grande lies within the [[Rio Grande Rift]] Valley, bordered by a system of [[fault (geology)|fault]]s, including those that lifted up the adjacent [[Sandia Mountains|Sandia]] and [[Manzano Mountains]], while lowering the area where the life-sustaining Rio Grande now flows.
+
+===Geology and Ecology===
+
+{{main article|Albuquerque Basin}}
+Albuquerque lies in the [[Albuquerque Basin]], a portion of the [[Rio Grande rift]].<ref>{{cite web
+ |url=http://geoinfo.nmt.edu/resources/water/projects/Albuquerque_basin.html
+ |title=Albuquerque Basin
+ |publisher=The New Mexico Bureau of Geology & Mineral Resources
+ |access-date=September 28, 2012 |archive-url=https://web.archive.org/web/20121107124156/http://geoinfo.nmt.edu/resources/water/projects/Albuquerque_basin.html
+ |archive-date=November 7, 2012 }}</ref>
+The [[Sandia Mountains]] are the predominant geographic feature visible in Albuquerque. ''Sandía'' is Spanish for "[[watermelon]]", and is popularly believed to be a reference to the brilliant pink and green coloration of the mountains at sunset. The pink is due to large exposures of [[granodiorite]] cliffs, and the green is due to large swaths of [[conifer]] forests. However, Robert Julyan notes in ''The Place Names of New Mexico'', "the most likely explanation is the one believed by the [[Sandia Pueblo]] Indians: the Spaniards, when they encountered the Pueblo in 1540, called it Sandia, because they thought the squash growing there were watermelons, and the name Sandia soon was transferred to the mountains east of the pueblo."<ref name="julyan">Robert Julyan, ''The Place Names of New Mexico'' (revised edition), UNM Press, 1998.</ref> He also notes that the Sandia Pueblo Indians call the mountain ''Bien Mur'', "Big Mountain."<ref name="julyan"/>
+
+Albuquerque lies at the northern edge of the [[Chihuahuan Desert]] transitioning into the [[Colorado Plateau]]. The Sandia Mountains represent the northern edge of the [[Arizona/New Mexico Mountains ecoregion]].
+
+The environments of Albuquerque include the Rio Grande [[bosque]], (floodplain cottonwood forest), arid scrub, and mesas that turn into the Sandia foothills in the east. The Rio Grande's bosque has been significantly reduced and its natural flood cycle disrupted by dams built further upstream. A corridor of bosque surrounding the river within the city has been preserved as [[Rio Grande Valley State Park]].
+[[File:South Diversion Channel, Albuquerque.jpg|thumb|The South Diversion Channel]]
+A few remaining natural arroyos provide riparian habitat within the city, though natural [[Arroyo (watercourse)|arroyos]] draining into the Rio Grande have largely been replaced with concrete channels. After a series of floods in the 1950s, passage of the "Arroyo Flood Control Act of 1963" provided for the construction of a series of concrete diversion channels.<ref name="AMAFCA">{{cite book |last1=Swinburne |first1=Bernard H. |title=Albuquerque Metropolitan Arroyo Flood Control Authority |date=July 1974 |publisher=Albuquerque Metropolitan Arroyo Flood Control Authority |location=Albuquerque |pages=6–8 |url=https://amafca.org/documents/AMAFCABrochureweb.pdf |access-date=1 October 2024}}</ref> The network of channels was built by the Army Corps of Engineers during the 1960s and early 1970s.<ref name="AMAFCA" />
+
+Iconic urban wildlife includes the [[greater roadrunner|roadrunner]], [[Gunnison's prairie dog]], [[coyote]], and [[New Mexico whiptail|New Mexico whiptail lizard]]. The bosque is a popular destination for wildlife viewing, with opportunities to see [[North American porcupine|porcupines]] and [[sandhill crane]]s in the winter.<ref>{{Cite web |title=City of Albuquerque Critters |url=https://www.cabq.gov/parksandrecreation/open-space/city-of-albuquerque-critters |access-date=March 20, 2024 |website=City of Albuquerque |language=en}}</ref> [[Cooper's hawks]] are common in city parks.<ref>{{Cite web |date=August 6, 2019 |title=Cooper's hawk population booming in Albuquerque |url=https://www.krqe.com/news/albuquerque-metro/coopers-hawk-population-booming-in-albuquerque/ |access-date=March 20, 2024 |website=KRQE NEWS 13 - Breaking News, Albuquerque News, New Mexico News, Weather, and Videos |language=en-US}}</ref>
+
+Iconic vegetation includes the [[Populus deltoides|Rio Grande cottonwood]] in the bosque, and [[Cylindropuntia imbricata|tree cholla]], [[Opuntia|prickly pear]], [[yucca]], [[Ericameria nauseosa|chamisa]], and [[Juniperus monosperma|oneseed juniper]] in upland areas. The foothill open space at the eastern border also features [[Quercus turbinella|Sonoran scrub oak]] and [[pinyon pine|piñon pine]]. [[Chilopsis|Desert willows]] are commonly planted throughout the city. [[Salsola tragus|Tumbleweeds]] are a common weed in disturbed areas, and are used by the city to make an annual holiday snowman.<ref>{{Cite web |title=AMAFCA Tumbleweed Snowman |url=https://amafca.org/snowman-tumbleweed/ |access-date=March 20, 2024 |website=AMAFCA |language=en-US}}</ref>
+
+===Cityscape===
+
+{{wide image|Albuquerque_pano_sunset.jpg|1500px|align-cap=center|Panoramic view of the city of Albuquerque looking east}}
+
+[[File:Albuquerque-nighttime-cityscape-from-Sandia-Crest.jpg|thumb|border|center|600px|alt=Photo shows the nighttime cityscape of Albuquerque as seen looking west by south from the upper terminal of Sandia Peak Tramway|<div style="text-align: center">Nocturnal view of Albuquerque from [[Sandia Peak Tramway]] upper terminal</div>]]
+
+====Quadrants====
+
+Albuquerque is geographically divided into four unequal [[Address (geography)#Quadrants|quadrants]] that are officially part of mailing addresses, placed immediately after the street name. They are Northeast (NE), Northwest (NW), Southeast (SE), and Southwest (SW). Albuquerque's official quadrant system uses Central Ave for the north–south division and the railroad tracks for the east–west division. I-25 and I-40 are also sometimes used informally to divide the city into quadrants.
+
+=====Northeast=====
+
+This quadrant has been experiencing a housing expansion since the late 1950s. It abuts the base of the Sandia Mountains and contains portions of the foothills neighborhoods, which are significantly higher in elevation than the rest of the city. Running from Central Ave and the [[New Mexico Rail Runner Express|Railrunner]] tracks to the [[Sandia Peak Tramway|Sandia Peak Aerial Tram]], this is the largest quadrant both geographically and by population. Martineztown, the [[Maxwell Museum of Anthropology]], [[University of New Mexico]], the Uptown area, which includes three shopping malls ([[Coronado Center]], ABQ Uptown, and [[Winrock Town Center]]), Hoffmantown, Journal Center, and [[Cliff's Amusement Park]] are all in this quadrant.
+
+Some of the most affluent neighborhoods in the city are here, including: [[High Desert, Albuquerque, New Mexico|High Desert]], Tanoan, Sandia Heights, and North Albuquerque Acres. Parts of Sandia Heights and North Albuquerque Acres are outside the city limits proper. A few houses in the farthest reach of this quadrant lie in the [[Cibola National Forest]], just over the line into [[Sandoval County, New Mexico|Sandoval County]].
+
+=====Northwest=====
+
+[[file:KiMo Albuquerque.jpg|thumb|[[KiMo Theater|KiMo Theatre]] in Downtown]]
+
+This quadrant contains historic [[Old Town Albuquerque]], which dates to the 18th century, as well as the [[Indian Pueblo Cultural Center]]. The area has a mixture of commercial districts and low to high-income neighborhoods. Northwest Albuquerque includes the largest section of [[Downtown Albuquerque|Downtown]], [[Rio Grande Nature Center State Park]] and the [[Bosque]] ("woodlands"), Petroglyph National Monument, [[Double Eagle II Airport]], the Paradise Hills neighborhood, Taylor Ranch, and [[Cottonwood Mall (Albuquerque, New Mexico)|Cottonwood Mall]].
+
+This quadrant also contains the [[North Valley, New Mexico|North Valley]] settlement, outside the city limits, which has some expensive homes and small ranches along the [[Rio Grande]]. The city of Albuquerque engulfs the village of [[Los Ranchos de Albuquerque, New Mexico|Los Ranchos de Albuquerque]]. A small portion of the rapidly developing area on the west side of the river south of the Petroglyphs, known as the "[[West Mesa]]" or "Westside", consisting primarily of traditional residential subdivisions, also extends into this quadrant. The city proper is bordered on the north by the North Valley, the village of [[Corrales, New Mexico|Corrales]], and the city of [[Rio Rancho, New Mexico|Rio Rancho]].
+
+=====Southeast=====
+
+[[file:Lobo Theater, Albuquerque NM.jpg|thumb|[[Lobo Theater]] in Nob Hill]]
+
+[[Kirtland Air Force Base]], [[Sandia National Laboratories]], Sandia Science & Technology Park, the Max Q commercial district, [[Albuquerque International Sunport]], [[American Society of Radiologic Technologists]], [[Central New Mexico Community College]], [[University of New Mexico|UNM South Campus]], Presbyterian Hospital Duke City BMX, [[University Stadium, Albuquerque|University Stadium]], [[Rio Grande Credit Union Field at Isotopes Park]], [[The Pit (arena)|The Pit]], [[Mesa del Sol]], [[Isleta Amphitheater]], [[Albuquerque Studios|Netflix Studios]], Isleta Resort & Casino, the [[National Museum of Nuclear Science & History]], New Mexico Veterans Memorial, and {{not a typo|Talin}}<!-- typo correction wants to correct this to Tallinn, capital of Estonia--> Market are all located in the Southeast quadrant of Albuquerque.
+
+The southern half of the International District lies along Central Ave and Louisiana Blvd. Here, many immigrant communities have settled and thrive, having established numerous businesses.{{citation needed|date=June 2024}} Albuquerque's [[Vietnamese American]] community is partly business-centered in this area, as well as the Eubank, Juan Tabo, and Central areas, and other parts of Albuquerque. There is also a [[Laotian American]] temple and a sizable community in parts of this area as well as around Uptown. There is also an African American community around Highland.{{citation needed|date=June 2024}}
+
+The Four Hills neighborhoods are located in and around the foothills on the outskirts of Southeast Albuquerque. The vast newer subdivision of Volterra lies west of the Four Hills area. Popular urban neighborhoods that can be found in Southeast Albuquerque include [[Nob Hill, Albuquerque|Nob Hill]], Ridgecrest, Parkland Hills, Hyder Park, and University Heights.
+
+=====Southwest=====
+
+Traditionally consisting of agricultural and rural areas and suburban neighborhoods, the Southwest quadrant comprises the south-end of Downtown Albuquerque, the [[Barelas]] neighborhood, the rapidly growing west side, and the community of [[South Valley, New Mexico]], often called "The South Valley". The quadrant extends all the way to the Isleta Indian Reservation. Newer suburban subdivisions on the [[West Mesa]] near the southwestern city limits join homes of older construction, some dating as far back as the 1940s.{{citation needed|date=June 2024}} This quadrant includes the old communities of Atrisco, Los Padillas, Huning Castle, Kinney, Westgate, Westside, Alamosa, Mountainview, and Pajarito. The Bosque ("woodlands"), the [[National Hispanic Cultural Center]], the [[Rio Grande Zoo]], and [[Tingley Beach]] are also here.
+
+A new adopted development plan, the Santolina Master Plan, will extend development on the west side past 118th Street SW to the edge of the [[Rio Puerco (Rio Grande)|Rio Puerco Valley]] and house 100,000 by 2050.<ref>{{cite web|url=http://www.bernco.gov/planning/proposed-santolina-level-a-master-plan.aspx|title=Adopted Santolina Level A Master Plan-Bernalillo County, New Mexico|work=bernco.gov|access-date=September 5, 2016|archive-url=https://web.archive.org/web/20160907040938/http://www.bernco.gov/planning/proposed-santolina-level-a-master-plan.aspx|archive-date=September 7, 2016}}</ref>
+
+===Climate===
+
+Albuquerque's climate is classified as a [[cold semi-arid climate]] (''BSk'') according to the [[Köppen climate classification]] system, while The Biota of North America Program<ref>{{Cite web |title=Climate |url=http://www.bonap.org/Climate%20Maps/climate48shadeA.png |archive-url=https://web.archive.org/web/20171124115104/http://www.bonap.org/Climate%20Maps/climate48shadeA.png |archive-date=November 24, 2017 |access-date=May 2, 2019}}</ref> and the U.S. Geological Survey describe it as warm temperate semi-desert.<ref>{{Cite web|url=https://pubs.usgs.gov/sim/3084/|title=USGS Scientific Investigations Map 3084: Terrestrial Ecosystems—Isobioclimates of the Conterminous United States|website=pubs.usgs.gov|access-date=April 13, 2020|archive-url=https://web.archive.org/web/20190901232200/https://pubs.usgs.gov/sim/3084/|archive-date=September 1, 2019|url-status=live}}</ref><ref>{{Cite web|url=http://prism.oregonstate.edu/|title=PRISM Climate Group, Oregon State U|website=prism.oregonstate.edu|access-date=April 13, 2020|archive-url=https://web.archive.org/web/20200122024305/http://prism.oregonstate.edu/|archive-date=January 22, 2020}}</ref>
+
+{{Weather box
+|location = Albuquerque ([[Albuquerque International Sunport]]), 1991–2020 normals,{{efn|Mean monthly maxima and minima (i.e. the expected highest and lowest temperature readings at any point during the year or given month) calculated based on data at said location from 1991 to 2020.}} extremes 1891–present{{efn|Official records for Albuquerque kept December 1891 to January 22, 1933, at the Weather Bureau Office and at Albuquerque Int'l since January 23, 1933. For more information, see Threadex}}
+|single line = Y
+|collapsed =
+|Jan record high F = 72
+|Feb record high F = 79
+|Mar record high F = 85
+|Apr record high F = 89
+|May record high F = 98
+|Jun record high F = 107
+|Jul record high F = 105
+|Aug record high F = 102
+|Sep record high F = 100
+|Oct record high F = 91
+|Nov record high F = 83
+|Dec record high F = 72
+|Jan avg record high F = 60.9
+|Feb avg record high F = 67.5
+|Mar avg record high F = 76.8
+|Apr avg record high F = 83.2
+|May avg record high F = 91.2
+|Jun avg record high F = 99.3
+|Jul avg record high F = 99.4
+|Aug avg record high F = 96.1
+|Sep avg record high F = 91.7
+|Oct avg record high F = 83.6
+|Nov avg record high F = 71.1
+|Dec avg record high F = 60.8
+|year avg record high F = 100.8
+|Jan high F = 48.4
+|Feb high F = 54.1
+|Mar high F = 62.8
+|Apr high F = 70.3
+|May high F = 79.9
+|Jun high F = 90.4
+|Jul high F = 91.2
+|Aug high F = 88.8
+|Sep high F = 82.5
+|Oct high F = 70.6
+|Nov high F = 57.3
+|Dec high F = 47.3
+|year high F = 70.3
+|Jan mean F = 37.4
+|Feb mean F = 41.9
+|Mar mean F = 49.5
+|Apr mean F = 56.8
+|May mean F = 66.1
+|Jun mean F = 76.1
+|Jul mean F = 78.9
+|Aug mean F = 76.9
+|Sep mean F = 70.3
+|Oct mean F = 58.4
+|Nov mean F = 45.7
+|Dec mean F = 36.9
+|year mean F = 57.9
+|Jan low F = 26.4
+|Feb low F = 29.8
+|Mar low F = 36.2
+|Apr low F = 43.2
+|May low F = 52.4
+|Jun low F = 61.9
+|Jul low F = 66.5
+|Aug low F = 64.9
+|Sep low F = 58.1
+|Oct low F = 46.1
+|Nov low F = 34.1
+|Dec low F = 26.6
+|year low F = 45.5
+|Jan avg record low F = 15.4
+|Feb avg record low F = 17.6
+|Mar avg record low F = 23.9
+|Apr avg record low F = 30.5
+|May avg record low F = 39.6
+|Jun avg record low F = 52.3
+|Jul avg record low F = 60.6
+|Aug avg record low F = 59.0
+|Sep avg record low F = 47.4
+|Oct avg record low F = 31.9
+|Nov avg record low F = 21.3
+|Dec avg record low F = 13.7
+|year avg record low F = 10.9
+|Jan record low F = −17
+|Feb record low F = −10
+|Mar record low F = 6
+|Apr record low F = 13
+|May record low F = 25
+|Jun record low F = 35
+|Jul record low F = 42
+|Aug record low F = 46
+|Sep record low F = 26
+|Oct record low F = 19
+|Nov record low F = −7
+|Dec record low F = −16
+|precipitation colour = green
+|Jan precipitation inch = 0.36
+|Feb precipitation inch = 0.43
+|Mar precipitation inch = 0.46
+|Apr precipitation inch = 0.51
+|May precipitation inch = 0.44
+|Jun precipitation inch = 0.57
+|Jul precipitation inch = 1.64
+|Aug precipitation inch = 1.31
+|Sep precipitation inch = 1.15
+|Oct precipitation inch = 0.87
+|Nov precipitation inch = 0.57
+|Dec precipitation inch = 0.53
+|year precipitation inch = 8.84
+|Jul snow inch = 0.0
+|Aug snow inch = 0.0
+|Sep snow inch = 0.0
+|Oct snow inch = 0.3
+|Nov snow inch = 0.9
+|Dec snow inch = 2.8
+|Jan snow inch = 1.4
+|Feb snow inch = 1.5
+|Mar snow inch = 0.7
+|Apr snow inch = 0.3
+|May snow inch = 0.0
+|Jun snow inch = 0.0
+|year snow inch = 7.9
+|unit precipitation days = 0.01 in
+|Jan precipitation days = 3.6
+|Feb precipitation days = 3.7
+|Mar precipitation days = 3.8
+|Apr precipitation days = 2.8
+|May precipitation days = 3.7
+|Jun precipitation days = 3.5
+|Jul precipitation days = 8.7
+|Aug precipitation days = 8.3
+|Sep precipitation days = 5.9
+|Oct precipitation days = 4.7
+|Nov precipitation days = 3.4
+|Dec precipitation days = 4.0
+|year precipitation days = 56.1
+|unit snow days = 0.1 in
+|Jul snow days = 0.0
+|Aug snow days = 0.0
+|Sep snow days = 0.0
+|Oct snow days = 0.3
+|Nov snow days = 0.9
+|Dec snow days = 2.5
+|Jan snow days = 1.9
+|Feb snow days = 1.6
+|Mar snow days = 1.0
+|Apr snow days = 0.3
+|May snow days = 0.0
+|Jun snow days = 0.0
+|year snow days = 8.5
+|Jan sun = 234.2 |Jan percentsun = 75
+|Feb sun = 225.3 |Feb percentsun = 74
+|Mar sun = 270.2 |Mar percentsun = 73
+|Apr sun = 304.6 |Apr percentsun = 78
+|May sun = 347.4 |May percentsun = 80
+|Jun sun = 359.3 |Jun percentsun = 83
+|Jul sun = 335.0 |Jul percentsun = 76
+|Aug sun = 314.2 |Aug percentsun = 75
+|Sep sun = 286.7 |Sep percentsun = 77
+|Oct sun = 281.4 |Oct percentsun = 80
+|Nov sun = 233.8 |Nov percentsun = 75
+|Dec sun = 223.3 |Dec percentsun = 73
+|year percentsun = 77
+|Jan humidity = 56.3
+|Feb humidity = 49.8
+|Mar humidity = 39.7
+|Apr humidity = 32.5
+|May humidity = 31.1
+|Jun humidity = 29.8
+|Jul humidity = 41.9
+|Aug humidity = 47.1
+|Sep humidity = 47.4
+|Oct humidity = 45.3
+|Nov humidity = 49.9
+|Dec humidity = 56.8
+|year humidity = 44.0
+|Jan dew point C = −7.8
+|Feb dew point C = −6.9
+|Mar dew point C = −7.1
+|Apr dew point C = −5.9
+|May dew point C = −2.3
+|Jun dew point C = 1.9
+|Jul dew point C = 9.5
+|Aug dew point C = 10.2
+|Sep dew point C = 6.7
+|Oct dew point C = 0.3
+|Nov dew point C = −4.6
+|Dec dew point C = −7.2
+|source 1 = NOAA (relative humidity and sun 1961–1990)<ref name = NOAA1 >{{cite web 
+|url = https://w2.weather.gov/climate/xmacis.php?wfo=abq 
+|title = NowData – NOAA Online Weather Data 
+|publisher = [[National Oceanic and Atmospheric Administration]] 
+|access-date = October 13, 2021 }}</ref><ref name="NCEI Summary of Monthly Normals - Albuquerque - 1991-2020">{{cite web
+|url=https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&startDate=0001-01-01&endDate=9996-12-31&stations=USW00023050&format=pdf 
+|title = Summary of Monthly Normals 1991–2020 
+|publisher = [[National Oceanic and Atmospheric Administration]] 
+|access-date = October 13, 2021
+|archive-url = https://web.archive.org/web/20230714063557/https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&startDate=0001-01-01&endDate=9996-12-31&stations=USW00023050&format=pdf
+|archive-date = July 14, 2023}}</ref><ref name= noaasun >{{cite web 
+|url = ftp://ftp.atdd.noaa.gov/pub/GCOS/WMO-Normals/TABLES/REG_IV/US/GROUP3/72365.TXT 
+|title = WMO Climate Normals for ALBUQUERQUE/INT'L ARPT NM 1961–1990 
+|access-date = August 29, 2020 |publisher = National Oceanic and Atmospheric Administration
+|archive-url = https://web.archive.org/web/20230714060206/ftp://ftp.atdd.noaa.gov/pub/GCOS/WMO-Normals/TABLES/REG_IV/US/GROUP3/72365.TXT
+|archive-date = July 14, 2023
+}}</ref><!--<ref name = "Percent Sunshine" >
+{{cite web
+| url = http://www.ncdc.noaa.gov/oa/climate/online/ccd/pctpos.txt
+| title = Average Percent Sunshine through 2009
+| access-date = November 16, 2012
+| publisher = [[National Climatic Data Center]]
+}}</ref>-->
+
+}}
+{{Weather box
+|location =[[South Valley, New Mexico]] (elevation {{convert|1510.3|m|abbr=on|order=flip}}, 1991–2020 normals, extremes 1991–2022)
+|single line = Y
+|collapsed = Y
+|Jan record high F = 73
+|Feb record high F = 79
+|Mar record high F = 86
+|Apr record high F = 89
+|May record high F = 101
+|Jun record high F = 105
+|Jul record high F = 104
+|Aug record high F = 101
+|Sep record high F = 98
+|Oct record high F = 89
+|Nov record high F = 79
+|Dec record high F = 70
+|year record high F = 105
+
+|Jan avg record high F = 64.2
+|Feb avg record high F = 70.3
+|Mar avg record high F = 79.3
+|Apr avg record high F = 84.1
+|May avg record high F = 91.7
+|Jun avg record high F = 99.9
+|Jul avg record high F = 100.3
+|Aug avg record high F = 97.2
+|Sep avg record high F = 92.9
+|Oct avg record high F = 84.5
+|Nov avg record high F = 73.0
+|Dec avg record high F = 63.5
+|year avg record high F = 101.4
+
+|Jan high F = 51.1
+|Feb high F = 57.1
+|Mar high F = 65.5
+|Apr high F = 72.4
+|May high F = 80.9
+|Jun high F = 90.9
+|Jul high F = 92.5
+|Aug high F = 90.1
+|Sep high F = 83.4
+|Oct high F = 72.2
+|Nov high F = 59.7
+|Dec high F = 49.9
+|year high F = 72.1
+|Jan mean F = 36.7
+|Feb mean F = 41.9
+|Mar mean F = 49.3
+|Apr mean F = 56.2
+|May mean F = 64.5
+|Jun mean F = 73.9
+|Jul mean F = 78.0
+|Aug mean F = 76.0
+|Sep mean F = 68.6
+|Oct mean F = 56.8
+|Nov mean F = 44.6
+|Dec mean F = 36.1
+|year mean F = 56.9
+|Jan low F = 22.3
+|Feb low F = 26.8
+|Mar low F = 33.1
+|Apr low F = 40.1
+|May low F = 48.1
+|Jun low F = 56.8
+|Jul low F = 63.4
+|Aug low F = 61.9
+|Sep low F = 53.9
+|Oct low F = 41.4
+|Nov low F = 29.5
+|Dec low F = 22.4
+|year low F = 41.6
+
+|Jan avg record low F = 9.9
+|Feb avg record low F = 13.5
+|Mar avg record low F = 19.4
+|Apr avg record low F = 27.3
+|May avg record low F = 35.6
+|Jun avg record low F = 46.4
+|Jul avg record low F = 56.1
+|Aug avg record low F = 54.1
+|Sep avg record low F = 42.3
+|Oct avg record low F = 27.9
+|Nov avg record low F = 15.8
+|Dec avg record low F = 10.4
+|year avg record low F = 6.9
+
+|Jan record low F = -4
+|Feb record low F = -5
+|Mar record low F = 6
+|Apr record low F = 22
+|May record low F = 26
+|Jun record low F = 41
+|Jul record low F = 47
+|Aug record low F = 44
+|Sep record low F = 36
+|Oct record low F = 15
+|Nov record low F = 9
+|Dec record low F = 2
+|year record low F= -5
+|precipitation colour = green
+|Jan precipitation inch = 0.45
+|Feb precipitation inch = 0.47
+|Mar precipitation inch = 0.54
+|Apr precipitation inch = 0.59
+|May precipitation inch = 0.48
+|Jun precipitation inch = 0.57
+|Jul precipitation inch = 1.53
+|Aug precipitation inch = 1.52
+|Sep precipitation inch = 1.26
+|Oct precipitation inch = 1.02
+|Nov precipitation inch = 0.59
+|Dec precipitation inch = 0.65
+|year precipitation inch = 9.67
+|Jan snow inch = 1.4
+|Feb snow inch = 1.3
+|Mar snow inch = 0.6
+|Apr snow inch = 0.3
+|May snow inch = 0.0
+|Jun snow inch = 0.0
+|Jul snow inch = 0.0
+|Aug snow inch = 0.0
+|Sep snow inch = 0.0
+|Oct snow inch = 0.3
+|Nov snow inch = 0.6
+|Dec snow inch = 2.3
+|year snow inch = 6.8
+|unit precipitation days = 0.01 in
+|Jan precipitation days = 3.9
+|Feb precipitation days = 3.6
+|Mar precipitation days = 3.7
+|Apr precipitation days = 3.0
+|May precipitation days = 3.6
+|Jun precipitation days = 3.6
+|Jul precipitation days = 8.5
+|Aug precipitation days = 8.9
+|Sep precipitation days = 5.8
+|Oct precipitation days = 4.6
+|Nov precipitation days = 2.9
+|Dec precipitation days = 4.1
+|year precipitation days = 56.2
+|unit snow days = 0.1 in
+|Jan snow days = 1.4
+|Feb snow days = 1.0
+|Mar snow days = 0.4
+|Apr snow days = 0.2
+|May snow days = 0.0
+|Jun snow days = 0.0
+|Jul snow days = 0.0
+|Aug snow days = 0.0
+|Sep snow days = 0.0
+|Oct snow days = 0.2
+|Nov snow days = 0.4
+|Dec snow days = 1.3
+|year snow days = 4.9
+|source 1 = NOAA<ref name="NCEI Summary of Monthly Normals - South Valley - 1991-2020">{{cite web
+|url=https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&startDate=0001-01-01&endDate=9996-12-31&stations=USC00290231&format=pdf 
+|title = Summary of Monthly Normals 1991–2020 
+|publisher = [[National Oceanic and Atmospheric Administration]] 
+|access-date =October 13, 2021}}</ref><ref name=NOAA1/>
+}}
+
+{{weather box
+ | location    = Albuquerque Foothills (elevation {{convert|1865.4|m|abbr=on|order=flip}}, 1991–2020 normals, extremes 1991–present)
+ | source 1    = NOAA<ref name = NOAA1/><ref name="NCEI Summary of Monthly Normals – Foothills – 1991–2020">{{cite web
+ | url         = https://ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&startDate=0001-01-01&endDate=9996-12-31&stations=USC00290225&format=pdf 
+ | title       = Summary of Monthly Normals 1991–2020 
+ | publisher   = [[National Oceanic and Atmospheric Administration]] 
+ | access-date = October 13, 2021
+}}</ref>
+<!--Q0-->
+ | single line = Y                   | collapsed = Y
+ | year low F = 43.0                 | year mean F = 55.3             | year high F = 67.6
+ | year avg record low F = 8.5       | year avg record high F = 97.7
+ | unit precipitation days = 0.01 in | year precipitation days = 75.5
+ | precipitation colour = green      | year precipitation inch = 14.92
+ | unit snow days = 0.1 in           | year snow days = 16.0          | year snow inch = 23.7
+<!--Q1-->
+ | Jan low F = 25.6             | Jan mean F = 35.4             | Jan high F = 45.2
+ | Jan avg record low F = 12.4  | Jan record low F = 2          | Jan avg record high F = 57.2  | Jan record high F = 69
+ | Jan precipitation days = 5.3 | Jan snow days = 3.4           | Jan precipitation inch = 0.71 | Jan snow inch = 4.0
+
+ | Feb low F = 28.6             | Feb mean F = 39.8             | Feb high F = 51.1
+ | Feb avg record low F = 15.2  | Feb avg record high F = 63.7  | Feb record low F = -12        | Feb record high F = 71
+ | Feb precipitation days = 5.5 | Feb snow days = 3.1           | Feb precipitation inch = 0.85 | Feb snow inch = 4.4
+
+ | Mar low F = 34.7              | Mar mean F = 47.4             | Mar high F = 60.1
+ | Mar avg record low F = 19.8   | Mar record low F = 10         | Mar avg record high F = 73.9  | Mar record high F = 81 
+ | Mar precipitation days = 5.4  | Mar snow days = 2.5           | Mar precipitation inch = 1.05 | Mar snow inch = 3.7
+<!--Q2-->
+ | Apr low F = 40.2              | Apr mean F = 54.4             | Apr high F = 68.5
+ | Apr avg record low F = 26.5   | Apr record low F = 20         | Apr avg record high F = 80.2  | Apr record high F = 86
+ | Apr precipitation days = 4.2  | Apr snow days = 1.2           | Apr precipitation inch = 0.88 | Apr snow inch = 1.7
+
+ | May low F = 49.1              | May mean F = 63.3             | May high F = 77.6
+ | May avg record low F = 35.0   | May record low F = 28         | May avg record high F = 88.8  | May record high F = 96
+ | May precipitation days = 5.1  | May snow days = 0.2           | May precipitation inch = 0.70 | May snow inch = 0.0
+
+ | Jun low F = 58.2              | Jun mean F = 72.9             | Jun high F = 87.7
+ | Jun avg record low F = 47.5   | Jun record low F = 40         | Jun avg record high F = 96.3  | Jun record high F = 103
+ | Jun precipitation days = 4.1  | Jun snow days = 0.0           | Jun precipitation inch = 0.61 | Jun snow inch = 0.0
+<!--Q3-->
+ | Jul low F              = 62.4 | Jul mean F = 75.6             | Jul high F = 88.7
+ | Jul avg record low F   = 55.3 | Jul record low F = 48         | Jul avg record high F = 96.6  | Jul record high F = 104
+ | Jul precipitation days = 11.7 | Jul snow days = 0.0           | Jul precipitation inch = 2.61 | Jul snow inch = 0.0
+
+ | Aug low F = 60.9              | Aug mean F = 73.6             | Aug high F = 86.3
+ | Aug avg record low F = 54.1   | Aug record low F = 48         | Aug avg record high F = 93.4  | Aug record high F = 101
+ | Aug precipitation days = 10.5 | Aug snow days = 0.0           | Aug precipitation inch = 2.66 | Aug snow inch = 0.0
+
+ | Sep low F = 54.8              | Sep mean F = 67.3             | Sep high F = 79.8
+ | Sep avg record low F = 41.9   | Sep record low F = 31         | Sep avg record high F = 88.7  | Sep record high F = 95
+ | Sep precipitation days = 7.4  | Sep snow days = 0.0           | Sep precipitation inch = 1.56 | Sep snow inch = 0.0
+<!--Q4-->
+ | Oct low F = 43.4              | Oct mean F = 55.6             | Oct high F = 67.7
+ | Oct avg record low F = 27.7   | Oct record low F = 17         | Oct avg record high F = 79.9  | Oct record high F = 86
+ | Oct precipitation days = 5.8  | Oct snow days = 0.4           | Oct precipitation inch = 1.33 | Oct snow inch = 0.6
+
+ | Nov low F = 32.9              | Nov mean F = 43.6             | Nov high F = 54.3
+ | Nov avg record low F = 17.7   | Nov record low F = 10         | Nov avg record high F = 66.8  | Nov record high F = 75
+ | Nov precipitation days = 4.7  | Nov snow days = 1.4           | Nov precipitation inch = 0.88 | Nov snow inch = 2.4
+
+ | Dec low F = 25.8              | Dec mean F = 35.2             | Dec high F = 44.5
+ | Dec avg record low F = 10.6   | Dec record low F = 3          | Dec avg record high F = 56.9  | Dec record high F = 64
+ | Dec precipitation days = 5.8  | Dec snow days = 3.8           | Dec precipitation inch = 1.08 | Dec snow inch = 6.9
+}}
+
+{{Graph:Weather monthly history
+| table = Ncei.noaa.gov/weather/Albuquerque, New Mexico.tab
+| title = Albuquerque monthly weather statistics
+}}
+
+[[file:Monthly Climate Normals (1991-2020) - Albuquerque Area,NM (ThreadEx).svg|thumb|right|Climate chart for Albuquerque]]
+
+Albuquerque is located near the crossroads of several ecoregions. According to the [[U.S. Environmental Protection Agency]],<ref>{{Cite web|url=https://www.epa.gov/eco-research/ecoregion-download-files-state-region-6|title=Ecoregion Download Files by State - Region 6|first=ORD|last=US EPA|date=March 9, 2016|website=US EPA|access-date=April 13, 2020|archive-url=https://web.archive.org/web/20191215174613/https://www.epa.gov/eco-research/ecoregion-download-files-state-region-6|archive-date=December 15, 2019|url-status=live}}</ref> the city is located in the southeastern edge of the [[Arizona/New Mexico Plateau]], with the [[Arizona/New Mexico Mountains ecoregion]] defining the adjacent Sandia-Manzano mountains, including the foothills in the eastern edges of the city limits, above Juan Tabo Boulevard. Though the city lies at the northern edge of the [[Chihuahuan Desert]] transitioning into the [[Colorado Plateau]], much of Albuquerque area west of the [[Sandia Mountains]] shares similar aridity, temperatures, and natural vegetation more with that of the Chihuahuan Desert, namely the desert grassland and sand scrub plant communities.<ref>{{Cite web|url=https://aces.nmsu.edu/pubs/_circulars/CR374/#1|title=NMSU: New Mexico Range Plants|website=aces.nmsu.edu|access-date=April 13, 2020|archive-url=https://web.archive.org/web/20190503163417/https://aces.nmsu.edu/pubs/_circulars/CR374/#1|archive-date=May 3, 2019}}</ref>
+
+The eastern portion of the greater Albuquerque area are known as the East Mountain area, and they are within the [[Southwestern Tablelands]], sometimes considered a southern extension of the central high plains and northeast New Mexico highlands. To the north is the [[Southern Rockies]] ecoregion in the Jemez Mountains.
+
+The average annual precipitation is less than half of evaporation supporting an [[arid climate]] (''BWk''), and no month's daily temperature mean is below freezing. The climate is rather mild compared to parts of the country further north or further south. However, due to the city's high elevation, low temperatures in winter often dip below freezing. Varied terrain and elevations within the city and outlying areas cause daily temperature differentials to vary. The daily average temperatures in December and January, the coldest months, are above freezing at {{convert|36.9|°F}} and {{convert|37.4|°F}}, respectively.
+
+Albuquerque's climate is usually sunny and dry, with an average of 3,415 sunshine hours per year.<ref name="noaasun" /><ref name="NOAA">{{cite web
+ |url          = http://cdo.ncdc.noaa.gov/climatenormals/clim20/nm/290041.pdf
+ |title        = NCDC: U.S. Climate Normals
+ |access-date   = October 31, 2010
+|archive-url  = https://web.archive.org/web/20140723140613/http://cdo.ncdc.noaa.gov/climatenormals/clim20/nm/290041.pdf
+ |archive-date = July 23, 2014
+}}</ref> Brilliant sunshine defines the region, averaging 278&nbsp;days a year; periods of variably mid and high-level cloudiness temper the sun, mostly during the cooler months. Extended cloudiness lasting longer than two or three days is rare.
+
+Winter typically consists of cool days and cold nights, except following passage of the strongest cold fronts and arctic airmasses when daytime temperatures remain colder than average; overnight temperatures tend to fall below freezing between about 10 pm and 8 am in the city, except during colder airmasses, plus colder spots of the valley and most of the East Mountain areas. December, the coolest month, averages {{convert|36.9|°F|1}}; the median or normal coolest temperature of the year is {{convert|12|°F|0}}, while the average or mean is about {{convert|11|°F|0}}. It is typical for daily low temperatures in much of late December, and January, and February to be below freezing, with a long-term average of 93 days per year falling to or below freezing, and two days failing to rise above freezing. In March, winds dominate as the temperatures began to warm late in the winter.<ref name = NOAA1/>
+
+Spring is windy, sometimes unsettled with rain, though spring is usually the driest part of the year in Albuquerque. Late March and April tend to experience many days with the wind blowing at {{convert|20|to|30|mi/h|km/h|abbr=on}}, and afternoon gusts can produce periods of blowing sand and dust.{{citation needed|date=June 2024}} In May, the winds tend to subside as a summer-like airmass and temperatures begin to occur into with regularity. The warming and drying trend continues into June. By mid-June, temperatures can exceed {{convert|100|°F|0}}.
+
+Summer is lengthy and very warm to hot, relatively tolerable for most people because of low humidity and air movement. The exception is some days during the [[New Mexico monsoon]], when daily humidity remains relatively high, especially in July and August. 2.6 days of {{convert|100|°F|0}} or warmer highs occur annually on average, mostly in June and July and rarely in August due in part to the monsoon; an average of 64 days experience {{convert|90|°F|0}} or warmer highs.<ref name = NOAA1/> Despite the rarity of such heat, 28 days with highs at or above {{convert|100|°F|0}} occurred in the summer of 1980 at Albuquerque's Sunport. In September, the monsoon begins to weaken.<ref>{{Cite web|url=https://www.weather.gov/abq/clifeatures_100degrees|title=100° Facts for Albuquerque and New Mexico|first=NOAA|last=US Department of Commerce|website=www.weather.gov|access-date=April 13, 2020|archive-url=https://web.archive.org/web/20200215231250/https://www.weather.gov/abq/clifeatures_100degrees|archive-date=February 15, 2020}}</ref> Portions of the valley and West Mesa locations experience more high temperatures above {{convert|90|°F|0}} and {{convert|100|°F|0}} as part of normal or extreme weather each summer.
+
+Autumn is generally cool in the mornings and nights but sees less rain than summer, though the weather can be more unsettled closer to winter, as colder airmasses and weather patterns build in from the north and northwest with more frequency.{{citation needed|date=June 2024}} Occasionally, snow will fall in late autumn in December; rarely in late November.
+
+Precipitation averages {{convert|8.84|in|mm|0}} per year. On average, January is the driest month, while July and August are the wettest months, as a result of shower and thunderstorm activity produced by the monsoon prevalent over the Southwestern United States. Most rain occurs during the late summer monsoon season, typically starting in early June and ending in mid-September.{{citation needed|date=June 2024}}
+
+Albuquerque averages {{convert|7.9|in|cm|0}} of snow per winter, and experiences several accumulating snow events each season. Locations in the Northeast Heights and Eastern Foothills tend to receive more snowfall due to each region's higher elevation and proximity to the mountains. The city was one of several in the region experiencing a severe winter storm on December 28–30, 2006, with locations in Albuquerque receiving between {{convert|10.5|and|26|in|cm}} of snow.<ref>{{cite web|url = http://www.srh.noaa.gov/abq/climate/Monthlyreports/December/2006/PNS12312006.htm|title = Preliminary total snowfall reports across central and northern New Mexico from the December 28–30 winter storm|date = December 31, 2006|access-date = August 5, 2009|publisher = National Weather Service Albuquerque, NM|archive-url = https://web.archive.org/web/20120223134054/http://www.srh.noaa.gov/abq/?n=monthly-summaries|archive-date = February 23, 2012|url-status = live}}</ref> More recently, a major winter storm in late February 2015 dropped up to a foot (30&nbsp;cm) of snow on most of the city. Such large snowfalls are rare occurrences during the period of record, and they greatly impact traffic movement and the workforce due to their rarity.{{citation needed|date=June 2024}}
+
+The mountains and highlands east of the city create a [[rain shadow]] effect, due to the drying of air descending the mountains; the Sandia Mountain foothills tend to lift any available moisture, enhancing precipitation to about {{convert|10–17|in|mm|0}} annually.{{citation needed|date=June 2024}} Traveling west, north, and east of Albuquerque, one quickly rises in elevation and leaves the sheltering effect of the valley to enter a noticeably cooler and slightly wetter environment.{{citation needed|date=June 2024}}  One such area is considered part of Albuquerque Metropolitan Area, commonly called the East Mountain area; it is covered in woodlands of juniper and piñon trees, a common trait of southwestern uplands and the southernmost Rocky Mountains.
+
+===Hydrology===
+
+Albuquerque's drinking water comes from a combination of Rio Grande water (river water diverted from the [[Colorado River]] basin through the [[San Juan–Chama Project]]<ref>{{cite web| title=Your Drinking Water| url=http://www.abcwua.org/Your_Drinking_Water.aspx| access-date=August 1, 2013| website=Albuquerque Bernalillo Water Authority| archive-url=https://web.archive.org/web/20130805163835/http://abcwua.org/Your_Drinking_Water.aspx| archive-date=August 5, 2013}}</ref>) and a delicate [[aquifer]] that has been described as an "underground [[Lake Superior]]". The Albuquerque Bernalillo County Water Utility Authority (ABCWUA) has developed a water resources management strategy that pursues [[water conservation|conservation]] and the direct extraction of water from the Rio Grande for the development of a stable underground aquifer in the future.<ref>{{cite journal| last=Odenwald |first=Arlene Cinelli |date=April 1993 |title=Protecting the aquifer: Albuquerque reacting |journal=New Mexico Business Journal |volume=17 |issue=4 |pages=38–39 |issn=0164-6796 |url=http://findarticles.com/p/articles/mi_m5092/is_n4_v17/ai_13856429 |archive-url=https://web.archive.org/web/20081109101124/http://findarticles.com/p/articles/mi_m5092/is_n4_v17/ai_13856429 |archive-date=November 9, 2008 |access-date=December 23, 2008}}</ref><ref name="water strategy">{{cite web| title=Albuquerque Bernalillo County Water Utility Authority: Water Resource Management Strategy |website=Albuquerque Bernalillo County Water Utility Authority |date=January 10, 2007 |url=http://www.abcwua.org/pdfs/WRMS_Update_101207.pdf |access-date=October 18, 2008 |archive-url=https://web.archive.org/web/20081029020514/http://www.abcwua.org/pdfs/WRMS_Update_101207.pdf |archive-date=October 29, 2008 }}</ref>
+
+[[file:Tingley Beach Albuquerque NM.jpg|thumb|Tingley Beach in Old Town, Albuquerque, a pond in a former watercourse by the Rio Grande]]
+
+The aquifer of the [[Rio Puerco (Rio Grande)|Rio Puerco]] is too [[brackish water|saline]] to be cost-effectively used for drinking. Much of the [[rain]]water Albuquerque receives does not recharge its aquifer. It is diverted through a network of paved channels and [[Arroyo (watercourse)|arroyo]]s and empties into the [[Rio Grande]].
+
+Of the {{convert|62780|acre.ft}} per year of the water in the upper [[Colorado River]] basin entitled to municipalities in New Mexico by the [[Colorado River Compact|Upper Colorado River Basin Compact]], Albuquerque owns 48,200. The water is delivered to the Rio Grande by the [[San Juan–Chama Project]]. The project's construction was initiated by legislation signed by President [[John F. Kennedy]] in 1962, and was completed in 1971. This diversion project transports water under the [[continental divide]] from [[Navajo Lake]] to Lake Heron on the Rio Chama, a tributary of the Rio Grande. In the past much of this water was resold to downstream owners in Texas. These arrangements ended in 2008 with the completion of the ABCWUA's Drinking Water Supply Project.<ref>The project's page at the United States Bureau of Reclamation's website {{cite web |url=http://www.usbr.gov/projects/Project.jsp?proj_Name=San%20Juan-Chama%20Project |title=Project details - San Juan-Chama Project - Bureau of Reclamation |access-date=October 2, 2012 |archive-url=https://web.archive.org/web/20120925123715/http://www.usbr.gov/projects/Project.jsp?proj_Name=San%20Juan-Chama%20Project |archive-date=September 25, 2012 }}</ref>
+
+The ABCWUA's Drinking Water Supply Project uses a system of adjustable-height dams to skim water from the Rio Grande into [[sluice]]s that lead to [[water treatment]] facilities for direct [[Water purification|conversion to potable water]]. Some water is allowed to flow through central Albuquerque, mostly to protect the endangered [[Rio Grande silvery minnow]]. [[Sewage treatment|Treated]] effluent water is recycled into the Rio Grande south of the city. The ABCWUA expects river water to comprise up to seventy percent of its water budget in 2060. [[Groundwater]] will constitute the remainder. One of the policies of the ABCWUA's strategy is the acquisition of additional river water.<ref name="water strategy"/><ref>{{cite web |url=http://www.abcwua.org/content/view/34/27/ |title=The Albuquerque Bernalillo County Water Utility Authority |publisher=Abcwua.org |date=December 7, 2008 |access-date=July 2, 2010 |archive-url=https://web.archive.org/web/20100507020947/http://www.abcwua.org/content/view/34/27/ |archive-date=May 7, 2010}}</ref> {{Rp|Policy G, 14}}
+
+==Demographics==
+
+Residents of the city are [[demonym|known as]] ''Burqueños'' (masculine grammatical gender) or  ''Burqueñas'' (feminine grammatical gender), or more rarely as simply "Albuquerqueans".
+<ref name="Guy 2021">{{cite web | last=Honeycutt | first=Curtis | title=Grammar guy: Spelling and expelling demonyms | website=Herald and News | date=August 25, 2021 | url=https://www.heraldandnews.com/news/syndicated_columns/grammar-guy-spelling-and-expelling-demonyms/article_a6108414-a59c-5979-bbe0-70f7e922fbfc.html | access-date=November 4, 2021}}</ref> The Spanish terms are from [[Chicano]] slang ([[Caló (Chicano)|Caló]]).<ref>{{cite web |date=August 16, 2017 |title=Tim Keller |url=https://www.koat.com/article/tim-keller/12014677 |archive-url=https://web.archive.org/web/20171021201006/https://www.koat.com/article/tim-keller/12014677 |archive-date=October 21, 2017 |access-date=September 6, 2023 |website=KOAT |language=en}}</ref> "Burqueño" is also sometimes used as an adjective for anything related to that city,<ref>{{cite web |date=March 1, 2012 |title=She's Got A Moch: Shit Burqueñas Say {{!}} Weekly Alibi |url=https://alibi.com/feature/shes-got-a-moch-shit-burquenas-say/ |archive-url=https://web.archive.org/web/20230906014731/https://alibi.com/feature/shes-got-a-moch-shit-burquenas-say/ |archive-date=September 6, 2023 |access-date=September 6, 2023 |language=en-US}}</ref> or to specifically refer to someone who identifies with the Burqueños New Mexico prison gang, or one of the [[barrio]]s within Albuquerque.<ref>{{cite web
+ | date         = October 15, 2018
+ | title        = Fabian Gonzales' tattoo could solve gang-tie debate
+ | url          = https://koat.com/article/fabian-gonzales-tattoo-could-solve-gang-tie-debate/23781514
+ | archive-url  = https://web.archive.org/web/20230906014159/http://koat.com/article/fabian-gonzales-tattoo-could-solve-gang-tie-debate/mraid.js
+ | archive-date = September 6, 2023
+ | access-date  = September 6, 2023
+ | website      = KOAT
+ | language     = en
+}}</ref><ref>{{cite web
+ | date         = June 27, 2015
+ | title        = 1 injured, 1 in custody after possible gang related shooting
+ | url          = https://krqe.com/news/1-injured-1-in-custody-after-possible-gang-related-shooting
+ | access-date  = September 6, 2023
+ | website      = KRQE NEWS 13 - Breaking News, Albuquerque News, New Mexico News, Weather, and Videos
+ | language     = en-US
+}}</ref> Burqueños often speak [[New Mexican Spanish]] and [[Western American English#New Mexico|Western American English]].
+
+{{US Census population
+<!---->                                          | 1880 = 2315   | 1890 = 3785
+ | 1900 = 6238   | 1910 = 11020  | 1920 = 15157  | 1930 = 26570  | 1940 = 35449
+ | 1950 = 96815  | 1960 = 201189 | 1970 = 244501 | 1980 = 332920 | 1990 = 384736
+ | 2000 = 448607 | 2010 = 545852 | 2020 = 564559
+ | footnote = U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|website=US Census Bureau|access-date=June 4, 2015|archive-url=https://web.archive.org/web/20150426102944/http://www.census.gov/prod/www/decennial.html|archive-date=April 26, 2015|url-status=live}}</ref><br />2010–2020<ref name="QuickFacts" /><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N,NAME&for=place:*&in=state:35&key=5ccd0821c15d9f4520e2dcc0f8d92b2ec9336108|title=Census Population API|publisher=United States Census Bureau|accessdate=October 12, 2022}}</ref>
+}}
+
+{|class="wikitable sortable collapsible mw-collapsed" style="font-size: 90%;"
+|-
+! Historical racial profile !! 2020<ref name="2020Census">{{cite web |url=https://www.census.gov/quickfacts/albuquerquecitynewmexico |title=U.S. Census Bureau QuickFacts: Albuquerque city, New Mexico |publisher=U.S. Census Bureau }}</ref>!! 2010<ref>{{cite web |url=http://quickfacts.census.gov/qfd/states/35/3502000.html |title=State & County QuickFacts: Albuquerque (city), New Mexico |publisher=U.S. Census Bureau |archive-url=https://web.archive.org/web/20120418003548/http://quickfacts.census.gov/qfd/states/35/3502000.html |archive-date=April 18, 2012 }}</ref>!! 1990<ref name="census1"/> !! 1970<ref name="census1"/> !! 1950<ref name="census1"/>
+|-
+| [[Hispanic and Latino Americans|Hispanic or Latino]] (of any race) || 49.2% || 46.7% || 34.5% || 33.1% || N/A
+|-
+| [[White American|White]] || 70.3% || 69.7% || 78.2% || 95.7% || 98.0%
+|-
+|&nbsp;—[[Non-Hispanic whites|Non-Hispanic]] || 38.3% || 42.1% || 58.3% || 63.3% || N/A
+|-
+|American Indian and Alaska Native persons
+|4.5%
+|4.6%
+|
+|
+|
+|-
+| [[African American|Black or African American]] || 3.1% || 3.3% || 3.0% || 2.2% || 1.3%
+|-
+| [[Asian American|Asian]] || 3% || 2.6% || 1.7% || 0.3% || 0.1%
+|}
+
+According to the 2020 U.S. census, there were 564,559 people and 229,701 households in Albuquerque. The population density was {{convert|2,907.6|PD/sqmi|PD/km2|sp=us|adj=off}}, making Albuquerque one of the [[List of United States cities by population density|least densely populated large cities]] in the U.S.
+
+In 2020, the racial makeup of the city (including Latinos in the racial counts) was 60.3% [[White American|White]],<ref>The U.S. census does not account for [[Mestizo]] heritage.</ref> 4.5% Native American, 3.1% [[African American|Black or African American]], 3% [[Asian American|Asian]], 0.1% Native Hawaiian and other [[Pacific Islander]], and 9.2% [[Multiracial American|Multiracial]] (two or more races).<ref name="2020Census" /> About half of all residents (47.7%) were [[Hispanic and Latino Americans|Hispanic or Latino]], of any race while [[non-Hispanic whites]] accounted for 37.7%.<ref name=2020CensusP2/>
+
+===2020 census===
+{| class="wikitable" style="text-align:center;"
+|+'''Albuquerque, New Mexico – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Albuquerque city, New Mexico |url=https://data.census.gov/table?g=160XX00US3502000&tid=DECENNIALSF12000.P004|publisher=[[United States Census Bureau]] |access-date=}}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Albuquerque city, New Mexico |url=https://data.census.gov/table?q=p2&g=160XX00US3502000&tid=DECENNIALPL2010.P2|publisher=[[United States Census Bureau]] |access-date=}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Albuquerque city, New Mexico |url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3502000&tid=DECENNIALPL2020.P2|publisher=[[United States Census Bureau]] |access-date=}}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|223,895
+|229,933
+|style='background: #ffffe6; |212,966
+|49.91%
+|42.12%
+|style='background: #ffffe6; |37.72%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|12,376
+|14,878
+|style='background: #ffffe6; |16,649
+|2.76%
+|2.73%
+|style='background: #ffffe6; |2.95%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|14,813
+|20,627
+|style='background: #ffffe6; |25,195
+|3.30%
+|3.78%
+|style='background: #ffffe6; |4.46%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|9,689
+|13,674
+|style='background: #ffffe6; |18,041
+|2.16%
+|2.51%
+|style='background: #ffffe6; |3.20%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|339
+|418
+|style='background: #ffffe6; |483
+|0.08%
+|0.08%
+|style='background: #ffffe6; |0.09%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|682
+|1,224
+|style='background: #ffffe6; |2,888
+|0.15%
+|0.22%
+|style='background: #ffffe6; |0.51%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|7,738
+|10,043
+|style='background: #ffffe6; |19,099
+|1.72%
+|1.84%
+|style='background: #ffffe6; |3.38%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|179,075
+|255,055
+|style='background: #ffffe6; |269,238
+|39.92%
+|46.73%
+|style='background: #ffffe6; |47.69%
+|-
+|'''Total'''
+|'''448,607'''
+|'''545,852'''
+|style='background: #ffffe6; |'''564,559'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+In 2010, about one-third of Albuquerque households (33.3%) had children under the age of 18, 43.6% were married couples living together, 12.9% had a female with no husband present, and 38.5% were non-families; 30.5% of all households were made up of individuals, and 8.4% had someone living alone who was 65 years of age or older. The average household size was 2.40 and the average family size was 3.02.
+
+In 2010, the age distribution was 24.5% under 18, 10.6% from 18 to 24, 30.9% from 25 to 44, 21.9% from 45 to 64, and 12.0% who were 65&nbsp;or older. The median age was 35 years. For every 100 females, there were 94.4 males. For every 100 females age 18 and over, there were 91.8 males.
+
+In 2010, the median income for a household in the city was $38,272, and the median income for a family was $46,979. Males had a median income of $34,208 versus $26,397 for females. The per capita income for the city was $20,884. About 10.0% of families and 13.5% of the population were below the poverty line, including 17.4% of those under age 18 and 8.5% of those age 65 or over.
+
+The [[Albuquerque metropolitan area]] had 923,630 residents in July 2020.<ref name="2020Pop"/> The area includes [[Rio Rancho, New Mexico|Rio Rancho]], [[Bernalillo, New Mexico|Bernalillo]], [[Placitas, Sandoval County, New Mexico|Placitas]], [[Zia Pueblo]], [[Los Lunas, New Mexico|Los Lunas]], [[Belen, New Mexico|Belen]], [[South Valley, New Mexico|South Valley]], [[Bosque Farms, New Mexico|Bosque Farms]], [[Jemez Pueblo]], [[Cuba, New Mexico|Cuba]], and part of [[Laguna Pueblo]]. This metro is part of the larger [[Albuquerque–Santa Fe–Los Alamos combined statistical area]] (CSA), with a population of 1,171,991 as of 2016. The CSA constitutes the southernmost point of the [[Southern Rocky Mountain Front]] [[megalopolis]], with a population of 5,467,633 according to the [[2010 United States census]], including other major [[Rocky Mountains|Rocky Mountain]] [[Mountain states|region]] cities such as [[Cheyenne, Wyoming|Cheyenne]], [[Wyoming]]; [[Denver]], [[Colorado]]; and [[Colorado Springs, Colorado]].
+
+===Religion===
+
+{{pie chart|label1=[[Irreligion|Unaffiliated]]|label2=[[Catholic Church|Catholic]]|label4=[[Mormonism|Mormon]]|label3=[[Protestantism|Protestant]]|label5=[[Buddhism]]|label6=[[Judaism|Jewish]]|label7=[[Islam]]|label8=[[Eastern Orthodox Church|Orthodox]]|label9=[[Hinduism]]|label10=Other faiths|color1=Whitesmoke|color2=DarkOrchid|color3=Dodgerblue|color4=Crimson|color5=Gold|color6=Blue|color7=Green|color8=DarkSlateBlue|color9=Orange|color10=DarkGrey|value1=52.8|value2=26.5|value3=16.3|value4=2.1|value5=1|value6=0.4|value7=0.3|value8=0.2|value9=0.1|value10=0.3|caption=Religion in Albuquerque<ref>{{cite web | url=https://dwellics.com/new-mexico/community-in-albuquerque | title=Explore the Community Dynamics of Albuquerque }}</ref>}}
+
+The majority of Albuquerque residents are Christian.<ref name=":0">{{cite web| url=https://www.bestplaces.net/religion/city/new_mexico/albuquerque| title=Albuquerque, New Mexico Religion| website=bestplaces.net| access-date=October 18, 2022| archive-url=https://web.archive.org/web/20211023170308/https://www.bestplaces.net/religion/city/new_mexico/albuquerque| archive-date=October 23, 2021}}</ref> Reflecting its long history as a Spanish city, [[Catholicism]] is the largest denomination; Catholics are served by the [[Roman Catholic Archdiocese of Santa Fe]], whose administrative center is located in Albuquerque.<ref>{{Cite web |title=Archdiocese of Santa Fe |url=https://archdiosf.org/ |access-date=October 18, 2022 |website=Archdiocese of Santa Fe |language=en}}</ref> Collectively, other Christian churches and organizations, such as the [[Eastern Orthodox Church]] and [[Oriental Orthodoxy]], among others, make up the second largest group. [[Baptists]] form the third largest Christian group, followed by [[Latter Day Saint movement|Latter Day Saints]], [[Pentecostalism|Pentecostals]], [[Methodism|Methodists]], [[Presbyterianism|Presbyterians]], [[Lutheranism|Lutherans]] and [[Episcopal Church (United States)|Episcopalians]].
+
+Judaism is the second-largest non-Christian religion in Albuquerque;<ref name=":0" /> [[Congregation Albert]], a [[Reform Judaism|Reform]] synagogue established in 1897, is the oldest extant Jewish organization in New Mexico.<ref name="congregationalbert.org" /> Islam is the next largest minority religion, with an estimated 3,000 to 5,000 adherents, representing 85% of the state's Muslim population.<ref>{{Cite news |last=Gorman |first=Steve |date=August 8, 2022 |title=New Mexico police seek public's help in probe of four Muslim slayings |language=en |work=Reuters |url=https://www.reuters.com/world/us/biden-stands-with-muslims-after-horrific-killings-new-mexico-2022-08-07/ |access-date=December 20, 2022}}</ref> The [[Islamic Center of New Mexico]] is the largest [[mosque]] in Albuquerque, hosting daily prayers and activities for both Muslims and non-Muslims.<ref>{{Cite web | title= About Us |url=https://icnmabq.com/about-us |access-date=October 18, 2022 |website=Islamic Center of New Mexico |language=en-US |archive-date=September 27, 2022 |archive-url=https://web.archive.org/web/20220927105222/http://icnmabq.com/about-us |url-status=dead }}</ref>
+
+The Albuquerque Sikh Gurudwara and Guru Nanak Gurdwara Albuquerque serve the city's Sikh population, while the main Hindu organizations are the Hindu Temple Society of New Mexico and Gayatri Temple.<ref>{{Cite web |last=HTSNM |title=HTSNM |url=https://htsnm.org/ |access-date=December 22, 2022 |website=HTSNM |language=en-US}}</ref> There are several Buddhist temples and centers throughout the city, representing different movements and schools, such as [[Zen]] and [[Soka Gakkai|Soka Gakki]].<ref>{{Cite web |title=Top 10 Best Buddhist Temples in Albuquerque, NM - Last Updated December 2022 |url=https://www.yelp.com/search?cflt=buddhist_temples&find_loc=Albuquerque%2C+NM |access-date=December 22, 2022 |website=Yelp |language=en-US}}</ref>
+
+===Homelessness===
+{{main|Homelessness in New Mexico}}
+Like many major American cities, Albuquerque struggles with homelessness, which has become more visible since the 2000s. According to Rock at Noon Day, a homeless services center, there were an estimated 4,000 to 4,500 homeless people living in the Albuquerque metropolitan area in 2019, with millennials and elderly accounting for the fastest growing segments.<ref name=":1">{{Cite web |title=Annual count shows city's homeless numbers up - Albuquerque Journal |url=https://www.abqjournal.com/1355819/annual-count-shows-citys-homeless-numbers-up.html |access-date=December 22, 2022 |website=www.abqjournal.com}}</ref> [[Albuquerque Public Schools]] spokeswoman Monica Armenta said the number of homeless children enrolled in district schools (meaning children from families that have no permanent address) has consistently ranged from 3,200 to 3,500. The Coordinated Entry System, a centralized citywide system used to track and fill supportive housing openings when they become available, shows that about 5,000 households experienced homelessness in 2018.<ref name=":1" /> Homelessness is particularly concentrated around Downtown, and also in the [[International District, Albuquerque, New Mexico|International District]] off Central Avenue, which suffers from chronic [[urban decay]] and drug use.<ref>{{cite web
+ |url          = https://abqjournal.com/1355819/annual-count-shows-citys-homeless-numbers-up.html
+ |publisher    = [[Albuquerque Journal]]
+ |title        = Annual count shows city's homeless numbers' up
+ |date         = August 2019
+ |author       = Nathanson, Rick
+ |access-date  = October 20, 2023
+|archive-date = March 24, 2023
+|archive-url  = https://web.archive.org/web/20230324194436/https://www.abqjournal.com/1355819/annual-count-shows-citys-homeless-numbers-up.html
+ |url-status   = dead
+}}</ref>
+
+==Arts and culture==
+
+{{see also|List of historic landmarks in Albuquerque, New Mexico}}
+
+[[file:Sandia Peak Tramway New Mexico adamselby.jpg|thumb|[[Sandia Peak Tramway]]]]
+
+Albuquerque hosts the [[Albuquerque International Balloon Fiesta|International Balloon Fiesta]], the world's largest gathering of hot-air balloons, taking place every October at Balloon Fiesta Park, with its 47-acre launch field.<ref>{{Cite news|url=https://www.nytimes.com/2007/07/20/travel/escapes/20Ahead.html|title=Up, Up and Gently Away|last=Dixon|first=Chris|newspaper=The New York Times |date=July 20, 2007 |access-date=September 15, 2018|archive-url=https://web.archive.org/web/20180915084723/https://www.nytimes.com/2007/07/20/travel/escapes/20Ahead.html|archive-date=September 15, 2018|url-status=live}}</ref> Another large venue is Expo New Mexico, where other annual events are held, such as North America's largest [[pow wow]] at the [[Gathering of Nations]], as well as the [[New Mexico State Fair]]. Other major venues throughout the metropolitan area include the [[National Hispanic Cultural Center]], the University of New Mexico's Popejoy Hall, [[Santa Ana Star Center]], and [[Isleta Amphitheater]]. [[Old Town Albuquerque]]'s Plaza, Hotel, and [[San Felipe de Neri Church]] hosts traditional fiestas and events such as weddings, also near Old Town are the [[New Mexico Museum of Natural History and Science]], [[Albuquerque Museum of Art and History]], [[Indian Pueblo Cultural Center]], [[Explora (Albuquerque, New Mexico)|Explora]], [[American International Rattlesnake Museum]], and [[Albuquerque Biological Park]]. Other notable museums in Albuquerque include the [[National Museum of Nuclear Science & History]] and the [[Anderson-Abruzzo Albuquerque International Balloon Museum|Anderson-Abruzzo Albuquerque International Balloon Fiesta Museum]] and more can be found [[:Category:Museums in Albuquerque, New Mexico|here]]. Located in [[Downtown Albuquerque]] are historic theaters such as the [[KiMo Theater]], which is located across the street from the [[New Mexico Holocaust & Intolerance Museum]], and the [[Albuquerque Little Theatre|Albuquerque Little Theater]]. Near the [[Albuquerque Plaza|Civic Plaza]] is the [[Al Hurricane]] Pavilion and [[Albuquerque Convention Center]] with its Kiva Auditorium. Due to its population size, the metropolitan area regularly receives most national and international music concerts, [[Broadway show]]s, and other large traveling events, as well as [[New Mexico music]], and [[Music of New Mexico|other local music performances]].
+
+[[file:Rio Grande Botanical Garden Pond.jpg|thumb|Albuquerque Botanical Gardens]]
+
+[[Sandia Peak Ski Area]], adjacent to Albuquerque, provides both winter and summer recreation in the [[Sandia Mountains]]. It features [[Sandia Peak Tramway]], the world's second-longest passenger aerial tramway, and the longest in the Americas. It stretches from the northeast edge of the city to [[Sandia Crest|Sandia Peak]], the summit of the ski resort, and has the world's third-longest single span. Elevation at the summit is roughly {{convert|10300|ft|m|abbr=on}} above sea level, or "ten-three".
+
+===Media and entertainment===
+
+{{further|Media in Albuquerque, New Mexico}}
+
+Albuquerque is a hub for [[production studio]]s, including [[Albuquerque Studios]], which is one of the primary productions hubs for [[Netflix]]. Several major motion pictures and television shows have been filmed and produced in Albuquerque, including scenes from ''[[Disney anthology television series|Walt Disney Presents]]'' [[Elfego Baca]],<ref>{{Cite web|url=http://www.westernclippings.com/remember/elfegobaca_doyouremember.shtml|title = Do You Remember... "The Nine Lives of Elfego Baca"}}</ref><ref name="Szasz 2006 pp. 261–274">{{cite journal | last=Szasz | first=Ferenc Morton | title=A New Mexican | journal=Journal of the Southwest | volume=48 | issue=3 | year=2006 | issn=0894-8410 | jstor=40170324 | pages=261–274 | url=http://www.jstor.org/stable/40170324 | access-date=July 17, 2022}}</ref><ref name="B 2012">{{cite web | title=LibGuides: ABQPedia: B | website=B | date=November 4, 2012 | url=https://abqlibrary.org/abqpedia/b | access-date=July 17, 2022}}</ref><ref name="New Mexico True 1970">{{cite web | title=Cerrillos New Mexico Ghost Town - Haunted Places: Old Abandoned Mining Towns | website=New Mexico True | url=https://www.newmexico.org/places-to-visit/ghost-towns/cerrillos/ | access-date=July 17, 2022}}</ref> ''[[The Muppet Movie]]'', the [[Breaking Bad (franchise)|''Breaking Bad'' franchise]],<ref>{{cite web |last=Janela |first=Mike |title=Breaking Bad Cooks Up Record-Breaking Formula for Guinness World Records 2014 Edition |url=http://www.guinnessworldrecords.com/news/2013/9/breaking-bad-cooks-up-record-breaking-formula-for-guinness-world-records-2014-edition-51000/ |work=Guinness World Records 2014 |date=September 4, 2013 |access-date=October 19, 2013 |archive-url=https://web.archive.org/web/20131024153945/http://www.guinnessworldrecords.com/news/2013/9/breaking-bad-cooks-up-record-breaking-formula-for-guinness-world-records-2014-edition-51000/ |archive-date=October 24, 2013 |url-status=live }}</ref><ref>{{cite news |last=Faust |first=Chris Gray |title='Breaking Bad' has been very good for Albuquerque |url=https://www.usatoday.com/story/travel/destinations/2013/08/11/breaking-bad-albuquerque-tourism/2636859/ |newspaper=[[USA Today]] |access-date=October 19, 2013 |date=August 11, 2013 |archive-url=https://web.archive.org/web/20131020154719/http://www.usatoday.com/story/travel/destinations/2013/08/11/breaking-bad-albuquerque-tourism/2636859/ |archive-date=October 20, 2013 |url-status=live }}</ref><ref>{{cite web |last=Verrier |first=Richard |title='Breaking Bad' Tourism Boost Will Last Long After Series Leaves Albuquerque |url=http://skift.com/2013/08/07/breaking-bad-tourism-boost-will-last-long-after-series-leaves-albuquerque/ |newspaper=Los Angeles Times |date=August 7, 2013 |access-date=October 19, 2013 |archive-url=https://web.archive.org/web/20131020233200/http://skift.com/2013/08/07/breaking-bad-tourism-boost-will-last-long-after-series-leaves-albuquerque/ |archive-date=October 20, 2013 |url-status=live }}</ref><ref>{{cite news |agency=Associated Press |title='Breaking Bad' brings tourists to Albuquerque for 'meth' treats like blue rock candy, bath salts |url=http://www.nydailynews.com/life-style/breaking-bad-boosts-albuquerque-tourism-article-1.1289815 |work=Daily News |location=New York |access-date=October 19, 2013 |archive-url=https://web.archive.org/web/20131021084834/http://www.nydailynews.com/life-style/breaking-bad-boosts-albuquerque-tourism-article-1.1289815 |archive-date=October 21, 2013 |url-status=live }}</ref><ref>{{cite web |last=Thoren |first=Laura |title=Buzz surrounds 'burial' for Walter White 'Breaking Bad' character to have services in ABQ cemetery |url=http://www.koat.com/news/new-mexico/albuquerque/buzz-surrounds-burial-for-walter-white/-/9153728/22514828/-/kmocfu/-/index.html?absolute=true |work=KOAT-TV 7 News | access-date=October 20, 2013 |archive-url=https://web.archive.org/web/20131023061915/http://www.koat.com/news/new-mexico/albuquerque/buzz-surrounds-burial-for-walter-white/-/9153728/22514828/-/kmocfu/-/index.html?absolute=true|archive-date=October 23, 2013}}</ref> ''[[The Avengers (2012 film)|The Avengers]]'',<ref>{{Cite news|url=http://ballantinespr.com/News/Pacifica_Ventures/avengers.html |title=Behind the Scenes: "The Avengers" in Albuquerque, NM |date=May 14, 2012 |archive-url=https://web.archive.org/web/20150505175412/http://ballantinespr.com/News/Pacifica_Ventures/avengers.html |archive-date=May 5, 2015 }}</ref><ref>{{cite web| url=http://www.visitalbuquerque.org/albuquerque/film-tourism/better-call-saul/| title=Better Call Saul in Albuquerque| website=visitalbuquerque.org| access-date=February 26, 2015| archive-url=https://web.archive.org/web/20150226152818/http://www.visitalbuquerque.org/albuquerque/film-tourism/better-call-saul/| archive-date=February 26, 2015| url-status=live}}</ref> ''[[A Million Ways to Die in the West]]'',<ref>Adrian Gomez, [https://www.abqjournal.com/408215/millions-of-eyeballs-on-state-as-movie-opens.html Millions of eyeballs on New Mexico as movie opens] {{Webarchive|url=https://web.archive.org/web/20180314104551/https://www.abqjournal.com/408215/millions-of-eyeballs-on-state-as-movie-opens.html |date=March 14, 2018 }}, Albuquerque Journal, May 30, 2014</ref> ''[[In Plain Sight]]'', ''[[Speechless (1994 film)|Speechless]]'', ''[[Daybreak (2019 TV series)|Daybreak]]'', ''[[Just Getting Started (2017 film)|Just Getting Started]]'', and ''[[Stranger Things]]'' [[Stranger Things (season 4)|season 4]]. [[NBCUniversal]] also has a sizable and expanding presence in the city, as do independent [[media franchise|multimedia franchise]] studios.<ref name="KRWG-2021">{{Cite web |date=June 24, 2021 |title=NBC Universal Officially Opens its New Mexico Production Facility |url=https://www.krwg.org/post/nbcuniversal-officially-opens-its-new-mexico-production-facility |access-date=August 8, 2021 |website=www.krwg.org |language=en}}</ref>
+
+Numerous works of fiction take place, either fully or in part, in the Albuquerque metropolitan area including ''[[Albuquerque (film)|Albuquerque]]'' (1948 Western), ''[[Bless Me, Ultima]]'', ''[[The Good, the Bad, and the Ugly]]'', ''[[Breaking Bad]]'' (along with its spin-offs ''[[Better Call Saul]]'' and ''[[El Camino: A Breaking Bad Movie|El Camino]]''), and ''[[High School Musical (franchise)|High School Musical]]''.<ref>Singh, Olivia. [https://www.insider.com/high-school-musical-movies-facts-2019-1], ''Insider'', January 17, 2020.</ref> The city is referenced in [[Billy Mize]]'s 1967 album ''Lights of Albuquerque'', [[Jim Glaser]]'s 1986 song "The Lights of Albuquerque", [[Neil Young]]'s song "[[Tonight's the Night (Neil Young album)|Albuquerque]]", and [["Weird" Al Yankovic]]'s song "[[Albuquerque (song)|Albuquerque]]". The city is referenced in "[[Hungry, Hungry Homer]]", the 15th episode of the [[The Simpsons (season 12)|twelfth season]] of ''[[The Simpsons]]'', which features Albuquerque as the location where the owners of the Springfield Isotopes baseball team wish to relocate; the episode inspired the name of the real [[Albuquerque Isotopes]] [[Minor League Baseball|Minor League]] team.<ref>Draper, Heather. [http://www.bizjournals.com/denver/news/2014/09/17/colorado-rockies-drop-sky-sox-pick-up-albuquerque.html Colorado Rockies drop Sky Sox, pick up Albuquerque Isotopes] {{Webarchive|url=https://web.archive.org/web/20140925004053/http://www.bizjournals.com/denver/news/2014/09/17/colorado-rockies-drop-sky-sox-pick-up-albuquerque.html |date=September 25, 2014 }}, ''Denver Business Journal'', September 17, 2014.</ref> Many [[Bugs Bunny]] cartoon [[Short film|shorts]] feature Bugs traveling around the world by burrowing underground. Ending up in the wrong place, Bugs consults a map, complaining, "I knew I should have taken that left toin at Albakoykee (left turn at Albuquerque)." Failure to do so can somehow result in Bugs ending up thousands of miles off-course. (Bugs first uses that line in 1945's ''[[Herr Meets Hare]]''.)<ref name="bcdb">{{Cite news|url=http://blog.bcdb.com/cartoon-day-herr-meets-hare-5572/|title=Herr Meets Hare|publisher=BCDB|date=January 10, 2013 |url-status=dead|archive-url=https://archive.today/20130215142153/http://blog.bcdb.com/cartoon-day-herr-meets-hare-5572/|archive-date=February 15, 2013}}</ref>
+
+The city is served by one major newspaper, the ''[[Albuquerque Journal]],'' which, along with ''[[Albuquerque the Magazine]]'', is distributed throughout the [[Southwestern United States]] and catalogued by the [[Library of Congress]]. ''The Journal'' is New Mexico's most widely circulated newspaper, and used to compete with ''[[The Albuquerque Tribune]]'' until 2008; today ''The Journal'' competes with ''[[The Santa Fe New Mexican]]'' and ''[[Las Cruces Sun-News]]''. The Albuquerque metropolitan area itself has other local periodicals, ''[[Valencia County News-Bulletin]]'', ''[[Rio Rancho, New Mexico|Rio Rancho]] Observer'', ''[[Corrales, New Mexico|Corrales]] Comment'', and the student newspapers of ''The Lobo'' at [[University of New Mexico]] and ''CNM Chronicle'' at [[Central New Mexico Community College]].
+
+Albuquerque is also home to numerous radio and television stations that serve the metropolitan and outlying rural areas. Albuquerque is home to eighteen broadcast television stations, including [[KOB (TV)|KOB]], [[KRQE]], [[KOAT-TV]], and [[KLUZ-TV]], although most households are served by direct [[Cable television|cable]] network connections. [[Comcast|Comcast Cable]] nearly has a monopoly on terrestrial cable service in the city, but not throughout the entire Albuquerque-Santa Fe [[media market]], which is ranked as the 48th largest television market in the United States, Comcast shares the metropolitan market with [[Cable One]], Unite Private Networks, and various satellite and wireless providers.<ref>{{cite web |title=2021 Nielsen DMA Rankings |url=https://oaaa.org/Portals/0/Public%20PDFs/OAAA%202021%20NIELSEN%20DMA%20Rankings%20Report.pdf |url-status=live |archive-url=https://web.archive.org/web/20220224031435/https://oaaa.org/Portals/0/Public%20PDFs/OAAA%202021%20NIELSEN%20DMA%20Rankings%20Report.pdf |archive-date=February 24, 2022 |access-date=March 10, 2022 |work=Out of Home Advertising Association of America}}</ref>
+
+[[Christian media]] outlets in the city include [[Trinity Broadcasting Network]] which owns the [[KNAT-TV]] signal, and independent Christian broadcasting exists on [[KAZQ]]. Each of the Albuquerque metropolitan area's megachurches have media presence with broadcasts of their sermons, those include Legacy, Calvary, and Sagebrush. [[Christian radio]] is found on FM and AM through [[KLYT]], [[KSVA]], [[KDAZ]], [[KFLQ]], and [[KKIM (AM)|KKIM]].
+
+====Radio and music====
+
+One of the longest running [[AM broadcasting|AM broadcasts]] in the United States is an [[ABC News Radio]] station called [[KKOB (AM)]].<ref>[https://babel.hathitrust.org/cgi/pt?id=umn.319510008420257&view=1up&seq=363 "New Stations"], ''Radio Service Bulletin'', May 1, 1922, page 5. Three month license, Serial no. 601, issued April 5, 1922, authorizing operation on 360 and 485 meters (833 and 619 kHz). The KOB [[call sign]] had previously been assigned to the ''Princess Anne'', before its February 2, 1920, shipwreck on Rockaway Shoals, Long Island. ([https://archive.org/stream/radiobroadcast13gardrich#page/150/mode/1up "Broadcast Station Calls With a Past"] by William Fenwick, ''Radio Broadcast'', July 1928, page 150.)</ref> The first officially licensed [[FM broadcasting|FM radio]] broadcast in Albuquerque was [[KANW]] which mostly broadcasts the [[New Mexico music]] genre and [[NPR]] programming.<ref>{{Cite book |last1=Broderick |first1=Gertrude G. |url=https://catalog.hathitrust.org/Record/100669725 |title=List of educational AM and FM radio, and television stations by state and city. |last2=United States |date=1958 |publisher=U.S. Dept. of Health, Education and Welfare. Office of Education |location=Washington}}</ref><ref>{{Cite web |title=KANW - Homepage |url=https://www.kanw.com/ |access-date=October 18, 2022 |website=KANW {{!}} New Mexico Public Radio |language=en}}</ref>
+
+Performers such as [[Al Hurricane]], [[Al Hurricane Jr.|Al Hurricane Jr]], [[Lorenzo Antonio]], and [[Sparx (American band)|Sparx]] popularized New Mexico's Hispano and Native American folk genre by blending it with [[rockabilly]], [[jazz]], [[Western music (North America)|Western]], [[Norteño (music)|Norteño]], [[Latin pop]], and [[rock music]].<ref name="Arellano 2017">{{cite web | last=Arellano | first=Gustavo | title=The 10 Best Songs of New Mexico Music, America's Forgotten Folk Genre | website=Latino USA | date=November 8, 2017 | url=https://www.latinousa.org/2017/11/08/10-best-songs-new-mexico-music-americas-forgotten-folk-genre/ | access-date=May 17, 2022}}</ref> Then mayor [[Richard J. Berry]] named the center stage of [[Albuquerque Plaza]] the "Al Hurricane Pavilion".<ref name="City of Albuquerque Tribute">{{cite web |date=March 14, 2022 |title=Tribute to a Legend: "The Godfather" Al Hurricane |url=https://www.cabq.gov/council/events/tribute-to-a-legend-201cthe-godfather201d-al-hurricane |access-date=May 17, 2022 |website=City of Albuquerque}}</ref><ref name="Interns 2017">{{cite web |last1=Lamadrid |first1=Enrique |last2=Martinez |first2=Ashley |date=October 31, 2017 |title=Viejo el viento - Remembering Al Hurricane |url=https://folklife.si.edu/talkstory/viejo-el-viento-remembering-al-hurricane |access-date=May 17, 2022 |website=Smithsonian Center for Folklife and Cultural Heritage}}</ref> Regional folk and country music continues to be played on local radio, such as the New Mexico music genre specific [[KANW]], as well as [[KNMM]] on Saturdays, country radio stations [[KRST|KRST "92.1"]] and [[KBQI|KBQI "The Big-I 107.9"]], along with KBQI's [[classic country]] "98.1 The Bull", and Regional Mexican radio on [[KLVO (FM)|KLVO "Radio Lobo 97.7"]].
+
+Other forms of [[American popular music]] are represented on [[FM radio]]: [[contemporary hit radio]] is featured on [[KOBQ]]. During the 1990s, the [[urban contemporary music]] radio format had two major stations, on [[KKSS|"KISS 97.3" KKSS]] and [[KXOT (FM)|"WILD 106" KDLW]].<ref name="Billboard p. 1-PA63">{{cite book | title=Billboard | date=November 28, 1998 | publisher=Nielsen Business Media, Inc. | issn=0006-2510 | url=https://books.google.com/books?id=MAoEAAAAMBAJ&pg=RA1-PA63 | language=de | access-date=November 13, 2022 | page=1-PA63}}</ref> Today, KISS 97.3 still exists, though WILD has changed to a variety of formats. In the 2000s [[modern rock]] stations focusing on [[alternative rock]], [[nu metal]], and [[adult contemporary music]] became popular in the city, including the FM station [[KPEK|KPEK "100.3 The Peak"]]. During this time, [[contemporary Christian music]] garnered success with [[KLYT]], branded as M88 in its earlier days, due to the crossover of [[Christian rock]] and [[Christian hip hop]] with popular music.<ref name="Scarantino 2020">{{cite web | last=Scarantino | first=Jim | title=Tattooed Christians | website=alibi | date=September 3, 2020 | url=https://alibi.com/news/17256/story.html | access-date=November 13, 2022 | archive-date=November 13, 2022 | archive-url=https://web.archive.org/web/20221113192116/https://alibi.com/news/17256/story.html | url-status=dead }}</ref><ref name="alibi 2020">{{cite web | title=M88 | website=alibi | date=September 3, 2020 | url=https://alibi.com/index.php?tag=M88 | access-date=November 13, 2022 | archive-date=November 13, 2022 | archive-url=https://web.archive.org/web/20221113192116/https://alibi.com/index.php?tag=M88 | url-status=dead }}</ref>
+
+Music groups based in Albuquerque include [[A Hawk and A Hacksaw]], [[Beirut (band)|Beirut]], [[The Echoing Green (band)|The Echoing Green]], [[The Eyeliners]], [[Hazeldine (band)|Hazeldine]], [[Leiahdorus]], [[Oliver Riot]], [[Scared of Chaka]], and [[The Shins]].
+
+[[Talk radio]] has several outlets in the Albuquerque area. Including a public radio station run by The University of New Mexico [[KUNM|KUNM-FM]],<ref>{{Cite web |title=KUNM - Homepage |url=https://www.kunm.org/ |access-date=October 18, 2022 |website=KUNM |language=en}}</ref> for [[conservative talk radio]] there is [[KIVA (AM)|KIVA]] "The Rock of Talk" owned by Eddy Aragon,<ref name="Albuquerque Journal Eddy Aragon 2021">{{cite web | title=Q&A mayoral candidate Edward Joseph Aragon Jr. | website=Albuquerque Journal | date=September 28, 2021 | url=https://www.abqjournal.com/2433178/qa-mayoral-candidate-edward-joseph-aragon-jr.html | access-date=November 13, 2022}}</ref> and [[KKOB (AM)|KKOB]] has a [[Cumulus Media]] station affiliated with [[ABC News Radio]]. As for [[sports radio]] there is [[KNML]] "The Sports Animal" and [[KQTM]] "The Team".
+
+===Food and agriculture===
+
+As a large and multicultural city, Albuquerque is home to a variety of [[global cuisine]]s, in addition to local [[New Mexican cuisine]]. [[:Category:Restaurants in Albuquerque, New Mexico|Many local restaurants]] receive statewide attention, with several becoming [[restaurant chain|chains]]; the city hosts the headquarters of [[Blake's Lotaburger]], [[Little Anita's]], [[Twisters (restaurant)|Twisters]], [[Dion's]], [[Boba Tea Company]], and [[Sadie's]], most of which offer New Mexican fare.
+
+As the focus of the [[Middle Rio Grande Conservancy District]], the city is punctuated by agricultural [[acequia]]s that contrast with the otherwise heavily urban settings. Crops such as [[New Mexico chile]] are grown along the entire Rio Grande; the red or green chile pepper is a staple of New Mexican cuisine and widely available in restaurants, including national fast-food chains. Likewise, the Albuquerque metro is a major contributor to the [[Middle Rio Grande Valley AVA]], where [[New Mexico wine]] is produced at several vineyards; the river also provides trade access to the [[Mesilla Valley]] to the south (containing [[Las Cruces, New Mexico]] and [[El Paso, Texas]]), with its [[Mesilla Valley AVA|own wine offerings]], and the adjacent [[Hatch, New Mexico|Hatch Valley]], which is well known for its New Mexico chile peppers. Albuquerque also has a burgeoning [[List of breweries in New Mexico|brewery scene.]]
+
+===International Balloon Fiesta===
+
+{{main|Albuquerque International Balloon Fiesta}}
+
+[[file:ABQ Balloon Fiesta.jpg|alt=|thumb|[[Albuquerque International Balloon Fiesta]]]]
+
+The Albuquerque International Balloon Fiesta takes place at Balloon Fiesta Park the first week of October. Although the global COVID-19 forced the cancellation of the 2020 event, The Albuquerque International Balloon Fiesta successfully returned in 2021. It is one of Albuquerque's biggest attractions. Hundreds of hot-air balloons are seen every day, and there is live music, arts and crafts, and food.<ref>{{cite web| url=http://www.balloonfiesta.com/guest-guide| title=Guest Info| website=Albuquerque International Balloon Fiesta| access-date=September 11, 2016| archive-url=https://web.archive.org/web/20160906111828/http://www.balloonfiesta.com/guest-guide| archive-date=September 6, 2016}}</ref>
+
+===Architecture===
+
+{{see also|list of tallest buildings in Albuquerque}}
+
+[[file:2013, A Walk in Old Town Albuquerque - panoramio.jpg|thumb|right|225px|[[Old Town Albuquerque]] is filled with [[Territorial Style]] architecture and design.]]
+
+The original architecture of ''La Villa de Albuquerque'' is referred to as the [[Territorial Style]], it was revitalized as the [[Territorial Revival architecture]]. Architect [[John Gaw Meem]] is often credited with this revival.{{citation needed|date=June 2024}}
+
+John Gaw Meem is also credited with developing and popularizing the [[Pueblo Revival]] style, which was based in [[Santa Fe, New Mexico|Santa Fe]] but received an important Albuquerque commission in 1933 as the architect of the [[University of New Mexico]]. He retained this commission for the next quarter-century and developed the university's distinctive Southwest style.<ref name="Simmons" /> {{Rp|317}} Meem also designed the [[Cathedral Church of St. John (Albuquerque, New Mexico)|Cathedral Church of St. John]] in 1950.<ref name="diocese">{{cite web| url=http://www.dioceserg.org/pages/view/history_of_the_diocese| title=History of the Diocese|publisher=Diocese of the Rio Grande| access-date=January 3, 2014| archive-url=https://web.archive.org/web/20140328194349/http://www.dioceserg.org/pages/view/history_of_the_diocese| archive-date=March 28, 2014}}</ref>
+
+[[Pueblo Deco architecture]] was derived from Pueblo and Territorial styles meeting the [[Art Deco]] movement, and it is richly featured in [[downtown Albuquerque]]. Albuquerque boasts a unique nighttime cityscape, personified in the lights of Albuquerque, a common motif in art and song.<ref name="When The Cowboy Sings 2021">{{cite web | title=Jim Glaser performs "The Lights of Albuquerque" Live On The Marty Stuart Show. | website=When The Cowboy Sings | date=May 2, 2021 | url=https://whentcowboysings.com/jim-glaser-the-lights-of-albuquerque/ | access-date=June 30, 2022}}</ref><ref name="AllMusic">{{cite web | title=Lights of Albuquerque by Billy Mize - Track Info | website=AllMusic | url=https://www.allmusic.com/song/lights-of-albuquerque-mt0055255738 | access-date=June 30, 2022}}</ref><ref name="AllMusic 2007">{{cite web | title=The Lights of Albuquerque by Pat Duran - Track Info | website=AllMusic | date=February 14, 2007 | url=https://www.allmusic.com/song/the-lights-of-albuquerque-mt0016725986 | access-date=June 30, 2022}}</ref> The city lights twinkle and glitter from views on Nine Mile Hill, it was among [[Elvis Presley]]'s favorite views.<ref name="City of Albuquerque 2022">{{cite web | title=Fashion in 1950s Albuquerque | website=City of Albuquerque | date=March 14, 2022 | url=https://www.cabq.gov/artsculture/albuquerque-museum/museum-collections/history/online-history-exhibitions/fashion-in-1950s-albuquerque | access-date=June 30, 2022}}</ref> [[Route 66]] era neon signs, and LED style versions of the neon-style are common throughout the city. Many building exteriors are illuminated in vibrant colors such as green and blue. The Wells Fargo Building is illuminated green.{{citation needed|date=June 2024}} The DoubleTree Hotel changes colors nightly, and the Compass Bank building is illuminated blue. The [[rotunda (architecture)|rotunda]] of the county courthouse is illuminated yellow, while the tops of the Bank of Albuquerque and the Bank of the West are illuminated reddish-yellow. Due to the nature of the soil in the Rio Grande Valley, the skyline is lower than might be expected in a city of comparable size elsewhere, and it was used to highlight the low-lying architecture of heritage Pueblo and Hispano architectural styles.{{citation needed|date=June 2024}}
+
+[[file:Albuquerque Roosevelt Park.JPG|thumb|right|[[Roosevelt Park (Albuquerque, New Mexico)|Roosevelt Park]] is a historic park in central Albuquerque.]]
+
+Albuquerque has expanded greatly in area since the mid-1940s. During those years of expansion, the planning of the newer areas has considered that people drive rather than walk. The pre-1940s parts of Albuquerque are quite different in style and scale from the post-1940s areas. The older areas include the North Valley, the South Valley, various neighborhoods near downtown, and Corrales. The newer areas generally feature four- to six-lane roads in a <span style="white-space:nowrap">1&nbsp;mile&nbsp;(1.61&nbsp;km)</span> grid. Each <span style="white-space:nowrap">1&nbsp;square mile&nbsp;(2.59&nbsp;km{{sup|2}})</span> is divided into four {{convert|160|acre|km2|adj=on}} neighborhoods by smaller roads set <span style="white-space:nowrap">0.5&nbsp;miles&nbsp;(0.8&nbsp;km)</span> between major roads. When driving along major roads in the newer sections of Albuquerque, one sees strip malls, signs, and cinderblock walls. The upside of this planning style is that neighborhoods are shielded from the worst of the noise and lights on the major roads.{{citation needed|date=June 2024}}
+
+===Libraries===
+
+The [[Albuquerque Bernalillo County Library]] system consists of nineteen libraries to serve the city, including the [[Main Library (Albuquerque, New Mexico)|Main Library]], Special Collections branch ([[Old Main Library (Albuquerque, New Mexico)|Old Main Library]]), and [[Ernie Pyle House/Library|Ernie Pyle branch]], which is located in the former home of noted war correspondent [[Ernie Pyle]].<ref>{{Cite web|url=https://abqlibrary.org/about-us/mission|title=LibGuides: About Us: Mission}}</ref> The Old Main Library was the first library of Albuquerque and from 1901 until 1948 it was the only public library. The original library was donated to the state by Joshua and Sarah Raynolds. After suffering some fire damage in 1923 the city decided it was time to construct a building for the library to be moved to, however, by 1970 even after additions were made the population and library needs had outgrown the building for its use as a main library and it was turned into Special Collections. The Old Main Library was recognized as a landmark in September 1979.
+It was not until 1974 with the movement of the South Valley Library into a new building that the Bernalillo built and administered a public library. Not long after, in 1986, the Bernalillo and Albuquerque government decided that joint powers would work best to serve the needs of the community and created the Albuquerque/Bernalillo County Library System.<ref>{{Cite web|url=https://abqlibrary.org/libraryhistory|title = LibGuides: Library History: A Brief History of the Public Library}}</ref>
+
+===Parks and recreation===
+
+The [[Bosque]] is a major outdoors area in the city, it has to numerous [[hiking]] and [[biking]] trails. The [[Sandia–Manzano Mountains]] and [[West Mesa]] also have many hiking trails, such as [[La Luz Trail]] and [[Petroglyph National Monument]]. According to the Trust for Public Land, Albuquerque has 291 public parks as of 2017, most of which are administered by the city Parks and Recreation Department. The total amount of parkland is 42.9 square miles (111 km2), or about 23% of the city's total area—one of the highest percentages among large cities in the U.S. About 82% of city residents live within walking distance of a park.
+
+The [[Albuquerque Biological Park]] manages the [[ABQ BioPark Botanic Garden]], [[ABQ BioPark Aquarium]], [[Tingley Beach]], and [[ABQ BioPark Zoo]]. Amusement parks in the city include [[Cliff's Amusement Park]] and Hinkle Family Fun Center;<ref name="Casselle 2010 p. 148">{{cite book | last=Casselle | first=T. | title=Insiders' Guide® to Albuquerque | publisher=Insider's Guide | series=Insiders' Guide Series | year=2010 | isbn=978-0-7627-6278-1 | url=https://books.google.com/books?id=mrW1DQAAQBAJ&pg=PA148 | language=ku | access-date=June 30, 2022 | page=148}}</ref> there was formerly [[The Beach (waterpark)|The Beach waterpark]], which became a vacant lot on Desert Surf Circle for several years, until [[Topgolf]] made a [[driving range]] in the lot.<ref name="KRQE Topgolf">{{cite web | title=Groundbreaking takes place for Topgolf | website=KRQE NEWS 13 - Breaking News, Albuquerque News, New Mexico News, Weather, and Videos | date=February 27, 2019 | url=https://www.krqe.com/news/groundbreaking-takes-place-for-topgolf/ | access-date=June 30, 2022}}</ref>
+
+There are numerous golf courses in the city area; Arroyo Del Oso Golf Course, Isleta Eagle Golf Course, [[Ladera Golf Course]], Los Altos Golf Course, Paa-Ko Ridge Golf Club, Paradise Hills Golf Course, Puerto del Sol Golf Course, Sandia Golf Club, Santa Ana Golf Club, Twin Warriors Golf Club, and University of New Mexico's Championship Golf Course.
+
+=== Traditional arts ===
+
+Albuquerque is home to over 300 other visual arts, music, dance, literary, film, ethnic, and craft organizations, museums, festivals and associations, and the state's capital Santa Fe is known for being a major [[arts city]]. One of the major art events in the state is the summertime New Mexico Arts and Crafts Fair, a nonprofit show exclusively for New Mexico artists and held annually in Albuquerque since 1961.<ref>{{cite book 
+ | title     = A History of New Mexico
+ | last2     = Roberts
+ | first2    = Susan A.
+ | last1     = Roberts
+ | first1    = Calvin A.
+ | year      = 2004
+ | page      = 319
+ | url       = https://books.google.com/books?id=71N2246MioQC
+ | publisher = [[University of New Mexico Press]]
+ | location  = Albuquerque
+ | isbn      = 978-0826335074
+}}</ref><ref>{{cite web |url=http://www.nmartsandcraftsfair.org/index.html |title=New Mexico Arts and Crafts Fair |year=2014 |work=Nmartsandcraftsfair.org |publisher=New Mexico Arts and Crafts Fair |access-date=January 29, 2014 |archive-url=https://web.archive.org/web/20140328194528/http://www.nmartsandcraftsfair.org/index.html |archive-date=March 28, 2014 }}</ref>
+
+==Sports==
+
+[[file:Isotopes Park Albuquerque.jpg|thumb|[[Albuquerque Isotopes|Isotopes]] baseball park]]
+
+The [[Albuquerque Isotopes]] are a minor league affiliate of the [[Colorado Rockies]], having derived their name from ''[[The Simpsons]]'' season 12 episode "[[Hungry, Hungry Homer]]", which involves the [[Springfield Isotopes]] baseball team considering relocating to Albuquerque.<ref>{{cite news| title=Doh! Go Isotopes!| newspaper=[[Seattle Post-Intelligencer]]| page=C8| date=May 13, 2003}}<!--|access-date=June 11, 2007| first=Dennis| last=Latta| title=Team President Throws Isotopes Name into Play| newspaper=[[Albuquerque Journal]]| page=A1| date=September 5, 2002}}--><!--|access-date=June 11, 2007| title=Albuquerque Sol FC Joins PDL  |url=http://www.uslsoccer.com/home/773765.html |publisher=USLSoccer.com |access-date=July 30, 2014 |date=December 5, 2013 |archive-url=https://web.archive.org/web/20140709042124/http://www.uslsoccer.com/home/773765.html |archive-date=July 9, 2014 }}--></ref>
+
+On June 6, 2018, the [[USL Championship]] division announced its latest soccer expansion club with [[New Mexico United]], who play their home matches at [[Rio Grande Credit Union Field at Isotopes Park]].
+
+Having been home to [[boxing]] mainstays [[Brenda Burnside]], [[Bob Foster (boxer)|Bob Foster]], and [[Johnny Tapia]], Albuquerque later became home to Jackson Wink [[mixed martial arts|MMA]] gym.<ref name="The Associated Press 2016">{{cite web | author=The Associated Press | title=Jackson Wink MMA gets attention for training top fighters | website=Newsday | date=March 4, 2016 | url=https://www.newsday.com/sports/mixed-martial-arts/jackson-wink-mma-gets-attention-for-training-top-fighters-r24334 | access-date=December 3, 2022}}</ref> Several MMA world champions and fighters, including [[Holly Holm]] and [[Jon Jones]], train in that facility.<ref>{{cite news| last1=Raimondi| first1=Marc| title=UFC's first Albuquerque show is a long time coming for Jackson's MMA|url=http://www.foxsports.com/ufc/story/ufc-s-first-albuquerque-show-is-a-long-time-coming-for-jackson-s-mma-060614| access-date=December 18, 2014| work=[[Fox Sports]]| date=June 6, 2014| archive-url=https://web.archive.org/web/20141218195655/http://www.foxsports.com/ufc/story/ufc-s-first-albuquerque-show-is-a-long-time-coming-for-jackson-s-mma-060614|archive-date=December 18, 2014}}</ref><ref>{{cite news| last1=Wright| first1=Rick| title=Duke City a dominant force in MMA| url=http://www.abqjournal.com/440117/sports/duke-city-a-dominant-force-in-mma.html| access-date=December 18, 2014| newspaper=[[Albuquerque Journal]]|date=August 3, 2014|archive-url=https://web.archive.org/web/20141218195936/http://www.abqjournal.com/440117/sports/duke-city-a-dominant-force-in-mma.html|archive-date=December 18, 2014}}</ref> The [[Professional Golfers' Association of America|PGA of America]] offers Albuquerque golf tournaments with Sun Country Golf House, including the [[Sun Country PGA Championship]] and the [[New Mexico Open]] which have been hosted in the metropolitan area several times.<ref name="2022 Sun Country Section Event Schedule 2022">{{cite web | title=Sun Country PGA | website=2022 Sun Country Section Event Schedule | date=January 3, 2022 | url=https://suncpga.bluegolf.com/bluegolf/suncpga22/schedule/index.htm | access-date=September 26, 2022}}</ref> Roller sports are finding a home in Albuquerque as they hosted USARS Championships in 2015,<ref>{{cite news| title=Roller skating champions to return to Lincoln in 2016| url=http://journalstar.com/news/local/roller-skating-champions-to-return-to-lincoln-in/article_e7383a3a-d2f0-5275-a002-888bfc6fdcbe.html| access-date=September 29, 2015| first=Kevin| last=Abourezk| newspaper=[[Lincoln Journal Star]]| archive-url=https://web.archive.org/web/20150905133235/http://journalstar.com/news/local/roller-skating-champions-to-return-to-lincoln-in/article_e7383a3a-d2f0-5275-a002-888bfc6fdcbe.html| archive-date=September 5, 2015| url-status=live}}</ref> and are home to Roller hockey,<ref>{{Cite web| title=Club Hockey (Aztecs) |url=http://www.rollerskatecity.com/page/show/446845-albuquerque-aztecs |access-date=September 29, 2015 |archive-url=https://web.archive.org/web/20150930121634/https://www.rollerskatecity.com/page/show/446845-albuquerque-aztecs |archive-date=September 30, 2015 }}</ref> and Roller Derby teams.<ref>{{cite web| title=Hell on Skates: Roller derby enters the new millennium| url=http://alibi.com/news/49079/Hell-on-Skates.html| access-date=September 29, 2015| first=Sonja| last=Dewing| date=May 7, 2015| archive-url=https://web.archive.org/web/20150930123711/http://alibi.com/news/49079/Hell-on-Skates.html| archive-date=September 30, 2015}}</ref>
+
+While no longer operating in an official capacity, the defunct [[Albuquerque Dukes]] minor league baseball team still has a major following, and the [[Major League Baseball]] organization is aware of the team's continued popularity.<ref name="Kocak 2012 p. 145">{{cite book | last=Kocak | first=P. | title=Baseball's Starry Night: Reliving Major League Baseball's 2011 Wild Card Night of Shock and Awe | publisher=Digitature | year=2012 | isbn=978-0-615-62230-9 | url=https://books.google.com/books?id=FzsNa5bAgU8C&pg=PA145 | access-date=July 1, 2022 | page=145}}</ref> The Isotopes sometimes hold a Dukes Retro Night where they wear Dukes uniforms,<ref name="Albuquerque Journal 2021">{{cite web | title=Dukes Retro Night elicits fond memories | website=Albuquerque Journal | date=August 8, 2021 | url=https://www.abqjournal.com/2417775/dukes-retro-night-elicits-fond-memories.html | access-date=July 1, 2022}}</ref> and The Duke mascot continues to be an icon of the city.<ref name="Kocak 2012 p. 145"/><ref name="Snow 2022">{{cite web | last=Snow | first=Patricia Gabbett | title=Home Run | website=New Mexico Magazine | date=June 8, 2022 | url=https://www.newmexicomagazine.org/blog/post/dick-moots-albuquerque-dukes/ | access-date=July 1, 2022}}</ref>
+
+{| class="wikitable"
+|-
+!Team
+!Sport
+!League
+!Venue
+!capacity
+|-
+|[[Albuquerque Isotopes]]
+|Baseball
+|[[Pacific Coast League]]
+|[[Rio Grande Credit Union Field at Isotopes Park]]
+|13,279
+|-
+|[[New Mexico United]]
+|Soccer
+|[[USL Championship]]
+|[[Rio Grande Credit Union Field at Isotopes Park]]
+|13,279
+|-
+|[[Albuquerque Sol FC|Albuquerque Sol]]
+|Soccer
+|[[USL League Two]]
+|[[St. Pius X High School (Albuquerque)|Ben Rios Field]]
+|1,500
+|-
+|[[Duke City Gladiators]]
+|Indoor Football
+|[[Indoor Football League]]
+|[[Rio Rancho Events Center]]
+|6,000
+|-
+|[[New Mexico Lobos football|New Mexico Lobos]]
+|[[NCAA Division I Football Bowl Subdivision|NCAA Division I FBS]] [[College football|Football]]
+|[[Mountain West Conference]]
+|[[University Stadium, Albuquerque|University Stadium]]
+|42,000
+|-
+|New Mexico Lobos ([[New Mexico Lobos men's basketball|men]] and [[New Mexico Lobos women's basketball|women]])
+|[[College basketball|NCAA Division I Basketball]]
+|[[Mountain West Conference]]
+|[[The Pit (arena)|The Pit]]
+|15,411
+|-
+|[[Duke City Roller Derby]]
+|[[Roller Derby]]
+|
+|Wells Park Community Center
+|
+|-
+|[[New Mexico Ice Wolves]]
+|[[Ice hockey]]
+|[[NAHL]]
+|Outpost Ice Arenas
+|
+|-
+|New Mexico Macanas
+|[[Ulama (game)|Ulama de Cadera]]
+|[[Mesoamerican Ballgame Association USA|AJUPEME USA]]
+|Mesa Verde Community Center
+|
+|}
+
+==Government and politics==
+
+{{main|Government of Albuquerque, New Mexico}}
+
+{| class=wikitable style="float:right; margin-left:1em"
+! colspan = 6 | Albuquerque registered voters as of July 2016<ref>{{Cite web|url=http://www.sos.state.nm.us/uploads/FileLinks/c2426e22e02d478ca940282b232f0647/STATEWIDE_JAN_29_2016.PDF|title=Albuquerque Registered Voter Enrollment: 2016|access-date=April 13, 2020|archive-url=https://web.archive.org/web/20161220164129/http://www.sos.state.nm.us/uploads/FileLinks/c2426e22e02d478ca940282b232f0647/STATEWIDE_JAN_29_2016.PDF|archive-date=December 20, 2016}}</ref>
+|-
+! colspan = 2 | Party
+! Number of Voters
+! Percentage
+|-
+| {{party color cell|Democratic Party (United States)}}
+| [[Democratic Party of New Mexico|Democratic]]
+| style="text-align:center;"| 123,594
+| style="text-align:center;"| 40.03%
+|-
+| {{party color cell|Republican Party (United States)}}
+| [[Republican Party of New Mexico|Republican]]
+| style="text-align:center;"|104,662
+| style="text-align:center;"| 34.13%
+|-
+| {{party color cell|Independent Party (United States)}}
+| [[Independent voter|Unaffiliated]] and [[Third party (United States)|third party]]
+| style="text-align:center;"| 78,404
+| style="text-align:center;"| 25.57%
+|-
+|}
+
+Albuquerque is a [[charter city]], exercising [[Home rule in the United States|home rule]] as opposed to being directly [[General-law municipality|governed by state law]].<ref name="City Charter">{{cite web|url=https://codelibrary.amlegal.com/codes/albuquerque/latest/albuqcharter/0-0-0-1 |title=Charter of the City of Albuquerque |website=American Legal Publishing Corporation}}</ref><ref name="CityCharter2">{{cite web|url=http://www.cabq.gov/council/documents/charter-review-task-force/city_charter.pdf |title=Charter of the City of Albuquerque [PDF] |access-date=December 10, 2009 |publisher=City of Albuquerque |archive-url=https://web.archive.org/web/20090830064622/http://www.cabq.gov/council/documents/charter-review-task-force/city_charter.pdf |archive-date=August 30, 2009 }}
+</ref> Its charter was adopted in 1917 and has been amended several times, most notably in 1974, when the municipal government was changed from a [[Council–manager government|commission-manager system]] to its current [[mayor–council government|mayor–council]] system. Under this arrangement, power is divided between a mayor who serves as chief executive,<ref name="City Charter" />{{Rp|V}} and a nine-member council that holds legislative authority.<ref name="City Charter" />{{Rp|IV}} The current mayor is [[Tim Keller (politician)|Tim Keller]], who was elected in 2017.
+
+The [[mayor of Albuquerque]] holds a full-time paid position and is directly elected for four-year terms.<ref name="Council FAQ">{{cite web |url=http://www.cabq.gov/council/frequently-asked-questions-faq |title=Council&nbsp;– Frequently Asked Questions (FAQ) – City of Albuquerque |access-date=December 26, 2008 |publisher=City of Albuquerque |archive-url=https://web.archive.org/web/20090131164946/http://www.cabq.gov/council/frequently-asked-questions-faq |archive-date=January 31, 2009 }}</ref>  Members of the [[Albuquerque City Council]] serve part-time, paid positions and are elected from their nine respective districts for four-year terms, with four or five councilors elected every two years.<ref name="Council front page" /> Elections for mayor and councilor are [[Non-partisan democracy|nonpartisan]].<ref name="City Charter" />{{Rp|IV.4}}<ref name="CityCharter2" /> Each December, a new council president and vice-president are chosen by and among council members.<ref name="Council FAQ" />
+
+The city council has the power to adopt all ordinances, resolutions, or other legislation.<ref name="Council front page">{{cite web |url=http://www.cabq.gov/council/ |title=Albuquerque City Council |access-date=December 26, 2008 |publisher=City of Albuquerque |archive-url=https://web.archive.org/web/20081218101628/http://www.cabq.gov/council/ |archive-date=December 18, 2008 }}</ref> It meets twice a month in the Vincent E. Griego Council Chambers of the Albuquerque/Bernalillo County Government Center.<ref name="Council meeting schedule">{{cite web| url= http://www.cabq.gov/council/council-meeting-schedules| title= City Council Meetings Schedule| access-date= December 26, 2008| publisher= City of Albuquerque| archive-url= https://web.archive.org/web/20090131164902/http://www.cabq.gov/council/council-meeting-schedules| archive-date= January 31, 2009}}</ref> Ordinances and resolutions passed by the council are presented to the mayor for his approval; if the mayor vetoes an item, the council can override the veto by a two-thirds vote of councilors.<ref name="City Charter" />{{Rp|XI.3|}} Each year, the mayor submits a city budget proposal for the next year to the council by April 1, and the council acts on the proposal within the next 60&nbsp;days.<ref name="City Charter" />{{Rp|VII}}
+
+Albuquerque's judicial system consists of the [[Bernalillo County Metropolitan Court]], which serves other municipalities and unincorporated areas in the county; the main [[Metropolitan Courthouse]] is located in downtown Judges serve in nineteen divisions and are subject to partisan elections by county voters every four years.
+
+The [[Albuquerque Police Department]] (APD) is the chief law enforcement entity within city limits; the unincorporated area of [[Bernalillo County, New Mexico|Bernalillo County]] is policed primarily by the Bernalillo County Sheriff's Department. With approximately 1,000 sworn officers, APD is the largest municipal police department in [[New Mexico]]; in September 2008, it was the 49th largest police department in the country, according to the [[United States Department of Justice|U.S. Department of Justice]].<ref>{{cite web| title=Census of State and Local Law Enforcement Agencies| year=2008| website=[[United States Department of Justice]]| url=http://www.bjs.gov/content/pub/pdf/csllea08.pdf| access-date=March 31, 2014| archive-url=https://web.archive.org/web/20130226051352/http://www.bjs.gov/content/pub/pdf/csllea08.pdf| archive-date=February 26, 2013| url-status=live}}</ref>
+
+Albuquerque serves as the [[county seat]] of [[Bernalillo County, New Mexico|Bernalillo County]].<ref name="GR6">{{cite web |url=http://www.naco.org/Counties/Pages/FindACounty.aspx |access-date=June 7, 2011 |title=Find a County |publisher=National Association of Counties |archive-url=https://web.archive.org/web/20110531210815/http://www.naco.org/Counties/Pages/FindACounty.aspx |archive-date=May 31, 2011 }}</ref> The City of Albuquerque and Bernalillo County share some [[social services]], and have created a joint city-county commission called the Albuquerque Bernalillo County Government Commission (ABCGC).<ref>{{cite web | url=https://www.cabq.gov/council/albuquerque-bernalillo-county-government-commission | title=Albuquerque Bernalillo County Government Commission — City of Albuquerque | access-date=February 6, 2024 | publisher=The City of Albuquerque}}</ref> In 1986, the City of Albuquerque and Bernalillo County governments entered the joint powers agreement that created the [[Albuquerque Bernalillo County Library|Albuquerque/Bernalillo County Library System]].<ref>{{cite web | url=https://abqlibrary.org/libraryhistory | title=A Brief History of the Public Library - Library History - LibGuides at the Public Library Albuquerque Bernalillo County | publisher=The Public Library Albuquerque and Bernalillo County | access-date=February 6, 2024}}</ref> The [[Bernalillo County Metropolitan Detention Center]] opened in 2003 and was jointly managed by the City of Albuquerque and Bernalillo County until 2006, and fully managed by Bernalillo County from 2006 to present.<ref>{{cite web | url=https://www.bernco.gov/metropolitan-detention-center/frequently-asked-questions/ | title=Frequently Asked Questions - Metropolitan Detention Center | publisher=Bernalillo County | access-date=February 6, 2024}}</ref>
+
+==Economy==
+
+{{see also|economy of New Mexico}}
+
+Albuquerque is New Mexico's leading economic center, accounting for half the state's economic activity.<ref>{{Cite web |title=Albuquerque, NM Economy at a Glance |url=https://www.bls.gov/eag/eag.nm_albuquerque_msa.htm |access-date=December 27, 2022 |website=www.bls.gov |language=en}}</ref> The city's economy is highly diversified, centering on science, medicine, technology, commerce, education, media entertainment, and culture (particularly fine arts); construction, film production, and retail trade have seen the most robust growth since 2020.<ref>{{Cite web |title=Albuquerque Economy Showing Remarkable Growth, August GRT Data Just Released |url=https://www.cabq.gov/economicdevelopment/news/albuquerque-economy-showing-remarkable-growth-august-grt-data-just-released |access-date=December 27, 2022 |website=City of Albuquerque |language=en}}</ref>
+
+Albuquerque is the center of the New Mexico Technology Corridor, a concentration of institutions engaged in [[Research and development|scientific research and development]], which in turn forms part of the larger Rio Grande Technology Corridor that that stretches from southern Colorado to southwestern Texas.<ref>{{Cite press release |last=Caregiver |first=Electronic |title=Will The Rio Grande Tech Corridor Become The Silicon Valley Of New Mexico? |url=https://www.prnewswire.com/news-releases/will-the-rio-grande-tech-corridor-become-the-silicon-valley-of-new-mexico-300762129.html |access-date=December 27, 2022 |website=www.prnewswire.com |language=en}}</ref> Major nodes within the corridor include federal installations such as [[Kirtland Air Force Base]], [[Los Alamos National Laboratory]], and [[Sandia National Laboratories]]; private healthcare facilities such as [[Lovelace Respiratory Research Institute]] and [[Presbyterian Health Services]]; academic institutions such as the [[University of New Mexico]] and [[Central New Mexico Community College]]; and private companies such as [[Intel]] (which has a [[List of Intel manufacturing sites|fabrication site]] in neighboring [[Rio Rancho, New Mexico|Rio Rancho]]), [[Facebook]] (with a data center in [[Los Lunas, New Mexico|Los Lunas]]), [[Northrop Grumman]], [[Passive solar building design|passive solar energy]] company [[Steve Baer|Zomeworks]], and [[Tempur-Pedic]]. The city was also the founding location of [[Micro Instrumentation and Telemetry Systems|MITS]] and [[Microsoft]].
+
+Beginning with the [[Manhattan Project]] in the 1940s, [[Department of Energy (United States)|federal labs]] such as Los Alamos, [[Sandia National Laboratories|Sandia]], and [[Lawrence Livermore National Laboratory]] have cooperated on multidisciplinary research in the region; contractors for these facilities bring highly educated workers and researchers to an otherwise relatively isolated area, many of whom establish or work with local tech companies. The federal government spends roughly $4 billion annually in research and development in and around Albuquerque. Pursuant to the [[CHIPS and Science Act]]—<nowiki/>federal legislation aimed at expanding domestic semiconductor manufacturing, research and development of new technology, and workforce training—the U.S. Department of Energy announced plans to construct a new 100,000-square-foot [[Business incubator|technology incubator]] for companies, academia, and national laboratories, as well as a new platform for facilitating the development of tech startups among minority communities.<ref>{{Cite web |last=Monson |first=Mary |title=Opportunities knocking for NM tech economy |url=https://www.abqjournal.com/2562655/opportunities-knocking-for-nm-tech-economy.html |website=Albuquerque Journal|date=January 8, 2023 }}</ref>
+
+The governments of Albuquerque and New Mexico have sought to attract more private investment into technology startups.<ref>{{Cite web |title=New Mexico scientists have formed nearly 150 bioscience startups in just the past 10 years. The rest of the country is starting to notice. - Albuquerque Journal |url=https://www.abqjournal.com/2564749/bioscience-dominates-nms-startup-landscape.html |access-date=January 16, 2023 |website=www.abqjournal.com|date=January 16, 2023 }}</ref> The [[Bioscience|bioscience sector]] has experienced particularly robust growth, beginning with the 2013 opening of a BioScience Center in Uptown Albuquerque, which was the state's first private incubator for biotechnology startups; since then, New Mexico-based scientists have formed roughly 150 bioscience startups, many of which are based in the Albuquerque metropolitan area.<ref name="abqjournal.com">{{Cite web |title=New jobs, bigger facilities, local support: New Mexico's bioscience industry is alive and kicking - Albuquerque Journal |url=https://www.abqjournal.com/2564756/nms-bioscience-industry-is-alive-and-kicking.html |access-date=January 16, 2023 |website=www.abqjournal.com|date=January 16, 2023 }}</ref> In 2017, the state-funded Bioscience Authority was established to help promote local industry development, particularly through public-private partnerships; the following year, pharmaceutical company Curia built two large facilities in Albuquerque, and in fall 2022 broke ground on a $100 million expansion of its local operations.<ref name="abqjournal.com"/>
+
+[[Film studio]]s have a major presence throughout New Mexico; [[Netflix]] maintains a major production hub at [[Albuquerque Studios]]. There are numerous shopping centers and malls within the city, including [[ABQ Uptown]], [[Coronado Mall|Coronado]], [[Cottonwood Mall (Albuquerque, New Mexico)|Cottonwood]], [[Nob Hill, Albuquerque, New Mexico|Nob Hill]], and [[Winrock Mall|Winrock]]. Outside city limits but surrounded by the city is a [[horse racing]] track and [[casino]] called The Downs Casino and Racetrack, and the [[pueblo]]s surrounding the city feature [[resort]] casinos, including [[Sandia Resort and Casino|Sandia Resort]], [[Santa Ana Star Casino|Santa Ana Star]], [[Isleta Pueblo|Isleta]] Resort, and [[Laguna Pueblo]]'s Route 66 Resort.
+
+{| class="wikitable floatright"
+|+ Largest employers in Albuquerque
+|-
+| 1|| [[Kirtland Air Force Base]]
+|-
+| 2|| [[University of New Mexico]]
+|-
+| 3 || [[Sandia National Laboratories]]
+|-
+| 4|| [[Albuquerque Public Schools]]
+|-
+| 5 || [[Presbyterian Healthcare Services]]
+|-
+| 6 || [[Government of Albuquerque, New Mexico|City of Albuquerque]] (Government)
+|-
+| 7 || Lovelace–Sandia Health System
+|-
+|8
+|Presbyterian Medical Services
+|-
+|9|| [[Intel Corporation]]
+|-
+|10
+| [[State of New Mexico]] (Government)
+|-
+|11|| [[Wal-Mart Stores, Inc.]]
+|}
+
+==Education==
+
+{{further
+|list of middle schools in Albuquerque, New Mexico
+|list of high schools in Albuquerque, New Mexico
+|list of colleges and universities in New Mexico
+}}
+
+Albuquerque is home to the [[University of New Mexico]], the largest university in the state and the flagship of the state public university system. [[Central New Mexico Community College]] is a county-funded junior college serving new high school graduates and adults returning to school.
+
+[[file:unm zimmermanlibrary.jpg|right|thumb|Zimmerman Library at University of New Mexico]]
+
+Albuquerque hosts several programs and nonprofit schools of higher learning, including [[Southwest University of Visual Arts]], [[Trinity Southwest University]], the [[University of St. Francis]] College of Nursing and Allied Health Department of Physician Assistant Studies, and the [[St. Norbert College]] Master of Theological Studies program.<ref>{{cite web|last=Ebert|first=Howard|title=SNC Master of Theological Studies|url=http://www.snc.edu/mts/|work=2012|publisher=St. Norbert College|access-date=August 11, 2013|archive-url=https://web.archive.org/web/20131022064510/http://www.snc.edu/mts/|archive-date=October 22, 2013}}</ref> [[Southwestern Indian Polytechnic Institute]] (SIPI) is in an [[unincorporated area]] adjacent to Albuquerque.<ref>{{cite web|url=https://www2.census.gov/geo/maps/DC2020/DC20BLK/st35_nm/place/p3502000_albuquerque/DC20BLK_P3502000.pdf|title=2020 CENSUS - CENSUS BLOCK MAP: Albuquerque city, NM|publisher=[[U.S. Census Bureau]]|page=8 (PDF p. 9/25)|access-date=November 6, 2023|quote=Southwestern Indian Polytechnic Inst}} - also seen in: {{cite web|url=https://www2.census.gov/geo/maps/DC2020/DC20BLK/st35_nm/county/c35001_bernalillo/DC20BLK_C35001.pdf|title=2020 CENSUS - CENSUS BLOCK MAP: Bernalillo County, NM|publisher=[[U.S. Census Bureau]]|access-date=November 6, 2023|page=26 (PDF p. 27/41)}}</ref> The Ayurvedic Institute, one of the first [[Ayurveda]] colleges specializing in [[Ayurvedic]] medicine outside India, was established in 1984. Other state and nonprofit institutions of higher learning have moved some programs into Albuquerque; these include [[New Mexico State University]], [[Highlands University]], [[Lewis University]], [[Wayland Baptist University]], and [[Webster University]]. Several for-profit technical schools including [[Brookline College]], [[Pima Medical Institute]], [[National American University]], [[Grand Canyon University]], the [[University of Phoenix]] and several barber/beauty colleges have established their presence in the area.
+
+[[Albuquerque Public Schools]] (APS) is the [[school district]] covering all of Albuquerque.<ref>{{cite web|url=https://www2.census.gov/geo/maps/DC2020/PL20/st35_nm/schooldistrict_maps/c35001_bernalillo/DC20SD_C35001.pdf|title=2020 CENSUS - SCHOOL DISTRICT REFERENCE MAP: Bernalillo County, NM|publisher=[[U.S. Census Bureau]]|accessdate=July 20, 2021}}</ref> Schools within APS include both public and charter entities. Numerous accredited private preparatory schools also serve Albuquerque students. These include various pre-high school religious (Christian, Jewish, Islamic) affiliates and Montessori schools, as well as [[Menaul School]], [[Albuquerque Academy]], [[St. Pius X High School (Albuquerque)|St. Pius X High School]], [[Sandia Preparatory School]], the [[Bosque School]], Evangel Christian Academy, Hope Christian School, Hope Connection School, Shepherd Lutheran School,<ref>{{Cite web|url=http://shepherdlutheranschool.com/|title=Website|website=shepherdlutheranschool.com|access-date=April 13, 2020|archive-url=https://web.archive.org/web/20190806200528/http://shepherdlutheranschool.com/|archive-date=August 6, 2019}}</ref> Temple Baptist Academy, and Victory Christian. Accredited private schools serving students with special education needs in Albuquerque include: Desert Hills, Pathways Academy, and Presbyterian Ear Institute Oral School. The [[New Mexico School for the Deaf]] runs a preschool for children with hearing impairments in Albuquerque.<ref>{{cite web|url=https://www.nmsd.k12.nm.us/about_n_m_s_d|title=About NMSD|publisher=[[New Mexico School for the Deaf]]|access-date=July 20, 2021|archive-date=July 20, 2021|archive-url=https://web.archive.org/web/20210720131709/https://www.nmsd.k12.nm.us/about_n_m_s_d|url-status=dead}}</ref>
+
+==Infrastructure==
+
+Since the city's founding, it has continued to be included on travel and trade routes including the historic [[Camino Real de Tierra Adentro|El Camino Real]], [[Atchison, Topeka and Santa Fe Railway|Santa Fe Railway (ATSF)]], [[U.S. Route 66|Route 66]], and the modern [[Interstate 25 in New Mexico|Interstate 25]], [[Interstate 40 in New Mexico|Interstate 40]], [[New Mexico State Road 45]], and [[Albuquerque International Sunport]].<ref name="simmons">{{cite book|last1=Simmons|first1=Marc|url=https://books.google.com/books?id=En4WFnjfg2AC|title=Hispanic Albuquerque, 1706–1846|date=2003|publisher=UNM Press|isbn=9780826331601|location=Albuquerque|page=66|language=en|access-date=October 12, 2017|via=Google Books}}</ref><ref>{{cite book|last1=Julyan|first1=Robert Hixson|url=https://books.google.com/books?id=p3fMJnT1gx0C|title=The Place Names of New Mexico|date=1996|publisher=UNM Press|isbn=9780826316899|location=Albuquerque|pages=9–10|language=en|access-date=October 12, 2017|archive-url=https://web.archive.org/web/20160722033358/https://books.google.com/books?id=p3fMJnT1gx0C|archive-date=July 22, 2016|url-status=live|via=Google Books}}</ref> Albuquerque is the second largest [[city]] in the [[United States]] (after [[Phoenix, Arizona|Phoenix]]) to have at least two Interstate Highways, but no [[List of auxiliary Interstate Highways|three-digit Interstates]].[[File:Albuquerque - aerial - I-40 east from Juan Tabo Blvd NE.jpg|thumb|Aerial view of [[Interstate 40]]]]
+
+===Transportation===
+
+====Main highways====
+
+Some of the main highways in the metro area include:
+* [[Interstate 25 in New Mexico|Pan-American Freeway]]:<ref name="Bryan">{{cite book| last=Bryan| first=Howard| title=Albuquerque Remembered| publisher=[[University of New Mexico Press]]| location=Albuquerque| year=1989| isbn=0-8263-3782-1| oclc=62109913| url=https://books.google.com/books?id=rSQAbMtClsYC&q=%22Pan%20American%20Freeway%22%20%22Coronado%20Freeway%22&pg=PA248|access-date=August 5, 2009}}</ref>{{Rp|248}} More commonly known as [[Interstate 25]] or "I-25", it is the main north–south highway on the city's eastern side of the [[Rio Grande]]. It is also the main north–south highway in the state (by connecting Albuquerque with [[Santa Fe, New Mexico|Santa Fe]] and [[Las Cruces, New Mexico|Las Cruces]]) and a plausible route of the eponymous [[Pan American Highway]]. Since [[U.S. Route 66|Route 66]] was decommissioned in the 1980s, the only remaining US highway in Albuquerque, unsigned [[US-85]], shares its alignment with I-25. [[US-550]] splits off to the northwest from I-25/US-85 in [[Bernalillo, New Mexico|Bernalillo]].
+* [[Interstate 40 in New Mexico|Coronado Freeway]]:<ref name="Bryan" />{{Rp|248}} More commonly known as [[Interstate 40]] or "I-40", it is the city's main east–west traffic artery and an important transcontinental route. The freeway's name in the city is in reference to 16th century [[conquistador]] and explorer [[Francisco Vásquez de Coronado]].
+* [[Paseo del Norte]]: (aka; New Mexico State Highway 423): This 6-lane [[controlled-access highway]] is approximately five miles north of Interstate 40. It runs as a surface road with at-grade intersections from Tramway Boulevard (at the base of the Sandia Mountains) to Interstate 25, after which it continues as a controlled-access freeway through Los Ranchos de Albuquerque, over the Rio Grande to North Coors Boulevard. Paseo Del Norte then continues west as a surface road through the Petroglyph National Monument until it reaches Atrisco Vista Boulevard and the Double Eagle II Airport. The interchange with Interstate 25 was reconstructed in 2014 to improve traffic flow.<ref>{{cite web |url=https://www.cabq.gov/mayor/priorities-initiatives/initiatives/abq-the-plan/paseo-del-norte-at-i-25-interchange |title=Paseo del Norte at I-25 Interchange — City of Albuquerque |access-date=October 12, 2017 |archive-url=https://web.archive.org/web/20171013013206/https://www.cabq.gov/mayor/priorities-initiatives/initiatives/abq-the-plan/paseo-del-norte-at-i-25-interchange |archive-date=October 13, 2017 }} Paseo del Norte at I-25 Interchange Reconstruction Project – City of Albuquerque</ref>
+* [[Coors Boulevard]]: Coors is the main north–south artery to the west of the Rio Grande in Albuquerque. There is one full [[interchange (road)#Complete and incomplete interchanges|interchange]] where it connects with Interstate 40; The rest of the route connects to other roads with at-grade intersections controlled by [[stoplight]]s. The Interstate 25 underpass has no access to Coors. Parts of the highway have [[sidewalk]]s, [[bike lane]]s, and [[Median strip|median]]s, but most sections have only dirt shoulders and a center turn lane. To the north of Interstate 40, part of the route is numbered as [[New Mexico State Road 448|State Highway 448]], while to the south, part of the route is numbered as [[New Mexico State Road 45|State Highway 45]].
+* [[New Mexico State Road 500|Rio Bravo Boulevard]]: The main river crossing between Westside Albuquerque and the [[Sunport]], Rio Bravo is a four-lane [[divided highway]] that runs from University Boulevard in the east, through the South Valley, to Coors Boulevard in the west where it is contiguous with Dennis Chaves Boulevard. It follows [[New Mexico State Road 500|NM-500]] for its entire route.
+* [[Central Avenue (Albuquerque)|Central Avenue]]: Central is one of the historical routings of [[US Highway 66|Route 66]], it is no longer a main through highway, its usefulness having been supplanted by Interstate 40.<ref name="Bryan" />{{Rp|248}}
+* [[New Mexico State Road 528|Alameda Boulevard]]: The main road between Rio Rancho and North Albuquerque, Alameda Boulevard stretches from Tramway Road to Coors Boulevard The route is designated as the eastern portion of [[New Mexico State Road 528|NM-528]].
+* [[New Mexico State Road 556|Tramway Boulevard]]: Serves as a bypass around the northeastern quadrant, the route is designated as [[New Mexico State Road 556|NM-556]]. Tramway Boulevard starts at I-25 near Sandia Pueblo, and heads east as a two-lane road. It turns south near the base of the [[Sandia Peak Tramway]] and becomes an expressway-type divided highway until its terminus near I-40 and Central Avenue by the western entrance to [[Tijeras Canyon]].
+
+The [[interchange (road)|interchange]] between I-40 and I-25 is known as the "[[Big I]]".<ref name="Bryan" />{{Rp|248}} Originally built in 1966, it was rebuilt in 2002. The Big I is the only [[Stack interchange#Five-level stack|five-level stack interchange]] in the state of New Mexico.
+
+====Bridges====
+
+There are six road bridges that cross the [[Rio Grande]] and serve the municipality on at least one end if not both. The eastern approaches of the northernmost three all pass through adjacent unincorporated areas, the Village of [[Los Ranchos de Albuquerque, New Mexico|Los Ranchos de Albuquerque]], or the [[North Valley, New Mexico|North Valley]]. In downstream order they are:
+* '''Alameda Bridge'''
+* '''Paseo del Norte Bridge'''
+* '''Montaño Bridge'''
+* ''' I-40 Bridge'''
+* '''Central at Old Town Bridge'''
+* '''Barelas Bridge'''
+
+Two more bridges serve [[Urban area#United States|urbanized area]]s contiguous to the city's perforated southern boundary.
+* '''Rio Bravo Bridge''' ([[New Mexico State Road 500|NM-500]])
+* '''I-25 Bridge''' (near [[Isleta Pueblo]])
+
+====Rail====
+
+[[file:downtown Albuquerque stn look south.JPG|thumb|Rail Runner Express Downtown Albuquerque station train platform]]
+
+The state owns most of the city's rail infrastructure which is used by a commuter rail system, long-distance passenger trains, and the freight trains of the [[BNSF Railway]].
+
+====Freight service====
+
+[[BNSF Railway]] operates a small yard operation out of Abajo yard, located just south of the César E. Chávez Ave. overpass and the [[New Mexico Rail Runner Express]] yards. Most freight traffic through the Central New Mexico region is processed via a much larger hub in nearby [[Belen, New Mexico]].
+
+====Intercity rail====
+
+[[Amtrak]]'s [[Southwest Chief]], which travels between Chicago and Los Angeles, serves the Albuquerque area daily with one stop in each direction at the [[Alvarado Transportation Center]] in downtown.
+
+====Intercity Bus Services====
+
+[[Greyhound Lines]] and [[FlixBus]] offer intercity transportation services to the [[Albuquerque metropolitan area|Albuquerque Metro Area]] as well as transportation to other cities around the United States.
+
+====Commuter rail====
+
+The [[New Mexico Rail Runner Express]], a [[commuter rail]] line, began service between [[Sandoval County]] and Albuquerque in July 2006 using an existing [[BNSF Railway|BNSF]] right-of-way which was purchased by New Mexico in 2005. Service expanded to [[Valencia County]] in December 2006 and to [[Santa Fe, New Mexico|Santa Fe]] on December 17, 2008. Rail Runner now connects [[Santa Fe County|Santa Fe]], Sandoval, [[Bernalillo County|Bernalillo]], and Valencia Counties with thirteen station stops, including three stops within Albuquerque.<ref>{{cite web |title=New Mexico Rail Runner Express: Stations listed North to South |url=http://www.nmrailrunner.com/stations.asp |publisher=New Mexico Rail Runner |access-date=August 2, 2009 |archive-url=https://web.archive.org/web/20120106174708/http://www.nmrailrunner.com/stations.asp |archive-date=January 6, 2012 }}</ref>
+The trains connect Albuquerque to downtown Santa Fe with eight roundtrips per weekday. The section of the line running south to [[Belen, New Mexico|Belen]] is served less frequently.<ref>{{cite web|url=http://www.nmrailrunner.com/PDF/Weekday%20Schedule%20SF%2012-08.pdf |title=New Mexico Rail Runner Express Monday–Friday Schedule |access-date=December 23, 2008 |publisher=New Mexico Rail Runner Express |date=December 2, 2008 |archive-url=https://web.archive.org/web/20090114191537/http://www.nmrailrunner.com/PDF/Weekday%20Schedule%20SF%2012-08.pdf |archive-date=January 14, 2009 }}</ref>
+
+====Local mass transit====
+
+<!-- [[Albuquerque Traction Company]] redirects here -->
+[[file:Albuquerque Alvarado Transportation Hub.jpg|thumb|upright|[[Alvarado Transportation Center]], an intermodal transportation hub in downtown Albuquerque]]
+<!-- [[City Electric Company]] redirects here -->
+
+The primary mass transit system is [[ABQ RIDE]], which operates a variety of bus routes throughout the city, including the [[Albuquerque Rapid Transit|Albuquerque Rapid Transit (ART)]] express bus service. The central nexus for public transportation is the Alvarado Transportation System, which connects ABQ RIDE to [[Amtrak]], [[Greyhound Lines]], and the [[New Mexico Rail Runner Express]] [[commuter rail]].[[File:Albuquerque Rapid Transit logo.svg|thumb|upright=0.21|[[Albuquerque Rapid Transit|ART]] logo]]
+
+In 2011, the City of Albuquerque commissioned a study to develop a [[bus rapid transit]] system through the Central Avenue corridor, which accounted for 44% of all bus riders in ABQ RIDE.<ref>{{cite web|url=http://www.cabq.gov/transit/planning-for-the-future-bus-rapid-transit-brt-service-on-central-avenue |title=Planning for the Future: Bus Rapid Transit (BRT) Service on Central Avenue |publisher=CABQ.gov |access-date=October 5, 2011 |archive-url=https://web.archive.org/web/20111011184639/http://cabq.gov/transit/planning-for-the-future-bus-rapid-transit-brt-service-on-central-avenue |archive-date=October 11, 2011 }}</ref> Construction began in 2017 on [[Albuquerque Rapid Transit]] (ART), including dedicated bus lanes between Coors and Louisiana Boulevards.<ref>{{cite web| url=https://www.brtabq.com/| title=Albuquerque Rapid Transit| access-date=December 22, 2018| archive-url=https://web.archive.org/web/20181222173649/https://www.brtabq.com/| archive-date=December 22, 2018}}</ref> ART opened for service in November 2019 and was free to use until January 1, 2020.<ref>{{Cite web |title=Albuquerque Rapid Transit - ART |url=https://www.cabq.gov/transit/services/art-information |access-date=January 12, 2023 |website=City of Albuquerque |language=en}}</ref>
+
+Albuquerque was one of two cities in New Mexico to have had an electric street railway; its horse-drawn streetcar lines were electrified in the early 20th century. The Albuquerque Traction Company assumed operation of the system in 1905, and it grew to its maximum length of {{convert|6|mi|km}} over the next ten years, connecting destinations such as [[Old Town Albuquerque|Old Town]] to the west and the [[University of New Mexico]] to the east with the town's urban center near the former [[Atchison, Topeka & Santa Fe Railway]] depot. The Albuquerque Traction Company failed financially in 1915 and the City Electric Company was formed in its place. Despite traffic booms during the First World War, and unaided by lawsuits attempting to force the streetcar company to pay for paving, that system also failed later in 1927, leaving the [[streetcar]]'s "motorettes" unemployed.<ref name="Myrick">{{cite book |last=Myrick |first=David F |title=New Mexico's Railroads --- An Historical Survey |publisher=Colorado Railroad Museum |year=1970 |location=Golden, Colorado |id=Library of Congress Catalog Card No. 70-116915}}</ref>{{Rp|177–181}}
+
+In 2006, under Mayor [[Martin Chavez]], Albuquerque planned a "fast track" development of a "Modern Streetcar" project, which would run mostly in the southeast quadrant on Central Avenue and Yale Boulevard. Funding for the $270 million system failed amid vocal opposition from some residents.<ref>{{cite news |last=Gisick |first=Michael |date=December 4, 2006 |title=Council: Streetcar project rushed |newspaper=Albuquerque Tribune |url=http://www.abqtrib.com/news/2006/dec/04/council-streetcar-project-rushed/ |access-date=April 26, 2009 |archive-url=https://web.archive.org/web/20101004065158/http://www.abqtrib.com/news/2006/dec/04/council-streetcar-project-rushed/ |archive-date=October 4, 2010}}</ref>
+
+===Bicycle transit===
+
+Albuquerque has a well-developed network of trails, bicycle routes, and paths totaling over 400 miles.<ref>{{cite web |url=http://www.cabq.gov/bike/|title=Biking in Albuquerque |website=City of Albuquerque |archive-url=https://web.archive.org/web/20081222212606/http://www.cabq.gov/bike/ |archive-date=December 22, 2008 }}</ref> A 2021 study by Walk Score ranked it 26th out of 130 U.S. cities in bike friendliness, based on indicators such infrastructure, terrain, and connectivity.<ref>{{Cite web |title=Walk Score Methodology |url=https://www.walkscore.com/methodology.shtml |access-date=January 12, 2023 |website=Walk Score |language=en}}</ref> In 2009, Albuquerque opened its first Bicycle Boulevard on Silver Avenue.<ref>{{cite web |url=http://www.kob.com/article/stories/S742822.shtml |title=Bike Boulevard to run through ABQ |publisher=KOB New Mexico |first1=Jeremy |last1=Jojola |author2=Joshua Panas |date=January 14, 2009 |access-date=August 5, 2009 |archive-url=https://web.archive.org/web/20110722122433/http://www.kob.com/article/stories/S742822.shtml |archive-date=July 22, 2011 }}</ref> In 2015, the city adopted the "Bikeway & Trails Facility Plan" to invest in its bicycle infrastructure, including improving and expanding the existing system, adding new routes, and establishing bike sharing programs.<ref>{{cite news |url=http://www.abqjournal.com/4869/blogs/city-hall/albuquerque-to-launch-bike-sharing-program.html |title=Albuquerque To Launch Bike-Sharing Program |newspaper=Albuquerque Journal |access-date=April 14, 2015 |archive-url=https://web.archive.org/web/20150904052519/http://www.abqjournal.com/4869/blogs/city-hall/albuquerque-to-launch-bike-sharing-program.html |archive-date=September 4, 2015 |url-status=live }}</ref>
+
+===Walkability===
+
+A 2011 study by [[Walk Score]] ranked Albuquerque as the 28th most walkable of the fifty largest U.S. cities, indicating below average performance in metrics such as access to public transit and proximity to people or amenities.<ref>{{cite web |url=http://www.walkscore.com/rankings/cities/ |title=2011 City and Neighborhood Rankings |publisher=Walk Score |year=2011 |access-date=August 28, 2011 |archive-url=https://archive.today/20120919182522/http://www.walkscore.com/rankings/cities/ |archive-date=September 19, 2012 |url-status=live }}</ref> A follow-up study a decade later ranked the city 73rd out of 130 cities nationwide, with a walkability score of 42.6 compared to an average of 48, classifying it as "car-dependent".<ref>{{Cite web |title=Most Walkable Cities in the United States and Canada on Walk Score |url=https://www.walkscore.com/cities-and-neighborhoods/ |access-date=January 12, 2023 |website=Walk Score |language=en}}</ref>
+
+===Airports===
+
+[[file:AlbuquerqueSunportentrance.JPG|thumb|[[Albuquerque International Sunport]]]]
+
+Albuquerque is served primarily by the [[Albuquerque International Sunport]], located {{convert|3|mi|abbr=on}} southeast of the city's central business district. It is the largest airport in New Mexico, and the state's sole international airport, serving over 5 million passengers annually.<ref>{{cite web
+ | url          = https://cabq.gov/airport/sunport-information/facts-figures
+ | title        = Sunport Facts & Figures
+ | access-date  = February 12, 2009
+| publisher    = City of Albuquerque
+ | archive-url  = https://web.archive.org/web/20090213023917/http://cabq.gov/airport/sunport-information/facts-figures
+ | archive-date = February 13, 2009
+}}</ref> The city owns and operates the much smaller [[Double Eagle II Airport]], which is primarily used for [[air ambulance]]s, corporate flights, military flights, [[charter flight]]s, aviation training, and private flights.<ref>{{cite web |url=http://www.cabq.gov/airport/double-eagle-ii-airport |title=Double Eagle II Airport |access-date=February 12, 2009 |website=City of Albuquerque |archive-url=https://web.archive.org/web/20090203011933/http://www.cabq.gov/airport/double-eagle-ii-airport |archive-date=February 3, 2009 }}</ref>
+
+===Utilities===
+
+<!-- ==== Communications ==== -->
+
+====Energy====
+
+[[PNM Resources]], New Mexico's largest electricity provider, is based in Albuquerque. They serve about 487,000 electricity customers statewide. In September 2021, PNM entered final merger talks with [[Avangrid]], the U.S. subsidiary of Spanish power giant [[Iberdrola]]. New Mexico Gas Company, a subsidiary of Canadian utility company [[Emera]], provides natural gas services to more than 540,000 customers in the state, including the Albuquerque metro area.
+
+====Sanitation====
+
+The Albuquerque Bernalillo County Water Utility Authority is responsible for the delivery of [[drinking water]] and the treatment of [[wastewater]]. Trash and recycling in the city are managed by the City of Albuquerque Solid Waste Management Department.
+{{further|#Hydrology}}
+South Side Water Reclamation Plant.
+
+===Healthcare===
+
+Albuquerque is the medical hub of New Mexico, hosting numerous medical centers. The [[University of New Mexico Hospital]] is the largest hospital in New Mexico with 628 licensed beds and is the primary teaching hospital for the [[University of New Mexico School of Medicine]], the state's only medical school. It provides the state's only residency training programs, children's hospital, burn center, and level I pediatric and adult trauma centers, as well as a certified advanced primary stroke center and the largest collection of adult and pediatric specialty and subspecialty programs in the state. Albuquerque's other largest hospitals are Presbyterian Hospital ([[Presbyterian Healthcare Services]]) with 543 licensed beds, Raymond G. Murphy VA Medical Center ([[Veterans Health Administration]]) with 298 beds, and Lovelace Medical Center ([[Lovelace Health System]]) with 263 beds.<ref>{{cite web |last1=Vadnais |first1=Juliana |title=New Mexico Hospitals |url=https://www.bizjournals.com/albuquerque/subscriber-only/2020/07/31/new-mexico-hospitals.html |publisher=Albuquerque Business First |access-date=May 26, 2021 |date=July 31, 2020}}</ref> Smaller specialty hospitals include the Heart Hospital of New Mexico and Lovelace Women's Hospital.
+
+==Notable people==
+
+{{main|List of people from Albuquerque, New Mexico}}
+
+==Sister cities==
+
+{{sisterCities|Albuquerque|11}}<ref>{{cite web
+ | url          = https://cabq.gov/about/albuquerque-sister-cities
+ | title        = Albuquerque Sister Cities
+ | website      = City of Albuquerque
+ | access-date  = November 1, 2020
+| archive-url  = https://web.archive.org/web/20181119205119/http://cabq.gov/about/albuquerque-sister-cities
+ | archive-date = November 19, 2018
+}}</ref>
+
+{{div col|colwidth=20em}}
+
+* [[Alburquerque, Badajoz|Alburquerque]], Spain
+* [[Ashgabat]], Turkmenistan
+* [[Chihuahua City|Chihuahua]], Mexico
+* [[Guadalajara]], Mexico
+* [[Helmstedt]], Germany
+* [[Hualien City|Hualien]], Taiwan
+* [[Lanzhou]], China
+* [[Lusaka]], Zambia
+* [[Rehovot]], Israel
+* [[Sasebo]], Japan
+* [[Kharkiv]], Ukraine
+
+{{div col end}}
+
+==See also==
+
+{{portal|New Mexico}}
+
+* [[Alburquerque, Spain]]
+* [[List of municipalities in New Mexico]]
+* [[National Old Trails Road]]
+* ''[[Breaking Bad]]'' and ''[[Better Call Saul]]'', TV shows set in Albuquerque
+* [[Albuquerque (song)|''Albuquerque'' (song)]] 1999 song by [["Weird Al" Yankovic]] named for and set primarily in Albuquerque
+
+==Explanatory notes==
+
+{{notelist}}
+
+==References==
+
+{{reflist}}
+
+==Further reading==
+
+{{see also|Timeline of Albuquerque, New Mexico#Bibliography|l1=Bibliography of the history of Albuquerque, New Mexico}}
+* Ciotola, Nicholas P. "Italian immigrants in Albuquerque, 1880 to 1930: A study in Western distinctiveness." ''Journal of the West'' 43.4 (2004): 41–48.
+* Luckingham, Bradford. ''The urban southwest: a profile history of Albuquerque, El Paso, Phoenix, Tucson'' (Texas Western Press, 1982)
+* Simmons, Marc. ''Albuquerque: a narrative history'' (University of New Mexico Press, 1982)
+
+==External links==
+
+{{sister project links|voy=Albuquerque|wikt=Albuquerque|b=no|v=no|mw=no|m=no|species=no|s=Portal:New Mexico|q=no}}
+* {{official website|https://cabq.gov}}
+* [https://archive.org/stream/nationalmagazine21brayrich#page/n697/mode/1up 1905 Magazine Article with historical photos]
+* {{cite web|title=Albuquerque, New Mexico|url=https://www.c-span.org/series/?citiesTour&city=5120|publisher=[[C-SPAN]] Cities Tour|date=March 2013}}
+
+{{New Mexico}} {{Albuquerque}} {{Bernalillo County, New Mexico}} {{USPopulousCities}}  {{New Mexico county seats}} {{authority control}}
+
+[[Category:Albuquerque, New Mexico| ]]
+[[Category:Albuquerque metropolitan area]]
+[[Category:New Mexico populated places on the Rio Grande]]
+[[Category:Spanish-American culture in New Mexico]]
+[[Category:1706 establishments in New Spain]]
+[[Category:Populated places established in 1706]]
+[[Category:Cities in New Mexico]]
+[[Category:Cities in Bernalillo County, New Mexico]]
+[[Category:County seats in New Mexico]]
+[[Category:Railway towns in New Mexico]]

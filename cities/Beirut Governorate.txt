@@ -1,0 +1,68 @@
+{{Short description|Governorate of Lebanon}}
+{{More citations needed|date=October 2021}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name               = Beirut Governate
+| native_name        = محافظة بيروت
+| native_name_lang   = ar
+| settlement_type    = Governorate
+| image_map          = Beirut in Lebanon 2020.svg
+| map_caption        = Map of Lebanon with Beirut Governorate highlighted
+| coordinates        = {{coord|33|53|N|35|30|E|type:adm1st|display=inline,title}}
+| subdivision_type   = Country
+| subdivision_name   = [[Lebanon]]
+| seat_type          = Capital
+| seat               = [[Beirut]]
+| government_footnotes = 
+| leader_party       = 
+| leader_title       = Governor
+| leader_name        = [[Marwan Abboud]]
+| unit_pref          = Metric<!-- or US or UK -->
+| area_total_km2     = 19.8
+| pop_est_footnotes  = <ref name=citypop>{{cite web |last=Brinkhoff |first=Thomas |url=https://www.citypopulation.de/en/lebanon/admin/ |title=Lebanon: Administrative Division |website=City Population |date=2 March 2019 |accessdate=17 April 2021}}</ref>
+| population_est     = 433249
+| pop_est_as_of      = 31 December 2017
+| population_density_km2 = auto
+| timezone1          = [[Eastern European Time|EET]]
+| utc_offset1        = +2
+| timezone1_DST      = [[Eastern European Summer Time|EEST]]
+| utc_offset1_DST    = +3
+| website            = <!-- {{URL|example.com}} -->
+}}
+
+'''Beirut Governorate''' ({{langx|ar|محافظة بيروت}}, {{transl|ar|Muhāfazat Bayrūt}}) is a [[governorates of Lebanon|Lebanese governorate]] that consists of one district and one city, [[Beirut]], which is also its capital, and the capital of [[Lebanon]].
+
+The area of this governorate is 19.8&nbsp;km<sup>2</sup> (without [[suburbs]]); despite its small size, it is considered the most important region in Lebanon because of its economic, political, cultural, and social activity. The governor of the Beirut Governate is [[Greek Orthodox Christianity in Lebanon|Greek Orthodox]] according to tradition, while the mayor of the City of Beirut is [[Sunni Islam in Lebanon|Sunni Muslim]]. Beirut is known to be the most religiously diverse city in the Middle East. There are about 2.5 million people in Beirut and its suburbs ([[Greater Beirut]]).
+[[File:Beirut Skyline.jpg|thumb|Beirut Skyline]]
+
+==Cities==
+* [[Beirut]] ([[Greater Beirut]])
+
+==Religion==
+
+{{Pie chart
+|thumb = middle
+|caption = Religion in the Beirut Governorate
+|label1 = [[Islam]]
+|value1 = 61.6
+|color1 = MediumSeaGreen
+|label2 = [[Druze]]
+|value2 = 1
+|color2 = Yellow
+|label3 = [[Christianity]]
+|value3 = 37.4
+|color3 = Blue
+}}
+Beirut Governorate is a diverse governorate containing many religions in a tiny geography. 
+These numbers are a representation of the number of voters in Beirut who are eligible to vote only.
+
+==References==
+{{reflist}}
+
+{{Governorates of Lebanon}}
+{{Authority control}}
+
+[[Category:Beirut Governorate| ]]
+[[Category:Governorates of Lebanon]]
+
+
+{{Lebanon-geo-stub}}

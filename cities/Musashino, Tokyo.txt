@@ -1,0 +1,260 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                            = Musashino
+| native_name                     = {{nobold|{{lang|ja|武蔵野市}}}}
+| official_name                   = 
+| native_name_lang                = ja
+| settlement_type                 = [[Cities of Japan|City]]
+<!-- images, nickname, motto -->
+| image_skyline                   = {{Photomontage
+| photo1a = Musashisakai Station N-Square.jpg
+| photo2a = Ykuromansion.jpg
+| photo3a = Musashino in the snow 2.jpg}}
+| imagesize                       = 
+| image_alt                       = 
+| image_caption                   = Top to bottom: [[Musashi-Sakai Station]], [[Kichijōji|Kichijōji Minamicho]], [[Itsukaichi Kaido|Itsukaichikaido, Musashino]]
+| image_flag                      = Flag of Musashino, Tokyo.svg
+| flag_alt                        = 
+| image_seal                      = Emblem of Musashino, Tokyo.svg
+| seal_alt                        = 
+| image_shield                    = 
+| shield_alt                      = 
+| image_blank_emblem              = 
+| nickname                        = 
+| motto                           = <!-- maps and coordinates -->
+| image_map                       = Musashino in Tokyo Prefecture Ja.svg
+| map_alt                         = 
+| map_caption                     = Location of Musashino in Tokyo
+| pushpin_map                     = Japan
+| pushpin_label_position          = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_alt                 = 
+| pushpin_map_caption             = &nbsp;
+| coordinates                     = {{coord|35|43|3.8|N|139|33|57.8|E|region:JP|display=inline,title}}
+| coor_pinpoint                   = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes           = <!-- for references: use <ref> tags -->
+<!-- location -->| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = Japan
+| subdivision_type1               = [[List of regions of Japan|Region]]
+| subdivision_name1               = [[Kantō region|Kantō]]
+| subdivision_type2               = [[Prefectures of Japan|Prefecture]]
+| subdivision_name2               = [[Tokyo]]
+| subdivision_type3               = 
+| subdivision_name3               = <!-- established -->
+| established_title               = 
+| established_date                = 
+| established_title2              = 
+| established_date2               = 
+| founder                         = 
+| named_for                       = <!-- seat, smaller parts -->
+| seat_type                       = <!-- defaults to: Seat -->
+| seat                            = <!-- government type, leaders -->
+| government_footnotes            = <!-- for references: use <ref> tags -->
+| leader_party                    = 
+| leader_title                    = Mayor
+| leader_name                     = [[:ja:小美濃安弘|Yasuhiro Omino (小美濃安弘)]] (from December 2023)
+| leader_title1                   = 
+| leader_name1                    = <!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings  -->| total_type                      = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref                       = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area -->| area_magnitude                  = <!-- use only to set a special wikilink -->
+| area_footnotes                  = <!-- for references: use <ref> tags -->
+| area_total_km2                  = 10.98
+| area_land_km2                   = 
+| area_water_km2                  = 
+| area_water_percent              = 
+| area_note                       = <!-- elevation -->
+| elevation_footnotes             = <!-- for references: use <ref> tags -->
+| elevation_m                     = <!-- population -->
+| population_footnotes            = <!-- for references: use <ref> tags -->
+| population_total                = 147,754
+| population_as_of                = February 2024
+| population_density_km2          = auto
+| population_est                  = 
+| pop_est_as_of                   = 
+| population_demonym              = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note                 = <!-- time zone(s) -->
+| timezone1                       = [[Japan Standard Time]]
+| utc_offset1                     = +9
+| timezone1_DST                   = 
+| utc_offset1_DST                 = <!-- postal codes, area code -->
+| postal_code_type                = 
+| postal_code                     = 
+| area_code_type                  = <!-- defaults to: Area code(s) -->
+| area_code                       = <!-- blank fields (section 1) -->
+| blank_name_sec1                 = Symbols
+| blank_info_sec1                 = &nbsp;
+| blank1_name_sec1                = • Tree
+| blank1_info_sec1                = [[Magnolia kobus]], [[Zelkova serrata]], [[Cornus florida]]
+| blank2_name_sec1                = • Flower
+| blank2_info_sec1                = [[Lespedeza]], [[Lithospermum purpurocaeruleum]], [[Orychophragmus]], [[Azalea]], [[Daphne odora]], [[Narcissus (flower)|Narcissus]], [[Hibiscus mutabilis]], [[Ipomoea nil]], [[Chrysanthemum]]
+| blank3_name_sec1                = 
+| blank3_info_sec1                = 
+| blank4_name_sec1                = 
+| blank4_info_sec1                = 
+| blank5_name_sec1                = 
+| blank5_info_sec1                = 
+| blank6_name_sec1                = 
+| blank6_info_sec1                = 
+| blank7_name_sec1                = 
+| blank7_info_sec1                = <!-- blank fields (section 2) -->
+| blank_name_sec2                 = Phone&nbsp;number
+| blank_info_sec2                 = 0422-51-5131
+| blank1_name_sec2                = Address
+| blank1_info_sec2                = 2-2-28 Midori-cho, Musashino-shi, Tokyo 180-8777
+<!-- website, footnotes -->
+| website                         = {{Official website|http://www.city.musashino.lg.jp/}}
+| footnotes                       = 
+}}
+{{Nihongo|'''Musashino'''|武蔵野市|Musashino-shi}} is a [[Cities of Japan|city]] located in the [[Western Tokyo|western portion]] of the [[Tokyo Metropolis]], [[Japan]]. {{As of|2024|02|01}}, the city had an estimated [[population]] of 147,754 in 78,614 households, and a [[population density]] of 13,000 persons per km<sup>2</sup>. The total area of the city is {{convert|10.98|sqkm|sqmi}}.<ref name="Musashino-hp">{{cite web |url=http://www.city.musashino.lg.jp/shisei_joho/musashino_profile/jinkotokei/1031544.html |title= Musashino city official statistics|location= Japan|language= ja}}</ref> Based on the 2019 survey by SUUMO, the Kichijoji neighborhood of Musashino was the third most desirable place to live in central Japan.<ref>{{Cite web |date=2019-03-07 |title=Yokohama ranks as most desirable city for living in Kanto for 2nd year in a row |url=https://japantoday.com/category/features/lifestyle/yokohama-ranks-as-most-desirable-city-for-living-in-kanto-for-the-second-year-in-a-row |access-date=2023-07-17 |website=Japan Today |language=en}}</ref>
+
+Popular attractions in Musashino include [[Kichijōji]]; a residential and shopping neighborhood with malls such as Atre Kichijoji, recreational areas such as [[Inokashira Park]], Musashino Chuo Park, [[Musashino Municipal Athletic Stadium]] and Musashino Sports Complex.
+
+==Geography==
+[[File:Sun Road.jpg|thumb|Sun Road, Kichijōji|right|250px]]
+Musashino is located in the [[Musashino Terrace]] of central Tokyo Metropolis. It is bordered by the 23 [[Special Wards of Tokyo]].<ref>{{Cite web|title=64 Things to Do in Musashino: Points of Interest + Activities|url=https://www.inspirock.com/japan/things-to-do-in-musashino|access-date=2021-01-08|website=Inspirock|language=en}}</ref><ref>{{Cite web|last=Adriana|date=2019-05-22|title=Kichijoji – Tokyo's hottest suburban area|url=https://www.rethinktokyo.com/kichijoji|access-date=2021-01-08|website=REthink Tokyo - Real Estate Information for Buyers and Investors|language=en}}</ref>
+
+Musashino is composed of the following neighborhoods: Kichijoji Kitamachi, Kichijoji Higashi Cho, Kichijoji Honcho, Kichijoji Minamicho, Kyonan Cho, Gotenyama, Sakai, Sakurazuki, Sekimae, Nakacho, Nishikubo, Midoricho, and Yahata Cho.<ref>[http://www.mapion.co.jp/address/13203/ Mapion]. 住所一覧から地図を検索 > 関東 > 東京都 > 武蔵野市 地図. Retrieved 2012-02-01.</ref>
+
+[[Kichijōji]] includes the source of the [[Kanda River]].<ref>{{Cite web|title=Hanami at Inokashira park {{!}} MustLoveJapan Video Travel Guide|url=https://www.mustlovejapan.com/subject/inokashira_hanami/|access-date=2021-01-08|website=www.mustlovejapan.com}}</ref>
+
+===Surrounding municipalities===
+[[Tokyo Metropolis]] 
+*[[Koganei, Tokyo|Koganei]]
+*[[Mitaka, Tokyo|Mitaka]]
+*[[Nerima, Tokyo|Nerima]]
+*[[Nishitōkyō, Tokyo|Nishitōkyō]]
+*[[Suginami, Tokyo|Suginami]]
+
+===Climate===
+Musashino has a [[humid subtropical climate]] (Köppen ''Cfa'') characterized by warm summers and cool winters with light to no snowfall. The average annual temperature in Musashino is 14.5&nbsp;°C. The average annual rainfall is 1647&nbsp;mm with September as the wettest month. The temperatures are highest on average in August, at around 26.0&nbsp;°C, and lowest in January, at around 3.1&nbsp;°C.<ref>[https://en.climate-data.org/asia/japan/tokyo/musashino-4747/ Musashino climate data]</ref>
+
+==Demographics==
+Per Japanese census data,<ref>[https://www.citypopulation.de/php/japan-tokyo.php Musashino population statistics]</ref> the population of Musashino increased rapidly in the 1950s and 1960s, but has remained relatively constant over the past 50 years.
+
+{{Historical populations
+| 1920 | 4,931
+| 1930 | 17,229
+| 1940 | 41,767
+| 1950 | 73,149
+| 1960 | 120,337
+| 1970 | 136,959
+| 1980 | 136,910
+| 1990 | 139,077
+| 2000 | 135,746
+| 2010 | 138,734
+| 2020 | 150,149
+|align       = none
+| footnote = 
+}}
+
+==History==
+The area of present-day Musashino was part of ancient [[Musashi Province]].<ref>{{Cite web|last=|first=|date=22 May 2020|title=Kokubunji, Musashino, the belly button of Tokyo|url=https://www.mactionplanet.com/blog/kokubunji-tourism-video/|access-date=2021-01-08|website=www.mactionplanet.com}}</ref> In the post-[[Meiji Restoration]] cadastral reform of July 22, 1878, the area became part of [[Kitatama District, Tokyo|Kitatama District]] in [[Kanagawa Prefecture]]. The village of Musashino was created on April 1, 1889 with the establishment of modern municipalities law. Kitatama District was transferred to the administrative control of Tokyo Metropolis on April 1, 1893.<ref>{{Cite web|last=Writers|first=YABAI|title=The Tourist's Complete Guide to Exploring the City of Kokubunji {{!}} YABAI - The Modern, Vibrant Face of Japan|url=http://yabai.com/p/3836|access-date=2021-01-08|website=YABAI}}</ref> Musashino was elevated to town status in 1928. [[Nakajima Aircraft Company]] had an aircraft engine plant in Musashino, which became a target for American bombers in [[World War II]].<ref>{{Cite web|last=|first=|date=3 December 2020|title=THIRD B-29 RAID ON JAPANESE CAPITAL TOKYO|url=https://ww2days.com/third-b-29-raid-on-japanese-capital.html|access-date=2021-01-08|website=ww2days.com}}</ref> Musashino was elevated to city status on November 3, 1947.<ref>{{Cite web|title=2017 Musashino City Overview|url=http://www.city.musashino.lg.jp/area/material/youran/2017english/pageindices/index54.html|access-date=2021-01-08|website=www.city.musashino.lg.jp}}</ref>
+
+==Government==
+Musashino has a [[mayor-council]] form of government with a directly elected mayor and a [[unicameral]] city council of 26 members. Musashino contributes one member to the Tokyo Metropolitan Assembly. In terms of national politics, the city is part of [[Tokyo 18th district]] of the [[House of Representatives of Japan|lower house]] of the [[Diet of Japan]].
+
+==Economy==
+Musashino is largely a [[commuter town]] for central Tokyo.
+
+The ''[[anime]]'' and ''[[manga]]'' company [[Coamix]] has its headquarters in the [[Kichijōji]] neighborhood of  Musashino.<ref>"[http://www.coamix.co.jp/kaisya/profile.html 事業概要]." "【住所】 [出版コンテンツ事業部（編集部）・キャラクター事業部・総務部] 〒180-0004 東京都武蔵野市吉祥寺本町 2-4-14 メディ・コープビル8 3F TEL/0422-29-0414（代表） FAX/0422-29-0413"</ref> At one time [[Studio Ghibli]] was located in Kichijōji.<ref name="Animerica11">"The Animerica Interview: Takahata and Nosaka: Two Grave Voices in Animation." ''[[Animerica]]''. Volume 2, No. 11. Page 11. Translated by ''Animerica'' from: [[Isao Takahata|Takahata, Isao]]. ''Eiga o Tsukurinagara, Kangaeta Koto'' ("Things I Thought While Making Movies") ''[[Tokuma Shoten]]'', 1991. Originally published in ''[[Animage]]'', June 1987. This is a translation of a 1987 conversation between Takahata and [[Akiyuki Nosaka]]. "Kichijoji<!--Don't change! It's stated without the macron--> is the Tokyo area where "Studio Ghibli," frequent Takahata collaborator Hayao Miyazaki's studio, is located.[...]—Ed."</ref> Several other animation studios are located in Musashino, including [[J.C.Staff]],<ref>"http://www.jcstaff.co.jp/"</ref> [[Artland (company)|Artland]], [[Studio Ponoc]], [[Production I.G]], [[Bee Train]], [[Wit Studio]], [[Silver Link]] and [[Tatsunoko Production]].
+
+The electrical engineering and software company [[Yokogawa Electric]] has its headquarters in Nakacho, Musashino. [[Tokyo Musashino City FC]], a football (soccer) club, is also located there.
+
+==Education==
+===Universities and colleges===
+*[[Asia University (Japan)|Asia University]]
+*[[Japanese Red Cross College of Nursing]]
+*[[Nippon Veterinary and Life Science University]]
+*[[Seikei University]]
+
+===Primary and secondary schools===
+*Musashino has 12 public elementary schools and six public middle schools operated by the Musashino city government. There are also three private elementary schools, two private middle schools and two private combined middle/high schools.
+*The city has two public high schools operated by the [[Tokyo Metropolitan Government Board of Education]].
+
+Metropolitan secondary and high schools:
+* {{ill|Tokyo Metropolitan Musashi Senior High School & Junior High School|ja|東京都立武蔵高等学校・附属中学校}}
+* {{ill|Musashino Kita High School|ja|東京都立武蔵野北高等学校}}
+
+Municipal junior high schools:<ref name=Musashinomunischools>{{cite web|url=https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/006/972/R2gakkuiki.pdf|title=武蔵野市立学校学区表|publisher=Musashino|accessdate=2022-11-13}}</ref>
+* No. 1 Junior High School ([[:ja:武蔵野市立第一中学校|第一中学校]])
+* No. 2 Junior High School ([[:ja:武蔵野市立第二中学校|第二中学校]])
+* No. 3 Junior High School ([[:ja:武蔵野市立第三中学校|第三中学校]])
+* No. 4 Junior High School ([[:ja:武蔵野市立第四中学校|第四中学校]])
+* No. 5 Junior High School ([[:ja:武蔵野市立第五中学校|第五中学校]])
+* No. 6 Junior High School ([[:ja:武蔵野市立第六中学校|第六中学校]])
+
+Municipal elementary schools:<ref name=Musashinomunischools/>
+* No. 1 Elementary School ([[:ja:武蔵野市立第一小学校|第一小学校]])
+* No. 2 Elementary School ([[:ja:武蔵野市立第二小学校|第二小学校]])
+* No. 3 Elementary School ([[:ja:武蔵野市立第三小学校|第三小学校]])
+* No. 4 Elementary School ([[:ja:武蔵野市立第四小学校|第四小学校]])
+* No. 5 Elementary School ([[:ja:武蔵野市立第五小学校|第五小学校]])
+* Honjuku Elementary School ([[:ja:武蔵野市立本宿小学校|本宿小学校]])
+* Inokashira Elementary School ([[:ja:武蔵野市立井之頭小学校|井之頭小学校]])
+* Kyonan Elementary School ([[:ja:武蔵野市立境南小学校|境南小学校]])
+* Onoden Elementary School ([[:ja:武蔵野市立大野田小学校|大野田小学校]])
+* Sakurano Elementary School ([[:ja:武蔵野市立桜野小学校|桜野小学校]])
+* Sekimae Minami Elementary School ([[:ja:武蔵野市立関前南小学校|関前南小学校]])
+* Senkawa Elementary School ([[:ja:武蔵野市立千川小学校|千川小学校]])
+
+Private schools:
+* {{ill|Fujimura Girls' Junior and Senior High School|ja|藤村女子中学校・高等学校}}
+* {{ill|Kichijo Girls' School|ja|吉祥女子中学校・高等学校}} (junior and senior high school)
+* {{ill|Seikei Junior and Senior High School|ja|成蹊中学校・高等学校}}
+* {{ill|Shotoku Gakuen Junior and Senior High School|ja|聖徳学園中学校・高等学校}}
+
+===International schools===
+*Little Angels International School (now [[Musashi International School Tokyo]]), a private international school, previously had a campus in [[Kichijōji]], Musashino.<ref>"[https://web.archive.org/web/20150309053150/http://www.angelsenglish.com/about/Archived-files/2011/SpingSchool_App2011.pdf Spring School Program 2011 Application Form] " ([http://web.archive.org/web/20150309053150/http://www.angelsenglish.com/about/Archived-files/2011/SpingSchool_App2011.pdf Archive]). [[Little Angels International School]]. Retrieved on March 9, 2015. "Little Angels International School 4-9-15, Honcho, Kichijoji, Musashino-shi, Tokyo 180-0004 (〒180-0004 東京都武蔵野市吉祥寺本町4-9-15)"</ref>
+
+==Transportation==
+
+===Railways===
+[[File:JR logo (east).svg|20px]] [[JR East]] – [[Chūō Line (Rapid)]]
+*{{STN|Kichijōji }} 
+* {{STN|Mitaka}} (northern part of the station is located in Nakacho, Musashino)
+* {{STN|Musashi-Sakai}}
+[[file:KeioRailway logo.svg|40px]] [[Keio Corporation]] - [[Keio Inokashira Line]]
+*{{STN|Kichijōji}}
+[[File:SeibuRailway mark.svg|20px]] - [[Seibu Tamagawa Line]]
+*{{STN|Musashi-Sakai}}
+
+===Highways===
+*Musashino is not served by any national highways or expressways
+[[File:Inokasira Park.jpg|right|270px|thumb|Inokashira Park]]
+
+==Local attractions==
+*[[Inokashira Park]]
+*Musashino Central Park
+*[[Musashino Municipal Athletic Stadium]]
+*Musashino Sports Complex
+
+==Sister cities==
+*{{flagicon|South Korea}} [[Chungju]], [[Chungcheongbuk-do]], [[South Korea]]
+*{{flagicon|South Korea}} [[Gangdong District]], [[Seoul, South Korea]]
+*{{flagicon|Romania}} [[Brașov]], [[Romania]]
+*{{Flagicon|Russia}} [[Khabarovsk]], [[Khabarovsk Krai]], [[Russia]]
+*{{Flagicon|USA}} [[Lubbock]], [[Texas]], [[United States]]
+
+==Musashino in popular culture==
+* [[Satoshi Kon]]'s [[anime series]] ''[[Paranoia Agent]]'' and Oyuki Konno's [[shōjo]] novel series ''[[Maria-sama ga Miteru]]'' take place in Musashino.
+* [[Shōhei Ōoka]]'s 1951 novel ''A Wife in Musashino (Musashino Fujin)'' is a drama in which a moral and stoic woman, trapped in a loveless marriage with a selfish and morally decadent man, becomes implicated against her will in what looks like an affair with her younger cousin. The story ends tragically as she is let down by him as well as by her husband. [[Kenji Mizoguchi]] made the story into a film in 1951, starring [[Kinuyo Tanaka]] and [[Masayuki Mori (actor)|Masayuki Mori]].
+* Innocent Grey's 2007 [[visual novel]] ''[[Kara no Shoujo]]'' features many scenes set in Musashino in 1956. Inokashira Park in particular serves as a pivotal setting for much of the story.
+* In the ''[[Yokohama Kaidashi Kikō]]'' manga by [[Hitoshi Ashinano]], Musashino is the "former capital of the East" in a post-Apocalyptic Japan in which the ocean level continually rises, implying Tokyo itself had been submerged many years before it.
+* In the anime ''[[Shirobako]]'' the animation studio is named Musashino Animation.
+*In the manga series ''[[Great Teacher Onizuka]]'', Onizuka lives in Musashino and his first job is at Musashino Public High School. He later gets a job at a private school in [[Kichijōji]].
+
+==References==
+{{reflist}}
+
+==External links==
+{{Portal|Tokyo}}
+{{Commons category}}
+* {{wikivoyage-inline|Musashino}}
+*[http://www.city.musashino.lg.jp/ Musashino City Official Website] {{in lang|ja}}
+
+{{Tokyo}}
+{{Authority control}}
+
+[[Category:Musashino, Tokyo| ]]
+[[Category:Cities in Tokyo]]
+[[Category:Western Tokyo]]

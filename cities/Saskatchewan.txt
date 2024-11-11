@@ -1,0 +1,607 @@
+{{Short description|Province of Canada}}
+{{about|the Canadian province|other uses}}
+{{Use Canadian English|date=May 2023}}
+{{Use mdy dates|date=May 2023}}
+{{Infobox province or territory of Canada
+| name                    = Saskatchewan
+| settlement_type         = [[Provinces and territories of Canada|Province]]
+| other_name              =
+| image_flag              = Flag of Saskatchewan.svg
+| image_shield            = Coat of arms of Saskatchewan.svg
+| motto                   = {{native phrase|la|Multis e Gentibus Vires}}<ref>{{cite web |archive-url=https://web.archive.org/web/20150317120951/http://www.gov.sk.ca/Default.aspx?DN=47dfeff1-17ae-49b9-a024-9e76764fd153 |archive-date=March 17, 2015 | url=http://www.gov.sk.ca/Default.aspx?DN=47dfeff1-17ae-49b9-a024-9e76764fd153 | title=Emblems of Saskatchewan | publisher=Government of Saskatchewan | access-date=July 22, 2014}}</ref><br />("From Many Peoples, Strength")
+| image_map               = Saskatchewan in Canada 2.svg
+| Label_map               = yes
+| coordinates             = {{Coord|54|00|00|N|106|00|02|W|type:adm1st_scale:30000000_region:CA-SK|notes=<ref>{{Cite cgndb|HAWKP|Saskatchewan}}</ref>|display=inline,title}}
+| official_lang           = [[English language|English]]<ref>{{cite web | title = The legal context of Canada's official languages | publisher = University of Ottawa | url = https://slmc.uottawa.ca/?q=english_french_legal | accessdate = 2019-03-07 | archiveurl = https://web.archive.org/web/20171010214715/https://slmc.uottawa.ca/?q=english_french_legal | archivedate = 2017-10-10 | url-status = dead }}</ref>
+| capital                 = [[Regina, Saskatchewan|Regina]]
+| largest_city            = [[Saskatoon]]
+| largest_metro           = [[Saskatoon metropolitan area|Greater Saskatoon]]
+| government_type         = [[Parliamentary system|Parliamentary]] [[constitutional monarchy]]
+| Premier                 = [[Scott Moe]]
+| Viceroy                 = [[Russell Mirasty]]
+| ViceroyType             = Lieutenant governor
+| Legislature             = <!--Before changing this field, please come to the Talk page where it has been discussed before--> Legislature of Saskatchewan
+| area_rank               = 7th
+| area_total_km2          = 651900
+| area_land_km2           = 591670
+| area_water_km2          = 59366
+| PercentWater            = 9.1
+| population_demonym      = Saskatchewanian (official)<ref>''Saskatchewanian'' is the prevalent demonym, and is [https://web.archive.org/web/20110807071307/http://www.gov.sk.ca/Default.aspx?DN=ec59e326-4224-4f8d-ab8c-907089fe1094&c=all&q=Saskatchewanians used by the Government of Saskatchewan]. According to the ''Oxford Guide to Canadian English Usage'' ({{ISBN|0-19-541619-8}}; p. 335), ''Saskatchewaner'' is also in use.</ref>
+| population_rank         = 6th
+| population_total        = 1132505 <!--2021 StatCan federal census population only per [[WP:CANPOP]]. Do not update until 2026 census population released. Use "Population_est" below for latest StatCan quarterly estimate.-->
+| population_ref          = <ref name=StatCan2021>{{cite web |url=https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000101 |title=Population and dwelling counts: Canada, provinces and territories |publisher=[[Statistics Canada]] |date=February 9, 2022 |access-date=February 9, 2022 |url-status=live |archive-date=February 9, 2022 |archive-url=https://web.archive.org/web/20220209134802/https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000101 }}</ref>
+| population_as_of        = [[2021 Canadian census|2021]]
+| population_est          = 1239865<!-- Latest StatCan quarterly estimate only. -->
+| pop_est_as_of           = Q3 2024
+| pop_est_ref             = <ref>{{Cite web |date=September 27, 2023 |title=Population estimates, quarterly |url=https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901 |url-status=live |archive-url=https://web.archive.org/web/20230928010937/https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901 |archive-date=September 28, 2023 |access-date=September 28, 2023 |publisher=[[Statistics Canada]]}}</ref>
+| DensityRank             = 9th
+| Density_km2             = 1.9<ref name=census2011>{{cite web |url=http://www12.statcan.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/Table-Tableau.cfm?LANG=Eng&T=101&S=50&O=A |title=Population and dwelling counts, for Canada, provinces and territories, 2011 and 2006 censuses |publisher=Statcan.gc.ca |date=February 8, 2012 |access-date=February 8, 2012 |archive-date=December 26, 2018 |archive-url=https://web.archive.org/web/20181226132943/https://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/Table-Tableau.cfm?LANG=Eng&T=101&S=50&O=A  }}</ref>
+| GDP_year                = 2015
+| GDP_total               = {{CAD|79.415&nbsp;billion}}<ref name=GDP2011>{{cite web | url=http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/econ15-eng.htm | title=Gross domestic product, expenditure-based, by province and territory (2015) | publisher=Statistics Canada | date=November 9, 2016 | access-date=January 26, 2017 | archive-date=September 19, 2012 | archive-url=https://web.archive.org/web/20120919211233/http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/econ15-eng.htm | url-status=live }}</ref>
+| GDP_rank                = 5th
+| GDP_per_capita          = {{CAD|70,138}}
+| GDP_per_capita_rank     = 4th
+| HDI_year                = 2019
+| HDI                     = 0.921<ref name=":0">{{cite web|title=Sub-national HDI – Subnational HDI – Global Data Lab|url=https://globaldatalab.org/shdi/shdi/CAN/?levels=1%2B4&interpolation=1&extrapolation=0&nearest_real=0&years=2019 |access-date=September 6, 2021|archive-date=September 25, 2021|archive-url=https://web.archive.org/web/20210925115406/https://globaldatalab.org/shdi/shdi/CAN/?levels=1%2B4&interpolation=1&extrapolation=0&nearest_real=0&years=2019 |url-status=live}}</ref> — <span style="color:#090">Very high</span>
+| HDI_rank                = 8th
+| Former                  = [[District of Assiniboia]], [[District of Athabasca]], [[District of Saskatchewan]]
+| AdmittanceOrder         = 10th, with [[Alberta]]
+| AdmittanceDate          = September 1, 1905 (split from [[Northwest Territories|NWT]])
+| HouseSeats              = 14
+| SenateSeats             = 6
+| timezone1_location      = [[Time in Saskatchewan|year-round in most areas]]
+| timezone1               = [[Central Time Zone|Central]]
+| utc_offset1             = −06:00
+| timezone1_DST           =
+| utc_offset1_DST         =
+| timezone2_location      = [[Lloydminster]] and nearby areas
+| timezone2               = [[Mountain Time Zone|Mountain]]
+| utc_offset2             = −07:00
+| timezone2_DST           = [[Mountain Time Zone|Mountain DST]]
+| utc_offset2_DST         = −06:00
+| PostalAbbreviation      = SK
+| PostalCodePrefix        = [[List of S Postal Codes of Canada|S]]
+| iso_code                = CA-SK
+| website                 = https://www.saskatchewan.ca
+| flower                  = [[Western red lily]]
+| tree                    = [[Paper birch]]
+| bird                    = [[Sharp-tailed grouse]]
+}}
+
+'''Saskatchewan''' ({{IPAc-en|audio=Saskatchewan.ogg|s|ə|ˈ|s|k|æ|tʃ|(|ə|)|w|ə|n}} {{respell|sə|SKATCH|(ə|)wən}}, {{IPA|fr-CA|saskatʃəˈwan|label=[[Canadian French]]:}}) is a [[Provinces and territories of Canada|province]] in [[Western Canada]]. It is bordered on the west by [[Alberta]], on the north by the [[Northwest Territories]], on the east by [[Manitoba]], to the northeast by [[Nunavut]], and to the south by the United States ([[Montana]] and [[North Dakota]]). Saskatchewan and Alberta are the only [[landlocked]] provinces of Canada. In 2024, Saskatchewan's population was estimated at 1,239,865.<ref name="popest">{{cite web|url=https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901|title=Population estimates, quarterly1|publisher=[[Statistics Canada]]|date=September 28, 2022}}</ref> Nearly 10% of Saskatchewan's total area of {{cvt|651900|km2}} is fresh water, mostly rivers, reservoirs, and [[List of lakes in Saskatchewan|lakes]].
+
+Residents live primarily in the southern prairie half of the province, while the northern half is mostly forested and sparsely populated. Roughly half live in the province's largest city, [[Saskatoon]], or the provincial capital, [[Regina, Saskatchewan|Regina]]. Other notable cities include [[Prince Albert, Saskatchewan|Prince Albert]], [[Moose Jaw]], [[Yorkton]], [[Swift Current]], [[North Battleford]], [[Estevan]], [[Weyburn]], [[Melfort, Saskatchewan|Melfort]], and the border city of [[Lloydminster]].<ref name="StatsCan09">{{cite web|title=Statistics Canada, Quarterly demographic estimates, 2009|url=http://www.statcan.gc.ca/daily-quotidien/091223/t091223b2-eng.htm |date=December 23, 2009|website=150.statcan.gc|publisher=Statcan.gc.ca|access-date=February 23, 2011|archive-date=October 5, 2017|archive-url=https://web.archive.org/web/20171005135259/http://www.statcan.gc.ca/daily-quotidien/091223/t091223b2-eng.htm|url-status=live}}</ref> [[English language|English]] is the primary language of the province, with 82.4% of Saskatchewanians speaking English as their [[first language]].<ref>{{cite web|last=Government of Canada|first=Statistics Canada|date=2017-02-08|title=Census Profile, 2016 Census – Saskatchewan [Province] and Canada [Country]|url=https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=47&Geo2=PR&Code2=01&SearchText=Saskatchewan&SearchType=Begins&SearchPR=01&B1=Language&TABID=1&type=1 |access-date=2021-05-27|website=www12.statcan.gc.ca|archive-date=June 28, 2021|archive-url=https://web.archive.org/web/20210628033512/https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E|url-status=live}}</ref>
+
+Saskatchewan has been inhabited for thousands of years by [[Indigenous peoples in Canada|indigenous peoples]]. Europeans first explored the area in 1690 and first settled in the area in 1774. It became a province in 1905, carved out from the vast [[History of the Northwest Territories|North-West Territories]], which had until then included most of the [[Canadian Prairies]]. In the early 20th century, the province became known as a stronghold for Canadian social democracy; North America's [[Co-operative Commonwealth Federation|first social-democratic government]] was [[1944 Saskatchewan general election|elected in 1944]]. The province's economy is based on [[agriculture]], [[mining]], and [[Energy industry|energy]].
+
+Saskatchewan is presently governed by Premier [[Scott Moe]], the leader of the [[Saskatchewan Party]], which has been in power since 2007.
+
+In 1992, the federal and provincial governments signed a historic land claim agreement with [[First Nations in Saskatchewan]].<ref name="aadnc-aandc1" /> The First Nations received compensation which they could use to buy land on the open market for the bands. They have acquired about {{cvt|3079|km2|acre mi2}}, new reserve lands under this process. Some First Nations have used their settlement to invest in urban areas, including Regina and Saskatoon.<ref name="aadnc-aandc1">[http://www.aadnc-aandc.gc.ca/eng/1312988304164 "Treaty Land Entitlement&nbsp;– The English River Story, Saskatchewan"] {{Webarchive|url=https://web.archive.org/web/20120714032629/http://www.aadnc-aandc.gc.ca/eng/1312988304164 |date=July 14, 2012 }}, Aboriginal Affairs and Northern Development Canada, accessed November 25, 2011</ref>
+
+== Etymology ==
+The name of the province is derived from the [[Saskatchewan River]]. The river is known as {{lang|cr|ᑭᓯᐢᑳᒋᐘᓂ ᓰᐱᐩ}} {{lang|cr-Latn|kisiskāciwani-sīpiy}} ("swift flowing river") in the [[Cree language]].<ref name="name">{{cite web|title=Government of Canada|url=http://geonames.nrcan.gc.ca/education/prov_e.php#sk |date=September 18, 2007|website=nrcan.gc|publisher=Geonames.nrcan.gc.ca|archive-url=https://web.archive.org/web/20080604204017/http://geonames.nrcan.gc.ca/education/prov_e.php#sk |archive-date=June 4, 2008|access-date=February 23, 2011}}</ref> [[Anthony Henday|Anthony Henday's]] spelling was ''Keiskatchewan'', with the modern rendering, ''Saskatchewan'', being officially adopted in 1882, when a portion of the present-day province was designated a [[provisional district of the North-West Territories]].<ref>{{Cite book|last=Hamilton|first=William|title=The Macmillan Book of Canadian Place Names|publisher=Macmillan|year=1978|isbn=0-7715-9754-1|location=Toronto|page=247}}</ref>
+
+== Geography ==
+{{Main|Geography of Saskatchewan}}
+{{See also|List of regions of Saskatchewan}}
+[[File:Saskatchewan Topographic.png|thumb|A topographic map of Saskatchewan, showing cities, towns, rural municipality borders, and natural features.]]
+Saskatchewan is the only province without a [[natural border]]. As its borders follow geographic lines of [[longitude]] and [[latitude]], the province is roughly a [[quadrilateral]], or a shape with four sides. However, the southern border on the [[49th parallel north|49th parallel]] and the northern border on the [[60th parallel north|60th parallel]] curve to the left as one proceeds east, as do all parallels in the Northern Hemisphere. Additionally, the eastern boundary of the province follows range lines and [[correction line]]s of the [[Dominion Land Survey]], laid out by surveyors prior to the ''[[Dominion Lands Act]]'' [[Homestead principle|homestead]] program (1880–1928).
+
+Saskatchewan is part of the western provinces and is bounded on the west by [[Alberta]], on the north by the [[Northwest Territories]], on the north-east by [[Nunavut]], on the east by [[Manitoba]], and on the south by the [[U.S. state]]s of [[Montana]] and [[North Dakota]]. Saskatchewan has the distinction of being the only Canadian province for which no borders correspond to physical geographic features (i.e. they are all parallels and meridians). Along with Alberta, Saskatchewan is one of only two [[land-locked]] provinces.
+
+The overwhelming majority of Saskatchewan's population is in the southern third of the province, south of the [[53rd parallel north|53rd parallel]].
+
+Saskatchewan contains two major natural regions: the [[Boreal Forest of Canada|boreal forest]] in the north and the [[prairie]]s in the south. They are separated by an [[aspen parkland]] transition zone near the [[North Saskatchewan River]] on the western side of the province, and near to south of the [[Saskatchewan River]] on the eastern side. Northern Saskatchewan is mostly covered by forest except for the [[Lake Athabasca Sand Dunes]], the largest active sand dunes in the world north of 58°, and adjacent to the southern shore of [[Lake Athabasca]]. Southern Saskatchewan contains another area with sand dunes known as the "Great Sand Hills" covering over {{cvt|300|km2}}. The [[Cypress Hills (Canada)|Cypress Hills]], in the southwestern corner of Saskatchewan and Killdeer Badlands ([[Grasslands National Park]]), are areas of the province that were unglaciated during the last glaciation period, the [[Wisconsin glaciation]].
+
+The province's highest point, at {{cvt|1392|m}}, is in the [[Cypress Hills (Canada)|Cypress Hills]] less than {{cvt|2|km}} from the provincial boundary with Alberta.<ref>{{cite web|title=Saskatchewan High Point|url=http://peakbagger.com/peak.aspx?pid=6140|website=peakbagger|publisher=Peakbagger.com|access-date=August 17, 2014|archive-date=June 10, 2021|archive-url=https://web.archive.org/web/20210610084752/https://www.peakbagger.com/peak.aspx?pid=6140|url-status=live}}</ref> The lowest point is the shore of [[Lake Athabasca]], at {{cvt|213|m}}. The province has 14 major [[drainage basin]]s made up of various rivers and watersheds draining into the [[Arctic Ocean]], [[Hudson Bay]] and the [[Gulf of Mexico]].<ref>[https://web.archive.org/web/20080315170748/http://esask.uregina.ca/entry/hydrology.html Hydrology] from The Encyclopedia of Saskatchewan</ref>
+
+=== Climate ===
+[[File:Saskatchewan Köppen.svg|thumb|[[Köppen climate classification|Köppen climate types]] of Saskatchewan]]
+Saskatchewan receives more hours of [[sunshine]] than any other Canadian province.<ref>{{cite web|title=National Climate Data|url=http://climate.weatheroffice.gc.ca/winners/provincedata_categories_e.html?SelectedCategory=40|website=climate.weather.gc|publisher=Environment Canada|archive-url=https://web.archive.org/web/20120119055015/http://climate.weatheroffice.gc.ca/winners/provincedata_categories_e.html?SelectedCategory=40|archive-date=January 19, 2012|access-date=July 17, 2011}}</ref> The province lies far from any significant body of water. This fact, combined with its northerly latitude, gives it a warm summer, corresponding to its [[humid continental climate]] ([[Köppen climate classification|Köppen type ''Dfb'']]) in the central and most of the eastern parts of the province, as well as the [[Cypress Hills (Canada)|Cypress Hills]]; drying off to a [[semi-arid]] steppe climate (Köppen type ''BSk'') in the southwestern part of the province. Drought can affect agricultural areas during long periods with little or no precipitation at all. The northern parts of Saskatchewan – from about [[La Ronge]] northward – have a [[subarctic climate]] (Köppen ''Dfc'') with a shorter summer season. Summers can get very hot, sometimes above {{cvt|38|C}} during the day, and with humidity decreasing from northeast to southwest. Warm southern winds blow from the plains and intermontane regions of the Western United States during much of July and August, very cool or hot but changeable air masses often occur during spring and in September. Winters are usually bitterly cold, with frequent Arctic air descending from the north,<ref>{{cite web|title=2008/12/23, Four PM|url=http://www.tbray.org/ongoing/When/200x/2009/02/06/2008-12-23 |last=Bray |first=Tim|date=December 23, 2008|website=tbray|access-date=February 28, 2008|quote=English just doesn't have words to describe cold of that intensity. I was appropriately dressed but am still a mild-climate West Coast Wimp, and the cold hurt me wherever it touched me; and it tried really hard to find chinks in my clothing's {{sic|armor}} to penetrate and hurt.|archive-date=March 3, 2021|archive-url=https://web.archive.org/web/20210303003331/https://www.tbray.org/ongoing/When/200x/2009/02/06/2008-12-23|url-status=live}}</ref> and with high temperatures not breaking {{cvt|-17|C}} for weeks at a time. Warm [[chinook winds]] often blow from the west, bringing periods of mild weather. Annual precipitation averages 30 to 45 centimetres (12 to 18&nbsp;inches) across the province, with the bulk of rain falling in June, July, and August.<ref>{{cite web|title=Average Weather for Saskatoon, SK – Temperature and Precipitation|url=http://www.weather.com/outlook/travel/businesstraveler/wxclimatology/monthly/graph/CAXX0442?from=search |date=July 29, 2010|website=Weather|publisher=Weather.com|archive-url=https://web.archive.org/web/20071014184756/http://www.weather.com/outlook/travel/businesstraveler/wxclimatology/monthly/graph/CAXX0442?from=search |archive-date=October 14, 2007|access-date=February 23, 2011}}</ref>
+
+Saskatchewan is one of the most [[tornado]]-active parts of [[Canada]], averaging roughly 12 to 18 tornadoes per year, some violent. In 2012, 33 tornadoes were reported in the province. The [[Regina Cyclone]] took place in June 1912 when 28 people died in an F4 [[Fujita scale]] tornado. Severe and non-severe thunderstorm events occur in Saskatchewan, usually from early spring to late summer. Hail, strong winds and isolated tornadoes are a common occurrence.
+
+The hottest temperature ever recorded in Saskatchewan was in July 1937 when the temperature rose to {{cvt|45|C}} in [[Midale]] and [[Yellow Grass]]. The coldest ever recorded in the province was {{cvt|−56.7|C}} in [[Prince Albert, Saskatchewan|Prince Albert]], north of Saskatoon, in February 1893.
+
+{| class="wikitable sortable" style="margin:1em auto; width:100%; font-size:100%;"{{center
+|+Average daily maximum and minimum temperatures for selected cities in Saskatchewan<ref name="Canadian Climate Normals or Averages 1971-2000">{{cite web|title=National Climate Data and Information Archive|url=http://climate.weatheroffice.gc.ca/Welcome_e.html|website=climate.weatheroffice.gc|publisher=Environment Canada|archive-url=https://web.archive.org/web/20091211013802/http://climate.weatheroffice.gc.ca/Welcome_e.html |archive-date=December 11, 2009|access-date=September 2, 2010}}</ref>}}
+|-
+!City
+!Average maximum in July
+!Average minimum in July
+!Average maximum in January
+!Average minimum in January
+|-
+|[[Maple Creek, Saskatchewan|Maple Creek]]
+|{{cvt|27|C}}
+|{{cvt|11|C}}
+|{{cvt|-5|C}}
+|{{cvt|-16|C}}
+|-
+|[[Estevan]]
+|{{cvt|27|C}}
+|{{cvt|13|C}}
+|{{cvt|-9|C}}
+|{{cvt|-20|C}}
+|-
+|[[Weyburn]]
+|{{cvt|26|C}}
+|{{cvt|12|C}}
+|{{cvt|-10|C}}
+|{{cvt|-21|C}}
+|-
+|[[Moose Jaw]]
+|{{cvt|26|C}}
+|{{cvt|12|C}}
+|{{cvt|-8|C}}
+|{{cvt|-19|C}}
+|-
+|[[Regina, Saskatchewan|Regina]]
+|{{cvt|26|C}}
+|{{cvt|11|C}}
+|{{cvt|-10|C}}
+|{{cvt|-22|C}}
+|-
+|[[Saskatoon]]
+|{{cvt|25|C}}
+|{{cvt|11|C}}
+|{{cvt|-12|C}}
+|{{cvt|-22|C}}
+|-
+|[[Melville, Saskatchewan|Melville]]
+|{{cvt|25|C}}
+|{{cvt|11|C}}
+|{{cvt|-12|C}}
+|{{cvt|-23|C}}
+|-
+|[[Swift Current]]
+|{{cvt|25|C}}
+|{{cvt|11|C}}
+|{{cvt|-7|C}}
+|{{cvt|-17|C}}
+|-
+|[[Humboldt, Saskatchewan|Humboldt]]
+|{{cvt|24|C}}
+|{{cvt|11|C}}
+|{{cvt|-12|C}}
+|{{cvt|-23|C}}
+|-
+|[[Melfort, Saskatchewan|Melfort]]
+|{{cvt|24|C}}
+|{{cvt|11|C}}
+|{{cvt|-14|C}}
+|{{cvt|-23|C}}
+|-
+|[[North Battleford]]
+|{{cvt|24|C}}
+|{{cvt|11|C}}
+|{{cvt|-12|C}}
+|{{cvt|-22|C}}
+|-
+||[[Yorkton]]
+|{{cvt|24|C}}
+|{{cvt|11|C}}
+|{{cvt|-13|C}}
+|{{cvt|-23|C}}
+|-
+|[[Lloydminster]]
+|{{cvt|23|C}}
+|{{cvt|11|C}}
+|{{cvt|-10|C}}
+|{{cvt|-19|C}}
+|-
+|[[Prince Albert, Saskatchewan|Prince Albert]]
+|{{cvt|24|C}}
+|{{cvt|11|C}}
+|{{cvt|-13|C}}
+|{{cvt|-25|C}}
+|}
+
+==== Climate change ====
+{{Main|Climate change in Saskatchewan}}
+The effects of [[climate change in Saskatchewan]] are now being observed in parts of the province. There is evidence of reduction of [[biomass (ecology)|biomass]] in Saskatchewan's [[boreal forests]]<ref>{{cite journal |last1=Ma |first1=Zhihai |last2=Peng |first2=Changhui |last3=Zhu |first3=Qiuan |last4=Chen |first4=Huai |last5=Yu |first5=Guirui |last6=Li |first6=Weizhong |last7=Zhou |first7=Xiaolu |last8=Wang |first8=Weifeng |last9=Zhang |first9=Wenhua |title=Regional drought-induced reduction in the biomass carbon sink of Canada's boreal forests |journal=Proceedings of the National Academy of Sciences of the United States of America |date=2012 |volume=109 |issue=7 |pages=2423–2427 |doi=10.1073/pnas.1111576109 |pmid=22308340 |pmc=3289349 |bibcode=2012PNAS..109.2423M |doi-access=free }}</ref> (as with those of other [[Prairie provinces|Canadian prairie provinces]]) is linked by researchers to drought-related water stress, stemming from [[global warming]], most likely caused by [[greenhouse gas emissions]]. While studies as early as 1988 (Williams, et al., 1988) have shown climate change will affect agriculture,<ref>Williams, G.D.V., R.A. Fautley, K.H. Jones, R.B. Stewart, and E.E. Wheaton. 1988. "Estimating Effects of Climatic Change on Agriculture in Saskatchewan, Canada." p. 219–379. In M.L. Parry et al. (ed.) ''The Impact of Climatic Variations on Agriculture''. Vol. 1 Assessment in Cool Temperate and Cold Regions. Reidel Publ. Co. Dordrecht.</ref> the effects can be mitigated through adaptations of [[cultivars]], or crops, is less clear. [[Resilience (ecology)|Resiliency]] of [[ecosystem]]s may decline with large changes in temperature.<ref>Riebsame. W.E. (1991). [https://www.colorado.edu/geography/class.../geog.../Travis_GP_sust.pdf "Sustainability of the Great Plains in an Uncertain Climate."]{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes }} ''Great Plains Research'' Vol.1 No.1, University of Nebraska</ref> The provincial government has responded to the threat of climate change by introducing a plan to reduce [[Greenhouse gas|carbon emissions]], "The Saskatchewan Energy and Climate Change Plan", in June 2007.
+
+== History ==
+{{Main|History of Saskatchewan}}
+[[File:Henry Kelsey sees the buffalo on the western plains.jpg|left|upright|thumb|[[Charles William Jefferys]]'s 20th century illustration of [[Henry Kelsey]] observing a herd of [[American bison|bison]] on the western plains. ]]
+Saskatchewan has been populated by various [[indigenous peoples of North America]], including members of the [[Sarcee people|Sarcee]], [[Niitsitapi]], [[Gros Ventre people|Atsina]], [[Cree]], [[Saulteaux]], [[Assiniboine people|Assiniboine]] (Nakoda), and [[Sioux]].
+
+The first known European to enter Saskatchewan was [[Henry Kelsey]] from England in 1690, who travelled up the Saskatchewan River in hopes of trading fur with the region's indigenous peoples. [[Fort La Jonquière]] and [[Fort de la Corne]] were first established in 1751 and 1753 by early French explorers and traders. The first permanent European settlement was a [[Hudson's Bay Company]] post at [[Cumberland House, Saskatchewan|Cumberland House]], founded in 1774 by [[Samuel Hearne]].<ref>{{Cite journal |pmc = 2094753|year = 2000|last1 = Houston|first1 = C. S.|title = The first smallpox epidemic on the Canadian Plains: In the fur-traders' words|journal = The Canadian Journal of Infectious Diseases|volume = 11|issue = 2|pages = 112–115|last2 = Houston|first2 = S.|pmid = 18159275|doi=10.1155/2000/782978|doi-access = free}}</ref> The southern part of the province was part of [[Louisiana (New Spain)|Spanish Louisiana]] from 1762 until 1802.<ref>{{cite encyclopedia|url=http://www.britannica.com/EBchecked/topic/349302/Louisiana-Purchase|title=Louisiana Purchase|encyclopedia=Encyclopædia Britannica|access-date=December 31, 2014|archive-date=May 1, 2015|archive-url=https://web.archive.org/web/20150501010249/http://www.britannica.com/EBchecked/topic/349302/Louisiana-Purchase|url-status=live}}</ref>
+
+=== 19th century ===
+In 1803, the [[Louisiana Purchase]] transferred from France to the United States part of what is now [[Alberta]] and Saskatchewan. In 1818, the U.S. ceded the area to Britain. Most of what is now Saskatchewan was part of [[Rupert's Land]] and controlled by the Hudson's Bay Company, which claimed rights to all watersheds flowing into [[Hudson Bay]], including the [[Saskatchewan River]], [[Churchill River (Hudson Bay)|Churchill]], [[Assiniboine River|Assiniboine]], [[Souris River|Souris]], and [[Qu'Appelle River]] systems.
+
+In the late 1850s and early 1860s, scientific expeditions led by [[John Palliser]] and [[Henry Youle Hind]] explored the prairie region of the province.
+
+In 1870, Canada acquired the Hudson's Bay Company's territories and formed the [[North-West Territories]] to administer the vast territory between [[British Columbia]] and [[Manitoba]]. The Crown also entered into a series of [[Numbered Treaties|numbered treaties]] with the indigenous peoples of the area, which serve as the basis of the relationship between [[First Nations in Canada|First Nations]], as they are called today, and the Crown. Since the late twentieth century, land losses and inequities as a result of those treaties have been subject to negotiation for settlement between the [[First Nations in Saskatchewan]] and the federal government, in collaboration with provincial governments.
+
+In 1876, following their defeat of United States Army forces at the [[Battle of the Little Bighorn]] in [[Montana Territory]] in the United States, the [[Lakota people|Lakota]] Chief [[Sitting Bull]] led several thousand of his people to [[Wood Mountain, Saskatchewan|Wood Mountain]]. Survivors and descendants founded Wood Mountain Reserve in 1914.
+
+The North-West Mounted Police set up several posts and forts across Saskatchewan, including [[Fort Walsh]] in the Cypress Hills, and [[Wood Mountain Regional Park|Wood Mountain]] Post in south-central Saskatchewan near the United States border.
+[[File:Battle of Batoche Print by Seargent Grundy.jpg|thumb|The 1885 [[Battle of Batoche]] was a battle during the [[North-West Rebellion]]. 1885 illustration by Sergeant Grundy]]
+Many [[Métis (people)|Métis]] people, who had not been signatories to a treaty, had moved to the [[Southbranch Settlement]] and [[Prince Albert, Saskatchewan|Prince Albert]] district north of present-day Saskatoon following the [[Red River Rebellion]] in Manitoba in 1870. In the early 1880s, the Canadian government refused to hear the Métis' grievances, which stemmed from land-use issues. Finally, in 1885, the Métis, led by [[Louis Riel]], staged the [[North-West Rebellion]] and declared a provisional government. They were defeated by a Canadian militia brought to the [[Canadian prairies]] by the new Canadian Pacific Railway. Riel, who surrendered and was convicted of treason in a packed Regina courtroom, was hanged on November 16, 1885. Since then, the government has recognized the Métis as an aboriginal people with status rights and provided them with various benefits.
+
+==== European settlements ====
+The national policy set by the federal government, the [[Canadian Pacific Railway]], the [[Hudson's Bay Company]] and associated land companies encouraged immigration. The ''[[Dominion Lands Act]]'' of 1872 permitted settlers to acquire one-quarter of a square mile of land to homestead and offered an additional quarter upon establishing a homestead. In 1874, the North-West Mounted Police began providing police services. In 1876, the ''North-West Territories Act'' provided for appointment, by the Ottawa, of a Lieutenant Governor and a Council to assist him.<ref>{{cite book|author=Howard A. Leeson|title=Saskatchewan Politics: Into the Twenty-first Century|url=https://books.google.com/books?id=qb4hnmKhTEoC&pg=PA116|year=2001|publisher=U of Regina Press|page=116|isbn=978-0-88977-131-4|access-date=March 27, 2018|archive-date=September 23, 2020|archive-url=https://web.archive.org/web/20200923200915/https://books.google.com/books?id=qb4hnmKhTEoC&pg=PA116|url-status=live}}</ref>
+[[File:Ad to attract Immigrants to wheat belt in 1898.jpg|thumb|An ad to attract immigrants to [[Western Canada]], 1898]]
+Highly optimistic advertising campaigns promoted the benefits of prairie living. Potential immigrants read leaflets that described Canada as a favourable place to live and downplayed the need for agricultural expertise. Ads in ''The Nor'-West Farmer'' by the Commissioner of Immigration implied that western land held water, wood, gold, silver, iron, copper, and cheap coal for fuel, all of which were readily at hand. The reality was far harsher, especially for the first arrivals who lived in [[sod house]]s. However eastern money poured in and by 1913, long term mortgage loans to Saskatchewan farmers had reached $65 million.<ref>Sandra Rollings-Magnusson, "Canada's Most Wanted: Pioneer Women on the Western Prairies." ''Canadian Review of Sociology and Anthropology'' 2000 37(2): 223–238; W. T. Easterbrook, ''Farm Credit in Canada'' 1938.</ref>
+
+The dominant groups comprised British settlers from eastern Canada and Britain, who comprised about half of the population during the late 19th and early 20th centuries. They played the leading role in establishing the basic institutions of plains society, economy and government.<ref>Peter Bush, ''Western Challenge: The Presbyterian Church in Canada's Mission on the Prairies and North, 1885–1925.'' (2000); Marjory Harper, "Probing the Pioneer Questionnaires: British Settlement in Saskatchewan, 1887–1914." ''Saskatchewan History'' 2000 52(2): 28–46. ISSN 0036-4908</ref>
+
+=== 20th century ===
+Gender roles were sharply defined. Men were primarily responsible for breaking the land; planting and harvesting; building the house; buying, operating and repairing machinery; and handling finances. At first, there were many single men on the prairie, or husbands whose wives were still back east, but they had a hard time. They realized the need for a wife. In 1901, there were 19,200 families, but this surged to 150,300 families only 15 years later. Wives played a central role in settlement of the prairie region. Their labour, skills, and ability to adapt to the harsh environment proved decisive in meeting the challenges. They prepared bannock, beans and bacon, mended clothes, raised children, cleaned, tended the garden, helped at harvest time and nursed everyone back to health. While prevailing patriarchal attitudes, legislation, and economic principles obscured women's contributions, the flexibility exhibited by farm women in performing productive and nonproductive labour was critical to the survival of family farms, and thus to the success of the wheat economy.<ref>{{cite journal | last1 = Rollings-Magnusson | first1 = Sandra | year = 2000 | title = Canada's Most Wanted: Pioneer Women on the Western Prairies | journal = Canadian Review of Sociology and Anthropology | volume = 37 | issue = 2| pages = 223–238 | doi = 10.1111/j.1755-618X.2000.tb01265.x }}</ref><ref>{{cite journal | last1 = Rowles | first1 = E. | year = 1952 | title = Bannock, beans and bacon: An investigation of pioneer diet | journal = Saskatchewan History | volume = 1 | issue = 1| pages = 1–16 }}</ref>
+[[File:Banquet celebrating new province of Saskatchewan.jpg|thumb|A banquet being held to commemorate the creation of Saskatchewan, 1905]]
+On September 1, 1905, Saskatchewan became a province, with inauguration day held on September 4. Its political leaders at the time proclaimed its destiny was to become Canada's most powerful province. Saskatchewan embarked on an ambitious province-building program based on its Anglo-Canadian culture and wheat production for the export market. Population quintupled from 91,000 in 1901 to 492,000 in 1911, thanks to heavy immigration of farmers from Ukraine, U.S., Germany and Scandinavia. Efforts were made to assimilate the newcomers to British Canadian culture and values.<ref>{{cite journal | last1 = Pitsula | first1 = James M. | year = 2005 | title = Disparate Duo | journal = Beaver | volume = 85 | issue = 4| pages = 14–24 }}</ref>
+
+In the 1905 provincial elections, Liberals won 16 of 25 seats in Saskatchewan. The Saskatchewan government bought out Bell Telephone Company in 1909, with the government owning the long-distance lines and left local service to small companies organized at the municipal level.<ref>{{cite journal | last1 = Love | first1 = Ronald S. | year = 2005 | title = 'A Harebrained Plan': Saskatchewan and the Formation of a Provincial Telephone Policy, 1906–1912 | journal = Saskatchewan History | volume = 57 | issue = 1| pages = 15–33 }}</ref> Premier Walter Scott preferred government assistance to outright ownership because he thought enterprises worked better if citizens had a stake in running them; he set up the Saskatchewan Cooperative Elevator Company in 1911. Despite pressure from farm groups for direct government involvement in the grain handling business, the Scott government opted to loan money to a farmer-owned elevator company. Saskatchewan in 1909 provided bond guarantees to railway companies for the construction of branch lines, alleviating the concerns of farmers who had trouble getting their wheat to market by waggon.<ref>Kevin H. Burley, ''The Development of Canada's Staples 1867–1939: A Documentary Collection'' (1970) pp 139–43.</ref> The [[Saskatchewan Grain Growers Association]], was the dominant political force in the province until the 1920s; it had close ties with the governing Liberal party. In 1913, the Saskatchewan Stock Growers Association was established with three goals: to watch over legislation; to forward the interests of the stock growers in every honourable and legitimate way; and to suggest to parliament legislation to meet changing conditions and requirements.<ref>[http://www.saskatchewanstockgrowers.com/ "Saskatchewan Stock Growers Association"] {{Webarchive|url=https://web.archive.org/web/20160410113335/http://www.saskatchewanstockgrowers.com/ |date=April 10, 2016 }}, Official Website</ref>
+[[File:Maury Geography 073A Saskatchewan.jpg|thumb|left|Farmers at work in 1907. The introduction of [[Marquis wheat]] saw wheat output soar in the province.]]
+Immigration peaked in 1910, and in spite of the initial difficulties of frontier life – distance from towns, sod homes, and backbreaking labour – new settlers established a European-Canadian style of prosperous [[agrarian society]]. The long-term prosperity of the province depended on the world price of grain, which headed steadily upward from the 1880s to 1920, then plunged down. Wheat output was increased by new strains, such as the "[[Marquis wheat]]" strain which matured 8 days sooner and yielded 7 more bushels per acre (0.72&nbsp;m<sup>3</sup>/ha) than the previous standard, "[[Red Fife]]". The national output of wheat soared from {{convert|8|e6impbu|lk=in}} in 1896, to {{cvt|26|e6impbu}} in 1901, reaching {{cvt|151|e6impbu}} by 1921.<ref>{{cite book|author=Arthur Henry Reginald Buller|title=Essays on Wheat: Including the Discovery and Introduction of Marquis Wheat, the Early History of Wheat-growing in Manitoba, Wheat in Western Canada, the Origin of Red Bobs and Kitchener, and the Wild Wheat of Palestine|url=https://books.google.com/books?id=YqMUAAAAYAAJ&pg=PA218|year=1919|pages=218–20|access-date=March 27, 2018|archive-date=September 22, 2020|archive-url=https://web.archive.org/web/20200922193714/https://books.google.com/books?id=YqMUAAAAYAAJ&pg=PA218|url-status=live}}</ref>
+
+Urban reform movements in Regina were based on support from business and professional groups. City planning, reform of local government, and municipal ownership of utilities were more widely supported by these two groups, often through such organizations as the Board of Trade. Church-related and other altruistic organizations generally supported social welfare and housing reforms; these groups were generally less successful in getting their own reforms enacted.<ref>{{cite journal | last1 = Hengen | first1 = Girard | year = 1988 | title = A Case Study in Urban Reform: Regina Before the First World War | journal = Saskatchewan History | volume = 41 | issue = 1| pages = 19–34 }}</ref>
+
+The province responded to the First World War in 1914 with patriotic enthusiasm and enjoyed the resultant economic boom for farms and cities alike. Emotional and intellectual support for the war emerged from the politics of Canadian national identity, the rural myth, and social gospel progressivism The Church of England was especially supportive. However, there was strong hostility toward German-Canadian farmers.<ref>James M. Pitsula, ''For All We Have and Are: Regina and the Experience of the Great War'' (U of Manitoba Press, 2008), p 280. [http://www.h-net.org/reviews/showpdf.php?id=25802 online review] {{Webarchive|url=https://web.archive.org/web/20210410151832/https://www.h-net.org/reviews/showpdf.php?id=25802 |date=April 10, 2021 }}</ref> Recent Ukrainian immigrants were enemy aliens because of their citizenship in the Austro-Hungarian Empire. A small fraction were [[Ukrainian Canadian internment|taken to internment camps.]] Most of the internees were unskilled unemployed labourers who were imprisoned "because they were destitute, not because they were disloyal".<ref>Pitsula, ''For All We Have and Are'' p 41.</ref><ref>Lubomyr Luciuk, ''In Fear of the Barbed Wire Fence: Canada's First National Internment Operations and the Ukrainian Canadians, 1914–1920'' (Kingston: Kashtan Press, 2001).</ref>
+[[File:Hawker-Eaton-InternmentCamp.jpg|thumb|A memorial stone for [[Ukrainian Canadian internment|Ukrainian Canadians interned]] during the [[First World War]] at the [[Saskatchewan Railway Museum]]]]
+The price of wheat tripled and acreage seeded doubled. The wartime spirit of sacrifice intensified social reform movements that had predated the war and now came to fruition. Saskatchewan gave women the right to vote in 1916 and at the end of 1916 passed a referendum to prohibit the sale of alcohol.
+
+In the late 1920s, the [[Ku Klux Klan in Canada|Ku Klux Klan]], imported from the United States and Ontario, gained brief popularity in nativist circles in Saskatchewan and Alberta. The Klan, briefly allied with the provincial Conservative party because of their mutual dislike for Premier [[James G. Gardiner|James G. "Jimmy" Gardiner]] and his Liberals (who ferociously fought the Klan), enjoyed about two years of prominence. It declined and disappeared, subject to widespread political and media opposition, plus internal scandals involving the use of the organization's funds.
+
+==== Post–Second World War ====
+In 1970, the first annual [[Canadian Western Agribition]] was held in Regina. This farm-industry trade show, with its strong emphasis on livestock, is rated as one of the five top livestock shows in North America, along with those in [[Houston, Texas|Houston]], [[Denver, Colorado|Denver]], [[Louisville, Kentucky|Louisville]] and [[Toronto]].
+[[File:Queen and burmese.jpg|thumb|An equestrian statue of [[Elizabeth II]] in [[Regina, Saskatchewan|Regina]]. The statue was unveiled by the Queen in 2005.]]
+The province celebrated the 75th anniversary of its establishment in 1980, with [[Princess Margaret, Countess of Snowdon]], presiding over the official ceremonies.<ref>{{cite journal| last=Archer| first=John H.| title=Regina: A Royal City| journal=Monarchy Canada Magazine| volume=Spring 1996| year=1996| url=http://www.monarchist.ca/mc/regina.htm| access-date=June 30, 2009| archive-url=https://web.archive.org/web/20080209220023/http://www.monarchist.ca/mc/regina.htm| archive-date=February 9, 2008}}</ref><ref>{{cite web|title=Government of Saskatchewan > About Government > News Releases > February 2002 > Province Honours Princess Margaret|url=http://www.gov.sk.ca/news?newsId=89f899ba-9ec6-46ac-8049-aeeb33a0aeca|date=February 11, 2002|website=gov.sk|publisher=Queen's Printer for Saskatchewan|archive-url=https://web.archive.org/web/20110706203611/http://www.gov.sk.ca/news?newsId=89f899ba-9ec6-46ac-8049-aeeb33a0aeca |archive-date=July 6, 2011|access-date=February 15, 2011}}</ref> In 2005, 25 years later, her sister, Queen [[Elizabeth II]], attended the events held to mark Saskatchewan's centennial.<ref>{{cite news|date=May 18, 2005|title=Royal couple touches down in Saskatchewan|work=CTV|url=http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1116361103300_111770303/?hub=TopStories|access-date=June 30, 2009|archive-url=https://web.archive.org/web/20051001053156/http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1116361103300_111770303/?hub=TopStories |archive-date=October 1, 2005}}</ref>
+
+Since the late 20th century, First Nations have become more politically active in seeking justice for past inequities, especially related to the taking of indigenous lands by various governments. The federal and provincial governments have negotiated on numerous land claims, and developed a program of "Treaty Land Entitlement", enabling First Nations to buy land to be taken into reserves with money from settlements of claims.
+<blockquote>"In 1992, the federal and provincial governments signed an historic land claim agreement with Saskatchewan First Nations. Under the Agreement, the First Nations received money to buy land on the open market. As a result, about 761,000 acres have been turned into reserve land and many First Nations continue to invest their settlement dollars in urban areas", including Saskatoon. The money from such settlements has enabled First Nations to invest in businesses and other economic infrastructure.<ref name="aadnc-aandc1" /></blockquote>
+
+=== 21st century ===
+In June 2021, a graveyard containing the remains of 751 unidentified people was found at the former [[Marieval Indian Residential School]], part of the [[Canadian Indian residential school system]].<ref>{{cite news|title=Sask. First Nation announces hundreds of unmarked graves found at former residential school site|url=https://www.cbc.ca/news/canada/saskatchewan/cowessess-graves-unmarked-residential-school-marieval-1.6077797 |website=CBC News|date=June 23, 2021|access-date=August 2, 2021|archive-date=July 18, 2021|archive-url=https://web.archive.org/web/20210718182241/https://www.cbc.ca/news/canada/saskatchewan/cowessess-graves-unmarked-residential-school-marieval-1.6077797|url-status=live}}</ref>
+
+== Demographics ==
+{{Main|Demographics of Saskatchewan}}
+[[File:Canada Saskatchewan Density 2016.png|thumb|Population density of Saskatchewan]]
+{{Gallery layout|1=
+;Saskatchewan census statistics
+ <div style="display: inline-grid;">
+{{Pie chart
+|caption = Languages of Saskatchewan (2016):<ref>{{cite web | title=Language Highlight Tables | work=2016 Census | publisher=Statistics Canada | year=2019 | url=https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/lang/Table.cfm?Lang=E&T=11&Geo=00&SP=1&view=2&age=1 | access-date=July 16, 2019 | archive-date=October 31, 2021 | archive-url=https://web.archive.org/web/20211031023747/https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/lang/Table.cfm?Lang=E&T=11&Geo=00&SP=1&view=2&age=1 | url-status=live }}</ref>
+|other =
+|label1 = English|value1 = 82.4|color1 = #f90000
+|label2 = French|value2 = 1.4|color2 = #3183d6
+|label3 = Other language|value3 = 14.5|color3 = #a0a0a0
+|label4 = Multiple|value4 = 1.7|color4 = #d8d8d8}}
+</div>
+<div style="display: inline-grid;">
+{{Pie chart
+|caption = Indigenous and visible minority identity (2021):<ref>{{Cite web |last=Government of Canada |date=2022-10-26 |title= Census Profile, 2021 Census of Population |url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/page.cfm?Lang=E&SearchText=saskatchewan&DGUIDlist=2021A000247&GENDERlist=1,2,3&STATISTIClist=1,4&HEADERlist=0 |access-date=2023-07-04 |website=Statistics Canada }}</ref>
+|other =
+|label1 = [[European Canadians|European Canadian]]|value1 = 68.5|color1 = #d8d8d8
+|label2 = [[Visible minority]]|value2 = 14.4|color2 = #a0a0a0
+|label3 = [[First Nations in Canada|First Nations]]|value3 = 11.0|color3 = #a50f15
+|label4 = [[Métis]]|value4 = 5.7|color4 = #3183d6
+|label5 = Other Indigenous|value5 = 0.3|color5 = #000000
+}}</div>
+}}
+{{Graph:Chart
+| width = 150
+| height= 100
+| type = line
+| interpolate =
+| xType = date
+| xAxisAngle = -40
+| yAxisTitle = Population
+| yGrid = yes
+| linewidth = 2
+| x =1901, 1911, 1921, 1931, 1941, 1951, 1956, 1961, 1966, 1971, 1975, 1981, 1986, 1991, 1996, 2001, 2006, 2011, 2016
+| y = 91279, 492432, 757510, 921785, 895992, 831728, 880665, 925181, 955344, 926242, 921325, 968313, 1009613, 988928, 976615, 978933, 985386, 1053960, 1098352
+| colors = #076a21
+}}
+
+=== Ethnicity ===
+According to the [[2011 Canadian census]], the largest [[ethnic group]] in Saskatchewan is [[German people|German]] (28.6%), followed by [[English people|English]] (24.9%), [[Scottish people|Scottish]] (18.9%), [[Canadian ethnicity|Canadian]] (18.8%), [[Irish people|Irish]] (15.5%), [[Ukrainian people|Ukrainian]] (13.5%), [[French people|French]] ([[Fransaskois]]) (12.2%), [[First Nations in Canada|First Nations]] (12.1%), [[Norwegian people|Norwegian]] (6.9%), and [[Polish people|Polish]] (5.8%).<ref>{{cite web|title=Saskatchewan Ethnic Origins, Visible Minorities & Immigration|url=http://www.stats.gov.sk.ca/stats/pop/2011Ethnic%20Origin.pdf|website=stats.gov.sk|publisher=Government of Saskatchewan|archive-url=https://web.archive.org/web/20140107232725/http://www.stats.gov.sk.ca/stats/pop/2011Ethnic%20Origin.pdf
+|archive-date=January 7, 2014}}</ref>
+
+=== Language ===
+As of the [[2021 Canadian census]], the ten most spoken languages in the province included [[English language|English]] (1,094,785 or 99.24%), [[French language|French]] (52,065 or 4.72%), [[Tagalog language|Tagalog]] (36,125 or 3.27%), [[Cree language|Cree]] (24,850 or 2.25%), [[Hindi]] (15,745 or 1.43%), [[Punjabi language|Punjabi]] (13,310 or 1.21%), [[German language|German]] (11,815 or 1.07%), [[Mandarin Chinese|Mandarin]] (11,590 or 1.05%), [[Spanish language|Spanish]] (11,185 or 1.01%), and [[Ukrainian language|Ukrainian]] (10,795 or 0.98%).<ref name="language2021">{{Cite web |last=Government of Canada |first=Statistics Canada |date=2022-08-17 |title=Census Profile, 2021 Census of Population Profile table Saskatchewan [Province] |url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/page.cfm?LANG=E&GENDERlist=1,2,3&STATISTIClist=1,4&DGUIDlist=2021A000247&HEADERlist=,15,13,18,12,16,14,17&SearchText=Saskatchewan |access-date=2022-08-17 |website=www12.statcan.gc.ca}}</ref> The question on knowledge of languages allows for multiple responses.
+
+=== Religion ===
+According to the [[2021 Canadian census|2021 census]], religious groups in Saskatchewan included:<ref name="2021censusB">{{Cite web |last=Government of Canada |first=Statistics Canada |date=2022-10-26 |title= Census Profile, 2021 Census of Population |url=https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/page.cfm?Lang=E&SearchText=Saskatchewan&DGUIDlist=2021A000247&GENDERlist=1,2,3&STATISTIClist=1&HEADERlist=0 |access-date=2022-11-09 |website=www12.statcan.gc.ca}}</ref>
+*[[Christianity in Canada|Christianity]] (621,250 persons or 56.3%)
+**[[Catholics]] at 265,530 persons, [[Lutherans]] at 46,980 persons, and [[Anglicans]] at 36,415 persons.
+*[[Irreligion in Canada|Irreligion]] (403,960 persons or 36.6%)
+*[[Islam in Canada|Islam]] (25,455 persons or 2.3%)
+*[[Mythologies of the indigenous peoples of the Americas|Indigenous Spirituality]] (16,300 persons or 1.5%)
+*[[Hinduism in Canada|Hinduism]] (14,150 persons or 1.3%)
+*[[Sikhism in Canada|Sikhism]] (9,040 persons or 0.8%)
+*[[Buddhism in Canada|Buddhism]] (4,410 persons or 0.4%)
+*[[Judaism in Canada|Judaism]] (1,105 persons or 0.1%)
+*Other (7,540 persons or 0.7%)
+
+== Economy ==
+{{Main|Economy of Saskatchewan}}
+Historically, Saskatchewan's economy was primarily associated with [[agriculture]], with wheat being the precious symbol on the province's flag. Increasing diversification has resulted in agriculture, [[forestry]], [[fishing]], and [[hunting]] only making up 8.9% of the province's GDP in 2018. Saskatchewan grows a large portion of Canada's grain.<ref>Government of Saskatchewan. [https://archive.today/20120805082031/http://www.ir.gov.sk.ca/Default.aspx?DN=3997,3383,3384,2936,Documents The Saskatchewan Oil and Gas InfoMap]. Retrieved April 26, 2008. {{verify source |date=November 2020 |reason=This ref was deleted Special:Diff/916434762 by a bug in VisualEditor and later restored by a bot from the original cite located at Special:Permalink/915507248 cite #49 – verify the cite is accurate and delete this template. [[User:GreenC bot/Job 18]]}}</ref> In 2017, the production of [[rapeseed|canola]] surpassed the production of [[wheat]], which is Saskatchewan's most familiar crop and the one most often associated with the province. The total net income from farming was $3.3 billion in 2017, which was $0.9 billion less than the income in 2016.<ref>{{Cite journal|date=August 2018|title=Saskatchewan Economic Review 2017|url=https://www.saskatchewan.ca/government/government-data/bureau-of-statistics/economic-reports-and-statistics|journal=Government of Saskatchewan|volume=Seventy-One|pages=2–4|archive-url=https://web.archive.org/web/20180204093454/https://www.saskatchewan.ca/government/government-data/bureau-of-statistics/economic-reports-and-statistics |archive-date=February 4, 2018|via=Saskatchewan Bureau of Statistics}}</ref> Other grains such as [[flax]], [[rye]], [[oat]]s, [[pea]]s, [[lentil]]s, canary seed, and [[barley]] are also produced in the province. Saskatchewan is the world's largest exporter of mustard seed.<ref>[https://web.archive.org/web/20070627040005/http://www.ir.gov.sk.ca/adx/asp/adxGetMedia.asp?DocID=3089,3087,2936,Documents&MediaID=12696&Filename=2005+Top+100.pdf top 100] {{verify source |date=November 2020 |reason=This ref was deleted Special:Diff/916434762 by a bug in VisualEditor and later restored by a bot from the original cite located at Special:Permalink/915507248 cite #50 – verify the cite is accurate and delete this template. [[User:GreenC bot/Job 18]]}}</ref> [[Beef cattle]] production by a Canadian province is only exceeded by Alberta. In the northern part of the province, forestry is also a significant industry.<ref>{{cite web|url=https://www.saskatchewan.ca/government/government-data/bureau-of-statistics/economic-reports-and-statistics#targetText=The%20Saskatchewan%20Provincial%20Economic%20Accounts,estimates%20of%20productive%20economic%20activity.|title=Economic Reports and Statistics {{!}} Saskatchewan Bureau of Statistics|website=Government of Saskatchewan|language=en|access-date=2019-09-18|archive-date=February 4, 2018|archive-url=https://web.archive.org/web/20180204093454/https://www.saskatchewan.ca/government/government-data/bureau-of-statistics/economic-reports-and-statistics#targetText=The%20Saskatchewan%20Provincial%20Economic%20Accounts,estimates%20of%20productive%20economic%20activity.|url-status=live}}</ref>
+[[File:PotashCorporationOfSaskatchewanPatienceLakeMine.jpg|thumb|A [[Nutrien]] mine in [[Patience Lake]]. The province is the world's largest exporter of [[potash]].]]
+{| class="wikitable floatright sortable"
+! colspan="2" |Distribution of GDP of Saskatchewan, by industry(2018)<ref>{{cite web|url=https://www.statista.com/statistics/608347/gdp-distribution-of-saskatchewan-canada-by-industry/|title=Distribution of gross domestic product of Saskatchewan, Canada, in 2018, by industry|last=Duffin|first=Erin|date=May 2, 2019|website=Statista|access-date=September 18, 2019|archive-date=November 12, 2020|archive-url=https://web.archive.org/web/20201112021959/https://www.statista.com/statistics/608347/gdp-distribution-of-saskatchewan-canada-by-industry/|url-status=live}}</ref><ref>{{cite web|url=https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3610022201|website=www150.statcan.gc.ca |access-date=2019-09-18|title=Add/Remove data – Gross domestic product, expenditure-based, provincial and territorial, annual|date=November 19, 2012|archive-date=December 9, 2021|archive-url=https://web.archive.org/web/20211209181508/https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3610022201|url-status=live}}</ref>
+|-
+! % Share of GDP !! Sector
+|-
+|8.9
+|agriculture, forestry, fishing, hunting
+|-
+|14.2
+|finance, insurance, real estate, leasing
+|-
+|2.5
+|Professional, scientific and food services
+|-
+|8.14
+|construction
+|-
+|11.51
+|education, health, social services
+|-
+|1.74
+|Accommodation and food services
+|-
+|1.46
+|Information and cultural industries
+|-
+|5.96
+|government services
+|-
+|6.43
+|manufacturing
+|-
+|17.05
+|mining, quarrying, oil and gas extraction
+|-
+|3.87
+|other
+|-
+|8.05
+|transportation, communications, utilities
+|-
+|10.19
+|wholesale and retail trade
+|}
+[[Mining]] is a major industry in the province, with Saskatchewan being the world's largest exporter of [[potash]] and [[uranium]].<ref>{{cite web|title=Fact Sheet|url=http://www.saskmining.ca/factSheets.php?PAGE=General+Information|archive-url=https://web.archive.org/web/20071203005741/http://www.saskmining.ca/factSheets.php?PAGE=General+Information |archive-date=December 3, 2007|access-date=2009-01-16}} from the Saskatchewan Mining Association</ref> [[Petroleum|Oil]] and [[natural gas]] production is also a very important part of Saskatchewan's economy, although the [[Petroleum industry|oil industry]] is larger. Among Canadian provinces, only Alberta exceeds Saskatchewan in overall oil production.<ref>Government of Saskatchewan. "[http://www.gov.sk.ca/Default.aspx?DN=4a57f37e-88de-4da5-b6a8-411793a739d5 Oil and Gas Industry]" {{webarchive|url=https://web.archive.org/web/20080929180237/http://www.gov.sk.ca/Default.aspx?DN=4a57f37e-88de-4da5-b6a8-411793a739d5 |date=September 29, 2008 }}. Retrieved on: April 26, 2008.</ref> Heavy crude is extracted in the Lloydminster-Kerrobert-Kindersley areas. Light crude is found in the Kindersley-Swift Current areas as well as the Weyburn-Estevan fields. Natural gas is found almost entirely in the western part of Saskatchewan, from the [[Primrose Lake]] area through Lloydminster, Unity, Kindersley, Leader, and around Maple Creek areas.<ref>Government of Saskatchewan. [https://archive.today/20120805082031/http://www.ir.gov.sk.ca/Default.aspx?DN=3997,3383,3384,2936,Documents The Saskatchewan Oil and Gas InfoMap]. Retrieved April 26, 2008.</ref>
+
+Major companies based in Saskatchewan include [[Nutrien]], [[Federated Co-operatives|Federated Cooperatives Ltd.]] and [[Cameco]].<ref>{{cite web| url = http://www.ir.gov.sk.ca/adx/asp/adxGetMedia.asp?DocID=3089,3087,2936,Documents&MediaID=12696&Filename=2005+Top+100.pdf| title = top 100| archive-url = https://web.archive.org/web/20070627040005/http://www.ir.gov.sk.ca/adx/asp/adxGetMedia.asp?DocID=3089,3087,2936,Documents&MediaID=12696&Filename=2005+Top+100.pdf| archive-date = June 27, 2007}}</ref>
+
+Major Saskatchewan-based [[Crown corporations]] are [[Saskatchewan Government Insurance]] (SGI), [[SaskTel]], [[SaskEnergy]] (the province's main supplier of natural gas), [[SaskPower]], and Saskatchewan Crop Insurance Corporation (SCIC). [[Bombardier Aerospace|Bombardier]] runs the NATO Flying Training Centre at 15 Wing, near [[Moose Jaw]]. Bombardier was awarded a long-term contract in the late 1990s for $2.8 billion from the [[Politics of Canada|federal government]] for the purchase of military aircraft and the running of the training facility. [[SaskPower]] since 1929 has been the principal supplier of electricity in Saskatchewan, serving more than 451,000 customers and managing $4.5 billion in assets. SaskPower is a major employer in the province with almost 2,500 permanent full-time staff in 71 communities.
+
+== Education ==
+{{Main|Education in Saskatchewan}}
+Publicly funded elementary and secondary schools in the province are administered by [[List of Saskatchewan school divisions|twenty-seven school divisions]]. Public elementary and secondary schools either operate as [[secular education|secular]] or as a [[separate school]]s. Nearly all school divisions, except one operate as an English [[first language]] school board. The Division scolaire francophone No. 310 is the only school division that operates French first language schools. In addition to elementary and secondary schools, the province is also home to several post-secondary institutions.
+
+The first education on the prairies took place within the family groups of the First Nations and early [[fur trade|fur trading]] settlers. There were only a few missionary or trading post schools established in [[Rupert's Land]] – later known as the [[Territorial evolution of Canada|North West Territories]]. The first 76 [[North-West Territories]] school districts and the first Board of Education meeting formed in 1886. The pioneering boom formed [[Block Settlement|ethnic bloc settlements]]. Communities were seeking education for their children similar to the schools of their homeland. [[Log cabin]]s, and dwellings were constructed for the assembly of the community, school, church, dances and meetings.
+
+The prosperity of the [[Roaring Twenties]] and the success of farmers in proving up on their homesteads helped provide funding to standardize education.<ref>{{Cite web |last=Milne |first=Jennifer |date=February 2004 |title=CULTIVATING DOMESTICITY: THE HOMEMAKERS' CLUBS OF SASKATCHEWAN, 1911 TO 1961 |url=https://www.collectionscanada.gc.ca/obj/s4/f2/dsk3/SSU/TC-SSU-07112005100045.pdf |access-date=April 8, 2024 |website=www.collectionscanada.gc.ca}}</ref> Textbooks, normal schools for educating teachers, formal school curricula and state of the art [[One-room school|school house]] [[architectural plan]]s provided continuity throughout the province. English as the school language helped to provide economic stability because one community could communicate with another and goods could be traded and sold in a common language. The number of one-room schoolhouse districts across Saskatchewan totalled approximately 5,000 at the height of this system of education in the late 1940s.<ref>{{cite web|url=https://skschool.site123.me/|title=Saskatchewan One Room School House Project|website=SkSchool|language=en|access-date=2018-12-10|archive-date=August 17, 2021|archive-url=https://web.archive.org/web/20210817060403/https://skschool.site123.me/|url-status=live}}</ref>
+
+Following World War II, the transition from many one-room schoolhouses to fewer and larger consolidated modern technological town and city schools occurred as a means of ensuring technical education. School buses, highways, and family vehicles create ease and accessibility of a population shift to larger towns and cities. Combines and tractors mean the farmer could manage more than a quarter section of land, so there was a shift from [[family farm]]s and [[subsistence crops]] to [[cash crops]] grown on many sections of land. [[School vouchers]] have been newly proposed as a means of allowing competition between rural schools and making the operation of [[cooperative school]]s practicable in rural areas.
+
+== Healthcare ==
+[[File:Royal University Hospital.jpg|thumb|The [[Royal University Hospital]] is one of [[List of hospitals in Saskatchewan|several hospitals operating in Saskatchewan]].]]
+Saskatchewan's [[Ministry of Health (Saskatchewan)|Ministry of Health]] is responsible for policy direction, sets and monitors standards, and provides funding for regional health authorities and provincial health services. Saskatchewan's health system is a [[single payer health care|single-payer system]]. Medical practitioners in Saskatchewan are independent contractors. They remit their accounts to the publicly funded Saskatchewan Medical Care Insurance Plan, which pays the accounts. Patients do not pay anything to their doctors or hospitals for medical care.<ref>{{cite web|title=How Saskatchewan Health Pays Your Bill – Health – Government of Saskatchewan|url=http://www.health.gov.sk.ca/benefits-bill-payment|website=health.gov.sk|publisher=Health.gov.sk.ca|archive-url=https://web.archive.org/web/20071101104417/http://www.health.gov.sk.ca/benefits-bill-payment |archive-date=November 1, 2007|access-date=February 23, 2011}}</ref>
+
+In 1944, the [[Co-operative Commonwealth Federation]] (CCF), a left-wing agrarian and labour party, won the provincial election in Saskatchewan and formed the first socialist government in North American history. Repeatedly re-elected, the CCF campaigned in the early 1960s on the theme of [[universal health coverage]] and, after winning the election again, implemented it, the first in Canada. However, it was fiercely opposed by the province's doctors' union, which went on a massive strike the day the new system came into effect. Supported by the Saskatchewan Chamber of Commerce, most newspapers and the right-wing Keep Our Doctors movement, the doctors' union ran an effective communications campaign portraying the universal health care system as a communist scheme that would spread disease. The strike, which had become very unpopular because of the outrageous rhetoric of some of its leaders (one of them had called for bloodshed), finally ended after a few weeks, and universal health coverage was adopted by the whole country five years later.<ref>{{cite web | url=https://mondediplo.com/2020/08/02populism-expertise | title=It's the healthcare system, stupid | date=August 2020 }}</ref>
+
+== Government and politics ==
+{{Main|Politics of Saskatchewan}}
+[[File:Saskatchewan Legislative Building Front.JPG|thumb|The [[Saskatchewan Legislative Building]] is the meeting place for the province's [[Legislative Assembly of Saskatchewan|legislative assembly]].]]
+Saskatchewan has the same form of government<ref>{{cite web|title=official page|url=http://www.gov.sk.ca|author=Government of Saskatchewan|website=gov.sk|access-date=February 15, 2007|archive-date=February 24, 2011|archive-url=https://web.archive.org/web/20110224091453/http://gov.sk.ca/}}</ref> as the other Canadian provinces with a [[Lieutenant-Governor (Canada)|lieutenant-governor]] (who is the representative of the [[Monarchy in Saskatchewan|King in Right of Saskatchewan]]), [[premier]], and a unicameral [[legislature]].<ref>{{cite web| url = https://www.solon.org/Constitutions/Canada/English/sa_1905.html| title = The ''Saskatchewan Act'', SC 1905, c. 42, s. 12 defines the Legislature: "12. There shall be a Legislature for the said province consisting of the Lieutenant Governor and one House, to be styled the Legislative Assembly of Saskatchewan."| access-date = July 10, 2021| archive-date = September 27, 2020| archive-url = https://web.archive.org/web/20200927174422/https://www.solon.org/Constitutions/Canada/English/sa_1905.html| url-status = live}}</ref>
+
+During the 20th century, Saskatchewan was one of Canada's more left-wing provinces, reflecting the slant of its many rural citizens which distrusted the distant capital government and which favoured a strong local government to attend to their issues. In 1944 [[Tommy Douglas]] became premier of the first avowedly [[socialism|socialist]] regional government in North America. Most of his [[Members of the Legislative Assembly]] (MLAs) represented rural and small-town ridings. Under his [[Cooperative Commonwealth Federation]] government, Saskatchewan became the first province to have [[Medicare (Canada)|Medicare]]. In 1961, Douglas left provincial politics to become the first leader of the federal [[New Democratic Party (Canada)|New Democratic Party]]. In the 21st century, Saskatchewan began to drift to the right-wing, generally attributed to the [[Petroleum industry in Canada#Saskatchewan|province's economy shifting toward oil and gas production]]. In the [[2015 Canadian federal election|2015 federal election]], the [[Conservative Party of Canada]] won ten of the province's fourteen seats, followed by the [[New Democratic Party]] with three and the [[Liberal Party of Canada]] with one; in the [[2019 Canadian federal election|2019 election]], the Conservatives won in all of Saskatchewan's 14 seats, sweeping their competition, and retained them all in the [[2021 Canadian federal election|2021 election]].
+
+Provincial politics in Saskatchewan is dominated by the [[social democracy|social-democratic]] [[Saskatchewan New Democratic Party]] and the centre-right [[Saskatchewan Party]], with the latter holding the majority in the [[Legislative Assembly of Saskatchewan]] since [[2007 Saskatchewan general election|2007]]. The current [[Premier of Saskatchewan]] is [[Scott Moe]], who took over the leadership of the Saskatchewan Party in [[2018 Saskatchewan Party leadership election|2018]] following the resignation of [[Brad Wall]]. Numerous smaller political parties also run candidates in provincial elections, including the [[Green Party of Saskatchewan]], [[Buffalo Party of Saskatchewan]], [[Saskatchewan Progress Party]], and the [[Progressive Conservative Party of Saskatchewan]], but none is currently represented in the Legislative Assembly.
+
+No [[Prime Minister of Canada]] has been born in Saskatchewan, but two ([[William Lyon Mackenzie King]] and [[John Diefenbaker]]) represented the province in the [[House of Commons of Canada]] during their tenures as head of government.
+
+=== Administrative divisions ===
+
+{{See also|List of rural municipalities in Saskatchewan|List of municipalities in Saskatchewan}}
+
+[[File:Saskatchewan Municipalities.png|thumb|250px|alt=Map of urban, rural and northern municipalities in Saskatchewan as of 2013|Distribution of Saskatchewan's 466 urban, 296 rural and 24 northern municipalities (2013)]]
+
+Below the provincial level of government, Saskatchewan is divided into urban and rural municipalities. The Government of Saskatchewan's Ministry of Municipal Relations recognizes three general types of municipalities and seven sub-types – urban municipalities ([[City|cities]], [[town]]s, [[village]]s and [[resort village]]s), [[Rural municipality|rural municipalities]] and northern municipalities (northern towns, northern villages and northern hamlets).<ref name=munitypes>{{cite web | url=https://www.saskatchewan.ca/government/government-structure/local-federal-and-other-governments/your-local-government/about-the-saskatchewan-municipal-system#types-of-municipalities | title=Types of Municipalities | publisher=Saskatchewan Ministry of Government Relations | access-date=June 7, 2020 | archive-date=October 18, 2021 | archive-url=https://web.archive.org/web/20211018131932/https://www.saskatchewan.ca/government/government-structure/local-federal-and-other-governments/your-local-government/about-the-saskatchewan-municipal-system#types-of-municipalities | url-status=live }}</ref> The vast majority of the land mass of Northern Saskatchewan is within the unorganized [[Northern Saskatchewan Administration District]]. Cities are formed under the provincial authority of ''The Cities Act'', which was enacted in 2002.<ref name=CityAct>{{cite web | url=http://www.qp.gov.sk.ca/documents/english/Statutes/Statutes/c11-1.pdf | title=The Cities Act | publisher=Government of Saskatchewan | type=[[PDF]] | pages=9, 32 and 34 | access-date=December 17, 2012 | archive-date=July 24, 2013 | archive-url=https://web.archive.org/web/20130724005218/http://www.qp.gov.sk.ca/documents/english/Statutes/Statutes/c11-1.pdf | url-status=live }}</ref> Towns, villages, resort villages and rural municipalities are formed under the authority of ''The Municipalities Act'', enacted in 2005.<ref name=MuniAct>{{cite web | url=http://www.qp.gov.sk.ca/documents/English/Statutes/Statutes/M36-1.pdf | title=The Municipalities Act | publisher=Government of Saskatchewan | type=PDF | pages=11 and 45&nbsp;46 | access-date=December 12, 2012 | archive-date=January 17, 2019 | archive-url=https://web.archive.org/web/20190117034837/http://www.qp.gov.sk.ca/documents/English/Statutes/Statutes/M36-1.pdf | url-status=live }}</ref> The three sub-types of northern municipalities are formed under the authority of ''The Northern Municipalities Act'', enacted in 2010.<ref name=NorthMuniAct>{{cite web | url=http://www.qp.gov.sk.ca/documents/English/Statutes/Repealed/N5-1.pdf | publisher=Saskatchewan Queen's Printer | title=The Northern Municipalities Act | type=PDF | pages=9 and 15&nbsp;16 | access-date=February 9, 2008 | archive-date=December 5, 2021 | archive-url=https://web.archive.org/web/20211205191713/https://pubsaskdev.blob.core.windows.net/pubsask-prod/archived/1116/N5-1.pdf | url-status=live }}</ref>
+
+In 2016, Saskatchewan's 774 [[municipality|municipalities]] covered {{percentage|309906.95|588244|1}} of the province's land mass and were home to {{percentage|1041527|1098352|1}} of its population.<ref name="munitypes" /><ref name=2016StatCanSK>{{cite web | url=http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Table.cfm?Lang=Eng&T=302&SR=1&S=86&O=A&RPP=9999&PR=12 | title=Population and dwelling counts, for Canada, provinces and territories, and census subdivisions (municipalities), 2016 and 2011 censuses – 100% data (Saskatchewan) | publisher=[[Statistics Canada]] | date=February 8, 2017 | access-date=April 14, 2017 | archive-date=February 12, 2017 | archive-url=https://web.archive.org/web/20170212091116/http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Table.cfm?Lang=Eng&T=302&SR=1&S=86&O=A&RPP=9999&PR=12 | url-status=live }}</ref>{{#tag:ref|The remaining {{percentage|56825|1098352|1}} of Saskatchewan's population resides on [[Indian reserve]]s, [[Indian settlement]]s, the vast unincorporated portions of the [[Northern Saskatchewan Administration District]] and [[Prince Albert National Park]]. Together, they occupy the remaining {{percentage|278337.05|588244|1}} of the province's land mass.<ref name=2016StatCanSK />|group=lower-alpha}}
+
+These 774 municipalities are [[local government]] "creatures of provincial jurisdiction" with [[legal person]]ality.<ref name=munisystem>{{cite web | url=http://www.municipal.gov.sk.ca/Programs-Services/municipal-system-information/ | title=Municipal System – History and Types | publisher=Saskatchewan Municipal Relations | access-date=December 4, 2013 | archive-date=October 19, 2013 | archive-url=https://web.archive.org/web/20131019150516/http://www.municipal.gov.sk.ca/Programs-Services/municipal-system-information/ | url-status=dead }}</ref> One of the key purposes of Saskatchewan's municipalities are "to provide services, facilities and other things that, in the opinion of council, are necessary or desirable for all or a part of the municipality".<ref name="munisystem" /> Other purposes are to: "provide good government"; "develop and maintain a safe and viable community"; "foster economic, social and environmental well-being" and "provide wise stewardship of public assets."<ref name="munisystem" />
+
+== Transportation ==
+{{Main|Transportation in Saskatchewan}}
+Transportation in Saskatchewan includes an infrastructure system of roads, highways, freeways, airports, ferries, pipelines, trails, waterways and railway systems <ref>{{Cite web |date=2024-08-08 |title=Ministry of Highways {{!}} Ministries |url=https://www.saskatchewan.ca/government/government-structure/ministries/highways |access-date=2024-08-09 |website=Government of Saskatchewan |language=en}}</ref> serving a population of approximately 1,003,299 (according to 2007 estimates) inhabitants year-round.<ref>{{Cite book |url=https://www.saskatchewan.ca/-/media/news-archive/2007/december/19/saskatchewan-population-tops-one-million/qpr-2007-q3.pdf |title=Saskatchewan Quarterly Population Report |publication-date=19 Dec 2007 |language=English}}</ref> The Saskatchewan Department of Highways and Transportation estimates 80% of traffic is carried on the 5,031-kilometre principal system of highways.<ref>{{cite web|title=Saskatchewan Department of Highways and Transportation|url=http://www.highways.gov.sk.ca/|website=highways.gov.sk |access-date=January 18, 2008|archive-date=December 5, 2021|archive-url=https://web.archive.org/web/20211205030026/http://www.highways.gov.sk.ca/|url-status=live}}</ref>
+[[File:QuAppelleRiverHwy2.jpg|thumb|left|The [[Saskatchewan Highway 2|CanAm Highway]] near [[Buffalo Pound Lake]]]]
+The [[Ministry of Highways and Infrastructure (Saskatchewan)|Ministry of Highways and Infrastructure]] operates over {{cvt|26000|km}} of highways and [[Dual carriageway|divided highways]]. There are also municipal roads which comprise different surfaces. Asphalt concrete pavements comprise almost {{cvt|9000|km}}, granular pavement almost {{cvt|5000|km}}, non structural or thin membrane surface TMS are close to {{cvt|7000|km}} and finally gravel highways make up over {{cvt|5600|km}} through the province. In the northern sector, [[ice road]]s which can only be navigated in the winter months comprise another approximately {{cvt|150|km}} of travel.<ref name="SHT">{{cite web|title=Performance Plan – Saskatchewan Highways and Transportation|url=http://www.highways.gov.sk.ca/pp04-pdf/|last=Saskatchewan Highways and Transportation|website=highways.gov.sk|access-date=September 4, 2007|archive-date=February 27, 2021|archive-url=https://web.archive.org/web/20210227074234/http://www.highways.gov.sk.ca/pp04-pdf/|url-status=live}}</ref> In 2024, the [[Government of Canada]] provided Saskatchewan with a $6.1-million grant for [[shuttle bus]]es serving remote communities.<ref>{{cite web |last1=Mihalik |first1=Halyna |title=Sask. town's new shuttle vehicle among rural transportation projects funded in federal budget |url=https://www.cbc.ca/news/canada/saskatoon/federal-rural-transit-solutions-fund-gravelbourg-1.7178302 |website=CBC News |access-date=4 June 2024}}</ref>
+
+Saskatchewan has over {{cvt|250,000|km}} of roads and highways, the highest length of road surface of any Canadian province.<ref name="raw">{{cite web|title=Saskatchewan|url=http://www.worldtravelguide.net/country/243/international_travel/North-America/Saskatchewan.html|year=2007|website=worldtravelguide|publisher=World Travel Guide – Nexus Business Media|archive-url=https://web.archive.org/web/20070927040431/http://www.worldtravelguide.net/country/243/international_travel/North-America/Saskatchewan.html |archive-date=September 27, 2007|access-date=September 4, 2007}}</ref> The major highways in Saskatchewan are the [[Saskatchewan Highway 1|Trans Canada expressway]], [[Saskatchewan Highway 16|Yellowhead Highway]] northern Trans Canada route, [[Saskatchewan Highway 11|Louis Riel Trail]], [[Saskatchewan Highway 2|CanAm Highway]], [[Saskatchewan Highway 13|Red Coat Trail]], [[Saskatchewan Highway 55|Northern Woods and Water route]], and [[Saskatchewan Highway 9|Saskota travel route]].
+
+The first [[Canadian transcontinental railway]] was constructed by the [[Canadian Pacific Railway]] (CPR) between 1881 and 1885.<ref>{{cite web|title=Canadian Pacific Railway|url=http://www.cpr.ca/ |website=cpr|access-date=January 18, 2008|archive-date=May 15, 2021|archive-url=https://web.archive.org/web/20210515164233/https://www8.cpr.ca/|url-status=live}}</ref> After the great east–west transcontinental railway was built, north–south connector branch lines were established. The 1920s saw the largest rise in rail line track as the CPR and [[Canadian National Railway]] (CNR) fell into competition to provide rail service within ten kilometres. In the 1960s there were applications for abandonment of branch lines.<ref name="atlas">{{Cite book
+| last = Fung
+| first = K.I.
+| title = Atlas of Saskatchewan
+| place = Saskatoon
+| publisher = Modern Press
+| year = 1969}}</ref> Today the only two passenger rail services in the province are ''[[The Canadian]]'' and [[Winnipeg–Churchill train]], both operated by [[Via Rail]]. ''The Canadian'' is a transcontinental service linking Toronto with Vancouver.
+
+The main Saskatchewan waterways are the [[North Saskatchewan River]] or [[South Saskatchewan River]] routes. In total, there are 3,050 bridges maintained by the Department of Highways in Saskatchewan.<ref name="Bridge">{{cite web|title=Bridges|url=http://esask.uregina.ca/entry/bridges.html|last=Ivanochko|first=Bob|year=2006 |work=CANADIAN PLAINS RESEARCH CENTER, UNIVERSITY OF REGINA|publisher=Encyclopedia of Saskatchewan|archive-url=https://web.archive.org/web/20080128150236/http://esask.uregina.ca/entry/bridges.html |archive-date=28 January 2008|access-date=January 18, 2008}}</ref> There are currently twelve ferry services operating in the province, all under the jurisdiction of the Department of Highways.
+
+The [[Saskatoon/John G. Diefenbaker International Airport|Saskatoon Airport]] was initially established as part of the [[Royal Canadian Air Force]] training program during [[World War II]]. It was renamed the John G. Diefenbaker Airport in 1993.<ref name="SE">{{cite web
+| title = Airport History
+| work = Saskatoon Airport Authority
+| url = https://skyxe.ca/about-us/mission-history
+| access-date = January 18, 2008
+| archive-date = July 16, 2017
+| archive-url = https://web.archive.org/web/20170716211109/https://skyxe.ca/about-us/mission-history
+| url-status = live
+}}</ref> ''Roland J. Groome Airfield'' is the official designation for the [[Regina International Airport]] as of 2005; the airport was established in 1930.
+
+Airlines offering service to Saskatchewan are [[Air Canada]], [[WestJet Airlines]], [[Delta Air Lines]], [[Transwest Air]], [[Sunwing Airlines]], Norcanair Airlines, La Ronge Aviation Services Ltd, La Loche Airways, Osprey Wings Ltd, Buffalo Narrows Airways Ltd, Île-à-la-Crosse Airways Ltd, Voyage Air, [[Pronto Airways]], Venture Air Ltd, Pelican Narrows Air Service, Jackson Air Services Ltd, and Northern Dene Airways Ltd.<ref name="service">{{cite web|title=Saskatchewan Airlines: Airlines in Saskatchewan, Canada|url=http://saskatchewan.worldweb.com/Transportation/Airlines/ |date=1994–2008|website=saskatchewan.worldweb|archive-url=https://web.archive.org/web/20030304212047/http://saskatchewan.worldweb.com/Transportation/Airlines/ |archive-date=March 4, 2003|access-date=January 18, 2008}}</ref>
+
+The [[Government of Canada]] agreed to contribute $20 million for two new interchanges in [[Saskatoon]]. One of them being at the [[Saskatchewan Highway 219|Highway 219]]/Lorne Avenue intersection with Circle Drive, the other at the Senator Sid Buckwold Bridge (Idylwyld Freeway) and Circle Drive. This is part of the Asia-Pacific Gateway and Corridor Initiative to improve access to the CNR's intermodal freight terminal thereby increasing Asia-Pacific trade. Also, the Government of Canada will contribute $27 million to Regina to construct a CPR intermodal facility and improve infrastructure transportation to the facility from both national highway networks, [[Saskatchewan Highway 1|Highway 1, the TransCanada Highway]] and [[Saskatchewan Highway 11|Highway 11, Louis Riel Trail]]. This also is part of the Asia-Pacific Gateway and Corridor Initiative to improve access to the CPR terminal and increase Asia-Pacific trade.<ref name="Hon. Lawrence Cannon, M.P., P.C. Minister of transport, infrastructure and communities">{{cite web|title=Statement by Hon. Lawrence Cannon, M.P., P.C. Minister of transport, infrastructure and communities at a news conference of Council of ministers responsible for transportation and highway safety|url=http://www.newswire.ca/en/releases/archive/April2008/08/c3781.html|first=Lawrence |last=Cannon |date=2005–2008|work=Newswire|publisher=CNW Group|archive-url=https://web.archive.org/web/20080422090316/http://www.newswire.ca/en/releases/archive/April2008/08/c3781.html |archive-date=April 22, 2008|access-date=April 27, 2008}}</ref>
+
+== Culture ==
+{{Further|Culture of Saskatchewan|Tourism in Saskatchewan#Museums}}
+[[File:RoyalSaskMuseum Front.jpg|thumb|The [[Royal Saskatchewan Museum]] is a natural history museum based in Saskatchewan.]]
+Saskatchewan is home to a [[List of museums in Saskatchewan|number of museums]]. The [[Royal Saskatchewan Museum]] is the [[Provincial museums of Canada|provincial museum]] of the province. Other museums include [[Diefenbaker House]], [[The Evolution of Education Museum|Evolution of Education Museum]], [[Museum of Antiquities (Saskatoon)|Museum of Antiquities]], the [[RCMP Heritage Centre]], [[Rotary Museum of Police and Corrections]], [[Saskatchewan Science Centre]], [[Saskatchewan Western Development Museum]], and the [[T.rex Discovery Centre]].
+
+=== Art ===
+{{Further|Culture of Saskatchewan#Visual arts}}
+
+The province is home to several art galleries, including [[MacKenzie Art Gallery]], and [[Remai Modern]]. The province is also home to several [[performing arts centre]]s including the [[Conexus Arts Centre]] in Regina, and [[TCU Place]] in Saskatoon. [[PAVED Arts]], a [[new media art|new media]] [[artist-run space]], is also in Saskatoon.
+
+=== Music ===
+{{Further|Music of Saskatchewan}}
+
+The province is presently home to several concert [[orchestra]]s, the [[Regina Symphony Orchestra]], the [[Saskatoon Symphony Orchestra]], and the [[Saskatoon Youth Orchestra]]. The Regina Symphony Orchestra is at the Conexus Arts Centre, while the Saskatoon performs at TCU Place.
+
+=== Literature ===
+{{Further|Culture of Saskatchewan#Literature|Culture of Saskatchewan#Theatre|Category:Writers from Saskatchewan}}
+
+A leading writer from Saskatchewan is [[W. O. Mitchell]] (1914–1998), born in [[Weyburn]]. His best-loved novel is ''[[Who Has Seen the Wind (novel)|Who Has Seen the Wind]]'' (1947), which portrays life on the [[Canadian Prairies]] and sold almost a million copies in Canada.<ref name="CBCbooks">{{cite web|url=http://www.cbc.ca/books/booksandauthors/2012/10/who-has-seen-the-wind.html |archive-url=https://web.archive.org/web/20200807235003/https://www.cbc.ca/books/booksandauthors/2012/10/who-has-seen-the-wind.html  |title=Book Profile: Who Has Seen the Wind|publisher=CBC Radio Canada|archive-date=August 7, 2020|access-date=2012-12-26}}</ref> As a broadcaster, he is known for his radio series [[Jake and the Kid]], which aired on [[CBC Radio]] between 1950 and 1956 and was also about life on the Prairies.
+
+== Sports ==
+{{Further|Sport in Saskatchewan}}
+
+[[File:Mosaic Stadium Exterior.jpg|thumb|[[Mosaic Stadium]] is the home stadium for the [[Saskatchewan Roughriders]], a professional [[Canadian football]] team.]]
+
+[[Ice hockey|Hockey]] is the most popular sport in Saskatchewan. More than 500 [[National Hockey League]] (NHL) players have been born in Saskatchewan, the highest per capita output of any Canadian province, U.S. state, or [[Europe]]an country.<ref>{{cite web |title=NHL Players Born in Saskatchewan, Canada |url=https://www.hockey-reference.com/friv/birthplaces.cgi?country=CA&province=SK&state= |url-status=live |archive-url=https://web.archive.org/web/20211220131917/https://www.hockey-reference.com/friv/birthplaces.cgi?country=CA&province=SK&state= |archive-date=December 20, 2021 |access-date=November 1, 2013 |work=Hockey-Reference.com}}</ref><ref>{{cite encyclopedia|last=Chaput|first=John|title=Hockey|url=http://esask.uregina.ca/entry/hockey.html|encyclopedia=The Encyclopedia of Saskatchewan|access-date=November 1, 2013|archive-url=https://web.archive.org/web/20090208175523/http://esask.uregina.ca/entry/hockey.html |archive-date=February 8, 2009}}</ref> This includes [[Gordie Howe]], dubbed "Mr. Hockey" and widely regarded as one of the greatest hockey players of all time.<ref>{{Cite web |last=Vollman |first=Rob |date=2016-06-10 |title=Numbers say Howe was the best ever |url=https://www.nhl.com/news/numbers-say-howe-was-the-best-ever/c-280936880 |access-date=2023-07-10 |website=nhl.com}}</ref><ref>{{Cite news |last=Burnside |first=Scott |date=2017-01-27 |title=Wayne Gretzky, Bobby Orr and Mario Lemieux agree Gordie Howe was best ever |work=ESPN |url=https://www.espn.com/nhl/story/_/id/18569929/wayne-gretzky-bobby-orr-mario-lemieux-say-gordie-howe-was-best-ever-played |access-date=2023-07-10}}</ref> Some other notable NHL figures born in Saskatchewan include [[Keith Allen (ice hockey)|Keith Allen]], [[Bryan Trottier]], [[Bernie Federko]], [[Clark Gillies]], [[Fernie Flaman]], [[Fred Sasakamoose]], [[Bert Olmstead]], [[Harry Watson (ice hockey b. 1923)|Harry Watson]], [[Elmer Lach]], [[Max Bentley]], [[Sid Abel]], [[Doug Bentley]], [[Eddie Shore]], [[Clint Smith]], [[Bryan Hextall]], [[Johnny Bower]], [[Emile Francis]], [[Glenn Hall]], [[Chuck Rayner]], [[Wendel Clark]], [[Brad McCrimmon]], [[Mike Babcock]], [[Patrick Marleau]], [[Theoren Fleury|Theo Fleury]], [[Terry Harper]], [[Wade Redden]], [[Brian Propp]], [[Ryan Getzlaf]], [[Chris Kunitz]], and [[Jordan Eberle]]. A number of prominent women's hockey players and figures have come from the province as well, including [[Hayley Wickenheiser]], [[Colleen Sostorics]], [[Gina Kingsbury]], [[Shannon Miller (ice hockey)|Shannon Miller]], and [[Emily Clark (ice hockey)|Emily Clark]]. Wickenheiser was the first female skater to play full-time professional hockey in a men's league and is regarded as one of the greatest hockey players of all time.<ref>{{Cite web |last=Rutherford |first=Kristina |date=2019 |title=No Days Off |url=https://www.sportsnet.ca/hockey/nhl/hayley-wickenheiser-hall-fame-big-read/ |access-date=2023-07-10 |website=Sportsnet}}</ref> Saskatchewan does not have a professional hockey franchise, but five teams in the [[junior ice hockey|junior]] [[Western Hockey League]] are based in the province: the [[Moose Jaw Warriors]], [[Prince Albert Raiders]], [[Regina Pats]], [[Saskatoon Blades]], and [[Swift Current Broncos]].
+
+The [[Saskatchewan Roughriders]] are the province's professional [[Canadian football]] team playing in the [[Canadian Football League]], and are based in Regina but popular across Saskatchewan. The team's fans are also found to congregate on game days throughout Canada, and collectively they are known as "Rider Nation". The Roughriders are one of the oldest professional sports teams and community-owned franchises in North America and have won four [[Grey Cup]] championships. The province also boasts successful women's football teams. The [[Saskatoon Valkyries]] and the [[Regina Riot (football)|Regina Riot]] are the only two teams to win championships in the [[Western Women's Canadian Football League]] since it began play in 2011.
+
+The province is home to two other professional sports franchises. The [[Saskatchewan Rush]] play in the [[National Lacrosse League]]. In 2016, their first year after relocating from [[Edmonton|Edmonton, Alberta]], the Rush won both their Division Title and the League Championship. In 2018, the province received a [[Canadian Elite Basketball League]] franchise, the [[Saskatchewan Rattlers]], which won the league's inaugural championship in 2019. The [[Saskatchewan Heat]] are a semi-professional team in the [[National Ringette League]]. The province boasts six teams in the [[Western Canadian Baseball League]].
+[[File:Emma Lake area 2014-12-31 16-03-32 0039 KC (15556369354).jpg|thumb|A [[pond hockey]] rink set up on [[Emma Lake (Saskatchewan)|Emma Lake]]]]Curling is the province's official sport and, historically, Saskatchewan has been one of the strongest [[curling]] provinces.<ref>{{Cite book |title=The Encyclopedia of Saskatchewan |publisher=Canadian Plains Research Centre |year=2005 |isbn=9780889771758 |location=Regina |pages=228 |language=English}}</ref> Teams from Saskatchewan have won seven [[Montana's Brier|Canadian men's championships]], five [[List of World Men's Curling Champions|world men's championships]], thirteen [[Scotties Tournament of Hearts|Canadian women's championships]], and four [[List of World Women's Curling Champions|world women's championships]]. Notable curlers from Saskatchewan include [[Ernie Richardson (curler)|Ernie Richardson]], [[Joyce McKee]], [[Vera Pezer]], [[Rick Folk]], [[Sandra Schmirler]], and [[Ben Hebert]]. In a 2019 poll conducted by [[The Sports Network]] (TSN), experts ranked Schmirler's Saskatchewan team, which won the gold medal at the [[Curling at the 1998 Winter Olympics|1998 Olympics]], as the greatest women's team in Canada's history.<ref>{{cite web|title=Canada's Greatest Curlers: Schmirler's foursome named greatest rink of all-time|url=https://www.tsn.ca/canada-s-greatest-curlers-schmirler-s-foursome-named-greatest-rink-of-all-time-1.1253745|work=TSN|date=February 22, 2019|access-date=February 24, 2019|archive-date=May 7, 2021|archive-url=https://web.archive.org/web/20210507105431/https://www.tsn.ca/canada-s-greatest-curlers-schmirler-s-foursome-named-greatest-rink-of-all-time-1.1253745|url-status=live}}</ref>
+
+{| class="wikitable sortable"
+|+ Sports teams in Saskatchewan
+|-
+! Team !! City !! League 
+!Since
+!Stadium/arena
+!Capacity
+|-
+| [[Saskatchewan Roughriders]]|| [[Regina, Saskatchewan|Regina]]|| [[Canadian Football League]]
+|1910
+|[[Mosaic Stadium]]
+| style="text-align: right" | 33,350
+|-
+|[[Saskatchewan Rush]]
+|[[Saskatoon]]
+|[[National Lacrosse League]]
+|2016
+|[[SaskTel Centre]]
+| style="text-align: right" | 15,100
+|-
+|[[Saskatchewan Rattlers]]
+|Saskatoon
+|[[Canadian Elite Basketball League]]
+|2019
+|SaskTel Centre
+| style="text-align: right" | 15,100
+|-
+|[[Regina Pats]]
+|Regina
+|[[Canadian Hockey League]]
+|1917
+|[[Brandt Centre]]
+| style="text-align: right" | 6,000
+|-
+|[[Saskatoon Blades]]
+|Saskatoon
+|Canadian Hockey League
+|1966
+|SaskTel Centre
+| style="text-align: right" | 15,100
+|-
+|[[Swift Current Broncos]]
+|[[Swift Current]]
+|Canadian Hockey League
+|1967
+|[[Innovation Credit Union iPlex]]
+| style="text-align: right" | 2,879
+|-
+| [[Prince Albert Raiders]]|| [[Prince Albert, Saskatchewan|Prince Albert]]|| Canadian Hockey League
+|1982
+|[[Art Hauser Centre]]
+| style="text-align: right" | 2,580
+|-
+| [[Moose Jaw Warriors]]|| [[Moose Jaw]] || Canadian Hockey League 
+|1984
+|[[Mosaic Place]]
+| style="text-align: right" | 4,414
+|-
+|[[Saskatoon Valkyries]]
+|Saskatoon
+|[[Western Women's Canadian Football League]]
+|2010
+|[[Saskatoon Minor Football Field]]
+| style="text-align: right" | 5,000
+|-
+|[[Regina Riot (football)|Regina Riot]]
+|Regina
+|Western Women's Canadian Football League
+|2010
+|Leibel Field
+| style="text-align: right" | 1,200
+|}
+
+== Symbols ==
+{{See also|Symbols of Saskatchewan}}
+[[File:Tartan of Saskatchewan.png|thumb|upright|alt=Thread count: black 1 green 6 brown 11 gold 26 red 2 yellow 1 red 2 gold 26 brown 11 green 6 black 1 white 2|The official tartan of Saskatchewan, created in 1961]]
+The [[flag of Saskatchewan]] was officially adopted on September 22, 1969.<ref>{{Cite book|url=https://books.google.com/books?id=eUjQ43tRWlEC|title=The Arms, flags, and emblems of Canada|author=Department of the Secretary of State. Canada.|date=1984-01-01|publisher=Deneau Publishers in co-operation with the Department of the Secretary of State and the Canadian Government Publishing Centre, Supply and Services Canada|isbn=978-0-88879-030-9|page=59|language=en|access-date=April 10, 2018|archive-date=August 19, 2020|archive-url=https://web.archive.org/web/20200819062322/https://books.google.com/books?id=eUjQ43tRWlEC|url-status=live}}</ref> The flag features the [[Coat of arms of Saskatchewan|provincial shield]] in the upper quarter nearest the staff, with the [[floral emblem]], the [[Lilium philadelphicum|Prairie Lily]], in the fly. The upper green (in [[forest green]]) half of the flag represents the northern Saskatchewan forest lands, while the golden lower half of the flag symbolizes the southern wheat fields and prairies. A province-wide competition was held to design the flag, and drew over 4,000 entries. The winning design was by Anthony Drake, then living in [[Hodgeville, Saskatchewan|Hodgeville]].<ref>{{cite encyclopedia | title = Saskatchewan, flag of | encyclopedia = Encyclopædia Britannica | url = http://www.britannica.com/EBchecked/topic/1355491/Saskatchewan-flag-of | year = 2008 | access-date = July 9, 2008 | archive-date = June 18, 2009 | archive-url = https://web.archive.org/web/20090618135125/http://www.britannica.com/EBchecked/topic/1355491/Saskatchewan-flag-of | url-status = live }}</ref>
+
+In 2005, Saskatchewan Environment held a province-wide vote to recognize Saskatchewan's centennial year, receiving more than 10,000 online and mail-in votes from the public. The [[walleye]] was the overwhelming favourite of the six native fish species nominated for the designation, receiving more than half the votes cast.<ref>{{cite web|title=Walleye Wins Vote For Saskatchewan's Fish Emblem|url=http://www.gov.sk.ca/news?newsId=441487f4-810a-443d-aad9-199c0bffec5d|date=September 30, 2005|website=Gov.sk|publisher=Gov.sk.ca|archive-url=https://web.archive.org/web/20101125040721/http://www.gov.sk.ca/news?newsId=441487f4-810a-443d-aad9-199c0bffec5d |archive-date=November 25, 2010|access-date=February 23, 2011}}</ref> Other species in the running were the [[lake sturgeon]], [[lake trout]], [[lake whitefish]], [[northern pike]] and [[yellow perch]].
+
+Saskatchewan's other symbols include the tartan, the licence plate, and the provincial flower. Saskatchewan's official [[tartan]] was registered with the Court of [[Lord Lyon King of Arms]] in [[Scotland]] in 1961. It has seven colours: gold, brown, green, red, yellow, white and black. The provincial licence plates display the slogan "Land of Living Skies". The provincial flower of Saskatchewan is the [[western red lily]].
+
+=== Centennial celebrations ===
+In 2005, Saskatchewan celebrated its centennial. To honour it, the [[Royal Canadian Mint]] issued a commemorative five-dollar coin depicting Canada's wheat fields as well as a circulation [[Quarter (Canadian coin)|25-cent coin]] of a similar design. Queen Elizabeth II and [[Prince Philip]] visited [[Regina, Saskatchewan|Regina]], [[Saskatoon]], and [[Lumsden, Saskatchewan|Lumsden]], and the Saskatchewan-reared [[Joni Mitchell]] issued an album in Saskatchewan's honour.
+
+== See also ==
+{{portal|border=no|Canada}}
+* [[Time in Saskatchewan]]
+* [[Outline of Saskatchewan]]
+* [[Index of Saskatchewan-related articles]]{{Clear}}
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{Reflist|2}}
+
+== Further reading ==
+{{refbegin|30em}}
+{{Wikivoyage inline|Saskatchewan}}
+* [https://web.archive.org/web/20090217205109/http://esask.uregina.ca/browse_by_subject.html ''Encyclopedia of Saskatchewan'']
+* Archer, John H. ''Saskatchewan: A History.'' Saskatoon: Western Producer Prairie Books, 1980. 422 pp.
+* Bennett, John W. and Kohl, Seena B. ''[https://books.google.com/books?id=S_HALsZ5z5kC&lpg=PP1 Settling the Canadian-American West, 1890–1915] {{Webarchive|url=https://web.archive.org/web/20200728160840/https://books.google.com/books?id=S_HALsZ5z5kC&lpg=PP1 |date=July 28, 2020 }}.'' University of Nebraska Press, 1995. 311 pp.
+* Waiser, Bill. ''Saskatchewan: A New History'' (2006)
+* Bocking, D. H., ed. ''Pages from the Past: Essays on Saskatchewan History.'' Saskatoon: Western Producer Prairie Books, 1979. 299 pp.
+* LaPointe, Richard and Tessier, Lucille. ''The Francophones of Saskatchewan: A History.'' Regina: [[University of Regina]], Campion Coll., 1988. 329 pp.
+* Lipset, Seymour M. ''[https://books.google.com/books?id=_oosxdaj7JQC&lpg=PP1 Agrarian Socialism: The Cooperative Commonwealth Federation in Saskatchewan: A Study in Political Sociology] {{Webarchive|url=https://web.archive.org/web/20200702000104/https://books.google.com/books?id=_oosxdaj7JQC&lpg=PP1 |date=July 2, 2020 }}.'' University of California Press, 1950.
+* Martin, Robin ''Shades of Right: Nativist and Fascist Politics in Canada, 1920–1940'', [[University of Toronto Press]], 1992.
+* {{Cite book|last =Porter|first =Jene M|year =2008|title =Perspectives of Saskatchewan|url =https://books.google.com/books?id=VlpVfAQekzUC&pg=PA1|publisher =University of Manitoba Press|isbn =978-0-88755-183-3|access-date =December 27, 2021|archive-date =April 7, 2022|archive-url =https://web.archive.org/web/20220407191459/https://books.google.com/books?id=VlpVfAQekzUC&pg=PA1|url-status =live}}
+* {{Cite book |last = Veldhuis |first = Niels |year = 2009 |title = Saskatchewan Prosperity: Building on Success |url = https://books.google.com/books?id=8r4MY__d2XEC&pg=PA50 |publisher = Fraser Institute |access-date = December 27, 2021 |archive-date = July 16, 2022 |archive-url = https://web.archive.org/web/20220716200149/https://books.google.com/books?id=8r4MY__d2XEC&pg=PA50 |url-status = live }}
+{{refend}}
+
+== External links ==
+{{Sister project links|voy=Saskatchewan|collapsible=collapsed}}
+
+*{{Official website|name=Official website of Government of Saskatchewan}}
+*[https://www.tourismsaskatchewan.com/ Tourism Saskatchewan]
+*[https://web.archive.org/web/20070429180605/http://esask.uregina.ca/home.html Encyclopedia of Saskatchewan]
+*[http://www.saskhistoryonline.ca/ Saskatchewan History Online]
+
+{{Subdivisions of Saskatchewan}}
+{{Saskatchewan topics}}
+{{Provinces and territories of Canada}}
+{{Canada topics}}
+
+{{Authority control}}
+
+[[Category:Saskatchewan| ]]
+[[Category:1905 establishments in Canada]]
+[[Category:Provinces and territories of Canada]]
+[[Category:States and territories established in 1905]]
+[[Category:Canadian Prairies]]

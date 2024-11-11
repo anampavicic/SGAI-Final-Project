@@ -1,0 +1,558 @@
+{{Short description|Capital of Masbate, Philippines}}
+{{Use mdy dates|date=July 2022}}
+{{more citations needed|date=January 2013}}
+{{Infobox settlement
+| name               = {{PH wikidata|name}}
+| official_name      = {{PH wikidata|official_name}}
+| native_name        = 
+| other_name         = 
+| settlement_type    = {{PH wikidata|settlement_type}}
+| image_skyline      = Masbate City skyline port area (Masbate City; 04-12-2024).jpg
+| image_caption      = 
+| image_flag         = Flag_of_Masbate,_Masbate.png
+| flag_size          = 120x80px
+| image_seal         = Ph_seal_Masbate_City.png
+| seal_size          = 100x80px
+| etymology          = <!--origin of name-->
+| nickname           = {{plainlist|
+* Rodeo Capital of Southeast Asia
+* Melting Pot of Diverse Cultures and Traditions in Central Philippines
+}}
+| motto              = ''Padayon na Pag-urusad, Katawhayan kag Progreso!'' (Continuing Unity for Peace and Prosperity!)
+| anthem             = 
+| image_map          = {{PH wikidata|image_map}}
+| map_caption        = {{PH wikidata|map_caption}}
+| image_map1         = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map        = Philippines
+| pushpin_label_position = left
+| pushpin_map_caption = Location within the {{PH wikidata|country}}
+| coordinates        = {{PH wikidata|coordinates}}
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = [[Philippines]]
+| subdivision_type1  = [[Regions of the Philippines|Region]]
+| subdivision_name1  = {{PH wikidata|region}}
+| subdivision_type2  = [[Provinces of the Philippines|Province]]
+| subdivision_name2  = {{PH wikidata|province}}
+| subdivision_type3  = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3  = {{PH legislative district}}
+| established_title  = [[Date of establishment|Founded]]
+| established_date   = 1864
+| established_title1 = Cityhood
+| established_date1  = September 30, 2000
+| named_for          = <!--named after (if person or place)-->
+| parts_type         = [[Barangay]]s
+| parts_style        = para
+| p1                 = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| government_type    = {{PH wikidata|government_type}}
+| government_footnotes = {{thinsp}}<ref>{{DILG detail}}</ref>
+| leader_title       = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name        = Socrates M. Tuason
+| leader_title1      = [[Vice Mayor]]
+| leader_name1       = Rowena R. Tuason
+| leader_title2      = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2       = [[Elisa Olga Kho|Elisa T. Kho]]
+| leader_title3      = [[Sangguniang Panlungsod|City Council]]
+| leader_name3       = {{PH Town Council
+ | 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Rodolfo C. Abella
+ | 3=Jarvey Jasper D. Bala
+ | 4=Rosemarie V. Salvacion
+ | 5=Alberto R. Abayon
+ | 6=Alex D. San Pablo
+ | 7=Joel V. Ibañez
+ | 8=Allan T. Lim
+ | 9=Meden G. Diez
+ | 10=Ramil O. Yaneza
+ | 11=Jerry A. Rey
+}}
+| leader_title4      = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4       = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| area_footnotes     = {{PH area}}
+| elevation_m        = {{PH wikidata|elevation_m}}
+| elevation_max_m    = 697
+| elevation_min_m    = 0
+| elevation_max_rank = 
+| elevation_min_rank = 
+| elevation_footnotes = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes = 
+| elevation_min_footnotes = 
+| area_rank          = 
+| area_total_km2     = {{PH wikidata|area}}
+| population_footnotes = {{PH census|current}}
+| population_total   = {{PH wikidata|population_total}}
+| population_as_of   = {{PH wikidata|population_as_of}}
+| population_blank1_title = [[Household]]s
+| population_blank1  = {{PH wikidata|household}}
+| population_blank2_title = 
+| population_blank2  = 
+| population_density_km2 = auto
+| population_rank    = 
+| population_note    = 
+| population_demonym = Masbateño
+| timezone           = [[Philippine Standard Time|PST]]
+| utc_offset         = +8
+| postal_code_type   = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code        = {{PH wikidata|postal_code}}
+| postal2_code_type  = {{PSGCstyle}}
+| postal2_code       = {{PSGC detail}}
+| area_code_type     = {{areacodestyle}}
+| area_code          = {{PH wikidata|area_code}}
+| website            = {{URL|https://cityofmasbate.gov.ph/}}
+| demographics_type1 = [[Economy of the Philippines|Economy]]
+| demographics1_title1 = {{PH wikidata|income_class_title}}
+| demographics1_info1 = 4th city income class
+| demographics1_title2 = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2 = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3 = [[Revenue]]
+| demographics1_info3 = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4 = Revenue rank
+| demographics1_info4 = 
+| demographics1_title5 = [[Asset]]s
+| demographics1_info5 = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6 = Assets rank
+| demographics1_info6 = 
+| demographics1_title7 = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7 = 
+| demographics1_title8 = IRA rank
+| demographics1_info8 = 
+| demographics1_title9 = [[Expenditure]]
+| demographics1_info9 = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10 = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10 = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2 = Service provider
+| demographics2_title1 = [[List of electric distribution utilities in the Philippines|Electricity]]
+| demographics2_info1 = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2 = Water
+| demographics2_info2 = 
+| demographics2_title3 = Telecommunications
+| demographics2_info3 = 
+| demographics2_title4 = Cable TV
+| demographics2_info4 = 
+| demographics2_title5 = 
+| demographics2_info5 = 
+| demographics2_title6 = 
+| demographics2_info6 = 
+| demographics2_title7 = 
+| demographics2_info7 = 
+| demographics2_title8 = 
+| demographics2_info8 = 
+| demographics2_title9 = 
+| demographics2_info9 = 
+| demographics2_title10 = 
+| demographics2_info10 = 
+| blank_name_sec1    = {{PH wikidata|climate_title}}
+| blank_info_sec1    = {{PH wikidata|climate_type}}
+| blank1_name_sec1   = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1   = {{PH wikidata|language}}
+| blank2_name_sec1   = [[Crime index]]
+| blank2_info_sec1   = 
+| blank3_name_sec1   = 
+| blank3_info_sec1   = 
+| blank4_name_sec1   = 
+| blank4_info_sec1   = 
+| blank5_name_sec1   = 
+| blank5_info_sec1   = 
+| blank6_name_sec1   = 
+| blank6_info_sec1   = 
+| blank7_name_sec1   = 
+| blank7_info_sec1   = 
+| blank1_name_sec2   = Major religions
+| blank1_info_sec2   = 
+| blank2_name_sec2   = Feast date
+| blank2_info_sec2   = 
+| blank3_name_sec2   = Catholic diocese
+| blank3_info_sec2   = 
+| blank4_name_sec2   = Patron saint
+| blank4_info_sec2   = 
+| blank5_name_sec2   = 
+| blank5_info_sec2   = 
+| blank6_name_sec2   = 
+| blank6_info_sec2   = 
+| blank7_name_sec2   = 
+| blank7_info_sec2   = 
+| short_description  = 
+| footnotes          = 
+}}
+
+'''Masbate City''', officially the '''City of Masbate''' ([[Masbateño language|Masbateño]]: ''Syudad san Masbate''; {{lang-fil|Lungsod ng Masbate}}), is a 4th class [[Cities of the Philippines#Legal classification|component city]] and capital of the [[Provinces of the Philippines|province]] of [[Masbate]], [[Philippines]]. According to the 2020 census, it has a population of 104,522 people.{{PH census|current}}
+
+As the most populous and the only city in the province, Masbate City serves as the province's main commercial center and chief seaport. The city is more or less situated at the center of Masbate province and [[Masbate Island]], about 212 aerial miles and 362 nautical miles from Manila. It is noted for its well-protected seaport, with [[Ticao Island]] acting as barrier against the effects of inclement weather from the north-east. Being located at the central part of the Philippine archipelago, the city serves as Bicol Region's gateway to the [[Visayas]] and [[Mindanao]]. It is accessible through sea and air transportation. 
+
+== Etymology ==
+Some accounts claim that "Masbate" was coined after the words "''masa''" and "''bate''" or from another word "''masibat''" remains anecdotal up to the present. Other accounts claim that the term "Masbate" comes from "masbad" which means "machete".<ref name=":0">{{Cite web |title=The City {{!}} City of Masbate |url=https://cityofmasbate.gov.ph/the-city/#:~:text=And%20in%20the%201850s,%20there,Malobago%20(Cataingan)%20in%201872 |access-date=2024-09-24 |language=en-US}}</ref>
+
+==History==
+===Spanish colonial era and the Philippine Revolution===
+The islands of [[Masbate Island|Masbate]], [[Ticao Island|Ticao]] and [[Burias (island)|Burias]] were explored by [[Captain Luis Enriquez de Guzman]] in 1569. This exploration work was continued by [[Captain Andres de Ibarra]]. Ibalon ([[Albay]]) Province assumed jurisdiction over Masbate Islands, and Masbate was named the town's capital village; for security reasons, the seat of government had to be moved time and time again. It was first moved to Mobo and then again, to Guiom. It was later transferred to Palanog near the mouth of Lumbang River to make it more accessible to [[Bicol Region|Bicol]] mainland and to the islands of Burias and Ticao. However, government records were kept inland in Cagay.<ref name=history>{{cite web|title=History of Masbate City|url=http://www.masbatecity.gov.ph/index.php?option=com_content&task=view&id=126&Itemid=90|publisher=Official Website of the City of Masbate|access-date=May 2, 2014|date=September 3, 2013}}</ref>
+
+The Spaniards found several gold mines in the mountains now covered by the town of Aroroy. And in the 1850s, there were Spanish settlements in Masbate. the town of Masbate was first founded in 1864. they later founded the Pueblo de Cervantéz (later named Placer) and the Town of Milagros in 1869 and the town of Malobago (Cataingan) in 1872.<ref name=":0" />
+
+The political history of the town dates back to the 1850s when the [[Spaniards]] established their government under a [[Spain|Spanish]] gobernadorcillo. Spanish control over Masbate was lost in mid-1898 when the Pulahanes forces besieged the town before handing it to the Philippine revolutionaries that arrived in Masbate soon after.
+
+===Philippine-American War===
+Sometime after General Emilio Aguinaldo [[Philippine Declaration of Independence|declared Philippine independence]] at [[Kawit]], [[Cavite]], he issued a military order to overthrow the [[Spain|Spanish]] Government in [[Masbate]] and the [[Visayas]]. General [[Justo Lucban]] and General Diego de Dios acted on this order with the help of Masbateño rebels under Pedro Kipte. Immediately thereafter, the military government under Aguinaldo's government was established. But when the American forces reached Masbate in November 1900, it took over the government of Masbate without any resistance from the Masbateños.<ref name=history/>
+
+===American colonial era===
+[[File:Philippine Island - Masbate - NARA - 68156002.jpg|thumb|left|Aerial view of Masbate, 1936]]
+
+After a devastating typhoon in 1908, an Executive Order was passed annexing the province of Masbate to the province of [[Sorsogon]]. Masbate, by force of circumstance, became a sub-province of [[Sorsogon]] until 1922 when its provincial status was restored. Shortly before the restoration of [[Treaty of Manila (1946)|Philippine Independence]] in 1946, the town of Masbate was established as the provincial capital.<ref name=history/>
+
+During World War II, the first elements of Japanese troops from Legazpi arrive on Masbate province at the dawn of January 7, 1942, on several places without any opposition as the forces stationed there retreated to Panay Island.
+
+===Independent Philippines===
+In the mid-1990s, the idea of converting the municipality into a city was pushed by 2nd District House Representative Luz Cleta Reyes Bakunawa. Her successor, Congressman Emilio Espinosa Jr. together with the Municipal Mayor Juan P. Sanchez Sr. and some local officials and employees took over where she left off.
+
+====Cityhood====
+{{main|Cities of the Philippines}}
+On August 16, 2000, President [[Joseph Estrada]] signed [[Republic Act]] 8807 converting the Municipality of Masbate into a component city. In a plebiscite held later that year, Masbateños voted 7,800 to 3,200 in favor of cityhood, and on September 30, 2000, the Commission on Elections Regional Office in Region 5 officially proclaimed Masbate as a component city.<ref name=history/>
+
+==Geography==
+The city is bounded on the north-east by Masbate Pass; on the south-west by the municipality of [[Milagros, Masbate|Milagros]] and on the north-west by a portion of Asid River and the municipalities of Milagros and [[Baleno, Masbate|Baleno]].
+
+The city's territory, with {{convert|37.6|km}} of shoreline, includes {{convert|300|km2}} of municipal waters, {{convert|1240|ha}} of mangroves, {{convert|560|ha}} of coral reefs, and {{convert|400|ha}} of sea grasses. Residential land use covers {{convert|229.920|ha}}; commercial {{convert|15.0515|ha}}; fish ponds {{convert|252.9759|ha}}; and institutional {{convert|2813.9192|ha}}.
+
+===Climate===
+Dry season is from February to June and rainy from July to February.
+
+{{Weather box
+| location = Masbate City (1991–2020, extremes 1908–2023)
+| metric first = yes
+| single line  = Yes
+| Jan record high C = 35.1
+| Feb record high C = 35.4
+| Mar record high C = 36.3
+| Apr record high C = 37.5
+| May record high C = 37.4
+| Jun record high C = 36.8
+| Jul record high C = 36.8
+| Aug record high C = 35.8
+| Sep record high C = 36.1
+| Oct record high C = 36.0
+| Nov record high C = 36.0
+| Dec record high C = 34.5
+|year record high C = 37.5
+| Jan high C = 30.4
+| Feb high C = 31.0
+| Mar high C = 32.0
+| Apr high C = 33.2
+| May high C = 33.7
+| Jun high C = 33.3
+| Jul high C = 32.5
+| Aug high C = 32.5
+| Sep high C = 32.5
+| Oct high C = 32.4
+| Nov high C = 31.9
+| Dec high C = 30.9
+|year high C = 32.2
+| Jan mean C = 26.9
+| Feb mean C = 27.2
+| Mar mean C = 28.0
+| Apr mean C = 29.1
+| May mean C = 29.7
+| Jun mean C = 29.4
+| Jul mean C = 28.8
+| Aug mean C = 28.8
+| Sep mean C = 28.8
+| Oct mean C = 28.6
+| Nov mean C = 28.3
+| Dec mean C = 27.5
+|year mean C = 28.4
+| Jan low C = 23.4
+| Feb low C = 23.4
+| Mar low C = 24.0
+| Apr low C = 24.9
+| May low C = 25.7
+| Jun low C = 25.5
+| Jul low C = 25.1
+| Aug low C = 25.1
+| Sep low C = 25.0
+| Oct low C = 24.9
+| Nov low C = 24.7
+| Dec low C = 24.1
+|year low C = 24.7
+| Jan record low C = 19.0
+| Feb record low C = 16.1
+| Mar record low C = 19.5
+| Apr record low C = 21.1
+| May record low C = 21.3
+| Jun record low C = 21.3
+| Jul record low C = 21.3
+| Aug record low C = 19.8
+| Sep record low C = 20.1
+| Oct record low C = 20.0
+| Nov record low C = 20.4
+| Dec record low C = 18.2
+|year record low C = 16.1
+| rain colour = green
+| Jan rain mm = 195.0
+| Feb rain mm = 113.5
+| Mar rain mm = 111.0
+| Apr rain mm = 50.3
+| May rain mm = 126.8
+| Jun rain mm = 144.8
+| Jul rain mm = 209.1
+| Aug rain mm = 168.9
+| Sep rain mm = 205.2
+| Oct rain mm = 203.9
+| Nov rain mm = 204.6
+| Dec rain mm = 293.5
+|year rain mm = 2026.6
+| unit rain days = 1 mm
+| Jan rain days = 14
+| Feb rain days = 10
+| Mar rain days = 8
+| Apr rain days = 5
+| May rain days = 8
+| Jun rain days = 11
+| Jul rain days = 15
+| Aug rain days = 14
+| Sep rain days = 15
+| Oct rain days = 14
+| Nov rain days = 15
+| Dec rain days = 17
+|year rain days = 146
+| Jan humidity = 86
+| Feb humidity = 84
+| Mar humidity = 83
+| Apr humidity = 80
+| May humidity = 80
+| Jun humidity = 82
+| Jul humidity = 83
+| Aug humidity = 82
+| Sep humidity = 83
+| Oct humidity = 84
+| Nov humidity = 85
+| Dec humidity = 86
+|year humidity = 83
+| source 1 = [[Philippine Atmospheric, Geophysical and Astronomical Services Administration|PAGASA]]<ref name=PAGASAnormals>
+{{cite web
+| archive-url = https://web.archive.org/web/20181018044117/https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20NORMALS%20%281991-2020%29/MASBATE.pdf
+| archive-date = October 18, 2018
+| url = https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20NORMALS%20%281991-2020%29/MASBATE.pdf
+| title = Masbate Climatological Normal Values
+| publisher = Philippine Atmospheric, Geophysical and Astronomical Services Administration
+| access-date = October 18, 2018}}</ref><ref name=PAGASAextremes>
+{{cite web
+| archive-url = https://web.archive.org/web/20181018044153/https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20EXTREMES%20%28as%20of%202023%29/Masbate.pdf
+| archive-date = October 18, 2018
+| url = https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20EXTREMES%20%28as%20of%202023%29/Masbate.pdf
+| title = Masbate Climatological Extremes
+| publisher = Philippine Atmospheric, Geophysical and Astronomical Services Administration
+| access-date = October 18, 2018}}</ref>
+}}
+
+===Barangays===
+Masbate is politically subdivided into 30 [[barangay]]s. Each barangay consists of [[purok]]s and some have [[sitios]].
+
+Here are the list of the Barangays with their corresponding population as of 2015 (outdated):
+{{Div col|colwidth=15em}}
+* Anas - 1,152 (Rural)
+* Asid - 2,400 (Rural)
+* B. Titong (formerly Bugsayon<ref>{{cite web|url=http://lawph.com/statutes/ra1259-renaming-barrio-bugsayon,-masbate,-masbate-to-b.-titong.html|title=An Act to Change the Name of Barrio Bugsayon, Municipality of Masbate, Province of Masbate, to Barrio B. Titong|publisher=LawPH.com|access-date=April 11, 2011}}</ref>)- 1,635 (Rural)
+* Bagumbayan - 4,806 (Urban)
+* Bantigue - 3,272 (Rural)
+* Bapor - 1,381 (Urban)
+* Batuhan - 1,953 (Rural)
+* Bayombon - 2,174 (Rural)
+* Biyong - 2,117 (Rural)
+* Bolo - 3,321 (Rural)
+* Cagay - 1,769 (Rural)
+* Cawayan Exterior - 1,330 (Rural)
+* Cawayan Interior - 945 (Rural)
+* Centro - 1,985 (Urban)
+* Espinosa - 5,741 (Urban)
+* F. Magallanes - 3,387 (Urban)
+* Ibingay - 7,144 (Urban)
+* Igang - 1,771 (Rural)
+* Kalipay (now known as J.T. Fernandez) - 1,944 (Urban)
+* Kinamaligan - 5,917 (Rural)
+* Maingaran - 3,664 (Rural)
+* Malinta - 4,153 (Rural)
+* Mapiña - 1,543 (Rural)
+* Nursery - 12,125 (Urban)
+* Pating - 3,480 (Urban)
+* Pawa - 2,253 (Rural)
+* Sinalongan - 1,114 (Rural)
+* Tugbo - 6,833 (Urban)
+* Ubongan Dacu - 1,267 (Rural)
+* Usab - 2,813 (Rural)
+{{div col end}}
+
+;Anas: Anas came from the word "Dangas" which literally means bald. A native whose hair had seriously thinned out at the pâté lived in this place. "Dangas" later on became "Angas" and finally "Angas" became "Anas". Anas was established as a barangay in 1880 by the following persons: Vicente Lerit, Lorenzo Verano, Pedro Bello, Juan Cortes and Cornelio Bello. The tenientes who served the barangay in early times were Pedro Bello, Tomas Cortes, Antonio Suplito, Pedro Badillo, Timoteo Asne, Andres Verano, Epifanio Buhion, Felipe Zaragoza, Constantino Zaragoza, Casiano Lerit, Lucio Lerit, Bernabe Asne, Carmelito Cortes and Serapio Serrano. The sitios of Anas are Purang, Cabanatihan, Can-anab and Libas.
+;Ibingay: Barangay Ibingay was originally called Punta Ibingay the name came from the word "Bingcay" or assorted seashells, which children played with, while their mothers were busy with the entre cuatro or card playing. In 1973, it was renamed "Balo" or swordfish, the kind of fish often caught by fishermen in Ibingay waters. However, "Balo" did not stick. People continued to refer to the place as "Ibingay". So, today, Ibingay remains as its official name.
+; Asid: Asid, according to the legend, was formerly called "Asin". Asid River separates Masbate City from Milagros Municipality. This barangay is known for its bamboo craft. Incidentally, Asid is also the name for the gulf which is a rich fishing ground in the vicinity of Milagros town.
+; B. Titong: Barangay B. Titong was named after Benigno Titong Jr. who donated the barangay site of B. Titong. His father, Benigno Sr. was a German national who came to Masbate as a trader of lumber. He settled in what is now B. Titong. Formerly the place was called "Bugsayon". The barangay was established in 1890. The original families of Bugsayon were the Veranos, Tumambacs and the Titongs. The first Teniente del Barrio was Bernaldo Verano followed by Eulogio Verano, Isidro Verano, Felipe Verano and Mario Verano.
+;Bagumbayan: Bagumbayan was formerly called "goma". In time, the place was used by laborers as a temporary corral for cattle while the shippers were waiting for the vessel that would transport the animals to Manila. Later, the laborers called the place Bagumbayan or New Town when transients built their homes near the shore and a community was created. The name "goma" was forgotten due to disuse. Today, Bagumbayan is bursting at the seams so to speak, because of the influx of people.
+;Bantigue: Bantigue, a barangay across the sea facing the city poblacion is a fishing village founded by the Boholano fishermen who migrated to Masbate sometime in the 1950s. Its name was derived from the Borobantigue tree, a species of mangrove abundantly growing in the Bantigue mudflats in the olden days. Bantigue barangay is better known as the place where the native dance "Lapay Bantigue" originated.
+;Bapor: Barangay Bapor in earlier times was called "Puerto de San Antonio", then it was named Muelle later on, and then renamed "Eldorado", because this was the name of the Corporation which bought copra, the bodega of which was called El Dorado. In 1973, it was named bapor because of the ships that dock at Masbate wharf, which is found in the barangay. An incident tells that in 1973, when the barangay officials were deliberating and mulling on the proper name for their barangay, an incoming boat sounded its horn. Then, someone in the group said, "Why don't we call this place "Bapor" and everyone nodded in approval.
+;Batuhan: Barangay Batuhan came from "Kabatuhan" meaning, where rocks or boulders abound. The locality of this barangay has a large deposit of marble rocks or "kabatuhan". It is unfortunate that up to this writing, no effort has been exerted to quarry the deposit of marbles or to exploit the "guano" (bat droppings) and the edible birds nest from the caves of this barangay. Some of the noted settlers of Batuhan were Lucas Zurbito, Felipe Danao, Pedro Rosero, Venancio Natural, Ambrosio Brioso, Nicolas Danao, Francisco Malunes, Apolinario Ebona and Aproniano Torres. The sitios of Batuhan are Ed-idan, Makalangkag, Kampoon, Bukana, Ilawod, Iraya, Pacil, Kabagohan, and Ubo. The barangay was founded in 1882. With Lucas Zurbito as the first Cabeza de Barangay. The Tenientes del Barrio who were selected by the people through the years were Mariano Cervantes, Toribio Brioso, Onofre Danao, Epifanio Torres, Rufino Cebu, Jose Espinosa, and Agaton Espinosa.
+;Bayombon: Bayombon originated from the term Bayong and Bong. Bayong is a large buri bag, where farmers place the things they bought from Malinta during the market days. Bong is a nickname of endearment for a boy. "Daraha tabi an bayong, Bong", or please bring the bag, Bong. Later it evolved into "Bayongbong" and then "Bayombon". Another legend about the name Bayombon tells that it was named "baybay sa bobon" which refers to the sand in the well. The sitios of Bayombon are Mapugahan and Macawayan. The barangay was established in 1895 by the following families: Bacar, Torres, Guadayo, Andaya, Danao, Recto, Nerza, Francisco and Manlapaz. The Tenientes del Barrio were: Fructuoso Candidato, Eulalio Ramos, Ciriaco Bevantucios, Bibrano Manlapaz, Prudencio Nerza, Heracleo Fermin, Saturnino Tupas, Gaudencio Natural and Cresencio Bacar.
+[[File:Biyong hills masb galleryfull.jpg|thumbnail|right|Biyong hills]]
+;Biyong: Biyong came from the native term "lambiyong", meaning whirlwind. Biyong is a level land below Igang Mountain. During bad weather, the wind tends to form into a whirlwind, which usually destroys houses and crops. In the course of time "lambiyong" shortened to "Biyong". This is a farming barangay.
+;Bolo: Nipa and Pagbato-on are sitios of Bolo. The barangay was established in 1926 by the following people: Daniel Fernandez, Mateo Fernandez, Julian Antonio, Timoteo Valladores, Emiliano Gutierrez, Hilario Dometita. The barangay captains were Fortunato Flores, Mateo Fernandez, Andres Buhion, Cesario Natural, Enrique Ragaza, Venancio Azuto, and Bino Gutierrez. Bolo is an [[Ilonggo language|Ilonggo]] word which means a small variety of bamboo called Bolo Bagacay, which grew abundantly in Bolo before.
+;Cagay: Cagay got its name from the common vine plant called "cagay". The vine was used for ropes of carabaos because it is stronger than rattan. The sitios of Cagay are Caly, Tagbon, and Burabod. The barangay was established in 1897 by Telesforo Rejuso, and the families of Dalanon, Espares, Malunes, delos Reyes, Saldivar and Robles.
+;Cawayan Exterior: Cawayan is a [[Masbateño language|Masbateño]] word for bamboo. Barangay Cawayan Exterior was established in the 1900s. The sitios are: Danao, Bil-at, Lab-ogan and Pocdol. The original families of Cawayan were: Hermogenes Verano, Domingo Bajar, Pedro Cabug, Dionisio Celebre, Basilio Floresta, Pedro Cornal, Pio Cebu, Timoteo Valladores, Regacio Verano, Alberto Cabug and Florencio Fernandez Sr., the father of the governor of Masbate, Jolly T. Fernandez.
+;Cawayan Interior: The barangay is called Cawayan Interior because the place were bounded from coastal to upland west was situated in between Bolo, Batuhan, and Cawayan exterior. Since Cawayan upland is a sitio of Cawayan coastal (Cawayan Exterior), there happened to be an agreement of splitting into two Cawayans. This was them the idea of a certain leader Mr. Florencio Fernandez Sr. soon the official separation was made in October 1966 initiative of them Mayor Juan P. Sanchez Sr. according to sources the barangay was organized sometimes in 1971:kind hearted individuals donated the lot to be the barangay site it was Mr. Leopoldo Brioso who solicited from the late Lope Buncaras Sr. and Antonio Luzanta Sr. to donate. Folks main sources of income were farming left coastal community and settled fishing remained in the coast to fish for a decent living.
+[[File:Downtown Masbate c galleryfull1.jpg|thumb|right|Downtown Masbate]]
+;Centro: Barangay Centro is situated at the center of the city. The first Barangay Chairman was Mr. Agapito Guadayo Sr., followed by Dr. Antonio Chang and Dr. Ricardo Lazaga. Juan Zaragoza and his family resided along Lugsadan during Spanish Era occupying his property.
+;Espinosa: Barangay Talahib, formerly known as Lomboy got its name sometime in 1972, when the late Tito R. Espinosa became the Municipal Mayor of Masbate Town. Talahib was the former Mayor's moniker when addressed by his close associates. Later, Talahib became Barangay Espinosa when an assassin gunned down Tito who died in Quezon City in 1995.
+;F. Magallanes: Barangay Magallanes was formerly called "Upa". It was a soggy swampy place but because of the Veloso Rice Mill, which deposits rice hull, the swamp was reclaimed from the sea in the course of time. Eventually, homeless settlers occupied and named the place Barangay F. Magallanes in honor of the late Francisco Magallanes the Mayor of Masbate in 1931, and the father of former Mayor of Masbate Benjamin M. Magallanes who served the town for 25 years.
+;Igang: Igang was named after the sharp stones that litter the area or kaigangan. The sitios of Igang are Cacia, Cabulu-an, Manticaun. Casili, Tuminobo and Buyog. The barangay was established in 1890. The original families of Igang were: Marcos, Pusing, Amaro, Andaya, Dela Peña, Gamgam, Esquillo and Arciete. The barangay tenientes were: Zoilo Amaro, Nicolas Lupango, Benito Marcos, Macario Senede, and Rencio Presado.
+;J. T. Fernandez: JT Fernandez is a [[poblacion]] barangay. This barangay was known as barangay Kalipay, which means happiness, since the 1973 when the City poblacion was divided into barangays. Kalipay was renamed into JT Fernandez to honor the former OIC Governor and former Assemblyman Jolly T. Fernandez through Resolution No.113-94 by motion of Esteban G. Almero on December 20, 1994.
+;Kinamaligan: Kinamaligan was an old name. It literally means a "camalig" or a nipa hut built in the area. Today, Kinamaligan is being urbanized. However, because of the narrow strip between the sea and the roadside, houses are overcrowded. For its expansion, it has to reclaim a generous portion of the sea nearby.
+;Malinta: The name "Malinta" originated from the root word "Linta" which means leech – a small (about one inch in length and ¼ inch in width) blood-sucking worm that inhabit the dark but warm forest corridor. When engorged with blood, the worm swells to about two inches in length and a half inch in width. "Malinta" literally means the place where linta/leeches are plentiful. This must have started in the later part of the 1800s when Malinta was still forested. A highland barangay, Malinta is a growing community with 500 households according to the latest Census. During saudan or tiangge (marketdays) Malinta is a center of trade for various goods such as farm products, livestock, fish and assorted commercial commodities. It is a meeting place for minor entrepreneurs and farmers. Juan Villamor was the first Teniente del Barrio of Malinta.
+;Mapiña: Mapiña may have gotten its name from the piña or pineapple grove planted in the area. Mapiña means the place where pineapple is plentiful.
+;Maingaran: Maingaran probably came about in the 1930s when Pio V. Corpuz was a Congressman for Masbate. His residential house was built one hundred meters away from the road. In order to inform his visitors, the name "Don Pio V. Corpuz" was printed and placed right at the roadside. Since then, the people refer to the place "May ngaran" which literally means&nbsp;– the site where the name was printed. May Ngaran eventually evolved into Maingaran. The sitios of Maingaran are Calpi, Buyog, Pukdol, Bagalihog, Daan-Lungsod, and Panangdangan. The original families were: Julian Casadangan, Antonio Malunes, Lorenzo Malunes, Jorge Malunes, Lutz Radaza, Leoncio Cabatingan, Isidro Villaraiz, Macario Cristobal, Juan Dioquino, Antonio Fernandez, and Gregorio Sampaga.
+;Nursery: Barangay Nursery, was the original name of the place. Sometime in the 1950s, the area was occupied by the Masbate Provincial Nursery under Mr. Romeo Escuadra, Provincial Agriculturist. In the course of time, at the periphery of Nursery, the population grew. In 1973, the place was renamed "Acacia", but like "Balo" the name was not popular. The residents continued to call their place Nursery. So Nursery remains as the official name of the barangay.
+;Pating: Barangay Pating, formerly called "Ubos" elected Natividad Cervantes whose alias was "Pating", the first Barangay Chairman of the said barangay.
+;Pawa: Pawa is a Masbateño term for clearing. In the olden days, the place was heavily forested with mangrove trees. The residents decided to cut the trees and created a clearing. They built a cluster of houses and then in the course of time, Pawa community was formed. Boat building and fishing are the major industries of Pawa barangay.
+;Tugbo: Tugbo Barangay is situated some four kilometers south of Masbate City proper. The legend of the place tells that its name originated from "tigbe" a kind of wild plant which thrived abundantly in olden days. Tugbo is a fishing community, no wonder then that the Badjaos who came in droves some two years ago had chosen the shoreline of Tugbo as their dwelling place.
+;Ubongan Dacu: Ubongan, on the other hand was named after the portion of the river where residents wade especially during the rainy season when the river swells. Originally, it was "ubogan", meaning, where one wades, from the root word "ubog" or wade.
+;Usab: Usab originated from the [[Cebuano language|Cebuano]] word "''usab''" which literally means "again". When the Combined American-Filipino Liberation Army came in 1945, it is said that a Cebuano farmer had crossed the street and was almost run over by a large army truck. Later, he told the people that he will not cross the street again if there is a vehicle around by saying "Dili na ako mo-usab paglakaw sa kalsada ug na-ay sakyahan nga mo-agi". The people named the place where the incident happened, "Usab". The barangay is a farming community.
+
+==Demographics==
+[[File:Masbate City Hall (Kalipay, Masbate City; 04-12-2024).jpg|thumbnail|right|City Hall of Masbate]]
+{{Philippine Census
+| align= none
+| cols = 2
+| title = Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote = Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+In the 2020 census, the population of Masbate City was 104,522 people,{{PH census|current}} with a density of {{convert|{{sigfig|104,522/188.00|2}}|PD/km2|disp=or}}. The city's majority language is [[Masbateño language|Masbateño]], with [[Hiligaynon language|Hiligaynon]], [[Waray language|Waray]], [[Cebuano language|Cebuano]] and [[Bicolano language|Bicolano]] following next.
+
+===Religion===
+The city is the ecclesiastical seat of the [[Roman Catholic Diocese of Masbate]] with the Cathedral of Saint Anthony of Padua (Masbate Cathedral) as its church. Like most Filipinos, the vast majority of the city's residents are Roman Catholics.
+
+== Economy ==
+[[File:Public market in downtown Masbate City, in Masbate province.jpg|thumbnail|right|Lugsadan Commercial Center, Masbate City]]
+{{PH poverty incidence}}
+
+Masbate City was recognized by the Philippine Chamber of Commerce and Industry as Top 4 Awardee Nationwide in the 2013 Most Business-Friendly LGU Award (City Level 3 Category). The city is also cited as the 20th Most Competitive City among 143 cities in the Philippines.
+The city is the center of trading activities in the province. It serves as the intra-distributor of almost all commodities being traded to other municipalities in the entire province.
+
+===Industry===
+Masbate's main products are copra and marine resources such as fish. These are traded to [[Manila]], [[Lucena, Philippines|Lucena]], [[Legazpi, Albay|Legazpi]], and [[Cebu City|Cebu]] cities. Other traded products such as dried fish, crabs, prawn, bangus, livestock, and rice are coming from the neighboring or nearby municipalities on the island.
+
+====Trading relations====
+
+The city has existing trading relations with [[Manila]], [[Iligan]], [[Lucena, Philippines|Lucena]], [[Daet]], [[Legazpi, Albay|Legazpi]], [[Naga, Camarines Sur|Naga]], [[Sorsogon City|Sorsogon]], [[Panay]], [[Negros (island)|Negros]], [[Cebu]], [[Bohol]], [[Ormoc]], [[Calbayog]] and [[Tacloban]]. These are the main destinations of the products traded by the city and those of the other municipalities passing through the city's port. Copra, cattle and aquamarine products are also shipped-out to Manila, Cebu, Batangas and Lucena, etc. Shrimps, crabs and prawns are shipped to [[Japan]], mud crabs to [[Taiwan]], headless squid to [[United States of America]] and Japan, crab meat to U.S.A. and scallops to Europe.
+
+The city is importing products mainly from Manila, Lucena, Cebu and Legazpi. These are mostly rice, bakery raw materials, transport vehicles and appliances, farm inputs, construction materials and basic commodities. These are also traded by the city to other municipalities in the whole province.
+
+===Banking and finance===
+Masbate City is the Financial Center of Masbate Province. The total number of Banks in the city is 15, consisting of different Government-owned Banks, Universal Bank, Commercial Banks, Rural Banks, Development Banks and Thrift Banks. [[Banco de Oro]] or BDO which is the country's largest bank in terms of assets open its first branch in the entire province in the city.
+
+===Shopping malls===
+LCC Mall and [[Gaisano Capital]] Masbate are the only two shopping malls in the city. LCC Masbate is located at Barangay Bapor, Zurbito St. Port Area, while Gaisano Capital Masbate is located in Cagba St.
+
+==Tourism==
+
+===Festivals and events===
+
+;Pagdayao Festival: This festival honors, praises and give thanks to the city's Patron [[Saint Anthony of Padua]] every June 13 of the year.
+
+;Lapay Bantigue Dance Festival: It is celebrated during the City Anniversary on 30th day of September. This event highlights the traditional folk dance created by "Lola Felisa" many years ago, when she imitated the graceful movement of the seagull (locally known as Lapay). The dance has evolved and is now recognized by the [[Cultural Center of the Philippines]] as one of the official folk dances of the country. This dance was also recognized during the Spanish Colonization.
+
+;''Rodeo Masbateño'': It is the only [[rodeo]] show in Asia. It is celebrated annually in April and showcase 10 competitive rodeo events. Highlighting this event is the difficult "figure of eight" competition where the cowboy crisscrosses around a group of barrels. Women participate in heart stopping events like calf wrestling, calf lassoing and carambola.
+
+===Places of interest===
+;Masbate Cathedral: [[File:Masbate Cathedral.jpg|thumbnail|right|Masbate Cathedral]] formally known as the Cathedral-Parish of Saint Anthony of Padua, is a Roman Catholic church located at Quezon Street, Masbate City. It is the cathedral or seat of the Roman Catholic Diocese of Masbate. It belongs to the Vicariate of St. Anthony of Padua, which includes also Sacred Heart of Jesus Parish in Malinta, Masbate City and St. Nicholas of Tolentino Parish in Mobo. It was founded in 1578 by Spanish Missionaries.
+
+;Coastal Resource Management Interpretative Center (CRMIC): Being the first of its kind in the Philippines is a great staging point from which you can plan and begin your journey of discovery and exploration of the diverse and amazing natural and cultural wonders of Masbate.
+
+;Magallanes Coliseum: [[File:Masbate city Sojourn 044.jpg|thumbnail|right|Magallanes Coliseum]] The Magallanes Coliseum is a 1230 square meter amenity constructed in 2004 as a venue for sports, recreation, and other major city celebrations.
+
+====Natural attractions====
+;Pawa Mangrove Nature Park: The city's biggest area of natural mangrove growth, with 300&nbsp;hectares of [[mangrove]] plantation along its 1.3&nbsp;kilometer boardwalk.
+
+;Buntod Sand Bar and Marine Sanctuary: [[File:Buntod Reef Marine Sanctuary & Sandbar.jpg|thumbnail|right|Buntod Sand Bar]] The first established marine sanctuary of the city where live hard and soft coral covers highlights the majestic underwater sceneries.
+
+;Bugsayon Marine Sanctuary: A 50-hectare marine sanctuary where you can experience to see the amazing live corals and its diverse marine animals.
+
+;Tattoo Island: Also called as Minalayo Island. It has a number of openings of various sizes that lead to an underground lagoon where sea snakes and bats reign.
+
+==Transportation==
+<!-- Deleted image removed: [[File:Outsidembt.JPG|thumbnail|right|Moises Espinosa Airport terminal building]] -->
+
+===By air===
+The city is accessible by air via the [[Moises R. Espinosa Airport]] that is located within the city proper. [[Cebu Pacific]] (operated by [[Cebgo]]) has morning flights to and from [[Ninoy Aquino International|Manila]].
+
+===By land===
+Masbate can be reached from Manila by land through South Road to the Port of [[Pio Duran, Albay]], [[Pilar, Sorsogon]], and [[Bulan, Sorsogon]]. From there, [[Roll-on/roll-off|RORO]] ferry and fastcraft take about two hours and fifteen minutes or motorized boat for a three-hour ride to the Port of Masbate.
+
+===By sea===
+[[File:Masbate Port 1.jpg|thumb|Masbate Port]]
+Masbate can also be reached through the sea on board in a luxury shipping lines from the [[Port of Manila]], taking about 16 to 18 hours. Other sea trips are via Dalahican Port in [[Lucena, Philippines|Lucena]], Pio Duran Port in [[Pio Duran, Albay]] and to [[Allen, Northern Samar]].
+
+To the neighboring islands, Masbate City is three hours away by boat from the nearest point in Bicol mainland; three hours away from the nearest point in Burias; three hours away from the nearest municipality in Ticao Island; five hours from the nearest point in the island of Cebu and five hours from the nearest point in Panay island.
+
+==Notable personalities==
+<!--NOTE: Only add people with own Wikipedia article as per WP notability.-->
+===Politics===
+* Emilio R. Espinosa Jr., politician, former governor and served as Secretary of the [[Department of Labor and Employment (Philippines)|Department of Labor]] under President [[Ferdinand Marcos]].
+* [[Leonardo Quisumbing]], lawyer, politician, served as former secretary of the [[Department of Labor and Employment (Philippines)|Department of Labor and Employment]] and [[Associate Justice of the Supreme Court of the Philippines|associate justice]] of the [[Supreme Court of the Philippines|Supreme Court]].
+*[[Jesse Robredo]], politician, former secretary of the [[Department of Interior and Local Government]] who died in a plane crash at Masbate islands nearby.
+===Television and other personalities===
+* [[Bea Rose Santiago]], beauty queen and television personality, [[Miss International 2013]]
+*[[Kisses Delavin]], actress and singer
+*[[Hannah Arnold (model)|Hannah Arnold]], beauty queen, model, and television personality, [[Binibining Pilipinas 2021|Binibining Pilipinas International 2021]]
+
+==Sister cities==
+
+===Local===
+* {{flagicon|Philippines}} [[Legazpi, Albay|Legazpi City]], Albay
+* {{flagicon|Philippines}} [[Daet, Camarines Norte]] 
+* {{flagicon|Philippines}} [[Kalibo]]
+
+==See also==
+* [[Masbateño people]]
+* [[Masbateño language]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wikivoyage|Masbate}}
+{{Commons category}}
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20100806131445/http://dilgbicol.org/lgu-profiles.html Region V Local Government Units]
+* [https://web.archive.org/web/20131004104825/http://census.gov.ph/ Philippine Census Information]
+* [http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=8&frmIdProvince=48&frmIdLgu=815 Local Governance Performance Management System]
+
+{{Geographic location
+| Centre    = Masbate City
+| North     = [[San Jacinto, Masbate|San Jacinto]]<br/>''Masbate Pass''
+| Northeast = [[San Fernando, Masbate|San Fernando]]<br/>''Masbate Pass''
+| Southeast = [[Mobo, Masbate|Mobo]]
+| South     = [[Milagros, Masbate|Milagros]]
+| West      = [[Baleno, Masbate|Baleno]]
+}}
+
+{{Masbate}}
+{{Philippine cities}}
+{{Bicol Region}}
+{{Philippines Provincial Capitals}}
+{{Authority control}}
+
+[[Category:Cities in the Bicol Region]]
+[[Category:Populated places in Masbate]]
+[[Category:Provincial capitals of the Philippines]]
+[[Category:Component cities in the Philippines]]

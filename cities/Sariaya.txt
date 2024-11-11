@@ -1,0 +1,804 @@
+{{Short description|Municipality in Quezon, Philippines}}
+{{Use Philippine English|date=February 2023}}
+{{Use mdy dates|date=February 2023}}
+{{Infobox settlement
+| name                            = {{PH wikidata|name}}
+| image_skyline                   = {{Photomontage 
+| photo1a = Sariaya,QuezonHallPlazajf9780 12.JPG
+| photo2a = SariayaChurchPlazajf0001 08.JPG
+| photo2b = Sariaya,QuezonHalljf9833 15.JPG
+| photo2c = Angle view Natalio Enriquez house.JPG
+| photo3a = Gala-Rodriguez House facade.jpg
+| photo3b = Don Lucio Rodriguez, ancestral house.jpg
+| photo3c = Emralino Rodriguez Ancestral house.jpg
+| photo4a = Villa Sariaya.jpg
+| size = 250 
+| position = center 
+| spacing = 0
+| color = transparent 
+| border = 0 
+}}
+| image_caption                   = From L-R: Sariaya Town Plaza, [[Saint Francis of Assisi Parish Church]], Sariaya Municipal Building, Governor Natalio Enriquez Ancestral House, Facade of [[Gala-Rodriguez Ancestral House]], Don Lucio Rodriguez Ancestral House, Emralino-Rodriguez Ancestral House, [[Don Catalino Rodriguez Ancestral House]]
+| image_flag                      = Sariaya, Quezon Flag.jpeg
+| flag_size                       = 100px 
+| image_seal                      = Sariaya, Quezon Seal.png
+| seal_size                       = 100x80px
+| image_map                       = {{PH wikidata|image_map}}
+| map_caption                     = {{PH wikidata|map_caption}}
+| image_map1                      = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map                     = Philippines
+| pushpin_label_position          = left
+| pushpin_map_caption             = Location within the {{PH wikidata|country}}
+| coordinates                     = {{PH wikidata|coordinates}}
+| settlement_type                 = {{PH wikidata|settlement_type}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = [[Philippines]]
+| subdivision_type1               = [[Regions of the Philippines|Region]]
+| subdivision_name1               = {{PH wikidata|region}}
+| subdivision_type2               = [[Provinces of the Philippines|Province]]
+| subdivision_name2               = {{PH wikidata|province}}
+| official_name                   = {{PH wikidata|official_name}}
+| etymology                       = <!--origin of name-->
+| named_for                       = <!--named after (if person or place)-->
+| native_name                     = 
+| other_name                      = 
+| nickname                        = {{plainlist|
+* ''Heritage Town of Quezon''
+* ''Art Deco Capital of Southern Luzon''
+*''Home of famous Pinagong Bread''
+}}
+| motto                           = Gilas Sariaya! <br> (''Be valiant Sariaya!'')
+| anthem                          = 
+| subdivision_type3               = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3               = {{PH legislative district}}
+| established_title               = [[Date of establishment|Founded]]
+| established_date                = 1599
+| parts_type                      = [[Barangay]]s
+| parts_style                     = para
+| p1                              = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title                    = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name                     = Marcelo P. Gayeta
+| leader_title1                   = [[Vice Mayor]]
+| leader_name1                    = Alexander A. Tolentino
+| leader_title2                   = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2                    = [[David C. Suarez]]
+| leader_title3                   = [[Sangguniang Bayan|Municipal Council]]
+| leader_name3           = {{PH Town Council
+| 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Arlene M. Genove
+ | 3=Demia P. Maghirang
+ | 4=Vince Rudolph A. Banta
+ | 5=Renz Kevin E. Marcuap
+ | 6=Minerva R. Remo
+ | 7=Ofelia C. Villapando
+ | 8=Haydee M. Caringal
+ | 9=Mario M. Medrano
+}}
+| leader_title4                   = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4                    = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type                 = {{PH wikidata|government_type}}
+| government_footnotes            = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m                     = {{PH wikidata|elevation_m}}
+| elevation_max_m                 = 2167
+| elevation_min_m                 = 0
+| elevation_max_rank              =
+| elevation_min_rank              =
+| elevation_footnotes             = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes         = 
+| elevation_min_footnotes         = 
+| area_rank                       = 30th out of 41 in [[Quezon]]
+| area_footnotes                  = {{PH area}}
+| area_total_km2                  = {{PH wikidata|area}}
+| population_footnotes            = {{PH census|current}}
+| population_total                = {{PH wikidata|population_total}}
+| population_as_of                = {{PH wikidata|population_as_of}}
+| population_density_km2          = auto
+| population_blank1_title         = [[Household]]s
+| population_blank1               = {{PH wikidata|household}} 
+| population_blank2_title         = 
+| population_blank2               = 
+| population_demonym              = Sariayahin
+| population_rank                 = 27th out 39 municipalities in [[Quezon]]<br>976th out of 1,489 [[Philippine municipality|municipalities]] in the [[Philippines]]
+| population_note                 = 
+| timezone                        = [[Philippine Standard Time|PST]]
+| utc_offset                      = +8
+| postal_code_type                = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code                     = {{PH wikidata|postal_code}}
+| postal2_code_type               = {{PSGCstyle}}
+| postal2_code                    = {{PSGC detail}}
+| area_code_type                  = {{areacodestyle}}
+| area_code                       = {{PH wikidata|area_code}}
+| website                         = {{PH wikidata|website}}
+| demographics_type1     = [[Economy of the Philippines|Economy]]
+| demographics1_title1   = {{PH wikidata|income_class_title}}
+| demographics1_info1    = {{PH wikidata|income_class}}
+| demographics1_title2   = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2    = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3   = [[Revenue]]
+| demographics1_info3    = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}} 
+| demographics1_title4   = Revenue rank
+| demographics1_info4    = 
+| demographics1_title5   = [[Asset]]s
+| demographics1_info5    = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}} 
+| demographics1_title6   = Assets rank
+| demographics1_info6    = 
+| demographics1_title7   = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7    =  
+| demographics1_title8   = IRA rank
+| demographics1_info8    = 
+| demographics1_title9   = [[Expenditure]]
+| demographics1_info9    = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}} 
+| demographics1_title10  = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10   = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2     = Service provider 
+| demographics2_title1   = Electricity
+| demographics2_info1    = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2   = Water
+| demographics2_info2    =  
+| demographics2_title3   = Telecommunications
+| demographics2_info3    = 
+| demographics2_title4   = Cable TV
+| demographics2_info4    =
+| demographics2_title5   = 
+| demographics2_info5    =
+| demographics2_title6   = 
+| demographics2_info6    =
+| demographics2_title7   = 
+| demographics2_info7    =
+| demographics2_title8   = 
+| demographics2_info8    =
+| demographics2_title9   = 
+| demographics2_info9    =
+| demographics2_title10  = 
+| demographics2_info10   =
+| blank_name_sec1        = {{PH wikidata|climate_title}}
+| blank_info_sec1        = {{PH wikidata|climate_type}}
+| blank1_name_sec1       = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1       = {{PH wikidata|language}}
+| blank2_name_sec1       = [[Crime index]]
+| blank2_info_sec1       = 
+| blank3_name_sec1       = 
+| blank3_info_sec1       = 
+| blank4_name_sec1       = 
+| blank4_info_sec1       = 
+| blank5_name_sec1       = 
+| blank5_info_sec1       = 
+| blank6_name_sec1       = 
+| blank6_info_sec1       = 
+| blank7_name_sec1       = 
+| blank7_info_sec1       = 
+| blank1_name_sec2       = Major religions
+| blank1_info_sec2       = 
+| blank2_name_sec2       = Feast date
+| blank2_info_sec2       = 
+| blank3_name_sec2       = Catholic diocese
+| blank3_info_sec2       =
+| blank4_name_sec2       = Patron saint 
+| blank4_info_sec2       = 
+| blank5_name_sec2       = 
+| blank5_info_sec2       = 
+| blank6_name_sec2       = 
+| blank6_info_sec2       = 
+| blank7_name_sec2       = 
+| blank7_info_sec2       =
+| short_description      =
+| footnotes              =
+}}
+ 
+'''Sariaya''' ({{IPA|tl|sɐɾˈjajɐ|}}), officially the '''Municipality of Sariaya''' ({{lang-tgl|Bayan ng Sariaya}}),  is a 1st class [[municipalities of the Philippines|municipality]] in the [[Philippine Province|province]] of [[Quezon]], [[Philippines]]. According to the 2020 census, it has a population of 161,868 people making it the second most populous in Quezon Province after the capital city of [[Lucena]].{{PH census|current}}
+
+As the only Mount Banahaw town in both Quezon and Laguna Provinces that has a sea coast, the town is famous for its pristine beach resorts and nature-trekking activities that lead adventurous hikers to the peak of mythical [[Mount Banahaw]]. With more than a hundred of [[List of Cultural Properties of the Philippines in Sariaya, Quezon|cultural properties]] and ancestral houses mostly built in Art Deco architecture within the municipality, Sariaya is considered as the '''Heritage Town of Quezon''' and the '''[[Art Deco]] Capital of Southern Luzon'''.<ref>{{cite news|url= http://www.gmanetwork.com/news/video/newstogo/348343/sariaya-quezon-itinuturing-na-art-deco-capital-of-southern-luzon-dahil-sa-heritage-houses/video|title=Sariaya, Quezon itinuturing na Art Deco Capital of Southern Luzon dahil sa heritage houses|work=GMA News}}</ref> This heritage town has been branded by various cultural experts as a 'cultural gem worthy of a [[UNESCO]] designation.' The local government of the municipality with the [[National Commission for Culture and the Arts of the Philippines]] were designated to work for the heritage town's inclusion in the UNESCO World Heritage List.
+
+With the 2020 census population of almost reaching 161,000, Sariaya is the most populous municipality in the province of [[Quezon]] and the 19th most populous municipality in the [[Philippines]]. Cityhood might be coming to Sariaya in a matter of years.
+
+==Etymology==
+The origin of the word '''Sariaya''' was allegedly came from the word '''Sadyaya''' — one of the town's numerous rivers, but words of the great ancestors and legends have it that it was named after '''Saria''', a supposedly 'illiterate' (according to the [[Spanish language|Spanish]]) woman who encountered the first Spaniards in the town who were asking the name of the settlement. Saria can't understand the question as it was in Spanish, which was foreign and unknown to everyone in the area during that time. She was thus branded as illiterate by the Spanish despite being highly educated through Tagalog traditional knowledge. The woman gave her name as answer to the Spanish, assuming that they were asking her name. The Spaniards wrote "Saria" on their notebooks as the name of the settlement. And while the Spaniards were talking with each other, the natives heard them utter the words "Saria-ya". Hence, the words traveled from mouth to mouth and became a common saying until the two words were combined.<ref>{{cite web|title=Sariaya, Quezon (History, People, Places, About, Facts)|url=http://www.wowquezon.com/towns-and-cities/sariaya-quezon-history-people-places-about-facts/|access-date=April 26, 2017|publisher=WowQuezon}}</ref>
+
+==History==
+The beginning of Sariaya's documented history occurred with the arrival of Augustinian missionary priests in a Malay seaside settlement in what is now Barangay Castañas on the shores of Tayabas Bay. They discovered a thriving native people who were heathen, and they converted the majority of them to Christianity. 
+
+After years of Tayabas rule, Sariaya obtained freedom in 1631 and fled north to avoid the destructive flame-throwing loot of the Moro pirates.
+
+A strong earthquake in 1743 caused the bell tower of the Tumbaga church to collapse.<ref>{{Cite web |title=Very strong mag. 6.0 earthquake - Philippines September 1743 |url=https://www.volcanodiscovery.com/earthquakes/quake-info/8926614/mag6quake-Sep-1-1743-Philippines-Leyte.html |access-date=June 1, 2024 |website=VolcanoDiscovery.com}}</ref> As a result, the fragile southwest ridge of Mount Banahaw's crater lake collapsed.<ref>{{Cite web |title=Banahaw |url=https://volcano.si.edu/volcano.cfm?vn=273050 |access-date=June 1, 2024 |website=Global Volcanism Program}}</ref> Then, this ancient community is referred to as "Lumangbayan," or Old Town. Given this, the surviving settlers were left with little choice but to relocate and travel far north in quest of a new, safer place.
+
+The contemporary town of Sariaya is perfectly situated to see all the activity down along the Tayabas Bay coastline, with a clear view of the coastline to the south.<ref>{{Cite web |last=Ongpin-Periquet |first=Lisa |date=May 25, 2024 |title=Sariaya: A town of heritage enthusiasts |url=https://philstarlife.com/living/654755-sariaya-town-heritage-enthusiasts |access-date=June 1, 2024 |website=Philippine Star Life}}</ref>
+
+Furthermore, compared to the stone church of Tumbaga, a more durable combination of materials was used in the construction of the current church. These components consist of bricks, adobe blocks, albumin or egg white, stones, and masonry. In addition to being a house of worship, the church and its four-story belfry served as a lookout point for the surrounding fields and mountains as well as a citadel or last line of defense for the residents in the unlikely event that invaders managed to get past all of the defenses and into the town.<ref>{{Cite web |title=ABOUT SARIAYA |url=https://www.sariaya.gov.ph/2020/10/12/about-sariaya/ |access-date=June 1, 2024 |website=Official Website of Sariaya Quezon}}</ref>
+
+Sariaya is fostering relations with global communities after joining the Santa Clarita Sister Cities program in the United States.<ref>{{Cite web |title=Sariaya, Philippines |url=https://santaclaritasistercities.org/sariaya-philippines/ |access-date=June 1, 2024 |website=Santa Clarita Sister Cities Official Website}}</ref>
+
+On May 17, 1902, [[Candelaria, Quezon|Candelaria]] was merged with Sariaya by virtue of Act No. 402.<ref>{{cite PH act|chamber=Act|number=402|title=An Act Consolidating the Municipalities of Tiaon, Dolores, Candelaria, and Sariaya in the Province of Tayabas Into Two Municipalities|url=https://issuances-library.senate.gov.ph/legislative-issuance/act-no-402|date=May 17, 1902|accessdate=September 21, 2024|publisher=Senate of the Philippines Legislative Digital Library}}</ref> On September 20, 1907, Candelaria was separated from the municipality to regain its independent status.<ref>{{cite PH act|chamber=Act|number=1721|url=https://lawyerly.ph/laws/view/l40d0|date=September 20, 1907|title=An Act Increasing the Number of Municipalities in the Province of Tayabas From Twenty-four to Twenty-six, by Organizing the Barrio of Candelaria, Now a Part of Sariaya, Into a New Municipality, and Separating From Baler the Former Municipality of Casiguran, Giving the Latter the Same Territory Which It Comprised Prior to the Passage of Act Numbered Fifteen Hundred and Fifty|accessdate=September 21, 2024|publisher=Lawyerly}}</ref>
+
+==Geography==
+Sariaya is an inland municipality in the province of [[Quezon]], located {{convert|120|km|sp=us}} south of [[Metro Manila]] and {{convert|10|km|sp=us}} from the provincial capital [[Lucena]]. The municipality is bordered by [[Tayabas|Tayabas City]] on north-east side, the city of [[Lucena]] on its southeast, the municipality of [[Candelaria, Quezon|Candelaria]] on its west, and the town of [[San Juan, Batangas|San Juan]] in [[Batangas]] on its south-west. [[Mount Banahaw]] flanks it on the north and [[Tayabas Bay]] on the south side. It has a total land area of {{convert|24,530|ha}}.
+
+===Barangays===
+Sariaya is politically subdivided into 43 barangays. Each barangay consists of [[purok]]s and some have [[sitios]].
+
+Currently, six barangays are urban barangays located at the [[Poblacion]], one barangay is classified as sub-urban and six barangays are coastal barangays.
+
+Hereunder is the list of Barangays in Municipality of Sariaya and its land area:
+{{stack|float=right|[[File:Sariaya Quezon.JPG|right|thumb|Aerial view of Sariaya's coast with [[Lucena, Philippines|Lucena City]] in the background.]]}}
+{| border="2" cellpadding="2" cellspacing="0" style="margin: 0 1em 0 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%; text-align: right;" class="wikitable sortable"
+|- style="background:#efefef;"
+! Barangay !! Land Area (Ha) !! Area Rank !! Population (2020) !! Classification
+|-
+! Antipolo
+| 490.60 || 27.5 || 1,888 || {{center|Rural}}
+|-
+! Balubal
+| 560.68 || 19 || 5,304 || {{center|Rural}}
+|-
+! Bignay 1
+| 630.80 || 15 || 6,105 ||{{center|Rural}}
+|-
+! Bignay 2
+| 728.90|| 10 || 3,857 ||{{center|Rural}}
+|-
+! Bucal
+| 518.63|| 23.5 || 3,408 ||{{center|Rural}}
+|-
+! Canda
+| 588.71|| 18 || 3,052 ||{{center|Rural}}
+|-
+! Castañas
+| 876.10|| 8 || 7,120 ||{{center|Rural}}
+|-
+! Concepcion 1
+| 827.00|| 9 || 5,764 ||{{center|Rural}}
+|-
+! Concepcion Banahaw
+| 1,345.00|| 2 || 3,411 ||{{center|Rural}}
+|-
+! Concepcion Palasan
+| 939.14|| 6 || 7,680 ||{{center|Rural}}
+|-
+! Concepcion Pinagbakuran
+| 714.90|| 11 || 3,050 ||{{center|Rural}}
+|-
+! Gibanga
+| 546.70|| 21 || 3,752 ||{{center|Rural}}
+|-
+! Guisguis San Roque
+| 448.54|| 29.5 || 2,645 ||{{center|Rural}}
+|-
+! Guisguis Talon
+| 530.65|| 22 || 4,376 ||{{center|Rural}}
+|-
+! Janagdong 1
+| 518.63|| 23.5 || 3,935 ||{{center|Rural}}
+|-
+! Janagdong 2
+| 672.80|| 12.5 || 3,242 ||{{center|Rural}}
+|-
+! Limbon
+| 280.34|| 36 || 1,428||{{center|Rural}}
+|-
+! Lutucan 1
+| 392.50|| 34 || 4,961 ||{{center|Rural}}
+|-
+! Lutucan Bata
+| 490.60|| 27.5 || 2,498 ||{{center|Rural}}
+|- 
+! Lutucan Malabag
+| 497.60|| 26 ||4,847 ||{{center|Rural}}
+|-
+! Mamala 1
+| 441.07|| 32 || 3,187 ||{{center|Rural}}
+|-
+! Mamala 2
+| 442.00|| 31 || 6,016 || {{center|Sub-Urban}}
+|-
+! Manggalang 1
+| 1,198.43 || 3 || 6,966 ||{{center|Rural}}
+|-
+! Manggalang Bantilan
+| 672.80 || 12.5 || 4,073 ||{{center|Rural}}
+|-
+! Manggalang Kiling
+| 616.85 || 17 ||3,125 ||{{center|Rural}}
+|-
+! Manggalang Tulo-Tulo
+| 623.80 || 16 || 3,209 ||{{center|Rural}}
+|-
+! Montecillo
+| 658.79 || 14 || 4,271 ||{{center|Rural}}
+|-
+! Morong
+| 434.53 || 33 || 2,098 ||{{center|Rural}}
+|-
+! Pili
+| 448.54 || 29.5 || 4,196 ||{{center|Rural}}
+|-
+! Poblacion 1
+| 8.5 || 40 || 1,867 ||{{center|Urban}}
+|-
+! Poblacion 2
+| 14.5 || 39 ||  1,206 ||{{center|Urban}}
+|-
+! Poblacion 3
+| 7.0 || 42 || 1,184 ||{{center|Urban}}
+|-
+! Poblacion 4
+| 16.60 || 38 || 3,545 ||{{center|Urban}}
+|-
+! Poblacion 5
+| 7.5 || 41 ||1,037 ||{{center|Urban}}
+|-
+! Poblacion 6
+| 6.0 || 43 || 1,207 ||{{center|Urban}}
+|-
+! Sampaloc 1
+| 1,037.26 || 4 || 2,603 ||{{center|Rural}}
+|-
+! Sampaloc 2
+| 1,023.24 || 5 || 6,862 ||{{center|Rural}}
+|-
+! Sampaloc Bogon
+| 1,675.03 || 1 || 1,255 ||{{center|Rural}}
+|-
+! Santo Cristo
+| 911.11 || 7 || 9,007 ||{{center|Rural}}
+|-
+! Talaan Aplaya
+| 553.67 || 20 || 3,011 ||{{center|Rural}}
+|-
+! Talaan Pantoc
+| 273.33 || 37 ||  2,322 ||{{center|Rural}}
+|-
+! Tumbaga 1
+| 518.63 || 23.5 || 4,903 ||{{center|Rural}}
+|-
+! Tumbaga 2
+| 336.41 || 35 || 1,936 ||{{center|Rural}}
+|}
+
+===Topography===
+Sariaya is situated on a flat land except for a portion on the north occupying a part of the foot of [[Mount Banahaw]]. The municipality has the highest point of elevation on {{convert|3,800|ft}} above sea level at Barangays Concepcion Banahaw and Sampaloc Bogon.
+
+===Climate===
+{{Weather box
+| location     = Sariaya
+| metric first = y
+| single line  = y
+| Jan high C = 28
+| Feb high C = 28
+| Mar high C = 30
+| Apr high C = 32
+| May high C = 32
+| Jun high C = 32
+| Jul high C = 31
+| Aug high C = 31
+| Sep high C = 31
+| Oct high C = 30
+| Nov high C = 29
+| Dec high C = 30
+| year high C = 
+| Jan low C = 22
+| Feb low C = 22
+| Mar low C = 23
+| Apr low C = 24
+| May low C = 24
+| Jun low C = 24
+| Jul low C = 24
+| Aug low C = 24
+| Sep low C = 23
+| Oct low C = 23
+| Nov low C = 23
+| Dec low C = 23
+| year low C = 
+| Jan rain mm = 92
+| Feb rain mm = 55
+| Mar rain mm = 46
+| Apr rain mm = 62
+| May rain mm = 117
+| Jun rain mm = 184
+| Jul rain mm = 211
+| Aug rain mm = 211
+| Sep rain mm = 233
+| Oct rain mm = 320
+| Nov rain mm = 323
+| Dec rain mm = 263
+| year rain mm = 
+| source 1 = World Weather Online<ref name="met_norms">
+{{cite web
+| url        =  http://www.worldweatheronline.com/sariaya-weather-averages/quezon/ph.aspx
+| title      = Average High/Low Temperature for Sariaya, Quezon, Philippines
+| publisher  = World Weather Online
+| access-date = July 2, 2016
+}}</ref>
+| date     = July 2016
+}}
+
+Sariaya falls under Type III of the PAGASA's climatic classification system this is because it is situated on the southern portion of the province's mountain ranges characterized by seasons not very pronounced, relatively dry from December to April and wet during the rest of the year. The maximum rain periods are not very pronounced with the short dry season lasting from two to four months.<ref>{{cite web|url=https://www.mountbanahaw.tripod.com/Geography.htm| title=Climate of Sariaya |publisher=Mount Banahaw}}</ref>
+
+{{clear-left}}
+
+==Demographics==
+{{Philippine Census
+| align= left
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+According to the 2020 census of population, Sariaya has a total population of 161,868 people making the second most populous area in [[Quezon]] after the [[Lucena, Philippines|City of Lucena]].
+Barangay Santo Cristo is the most populous area in Sariaya with a total population of 9,007 people according to the 2020 census, The Poblacion ranks second and Concepcion Palasan placed in the third rank.
+
+{{clear-left}}
+
+== Economy ==
+{{PH poverty incidence}}
+{{stack|float=right|[[File:Sariaya Public Market, Quezon, Feb 2024.jpg|thumb|right|Sariaya Public Market]]
+[[File:Sentrong Pamilihan ng Produktong Agrikultura, Sariaya, Quezon, Feb 2024.jpg|thumb|right|Sentrong Pamilihan ng Produktong Agrikultura sa Quezon]]
+[[File:Nemesis Cell Phone Store.JPG|thumb|right|Stores along the Sariaya's Business District]]}}
+
+===Commerce===
+The trade and commerce in Sariaya is heavily concentrated at General Luna Street ([[Pan-Philippine Highway|Maharlika Highway]]), which is the town's central business district where majority of the town's commercial establishments are situated such as retail, supermarkets, banks, drugstores, bakeries, merchandising, grocery, hardware, fastfood chains, shopping center, convenience stores and others.
+
+===Income===
+''Agriculture'' is one of the major sources of income in Sariaya. According to the 2016 Competitiveness Index of the National Competitiveness Council or NCC, the municipality belongs to the ''Top 50 most competitive municipalities'' in the Philippines.<ref>{{cite web|url=https://www.competitive.org.ph/cmcindex/pages/rankings/index.php| title=Competitiveness Index |publisher=National Competitiveness Council}}</ref> According to the annual Audit Report of Commission on Audit (COA), Sariaya is also one of Quezon's top grossing municipalities when factoring annual income.
+ 
+Here's the list of the total annual income, assets, expenses and equity of Sariaya since 2008: 
+{| class="wikitable" style="text-align: center" width="50%"
+
+! width="5%" |Year 
+! width="10%"|Total Income (COA).<ref>{{cite web|url=https://www.coa.gov.ph/index.php/local-government-units-lgus/category/5604-2014-1?download=24736%3A2014-afr-lgus-volume-i|title=2014 COA Annual Financial Report for Local Government Unit|publisher=Commission on Audit}}</ref> 
+! width="10%" | Assets
+! width="10%" | Expenses
+! width="10%" | Equity
+|- 
+| 2008 
+| ₱139.37 million || ₱141.48 million || ₱112.92 million || ₱101.17 million
+|- 
+| 2009 
+| ₱154.89 million {{increase}} || ₱198.33 million {{increase}} || ₱141.55 million {{increase}} || ₱109.66 million {{increase}}
+|- 
+| 2010 
+| ₱164.55 million {{increase}} || ₱202.63 million {{increase}} || ₱158.44 million {{increase}} || ₱101.71 million {{decrease}}
+|- 
+| 2011 
+| ₱183.43 million {{increase}} || ₱243.13 million {{increase}} || ₱172.08 million {{increase}} || ₱106.77 million {{increase}}
+|- 
+| 2012 
+| ₱183.59 million {{increase}} || ₱237.29 {{decrease}} || ₱181.60 million {{increase}} || ₱112.67 million {{increase}}
+|- 
+| 2013 
+| ₱212.08 million {{increase}} || ₱239.29 million {{increase}} || ₱200.54 million {{increase}} || ₱117.99 million {{increase}}
+|- 
+| 2014 
+| ₱243.73 million {{increase}} || ₱390.88 million {{increase}} || ₱206.07 million {{increase}} || ₱152.49 million {{increase}}
+|- 
+| 2015
+| ₱275.70 million {{increase}} || ₱467.81 million {{increase}} || ₱248.83 million {{increase}} || ₱176.53 million {{increase}}
+
+|}
+
+==Culture==
+* '''[[Agawan Festival]]'''
+
+[[File:Bagakay of Agawan Festival.jpeg|thumb|right|Bagakays]]
+
+Celebrated every 15th day of May, this religious festivity pays tribute to San Isidro Labrador, the patron saint of farmers. This much-anticipated feast has close affinity with the 'Pahiyas Festival' of [[Lucban, Quezon]]. Pliant bamboo treetops and trellises (bagakay) weighed down by succulent fruits, native candies, rice cakes, and colorful rice krispies called "kiping" are deliberately pulled down on the streets by noisy merrymakers right after the afternoon procession. Festival revelers from the town's barangays, neighboring towns, and other provinces would then scramble to gather as many treats as they can snatch and carry, hence the term "Agawan."
+
+* '''Town Fiesta'''
+[[File:Santo Cristo de Burgos.jpg|thumbnail|right|Santo Cristo de Burgos]]
+
+On September 14, pious devotees from far and wide pay homage to the miraculous image of the Santo Cristo de Burgos during the Feast of the Exaltation of the Cross. The Catholic feast is a day-long veneration of the replica of the Crucified Christ at the ancient Cathedral of [[Burgos, Spain]] long believed to be a gift of [[Philip V of Spain|King Philip V]] of [[Spain]] in 1703 to the people of Lumangbayan in Sariaya. People from far-flung barangays flock to the Poblacion to attend the packed fiesta Masses. They also sell their farm products and handicrafts in the public market as they eagerly sample the gaudily-decorated and crowded venue for the annual "perya" (fiesta fair) for thrilling rides, occasional circus performances, and shows featuring human mutants, trained animals performing tricks, vendors peddling herbal medicines, and "peryantes," those hardy and itinerant peddlers of cheap clothing, toys, and kitchen utensils. The town's basketball tournament also holds its cherished championship game on the eve of this much-awaited day. Sometimes there are hired stage performances at the town plaza that feature some of the nation's stage, television and film celebrities as well as musical stars.
+.......
+
+==Government==
+{{main|Sangguniang Bayan}}
+
+===Elected officials===
+[[File:Sariaya Municipal Hall, Quezon, Feb 2024.jpg|thumb|right|Sariaya Municipal Building]]
+
+Elected officials for the 2019–2022 term are: 
+{|class=wikitable
+|+ Members of the Sariaya Municipal Council (2022–present)
+|-
+!Position !!Name 
+|-
+| '''Mayor'''
+|Marcelo "Marcing" P. Gayeta
+|-
+| '''Vice Mayor'''
+| Alexander A. Tolentino
+|-
+| rowspan=10| Councilors
+| Arlene Genove
+|-
+| Demia Perez- Maghirang
+|-
+| Vince Alcala Banta
+|-
+| Renz Marcuap
+|-
+| Minerva “Miner” Remo
+|-
+| Ofelia C. Villapando
+|-
+| Haidee Medina- Caringal
+|-
+| Mario Medina Medrano
+|}
+
+==Infrastructure==
+===Transportation===
+[[File:Sariaya,Quezonjf0218 18.JPG|thumb|right|Maharlika Highway, locally known as General Luna Street, at the town proper]]
+Sariaya is traversed by the [[Pan-Philippine Highway|Maharlika Highway]] ([[N1 highway (Philippines)|N1]]), which passes through the town proper as the congested General Luna Street, and the newer [[Quezon Eco-Tourism Road]] (N422) which passes through the municipality's coastal areas. New highways will be [[South Luzon Expressway]] (SLEX) Toll Road 4, which will have one exit west of town proper, and the Sariaya Bypass Road, which is being built to decongest Maharlika Highway through the town center.
+
+Buses between Manila, Lucena, and Bicol stop at Sariaya town proper, and jeepneys provide short-distance transportation to nearby towns. Tricycles are used to travel between barangays.
+
+===Communication===
+Sariaya is served by landline and mobile phone companies like the General Telephone System, Inc. (GTSi) and Digitel Telecommunications (PLDT-Digitel) as the main telecommunication services providers in the municipality. Major mobile phone providers in the area includes [[Globe Telecom]], [[Smart Communications]], and [[Dito Telecommunity]]. Also, Sariaya has a cable provider which is the Sariaya Cable Network.
+
+{{clear-left}}
+
+==Tourism==
+{{See also|List of Cultural Properties of Sariaya}}
+
+===Saint Francis of Assisi Parish Church===
+[[File:St Francis of Assisi Church (Sariaya).jpg|thumbnail|right|Sariaya Church built in 1748]] 
+[[Saint Francis of Assisi Parish Church]] is a stone church built in 1748, located at Barangay Poblacion II. Records tell that the present church is the fifth one erected by the Spanish Franciscan Friars in the history of Sariaya. In 1938, a historical marker bearing a brief history of the church was installed on its facade by the National Research and Markers Committee, precursor of the [[National Historical Commission of the Philippines]].<ref>{{cite web|url=https://www.waypoints.ph/photo_detail.php?passptr=4&wpt=sariaya|title= Sariaya Church|publisher=Waypoints}}</ref>
+
+===Heritage houses===
+
+On May 14, 2008, the [[National Historical Institute|National Historical Institute (NHI)]] unveiled markers of heritage houses for the three ancient yet still stately mansions at the heart of Sariaya town. These venerable houses are best viewed from the south, as they are silhouetted against the majestic and mystical Mount Banahaw, Quezon's long-dormant volcano. Cultural recognition was bestowed on three ancestral houses, namely:  The Enriquez-Gala mansion, owned by former Tayabas (now Quezon) Gov. Natalio Enriquez and Susana Gala; the [[Gala-Rodriguez Ancestral House (Sariaya)|Gala-Rodriguez house]] of Dr. Isidro Rodriguez and Gregoria Gala, and the house of [[Don Catalino Rodriguez Ancestral House (Villa Sariaya)|Catalino and Luisa Rodriguez also known as Villa Sariaya]].<ref>{{cite news|last=Mallari Jr.|first=Delfin|title=History lives in Sariaya mansions|url=http://newsinfo.inquirer.net/inquirerheadlines/regions/view/20081016-166624/History-lives-in-Sariaya-mansions|newspaper=Philippine Daily Inquirer|access-date=May 14, 2013|url-status=dead|archive-url=https://web.archive.org/web/20131229124913/http://newsinfo.inquirer.net/inquirerheadlines/regions/view/20081016-166624/History-lives-in-Sariaya-mansions|archive-date=December 29, 2013}}</ref>
+
+<gallery>
+File:Natalio Enriquez House, Sariaya, Quezon, Feb 2024.jpg|Governor Natalio Enriquez Ancestral House
+File:Gala-Rodriguez Heritage House, Sariaya, Quezon, Feb 2024.jpg|Gala-Rodriguez Ancestral House
+File:Villa Sariaya.jpg|Don Catalino Rodriguez Ancestral House (Villa Sariaya)
+Margarita Rodriguez House, Sariaya, Quezon, Feb 2024.jpg|Margarita Rodriguez Ancestral House
+</gallery>
+
+===Tumbaga Church ruins===
+[[File:Tumbaga Church ruins in Sariaya, Quezon by JC.jpg|thumbnail|right|Extant wall of Tumbaga Church ruins]]
+
+Remains of an early 18th-century stone church and former town site of Sariaya, located at Barangay Tumbaga I. The settlement was inaugurated in 1703 with Father Lucas Fernandez as first parish priest and Francisco Argente as ''Presidente del Pueblo''. The church, which measured {{convert|500|sqm|sp=us}}, served a recorded population of 3000 parishioners. Two events led to the abandonment of the town site: the earthquake of 1743 which consequently destroyed the church's bell tower, and the Moro raids which left the town site in ruins after being razed by fire. The venerated image of '''Santo Cristo de Burgos''' is said to have been enshrined in the church before it was transferred to its present shrine in the [[Saint Francis of Assisi Parish Church|San Francisco Church]] in the present-day town proper of Sariaya. The unscathed image was said have been retrieved from the burnt church after the Muslim raider attack. The church is believed to be the fourth church structure built by the Spanish Franciscan Friars in Sariaya.<ref name="Sariaya Mag">{{cite journal|last1=San Jose-Valdoria|first1=Nancy|title=Tumbaga: Unang "Pueblo", 1703-1743|journal=Sariaya Community Magazine|date=November–December 2001|volume=2|issue=7|pages=20–22}}</ref>
+
+===Sariaya Park===
+[[File:Sariaya, QuezonPlazajf9806 05.JPG|thumb|right|Sariaya Park]]
+
+This multi-purpose park is a perfect place for recreational activities because of its pleasant and calm ambiance where kids can play at the park's playground, located at the heart of the town in front of Sariaya Church and the Town Hall at the left side. Sariaya Park is also the location where Sariaya Sports Complex is situated and usually used as the venue of different events and Basketball Leagues in the town.
+
+===Resorts===
+{{travel guide|date=January 2020}}
+Sariaya is the first town in the western part of the province with a sea coast. The municipality hosts numerous beach resorts and pool resorts which offers pristine beach and recreational activities.
+
+{| class="wikitable sortable" style="font-size:95%;" 
+|- 
+! width="60"| Resort
+! width="10"| Name
+! width="10" | Location
+|- 
+|<!-- Deleted image removed: [[File:Monte Vista Beach Resort Sariaya.jpeg|200px]]  -->|| Monte Vista Beach Resort || Barangay Bignay 2
+|- 
+| [[File:Sariaya Beach.jpeg|200px]] || Villa del Prado Beach Resort || Barangay Guisguis Talon
+|- 
+|<!-- Deleted image removed: [[File:Dalampasigan Beach Resort Sariaya.jpeg|200px]]  -->|| Dalampasigan Beach Resort || Barangay Guisguis Talon
+|- 
+|<!-- Deleted image removed: [[File:Paraiso Beach Resort Sariaya.jpeg|200px]]  -->|| Paraiso Beach Resort || Barangay Guisguis Talon
+|- 
+|<!-- Deleted image removed: [[File:Balai Loreta Beach Resort Sariaya.jpeg|200px]]  -->|| Balai Loreta Beach Resort || Barangay Talaan Aplaya
+|- 
+| [[File:Balai Sadyaya Resort.jpeg|200px]] || Balai Sadyaya Resort || Barangay Balubal
+|- 
+| [[File:Oyayi Farm and Resort.jpeg|200px]] || Oyayi Farm and Resort || Barangay Castañas
+|- 
+|  || Marina Azul Beach Resort || Barangay Bignay 2
+|- 
+|  || Christian's Beach Resort|| Barangay Bignay 2
+|- 
+|  || Baywatch Palm Beach Club Resort || Barangay Talaan Aplaya
+|- 
+|  || Beachwood Resort || Barangay Bignay 2
+|- 
+|  || Blue Bay Waters Beach Resort || Barangay Bignay 2
+|- 
+|  || Mar Del Sol Beach Resort || Barangay Guisguis Talon
+|- 
+|  || La Felizza Resort || Barangay Guisguis Talon
+|- 
+|  || Mapresco Beach Resort || Barangay Guisguis Talon
+|- 
+|  || Villa Vicenta Beach Resort || Barangay Bignay 2
+|- 
+|  || Villa Melania Beach Resort || Barangay Guisguis Talon
+|- 
+|  || Safari Beach Resort || Barangay Guisguis Talon
+|- 
+| [[File:Villa Trenta Eddie WoW Pool Farm Resort.jpg|thumb|Villa Trenta Eddy WoW Pool Farm Resort]] || Villa Trenta / Eddy WoW Pool Farm Resort || Barangay Pili (Barangay Bucal)
+|- 
+|  || Floreddy's Farm Resort || Barangay Pili
+|}
+
+'''Pool Resorts'''
+
+* Villa Leandro Resort
+* Lucky D Resort
+* Primavera Resort
+* Lynelle's Lagoon Resort
+* Ada's Resort and Spa
+* BLT Farmville Resort
+* Villa Trenta / Eddy WoW Pool Farm Resort
+* Floreddy's Farm Resort
+
+'''Beach Resorts with Boat Rides to Coral Reefs'''
+
+* Triple J Beach Resort (Barangay Guis-Guis Talon)
+* M.Y. Beach Resort (Barangay Guis-Guis Talon)
+
+==Healthcare==
+[[File:Sariaya,Quezonjf9733 23.JPG|thumb|right|Greg Hospital, one of the three hospitals located in Sariaya]]
+
+There are three private hospitals in Sariaya, with a dependable and well-staffed health center providing free medical and preventive services for residents of the forty-three barangays of the municipality.
+*'''Greg Hospital''', located at General Luna St., Barangay Poblacion 1
+*'''Soler General Hospital''', located at Mabini St., Barangay Poblacion 6
+*'''Allied Care Experts (ACE) Medical Center''', located at Maharlika Hwy., Barangay Gibanga
+
+==Education==
+[[File:Sariaya,Quezonjf0066 24.JPG|thumb|right|Colegio de Santo Cristo de Burgos]]
+
+[[File:Sariaya Institute Main Building Main Facade.JPG|thumb|right|Sariaya Institute]]
+
+[[File:St. Joseph Academy of Sariaya, Quezon, Feb 2024.jpg|thumb|right| St. Joseph's Academy]]
+
+[[File:Gabaldon Building, Sariaya East Elementary School 2.jpg|thumb|right|Sariaya East Central Main Elementary School]]
+
+{|class=wikitable
+|+ Educational Institutions in Sariaya
+|-
+!Level !! School
+|-
+| rowspan=2| '''Tertiary'''
+| [https://cstc.edu.ph/ CSTC - College of Sciences, Technology, and Communications, Inc.]
+|-
+| Colegio de Santo Cristo de Burgos
+|-
+| rowspan=10| '''Secondary'''
+| Sariaya Institute (private non-sectarian)
+|-
+| St. Joseph's Academy of Sariaya, Quezon (private sectarian)
+|-
+| St. Francis High School (private sectarian)
+|-
+| Mamala Integrated School (public)
+|-
+| Lutucan Integrated National High School (public)
+|-
+| Governor Anacleto C. Alcala National High School (public)
+|-
+| Canda National High School (public)
+|-
+| Sariaya National High School (public)
+|-
+| Pili National High School (public)
+|-
+| Janagdong National High School (public)
+|-
+| rowspan=32| '''Primary'''
+| Sariaya East Central Main Elementary School
+|-
+| Manuel L. Quezon Elementary School
+|-
+| Jose Rizal Elementary School
+|-
+| Antipolo Elementary School
+|-
+| Balubal Gibanga Elementary School
+|-
+| Bogon Elementary School
+|-
+| Sampaloc Elementary School
+|-
+| Sto. Cristo Elementary School
+|-
+| Concepcion Elementary School
+|-
+| Governor Natalio and Susana Enriquez Elementary School
+|-
+| Pili Elementary School
+|-
+| Pantoc Elementary School
+|-
+| Talaan Elementary School
+|-
+| Tumbaga 1 Elementary School
+|-
+| Tumbaga 2 Elementary School
+|-
+| Morong Elementary School
+|-
+| Montecillo Elementary School
+|-
+| Kiling Elementary School
+|-
+| Manggalang Elementary School
+|-
+| Concepcion Ibaba Elementary School
+|-
+| Concepcion Pinagbakuran Elementary School
+|-
+| Lutucan 1 Elementary School
+|-
+| Lutucan Bata Elementary School
+|-
+| Lutucan Central School
+|-
+| Concepcion Banahaw Elementary School
+|- 
+| Tulo-Tulo Elementary School
+|- 
+| Castañas Elementary School
+|-
+| Lutucan Adventist Elementary School
+|- 
+| [https://scbcsi.edu.ph/ Sariaya Conservative Baptist Christian School Inc.]
+|-
+| Holy Spirit Learning Center
+|-
+| St. Therese of the Child Jesus Learning Center
+|-
+| Beersheba Christian School
+|-
+|}
+
+==Notable personalities==
+<!--NOTE: Only add people with Wikipedia article as per WP notability.-->
+* '''[[Leo Austria]]''' — former professional basketball player and the head coach of [[San Miguel Beermen]] of the Philippine Basketball Association.
+* '''Maximo Rodriguez''' — twice Sariaya Municipal President (Mayor) in 1906–1907 and 1914-1916 and twice Tayabas ([[Quezon]]) Provincial Governor in 1916–1922 and 1933–1937.  He also became the principal sponsor of former Philippine president Manuel L. Quezon and Aurora Aragon at their Hong Kong wedding and he was also the instrument in the peaceful surrender of the dreaded Kapitan Kulas and became the Chairman-General Manager of the National Coconut Corporation (NACOCO), the fore runner of the Philippine Coconut Authority. He established the Maximo Rodriguez Solid Laboratory in Sariaya.
+* '''Braulio de Villa''' — twice Sariaya Town Gobernadorcillo (Mayor) in 1889 and 1892 to 1894, and later became the Provincial Governor of Batangas, his home province.
+* '''Natalio Enriquez''' – Sariaya Municipal President (Mayor) from 1938 to 1940 and later became the Provincial Governor of Tayabas ([[Quezon|Quezon Province]]) from 1941 to 1945.
+* '''Jovencio de Villa''' – became the Provincial Governor of Tayabas Province ([[Quezon|Quezon Province]]) during the Japanese Occupation period.
+* '''Roberto P. Racelis''' – was elected as Provincial Vice Governor of Quezon Province thrice but became Governor (by Operation of Law) from August 8, 1995, to July 25, 1996, and from April 4, 1998, to June 30, 1998.
+* '''Don John L. Montalbo''' – is known for discovering the "Talon sa Bahanaw" on August 24, 1996.
+*'''[[Lily Monteverde]]''' - movie producer
+
+==Sister cities==
+'''Sariaya''' has a sister city relationship with the foreign community of:
+
+*'''{{flagicon|USA}} [[Santa Clarita, California|Santa Clarita, California, United States]]''', since 2003<ref>[http://scvipsantaclarita.org/our-sister-cities/sariaya-philippines/ "Santa Clarita, California Sister Cities"] at Santa Clarita Sister Cities (SCVIP) website.</ref><ref>{{cite web |title=Sariaya, Philippines & Santa Clarita, California |url=http://www.sister-cities.org/interactive-map/relationship/Sariaya,%20Philippines/Santa%20Clarita,%20California |publisher=Sister Cities International |location=Washington, DC |access-date=February 4, 2015}}</ref>
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Commons category}}
+{{Wikivoyage}}
+*[https://www.philatlas.com/luzon/r04a/quezon/sariaya.html Sariaya Profile at PhilAtlas.com]
+*[{{NSCB detail}} Philippine Standard Geographic Code]
+*{{Official Website|sariaya.gov.ph}}
+*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=6&frmIdProvince=37&frmIdLgu=771 Local Governance Performance Management System]
+*[https://cstc.edu.ph/ CSTC - College of Sciences, Technology and Communication, Inc. (Sariaya)]
+
+{{Geographic location
+|Centre    = Sariaya
+|North     = [[Mount Banahaw]]
+|East      = [[Tayabas]]<br>[[Lucena, Philippines|Lucena]]
+|South     = ''[[Tayabas Bay]]''
+|Southwest = [[San Juan, Batangas]]
+|West      = [[Candelaria, Quezon|Candelaria]]
+}}
+{{Quezon}}
+{{Authority control}}
+
+[[Category:Municipalities of Quezon]]
+[[Category:1599 establishments in the Philippines]]

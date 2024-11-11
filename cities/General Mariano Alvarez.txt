@@ -1,0 +1,421 @@
+{{Short description|Municipality in Cavite, Philippines}}
+{{for|the person|Mariano Álvarez}}
+{{pp-vandalism|small=yes}}
+{{Multiple issues|
+{{MOS|date=April 2018}}
+{{More citations needed|date=October 2013}}
+}}
+{{Use mdy dates|date=December 2022}}
+{{Use Philippine English|date=December 2022}}
+{{Infobox settlement
+| name                            = {{PH wikidata|name}}
+| image_skyline                   = GMAHall,Cavitejf4358 23.JPG
+| image_caption                   = GMA Municipal Hall
+| image_seal                      = General Mariano Alvarez (GMA), Cavite.svg
+| seal_size                       = 80px
+| image_flag                      = Flag of General Mariano Alvarez, Cavite.jpg
+| image_map                       = {{PH wikidata|image_map}}
+| map_caption                     = {{PH wikidata|map_caption}}
+| image_map1                      = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map                     = Philippines
+| pushpin_label_position          = left
+| pushpin_map_caption             = Location within the {{PH wikidata|country}}
+| coordinates                     = {{PH wikidata|coordinates}}
+| settlement_type                 = {{PH wikidata|settlement_type}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = [[Philippines]]
+| subdivision_type1               = [[Regions of the Philippines|Region]]
+| subdivision_name1               = {{PH wikidata|region}}
+| subdivision_type2               = [[Provinces of the Philippines|Province]]
+| subdivision_name2               = {{PH wikidata|province}}
+| official_name                   = {{PH wikidata|official_name}}
+| etymology                       = <!--origin of name-->
+| named_for                       = [[Mariano Álvarez]]
+| native_name                     = 
+| other_name                      = 
+| nickname                        = ''GMA'' <br> ''Mushroom Capital of Cavite''
+| motto                           = ''Bukas na Pamahalaan, Serbisyong Pambayan''<br>(Open Government, Service to the People)
+| anthem                          = 
+| subdivision_type3               = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3               = {{PH legislative district}}
+| established_title               = [[Date of establishment|Founded]]
+| established_date                = March 14, 1981
+| parts_type                      = [[Barangay]]s
+| parts_style                     = para
+| p1                              = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title                    = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name                     = Maricel E. Torres
+| leader_title1                   = [[Vice Mayor]]
+| leader_name1                    = Percival C. Cabuhat
+| leader_title2                   = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2                    = Roy M. Loyola
+| leader_title3                   = [[Sangguniang Bayan|Municipal Council]]
+| leader_name3                    = {{PH Town Council
+| 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Phlonel Aisa C. Gutierrez
+ | 3=Angelica C. Abueg 
+ | 4=Artemio B. Sambrano
+ | 5=Michael Joseph I. Virata
+ | 6=Estelita P. Manalang
+ | 7=Richard D. Lara
+ | 8=Dennis D. Ayala
+ | 9=Nathaniel D. Nuarin
+}}
+| leader_title4                   = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4                    = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type                 = {{PH wikidata|government_type}}
+| government_footnotes            = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m                     = {{PH wikidata|elevation_m}}
+| elevation_max_m                 = 243
+| elevation_min_m                 = 11
+| elevation_max_rank              = 
+| elevation_min_rank              = 
+| elevation_footnotes             = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes         = 
+| elevation_min_footnotes         = 
+| area_rank                       = 
+| area_footnotes                  = {{PH area}}
+| area_total_km2                  = {{PH wikidata|area}}
+| population_footnotes            = {{PH census|current}}
+| population_total                = {{PH wikidata|population_total}}
+| population_as_of                = {{PH wikidata|population_as_of}}
+| population_density_km2          = auto
+| population_blank1_title         = [[Household]]s
+| population_blank1               = {{PH wikidata|household}}
+| population_blank2_title         = 
+| population_blank2               = 
+| population_demonym              = 
+| population_rank                 = 12 out of 1,489 [[Philippine municipality|Municipalities]]
+| population_note                 = 
+| timezone                        = [[Philippine Standard Time|PST]]
+| utc_offset                      = +8
+| postal_code_type                = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code                     = {{PH wikidata|postal_code}}
+| postal2_code_type               = {{PSGCstyle}}
+| postal2_code                    = {{PSGC detail}}
+| area_code_type                  = {{areacodestyle}}
+| area_code                       = {{PH wikidata|area_code}}
+| website                         = {{PH wikidata|website}}
+| demographics_type1              = [[Economy of the Philippines|Economy]]
+| demographics1_title1            = {{PH wikidata|income_class_title}}
+| demographics1_info1             = {{PH wikidata|income_class}}
+| demographics1_title2            = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2             = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3            = [[Revenue]]
+| demographics1_info3             = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4            = Revenue rank
+| demographics1_info4             = 
+| demographics1_title5            = [[Asset]]s
+| demographics1_info5             = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6            = Assets rank
+| demographics1_info6             = 
+| demographics1_title7            = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7             = 
+| demographics1_title8            = IRA rank
+| demographics1_info8             = 
+| demographics1_title9            = [[Expenditure]]
+| demographics1_info9             = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10           = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10            = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2              = Service provider
+| demographics2_title1            = Electricity
+| demographics2_info1             = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2            = Water
+| demographics2_info2             = 
+| demographics2_title3            = Telecommunications
+| demographics2_info3             = 
+| demographics2_title4            = Cable TV
+| demographics2_info4             = 
+| demographics2_title5            = 
+| demographics2_info5             = 
+| demographics2_title6            = 
+| demographics2_info6             = 
+| demographics2_title7            = 
+| demographics2_info7             = 
+| demographics2_title8            = 
+| demographics2_info8             = 
+| demographics2_title9            = 
+| demographics2_info9             = 
+| demographics2_title10           = 
+| demographics2_info10            = 
+| blank_name_sec1                 = {{PH wikidata|climate_title}}
+| blank_info_sec1                 = {{PH wikidata|climate_type}}
+| blank1_name_sec1                = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1                = {{PH wikidata|language}}
+| blank2_name_sec1                = [[Crime index]]
+| blank2_info_sec1                = 
+| blank3_name_sec1                = 
+| blank3_info_sec1                = 
+| blank4_name_sec1                = 
+| blank4_info_sec1                = 
+| blank5_name_sec1                = 
+| blank5_info_sec1                = 
+| blank6_name_sec1                = 
+| blank6_info_sec1                = 
+| blank7_name_sec1                = 
+| blank7_info_sec1                = 
+| blank1_name_sec2                = Major religions
+| blank1_info_sec2                = 
+| blank2_name_sec2                = Feast date
+| blank2_info_sec2                = 
+| blank3_name_sec2                = Catholic diocese
+| blank3_info_sec2                = 
+| blank4_name_sec2                = Patron saint
+| blank4_info_sec2                = 
+| blank5_name_sec2                = 
+| blank5_info_sec2                = 
+| blank6_name_sec2                = 
+| blank6_info_sec2                = 
+| blank7_name_sec2                = 
+| blank7_info_sec2                = 
+| short_description               = 
+| footnotes                       = 
+}}
+
+'''General Mariano Alvarez''', officially the '''Municipality of General Mariano Alvarez''' ({{lang-tgl|Bayan ng Heneral Mariano Alvarez}}) and often shortened as '''GMA''', is a 1st class [[municipality of the Philippines|municipality]] in the [[Philippine Province|province]] of [[Cavite]], Philippines. According to the 2020 census, it has a population of 172,433 people.{{PH census|current}}
+
+With an area of just {{convert|11.40|sqkm}}, it is the second most densely populated municipality in Cavite after [[Rosario, Cavite|Rosario]].
+
+==Etymology==
+The municipality was named after General [[Mariano Álvarez]], a native of the town of [[Noveleta, Cavite]].
+
+==History==
+
+General Mariano Alvarez was formerly a part of [[Carmona, Cavite]].  The province's third planned community was previously called Carmona Resettlement Project and was under the direct management of the People's Homesite and Housing Corporation (PHHC). The project started in March 1968 because of the need to clear the [[Quezon Memorial Circle]] in [[Quezon City]] of different shanties and other illegal constructions built on it. By 1974, the project lots became part of the full-fledged communities of poor and middle-class residents coming from Quezon City, [[Manila]], [[Makati]] and [[Parañaque]].
+
+Due to the popular clamor of the residents of the aforementioned resettlement areas towards the conversion of their locality into an independent municipality, the ten (10) Barangay Councils oof barangays San Gabriel and San Jose submitted resolution expressing their desire to the Sangguniang Bayan of Carmona which in turn favorably endorsed the idea through Resolutions No. 56-S-1978. By 1979, the idea soon began to speed up as the provincial deputy to the [[Interim Batasang Pambansa]], [[Helena Benitez]], and MP for Eastern Visayas and concurrent Minister of Local Government, Jose Roño, pursued the separation of the growing communities, whose several of their residents were now working in the growing industrial factories in Carmona town and in other parts of the province, as well as in agriculture and small enterprises.
+
+The municipality was chartered through Batas Pambansa Blg. 75, on June 13, 1980.<ref>{{cite PH act|chamber=BP|number=75| url = https://www.chanrobles.com/bataspambansa/bataspambansablg75.html | title =  An Act Creating the Municipality of General Mariano Alvarez in the Province of Cavite | publisher = Chan Robles Law Library | date = June 13, 1980 | accessdate = February 8, 2022}}</ref> Proclamation No. 2033, signed on November 11, 1980, set the plebiscite on January 10, 1981.<ref>{{cite web | url = https://www.officialgazette.gov.ph/1980/11/11/proclamation-no-2033-s-1980/ | title =  PROCLAMATION NO. 2033: SETTING THE DATE FOR THE HOLDING OF A PLEBISCITE TO DECIDE THE CREATION OF THE MUNICIPALITY OF GENERAL MARIANO ALVAREZ, PROVINCE OF CAVITE. | publisher = Official Gazette | accessdate = February 8, 2022}}</ref> The ratification by the majority votes cast in a plebiscite at Carmona and its duly constituted barangays and President [[Ferdinand Marcos]] appointed the first set of local officials of General Mariano Alvarez. Its proportional share in the obligation of funds, assets and other properties of Carmona was transferred to the newly created municipality upon the recommendation of the Commission of Audit, which was approved on June 30, 1980. The new municipality's first officials were officially inaugurated on March 14, 1981.
+
+The new town, for the next few years, was composed of the Resettlement areas of Barangays San Jose, San Gabriel and a portion of Cabilang Baybay. Barangay San Jose consisted of areas A and B, while Barangay San Gabriel consisted of Areas C, D, E, F, G, H, I, J, and K.
+
+In 2006, the municipality celebrated its 25th anniversary with a line-up of activities participated in by the municipality's residents. General Mariano Alvarez also takes pride in being known as the “Mushroom Capital of Cavite” because of the mushroom culture facilities in the town. Mushrooms have become the town's main product in line with the “One Town, One Product” program of the Philippine national government.{{citation needed|date=April 2018}}
+
+==Geography==
+General Mariano Alvarez lies at the north-eastern boundaries of [[Cavite]] with [[Laguna (province)|Laguna]]. It is bounded to the north by [[San Pedro, Laguna]], to the east by [[Carmona, Cavite|Carmona]], to the west by [[Dasmariñas]] and to the south by [[Silang, Cavite|Silang]]. General Mariano Alvarez is approximately {{convert|42|km|mi}} south of the [[City of Manila]] and {{convert|17|km|mi}} east of [[Trece Martires City]], the capital of the province.
+
+===Land area===
+General Mariano Alvarez has a total land area of {{convert|938.0137|ha}} more or less as per Batasang Pambansa Bilang 76. These areas are currently occupied by 27 barangays of which five are considered Poblacion barangays and 22 others are regular barangays.
+
+===Topography===
+The municipality has elongated shape with a north, north-eastern orientation. It has a total length of about {{convert|7,040|m|sp=us}} and a width of about {{convert|780|m|sp=us}} at its smallest and {{convert|1720|m|sp=us}} at its widest. The terrain is relatively flat plain from the south starting at the [[Governor's Drive]] running north covering about one third of the municipality's length at Poblacion 5. From this point the terrain gradually begin to gently slope in one direction in the middle portion of the municipality, undulating and rolling to more than one direction towards the north-eastern barangay of Epifanio Malia, portion of Francisco de Castro, Francisco Reyes and San Jose.
+
+Inland water bodies serve as natural boundaries with neighboring municipalities and drain its surface waters towards Manila Bay and Laguna Bay. These are Embarcadero River on the western boundaries with Dasmariñas and San Gabriel River on the eastern boundaries with Carmona. A major tributary, of San Gabriel River traverse the inner areas of the municipality from Francisco de Castro and Southwoods to Jacinto Lumbreras. The same tributary branches out at Inocencio Salud to serve as boundaries between the barangays of Col. J.P Elises and Aldiano Olaes, on the eastern side. Small streams crisscross the landscape forming natural drainage where waste drains from Manila Bay and Laguna de Bay. These water bodies run and form deep gullies which gave the land a mass ridge-like formation. Considering the height and mass of the water bodies, the ridge-like formation are highly elevated. Thus, the terrain as described above.
+
+Man-made physical changes, includes the presence of the Congressional Road which stretcher on full length of the municipality from the Governor's Drive or the national highway in the south to Francisco de Castro on the north. It runs parallel to the water bodies mentioned above on the eastern side of the municipality. Structures such as houses, schools, commercial establishments, institutional buildings and industrial firms are located among this road, on gully sides of water bodies and the top flat plain areas of the ridge. Open grasslands and agricultural areas can be found on the western near central portion of the municipality.
+
+===Slope===
+The slope of the municipality ranges from 0-3% to 3-8% broad to level nearly level are classified under 0-3% slope. These are generally the flat plain level lands on the southern portion from the Governor's Drive extending inwards covering all Poblacion barangays, Gavino Maderan, Jacinto Lumbreras, Ramon Cruz, San Gabriel and Severino delas Alas, 3-5% slope are gently sloping areas with land sloping in one general direction. These areas compress the central portion of the municipality from Barangay Kapitan Kua, Pantaleon Granados and Marcelino Mimeje to Aldiano Olaes, Col. Jose P. Elises and portion of Foerillo Calimag, Macario Dacon and Benjamin Tirona. These also include Inocencio Salud and Bernardo Pulido.
+
+Areas on the north and north-eastern side have slope of 5-8%. These are gently undulating and rolling lands sloping in more than one general direction. Portion of Baranay Feorillo Calimag, Macario Dacon and Benjamin Tirona and barangay of Francisco de Castro, Francisco Reyes, Epifanio Malia, Tiniente Tiago, Nicolasa Virata, Gregoria de Jesus and San Jose.
+
+===Climate===
+{{Weather box
+| location     = General Mariano Alvarez, Cavite
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 28
+| Jan low C  = 19
+| Feb high C = 29
+| Feb low C  = 19
+| Mar high C = 31
+| Mar low C  = 20
+| Apr high C = 32
+| Apr low C  = 21
+| May high C = 31
+| May low C  = 23
+| Jun high C = 29
+| Jun low C  = 23
+| Jul high C = 28
+| Jul low C  = 23
+| Aug high C = 28
+| Aug low C  = 23
+| Sep high C = 28
+| Sep low C  = 23
+| Oct high C = 28
+| Oct low C  = 22
+| Nov high C = 28
+| Nov low C  = 21
+| Dec high C = 28
+| Dec low C  = 20
+| Jan precipitation mm = 10
+| Feb precipitation mm = 10
+| Mar precipitation mm = 12
+| Apr precipitation mm = 27
+| May precipitation mm = 94
+| Jun precipitation mm = 153
+| Jul precipitation mm = 206
+| Aug precipitation mm = 190
+| Sep precipitation mm = 179
+| Oct precipitation mm = 120
+| Nov precipitation mm = 54
+| Dec precipitation mm = 39
+| Jan rain days        = 5.2
+| Feb rain days        = 4.5
+| Mar rain days        = 6.4
+| Apr rain days        = 9.2
+| May rain days        = 19.7
+| Jun rain days        = 24.3
+| Jul rain days        = 26.9
+| Aug rain days        = 25.7
+| Sep rain days        = 24.4
+| Oct rain days        = 21.0
+| Nov rain days        = 12.9
+| Dec rain days        = 9.1
+| source 1 = Meteoblue<ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/general-mariano-alvarez_philippines_7405396
+| title =  General Mariano Alvarez: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| access-date = May 12, 2020 }}</ref>
+| date = May 12, 2020
+}}
+
+===Barangays===
+General Mariano Alvarez is politically subdivided into 27 barangays. Each barangay consists of [[purok]]s and some have [[sitios]]. All barangays are classified as urban.<ref name="pop2010">{{cite web|title=Municipality: GEN. MARIANO ALVAREZ|url=http://nap.psa.gov.ph/activestats/psgc/municipality.asp?muncode=042123000&regcode=04&provcode=21|publisher=Philippine Statistics Authority (National Statistical Coordination Board)|access-date=May 24, 2016|archive-url=https://web.archive.org/web/20161224031326/http://nap.psa.gov.ph/activestats/psgc/municipality.asp?muncode=042123000&regcode=04&provcode=21|archive-date=December 24, 2016|url-status=dead}}</ref>
+
+Upon formation in 1981, General Mariano Alvarez consisted of resettlement areas of barangays San Jose (A and B) and San Gabriel (C, D, E, F, G, H, I, J and K). In 1985, most of these areas were further subdivided to comprise the current 27 barangays. Except for San Jose, San Gabriel and the ''poblacion'' barangays, they are named after the first area captains and people associated with the life and work of [[Mariano Álvarez]].
+
+[[File:GMA Barangay Map.png|350px|thumb|Barangay map of General Mariano Alvarez.]]
+{| class="wikitable sortable"
+|-
+! align="center" rowspan="2"| Barangay
+! align="center" colspan="2"| Population
+! align="center" rowspan="2"| Created<br>from
+|-
+! 2020{{PH census|current}}
+! 2010<ref name="pop2010"/>
+|-
+| Aldiano Olaes || 9,554 || 3,457 || Area F
+|-
+| Benjamin Tirona || 2,924 || 2,566 || Area D
+|-
+| Bernardo Pulido || 14,358 || 12,461 || Area H
+|-
+| Epifanio Malia || 4,150 || 3,095 || Area D
+|-
+| Francisco de Castro || 10,067 || 8,666 || Area B
+|-
+| Francisco Reyes || 7,930 || 4,293 || Area A
+|-
+| Fiorello Calimag || 2,618 || 2,460 || Area C
+|-
+| Gavino Maderan || 8,599 || 6,150 || Area J
+|-
+| Gregoria de Jesus || 11,213 || 9,423 || Area A
+|-
+| Inocencio Salud || 2,567 || 2,300 || Area F
+|-
+| Jacinto Lumbreras || 4,272 || 4,052 || Area J
+|-
+| Kapitan Kua || 3,415 || 2,851 || Area F
+|-
+| Koronel Jose P. Elises || 4,509 || 3,606 || Area E
+|-
+| Macario Dacon || 5,181 || 4,638 || Area D
+|-
+| Marcelino Memije || 4,952 || 4,384 || Area H
+|-
+| Nicolasa Virata || 6,277 || 5,828 || Area A
+|-
+| Pantaleon Granados || 3,468 || 3,282 || Area G
+|-
+| Poblacion 1 || 6,567 || 5,282 || Area I
+|-
+| Poblacion 2 || 4,163 || 4,270 || Area I
+|-
+| Poblacion 3 || 2,459 || 2,129 || Area I
+|-
+| Poblacion 4 || 4,742 || 4,256 || Area I
+|-
+| Poblacion 5 || 17,020 || 12,699 || Area G
+|-
+| Ramon Cruz Sr. || 7,678 || 7,225 || Area J
+|-
+| San Gabriel || 8,709 || 6,877 || Area K
+|-
+| San Jose || 4,330 || 3,684 || Area A
+|-
+| Severino de las Alas || 7,599 || 5,481 || Area J
+|-
+| Teniente Tiago || 3,112
+ || 3,125 || Area A
+|-
+|}
+
+==Demographics==
+{{Philippine Census
+| align= none
+| title= Population census of {{PH wikidata|name}}
+| 1980 =
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+In the 2020 census, the population of General Mariano Alvarez was 172,433 people,{{PH census|current}} with a density of {{convert|{{sigfig|172,433/11.40|2}}|PD/km2|disp=or}}.
+
+===Religion===
+The majority of the inhabitants are Roman Catholics and Protestants. There are some such as: Iglesia Ni Cristo, United Pentecostal Church Int'l., Apostolic Church of Jesus Christ Phils. Inc., Family Tabernacle of Jesus Christ Int'l. , Members Church of God International, Seventh Day Adventist and many others.{{Citation needed|date=October 2024}}
+
+== Economy ==
+[[File:Portal Mall GMA (Congressional Road, Gen. Mariano Alvarez, Cavite; 2017-03-16).jpg|thumb|Portal Mall]]
+{{PH poverty incidence}}
+
+== Healthcare ==
+General Mariano Alvarez has two hospitals: [[San Jose Hospital & Trauma Center]] and GMA Medicare Hospital.<ref>Cavite Province Government website, http://www.cavite.gov.ph/back%20up/index.php?option=com_content&view=article&id=220&Itemid=151{{dead link|date=May 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+==Government==
+[[File:GMA,CaviteHalljf4318 24.JPG|thumb|Legislative building]]
+{{main|Sangguniang Bayan}}
+
+===List of local chief executives===
+*Leoniso G. Virata (1981–1986; 1988–1998)
+*Tomas E. Abueg (''officer-in-charge'', 1986–1987)
+*Severino P. Tamala (''officer-in-charge'', 1987–1988)
+*Antonio G. Virata (1998–2001)
+*Walter D. Echevarria, Jr. (2001–2010; 2013–2021)
+*Leonisa Joana B. Virata (2010–2013)
+*Maricel E. Torres (officer-in-charge, 2020–2021), (assumed office, August 3, 2021–present)
+
+==Notable people==
+*[[Bugoy Cariño]] - actor
+
+==References==
+{{Reflist}}<!--added under references heading by script-assisted edit-->
+*Fontanilla, M. et al. (2001). ''Comprehensive Land Use Plan of the Municipality of Gen. Mariano Alvarez, Cavite.''  (''Unpublished report.'') Cavite: Municipal Government of Gen. Mariano Alvarez.
+*[http://www.comelec.gov.ph Commission on Elections] (October 30, 2007). ''List of Winning Candidates in the October 29, 2007, Synchronized Barangay and Sangguniang Kabataan Elections.'' (''Unpublished report.''_ Cavite: Office of the Election Officer, COMELEC-Gen. Mariano Alvarez.
+
+==External links==
+{{Commons category}}
+*{{official website|https://web.archive.org/web/20100729123550/http://gmacavite.com/home/}}
+*[http://www.cavite.gov.ph Official Website of the Provincial Government of Cavite]
+*[https://web.archive.org/web/20081120024509/http://www.census.gov.ph/data/census2007/index.html Philippine Census Information]
+
+{{Geographic location
+| Centre    = General Mariano Alvarez
+| North     = [[San Pedro, Laguna]]
+| Northeast = [[Biñan|Biñan, Laguna]]
+| East      = [[Carmona, Cavite|Carmona]]
+| South     = [[Silang, Cavite|Silang]]
+| West      = [[Dasmariñas]]
+}}
+
+{{Navboxes
+| title = Articles Related to General Mariano Alvarez, Cavite
+| list  = 
+{{Cavite}}
+{{CALABARZON}}
+}}
+
+{{Authority control}}
+
+[[Category:Municipalities of Cavite]]

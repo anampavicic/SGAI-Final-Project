@@ -1,0 +1,594 @@
+{{Short description|City in Riverside County, California, United States}}
+{{Use mdy dates|date=May 2024}}
+{{More citations needed|date=November 2023}}
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->| name               = Moreno Valley, California
+| settlement_type    = [[List of municipalities in California|City]]
+| image_skyline      = {{multiple image
+  | total_width            = 280
+  | border                 = infobox
+  | perrow                 = 1/2/1
+  | caption_align          = center
+  | image1                 = 'M' from RCC (cropped).JPG
+  | alt1                   = The giant "M" on Box Springs Mountain for "Moreno Valley"
+  | caption1               = The giant "M" on [[Box Springs Mountain]] for "Moreno Valley"
+  | image2                 = Moreno Valley, California City Hall.jpg
+  | alt2                   = Moreno Valley City Hall
+  | caption2               = Moreno Valley City Hall
+  | image3                 = Sunnymead Ranch Lake.jpg
+  | alt3                   = Sunnymead Ranch Lake
+  | caption3               = Sunnymead Ranch Lake
+  | image4                 = Hidden Springs, Moreno Valley (cropped).jpg
+  | alt4                   = Aerial view of Moreno Valley
+  | caption4               = Aerial view of Moreno Valley
+  }}
+| image_flag         = Flag of Moreno Valley, California.png
+| image_seal         = Seal of Moreno Valley, California.png
+| motto              = "Where Dreams Soar"
+| nickname           = "MoVal"<ref>{{cite web|url=http://tsdr.uspto.gov/documentviewer?caseId=sn77232955&docId=81520140829144958#docIndex=2&page=1|title=USPTO TSDR Case Viewer|website=tsdr.uspto.gov}}</ref>
+| image_map          = {{maplink
+ | frame                   = yes
+ | plain                   = yes
+ | frame-align             = center
+ | frame-width             = 280
+ | frame-height            = 280
+ | frame-coord             = SWITCH:{{coord|qid=Q494720}}###{{coord|33|43|48|N|116|8|48|W}}###{{coord|qid=Q99}}###{{coord|39|49|41|N|101|0|0|W}}
+ | zoom                    = SWITCH:10;7;5;3
+ | type                    = SWITCH:shape;shape;point;point
+ | marker                  = city
+ | stroke-width            = 2
+ | stroke-color            = #0096FF
+ | fill                    = #0096FF
+ | id2                     = SWITCH:Q494720;Q108111;Q99;Q30
+ | type2                   = shape-inverse
+ | stroke-width2           = 2
+ | stroke-color2           = #5F5F5F
+ | stroke-opacity2         = SWITCH:0;1;1;1
+ | fill2                   = #000000
+ | fill-opacity2           = SWITCH:0;0.5;0.5;0.5
+ | switch                  = Moreno Valley;Riverside County;California;the United States
+
+}}
+<!-- Location ------------->| coordinates        = {{coord|33|56|35|N|117|13|42|W|display=inline,title}}<ref name="GR1">{{cite web|url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html|publisher=[[United States Census Bureau]]|access-date=April 23, 2011|date=February 12, 2011|title=US Gazetteer files: 2010, 2000, and 1990}}</ref>
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = United States
+| subdivision_type1  = [[U.S. state|State]]
+| subdivision_name1  = [[California]]
+| subdivision_type2  = [[List of counties in California|County]]
+| subdivision_name2  = [[Riverside County, California|Riverside]]
+<!-- History -------------->| established_title  = [[Municipal corporation|Incorporated]]
+| established_date   = December 3, 1984<ref>{{cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+|url-status     = dead
+ |archive-url  = https://web.archive.org/web/20131017052413/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = October 17, 2013
+|df          = mdy-all
+}}</ref>
+<!-- Government ----------->| government_type    = [[Council-manager government|Council-Manager]]
+| leader_title       = [[Mayor]]
+| leader_name        = Ulises Cabrera
+| leader_title1      = [[Mayor Pro Tem]]
+| leader_name1       = Ed A. Delgado
+| leader_title2      = [[City council]]<ref name=cc>{{cite web
+ | url = http://www.moreno-valley.ca.us/city_council/index.shtml
+ | title = City Council Members & Districts
+ | access-date = November 15, 2017}}</ref>
+| leader_name2       = David Marquez<br />Cheylynda Barnard<br />Elena Baca-Santa Cruz
+| leader_title3      = [[City Manager]]
+| leader_name3       = Mike Lee
+<!-- Area ----------------->| unit_pref          = Imperial
+| area_footnotes     = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi   = 51.51
+| area_total_km2     = 133.41
+| area_land_sq_mi    = 51.30
+| area_land_km2      = 132.86
+| area_water_sq_mi   = 0.21
+| area_water_km2     = 0.55
+| area_water_percent = 0.39
+<!-- Elevation ------------>| elevation_footnotes = <ref>{{Cite GNIS|1668251|Moreno Valley|access-date=November 5, 2014}}</ref>
+| elevation_ft       = 1631
+| elevation_m        = 497
+<!-- Population ----------->| population_as_of   = [[2020 United States Census|2020]]
+| population_footnotes = <ref name=quif>{{cite web|url=https://www.census.gov/quickfacts/morenovalleycitycalifornia|title=Moreno Valley (city) QuickFacts|publisher=[[United States Census Bureau]]}}</ref>
+| population_total   = 208634
+| pop_est_as_of      = 
+| pop_est_footnotes  = <ref name="USCensusEst2019">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2019.html|title=Population and Housing Unit Estimates|access-date=May 21, 2020}}</ref>
+| population_est     = 
+| population_rank    = [[Riverside County, California|2nd]] in Riverside County<br />[[List of largest California cities by population|21st]] in California<br />[[List of United States cities by population|109th]] in the United States
+| population_density_sq_mi = 4153.36
+| population_metro   = <!-- Time zone ------------>
+| timezone           = [[Pacific Time Zone|Pacific]]
+| utc_offset         = &minus;8
+| timezone_DST       = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST     = &minus;7
+<!-- Codes ---------------->| postal_code_type   = [[ZIP code]]s<ref>{{cite web
+ | url = https://tools.usps.com/go/ZipLookupAction!input.action
+ | title = ZIP Code(tm) Lookup
+ | publisher = [[United States Postal Service]]
+ | access-date = November 30, 2014}}</ref>
+| postal_code        = 92551–92557
+| area_code_type     = [[North American Numbering Plan|Area codes]]
+| area_code          = [[Area code 909|909]], [[Area code 951|951]]
+| blank_name         = [[Federal Information Processing Standard|FIPS]] code
+| blank_info         = {{FIPS|06|49270}}
+| blank1_name        = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info        = {{GNIS 4|1668251}}, {{GNIS 4|2411159}}
+| website            = {{URL|http://www.moval.org/index.shtml}}
+| population_density_km2 = 1603.62
+}}
+
+'''Moreno Valley''' is a city in [[Riverside County, California]], United States, and is part of the Riverside–San Bernardino–Ontario metropolitan area. It is the second-largest city in Riverside County by population and one of the [[Inland Empire]]'s population centers. The city's population was 208,634 at the [[2020 United States census|2020 census]].<ref name="quif"/> Moreno Valley is also part of the [[Greater Los Angeles|greater Los Angeles area]].
+
+The city derived its name from the small community of Moreno, which became part of the city of Moreno Valley when the city was incorporated in 1984. Frank E. Brown, one of the founders of the community of Moreno in 1882, declined to have the town named after him, but to honor him, the town was named Moreno, Spanish for ''brown''.<ref>{{cite book |last1=Gudde |first1=Edwin G |title=California Place Names; A Geographical Dictionary |date=1949 |publisher=University of California Press |location=Berkeley|page=224}}</ref>
+
+==History==
+===Indigenous period===
+The Moreno Valley area was first inhabited 2,300 years ago. There are at least 200 prehistoric archaeological locations within the city. The majority of the sites are milling stations - where chaparral seed was the dominant milling activity. Rock art, consisting of [[pictographs]], and [[petroglyphs]] are present - though most of the petroglyphs in Moreno Valley consist of [[boulders]] with "cupules",  or cup-shaped holes pecked into them.<ref>{{cite news|url=http://www.pe.com/articles/chacon-821942-bird-singing.html|title=Moreno Valley filmmakers explore Native American culture with 'We Are Birds'|date= December 28, 2016|newspaper=[[Press Enterprise]]|first=Stan |last=Lim|access-date=March 6, 2017}}</ref>
+
+===Spanish & Mexican periods===
+[[File:Portrait of Juan Bautista de Anza (Painted by Fray Orci; 1774, Mexico City).jpg|thumb|left|Famed Spanish explorer [[Juan Bautista de Anza]], whose expedition came through the area in 1774.]]
+Spanish scouts initially came across descendants of the [[Shoshone]], and [[Luiseño]] tribes; although other groups, such as the [[Serrano (people)|Serrano]] and [[Cahuilla]] were in the area. The late prehistoric [[Luiseño]] and [[Cahuilla]] were semi-sedentary, meaning that they wintered in villages, then spread out in family groups during the spring and summer months to harvest seeds and acorns.<ref>{{cite web|title=Environmental Impact Report City of Moreno Valley General Plan Vol. 1|url=http://www.moreno-valley.ca.us/city_hall/general-plan/06gpfinal/ieir/eir-tot.pdf|website=moreno-valley.ca.us|access-date=April 9, 2015}}</ref>
+
+Spanish scouts blazed a number of trails in the area, including the [[Anza Trail]], which runs through the [[Edgemont, Riverside County, California|Edgemont]] area of present-day Moreno Valley.<ref>{{cite web|url=https://moval.gov/resident_services/mv-history.html|title=Moreno Valley History}}</ref>
+
+===Post-Conquest period===
+When California was admitted to the [[United States]] as a state in 1850, Americans began to move into the area. The [[Tucson, Arizona|Tucson]]-to-[[San Francisco, California|San Francisco]] route of [[John Warren Butterfield|John Butterfield]]'s [[Overland Mail Company]] passed through it. Some farmers began to occupy the area, relying upon water from Frank E. Brown's Bear Valley Land and Water Company. Beginning in 1883, the company collected and pumped water from Bear Valley in the [[San Bernardino Mountains]] to the north. The area first acquired its current name, Moreno Valley, at this time, referring to Frank Brown (''moreno'' is [[Spanish language|Spanish]] for "brown" or "brunet").<ref>{{Cite web |title=Sep 25, 1960, page 55 - The San Bernardino County Sun at Newspapers.com |url=https://www.newspapers.com/image/51559515/ |access-date=2024-06-10 |website=Newspapers.com |language=en}}</ref> In 1899, the city of [[Redlands, California|Redlands]] won a lawsuit in which the city claimed [[eminent domain]] over the Bear Valley water. The resulting loss of service forced most of the area's inhabitants to move.
+
+[[File:Riverside Raceway.JPG|thumb|From 1957 to 1989, the [[Riverside International Raceway]] occupied the current site of the [[Moreno Valley Mall]].]]
+
+
+[[File:Moreno Valley-Ironwood view.jpg|thumb|A view of Moreno Valley looking west down Ironwood Avenue. [[Box Springs Mountain]] is visible at right.]]
+
+====Incorporation and growth====
+
+By 1984, the population was 49,702 (compared to 18,871 residents in 1970).<ref>{{cite web|url=http://www.moreno-valley.ca.us/community/about.shtml|title=About Moreno Valley|access-date=April 29, 2015}}</ref> The state economic boom fueled the construction of new houses and businesses, leading to a push for the area to [[incorporation (municipal government)|incorporate]] as a city. Although similar measures had failed previously in 1968 and 1983, the measure to form the city of Moreno Valley was approved by the area's voters in 1984. On December 3, 1984, the communities of Edgemont, Sunnymead, and Moreno united along with nearby areas to form the general law city of Moreno Valley. The first city council was also elected in 1984. It was composed of [[Bob Lynn]], Judith A. Nieburger, Steven Webb, J. David Horspool (first Mayor Pro Tem), and Marshall C. Scott (first Mayor). The city seal and motto were adopted the following year.
+
+====March Air Reserve Base====
+In November 2008, DHL announced it was leaving the U.S. market and would shut its operation associated with March Air Field in January 2009.<ref>"Inland airports' dream of cargo hubs grounded," Press-Enterprise newspaper, Thursday, November 20, 2008</ref>
+
+===21st century===
+On February 13, 2007, the city council passed, by a vote of 4–1, a resolution christening the eastern half of the city (roughly from Lasselle Street to Gilman Springs Road) "Rancho Belago", a [[pastiche]] of Spanish and Italian words.<ref>{{cite web |department=Resolution No. 2007-14 |quote=Item G2 - Establishment of  "Rancho Belago" as a Community Name for the area generally east of Lasselle Street within the City of Moreno Valley |publisher=City of Moreno Valley, California |title=Minutes of February 13, 2007 City Council Meeting|access-date=September 23, 2016 |url=http://www.moreno-valley.ca.us/city_council/archive/07_agendas/021307_minutes.pdf}}</ref><ref>{{cite news |title=Area sounds 'bella' to some. MORENO VALLEY: Some city leaders want to call the eastern section of town "Rancho Belago." |newspaper=[[The Press-Enterprise]] |first=Dan |last= Lee |date=January 20, 2007 |url=http://www.pe.com/localnews/inland/stories/PE_News_Local_R_rname21.43a1895.html |archive-url=https://web.archive.org/web/20070926215829/http://www.pe.com/localnews/inland/stories/PE_News_Local_R_rname21.43a1895.html |archive-date=September 26, 2007}}</ref><ref>{{cite news |title=Moreno Valley experienced similar mortgage crisis in 1990s |newspaper=[[The Press-Enterprise]] |first=Dan |last= Lee |date=April 22, 2007 |url=http://www.pe.com/localnews/perris/stories/PE_News_Local_D_moreno22.3dbd6df.html |archive-url=https://web.archive.org/web/20070929083154/http://www.pe.com/localnews/perris/stories/PE_News_Local_D_moreno22.3dbd6df.html |archive-date=September 29, 2007}}</ref> The city council's resolution includes the 92555 ZIP Code within the boundaries of the area, as reported by the Press Enterprise newspaper.
+
+==Geography==
+
+According to the [[United States Census Bureau]], the city has a total area of {{convert|51.5|sqmi|km2}}, of which, {{convert|51.3|sqmi|km2}} of it is land and {{convert|0.2|sqmi|km2}} of it is water.
+
+[[File:Moreno Valley-Kitching view.jpg|thumb|Southern Moreno Valley, viewed looking south down Kitching Street]]
+Moreno Valley is located at a geographic crossroad. To the east lies the [[San Gorgonio Pass]] and [[Coachella Valley]]; to the south are [[Lake Perris]], [[Perris, California|Perris]], and the [[San Jacinto Mountains]]; to the north are the [[San Bernardino Valley]] and [[San Bernardino Mountains]]. To the west lies neighboring [[Riverside, California|Riverside]]. It is relatively close to Ontario International Airport.
+
+One of the most visible geographical features in Moreno Valley is [[Box Springs Mountain]]. This mountain at the northwest end of the city rises over the city, providing a concrete landmark. The section of the mountain that faces the city has a large letter "M" constructed upon it. This was built privately at the encouragement of the city council, which argued it would foster unity. The letter is located on public land and is maintained entirely by charity. The letter had lights installed on December 3, 2005, to celebrate Moreno Valley's 21st anniversary of its incorporation. The completion of the repairs of heavy damage to the letter, due to extreme rain the year before. The mayor at that time, Bonnie Flickinger, has said that the citizens liked it that way and that the council would try to get it to light up regularly. Between December 2, 2009, and December 6, 2009, Moreno Valley, along with Edison lit up the letter in celebration of the city's 25th anniversary. Several [[Eagle Scout rank (Boy Scouts of America)|Eagle Scout]] projects have been dedicated to maintaining the "M".
+
+===Climate===
+Moreno Valley has a mild [[semi-arid climate]] ([[Köppen climate classification|Köppen]] ''BSh''), with [[Mediterranean climate|Mediterranean]] characteristics. The summer temperatures average in the high 90s, though many days reach well above 100°.
+* On average, the warmest month is August.
+* The highest recorded temperature was {{convert|118|°F}} in July 2018.
+* On average, the coolest month is December.
+* The lowest recorded temperature was {{convert|22|°F}} in 1974.
+* The maximum average precipitation occurs in December.<ref name=weather.com>{{cite web |url=http://www.weather.com/outlook/health/fitness/wxclimatology/monthly/graph/USCA0730 |title=Moreno Valley historic weather averages |access-date=June 6, 2011 |publisher=Weather Channel |archive-date=July 13, 2014 |archive-url=https://web.archive.org/web/20140713071418/http://www.weather.com/outlook/health/fitness/wxclimatology/monthly/graph/USCA0730 |url-status=dead }}</ref>
+
+{{Weather box|location = Moreno Valley, California
+|single line = Y
+|Jan record high F =  97
+|Feb record high F =  92
+|Mar record high F =  98
+|Apr record high F = 104
+|May record high F = 108
+|Jun record high F = 112
+|Jul record high F = 118
+|Aug record high F = 113
+|Sep record high F = 115
+|Oct record high F = 108
+|Nov record high F =  98
+|Dec record high F =  93
+|year record high F =118
+|Jan high F = 68
+|Feb high F = 68
+|Mar high F = 72
+|Apr high F = 76
+|May high F = 81
+|Jun high F = 89
+|Jul high F = 95
+|Aug high F = 96
+|Sep high F = 92
+|Oct high F = 83
+|Nov high F = 74
+|Dec high F = 67
+|year high F =
+|Jan low F = 43
+|Feb low F = 44
+|Mar low F = 46
+|Apr low F = 49
+|May low F = 54
+|Jun low F = 57
+|Jul low F = 62
+|Aug low F = 62
+|Sep low F = 59
+|Oct low F = 53
+|Nov low F = 46
+|Dec low F = 42
+|year low F =
+|Jan record low F = 24
+|Feb record low F = 27
+|Mar record low F = 29
+|Apr record low F = 33
+|May record low F = 38
+|Jun record low F = 44
+|Jul record low F = 49
+|Aug record low F = 49
+|Sep record low F = 42
+|Oct record low F = 32
+|Nov record low F = 26
+|Dec record low F = 22
+|year record low F =22
+|precipitation colour = green
+|Jan precipitation inch = 2.08
+|Feb precipitation inch = 1.72
+|Mar precipitation inch =  .68
+|Apr precipitation inch =  .45
+|May precipitation inch =  .31
+|Jun precipitation inch =  .01
+|Jul precipitation inch =    0
+|Aug precipitation inch =    0
+|Sep precipitation inch =  .08
+|Oct precipitation inch =  .32
+|Nov precipitation inch =  .74
+|Dec precipitation inch = 2.74
+|year precipitation inch=9.94
+|source 1 = <ref name=weather.com />
+|source 2 = <ref>{{cite web
+|url=http://weathercurrents.com/morenovalley/Climate.do
+|title=Average Weather for Moreno Valley, CA&nbsp;– Temperatures and Precipitation
+|access-date=June 6, 2011
+|publisher=weathercurrents.com
+|archive-url=https://web.archive.org/web/20190824152049/http://weathercurrents.com/morenovalley/Climate.do
+|archive-date=August 24, 2019
+|url-status=dead
+}}</ref>
+|date=November 2011}}
+
+==Demographics==
+{{US Census population
+|1990= 118779
+|2000= 142381
+|2010= 193365
+|2020= 208634
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref>
+}}
+
+===2020===
+{| class="wikitable" style="text-align:center;"
+|+'''Moreno Valley, California – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Moreno Valley city, California|url=https://data.census.gov/table?g=160XX00US0649270&tid=DECENNIALSF12000.P004|publisher=United States Census Bureau |access-date=January 26, 2024}}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Moreno Valley city, California|url=https://data.census.gov/table?q=p2&g=160XX00US0649270&tid=DECENNIALPL2010.P2|publisher=United States Census Bureau |access-date=January 26, 2024}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Moreno Valley city, California|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US0649270&tid=DECENNIALPL2020.P2|publisher=United States Census Bureau |access-date=January 26, 2024}}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|45,881
+|36,573
+|style='background: #ffffe6; |27,670
+|32.22%
+|18.91%
+|style='background: #ffffe6; |13.26%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|27,536
+|33,195
+|style='background: #ffffe6; |31,582
+|19.34%
+|17.17%
+|style='background: #ffffe6; |15.14%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|567
+|573
+|style='background: #ffffe6; |536
+|0.40%
+|0.30%
+|style='background: #ffffe6; |0.26%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|8,214
+|11,423
+|style='background: #ffffe6; |12,099
+|5.77%
+|5.91%
+|style='background: #ffffe6; |5.80%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|650
+|990
+|style='background: #ffffe6; |1,009
+|0.46%
+|0.51%
+|style='background: #ffffe6; |0.48%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|295
+|388
+|style='background: #ffffe6; |1,227
+|0.21%
+|0.20%
+|style='background: #ffffe6; |0.59%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|4,549
+|5,054
+|style='background: #ffffe6; |6,343
+|3.19%
+|2.61%
+|style='background: #ffffe6; |3.04%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|54,689
+|105,169
+|style='background: #ffffe6; |128,168
+|38.41%
+|54.39%
+|style='background: #ffffe6; |61.43%
+|-
+|'''Total'''
+|'''142,381'''
+|'''193,365'''
+|style='background: #ffffe6; |'''208,634'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2010===
+The racial makeup of Moreno Valley was 36,546 (18.9%) [[European American|non-Hispanic White]],<ref name="quickfacts.census.gov">{{cite web|url=http://quickfacts.census.gov/qfd/states/06/0649270.html|title=State & County QuickFacts - Moreno Valley (city), California|website=[[United States Census Bureau]]|url-status=dead|archive-url=https://web.archive.org/web/20120901235251/http://quickfacts.census.gov/qfd/states/06/0649270.html|archive-date=September 1, 2012}}</ref> 34,889 (18.0%) [[African American (U.S. Census)|African American]], 1,721 (0.9%) [[Native American (U.S. Census)|Native American]], 11,867 (6.1%) [[Asian (U.S. Census)|Asian]], 1,117 (0.6%) [[Pacific Islander (U.S. Census)|Pacific Islander]], 51,741 (26.8%) from [[Race (United States Census)|other races]], and 11,061 (5.7%) from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 105,169 persons (54.4%).
+
+The Census reported that 192,811 people (99.7% of the population) lived in households, 471 (0.2%) lived in non-institutionalized group quarters, and 83 (0.1%) were institutionalized.
+
+There were 51,592 households, out of which 28,586 (55.4%) had children under the age of 18 living in them, 29,000 (56.2%) were [[marriage|opposite-sex married couples]] living together, 9,990 (19.4%) had a female householder with no husband present, 4,191 (8.1%) had a male householder with no wife present. There were 3,627 (7.0%) [[POSSLQ|unmarried opposite-sex partnerships]], and 375 (0.7%) [[same-sex partnerships|same-sex married couples or partnerships]]. 6,094 households (11.8%) were made up of individuals, and 1,611 (3.1%) had someone living alone who was 65 years of age or older. The average household size was 3.74. There were 43,181 [[family (U.S. Census)|families]] (83.7% of all households); the average family size was 3.99.
+
+The population was spread out, with 62,496 people (32.3%) under the age of 18, 23,563 people (12.2%) aged 18 to 24, 53,726 people (27.8%) aged 25 to 44, 41,446 people (21.4%) aged 45 to 64, and 12,134 people (6.3%) who were 65 years of age or older. The median age was 28.6 years. For every 100 females, there were 95.1 males. For every 100 females age 18 and over, there were 91.3 males.
+
+There were 55,559 housing units at an average density of {{convert|1,079.3|/sqmi|/km2|sp=us|adj=off}}, of which 33,393 (64.7%) were owner-occupied, and 18,199 (35.3%) were occupied by renters. The homeowner vacancy rate was 3.4%; the rental vacancy rate was 7.5%. 123,863 people (64.1% of the population) lived in owner-occupied housing units and 68,948 people (35.7%) lived in rental housing units.
+
+During 2009–2013, Moreno Valley had a median household income of $54,918, with 19.5% of the population living below the federal poverty line.<ref name="quickfacts.census.gov"/>
+
+===2000===
+[[Latino (demonym)|Latinos]] replaced the once majority White non-Hispanic population in the 1990s.
+
+Moreno Valley has increasingly become a destination for African-American families from Los Angeles County, after the [[1992 Los Angeles riots]] with steady growth. Between 2006 and 2007 alone, Moreno Valley saw a 13% increase in its [[African Americans|Black]] population.<ref>{{Cite news |url=http://news.newamericamedia.org/news/view_article.html?article_id=e16651df35b51b30962cd017f31eec2c |title=Latinos Have Babies, Blacks Move South -- Population Shifts |work=Black Voice News |first=Chris |last=Levister |date=August 21, 2008 |access-date=October 19, 2010 |archive-url=https://web.archive.org/web/20140712100603/http://news.newamericamedia.org/news/view_article.html?article_id=e16651df35b51b30962cd017f31eec2c |archive-date=July 12, 2014 |url-status=dead  }}</ref>
+
+Also in the same time period, [[Latinos]] became the majority of over half the population, especially a large [[Mexican-American]] and [[Mexican people|Mexican]] population. There are several business strips catering to Spanish-speaking clientele and [[Latin American]] cultures.
+
+There were 43,381 households, out of which 54.0% had children under the age of 18 living with them, 61.6% were [[Marriage|married couples]] living together, 17.1% had a female householder with no husband present, and 14.9% were non-families. 11.0% of all households were made up of individuals, and 3.1% had someone living alone who was 65 years of age or older. The average household size was 3.6 and the average family size was 3.9.
+
+In the city, there were 36.8% under the age of 18; 10.5% from 18 to 24; 29.5% from 25 to 44; 17.7% from 45 to 64; and 5.5% who were 65 years of age or older. The median age was 27 years. For every 100 females, there were 95.8 males. For every 100 females age 18 and over, there were 91.3 males.
+
+The median [[income]] for a household in the city was $47,387, and the median income for a family was $48,965 (these figures had risen to $55,604 and $57,385 respectively as of a 2007 estimate<ref name="Moreno Income Estimate">[https://archive.today/20200211181030/http://factfinder.census.gov/servlet/ACSSAFFFacts?_event=Search&geo_id=16000US0649270&_geoContext=01000US%7C04000US06%7C16000US0649270&_street=&_county=moreno+valley&_cityTown=moreno+valley&_state=04000US06&_zip=&_lang=en&_sse=on&ActiveGeoDiv=geoSelect&_useEV=&pctxt=fph&pgsl=160&_submenuId=factsheet_1&ds_name=ACS_2007_3YR_SAFF&_ci_nbr=null&qr_name=null&reg=null:null&_keyword=&_industry= Moreno Valley 2005-2007 Census Estimate]. Retrieved March 23, 2009.</ref>). Males had a median income of $38,620 versus $26,492 for females. The [[per capita income]] for the city was $14,983. 14.2% of the population and 11.6% of families were below the [[poverty line]]. 18.1% of those under the age of 18 and 9.7% of those 65 and older were living below the poverty line.
+
+The most common ancestries in Moreno Valley are German, English, Irish, Italian, and Nigerian. The most common non-English languages spoken in Moreno Valley are Spanish and Tagalog.<ref> {{Cite web |title=Moreno Valley, CA Real Estate Market Data - NeighborhoodScout |url=https://www.neighborhoodscout.com/ca/moreno-valley |access-date=2024-06-10 |website=www.neighborhoodscout.com}}</ref>
+
+==Economy==
+According to the city's 2020 Comprehensive Annual Financial Report,<ref>{{cite web|url=http://www.moval.org/departments/financial-mgmt-svcs/fin-pdf/CAFR/mv2020cafr.pdf|title=City of Moreno Valley CAFR 2020}}</ref> the top employers in the city are:
+
+{| class="wikitable"
+|-
+! #
+! Employer
+! # of Employees
+|-
+| 1
+|[[March Air Reserve Base]]
+|9,600
+|-
+|2
+|[[Amazon (company)|Amazon]]
+|7,500
+|-
+|3
+|[[Riverside County Regional Medical Center]]
+|3,400
+|-
+|4
+|[[Moreno Valley Unified School District]]
+|3,100
+|-
+|5
+|[[Ross Stores|Ross Dress for Less / DD's Discounts]]
+|2,400
+|-
+|6
+|[[Moreno Valley Mall]]
+|1,500
+|-
+|7
+|[[Kaiser Permanente|Kaiser Permanente Community Hospital]]
+|1,457
+|-
+|8
+|[[Skechers|Skechers USA]]
+|1,200
+|-
+|9
+|[[Harbor Freight Tools]]
+|788
+|-
+|10
+|[[Deckers Outdoor Corporation|Deckers Outdoor]]
+|700
+|}
+
+==Government==
+{| class="wikitable"  style="float:right; margin:1em; font-size:95%;"
+|+ '''Moreno Valley vote<br />by party in presidential elections<ref>{{cite web|url=https://www.sos.ca.gov/elections/prior-elections/statewide-election-results/|title=Statewide Election Results :: California Secretary of State|website=www.sos.ca.gov}}</ref>'''
+|- style="background:lightgrey;"
+! Year
+! [[Democratic Party (United States)|Democratic]]
+! [[Republican Party (United States)|Republican]]
+! [[Third party (United States)|Third Parties]]
+|-
+|align="center" {{Party shading/Democratic}}|[[2020 United States presidential election|2020]]<ref>{{cite web|url=https://elections.cdn.sos.ca.gov/sov/2020-general/ssov/pres-by-political-districts.pdf |title=Results |publisher=elections.cdn.sos.ca.gov |date=2020 |access-date=August 28, 2022}}</ref>
+|align="center" {{Party shading/Democratic}}|'''67.24%''' ''48,360''
+|align="center" {{Party shading/Republican}}|30.80% ''22,148''
+|align="center" {{Party shading/Independent}}|1.96% ''1,412''
+|-
+|align="center" {{Party shading/Democratic}}|[[2016 United States presidential election|2016]]<ref>{{cite web|url=https://elections.cdn.sos.ca.gov/sov/2016-general/ssov/pres-by-political-districts.pdf |title=Results |publisher=elections.cdn.sos.ca.gov |date=2016 |access-date=August 28, 2022}}</ref>
+|align="center" {{Party shading/Democratic}}|'''67.35%''' ''37,673''
+|align="center" {{Party shading/Republican}}|27.21% ''15,221''
+|align="center" {{Party shading/Independent}}|5.43% ''3,039''
+|-
+|align="center" {{Party shading/Democratic}}|[[2012 United States presidential election|2012]]<ref>{{cite web|url=https://elections.cdn.sos.ca.gov/sov/2012-general/ssov/pres-by-political-districts.pdf |title=Results |publisher=elections.cdn.sos.ca.gov |date=2012 |access-date=August 28, 2022}}</ref>
+|align="center" {{Party shading/Democratic}}|'''68.83%''' ''35,406''
+|align="center" {{Party shading/Republican}}|29.44% ''15,146''
+|align="center" {{Party shading/Independent}}|1.73% ''889''
+|-
+|align="center" {{Party shading/Democratic}}|[[2008 United States presidential election|2008]]<ref>{{cite web|url=https://elections.cdn.sos.ca.gov/sov/2008-general/ssov/5-pres-by-political-districts.pdf |title=Results |publisher=elections.cdn.sos.ca.gov |date=2008 |access-date=August 28, 2022}}</ref>
+|align="center" {{Party shading/Democratic}}|'''65.56%''' ''32,205''
+|align="center" {{Party shading/Republican}}|32.86% ''16,141''
+|align="center" {{Party shading/Independent}}|1.58% ''774''
+|-
+|align="center" {{Party shading/Democratic}}|[[2004 United States presidential election|2004]]<ref>{{cite web|url=https://elections.cdn.sos.ca.gov/sov/2004-general/ssov/pres_general_ssov_all.pdf |title=Results |publisher=elections.cdn.sos.ca.gov |date=2004 |access-date=August 28, 2022}}</ref>
+|align="center" {{Party shading/Democratic}}|'''52.59%''' ''21,417''
+|align="center" {{Party shading/Republican}}|46.43% ''18,907''
+|align="center" {{Party shading/Independent}}|0.98% ''398''
+|-
+|align="center" {{Party shading/Democratic}}|[[2000 United States presidential election|2000]]<ref>{{cite web|url=https://elections.cdn.sos.ca.gov/sov/2000-general/ssov/pol-dis.pdf |title=Results |publisher=elections.cdn.sos.ca.gov |date=2000 |access-date=August 28, 2022}}</ref>
+|align="center" {{Party shading/Democratic}}|'''56.02%''' ''19,589''
+|align="center" {{Party shading/Republican}}|41.12% ''14,377''
+|align="center" {{Party shading/Independent}}|2.86% ''999''
+|-
+|align="center" {{Party shading/Democratic}}|[[1996 United States presidential election|1996]]<ref>{{cite web|url=https://elections.cdn.sos.ca.gov/sov/1996-general/ssov/president-pol-district.pdf |title=Results |publisher=elections.cdn.sos.ca.gov |date=1996 |access-date=August 28, 2022}}</ref>
+|align="center" {{Party shading/Democratic}}|'''51.77%''' ''16,477''
+|align="center" {{Party shading/Republican}}|38.09% ''12,123''
+|align="center" {{Party shading/Independent}}|10.14% ''3,228''
+|-
+|align="center" {{Party shading/Democratic}}|[[1992 United States presidential election|1992]]<ref>{{cite web|url=https://elections.cdn.sos.ca.gov/sov/1992-general/ssov/president.pdf |title=Results |publisher=elections.cdn.sos.ca.gov |date=1992 |access-date=August 28, 2022}}</ref>
+|align="center" {{Party shading/Democratic}}|'''41.56%''' ''15,462''
+|align="center" {{Party shading/Republican}}|34.54% ''12,849''
+|align="center" {{Party shading/Independent}}|23.90% ''8,889''
+|}
+
+===Local===
+Moreno Valley incorporated in 1984 as a [[general law city]].<ref name=about>{{cite web|url=http://www.moreno-valley.ca.us/community/about.shtml|title=About Moreno Valley|publisher=City of Moreno Valley|access-date=January 28, 2015}}</ref> It currently uses the [[council-manager]] form of government. The city is divided into four council districts, each of which elect a representative to the city council. The mayor is directly elected at-large. The council chooses one of its members to serve as Mayor Pro Tem. The council also selects the city manager, the city attorney, and city clerk.
+
+The current City Council consists of:<ref name=cc/>
+
+* Mayor: Ulises Cabrera
+* District 1: Elena Baca-Santa Cruz
+* District 2: Ed Delgado
+* District 3: David Marquez
+* District 4: Cheylynda Barnard
+
+===State and federal===
+In the [[California State Legislature|state legislature]], Moreno Valley is in {{Representative|casd|31|fmt=sdistrict}}, and in {{Representative|caad|60|fmt=adistrict}}.<ref>{{cite web |url=http://statewidedatabase.org/gis/gis2011/index_2011.html |title=Statewide Database |publisher=UC Regents |access-date=November 22, 2014 |archive-url=https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html |archive-date=February 1, 2015 |url-status=dead }}</ref>
+
+In the [[United States House of Representatives]], Moreno Valley is in {{Representative|cacd|39|fmt=district}}.<ref>{{Cite GovTrack|CA|39}}</ref>
+
+==Education==
+Moreno Valley's [[primary education|primary]] and [[secondary education]] needs are fulfilled by two school districts: the majority of the city is in the [[Moreno Valley Unified School District]], while a portion is in the [[Val Verde Unified School District]].<!--UNI 91135--> A part of the city's territory extends into the [[San Jacinto Unified School District]].<!--UNI 34440--><ref name=USCensusSDMap2020>{{cite web|url=https://www2.census.gov/geo/maps/DC2020/PL20/st06_ca/schooldistrict_maps/c06065_riverside/DC20SD_C06065.pdf|title=2020 CENSUS - SCHOOL DISTRICT REFERENCE MAP: Riverside County, CA|publisher=[[U.S. Census Bureau]]|page=2 (PDF p. 3/6)|access-date=2024-10-04}} - [https://www2.census.gov/geo/maps/DC2020/PL20/st06_ca/schooldistrict_maps/c06065_riverside/DC20SD_C06065_SD2MS.txt Text list]</ref> The former serves approximately 35,000 students, the bulk of the city's children, and has 35 schools, including five [[High school (North America)|high school]]s: [[Moreno Valley High School (Moreno Valley, California)|Moreno Valley High School]], [[Canyon Springs High School (Moreno Valley, California)|Canyon Springs High School]], [[Valley View High School (Moreno Valley, California)|Valley View High School]], March Mountain High School, and Vista del Lago High School. Val Verde District serves part of southern and eastern Moreno Valley, in addition to parts of [[Perris, California|Perris]], [[Mead Valley, California|Mead Valley]], and unincorporated areas. It serves about 13,000 students and maintains 12 schools; one of its high schools, [[Rancho Verde High School]], is located in Moreno Valley. Some [[private school]]s exist, including the local Valley Christian Academy, established in 1979, and [[Calvary Chapel]] Christian School, which serves students Kindergarten to twelfth grade. There is also growing number of [[charter schools]] within Moreno Valley area including Excel Prep Charter School – Inland Empire, a K–6 school, Riverside County Educational Academy, and Audeo Charter School,<ref name="Audeo Charter School">{{cite web
+|url=http://www.audeocharterschool.net/ |title=Audeo Charter School |access-date= April 22, 2014
+|publisher=Altus Institute}}</ref> a 6–12 independent study program.<ref name="Independent Study Program">{{cite web
+|url=http://www.cde.ca.gov/sp/eo/is/faq.asp#n3/ |title=Independent Study FAQ |access-date= April 22, 2014
+|publisher=California Department of Education}}</ref>
+
+The [[Riverside Community College District]], RCCD, serves 6,500 students at their [[Moreno Valley College]] campus. The city is also the location of one of the twenty-six [[Chapman University]] campuses. In neighboring Riverside, students may opt to attend RCCD's main campus, [[Riverside Community College]], the [[University of California, Riverside]], [[La Sierra University]] or [[California Baptist University]]. [[California State University, San Bernardino]] is another popular school for city high school graduates.
+
+Moreno Valley has three [[public library|public libraries]].<ref>{{cite web|title=Moreno Valley City Library|url=http://www.moval.org/mv-library/index.html|website=City of Moreno Valley|access-date=April 17, 2018|language=en}}</ref>
+
+==Infrastructure==
+===Transportation===
+The heavily traveled routes of [[California State Route 60|State Route 60]] (locally called the [[Moreno Valley Freeway]]) and [[Interstate 215 (California)|Interstate 215]] both pass through the city.
+
+[[Metrolink (California)|Metrolink]] offers [[commuter rail]] transit via the [[Moreno Valley/March Field]] station, located just west of the city limits. Monday through Friday service is provided on the [[91/Perris Valley Line]] connecting the Moreno Valley area with [[Riverside, California|Riverside]] and [[Downtown Los Angeles]] to the north and [[Perris]] to the south.<ref>{{cite web|url=https://ucrtoday.ucr.edu/37816|title=Metrolink's 91/Perris Valley Line Now Open}}</ref> The [[Riverside Transit Agency]] provides local and express/commuter bus services.
+
+===Healthcare===
+There are two hospitals in Moreno Valley:<ref>California Department of Health Services</ref>
+* [[Kaiser Permanente]] Community Hospital, formerly Moreno Valley Community Hospital, is a General Acute Care [[Hospital]] with Basic Emergency Services as of 2008.<ref>{{Cite web |url=http://www.pe.com/elections/2007/nov/Riverside.html |title=Archived copy |access-date=November 9, 2007 |archive-url=https://web.archive.org/web/20110520021428/http://www.pe.com/elections/2007/nov/Riverside.html |archive-date=May 20, 2011 |url-status=dead  }}</ref><ref>{{Cite web |url=http://www.pe.com/localnews/menifee/stories/PE_News_Local_H_forum18.3d2d468.html |title=Debate over Measure G focuses on hospital district's partner &#124; Menifee &#124; PE.com &#124; Southern California News &#124; News for Inland Southern California |access-date=October 19, 2007 |archive-url=https://web.archive.org/web/20110520021323/http://www.pe.com/localnews/menifee/stories/PE_News_Local_H_forum18.3d2d468.html |archive-date=May 20, 2011 |url-status=dead  }}</ref> Kaiser Permanente officially acquired the Moreno Valley Community Hospital and took complete control in July 2008. Current Kaiser Permanente members began receiving notification of the purchase in March 2008. Moreno Valley residents will not feel the effects of the acquisition immediately, as Kaiser Permanente members were asked to continue using the nearby Riverside facility and the Moreno Valley Clinic for hospital services while the transition process is completed. Kaiser Permanente is planning to increase the size and capacity of the new hospital by adding a new 80+ patient tower and expanding the main facility, as well as increasing the size of the emergency and operating rooms.<ref>{{Cite web |url=http://www.pe.com/blcS.sc?search=Moreno+Valley+Community+Hospital&cat=all |title=Search &#124; PE.com &#124; Southern California News &#124; News for Inland Southern California |access-date=October 17, 2007 |archive-url=https://web.archive.org/web/20110520021216/http://www.pe.com/blcS.sc?search=Moreno+Valley+Community+Hospital&cat=all |archive-date=May 20, 2011 |url-status=dead  }}</ref><ref>{{Cite web |url=http://www.pe.com/localnews/morenovalley/stories/PE_News_Local_H_union12.3e8b1c9.html |title=Get behind hospital district proposal, union workers say &#124; Moreno Valley &#124; PE.com &#124; Southern California News &#124; News for Inland Southern California |access-date=October 17, 2007 |archive-url=https://web.archive.org/web/20110520021235/http://www.pe.com/localnews/morenovalley/stories/PE_News_Local_H_union12.3e8b1c9.html |archive-date=May 20, 2011 |url-status=dead  }}</ref><ref>{{Cite web |url=http://www.pe.com/localnews/inland/stories/PE_News_Local_H_kaiser02.41674bb.html |title=Hospital district approves sale of Moreno Valley facility to Kaiser &#124; Inland News &#124; PE.com &#124; Southern California News &#124; News for Inland Southern California |access-date=March 8, 2008 |archive-url=https://web.archive.org/web/20110520021918/http://www.pe.com/localnews/inland/stories/PE_News_Local_H_kaiser02.41674bb.html |archive-date=May 20, 2011 |url-status=dead  }}</ref>
+* Riverside County Regional Medical Center is a General Acute Care [[Hospital]] with Basic Emergency Services and a Level I [[Trauma center|Trauma Center]].
+
+==Public safety==
+Moreno Valley is served by its own regional station of the [[Riverside County Sheriff's Department]] for law enforcement. The sheriff's station is currently commanded by Sheriff's Captain Joel Ontiveros,<ref>{{cite web|url=http://www.riversidesheriff.org/stations/moval.asp|title=:: Sheriff-Coroner :: Riverside County, California|website=riversidesheriff.org}}</ref> who also functions as Moreno Valley's Chief of Police.
+
+The city of Moreno Valley contracts for fire and paramedic services with the Riverside County Fire Department through a cooperative agreement with [[California Department of Forestry and Fire Protection|CAL FIRE]].<ref>{{cite web|url=http://rvcfire.org/about-us/service-area|title=Service Area|website=rvcfire.org}}</ref> 7 paramedic engines and a truck company provide both fire and paramedic services to the city.
+
+[[American Medical Response]] is responsible for transports to emergency departments via paramedic ambulance.
+
+==Notable people==
+<!-- Do NOT add non-notable names.  Do NOT add names to bottom of list — follow alphabetical order.  Do NOT add names of groups — this is for individual people only.-->
+* [[Mark Contreras]]: Baseball outfielder
+* [[Da'Mon Cromartie-Smith]]: [[Safety (American and Canadian football position)|Safety]] for the [[Pittsburgh Steelers]], graduated from [[Rancho Verde High School]] in 2005
+* [https://salisbury.academia.edu/DouglasDeWItt Dr. Douglas M. DeWitt]: Associate Professor, Department Chair, Salisbury University, Maryland.<ref>{{cite web | url=https://www.salisbury.edu/faculty-and-staff/dmdewitt| title=Douglas DeWitt/ Associate Professor/chair/Education Leadership | website=[[Salisbury University]] }}</ref> Graduated from [[Moreno Valley High School (California)|Moreno Valley High School]] in 1976.  
+* [[Greg Dobbs]]: Third baseman for [[Philadelphia Phillies]] graduated from [[Canyon Springs High School (Moreno Valley, California)|Canyon Springs High School]] in 1996
+* [[Natalie Duran]]: Rock climber
+* [[Lindsay Ellingson]]: Model, graduated from [[Canyon Springs High School (Moreno Valley, California)|Canyon Springs High School]]
+* [[Becky G]]: Singer and actress,  partially lived in Moreno Valley
+* [[Andrew Garcia]]: Singer-songwriter
+* [[Elisabeth Harnois]]: American actress, attended Canyon Springs High School
+* [[Ray Haynes]]: Politician 
+* [[Sumaya Kazi]]: Award-winning Entrepreneur, graduated from Canyon Springs High School in 2000
+* [[Bobby Kielty]]: Professional baseball player with the [[Boston Red Sox]], graduated from Canyon Springs High School
+* [[Kawhi Leonard]]: Professional basketball player with the Los Angeles Clippers, attended Palm Middle School and [[Canyon Springs High School (Moreno Valley, California)|Canyon Springs High School]]
+* [[Bob Lynn]]: Politician
+* [[Ryan Madson]]: [[Washington Nationals]] pitcher, graduated from [[Valley View High School (Moreno Valley, California)|Valley View High School]] in 1998
+* [[Andre McGee]]: College basketball player for the [[University of Louisville]], (Jersey Number 33), graduated from Canyon Springs High School in 2005
+* [[Charlotte Morgan (softball player)|Charlotte Morgan]]: Softball player, played for the [[Alabama Crimson Tide]] and was drafted first overall in the 2010 National Pro Fastpitch Senior Draft
+* [https://commons.wikimedia.org/wiki/File:Maj_Gen_Leonard_A._Patrick.jpg Leonard A. Patrick]: Major General, United States Air Force,<ref>{{cite web | url=https://www.af.mil/About-Us/Biographies/Display/Article/108225/major-general-leonard-a-patrick/ | title=Major General Leonard A. Patrick }}</ref> operations Desert Shield and Desert Storm, Graduated from [[Moreno Valley High School (California)|Moreno Valley High School]] in 1977.
+* [[Ricky Ortiz (American football)|Rick Ortiz]], football player
+* [[Troy Percival]]: Former [[Los Angeles Angels of Anaheim|Anaheim Angels]] All-Star Pitcher, World Series Champion, attended [[Moreno Valley High School (Moreno Valley, California)|Moreno Valley High School]]
+* [[Ronald Powell]]: Professional football player, graduated from [[Rancho Verde High School]] in 2010
+* [[AJ Rafael]], Filipino-American singer-songwriter
+* [[D'Aundre Reed]]: 2011 NFL Draftee to the [[Minnesota Vikings]], graduated from [[Rancho Verde High School]] in 2006
+* [[Terrelle Smith]]: Fullback for [[Arizona Cardinals]] graduated from Canyon Springs High School in 1996 was also made the Pro Bowl
+* [[Tyron Smith]]: [[Dallas Cowboys]] offensive lineman, graduated from [[Rancho Verde High School]] in 2008
+* [[Michael Snaer]]: American [[college basketball]] player for [[Florida State University]], Graduated from [[Rancho Verde High School]] in 2009*
+* [[Michael Sorich]]: American actor, writer and director,<ref>{{cite web|url=https://www.youtube.com/watch?v=VWDZLZKPjGY |archive-url=https://ghostarchive.org/varchive/youtube/20211219/VWDZLZKPjGY |archive-date=December 19, 2021 |url-status=live|title=The Voices of Elsword - Part 1: Director Michael Sorich|website=[[YouTube]] |access-date=June 16, 2020}}{{cbignore}}</ref> a prominent and ever-present voice actor in the [[Power Rangers]] franchise,<ref>{{cite web | url=https://www.imdb.com/name/nm0815040/ | title=Michael Sorich | website=[[IMDb]] }}</ref> Graduated from [[Moreno Valley High School (California)|Moreno Valley High School]] in 1975.  
+* [[Kyle Turley]]: [[Kansas City Chiefs]] star graduated from [[Valley View High School (Moreno Valley, California)|Valley View High School]]
+* [[Derrick Ward]]: [[New York Giants]] running back graduated from [[Valley View High School (Moreno Valley, California)|Valley View High School]]
+* [[Beverly Yanez]]: Former American professional soccer forward and midfielder who played for [[Reign FC]] in the [[National Women's Soccer League]]. Raised in Moreno Valley and attended Moreno Valley High School in 2004.
+<!-- Do NOT add non-notable names.  Do NOT add names to bottom of list — follow alphabetical order.  Do NOT add names of groups — this is for individual people only.-->
+
+== Sister cities ==
+* {{flagdeco|Mexico}} [[San Juan de los Lagos]], Mexico<ref>{{cite web|url=https://moval.gov/news/news_23/021623-sister-city.html#:~:text=Moreno%20Valley%20and%20San%20Juan,local%20activist%20group%20Hispanos%20Unidos.|title=Moreno Valley Hosts Delegation from Sister City San Juan de Los Lagos}}</ref>
+
+==See also==
+{{Portal|Greater Los Angeles|California|United States}}
+*[[List of U.S. cities with large Hispanic populations]]
+
+==Reference==
+{{Reflist}}
+
+==External links==
+{{Commons category|Moreno Valley, California}}
+* {{Wikivoyage inline|Moreno Valley}}
+* {{Official website}}
+* [https://web.archive.org/web/20190824152058/http://www.movalchamber.org/ Moreno Valley Chamber of Commerce]
+* {{GNIS|248191|name=Moreno Valley}}
+
+{{Geographic location
+ | Centre = Moreno Valley
+ | North = ''[[Box Springs Mountains]]''
+ | Northeast = ''[[Box Springs Mountains]] ''
+ | East =''[[Box Springs Mountains]]''
+ | Southeast = ''[[Lake Perris]]''
+ | South = [[Perris, California|Perris]]
+ | Southwest = [[Perris, California|Perris]]
+ | West = [[March Joint Air Reserve Base]]
+ | Northwest = [[Riverside, California|Riverside]]
+ | image =
+}}
+
+{{Riverside County, California}}
+{{Inland Empire}}
+{{Greater Los Angeles Area}}
+{{Southern California megaregion}}
+{{authority control}}
+
+[[Category:Moreno Valley, California| ]]
+[[Category:Cities in Riverside County, California]]
+[[Category:Incorporated cities and towns in California]]
+[[Category:Populated places established in 1984]]
+[[Category:1984 establishments in California]]
+[[Category:Chicano and Mexican neighborhoods in California]]

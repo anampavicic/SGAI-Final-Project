@@ -1,0 +1,385 @@
+{{Short description|Component city in Negros Occidental, Philippines}}{{Not to be confused with|Cabancalan}}
+{{Use Philippine English|date=February 2023}}
+{{Use mdy dates|date=May 2021}}
+{{Infobox settlement
+| name               = {{PH wikidata|name}}
+| image_skyline      = Kabankalan City Cathedral, Negros Occidental.jpg
+| image_caption      = [[Kabankalan Cathedral|Saint Francis Xavier Cathedral Parish]]
+| image_flag         = Flag_of_Kabankalan,_Negros_Occidental.png
+| flag_size          = 120x80px
+| image_seal         = File:Kabankalan City seal.svg
+| seal_size          = 120x80px
+| image_map          = {{PH wikidata|image_map}}
+| map_caption        = {{PH wikidata|map_caption}}
+| image_map1         = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map        = Philippines
+| pushpin_label_position = left
+| pushpin_map_caption = Location within the {{PH wikidata|country}}
+| coordinates        = {{PH wikidata|coordinates}}
+| settlement_type    = {{PH wikidata|settlement_type}}
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = [[Philippines]]
+| subdivision_type1  = [[Regions of the Philippines|Region]]
+| subdivision_name1  = {{PH wikidata|region}}
+| subdivision_type2  = [[Provinces of the Philippines|Province]]
+| subdivision_name2  = {{PH wikidata|province}}
+| official_name      = {{PH wikidata|official_name}}
+| native_name        = 
+| etymology          = <!--origin of name-->
+| named_for          = [[Nauclea orientalis]] (locally called ''Bangkal'')
+| other_name         = 
+| nickname           = The Rising City of the South
+| motto              = 
+| anthem             = "Kabankalan, Halandumon nga Siyudad"
+| subdivision_type3  = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3  = {{PH legislative district}}
+| established_title  = [[Date of establishment|Founded]]
+| established_date   = March 14, 1907
+| established_title1 = Cityhood
+| established_date1  = August 2, 1997
+| parts_type         = [[Barangay]]s
+| parts_style        = para
+| p1                 = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title       = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name        = Benjie M. Miranda
+| leader_title1      = [[Vice Mayor]]
+| leader_name1       = Miguel M. Zayco
+| leader_title2      = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2       = [[Mercedes Alvarez (politician)|Mercedes K. Alvarez]]
+| leader_title3      = [[Sangguniang Panlungsod|City Council]]
+| leader_name3       = {{PH Town Council
+ | 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Roger M. Regalia
+ | 3=Jeanna Cordova-Genizera
+ | 4=Joestarr B. Bandojo
+ | 5=Adolfo T. Mangao Jr.
+ | 6=Macario Z. Zafra III
+ | 7=Jerzy M. Guanzon
+ | 8=Rey G. Cordero
+ | 9=Jose M. Dumaguete
+ | 10=Marie Vic Anacan-Ramos
+ | 11=Joan D. Cagape
+}}
+| leader_title4      = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4       = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type    = {{PH wikidata|government_type}}
+| government_footnotes = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m        = {{PH wikidata|elevation_m}}
+| elevation_max_m    = 1455
+| elevation_min_m    = 0
+| elevation_max_rank = 
+| elevation_min_rank = 
+| elevation_footnotes = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes = 
+| elevation_min_footnotes = 
+| area_footnotes     = {{PH area}}
+| area_total_km2     = {{PH wikidata|area}}
+| population_footnotes = 
+| population_total   = {{PH wikidata|population_total}}
+| population_as_of   = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title = [[Household]]s
+| population_blank1  = {{PH wikidata|household}}
+| population_blank2_title = 
+| population_blank2  = 
+| population_demonym = 
+| population_rank    = 
+| population_note    = 
+| timezone           = [[Philippine Standard Time|PST]]
+| utc_offset         = +8
+| postal_code_type   = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code        = {{PH wikidata|postal_code}}
+| postal2_code_type  = {{PSGCstyle}}
+| postal2_code       = {{PSGC detail}}
+| area_code_type     = {{areacodestyle}}
+| area_code          = {{PH wikidata|area_code}}
+| website            = {{PH wikidata|website}}
+| demographics_type1 = [[Economy of the Philippines|Economy]]
+| demographics1_title1 = {{PH wikidata|income_class_title}}
+| demographics1_info1 = {{PH wikidata|income_class}}
+| demographics1_title2 = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2 = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3 = [[Revenue]]
+| demographics1_info3 = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4 = Revenue rank
+| demographics1_info4 = 
+| demographics1_title5 = [[Asset]]s
+| demographics1_info5 = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6 = Assets rank
+| demographics1_info6 = 
+| demographics1_title7 = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7 = 
+| demographics1_title8 = IRA rank
+| demographics1_info8 = 
+| demographics1_title9 = [[Expenditure]]
+| demographics1_info9 = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10 = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10 = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2 = Service provider
+| demographics2_title1 = Electricity
+| demographics2_info1 = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2 = Water
+| demographics2_info2 = 
+| demographics2_title3 = Telecommunications
+| demographics2_info3 = 
+| demographics2_title4 = Cable TV
+| demographics2_info4 = 
+| demographics2_title5 = 
+| demographics2_info5 = 
+| demographics2_title6 = 
+| demographics2_info6 = 
+| demographics2_title7 = 
+| demographics2_info7 = 
+| demographics2_title8 = 
+| demographics2_info8 = 
+| demographics2_title9 = 
+| demographics2_info9 = 
+| demographics2_title10 = 
+| demographics2_info10 = 
+| blank_name_sec1    = {{PH wikidata|climate_title}}
+| blank_info_sec1    = {{PH wikidata|climate_type}}
+| blank1_name_sec1   = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1   = {{PH wikidata|language}}
+| blank2_name_sec1   = [[Crime index]]
+| blank2_info_sec1   = 
+| blank3_name_sec1   = 
+| blank3_info_sec1   = 
+| blank4_name_sec1   = 
+| blank4_info_sec1   = 
+| blank5_name_sec1   = 
+| blank5_info_sec1   = 
+| blank6_name_sec1   = 
+| blank6_info_sec1   = 
+| blank7_name_sec1   = 
+| blank7_info_sec1   = 
+| blank1_name_sec2   = Major religions
+| blank1_info_sec2   = 
+| blank2_name_sec2   = Feast date
+| blank2_info_sec2   = 
+| blank3_name_sec2   = Catholic diocese
+| blank3_info_sec2   = 
+| blank4_name_sec2   = Patron saint
+| blank4_info_sec2   = 
+| blank5_name_sec2   = 
+| blank5_info_sec2   = 
+| blank6_name_sec2   = 
+| blank6_info_sec2   = 
+| blank7_name_sec2   = 
+| blank7_info_sec2   = 
+| short_description  = 
+| footnotes          = 
+}}
+
+'''Kabankalan''', officially the '''City of Kabankalan'''  ({{langx|hil|Dakbanwa sang Kabankalan}}; {{langx|ceb|Dakbayan sa Kabankalan}}; {{langx|fil|Lungsod ng Kabankalan}}), is a 1st class [[Cities of the Philippines#Legal classification|component city]] in the [[Provinces of the Philippines|province]] of [[Negros Occidental]], [[Philippines]]. According to the 2020 census, it has a population of 200,198 people{{PH census|current}} making it the second most populous city in [[Negros Occidental]] next to [[Bacolod]]. The city is applying for a Highly Urbanized City (HUC).
+
+Kabankalan is also the second city with the highest gross and net income in Negros Occidental next to Bacolod. In terms of land area, Kabankalan City is the largest city in the province of Negros Occidental and is the second largest city in the entire [[Negros Island]] next to [[Bayawan]] of Negros Oriental with a total area of 697.35 square kilometers.
+
+The city hosts three major festivals: the ''Kabankalan [[Sinulog]]'' every third Sunday of January (celebrated together with [[Cebu City]]), ''Udyakan sa Kabankalan'' and the ''Charter Anniversary''. Kabankalan is also known for its ''Mag-aso Falls'' and the ''Balicaocao Resort''.  Also located in the city is the main campus of the [[Central Philippines State University]] (CPSU).
+
+Kabankalan City won the major award as the "Best Performing City" in [[Western Visayas|Region VI]] in the 2011 Regional Search for Excellence in Local Governance (EXCEL). The award was given during the Pagdayaw 2011 program held at the Iloilo Grand Hotel in December 2011.<ref>[http://archives.pia.gov.ph/?m=7&r=R06&id=56316&y=2011&mo=12 Kabankalan City is best performing city in WVisayas - PIA]</ref>
+
+==History==
+{{Unreferenced section|date=April 2024}}
+[[File:Landing Fields - Philippines - Negros Island - NARA - 68161338.jpg|thumb|left|Aerial view of Kabankalan, 1938]]
+
+According to historians, the first inhabitants of Kabankalan were people who came from neighboring towns. They derived the name Kabankalan from the word "bangkal" (''[[Nauclea orientalis]]''), a tree that is abundant in the place. The settlers established the Barangay form of government, with which every group has its own leader, called the Capitan.
+
+In 1566 the Christianization of the Island of Negros began with the foundation of the mission of Binalbagan (1575), Tanjay (1580) and Ilog (1584) by the Augustinian missionaries. In 1622, at the request of Bishop Pedro de Arce of Cebu, the Recollects came to evangelize Negros. The spiritual administration of Binalbagan including that of Kabankalan was ceded to them. When the mission of Ilog was turned over to the Jesuits, it had four towns, Ilog being the chief town. The next was Kabankalan which already appears in a document dated 1630 as the center of encomienda of Admiral Cristobal de Lugo y Montalvo. The third was either Jima or Sima. The fourth was probably Su-ay.<ref>(Cuesta, 1980)</ref> The Jesuits who served Kabankalan were Fr. Esteban Jayme. After the expulsion of the Jesuits from the Philippines in 1767, the Dominican missionaries came to continue the spiritual administration of Negros with Father Manuel Diez assigned in Kabankalan in 1769. During the Spanish regime, Spaniards taught the people the Spanish language and introduced to them the [[Roman Catholic]] religion.
+
+In 1830, the three Capitanes- Polito Moreno, Vicente Rojas and Mariano Vingal-petitioned the government to transfer their barangay located at the Hilabangan River towards the area of Orong and established a town. They elected a migrant from Tigbauan, Iloilo-Leocadio Tayum y Gregorio- their new head, who served for one year. In 1856, 500 commissaries and policeman of Governor Emilio Saravia stationed in the poblacion attacked the stronghold “made of trunk” of the local chief Manyabog at Carol-an who endured the Spanish artillery for a long time. They disbanded only when a stray bullet killed Manyabog. Seeing their leader killed, they set themselves on fire with their houses. The tribal suicide resulted in the deaths 300 of Manyabog's men, while seven died on the opposite side. Prior to the actual revolt in 1898, clandestine activities had already been in the offing, the leaders of the revolution such as [[Aniceto Lacson]] joining the Katipunan and others arming themselves. By mid-1896, arms were unloaded in Binicuil, Kabankalan for the hacienderos of Kabankalan, Ilog, Himamaylan, Su-ay and Cauayan but they refrained to join the revolt knowing that they were not prepared and had no confidence in victory. It was not until November 7, 1898, that Kabankalan took up arms after Bacolod was taken over from the Spanish authorities. The Cantonal [[Republic of Negros]] was declared on November 5, 1898.
+
+[[File:KabankalanCityGovernmentCenter.jpg|thumb|left|Kabankalan City Government Center (City Hall)]]
+When the Americans came, they introduced a [[democracy|democratic]] form of government. During this time, a lot of improvements came to the town and new modern techniques of farming were introduced by the Americans to the local farmers that improved their products. On April 2, 1903, the Philippine Commission passed Act No. 716 reducing the 34 municipalities of the Province of Negros Occidental to 21 whereby the municipality of Cavancalan was merged to Ilog. On March 14, 1907, Philippine Commission passed Act. No. 1612 increasing the number of municipalities in Negros Occidental from 21 to 22 by separating from Ilog the former municipality of Cavancalan and reconstituting the same under the name Kabankalan. In mid-1907, a group of rebels called "[[Pulahan]]es" led by Papa Isio, raided the town and burned down all the houses. However, the people of Kabankalan quickly recovered and rebuilt the town from the destruction caused by the dissidents. [[Lorenzo Zayco]] was elected Municipal President in a special election and took his oath of office, along with other elected officials on January 2, 1908. Pre War-Kabankalan saw the emerging development of the sugar industry. Sugar mills were put up in Hacienda Bearin and Hacienda San Isidro.
+
+[[File:KabankalanCityLionsArch.jpg|thumb|Kabankalan Lion's Arch]]
+During the Second World War, Kabankalan was made a garrison town by Japanese Imperial Forces. Sugar mills were destroyed, school buildings were demolished and houses razed to ground. During this time, a recognized guerrilla unit and the local troops of the [[Philippine Commonwealth Army]] were formed to oppose the foreign aggression and many people fled to the mountains to avoid Japanese military abuse. When the Americans returned to the island to aid Filipino soldiers under the Commonwealth Army and Constabulary, and the recognized guerrillas, they helped the people be freed from Japanese occupation. Post war era concentrated on rehabilitation efforts that saw the establishment of two Sugar Mills-Dacongcogon and SONEDCO-placing Kabankalan at the crossroad of agro industrial development and setting the ground as a hub of business and trade in southern Negros. With the growth of the sugar industry, banks and other financial institutions and commercial establishments put up branches and offices in Kabankalan. The establishment of two sugar mills in the 1960s and early 1970s gave the town a boost into the list of the top improving towns of Negros.
+
+===Cityhood===
+{{main|Cities of the Philippines}}
+The town of Kabankalan was declared by then President [[Fidel V. Ramos]] as a chartered city on August 2, 1997, under Republic Act No. 8297.
+
+==Geography==
+[[File:Mag-asoFallsKabankalanNegrosOcc.jpg|thumb|Mag-aso Falls, Kabankalan, Negros Occidental]]
+Kabankalan occupies the central portion of the Southern [[Negros Island]] and its geographically located at 10° north and 122° east. It is bounded on the north by the [[Himamaylan]], on the northwest by [[Panay Gulf]], on the southwest by the [[Ilog, Negros Occidental|municipality of Ilog]] and on the southeast by the province of [[Negros Oriental]]. It is {{convert|88|km}} away from Bacolod City, {{convert|127|km}} from Dumaguete, and {{convert|99|km}} from the southernmost town of [[Hinoba-an]]. With an area of 697.95 square kilometers, it is the largest city in Negros Occidental and the second largest in the whole Negros Island, after [[Bayawan]] (which has an area of 699.08 square kilometers).
+
+===Climate===
+{{Weather box
+| location = Kabankalan
+| width = auto
+| metric first = Yes
+| single line = Yes
+| Jan high C = 30
+| Jan low C = 22
+| Feb high C = 31
+| Feb low C = 22
+| Mar high C = 32
+| Mar low C = 22
+| Apr high C = 33
+| Apr low C = 24
+| May high C = 32
+| May low C = 25
+| Jun high C = 30
+| Jun low C = 25
+| Jul high C = 29
+| Jul low C = 25
+| Aug high C = 29
+| Aug low C = 24
+| Sep high C = 29
+| Sep low C = 24
+| Oct high C = 29
+| Oct low C = 24
+| Nov high C = 30
+| Nov low C = 23
+| Dec high C = 30
+| Dec low C = 23
+| Jan precipitation mm = 38
+| Feb precipitation mm = 29
+| Mar precipitation mm = 55
+| Apr precipitation mm = 65
+| May precipitation mm = 141
+| Jun precipitation mm = 210
+| Jul precipitation mm = 212
+| Aug precipitation mm = 176
+| Sep precipitation mm = 180
+| Oct precipitation mm = 180
+| Nov precipitation mm = 130
+| Dec precipitation mm = 70
+| Jan rain days = 9.0
+| Feb rain days = 7.2
+| Mar rain days = 11.1
+| Apr rain days = 13.5
+| May rain days = 25.6
+| Jun rain days = 28.4
+| Jul rain days = 28.9
+| Aug rain days = 27.3
+| Sep rain days = 26.9
+| Oct rain days = 27.7
+| Nov rain days = 21.8
+| Dec rain days = 13.8
+| source 1 = Meteoblue<ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/kabankalan_philippines_1709968
+| title =  Kabankalan: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| access-date = May 7, 2020 }}</ref>
+| date = May 7, 2020
+}}
+
+Under the [[Climate of the Philippines#Climate types|Coronas climate classification system]], Kabankalan falls under Type III. Dry season is from December to May, while the rainy season is from June to November. Average temperature is 26°C (80°F).
+
+{{clear left}}
+
+===Barangays===
+Kabankalan City is politically subdivided into 32 [[barangays]]. Each barangay consists of [[purok]]s and some have [[sitios]].
+{{Div col|colwidth=15em}}
+* Bantayan
+* Binicuil
+* Camansi
+* Camingawan
+* Camugao
+* Carol-an
+* Daan Banua
+* Hilamonan
+* Inapoy
+* Linao
+* Locotan
+* Magballo
+* Oringao
+* Orong
+* Pinaguinpinan
+* Barangay 5 ([[Poblacion]])
+* Barangay 6 ([[Poblacion]])
+* Barangay 7 ([[Poblacion]])
+* Barangay 8 ([[Poblacion]])
+* Barangay 9 ([[Poblacion]])
+* Barangay 1 ([[Poblacion]])
+* Barangay 2 ([[Poblacion]])
+* Barangay 3 ([[Poblacion]])
+* Barangay 4 ([[Poblacion]])
+* Salong
+* Tabugon
+* Tagoc
+* Tagukon
+* Talubangi
+* Tampalon
+* Tan-Awan
+* Tapi
+{{div col end}}
+
+==Demographics==
+{{Philippine Census 
+| align= left
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+[[File:KabankalanAerialCathedral.jpg|thumb|right|300px|Aerial view of the city, with the [[Kabankalan Cathedral]] in the center.]]
+Major languages are [[Hiligaynon language|Hiligaynon]], followed by [[Cebuano language|Cebuano]] (both of those languages are used interchangeably in to day-to-day activities) with [[Philippine English|English]] and [[Filipino language|Filipino]] being used as second languages.
+
+The city is the only place where the [[Karolanos language|Karol-an language]] is used. Due to its geographical area of usage, the Karol-an language is classified as a vulnerable language, making its conservation a top priority, as it is vital to the culture and arts of Kabankalan natives.
+
+Kabankalan City, along with the cities of Sipalay, Escalante, Cadiz, Sagay and San Carlos and the municipalities of Hinoba-an, Don Salvador Benedicto, La Castellana, Moises Padilla, Toboso and Calatrava, are the only places in Negros Occidental who are bilingual speakers, as the people in those areas can speak and understand both Cebuano (Bisaya) and Hiligaynon (Ilonggo) at the same time, due to the influx of Cebuano-speaking settlers in those areas.
+
+{{clear left}}
+
+== Economy ==
+{{PH poverty incidence}}
+
+== Infrastracture ==
+
+=== Transportation ===
+Kabankalan is over an hour's drive south of Bacolod City by car. Public utility vehicles reach the place in about two hours. The city, which serves as the hub of economic activities in southern Negros, is also the take-off point for various destinations down south, and links the province to [[Dumaguete]], the capital of [[Negros Oriental]], via the [[Bais–Kabankalan Road|Kabankalan-Mabinay Highway]].
+
+Currently under construction, the [[Kabankalan City Domestic Airport]], once opened, will be the second active airport in the province (after the [[Bacolod-Silay International Airport]]).<ref>{{cite news |last1=Bayoran |first1=Gilbert |date=January 20, 2014 |title=Zayco: Kabankalan airport work still on |url=http://www.visayandailystar.com/2014/January/20/topstory3.htm |access-date=November 25, 2015 |publisher=The Daily Star}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{commonscat-inline}}
+{{Wikivoyage}}
+*[https://web.archive.org/web/20051017094634/http://www.kabankalancity.gov.ph/ Kabankalan City Official Website]
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+*[http://psa.gov.ph/content/highlights-philippine-population-2015-census-population Philippine Statistics Authority]
+*[https://web.archive.org/web/20131004104825/http://census.gov.ph/ Philippine Census Information]
+*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=9&frmIdProvince=55&frmIdLgu=976 Local Governance Performance Management System]
+
+{{Geographic location
+| Centre    = Kabankalan
+| North     = ''[[Panay Gulf]]''
+| Northeast = [[Himamaylan]]
+| East      = [[Ayungon, Negros Oriental]]
+| Southeast = [[Mabinay, Negros Oriental]]
+| South     = [[Bayawan, Negros Oriental]]
+| West      = [[Ilog, Negros Occidental|Ilog]]
+}}
+{{Navboxes
+| title = Articles Related to Kabankalan
+| list  =
+{{Negros Occidental}}
+{{Western Visayas}}
+{{Philippine cities}}
+}}
+
+{{Authority control}}
+
+[[Category:Cities in Negros Occidental]]
+[[Category:Populated places established in 1907]]
+[[Category:1907 establishments in the Philippines]]
+[[Category:Component cities in the Philippines]]

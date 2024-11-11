@@ -1,0 +1,503 @@
+{{Short description|Municipality in Rizal, Philippines}}
+{{More citations needed|date=March 2013}}
+{{Infobox settlement
+| name               = {{PH wikidata|name}}
+| image_skyline      = Tanay, Rizal Municipal Hall.jpg
+| image_caption      = Tanay Municipal Hall
+| image_flag         = Flag of Tanay, Rizal.png
+| flag_size          = 120x80px
+| image_seal         = Tanay Rizal.png
+| seal_size          = 100x80px
+| image_map          = {{PH wikidata|image_map}}
+| map_caption        = {{PH wikidata|map_caption}}
+| image_map1         = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map        = Philippines
+| pushpin_label_position = left
+| pushpin_map_caption = Location within the {{PH wikidata|country}}
+| coordinates        = {{PH wikidata|coordinates}}
+| settlement_type    = {{PH wikidata|settlement_type}}
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = [[Philippines]]
+| subdivision_type1  = [[Regions of the Philippines|Region]]
+| subdivision_name1  = {{PH wikidata|region}}
+| subdivision_type2  = [[Provinces of the Philippines|Province]]
+| subdivision_name2  = {{PH wikidata|province}}
+| official_name      = {{PH wikidata|official_name}}
+| etymology          = <!--origin of name-->
+| named_for          = <!--named after (if person or place)-->"Monte de Tan-ay"
+| native_name        = 
+| other_name         = 
+| nickname           = ''Tourism Capital of Rizal''
+| motto              = 
+| anthem             = Tanay Dakila ka
+| subdivision_type3  = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3  = {{PH legislative district}}
+| established_title  = [[Date of establishment|Founded]]
+| established_date   = November 12, 1606<ref>{{cite web|url=http://tanay.gov.ph/for-visitors/tourist-information/2015-07-10-03-46-25/tanay-hane-festival |title=Tanay Hane Festival – Municipality of Tanay, Rizal |publisher=Tanay.gov.ph |date=2015-07-10 |access-date=2019-10-26}}</ref>
+| parts_type         = [[Barangay]]s
+| parts_style        = para
+| p1                 = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title       = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name        = Rafael A. Tanjuatco
+| leader_title1      = [[Vice Mayor]]
+| leader_name1       = Rex Manuel C. Tanjuatco
+| leader_title2      = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2       = Emigdio P. Tanjuatco III
+| leader_title3      = [[Sangguniang Bayan|Municipal Council]]
+| leader_name3       = {{PH Town Council
+| 1 = 
+ | 2=Allan T. Sacramento
+ | 3=Ivan Allen B. Tongohan
+ | 4=Angelo S. Pitoral
+ | 5=Enrique S. Vergel de Dios III
+ | 6=Paula B. de Guzman
+ | 7=Romel A. Magwili
+ | 8=Nelson M. Ocampo
+ | 9=Aaron R. Guerrero
+}}
+| leader_title4      = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4       = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type    = {{PH wikidata|government_type}}
+| government_footnotes = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m        = {{PH wikidata|elevation_m}}
+| elevation_max_m    = 1467
+| elevation_min_m    = 1
+| elevation_max_rank = 
+| elevation_min_rank = 
+| elevation_footnotes = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes = 
+| elevation_min_footnotes = 
+| area_rank          = 
+| area_footnotes     = {{PH area}}
+| area_total_km2     = {{PH wikidata|area}}
+| population_footnotes = {{PH census|current}}
+| population_total   = {{PH wikidata|population_total}}
+| population_as_of   = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title = [[Household]]s
+| population_blank1  = {{PH wikidata|household}}
+| population_blank2_title = 
+| population_blank2  = 
+| population_demonym = 
+| population_rank    = 
+| population_note    = 
+| timezone           = [[Philippine Standard Time|PST]]
+| utc_offset         = +8
+| postal_code_type   = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code        = {{PH wikidata|postal_code}}
+| postal2_code_type  = {{PSGCstyle}}
+| postal2_code       = {{PSGC detail}}
+| area_code_type     = {{areacodestyle}}
+| area_code          = {{PH wikidata|area_code}}
+| website            = {{PH wikidata|website}}
+| demographics_type1 = [[Economy of the Philippines|Economy]]
+| demographics1_title1 = {{PH wikidata|income_class_title}}
+| demographics1_info1 = {{PH wikidata|income_class}}
+| demographics1_title2 = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2 = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3 = [[Revenue]]
+| demographics1_info3 = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4 = Revenue rank
+| demographics1_info4 = 
+| demographics1_title5 = [[Asset]]s
+| demographics1_info5 = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6 = Assets rank
+| demographics1_info6 = 
+| demographics1_title7 = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7 = 
+| demographics1_title8 = IRA rank
+| demographics1_info8 = 
+| demographics1_title9 = [[Expenditure]]
+| demographics1_info9 = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10 = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10 = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2 = Service provider
+| demographics2_title1 = Electricity
+| demographics2_info1 = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2 = Water
+| demographics2_info2 = [[Tanay Water District]]
+| demographics2_title3 = Telecommunications
+| demographics2_info3 = 
+| demographics2_title4 = Cable TV
+| demographics2_info4 = 
+| demographics2_title5 = 
+| demographics2_info5 = 
+| demographics2_title6 = 
+| demographics2_info6 = 
+| demographics2_title7 = 
+| demographics2_info7 = 
+| demographics2_title8 = 
+| demographics2_info8 = 
+| demographics2_title9 = 
+| demographics2_info9 = 
+| demographics2_title10 = 
+| demographics2_info10 = 
+| blank_name_sec1    = {{PH wikidata|climate_title}}
+| blank_info_sec1    = {{PH wikidata|climate_type}}
+| blank1_name_sec1   = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1   = {{PH wikidata|language}}
+| blank2_name_sec1   = [[Crime index]]
+| blank2_info_sec1   = 
+| blank3_name_sec1   = 
+| blank3_info_sec1   = 
+| blank4_name_sec1   = 
+| blank4_info_sec1   = 
+| blank5_name_sec1   = 
+| blank5_info_sec1   = 
+| blank6_name_sec1   = 
+| blank6_info_sec1   = 
+| blank7_name_sec1   = 
+| blank7_info_sec1   = 
+| blank1_name_sec2   = Major religions
+| blank1_info_sec2   = Roman Catholicism
+| blank2_name_sec2   = Feast date
+| blank2_info_sec2   = January 22–24 – Tanay Town Fiesta
+October 28 – Barangay Sampaloc Fiesta
+November – Tanay Hane Festival
+| blank3_name_sec2   = Catholic diocese
+| blank3_info_sec2   = [[Diocese of Antipolo]]
+| blank4_name_sec2   = Patron saint
+| blank4_info_sec2   = [[Ildephonsus of Toledo]]
+[[Our Lady of Guadalupe]] – (Town Proper),
+
+[[Feast of the Cross|Holy Cross]] – (Barangay Tandang Kutyo),
+
+[[Jude the Apostle]] – (Barangay Sampaloc), and
+
+[[Holy Family]] – (Barangay Cuyambay)
+| blank5_name_sec2   = 
+| blank5_info_sec2   = 
+| blank6_name_sec2   = 
+| blank6_info_sec2   = 
+| blank7_name_sec2   = 
+| blank7_info_sec2   = 
+| short_description  = 
+| footnotes          = 
+}}
+
+'''Tanay''', officially the '''Municipality of Tanay''' ({{lang-fil|Bayan ng Tanay}} {{IPA|tl|tɐˈnaɪ|IPA}}), is a 1st class [[municipality of the Philippines|municipality]] in the [[Philippine Province|province]] of [[Rizal (province)|Rizal]], [[Philippines]]. According to the 2020 census, it has a population of 139,420 people.{{PH census|current}}
+
+Tanay is located {{convert|37|km}} from [[Antipolo]] and {{convert|54|km}} from [[Manila]]. It contains portions of the [[Sierra Madre (Philippines)|Sierra Madre]] Mountains and is bordered by [[Antipolo]] in the north-west, [[Baras, Rizal|Baras]], [[Morong, Rizal|Morong]] and [[Teresa, Rizal|Teresa]] in the west, [[General Nakar]] ([[Quezon]] Province) in the east, and [[Pililla, Rizal|Pililla]], [[Santa Maria, Laguna|Santa Maria]] ([[Laguna province]]) as well as the lake [[Laguna de Bay]] in the south.
+
+It is the epicenter of the Tanay Tagalog dialect, which has the deepest modern Tagalog words in the Tagalog language and is the only endangered Tagalog dialect.
+
+== History ==
+[[File:Tanay Church jmvb.jpg|left|thumb|San Ildefonso de Toledo Church.]]
+[[File:Rizal Shrine adjacent to the San Ildefonso de Toledo Church.jpg|thumb|left|Rizal Shrine near the San Ildefonso de Toledo Church.]]
+Tanay was settled by early Austronesian people.  Shortly after the [[History of the Philippines (1521–1898)|conquest and subjugation]] of Manila by the Spaniards and the surrounding lake areas by [[Juan de Salcedo]] in 1570–1574, Franciscan missionaries arrived to Christianize the inhabitants of what is now the Morong-Pililla area.  In 1583, both Morong and Pililla were created as separate towns with Tanay forming part of Pililla.
+
+Tanay was founded as a separate ''pueblo'' (town) in 1606 under the name "Monte de Tan-ay".  In 1620, administration was moved to San Antonio (now called Inalsan or Pantay) and Tandang Kutyo.  In 1638, the town was burned during an uprising of Chinese living in the area, and the town was rebuilt in 1640 at the present day location.<ref>{{cite web |url=http://tanay.gov.ph/profile.htm |title=Municipality of Tanay, Its Profile<!-- Bot generated title --> |access-date=2007-06-20 |archive-url=https://web.archive.org/web/20070322220748/http://www.tanay.gov.ph/profile.htm |archive-date=2007-03-22 |url-status=dead }}</ref>
+
+In 1747, the town of Tanay consisted of only eight ''barangays'', namely Nuestra Senora del Rosario, Sa Josep, San Ildefonso de Tanay, San Francisco de Maytubig, San Pedro de Alcantara, San Lucas y San Antonio, San Apostol, and San Agustin de Balugbog.
+
+In 1853, a new political subdivision was formed. The town of Tanay together with Morong, Baras, Pililla, Angono, Binangonan and Jalajala form the Province of La Laguna, with the capital at Morong. This district was later changed to Distrito Politico-Militar de Morong after four years.
+
+Tanay became a Municipality in 1894 as an effect of the Spanish [[Maura Law]]. The first election of Public Office took place in 1895–1898 and 1898–1900 under the [[Revolutionary Government of the Philippines]].
+
+Tanay members of the Katipunan fought valiantly during the Revolution against Spain.  The town was the headquarters of the second military area of the Philippine Revolutionary Government under [[General Emilio Aguinaldo]]. And for a brief period between 1899 and 1900, Tanay served as the capital of the then Morong Province after [[Philippine–American War]] broke out and the American forces invaded the lake towns and captured [[Antipolo]].<ref>{{cite web |url=http://tanay.gov.ph/profile.htm#history |title=Municipality of Tanay, Its Profile<!-- Bot generated title --> |access-date=2007-06-20 |archive-url=https://web.archive.org/web/20070322220748/http://www.tanay.gov.ph/profile.htm#history#history |archive-date=2007-03-22 |url-status=dead }}</ref>
+
+In 1900–1901, Tanay as was under the Government appointed by the [[Military of the United States|American Military]] under [[Taft Commission]]. From 1903 to 1934 the town leadership was under the [[United States of America|American]] rule then in 1934 Tanay was under the [[Commonwealth of the Philippines]] as the [[Tydings–McDuffie Act]] was approved on March 24, 1934, until the Philippines fell to the hands of the [[Empire of Japan|Japanese]] during the Second World War in 1942.
+
+In 1942–1945 the Mountains of Tanay served as the [[Guerrilla warfare|Guerrilla]] base for 'Marking's Fil-American Guerrillas, beginning the Liberation of Tanay in March 1945 a very decorated by the Filipino soldiers of the [[4th Infantry Division (Philippines)|4th]] and 42nd Division of the Philippine Commonwealth Army, 4th Constabulary Regiment of the Philippine Constabulary and the recognized guerrillas against the Japanese occupation forces during World War II. General Agustin Marking is buried in a private cemetery by the road overlooking his son's farm in Sampaloc.
+
+On June 19, 1959, Republic Act No. 2336, also known as "An Act Establishing a Summer Resort in Sampaloc, Municipality of Tanay, Province of Rizal" was approved whereas there is hereby established a summer resort in Sampaloc. The Commission on Parks and Wildlife shall issue such rules and regulations for the establishment of such resort is taken place.
+
+In October 2003, deposed Philippine president [[Joseph Estrada]] was transferred to a rest home in Sampaloc, a mountain barangay. He remained under [[house arrest]] until he was given executive [[clemency]] by [[President of the Philippines|President]] [[Gloria Macapagal Arroyo]].
+
+During the [[Typhoon Ketsana]] (Ondoy) on September 26, 2009, Tanay was one of the hardest hit towns due to the rising of Laguna Lake and the flooding of Tanay River.
+
+== Geography ==
+=== Barangays ===
+{{stack|float=right|[[File:Tanay, Rizal Political Map.png|thumb|500x500px|Political subdivisions]]}}
+Tanay is politically subdivided into 20 [[barangay]]s (10 urban, 10 rural).{{PSGC detail|area}} Each barangay consists of [[purok]]s and some have [[sitios]].
+
+[[File:Outcrop of dolomitized limestone olistolith, Rizal, Philippines (closer view).jpg|thumb|right|Limestone outcrop somewhere in barangay Cuyambay]]
+
+[[File:Tanay Park - April 2022.jpg|thumb|right|Tanay Park near the San Ildefonso de Toledo Church]]
+{{columns-list|colwidth=30em|
+*Cayabu
+*Cuyambay
+*Daraitan
+*Katipunan-Bayani ([[Poblacion|Pob.]])
+*Kay Buto ([[Poblacion]])
+*Laiban
+*Mag-Ampon ([[Poblacion]])
+*Mamuyao
+*Madilay-dilay<ref>{{cite news|url=https://news.mb.com.ph/2018/07/30/tanay-now-has-20-barangays/ |title=Tanay now has 20 barangays|work=Manila Bulletin|access-date=2019-10-26}}</ref>
+*Pinagkamaligan ([[Poblacion]])
+*Plaza Aldea ([[Poblacion]])
+*Sampaloc
+*San Andres<ref>{{cite news |url=http://www.mcgi.org/en/news/1010041531/ |title=MCGI to March for Greener Environment – Members Church of God International (MCGI) – Official Web Site |access-date=2010-10-11 |archive-url=https://web.archive.org/web/20101009103335/http://www.mcgi.org/en/news/1010041531/ |archive-date=2010-10-09 |url-status=dead }}</ref><ref>{{cite news |url=http://www.untvweb.com/news/newscontent.aspx?article=1940 |title=UNTVWEB.COM – Programang Ang Dating Daan, ipagdiriwang ang 30th anniversary sa Oct. 10 |access-date=2010-10-11 |archive-url=https://web.archive.org/web/20101011080122/http://www.untvweb.com/news/newscontent.aspx?article=1940 |archive-date=2010-10-11 |url-status=dead }}</ref>
+*San Isidro ([[Poblacion]])
+*Santa Inez
+*Santo Niño
+*Tabing Ilog ([[Poblacion]])
+*Tandang Kutyo ([[Poblacion]])
+*Tinucan
+*Wawa ([[Poblacion]])
+}}
+
+=== Climate ===
+{{Weather box
+| location     = Tanay (1999–2020, extremes 2000–2023)
+| width        = auto
+| single line  = Y
+| metric first = Y
+| Jan record high C = 28.1
+| Feb record high C = 29.5
+| Mar record high C = 31.0
+| Apr record high C = 32.5
+| May record high C = 34.0
+| Jun record high C = 32.0
+| Jul record high C = 31.5
+| Aug record high C = 31.0
+| Sep record high C = 30.6
+| Oct record high C = 30.1
+| Nov record high C = 29.0
+| Dec record high C = 28.5
+|year record high C = 34.0
+| Jan high C = 24.1
+| Feb high C = 24.8
+| Mar high C = 26.3
+| Apr high C = 28.4
+| May high C = 28.9
+| Jun high C = 27.8
+| Jul high C = 26.6
+| Aug high C = 26.0
+| Sep high C = 26.4
+| Oct high C = 26.3
+| Nov high C = 25.6
+| Dec high C = 24.4
+|year high C = 26.3
+| Jan mean C = 21.3
+| Feb mean C = 21.7
+| Mar mean C = 22.8
+| Apr mean C = 24.5
+| May mean C = 25.1
+| Jun mean C = 24.5
+| Jul mean C = 23.6
+| Aug mean C = 23.2
+| Sep mean C = 23.5
+| Oct mean C = 23.4
+| Nov mean C = 22.8
+| Dec mean C = 21.9
+|year mean C = 23.2
+| Jan low C = 18.5
+| Feb low C = 18.5
+| Mar low C = 19.3
+| Apr low C = 20.6
+| May low C = 21.3
+| Jun low C = 21.2
+| Jul low C = 20.6
+| Aug low C = 20.5
+| Sep low C = 20.6
+| Oct low C = 20.4
+| Nov low C = 19.9
+| Dec low C = 19.4
+|year low C = 20.1
+| Jan record low C = 14.8
+| Feb record low C = 13.0
+| Mar record low C = 13.0
+| Apr record low C = 16.0
+| May record low C = 15.5
+| Jun record low C = 15.0
+| Jul record low C = 16.0
+| Aug record low C = 13.5
+| Sep record low C = 15.0
+| Oct record low C = 15.0
+| Nov record low C = 15.0
+| Dec record low C = 13.5
+|year record low C = 13.0
+| rain colour = green
+| Jan rain mm = 73.4
+| Feb rain mm = 58.3
+| Mar rain mm = 41.6
+| Apr rain mm = 37.6
+| May rain mm = 186.5
+| Jun rain mm = 255.6
+| Jul rain mm = 450.9
+| Aug rain mm = 464.1
+| Sep rain mm = 448.1
+| Oct rain mm = 283.3
+| Nov rain mm = 247.7
+| Dec rain mm = 247.0
+|year rain mm = 2794.1
+| unit rain days = 1 mm
+| Jan rain days = 9
+| Feb rain days = 7
+| Mar rain days = 6
+| Apr rain days = 5
+| May rain days = 11
+| Jun rain days = 16
+| Jul rain days = 20
+| Aug rain days = 21
+| Sep rain days = 19
+| Oct rain days = 17
+| Nov rain days = 16
+| Dec rain days = 15
+|year rain days = 162
+| Jan humidity = 89
+| Feb humidity = 88
+| Mar humidity = 86
+| Apr humidity = 83
+| May humidity = 86
+| Jun humidity = 90
+| Jul humidity = 92
+| Aug humidity = 93
+| Sep humidity = 92
+| Oct humidity = 90
+| Nov humidity = 90
+| Dec humidity = 91
+|year humidity = 89
+| source 1 = [[Philippine Atmospheric, Geophysical and Astronomical Services Administration|PAGASA]]<ref name=PAGASAnormals>{{cite web
+| archive-url = https://web.archive.org/web/20181018215022/https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20NORMALS%20%281991-2020%29/TANAY.pdf
+| archive-date = 18 October 2018
+| url = https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20NORMALS%20%281991-2020%29/TANAY.pdf
+| title = Tanay, Rizal Climatological Normal Values
+| publisher = Philippine Atmospheric, Geophysical and Astronomical Services Administration
+| access-date = 18 October 2018}}</ref><ref name=PAGASAextremes>{{cite web
+| archive-url = https://web.archive.org/web/20181018215058/https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20EXTREMES%20%28as%20of%202023%29/Tayabas.pdf
+| archive-date = 18 October 2018
+| url = https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20EXTREMES%20%28as%20of%202023%29/Tayabas.pdf
+| title = Tanay, Rizal Climatological Extremes
+| publisher = Philippine Atmospheric, Geophysical and Astronomical Services Administration
+| access-date = 18 October 2018}}</ref>
+}}
+
+== Demographics ==
+{{Philippine Census
+| align= none
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}}
+}}
+In the 2020 census, the population of Tanay, Rizal, was 139,420 people,{{PH census|current}} with a density of {{convert|{{sigfig|139,420/200.00|2}}|PD/km2|disp=or}}.
+
+The majority of the population consists of Tagalogs who live near Laguna de Bay, though there is also a significant percentage of mountain-dwelling people living in the northern portions of the municipality. The town's major trades consist of fishing, agriculture and regional commerce.
+
+The roots of the [[Sambalic languages]] can be traced back to Tanay, where the etymologically similar Sinuana or [[Remontado Agta language|Remontado Dumagat]] is still spoken in villages in the Sierra Madre mountains between Sampaloc and General Nakar, Quezon.<ref>[http://ncca.gov.ph/about-culture-and-arts/culture-profile/sambal/ About Culture and Arts<!-- Bot generated title -->]</ref>
+
+== Economy ==
+Tanay’s economy has been boosted by its natural resources and nature’s allure. There are various activities to try in Tanay, Rizal. There are adventure camps, glamping campsite, staycation sites, cafe and restaurants with beautiful sceneries, and aesthetic photography sites. To mention some of them, here are the Different Tourist Spots in Tanay:
+
+# Regina Rica – most Filipinos are Catholics, and this place is one of the best places to go if one want to appreciate the Mother Mary statue and different activities like candle-lighting and pilgrim sites. Most visitors find the place worth the visit and emotional.<ref>{{Cite web |title=REGINA RICA: All You Need to Know BEFORE You Go (with Photos) |url=https://www.tripadvisor.com.ph/Attraction_Review-g2336235-d4040573-Reviews-Regina_Rica-Tanay_Rizal_Province_Calabarzon_Region_Luzon.html |access-date=2023-11-03 |website=Tripadvisor |language=en}}</ref>
+# Mount Daraitan and Tinipak River – this tourist spot is for the adventurous ones who love to trek and hike. The place is also for the nature-wanderers because it features clean waters and majestic sceneries.<ref>{{Cite web |title=MOUNT DARAITAN & TINIPAK RIVER: All You Need to Know BEFORE You Go (with Photos) |url=https://www.tripadvisor.com.ph/Attraction_Review-g2336235-d6899070-Reviews-Mount_Daraitan_Tinipak_River-Tanay_Rizal_Province_Calabarzon_Region_Luzon.html |access-date=2023-11-03 |website=Tripadvisor |language=en}}</ref>
+# Treasure Mountain – it is a spot to appreciate the Sierra Madre Mountain Range and with the right-timing the famous Sea of Clouds of Tanay. To top it all up, visitors don’t need to hike to go here. Tents may also be used here for overnight glamping.<ref>{{Cite web |last=Travel |first=Klook |title=Where To Go in Tanay, Rizal: 13 Secret Spots You Need To Check Out – Klook Travel Blog |url=https://www.klook.com/en-PH/blog/where-to-go-in-tanay-rizal/ |access-date=2023-11-03 |website=www.klook.com |language=en-PH}}</ref>
+# Ridges and Clouds Nature Camp – with the right-timing during sunrise, the ridges here can also be seen with a blanket of clouds. This is a perfect place to reflect and reconnect to nature but not for work-away-from-home because there is no mobile data or WIFI signal here.<ref>{{Cite web |last=Travel |first=Klook |title=Where To Go in Tanay, Rizal: 13 Secret Spots You Need To Check Out – Klook Travel Blog |url=https://www.klook.com/en-PH/blog/where-to-go-in-tanay-rizal/ |access-date=2023-11-03 |website=www.klook.com |language=en-PH}}</ref>
+# Calinawan Cave – this is a historical place in Tanay where Filipinos take refuge during colonization in the past. Tanay is most commonly known for its mountain ranges but this spot is different. Calinawan Cave is for the adventurous tourists who also want to enjoy the waters.<ref>{{Cite web |date=2022-04-10 |title=Explore Tanay Rizal on your next vacation in Philippines |url=https://www.vacationhive.com/Philippines-tourist-destination-Tanay-vhwIuCI7aXja6q/ |access-date=2023-11-03 |website=Vacationhive |language=en-US}}</ref>
+{{PH poverty incidence}}
+
+== Government ==
+=== Local government ===
+{{Main|Sangguniang Bayan}}
+{| class="wikitable"
+|-
+!Position!!Name!!Political Party!!Gather Votes
+|-
+|Mayor
+|Rafael A. Tanjuatco
+|[[Partido Demokratiko Pilipino]]
+|27,400
+|-
+|Vice Mayor
+|Rex Manuel C. Tanjuatco
+|[[Partido Demokratiko Pilipino]]
+|23,992
+|-
+|Councilor
+|Allan Sacramento
+|[[Partido Demokratiko Pilipino]]
+|27,730
+|-
+|Councilor
+|Ivan Tongohan
+|[[Aksyon Demokratiko]]
+|24,223
+|-
+|Councilor
+|Gel Pitoral
+|[[Partido Federal ng Pilipinas]]
+|22,997
+|-
+|Councilor
+|Itchie Vergel De Dios
+|[[Partido Federal ng Pilipinas]]
+|22,459
+|-
+|Councilor
+|Lala De Guzman
+|[[Aksyon Demokratiko]]
+|22,091
+|-
+|Councilor
+|Rommel Magwili
+|[[Aksyon Demokratiko]]
+|21,067
+|-
+|Councilor
+|Bong Ocampo
+|[[Liberal Party (Philippines)|Liberal Party]]
+|20,773
+|-
+|Councilor
+|Aaron Guerrero
+|AKSYON
+|20,626
+|-
+|ABC Chairman
+|TBF
+|TBF
+|TBF
+|-
+|SK President
+|TBF
+|TBF
+|TBF
+|}
+The Municipal Council approved the P80+ million budget for the construction of the new municipal building of Tanay. The lending company will be the Landbank of the Philippines, Tanay Branch. Certain issues and debates from different sectors and influential names about the construction arose, and still now under public consultation and hearing.
+
+== Tanay Rodeo Festival ==
+To promote and market the town's cattle and agri-eco tourism not only within the municipality but also in the [[Calabarzon]] region, the Municipal Government of Tanay holds Tanay Rodeo every third week of January each year. The festival is also in line with the celebration of Tanay Town Fiesta. It is participated by professionals and rodeo enthusiasts, and veterinary/animal science students from renowned universities in the country.<ref>{{cite web|title = Tanay Rodeo Festival|url = http://tanay.gov.ph/for-visitors/tourist-information/2015-07-10-03-46-25/tanay-rodeo-festival|website = Municipal Government of Tanay, Rizal|access-date = 2016-02-12|first = Tanay|last = Tourism}}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Commons category}}
+*{{official website|http://tanay.gov.ph/}}
+*[https://www.philatlas.com/luzon/r04a/rizal/tanay.html Tanay Profile at PhilAtlas.com]
+*[http://www.tanaygeographic.com/ TanayGeographic.com: Contains images of Tanay, a phone directory, and other information] {{Webarchive|url=https://web.archive.org/web/20120430013259/http://www.tanaygeographic.com/ |date=2012-04-30 }}
+*[{{NSCB detail}} Philippine Standard Geographic Code]
+*[https://web.archive.org/web/20131004104825/http://census.gov.ph/ Philippine Census Information]
+*[https://web.archive.org/web/20160304060219/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=6&frmIdProvince=38&frmIdLgu=846 Local Governance Performance Management System]
+
+{{Geographic location
+| Centre    = Tanay
+| North     = [[Antipolo]]
+| East      = [[General Nakar]], [[Quezon]]
+| Southeast = [[Infanta, Quezon|Infanta]], [[Quezon]]
+| South     = [[Pililla, Rizal|Pililla]] / [[Santa Maria, Laguna|Santa Maria]], [[Laguna (province)|Laguna]]
+| Southwest = ''[[Laguna de Bay]]''
+| West      = [[Teresa, Rizal|Teresa]]<br />[[Morong, Rizal|Morong]]<br />[[Baras, Rizal|Baras]]
+}}
+{{Rizal}}
+{{Authority control}}
+
+[[Category:Municipalities of Rizal (province)]]
+[[Category:Populated places on Laguna de Bay]]

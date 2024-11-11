@@ -1,0 +1,1152 @@
+{{Short description|Island in the Mediterranean and region of Italy}}
+{{About|the region of Italy}}
+{{redirect|Sardegna|the ironclad battleship|Italian ironclad Sardegna}}
+{{Use dmy dates|date=July 2022}}
+{{Cleanup lang|date=August 2022}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| official_name      = Autonomous Region of Sardinia
+| native_name        = {{collapsible list
+  |titlestyle = background:transparent; text-align:center; font-size:9pt;
+  |liststyle = text-align:center;
+  |title = Native names
+
+  |1= {{native name|it|Sardegna}}
+  |2 = {{native name|sc|Sardigna}}{{efn|name=srd}}
+  |3 = {{native name|sdn|Saldigna}}
+  |4 = {{native name|ca|Sardenya}}
+  |5 = {{native name|lij|Sardegna}}
+  |6 = {{native name|sdc|Sardhigna}}
+  |7 = {{native name|co|Sardegna}}
+}}
+| native_name_lang   = 
+| settlement_type    = [[Autonomous regions with special statute|Autonomous region]]
+| image_skyline      = 
+| image_alt          = The island of Sardinia as seen from the International Space Station
+| image_caption      = 
+| image_flag         = Flag of Sardinia.svg
+| flag_alt           = The flag of Sardinia, shows a Saint George's Cross on a white field, surrounded by four black heads, known as the Moors
+| image_shield       = Sardegna-Stemma.svg
+| shield_size        = 60px
+| shield_alt         = Coat of arms of Sardinia, showing the same pattern as the flag
+| image_blank_emblem = 
+| blank_emblem_size  = 
+| blank_emblem_type  = 
+| blank_emblem_alt   = 
+| nickname           = 
+| motto              = 
+| anthem             = {{native phrase|sc|"[[Su patriotu sardu a sos feudatarios]]"|italics=off}}<br />({{Langx|en|"The Sardinian Patriot to the Lords"}})<br>{{center|[[File:Anthem of Sardegna - Su patriotu sardu a sos feudatarios.wav]]}}
+| image_map          = {{Switcher
+| [[File:Sardinia in Italy.svg|250px]] | Sardinia within Italy
+| [[File:E.U-Sardinia.png|250px]] | Location of Sardinia in Europe (green and dark grey) and Italy (green)
+| [[File:Sardegna, Italy.jpg|250px]] | The island of Sardinia as seen from the International Space Station
+}}
+| mapsize            = 
+| map_alt            = 
+| map_caption        = 
+| pushpin_map        = 
+| pushpin_label_position = 
+| pushpin_map_alt    = 
+| pushpin_mapsize    = 
+| pushpin_map_caption = 
+| coordinates        = {{Coord|40|N|9|E|region:IT-88_type:isle_scale:2500000_source:GNS|display=inline,title}}
+| coor_pinpoint      = 
+| coordinates_footnotes = 
+| subdivision_type   = Country
+| subdivision_name   = [[Italy]]
+| established_title  = 
+| founder            = 
+| named_for          = 
+| seat_type          = Capital
+| seat               = [[Cagliari]]
+| government_footnotes = 
+| government_type    = [[Regional Council of Sardinia|''Consiglio Regionale'']]
+| leader_party       = [[Five Star Movement|M5S]]
+| leader_title       = [[List of presidents of Sardinia|President]]
+| leader_name        = [[Alessandra Todde]]
+| leader_title1      = 
+| leader_name1       = 
+| total_type         = 
+| unit_pref          = 
+| area_magnitude     = 
+| area_footnotes     = 
+| area_total_km2     = 24,090
+| elevation_footnotes = 
+| elevation_max_m    = 
+| elevation_min_m    = 
+| population_footnotes = 
+| population_total   = 1,628,384
+| population_note    = <ref>{{cite web |url=http://demo.istat.it/bilmens2020gen/query.php?lingua=ita&Rip=S5&Reg=R20&Pro=P000&Com=&submit=Tavola |title=Statistiche demografiche ISTAT |website=demo.istat.it}}{{Dead link|date=June 2022 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| population_as_of   = 2020
+| population_density_km2 = auto
+| population_demonyms = {{Plain list|
+* {{Langx|en|Sardinian or Sard}}
+* {{Langx|it|Sardo}} (man)
+* {{Langx|it|Sarda}} (woman)
+* {{Langx|sc|Sardu}} (man)
+* {{Langx|sc|Sarda}} (woman)
+* {{Langx|ca|Sard}} (man)
+* {{Langx|ca|Sarda}} (woman)
+}}
+| population_blank1_title = Languages
+| population_blank1  = [[Italian language|Italian]] and [[Sardinian language|Sardinian]]
+| population_blank2_title = Minority languages
+| population_blank2  = {{Plain list|
+* [[Sassarese language|Sassarese]]
+* [[Gallurese language|Gallurese]]
+* [[Ligurian (Romance language)|Ligurian]] ([[Tabarchino]])
+* [[Catalan language|Catalan]] ([[Algherese dialect|Algherese]])
+* [[Corsican language|Corsican]] ([[Maddalena Archipelago|Maddalena]])
+}}
+| demographics_type1 = Citizenship
+| demographics1_footnotes = <ref>{{cite web |url=http://demo.istat.it/str2018/index.html|title=Statistiche demografiche ISTAT |publisher=Demo.istat.it |access-date=26 July 2019 |archive-date=6 August 2017|archive-url=https://web.archive.org/web/20170806142909/http://www.demo.istat.it/bil2016/index.html|url-status=dead}}</ref>
+| demographics1_title1 = Italian
+| demographics1_info1 = 97%
+| demographics1_title2 = 
+| demographics1_info2 = 
+| demographics1_title3 = 
+| demographics1_info3 = 
+| demographics_type2 = GDP
+| demographics2_footnotes = <ref>{{citation|title=Population on 1 January by age, sex and NUTS 2 region|url=https://ec.europa.eu/eurostat/databrowser/view/DEMO_R_D2JAN/default/table?lang=en|website=www.ec.europa.eu}}</ref>
+| demographics2_title1 = Total
+| demographics2_info1 = €35.032 billion (2021)
+| timezone1          = [[Central European Time|CET]]
+| utc_offset1        = +1
+| timezone1_DST      = [[Central European Summer Time|CEST]]
+| utc_offset1_DST    = +2
+| postal_code_type   = 
+| postal_code        = 
+| area_code_type     = [[ISO 3166 code]]
+| area_code          = IT-88
+| blank2_name_sec1   = [[Human Development Index|HDI]] (2021)
+| blank2_info_sec1   = 0.871<ref name="GlobalDataLab">{{Cite web|url=https://hdi.globaldatalab.org/areadata/shdi/|title=Sub-national HDI – Area Database – Global Data Lab |website=hdi.globaldatalab.org |language=en|access-date=2023-03-05}}</ref><br />{{color|green|very high}} · [[List of Italian regions by Human Development Index|16th of 21]]
+| blank_name_sec2    = [[First-level NUTS of the European Union#Italy|NUTS Region]]
+| blank_info_sec2    = ITG
+| website            = {{official URL}}
+| footnotes          = 
+| name               = Sardinia
+}}
+[[File:Sardinia satellite.jpg|thumb|Sardinia]]
+
+'''Sardinia''' ({{IPAc-en|s|ɑr|ˈ|d|ɪ|n|i|ə}} {{respell|sar|DIN|ee|ə}}; {{langx|it|Sardegna}} {{IPA|it|sarˈdeɲɲa|}}; {{langx|sc|Sardigna}} {{IPA|sc|saɾˈdiɲːa|}}){{efn|name=srd|Dialectal varieties of the Sardinian-language name include {{lang|sc|Sardìnnia}} {{IPA|sc|saɾˈdinːja|}}, {{lang|sc|Saldigna}}, {{lang|sc|Sardìngia}}, {{lang|sc|Sardinna}}, {{lang|sc|Sardinza}}.}}{{efn|Names in other local languages: {{langx|lij|label=[[Tabarchino]]|Sardegna}}; {{langx|sdc|Sardhigna}}; {{langx|sdn|Saldigna}}; {{langx|ca|Sardenya|label=[[Algherese dialect|Algherese]]}}.}} is the [[Mediterranean islands#By area|second-largest]] island in the [[Mediterranean Sea]], after [[Sicily]], and one of the [[Regions of Italy|twenty regions]] of [[Italy]]. It is located west of the [[Italian Peninsula]], north of [[Tunisia]] and 16.45&nbsp;km<ref>[https://erasmus-plus.ec.europa.eu/de/resources-and-tools/distance-calculator erasmus-plus.ec.europa.eu] start: "Bonifacio 20169 Sartène", destination: "Lungòni/Santa Teresa Gallura 07028 Lungòni/Santa Teresa Gallura"</ref> south of the French island of [[Corsica]].
+
+It is one of the five Italian regions with some degree of [[Autonomous administrative division|domestic autonomy]] being granted by a [[Regions of Italy#Autonomous regions with special statute|special statute]].<ref>{{cite web|url=https://www.regione.sardegna.it/regione/statuto/|title=Statuto - Regione Autonoma della Sardegna|website=www.regione.sardegna.it}}</ref> Its official name, '''Autonomous Region of Sardinia''', is bilingual in [[Italian language|Italian]] and [[Sardinian language|Sardinian]]: {{lang|it|Regione Autonoma della Sardegna}} / {{lang|sc|Regione Autònoma de Sardigna}}.<ref>{{Cite web|url=http://www.regione.sardegna.it/documenti/1_73_20120703172407.pdf|title=Delibera della Giunta regionale del 26 giugno 2012}}</ref> It is divided into four [[provinces of Italy|provinces]] and a [[Metropolitan cities of Italy|metropolitan city]]. The capital of the region of Sardinia — and its largest city — is [[Cagliari]].
+
+Sardinia's indigenous language and [[Algherese dialect|Algherese]] [[Catalan language|Catalan]] are referred to by both the regional and national law as two of Italy's twelve officially recognized [[Linguistic minority|linguistic minorities]],<ref>{{citation |url=http://www.parlamento.it/parlam/leggi/99482l.htm |title=Norme in materia di tutela delle minoranze linguistiche storiche|publisher=Italian Parliament|website=parlamento.it}}</ref> albeit [[Endangered language|gravely endangered]], while the regional law provides some measures to recognize and protect the aforementioned as well as the island's other minority languages (the [[Corsican language|Corsican]]-influenced [[Sassarese language|Sassarese]] and [[Gallurese language|Gallurese]], and finally [[Tabarchino|Tabarchino Ligurian]]).<ref>{{Cite web|url=http://www.regione.sardegna.it/j/v/86?v=9&c=72&s=1&file=1997026|title=Legge Regionale 15 ottobre 1997, n. 26 - Regione Autonoma della Sardegna|website=www.regione.sardegna.it|access-date=30 September 2013|archive-date=1 March 2021|archive-url=https://web.archive.org/web/20210301195804/http://www.regione.sardegna.it/j/v/86?v=9&c=72&s=1&file=1997026|url-status=dead}}</ref><ref>{{cite web|url=http://www.regione.sardegna.it/j/v/2604?s=374982&v=2&c=93175&t=1&anno=|title=Legge Regionale 3 Luglio 2018, n. 22|publisher=Regione autonoma della Sardegna – Regione Autònoma de Sardigna|access-date=14 September 2021|archive-date=5 March 2019|archive-url=https://web.archive.org/web/20190305131152/http://www.regione.sardegna.it/j/v/2604?s=374982&v=2&c=93175&t=1&anno=|url-status=dead}}</ref>
+
+Owing to the variety of Sardinia's [[ecosystems]], which include mountains,<ref>Ignazio Camarda, ''Montagne di Sardegna'', pp. 11, 75</ref> woods, plains, stretches of largely uninhabited territory, streams, rocky coasts, and long sandy beaches,<ref>{{Cite web |last=Fagiani |first=Caterina |date=2023-07-31 |title=Altro che Seychelles: le 5 spiagge caraibiche d'Italia |url=https://www.thewisemagazine.it/2023/07/31/altro-che-seychelles-le-5-spiagge-caraibiche-ditalia/ |access-date=2024-05-08 |website=theWise Magazine |language=it-IT}}</ref> Sardinia has been metaphorically described as a micro-continent.<ref>Marcello Serra, ''Sardegna, quasi un continente'', Cagliari,1958</ref> In the modern era, many travelers and writers have extolled the beauty of its long-untouched landscapes, which retain vestiges of the [[Nuragic civilization]].<ref>{{cite web|first= Marcello|last= Serra|url= http://www.sardegnadigitallibrary.it/index.php?xsl=626&id=66832|title= Sardegna quasi un continente|language= it|website= sardegnadigitallibrary.it|access-date= 25 September 2018|archive-date= 13 December 2018|archive-url= https://web.archive.org/web/20181213124623/http://www.sardegnadigitallibrary.it/index.php?xsl=626&id=66832|url-status= dead}}</ref>
+
+== Etymology ==
+The name Sardinia has pre-Latin roots. It comes from the pre-Roman [[ethnonym]] *''s(a)rd-'', later [[Latinisation of names|romanised]] as {{lang|la|sardus}} (feminine {{lang|la|sarda}}). It makes its first appearance on the [[Nora Stone]], where the word ''ŠRDN'', or *''Šardana'', testifies to the name's existence when the [[Phoenicia]]n merchants first arrived.<ref>{{cite web|url=http://archeologianuragica.blogspot.com/2010/08/sul-nome-sardigna.html|title=Archeologia Nuragica: Sul nome Sardigna|first=Archeologia|last=Nuragica|date=9 August 2010}}</ref>
+
+According to ''[[Timaeus (dialogue)|Timaeus]]'', one of [[Plato]]'s dialogues, Sardinia (referred to by most [[Ancient Greek literature|ancient Greek]] authors as {{transl|grc|Sardṓ}}, {{lang|grc|Σαρδώ}}) and [[Sardinian people|its people]] as well might have been named after a legendary woman called Sardṓ ({{lang|grc|Σαρδώ}}), born in [[Sardis]] ([[wikt:Σάρδεις|Σάρδεις]]), capital of the ancient Kingdom of [[Lydia]].<ref>''Platonis dialogi, scholia in Timaeum'' (edit. C. F. Hermann, Lipsia 1877), 25 B, pag. 368</ref><ref>M. Pittau, ''La Lingua dei Sardi Nuragici e degli Etruschi'', Sassari 1981, pag. 57</ref> There has also been speculation that identifies the ancient [[Nuragic civilization|Nuragic]] Sards with the [[Sherden]], one of the [[Sea Peoples]].<ref>{{Cite web|url=http://www.treccani.it//enciclopedia/sardi_(Dizionario-di-Storia)|title=sardi in "Dizionario di Storia"|website=www.treccani.it}}</ref><ref>{{Cite web|url=http://www.treccani.it//enciclopedia/sardi_res-c8fc02e8-8bb6-11dc-8e9d-0016357eee51_(Enciclopedia-Italiana)|title=SARDI in "Enciclopedia Italiana"|website=www.treccani.it}}</ref><ref>{{cite web|url=https://www.sardiniapost.it/culture/nuovo-studio-dellarcheologo-ugas-e-certo-i-nuragici-erano-gli-shardana/|title=ARCHIVIO. Nuovo studio dell'archeologo Ugas: "È certo, i nuragici erano gli Shardana"|date=3 February 2017|website=Sardiniapost}}</ref><ref>{{cite web|url=http://www.sardiniapoint.it/5085.html|title=SP INTERVISTA>GIOVANNI UGAS: SHARDANA|website=www.sardiniapoint.it|access-date=17 June 2010|archive-date=5 April 2020|archive-url=https://web.archive.org/web/20200405144452/http://www.sardiniapoint.it/5085.html|url-status=dead}}</ref><ref>{{cite web|url=https://www.sardiniapost.it/culture/la-certezza-degli-accademici-egiziani-gli-shardana-erano-i-nuragici-sardi/|title=La certezza degli accademici egiziani: "Gli shardana erano i nuragici sardi"|publisher=SardiniaPost|date=25 January 2019}}</ref> It is suggested that the name had a religious connotation from its use also as the adjective for the ancient Sardinian mythological hero-god [[Sardus|Sardus Pater]]<ref>{{Cite web|url=http://www.aristeo.org/sardegnaemiti/personaggi/sardo.html|title=Personaggi - Sardo|website=www.aristeo.org|access-date=16 August 2016|archive-date=11 December 2022|archive-url=https://web.archive.org/web/20221211061836/http://www.aristeo.org/sardegnaemiti/personaggi/sardo.html|url-status=dead}}</ref> ("Sardinian Father"; a common explanation that the term means "Father of the Sardinians" is incorrect, as that would be "Sardorum Pater"), as well as being the stem of the adjective "[[Sardonicism|sardonic]]".
+
+In [[classical antiquity]], Sardinia was called a number of names besides ''Sardṓ'' ({{lang|grc|Σαρδώ}}) or ''Sardinia'', like {{lang|la|Ichnusa}} (the Latinised form of the Greek {{lang|grc|Ἰχνοῦσσα}}),<ref>"[https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aalphabetic+letter%3DS%3Aentry+group%3D5%3Aentry%3Dsardinia-geo Sardinia]" in W. Smith, ''[[Dictionary of Greek and Roman Geography]]''</ref> {{transl|grc|Sandaliotis}} ({{lang|grc|Σανδαλιῶτις}}<ref>[[Hesychius of Miletus|Hesychius]]: Σανδαλιῶτις; ἡ Σαρδὼ πάλαι. ("Sandaliotis; [this is the name by which] Sardinia used to be called in ancient times".)</ref>) and {{transl|grc|Argyrophleps}} ({{lang|grc|Αργυρόφλεψ}}).<ref name="Sardinian Toponymy">For the historical toponymy of ''Sardinia'', cf. {{cite journal |first1=Brenda Man Qing |last1=Ong |first2=Francesco Perono |last2=Cacciafoco |date=2022 |title=Unveiling the Enigmatic Origins of Sardinian Toponyms |journal=Languages |volume=7 |issue=2 |pages=131: 1–19 |doi=10.3390/languages7020131 |doi-access=free |hdl=10356/159558 |hdl-access=free }}</ref>
+
+== Geography ==
+[[File:Corsica_from_Sardinia.jpg|thumb|Strait of Bonifacio. The southern coast of Corsica can be seen from [[Santa Teresa Gallura]].]]
+[[File:Cala Goloritzé 3.JPG|thumb|[[Cala Goloritzé]], [[Baunei]]]]
+[[File:Gusana.jpg|thumb|left|upright|View of [[Gennargentu]], the highest massif of Sardinia]]
+[[File:Altimetria Sardegna.svg|thumb|upright=0.75|left|A proportionate graph of Sardinian topography: 13.6% of the island is mountainous, 18.5% is flat, and 67.9% is hilly.]]
+Sardinia is the second-largest island in the [[Mediterranean Sea]] (after [[Sicily]] and before [[Cyprus]]), with an area of {{cvt|24100|km2|0|abbr=out}}. It is situated between 38° 51' and 41° 18' latitude north (respectively Isola del Toro and Isola La Presa) and 8° 8' and 9° 50' east longitude (respectively Capo dell'[[Argentiera]] and Capo Comino). To the west of Sardinia is the [[Sea of Sardinia]], a unit of the Mediterranean Sea; to Sardinia's east is the [[Tyrrhenian Sea]], which is also an element of the Mediterranean Sea.<ref>{{cite encyclopedia| first= C. Michael| last= Hogan| year= 2011| url= http://www.eoearth.org/article/Balearic_Sea?topic=49523 |title= Balearic Sea| encyclopedia= Encyclopedia of Earth| editor1-first= P. | editor1-last= Saundry |editor2-first= C. J. |editor2-last= Cleveland| publisher= National Council for Science and the Environment| place= Washington DC| via= eoearth.org}}</ref>
+
+The nearest land masses are (clockwise from north) the island of [[Corsica]], the [[Italian Peninsula]], [[Sicily]], [[Tunisia]], the [[Balearic Islands]], and [[Provence]].  The [[Tyrrhenian Sea]] portion of the [[Mediterranean Sea]] is directly to the east of Sardinia between the Sardinian east coast and the west coast of the Italian mainland peninsula.  The [[Strait of Bonifacio]] is directly north of Sardinia and separates Sardinia from the French island of [[Corsica]].
+
+The coast of Sardinia is {{cvt|1849|km|0}} long. It is generally high and rocky, with long, relatively straight stretches, outstanding headlands, wide, deep bays, [[ria]]s, and inlets with various smaller islands.
+
+The island has an ancient geoformation and, unlike Sicily and mainland Italy, is not earthquake-prone. Its rocks date in fact from the [[Palaeozoic Era]]. The [[Cambrian]]-[[Lower Ordovician]] succession of Sardinia reaches 1500–3000 m in thickness.<ref name=Maxime2018>{{cite journal|author1=Padel Maxime |author2=Sébastien Clausen |author3=José-Javier Alvaro |author4=Josep Maria Casas|year=2018|url=https://www.researchgate.net/publication/327572202|title=Review of the Ediacaran-Lower Ordovician (pre-Sardic) stratigraphic framework of the Eastern Pyrenees, southwestern Europe|journal=Geologica Acta|volume=16|issue=4|page=13|doi=10.1344/GeologicaActa2018.16.4.1|language=en}}</ref> Due to long erosion processes, the island's highlands, formed of granite, [[schist]], [[trachyte]], [[basalt]] (called ''jaras'' or ''gollei''), [[sandstone]] and [[Dolomite (mineral)|dolomite]] limestone (called ''tonneri'' or 'heels'), average at between {{cvt|300|and|1000|m|0|abbr=off}}. The highest peak is [[Punta La Marmora]] ({{Lang|sc|Perdas Carpìas}} in Sardinian language) ({{cvt|1834|m|0|abbr=on}}), part of the [[Gennargentu]] Ranges in the centre of the island. Other mountain chains are [[Monte Limbara]] ({{cvt|1362|m|0}}) in the northeast, the [[Monte Rasu|Chain of Marghine and Goceano]] ({{cvt|1259|m|0}}) running crosswise for {{cvt|40|km}} towards the north, the [[Monte Albo]] ({{cvt|1057|m|0}}), the Sette Fratelli Range in the southeast, and the [[Sulcis Mountains]] and the [[Monte Linas]] ({{cvt|1236|m|0|abbr=on}}). The island's ranges and plateaux are separated by wide alluvial valleys and flatlands, the main ones being the [[Campidano]] in the southwest between [[Oristano]] and [[Cagliari]] and the [[Nurra]] in the northwest.
+
+Sardinia has few major rivers, the largest being the [[Tirso (river)|Tirso]], {{cvt|151|km}} long, which flows into the [[Sea of Sardinia]], the [[Coghinas]] ({{cvt|115|km}}) and the [[Flumendosa]] ({{cvt|127|km}}). There are 54 [[artificial lakes]] and dams that supply water and electricity. The main ones are [[Lake Omodeo]] and [[Lake Coghinas]]. The only natural freshwater lake is [[Lago di Baratz]]. A number of large, shallow, salt-water lagoons and pools are located along the coast.
+
+=== Climate ===
+[[File:Sardegna precipitazioni.svg|thumb|upright|Sardinia average rainfalls]]
+
+The climate of the island is variable from area to area, due to several factors including the extension in [[latitude]] and the [[elevation]]. It can be classified in two different macrobioclimates (Mediterranean pluviseasonal oceanic and Temperate oceanic), one macrobioclimatic variant (Submediterranean), and four classes of continentality (from weak semihyperoceanic to weak semicontinental), eight thermotypic horizons (from lower thermomediterranean to upper supratemperate), and seven ombrotypic horizons (from lower dry to lower hyperhumid), resulting in a combination of 43 different isobioclimates.<ref>{{cite journal| url= https://figshare.com/articles/Bioclimate_map_of_Sardinia_Italy_/1263959|title=Bioclimate map of Sardinia (Italy)| journal= Figshare| first1= Emmanuele| last1= Farris| first2= Rossella |last2= Filigheddu| first3= Andrea |last3= Motroni |first4= Michele |last4= Fiori |first5= Leonardo |last5= Rosati |first6= Simona |last6= Canu| display-authors= 3|date=23 October 2015 |via= figshare.com |doi= 10.6084/m9.figshare.1263959.v5}}</ref>
+
+During the year there is a major concentration of rainfall in the winter and autumn, some heavy showers in the spring and snowfalls in the highlands. The average temperature is between {{cvt|11|and|18|C|F|abbr=on}}, with mild winters and warm summers on the coasts ({{cvt|9|to|16|C|F}} in January, {{cvt|23|to|31|C|F}} in July), and cold winters and cool summers on the mountains ({{cvt|-2|to|4|C|F}} in January, {{cvt|16|to|20|C|F}} in July).
+
+Rainfall has a Mediterranean distribution all over the island, with almost totally rainless summers and wet autumns, winters and springs. However, in summer, the rare rainfalls can be characterized by short but severe [[thunderstorm]]s, which can cause [[flash flood]]s. The climate is also heavily influenced by the vicinity of the [[Gulf of Genoa]] (barometric low) and the relative proximity of the Atlantic Ocean. Low pressures in autumn can generate the formation of the so-called ''Medicanes'', extratropical cyclones which affect the Mediterranean basin. In 2013, the island was hit by several cyclones, included the [[Cyclone Cleopatra]], which dumped {{cvt|450|mm}} of rainfall within an hour and a half.<ref>{{cite web| url= http://www.earthweek.com/2013/ew131122/ew131122c.html | title= Cyclone Cleopatra Submerges Parts of Sardinia| website= earthweek.com}}</ref>
+
+Sardinia being relatively large and hilly, weather is not uniform; in particular the East is drier, but paradoxically it suffers the worst rainstorms: in autumn 2009, it rained more than {{cvt|200|mm|1|abbr=on}} in a single day in Siniscola, and 19 November 2013, locations in Sardinia were reported to have received more than {{cvt|431|mm}} within two hours. The western coast has a higher distribution of rainfalls even for modest elevations (for instance Iglesias, elevation {{cvt|200|m|0|abbr=on}}, average annual precipitation {{cvt|815|mm|1|abbr=on}}). The driest part of the island is the coast of Cagliari gulf, with less than {{cvt|450|mm|1|abbr=on}} per year, the minimum is at Capo Carbonara at the extreme south-east of the island {{cvt|381|mm|1|abbr=on}},<ref>{{cite web|url=http://www.sardegna-clima.it/index.php?option=com_content&view=article&id=81&Itemid=78 |title= Località più secche| work=Sardegna Clima Onlus| language= it}}</ref> and the wettest is the top of the [[Gennargentu]] mountain with almost {{cvt|1500|mm|1}} per year. The average for the entire island is about {{cvt|800|mm|1|abbr=on}} per year, which is more than enough for the needs of the population and vegetation.<ref>{{cite web|url=http://www.paradisola.it/varie/clima.asp|title=Il clima della Sardegna| last= Corraine |first=Domenico| website= paradisola.it | language= it }}</ref> The [[Mistral (wind)|Mistral]] from the northwest is the dominant wind on and off throughout the year, though it is most prevalent in winter and spring. It can blow quite strongly, but it is usually dry and cool.
+{{Weather box
+|location = [[Cagliari]], altitude {{cvt|4|m}}
+|metric first = yes
+|single line = yes
+|Jan high C = 14.3
+|Feb high C = 14.8
+|Mar high C = 16.5
+|Apr high C = 18.6
+|May high C = 22.9
+|Jun high C = 27.3
+|Jul high C = 30.4
+|Aug high C = 30.8
+|Sep high C = 27.4
+|Oct high C = 23.1
+|Nov high C = 18.3
+|Dec high C = 15.4
+|year high C = 21.7
+|Jan mean C = 9.9
+|Feb mean C = 10.3
+|Mar mean C = 11.8
+|Apr mean C = 13.7
+|May mean C = 17.7
+|Jun mean C = 21.7
+|Jul mean C = 24.7
+|Aug mean C = 25.2
+|Sep mean C = 22.3
+|Oct mean C = 18.4
+|Nov mean C = 13.8
+|Dec mean C = 11.0
+|year mean C = 16.8
+|Jan low C = 5.5
+|Feb low C = 5.8
+|Mar low C = 7.1
+|Apr low C = 8.9
+|May low C = 12.4
+|Jun low C = 16.2
+|Jul low C = 18.9
+|Aug low C = 19.6
+|Sep low C = 17.1
+|Oct low C = 13.7
+|Nov low C = 9.3
+|Dec low C = 6.6
+|year low C = 11.8
+|rain colour = green
+|Jan rain mm = 49.7
+|Feb rain mm = 53.3
+|Mar rain mm = 40.4
+|Apr rain mm = 39.7
+|May rain mm = 26.1
+|Jun rain mm = 11.9
+|Jul rain mm = 4.1
+|Aug rain mm = 7.5
+|Sep rain mm = 34.9
+|Oct rain mm = 52.6
+|Nov rain mm = 58.4
+|Dec rain mm = 48.9
+|year rain mm = 427.5
+|Jan rain days = 6.8
+|Feb rain days = 6.8
+|Mar rain days = 6.8
+|Apr rain days = 7.0
+|May rain days = 4.4
+|Jun rain days = 2.1
+|Jul rain days = 0.8
+|Aug rain days = 1.3
+|Sep rain days = 4.3
+|Oct rain days = 6.5
+|Nov rain days = 7.4
+|Dec rain days = 7.4
+|year rain days = 61.6
+|unit rain days = 1.0 mm
+|Jan sun = 136.4
+|Feb sun = 139.2
+|Mar sun = 186.0
+|Apr sun = 213.0
+|May sun = 269.7
+|Jun sun = 288.0
+|Jul sun = 334.8
+|Aug sun = 310.0
+|Sep sun = 246.0
+|Oct sun = 198.4
+|Nov sun = 147.0
+|Dec sun = 127.1
+|year sun = 2595.6
+|source 1 = [[Servizio Meteorologico]],<ref name=ServizioMeteorologico>{{cite web| url= http://clima.meteoam.it/AtlanteClimatico/pdf/(560)Cagliari.pdf |title= Tabelle climatiche 1971–2000 della stazione meteorologica di Cagliari-Elmas| work= Ponente dall'Atlante Climatico 1971–2000 |publisher= Servizio Meteorologico dell'Aeronautica Militare| via= meteoam.it| language= it}}</ref> [[Hong Kong Observatory]]<ref>{{cite web| url= http://www.weather.gov.hk/wxinfo/climat/world/eng/europe/iy_al/cagliari_e.htm |title= Climatological Information for Cagliari, Italy| publisher= Hong Kong Observatory| website= weather.gov.hk| archive-url= https://web.archive.org/web/20191025200727/http://www.weather.gov.hk/wxinfo/climat/world/eng/europe/iy_al/cagliari_e.htm | archive-date= 25 October 2019}}</ref> <small>for data of sunshine hours</small>
+|date = April 2012}}
+
+{{Weather box
+|location = [[Fonni]], altitude 1029 m
+|metric first = yes
+|single line = yes
+|Jan high C = 6.6
+|Feb high C = 6.9
+|Mar high C = 8.9
+|Apr high C = 11.5
+|May high C = 16.3
+|Jun high C = 21.2
+|Jul high C = 25.8
+|Aug high C = 25.5
+|Sep high C = 21.7
+|Oct high C = 16.4
+|Nov high C = 10.9
+|Dec high C = 8.1
+|year high C = 15.0
+|Jan mean C = 4.1
+|Feb mean C = 4.1
+|Mar mean C = 5.7
+|Apr mean C = 8.1
+|May mean C = 12.4
+|Jun mean C = 16.9
+|Jul mean C = 21.1
+|Aug mean C = 20.9
+|Sep mean C = 17.7
+|Oct mean C = 13.1
+|Nov mean C = 8.2
+|Dec mean C = 5.5
+|year mean C = 11.5
+|Jan low C = 1.5
+|Feb low C = 1.2
+|Mar low C = 2.5
+|Apr low C = 4.6
+|May low C = 8.5
+|Jun low C = 12.6
+|Jul low C = 16.4
+|Aug low C = 16.3
+|Sep low C = 13.7
+|Oct low C = 9.7
+|Nov low C = 5.4
+|Dec low C = 2.8
+|year low C = 7.9
+|rain colour = green
+|Jan rain mm = 97
+|Feb rain mm = 118
+|Mar rain mm = 110
+|Apr rain mm = 88
+|May rain mm = 73
+|Jun rain mm = 33
+|Jul rain mm = 11
+|Aug rain mm = 18
+|Sep rain mm = 40
+|Oct rain mm = 93
+|Nov rain mm = 107
+|Dec rain mm = 131
+|year rain mm = 919
+|Jan rain days = 9.9
+|Feb rain days = 10.0
+|Mar rain days = 9.4
+|Apr rain days = 10.5
+|May rain days = 7.4
+|Jun rain days = 4.2
+|Jul rain days = 1,6
+|Aug rain days = 2.4
+|Sep rain days = 4.8
+|Oct rain days = 8.8
+|Nov rain days = 9.7
+|Dec rain days = 9.9
+|year rain days = 88.6
+|unit rain days = 1.0 mm
+|source 1 = [[Servizio Meteorologico]]}}
+
+== History ==
+[[File:Monted'accoddisardegna.png|thumb|The prehistoric megalithic temple of [[Monte d'Accoddi]]]]
+{{Main|History of Sardinia}}
+{{See also|History of mining in Sardinia}}
+Sardinia has been inhabited by humans since the end of the [[Paleolithic]] era, around 20-10,000 years ago. The island's most notable civilization is the indigenous [[Nuragic civilization|Nuragic]], which flourished from the 18th century BC to either 238 BC or the 2nd century AD in some parts of the island,<ref name="Ugas 2016">{{cite book |first=Giovanni |last=Ugas |contribution=Shardana e Sardegna. I popoli del mare, gli alleati del Nordafrica e la fine dei Grandi Regni |title=Cagliari, Edizioni Della Torre |year=2016}}</ref> and to the 6th century AD in that part of the island known as [[Barbagia]].<ref>Rowland, R. J. "When Did the Nuragic Period in Sardinia End." Sardinia Antiqua. Studi in Onore Di Piero Meloni in Occasione Del Suo Settantesimo Compleanno, 1992, 165–175.</ref><ref><<Da parte imperiale era dunque implicito il riconoscimento di una Sardegna barbaricina indomita se non libera e già in qualche modo statualmente conformata, dove continuava a esistere una civiltà o almeno una cultura d'origine nuragica, certo mutata ed evoluta per influenze esterne romane e vandaliche di cui nulla conosciamo tranne alcuni tardi effetti politici.>> [[Francesco Cesare Casula|Casula, Francesco Cèsare]] (2017). ''La storia di Sardegna, I, Evo Antico Sardo : Dalla Sardegna Medio-Nuragica (100 a.C. c.) alla Sardegna Bizantina'' (900 d.C. c.), p.281</ref><ref>[[Gregory the Great]], ''Epistula ad [[Hospito]]nem''</ref>
+
+After a period in which the island was ruled by a political and economic alliance between the Nuragic Sardinians and the [[Phoenicia]]ns, parts of it were conquered by [[Carthage]] in the late 6th century BC, and by [[Ancient Rome|Rome]] in 238 BC. The Roman occupation lasted for 700 years.
+
+Beginning in the [[Early Middle Ages]], the island was ruled by the [[Vandals]] and the [[Byzantine Empire|Byzantines]]. In practice, the island was disconnected from Byzantium's territorial influence, which allowed the Sardinians to provide themselves with a self-ruling political organization, the four kingdoms known as [[Sardinian medieval kingdoms|Judicates]]. The [[Italian maritime republics]] of [[Republic of Pisa|Pisa]] and [[Republic of Genoa|Genoa]] struggled to impose political control over these indigenous kingdoms, but it was the Iberian [[Crown of Aragon]] which, in 1324, succeeded in bringing the island under its control, consolidating it into the [[Kingdom of Sardinia]].
+[[File:MapSardine1779-2523.jpg|alt=Map of Sardinia, 1779|thumb|Map of Sardinia, 1779]]
+This Iberian kingdom endured until 1718, when it was ceded to the [[Alps|Alpine]] [[House of Savoy]]; the Savoyards would [[Perfect Fusion|politically merge]] their insular possession with their domains on the [[Italian peninsula|Italian Mainland]] which, during the period of [[Italian unification]], they would go on to expand to include the whole Italian peninsula; their territory was so renamed into the [[Kingdom of Italy]] in 1861, and it was reconstituted as the present-day [[Italy|Italian Republic]] in 1946.
+
+=== Prehistory ===
+{{See also|Pre-Nuragic Sardinia}}
+
+[[File:Menhir Monte Corru Tundu Sardinia.png|thumb|Monte Corru Tundu Menhir in [[Villa Sant'Antonio]] (5.75 meters high)]]
+
+Sardinia is one of the most geologically ancient bodies of land in Europe. The island was populated in various waves of immigration from prehistory until recent times.
+
+Remains from [[Corbeddu Cave]] in eastern Sardinia have been suggested by some authors to represent the earliest evidence of human presence on Sardinia, around 20,000 years ago, during the [[Last Glacial Maximum]]. However, other authors contend that there is no solid evidence for the occupation of the island until the early [[Mesolithic]], around 10,000 years ago.<ref>{{Cite journal |last1=Palombo |first1=M.R. |last2=Antonioli |first2=F. |last3=Lo Presti |first3=V. |last4=Mannino |first4=M.A. |last5=Melis |first5=R.T. |last6=Orru |first6=P. |last7=Stocchi |first7=P. |last8=Talamo |first8=S. |last9=Quarta |first9=G. |last10=Calcagnile |first10=L. |last11=Deiana |first11=G. |last12=Altamura |first12=S. |date=May 2017 |title=The late Pleistocene to Holocene palaeogeographic evolution of the Porto Conte area: Clues for a better understanding of human colonization of Sardinia and faunal dynamics during the last 30 ka |url=https://linkinghub.elsevier.com/retrieve/pii/S1040618216301781 |journal=Quaternary International |language=en |volume=439 |pages=117–140 |doi=10.1016/j.quaint.2016.06.014|bibcode=2017QuInt.439..117P |url-access=subscription }}</ref>
+
+The [[Neolithic]] began on Sardinia during the [[6th millennium BC]] resulting from the migration of [[Early European Farmers]], replacing the Mesolithic hunter-gatherer populations, with a material culture including the widespread [[Cardium pottery]] style.<ref>{{Cite journal |last=Lugliè |first=Carlo |date=March 2018 |title=Your path led trough the sea … The emergence of Neolithic in Sardinia and Corsica |url=https://linkinghub.elsevier.com/retrieve/pii/S1040618217305426 |journal=Quaternary International |language=en |volume=470 |pages=285–300 |doi=10.1016/j.quaint.2017.12.032|bibcode=2018QuInt.470..285L |url-access=subscription }}</ref><ref>{{Cite journal |last1=Marcus |first1=Joseph H. |last2=Posth |first2=Cosimo |last3=Ringbauer |first3=Harald |last4=Lai |first4=Luca |last5=Skeates |first5=Robin |last6=Sidore |first6=Carlo |last7=Beckett |first7=Jessica |last8=Furtwängler |first8=Anja |last9=Olivieri |first9=Anna |last10=Chiang |first10=Charleston W. K. |last11=Al-Asadi |first11=Hussein |last12=Dey |first12=Kushal |last13=Joseph |first13=Tyler A. |last14=Liu |first14=Chi-Chun |last15=Der Sarkissian |first15=Clio |date=2020-02-24 |title=Genetic history from the Middle Neolithic to present on the Mediterranean island of Sardinia |journal=Nature Communications |language=en |volume=11 |issue=1 |pages=939 |doi=10.1038/s41467-020-14523-6 |issn=2041-1723 |pmc=7039977 |pmid=32094358|bibcode=2020NatCo..11..939M }}</ref> In the mid-Neolithic period, the [[Ozieri culture]], probably of [[Aegean Islands|Aegean origin]], flourished on the island spreading the [[hypogeum]] tombs known as [[domus de Janas]], while the [[Arzachena culture]] of [[Gallura]] built the first [[megalith]]s: circular tombs. In the early 3rd millennium BC, the [[metallurgy]] of [[copper]] and [[silver]] began to develop.
+
+During the late [[Chalcolithic]] the so-called [[Beaker culture]], coming from various parts of [[Continental Europe]], appeared in Sardinia. These new people predominantly settled on the west coast, where the majority of the sites attributed to them had been found.<ref>Giovanni Ugas, ''L'alba dei Nuraghi'' p.22-23-24-25-29-30-31-32</ref> The Beaker culture was followed in the early [[Bronze Age]] by the [[Bonnanaro culture]] which showed both reminiscences of the Beaker and influences by the [[Polada culture]].
+
+As time passed the different Sardinian populations appear to have become united in customs, yet remained politically divided into various small, tribal groupings, at times banding together against invading forces from the sea, and at others waging war against each other. Habitations consisted of round thatched stone huts.
+[[File:Nuraghe Losa.jpg|thumb|[[Nuraghe Losa]]]]
+
+==== Nuragic civilization ====
+{{Main|Nuragic civilization}}
+From about 1500 BC onwards, villages were built around a kind of round tower-fortress called ''[[nuraghe]]''<ref>''Nuraghes'' in [[Logudorese dialect|North-central Sardinian]], ''nuraxis'' in [[Campidanese dialect|South-central Sardinian]], the plural forms being ''[[nuraghe]]'' and ''nuraxi'' respectively.</ref> (usually pluralized as ''nuraghes'' in English and as {{Lang|it|nuraghi}} in Italian). These towers were often reinforced and enlarged with battlements. Tribal boundaries were guarded by smaller lookout Nuraghes erected on strategic hills commanding a view of other territories.
+
+Today, some 7,000 Nuraghes dot the Sardinian landscape. While initially these Nuraghes had a relatively simple structure, with time they became extremely complex and monumental (see for example the ''[[Nuraghe Santu Antine]]'', ''[[Su Nuraxi (Barumini)|Su Nuraxi]]'', or ''[[Nuraghe Arrubiu]]''). The scale, complexity and territorial spread of these buildings attest to the level of wealth accumulated by the Nuragic Sardinians, their advances in technology and the complexity of their society, which was able to coordinate large numbers of people with different roles for the purpose of building the monumental Nuraghes.
+[[File:Sa ena e thomes 2.jpg|thumb|left|[[Giants' grave]] in [[Dorgali]] ([[Bronze Age]])]]
+The Nuraghes are not the only Nuragic buildings that stand in place, as there are several sacred wells around Sardinia and other buildings with religious purposes such as the [[Giants' grave]] (monumental collective tombs) and collections of religious buildings that probably served as destinations for pilgrimage and mass religious rites (e.g. ''[[Su Romanzesu]]'' near [[Bitti]]).
+[[File:Età nuragica, giganti di monte prama, xiii-ix secolo ac ca., da cabras, guerriero 05, 01.jpg|thumb|One of the so-called [[Giants of Mont'e Prama]]]]
+At the time, Sardinia was at the centre of several commercial routes and it was an important provider of raw materials such as [[copper]] and lead, which were pivotal for the manufacture of the time. By controlling the extraction of these raw materials and by trading them with other countries, the ancient Sardinians were able to accumulate wealth and reach a level of sophistication that is not only reflected in the complexity of its surviving buildings, but also in its artworks (e.g. the votive [[bronze]] statuettes found across Sardinia or the statues of Mont'e Prama).
+
+According to some scholars, the Nuragic people(s) are identifiable with the [[Sherden]], a tribe of the [[Sea Peoples]].<ref>{{Cite web|url=http://www.sardiniapoint.it/5085.html|title=SP INTERVISTA>GIOVANNI UGAS: SHARDANA|website=www.sardiniapoint.it|access-date=17 June 2010|archive-date=5 April 2020|archive-url=https://web.archive.org/web/20200405144452/http://www.sardiniapoint.it/5085.html|url-status=dead}}</ref><ref name="Ugas 2016"/>
+
+The Nuragic civilization was linked with other contemporaneous megalithic civilization of the western Mediterranean, such as the [[Talaiotic culture]] of the [[Balearic Islands]] and the [[Torrean civilization]] of [[Corse-du-Sud|Southern Corsica]]. Evidence of trade with the other civilizations of the time is attested by several artefacts (e.g. pots), coming from as far as [[Cyprus]], [[Crete]], [[Geography of Greece#Mainland|Mainland Greece]], Spain and Italy, that have been found in Nuragic sites, bearing witness to the scope of commercial relations between the Nuragic people and other peoples in Europe and beyond.
+
+=== Ancient history ===
+{{See also|Sardinia and Corsica}}
+[[File:Colonne a tharros.jpg|thumb|left|The Phoenician and subsequently Roman town of [[Tharros]]]]
+[[File:Necropoli di Tuvixeddu.jpg|thumb|left|[[Tuvixeddu necropolis|Necropolis of Tuvixeddu]], Cagliari]]
+Around the 9th century BC the [[Phoenicia]]ns began visiting Sardinia with increasing frequency, presumably initially needing safe overnight and all-weather anchorages along their trade routes from the coast of modern-day Lebanon as far afield as the African and European Atlantic coasts and beyond. The most common ports of call were [[Cagliari|Caralis]], [[Nora, Italy|Nora]], [[Bithia, Italy|Bithia]], [[Sulci]], and [[Tharros]]. [[Claudius Claudianus|Claudian]], a 4th-century Latin poet, in his poem ''De bello Gildonico'', stated that Caralis was founded by people from [[Tyre, Lebanon|Tyre]], probably in the same time of the foundation of [[Carthage]], in the 9th or 8th century BC.<ref>Claudian, De Bello Gildonico, IV A.D.: city located in front of Libya (Africa), founded by the powerful Tyro, Karalis extends in length, between the waves, with a small bumpy hill, disperses headwinds. It follows a port in the mid of the sea, and all strong winds are softened in the shelter of the pond.(521.Urbs Lybiam contra Tyrio fundata potenti 521. Tenditur in longum Caralis, tenuemque per undas 522. Obvia dimittit fracturum flamina collem. 523. Efficitur portus medium mare: tutaque ventis 524. Omnibus, ingenti mansuescunt stagna recessu)</ref>
+In the 6th century BC, after the conquest of western Sicily, the [[Punics|Carthaginians]] planned to annex Sardinia.{{sfn|Brigaglia|Mastino|Ortu|2006|p=27}} A first invasion attempt led by [[Malchus (general)|Malchus]] was foiled by the victorious Nuraghic resistance. However, from 510 BC, the southern and west-central part of the island were invaded a second time and came under Carthaginian rule.{{sfn|Brigaglia|Mastino|Ortu|2006|p=27}}<ref>Piero Meloni, La Sardegna romana, Sassari, Chiarella, 1975, p. 4.</ref>
+
+[[File:- Fordongianus Thermes+.JPG|thumb|Roman [[thermae]] of ''Forum Traiani'', in what is now [[Fordongianus]]]]
+In 238 BC, taking advantage of Carthage having to face a rebellion of her mercenaries (the [[Mercenary War]]) after the [[First Punic War]] (264–241 BC), the [[Ancient Rome|Romans]] annexed Corsica and Sardinia from the Carthaginians. The two islands became the province of [[Corsica and Sardinia]]. They were not given a provincial governor until 227 BC. The Romans faced many rebellions, and it took them many years to pacify both islands. The existing coastal cities were enlarged and embellished, and Roman [[Colonia (Roman)|colonies]] such as [[Porto Torres|Turris Lybissonis]] and [[Posada, Sardinia|Feronia]] were founded. These were populated by Roman immigrants. The Roman military occupation brought the Nuragic civilization to an end, except for the mountainous interior of the island, which the Romans called ''[[Barbagia|Barbaria]]'', meaning '[[Barbarian]] land'. Roman rule in Sardinia lasted 694 years, during which time the province was an important source of grain for the capital. [[Latin]] came to be the dominant spoken language during this period, though Roman culture was slower to take hold, and Roman rule was often contested by the Sardinian tribes from the mountainous regions.<ref>{{Cite web|url=http://www.unrv.com/provinces/sardinia.php|title=Sardinia - Province of the Roman Empire|website=www.unrv.com|access-date=18 July 2017}}</ref>
+
+=== Vandal conquest ===
+{{See also|Vandal Sardinia}}
+[[File:Vandal coin.png|thumb|right|A Vandal-period coin found in Sardinia depicting Godas. Latin legend: REX CVDA.]]
+
+The [[Germanic peoples|east Germanic tribe]] of the [[Vandals]] conquered Sardinia in 456. Their rule lasted for 78 years up to 534, when 400 [[East Roman army|eastern Roman troops]] led by Cyril, one of the officers of the ''foederati'', retook the island. It is known that the Vandal government continued the forms of the existing Roman Imperial structure. The governor of Sardinia continued to be called the ''[[praeses]]'' and apparently continued to manage military, judicial, and civil governmental functions via imperial procedures. The only Vandal governor of Sardinia about whom there is substantial record is the last, [[Godas]], a [[Visigoth]] noble. In AD 530, a [[coup d'état]] in [[Carthage]] removed King [[Hilderic]], a convert to [[Nicene Christianity]], in favor of his cousin [[Gelimer]], an [[Arian]] Christian like most of the elite in his kingdom. Godas was sent to take charge and ensure the loyalty of Sardinia. He did the exact opposite, declaring the island's independence from Carthage{{sfn|Casula|1994|p=133}} and opening negotiations with Emperor [[Justinian I]], who had declared war on Hilderic's behalf. In AD 533, Gelimer sent the bulk of his army and navy (120 vessels and 5,000 men) to Sardinia to subdue Godas, with the catastrophic result that the Vandal Kingdom was overwhelmed when Justinian's own army under [[Belisarius]] arrived at Carthage in their absence. The Vandal Kingdom ended and Sardinia was returned to Roman rule.<ref>{{cite book|last1=Merrills|first1=Andrew|last2=Miles|first2=Richard|title=The Vandals|url=https://books.google.com/books?id=yTIHPoyMOFYC&pg=PA136|year=2009|publisher=John Wiley & Sons|isbn=978-1-4443-1808-1|page=136}}</ref>
+
+=== Byzantine era and the rise of the Judicates ===
+{{See also|Byzantine Sardinia|Sardinian medieval kingdoms}}
+In 533, Sardinia returned to the rule of the [[Byzantine Empire]] when the [[Vandals]] were defeated by the armies of [[Justinian I]] under the General [[Belisarius]] in the [[Battle of Tricamarum]], in their African kingdom Belisarius sent his general Cyril to Sardinia to retake the island. Sardinia remained in Byzantine hands for the next 300 years<ref>{{Cite web|url=http://www.provinciadelsole.it/eng/bizantina.html|title=This domain was registered by Youdot.io|website=www.provinciadelsole.it}}</ref> aside from a short period in which it was invaded by the [[Ostrogoths]] in 551.
+
+Under Byzantine rule, the island was divided into districts called ''mereíai'' (μερείαι) in [[Byzantine Greek]], which were governed by a judge residing in Caralis and garrisoned by an army stationed in ''Forum Traiani'' (today [[Fordongianus]]) under the command of a ''[[dux]]''.{{sfn|Casula|1994|p=137-138}} During this time, [[Christianity]] took deeper root on the island, supplanting the [[Paganism]] which had survived into the early [[Middle Ages]] in the culturally conservative hinterlands. Along with lay Christianity, the followers of monastic figures such as [[Basil of Caesarea]] became established in Sardinia. While Christianity penetrated the majority of the population, the region of [[Barbagia]] remained largely pagan and, probably, partially non-Latin speaking. They re-established a short-lived independent domain with Sardinian-heathen lay and religious traditions, one of its kings being [[Hospito]].<ref>{{Cite web|url=http://www.sardegna.net/docs/cultura/storia_en.html|title=Sardinia - History of Sardinia|last=Italia|first=Stephan Hützen & MT Publisher|website=www.sardegna.net|language=EN|access-date=18 July 2017|archive-date=24 September 2017|archive-url=https://web.archive.org/web/20170924054020/http://www.sardegna.net/docs/cultura/storia_en.html|url-status=dead}}</ref><ref>Wolf Heinz J., 1998, Toponomastica barbaricina. Microtoponomastica dei comuni di Fonni, Gavoi, Lodine, Mamoiada, Oliena, Ollolai, Olzai, Orgósolo, Ovodda, Insula Edizioni</ref> [[Pope Gregory I]] wrote a letter to Hospito defining him "Dux Barbaricinorum" and, being Christian, the leader and best of his people.<ref>Gregorius I, Epistolae, Liber Quartus, Epistola XXIII: "Ad Hospitonem ducem barbaricinorum: Gregorius Hospitoni duci Barbaricinorum.
+Cum de gente vestra nemo Christianus sit,  in hoc scio quia omni gente tua es melior,  quia tu in ea Christianus inveniris.  Dum enim Barbaricini omnes,  ut insensata animalia vivant,  Deum verum nesciant,  ligna autem et lapides adorent,  in eo ipso quod Deum verum colis,  quantum omnes antecedas ostendis.  Sed fidem quam percepisti etiam bonis actibus exsequere et verbis,  et Christo,  cui credis,  offer quod praevales,  ut ad eum quoscunque potueris adducas,  eosque baptizari facias,  et aeternam vitam diligere admoneas.  Quod si fortasse ipse agere non potes,  quia ad aliud occuparis,  salutans peto ut hominibus  (0692C) nostris,  quos illuc transmisimus,  fratri scilicet et coepiscopo meo Felici,  filioque meo Cyriaco servo Dei,  solatiari in omnibus debeas,  ut dum eorum labores adiuvas,  devotionem tuam omnipotenti Domino ostendas;  et ipse tibi in bonis actibus adiutor sit,  cuius tu in bono opere famulis solatiaris.  Benedictionem vero sancti Petri apostoli per eos vobis transmisimus,  quam peto ut debeatis benigne suscipere.  Mense Iunio,  indictione 12"
+</ref> In this unique letter about Hospito, the Pope prompts him to convert his people who "living all like irrational animals, ignore the true God and worship wood and stone" ({{Lang|la|Barbaricini omnes, ut insensata animalia vivant, Deum verum nesciant, ligna autem et lapides adorent}}).<ref name="Sardes">{{cite book|title=Sardinia and the Sardes |first=Charles |last=Edwardes|publisher=R. Bentley and Son|location= London|year=1889|page= 249}}</ref>
+[[File:Silanus santa sabina2.jpg#filelinks|thumb|Santa Sabina Byzantine church and nuraghe in [[Silanus, Sardinia|Silanus]]]]
+
+The dates and circumstances of the end of Byzantine rule in Sardinia are not known. Direct central control was maintained at least through c. 650, after which local legates were empowered in the face of the rebellion of [[Gregory the Patrician]], [[Exarchate of Africa|Exarch of Africa]] and the first invasion of the [[Muslim conquest of the Maghreb]]. There is some evidence that senior Byzantine administration in the Exarchate of Africa retreated to Caralis following the final fall of [[Carthage]] to the [[Arabs]] in 697.<ref name="P. Grierson 1998, p. 287">P. Grierson & L.Travaini, Medieval European Coinage, Cambridge University Press, 1998, p. 287.</ref> The loss of imperial control in Africa led to escalating raids by [[Arabs]] on the island, the first of which is documented in 703, forcing increased military self-reliance in the province.<ref name="Consentino2004">{{cite journal |last1=Consentino |first1=Salvatore |title=Byzantine Sardinia between West and East: Features of a Regional Culture |journal=Millennium – Jahrbuch (2004) |date=16 December 2004 |volume=1 |issue=2004 |page=351 |doi=10.1515/9783110180350.329 |s2cid=201121903 |quote=... Walter Kaegi has convincingly argued that an Arab raid against Sardinia took place in the second half of the seventh century. This is an important contribution, because until now scholars commonly believe the first Arab raids against Sardinia to have taken place in 703. The majority of Muslim raids against the island, according to Muslims sources, is concentrated in the first half of the eighth century (703–704, 705–706, 707–708, 710–711, 732, 735, 752), at the same time of one of the most enduring period of Arab pressure against Anatolia and Constantinople.}}</ref>
+
+Elsewhere in the central Mediterranean, the [[Aghlabids]] [[Siege of Melite (870)|conquered]] the island of [[Malta]] in 870.<ref name=":04">{{Cite book |last=Nef |first=Annliese |chapter-url=https://books.google.com/books?id=Qo8cEAAAQBAJ&dq=amantea+aghlabid&pg=PA208 |title=A Companion to Byzantine Italy |publisher=Brill |year=2021 |isbn=978-90-04-30770-4 |pages=200–225 |language=en |chapter=Byzantium and Islam in Southern Italy (7th-11th Century)}}</ref>{{Rp|page=208}} They also attacked or raided Sardinia and [[Corsica]].<ref>{{Cite book |last=Bosworth |first=Clifford Edmund |url=https://books.google.com/books?id=mKpz_2CkoWEC&q=new+islamic+dynasties |title=The New Islamic Dynasties: A Chronological and Genealogical Manual |publisher=Edinburgh University Press |year=2004 |isbn=9780748696482 |location= |pages=31 |chapter=The Aghlabids}}</ref><ref name=":42">{{Cite book |last=Metcalfe |first=Alex |url=https://books.google.com/books?id=A8lAEAAAQBAJ |title=The Making of Medieval Sardinia |publisher=Brill |year=2021 |isbn=978-90-04-46754-5 |editor-last=Metcalfe |editor-first=Alex |pages=126–159 |language=en |chapter=Early Muslim Raids on Byzantine Sardinia |editor2-last=Fernández- Aceves |editor2-first=Hervin |editor3-last=Muresu |editor3-first=Marco}}</ref>{{Rp|page=153, 244}} Some modern references state that Sardinia came under Aghlabid control around 810 or after the beginning of the conquest of Sicily in 827.<ref>{{Cite book |last=Setton |first=Kenneth Meyer |url=https://books.google.com/books?id=RfO1J6hjcdgC&dq=aghlabid+sardinia&pg=PA43 |title=A History of the Crusades |date=1969 |publisher=Univ of Wisconsin Press |isbn=978-0-299-04834-1 |pages=43 |language=en}}</ref><ref>{{Cite book |last1=Agius |first1=Dionisius A. |url=https://books.google.com/books?id=RVLAF4b_62oC&dq=aghlabid+central+Mediterranean+island+sardinia&pg=PA27 |title=Siculo Arabic |last2=Agius |date=1996 |publisher=Routledge |isbn=978-0-7103-0497-1 |pages=27 |language=en}}</ref><ref>{{Cite book |last=Goodwin |first=Stefan |url=https://books.google.com/books?id=up9Fy-NBiLAC&dq=sardinia+aghlabid&pg=PA16 |title=Malta, Mediterranean Bridge |date=2002 |publisher=Greenwood Publishing Group |isbn=978-0-89789-820-1 |pages=16 |language=en}}</ref><ref>{{Cite book |last1=Lea |first1=David |url=https://books.google.com/books?id=ROR1xreEJTsC&dq=A+Political+Chronology+of+Africa+aghlabid+sardinia&pg=PA437 |title=A Political Chronology of Africa |last2=Rowe |first2=Annamarie |publisher=Taylor & Francis |year=2001 |isbn=978-1-85743-116-2 |pages=437 |language=en}}</ref> Historian Corrado Zedda argues that the island hosted a Muslim presence during the Aghlabid period, possibly a limited foothold along the coasts that forcibly coexisted with the local Byzantine government.<ref>{{Cite book |last=Zedda |first=Corrado |chapter-url=https://books.google.com/books?id=WuEzDwAAQBAJ&dq=sardinia+aghlabid&pg=PA119 |title=A Companion to Sardinian History, 500–1500 |publisher=Brill |year=2017 |isbn=978-90-04-34124-1 |editor-last=Hobart |editor-first=Michelle |pages=119 |language=en |chapter=A Revision of Sardinian History between the Eleventh and Twelfth Centuries}}</ref> Historian Alex Metcalfe argues that the available evidence for any Muslim occupation or colonisation of the island during this period is limited and inconclusive, and that Muslim attacks were limited to raids.<ref name=":42" />
+
+Communication with the central government became daunting if not impossible during and after the [[Muslim conquest of Sicily]] between 827 and 902. A letter by [[Pope Nicholas I]] as early as 864 mentions the "Sardinian judges",{{sfn|Casula|1994|p=163}} without reference to the empire and a letter by [[Pope John VIII]] (reigned 872–882) refers to them as ''principes'' ("princes"). By the time of ''[[De Administrando Imperio]]'', completed in 952, the Byzantine authorities no longer listed Sardinia as an imperial province, suggesting they considered it lost.<ref name="P. Grierson 1998, p. 287"/>
+In all likelihood a local noble family, the [[Lacon-Gunale]], acceded to the power of [[Archon]], still identifying themselves as vassals of the Byzantines, but ''[[de facto]]'' independent as communications with Constantinople were very difficult. Only two names of those rulers are known: Salusios ({{Lang|grc|Σαλούσιος}}) and the protospatharios Turcoturios ({{Lang|grc|Tουρκοτούριος}}) from two inscriptions),<ref>Κύριε βοήθε τοῦ δοῦλου σου Tουρκοτουρίου ἅρχωντος Σαρδινίας καί τής δούλης σου Γετιτ 2) Tουρκοτουρίου βασιλικου πρωτοσπαθαρίου και Σαλουσίου των ευγενεστάτων αρχόντων.) R. CORONEO, Scultura mediobizantina in Sardegna, Nuoro, Poliedro, 2000</ref><ref>Antiquitas nostra primum Calarense iudicatum, quod tunc erat caput tocius Sardinie, armis subiugavit, et regem Sardinie Musaitum nomine civitati Ianue captum adduxerunt, quem per episcopum qui tunc Ianue erat, aule sacri palatii in Alamanniam mandaverunt, intimantes regnum illius nuper esse additum ditioni Romani imperii." – Oberti Cancellarii, Annales p 71, Georg Heinrich (a cura di) MGH, Scriptores, Hannoverae, 1863, XVIII, pp. 56–96</ref><ref>Crónica del califa 'Abd ar-Rahmân III an-Nâsir entre los años 912–942,(al-Muqtabis V), édicion. a cura de P. CHALMETA – F. CORRIENTE, Madrid,1979, p. 365 Tuesday, 24 August 942 (A.D.), a messenger of the Lord of the island of Sardinia appeared at the gate of al-Nasir (...) asking for a treaty of peace and friendship. With him were the merchants, people Malfat, known in al-Andalus as from Amalfi, with the whole range of their precious goods, ingots of pure silver, brocades etc. ... transactions which drew gain and great benefits</ref> who probably reigned between the 10th and the 11th century. These rulers were still closely linked to the Byzantines, both for a pact of ancient vassalage,<ref>To the Archont of Sardinia: a bulla with two gold bisolida with this written: from the very Christian Lord to the Archont of Sardinia. (εὶς τὸν ἄρχοντα Σαρδανίας. βούλλα κρυσῆ δισολδία. "κέλευσις ὲκ τῶν φιλοχρίστων δεσποτῶν πρὸς τὸν ἄρχοντα Σαρδανίας.") Reiske, Johann Jakob: Leich, Johannes Heinrich, eds. (1829). Constantini Porphyrogeniti Imperatoris De Ceremoniis Aulae Byzantinae libri duo graece et latini e recensione Io. Iac. Reiskii cum eiusdem commentariis integris. Corpus Scriptorum Historiae Byzantinae 1 (Leipzig (1751–54) ed.). Bonn: Weber. pag. 690</ref> and from the ideological point of view, with the use of the [[Byzantine Greek]] language (in a [[Romance languages|Romance]] country), and the use of art of Byzantine inspiration.
+[[File:San Gavino Aussenansicht.JPG|thumb|The medieval [[Basilica of San Gavino]] in [[Porto Torres]]]]
+[[File:Saccargia,_interno,_ciclo_del_xiii_sec._02.JPG|thumb|12th century frescoes in the [[Basilica di Saccargia]] in [[Codrongianos]]]]
+In the early 11th century, an attempt to conquer the island was made by [[Mujahid al-Amiri]] al-Ṣaqlabī was [[Taifa of Dénia|the ruler of Dénia and the Balearic Islands]] based in the [[Iberian Peninsula]].<ref>F. CODERA, Mochéid, conquistador de Cerdeña, in Centenario della nascita di Michele Amari. Scritti di filologia e storia araba; geografia, storia, diritto della Sicilia medioevale; studi bizantini e giudaici relativi all'Italia meridionale nel medio evo; documenti sulle relazioni fra gli Stati italiani e il Levante, vol. II, Palermo 1910, pp. 115–33, p. 124</ref> The only records of that war are from Pisan and Genoese chronicles.<ref>B. Maragonis, ''Annales pisani'' a. 1004–1175, ed. K. PERTZ, in MGH, Scriptores, 19, Hannoverae, 1861/1963, pp. 236–2 and ''Gli Annales Pisani'' di Bernardo Maragone, a cura di M. L. Gentile, in Rerum Italicarum Scriptores, n.e., VI/2, Bologna 1930, pp. 4–7. 1017. «Fuit Mugietus reversus in Sardineam, et cepit civitatem edificare ibi atque homines Sardos vivos in cruce murare. Et tunc Pisani et Ianuenses illuc venere, et ille propter pavorem eorum fugit in Africam. Pisani vero et Ianuenses reversi sunt Turrim, in quo insurrexerunt Ianuenses in Pisanos, et Pisani vicerunt illos et eiecerunt eos de Sardinea».</ref> The [[Pisan–Genoese expeditions to Sardinia|Christians won]] but, after that, the previous Sardinian kingdom was undermined and subsequently divided into four smaller states: Cagliari (''Calari''), Arborea (''Arbaree''), Gallura, and Torres or Logudoro.
+
+Whether this final transformation from imperial civil servant to independent sovereign bodies resulted from imperial abandonment or local assertion, by the 10th century, the so-called "Judges" ({{langx|sc|judikes}} / {{langx|la|iudices}}, a Byzantine administrative title) had emerged as the autonomous rulers of Sardinia. The title of {{Lang|la|iudice}} changed with the language and local understanding of the position, becoming the Sardinian {{lang|sc|judike}}, essentially a king or sovereign, while ''[[Sardinian medieval kingdoms|Judicate]]'' ({{langx|sc|logu}}) came to mean 'state'.<ref>Almanacco scolastico della Sardegna, p. 101</ref>
+
+Early medieval Sardinian political institutions evolved from the millennium-old Roman imperial structures with relatively little Germanic influence.
+
+Although the [[Sardinian medieval kingdoms|Judicates]] were hereditary lordships, the old Byzantine imperial notion that personal title or honor was separate from the state still remained, so the Judicate was not regarded as the personal property of the monarch as was common in later European [[feudalism]]. Like the imperial systems, the new order also preserved "semi-democratic" forms, with national assemblies called the [[Crown of the Realm]]. Each Judicate saw to its own defense, maintained its own laws and administration, and looked after its own foreign and trading affairs.<ref>{{cite book|last1=Birocchi|first1=I. |first2=A. |last2=Mattone |title=La carta de logu d'Arborea nella storia del diritto medievale e moderno|publisher=Laterza|year= 2004}}</ref>
+
+The history of the four Judicates would be defined by the contest for influence between the two Italian [[maritime republics|maritime powers]] of [[Genoa]] and [[Pisa]], and later the ambitions of the [[Kingdom of Aragon]].
+[[File:Giudicati sardi 2.svg|thumb|left|The Sardinian Judicates]]
+The [[Giudicato of Cagliari|Judicate of Cagliari]] or ''Pluminos'', during the regency of [[Torchitorio V of Cagliari]] and his successor, [[William III of Cagliari|William III]], was allied with the [[Republic of Genoa]]. Because of this it was brought to an end in 1258, when its capital, [[Santa Igia]], was stormed and destroyed by an alliance of Sardinian and Pisan forces. The territory then was divided between the [[Republic of Pisa]], the [[Della Gherardesca family]] from Italy, and the Sardinian Judicates of Arborea and Gallura. Pisa maintained the control over the fortress of Castel di Cagliari founded by Pisan merchants in 1216–1217 east of Santa Igia;{{sfn|Casula|1994|p=209-210-212}} in the south-west the count [[Ugolino della Gherardesca]] promoted the birth of the town of ''Villa di Chiesa'' (today [[Iglesias, Sardinia|Iglesias]]) to exploit the nearby rich [[silver]] deposits.{{sfn|Casula|1994|p=293-294}}
+
+The [[Giudicato of Logudoro|Judicate of Logudoro]] (also called ''Torres'') was also allied to the [[Republic of Genoa]] and came to an end in 1259 after the death of the {{lang|sc|judikessa}} (queen) [[Adelasia of Torres|Adelasia]]. The territory was divided up between the [[Doria (family)|Doria]] and Malaspina families of [[Genoa]] and the Bas-Serra family of [[Giudicato of Arborea|Arborea]], while the city of [[Sassari]] became [[Republic of Sassari|a small republic]], along the lines of the [[Italian city-states]] (''comuni''), [[Confederation|confederated]] firstly with Pisa and then with Genoa.<ref>{{Cite web|url=http://www.sardegnacultura.it/j/v/258?s=20317&v=2&c=2695&t=7|title=Sardegna Cultura - Lingua sarda - Letteratura - Dalle origini al '700|website=www.sardegnacultura.it|access-date=17 October 2016|archive-date=3 February 2018|archive-url=https://web.archive.org/web/20180203005816/http://www.sardegnacultura.it/j/v/258?s=20317&v=2&c=2695&t=7|url-status=dead}}</ref>
+
+The [[Giudicato of Gallura|Judicate of Gallura]] ended in the year 1288, when the last giudice, [[Nino Visconti]] (a friend of [[Dante Alighieri]]), was driven out by the Pisans, who occupied the territory.{{sfn|Casula|1994|p=297}}
+
+The [[Giudicato of Arborea|Judicate of Arborea]], having [[Oristano]] as its capital, had the longest life compared to the other kingdoms. Its later history is entwined with the attempt to unify the island into a single Sardinian state ({{Lang|sc|Republica sardisca}} 'Sardinian Republic' in Sardinian, {{Lang|ca|Nació sarda}} or {{Lang|ca|sardesca}} 'Sardinian Nation' in Catalan) against their relatives and former [[Crown of Aragon|Aragonese]] allies.
+
+=== Aragonese period ===
+In 1297, [[Pope Boniface VIII]] established on his own initiative (''[[motu proprio]]'') a hypothetical ''regnum Sardiniae et Corsicae'' ("[[Kingdom of Sardinia|Kingdom of Sardinia and Corsica]]") in order to settle the [[War of the Sicilian Vespers]] diplomatically. This had broken out in 1282 between the [[Capetian House of Anjou]] and [[Aragon]] over the possession of Sicily. Despite the existence of the indigenous states, the Pope offered this newly created crown to [[James II of Aragon]], promising him support should he wish to conquer Pisan Sardinia in exchange for Sicily.
+[[File:Proclamazione della Repubblica sassarese - Giuseppe Sciuti, 1880 - Sassari, Palazzo della Provincia.png|thumb|upright=1.35|The proclamation of the Republic of [[Sassari]]. The Sassarese republic lasted from 1272 until 1323, when it sided with the new born Kingdom of Sardinia.]]
+
+In 1324, in alliance with the Kingdom of Arborea{{sfn|Casula|1994|p=342}} and following a [[Aragonese conquest of Sardinia|military campaign]] that lasted a year or so, the Aragon Crown Prince [[Alfonso IV of Aragon|Alfonso]] led an Aragonese army that occupied the Pisan territories of Cagliari and Gallura along with the allied city of Sassari, naming them "The Kingdom of Sardinia and Corsica". The kingdom was to remain a dominion of the Crown of Aragon (under the 16th-century kings of Spain) until the [[Peace of Utrecht]].
+
+During this period, the Judicate of Arborea promulgated the legal code of the kingdom in the ''[[Carta de Logu]]'' ('Charter of the Land'). The Carta de Logu was originally compiled by [[Marianus IV of Arborea]], and was amended and updated by Mariano's daughter, Female Judge ({{lang|sc|judikessa}} or {{lang|sc|juighissa}}) [[Eleanor of Arborea]]. The legal code was written in [[Sardinian language|Sardinian]] and established a whole range of citizens' rights. Among the revolutionary concepts in this Carta de Logu was the right of women to refuse marriage and to own property. In terms of civil liberties, the code made provincial 14th century Sardinia one of the most developed societies in all of Europe.<ref>{{cite web|url=http://traveler.nationalgeographic.com/2009/09/drives/italy-emerald-coast-text |archive-url=https://web.archive.org/web/20090815145033/http://traveler.nationalgeographic.com/2009/09/drives/italy-emerald-coast-text |url-status=dead |archive-date=15 August 2009 |title=Sardinia, Italy, Drive – National Geographic Traveler |publisher=Traveler.nationalgeographic.com |access-date=23 April 2010}}</ref>
+
+In 1353, [[Peter IV of Aragon]], following Aragonese customs, granted a parliament to the kingdom of Sardinia and Corsica, which was followed by some degree of self-government under a viceroy and judicial independence. This parliament, however, had limited powers. It consisted of high-ranking military commanders, the clergy and the nobility. The kingdom of Aragon also introduced the [[feudalism|feudal]] system into the areas of Sardinia that it ruled.
+
+The Sardinian Judicates never adopted feudalism, and Arborea maintained its parliament, called the ''[[Corona de Logu]]'' 'Crown of the Realm'. In this parliament, apart from the nobles and military commanders, also sat the representatives of each township and village. The Corona de Logu exercised some control over the king: under the rule of the ''bannus consensus'' the king could be deposed or even executed if he did not follow the rules of the kingdom.
+[[File:Eleanor statue Oristano.jpg|thumb|left|Statue of the ''Juighissa'' [[Eleanor of Arborea]] in [[Oristano]]]]
+Having broken the alliance with the Crown of Aragon, from 1353{{sfn|Casula|1994|p=349}} to 1409, the Arborean giudici [[Marianus IV of Arborea|Marianus IV]], [[Hugh III of Arborea|Hugh III]] and [[Brancaleone Doria]] (husband of [[Eleanor of Arborea]]), succeeded in occupying all of Sardinia except the heavily fortified towns of the Castle of [[Cagliari]] and [[Alghero]], which for years remained as the only Aragonese dominions in Sardinia ([[Sardinian–Aragonese war]]).
+
+In 1409, [[Martin I of Sicily]], king of Sicily and heir to the crown of Aragon, defeated the Sardinians at the [[Battle of Sanluri]]. The battle was fought by about 20,000 Sardinian, Genoese and French knights, enrolled from their kingdom at a time when the population of Sardinia had been greatly depleted by the plague. Despite the Sardinian army outnumbering the Aragonese army, they were defeated.
+
+The Judicate of Arborea disappeared in 1420, when its rights were sold by the last king for 100,000 [[Florin (Italian coin)|gold florins]],{{sfn|Casula|1994|p=372}} and after some of its most notable men switched sides in exchange for privileges. For example, Leonardo Cubello, with some claim to the crown being from a family related to the Kings of Arborea, was granted the title of [[Marquisate of Oristano|Marquis of Oristano]] and feudal rights on a territory that partly overlapped with the original extension of the Kingdom of Arborea in exchange for his subjection to the [[List of Aragonese monarchs|Aragonese monarchs]].
+
+The conquest of Sardinia by the [[Kingdom of Aragon]] meant the introduction of the feudal system throughout Sardinia. Thus Sardinia is probably the only European country where feudalism was introduced in the transition period from the Middle Ages to the [[early modern period]], at a time when feudalism had already been abandoned by many other European countries.
+
+=== Spanish period ===
+[[File:Bandiera del Regno di Sardegna nel corte funebre dell'Imperatore Carlo V.jpg|thumb|upright=1.25|Flag of the Kingdom of Sardinia (center) at the funeral of Charles I of Spain]]
+[[File:Torre della Pelosa.jpg|thumb|Spanish era coastal tower in [[Stintino]] called ''Torre della Pelosa'']]
+In 1469, the heir to Sardinia, [[Ferdinand II of Aragon]], married [[Isabel of Castile]], and the "[[Kingdom of Sardinia]]" (which was separated from Corsica) was to be inherited by their Habsburg grandson, [[Charles I of Spain]], with the state symbol of the [[Maure|Four Moors]]. The successors of [[Charles I of Spain]], in order to defend their Mediterranean territories from raids of the [[Barbary pirates]], fortified the Sardinian shores with a system of coastal lookout towers, allowing the gradual resettlement of some coastal areas.
+
+The Kingdom of Sardinia remained Aragonese-Spanish for about 400 years, from 1323 to 1708, assimilating a number of Spanish traditions, customs and linguistic expressions, nowadays vividly portrayed in the folklore parades of Saint Efisio in Cagliari (1 May), the Cavalcade on Sassari (last but one Sunday in May), and the Redeemer in Nuoro (28 August). To this day Catalan is still spoken in the north-western city of [[Alghero]] ([[l'Alguer]]).
+
+Many [[famine]]s have been reported in Sardinia. According to Stephen L. Dyson and Robert J. Rowland, "The [[Jesuits]] of [[Cagliari]] recorded years during the late 16th century "of such hunger and so sterile that the majority of the people could sustain life only with wild ferns and other weeds" ... During the terrible famine of 1680, some 80,000 people, out of a total population of 250,000, are said to have died, and entire villages were devastated ... "<ref>{{cite book|last1=Dyson|first1=Stephen L|last2=Rowland|first2=Robert J.|title=Archaeology and history in Sardinia from the Stone Age to the Middle Ages: shepherds, sailors & conquerors|publisher=UPenn Museum of Archaeology, 2007|location=Philadelphia|year=2007|isbn=978-1-934536-02-5|page=136}}</ref>
+
+=== Savoyard period ===
+In 1708, as a consequence of the [[Spanish War of Succession]], the rule of the [[Kingdom of Sardinia (1720–1861)|Kingdom of Sardinia]] passed from [[King Philip V of Spain]] into the hands of the [[Empire of Austria|Austrians]], who occupied the island. The [[Treaty of Utrecht]] granted Sardinia to the [[Empire of Austria|Austrians]], but in 1717, Cardinal [[Giulio Alberoni]], minister of [[Philip V of Spain]], [[Spanish conquest of Sardinia|reoccupied Sardinia]].
+
+In 1718, with the Treaty of London, Sardinia was eventually handed over to the [[House of Savoy]]; this Alpine dynasty would go on to introduce the [[Italian language]] on the island forty years later in 1760, thereby starting a process of [[Italianization]] amongst the islanders.<ref>''The phonology of Campidanian Sardinian : a unitary account of a self-organizing structure'', Roberto Bolognesi, The Hague : Holland Academic Graphics</ref><ref>'' S'italianu in Sardìnnia '', Amos Cardia, Iskra</ref><ref>{{Cite web|url=https://www.meilogunotizie.net/focus/storia/161/la-limba-proibita-nella-sardegna-del-700|title=La limba proibita nella Sardegna del '700|website=www.meilogunotizie.net|date=11 July 2013 }}</ref>
+
+In 1793, Sardinians repelled the French ''[[Expédition de Sardaigne]]'' during the [[French Revolutionary Wars]]. On 23 February 1793, [[Domenico Millelire]], commanding the Sardinian fleet, defeated the fleets of the French Republic near the [[Maddalena archipelago]], of which then-lieutenant [[Napoleon|Napoleon Bonaparte]] was a leader.<ref>{{cite web|url=http://www.napoleon-series.org/military/battles/1793/c_maddalena.html|title=La Maddalena, February 1793}}</ref> Millelire became the first recipient of the [[Gold Medal of Military Valor]] of the [[Italian Armed Forces]]. In the same month, Sardinians stopped the attempted French landing on the beach of [[Quartu Sant'Elena]], near the Capital of [[Cagliari]]. Because of these successes, the representatives of the nobility and clergy (''Stamenti'') formulated five requests addressed to the King [[Victor Amadeus III of Sardinia]], but they were all met with rejection. Because of this discontent, on 28 April 1794, during an uprising in [[Cagliari]], two Savoyard officials were killed; that was the spark that ignited a revolt (called the "Sardinian Vespers") throughout the island, which started on 28 April 1794 (commemorated today as ''[[sa die de sa Sardigna]]'') with the expulsion and execution of the Piedmontese officers for a few days from the Capital [[Cagliari]]. 
+[[File:Ingresso a Sassari.jpg|thumb|left|G.M. Angioy entry into Sassari]]
+On 28 December 1795 [[Sassari]] insurgents demonstrating against feudalism, mainly from the region of [[Logudoro]], occupied the city. On 13 February 1796, in order to prevent the spread of the revolt, the viceroy Filippo Vivalda gave the Sardinian magistrate [[Giovanni Maria Angioy]] the role of Alternos, which meant a substitute of the viceroy himself. Angioy moved from Cagliari to Sassari, and during his journey almost all the villages joined the uprising, demanding an end to feudalism and aiming to declare the island to be an independent republic,<ref>''Sardinia'', Dana Facaros & Michael Pauls, 2003</ref><ref>''Idee di Sardegna'', Carlo Pala, Carocci Editore, 2016, pp.77</ref> but once he was outnumbered by [[Loyalism|loyalist]] forces he fled to Paris and sought support for a French annexation of the island.
+
+In 1798, the islet near Sardinia was attacked by the [[Tunisia]]ns and over 900 inhabitants were taken away as [[slave]]s.<ref>"''[https://books.google.com/books?id=5q9zcB3JS40C&pg=PA45 Christian Slaves, Muslim Masters: White Slavery in the Mediterranean, the Barbary Coast and Italy, 1500–1800]''". Robert Davis (2004). p.45. {{ISBN|1-4039-4551-9}}.</ref> The final Muslim attack on the island was on [[Sant'Antioco]] on 16 October 1815, over a millennium since the first.<ref>{{cite web|url=http://ricerca.gelocal.it/lanuovasardegna/archivio/lanuovasardegna/2003/02/02/SW203.html|title=Nel 1815 difese l'isola dagli assalti barbareschi Sant'Antioco, una targa in ricordo dell'eroe Efisio Melis Alagna|work=Archivio – La Nuova Sardegna|access-date=29 November 2013|archive-date=3 December 2013|archive-url=https://web.archive.org/web/20131203065736/http://ricerca.gelocal.it/lanuovasardegna/archivio/lanuovasardegna/2003/02/02/SW203.html|url-status=dead}}</ref>
+
+In 1799, as a consequence of the [[Napoleonic Wars]] in Italy, the Savoy royal family left [[Turin]] and took refuge in Cagliari for some fifteen years.{{sfn|Casula|1994|p=472-475}} In 1847, the Sardinian parliaments (''Stamenti''), in order to get the Piedmontese liberal reforms they could not afford due to their separated legal system, renounced their state autonomy and agreed to [[Perfect Fusion|form a union]] with the Italian Mainland States (''Stati di Terraferma''), ending up with a single parliament, a single magistracy and a single government in Turin; this move aggravated the island's peripheral condition<ref>Onnis, Omar. ''La Sardegna e i sardi nel tempo'', Arkadia, pp.172</ref> and most of the pro-union supporters, including its leader Giovanni Siotto Pintor, would later regret it.<ref>{{cite web|url=http://blog.libero.it/07061944/12535085.html|title=29 novembre 1847: la Fusione perfetta, una data infausta per i Sardi e la Sardegna su Truncare sas cadenas|work=07061944}}</ref>
+
+[[File:Costumes of Sardinia 1880s 01.jpg|thumb|Sardinians wearing [[Folk costume|traditional ethnic garments]], 1880s]]
+In 1820, the Savoyards imposed the Enclosures Act (''Editto delle Chiudende'') on the island, aimed at turning the land's traditional collective ownership, a cultural and economic cornerstone of Sardinia since the Nuragic times,<ref name="chiudende">{{Cite web|url=https://www.sardegnaforeste.it/notizia/editto-delle-chiudende-1820-una-pagina-di-conflittualit%C3%A0-nella-storia-sarda|title=Editto delle chiudende 1820: una pagina di conflittualità nella storia sarda. &#124; SardegnaForeste|website=www.sardegnaforeste.it}}</ref> to private property. This gave rise to many abuses, as the reform ended up favouring the landholders while excluding the poor Sardinian farmers and shepherds, who witnessed the abolition of the communal rights and the sale of their lands. Many local rebellions like the [[Nuoro|Nuorese]] {{Lang|sc|Su Connottu}} ('The Already Known' in Sardinian) riot in 1868,<ref>{{cite web|url=http://www.contusu.it/a-su-connottu-la-ribellione-del-1868/|title=A su connottu: la ribellione del 1868 – Contus Antigus|date=7 May 2014}}</ref><ref>{{cite web|url=http://love.sardegne.com/sardegna-info/citta-e-paesi/nuoro/226-su-connottu-la-rivolta-nuorese-contro-i-savoia/|title=Su Connottu, la rivolta nuorese contro i Savoia – I love Sardinia|date=14 November 2005}}</ref> all repressed by the King's army, resulted in an attempt to return to the past and reaffirm the right to use the once common land. However the [[common lands]] (called ''ademprivios'') were never completely abolished, and they are still present in large number to this day (500,000 hectares of common lands were counted in 1956, of which 345,000 constituted by woods).<ref>{{cite web |title=Storia delle foreste demaniali |publisher=Sardegna Foreste |url=http://www.sardegnaambiente.it/foreste/enteforeste/compiti/storia.html |language=it |url-status=dead |archive-url=https://web.archive.org/web/20060824041554/http://www.sardegnaforeste.it:80/enteforeste/compiti/storia.html |archive-date=24 August 2006 |access-date=26 June 2021}}</ref>
+
+===Kingdom of Italy===
+
+With the [[Perfect fusion]] in 1848, the confederation of states powered by the Savoyard kings of Sardinia became a unitary and constitutional state and moved to the [[First Italian War of Independence|Italian Wars of Independence]] for the [[Unification of Italy]], that were led for thirteen years. In 1861, being Italy united by a debated war campaign, the parliament of the Kingdom of Sardinia decided by law to change its name and the title of its king to [[Kingdom of Italy]] and [[King of Italy]]. Most Sardinian forests were cut down at this time, in order to provide the Piedmontese with raw materials, like wood, used to make railway sleepers on the mainland. The primary natural forests, praised by every{{Citation needed|date=May 2021}} traveller visiting Sardinia, would in fact be reduced to one-fifth of their original number, being little more than 100,000 hectares at the end of the century.<ref>''Colpi di scure e sensi di colpa. Storia del disboscamento della Sardegna dalle origini a oggi'', Fiorenzo Caterini, Carlo Delfino editore, {{ISBN|978-88-7138-704-8}}</ref> From 1850 onward, taxes more than doubled in Sardinia, which compounded the already severe financial hardships facing the islanders, due to the Italo-French tariff war: between 1885 and 1897, the Sardinians saw their land being confiscated more than the rest of Italy combined as a result of tax evasion.<ref>{{cite book|author=Roy Domenico|title=The Regions of Italy. A Reference Guide to History and Culture|place=London|publisher=Greenwood Press|year=2002|page=258}}</ref>
+
+During the [[World War I|First World War]], the Sardinian soldiers of the [[Sassari Mechanized Brigade|Brigata Sassari]] distinguished themselves. It was the first and only regional military unit in Italy, since the people enrolled were only Sardinians. The brigade suffered heavy losses and earned four [[Gold Medal of Military Valor|Gold Medals of Military Valor]]. Sardinia lost more young people than any other Italian region on the front, with 138 casualties per 1000 soldiers compared to the Italian average of 100 casualties.
+
+During the [[Italian Fascism|Fascist]] period, with the implementation of the policy of [[autarky]], several swamps around the island were reclaimed and agrarian communities founded. The main communities were the village of Mussolinia (now called [[Arborea]]), populated by farmers from [[Veneto]] and [[Friuli]], in the area of Oristano and [[Fertilia]], populated at first by settlers from the [[Ferrara]] area, followed, after [[World War II]], by a notable number of [[Istrian Italians]] and [[Dalmatian Italians]] hailing from territories lost to [[Socialist Federal Republic of Yugoslavia|Yugoslavia]], in the area adjacent the city of [[Alghero]], within the region of [[Nurra]] . Also established during that time (1938) was the city of [[Carbonia, Italy|Carbonia]], which became the main centre of [[coal mining]] activity, that attracted thousand of workers from the rest of the Island and the Italian mainland. The Sardinian writer [[Grazia Deledda]] won the [[Nobel Prize for Literature]] in 1926.
+
+[[File:Bundesarchiv Bild 101I-468-1415-35, Süditalien, Häuserruinen.jpg|thumb|left|Effect of Allied bombing on [[Cagliari]] during the [[Second World War]]]]
+During the [[Second World War]], Sardinia was an important air and naval base and was heavily bombed by the [[Allies of World War II|Allies]], especially the city of Cagliari. German troops left the island on 8 September 1943, a few days after the [[Armistice of Cassibile]], and retired to Corsica without fighting and bloodshed, after a bilateral agreement between the general Antonio Basso (Commander of the Armed Forces of Sardinia) and the German [[Karl Hans Lungerhausen]], general of the [[90th Light Infantry Division (Wehrmacht)|90th Panzergrenadier Division]].<ref>Antonio Basso, Generale Antonio Basso, L'armistizio del settembre 1943 in Sardegna, Napoli, Rispoli, 1947. no ISBN, page 57</ref>
+
+=== Post-Second World War period ===
+In 1946, by popular referendum, Italy became a republic, with Sardinia being administered since 1948 by a special statute of autonomy. By 1951, [[malaria]] was successfully eliminated by the ERLAAS, Anti-malaric Regional Authority, and the support of the [[Rockefeller Foundation]], which facilitated the commencement of the Sardinian tourist boom.<ref>Simonis, Damien. ''Lonely Planet Sardinia'', Lonely Planet Publications (June 2003), pp.17</ref> With the increase in [[Tourism in Sardinia|tourism]], coal decreased in importance but Sardinia followed the [[Italian economic miracle]].
+[[File:Three luxury yachts - Lady Anne, Lady Moura and Pelorus.jpg|thumb|Super yachts anchored at [[Porto Cervo]] port, [[Costa Smeralda]]]]
+In the early 1960s, an [[industrialisation]] effort was commenced, the so-called ''Piani di Rinascita'' (rebirth plans), with the initiation of major infrastructure projects on the island. These included the construction of new dams and roads, reforestation, agricultural zones on reclaimed marshland, and large industrial complexes (primarily oil refineries and related petrochemical operations). With the creation of [[petrochemical]] [[Industry (economics)|industries]], thousands of ex-farmers became industrial workers. The [[1973 oil crisis]] caused the termination of employment for thousands of workers employed in the petrochemical industries, which aggravated the emigration already present in the 1950s and 1960s.
+
+Sardinia faced the creation of [[military base]]s on the island,<ref>{{Cite journal|title=Military pollution in no war zone: The military representation in the local media|first1=Aide|last1=Esu|first2=Simone|last2=Maddanu|date=4 April 2017|journal=Journalism|volume = 19|issue = 3|pages = 420–438|doi=10.1177/1464884917700914|hdl = 11584/212085|s2cid=152134134|url=https://iris.unica.it/bitstream/11584/212085/1/PISQ.pdf}}</ref><ref name="news.com.au">{{cite web|url=http://www.news.com.au/finance/business/other-industries/dark-truth-behind-sardinias-holiday-oasis/news-story/8a372818be6d3d0d2c969ab24914df05|title=Dark truth behind Sardinia's sun tans|date=6 November 2015}}</ref> like [[Decimomannu Air Base]] and [[Salto di Quirra]] (the biggest scientific military base in Europe) in the same decades.<ref>{{Cite web|url=http://warisacrime.org/downloads/sardinia.pdf|archive-url=https://web.archive.org/web/20160626131218/http://warisacrime.org/downloads/sardinia.pdf|url-status=dead|title=Sardinia: Militarization, Contamination and Cancer in Paradise|archive-date=26 June 2016}}</ref> Even now, around 60% of all Italian and NATO military installations in Italy are on Sardinia, whose area is less than one-tenth of all the Italian territory and whose population is little more than the 2.5%;<ref>{{cite web|url=https://www.neweurope.eu/article/bc-us-stock-prices-us-214/|title=BC-US—Stock Prices, US|date=8 October 2014|access-date=18 July 2016|archive-date=4 April 2019|archive-url=https://web.archive.org/web/20190404174657/https://www.neweurope.eu/article/bc-us-stock-prices-us-214/|url-status=dead}}</ref> furthermore, they comprise over 35,000 hectares used for experimental weapons testing,<ref>{{Cite web|url=http://www.regione.sardegna.it/argomenti/ambiente_territorio/servitumilitari/|title=Ambiente e territorio |website=www.regione.sardegna.it}}</ref><ref>{{cite web|url=http://www.enricolobina.org/wp/2014/07/25/sardinia-and-the-right-to-self-determination-of-peoples-document-to-be-presented-to-the-european-left-university-berlin-2014/|title=Sardinia and the right to self-determination of peoples Document to be presented to the European Left University, Berlin 2014|work=Enrico Lobina}}</ref> where 80% of the military explosives in Italy are used.<ref name="repubblica.it">{{cite web|url=http://espresso.repubblica.it/attualita/2016/02/29/news/silenzio-di-piombo-le-basi-militari-in-sardegna-e-quelle-morti-senza-risposte-1.252237|title=Silenzio di piombo: le basi militari in Sardegna e quelle morti senza risposte|date=1 March 2016}}</ref>
+
+[[Sardinian nationalism]] and local [[protest movement]]s became stronger in the 1970s, and a number of [[Sardinian banditry|bandits]] (''[[anonima sarda]]'') started a long series of [[kidnappings]], which ended only in the 1990s.<ref>Arnold P. Goldstein, Marshall H. Segall. ''Aggression in Global Perspective'', 2013, pg. 301; pg. 304</ref> This also gave rise to various militant groups that blended separatist and [[communist]] ideas, the most famous being ''Barbagia Rossa'' and the [[Sardinian Armed Movement]],<ref>Giovanni Ricci, ''Sardegna Criminale'', Newton Compton, 2008</ref> which perpetrated several bombings and terrorist actions between the 1970s and the 1980s.<ref>{{cite web |url=http://www.sisde.it/gnosis/Rivista3.nsf/ServNavigE/7 |title=Sardinia, a political laboratory |publisher=GNOSIS, Italian Intelligence Magazine |access-date=9 December 2011 |archive-date=18 December 2007 |archive-url=https://web.archive.org/web/20071218082352/http://www.sisde.it/gnosis/Rivista3.nsf/ServNavigE/7 |url-status=dead }}</ref><ref>''The Dynamics of Subversion and Violence in Contemporary Italy'' – Vittorfranco Pisano, Hoover Institution Press (1987)</ref><ref>''Il codice barbaricino'' – Paola Sirigu, Davide Zedda Editore</ref> In the span of just two years (1987–1988), 224 bombing attacks were reported.<ref>Il codice barbaricino – Paola Sirigu, Davide Zedda Editore, pp. 225</ref>
+
+[[File:US Navy 040114-N-8197M-002 The sun rises behind the submarine tender USS Emory S. Land (AS 39). Emory S. Land is the only forward deployed submarine tender in the Western hemisphere.jpg|thumb|[[Santo Stefano (island)|Santo Stefano]]'s former NATO naval base]]
+
+In 1983 a prominent activist of a separatist party, the [[Sardinian Action Party]] (''Partidu Sardu – Partito Sardo d'Azione''), was elected president of the regional parliament, and in the 1980s several other movements calling for independence from Italy were born; in the 1990s some of them became political parties, even if in a rather disjointed manner. It was not until 1999 that the island's languages ([[Sardinian language|Sardinian]], [[Sassarese language|Sassarese]], [[Gallurese]], [[Algherese dialect|Algherese]] and [[Ligurian (Romance language)|Tabarchino]]) were recognised, even if just formally, together with [[Italian language|Italian]]. The [[35th G8 summit]] was planned by [[Prodi II Cabinet]] to be held in Sardinia, on the island of [[La Maddalena]], in July 2009; however, in April 2009, the Italian Prime Minister, [[Silvio Berlusconi]], decided, without convoking the Italian parliament or consulting the Sardinian governor of [[The People of Freedom|his own party]], to move the summit, even though the works were almost completed, to [[L'Aquila]], provoking heavy protests.
+
+Today Sardinia is phasing in as an [[European Union|EU]] region, with a diversified economy focused on tourism and the tertiary sector. The economic efforts of the last twenty years have reduced the handicap of insularity, especially in the fields of [[Low-cost carrier|low-cost air travel]] and advanced [[information technology]]. For example, the [[CRS4]] (Center for Advanced Studies, Research and Development in Sardinia) developed the second European [[website]] and 1st in Italy in 1991<ref>{{cite web|url=http://archiviostorico.corriere.it/1999/dicembre/28/Soru_incontro_con_Rubbia_cosi_co_0_99122810441.shtml|title=Archivio Corriere della Sera|author=QuestIT s.r.l.}}</ref> and [[webmail]] in 1995. CRS4 allowed several telecommunication companies and internet service providers based on the island to flourish, such as Videonline in 1994, [[Tiscali]] in 1998 and [[3 Italy|Andala Umts]] in 1999.
+
+== Environment ==
+[[File:La peonia del Gennargentu.jpg|thumb|''[[Paeonia mascula]]'']]
+Following an enormous reforestation plan Sardinia has become the Italian region with the largest forest extension. 1,213,250 hectares (12,132&nbsp;km<sup>2</sup>) or 50% of the island is covered by forested areas.<ref>Sardegna prima per superficie forestale e assorbimento di Co2. May 2007 . [http://www.sardegnaambiente.it/j/v/152?s=67494&v=2&c=1562&t=1]</ref><ref>{{cite web |date=21 August 2013 |title=Sardegna in cifre 2012 |url=http://www.unionesarda.it/articolo/centro_studi/2013/08/21/sardegna_in_cifre_2012-35-305143.html |work=L'Unione Sarda.it}}</ref> The ''Corpo forestale e di vigilanza ambientale della Regione Sarda'' is the Sardinian Forestry Corps. Sardinia is one of the regions in Italy which are most affected by [[forest fires]] during the summer.<ref>{{cite web |date=15 August 2016 |title=Incendi, bollettino Forestale: "Sardegna tra le regioni italiane più colpite" |url=https://www.sardiniapost.it/cronaca/incendi-bollettino-forestale-sardegna-tra-le-regioni-italiane-piu-colpite/ |website=Sardiniapost}}</ref>
+
+The Regional Landscape Plan prohibits new building activities on the coast (except in urban centers), next to forests, lakes or other environmental or cultural sites and the [[Conservatoria delle Coste|Coastal conservation agency]] ensures the protection of natural areas on the Sardinian coast.
+
+[[Renewable energies]] have increased noticeably in recent years,<ref>{{cite web |title=''Sardinia: A natural lab for renewable energy'' |url=http://www.sardegnaricerche.it/documenti/13_143_20080917122727.pdf |access-date=23 April 2010 |publisher=Sardegna Ricerche}}</ref> mainly [[wind power]], favoured by the windy climate, but also [[solar power]] and [[biofuel]], based on [[jatropha oil]] and [[colza oil]]. 586.8 megawatts of [[wind power]] capacity were installed on the island at the end of 2009.<ref>{{cite web |title=L'energia del vento |url=http://www.grandeolico.it/page.asp?id=4&pag=3 |url-status=dead |archive-url=https://web.archive.org/web/20160320124652/http://www.grandeolico.it/page.asp?id=4 |archive-date=20 March 2016 |access-date=26 June 2021 |publisher=Aper GrandEolico}}</ref>
+
+=== Flora and fauna ===
+{{See also|List of mammals of Sardinia}}
+[[File:Giara-di-gesturi-wildpferde.jpg|thumb|Giara horses]]
+[[File:Asinello bianco sardegna asinara 3593693026 750d1054eb o.jpg|thumb|Albino donkeys in Asinara]]
+[[File:Felis Lybica Sarda 05.JPG|thumb|The Sardinian feral cat, long considered a subspecies of the [[African wildcat]], are descended from domesticated cats.<ref>Spartaco Gippoliti & Giovanni Amori, "Ancient introductions of mammals in the Mediterranean Basin and their implications for conservation", ''Mammal Review'' 36 (1) (January 2006): 37–48.</ref>]]
+
+Due to Sardinia's continual isolation from mainland Europe even during glacial sea level lows (when it was connected to Corsica), Sardinia has a high level of [[endemism]], with regards to both flora<ref>{{Cite journal |last1=Fois |first1=Mauro |last2=Farris |first2=Emmanuele |last3=Calvia |first3=Giacomo |last4=Campus |first4=Giuliano |last5=Fenu |first5=Giuseppe |last6=Porceddu |first6=Marco |last7=Bacchetta |first7=Gianluigi |date=2022-02-23 |title=The Endemic Vascular Flora of Sardinia: A Dynamic Checklist with an Overview of Biogeography and Conservation Status |journal=Plants |language=en |volume=11 |issue=5 |pages=601 |doi=10.3390/plants11050601 |issn=2223-7747 |pmc=8912449 |pmid=35270071 |doi-access=free }}</ref> and fauna, including insects<ref>{{Cite web |last=Francesco |title=Sardinian Insects |url=https://www.neperos.com/journal/Sardinian_Insects |access-date=2022-11-23 |website=Neperos |date=5 March 2017 |language=en}}</ref> and arachnids,<ref>Pantini P, Sassu A, Serra G (2013) Catalogue of the spiders (Arachnida Araneae) of Sardinia. Biodiversity J 4:3–104</ref> as well as terrestrial vertebrates, with endemic amphibians (including those also found on Corsica) including the [[Sardinian brook salamander]], [[brown cave salamander]], [[imperial cave salamander]], [[Monte Albo cave salamander]], [[Supramonte cave salamander]], Sarrabus cave salamander (''Speleomantes sarrabusensis'') and [[Sardinian tree frog]] (also found in [[Corsica]]), with lizards endemic to the archipelago including [[Bedriaga's rock lizard]], [[Tyrrhenian wall lizard]] and [[Fitzinger's algyroides]].
+
+During the Late Pleistocene, Sardinia and Corsica had a highly endemic terrestrial mammal fauna, all of which is now extinct, which included a field mouse (''[[Rhagamys orthodon]]''), a vole (''[[Microtus henseli]]''), a shrew (''[[Asoriculus|Asoriculus similis]]''), a mole (''[[Talpa tyrrhenica]]''), a dwarf mammoth ([[Mammuthus lamarmorai|''Mammuthus'' ''lamarmorai'']]), the [[Sardinian pika]] (''Prolagus sardus''), a jackal-sized canine, the [[Sardinian dhole]] (''Cynotherium sardus''), a [[Mustelidae|mustelid]] (''[[Enhydrictis|Enhydrictis galictoides]]''), three species of otter (''[[Algarolutra majori]], [[Sardolutra|Sardolutra ichnusae]],'' and the gigantic ''[[Megalenhydris barbaricina]]'') and a deer (''[[Praemegaceros|Praemegaceros cazioti]]'').<ref>{{Cite journal |last1=Palombo |first1=Maria Rita |last2=Rozzi |first2=Roberto |date=April 2014 |title=How correct is any chronological ordering of the Quaternary Sardinian mammalian assemblages? |url=https://linkinghub.elsevier.com/retrieve/pii/S1040618213007702 |journal=Quaternary International |language=en |volume=328-329 |pages=136–155 |doi=10.1016/j.quaint.2013.09.046|bibcode=2014QuInt.328..136P |url-access=subscription }}</ref> Some of these animals were extinct by the beginning of the Holocene, with the deer species suggested to have persisted until around 7,600 years ago,<ref>{{Cite journal |last1=Benzi |first1=Valerio |last2=Abbazzi |first2=Laura |last3=Bartolomei |first3=Paolo |last4=Esposito |first4=Massimo |last5=Fassò |first5=Cecilia |last6=Fonzo |first6=Ornella |last7=Giampieri |first7=Roberto |last8=Murgia |first8=Francesco |last9=Reyss |first9=Jean-Louis |date=May 2007 |title=Radiocarbon and U-series dating of the endemic deer Praemegaceros cazioti (Depéret) from "Grotta Juntu", Sardinia |journal=Journal of Archaeological Science |language=en |volume=34 |issue=5 |pages=790–794 |doi=10.1016/j.jas.2006.09.001|bibcode=2007JArSc..34..790B }}</ref> and the shrew into the Neolithic, while the Sardinian pika, vole and field mouse are suggested to have persisted until around 3000–2000 years ago.<ref>{{Cite journal |last1=Valenzuela |first1=Alejandro |last2=Torres-Roig |first2=Enric |last3=Zoboli |first3=Daniel |last4=Pillola |first4=Gian Luigi |last5=Alcover |first5=Josep Antoni |date=March 2022 |title=Asynchronous ecological upheavals on the Western Mediterranean islands: New insights on the extinction of their autochthonous small mammals |url=http://journals.sagepub.com/doi/10.1177/09596836211060491 |journal=The Holocene |language=en |volume=32 |issue=3 |pages=137–146 |doi=10.1177/09596836211060491 |bibcode=2022Holoc..32..137V |s2cid=244763779 |issn=0959-6836|url-access=subscription }}</ref> The Sardinian pika in particular was historically abundant on the island, and was used by early inhabitants as a source of food.<ref>P.Y. Sondaar, A.A.E. van der Geer Mesolithic environment and animal exploitation on Cyprus and Sardinia/Corsica M. Mashkour, A. Choyke, M. Buitenhuis (Eds.), Proceedings of the IVth ASWA Symposium, IVA (2000), pp. 67-73 (Paris)</ref> On the {{present-day|island, its|[[fauna]]|1 January 2001}} includes a variety of introduced mammal species, such as the [[Corsican red deer]].
+
+The island is inhabited by terrestrial tortoises and sea turtles like [[Hermann's tortoise]], the [[spur-thighed tortoise]], [[marginated tortoise]] (''Testudo marginata sarda''), Nabeul tortoise, [[loggerhead sea turtle]] and [[green sea turtle]].
+
+Some [[birds of prey]] found here are the [[griffon vulture]], [[common buzzard]], [[golden eagle]], [[long-eared owl]], [[western marsh harrier]], [[peregrine falcon]], [[European honey buzzard]], Sardinian goshawk (''Accipiter gentilis arrigonii''), [[Bonelli's eagle]] and [[Eleonora's falcon]], whose name comes from [[Eleonor of Arborea]], national heroine of Sardinia, expert in [[falconry]].<ref>Cretan Beaches, [http://www.cretanbeaches.com/en/fauna-of-crete/birds-of-crete/960-eleonora-falcon-falco-eleonorae.html "Eleonora's falcon"], Retrieved 20 July 2012</ref>
+The hundreds of lagoons and coastal lakes that dot the island are home for many species of wading birds, such as the [[greater flamingo]].
+
+Conversely, Sardinia lacks many species common on the European continent, such as the [[Viperinae|viper]], [[wolf]], [[bear]] and [[marmot]].
+
+The island has also long been used for grazing flocks of indigenous [[Sardinian sheep]].  The [[Sardinian Anglo-Arab]] is a horse breed that was established in Sardinia, where it has been selectively bred for more than one hundred years.
+
+Three different breeds of dogs are peculiar to Sardinia: the [[Sardinian Shepherd Dog]], the [[Dogo Sardesco]] and the [[Levriero Sardo]].
+
+=== Natural parks and reserves ===
+[[File:Sardinian natural parks.jpg|thumb|National and regional parks of Sardinia]]
+[[File:Punta Sebera.JPG|thumb|right|Sulcis Regional Park, the largest [[Mediterranean forests, woodlands, and scrub|Mediterranean evergreen forest]] in Europe{{Citation needed|date=March 2021}}]]
+Over {{convert|600,000|hectare}} of Sardinian territory is environmentally preserved<ref>{{cite web |date=8 April 2010 |title=Gruppo Mela |url=http://issuu.com/fotolitoerregi/docs/brochure_mela_pag_singole_mail |access-date=15 September 2011 |publisher=Issuu.com}}</ref><ref>{{cite web |title=Alberghieturismo.it |url=http://www.alberghieturismo.it/alberghi-sardegna |access-date=16 September 2011 |publisher=Alberghieturismo.it}}</ref> (about 25% of the island's territory).
+The island has three [[Italian national park|national parks]]:<ref>{{cite web |title=Parks – What's on offer – Sardinia Tourism |url=http://www.sardegnaturismo.it/en/offerta/mare/parchi.html |url-status=dead |archive-url=https://web.archive.org/web/20100604032210/http://www.sardegnaturismo.it/en/offerta/mare/parchi.html |archive-date=4 June 2010 |access-date=23 April 2010 |publisher=Sardegnaturismo.it}}</ref>
+* 1. [[Asinara National Park]],
+* 2. [[Arcipelago di La Maddalena National Park]], and
+* 3. [[Gennargentu National Park]].
+: <small>The numbers correspond to those in the map to right.</small>
+
+Ten [[List of regional parks of Italy|regional parks]]:
+* 4. Parco del Limbara
+* 5. Parco del Marghine e Goceano
+* 6. Parco del Sinis – Montiferru
+* 7. Parco di Monte Arci
+* 8. [[Giara di Gesturi|Parco della Giara di Gesturi]]
+* 9. Parco di Monte Linas – Oridda – Marganai
+* 10. Parco dei Sette Fratelli – Monte Genas
+* 11. Parco del Sulcis
+* Parco naturale regionale di Porto Conte
+* Parco regionale Molentargius – Saline
+
+There are 60 wildlife reserves, 5 W.W.F oases, 25 natural monuments and one Geomineral Park, preserved by [[UNESCO]].<ref>{{Cite web |title=Parco Geominerario Storico e Ambientale della Sardegna |url=http://parcogeominerario.it/comunita/dinamiche.php?sezione=storia |url-status=dead |archive-url=https://web.archive.org/web/20100613162440/http://parcogeominerario.it/comunita/dinamiche.php?sezione=storia |archive-date=13 June 2010}}</ref>
+
+Northern Sardinian Coasts are included in the [[Pelagos Sanctuary for Mediterranean Marine Mammals]], a Marine Protected Area, that covers a surface of about {{convert|84000|km2|0|abbr=on}}, aimed at the protection of marine mammals.
+
+== Education ==
+
+[[File:Università Sassari.png|thumb|Main building of the [[University of Sassari]] (which started the university courses in 1562)]]
+According to the [[National Institute of Statistics (Italy)|ISTAT]] census of 2001, the literacy rate in Sardinia among people below 65 years old is 99.5 percent. Total literacy rate (including people over 65) is 98.2 percent.<ref name="edscuola.it">[http://www.edscuola.it/archivio/statistiche/analfabetismo_01.pdf Analfabetismo Italia – Censimento 2001]</ref><ref name="auto">{{Cite web|url=http://www.sardegnastatistiche.it/|title=Sardegna Statistiche - Home page|website=www.sardegnastatistiche.it}}</ref>
+The illiteracy rate among males below 65 years old is 0.24 percent and among women 0.25 percent;<ref name="edscuola.it"/> the number of women that annually graduate at secondary high schools and universities is about 10–20 percent higher than men.<ref name="auto"/><ref>{{cite web|url=http://www.sardegnastatistiche.it/index.php?xsl=672&s=12&v=9&c=5042&subnodo=337&refp=1&id=154&ss=1&modalita=tutte&tt=4|title=Sardegna Statistiche – Statistiche – Consulta le statistiche – Argomenti}}</ref> Sardinia has the 2nd highest rate of school drop-out in Italy.<ref>{{cite web|url=http://www.repubblica.it/solidarieta/cooperazione/2017/04/03/news/bambini_ecco_quanto_contano_le_poverta_educative_sull_infanzia_in_italia-162095270//|title=Bambini, ecco quanto pesa la povertà educativa sull'infanzia in Italia|work=repubblica.it}}</ref>
+
+Sardinia has two public universities: the [[University of Sassari]] and the [[University of Cagliari]], founded in the 16th and 17th century. 48,979 students were enrolled at universities in 2007–2008.<ref>{{cite web|url=http://www.sardegnastatistiche.it/index.php?xsl=672&s=12&v=9&c=5042&subnodo=337&refp=1&id=152&tt=4&anno=45|title=Sardegna Statistiche – Statistiche – Consulta le statistiche – Argomenti}}</ref>
+
+== Economy ==
+[[File:European regional policy 2014.svg|thumb|Economic classification of European regions according to [[Eurostat]]{{legend|#FF0000|Less developed regions}}
+{{legend|#FFFF00|Transition regions}}
+{{legend|#0000FF|More developed regions}}]]
+
+Of the Italian regions located south of [[Rome]], Sardinia's economy is in the best state. The greatest amount of economic development took place inland, in the provinces of [[Cagliari]] and [[Sassari]], characterized by a certain amount of enterprise. According to [[Eurostat]], the 2014 nominal [[gross domestic product]] (GDP) was €33,356 million, €33,085 million in [[purchasing power parity]], resulting in a GDP per capita of €19,900, which is 72% of the EU average. The [[per capita income]] in Sardinia is the highest of the southern half of Italy. The most populated provincial chief towns have higher incomes: in Cagliari the income per capita is €27,545, in Sassari €24,006, in [[Oristano]] €23,887, in [[Nuoro]] is €23,316 and in [[Olbia]] is €20,827.<ref>{{cite web|url=http://www.unionesarda.it/Articoli/Articolo/218264 |title=Cagliari, cresce il reddito pro capite E' al 13° posto nella classifica nazionale – Cronache dalla Sardegna – L'Unione Sarda.it|work=L'Unione Sarda.it}}</ref> Sardinia is [[List of Italian regions by GDP|the 14th most productive region in the country]] and is [[List of Italian regions by GRP per capita|the 16th for GRP per capita]] among Italian regions.<ref>{{cite web |url=https://ec.europa.eu/eurostat/documents/2995521/10474907/1-05032020-AP-EN.pdf/81807e19-e4c8-2e53-c98a-933f5bf30f58 |title=GDP per capita in EU regions: Regional GDP per capita ranged from 30% to 263% of the EU average in 2018 |publisher=Eurostat |date=5 March 2020 |access-date=25 July 2023}}</ref>
+
+The Sardinian economy is, however, constrained due to the high costs of the transportation of goods and electricity, which is twice that of the continental Italian regions, and triple that of the EU average. Sardinia is the only Italian region that produces a surplus of electricity, and exports electricity to [[Corsica]] and the [[Italy|Italian mainland]]:<!--how can there be net export when price is higher? --> in 2009, the new [[submarine power cable]] [[Sapei]] entered into operation. It links the Fiume Santo Power Station, in Sardinia, to the converter stations in [[Latina, Lazio|Latina]], in the Italian peninsula. The [[SACOI]] is another submarine power cable that links Sardinia to Italy, crossing Corsica, from 1965.
+
+Small scale [[liquified natural gas]] terminals and a {{cvt|404|km}} gas pipeline were under construction, and became operational in 2018. They will decrease the current high cost of the electric power in the island.<ref>{{cite web|url=http://www.ilsole24ore.com/art/impresa-e-territori/2016-11-18/la-sardegna-prepara-suo-primo-deposito-gnl-194406.shtml?uuid=ADeipxxB |title=La Sardegna prepara il suo primo deposito di Gnl|website=Il Sole 24 ORE}}</ref><ref>{{cite web|url=https://www.sardiniapost.it/cronaca/dal-2018-via-allerogazione-del-metano-sardegna-stoccaggio-38-bacini/ |title=Dal 2018 via all'erogazione del metano in Sardegna. Stoccaggio in 38 bacini|date=11 August 2016|website=Sardiniapost}}</ref> {{as of|2021}}, Sardinia has 2 GigaWatts (GW) of [[thermal power plant]]s, 1 GW each of wind and solar power, and over 450 MW of [[hydropower]].<ref>{{cite web |last1=Collins |first1=Leigh |title=Sardinia will become a net-zero island as soon as 2030 and this is how: Enel boss {{!}} Recharge |url=https://www.rechargenews.com/energy-transition/sardinia-will-become-a-net-zero-island-as-soon-as-2030-and-this-is-how-enel-boss/2-1-1042727 |website=Recharge {{!}} Latest renewable energy news |date=21 July 2021}}</ref>
+
+[[File:Costa Paradiso, spiaggia di Li Cossi - panoramio - Carlo Pelagalli.jpg|thumb|[[Tourism in Sardinia]] is one of the fastest growing sectors of the regional economy]]
+Three main banks are headquartered in Sardinia; however, [[Banco di Sardegna]] and [[Banca di Sassari]], are both originally from Sassari.
+
+There are chances for Sardinia to become a [[tax haven]] as the whole island territory is free of [[custom duties]], [[value added tax]] (VAT) and excise taxes on fuel; since February 2013, the town of [[Portoscuso]] has become the first free trade zone.<ref>{{cite web|url=http://www.liberoquotidiano.it/news/1186980/Sardegna-zona-franca-al-via-i-gruppi-lavoro-in-Regione.html |title=Sardegna: zona franca, al via i gruppi lavoro in Regione – – Libero Quotidiano |publisher=Liberoquotidiano.it |date=18 February 2013 |access-date=12 March 2013}}</ref><ref>{{cite web|url=http://news.supermoney.eu/economia/2013/02/sardegna-diventera-zona-franca-addio-all-iva-009950.html |title=Sardegna diventerà zona franca: addio all'Iva? |date=26 February 2013 |publisher=News.supermoney.eu |access-date=12 March 2013}}</ref><ref>{{cite web |url=https://www.dgmag.it/viaggi/sardegna-zona-franca-bufala-realta-38489-38489 |title=Sardegna zona franca? |publisher=Dgmag.it |date=25 February 2013 |access-date=12 March 2013 |archive-date=5 September 2018 |archive-url=https://web.archive.org/web/20180905163805/https://www.dgmag.it/viaggi/sardegna-zona-franca-bufala-realta-38489-38489 |url-status=dead }}</ref><ref>{{cite web|url=http://www.ansa.it/web/notizie/regioni/sardegna/2013/02/08/Sardegna-punta-zona-franca-integrale_8212102.html |title=Sardegna punta a zona franca integrale – Sardegna |publisher=ANSA.it |access-date=12 March 2013}}</ref><ref>{{cite web|url=http://www.worky.biz/25530/sardegna-eliminata-liva-diventa-zona-franca.html |title=Sardegna: eliminata l'iva, diventa zona franca &#124; Worky |publisher=Worky.biz |date=21 February 2013 |access-date=12 March 2013}}</ref> According to the article 12 of the Sardinian Statute modified by the regional parliament in October 2013: "The Territory of the Autonomous Region of Sardinia is located off the customs line and constitutes a Free Trade Zone enclosed by the surrounding sea; the access points consist of the seaports and the airports. The Sardinian Free Trade Zone is regulated by the laws of the European Union and Italy that are in force also in Livigno, Campione D'Italia, Gorizia, Savogna d'Isonzo and the Region of Aosta Valley".
+
+<div style="font-size:90%; border:0; padding:0; margin-left:1em; margin-right:0; margin-bottom:0; text-align:center;">
+{| class="wikitable" style="width:70%;"
+|-
+! || 2000 || 2001 || 2002 || 2003 || 2004 || 2005 || 2006 || 2007
+|-
+| align=left |'''Gross domestic product''' ''nominal''<br />(Million €)|| 25,958.1 || 27,547.6 || 28,151.6 || 29,487.3 || 30,595.5 || 31,421.3 || 32,579.0 || 33,823.2
+|-
+| align=left | '''GDP per capita''' ''nominal''<br />(Euro) || 15,861.0 || 16,871.4 || 17,226.5 || 17,975.7 || 18,581.0 || 19,009.8 || 19,654.3 || 20,444.1
+|}</div>
+
+=== Unemployment ===
+{{Update section|date=September 2024}}
+The [[unemployment rate]] for the fourth quarter of 2008 was 8.6%; by 2012, the unemployment rate had increased to 14.6%.<ref>{{cite web|url=http://www.unionesarda.it/Articoli/Articolo/296776 |title=Crollo del lavoro in Sardegna Il tasso di disoccupazione è al 14,6% – Cronache dalla Sardegna – L'Unione Sarda.it|work=L'Unione Sarda.it}}</ref> Its rise was due to the [[Great Recession]] that reduced Sardinian exports, mainly focused on refined oil, chemical products, and also mining and metallurgical products.
+
+The unemployment rate dropped to 11.2% at the end of 2018, which is only 1.8 [[percentage point]]s (pp) higher than the national average (9.4%) and 5.3pp lower than [[Southern Italy|Southern Italian]] regions (16.5%), according to [[Italian National Institute of Statistics]].<ref>{{cite web|url=http://www.ansa.it/sardegna/notizie/2018/12/13/istat-disoccupazione-cala-del-34_9b97347d-2be4-4295-9b28-4dfbe7b30088.html |title=Istat, disoccupazione cala del 3,4% - Sardegna|date=13 December 2018|website=ANSA.it}}</ref><ref>{{cite web|url=https://www.sardiniapost.it/economia/cala-a-livelli-pre-crisi-la-disoccupazione-nellisola-tasso-femminile-piu-basso-del-nazionale/ |title=Disoccupazione cala a livelli pre-crisi: tasso femminile sotto media nazionale|date=13 December 2018|website=Sardiniapost}}</ref><ref>{{cite web|url=http://www.regioni.it/scuola-lavoro/2018/12/13/lavoro-sardegna-25-mila-occupati-in-piu-disoccupazione-all11-591080/ |title=Lavoro: Sardegna, 25 mila occupati in piu'; disoccupazione all'11%|date=13 December 2018|website=Regioni.it|access-date=13 December 2018|archive-date=15 December 2018|archive-url= https://web.archive.org/web/20181215222842/http://www.regioni.it/scuola-lavoro/2018/12/13/lavoro-sardegna-25-mila-occupati-in-piu-disoccupazione-all11-591080/ |url-status=dead}}</ref><ref>{{cite web|url=https://www.unionesarda.it/articolo/news-sardegna/cagliari/2018/12/13/disoccupazione-in-calo-nell-isola-24mila-posti-di-lavoro-in-piu-136-809275.html |title=Disoccupati in calo nell'Isola: "24mila posti di lavoro in più" VIDEO|date=13 December 2018|website=L'Unione Sarda.it}}</ref><ref>{{cite web|url=https://www.cagliaripad.it/353464/sardegna-disoccupazione-al-34-pigliaru-rivendica-risultati-tornati-a-livelli-pre-crisi |title=Sardegna, disoccupazione cala all'11,2%. Pigliaru rivendica risultati: "Tornati a livelli pre-crisi"|date=13 December 2018}}</ref>
+
+=== Economic sectors ===
+{{Update section|date=September 2024}}
+[[File:Percentualesettorioccupazionalisardegna.png|thumb|Percentage distribution of employees in different economic sectors in Sardinia: 8.7% the primary sector (fishing, agriculture, farming), 23.5% the secondary sector (industry, machinery, manufacturing), and 67.8% the tertiary sector (tourism, services, finance)]]
+This table shows the sectors of the Sardinian economy in 2011:<ref>[http://www.bancaditalia.it/pubblicazioni/econo/ecore/2013/analisi_s-r/1321_sardegna/1321_sardegna.pdf Banca d'Italia – Valore aggiunto e PIL per settore di attività economiche] {{webarchive|url=https://web.archive.org/web/20131016012022/http://www.bancaditalia.it/pubblicazioni/econo/ecore/2013/analisi_s-r/1321_sardegna/1321_sardegna.pdf |date=16 October 2013 }} – page 55</ref>
+{| class="wikitable" style="text-align:right"
+|-
+! align=left | '''Economic activity''' !! '''GDP''' (mil. €) !! '''% sector<br />'''
+|-
+| align=left |Agriculture, farming, fishing||  908 || 3%
+|-
+| align=left |Industry|| 2,828    || 9.4%
+|-
+| align=left |Constructions|| 1,722   || 5.7%
+|-
+| align=left |Commerce, hotels and restaurants, transport, services and (tele)communications|| 7,597  || 25.4%
+|-
+| align=left |Financial activity and real estate||8,011   || 26.7%
+|-
+| align=left |Other economic activities related to services|| 8,896   || 29.7%
+|-
+| align=left |Total value added|| 29,962   || 100%
+|-
+| align=left |'''GDP of Sardinia'''|| '''33,638''' ||
+|}
+
+==== Primary ====
+[[File:Sheep near lula sardinia.jpg|thumb|Sheep grazing around [[Lula, Sardinia|Lula]], [[Nuoro]]]]
+Sardinia is home to nearly four million [[sheep]],<ref>{{cite web|url=http://dati-censimentoagricoltura.istat.it/ |title=Statistiche Istat|author=OECD}}</ref> almost half of the entire Italian assets and that makes the island one of the areas of the world with the highest density of sheep along with some parts of the United Kingdom and New Zealand (135 sheep every square kilometer versus 129 in UK and 116 in New Zealand). Sardinia has been for thousands of years specializing in sheep breeding, and, to a lesser extent, [[goat]]s and [[cattle]] that is less productive of agriculture in relation to land use. It is probably in breeding and cattle ownership the economic base of the early proto-historic and monumental Sardinian civilization from [[Neolithic]] to the Iron Age.
+
+Agriculture has also played a very important role in the economic history of the island, especially in the great plain of [[Campidano]], particularly suitable for [[wheat]] farming. Sardinian soil often has insufficient or brackish water aquifers, even on its more permeable plains. As such, water scarcity was the first problem that was faced for the modernization of the sector, with the construction of a great barrier system of dams, which today contains nearly 2 billion [[cubic meter]]s of water.<ref>{{Cite web|url=http://www.regione.sardegna.it/j/v/25?s=106397&v=2&c=116&t=1 |title=Situazione degli invasi - Regione Autonoma della Sardegna|website=www.regione.sardegna.it}}</ref> The Sardinian agriculture is now linked to specific products such as cheese, wine, [[olive oil]], [[artichoke]], [[tomato]] for a growing product export. The reclamations have helped to extend the crops and to introduce other ones such as vegetables and fruit, next to the historical ones, [[olive]] and [[grapes]] that are present in the hilly areas. The Campidano plain, the largest lowland Sardinian produces [[oats]], [[barley]] and [[durum]], of which is one of the most important Italian producers. Among the vegetables, as well as artichokes, has a certain weight the production of [[orange (fruit)|orange]]s, and, before the reform of the [[sugar]] sector from the European Union, the cultivation of [[sugar beet]]. 
+[[File:Sughero TempioPausania.jpg|thumb|left|Peeled trunks of [[cork oak]]s in [[Tempio Pausania]]]]
+In the forests there is the [[cork oak]], which grows naturally; Sardinia produces about 80% of Italian cork. The [[cork (material)|cork]] district, in the northern part of the [[Gallura]] region, around [[Calangianus]] and [[Tempio Pausania]], is composed of 130 companies. Every year in Sardinia 200,000 quintals (20,000 tonnes) of cork are carved, and 40% of the end products are exported.
+
+In fresh food, as well as artichokes, the production of tomatoes (including Camoni tomato) and [[citrus]] fruit are of a certain weight. Sardinia is the 5th Italian region for [[rice]] production, the main paddy fields are located in the [[Arborea]] Plain.<ref>[http://agri.istat.it/jsp/dawinci.jsp?q=plC020000010000012000&an=2011&ig=1&ct=244&id=18A%7C15A%7C25A Tavola C02 – Superficie (ettari) e produzione (quintali): riso, mais, sorgo, altri cereali]. Dettaglio per regione – Anno 2011</ref>
+
+In addition to meat, Sardinia produces a wide variety of cheese, considering that half of the sheep milk produced in Italy is produced in Sardinia, and is largely worked by the cooperatives of the shepherds and small industries.<ref>Massimiliano Venusti; Antonio Cossu. L'arte casearia in Anglona tra storia e attualità (PDF) in www.sardegnaagricoltura.it. ERSAT</ref> Sardinia also produces most of the [[pecorino romano]], a non-original product of the island, much of which is traditionally addressed to the Italian overseas communities. Sardinia boasts a centuries-old tradition of [[horse breeding]] since the [[Crown of Aragon|Aragonese]] domination, whose [[cavalry]] drew from equine heritage of the island to strengthen their own army or to make a gift to the other sovereigns of Europe.<ref>Sardegna Agricoltura. Razze equine in www.sardegnaagricoltura.it. Regione Sardegna</ref> Today the island boasts the highest number of horse herds in Italy.<ref>{{cite web|url=http://www.lastampa.it/2013/07/23/blogs/turin-marathon-club/turin-marathon-presenta-horse-country-il-resort-che-e-stato-il-premio-principale-della-kappa-marathon-mXvqDXCcQSX1FRq0aCHgeL/pagina.html |title=Turin Marathon presenta Horse Country, il resort che è stato il premio principale della Kappa Marathon 2013|work=LaStampa.it|date=23 July 2013 }}</ref>
+
+There is little fishing (and no real maritime tradition), [[Portoscuso]] [[tuna]]s are exported worldwide, but primarily to Japan.
+
+==== Industry and handicraft ====
+[[File:Porto Torres - chemical industry.jpg|thumb|left|Petrochemical and Green Chemical industries in [[Porto Torres]]]]
+The once prosperous mining industry is still active though restricted to [[coal]] ([[Nuraxi Figus]], hamlet of [[Gonnesa]]),<ref>{{cite web|url=http://www.carbosulcis.eu/ |title=Home |publisher=Carbosulcis |language=it |access-date=26 June 2021 }}</ref> [[antimony]] ([[Villasalto]]), [[gold]] ([[Furtei]]), [[bauxite]] ([[Olmedo, Sardinia|Olmedo]]) and [[lead]] and [[zinc]] ([[Iglesiente]], [[Nurra]]). The [[granite]] extraction represents one of the most flourishing industries in the northern part of the island. The Gallura granite district is composed of 260 companies that work in 60 quarries, where 75% of the Italian granite is extracted.
+The principal industries are chemicals ([[Porto Torres]], [[Cagliari]], [[Villacidro]], [[Ottana]]), petrochemicals ([[Porto Torres]], [[Sarroch]]), metalworking (Portoscuso, Portovesme, [[Villacidro]]), cement ([[Cagliari]]), pharmaceutical ([[Sassari]]),  shipbuilding ([[Arbatax]], [[Olbia]], [[Porto Torres]]), oil rig construction ([[Arbatax]]), rail industry ([[Villacidro]]),<ref>{{cite web |url=http://www.sardiniapost.it/cronaca/riapre-la-ex-keller-di-villacidro-la-produzione-riprendera-entro-il-2013/ |title=Riapre la ex Keller di Villacidro: la produzione riprenderà entro il 2013 |work=Sardiniapost |language=it |date=4 September 2013 |access-date=26 June 2021 }}</ref><ref>{{cite web|url=http://www.villacidro.info/2013/09/la-keller-elettromeccanica-ha-riaperto-i-battenti/#.UjShotJ7J_A|title=La Keller Elettromeccanica ha riaperto i battenti|date=4 September 2013|work=Villacidro.info|access-date=14 September 2013|archive-date=7 September 2013|archive-url=https://web.archive.org/web/20130907040345/http://www.villacidro.info/2013/09/la-keller-elettromeccanica-ha-riaperto-i-battenti/#.UjShotJ7J_A|url-status=dead}}</ref> arms industries at [[Domusnovas]]<ref>{{Cite web|url=https://www.rheinmetall-defence.com/en/rheinmetall_defence/company/divisions_and_subsidiaries/rwm_italia/ |title=Rheinmetall Defence - RWM Italia|website=www.rheinmetall-defence.com}}</ref><ref>{{cite web|url=http://www.sardiniapost.it/cronaca/armi-export-in-crescita-in-sardegna-terra-promessa-dellindustria-bellica/ |title=Armi, export in crescita in Sardegna. L'Isola terra promessa dell'industria bellica?|date=6 April 2016}}</ref> and food (sugar refineries at [[Villasor]] and Oristano, dairy at [[Arborea]], [[Macomer]] and [[Thiesi]], [[fish factory]] at Olbia).
+
+In Sardinia is located the DASS (''Distretto Aerospaziale della Sardegna''), a consortium of companies, research centers and universities focused on aerospace industry and research.<ref>{{Cite web|url=http://www.regione.sardegna.it/j/v/25?s=240859&v=2&c=247&t=1 |title=Nasce Distretto aerospaziale Sardegna. Cappellacci "Opportunità unica per attrarre investimenti" - Regione Autonoma della Sardegna|website=www.regione.sardegna.it}}</ref><ref>{{cite web|url=http://www.sardegnaricerche.it/index.php?xsl=370&s=240801&v=2&c=3169&nc=1&sc=&qr=1&qp=2&vd=2&t=3 |title=Nasce ufficialmente il Distretto aerospaziale sardo|work=SardegnaRicerche}}</ref><ref>{{cite web|url=http://lanuovasardegna.gelocal.it/nuoro/cronaca/2013/03/03/news/l-ultimo-sogno-e-aerospaziale-1.6634671 |title=L'ultimo sogno è aerospaziale|author=di Lamberto Cugudda|work=la Nuova Sardegna|date=4 March 2013}}</ref>  The aerospace manufacturer [[Vitrociset]], in [[Villaputzu]], is involved in the production of the stealth multirole fighter [[Lockheed Martin F-35 Lightning II]].<ref>{{cite web|url=http://www.avionews.com/index.php?corpo=see_news_home.php&news_id=1158376&pagina_chiamante=index.php |title=Vitrociset and LM signed a MoA to start production of the 54 Carts under the F-35 JSF aircraft programme|date=14 February 2014}}</ref><ref>{{cite web|url=http://www.vitrociset.it/product/id/25/carts |title=CARTs – Vitrociset}}{{Dead link|date=June 2022 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+Plans related to industrial conversion are in progress in the main industrial sites, like in Porto Torres, where seven research centres are developing the transformation from traditional fossil fuel related industry to an integrated production chain from vegetable oil using oleaginous seeds to bio-plastics.<ref>{{Cite web|url=http://www.eni.com/it_IT/attachments/azienda/attivita-strategie/petrolchimica/polimeri-europa/pubblicazioni/Versalis-Brochure-istituzionale-per-il-Plast12.pdf |title=matrica: green chemicals}}</ref><ref>{{cite web|url=https://id.icis.com/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dnews.web%26scope%3Dopenid%2520profile%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.icis.com%252Fsubscriber%252Fnews%252Floggedin%26state%3D%252Fsubscriber%252Fnews%252F2012%252F04%252F23%252F9552160%252Fa-new-age-for-the-italian-chemical-industry%252F%26nonce%3D19f3705d-635a-4b59-abde-efa37b176e08 |title=6452-BARCLAY6452-BARCLAYICIS Login|website=id.icis.com}}</ref>
+
+Sardinia is involved in the industrial production of the [[AIRPod]], an innovative car powered by compressed air, with the first factory being built in [[Bolotana]].<ref>{{cite web|url=http://www.tuttogreen.it/airpod-la-prima-auto-ad-aria-compressa-trova-casa-in-sardegna/ |title=Airpod, la prima auto ad aria compressa, trova casa in Sardegna.|work=Tuttogreen|date=27 October 2013}}</ref><ref>{{Cite web|url=http://www.cagliaripad.it/news.php?page_id=4609 |title=AirPod, a Bolotana la prima fabbrica dell'auto ad aria compressa – VIDEO}}</ref><ref>{{cite web|url=http://www.sardegnaoggi.it/Scienza_e_Tecnologia/2013-09-20/22916/Airpod_a_Bolotana_la_prima_auto_ad_aria_compressa_made_in_Sardegna.html|title=Airpod, a Bolotana la prima auto ad aria compressa made in Sardegna|last=Vacca|first=Eleonora|work=Sardegna Oggi|access-date=27 October 2013|archive-date=11 June 2016|archive-url=https://web.archive.org/web/20160611154002/http://www.sardegnaoggi.it/Scienza_e_Tecnologia/2013-09-20/22916/Airpod_a_Bolotana_la_prima_auto_ad_aria_compressa_made_in_Sardegna.html|url-status=dead}}</ref><ref>{{Cite web|url=https://www.ansa.it/motori/notizie/rubriche/industriamercato/2013/09/20/Air-Pod-aria-compressa-verso-produzione-Sardegna_9332857.html |title=Air-Pod auto ad aria compressa, verso produzione in Sardegna - Industria e Mercato - Motori - ANSA.it|website=www.ansa.it|date=20 September 2013 }}</ref>
+
+Craft industries include rugs, jewelry, textile, lacework, basket making and coral.
+
+==== Tertiary ====
+{{See also|Tourism in Sardinia}}
+
+[[File:Porto Cervo 2.JPG|thumb|Yachts in [[Porto Cervo]]. Luxury tourism has been an important source of income in Sardinia since the 1960s.]]
+
+The Sardinian economy is today focused on the overdeveloped tertiary sector (67.8% of employment), with [[commerce]], [[tertiary sector of the economy|services]], [[information technology]], [[public administration]] and especially on [[Tourism in Sardinia|tourism]] (mainly seaside tourism), which represents the main industry of the island with 2,721 active companies and 189,239 rooms. In 2008 there were 2,363,496 arrivals (up 1.4% on 2007). In the same year, the airports of the island registered 11,896,674 passengers (up 1.24% on 2007).<ref>{{cite web|url=http://www.regione.sardegna.it/j/v/25?s=107552&v=2&c=3692&t=1 |title=Il turismo in Sardegna è cresciuto anche nel 2008 – Regione Autonoma della Sardegna |publisher=Regione.sardegna.it |access-date=6 May 2009}}</ref>
+
+Due to its isolated and insular location, Sardinia focused part of its economy on the development of digital technologies since the dawn of internet era: the first Italian website, one of the first webmail system and one of the first and largest internet providers (Video On Line) were realised by the [[CRS4]],<ref>{{cite web|url=http://www.repubblica.it/tecnologia/2016/04/29/news/pietro_zanarini_e_il_primo_sito_web_italiano_testi_e_link_quanta_novita_in_quella_pagina_-138691701/ |title=Pietro Zanarini and the first Italian website|work=[[La Repubblica]]|date=29 April 2016|access-date=25 November 2017}}</ref><ref>comp.internet.net-happenings, WebMail – Source code release, 30 March 1995.</ref> the first European online newspaper was developed by [[L'Unione Sarda]]<ref>{{cite book|last=Magrini|first=Daniele |title=Sbatti il Web in prima pagina: dati e opinioni|url=https://books.google.com/books?id=5z-RCofYrUYC&pg=PA112 |year=2002|publisher=FrancoAngeli |isbn=978-88-464-3561-3|page=112}}</ref><ref>{{cite web|url=http://luna.blogautore.repubblica.it/2014/07/06/next-quando-ventanni-fa-a-cagliari-si-inventarono-il-web/ |title=Next, quando vent'anni fa a Cagliari si "inventarono" il web|website=Repubblica.it |url-status=live |archive-url=https://web.archive.org/web/20231221080547/https://luna.blogautore.repubblica.it/2014/07/06/next-quando-ventanni-fa-a-cagliari-si-inventarono-il-web/ |archive-date= Dec 21, 2023 }}</ref> and also the first Italian UMTS company was founded on the island. Today Sardinia is the second Italian region, after Lombardy, for investments in [[Startup company|startups]] (owning the 20% of the Italian venture capital).<ref>{{cite web|url=https://startupitalia.eu/60685-20160715-sardegna-venture-capital |title=Perché la Sardegna è la seconda regione per investimenti in startup (e perché c'entra il mare)|date=15 July 2016 |author1=Paolo Fiore |website=StartupItalia |url-status=live |archive-url=https://web.archive.org/web/20231212071628/https://startupitalia.eu/60685-20160715-sardegna-venture-capital |archive-date= Dec 12, 2023 }}</ref><ref>{{cite web|url=http://www.unionesarda.it/articolo/notizie_economia/2016/05/04/startup_in_sardegna_143_aziende_innovative_tra_software_e_informa-2-494065.html |title=Startup: in Sardegna 143 aziende innovative, tra software e informazione. Ma l'Italia è fanalino di coda |website=L'Unione Sarda |date=4 May 2016|access-date=25 November 2017 |url-status=live |archive-url=https://web.archive.org/web/20190402181643/http://www.unionesarda.it/articolo/notizie_economia/2016/05/04/startup_in_sardegna_143_aziende_innovative_tra_software_e_informa-2-494065.html |archive-date= Apr 2, 2019 }}</ref>
+
+Sardinia has many small and picturesque villages, nine of them have been selected by {{lang|it|[[I Borghi più belli d'Italia]]}} ({{langx|en|The most beautiful Villages of Italy}}),<ref>{{cite web|url=https://borghipiubelliditalia.it/sardegna/|title=Sardegna|date=10 January 2017 |access-date=1 August 2023|language=it}}</ref> a non-profit private association of small Italian towns of strong historical and artistic interest,<ref>{{cite web|url=https://www.repubblica.it/viaggi/2023/01/16/news/borghi_piu_belli_italia_14_nuovi_2023-383794441/|title=Borghi più belli d'Italia. Le 14 novità 2023, dal Trentino alla Calabria|date=16 January 2023 |access-date=28 July 2023|language=it}}</ref> that was founded on the initiative of the Tourism Council of the National Association of Italian Municipalities.<ref>{{Cite web |url = http://borghipiubelliditalia.it/ |title = I Borghi più belli d'Italia, la guida online ai piccoli centri dell'Italia nascosta|access-date=3 May 2018|language=it}}</ref>
+
+== Communications ==
+{{See also|Sardinia Radio Telescope}}
+[[File:SRT SARDINIA RADIO TELESCOPE.jpg|thumb|left|[[Sardinia Radio Telescope]]]]
+
+On the island are headquartered some telecommunication companies and internet service providers, such as [[Tiscali]] and the Mediterranean Skylogic Teleport, a [[ground station]] controlled by satellite provider [[Eutelsat]].<ref>{{Cite web|url=https://www.unionesarda.it/Articoli/Articolo/186694|title=L'Isola al centro del Mediterraneo per le telecomunicazioni satellitari |website=L'Unione Sarda |access-date=24 March 2022|archive-date=May 28, 2013 |archive-url=https://web.archive.org/web/20130528170539/https://www.unionesarda.it/Articoli/Articolo/186694 |url-status=dead}}</ref> Sardinia is the Italian region with the highest e-intensity index after the [[Aosta Valley]]<ref>{{cite web|url=https://zanarini.wordpress.com/|title=Less is More|website=Less is More |url-status=live |archive-url=https://web.archive.org/web/20231216105619/https://zanarini.wordpress.com/ |archive-date= Dec 16, 2023 }}</ref><ref>{{cite web|url=http://www.lkv.it/blog/inf/tec/il-peso-di-internet-sulleconomia-italiana-13042011.html|title=Il peso di Internet sull'economia italiana |date=Apr 13, 2011 |website=LkV |url-status=dead |archive-url=https://web.archive.org/web/20170820033220/http://www.lkv.it/blog/inf/tec/il-peso-di-internet-sulleconomia-italiana-13042011.html |archive-date= Aug 20, 2017 }}</ref> (index measuring the relative maturity of Internet economies on the basis of three factors: enablement, engagement, and expenditure) and the region with the highest internet performances, such as fastest broadband connection in Italy.<ref>{{cite web|url=http://notizie.tiscali.it/articoli/scienza/13/06/adsl-veloce-sardegna-prima.html|title=In Sardegna l'Adsl più veloce d'Italia. Ma in Italia solo lo 0,1% delle linee è sopra i 30 mega|website=Tiscali |date=2013 |url-status=dead |archive-url= https://web.archive.org/web/20181006121419/http://archivio.notizie.tiscali.it/articoli/scienza/13/06/adsl-veloce-sardegna-prima.html?redirect=true |archive-date= Oct 6, 2018 }}</ref>
+Sardinia is also the Italian region with the highest percentage (41%) of 4G [[LTE (telecommunication)|LTE]] users.<ref>{{cite web|url=http://www.ansa.it/sardegna/notizie/2017/08/31/sardi-primi-italia-rete-mobile-veloce_faea34c8-75d4-40f7-a32d-ac8cb2b924c0.html|title=Sardi primi Italia rete mobile veloce -|date=31 August 2017|website=ANSA.it |url-status=live |archive-url=https://web.archive.org/web/20231218080333/https://www.ansa.it/sardegna/notizie/2017/08/31/sardi-primi-italia-rete-mobile-veloce_faea34c8-75d4-40f7-a32d-ac8cb2b924c0.html |archive-date= Dec 18, 2023 }}</ref>
+The Chinese multinational telecommunications equipment and systems companies [[ZTE]] and [[Huawei]] have development centers and innovation labs in Sardinia.<ref>{{cite web|url=https://www.sardiniapost.it/innovazione/a-pula-la-ricerca-parla-anche-cinese-inaugurato-il-centro-huaweicrs4/|title=A Pula la ricerca parla (anche) cinese: inaugurato il centro Huawei/Crs4|date=20 December 2016|website=Sardiniapost |url-status=live |archive-url=https://web.archive.org/web/20231216102632/https://www.sardiniapost.it/innovazione/a-pula-la-ricerca-parla-anche-cinese-inaugurato-il-centro-huaweicrs4/ |archive-date= Dec 16, 2023 }}</ref>
+
+Sardinia has become Europe's first region to fully adopt the new [[Digital Terrestrial Television]] broadcasting standard. From 1 November 2008 TV channels are broadcast only in digital.<ref>{{cite web |url=http://www.nonsolocinema.com/Digitale-Terrestre_13105.html |title=Digitale Terrestre Parte in Sardegna lo switch-off |access-date=7 March 2009 |publisher=NonSoloCinema |date=15 October 2008 |language= it}}</ref>
+
+== Transport ==
+
+=== Airports ===
+
+Sardinia has three international airports ([[Alghero-Fertilia Airport|Alghero-Fertilia/Riviera del Corallo Airport]], [[Olbia - Costa Smeralda Airport|Olbia-Costa Smeralda Airport]] and [[Cagliari-Elmas Airport]]) connected with the principal Italian cities and many European destinations, mainly in the United Kingdom, [[France]], Spain and Germany, and two regional airports ([[Oristano-Fenosu Airport]] and [[Tortolì Airport|Tortolì-Arbatax Airport]]). Internal air connections between Sardinian airports are limited to a daily Cagliari-Olbia flight. Sardinian citizens benefit from special sales on plane tickets for [[Rome]] and [[Milan]] (''continuità territoriale''),<ref>{{Citation|url=https://www.sardegnamobilita.it/tariffe-aereo|title= Tariffe trasporto aereo|language=Italian|access-date=7 December 2023}}</ref> and several [[Low-cost carrier|low-cost air companies]] operate on the island.
+
+[[Air Italy (2018–2020)|Air Italy]] (formerly known as [[Meridiana]]) was an airline headquartered in the airport of [[Olbia]]; it was founded as [[Alisarda]] in 1963 by the [[Aga Khan IV]]. The development of [[Alisarda]] followed the development of [[Costa Smeralda]] in the northeast part of the island, a well known vacation spot among billionaires and film actors worldwide.
+
+=== Seaports ===
+
+[[File:Corsica Express Seconda.jpg|thumb|A high-speed ferry in the Gulf of [[Olbia]]]]
+The ferry companies operating on the island are [[Tirrenia di Navigazione]], [[Moby Lines]], [[Corsica Ferries - Sardinia Ferries]], [[Grandi Navi Veloci]], [[Grimaldi Lines]], Corsica Linea; they link the Sardinian seaports of [[Porto Torres]], [[Olbia]], [[Golfo Aranci]], [[Arbatax]], [[Santa Teresa Gallura]] and [[Cagliari]] with [[Civitavecchia]], [[Genoa]], [[Livorno]], [[Naples]], [[Palermo]], [[Trapani]], [[Piombino]] in Italy, [[Marseille]], [[Toulon]], [[Bonifacio, Corse-du-Sud|Bonifacio]], [[Propriano]] and [[Ajaccio]] in France and [[Barcelona]] in Spain.
+
+Caronte & Tourist and Delcomar  links the main island to the islands of [[La Maddalena]] and [[Carloforte|San Pietro]].
+
+About 40 tourist harbours are located along the Sardinian coasts.
+
+=== Roads ===
+[[File:Cable-stayed bridge of the Monserrato University Campus interchange.JPG|thumb|left|Cable-stayed bridge of the Monserrato University Campus interchange SS 554]]
+[[File:Bus ARST mercedes benz citaro 2.jpg|thumb|A bus of Sardinia public transport authorities ([[ARST (company)|Arst]]) in Sassari]]
+Sardinia is the only Italian region without [[Autostrade]] (en:[[motorway]]s), but the road network is well developed with a system of no-toll roads with [[dual carriageway]], called ''superstrade'' ('super roads') that connect the principal towns and the main airports and seaports; the speed limit is {{convert|90|km/h|0|abbr=on}}/{{convert|110|km/h|0|abbr=on}}. The principal road is the [[Strada statale 131 Charles Felix|SS131]] "[[Carlo Felice]]", linking the south with the north of the island, crossing the most historic regions of [[Porto Torres]] and [[Cagliari]]; it is part of [[European route]] E25. The [[Strada statale 131 Diramazione Centrale Nuorese|SS 131 d.c.n]] links [[Oristano]] with [[Olbia]], crossing the hinterland [[Nuoro]] region. Other roads designed for high-capacity traffic link [[Sassari]] with [[Alghero]], [[Sassari]] with [[Tempio Pausania]], [[Sassari]] – [[Olbia]], [[Cagliari]] – [[Tortolì]], [[Cagliari]] – [[Iglesias, Sardinia|Iglesias]], [[Nuoro]] – [[Lanusei]]. A work in progress is converting the main routes to [[highway]] standards, with the elimination of all [[Intersection (road)|intersections]]. The secondary inland and mountain roads are generally narrow with many [[hairpin turn]]s, so the speed limits are very low.
+
+[[Public transport]] [[buses]] reach every town and village at least once a day; however, due to the low density of population, the smallest territories are reachable only by car. The Azienda Regionale Sarda Trasporti ([[ARST (company)|ARST]]) is the public regional bus transport agency. Networks of city buses serve the main towns ([[Cagliari]], [[Iglesias, Sardinia|Iglesias]], [[Oristano]], [[Alghero]], [[Sassari]], [[Nuoro]], [[Carbonia, Sardinia|Carbonia]] and [[Olbia]]).
+
+In Sardinia 1,295,462 vehicles circulate, equal to 613 per 1,000 inhabitants.<ref>{{cite web|url=http://www.comuni-italiani.it/statistiche/veicoli.html|title=Statistiche numero auto, moto e veicoli commerciali in Italia|work=Comuni-Italiani.it}}</ref>
+
+=== Railways ===
+[[File:FS ATR 365 003 (Cagliari).jpg|thumb|ATR 365 owned by the Autonomous Region of Sardinia in Cagliari]]
+[[File:FCS 400 auf dem Viadukt bei Belvi-Aritzo.JPG|thumb|left|Tourist railway between [[Aritzo]] and [[Belvì]]]]
+The Sardinian railway system was developed starting from the 19th century by the Welsh engineer [[Benjamin Piercy]].
+
+Today there are two different railway operators:
+* [[Trenitalia]] which connects the most populated towns and the main ports. This network is the most modern on the island, running primarily diesel locomotives such as the [[Alstom|''Alstom Minuetto'']] and, from 2015 the faster [[tilting train]] [[Construcciones y Auxiliar de Ferrocarriles|CAF ATR365 and ATR 465]], specifically designed for the Sardinian railway network;<ref>{{cite web|url=http://www.caf.es/en/productos-servicios/proyectos/proyecto-detalle.php?p=221|title=Regional Train Sardinia}}</ref>
+* [[ARST (company)|ARST]]: the trains run on [[narrow gauge railways|narrow-gauge]] track, are generally slow, due to the tortuosity of the lines, except for the electrified [[tram-trains]] operating in the metropolitan areas of [[Sassari Tram-train|Sassari]] and [[Cagliari Metro-tramway|Cagliari]].
+
+The ''[[Trenino Verde]]'' (''Little Green Train'') is a [[tourist railway|railway tourism]] service operated by ARST. Vintage [[railcar]]s and [[steam locomotive]]s run through the wildest parts of the island. They allow the traveller to have scenic views impossible to see from the main roads.
+
+== Demographics ==
+{{See also|Sardinian people|Corsican people|Italian people|Catalan people|List of Sardinians}}
+{{Historical populations
+|type =
+|footnote = Source: [[Istituto Nazionale di Statistica|ISTAT]], – D.Angioni-S.Loi-G.Puggioni, La popolazione dei comuni sardi dal 1688 al 1991, CUEC, Cagliari, 1997 – F. Corridore, Storia documentata della popolazione di Sardegna, Carlo Clausen, Torino, 1902
+|1485 |157,578
+|1603 |266,676
+|1678 |299,356
+|1688 |229,532
+|1698 |259,157
+|1728 |311,902
+|1751 |360,805
+|1771 |360,785
+|1776 |422,647
+|1781 |431,897
+|1821 |461,931
+|1824 |469,831
+|1838 |525,485
+|1844 |544,253
+|1848 |554,717
+|1857 |573,243
+|1861 |609,000
+|1871 |636,000
+|1881 |680,000
+|1901 |796,000
+|1911 |868,000
+|1921 |885,000
+|1931 |984,000
+|1936 |1,034,000
+|1951 |1,276,023|1961 |1,419,362|1971 |1,473,800
+|1981 |1,594,175|1991 |1,648,248|2001 |1,631,880|2011 |1,639,362
+|2021|1,587,413}}
+
+With a [[population density]] of 69/km<sup>2</sup>, slightly more than a third of the national average, Sardinia is the fourth-least populated region in Italy. In the recent past the population distribution was anomalous compared to that of other Italian regions lying on the sea. In fact, contrary to the general trend, most urban settlement, with the exception of the fortified cities of [[Cagliari]], [[Alghero]], [[Castelsardo]] and few others, has taken place not primarily along the coast but in the subcoastal areas and towards the centre of the island. Historical reasons for this include the repeated [[Saracen]] raids during the [[Middle Ages]] and then [[Barbary]] raids until the early 19th century (making the coast unsafe), widespread pastoral activities inland, and the swampy nature of the coastal plains (reclaimed definitively only in the 20th century). The situation has been reversed with the expansion of seaside tourism; all of Sardinia's major urban centres are now located near the coasts, and the island's interior is very sparsely populated.
+
+It is the region with the lowest [[total fertility rate]]<ref>[[Istituto Nazionale di Statistica|ISTAT]] [http://demo.istat.it/altridati/indicatori/2005/Tab_4.pdf Numero medio di figli per donna per regione 2002–2005] {{Webarchive|url=https://web.archive.org/web/20120214164012/http://demo.istat.it/altridati/indicatori/2005/Tab_4.pdf |date=14 February 2012 }}</ref> (1.087 births per woman) and the second-lowest [[birth rate]] of Italy<ref>[[Istituto Nazionale di Statistica|ISTAT]] [http://demo.istat.it/altridati/indicatori/2005/Tab_1.pdf Tassi generici di natalità, mortalità e nuzialità per regione 2002–2005] {{Webarchive|url=https://web.archive.org/web/20120214164031/http://demo.istat.it/altridati/indicatori/2005/Tab_1.pdf |date=14 February 2012 }}</ref> (which is already one of the lowest in the world). Combined with the aging of population going rather fast (in 2009, people older than 65 were 18.7%), rural [[Population decline|depopulation]] is quite a big issue: between 1991 and 2001, 71.4% of Sardinian villages have lost population (32 more than 20% and 115 between 10% and 20%), with over 30 of them being at risk to become [[ghost town]]s.<ref>{{cite web|url=http://www.unionesarda.it/articolo/cronaca_sardegna/2014/01/21/l_isola_che_rischia_di_scomparire_ecco_i_trenta_paesi_fantasma-6-350833.html|title=La Sardegna che rischia l'estinzione Ecco i trenta paesi "fantasma" – Cronache dalla Sardegna – L'Unione Sarda.it|work=L'Unione Sarda.it|date=21 January 2014}}</ref> It is predicted that at that rate, Sardinia will be the European island with the second-lowest population density, immediately after [[Iceland]], by 2080.<ref>{{cite web|url=https://www.lanuovasardegna.it/regione/2016/04/26/news/nel-2080-solo-1-milione-di-abitanti-1.13369851|title=Spopolamento, nel 2080 la Sardegna avrà solo un milione di abitanti|publisher=La Nuova Sardegna|year=2016|last=Budroni|first=Dario}}</ref><ref>{{cite web|url=https://www.lanuovasardegna.it/regione/2019/02/24/news/nel-2066-isola-spopolata-come-nel-dopoguerra-1.17776214|title=Nel 2066 isola spopolata come nel dopoguerra|publisher=La Nuova Sardegna|year=2019|last=Palmas|first=Antonello|access-date=16 November 2019|archive-date=16 November 2019|archive-url=https://web.archive.org/web/20191116142054/https://www.lanuovasardegna.it/regione/2019/02/24/news/nel-2066-isola-spopolata-come-nel-dopoguerra-1.17776214|url-status=dead}}</ref>
+
+Nonetheless, the overall population estimate has remained relatively stable because of a considerable immigration flow, mainly from the Italian mainland, but also from Eastern Europe (especially Romania), Africa and Asia.
+
+=== Life expectancy ===
+Average [[life expectancy]] is slightly over 82 years (85 for women and 79.7 for men<ref>ISTAT – INDICATORI DEMOGRAFICIStime perl'anno 2015</ref>). Sardinia shares with the Japanese island of [[Okinawa Prefecture|Okinawa]] the highest rate of [[centenarians]] in the world (22 centenarians per 100,000 inhabitants).
+Sardinia is the first discovered [[Blue Zone]], a demographic or geographic area in the world with an oversize concentration of centenarians and supercentenarians.
+
+=== Foreign immigration ===
+In 2023, there were 50,211 foreign national residents, forming 3,2% of the total Sardinian population.<ref name=Istatstr>{{cite web|url=https://www.tuttitalia.it/sardegna/statistiche/cittadini-stranieri-2023/|title=Cittadini stranieri 2023 - Sardegna|access-date=8 May 2024}}</ref> The most represented nationalities were:<ref name=Istatstr />
+{{colbegin|colwidth=15em}}
+* {{ROU}} 11,313
+* {{SEN}} 4,289
+* {{MAR}} 3,982
+* {{CHN}} 3,253
+* {{UKR}} 2,885
+* {{PHI}} 1,969
+* {{NGA}} 1,795
+* {{BGD}} 1,406
+* {{GER}} 1,214
+* {{PAK}} 1,047
+* {{POL}} 1,037
+* {{KGZ}} 946
+* {{RUS}} 788
+* {{FRA}} 763
+* {{ALB}} 762
+* {{UK}} 710
+{{colend}}
+
+=== Main cities and Functional Urban Areas ===
+[[File:Città Sardegna collage.png|thumb|right|Cagliari, Alghero, Sassari, Nuoro, Oristano, Olbia]]
+Sardinia's most populated cities are Cagliari and Sassari. The [[Metropolitan City of Cagliari]] has 431,302 inhabitants, or about ¼ of the population of the entire island. [[Eurostat]] has identified in Sardinia two [[Functional Urban Area]]s:<ref>{{cite web |url=http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=urb_lpop1&lang=en |title=Population on 1 January by age groups and sex - functional urban areas |publisher=Eurostat |access-date=26 June 2021 }}</ref> Cagliari, with 477,000 inhabitants, and Sassari, with 222,000 inhabitants.
+{| class="sortable wikitable"
+|-
+!Rank
+!Commune
+!Province
+!Population<ref>{{cite web |title=January 2016 |url=http://demo.istat.it/pop2016/index.html |work=ISTAT |access-date=26 June 2021 |archive-date=26 June 2017 |archive-url=https://web.archive.org/web/20170626094728/http://demo.istat.it/pop2016/index.html |url-status=dead }}</ref>
+!Density (inh./km<sup>2</sup>)
+|-
+|1st
+| [[Cagliari]] / Casteddu <small>([[Campidanese Sardinian|Sardinian]])</small>
+|[[Metropolitan City of Cagliari]]
+|154,460
+|1,805
+|-
+|2nd
+|[[Sassari]] / Sassari <small>([[Sassarese language|Sassarese]])</small> / Tatari <small>([[Logudorese Sardinian|Sardinian]])</small>
+|[[Province of Sassari]]
+|127,525
+|230
+|-
+|3rd
+| [[Quartu Sant'Elena]] / Cuartu Sant'Aleni<ref name="Cagliari metropolitan area">[[Cagliari metropolitan area]]</ref> <small>(Sardinian)</small>
+|[[Metropolitan City of Cagliari]]
+|71,125
+|719
+|-
+| 4th
+|[[Olbia]] / Terranoa <small>(Sardinian)</small> / Tarranoa <small>([[Gallurese dialect|Gallurese]])</small>
+|[[Province of Sassari]]
+|59,368
+|146
+|-
+|5th
+|[[Alghero]] / L'Alguer <small>([[Algherese dialect|Catalan]])</small>
+|[[Province of Sassari]]
+|44,019
+|181
+|-
+|6th
+|[[Nuoro]] / Nùgoro <small>(Sardinian)</small>
+|[[Province of Nuoro]]
+| 37,091
+|189
+|-
+|7th
+|[[Oristano]] / Aristanis <small>(Sardinian)</small>
+|[[Province of Oristano]]
+|31,630
+|380
+|-
+|8th
+| [[Carbonia, Sardinia|Carbonia]] / Crabònia <small>(Sardinian)</small>
+|[[Province of South Sardinia]]
+|28,755
+|197
+|-
+|9th
+|[[Selargius]] / Ceraxius<ref name="Cagliari metropolitan area"/> <small>(Sardinian)</small>
+|[[Metropolitan City of Cagliari]]
+|28,975
+|1092
+|-
+| 10th
+|[[Iglesias, Sardinia|Iglesias]] / Igrèsias or Bidd'e Cresia <small>(Sardinian)</small>
+|[[Province of South Sardinia]]
+|27,189
+|133
+|-
+| 11th
+|[[Assemini]] / Assèmini<ref name="Cagliari metropolitan area"/> <small>(Sardinian)</small>
+|[[Metropolitan City of Cagliari]]
+|26,686
+|238
+|-
+| 12th
+|[[Capoterra]] / Cabuderra<ref name="Cagliari metropolitan area"/> <small>(Sardinian)</small>
+|[[Metropolitan City of Cagliari]]
+|23,861
+|349
+|-
+| 13th
+|[[Porto Torres]] / Posthudorra <small>(Sassarese)</small>
+|[[Province of Sassari]]
+|22,313
+|218
+|-
+| 14th
+|[[Sestu]]<ref name="Cagliari metropolitan area"/> <small>(Sardinian)</small>
+|[[Metropolitan City of Cagliari]]
+|20,454
+|423
+|-
+| 15th
+|[[Monserrato]] / Pauli<ref name="Cagliari metropolitan area"/> <small>(Sardinian)</small>
+|[[Metropolitan City of Cagliari]]
+|20,055
+|3,180
+
+|}
+
+== Government and politics ==
+{{Main|Politics of Sardinia|List of political parties in Sardinia}}
+{{See also|Regional Council of Sardinia|List of presidents of Sardinia}}
+
+Sardinia is one of the five [[Italian autonomous regions]], along with the [[Aosta Valley]], [[Trentino-Alto Adige/Südtirol]], [[Friuli-Venezia Giulia]] and [[Sicily]]. Its particular statute, which in itself is a [[Italian Constitution|constitutional law]], gives the region a limited degree of autonomy, entailing the right to carry out the administrative functions of the local body and to create its own laws in a strictly defined number of domains.
+
+[[File:Map of region of Sardinia, Italy, with provinces-it (as of 2016).svg|Provinces of Sardinia|thumb]]
+
+The regional administration is constituted by three authorities:
+* the [[Regional Council of Sardinia|Regional Council]] (legislative power)
+* the Regional Junta (executive power)
+* the President (chief of executive power)
+
+=== Administrative divisions ===
+Since 2016, Sardinia is divided into four provinces<ref>{{cite web
+|title=Legge regionale approvata il 27 gennaio 2016
+|url=http://consiglio.regione.sardegna.it/XVLegislatura/Leggi%20approvate/lr2016-02.asp
+|archive-url=https://web.archive.org/web/20160228094221/http://consiglio.regione.sardegna.it/XVLegislatura/Leggi%20approvate/lr2016-02.asp
+|url-status=dead
+|archive-date=28 February 2016
+|publisher=Consiglio regionale della Sardegna
+|access-date=15 October 2017
+}}</ref> ([[Province of Nuoro|Nuoro]], [[Province of Oristano|Oristano]], [[Province of Sassari|Sassari]], [[Province of South Sardinia|South Sardinia]]) and the [[Metropolitan cities of Italy|metropolitan city]] of [[Cagliari]].
+
+{| class="wikitable centered"
+|-
+! style="background:#ccf;"|Province
+! style="background:#ccf;"|Area (km<sup>2</sup>)
+! style="background:#ccf;"|Population
+! style="background:#ccf;"|Density (inh./km<sup>2</sup>)
+|-
+| [[Metropolitan City of Cagliari|Cagliari (metropolitan city)]]
+| 1,248
+| 431,568
+| 345.8
+|-
+| [[Province of Nuoro]]
+| 5,786
+| 213,206
+| 36.8
+|-
+| [[Province of Oristano]]
+| 3,034
+| 160,864
+| 53.0
+
+|-
+| [[Province of Sassari]]
+| 7,692
+| 494,388
+| 64.2
+|-
+| [[Province of South Sardinia]]
+| 6,339
+| 358,229
+| 56.5
+|-
+|}
+
+=== Military installations ===
+[[File:20151102 Davide.Passone U.S. Artillery Training (2) (22126481703).jpg|thumb|upright=1.15|left|US Artillery Live Fire Exercise in Capo [[Teulada, Sardinia|Teulada]]  2015 during NATO exercise Trident Juncture ]]
+Around 60% of all the military installations in Italy are in Sardinia, whose area is less than one-tenth of all the Italian territory and whose population is little more than the 2,5%.<ref>{{cite web|url=https://www.nationalia.info/brief/11254/sardinians-protest-islands-military-occupation|title=Sardinians protest island's "military occupation"|publisher=Nationalia|year=2019}}</ref> The island hosts [[NATO]] joint forces and [[Israeli army|Israeli]] military forces, which use the island's territory to simulate war games; the Inter-service Test and Training Range of Salto di Quirra (PISQ) is one of the most important experimental
+military training centres in Europe.<ref>Esu, Aide. ''“‘A Foras, Out’: Youth Antimilitarism Engagement in Sardinia.”'' Bethlehem University Journal, vol. 37, 2020, pp. 53–67. JSTOR, www.jstor.org/stable/10.13169/bethunivj.37.2020.0053. Accessed 9 February 2021.</ref> The bases, used for manufacturing plants and military testing grounds, totally take up more than 350&nbsp;km<sup>2</sup> of the island's land,<ref name=servitu>{{Cite web|url=http://www.regione.sardegna.it/tematiche/ambiente_territorio/servitumilitari/cosasono.html|title=Cosa sono le servitù - Regione Autonoma della Sardegna|website=www.regione.sardegna.it|access-date=24 November 2016|archive-date=27 March 2016|archive-url=https://web.archive.org/web/20160327093132/http://www.regione.sardegna.it/tematiche/ambiente_territorio/servitumilitari/cosasono.html|url-status=dead}}</ref> making Sardinia the most militarized region in Italy and the most militarized island in Europe.<ref>Andrea Maggiolo, [http://www.today.it/cronaca/sardegna-isola-militarizzata-basi-poligoni.html Sardegna, il lato oscuro di un paradiso: è l'isola più militarizzata d'Europa], Today.it, 4 maggio 2014, accesso 14 novembre 2016.</ref><ref>{{cite book|last= Camillo|first= Lisa|title=Una ferita italiana. I veleni e i segreti delle basi NATO in Sardegna: l'inquinamento radioattivo e l'omertà delle istituzioni|publisher=Ponte alle Grazie|year=2019}}</ref><ref name="sardsecret">{{cite web|url=https://www.aljazeera.com/programmes/peopleandpower/2020/02/secret-sardinia-200205101020037.html|title=Secret Sardinia|publisher=Al Jazeera|year=2020|access-date=6 February 2020|archive-date=6 February 2020|archive-url=https://web.archive.org/web/20200206125800/https://www.aljazeera.com/programmes/peopleandpower/2020/02/secret-sardinia-200205101020037.html|url-status=dead}}</ref>
+
+Besides the land-occupying installations, where 80% of the military explosives in Italy are used,<ref name="repubblica.it"/> there are also other military structures located on the sea and along the coastline, roughly equivalent to 20000&nbsp;km<sup>2</sup> (little less than the island's surface), being made inaccessible to the civil population when military exercises are held.<ref name=servitu/><ref name="sardsecret" />
+
+Among the most notable military bases on the island are the Interagency Polygons in Quirra, Capo Teulada and Capo Frasca, used by Italian and NATO forces to test-fire ballistic missiles and weapons and by [[Italian Space Agency|Italian]] and [[European Space Agency]] to test space vehicles and for orbital launches. Until 2008, the US navy also had a nuclear submarine base in the [[Maddalena Archipelago]].<ref name=servitu/><ref name="news.com.au"/>
+
+Depleted uranium and thorium dust from missile tests has been linked to an increase in cancers according to activists and local politicians.<ref>{{cite news |url=https://www.abc.net.au/news/2019-01-29/sardinia-military-weapons-testing-birth-defects/10759614 |title=Italian military officials' trial ignites suspicions of links between weapon testing and birth defects in Sardinia |last=Alberici |first=Emma |date=29 January 2019 |website=ABC News |publisher=Australian Broadcasting Corporation |access-date=29 January 2019}}</ref> In the late 1980s, a high level of birth defects occurred near the [[Salto di Quirra]] weapons testing site after old munitions were destroyed.<ref>{{Cite episode |title=Secret Sardinia |url=https://www.abc.net.au/foreign/secret-sardinia/10759968 |access-date=29 January 2019 |series=Foreign Correspondent |series-link=Foreign Correspondent (TV series) |first=Emma |last=Alberici |network=Australian Broadcasting Corporation |date=29 January 2019}}</ref>
+
+== Culture ==
+{{See also|List of Sardinians|List of tourist attractions in Sardinia|List of archaeological and artistic sites of Sardinia|List of museums in Sardinia}}
+Sardinia is the only [[Regions of Italy#Autonomous regions with special statute|autonomous region]] in Italy where its special [[Statute]] uses the term ''popolo'' (distinct people) to refer to its inhabitants. While this formula is also used by [[Veneto]], which unlike Sardinia is an [[Regions of Italy#Regions with ordinary statute|ordinary region]], the Sardinian Statute is adopted with a [[constitutional law]]. In both cases, such term is not meant to imply any legal difference between Sardinians and any other citizen of the country.
+
+=== Architecture ===
+{{See also|Architecture of Sardinia|Romanesque architecture in Sardinia}}
+[[File:Pozzo sacro di Santa Cristina, la volta a tholos sopra il pozzo. - panoramio.jpg|thumb|left|Santa Cristina holy well of [[Paulilatino]], tholos]]
+[[File:Chiesa di Nostra Signora di Tergu 2009.jpg|thumb|Facade of Nostra Signora di Tergu (SS)]]
+[[File:Borutta - Chiesa di San Pietro di Sorres (14).JPG|thumb|Interior of San Pietro di Sorres, Borutta (SS)]]
+Of the prehistoric architecture in Sardinia there are numerous testimonies such as the ''[[domus de janas]]'' (hypogeic tombs), the [[Giants' grave]], the megalithic circles, the [[menhir]]s, the [[dolmen]]s and the [[Nuragic holy well|well temples]];<ref>{{cite web|url=http://www.sardegnacultura.it/argomenti/architettura/|title=Architettura|publisher=Regione Autonoma della Sardegna|access-date=17 October 2014|archive-date=10 October 2014|archive-url=https://web.archive.org/web/20141010144304/http://www.sardegnacultura.it/argomenti/architettura/|url-status=dead}}</ref> however, the element that more than any other characterizes the Sardinian prehistoric landscape are the [[nuraghe]];<ref>{{cite web|url=http://www.sardegnacultura.it/j/v/258?s=19710&v=2&c=2656&t=7|title=Una civiltà architettonica di alto livello|publisher=Regione Autonoma della Sardegna|access-date=17 October 2014|archive-date=13 October 2014|archive-url=https://web.archive.org/web/20141013142423/http://www.sardegnacultura.it/j/v/258?s=19710&v=2&c=2656&t=7|url-status=dead}}</ref> the remains of thousands of these [[Bronze Age]] buildings of various types (simple and complex) are still visible today. There are also numerous traces left by the [[Phoenicians]] and [[Punics]] who introduced new urban forms on the coasts.
+
+The [[Ancient Rome|Romans]] gave a new administrative structure to the whole island through the restructuring of several cities, the creation of new centers and the construction of many infrastructures of which the ruins remain, such as the palace of Re Barbaro in [[Porto Torres]] or the [[Roman Amphitheatre of Cagliari]]. Even from the [[early Christian]] and [[Byzantine]] epoch there are several testimonies throughout the territory both on the coasts and inside, especially linked to buildings of worship.
+
+A particular development had [[Romanesque architecture]] during the [[Sardinian medieval kingdoms|Judicates]] period. Starting from 1063 the Sardinian Judges ({{lang|sc|judikes}}), through substantial donations, had favored the arrival to the island of monks of different orders from various regions of [[Italian peninsula|Italy]] and France. These circumstances favored in turn the arrival to the island of workers from [[Pisa]], [[Lombardy]], [[Provence]] and [[Muslim Spain]], giving rise to unprecedented artistic manifestations, marked by the fusion of these experiences.
+
+The cornerstone in the evolution of Romanesque architectural forms was the [[basilica of San Gavino]] in Porto Torres.<ref>{{cite book |chapter-url= http://www.sardegnacultura.it/documenti/7_26_20060302162503.pdf |chapter= San Gavino di Torres (ante 1065-ante 1111) |title= Architettura romanica dalla metà del Mille al primo '300 |last= Coroneo |first= Roberto |publisher= Ilisso |year= 1993 |page= 15 |location= Nuoro |isbn= 978-88-85098-24-4 |access-date= 18 March 2018 |archive-date= 13 March 2020 |archive-url= https://web.archive.org/web/20200313143626/http://www.sardegnacultura.it/documenti/7_26_20060302162503.pdf |url-status= dead }}</ref> Among the most relevant examples there are the cathedrals of [[Sant'Antioco di Bisarcio]] ([[Ozieri]]), [[San Pietro di Sorres]] in [[Borutta]], [[San Nicola (Ottana)|San Nicola di Ottana]], the palatine chapel of [[Santa Maria del Regno]] of [[Ardara, Sardinia|Ardara]], the [[Santa Giusta Cathedral]], [[Nostra Signora di Tergu]], the [[Basilica di Saccargia]] in [[Codrongianos]] and [[Santa Maria, Uta|Santa Maria di Uta]] and, of the 13th century, the cathedrals of Santa Maria di Monserrato ([[Tratalias]]) and [[Dolianova Cathedral|San Pantaleo]] ([[Dolianova]]). As for military architecture, numerous [[Castles of Sardinia|castles]] to defend the territory were built during this period. At the beginning of the 14th century date the fortifications and towers of Cagliari, designed by [[Giovanni Capula]].
+
+After their arrival in 1324, the Aragonese concentrated the first realizations in [[Cagliari]]; the oldest [[Catalan Gothic]] church in Sardinia is the [[shrine of Our Lady of Bonaria]].<ref>{{cite web|url=http://www.sardegnacultura.it/j/v/253?s=18289&v=2&c=2488&c1=2123&t=1|title=Cagliari, Santuario della Madonna di Bonaria|publisher=Regione Autonoma della Sardegna|access-date=17 October 2014|archive-date=22 October 2014|archive-url=https://web.archive.org/web/20141022151822/http://www.sardegnacultura.it/j/v/253?s=18289&v=2&c=2488&c1=2123&t=1|url-status=dead}}</ref> Also in Cagliari in the same years the Aragonese chapel was built inside the cathedral. In the first half of the fifteenth century a real Gothic jewel was built, the complex of San Domenico, which included the church and the convent, almost completely destroyed during the air raids of 1943, and of which only the cloister remains. Other works were the churches of San Francesco of Stampace (of which only a part of the cloister remains), Sant'Eulalia and San Giacomo. In [[Alghero]] in the second half of the fifteenth century the construction of the church of San Francesco and in the sixteenth century of the [[Alghero Cathedral|cathedral]] began.
+[[File:Kathedrale Santa Maria Cagliari Krypta.JPG|thumb|Crypt of the Cagliari Cathedral]]
+[[Renaissance architecture]], although poorly represented, includes notable examples such as the installation of the [[Sassari Cathedral|cathedral of San Nicola]] di [[Sassari]] (late Gothic but with a strong Renaissance influence), the church of Sant'Agostino di Cagliari (designed by Palearo Fratino), the church of Santa Caterina in Sassari (designed by Bernardoni, a pupil of Vignola).
+
+On the contrary, the [[Baroque architecture]] has found wide prominence,<ref>{{cite web|first=Regione Autonoma|last=della Sardegna|url= http://www.sardegnacultura.it/index.php?xsl=305&s=7&v=9&c=28275&nodesc=1&idct=2409|title= Barocchi|access-date=1 March 2011|publisher=Regione Sardegna}}</ref> interesting examples are the Collegiata di Sant'Anna in Cagliari, the facade of the Cathedral of San Nicola in Sassari, the church of San Michele in Cagliari, as well as the [[Cagliari Cathedral|cathedral of Cagliari]], [[Ales, Sardinia|Ales]] and [[Oristano]], rebuilt or modified between the seventeenth and eighteenth centuries.
+
+Starting from the nineteenth century, new architectural forms of [[Neoclassical architecture|neoclassical]] inspiration spread throughout the island. Among the most important figures of this architectural and urban phase is that of the architect from Cagliari [[Gaetano Cima]], whose works are scattered throughout the Sardinian territory.<ref>{{cite web|first= Regione Autonoma|last= della Sardegna|url= http://www.sardegnacultura.it/j/v/258?s=20856&v=2&c=2662&t=7|title= Gaetano Cima|access-date= 1 March 2011|publisher= Regione Sardegna|archive-date= 30 December 2018|archive-url= https://web.archive.org/web/20181230233257/http://www.sardegnacultura.it/j/v/258?s=20856&v=2&c=2662&t=7|url-status= dead}}</ref> Alongside the works of Cima, it is worth mentioning those of Giuseppe Cominotti (Palazzo and Civic Theater of Sassari) and Antonio Cano (dome of S. Maria di Betlem in Sassari and the cathedral of Santa Maria della Neve in Nuoro). In the second half of the nineteenth century in Sassari was built the [[neo Gothic]] palace Giordano (1878) which is one of the earliest examples of [[Revivalism (architecture)|revivalism]] in the island.
+
+An interesting realization of [[Eclecticism in art|eclectic style]], derived from the union between revivalist and [[Art Nouveau]] models, appears to be the [[City hall]] of Cagliari, completed in the early twentieth century. The advent of [[fascism]] has strongly influenced architecture in Sardinia in the twenties and thirties:<ref>{{cite web|first= Regione Autonoma|last= della Sardegna|url= http://www.sardegnacultura.it/j/v/258?s=20862&v=2&c=2663&t=7|title= Le città di fondazione fascista|access-date= 1 March 2011|publisher= Regione Sardegna|archive-date= 30 December 2018|archive-url= https://web.archive.org/web/20181230233355/http://www.sardegnacultura.it/j/v/258?s=20862&v=2&c=2663&t=7|url-status= dead}}</ref> interesting achievements of that period are the new centers of [[Fertilia]], [[Arborea]] and the city of [[Carbonia, Sardinia|Carbonia]], one of the greatest examples of [[rationalist architecture]].
+
+=== Art ===
+[[File:San Michele arcangelo del maestro di Castelsardo.jpg|thumb|[[Michael (archangel)|Archangel Michael]] by the [[Master of Castelsardo]]]]
+Numerous findings of the typical statues of the [[Mother Goddess]] and pottery engraved with geometric designs testify the artistic expressions of the [[Pre-Nuragic Sardinia|Pre-Nuragic peoples]]. Subsequently, the [[Nuragic civilization]] produced hundreds of [[Nuragic bronze statuettes|bronze statuettes]] and the enigmatic stone statuary of the [[Giants of Mont'e Prama]].<ref>{{cite web|first=Regione Autonoma|last=della Sardegna|url=http://www.sardegnacultura.it/argomenti/arte/|title=Arte|access-date=29 September 2014|publisher=Regione Sardegna|archive-date=1 October 2014|archive-url=https://web.archive.org/web/20141001204852/http://www.sardegnacultura.it/argomenti/arte/|url-status=dead}}</ref>
+
+The union between the nuragic populations and the merchants coming from every part of the [[Mediterranean]] led to a refined production of [[gold]] artifacts, [[ring (jewellery)|ring]]s, [[earrings]] and jewelry of all kinds, but also votive steles and wall decorations. In addition to architecture linked to public works, the Romans introduced the [[Roman mosaic|mosaics]] and decorated the rich villas of the [[patricians]] with sculptures and paintings.<ref>{{cite web|first=Regione Autonoma|last=della Sardegna|url=http://www.sardegnacultura.it/argomenti/arte/romana.html|title=Arte romana|access-date=29 September 2014|publisher=Regione Sardegna|archive-date=11 October 2014|archive-url=https://web.archive.org/web/20141011060150/http://www.sardegnacultura.it/argomenti/arte/romana.html|url-status=dead}}</ref>
+
+In the [[Middle Age]]s, during the Judicates period, the architecture of the churches were enriched with [[capital (architecture)|capital]]s, [[sarcophagi]], [[frescoes]], [[marble]] altars and later embellished with [[retable]]s, paintings by important artists such as the [[Master of Castelsardo]], [[Pietro Cavaro]], Andrea Lusso, and the school of the so-called [[Master of Ozieri]] who was headed by [[Giovanni del Giglio]] and Pietro Giovanni Calvano, of [[Siena|Sene]]se origin.
+[[File:La madre dell'ucciso - Francesco Ciusa.jpg|thumb|upright=0.7|left|''La madre dell'ucciso'' ("the mother of the killed") by Francesco Ciusa (1907)]]
+In the nineteenth century and in early twentieth century originated the myths of an uncontaminated and timeless island. Recounted by the many travelers who visited Sardinia in that period, like [[D. H. Lawrence]], such myths were celebrated mainly by Sardinian artists such as [[Giuseppe Biasi]], [[Francesco Ciusa]], Filippo Figari, Mario Delitala and Stanis Dessy. In their works they highlighted the autochthonous values of the agro-pastoral world, not yet homologated to the modernity that was pressing from the outside. Other important Sardinian artists of the second half of the twentieth century were [[Costantino Nivola]], Maria Lai, Albino Manca and [[Pinuccio Sciola]].
+
+=== World Heritage Sites ===
+[[File:Nuraghe village.JPG|thumb|Su Nuraxi, [[Barumini]]]]
+Megalithic building structures called [[nuraghe]]s are scattered in great numbers throughout Sardinia. [[Su Nuraxi di Barumini]] is a [[UNESCO]] [[World Heritage Site]] since 1997.<ref>UNESCO, 2008</ref>
+
+=== Languages ===
+{{Main|Sardinian language|Sassarese language|Gallurese|Algherese dialect|Ligurian language}}
+[[File:Sardinia Language Map.png|thumb|left|Linguistic map of Sardinia]]
+[[File:No-smoking-sardinian.JPG|thumb|A '[[smoke-free laws|no smoking]]' sign in both [[Sardinian language|Sardinian]] and Italian]]
+
+[[Italian language|Italian]], which is the official language throughout Italy, is the most widely spoken language today, followed by the island's indigenous language, [[Sardinian language|Sardinian]] (''sardu'').<ref>{{cite web |url=https://www.regione.sardegna.it/documenti/1_4_20070510134456.pdf |title=Le Lingue dei Sardi: Una ricerca sociolinguistica |language=it |publisher=Regione Autonoma della Sardegna |location=Cagliari |date=January 2007 |access-date=26 June 2021 }}</ref>
+
+Sardinian is a distinct branch of the [[Romance language]] family, going either by the same name or by [[Southern Romance]]: it is therefore a separate language rather than an Italian dialect,<ref>{{cite web|url=http://www.ethnologue.com/family/17-1709|title=Ethnologue report for Sardinian |publisher=Ethnologue.com |access-date=28 March 2013}}</ref> and it is also closer to its [[Latin]] roots than Italian itself.<ref>{{cite book |title=Story of Language |url=https://archive.org/details/in.ernet.dli.2015.74047 |last=Pei |first=Mario |author-link=Mario Pei |year=1949 |publisher=Lippincott |isbn=978-03-9700-400-3 }}</ref> Sardinian has been formally recognized as one of Italy's twelve historical [[minority language|ethnolinguistic minorities]] since 1997, by regional and Italian law.<ref>Legge Regionale n. 26, 15 ottobre 1997</ref><ref>{{cite web|url=http://www.parlamento.it/parlam/leggi/99482l.htm|title=Legge 482}}</ref> The language has been influenced by [[Catalan language|Catalan]], Spanish and recently Italian, while the once spoken [[Paleo-Sardinian language]] contributes many features to it in many ancient remnants.
+
+In 2006 the regional administration has approved the use of a single standardised writing system, the so-called ''[[Limba Sarda Comuna]]'',<ref>{{cite web |url=http://www.regione.sardegna.it/documenti/1_72_20060418160308.pdf |publisher=Regione Autonoma della Sardegna |title=Limba Sarda Comuna: Norme linguistiche di riferimento a carattere sperimentale per la lingua scritta dell'Amministrazione regionale |language=it |access-date=26 June 2021 }}</ref> in official acts. As a literary language, Sardinian is gaining importance, despite heated debate about the lack of a commonly acknowledged standard orthography and controversial proposed solutions to this problem.<ref>{{Cite book|url=https://books.google.com/books?id=_8J7ilk0bAgC&q=Sardinian|title=Bilingualism and Linguistic Conflict in Romance|first1=Rebecca|last1=Posner|first2=John N.|last2=Green|pages=271–294|date=15 June 1993|publisher=Walter de Gruyter|via=Google Books|isbn=9783110117240}}</ref> The two main orthographies of the language are in fact [[Campidanese Sardinian|Campidanese]] (''sardu campidanesu''), used in central southern Sardinia, and [[Logudorese Sardinian|Logudorese]] (''sardu logudoresu''), extending northwards almost to the suburbs of [[Sassari]]. The Sardinian language is quite different from the other [[Romance languages]] and is homogeneous in terms of [[Morphology (linguistics)|morphology]], [[syntax]] and [[lexicon]], but it also shows a spectrum of variation in terms of [[phonetics]] between the Northern and the Southern [[dialect]]s.
+
+[[Sassarese language|Sassarese]] (''sassaresu'') and [[Gallurese]] (''gadduresu'') are classified as [[Corsican language#Corsican in Sardinia|Corso-Sardinian languages]], therefore belonging to the [[Italo-Dalmatian languages|Italo-Dalmatian branch]] rather than to the Sardinian one, and are spoken in the north.
+
+In Sardinia there are a few [[language island]]s: the [[Algherese dialect]] (''alguerés'') of [[Catalan language|Catalan]] is spoken in the city of [[Alghero]]; on the islands of [[San Pietro Island|San Pietro]] and [[Sant'Antioco]], located in the extreme south west of Sardinia, the local population speaks a variant of [[Ligurian language|Ligurian]] called Tabarchino (''tabarchin''); fewer and fewer people speak [[Venetian language|Venetian]], [[Friulian language|Friulian]] and [[Istriot language|Istriot]] in [[Arborea]] and [[Fertilia]], since these villages have been populated in the 1920s and 1930s by mainland colonists who came from [[northeast Italy]], and families from [[Istria]] and [[Dalmatia]] immediately after [[World War II]].
+
+Due to the Italian assimilation policies carried out since the late 18th century<ref>{{cite book|title=S'italianu in Sardìnnia candu, cumenti e poita d'ant impostu : 1720-1848; poderi e lìngua in Sardìnnia in edadi spanniola|author=Amos Cardia|publisher=Iskra|year=2006|place=Ghilarza}}</ref> and the ongoing [[cultural assimilation|absorption]] into the Italian culture, over the course of time the once prevalent indigenous language has been increasingly losing ground to Italian and the process of ongoing [[language shift]] has led to its [[Endangered language|endangerment]].<ref>La Nuova Sardegna, 04/11/10, Per salvare i segni dell'identità – di Paolo Coretti</ref> In fact, according to the data published by [[National Institute of Statistics (Italy)|ISTAT]] in 2006,<ref>{{cite web |url=http://www3.istat.it/salastampa/comunicati/non_calendario/20070420_00/testointegrale.pdf |title=La lingua italiana, i dialetti e le lingue straniere. Istat, 2006 |access-date=21 March 2016 |archive-date=22 July 2012 |archive-url=https://web.archive.org/web/20120722142548/http://www3.istat.it/salastampa/comunicati/non_calendario/20070420_00/testointegrale.pdf |url-status=dead }}</ref> 52.5% of the Sardinian population speaks only Italian in the family environment, while 29.3% alternates Italian and Sardinian and only 16.6% uses Sardinian or other non-Italian languages; outside the circle of family and friends, the last option drops to 5.2%. The resulting [[Italianization]] has led to a steep decline of the Sardinian language as well as produced a new non-standard variety of today's majority idiom, Italian: [[Regional Italian#Sardinia|regional Italian of Sardinia]] ({{lang|it|italiano regionale sardo}}, ''IrS'').
+
+Following the recent growth of the foreign-born population, the presence of other languages, principally [[Romanian language|Romanian]], [[Arabic]], [[Wolof language|Wolof]] and [[Chinese language|Chinese]], is also expanding in some urban areas.
+
+=== Literature ===
+{{Main|Sardinian literature|Sardinian Literary Spring}}
+[[File:Portrait of Grazia Deledda by Plinio Nomellini, 1914.jpg|thumb|Portrait of Grazia Deledda by [[Plinio Nomellini]], 1914]]
+The first literary work in Sardinian language dates back to the second half of the 15th century: a poem inspired by the life of the holy Porto Torres martyrs by the archbishop of Sassari Antonio Cano. Literary production had a remarkable development in the 16th century, the protagonist was [[Antonio Lo Frasso]], his ''Los diez libros de Fortuna de Amor'' is mentioned in the [[Don Quixote]] by [[Miguel de Cervantes]]. This work is written mainly in Spanish, but there are parts written in Catalan and in the Sardinian language.<ref name="Letteratura" /> [[Multilingualism]] was a characteristic trait of the islanders of that time, among them Sigismondo Arquer, [[Giovanni Francesco Fara]] and [[Pietro Delitala]] stood out. Delitala wrote in Italian, then Tuscan, and [[Gerolamo Araolla]] in all the three languages (Sardinian, Spanish and Italian).<ref name="Letteratura">{{cite web |url=http://www.sardegnacultura.it/argomenti/letteratura/ |title=Letteratura |website=sardegnacultura.it|access-date=8 November 2022 |archive-url=https://web.archive.org/web/20110606081310/http://www.sardegnacultura.it/argomenti/letteratura/|archive-date=6 June 2011}}</ref> But already in the 17th century there was a total integration in the Iberian world as demonstrated by the works in Spanish of the poets José Delitala y Castelvì, [[Joseph Zatrillas Vico]] and the writers Francesco Angelo de Vico and Salvatore Vidal.
+
+From 1720, with the passage of the [[Kingdom of Sardinia]], to the [[House of Savoy]], Italian became the official language. In the 19th century there is an interest of Sardinian authors for the history and culture of Sardinia: [[Giovanni Spano]] undertakes the first archaeological excavations, [[Giuseppe Manno]] writes the first great general history of the island, [[Pasquale Tola]] publishes important documents of the past and writes biographies of illustrious Sardinians. [[Alberto La Marmora]] travels the island far and wide, studying in detail and writing a four-part work entitled ''Voyage en Sardaigne''.
+
+The Sardinian society of the Early 20th century is told by [[Grazia Deledda]], the only italian woman to win a [[Nobel Prize in Literature]] to date, Enrico Costa, and the poet [[Sebastiano Satta]]. In this century, we must remember also the literary production of political characters of great value such as [[Antonio Gramsci]] and [[Emilio Lussu]]. After the Second World War, [[Giuseppe Dessì]] emerged, known mainly for his novel ''Paese d'ombre''. In more recent years, the autobiographical novels of [[Gavino Ledda]] ''Padre Padrone'' and [[Salvatore Satta]] ''Il Giorno del Giudici'' had a wide echo, in addition to the works of [[Sergio Atzeni]] and other writers active in the recent decades.<ref name="Letteratura" />
+
+=== Traditional clothes ===
+[[File:Costume di Ovodda.jpg|thumb|Costume from [[Ovodda]]]]
+{{Main|Sardinian people#Traditional clothes}}
+
+Colourful and of various and original forms, the Sardinian traditional clothes are a clear symbol of belonging to specific collective identities. Although the basic model is homogeneous and common throughout the island, each town or village has its own traditional clothing which differentiates it from the others.
+
+=== Music ===
+{{Main|Music of Sardinia}}
+
+[[File:Selargius - Costume tradizionale (24).JPG|thumb|[[Launeddas]] players]]
+Sardinia is home to one of the oldest forms of vocal [[polyphony]], generally known as [[canto a tenore|cantu a tenore]]. In 2005, [[Unesco]] classed the ''cantu a tenore'' among intangible world heritage. Several famous musicians have found it irresistible, including [[Frank Zappa]], [[Ornette Coleman]], and [[Peter Gabriel]]. The latter travelled to the town of [[Bitti]] in the central mountainous region and recorded the now world-famous [[Tenores di Bitti]] [[CD]] on his Real World label. The guttural sounds produced in this form make a remarkable sound, similar to [[Tuvan throat singing]]. Another polyphonic style of singing, more like the [[Corsican language|Corsican]] ''paghjella'' and liturgic in nature, is found in Sardinia and is known as ''cantu a cuncordu''.
+
+Another unique instrument is the [[launeddas]]. Three reed-canes (two of them glued together with [[beeswax]]) produce distinctive harmonies, which have their roots many thousands of years ago, as demonstrated by the bronze statuettes from [[Ittiri]], of a man playing the three reed canes, dated to 2000 BC.
+
+Beyond this, the tradition of ''cantu a chiterra'' ([[guitar]] songs) has its origins in town squares, when artists would compete against one another. The most famous singer of this genre are [[Maria Carta]] and [[Elena Ledda]].
+
+Sardinian culture is alive and well, and young people are actively involved in their own music and dancing. In 2004, [[BBC]] presenter [[Andy Kershaw]] travelled to the island with Sardinian music specialist Pablo Farba and interviewed many artists. His programme can be heard on BBC Radio 3.<ref>{{Cite web|url=https://www.bbc.co.uk/programmes/p005y0zf|title=BBC Radio 3 - Andy Kershaw, Corsica and Sardinia|website=BBC}}</ref> Sardinia has produced a number of notable jazz musicians such as Antonello Salis, Marcello Melis, and [[Paolo Fresu]].
+
+The main [[opera houses]] of the island are the Teatro Lirico in [[Cagliari]] and the Teatro Comunale in [[Sassari]].
+
+=== Cuisine ===
+{{Main|Cuisine of Sardinia}}
+{{see also|Sardinian wine}}
+[[File:Pasta e dolci.jpg|thumb|left|A range of different cakes, pastries, meals, dishes and sweets which are common elements of Sardinian cuisine]]
+
+Meat, dairy products, grains and vegetables constitute the most basic elements of the traditional Sardinian diet, along with, to a lesser extent, seafoods such as [[Spiny lobster|rock lobster]] (''aligusta''), [[scampi]], [[bottarga]] (''butàriga''), squid, and tuna.{{citation needed|date=November 2023}}
+
+[[Suckling pig]] (''porcheddu'') and wild boar (''sirbone'') are roasted on the spit or boiled in stews of beans and vegetables, thickened with bread.
+Herbs such as [[Mentha|mint]] and myrtle are used. Much Sardinian bread is made dry, which keeps longer than high-moisture breads.
+Those are baked as well, including ''civraxiu'', ''coccoi pintau'', a highly decorative bread and ''pistoccu'' made with flour and water only, originally meant for herders, but often served at home with tomatoes, basil, oregano, garlic and a strong cheese.<ref>Piras, 457, 460.</ref> Traditional cheeses include ''[[Pecorino Sardo|pecorino sardo]]'', ''[[pecorino romano]]'', ''[[casizolu]]'', ''[[ricotta]]'' and the ''[[casu martzu]]'' (notable for containing live insect larvae).
+
+One of the most famous of foods is ''[[pane carasau]]'', the flat bread of Sardinia, famous for its thin crunchiness.<ref>{{Cite web|url = https://www.youtube.com/watch?v=qRL47lXOuk8|title = No Reservations- Sardinia|date = 14 September 2009|access-date = 24 October 2015|website = Anthony Bourdain's No Reservations Season 5 Episode 20: Sardinia|last = Bourdain|first = Anthony}}</ref> Originally the making of this bread was a hard process which needed three women to do the job. This flat bread is always made by hand as it gives a different flavor the more the dough is worked. After working the dough it is rolled out in very thin circles and placed in an extremely hot stone oven where the dough will blow up into a ball shape. Once the dough achieves that state it is then removed from the oven where it is then cut into two thin sheets and stacked to go back into the oven.<ref>{{Cite web|url = http://www.theprimalist.com/flavors-of-sardinia-roasted-cheese-bitter-honey/|title = Flavors of Sardinia: Roasted Cheese, Bitter Honey|date = 17 May 2012|access-date = 24 October 2015|website = The Primalist}}</ref>
+
+Alcoholic beverages include many indigenous wines such as [[Grenache|Cannonau]], [[Malvasia]], [[Vernaccia]], [[Vermentino]], various liquors like [[Aguardiente|Abbardente]], [[Grappa|Filu Ferru]] and [[Mirto (liqueur)|Mirto]]. Beer is the most drunk alcoholic beverage; Sardinia boasts the highest consumption per capita of beer in Italy (twice higher than the national average).<ref>{{cite web|url=http://lanuovasardegna.gelocal.it/regione/2015/07/28/news/birra-la-bionda-che-fa-girare-la-testa-ai-sardi-consumo-record-nell-isola-1.11847280|title=Birra, la bionda che fa girare la testa ai sardi: consumo record nell'isola – Regione – la Nuova Sardegna|date=28 July 2015}}</ref> [[Birra Ichnusa]] is the most commercialized beer produced in Sardinia.
+
+== Sports ==
+
+=== Football ===
+[[File:CagliariBrescia2019.jpg|thumb|[[Unipol Domus]] in [[Cagliari]]]]
+[[Cagliari]] is home to [[Cagliari Calcio]], which was founded in 1920 and play in [[Serie A]], the Italian first division; it won the Italian Championship in the [[1969–70 Serie A]] season, becoming the first club in [[Southern Italy]] to achieve such a result. Today, home matches are played at the [[Unipol Domus]].
+
+The island's other major teams are [[Olbia]]'s [[Olbia Calcio 1905|Olbia Calcio]] and [[Sassari]]'s [[Torres Calcio]]; they both usually play in the national lower leagues. However the latter's [[Women's association football|women's]] team counterparts [[A.S.D. FC Sassari Torres Femminile|Torres Femminile]] are 7 times [[Serie A (women's football)|national champions]].
+
+The [[Sardinia national football team|Sardinian national football team]] has also joined [[Confederation of Independent Football Associations|CONIFA]], a football federation for all associations outside [[FIFA]].<ref>{{cite web|url=http://www.conifa.org/en/2018/10/13/sardinia-joins-conifa-with-aims-to-build-the-sardinian-national-football-team/|title=Sardinia joins CONIFA – with aims to build the Sardinian national football team|first=Noah|last=Wheelock|access-date=2 November 2018|archive-date=20 October 2018|archive-url=https://web.archive.org/web/20181020172315/http://www.conifa.org/en/2018/10/13/sardinia-joins-conifa-with-aims-to-build-the-sardinian-national-football-team/|url-status=dead}}</ref><ref>{{cite web|url=https://sport.sky.it/calcio/altro/2018/10/10/conifa-nazionale-sardegna.html|title=Una Nazionale della Sardegna? L'Ok della Conifa|work=Sky Sport |date=10 October 2018 |language=it}}</ref><ref>{{cite web|url=https://www.unionesarda.it/articolo/sport/2018/10/10/nasce-la-nazionale-sarda-la-federazione-isolana-stata-accolta-dal-4-782611.html|title=Nasce la Nazionale sarda: la federazione isolana è stata accolta dal Conifa|date=10 October 2018|website=L'Unione Sarda.it}}</ref>
+
+=== Basketball ===
+[[Sassari]] is home to [[Dinamo Basket Sassari]], the only Sardinian professional [[basketball]] club playing in the [[Lega Basket Serie A]], the highest level club competition in Italian professional basketball.
+It was founded in 1960, and is also known as Dinamo Banco di Sardegna thanks to a long sponsorship deal with the Sardinian bank. Since its promotion in Lega A in 2010, it has been enjoying the support of fans from Sassari and all over Sardinia with full-house matches on every game played at home. Dinamo Sassari achieved the highest titles in the Italian basketball in 2015, winning the [[Italian Basketball Cup|Coppa Italia]], the [[Italian Basketball Supercup|Supercoppa]] and the [[2014–15 Lega Basket Serie A|Italian basketball championship]].<ref>{{Cite news|date=26 June 2015|title=Dinamo Sassari nella storia: campione d'Italia e Triplete! |publisher=Sky Sport |url=http://sport.sky.it/sport/basket/2015/06/26/serie_a_basket_finale_scudetto_gara_7_grissin_bon_reggio_emilia_banco_sardegna_sassari.html |archive-url=https://web.archive.org/web/20150711193235/http://sport.sky.it/sport/basket/2015/06/26/serie_a_basket_finale_scudetto_gara_7_grissin_bon_reggio_emilia_banco_sardegna_sassari.html |archive-date=11 July 2015 |url-status=live}}</ref>
+
+=== Motor racing ===
+In the [[Province of Sassari]] is the [[Autodromo di Mores|Mores motor racing circuit]], the only [[Fédération Internationale de l'Automobile|FIA]] Circuit homologated by CSAI (Cars) and the IMF (Motorcycles), in Sardinia.
+
+[[Cagliari]] hosted a [[Formula 3000]] race in 2002 and 2003 on a 2.414-km street circuit around Sant'Elia [[stadium]]. In 2003, [[Renault]] [[F1]]'s [[Jarno Trulli]] and former [[Ferrari]] driver [[Jean Alesi]] did a spectacular exhibition. At the [[Italian Grand Prix|Grand Prix]] BMW-F1 driver Robert Kubica took part in a [[Formula Three|F3]] car, as did BMW WTCC Augusto Farfus, [[GP2 Series|GP2]]'s [[Fairuz Fauzy]] and [[Vitaly Petrov]]. Since 2004 Sardinia has hosted the [[Rally d'Italia Sardegna]], a [[rallying|rally]] competition in the [[Fédération Internationale de l'Automobile|FIA]] [[World Rally Championship]] schedule. The rally is held on narrow, twisty, sandy and bumpy mountainous roads in the north of the island.
+
+=== Water sports ===
+Sardinia is well known for [[scuba diving]] and [[snorkeling]] activities also due to the many underwater caves and caverns located in [[Alghero]] and [[Cala Gonone]], [[Capo Caccia]] and Punta Giglio limestone cliffs, and many sunken shipwrecks. Around the island there are many diving centers offering scuba diving services with equipment rental and guided tours.
+
+[[File:Santa Maria Navarrese-regata.jpg|thumb|right|Regatta at [[Santa Maria Navarrese]]]]
+On the island of [[Caprera]] is the ''[[Centro Velico Caprera]]'', considered one of the largest sailing schools in the [[Mediterranean Sea]], founded in 1967.
+
+The [[Yacht Club Costa Smeralda]], located in [[Porto Cervo]] and founded in 1967, is the main yachting club on the island.
+
+Annually the island hosts a Superyacht Regatta, previously sponsored by [[Loro Piana]], but from 2021 onwards by [[Giorgio Armani]], and the Maxi Yacht [[Rolex Cup]].
+Part of the [[Louis Vuitton Trophy La Maddalena|Louis Vuitton Trophy]] was held in the [[Maddalena archipelago]] in 2010.
+
+''Vento di Sardegna'' ('Wind of Sardinia') was a sailboat sponsored by the Autonomous Region of Sardinia. Its skipper, Andrea Mura, won the [[Single-Handed Trans-Atlantic Race]] in 2013 and in 2017, the Two Handed Transatlantic Race (Twostar) regatta in 2012 and the Route du Rhum.
+
+[[Porto Pollo]], north of [[Palau (OT)|Palau]], is a bay well known by [[windsurfing|windsurfers]] and [[kitesurfing|kitesurfers]]. The bay is divided by a thin tongue of land that separates it into areas for advanced and beginner/intermediate windsurfers. There is also a restricted area for kitesurfing. Many freestyle windsurfers went to Porto Pollo for training and 2007 saw the finale of the freestyle Pro Kids Europe 2007 contest. Because of the [[Venturi effect]] between Sardinia and [[Corsica]], the western wind accelerates between the islands and creates the wind that makes Porto Pollo popular among windsurfing enthusiasts.
+
+Cagliari hosts regularly international [[regattas]], such as the RC44 championship, [[Farr 40]] World championship, [[Audi MedCup]] and Kite Championships.<ref>{{Cite web|url=https://www.kitegeneration.com/kite-foil-world-championship-2017-cagliari-sardinia-italy/|title=Kite Foil World Championship 2017 in Cagliari, Sardinia|date=9 October 2017}}</ref> In view of the 36th America's Cup, scheduled to take place in New Zealand in 2021, ''Luna Rossa Challenge''<ref>{{Cite web|url=https://www.lunarossachallenge.com/en/home|title=Luna Rossa Prada Pirelli Team|first=Luna Rossa Prada Pirelli|last=Team|website=Luna Rossa Prada Pirelli Team}}</ref> has chosen Cagliari as place for its preparation.{{Update inline|date=August 2022}}
+
+=== Winter sports ===
+[[File:BruncuSpina.jpg|thumb|Skilifts on the Bruncu Spina]]
+
+Four ski resorts are located on the [[Gennargentu]] Range at Separadorgiu, Monte Spada, S'Arena and Bruncu Spina; they are equipped with ski schools, chairlifts, skilifts and ski equipment hire.<ref>{{cite web |url=http://www.bruncuspina.it/ |title=Bruncu Spina – Neve e Sci in Sardegna |url-status=dead |archive-url=https://web.archive.org/web/20050404000254/http://www.bruncuspina.com/ |archive-date=4 April 2005 |access-date=26 June 2021}}</ref>
+
+=== Traditional sports ===
+
+''S'Istrumpa'', also known as Sardinian Wrestling, is a traditional Sardinian sport, officially recognized by the [[Italian National Olympic Committee]] (C.O.N.I.) and the International Federation of Celtic Wrestling (I.F.C.W.).<ref>{{cite web|url=http://celtic-wrestling.tripod.com/id17.html |title=International Federation of Celtic wrestling |publisher=Celtic-wrestling.tripod.com |access-date=23 April 2010}}</ref> It shows similarities to [[Scottish Backhold]] and the [[gouren]]. Istrumpa's wrestlers participate annually at the championships for Celtic wrestling stiles.
+
+Sardinia boasts ancient equestrian traditions and is the Italian region with the highest number of horse riders (29% of population)<ref>{{cite web |url=http://www.sardegnacavalli.it/component/content/article/240-ricerca-ispo-conferma-che-lasardegna-e-la-regione-piu-equestre-ditalia.html |url-status=dead |title=Ricerca Ispo conferma che la Sardegna è la regione più equestre d' Italia |website=sardegnacavalli.it |language=it |archive-url=https://web.archive.org/web/20200924042344/http://www.sardegnacavalli.it/component/content/article/240-ricerca-ispo-conferma-che-lasardegna-e-la-regione-piu-equestre-ditalia.html |archive-date=24 September 2020 |access-date=26 June 2021}}</ref> and boasts also fine [[darts]] tradition, which many believe originated in the [[Sassari]] region of the country towards the end of the 15th century. In those days, the darts were carved from [[beech]] (''fagus'') wood and the flights were feathers drawn from the indigenous [[purple swamphen]] (named in Italian {{Lang|it|pollo sultano}}, 'sultana bird'), famed for its spectacular violet-blue plumage.
+
+== See also ==
+{{Portal|Geography|Islands|Italy}}
+* [[History of Sardinia]]
+* [[List of islands of Italy]]
+* [[List of monarchs of Sardinia]]
+* [[List of tourist attractions in Sardinia]]
+* [[Sardinian people]], [[List of Sardinians]]
+* [[Sardinian language]]
+* [[Sardinian Literary Spring]]
+* [[Sardinian literature]]
+* [[Sardinian medieval kingdoms]]
+
+== References ==
+===Notes===
+{{reflist}}
+{{reflist|group=lower-alpha}}
+
+===Bibliography===
+* {{cite book |last1= Brigaglia |first1=Manlio |last2=Mastino |first2=Attilio |last3=Ortu |first3=Gian Giacomo |year=2006 |title=Storia della Sardegna. Dalle origini al Settecento |publisher= Laterza Editore | place=Roma-Bari | isbn= 978-88-420-7839-5 }}
+* {{cite book |last=Casula |first=Francesco Cesare |year=1994 |title=La Storia di Sardegna |publisher=Carlo Delfino Editore |place=Sassari, it |author-link=Francesco Cesare Casula |isbn=978-88-7138-084-1}}
+* {{cite journal |last1=Ong |first1=Brenda Man Qing |first2=Francesco Perono |last2=Cacciafoco |date=2022 |title=Unveiling the Enigmatic Origins of Sardinian Toponyms |journal=Languages |volume=7 |issue=2 |pages=131: 1–19 |doi=10.3390/languages7020131 |doi-access=free |hdl=10356/159558 |hdl-access=free }}
+* UNESCO World Heritage Site inscription data for Su Nuraxi di Barumini (2008) {{cite web|url=https://whc.unesco.org/en/list/833 |title=Su Nuraxi di Barumini – UNESCO World Heritage Centre |publisher=Whc.unesco.org |date=7 December 1997 |access-date=23 April 2010}}
+
+==Further reading==
+{{Further reading cleanup|date=December 2017}}
+* Edward Burman. ''Sardinia: Island of Myths, Giants and Magic'' (2019) {{isbn|978-1-78831-432-9}}
+* Robert Tennant. ''Sardinia and its Resources'' (2010)
+* Nick Bruno. ''Insight Guide Sardinia''(2010)
+* Tracey Heatherington. ''Wild Sardinia: Indigeneity and the Global Dreamtimes of Environmentalism'' (2010) 314 pages; examines the clash between conservation efforts and traditional commons; focuses on resistance in the town of Orgosolo to Gennargentu National Park.
+* Fabrizio Arditio. ''Sardinia'' (Eyewitness Travel Guide) (2009) [https://www.amazon.com/dp/1405327693 excerpt and text search]
+* Duncan Garwood. ''Sardinia'' (Regional Guide) (2009) [https://www.amazon.com/dp/1741048192 excerpt and text search]
+* [http://www.charmingitaly.com/free-travel-guides-italy/ ''Sardinia in Five Senses''] by Charming Italy Publishers (2008)
+* Robert Andrews. ''The Rough Guide to Sardinia'' (Rough Guide Travel Guides) (2007) [https://www.amazon.com/dp/1843537419 excerpt and text search]
+* {{cite web |url=http://pleiades.stoa.org/places/472014 |title=Places: 472014 (Sardinia Ins.) |last=Dyson |first= S. L.|date=2 April 2021 |publisher=Pleiades}}
+* Bernard Lortat-Jacob. ''Sardinian Chronicles'' (1995)
+* Mary Delane. ''Sardinia: The Undefeated Island'' (1968)
+* Margaret Guido. ''Sardinia, Ancient Peoples and Places'' (1963)
+* [[Amelie Posse Brazdova]]. ''Sardinia Side Show'' (1930)
+* [[William Henry Smyth]]. ''Sketch of the present state of the island of Sardinia'' (1928) [https://books.google.com/books?id=IowLjTthXZ4C&pg=PP1 From Google books]
+* [[D. H. Lawrence]]. ''[[Sea and Sardinia]]'' (1921)
+* ''The Island of Sardinia'' by John Warre Tyndale vol I (1849) [https://books.google.com/books?id=HjhEBJT73TkC&pg=PR5 From Google books]
+* ''The Island of Sardinia'' by John Warre Tyndale vol II (1849) [https://books.google.com/books?id=l6nVQmu6XzkC&pg=PA41 From Google books]
+* ''The Island of Sardinia'' by John Warre Tyndale vol III (1849) [https://books.google.com/books?id=sUYOAAAAQAAJ From Google books]
+
+== External links ==
+{{Sister project links|voy=Sardinia}}
+* [https://www.sardegnaturismo.it/en/ Department of Tourism, Crafts and Commerce of Sardinia]
+* [http://www.sardegnadigitallibrary.it/ Sardegna Digital Library] {{Webarchive|url=https://web.archive.org/web/20110226184523/http://www.sardegnadigitallibrary.it/ |date=26 February 2011 }} {{in lang|it}}
+*{{Catholic Encyclopedia|wstitle=Archdiocese of Cagliari}}
+*{{Catholic Encyclopedia|wstitle=Sardinia}}
+
+{{Sardinia}}
+{{regions of Italy}}
+{{Mediterranean cuisine}}
+{{Italy topics}}
+{{Islands of Italy}}
+{{World's largest islands}}
+{{Authority control}}
+
+[[Category:Sardinia| ]]<!--do not remove the empty space. standard-->
+[[Category:Autonomous regions of Italy]]
+[[Category:Blue zones]]
+[[Category:Islands of Italy]]
+[[Category:Mediterranean islands]]
+[[Category:NUTS 2 statistical regions of the European Union]]
+[[Category:Wine regions of Italy]]

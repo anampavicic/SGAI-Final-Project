@@ -1,0 +1,336 @@
+{{About|the North Korean city|the Australian politician|Hector Rason|his ministry|Rason Ministry}}
+{{Use dmy dates|date=February 2021}}
+{{Infobox settlement
+<!-- Basic info  ---------------->
+| name                 = Rason
+| native_name          = {{nobold|라선시}}
+| native_name_lang     = ko
+|settlement_type        = [[Special cities of North Korea|Special city]]
+|official_name          = {{nobold|{{lang|ko|라선특별시}}}}{{·}} Rason Special City
+|image_seal = 
+|translit_lang1         = Korean
+|translit_lang1_type    = [[Hangul|Chosŏn'gŭl]]
+|translit_lang1_info    = {{lang|ko|라선특별시}}
+|translit_lang1_type1   = [[Hanja|Hancha]]
+|translit_lang1_info1   = {{lang|ko|{{linktext|羅|先|特|別|市}}}}
+|translit_lang1_type2   = {{nowrap|[[McCune-Reischauer]]}}
+|translit_lang1_info2   = Rasŏn T'ŭkpyŏlsi
+|translit_lang1_type3   = {{nowrap|[[Revised Romanization]]}}
+|translit_lang1_info3   = Raseon Teukbyeolsi
+
+<!-- images and maps  ----------->
+|image_skyline          = Rason montage.png
+|imagesize              = 
+|image_caption          = Bipaseom Island (top), Imperial Hotel and Casino (bottom left), Rason Hotel (bottom right)
+|image_map              = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=8}}
+|mapsize                = 
+|image_map1             = Rason Map 2020.png
+|image_flag             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = <!-- name of a location map as per Template:Location_map -->
+|pushpin_label_position = <!-- position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{flag|North Korea}}
+|subdivision_type1      = [[Regions of Korea|Region]]
+|subdivision_name1      = [[Kwanbuk]]
+|subdivision_type2      = 
+|subdivision_name2      = 
+|subdivision_type3      = 
+|subdivision_name3      = 
+|subdivision_type4      = 
+|subdivision_name4      =
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type              = 
+|seat                   = 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+| leader_party         = [[Workers' Party of Korea|WPK]]
+| leader_title         = Party Committee Chairman
+| leader_name          = [[Rim Kyong-man]]<ref name=unikorea>{{Cite web|title=Organizational Chart of North Korean Leadership 
+|location=Seoul|publisher=Political and Military Analysis Division, Intelligence and Analysis Bureau; Ministry of Unification |date=January 2018|access-date=17 October 2018|url=https://www.unikorea.go.kr/cms/getFile.do?file=2018012913454378143.pdf&orgname=north_korean_Leadership.pdf&mgmtId=MGMT_0000000754&siteId=SITE_00003&filePath=eng_unikorea/common/file/&count=Y#.pdf}}</ref>
+| leader_title2        = People's Committee Chairman
+| leader_name2         = [[Cho Chong-ho]]<ref name=unikorea/>
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      = <!-- Settled -->
+|established_date       = 
+|established_title1     = <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) -->
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink -->
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_total_km2           = 746 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_total_dunam         = <!--Used in Middle East articles only-->
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use<ref> tags-->
+|elevation_m            = 27
+|elevation_ft           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               = 2019
+| population_footnotes    = <ref name=朝鲜罗先市>{{ cite web | url=http://wb.jl.gov.cn/yhcs_85472/201910/t20191018_6115233.html | language=zh | title=朝鲜罗先市 | date=October 18, 2019 | access-date=May 25, 2020 }}</ref>  
+|population_note                =
+|population_total               = 205000
+|population_density_km2         = 275 
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        = Dialect
+|population_blank1              = [[Hamgyŏng dialect|Hamgyŏng]]
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[Time in North Korea|Pyongyang Time]]
+|utc_offset             = +9
+<!-- Area/postal codes & others -------->
+|postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|twin1                  =
+|twin1_country          =
+|twin2                  =
+|twin2_country          =
+|twin3                  =
+|twin3_country          =
+|twin4                  =
+|twin4_country          =
+|twin5                  =
+|twin5_country          =
+|twin6                  =
+|twin6_country          =
+|twin7                  =
+|twin7_country          =
+|blank_name             = [[ISO 3166-2:KP|ISO Code]]
+|blank_info             = KP-13
+|blank1_name            =
+|blank1_info            =
+|blank2_name            =
+|blank2_info            =
+|blank3_name            =
+|blank3_info            =
+|blank4_name            =
+|blank4_info            =
+|blank5_name            =
+|blank5_info            =
+|blank6_name            =
+|blank6_info            =
+|website                = 
+|footnotes              = 
+}}
+
+'''Rason''' (formerly '''Rajin-Sŏnbong'''; {{IPA|ko|ɾa.sʌ̹n, ɾa.dʑin.sʰʌ̹n.boŋ}}) is a North Korean [[Special cities of North Korea|special city]] and [[Port#Warm-water port|ice-free port]]<ref name="Rason SEZ">{{cite web|title=Report on Rason Special Economic Zone|url=http://chosonexchange.org/wp-content/uploads/2011/09/Choson-Exchange-Rason-Report-August.pdf|publisher=Choson Exchange|access-date=9 December 2012|author=Andray Abrahamian|date=September 2011|url-status=dead|archive-url=https://web.archive.org/web/20120417055346/http://chosonexchange.org/wp-content/uploads/2011/09/Choson-Exchange-Rason-Report-August.pdf|archive-date=17 April 2012}}</ref> in the [[Sea of Japan]] in the [[North Pacific Ocean]] on the northeast tip of [[North Korea]]. It is in the [[Kwanbuk]] region and location of the [[Rason Special Economic Zone]].
+
+In [[South Korea]]n [[North–South differences in the Korean language#Consonants|pronunciation]], the initial "R" of the name is pronounced as "N", (나선, ''Naseon'') as per standard [[Korean phonology]]. In 2000, the name was shortened from "Rajin-Sŏnbong" to "Rason". During the 1930s, the Japanese called it Rashin; at that time, it was an important port at the end of a railroad line. It fell under the control of the [[Red Army]] on 14 August 1945.
+
+Before 1991, Rason was used by the [[Soviet Union]] as an alternative [[warm-water port]] in case [[Vladivostok]] was unavailable.<ref>{{cite journal |title=The Soviet Union and Asia in 1981|first=Thomas W.|last=Robinson|journal=Asian Survey|volume=22|number=1|pages=20 |series=A Survey of Asia in 1981: Part I |date=January 1982 |doi=10.2307/2643707 |jstor=2643707 }}</ref> The Soviet naval facilities were built starting in 1979.<ref>{{Cite book |editor1-first=H. V. |editor1-last=Hodson |editor1-link=Harry Hodson |editor2-first=Bishakha |editor2-last=Rose |date=1980 |title=The Annual Register of World Events 1979 |title-link=The Annual Register |series=221 |publisher=[[Longman]]s Group Limited |location=UK |pages=104, 314 |isbn=0-8103-2023-1}}</ref> From 1993 to 2004, it was administered separately from North Hamgyŏng as the [[Special cities of North Korea|directly governed city]] (''chikhalsi'') of Rason. Prior to 1993 and from 2004 to 2009, the city had been part of the North Hamgyŏng Province. Since 2010, the city is a "special city", again breaking from provincial control, but different from its older designation as a directly governed city.<ref>{{cite news |url=http://www.dailynk.com/english/read.php?cataId=nk01500&num=5866 |title=Rasun Becomes Special City |publisher=Daily NK |date=5 January 2010 |url-status=live |archive-url=https://web.archive.org/web/20120322233911/http://www.dailynk.com/english/read.php?cataId=nk01500&num=5866 |archive-date=22 March 2012}}</ref> What this means in practice is unclear.
+
+Rason borders [[Hunchun|Hunchun county]] in [[Jilin|Jilin province]] of [[People's Republic of China|China]] and [[Khasansky District]] in [[Primorsky Krai]] of [[Russia]].<ref name="Rason SEZ"/> China is making investments in the port as it gives it access to the Sea of Japan.<ref name="Rason SEZ"/><ref>{{cite news |url=http://www.jamestown.org/single/?no_cache=1&tx_ttnews&#91;tt_news&#93;=36164&tx_ttnews&#91;backPid&#93;=7&cHash=e8c061fdac |title=Strategic Implications of China's Access to the Rajin Port |publisher=The Jamestown Foundation |date=18 March 2010 |url-status=live |archive-url=https://web.archive.org/web/20110228121511/http://www.jamestown.org/single/?no_cache=1&tx_ttnews&#91;tt_news& |archive-date=28 February 2011}}</ref> In July 2011, the Democratic People's Republic of Korea (DPRK) gave a green light for China's domestic trade cargo to be shipped via its port of Rajin from northeast to east China.<ref>{{cite news |url=http://www.chinadaily.com.cn/bizchina/2011-07/04/content_12831822.htm |title=DPRK allows China domestic trade cargo to ship via its port |work=China Daily |date=4 July 2011 |url-status=live |archive-url=https://web.archive.org/web/20110819070755/http://www.chinadaily.com.cn/bizchina/2011-07/04/content_12831822.htm |archive-date=19 August 2011}}</ref> Coal is shipped from nearby Chinese mines to Shanghai.<ref name="Rason SEZ"/> A casino by the sea caters to Chinese visitors.<ref name="NYT">{{cite news|last=Wong|first=Edward|title=Tending a Small Patch of Capitalism in North Korea|url=https://www.nytimes.com/2011/10/13/world/asia/north-koreans-woo-business-to-rason-economic-zone.html|access-date=13 October 2011|newspaper=The New York Times|date=12 October 2011|url-status=live|archive-url=https://web.archive.org/web/20111013084047/http://www.nytimes.com/2011/10/13/world/asia/north-koreans-woo-business-to-rason-economic-zone.html|archive-date=13 October 2011}}</ref>
+[[File:Rason City.jpg|400px|center|thumb|Rason (2007).]]
+
+==Administrative divisions==
+Rason is divided into two district (''kuyŏk'').<ref>{{cite web |url=http://nk.joins.com/map/i207.htm |title=라선시 - 북한지명사전 |author=<!--Staff writer(s); no by-line.--> |work=North Korea Net |publisher=[[JoongAng Ilbo]] |access-date=26 February 2013 |url-status=live |archive-url=https://web.archive.org/web/20130829220538/http://nk.joins.com/map/i207.htm |archive-date=29 August 2013}}</ref>
+
+===[[Rajin-guyok|Rajin-guyŏk]] (라진구역; 羅津區域)===
+* Anhwa-dong (안화동/安和洞)
+* Anju-dong (안주동/安住洞)
+* Jigyŏng-dong (지경동/地境洞)
+* Junghyŏn-dong (중현동/中峴洞)
+* Changphyŏng-dong (창평동/倉坪洞)
+* Chŏnggye-dong (청계동/淸溪洞)
+* Hahyŏn-dong (하현동/下峴洞)
+* Haebang-dong (해방동/解放洞)
+* Kwangok-dong (관곡동/寬谷洞)
+* Namsan-dong (남산동/南山洞)
+* Tongmyŏng-dong (동명동/東明洞)
+* Sanghyŏn-dong (상현동/上峴洞)
+* Sinan-dong (신안동/新安洞)
+* Sinhae-dong (신해동/新海洞)
+* Sinhŭng-dong (신흥동/新興洞)
+* Songphyŏng-dong (송평동/松坪洞)
+* Yŏkchŏn-dong (역전동/驛前洞)
+* Yuhyŏn-dong (유현동/踰峴洞)
+* Muchang-ri (무창리/武倉里)
+* Huchang-ri (후창리/厚倉里)
+
+===[[Sonbong-guyok|Sŏnbong-guyŏk]] (선봉군; 先鋒郡)===
+* Sŏnbong-ŭp (선봉읍/先鋒邑)
+* [[Tumangang|Tuman'gang-rodongjagu]] (두만강로동자구/豆滿江勞動者區)
+* Ungsang-rodongjagu (웅상로동자구/雄尙勞動者區)
+* Chosal-li (조산리/造山里)
+* Hahoe-ri (하회리/下檜里)
+* Hayŏp'yŏng-ri (하여평리/下汝坪里)
+* Hongŭi-ri (홍의리/洪儀里)
+* Kulp'o-ri (굴포리/屈浦里)
+* Paekhang-ri (백학리/白鶴里)
+* Pup'o-ri (부포리/鮒浦里)
+* Sahoe-ri (사회리/四會里)
+* Uam-ri (우암리/牛岩里)
+* Wŏnjŏng-ri (원정리/元汀里)
+
+==Climate==
+Rason has a [[humid continental climate]] ([[Köppen climate classification]]: ''Dwb'').
+{{Weather box
+|width = auto
+|location = Rason
+|metric first = yes
+|single line = yes
+
+| Jan high C =-3.8
+| Feb high C =-1.1
+| Mar high C =4.4
+| Apr high C =11.4
+| May high C =16.1
+| Jun high C =19.0
+| Jul high C =23.2
+| Aug high C =24.8
+| Sep high C =21.3
+| Oct high C =15.3
+| Nov high C =6.0
+| Dec high C = -1.1
+
+| Jan mean C =-9.1
+| Feb mean C =-6.8
+| Mar mean C =-1.3
+| Apr mean C =5.2
+| May mean C =9.9
+| Jun mean C =14.2
+| Jul mean C =19.1
+| Aug mean C =20.7
+| Sep mean C =16.0
+| Oct mean C =9.4
+| Nov mean C =0.9
+| Dec mean C =-6.2
+
+| Jan low C =-14.4
+| Feb low C =-12.5
+| Mar low C =-6.9
+| Apr low C =-0.9
+| May low C =3.8
+| Jun low C =9.5
+| Jul low C =15.0
+| Aug low C =16.6
+| Sep low C =10.8
+| Oct low C =3.5
+| Nov low C =-4.2
+| Dec low C =-11.2
+
+| precipitation colour = green
+| Jan precipitation mm =6
+| Feb precipitation mm =8
+| Mar precipitation mm =21
+| Apr precipitation mm =30
+| May precipitation mm =71
+| Jun precipitation mm =101
+| Jul precipitation mm =116
+| Aug precipitation mm =196
+| Sep precipitation mm =114
+| Oct precipitation mm =55
+| Nov precipitation mm =24
+| Dec precipitation mm =10
+
+|source = Climate-Data.org<ref name="Climate-Data.org">{{cite web
+ |url         = https://en.climate-data.org/location/4765/
+ |title       = Climate: Rason
+ |publisher   = Climate-Data.org
+ |access-date = 15 January 2018
+ |url-status     = live
+ |archive-url  = https://web.archive.org/web/20180116140811/https://en.climate-data.org/location/4765/
+ |archive-date = 16 January 2018}}</ref>
+}}
+
+==Port==
+The [[Korean People's Navy]] maintains a naval training base at the Rajin Port in the city of Rason. In addition, a [[China|Chinese]] company in 2017 leased a dock for 10 years at the port.<ref>{{cite web|url=http://www.nkeconwatch.com/2010/03/08/china-leases-rason-port-for-10-years/|title=China leases Rason port for 10 years|publisher=North Korean Economy Watch|access-date=11 September 2017|url-status=live|archive-url=https://web.archive.org/web/20170909095838/https://www.nkeconwatch.com/2010/03/08/china-leases-rason-port-for-10-years/|archive-date=9 September 2017}}</ref>
+
+This port may also be known as the [[Port of Najin|Port of Rajin]].<ref name="bbg1">{{cite news |url=https://www.bloomberg.com/news/articles/2024-06-14/kim-sent-russia-millions-of-artillery-shells-south-korea-says?srnd=europe-politics | title=Kim Sent Russia Millions of Artillery Shells, South Korea Says | newspaper=Bloomberg | date=14 June 2024 }}</ref>
+
+==Economy==
+===Foreign Investments===
+The Rason Emperor Hotel and Casino is a [[resort]] and [[casino]] in Rason owned by the [[Emperor Group]], a diversified [[Hong Kong]] based commercial group.<ref name=scmp-20191030>{{cite news |url=https://www.scmp.com/article/988297/gambling-usual-north-emperor-group-casino |title=Gambling as usual up North for Emperor Group casino |newspaper=South China Morning Post |date=30 October 2019 |access-date=30 July 2020}}</ref>
+
+===Oil Refinery===
+Rajin Oil Refinery is the largest [[oil refinery]] in North Korea. Although North Korea itself lacks [[oil wells]], they can and do import oil from other countries to supply their [[Oil Refinery|refineries]]. Large [[oil tankers]] are spotted multiple times unloading at the Rajin port.<ref name=朝鲜罗先市>{{ cite web | url=http://wb.jl.gov.cn/yhcs_85472/201910/t20191018_6115233.html | language=zh | title=朝鲜罗先市 | date=October 18, 2019 | access-date=May 25, 2020 }}</ref>
+
+===Mining===
+Rason has a number of [[mineral]] resources within the locality, including [[coal]], [[iron]], [[magnesite]], and [[clay]].<ref name=朝鲜罗先市>{{ cite web | url=http://wb.jl.gov.cn/yhcs_85472/201910/t20191018_6115233.html | language=zh | title=朝鲜罗先市 | date=October 18, 2019 | access-date=May 25, 2020 }}</ref>
+
+===Ship building===
+Rason is home to [[No 28 Shipyard Najin]], a shipbuilder and supplier to the [[Korean People's Navy]].
+
+==Transport==
+===Rail===
+[[Rajin Station]] is on the [[Pyongra Line]] and [[Hambuk Line]]. The [[Hongui Line]] was opened in 1959, connecting Rason with the Russian [[Khasan (urban-type settlement)|Khasan]] on the [[Tumen River]]; the river is the natural [[North Korea–Russia border]].
+
+===Road===
+The [[Tumen River Bridge]] connects between Hunchun and Rason.
+
+==Sister cites==
+{{flagicon image|Flag of the People's Republic of China.svg}} [[Hunchun]], [[Jilin]], [[Yanbian Korean Autonomous Prefecture]], [[People's Republic of China]].<ref name=朝鲜罗先市>{{ cite web | url=http://wb.jl.gov.cn/yhcs_85472/201910/t20191018_6115233.html | language=zh | title=朝鲜罗先市 | date=October 18, 2019 | access-date=May 25, 2020 }}</ref>
+
+==See also==
+{{portal|North Korea}}
+* [[List of cities in North Korea]]
+* [[Rajin University of Marine Transport]]
+* [[Geography of North Korea]]
+
+==References==
+{{reflist|1}}
+
+==Bibliography==
+*{{cite book |last=Dormels |first=Rainer |title=North Korea's Cities: Industrial facilities, internal structures and typification |publisher=Jimoondang |year=2014 |isbn=978-89-6297-167-5 }}
+
+==External links==
+{{Commons category}}
+{{Wikivoyage}}
+*[http://www.dprk360.com/360/rajin_port/ 360 degree panorama of Rajin Port in Rason]
+*[http://bbs.keyhole.com/ubb/ubbthreads.php?ubb=showflat&Number=165472#Post165472 North Korea Uncovered] {{Webarchive|url=https://web.archive.org/web/20120114214343/http://bbs.keyhole.com/ubb/ubbthreads.php?ubb=showflat&Number=165472#Post165472 |date=14 January 2012 }} (North Korea Google Earth) Maps out Rason's economic infrastructure, including railways, hotels, tourist destinations, cultural facilities, ports, electricity grid, and electrified perimeter fence on Google Earth.
+* [https://koreanologie.univie.ac.at/fileadmin/user_upload/p_koreanologie/North_Korean_Cities/Rason/Rason.pdf City profile of Rason] {{Webarchive|url=https://web.archive.org/web/20170510132956/https://koreanologie.univie.ac.at/fileadmin/user_upload/p_koreanologie/North_Korean_Cities/Rason/Rason.pdf |date=10 May 2017 }}
+
+{{Rason}}
+{{Regions and administrative divisions of North Korea}}
+{{Metropolitan cities of North Korea}}
+{{Authority control}}
+{{Coord|42|20|40|N|130|23|04|E|display=title|region:KP_type:adm1st_source:dewiki}}
+
+[[Category:Rason| ]]
+[[Category:Cities in North Hamgyong]]
+[[Category:Directly Governed Cities and Special Administrative Regions of North Korea]]
+[[Category:Port cities and towns in North Korea]]
+[[Category:Ports and harbours of the Sea of Japan]]

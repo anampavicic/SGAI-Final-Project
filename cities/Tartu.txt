@@ -1,0 +1,974 @@
+{{Short description|Second most populous city in Estonia}}
+{{Other uses|Tartu (disambiguation)}}
+{{redirects here|Dorpat||Dorpat (disambiguation)}}
+{{Use dmy dates|date=January 2014}}
+{{Infobox settlement<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name               = Tartu
+| official_name      = {{Lang|et|Tartu}}
+| settlement_type    = City
+| image_skyline      = {{multiple image
+ |border                   = infobox
+ |total_width              = 280
+ |image_style              = border:1;
+ |perrow                   = 1/2/2/
+ |image1                   = Tartu (2019).jpg
+ |image2                   = Heart of Tartu.jpg
+ |image3                   = Eesti Rahva Muuseumi peahoone 13.jpg 
+ |image4                   = Tartu Ülikooli peahoone 2012.jpg
+ |image5                   = Tartu Raekoja platsi vaade.jpg
+ }}
+| image_caption      = From top: View of Tartu, Tartu old town, [[Estonian National Museum]], [[University of Tartu]], [[Raekoja plats, Tartu|Town Hall Square]]
+| nickname           = Capital of Southern Estonia<ref name="visitsouthestonia">{{cite web |url=https://visitsouthestonia.com/en/destinations/tartu-city/ |title=Tartu city |publisher=Visit South Estonia |access-date=24 February 2022 |archive-date=24 February 2022 |archive-url=https://web.archive.org/web/20220224095624/https://visitsouthestonia.com/en/destinations/tartu-city/ |url-status=live }}</ref><ref name="ecb">{{cite web |url=https://www.ecb.ee/destination/tartu/ |title=Tartu – European Capital of Culture 2024 |publisher=Estonian Convention Bureau (ECB) |access-date=24 February 2022 |archive-date=24 February 2022 |archive-url=https://web.archive.org/web/20220224095619/https://www.ecb.ee/destination/tartu/ |url-status=live }}</ref>
+| image_flag         = Tartu flag.svg
+| image_shield       = Tartu coat of arms.svg
+| image_blank_emblem = Tartu-logo-color RGB.svg
+| blank_emblem_type  = [[Brandmark]]
+| motto              = ''Heade mõtete linn''<br/>("City of good thoughts")
+| mapsize            = 230px
+| map_caption        = Location of Tartu in Estonia
+| pushpin_map_caption = Location within Europe##Location within [[Baltic Sea]] region##Location within Estonia
+| pushpin_relief     = 1
+| pushpin_map        = Europe#Baltic Sea#Estonia
+| coordinates        = {{Wikidatacoord|Q13972|region:EE_type:city|display=inline,title}}
+| subdivision_type   = Country
+| subdivision_name   = [[Estonia]]
+| subdivision_type1  = [[Counties of Estonia|County]]
+| subdivision_name1  = [[Tartu County]]
+| subdivision_type2  = [[Municipalities of Estonia|Municipality]]
+| subdivision_name2  = [[Tartu (urban municipality)|Tartu]]
+| established_title  = First settled
+| established_date   = 5th century AD
+| established_title1 = First mentioned
+| established_date1  = {{circa|1030}}
+| established_title2 = City rights
+| established_date2  = before 1262
+| named_for          = 
+| total_type         = 
+| unit_pref          = 
+| area_footnotes     = 
+| area_magnitude     = 
+| area_total_km2     = 38.80
+| area_total_sq_mi   = 15
+| area_land_km2      = 37.9
+| area_land_sq_mi    = 14.6
+| area_water_km2     = 1.3
+| area_water_sq_mi   = 0.5
+| area_water_percent = 3.39
+| elevation_footnotes = 
+| elevation_m        = 57.2
+| elevation_ft       = 188
+| elevation_max_m    = 79
+| elevation_max_ft   = 259
+| population_total   = 97,435<!-- data by Statistics Estonia, see below for resident registration data -->
+| population_rank    = [[List of cities and towns in Estonia|2nd]]
+| population_as_of   = 2023
+| population_footnotes = <ref name="RV0240">Population of Tartu city as a settlement unit, excluding population of other settlement units of the municipality of Tartu city. [https://andmed.stat.ee/en/stat/RV0240 Population by sex, age and place of residence after the 2017 administrative reform, 1 January] {{Webarchive|url=https://web.archive.org/web/20210714064911/https://andmed.stat.ee/en/stat/RV0240 |date=14 July 2021 }}. Statistics Estonia.</ref>
+| population_density_km2 = auto
+| population_density_sq_mi = auto
+| demographics_type2 = [[Ethnicity]]
+| demographics2_footnotes = 
+| demographics2_title1 = [[Estonians]]
+| demographics2_info1 = 80.3%
+| demographics2_title2 = [[Russians]]
+| demographics2_info2 = 13.4%
+| demographics2_title3 = other
+| demographics2_info3 = 5.3%
+| population_demonym = {{lang|et|tartlane}} ([[Estonian language|Estonian]])
+| demographics_type1 = GDP
+| demographics1_footnotes = <ref>{{Cite web |url=https://andmed.stat.ee/pxweb/en/stat/stat__majandus__rahvamajanduse-arvepidamine__sisemajanduse-koguprodukt-(skp)__regionaalne-sisemajanduse-koguprodukt/RAA0050.px/ |title=GROSS DOMESTIC PRODUCT BY COUNTY |website=stat.ee |access-date=17 December 2023 |archive-date=27 October 2022 |archive-url=https://web.archive.org/web/20221027173302/https://andmed.stat.ee/pxweb/en/stat/stat__majandus__rahvamajanduse-arvepidamine__sisemajanduse-koguprodukt-(skp)__regionaalne-sisemajanduse-koguprodukt/RAA0050.px |url-status=live }}</ref>
+| demographics1_title1 = City
+| demographics1_info1 = €3.042 billion (2022)
+| demographics1_title2 = Per capita
+| demographics1_info2 = €30,569 (2022)
+| timezone           = [[Eastern European Time|EET]]
+| utc_offset         = +02:00
+| timezone_DST       = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST     = +03:00
+| postal_code_type   = Postal code
+| postal_code        = 50050 to 51111
+| registration_plate = T
+| website            = [https://tartu.ee/en City of Tartu]
+}}
+'''Tartu'''{{efn|{{IPA|et|ˈtɑrtˑu}}, [[South Estonian]]: ''Tarto'', historically in German and Swedish: ''Dorpat''}} is the second largest city in [[Estonia]] after [[Tallinn]]. Tartu has a population of 97,435 (as of 2023).<ref name="RV0240"/> It is {{convert|186|km|0|abbr=off}} southeast of Tallinn and 245 kilometres (152 miles) northeast of [[Riga]], Latvia. Tartu lies on the [[Emajõgi]] river, which connects the two largest lakes in Estonia, [[Lake Võrtsjärv]] and [[Lake Peipus]]. From the 13th century until the end of the 19th century, Tartu was known in most of the world by variants of its historical name '''Dorpat'''.
+[[File:Aerial view of Toomemägi, toomkirik and Tartu downtown.webm|thumb|Aerial view of [[Toomemägi]], Tartu cathedral and Tartu downtown]]
+
+Tartu, the largest urban centre of southern Estonia, is often considered the "intellectual capital city" of the country,<ref name="visitsouthestonia"/><ref name="ecb"/><ref>[http://www.estlandia.de/en/tourism-estonia/cities/tartu.html Tartu – the intellectual centre of Estonia] {{Webarchive|url=https://web.archive.org/web/20200219182835/http://www.estlandia.de/en/tourism-estonia/cities/tartu.html |date=19 February 2020 }} estlandia.de</ref><ref>Jonathan Bousfield ''The Rough Guide to Estonia, Latvia & Lithuania''. Rough Guides UK. [https://books.google.com/books?id=hXu0BgAAQBAJ&dq=tartu%20intellectual%20centre%20of%20estonia&pg=PA126 Page 126] {{Webarchive|url=https://web.archive.org/web/20230510010942/https://books.google.com/books?id=hXu0BgAAQBAJ&dq=tartu%20intellectual%20centre%20of%20estonia&pg=PA126 |date=10 May 2023 }}</ref><ref>Sergey Chernov. [https://themoscowtimes.com/articles/tartu-estonias-intellectual-and-theater-capital-20396 Tartu: Estonia's Intellectual and Theater Capital] {{Webarchive|url=https://web.archive.org/web/20181023200227/https://themoscowtimes.com/articles/tartu-estonias-intellectual-and-theater-capital-20396 |date=23 October 2018 }} [[The Moscow Times]], 24 December 2012</ref> especially as it is home to the nation's oldest and most renowned university, the [[University of Tartu]] (founded in 1632).<!--Tartu is also the oldest city in Estonia and other [[Baltic countries]].--><ref>{{Cite web |url=https://visittartu.com/why-tartu |title=Why Tartu?{{!}}Visit Tartu |access-date=18 June 2020 |archive-date=13 May 2020 |archive-url=https://web.archive.org/web/20200513203331/https://visittartu.com/why-tartu |url-status=live }}</ref><ref>M. Mets & R. Raudsepp: Baltic Piling. CRC Press, 2013. {{ISBN|9780415643344}}.</ref> Tartu also houses the [[Supreme Court of Estonia]], the [[Ministry of Education and Research (Estonia)|Ministry of Education and Research]], the [[Estonian National Museum]], and the oldest Estonian-language theatre, [[Vanemuine]]. It is also the birthplace of the [[Estonian Song Festival]]s.
+
+Tartu was designated as the [[European Capital of Culture]] in 2024.<ref name="ecb"/><ref>[https://www.kul.ee/en/ministry-news-and-contact/international-cooperation-and-european-union/european-capital-culture European Capital of Culture 2024] {{Webarchive|url=https://web.archive.org/web/20230906181814/https://www.kul.ee/en/ministry-news-and-contact/international-cooperation-and-european-union/european-capital-culture |date=6 September 2023 }} — Ministry of Culture</ref><ref>[https://www.visitestonia.com/en/why-estonia/tartu-european-capital-of-culture-2024 Tartu – European Capital of Culture 2024] – Visit Estonia</ref><ref>[https://tartu.ee/en/tartu-european-capital-of-culture-2024 Tartu – European Capital of Culture 2024] {{Webarchive|url=https://web.archive.org/web/20211019073121/https://tartu.ee/en/tartu-european-capital-of-culture-2024 |date=19 October 2021 }} – Tartu.ee</ref>
+
+==Names and etymology<span class="anchor" id="Names and etymology"></span>==
+{{see also|Names of Tartu in different languages}}
+It is thought that the name derives from the word for [[aurochs]], ''tarvas''.<ref>{{cite journal |doi=10.54013/kk762a4 |title=Kas linnuse rajajalt või tarvalt? Veel kord Tartu nime päritolust |date=2021 |last1=Ernits |first1=Enn |journal=Keel ja Kirjandus |volume=64 |issue=6 |pages=532–546 }}</ref> Since Estonia became an independent country in 1918, the Estonian-language ''Tartu'' ({{IPA|et|ˈtɑrtˑu}}), alternative [[South Estonian]] spelling: ''Tarto'') has been the only name in official use but throughout its history there have also been various names for it in other languages. Most of them derive ultimately from the earliest attested form, the Estonian ''Tarbatu''. In German, [[Swedish language|Swedish]] and [[Polish language|Polish]] the town has been known, and up until the 20th century was sometimes referred to, as {{Audio|De-Dorpat.ogg|'''Dorpat'''}}, a variant of ''Tarbatu''. In Russian the city has been known as {{lang|ru|Юрьев}} (''Yur′yev'', after [[Yury|Yuri]], the [[baptismal name]] of grand prince [[Yaroslav I the Wise]]) and as {{lang|ru|Дерпт}} (''Derpt'', from the [[Low German]] variant of ''Dorpat''). Similarly the city has been known as ''Tērbata'' in [[Latvian language|Latvian]], and [[Finnish language|Finnish]] speakers use the toponym ''Tartto''.
+Tartu lies on the Emajõgi River, whose name literally means 'mother river' in Estonian. In Latvian, the name of Emajõgi river is Mētra.<ref>{{Cite web |title=Mētra {{!}} Tēzaurs |url=https://tezaurs.lv/M%C4%93tra:1 |access-date=14 September 2024 |website=tezaurs.lv }}</ref> Therefore, Tartu's historical unofficial name in Latvian is Mētraine.<ref>{{Cite web |title=Mētraine {{!}} Tēzaurs |url=https://tezaurs.lv/M%C4%93traine |access-date=14 September 2024 |website=tezaurs.lv }}</ref> Historically, Tartu was the main center for Latvian academic education, which is the reason why the name of the city used to be Latvianized.
+
+==History==
+{|class="wikitable" width=450em
+|-
+|{{Collapsible list
+|title=Historical affiliations
+|bullets=true
+|[[Ugandi County]] pre-1030
+|{{flagicon image|Yarthewise.png}} [[Kievan Rus']] 1030–1061
+|[[Ugandi County]] 1061–1134
+|{{flagicon image|Yarthewise.png}} [[Kievan Rus']] 1134
+|[[Ugandi County]] 1134–1191/1192
+|{{flagicon image|Yarthewise.png}} [[Kievan Rus']] 1191/1192
+|[[Ugandi County]] 1191/1192–1220
+|{{flagicon image|Zakon Kawalerów Mieczowych COA.svg}} [[Livonian Brothers of the Sword]] 1220–1223
+|[[Ugandi County]] 1223
+|{{flagicon image|Nowogród.svg}} [[Novgorod Republic]] 1223–1224
+|{{flagicon image|Tartu coat of arms.svg}} [[Bishopric of Dorpat]] 1224–1558
+|{{flagicon image|Great banner of Ivan IV of Russia.jpg}} [[Tsardom of Russia]] 1558–1582
+|{{flagicon image|Chorągiew królewska króla Zygmunta III Wazy.svg}} [[Duchy of Livonia]] ([[Polish–Lithuanian Commonwealth|Poland–Lithuania]]) 1582–1600
+|{{flagicon image|Flag of Sweden (1562–1650).svg}} [[Kingdom of Sweden]] 1600–1603
+|{{flagicon image|Chorągiew królewska króla Zygmunta III Wazy.svg}} [[Polish–Lithuanian Commonwealth]] 1603–1625
+|{{flagicon image|Flag of Sweden (1562–1650).svg}} [[Kingdom of Sweden]] 1625–1656
+|{{flagicon image|Flag of Oryol (variant).svg}} [[Tsardom of Russia]] 1656–1661
+|{{flagicon image|Flag of Sweden (1562–1650).svg}} [[Kingdom of Sweden]] 1661–1704
+|{{flagicon image|Flag of Russia.svg}} [[Tsardom of Russia]] (Muscovy) 1704–1721<br>	
+|{{flagicon image|Flag of Russia.svg}} [[Russian Empire]] 1721–1917
+|{{flag|Russian Republic}} 1917
+|{{flagicon image|Flag of Russia (1918).svg}} [[Russian Soviet Republic]] 1917–1918
+|{{flag|Republic of Estonia}} 1918
+|{{flagicon|German Empire}} [[German occupation of Estonia during World War I|German occupation]] 1918<br>
+|{{flag|Republic of Estonia}} 1918
+|{{flagicon image|Flag of the Commune of the Working People of Estonia.svg}} [[Commune of the Working People of Estonia]] 1918–1919
+|{{flag|Republic of Estonia}} 1919–1940
+|{{flagicon|Union of Soviet Socialist Republics|1936}} [[Soviet occupation of the Baltic states (1940)|Soviet occupation]] 1940–1941<br>	
+|{{flagicon|Nazi Germany}} [[German occupation of Estonia during World War II|German occupation]] 1941–1944<br>
+|{{flagicon|Union of Soviet Socialist Republics|1936}} [[Soviet occupation of the Baltic states (1940)|Soviet occupation]] 1944–1990<br />
+|{{flag|Republic of Estonia}} ([[Occupation of the Baltic states|in transition]]) 1990–1991<br>	
+|{{flag|Republic of Estonia}} 1991–onwards
+}}
+|}
+
+===Beginnings===
+Archaeological evidence of the first permanent settlement on the site of modern Tartu dates to as early as the 5th century AD.<ref>{{cite encyclopedia |url=http://www.britannica.com/EBchecked/topic/583793/Tartu |title=Tartu |encyclopedia=[[Encyclopædia Britannica]] |access-date=26 January 2013 |archive-date=2 April 2015 |archive-url=https://web.archive.org/web/20150402114339/http://www.britannica.com/EBchecked/topic/583793/Tartu |url-status=live }}</ref><ref name="Mäesalu">{{cite web |url=http://www.sirp.ee/archive/2001/12.10.01/Sots/sots1-6.html |title=Vene kroonikate Jurjev oli tõenäoliselt siiski Tartu |first=Ain |last=Mäesalu |publisher=[[Sirp]] |date=12 October 2001 |language=et |access-date=26 January 2013 |archive-date=23 January 2023 |archive-url=https://web.archive.org/web/20230123111414/https://www.sirp.ee/archive/2001/12.10.01/Sots/sots1-6.html |url-status=live }}</ref> By the 7th century, local inhabitants had built a wooden fortification on the east side of [[Toomemägi|Toome Hill]] (''Toomemägi'').<ref name="Mäesalu"/> Over the next centuries the settlement grew, and around 9th–10th centuries became an inland trading center.<ref name="Mäesalu2005">{{cite book |chapter-url=https://www.academia.edu/3544313 |last1=Mäesalu |first1=Ain |last2=Vissak |first2=Rünno |editor-last=Pullerits |editor-first=Heivi |title=Tartu. Ajalugu ja kultuurilugu |publisher=Ilmamaa |date=2005 |pages=16–18 |chapter=Muinas- ja keskaeg |isbn=9789949131525 |language=et |access-date=13 January 2020 |archive-date=14 March 2023 |archive-url=https://web.archive.org/web/20230314005802/https://www.academia.edu/3544313 |url-status=live }}</ref>
+
+The first documented records of the area were made by later mediaeval chroniclers who described the events of the early 11th century [[Kievan Rus]]. [[Yaroslav I the Wise]], [[Grand Prince of Kiev]], invaded the region of Tartu in ca 1030, and after a victorious battle with the local tribe of [[Ungannians]] built his own fort there, and named it ''Yuryev''.<ref name="Mäesalu"/><ref>{{cite book |last1=Tvauri |first1=Andres |title=The Migration Period, Pre-Viking Age, and Viking Age in Estonia |date=2012 |pages=33, 59, 60 |url=https://www.etis.ee/Portal/Publications/Display/b80b6f11-43ed-4b8c-b616-48ac53b70ec5?language=ENG |access-date=27 December 2016 |archive-date=23 October 2021 |archive-url=https://web.archive.org/web/20211023182212/https://www.etis.ee/Portal/Publications/Display/b80b6f11-43ed-4b8c-b616-48ac53b70ec5?language=ENG |url-status=live }}</ref> Tartu may have remained under Kievan Rus' control until 1061, when, according to chronicles, the ''Yuryev'' fort was burned down by ''Sosols'' (probably [[Oeselians]], [[Sakala County|Sackalians]], or another Estonian tribe).<ref>{{cite journal |last1=Mäesalu |first1=Ain |title=Could Kedipiv in East-Slavonic Chronicles be Keava hill fort? |journal=Estonian Journal of Archaeology |date=2012 |volume=1 |issue=16supplser |page=199 |url=http://www.kirj.ee/public/Archaeology/2012/sup_vol_1/arhe-keava-2012-195-200.pdf |doi=10.3176/arch.2012.supv1.11 |access-date=13 January 2020 |archive-date=14 October 2017 |archive-url=https://web.archive.org/web/20171014085144/http://www.kirj.ee/public/Archaeology/2012/sup_vol_1/arhe-keava-2012-195-200.pdf |url-status=live }}</ref> Soon afterwards the fort was rebuilt by locals. In the 12th century, local Ungannians on one side and troops from the neighbouring [[Novgorod Republic]] on the other side repeatedly raided each other. In those campaigns, the invaders were reportedly able to capture Tartu in 1133 or 1134, and in the winter of 1191–1192, however these temporary captures are not known to have brought any lasting territorial changes.<ref name="Mäesalu2005"/>
+
+===Medieval bishopric===
+[[File:Tartu 1553.jpg|thumb|left|The city of Tartu in 1533]]
+{{multiple image
+| direction         = vertical
+| footer            = [[Tartu Cathedral]] ruins
+| image1            = Tartu Toomkirik - panoramio (1).jpg
+| image2            = Tartu Toomkiriku varemed 2012.jpg
+}}
+
+During the period of [[Northern Crusades]] in the beginning of the 13th century the fort of ''Tarbatu'' (or ''Tharbata'') was captured by the crusading [[Livonian Knights|Teutonic knights]] — also known as the [[Brothers of the Sword]] <!-- (German: ''Schwertbrüder'')--> — and recaptured by Estonians on several occasions. In 1224, after <!-- Ugaunia had recognized the supremacy of--> the princes of [[Novgorod Republic|Novgorod]] and [[Pskov Republic|Pskov]] had sent additional troops led by prince [[Vyachko]] of [[Koknese|Kukenois]] to aid the Estonian defenders of the fort, it was [[Siege of Tartu (1224)|besieged and conquered]] for one last time by the Teutonic crusaders.<ref>[[Anti Selart]], [[Ivar Leimus]], Linda Kaljundi, [[Heiki Valk]]. ''Ristiretked ja vallutussõjad 13. sajandi Liivimaal'', in "Eesti ajalugu II. Eesti keskaeg." Editor Anti Selart. Tartu 2012. Pp. 52—53</ref> Subsequently, known as Dorpat (Latin: ''Tarbatum''), Tartu became a commercial centre of considerable importance during the later [[Middle Ages]] and the capital of the semi-independent [[Bishopric of Dorpat]].
+
+In 1262 the army of prince [[Dmitri of Pereslavl]] launched an assault on Dorpat, capturing and destroying the town. His troops did not manage to capture the bishop's fortress on Toome Hill. The event was recorded both in subsequent German and [[Old East Slavic]] chronicles, which also provided the first record of a settlement of German merchants and artisans which had arisen alongside the bishop's fortress.
+
+In medieval times, after the Livonian Order was subsumed into the [[Teutonic Knights]] in 1236, the town became an important trading city. In the 1280s Dorpat joined the [[Hanseatic League]]. <!-- As in all of Estonia and Latvia, the largely [[Baltic Germans|German-speaking]] nobility, but in Tartu/Dorpat (as in Tallinn) even more so, the Baltic German bourgeoisie, the ''literati'', dominated culture, religion, architecture, education, and politics until the late 19th century. For example, the town hall of Dorpat was designed by an architect from [[Rostock]] in [[Mecklenburg]], while the university buildings were designed by Johann Wilhelm Krause, another German. Many, if not most, of the students, and more than 90 percent of the faculty members were of German descent, and numerous statues of notable scholars with German names can still be found in Tartu today. Most Germans left during the first half of the 20th century, in particular as part of the ''[[Heim ins Reich]]'' program of the Nazis, following the [[Molotov–Ribbentrop Pact]] in 1939. -->
+
+===Polish-Lithuanian and Swedish rule===
+{{See also|Treaty of Dorpat}}
+[[File:Album von Dorpat, TKM 0031H 05, crop.jpg|thumb|left|University of Tartu main building in 1860]]
+In 1558, tsar [[Ivan the Terrible]] invaded Tartu beginning the [[Livonian War]]. Forces under the command of Pyotr Shuiski encircled the town and began the heavy bombardment. In light of this and without any prospect of external help the town surrendered. The local bishop was imprisoned in Moscow, which effectively ended the period of local self-government. [[Ivan Mikhailovich Viskovatyi]], a leading diplomat and archivist of diplomatic records during Ivan the Terrible's reign, argued that Tartu's "founding" by Ancient Rus' justified Russia's contemporary territorial claims to the region.<ref>{{cite book |last1=Bobrick |first1=Benson |title=Fearful Majesty: The Life and Reign of Ivan the Terrible |publisher=Putnam |pages=169 }}</ref> In the effect of the [[Truce of Jam Zapolski]] of 1582, the city along with southern regions of [[Livonian Confederation]] became part of the [[Polish–Lithuanian Commonwealth]]. In 1598 it became the capital of the [[Dorpat Voivodeship]] of the [[Duchy of Livonia (1561–1621)|Duchy of Livonia]]. A [[Society of Jesus|Jesuit]] grammar school "Gymnasium Dorpatense" was established in 1583. In addition, a translators' seminary was organized in Tartu and the city received its red and white flag from the Polish king [[Stephen Báthory]].{{Citation needed|date=August 2020}}
+
+The activities of both the grammar school and the seminary were stopped by the [[Polish–Swedish War (1600–11)|Polish–Swedish War]]. Already in late 1600 the forces of [[Charles IX of Sweden]] besieged the city defended by three [[Chorągiew (military unit)|banners]] of [[reiter]]s and the city's burghers. Despite repeated assaults, the Swedes could not enter the city. Finally in 1601 Capt. Hermann Wrangel switched sides, assaulted the [[castellan]] and opened the gates for the Swedish forces. The town was retaken by Polish–Lithuanian Commonwealth on 13 April 1603 following a brief siege led by [[hetman]] [[Jan Karol Chodkiewicz]]; roughly 1000 Swedish soldiers surrendered and were escorted to [[Tallinn]].
+
+In the effect of yet another [[Polish–Swedish War (1626–29)|Polish-Swedish War]], in 1625 Tartu was once again captured by Sweden, this time for good. In the effect of the 1629 [[Truce of Altmark]] the city became part of the [[Dominions of Sweden]], which led to the foundation of the [[University of Tartu]] in 1632 by king [[Gustavus Adolphus of Sweden]].
+
+===Imperial Russia===
+[[File:Album von Dorpat, TKM 0031H 06, crop.jpg|left|thumb|The Stone Bridge and the Old Town in 1860]]
+
+In 1704 the town was taken by the Russian army in the presence of tsar Peter the Great himself. As a result, around a quarter of the town and much of the fortifications were damaged. In 1708 the remainder of the fortifications and houses, including the remains of bishops castle, were blown up, all movable property was looted and all citizens deported to Russia. With the [[Treaty of Nystad]] in 1721, the city became part of the [[Russian Empire]] and was known as ''Derpt''. Fires in the 18th century destroyed much of the medieval architecture, the [[Great Fire of Tartu]] in 1775 removed most of the buildings in the centre. The city was rebuilt along [[Baroque architecture|Late Baroque]] and [[Neoclassicism|Neoclassical]] lines including the [[Tartu Town Hall]] which was built between 1782 and 1789.<ref>[http://www.tartu.ee/?lang_id=2&menu_id=9&page_id=1417 The Town Hall of Tartu] {{Webarchive|url=https://web.archive.org/web/20160818122354/http://www.tartu.ee/?lang_id=2&menu_id=9&page_id=1417 |date=18 August 2016 }}, tartu.ee, retrieved 27 December 2013</ref> In 1783 the city became the centre of Derpt [[uyezd]] within the [[Governorate of Livonia]].
+
+During the second half of the 19th century, Tartu was the cultural centre for Estonians in the era of [[Romantic nationalism]]. The city hosted Estonia's first [[Estonian Song Festival|song festival]] in 1869. ''[[Vanemuine]]'', the first national theatre, was established in 1870. Tartu was also the setting for the foundation of the Society of Estonian Writers in 1872.
+[[File:Tartu Raekoda 2012.jpg|thumb|300px|[[Tartu Town Hall]]]]
+[[Tartu railway station]] was opened in 1876 when [[Tapa, Estonia|Tapa]]–Tartu route was built.<ref>{{cite web |url=https://www.visitestonia.com/en/tartu-railway-station |title=Tartu Railway Station |publisher=Visit Estonia |access-date=5 April 2023 |archive-date=5 April 2023 |archive-url=https://web.archive.org/web/20230405110451/https://www.visitestonia.com/en/tartu-railway-station |url-status=live }}</ref> The station building was opened in 1877. In the [[history of tuberculosis]], in 1891 The Veterinary College at Dorpat produced seminal research using the [[Tuberculin test]] on 1,000 cattle.<ref>''Tuberculosis In European Countries'', The Times, 25 February 1895</ref>
+
+In 1893, the city was officially retitled to the ancient Russian name ''Yuryev''. The university was subsequently [[Russification|russified]] from 1895 on with the introduction of compulsory Russian in teaching. Much of the university property was relocated to [[Voronezh]] in 1918 and during the German occupation, the university worked under the name Landesuniversität Dorpat. During the [[Estonian War of Independence]] the university of Tartu was re-opened as an Estonian language university on 1 December 1919.
+
+===Independent Estonia (1918–1940)===
+
+With Estonian independence after World War I, the city officially became known by the Estonian name ''Tartu''. At the end of the 1918–1920 [[Estonian War of Independence]] following World War I, a peace treaty between the [[Bolsheviks|Bolshevik]] [[Soviet Russia|Russia]] and Estonia was signed on 2 February 1920 in Tartu ([[Treaty of Tartu (Russian–Estonian)|Treaty of Tartu]]). With the treaty, [[Russian Soviet Federative Socialist Republic|Soviet Russia]] renounced territorial claims to Estonia "for all time".
+
+In 1920, the peace [[Treaty of Tartu (Russian–Finnish)|treaty between Soviet Russia and Finland]] was also signed in Tartu.
+
+During the interwar period [[Tähtvere]] neighbourhood was built, former [[Raadi Manor]] buildings started to house [[Estonian National Museum]] (destroyed during [[Tartu Offensive]] in 1944) and art school [[Pallas Art School (1919–1940)|Pallas]] was opened.
+
+===German and Soviet occupations (1940–1991)===
+
+During World War II, the [[Stalin]]ist Soviet Union invaded and occupied Estonia and Tartu in June 1940. Large parts of the city as well as the historical ''Kivisild'' ("Stone bridge", built in 1776–1778) over the Emajõgi river were destroyed by the retreating Soviet Army, partly in 1941 and almost completely in 1944 by then retreating German Army. Already heavily damaged, Tartu was repeatedly bombed by the Soviet air forces on 27 January 1943, on 26 February 1944, on 7–8 March 1944, and on 25–26 March 1944. After the war ended, much of the city's historic centre was left in ruins. Even the less damaged buildings in entire city blocks were demolished by the Soviet occupation authorities and large swathes of previously residential areas were turned into parks and parking lots.
+
+After the war, the Soviet authorities declared Tartu a "closed town for foreigners", as an airbase for bombers was constructed on [[Raadi Airfield]], in the northeast outskirts of the city. It was one of the largest military airbases in the former Eastern Bloc and housed strategic bombers carrying nuclear bombs.<!--The location itself was where the Estonian 2nd Air Division was situated prior to 1940. The concrete runway there later used to house a large used cars market and was sometimes used for automotive racing.--> On one end of an older strip of the runway, the new building of [[Estonian National Museum]] was built.
+
+[[Tartu Airport]] was opened in the south of the city in 1946. Besides the airport [[Estonian Aviation Academy]] was established in 1993. Privately owned [[Estonian Aviation Museum]], which is 5&nbsp;km to the East from the airport (7&nbsp;km by car), was opened to the public in 2002.
+During the 1944–1991 Soviet occupation the population of Tartu almost doubled from 57,000 to above 100,000 — due to mass immigration from Russia and other areas of the former Soviet Union, in large part because of the military airbase. 
+[[File:AHHAA.jpg|thumb|AHHAA Science Centre]]
+
+===Modern era===
+<!--In 1988, after [[Estonian Sovereignty Declaration|Estonia declared its sovereignty]] from the USSR, elections were held for a newly independent City Council. Its first chair was the lawyer, [[Aino-Eevi Lukas]], who led the council from 1989 to 1993. Rebuilding from scratch, the council re-established the legal code and foreign relationships for in the post-independence era.<ref>{{cite news |title=Suri Aino-Eevi Lukas |url=https://www.ohtuleht.ee/985777/suri-aino-eevi-lukas |access-date=13 May 2020 |date=6 December 2019 |newspaper=[[Õhtuleht]] |archive-url=https://web.archive.org/web/20191207150656/https://www.ohtuleht.ee/985777/suri-aino-eevi-lukas |archive-date=7 December 2019 |location=Tallinn |language=et |trans-title=Died Aino-Eevi Lukas }}</ref>-->
+Since Estonia regained its independence in 1991, the old town centre has been renovated. Notably, [[St. John's Church, Tartu|St. John's Church]], in ruins since World War II, has been restored. Many new commercial and business buildings have been erected (''Tartu Kaubamaja'', ''Tasku'', ''Emajõe kaubanduskeskus'', ''Lõunakeskus'', ''Kvartal'', etc.). The highest residential building and local landmark ''[[Tigutorn]]'' was opened in 2008.
+
+The [[AHHAA]] science centre relocated to a new building in 2011 and the [[Estonian National Museum]]'s new main building opened in 2016.
+{{clear}}
+
+== Geography ==
+
+=== Climate ===
+
+Tartu lies within the temperate [[humid continental climate]] zone ([[Köppen climate classification|Dfb]]). The climate is rather mild considering the high latitude, largely due to the proximity of the Baltic Sea and warm airflows from the Atlantic. Nevertheless, continental influence can be felt on hot summer days and cold spells in winter, when the temperature can occasionally (but rarely) drop below {{cvt|-30|°C|0}}. Generally, summers are warm and winters are cold.
+
+The Tartu weather station is located in Tõravere village, which is about 20 kilometers from the city, so the actual temperature in the city may be slightly warmer than the official average temperatures.
+{{Weather box
+|location = Tartu (Tõravere) normals 1991–2020, extremes 1865–present
+|metric first = yes
+|single line = yes
+|Jan record high C = 9.7
+|Feb record high C = 10.9
+|Mar record high C = 18.4
+|Apr record high C = 27.5
+|May record high C = 30.9
+|Jun record high C = 34.0
+|Jul record high C = 34.9
+|Aug record high C = 35.2
+|Sep record high C = 30.3
+|Oct record high C = 21.5
+|Nov record high C = 13.8
+|Dec record high C = 13.0
+|year record high C = 35.2
+|Jan high C = -1.8
+|Feb high C = -1.6
+|Mar high C = 3.3
+|Apr high C = 11.1
+|May high C = 17.1
+|Jun high C = 20.6
+|Jul high C = 23.1
+|Aug high C = 21.8
+|Sep high C = 16.3
+|Oct high C = 9.2
+|Nov high C = 3.3
+|Dec high C = 0.0
+|year high C = 10.2
+|Jan mean C = −4.1
+|Feb mean C = −4.4
+|Mar mean C = -0.5
+|Apr mean C = 5.9
+|May mean C = 11.5
+|Jun mean C = 15.5
+|Jul mean C = 18.0
+|Aug mean C = 16.7
+|Sep mean C = 11.8
+|Oct mean C = 6.0
+|Nov mean C = 1.2
+|Dec mean C = -2.1
+|year mean C = 6.3
+|Jan low C = −6.5
+|Feb low C = −7.3
+|Mar low C = −4.0
+|Apr low C = 1.2
+|May low C = 5.8
+|Jun low C = 10.3
+|Jul low C = 12.9
+|Aug low C = 12.0
+|Sep low C = 8.0
+|Oct low C = 3.3
+|Nov low C = -0.8
+|Dec low C = -4.2
+|year low C = 2.6
+|Jan record low C = -37.5
+|Feb record low C = -36.0
+|Mar record low C = -29.6
+|Apr record low C = -19.8
+|May record low C = -7.2
+|Jun record low C = -2.2
+|Jul record low C = 1.8
+|Aug record low C = 1.5
+|Sep record low C = -6.6
+|Oct record low C = -13.8
+|Nov record low C = -22.2
+|Dec record low C = -38.6
+|year record low C = -38.6
+|precipitation colour= green
+|Jan precipitation mm = 48
+|Feb precipitation mm = 39
+|Mar precipitation mm = 36
+|Apr precipitation mm = 35
+|May precipitation mm = 54
+|Jun precipitation mm = 88
+|Jul precipitation mm = 67
+|Aug precipitation mm = 79
+|Sep precipitation mm = 55
+|Oct precipitation mm = 68
+|Nov precipitation mm = 55
+|Dec precipitation mm = 51
+|year precipitation mm = 673
+|unit precipitation days = 1.0 mm
+|Jan precipitation days = 12.8
+|Feb precipitation days = 9.9
+|Mar precipitation days = 9.3
+|Apr precipitation days = 8.3
+|May precipitation days = 8.5
+|Jun precipitation days = 10.7
+|Jul precipitation days = 9.5
+|Aug precipitation days = 11.2
+|Sep precipitation days = 9.8
+|Oct precipitation days = 11.9
+|Nov precipitation days = 11.3
+|Dec precipitation days = 12.4
+|year precipitation days = 125.6
+|Jan humidity = 88
+|Feb humidity = 85
+|Mar humidity = 76
+|Apr humidity = 68
+|May humidity = 65
+|Jun humidity = 70
+|Jul humidity = 74
+|Aug humidity = 77
+|Sep humidity = 82
+|Oct humidity = 86
+|Nov humidity = 89
+|Dec humidity = 89
+|year humidity = 79
+|Jan sun = 33.7
+|Feb sun = 65.1
+|Mar sun = 140.3
+|Apr sun = 190.9
+|May sun = 266.0
+|Jun sun = 258.0
+|Jul sun = 268.7
+|Aug sun = 227.6
+|Sep sun = 152.1
+|Oct sun = 79.3
+|Nov sun = 30.0
+|Dec sun = 24.3
+|year sun = 1735.9
+| Jan dew point C = -7
+| Feb dew point C = -8
+| Mar dew point C = -4
+| Apr dew point C = 0
+| May dew point C = 6
+| Jun dew point C = 10
+| Jul dew point C = 13
+| Aug dew point C = 13
+| Sep dew point C = 9
+| Oct dew point C = 4
+| Nov dew point C = 1
+| Dec dew point C = -3
+|source 1 = [[Estonian Weather Service]]<ref name=temp>{{cite web |url=http://www.ilmateenistus.ee/kliima/kliimanormid/ohutemperatuur/?lang=en |title=Climate normals-Temperature |publisher=Estonian Weather Service |access-date=31 January 2021 |archive-date=11 February 2020 |archive-url=https://web.archive.org/web/20200211222336/http://www.ilmateenistus.ee/kliima/kliimanormid/ohutemperatuur/?lang=en |url-status=live }}</ref><ref name=precip>{{cite web |url=http://www.ilmateenistus.ee/kliima/kliimanormid/sademed/?lang=en |title=Climate normals-Precipitation |publisher=Estonian Weather Service |access-date=31 January 2021 |archive-date=11 February 2020 |archive-url=https://web.archive.org/web/20200211222341/http://www.ilmateenistus.ee/kliima/kliimanormid/sademed/?lang=en |url-status=live }}</ref><ref name=humidity>{{cite web |url=http://www.ilmateenistus.ee/kliima/kliimanormid/ohuniiskus/?lang=en |title=Climate normals-Humidity |publisher=Estonian Weather Service |access-date=31 January 2021 |archive-date=11 February 2020 |archive-url=https://web.archive.org/web/20200211222402/http://www.ilmateenistus.ee/kliima/kliimanormid/ohuniiskus/?lang=en |url-status=live }}</ref><ref name=sun>{{cite web |url=http://www.ilmateenistus.ee/kliima/kliimanormid/paikesepaiste-kestus/?lang=en |title=Climate normals-Sunshine |publisher=Estonian Weather Service |access-date=31 January 2021 |archive-date=11 February 2020 |archive-url=https://web.archive.org/web/20200211222409/http://www.ilmateenistus.ee/kliima/kliimanormid/paikesepaiste-kestus/?lang=en |url-status=live }}</ref><ref name=extremes>{{cite web |url=http://www.ilmateenistus.ee/kliima/rekordid/ohutemperatuur/ |title=Rekordid |language=Estonian |publisher=Estonian Weather Service |access-date=19 March 2021 |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417081006/https://www.ilmateenistus.ee/kliima/rekordid/ohutemperatuur/ |url-status=live }}</ref><ref name=precipdays>
+{{cite web |url=http://www.emhi.ee/index.php?ide=6,299,303 |title=Kliimanormid-Sademed, õhuniiskus |publisher=Estonian Weather Service |language=et |access-date=31 January 2021 |url-status=dead |archive-url=https://web.archive.org/web/20120222112141/http://www.emhi.ee/index.php?ide=6,299,303 |archive-date=22 February 2012 }}</ref><ref>{{cite web |url=https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-6-WMO-Normals-9120/Estonia/CSV/Tartu-Toravere_26242.csv |title=World Meteorological Organization Climate Normals for 1991-2020 |language=en-us |publisher=[[National Oceanic and Atmospheric Administration]] |access-date=21 December 2023 }}</ref>
+|source 2 = Time and Date (dewpoints, 2005-2015)<ref>{{cite web |url=https://www.timeanddate.com/weather/estonia/tartu/climate |title=Climate & Weather Averages in Tartu |publisher=Time and Date |access-date=25 July 2022 |archive-date=6 April 2023 |archive-url=https://web.archive.org/web/20230406105620/https://www.timeanddate.com/weather/estonia/tartu/climate |url-status=live }}</ref>
+}}
+
+==Economy==
+[[File:Tartu Tigutorn 02.jpg|thumb|[[Emajõe Business Centre]] (left) and [[Snail Tower]] (right)]]
+Mostly known as a university town, Tartu is also a site of heavy industry. The food industry has traditionally been important for the town's economy and some bigger companies in the field include [[A. Le Coq]], [[Tartu Mill]] and [[Salvest]]. [[Kroonpress]] is one of the leading printing press companies in the Baltics.
+
+At the beginning of the 21st century, many [[Information and communication technologies|ICT]] enterprises and other high-tech companies have taken a foothold in Tartu. Notable examples include [[Playtech]] Estonia, [[Nortal]] (formerly Webmedia Group), [[ZeroTurnaround]], Tarkon, Reach-U and Raintree Estonia. [[Skype]] has an office in Tartu. The university is one of the largest employers, which explains the large proportion of highly skilled professionals – researchers, professors, doctors, and [[Tartu University Clinic]] has been considered the largest employer of Tartu.{{Citation needed|date=September 2009}}
+
+==Transport==
+The city is served by [[Tartu Airport]]. The distance to Estonia's "summer holiday capital", [[Pärnu]] (in the western Estonia) is {{convert|176|km|0|abbr=off}} and the fastest route there by road is through [[Viljandi]] and [[Kilingi-Nõmme]]. Tartu is connected to Riga, Tallinn, and other Estonian towns by many bus and train routes.
+
+==Demographics==
+[[File:Tartu city population pyramid in 2022.svg|thumb|Tartu city population pyramid in 2022]]
+{| class="wikitable" style="font-size: 86%"
+! Year ||1881||1897||1922||1934||1959||1970||1979||1989||1995||2000<ref name="RV0282">[https://andmed.stat.ee/en/stat/RV0282 Population by sex, age group and administrative unit or type of settlement, 1 january (2000–2017)]. Statistics Estonia.</ref>||2005<ref name="RV0282"/>||2010<ref name="RV0282"/>||2015<ref name="RV0240"/>||2020<ref name="RV0240"/>||2021<ref name="population">{{cite web |title=Population By Ethnic Nationality, Sex, Age Group And Place Of Residence |url=https://andmed.stat.ee/en/stat/rahvaloendus__rel2021__rahvastiku-demograafilised-ja-etno-kultuurilised-naitajad__rahvus-emakeel/RL21429 |website=andmed.stat.ee |publisher=[[Statistics Estonia]] |access-date=20 April 2023 |archive-url=https://web.archive.org/web/20220610110844/https://andmed.stat.ee/en/stat/rahvaloendus__rel2021__rahvastiku-demograafilised-ja-etno-kultuurilised-naitajad__rahvus-emakeel/RL21429 |archive-date=10 June 2022 |language=en |date=31 December 2021 |url-status=live }}</ref>
+|-
+! Population
+|29,974||42,308||50,342||58,876||74,263||90,459||104,381||113,320||104,874||106,200||104,490||100,930||93,805||92,972||95,190
+|}
+
+Tartu's historic population is presented in the following table, based on data from official censuses since 1881<ref>{{cite web |url=http://www.stat.ee/26384 |title=General data for 1881, 1897, 1922, 1934, 1959, 1970, 1979, 1989 censuses - Statistics Estonia |website=www.stat.ee |access-date=23 March 2009 |archive-date=7 July 2013 |archive-url=https://web.archive.org/web/20130707191244/http://www.stat.ee/26384 |url-status=dead }}</ref> and Estonian Statistical Office.<ref name="Population by sex, age group and county, 1 January">{{cite web |title=Population by sex, age group and county, 1 January |url=http://pub.stat.ee/px-web.2001/Dialog/varval.asp?ma=PO022&path=../I_Databas/Population/01Population_indicators_and_composition/04Population_figure_and_composition/&lang=1 |publisher=Statistics Estonia |date=16 March 2012 |access-date=19 February 2014 |archive-date=25 December 2018 |archive-url=https://web.archive.org/web/20181225061400/http://pub.stat.ee/px-web.2001/Dialog/varval.asp?ma=PO022&path=..%2FI_Databas%2FPopulation%2F01Population_indicators_and_composition%2F04Population_figure_and_composition%2F&lang=1 |url-status=live }}</ref> Note that the data up to 2011 is not directly comparable to the most recent numbers, as the methodology of compiling population statistics has changed.<ref>{{cite web |url=http://pub.stat.ee/px-web.2001/I_Databas/Population/01Population_indicators_and_composition/04Population_figure_and_composition/PO_021.htm |title=Definitions and Methodology |website=pub.stat.ee |access-date=19 May 2015 |archive-date=26 October 2020 |archive-url=https://web.archive.org/web/20201026144552/http://pub.stat.ee/px-web.2001/I_Databas/Population/01Population_indicators_and_composition/04Population_figure_and_composition/PO_021.htm |url-status=dead }}</ref>
+{| class="wikitable sortable"
+|+Ethnic composition 1922-2021
+! rowspan="2" |Ethnicity
+! colspan="2" |[[1922 Estonian Census|1922]]<ref>{{Cite book |url=http://www.digar.ee/id/nlib-digar:440178 |title=1922 a. üldrahvalugemise andmed. Vihk I ja II, Rahva demograafiline koosseis ja korteriolud Eestis |publisher=Riigi Statistika Keskbüroo |year=1924 |isbn=9789916103067 |location=Tallinn |page=33 |language=et, fr |via=Digar |access-date=6 May 2023 |archive-date=19 September 2024 |archive-url=https://web.archive.org/web/20240919010107/https://www.digar.ee/arhiiv/nlib-digar:440178 |url-status=live }}</ref>
+! colspan="2" |[[1934 Estonian Census|1934]]<ref>{{Cite book |url=http://hdl.handle.net/10062/4439 |title=Rahvastiku koostis ja korteriolud. 1.III 1934 rahvaloenduse andmed. Vihk II |publisher=Riigi Statistika Keskbüroo |year=1935 |location=Tallinn |pages=47–53 |language=et, fr |hdl=10062/4439 |access-date=6 May 2023 |archive-date=19 September 2024 |archive-url=https://web.archive.org/web/20240919010008/https://dspace.ut.ee/items/bb3bac8a-8400-4f68-bea9-f4ac9b331652 |url-status=live }}</ref>
+! colspan="2" |1941<ref>{{Cite book |url=http://www.digar.ee/id/nlib-digar:117429 |title=Eesti Statistika : kuukiri 1942-03/04 |publisher=Riigi Statistika Keskbüroo |year=1942 |editor-last= |location=Tallinn |pages=66–67 |language=de, et |access-date=6 May 2023 |archive-date=19 September 2024 |archive-url=https://web.archive.org/web/20240919010110/https://www.digar.ee/arhiiv/nlib-digar:117429 |url-status=live }}</ref>
+! colspan="2" |[[Soviet Census (1959)|1959]]<ref>{{Cite book |last1=Katus |first1=Kalev |url=https://www.ester.ee/record=b1791991*est |title=Rahvastiku ühtlusarvutatud sündmus- ja loendusstatistika: Tartumaa 1965-1990 |last2=Puur |first2=Allan |last3=Põldma |first3=Asta |publisher=Eesti Kõrgkoolidevaheline Demouuringute Keskus |year=2003 |isbn=9985-820-72-X |series=Sari C |location=Tallinn |pages=31–32 |language=et, en |access-date=6 May 2023 |archive-date=6 May 2023 |archive-url=https://web.archive.org/web/20230506211857/https://www.ester.ee/record=b1791991*est |url-status=live }}</ref>
+! colspan="2" |[[Soviet Census (1970)|1970]]<ref>{{Cite book |url=https://www.ester.ee/record=b1655518*est |title=Население районов, городов и поселков городского типа Эстонской ССР : по данным Всесоюзной переписи населения на 15 января 1970 года |publisher=Eesti NSV Statistika Keskvalitsus |year=1972 |location=Tallinn |page=76 |language=ru |access-date=6 May 2023 |archive-date=19 September 2024 |archive-url=https://web.archive.org/web/20240919010109/https://www.ester.ee/record=b1655518%2Aest |url-status=live }}</ref>
+! colspan="2" |[[Soviet Census (1979)|1979]]<ref name=":02">{{cite book |url=https://www.digar.ee/viewer/et/nlib-digar:375699/330970/page/30 |title=Eesti Vabariigi maakondade, linnade ja alevite rahvastik. 1. osa, Rahvaarv rahvuse, perekonnaseisu, hariduse ja elatusallikate järgi : 1989. a. rahvaloenduse andmed |publisher=Eesti Vabariigi Riiklik Statistikaamet |year=1990 |isbn=978-9949-7193-2-7 |location=Tallinn |pages=28, 33 |language=et |via=Digar |access-date=6 May 2023 |archive-date=6 May 2023 |archive-url=https://web.archive.org/web/20230506150047/https://www.digar.ee/viewer/et/nlib-digar:375699/330970/page/30 |url-status=live }}</ref>
+! colspan="2" |[[Soviet Census (1989)|1989]]<ref name=":02" />
+! colspan="2" |[[2000 Estonia Census|2000]]<ref>{{Cite web |title=RL222: RAHVASTIK ELUKOHA JA RAHVUSE JÄRGI |url=https://andmed.stat.ee/pxweb/et/stat/stat__rahvaloendus__rel2000__rahvus-emakeel-veerkeelte-oskus/RL222.px/ |access-date= |website=Estonian Statistical Database |language=et |archive-date=19 September 2024 |archive-url=https://web.archive.org/web/20240919010114/https://andmed.stat.ee/et/stat/rahvaloendus__rel2000__rahvus-emakeel-veerkeelte-oskus/RL222 |url-status=live }}</ref>
+! colspan="2" |[[2011 Estonia Census|2011]]<ref name="RL0429">{{cite web |title=RL0429: RAHVASTIK RAHVUSE, SOO, VANUSERÜHMA JA ELUKOHA JÄRGI, 31. DETSEMBER 2011 |url=https://andmed.stat.ee/et/stat/rahvaloendus__rel2011__rahvastiku-demograafilised-ja-etno-kultuurilised-naitajad__rahvus-emakeel-ja-keelteoskus-murded/RL0429 |access-date=4 February 2021 |website=Estonian Statistical Database |archive-date=19 September 2024 |archive-url=https://web.archive.org/web/20240919010030/https://andmed.stat.ee/et/stat/rahvaloendus__rel2011__rahvastiku-demograafilised-ja-etno-kultuurilised-naitajad__rahvus-emakeel-ja-keelteoskus-murded/RL0429 |url-status=live }}</ref>
+! colspan="2" |[[2021 Estonia Census|2021]]<ref>{{Cite web |title=RL21429: Rahvastik Rahvuse, Soo, Vanuserühma Ja ELukoha (Haldusüksus) Järgi, 31. DETSEMBER 2021 |url=https://andmed.stat.ee/pxweb/et/stat/stat__rahvaloendus__rel2021__rahvastiku-demograafilised-ja-etno-kultuurilised-naitajad__rahvus-emakeel/RL21429.px/ |access-date= |website=Estonian Statistical Database |language=et |archive-date=19 September 2024 |archive-url=https://web.archive.org/web/20240919002332/https://andmed.stat.ee/et/stat/rahvaloendus__rel2021__rahvastiku-demograafilised-ja-etno-kultuurilised-naitajad__rahvus-emakeel/RL21429 |url-status=live }}</ref>
+|-
+!amount
+!%
+!amount
+!%
+!amount
+!%
+!amount
+!%
+!amount
+!%
+!amount
+!%
+!amount
+!%
+!amount
+!%
+!amount
+!%
+!amount
+!%
+|-
+|[[Estonians]]
+|42459
+|84.5
+|51559
+|87.6
+|44732
+|93.7
+|56205
+|75.7
+|68129
+|75.3
+|77597
+|74.3
+|82031
+|72.3
+|80397
+|79.5
+|79700
+|81.7
+|76227
+|80.1
+|-
+|[[Russians]]
+|2570
+|5.11
+|2640
+|4.48
+|1490
+|3.12
+| -
+| -
+|18009
+|19.9
+|21530
+|20.6
+|24604
+|21.7
+|16245
+|16.1
+|14340
+|14.7
+|12441
+|13.1
+|-
+|[[Ukrainians]]
+| -
+| -
+|16
+|0.03
+| -
+| -
+| -
+| -
+|1277
+|1.41
+|1685
+|1.61
+|2369
+|2.09
+|1239
+|1.22
+|891
+|0.91
+|1107
+|1.16
+|-
+|[[Belarusians]]
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|551
+|0.61
+|749
+|0.72
+|1088
+|0.96
+|490
+|0.48
+|355
+|0.36
+|304
+|0.32
+|-
+|[[Finns]]
+| -
+| -
+|49
+|0.08
+|27
+|0.06
+| -
+| -
+|1220
+|1.35
+|1271
+|1.22
+|1275
+|1.12
+|1073
+|1.06
+|706
+|0.72
+|900
+|0.95
+|-
+|Jews
+|1115
+|2.22
+|920
+|1.56
+|0
+|0.00
+| -
+| -
+|420
+|0.46
+|346
+|0.33
+|267
+|0.24
+|154
+|0.15
+|113
+|0.12
+|81
+|0.09
+|-
+|[[Latvians]]
+| -
+| -
+|278
+|0.47
+|1043
+|2.18
+| -
+| -
+|137
+|0.15
+|197
+|0.19
+|167
+|0.15
+|105
+|0.10
+|113
+|0.12
+|268
+|0.28
+|-
+|[[Germans]]
+|3210
+|6.39
+|2706
+|4.60
+| -
+| -
+| -
+| -
+| -
+| -
+|103
+|0.10
+|133
+|0.12
+|123
+|0.12
+|118
+|0.12
+|306
+|0.32
+|-
+|[[Tatars]]
+| -
+| -
+|6
+|0.01
+| -
+| -
+| -
+| -
+| -
+| -
+|112
+|0.11
+|146
+|0.13
+|83
+|0.08
+|65
+|0.07
+|45
+|0.05
+|-
+|[[Polish people|Poles]]
+| -
+| -
+|144
+|0.24
+|71
+|0.15
+| -
+| -
+| -
+| -
+|164
+|0.16
+|179
+|0.16
+|137
+|0.14
+|92
+|0.09
+|133
+|0.14
+|-
+|[[Lithuanians]]
+| -
+| -
+|26
+|0.04
+|15
+|0.03
+| -
+| -
+|102
+|0.11
+|127
+|0.12
+|159
+|0.14
+|96
+|0.09
+|74
+|0.08
+|109
+|0.11
+|-
+|unknown
+|0
+|0.00
+|278
+|0.47
+|44
+|0.09
+|0
+|0.00
+|0
+|0.00
+|0
+|0.00
+|0
+|0.00
+|378
+|0.37
+|136
+|0.14
+|255
+|0.27
+|-
+|other
+|902
+|1.79
+|254
+|0.43
+|335
+|0.70
+|18058
+|24.3
+|614
+|0.68
+|500
+|0.48
+|1002
+|0.88
+|649
+|0.64
+|897
+|0.92
+|3014
+|3.17
+|-
+!Total
+!50256
+!100
+!58876
+!100
+!47757
+!100
+!74263
+!100
+!90459
+!100
+!104381
+!100
+!113420
+!100
+!101169
+!100
+!97600
+!100
+!95190
+!100
+|}
+{{Pie chart
+|thumb = right
+|caption = Religion in Tartu City (2021) [https://andmed.stat.ee/en/stat/rahvaloendus__rel2021__rahvastiku-demograafilised-ja-etno-kultuurilised-naitajad__usk/RL21452]
+|label1 = Unaffiliated 
+|value1 = 77.1
+|color1 = White 
+|label2 = Lutheran 
+|value2 = 10.2
+|color2 = DodgerBlue 
+|label3 = Orthodox & Old Believers 
+|value3 = 8.4 
+|color3 = Pink 
+|label4 = Others Christians 
+|value4 = 2.1
+|color4 = LightBlue 
+|label5 = Others Religions or Unknown 
+|value5 = 2.0
+|color5 = Yellow 
+|label6 = 
+|value6 = 
+|color6 = 
+}}
+
+==Neighbourhoods==
+
+Tartu is officially divided into 17 neighbourhoods, which carry no administrative purposes. Their names and borders are defined.
+{{Image label begin|image=Tartu linnaosad1.png|width=350|float=right}}
+{{Image label|x=0.327|y=0.43|scale=400|text='''[[Kesklinn, Tartu|Kesklinn]]'''}}
+{{Image label|x=0.56|y=0.5|scale=400|text='''[[Annelinn]]'''}}
+{{Image label|x=0.384|y=0.57|scale=400|text='''[[Karlova, Tartu|Karlova]]'''}}
+{{Image label|x=0.62|y=0.74|scale=400|text='''[[Ihaste]]'''}}
+{{Image label|x=0.4|y=0.75|scale=400|text='''[[Ropka tööstusrajoon|Ropka<br>tööstusrajoon]]'''}}
+{{Image label|x=0.53|y=0.33|scale=400|text='''[[Jaamamõisa]]'''}}
+{{Image label|x=0.38|y=0.19|scale=400|text='''[[Raadi-Kruusamäe|Raadi-<br>Kruusamäe]]'''}}
+{{Image label|x=0.41|y=0.337|scale=400|text='''[[Ülejõe, Tartu|Ülejõe]]'''}}
+{{Image label|x=0.28|y=0.27|scale=400|text='''<small>[[Supilinn]]</small>'''}}
+{{Image label|x=0.16|y=0.2|scale=400|text='''[[Tähtvere]]'''}}
+{{Image label|x=0.34|y=0.67|scale=400|text='''[[Ropka]]'''}}
+{{Image label|x=0.14|y=0.43|scale=400|text='''[[Veeriku]]'''}}
+{{Image label|x=0.247|y=0.75|scale=400|text='''<small>[[Variku, Tartu|Variku]]</small>'''}}
+{{Image label|x=0.17|y=0.64|scale=400|text='''[[Tammelinn]]'''}}
+{{Image label|x=0.1|y=0.75|scale=400|text='''[[Ränilinn]]'''}}
+{{Image label|x=0.14|y=0.53|scale=400|text='''[[Maarjamõisa|Maarja-<br>Mõisa]]'''}}
+{{Image label|x=0.27|y=0.46|scale=400|text='''<small>[[Vaksali]]</small>'''}}
+{{Image label end}}
+
+{| class="wikitable sortable" width="170" style="text-align: right"
+|-
+! align="left" | Neighborhood !! Area (ha)!! Residents 2001 !! Residents 2006 !! Residents 2012 
+|-
+| align="left" | [[Annelinn]] || 541 || 30,000 || 28,200 || 27,480
+|-
+| align="left" | [[Ihaste]] || 424 || 1,000 || 1,800 || 2,322
+|-
+| align="left" | [[Jaamamõisa]] || 149 || 3,000 || 3,000 || 3,202
+|-
+| align="left" | [[Karlova, Tartu|Karlova]] || 230 || 9,500 || 9,000 || 9,073
+|-
+| align="left" | [[Kesklinn, Tartu|Kesklinn]] (Downtown) || 180 || 7,500 || 6,700 || 6,575
+|-
+| align="left" | [[Maarjamõisa]] || 113|| 800 || 500 || 377
+|-
+| align="left" | [[Raadi-Kruusamäe]] || 283 ||5,000 || 4,800 || 4,626
+|-
+| align="left" | [[Ropka]] || 146 ||5,500 || 5,300 || 5,120
+|-
+| align="left" | [[Ropka industrial district]] || 354 || 2,700 || 2,700 || 2,511
+|-
+| align="left" | [[Ränilinn]] || 122 || 2,500 || 1,800 || 1,732
+|-
+| align="left" | [[Supilinn]] || 48|| 2,100 || 1,800 || 1,790
+|-
+| align="left" | [[Tammelinn]] || 311 || 8,000 || 8,100 || 8,195
+|-
+| align="left" | [[Tähtvere]] || 250 || 4,500 || 3,500 || 3,023
+|-
+| align="left" | [[Vaksali]] || 75 || 2,900 || 3,100 || 3,206
+|-
+| align="left" | [[Variku, Tartu|Variku]] || 77 || 2,000 || 1,900 || 1,840
+|-
+| align="left" | [[Veeriku]] || 281 || 5,500 || 5,300 || 5,561
+|-
+| align="left" | [[Ülejõe, Tartu|Ülejõe]] || 302 || 8,200 || 7,700 || 7,876
+|}
+{{multiple image
+| direction = vertical
+| image1 = Oscar Wilde in Estonia? (3538497107).jpg
+| caption1 = A memorial to [[Oscar Wilde]] and [[Eduard Vilde]]
+| image2 =
+| caption2 = The fountain "[[Kissing Students]]" ({{langx|et|Suudlevad Tudengid}}) reminds visitors that the [[University of Tartu]] and its students have a profound effect on life in Tartu.
+}}
+
+==Education and culture==
+
+The city is best known for being home to the [[University of Tartu]] (formerly known as the University of Dorpat; {{langx|de|link=no|Universität Dorpat}}), founded under King [[Gustavus Adolphus of Sweden]] in 1632.<ref name="visitsouthestonia"/> Mainly for this reason, Tartu is also – tongue-in-cheek – known as "[[Athens]] of the Emajõgi" or as "[[University of Heidelberg|Heidelberg]] of the North".
+
+Tartu is also the seat of the [[Estonian University of Life Sciences]], the [[Baltic Defence College]], [[Estonian Aviation Academy]] (formerly known as Tartu Aviation College), and the [[Ministry of Education and Research (Estonia)|Estonian Ministry of Education and Research]]. Other notable institutions include the [[Supreme Court of Estonia]] (re-established in Tartu in autumn 1993), the [[Estonian Historical Archives]], [[Estonian National Museum]], [[Estonian Sports and Olympic Museum]] as well as the oldest and renowned theatre in the country, [[Vanemuine]], where they have a well-respected ballet company as well as theatre, opera and musical productions.
+
+In music, there exists the [[Tartu school of composition]].
+
+Most of the sculptures in Tartu are dedicated to historical figures. Among them, the most famous are the [[Barclay de Tolly monument]] on [[Barclay Square]] in downtown, the [[Kissing Students]] monument on the town hall square<ref name="visitsouthestonia"/> and [[Gustav II Adolf]]´s monument on [[List of parks and gardens in Estonia|King's Square]] ({{lang|et|Kuningaplats}}).
+
+==Science==
+Tartu has been an intellectual centre of both Estonia and the Baltic countries for several centuries. Scholars hailing from Tartu include the pioneer of embryology [[Karl Ernst von Baer]], a pioneer of animal behaviour studies [[Jakob von Uexküll]], and a cultural theorist and semiotician [[Juri Lotman]]. [[Johann Friedrich von Eschscholtz]], a Baltic German physician, naturalist, and entomologist, was born in Tartu. He was one of the earliest scientific explorers of the Pacific region, making significant collections of flora and fauna in Alaska, California, and Hawaii. Nobel Chemistry Prize laureate [[Wilhelm Ostwald]] studied and worked in Tartu. The [[Tartu School]] is one of the leading scientific schools in [[semiotics]].
+
+==Main sights==
+{{multiple image
+| align = left
+| image1 = Tartu asv2022-04 img15 StJohn Church.jpg
+| width1 = 225
+| alt1 = 
+| caption1 = St. John's Church
+| image2 = Tartu St Johns church interior.jpg
+| width2 = 200
+| alt2 = 
+| caption2 = Interior
+| footer = 
+}}
+The architecture and city planning of historical Tartu mainly go back to the pre-independence period, with Germans forming the upper and middle classes of society, and therefore contributing many architects, professors and local politicians.
+
+Most notable are the old [[Lutheran]] [[St. John's Church, Tartu|St. John's Church]] ({{langx|et|Jaani Kirik}}, {{langx|de|link=no|Johanneskirche}}), the 18th-century [[Tartu Town Hall|town hall]], the university building, ruins of the 13th-century [[Tartu Cathedral|cathedral]], the botanical gardens, the main shopping street, many buildings around the town hall square and [[Barclay Square]].
+
+The historical slum area called Supilinn (''Soup Town'') is located on the bank of river Emajõgi, near the town centre and is regarded as one of the few surviving "poor" neighbourhoods of 19th-century Europe. At the moment Supilinn is being rapidly renovated, undergoing a slow transformation from the historic slum into a prestigious high-class neighborhood. The active community embodied by the Supilinn Society is committed to preserving the heritage.
+
+The Second World War destroyed large parts of the city centre and during the Soviet occupation, many new buildings were erected – notably the new Vanemuine Theater. The effects of the war are still witnessed by the relative abundance of parks and greenery in the historic centre. Typical Soviet-style neighbourhoods of blocks of high-rise flats were built between World War II and the restoration of Estonian independence in 1991, the largest such district being [[Annelinn]].
+
+Presently, Tartu is also known for several modern buildings of the "steel, concrete and glass" variation, but has managed to retain a mix of old and new buildings in the centre of town. Notable examples include the Tigutorn Tower and the Emajõe Centre, both built during the current period of independence; Tartu's tallest and second tallest towers, respectively. Tartu's large student population means that it has a comparatively thriving nightlife, with many nightclubs, bars, and restaurants, including the world's highest-ceiling pub, in the historic [[Gunpowder Cellar of Tartu]].
+
+Annually, in the summer, Tartu hosts the Hanseatic Days festival ({{langx|et|Hansapäevad}}) to celebrate its Hanseatic heritage. The festival includes events such as handicraft markets, historic workshops and jousting tournaments.
+
+==Sports==
+[[File:Rally Estonia 2019.jpg|thumb|left|250px|Rally Estonia ceremonial start place]]
+
+The city hosts the [[Rally Estonia]]. It is the biggest motorsport event in the [[Baltic states]].<ref>{{cite web |url=https://www.wrc.com/en/championship/calendar/wrc/-rally-estonia/overview/ |title=WRC Rally Estonia |publisher=[[World Rally Championship]] |website=wrc.com |access-date=19 July 2023 |archive-date=1 August 2023 |archive-url=https://web.archive.org/web/20230801052557/https://www.wrc.com/en/championship/calendar/wrc/-rally-estonia/overview/ |url-status=live }}</ref> The rally was part of the [[European Rally Championship]] between 2014 and 2016. Since 2020 Rally Estonia is part of the [[World Rally Championship]].
+
+Tartu is the home for basketball club [[Tartu Ülikool/Rock]], which participates in the [[Korvpalli Meistriliiga]] and the [[Latvian-Estonian Basketball League]].
+
+[[Association football|Football]] club [[JK Tammeka Tartu]], one of the [[Meistriliiga]] clubs, is located in Tartu. Their home stadium is the [[Tamme Stadium|Tamme Staadion]], which has a capacity of 1600. The city is also home to the [[Tartu JK Welco]] and [[FC Santos Tartu]] clubs, which play in the [[Esiliiga]], the second division.
+
+Tartu has a professional volleyball club, [[Tartu Volleyball|Bigbank Tartu]], as well as the handball team, the Tartu Ülikool/Glassdrive, which plays in the second division of Estonian handball.
+
+Tartu is also the hometown of [[Clement "Puppey" Ivanov]], captain of [[Team Secret]], a professional [[Dota 2]] team. He won the first [[The International (Dota 2)|International]], and was runner-up two years in a row with Natus Vincere.<ref>{{cite web |title=International Teams |url=http://www.dota2.com/international/teams/ |publisher=[[Valve Corporation|Valve]] |access-date=20 July 2014 |archive-date=19 September 2024 |archive-url=https://web.archive.org/web/20240919010535/https://www.dota2.com/ingest |url-status=live }}</ref>
+
+The [[2017 World Orienteering Championships]] were held in Tartu.<ref>{{cite web |url=http://www.woc2017.ee/ |title=Nokian Tyres World Orienteering Championships 2017 |website=www.woc2017.ee |access-date=16 April 2015 |archive-date=19 March 2015 |archive-url=https://web.archive.org/web/20150319064719/http://www.woc2017.ee/ |url-status=live }}</ref>
+
+The annual running event [[Tartu Sügisjooks]] takes place in Tartu.
+
+==Notable people==
+[[File:C. R. Jakobson, Paul Raud, EKM j 9638 M 3807.jpg|thumb|upright|[[Carl Robert Jakobson]]]]
+[[File:Alar Karis 2019.jpg|thumb|upright|[[Alar Karis]]]]
+[[File:Siim-Sander Vene - Penya GC2019 by unniks-3.jpg|thumb|upright|[[Siim-Sander Vene]]]]
+* [[Andrus Ansip]] (1956), politician, former Prime Minister of Estonia
+* [[Paul Ariste]] (1905–1990), linguist
+* [[Lauri Aus]] (1970–2003), professional road cyclist
+* [[Karl Ernst von Baer]] (1792–1876), Baltic German scientist and explorer
+* [[George Browne (soldier)|George Browne]], (1698–1792), Irish-born Governor of Dorpat 
+* [[Karl Ernst Claus]] (1796–1864), Baltic German chemist and botanist
+* [[Jacob von Eggers]] (1704-1773), military engineer in Swedish and [[Electorate of Saxony|Saxonian]] service
+* [[Jaan Einasto]] (1929), astrophysicist
+* [[Elisabeth Erm]] (1993), fashion model
+* [[Friedrich Robert Faehlmann]] (1798–1850), writer, medical doctor and philologist
+* [[George Hackenschmidt]] (1877–1968), strongman, professional wrestler, writer and philosopher
+* [[Adolf von Harnack]] (1851–1930), German lutheran theologian and church historian
+* [[Else Hueck-Dehio]], Baltic German writer
+* [[Carl Robert Jakobson]] (1841–1882), writer, politician and teacher
+* [[Maarja Jakobson]] (1977), actress
+* [[Martin Järveoja]] (1987), rally co-driver
+* [[Rasmus Kaljujärv]] (1981), actor
+* [[Kallista Kann]] (1895–1983), linguist
+* [[Alar Karis]] (1958), biologist and the 6th [[President of Estonia]]
+* [[Kerr Kriisa]] (2001), basketball player
+* [[Sally von Kügelgen]] (1860–1928), painter
+* [[Leonid Kulik]] (1883–1942), Russian mineralogist
+* [[Oskar Luts]] (1887–1953), writer and playwright
+* [[Markko Märtin]] (1975), rally driver
+* [[Emil Mattiesen]] (1875–1939), composer, pianist and philosopher
+* [[Jaan Mölder]] (1987), rally driver
+* [[Peeter Põld]] (1878–1930), pedagogic scientist, school director and politician
+* [[Laura Põldvere]] (1988), singer
+* [[Elsa Ratassepp]] (1893–1972), actress
+* [[Eno Raud]] (1928–1996), children's author
+* [[Zofia Romer]] (1885–1972), Polish painter
+* [[Alma Johanna Ruubel]] (1899–1990), mathematician
+* [[Kristina Šmigun-Vähi]] (1977), cross-country skier
+* [[Rein Taaramäe]] (1987), professional road cyclist
+* [[Aino Talvi]] (1909–1992), actress
+* [[Ants Veetõusme]] (born 1949), politician (former [[Mayor of Tartu]]) and financial figure
+* [[Siim-Sander Vene]] (born 1990), basketball player
+* [[Adalbert Volck (Nazi Party official)|Adalbert Volck]] (1868–1948), Baltic German politician
+
+==Gallery==
+<gallery>
+File:University of Tartu, Main Building, April 2012.JPG|[[Main building of Tartu University|University of Tartu main building]]
+File:Tartu, botanická zahrada.jpeg|[[University of Tartu Botanical Gardens]]
+File:Riigikohus.jpg|The [[Supreme Court of Estonia]]
+File:Arch bridge in Tartu.jpg|[[Kaarsild]] (''Arch Bridge'') over the Emajõgi
+File:Kuradisild sügisõhtul.JPG|[[Kuradisild]] (''Devil's Bridge'')
+File:Telleri kabel.jpg|Teller chapel in Tartu, Estonia. Built in 1794
+File:Tartu Kunstimuuseum.JPG|[[Tartu Art Museum]]
+File:Laulupeomuuseum.JPG|Song Festival Museum
+File:Tartu Town Hall Place towards Kaarsild 2015.jpg|[[Raekoja plats, Tartu|Tartu Town Hall Square]]
+File:Tartu Peetri kirik 2012.jpg|[[St Peter's Church, Tartu|St Peter's Church]]
+File:Tartu asv2022-04 img28 StPaul Church.jpg|[[St Paul's Church, Tartu|St Paul's Church]]
+File:TrefnGymn-2012-06.png|[[Hugo Treffner Gymnasium]]
+File:Tartu asv2022-04 img26 Vanemuine small building.jpg|"Little House" of the [[Vanemuine]] theatre
+File:Tartu Kaubamaja 2011.JPG|[[Tartu Department Store]]
+File:Tasku.jpg|[[Tasku Shopping Centre]]
+File:Tartu railway station, 2014.JPG|[[Tartu railway station]] 
+</gallery>
+
+==See also==
+* [[Immaculate Conception Church, Tartu]]
+* [[Pigcam]], wild game feeding webcam, in a forest near Tartu
+* [[University of Tartu]]
+** [[Tartu University Library]]
+* [[St Mary's Church, Tartu]]
+* [[St Paul's Church, Tartu]]
+* [[St Peter's Church, Tartu]]
+
+==Sources==
+* {{Cite magazine |first=Rivo |last=Bernotas |url=http://www.kirj.ee/public/Archaeology/2011/issue_1/arch-2011-15-1-56-72.pdf |title=Medieval Town Wall of Tartu in the Light of Recent Research |magazine=Estonian Journal of Archaeology |year=2011 |number=1 |language=en}}
+
+==Notes==
+{{Notelist}}
+
+===References===
+{{Reflist}}
+
+===Further reading===
+* {{Cite book |author=Villem Raam |title=Eesti arhitektuur 4. Tartumaa, Jõgevamaa, Valgamaa, Võrumaa, Põlvamaa. Valgus |publisher=[[Valgus (publisher)|Valgus]] |year=1999 |isbn=9985-68-050-2 |language=et}}
+* {{Cite book |author=Malle Salupere |title=Tuhandeaastane Tartu – Nooruse ja heade mõtete linn |publisher=[[University of Tartu Press]] |year=2004 |isbn=9985-56-908-3 |language=et}}
+* {{Cite book |author=Seppo Zetterberg |title=Viron historia |publisher=[[Finnish Literature Society]] |year=2007 |isbn=978-951-746-520-5 |language=fi}}
+
+==External links==
+{{Commons category-inline}}
+{{Wikivoyage inline}}
+* [https://tartu.ee/en City of Tartu]
+* [http://www.visittartu.com/?set_lang_id=2 Tourism website]
+* [http://www.ut.ee/en University of Tartu]
+* [http://meteo.physic.ut.ee/?lang=en Weather in Tartu]
+
+{{Tartu landmarks}}
+{{Tartu (urban municipality)}}
+{{Cities of Estonia}}
+{{European Capital of Culture}}
+{{Hanseatic League}}
+
+{{Authority control}}
+{{Portal bar|Estonia|Cities}}
+[[Category:Tartu| ]]
+[[Category:Cities and towns in Estonia]]
+[[Category:Members of the Hanseatic League]]
+[[Category:Kreis Dorpat]]
+[[Category:Populated places in Tartu County]]
+[[Category:Populated places established in the 5th century]]
+[[Category:1030 establishments]]

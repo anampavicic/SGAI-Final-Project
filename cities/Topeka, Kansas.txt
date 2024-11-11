@@ -1,0 +1,793 @@
+{{Short description|State capital city of Kansas, United States}}
+{{redirect|Topeka}}
+{{pp-move}}
+{{Use mdy dates|date=July 2023}}
+{{Infobox settlement
+|name                     = Topeka, Kansas
+|settlement_type          = [[List of capitals in the United States|State capital city]]
+
+<!-- Images -->
+|image_skyline            = {{multiple image
+   |border                   = infobox
+   |total_width              = 285
+   |perrow                   = 1/2/3/2
+   |caption_align            = center
+   |image1                   = Topeka, Kansas.JPG
+   |caption1                 = Downtown skyline from Burnett's Mound
+   |image2                   = Kansas State Capitol in Topeka (44441302334).jpg
+   |caption2                 = [[Kansas State Capitol]]
+   |image3                   = Constitution Hall-Topeka, 429 S. Kansas Avenue, Topeka, KS.jpg
+   |caption3                 = [[Constitution Hall (Topeka, Kansas)|Constitution Hall]]
+   |image4                   = Topekalibrary.jpg
+   |caption4                 = [[Topeka & Shawnee County Public Library|Topeka Public Library]]
+   |image5                   = Topeka_High_School_(panorama).jpg
+   |caption5                 = [[Topeka High School]]
+   |image6                   = Railyard Buildings - Outside Great Overland Station - Topeka - Kansas - USA (40032627580).jpg
+   |caption6                 = Railyard buildings at [[Great Overland Station]]
+}}
+|image_flag               = Flag of Topeka, Kansas.svg
+|flag_size                = 105px
+|flag_link                = Flag of Topeka
+|image_seal               = TopekaCityCrest.png
+|seal_size                = 90px
+
+<!-- Maps -->
+|image_map                = Shawnee County Kansas Incorporated and Unincorporated areas Topeka Highlighted.svg
+|map_caption              = Location within [[Shawnee County, Kansas|Shawnee County]] and [[Kansas]]
+|image_map1               = {{Maplink|frame=yes|plain=y|frame-width=270|frame-height=200|frame-align=center|frame-coord={{coord|39.015165|-95.687627}}|zoom=10|raw={{Wikipedia:Map data/Wikipedia KML/Topeka, Kansas}}}}
+|map_caption1             = Interactive map of Topeka
+
+<!-- Location -->
+|coordinates_footnotes    = <ref name="GNIS"/>
+|coordinates              = {{coord|39|02|05|N|95|41|44|W|region:US-KS_type:city(126,000)_source:GNIS|display=inline,title}}
+| subdivision_type        = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Kansas]]
+|subdivision_type2        = [[List of counties in Kansas|County]]
+|subdivision_name2        = [[Shawnee County, Kansas|Shawnee]]
+|subdivision_type3        = [[List of townships in Kansas|Township]]
+|subdivision_name3        =
+
+<!-- Established -->
+|established_title        = Founded
+|established_date         = 1854
+|established_title1       = [[Platted]]
+|established_date1        =
+|established_title2       = [[Municipal corporation|Incorporated]]
+|established_date2        = 1857
+|named_for                =
+
+<!-- Government -->
+|government_footnotes     =
+|government_type          = [[Council-Manager]]
+|leader_title             = [[Mayor of Topeka, Kansas|Mayor]]
+|leader_name              = [[Mike Padilla]] ([[Democratic Party (United States)|D]])<ref>{{cite web|url=https://www.topeka.org/mayor|title=Mayor - City of Topeka|website=www.topeka.org|access-date=2018-01-22|archive-url=https://web.archive.org/web/20180713232019/https://www.topeka.org/mayor/|archive-date=2018-07-13|url-status=live}}</ref>
+|leader_title1            = [[City Manager]]
+|leader_name1             = Stephen Wade <ref name="Topeka-CityManager" />
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_20.txt|publisher=United States Census Bureau|access-date=July 24, 2020}}</ref>
+|area_total_sq_mi         = 62.76
+|area_land_sq_mi          = 61.44
+|area_water_sq_mi         = 1.31
+|area_total_km2           = 162.53
+|area_land_km2            = 159.14
+|area_water_km2           = 3.39
+|unit_pref                = Imperial
+
+<!-- Elevation -->
+|elevation_footnotes      = <ref name="GNIS"/>
+|elevation_ft             = 938
+
+<!-- Population -->
+|population_footnotes     = <ref name="Census-2020-Profile"/><ref name="Census-2020-QF"/>
+|population_as_of         = [[2020 United States census|2020]]
+|population_total         = 126587
+|pop_est_footnotes        = <ref name="USCensusEst2021"/>
+|pop_est_as_of            = 2021
+|population_est           = 125963
+|population_density_sq_mi = auto
+|population_density_km2   = auto
+|population_rank          = US: [[List of United States cities by population|222nd]]<br>KS: [[List of cities in Kansas|5th]]
+|population_urban         = 150003 (US: [[List of United States urban areas|217th]])
+|population_metro         = 232670 (US: [[Metropolitan statistical area|200th]])
+|population_demonym       = Topekan
+
+<!-- General information -->
+|timezone                 = [[Central Time Zone|CST]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|postal_code_type         = [[ZIP Code]]s
+|postal_code              = 66601–66612, 66614–66622, 66624–66626, 66628–66629, 66636–66637, 66642, 66647, 66652–66653, 66667, 66675, 66683, 66692, 66699<ref name="GR7">{{cite web|url=http://tools.usps.com/go/ZipLookupAction!input.action|title=USPS - Look Up a ZIP Code|access-date=February 15, 2012|publisher=United States Postal Service|year=2012|archive-url=https://web.archive.org/web/20190525091701/https://tools.usps.com/go/ZipLookupAction!input.action|archive-date=May 25, 2019|url-status=live}}</ref>
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 785|785]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 20-71000 
+|blank1_name              = [[Geographic Names Information System|GNIS ID]]
+|blank1_info              = 485655<ref name="GNIS">{{GNIS|485655}}</ref>
+|website                  = {{URL|https://www.topeka.org/|topeka.org}}
+}}
+
+'''Topeka''' ({{IPAc-en|t|ə|ˈ|p|iː|k|ə}} {{respell|tə|PEE|kə}}){{refn|{{Citation |last=Jones |first=Daniel |author-link=Daniel Jones (phonetician) |title=English Pronouncing Dictionary |editor=Peter Roach |editor2=James Hartmann |editor3=Jane Setter |place=Cambridge |publisher=Cambridge University Press |orig-year=1917 |year=2003 |isbn=3-12-539683-2 }}}}{{refn|{{MerriamWebsterDictionary|Topeka}}}} is the [[List of capitals in the United States|capital city]] of the [[U.S. state]] of [[Kansas]] and the [[county seat]] of [[Shawnee County, Kansas|Shawnee County]].<ref name="GNIS"/>  It is along the [[Kansas River]] in the central part of Shawnee County, in northeast Kansas, in the [[Central United States]].  As of the [[2020 United States census|2020 census]], the population of the city was 126,587.<ref name="Census-2020-Profile">{{cite web |title=Profile of Topeka, Kansas in 2020 |url=https://data.census.gov/cedsci/profile?g=1600000US2071000 |publisher=United States Census Bureau |access-date=June 8, 2022 |archive-url=https://web.archive.org/web/20220608195849/https://data.census.gov/cedsci/profile?g=1600000US2071000 |archive-date=June 8, 2022 |url-status=live}}</ref><ref name="Census-2020-QF">{{cite web |title=QuickFacts; Topeka, Kansas; Population, Census, 2020 & 2010 |url=https://www.census.gov/quickfacts/fact/table/topekacitykansas/POP010220 |publisher=United States Census Bureau |access-date=August 24, 2021 |archive-url=https://web.archive.org/web/20210824051048/https://www.census.gov/quickfacts/fact/table/topekacitykansas/POP010220 |archive-date=August 24, 2021 |url-status=live}}</ref>  The Topeka [[Topeka, Kansas metropolitan area|metropolitan statistical area]], which includes Shawnee, [[Jackson County, Kansas|Jackson]], [[Jefferson County, Kansas|Jefferson]], [[Osage County, Kansas|Osage]], and [[Wabaunsee County, Kansas|Wabaunsee]] Counties, had a population of 233,870 in the [[2010 United States Census|2010 census]].
+
+The city, laid out in 1854, was one of the [[Free-Stater (Kansas)|Free-State]] towns founded by [[Eli Thayer|Eastern antislavery men]] immediately after the passage of the [[Kansas–Nebraska Act|Kansas–Nebraska Bill]]. In 1857, Topeka was chartered as a city.
+
+The city is well known for the landmark U.S. Supreme Court case ''[[Brown v. Board of Education of Topeka]]'', which overturned ''[[Plessy v. Ferguson]]'' and declared [[Racial segregation in the United States|racial segregation]] in public schools to be unconstitutional.<ref>{{cite web |url=http://www.nps.gov/brvb/historyculture/upload/brown%20US%20supreme%20court.pdf |title=Supreme Court of the United States ''Brown v. Board of Education'', 347 U.S. 483 (1954) (USSC+) |access-date=May 7, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100529230121/http://www.nps.gov/brvb/historyculture/upload/brown%20US%20supreme%20court.pdf |archive-date=May 29, 2010 }}</ref>
+
+==History==
+
+===Name===
+The name "Topeka" is a [[Kansa-Osage]] word that means "place where we dig potatoes",<ref>Burn, Louis F. (1989) "A history of the Osage people", p. 579. Ciga Press, CA. {{ISBN|0-942574-09-5}}</ref> or "a good place to dig potatoes".{{citation needed|date=September 2024}} As a placename, Topeka was first recorded in 1826 as the Kansa name for what is now called the [[Kansas River]]. Topeka's founders chose the name in 1855 because it "was novel, of Indian origin, and [[wikt:euphonious|euphonious]] of sound".<ref name="barpot">{{cite web|url=http://www.barbburgess.com/research-topics/prairie-potato-topeka/topeka-s-roots-the-prairie-potato|title=Topeka's Roots: the Prairie Potato — Barbara Burgess|website=www.barbburgess.com|access-date=2007-03-11|archive-url=https://web.archive.org/web/20170927161628/http://www.barbburgess.com/research-topics/prairie-potato-topeka/topeka-s-roots-the-prairie-potato/|archive-date=2017-09-27|url-status=dead}}</ref><ref name="tcj">King, Dick (20 Nov. 2005). [http://findarticles.com/p/articles/mi_qn4179/is_20051120/ai_n15870227 {{"'}}Topeka' rooted in spuds".] ''Topeka Capital-Journal'' {{webarchive|url=https://web.archive.org/web/20140627095149/http://findarticles.com/p/articles/mi_qn4179/is_20051120/ai_n15870227 |date=2014-06-27 }}</ref>  Mixed-heritage [[Kaw people|Kansa]] Native American [[Joseph James and Joseph James, Jr.|Joseph James]], called Jojim, is credited with suggesting Topeka's name.<ref>Connelley, William E. "Origin of the Name of Topeka". Collections of the Kansas State Historical Society, Vol. 27, pp. 589–593</ref> Along with Cheyenne, Wyoming and Oklahoma City, Oklahoma, Topeka is one of three state capitals with an indigenous name in a state with an indigenous name.
+
+===Early history===
+{{see also|Timeline of Topeka, Kansas|History of Kansas}}
+For many [[millennia]], [[Native Americans in the United States|Native Americans]] inhabited the [[Great Plains]] of North America. From the 16th to the mid-18th centuries, the [[Kingdom of France]] laid claim to large parts of North America. In 1762, late in the [[French and Indian War]], France secretly ceded [[Louisiana (New France)|Louisiana]] west of the Mississippi River to [[Spain]] in the [[Treaty of Fontainebleau (1762)|Treaty of Fontainebleau]]. In 1800, Spain returned Louisiana to France. In 1803, the United States [[Louisiana Purchase|purchased the territory]], which included most of the land of [[History of Kansas|modern Kansas]], from France for $15 million (~${{Format price|{{Inflation|index=US-GDP|value=15000000|start_year=1803}}}} in {{Inflation/year|US-GDP}}).
+
+===19th century===
+In the 1840s, [[wagon train]]s made their way west from [[Independence, Missouri]], on a journey of {{convert|2000|mi|km|-3}}, following what came to be known as the [[Oregon Trail]]. About {{convert|60|mi|km|0}} west of [[Kansas City, Missouri]], three half-[[Kaw (tribe)|Kansas Indian]] sisters married to the [[French-Canadian]] Pappan brothers established a [[ferry]] service allowing travelers to cross the Kansas River at what is now Topeka.<ref>{{cite web|url=http://www.kshs.org/kansapedia/granddaughters-of-white-plume/12069|title=Granddaughters of White Plume - Kansapedia - Kansas Historical Society|website=www.kshs.org|access-date=2015-01-19|archive-url=https://web.archive.org/web/20150119194937/http://www.kshs.org/kansapedia/granddaughters-of-white-plume/12069|archive-date=2015-01-19|url-status=dead}}</ref> During the 1840s and into the 1850s, travelers could reliably find a way across the river, but little else was in the area.
+
+[[File:Topeka 1869.jpg|thumb|left|An 1869 bird's-eye illustration of Topeka]]
+
+In the early 1850s, traffic along the Oregon Trail was supplemented by trade on a new military road stretching from [[Fort Leavenworth]] through Topeka to the newly established [[Fort Riley]]. In 1854, after completion of the first cabin, nine men established the Topeka Town Association. The group included [[Cyrus K. Holliday]], an "idea man", who  became mayor of Topeka and founder of the [[Atchison, Topeka & Santa Fe Railroad]]. Soon, [[steamboat]]s were regularly docking at the Topeka landing, depositing [[meat]], [[lumber]], and [[flour]] and returning eastward with [[potato]]es, [[maize|corn]], and [[wheat]]. By the late 1860s, Topeka had become a commercial hub that offered many [[Victorian era]] comforts.
+
+Topeka was a bastion for the [[Free-Stater (Kansas)|free-state movement]] during the problems in Kansas Territory between abolitionist and proslavery settlers (the latter of whom controlled the legal government based out of [[Lecompton, KS|Lecompton]]). After southern forces barricaded Topeka in 1856, Topeka's leaders took actions to defend the free-state town from invasion. A militia was organized and stone fortifications were built on Quincy Street. The fortifications seemed to consist of low-lying earthwork levies strengthened by the presence of at least one cannon. The militia manned the fortifications until at least September 1856, when the siege around the town was lifted.<ref>Maj. Brian A. Riniker, "How United States Army Leaders at Fort Leavenworth Performed Peacekeeping Operations in Territorial Kansas" (MMAS thesis, U.S. Army Command and Staff College, Fort Leavenworth, Kans., 2007), pp. 74-5.</ref><ref>James L. King, ed., Church history of Shawnee County, Kansas, and Representative Citizens (Chicago:  Richmond & Arnold Publishers, 1905), online at http://history.rays-place.com/ks/sh-church.htm {{Webarchive|url=https://web.archive.org/web/20170202013102/http://history.rays-place.com/ks/sh-church.htm |date=2017-02-02 }} {{cite web |url=http://history.rays-place.com/ks/sh-church.htm |title=Church history of Topeka, Kansas |access-date=April 3, 2020}}{{dead link|date=April 2020|bot=medic}}{{cbignore|bot=medic}} .</ref>
+
+After a decade of abolitionist and pro-slavery conflict that gave the territory the nickname [[Bleeding Kansas]], it was admitted to the [[Union (American Civil War)|Union]] in 1861 as the 34th state. Topeka was chosen as the capital, with [[Charles L. Robinson|Charles Robinson]] as the first governor. In 1862, Cyrus K. Holliday donated a tract of land to the state for the construction of a state capitol. Construction of the [[Kansas State Capitol]] began in 1866. About 37 years were needed to build the capitol, first the east wing, and then the west wing, and finally the central building, using Kansas [[limestone]]. In fall 1864, a stockade fort, later named [[Fort Simple]], was built in the intersection of 6th and Kansas Avenues to protect Topeka, should Confederate forces then in Missouri decide to attack the city. It was abandoned by April 1865 and demolished in April 1867.
+
+[[File:Bird's-eye View of Topeka, KS.jpg|thumb|Bird's-eye view in 1909]]
+
+State officers first used the state capitol in 1869, moving from [[Constitution Hall (Topeka, Kansas)|Constitution Hall]], what is now 427-429 S. Kansas Avenue. Besides being used as the Kansas statehouse from 1863 to 1869, Constitution Hall is the site where antislavery settlers convened in 1855 to write the first of four state constitutions, making it the "Free State Capitol". The [[National Park Service]] recognizes Constitution Hall in Topeka as headquarters in the operation of the Lane Trail to Freedom on the [[Underground Railroad]], the chief slave escape passage and free-trade road.
+
+Although the drought of 1860 and the ensuing period of the [[American Civil War|Civil War]] slowed the growth of Topeka and the state, Topeka kept pace with the revival and period of growth Kansas enjoyed from the close of the war in 1865 until 1870. In the 1870s, many former slaves, known as Exodusters, settled on the east side of Lincoln Street between Munson and 12th Streets. The area was known as Tennessee Town because so many of them were from the Volunteer State. Charles Sheldon, pastor of the Central Congregational Church, organized the first African American kindergarten west of the Mississippi in 1893.<ref>Kansas Historical Society, http://www.kansasmemory.org/item/2231 {{Webarchive|url=https://web.archive.org/web/20110728101416/http://www.kansasmemory.org/item/2231 |date=2011-07-28 }}</ref>
+
+Lincoln College, now [[Washburn University]], was established in 1865 in Topeka by a charter issued by the State of Kansas and the General Association of Congregational Ministers and Churches of Kansas. In 1869, the railway started moving westward from Topeka, where general offices and machine shops of the Atchison, Topeka & Santa Fe Railroad system were established in 1878.
+
+During the late 1880s, Topeka passed through a boom period that ended in disaster. Vast [[speculation]] on town lots occurred. The 1889 bubble burst, and many investors were ruined. Topeka, however, doubled in population during the period, and was able to weather the depressions of the 1890s.
+
+Early in the 20th century, another kind of boom, this time the [[automobile]] industry, took off, and numerous pioneering companies appeared and disappeared. Topeka was not left out. The [[Smith Automobile Company]] was founded there in 1902, lasting until 1912.
+
+===20th century===
+[[File:Topeka, KS Overland Station (511631948).jpg|thumb|[[Great Overland Station]], a former rail station, opened in 1927]]
+[[File:Kansas - Topeka - NARA - 23940269 (cropped).jpg|thumb|right|Rail yards in 1944]]
+Home to the first African-American kindergarten west of the Mississippi River, Topeka was the home of Oliver Brown, the named plaintiff in ''[[Brown v. Board of Education]]'', which was the case responsible for eliminating the standard of "separate but equal", and requiring [[racial integration]] in American public schools. In 1960, the Census Bureau reported Topeka's population as 91.8% White and 7.7% Black.<ref name=census>{{cite web|title=Kansas - Race and Hispanic Origin for Selected Cities and Other Places: Earliest Census to 1990 |publisher=U.S. Census Bureau |url=https://www.census.gov/population/www/documentation/twps0076/twps0076.html |url-status=dead |archive-url=https://web.archive.org/web/20120812191959/http://www.census.gov/population/www/documentation/twps0076/twps0076.html |archive-date=August 12, 2012 }}</ref>
+
+At the time the suit was filed, only the elementary schools were segregated in Topeka, and [[Topeka High School]] had been fully integrated since its inception in 1871. Furthermore, Topeka High School was the only public high school in the city of Topeka. Other rural high schools existed, such as Washburn Rural High School—created in 1918—and Seaman High School—created in 1920. Highland Park High School became part of the Topeka school system in 1959 along with the opening of Topeka West High School in 1961. A Catholic high school —Assumption High School, later renamed Capitol Catholic High School, then in 1939 again renamed, to [[Hayden High School (Topeka, Kansas)|Hayden High School]] after its founder, Father Francis Hayden — also served the city beginning in 1911.<ref>{{Cite web|url=http://www.haydenhigh.org/History/history.htm|archive-url=https://web.archive.org/web/20060618192907/http://www.haydenhigh.org/History/history.htm|url-status=dead|title=Hayden History<!-- Bot generated title -->|archive-date=June 18, 2006}}</ref>
+
+Monroe Elementary, a segregated school that figured in the historic ''Brown v. Board of Education'' decision, through the efforts of the Brown Foundation working with the Kansas Congressional delegation place in the early 1990s, is now Brown v. Board of Education National Historic Site. The Brown Foundation is largely responsible for the content of the interpretive exhibits at the historic site. The [[National Historic Sites (United States)|National Historic Site]] was opened by President [[George W. Bush]] on May 17, 2004.
+
+Topeka has struggled with the burden of racial discrimination even after ''Brown''. New lawsuits attempted unsuccessfully to force suburban school districts that ring the city to participate in racial integration with the inner-city district. In the late 1980s, a group of citizens calling themselves the Task Force to Overcome Racism in Topeka formed to address the problem in a more organized way.
+
+On June 8, 1966, Topeka [[1966 Topeka tornado|was struck by a tornado]] rated F5 on the [[Fujita scale]]. It started on the southwest side of town, moving northeast, passing over a local landmark named Burnett's Mound. According to a local Indian legend, this mound was thought to protect the city from tornadoes if left undisturbed. A few years prior to the tornado strike, development began near the mound, including a water tank constructed near the top of the mound against the warnings of local Native Americans. The tornado went on to rip through the city, hitting the downtown area and Washburn University. Total repair cost was put at $100 million, making it, at the time, one of the most costly tornadoes in American history. Even to this day, with inflation factored in, the Topeka tornado stands as one of the most costly on record. It also helped bring to prominence future CBS and A&E broadcaster [[Bill Kurtis]], who became well known for his televised admonition to "...take cover, for God's sake, take cover!" on [[WIBW-TV]] during the tornado. (The city is home of a [[National Weather Service]] Forecast Office that serves 23 counties in north-central, northeast, and east-central Kansas).
+
+[[File:Topeka, Kansas 23 September 1980.jpg|thumb|Topeka in 1980]]
+
+Topeka recovered from the 1966 tornado and has sustained steady economic growth. Washburn University, which lost several historic buildings, received financial support from the community and alumni to rebuild many school facilities. Today, university facilities offer more than one million square feet of modern academic and support space.
+
+In 1974, [[Topeka Regional Airport|Forbes Air Force Base]] closed and more than 10,000 people left Topeka, influencing the city's growth patterns for years to come. During the 1980s, Topeka citizens voted to build a new airport and convention center and to change the form of city government. [[West Ridge Mall]] opened in 1988, replacing the [[White Lakes Mall]], which opened in 1964.
+
+[[File:Topeka night skyline.jpg|thumb|Downtown Topeka skyline at night, seen from the [[Kansas River]] (2005)]]
+
+In 1989, Topeka became a motorsports mecca with the opening of [[Heartland Park Topeka]]. The Topeka Performing Arts Center opened in 1991. In the early 1990s, the city experienced business growth with Reser's Fine Foods locating in Topeka and expansions for Santa Fe and Hill's Pet Nutrition.
+
+During the 1990s, voters approved bond issues for public school improvements, including magnet schools, technology, air conditioning, classrooms, and a sports complex. Voters also approved a quarter-cent sales tax for a new law-enforcement center, and in 1996, approved an extension of the sales tax for the East Topeka Interchange connecting the Oakland Expressway, K-4, I-70, and the Kansas Turnpike. During the 1990s, Shawnee County voters approved tax measures to expand the Topeka and Shawnee County Public Library. The Kansas Legislature and governor also approved legislation to replace the majority of the property tax supporting Washburn University with a countywide sales tax.
+
+===21st century===
+In 2000, the citizens again voted to extend the quarter-cent sales tax, this time for the economic development of Topeka and Shawnee County. In August, 2004, Shawnee County citizens voted to repeal the 2000 quarter-cent sales tax and replace it with a 12-year, half-cent sales tax designated for economic development, roads, and bridges. Each year, the sales tax provides $5 million designated for business development and job creation incentives, and $9 million for roads and bridges. Planning is under way to continue to redevelop areas along the Kansas River, which runs west to east through Topeka. In the Kansas River Corridor through the center of town, downtown Topeka has experienced apartment and condominium loft development, and façade and streetscape improvements.
+
+====Google, Kansas====
+On March 1, 2010, Topeka Mayor [[Bill Bunten]] issued a proclamation calling for Topeka to be known for the month of March as "Google, Kansas, the capital city of [[Fiber Optics|fiber optics]]".<ref>[http://cjonline.com/news/local/2010-03-01/topeka_to_be_google_kansas Topeka to be Google, Kansas] {{Webarchive|url=https://web.archive.org/web/20110807073029/http://cjonline.com/news/local/2010-03-01/topeka_to_be_google_kansas |date=2011-08-07 }}, Topeka Capital-Journal, March 1, 2010</ref> The name change came from Ryan Gigous, who wanted to "re-brand" the city with a simple gesture.<ref>Hollingsworth, Barbara (April 1, 2010). [http://cjonline.com/news/legislature/2010-04-01/blog_all_things_google_topeka "Blog: All things Google, Topeka"] {{Webarchive|url=https://web.archive.org/web/20110606095515/http://cjonline.com/news/legislature/2010-04-01/blog_all_things_google_topeka |date=2011-06-06 }}. ''[[The Topeka Capital-Journal]]''.</ref> This was to help "support continuing efforts to bring [[Google Fiber|Google's fiber experiment]]" to Topeka, though it was not a legal name change. Lawyers advised the city council and mayor against an official name change.<ref>Siegler, MG. [https://techcrunch.com/2010/03/01/google-kansas/ We're Not In Kansas Anymore. Well, We Are — Google, Kansas.] {{Webarchive|url=https://web.archive.org/web/20161012033456/https://techcrunch.com/2010/03/01/google-kansas/ |date=2016-10-12 }} ''[[TechCrunch]].'' 1 March 2010.</ref> [[Google]] jokingly announced it would [[Google hoaxes#Google & Topeka, Kansas Switch Places|change its name to Topeka]] to "honor that moving gesture" on April 1, 2010 ([[April Fools' Day]]) and changed its home page to say Topeka.<ref>{{cite web |url=http://googleblog.blogspot.com/2010/04/different-kind-of-company-name.html |title=A different kind of company name |publisher=Google, Inc. |access-date=2010-04-01 |archive-url=https://web.archive.org/web/20100530151231/http://googleblog.blogspot.com/2010/04/different-kind-of-company-name.html |archive-date=2010-05-30 |url-status=live }}</ref> In its official blog, Google announced this change thus affected all of its services as well as its culture, e.g. "Googlers" to "Topekans", "Project Virgle" to "Project Vireka", and proper usage of "Topeka" as an adjective and not a verb, to avoid the trademark becoming [[Genericized Trademark|genericized]].<ref>[http://googleblog.blogspot.com/2010/04/different-kind-of-company-name.html The Google Official Blog] {{Webarchive|url=https://web.archive.org/web/20100530151231/http://googleblog.blogspot.com/2010/04/different-kind-of-company-name.html |date=2010-05-30 }}. 1 April 2010.</ref>
+
+==Geography==
+[[File:Topekakansasnasa.jpg|thumb|Aerial image of Topeka (2003)]]
+
+Topeka is in north east Kansas at the intersection of [[Interstate 70 (Kansas)|I-70]] and [[U.S. Highway 75 (Kansas)|U.S. Highway 75]]. It is the origin of [[Interstate 335 (Kansas)|I-335]] which is a portion of the [[Kansas Turnpike]] running from Topeka to [[Emporia, Kansas]]. Topeka is also on [[U.S. Highway 24 (Kansas)|U.S. Highway 24]] (about {{Convert|50|mi|km|disp=sqbr}} east of [[Manhattan, Kansas]]) and [[U.S. Highway 40 (Kansas)|U.S. Highway 40]] (about {{Convert|30|mi|km|disp=sqbr}} west of [[Lawrence, Kansas]]). US&nbsp;40 is coincident with I-70 west from Topeka. According to the [[United States Census Bureau]], the city has a total area of {{convert|61.47|sqmi|sqkm|2|abbr=on}}, of which {{convert|1.30|sqmi|sqkm|2|abbr=on}} are covered by water.<ref name="Gazetteer files">{{cite web|title=US Gazetteer files 2010 |url=https://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt |publisher=[[United States Census Bureau]] |access-date=2012-07-06 |url-status=dead |archive-url=https://web.archive.org/web/20120702145235/http://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt |archive-date=2012-07-02 }}</ref>
+
+===Climate===
+Topeka has a [[humid continental]] climate ([[Köppen climate classification]] ''Dfa'') or a [[subtropical]] climate (Köppen ''Cfa''), with hot, somewhat humid summers and cool to cold, fairly dry winters, and is in [[Hardiness zone|USDA plant hardiness zone]] 6a.<ref>{{cite web|title=USDA Plant Hardiness Zone Map|url=http://planthardiness.ars.usda.gov/PHZMWeb/#|archive-date=February 27, 2014|access-date=2020-07-12|publisher=Agricultural Research Center, PRISM Climate Group Oregon State University|archive-url=https://web.archive.org/web/20140227032333/http://planthardiness.ars.usda.gov/PHZMWeb/|url-status=dead}}</ref> Over the course of a year, the monthly daily average temperature ranges from {{convert|30.2|°F|1}} in January to {{convert|79.8|°F|1}} in July. The maximum temperature reaches {{convert|90|°F}} an average of 49.6 afternoons per year and reaches {{convert|100|°F}} an average of 6.0 afternoons per year. The minimum temperature falls below {{convert|0|°F}} an average of 2.7 mornings per year, and 21.7 afternoons per year stay below freezing.<ref name = NOAA/> The average window for freezing temperatures is October 15 through April 17.<ref name = NOAA/>
+
+The area receives about {{convert|36.53|in}} of precipitation during a typical year, with the largest share being received in May and June—the April through June period averages 32.8 days of measurable precipitation. Generally, the spring and summer have the most rainfall, with autumn and winter being fairly dry. During a typical year, the total amount of precipitation may vary from {{convert|25|to|47|in|mm|-1}}. Much of the rainfall is delivered by thunderstorms. These can be severe, producing frequent [[lightning]], large [[hail]], and sometimes tornadoes. An average of 100 days of measurable precipitation occur per year. Winter snowfall is light, as is the case in most of the state, as a result of the dry, sunny weather patterns that dominate Kansas winters, which do not allow for sufficient moisture for significant snowfall. Winter snowfall averages {{convert|17.1|in|cm|abbr=on}}. Measurable (≥{{convert|0.1|in|cm|disp=or|abbr=on}}) snowfall occurs an average of 12 days per year, with at least {{convert|1.0|in|cm|abbr=on}} of snow being received on five of those days. Snow depth of at least an inch occurs an average of 17.7 days per year.<ref name = NOAA/>
+
+{{Weather box
+|location = Topeka, Kansas ([[Topeka Regional Airport]]), 1991–2020 normals, extremes 1887–present
+|single line = Yes
+
+|Jan record high F = 78
+|Feb record high F = 84
+|Mar record high F = 93
+|Apr record high F = 97
+|May record high F = 103
+|Jun record high F = 109
+|Jul record high F = 114
+|Aug record high F = 113
+|Sep record high F = 110
+|Oct record high F = 97
+|Nov record high F = 85
+|Dec record high F = 77
+
+|Jan avg record high F = 64.3
+|Feb avg record high F = 70.0
+|Mar avg record high F = 79.9
+|Apr avg record high F = 86.2
+|May avg record high F = 90.8
+|Jun avg record high F = 95.8
+|Jul avg record high F = 100.7
+|Aug avg record high F = 100.2
+|Sep avg record high F = 94.7
+|Oct avg record high F = 88.1
+|Nov avg record high F = 75.1
+|Dec avg record high F = 65.9
+|year avg record high F = 102.3
+
+|Jan high F = 40.4
+|Feb high F = 45.7
+|Mar high F = 57.1
+|Apr high F = 67.0
+|May high F = 76.4
+|Jun high F = 85.8
+|Jul high F = 90.2
+|Aug high F = 88.9
+|Sep high F = 81.0
+|Oct high F = 68.9
+|Nov high F = 55.2
+|Dec high F = 43.8
+|year high F =
+
+|Jan mean F = 30.2
+|Feb mean F = 34.9
+|Mar mean F = 45.6
+|Apr mean F = 55.5
+|May mean F = 65.7
+|Jun mean F = 75.5
+|Jul mean F = 79.8
+|Aug mean F = 77.9
+|Sep mean F = 69.2
+|Oct mean F = 57.0
+|Nov mean F = 44.2
+|Dec mean F = 33.9
+|year mean F =
+
+|Jan low F = 20.0
+|Feb low F = 24.2
+|Mar low F = 34.1
+|Apr low F = 43.9
+|May low F = 55.0
+|Jun low F = 65.2
+|Jul low F = 69.3
+|Aug low F = 66.8
+|Sep low F = 57.5
+|Oct low F = 45.1
+|Nov low F = 33.1
+|Dec low F = 24.0
+|year low F =
+
+|Jan avg record low F = -0.1
+|Feb avg record low F = 5.2
+|Mar avg record low F = 15.1
+|Apr avg record low F = 27.5
+|May avg record low F = 38.8
+|Jun avg record low F = 52.2
+|Jul avg record low F = 57.9
+|Aug avg record low F = 54.8
+|Sep avg record low F = 41.4
+|Oct avg record low F = 27.7
+|Nov avg record low F = 16.8
+|Dec avg record low F = 6.0
+|year avg record low F = -4.0
+
+|Jan record low F = -23
+|Feb record low F = -25
+|Mar record low F = -7
+|Apr record low F = 10
+|May record low F = 26
+|Jun record low F = 36
+|Jul record low F = 43
+|Aug record low F = 40
+|Sep record low F = 29
+|Oct record low F = 16
+|Nov record low F = -5
+|Dec record low F = -26
+
+|precipitation colour = green
+|Jan precipitation inch = 0.89
+|Feb precipitation inch = 1.31
+|Mar precipitation inch = 2.25
+|Apr precipitation inch = 3.81
+|May precipitation inch = 5.17
+|Jun precipitation inch = 4.92
+|Jul precipitation inch = 3.99
+|Aug precipitation inch = 4.55
+|Sep precipitation inch = 3.52
+|Oct precipitation inch = 2.85
+|Nov precipitation inch = 1.78
+|Dec precipitation inch = 1.49
+|year precipitation inch =
+
+|unit precipitation days = 0.01 in
+|Jan precipitation days = 5.9
+|Feb precipitation days = 6.0
+|Mar precipitation days = 8.4
+|Apr precipitation days = 10.0
+|May precipitation days = 11.9
+|Jun precipitation days = 10.9
+|Jul precipitation days = 8.8
+|Aug precipitation days = 8.8
+|Sep precipitation days = 7.5
+|Oct precipitation days = 7.9
+|Nov precipitation days = 6.2
+|Dec precipitation days = 5.8
+
+|Jan snow inch = 4.6
+|Feb snow inch = 5.2
+|Mar snow inch = 1.7
+|Apr snow inch = 0.1
+|May snow inch = 0.0
+|Jun snow inch = 0.0
+|Jul snow inch = 0.0
+|Aug snow inch = 0.0
+|Sep snow inch = 0.0
+|Oct snow inch = 0.4
+|Nov snow inch = 1.0
+|Dec snow inch = 4.1
+|year snow inch =
+
+|unit snow days = 0.1 in
+|Jan snow days = 3.7
+|Feb snow days = 2.8
+|Mar snow days = 1.3
+|Apr snow days = 0.2
+|May snow days = 0.0
+|Jun snow days = 0.0
+|Jul snow days = 0.0
+|Aug snow days = 0.0
+|Sep snow days = 0.0
+|Oct snow days = 0.2
+|Nov snow days = 1.0
+|Dec snow days = 2.8
+|year snow days = 12.0
+
+|source 1 = NOAA<ref name = NOAA>
+{{cite web
+|url = https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00013996&format=pdf&dataTypes=MLY-TMAX-NORMAL,MLY-TMIN-NORMAL,MLY-TAVG-NORMAL,MLY-PRCP-NORMAL,MLY-SNOW-NORMAL
+|publisher = National Oceanic and Atmospheric Administration
+|title = U.S. Climate Normals Quick Access – Station: Topeka MUNI AP, KS
+|access-date = May 11, 2023
+}}
+</ref>
+|source 2 = National Weather Service<ref name = NOWData>
+{{cite web
+|url = https://www.weather.gov/wrh/climate?wfo=top
+|publisher = National Weather Service
+|title = NOAA Online Weather Data – NWS Topeka
+|access-date = May 11, 2023
+}}
+</ref>
+}}
+
+==Demographics==
+{{US Census population
+|1860= 759
+|1870= 5790
+|1880= 15452
+|1890= 31007
+|1900= 33608
+|1910= 43684
+|1920= 50022
+|1930= 64120
+|1940= 67833
+|1950= 78791
+|1960= 119484
+|1970= 125011
+|1980= 115266
+|1990= 119883
+|2000= 122377
+|2010= 127473
+|2020= 126587
+|estyear= 2021
+|estimate= 125963
+|estref= <ref name="USCensusEst2021">{{cite web|url=https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html |date=May 29, 2022|title=City and Town Population Totals: 2020-2021|publisher=United States Census Bureau|access-date=May 31, 2022}}</ref>
+|align-fn= center
+|footnote= U.S. Decennial Census<ref>{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=U.S. Decennial Census|publisher=Census.gov|access-date=May 30, 2013}}</ref><br/>2010-2020<ref name="Census-2020-QF"/>
+}}
+
+===2020 census===
+
+{| class="wikitable" style="text-align:center;"
+|+'''Topeka, Kansas – racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop. 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Topeka city, Kansas|url=https://data.census.gov/table?g=160XX00US2071000&tid=DECENNIALSF12000.P004|publisher=[[United States Census Bureau]]}}</ref>
+!Pop. 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Topeka city, Kansas|url=https://data.census.gov/table?q=p2&g=160XX00US2071000&tid=DECENNIALPL2010.P2|publisher=[[United States Census Bureau]]}}</ref>
+!{{partial|Pop. 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Topeka city, Kansas|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US2071000&tid=DECENNIALPL2020.P2|publisher=[[United States Census Bureau]]}}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|91,869
+|88,839
+|style='background: #ffffe6; |81,243
+|75.07%
+|69.69%
+|style='background: #ffffe6; |64.18%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|13,941
+|13,775
+|style='background: #ffffe6; |12,574
+|11.39%
+|10.81%
+|style='background: #ffffe6; |9.93%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|1,413
+|1,374
+|style='background: #ffffe6; |1,169
+|1.15%
+|1.08%
+|style='background: #ffffe6; |0.92%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|1,300
+|1,687
+|style='background: #ffffe6; |2,043
+|1.06%
+|1.32%
+|style='background: #ffffe6; |1.61%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|43
+|86
+|style='background: #ffffe6; |135
+|0.04%
+|0.07%
+|style='background: #ffffe6; |0.11%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|160
+|132
+|style='background: #ffffe6; |458
+|0.13%
+|0.10%
+|style='background: #ffffe6; |0.36%
+|-
+|[[Multiracial Americans|Mixed race or multiracial]] (NH)
+|2,804
+|4,554
+|style='background: #ffffe6; |8,216
+|2.29%
+|3.57%
+|style='background: #ffffe6; |6.49%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|10,847
+|17,026
+|style='background: #ffffe6; |20,749
+|8.86%
+|13.36%
+|style='background: #ffffe6; |16.39%
+|-
+|'''Total'''
+|'''122,377'''
+|'''127,473'''
+|style='background: #ffffe6; |'''126,587'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+The [[2020 United States census]]<ref>{{Cite web |title=Explore Census Data |url=https://data.census.gov| access-date=2023-12-15 |website=data.census.gov}}</ref> counted 126,587 people, 54,092 households, and 30,361 families in Topeka. The population density was 2,060.3 per square mile (795.4/km{{sup|2}}). There were 60,489 housing units at an average density of 984.5 per square mile (380.1/km{{sup|2}}).
+
+The U.S. Census accounts for race by two methodologies. "Race alone" and "Race alone less Hispanics" where Hispanics are delineated separately as if a separate race.
+
+The racial makeup (including Hispanics in the racial counts) was 68.44% (86,642) [[White (U.S. Census)|white]], 10.44% (13,218) [[African Americans|black or African-American]], 1.36% (1,723) [[Native American (U.S. Census)|Native American]], 1.64% (2,073) [[Asian (U.S. Census)|Asian]], 0.12% (153) [[Pacific Islander (U.S. Census)|Pacific Islander]], 6.09% (7,707) from [[Race (United States Census)|other races]], and 11.91% (15,071) from two or more races.<ref>{{Cite web|title=P1: Race – 2020: DEC Redistricting Data (PL 94-171) – Topeka city, Kansas|url=https://data.census.gov/table/DECENNIALPL2020.P1?q=p2&g=160XX00US2071000|publisher=[[United States Census Bureau]]}}</ref>
+
+The racial and ethnic makeup (where Hispanics are excluded from the racial counts and placed in their own category) was 64.18% (81,243) [[Non-Hispanic whites|White (non-Hispanic)]], 9.93% (12,574) [[African Americans|Black (non-Hispanic)]], 0.92% (1,169) [[Native Americans in the United States|Native American (non-Hispanic)]] or [[Alaska Natives|Alaskan Native (non-Hispanic)]], 1.61% (2,043) [[Asian Americans|Asian (non-Hispanic)]], 0.11% (135) [[Pacific Islander Americans|Pacific Islander (non-Hispanic)]], 0.36% (458) from [[Race (United States Census)|other race (non-Hispanic)]], 6.49% (8,216) [[Multiracial Americans|Multiracial]], and 16.39% (20,749) [[Hispanic and Latino Americans|Hispanic or Latino]].<ref name=2020CensusP2/>
+
+Of the 54,092 households, 24.1% had children under the age of 18; 38.4% were married couples living together; 34.9% had a female householder with no husband present. 37.3% of households consisted of individuals and 15.3% had someone living alone who was 65 years of age or older. The average household size was 2.2 and the average family size was 3.0.
+
+22.7% of the population was under the age of 18, 9.3% from 18 to 24, 25.3% from 25 to 44, 24.0% from 45 to 64, and 18.0% who were 65 years of age or older. The median age was 38.1 years. For every 100 females, the population had 91.0 males. For every 100 females ages 18 and older, there were 87.3 males.
+
+The 2016-2020 5-year [[American Community Survey]]<ref>{{Cite web |title=Explore Census Data |url=https://data.census.gov|access-date=2023-12-15|website=data.census.gov}}</ref> estimates show that the median household income was $49,647 (with a margin of error of +/- $1,860) and the median family income $64,454 (+/- $1,541). Males had a median income of $36,601 (+/- $1,727) versus $29,303 (+/- $1,097) for females. The median income for those above 16 years old was $32,634 (+/- $944). Approximately, 9.5% of families and 13.9% of the population were below the [[poverty line]], including 16.7% of those under the age of 18 and 7.8% of those ages 65 or over.
+
+===2010 census===
+As of the [[census]]<ref name="wwwcensusgov">{{cite web|title=U.S. Census website|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=July 6, 2012}}</ref> of 2010, the city had 127,473 people, 53,943 households, and 30,707 families.<ref name="Census2010">{{cite web|title=2010 City Population and Housing Occupancy Status |url=http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_PL_GCTPL2.ST13&prodType=table |publisher=U.S. Census Bureau |access-date=March 6, 2011 }}{{dead link|bot=medic|date=April 2020}}{{cbignore|bot=medic}}</ref> The [[population density]] was {{convert|2118.5|PD/sqmi|PD/km2|1}}. The  59,582 housing units averaged {{convert|990.2|/sqmi|/km2|1|abbr=on}}. The city's [[Race (U.S. Census)|racial makeup]] was 76.2% White, 11.3% African American, 1.4% Native American, 1.3% Asian, 4.8% from other races, and 4.9% from two or more races. Hispanics or Latinos of any race were 13.4% of the population. [[Non-Hispanic Whites]] were 69.7% of the population in 2010,<ref name=census /> down from 86.3% in 1970.<ref name="census" />
+
+Of the 53,943 households, 29.5% had children under 18 living with them, 37.9% were married couples living together, 14.2% had a female householder with no husband present, 4.8% had a male householder with no wife present, and 43.1% were not families. About 35.9% of all households were made up of individuals, and 12% had someone living alone who was 65 or older. The average household size was 2.29, and the average family size was 2.99.
+
+The city's age distribution was 24.4% under age 18, 9.8% from 18 to 24; 26.1%  from 25 to 44, 25.4% from 45 to 64, and 14.3%  were 65 or older. The median age in the city was 36 years. The city's gender makeup was 47.8% male and 52.2% female.
+
+===2000 census===
+As of the [[2000 United States Census|2000 census]], 122,377 people, 52,190 households, and 30,687 families were residing in the city. The population density was {{convert|2,185.0|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 56,435 housing units at an average density of {{convert|1,007.6|/sqmi|/km2|sp=us|adj=off}}.  The city's [[Race (United States Census)|racial makeup]] was 78.5% [[White American|White]], 11.7%  [[African American]], 1.31% [[Native Americans in the United States|Native American]], 1.09% [[Asian American|Asian]],  4.10% from other races, and 3.26% from [[Multiracial|two or more races]]. Hispanics or [[Latinos|Latino]]s of any race were 8.9% of the population.
+
+Of the 52,190 [[household]]s,  28.0% had children under 18 living with them, 41.8% were married couples living together, 13.1% had a female householder with no husband present, and 41.2% were not families. About 35.0% of all households were made up of individuals, and 11.7% had someone living alone who was 65 or older. The average household size was 2.27, and the average family size was 2.94.
+
+About 24.3% of the city's population was under age 18, 9.9% was from age 18 to 24, 28.9% was from age 25 to 44, 21.9% was from age 45 to 64, and 15.1% was age 65 or older. The median age was 36 years. For every 100 females, there were 92.4 males. For every 100 females age 18 and over, there were 88.4 males.
+
+As of 2000, the city's [[median household income]] was $35,928, and the median family income was $45,803. Males had a median income of $32,373 versus $25,633 for females. The city's [[per capita income]] was $19,555. About 8.5% of families and 12.4% of the population were below the [[poverty line]], including 16.7% of those under age 18 and 8.2% of those age 65 or over.
+
+===Crime===
+{{Infobox UCR
+|city_name= Topeka
+|year= 2018
+|homicide= 24
+|rape= 47
+|robbery= 202
+|aggravated_assault= 345
+|violent_crime= 560
+|burglary= 910
+|larceny_theft= 4,308
+|motor_vehicle_theft= 657
+|arson= 11
+|property_crime= 6,494
+|source_url= https://ucr.fbi.gov/crime-in-the-u.s/2017/crime-in-the-u.s.-2017/tables/table-8/table-8-state-cuts/kansas.xls
+|notes= 2017 population: 126,624
+}}
+
+Although Topeka experienced problems with crime in the 1990s, the city's crime rates have improved since. <!-- weasel The city is now breaking trends when it comes to violent crime, so much so it has gained the interest of researchers from Michigan State University.  Since 2000, most cities with a population greater than 100,000 have seen an increase in violent crimes. Topeka's crime rates are decreasing. Researchers credit good communication between law enforcement agencies, informed media outlets, and strong community involvement for Topeka's success. Topeka was one of four cities, along with [[Chicago]], [[Tampa]], and [[El Monte, California]], that the researchers studied.--> Overall, crime in Topeka was down nearly 18% in the first half of 2008, compared with the same period of 2007. Topeka police reported a 6.4% drop in crime from 2007 to 2008, including significant reductions in business robberies and aggravated assaults and batteries, as well as thefts.<ref>{{cite web |last=Elliott |first=Kevin |url=http://cjonline.com/stories/012209/loc_380163829.shtml |title=Crime falls 6.4% in Topeka |publisher=CJOnline.com |date=2009-01-22 |access-date=2013-06-15 |archive-url=https://web.archive.org/web/20100202130921/http://cjonline.com/stories/012209/loc_380163829.shtml |archive-date=2010-02-02 |url-status=dead }}</ref>
+
+On October 11, 2011, the Topeka city council agreed to repeal the ordinance banning [[domestic violence]] in an effort to force the Shawnee County District Attorney to prosecute the cases.<ref name="cjonline.com">{{cite news |last=Hrenchir |first=Tim |url=http://cjonline.com/news/2011-10-11/city-repeals-ordinance-banning-domestic-battery#.TpY_erIlR2I |title=City repeals ordinance banning domestic battery |newspaper=[[The Topeka Capital-Journal]] |date=2011-10-11 |access-date=2013-06-15 |archive-url=https://web.archive.org/web/20131105033812/http://cjonline.com/news/2011-10-11/city-repeals-ordinance-banning-domestic-battery#.TpY_erIlR2I |archive-date=2013-11-05 |url-status=live }}</ref> Shawnee County District Attorney [[Chad Taylor (Kansas)|Chad Taylor]] said the DA "would no longer prosecute misdemeanors committed in Topeka, including domestic battery, because his office could no longer do so after county commissioners cut his budget by 10%".<ref name="cjonline.com" /> The next day, Taylor said his office would "commence the review and filing of misdemeanors decriminalized by the City of Topeka".<ref>{{cite web |last=Capital |first=The |url=http://cjonline.com/news/2011-10-12/taylor-will-again-prosecute-city-cases#.TpY_dLIlR2I |title=Taylor will again prosecute city cases |publisher=CJOnline.com |date=October 12, 2011 |access-date=June 15, 2013 |archive-url=https://web.archive.org/web/20131105032256/http://cjonline.com/news/2011-10-12/taylor-will-again-prosecute-city-cases#.TpY_dLIlR2I |archive-date=November 5, 2013 |url-status=live }}</ref> The same day, 17% of the employees in the district attorney's office were announced to be laid off.<ref>{{cite web|last=Fry |first=Steve |url=http://cjonline.com/news/2011-10-12/taylor-staff-layoffs-anger-da#.TpY_irIlR2I |archive-date=July 10, 2012 |archive-url=https://archive.today/20120710195849/http://cjonline.com/news/2011-10-12/taylor-staff-layoffs-anger-da%23.TpY_irIlR2I |url-status=dead|title=Staff layoffs anger D.A. |publisher=CJOnline.com |date=October 12, 2011 |access-date=June 15, 2013}}</ref>
+
+===Religion===
+{{more citations needed|date=December 2014}}
+Topeka is sometimes cited as the home of [[Pentecostalism]], as it was the site of [[Charles Fox Parham]]'s [[Bethel Bible College]], where [[glossolalia]] was first claimed as the evidence of a spiritual experience referred to as the [[baptism of the Holy Spirit]] in 1901. It is also the home of Reverend [[Charles Sheldon]], author of ''[[In His Steps]]'', and was the site where the famous question "[[What would Jesus do?]]" originated in a sermon of Sheldon's at Central Congregational Church.
+
+The First Presbyterian Church in Topeka is one of the few churches in the U.S. to have its sanctuary completely decorated with [[Louis Comfort Tiffany|Tiffany]] stained glass (another is St. Luke's United Methodist in [[Dubuque, Iowa]]; another is the Emmanuel Episcopal Church in [[Cumberland, Maryland]]).
+
+The Roman Catholic population is large, and the city is home to nine Roman Catholic parishes, five of which feature elementary schools. [[Grace Episcopal Cathedral (Topeka, Kansas)|Grace Cathedral]] of the [[Episcopal Diocese of Kansas]] is a large [[Gothic Revival]] structure in the city.
+
+Topeka also has a claim in the history of the [[Baháʼí Faith]] in Kansas. Not only does the city have the oldest continuous Baháʼí community in Kansas (beginning in 1906), but the community also has roots to the first Baháʼí community in Kansas, in Enterprise, in 1897. This was the second Baháʼí community in the Western Hemisphere.
+
+Topeka is home of the [[Westboro Baptist Church]], a [[hate group]] according to the [[Southern Poverty Law Center]].<ref>{{cite web|url=http://www.splcenter.org/get-informed/intelligence-files/groups/westboro-baptist-church|title=Westboro Baptist Church|access-date=2014-03-21|archive-url=https://web.archive.org/web/20110306095813/http://www.splcenter.org/get-informed/intelligence-files/groups/westboro-baptist-church|archive-date=2011-03-06|url-status=live}}</ref> The [[homophobic]] church has garnered worldwide media attention for picketing the funerals of U.S. servicemen and women for what church members claim as "necessary to combat the fight for equality for gays and lesbians". They have sometimes successfully brought lawsuits against the city of Topeka. Directly across the street from them is the [[Equality House]], a pro-LGBT home where volunteers of [[Planting Peace]] can stay. It is painted in rainbow colors and serves as a home for social workers caring for the LGBT+ community.<ref>{{Cite web|date=2014-09-23|title='We are always cordial': Westboro Baptists and 'Equality House' forge bizarre neighbourhood truce|url=http://www.theguardian.com/world/2014/sep/23/westboro-baptist-church-equality-house-kansas-truce|access-date=2021-03-04|website=The Guardian|language=en}}</ref>
+
+==Economy==
+[[File:Blacksmith shop, railroad, Topeka.jpg|thumb|upright|[[Blacksmith]]s at the [[Atchison, Topeka & Santa Fe Railway]] shops in Topeka, 1943]]
+
+Being the state's [[capital (political)|capital]] city, Topeka's largest employer is the State of Kansas—employing about 8,400 people,<ref name="TopekaChamber">{{cite web| title=Largest Employers| url=http://www.topekachamber.org/doing_business_topeka/community_information/largest_employers.php| publisher=Greater Topeka Chamber of Commerce| access-date=2007-08-14| archive-url=https://web.archive.org/web/20070909205914/http://www.topekachamber.org/doing_business_topeka/community_information/largest_employers.php| archive-date=2007-09-09| url-status=dead}}</ref> or 69% of the city's government workers. Altogether, government workers make up one out of every five employed persons in the city.<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+
+The educational, health, and social services industry makes up the largest proportion of the working population (22.4%<ref name="GR2" />). The four school districts employ nearly 4,700 people, and [[Washburn University]] employs about 1,650.<ref name="TopekaChamber" /> Three of the largest employers are Stormont-Vail HealthCare (with about 3,100 employees), St. Francis Health Center (1,800), and Colmery-O'Neil Veterans Administration Hospital (900).<ref name="TopekaChamber" />
+
+The retail trade employs more than a tenth of the working population (11.5%<ref name="GR2" />) with [[Wal-Mart]] and [[Dillons]] having the greater share. Nearly another tenth is employed in manufacturing (9.0%<ref name="GR2" />). Top manufacturers include [[Goodyear Tire and Rubber Company]], [[Hill's Pet Nutrition]], [[Frito-Lay]], and [[Jostens]] Printing and Publishing. [[Jostens]] announced plans in May 2012 to move production from its Topeka facility to [[Clarksville, Tennessee]], affecting about 372 employee positions. Southwest Publishing & Mailing Corporation, a smaller employer, has its headquarters in Topeka.
+
+Other industries are finance, insurance, real estate, and rental and leasing (7.8%); professional, scientific, management, administrative, and waste management services (7.6%); arts, entertainment, recreation, accommodation and food services (7.2%); construction (6.0%); transportation and warehousing, and utilities (5.8%); and wholesale trade (3.2%).<ref name="GR2" /> [[Blue Cross and Blue Shield Association|Blue Cross and Blue Shield of Kansas]] is the largest insurance employer, with about 1,800 employees.<ref name="TopekaChamber" /> [[BNSF]] is the largest transportation employer, with about 1,100.<ref name="TopekaChamber" /> [[Evergy]] employs nearly 800.<ref name="TopekaChamber" /> About a tenth of the working population is employed in public administration (9.9%<ref name="GR2" />).
+
+Major employers in Topeka include:
+
+* [[BNSF]]
+* [[Capitol Federal Savings Bank]]
+* [[CoreFirst Bank & Trust]]
+* [[Evergy]]
+* [[Frito-Lay]]
+* [[Goodyear Tire and Rubber Company]]
+* [[Hill's Pet Nutrition]]
+* [[Sports Car Club of America]]
+* [[Topeka USD 501|Topeka Public Schools USD 501]]
+* [[University of Kansas Health System]]
+* [[Washburn University]]
+
+==Arts and culture==
+
+===Arts===
+The Topeka Symphony Orchestra was founded in 1957. Topeka is home to broad areas of fine art.
+
+===Points of interest===
+[[File:Topeka Capitol 01.jpg|thumb|upright|The capitol building, built 1866–1903]]
+[[File:Lincoln Statue in Topeka.jpg|thumb|Abraham Lincoln statue in Topeka park]]
+* [[Brown v. Board of Education National Historic Site]]
+* [[Evel Knievel Museum]]
+* [[Kansas Children's Discovery Center]] in [[Gage Park, Topeka|Gage Park]]
+* [[Kansas State Capitol]], with murals by [[John Steuart Curry]], including the portrait of John Brown towering over "Bleeding Kansas" and the Kansas prairie, and topped with the sculpture of a native warrior named Ad Astra (from the state motto Ad Astra per Aspera, meaning "To the Stars Through Difficulty".)
+* [[Kansas Expocentre]] and [[Landon Arena]]
+* [[Combat Air Museum]] at [[Forbes Field (Kansas)|Forbes Field]]
+* [[Heartland Park Topeka]], a major drag racing and road racing course just south of the city.
+* [[Kansas Museum of History]]
+* [[Reinisch Rose Garden and Doran Rock Garden]], both parts of Gage Park.
+* [[Topeka High School]]
+* [[Topeka & Shawnee County Public Library]]
+* [[Topeka Zoo]], famous as the birthplace of the first [[golden eagle]] chick hatched in captivity and as the first zoo in the nation to have an indoor rain forest.
+* Old Prairie Town at Ward-Meade Historic Site
+* [[Washburn University]], the last city-chartered university in the United States.
+* [[Oakland, Kansas|Oakland Neighborhood]]
+* [[Potwin Place Historic District]], originally its own town, Potwin has now been surrounded by the City of [[Topeka]], though it maintains its own traditions, including the [[Easter]] brunch and [[Fourth of July]] Parade.
+* Kansas Judicial Center, where both the [[Kansas Supreme Court|Supreme Court]] and [[Court of Appeals]] for the state sit.
+* [[Cedar Crest (mansion)|Cedar Crest]], the Kansas Governor's Mansion on a hilltop overlooking the massive MacLennan Park.
+* [[Great Overland Station]], home of the Kansas Hall of Fame.
+* The Upstage Gallery
+
+===Sports===
+{| class="wikitable"
+|-
+!Club
+!Sport
+!League
+|-
+|
+|-
+|[[Topeka Warhawks]]
+|[[Baseball]]
+|[[Mid-Plains League]]
+|-
+|[[Topeka Tropics]]
+|[[Indoor American football]]
+|[[National Arena League]]
+|-
+|}
+
+==Government==
+
+===City===
+{{See also|Mayor of Topeka, Kansas}}
+The current mayor of Topeka is [[Mike Padilla]]. The city manager is Robert Perez.<ref name="Topeka-CityManager">{{cite web|url=http://www.topeka.org/citymanager/|access-date=8 October 2024|title=City of Topeka - Office of the City Manager|archive-url=https://web.archive.org/web/20130302162219/http://topeka.org/citymanager/|archive-date=2 March 2013|url-status=live}}</ref> The city manager is responsible to the Topeka's [[City Council]], which consists of the mayor and nine members elected from separate districts within the city. The city council members select the deputy mayor from among themselves. The deputy mayor chairs the Committee of the Whole and represents the City of Topeka at official functions whenever the mayor is unavailable. The city manager also guides the council through the meetings but cannot vote.<ref>{{cite web|url=http://www.topeka.org/cityofficials/ |title=City of Topeka - City Council |access-date=March 27, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130613042845/http://www.topeka.org/CityOfficials/ |archive-date=June 13, 2013 }}</ref>
+
+===State===
+<gallery widths="220px" heights="165px">
+Image:StateCapitolAtTopeka1912.png|[[Kansas State Capitol]] in 1912
+Image:Old Governor's Mansion, Topeka, KS.jpg|Old Governor's Mansion (1887), replaced by [[Cedar Crest (mansion)|''Cedar Crest'']] in 1963 and demolished the following year
+Image:Curtis Building in Topeka.jpg|The [[Charles Curtis]] State Office Building (2001), facing the capitol
+</gallery>
+
+==Education==
+
+===Elementary and secondary education===
+Topeka is served by four [[public school (government funded)|public school]] districts, including:
+* [[Topeka USD 501]] (serving inner Topeka)<ref>{{cite web |title=USD 501 School District Map |date=June 10, 2016 |publisher=[[Kansas Department of Transportation]] |url=https://www.ksdot.org/Assets/wwwksdotorg/bureaus/burTransPlan/maps/SchoolDistrict/School%20District_501.pdf |archive-url=https://web.archive.org/web/20220706141123/https://www.ksdot.org/Assets/wwwksdotorg/bureaus/burTransPlan/maps/SchoolDistrict/School%20District_501.pdf |archive-date=July 6, 2022 |url-status=live}}</ref>
+* [[Shawnee Heights USD 450]]  (serving east and southeast Topeka)<ref>{{cite web |title=USD 450 School District Map |date=June 10, 2016 |publisher=[[Kansas Department of Transportation]] |url=https://www.ksdot.org/Assets/wwwksdotorg/bureaus/burTransPlan/maps/SchoolDistrict/School%20District_450.pdf |archive-url=https://web.archive.org/web/20220706125705/https://www.ksdot.org/Assets/wwwksdotorg/bureaus/burTransPlan/maps/SchoolDistrict/School%20District_450.pdf |archive-date=July 6, 2022 |url-status=live}}</ref>
+* [[Auburn–Washburn USD 437]] (serving west and southwest Topeka)<ref>{{cite web |title=USD 437 School District Map |date=June 10, 2016 |publisher=[[Kansas Department of Transportation]] |url=https://www.ksdot.org/Assets/wwwksdotorg/bureaus/burTransPlan/maps/SchoolDistrict/School%20District_437.pdf |archive-url=https://web.archive.org/web/20220706122746/https://www.ksdot.org/Assets/wwwksdotorg/bureaus/burTransPlan/maps/SchoolDistrict/School%20District_437.pdf |archive-date=July 6, 2022 |url-status=live}}</ref>
+* [[Seaman USD 345]] (serving North Topeka)<ref>{{cite web |title=USD 345 School District Map |date=June 10, 2016 |publisher=[[Kansas Department of Transportation]] |url=https://www.ksdot.org/Assets/wwwksdotorg/bureaus/burTransPlan/maps/SchoolDistrict/School%20District_345.pdf |archive-url=https://web.archive.org/web/20220706110217/https://www.ksdot.org/Assets/wwwksdotorg/bureaus/burTransPlan/maps/SchoolDistrict/School%20District_345.pdf |archive-date=July 6, 2022 |url-status=live}}</ref>
+
+===Post-secondary education===
+Topeka has several colleges, universities, technical schools and branch campuses of other universities around the state. These include the following:
+* [[Washburn University]]
+* [[Friends University]] (Topeka Campus) 
+* [[Washburn Institute of Technology]] 
+* [[Baker University]] School of Nursing (Topeka Campus)
+* [[University of Kansas]] Health Center (St. Francis Campus)
+*[[Rasmussen College]] (Topeka Campus)
+
+==Media==
+{{Main|Media in Topeka, Kansas}}
+
+===Print===
+Topeka is the home of a daily newspaper, the ''[[Topeka Capital-Journal]]''; a bi-weekly newspaper, ''The Topeka Metro News''; ''Topeka Metro Voice''; and ''Kaw Valley Senior Monthly''.
+
+===Radio===
+The following [[radio station]]s are [[city of license|licensed]] to Topeka:
+
+'''AM'''
+{| class="wikitable"
+! style="background:#fcc;"| Frequency
+! style="background:#fcc;"| [[Callsign]]<ref>{{cite web|title=AMQ AM Radio Database Query |publisher=[[Federal Communications Commission]] |url=http://www.fcc.gov/mb/audio/amq.html |access-date=2009-09-18 |url-status=dead |archive-url=https://web.archive.org/web/20090825063614/http://www.fcc.gov/mb/audio/amq.html |archive-date=2009-08-25 }}</ref>
+! style="background:#fcc;"| Format<ref name=Arbitron>{{cite web |title=Station Information Profile |publisher=[[Arbitron]] |url=http://www.arbitron.com/radio_stations/station_information.htm |access-date=2009-09-18 |archive-url=https://web.archive.org/web/20060319201903/http://www.arbitron.com/radio_stations/station_information.htm |archive-date=2006-03-19 |url-status=dead }}</ref>
+! style="background:#fcc;"| Notes
+|-
+|580||[[WIBW (AM)|WIBW]]||[[News radio|News]]/[[Talk radio|Talk]]||
+|-
+|1440||[[KMAJ (AM)|KMAJ]]||[[News radio|News]]/[[Talk radio|Talk]]||
+|-
+|1490||[[KTOP (AM)|KTOP]]||[[Sports radio|Sports]]||
+|}
+
+'''FM'''
+{| class="wikitable"
+! style="background:#fcc;"| Frequency
+! style="background:#fcc;"| [[Callsign]]<ref>{{cite web|title=FMQ FM Radio Database Query |publisher=[[Federal Communications Commission]] |url=http://www.fcc.gov/mb/audio/fmq.html |access-date=2009-09-18 |url-status=dead |archive-url=https://web.archive.org/web/20090825071957/http://www.fcc.gov/mb/audio/fmq.html |archive-date=2009-08-25 }}</ref>
+! style="background:#fcc;"| Format<ref name=Arbitron/>
+! style="background:#fcc;"| Notes
+|-
+|88.1||[[KJTY]]||[[Contemporary Christian]]||
+|-
+|89.5||[[CSN International|K208FE]]||[[Christian radio|Christian]]||Translator of [[KAWZ]], [[Twin Falls, Idaho]]
+|-
+|90.3||[[KBUZ]]||[[Christian radio|Christian]]||[[American Family Radio|AFR]]
+|-
+|94.5||[[WIBW-FM]]||[[Country music|Country]]||
+|-
+|96.9||[[KOZA (FM)|KOZA]]||[[Hot Adult Contemporary]]||
+|-
+|98.5||[[KSAJ-FM]]||[[Adult Hits|Adult hits]]||
+|-
+|99.3||[[KWIC (FM)|KWIC]]||[[Classic hits]]||
+|-
+|100.3||[[KDVV]]||[[Classic rock|AOR]]||
+|-
+|102.9||[[KTOP-FM]]||[[Country music|Country]]||
+|-
+|106.9||[[KTPK]]||[[Classic country]]||
+|-
+|107.7||[[KMAJ-FM|KMAJ]]||[[Adult contemporary]]||
+|}
+
+Additionally, most of the Kansas City stations provide at least grade B coverage of Topeka. [[KANU-FM]] in Lawrence (in the Kansas City market) serves as Topeka's NPR member station.
+
+===Television===
+The following [[television station]]s are [[city of license|licensed]] to Topeka:
+
+{| class="wikitable"
+! style="background:#ccf;"| Digital Channel
+! style="background:#ccf;"| Analog Channel
+! style="background:#ccf;"| [[Callsign]]<ref>{{cite web |title=TVQ TV Database Query |publisher=[[Federal Communications Commission]] |url=http://www.fcc.gov/fcc-bin/audio/tvq.html |access-date=2009-09-18 |url-status=dead |archive-url=https://web.archive.org/web/20090508022231/http://www.fcc.gov/fcc-bin/audio/tvq.html |archive-date=2009-05-08 }}</ref>
+! style="background:#ccf;"| Network
+! style="background:#ccf;"| Notes
+|-
+|11||11 ||[[KTWU]]||[[Public Broadcasting Service|PBS]]||
+|-
+|13||13 ||[[WIBW-TV]]||[[CBS]]||
+|-
+|25||26 ||WROB-LD|| [[Buzzr]]||
+|-
+|27||27 ||[[KSNT]]||[[NBC]]||
+|-
+| ||33||K33IC||[[Trinity Broadcasting Network|TBN]]||
+|-
+|43||20||[[KTMJ-CD]]||[[Fox Broadcasting Company|FOX]]||
+|-
+|48; 49 <sup>([[Virtual channel|Virtual]])</sup>||49 ||[[KTKA-TV]]||[[American Broadcasting Company|ABC]]||
+|}
+
+==Infrastructure==
+
+===Transportation===
+[[Interstate 70 (Kansas)|I-70]], [[Interstate 470 (Kansas)|I-470]], and [[Interstate 335 (Kansas)|I-335]] all go through the City of Topeka. I-335 is part of the [[Kansas Turnpike]] where it passes through Topeka. Other major highways include: [[U.S. Route 24 (Kansas)|US-24]], [[U.S. Route 40 (Kansas)|US-40]], [[U.S. Route 75 (Kansas)|US-75]], and [[K-4 (Kansas highway)|K-4]]. Major roads within the city include NW/SW Topeka Blvd. SW Wanamaker Road. N/S Kansas Ave. SW/SE 29th St. SE/SW 21st St. SE California Ave. SW Gage Blvd. and SW Fairlawn Rd.
+
+[[Topeka Regional Airport]] (FOE) formerly known as Forbes Field is in south Topeka in [[Pauline, Kansas]]. Forbes Field also serves as an [[Air National Guard]] base, home of the highly decorated 190th Air Refueling Wing. [[Manhattan Regional Airport]] (MHK) in [[Manhattan, Kansas]] is the next closest commercial airport; [[Kansas City International Airport]] (MCI) in Kansas City is the closest major airport. [[Philip Billard Municipal Airport]] (TOP) is located in Topeka's Oakland area.
+
+Passenger rail service provided by [[Amtrak]] stops at the [[Topeka (Amtrak station)|Topeka Station]]. Service is via the Chicago-to-Los Angeles [[Southwest Chief]] during the early morning hours and makes intermediate stops at [[Lawrence (Amtrak station)|Lawrence]] and [[Union Station (Kansas City, Missouri)|Kansas City]]. The [[Kansas Department of Transportation]] has asked Amtrak to study additional service, including daytime service to [[Oklahoma City]].<ref>{{cite web|url=http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/am2Copy/News_Release_Page&c=am2Copy&cid=1178294134255&ssid=180|title=Amtrak - Inside Amtrak - News & Media - News Releases - Latest News Releases<!-- Bot generated title -->|access-date=2019-11-26|archive-url=https://web.archive.org/web/20150908193454/http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak%2Fam2Copy%2FNews_Release_Page&c=am2Copy&cid=1178294134255&ssid=180|archive-date=2015-09-08|url-status=live}}</ref> The [[Burlington Northern Santa Fe]] railroad and [[Union Pacific]] Railroad provide freight service as well as several short line railroads throughout the state.
+
+[[Greyhound Lines]] provides bus service westward towards [[Denver|Denver, Colorado]], eastward to [[Kansas City, Missouri]], southwest to [[Wichita, Kansas]].<ref>{{cite web|url=https://www.greyhound.com/|title=Greyhound|website=www.greyhound.com|access-date=2016-01-03|archive-url=https://web.archive.org/web/20190906232014/https://www.greyhound.com/|archive-date=2019-09-06|url-status=dead}}</ref>
+
+The [[Topeka Metropolitan Transit Authority]] provides local transit service. The agency offers bus service from 6 am to 6:30 pm Monday through Friday, and 7 am to 5 pm on Saturday. It also provides demand response general public taxi service which operates evenings from 8 pm until 11:30 pm and on Sundays.
+
+===Utilities===
+* Electricity: [[Evergy]]
+* Home telephone: [[AT&T Inc.|AT&T]] and [[Cox Communications|Cox]]
+* Cable: Cox Communications and AT&T
+* Satellite TV: Dish and DirecTV
+* Gas: [[Kansas Gas Service]]
+* Water and sewer: City of Topeka
+* Sanitation: Shawnee County Waste Management
+* Internet: [[Cox Communications|Cox]] (cable), [[AT&T Inc.|AT&T]] (fiber, DSL, and fixed wireless), and other providers.<ref>https://broadbandnow.com/Kansas/Topeka List of internet providers for Topeka.</ref>
+
+===Health care===
+Topeka has two major [[hospitals]], Stormont-Vail and The [[University of Kansas]] Hospital - St. Francis Campus. Both are in central Topeka. Topeka is also home to the Colmery-O'Neil [[United States Department of Veterans Affairs|VA]] Medical Clinic and Topeka ER & Hospital.<ref>{{cite web|url=https://www.cjonline.com/news/20200731/new-micro-hospital-in-topeka-offers-alternative-to-traditional-hospital-setting |title=New micro-hospital in Topeka offers alternative to traditional hospital setting|website=www.cjonline.com|access-date=2020-10-15}}</ref>
+
+==Notable people==
+<!--- Please list only people who have spent a significant amount of time in Topeka. If the individual's tie to Topeka is ''only'' as a Washburn University student, they should be listed in the university article.  --->
+{{Main|List of people from Topeka, Kansas}}
+{{See also|List of Washburn University alumni}}
+
+==See also==
+{{Portal|Kansas}}
+* [[Great Flood of 1951]]
+* [[Tornado outbreak sequence of June 1966|1966 F5 tornado]]
+* [[USS Topeka|USS ''Topeka'']], 3 ships
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{See also|Timeline of Topeka, Kansas#Bibliography|Shawnee County, Kansas#Further reading|l1=List of books about Topeka|l2=List of books about Shawnee County, Kansas}}
+{{Kansas books}}
+
+==External links==
+{{Commons category}}
+{{Wikivoyage|Topeka}}
+{{EB1911 poster|Topeka}}
+{{AmCyc poster|Topeka}}
+* {{Official website|www.topeka.org}}
+* [https://www.lkm.org/members/Default.asp?id=38842901 Topeka – Directory of Public Officials]
+* [https://www.ksdot.org/Assets/wwwksdotorg/bureaus/burTransPlan/maps/city-pdf/topeka.pdf Topeka city map], KDOT
+
+{{US state capitals}}
+{{Shawnee County, Kansas}}
+{{Kansas county seats}}
+{{Authority control}}
+
+[[Category:Topeka, Kansas| ]]
+[[Category:1854 establishments in Kansas Territory]]
+[[Category:Capitals of Kansas]]
+[[Category:Cities in Kansas]]
+[[Category:Cities in Shawnee County, Kansas]]
+[[Category:County seats in Kansas]]
+[[Category:Populated places established in 1854]]
+[[Category:State capitals in the United States]]
+[[Category:Topeka metropolitan area, Kansas]]

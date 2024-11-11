@@ -1,0 +1,426 @@
+{{Short description|Municipality in Pangasinan, Philippines}}
+{{Use Philippine English|date=February 2023}}
+{{Use mdy dates|date=February 2023}}
+{{More citations needed|date=September 2013}}
+{{Infobox settlement
+| name                   = {{PH wikidata|name}}
+| image_skyline          =
+| image_caption          =
+| image_flag             = Flag_of_Calasiao,_Pangasinan.png
+| flag_size              = 120x80px
+| image_seal             = Calasiao Pangasinan Seal.png
+| seal_size              = 100x80px
+| image_map              = {{PH wikidata|image_map}}
+| map_caption            = {{PH wikidata|map_caption}}
+| image_map1             = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map            = Philippines
+| pushpin_label_position = left
+| pushpin_map_caption    = Location within the {{PH wikidata|country}}
+| coordinates            = {{PH wikidata|coordinates}}
+| settlement_type        = {{PH wikidata|settlement_type}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = [[Philippines]]
+| subdivision_type1      = [[Regions of the Philippines|Region]]
+| subdivision_name1      = {{PH wikidata|region}}
+| subdivision_type2      = [[Provinces of the Philippines|Province]]
+| subdivision_name2      = {{PH wikidata|province}}
+| official_name          = {{PH wikidata|official_name}}
+| etymology              =  <!--origin of name-->
+| named_for              =  <!--name of place or person -->
+| native_name            =
+| other_name             =
+| nickname               =
+| motto                  =
+| anthem                 =
+| subdivision_type3      = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3      = {{PH legislative district}}
+| established_title      = [[Date of establishment|Founded]]
+| established_date       = June 29, 1592
+| parts_type             = [[Barangay]]s
+| parts_style            = para
+| p1                     = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title           = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name            = Kevin Roy Q. Macanlalay  
+| leader_title1          = [[Vice Mayor]]
+| leader_name1           = Nestor A. Gabrillo 
+| leader_title2          = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2           = [[Maria Rachel Arenas|Maria Rachel J. Arenas]]
+| leader_title3          = [[Sangguniang Bayan|Municipal Council]]
+| leader_name3           = {{PH Town Council
+| 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+     Manny D.V. Datuin
+ | 2=Felipe K. De Vera
+ | 3=Ardieson B. Soriano
+ | 4=Haverdani Das B. Mesina
+ | 5=Gerald C. Aficial
+ | 6=Elias S. Villanueva
+ | 7=MYC D. Sison
+ | 8=Jose A. Loresco
+}}
+| leader_title4          = [[Elections in the Philippines#Qualification|Electorate]] 
+| leader_name4           = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type        = {{PH wikidata|government_type}}
+| government_footnotes   = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m            = {{PH wikidata|elevation_m}}
+| elevation_max_m        = 38
+| elevation_min_m        = -2
+| elevation_max_rank     =
+| elevation_min_rank     =
+| elevation_footnotes    = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes= 
+| elevation_min_footnotes=
+| area_rank              = 
+| area_footnotes         = {{PH area}}
+| area_total_km2         = {{PH wikidata|area}}
+| population_footnotes   = {{PH census|current}}
+| population_total       = {{PH wikidata|population_total}}
+| population_as_of       = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title= [[Household]]s
+| population_blank1      = {{PH wikidata|household}} 
+| population_blank2_title= 
+| population_blank2      = 
+| population_demonym     =
+| population_rank        =
+| population_note        =
+| timezone               = [[Philippine Standard Time|PST]]
+| utc_offset             = +8
+| postal_code_type       = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code            = {{PH wikidata|postal_code}}
+| postal2_code_type      = {{PSGCstyle}}
+| postal2_code           = {{PSGC detail}}
+| area_code_type         = {{areacodestyle}}
+| area_code              = {{PH wikidata|area_code}}
+| website                = {{PH wikidata|website}}
+| demographics_type1     = [[Economy of the Philippines|Economy]]
+| demographics1_title1   = {{PH wikidata|income_class_title}}
+| demographics1_info1    = {{PH wikidata|income_class}}
+| demographics1_title2   = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2    = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3   = [[Revenue]]
+| demographics1_info3    = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}} 
+| demographics1_title4   = Revenue rank
+| demographics1_info4    = 
+| demographics1_title5   = [[Asset]]s
+| demographics1_info5    = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}} 
+| demographics1_title6   = Assets rank
+| demographics1_info6    = 
+| demographics1_title7   = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7    =  
+| demographics1_title8   = IRA rank
+| demographics1_info8    = 
+| demographics1_title9   = [[Expenditure]]
+| demographics1_info9    = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}} 
+| demographics1_title10  = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10   = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2     = Service provider
+| demographics2_title1   = Electricity
+| demographics2_info1    = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2   = Water
+| demographics2_info2    =  
+| demographics2_title3   = Telecommunications
+| demographics2_info3    = 
+| demographics2_title4   = Cable TV
+| demographics2_info4    =
+| demographics2_title5   = 
+| demographics2_info5    =
+| demographics2_title6   = 
+| demographics2_info6    =
+| demographics2_title7   = 
+| demographics2_info7    =
+| demographics2_title8   = 
+| demographics2_info8    =
+| demographics2_title9   = 
+| demographics2_info9    =
+| demographics2_title10  = 
+| demographics2_info10   =
+| blank_name_sec1        = {{PH wikidata|climate_title}}
+| blank_info_sec1        = {{PH wikidata|climate_type}}
+| blank1_name_sec1       = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1       = {{PH wikidata|language}}
+| blank2_name_sec1       = [[Crime index]]
+| blank2_info_sec1       = 
+| blank3_name_sec1       = 
+| blank3_info_sec1       = 
+| blank4_name_sec1       = 
+| blank4_info_sec1       = 
+| blank5_name_sec1       = 
+| blank5_info_sec1       = 
+| blank6_name_sec1       = 
+| blank6_info_sec1       = 
+| blank7_name_sec1       = 
+| blank7_info_sec1       = 
+| blank1_name_sec2       = Major religions
+| blank1_info_sec2       = 
+| blank2_name_sec2       = Feast date
+| blank2_info_sec2       = 
+| blank3_name_sec2       = Catholic diocese
+| blank3_info_sec2       = [[Roman Catholic Archdiocese of Lingayen–Dagupan|Lingayen-Dagupan]]
+| blank4_name_sec2       = Patron saint 
+| blank4_info_sec2       = [[Saint Peter]] and [[Saint Paul|Paul]]
+| blank5_name_sec2       = 
+| blank5_info_sec2       = 
+| blank6_name_sec2       = 
+| blank6_info_sec2       = 
+| blank7_name_sec2       = 
+| blank7_info_sec2       =
+| short_description      =
+| footnotes              =
+}}
+
+'''Calasiao''', officially the '''Municipality of Calasiao''' ({{langx|pag|Baley na Calasiao}}; {{langx|ilo|Ili ti Calasiao}}; {{langx|tl|Bayan ng Calasiao}}),  is a 1st class [[municipality of the Philippines|municipality]] in the [[Philippine Province|province]] of [[Pangasinan]], [[Philippines]]. According to the 2020 census, it has a population of 100,471 people.{{PH census|current}}
+
+Today, Calasiao is known as a first class, highly commercialized municipality and is strategically located at the heart of Pangasinan. It governs 24 barangays and 31 sitios in a total land area of 4,836 hectares. Being a town adjacent to the city of [[Dagupan]], the municipality experiences continuous economic boom and is increasingly becoming an important satellite commercial hub for Metro Dagupan.<ref>{{Cite web |url=http://www.calasiao.gov.ph/2012-03-25-06-27-18/brief-history.html |title=Brief History |access-date=November 8, 2012 |archive-url=https://web.archive.org/web/20120928060134/http://www.calasiao.gov.ph/2012-03-25-06-27-18/brief-history.html |archive-date=September 28, 2012}}</ref> In terms of delicacy, Calasiao's flagship product is the native rice cake known as Puto Calasiao.
+
+Calasiao is {{convert|3|km}} from [[Dagupan]], {{convert|17|km}} from [[Lingayen]], {{convert|206|km}} from [[Manila]], and {{convert|9|km}} from [[San Carlos, Pangasinan|San Carlos]].
+
+==Etymology==
+The name Calasiao was derived from the native word ''Kalasian'', which means "a place where lightning frequently occurs", from the root word ''lasi'', meaning "lightning". Upon the arrival of the Spaniards, they called the place "''Lugar de Rayos''", a literal Spanish translation of the word ''Kalasian''. It was named as such because it is said that Calasiao back in the day was always frequented by this natural phenomenon.
+
+==History==
+The indigenous people of Calasiao are descended from the [[Austronesian languages|Austronesian-speaking people]] who settled in the Malay archipelago at least 5,000 years ago. Calasiao was settled by a [[Pangasinan language|Pangasinan speaking people]] whose language belongs to the [[Malayo-Polynesian languages|Malayo-Polynesian]] branch of the [[Austronesian languages]] family.
+
+In 1571, the [[Spanish conquest]] of Pangasinan began. The Spanish conquistadors were accompanied by [[Roman Catholic]] missionaries who introduced Roman Catholicism to the [[indigenous peoples]] of Pangasinan.
+
+In the 16th century, Dominican friars, who were settling at Gabon, were driven out because of the continuing unrest in the town. The formation of the new Calasiao however was not immediately welcomed by its native inhabitants. Hence in 1660, when the call for the Malong Rebellion came, the citizens picked up their weapons and joined in the fight against the Spanish rule. The citizens were also one of the first people to answer the call for rebellion of Juan de la Cruz Palaris of Binalatongan (now San Carlos City), which succeeded in driving the Spanish rulers and friars out of the boundaries. The town of Calasiao became part of the Pangasinan encomendia of Labaya, designated as belonging to the King of Spain, Juan Ximenez del opaline, and a son of Alonso Hernandez de Sandoval for whom tributes were collected.[https://web.archive.org/web/20120928060134/http://www.calasiao.gov.ph/2012-03-25-06-27-18/brief-history.html]
+
+Today, Calasiao is rapidly expanding town. It may soon become a city or join with Dagupan and San Carlos City to be a [[metropolis]]. Yet many people from Calasiao have emigrated to other parts of the Philippines, the [[United States]] and other countries to seek better opportunities.
+
+==Geography==
+===Barangays===
+Calasiao is politically subdivided into 24 [[barangay]]s.<ref name=nscb>{{cite web|title=Province: PANGASINAN |url=http://www.nscb.gov.ph/activestats/psgc/province.asp?regName=REGION+I+%28Ilocos+Region%29&regCode=01&provCode=015500000&provName=PANGASINAN |work=PSGC Interactive |publisher=National Statistical Coordination Board |access-date=November 26, 2012 |location=Makati, Philippines |url-status=dead |archive-url=https://web.archive.org/web/20121114165526/http://www.nscb.gov.ph/activestats/psgc/province.asp?regName=REGION+I+%28Ilocos+Region%29&regCode=01&provCode=015500000&provName=PANGASINAN |archive-date=November 14, 2012 }}</ref> Each barangay consists of [[purok]]s and some have [[sitios]].
+
+{{Div col|colwidth=15em}}
+* Ambonao
+* Ambuetel 
+* Banaoang 
+* Bued 
+* Buenlag
+* Cabilocaan
+* Dinalaoan 
+* Doyong
+* Gabon
+* Lasip
+* Longos
+* Lumbang
+* Macabito
+* Malabago
+* Mancup
+* Nagsaing
+* Nalsian
+* [[Poblacion]] East
+* [[Poblacion]] West^
+* Quesban
+* San Miguel 
+* San Vicente
+* Songkoy
+* Talibaew
+{{div col end}}
+
+*† indicates the most populous barangay.
+*^ The seat of government
+
+===Climate===
+{{Weather box
+|location = Calasiao, Pangasinan
+|width=auto
+|metric first = Yes
+|single line = Yes
+| Jan high C = 31
+| Feb high C = 31
+| Mar high C = 33
+| Apr high C = 34
+| May high C = 34
+| Jun high C = 33
+| Jul high C = 32
+| Aug high C = 31
+| Sep high C = 31
+| Oct high C = 32
+| Nov high C = 31
+| Dec high C = 31
+| Jan low C = 21
+| Feb low C = 21
+| Mar low C = 23
+| Apr low C = 25
+| May low C = 25
+| Jun low C = 25
+| Jul low C = 25
+| Aug low C = 24
+| Sep low C = 24
+| Oct low C = 24
+| Nov low C = 23
+| Dec low C = 22
+| Jan precipitation mm = 4.3 
+| Jan rain days = 3 
+| Feb precipitation mm = 19.1 
+| Feb rain days = 2
+| Mar precipitation mm = 27.3 
+| Mar rain days = 3 
+| Apr precipitation mm = 45.2 
+| Apr rain days = 5 
+| May precipitation mm = 153.3
+| May rain days = 14
+| Jun precipitation mm = 271.3 
+| Jun rain days = 17 
+| Jul precipitation mm = 411.1
+| Jul rain days = 22
+| Aug precipitation mm = 532 
+| Aug rain days = 23
+| Sep precipitation mm = 364.4 
+| Sep rain days = 21 
+| Oct precipitation mm = 182.5 
+| Oct rain days = 13
+| Nov precipitation mm = 56.3 
+| Nov rain days = 7
+| Dec precipitation mm = 24.4 
+| Dec rain days = 4
+|source 1 = World Weather Online <small>(Use with caution: this is modeled/calculated data, not measured locally.)</small><ref name="met_norms">
+{{cite web 
+| url = http://www.worldweatheronline.com/Calasiao-weather-averages/Pangasinan/PH.aspx
+| title = Calasiao, Pangasinan: Average Temperatures and Rainfall
+| publisher = World Weather Online
+| access-date = September 26, 2015}}</ref>
+| date=September 2015}}
+{{clear left}}
+
+==Demographics==
+{{Philippine Census
+|align=left
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+The people speak [[Pangasinan language|Pangasinan]], the dominant language in central Pangasinan. [[Ilocano language|Ilocano]], [[Tagalog language|Tagalog]], and [[English language|English]] are also widely spoken.
+
+{{clear left}}
+
+==Economy==
+{{PH poverty incidence}}
+[[File:Calasiao11fjf.JPG|thumb|200px|right|Public Market.]]
+Calasiao is centrally located in Pangasinan, between Dagupan and San Carlos City, with a major road connecting Calasiao to both cities. The town is also connected to [[Santa Barbara, Pangasinan|Santa Barbara]], from where the [[MacArthur Highway]] connects to Baguio City and Metro Manila.
+
+Calasiao has rich farmlands planted mainly with ''palay'' or rice, coconuts and mangoes. Calasiao also has a lot of fishponds along its rivers and wetlands where fish like ''bangus'' (milkfish), ''pantat'' (catfish), and tilapia are raised. A [[Coca-Cola]] Bottlers plant is located in Purok 7 Barangay Bued Calasiao.
+
+In June 2010, [[Robinsons Malls]] announced the construction of its 30th mall in this town. Robinsons Place Pangasinan is a two-level mall built on a {{convert|5.8|ha}} lot with a gross floor area of {{convert|31900|m2}} and a gross leasable area of {{convert|23000|m2}}.
+
+{{clear left}}
+
+==Government==
+===Local government===
+{{main|Sangguniang Bayan}}
+Calasiao, belonging to the [[Legislative districts of Pangasinan|third congressional district]] of the province of [[Pangasinan]], is governed by a mayor designated as its local chief executive and by a municipal council as its legislative body in accordance with the Local Government Code. The mayor, vice mayor, and the councilors are elected directly by the people through an election which is being held every three years.
+
+The town hall is located in front of the Roman Catholic convent of San Pedro y San Pablo de Calasiao, the same building as the shrine of Senor Divino Tesoro. The current mayor is Mamilyn A. Caramat, who took over the mayoralty post from Joseph Arman C. Bauzon, following his victory in the May 2022 elections. In January 2023, she died from stroke and Kevin Macanlalay took over as Mayor.<ref>{{cite web | url=https://newsinfo.inquirer.net/1713915/calasiao-mayor-passes-away-due-to-stroke | title=Calasiao mayor passes away due to stroke | date=January 8, 2023 }}</ref>
+
+===Elected officials===
+The town is currently led by Mayor Kevin Roy Q. Macanlalay, Vice Nestor Gabrillo, and eight other councilors.[https://web.archive.org/web/20120928060433/http://www.calasiao.gov.ph/2012-03-25-06-11-35/2012-03-25-06-12-32/2012-03-26-21-05-36/lead-officials.html]
+
+<!--NOTE: Update needed by June 30, 2022 after oath-taking of the declared winners in the May 9, 2022 local elections.-->
+{| class="wikitable" style="line-height:1.20em; font-size:100%;"
+|+ Members of the Municipal Council<br>(2022–2025)<ref>{{Cite web |title=2019 National and Local Elections |url=https://comelec.gov.ph/php-tpls-attachments/2019NLE/ElectionResults/2019NLE_LIst_of_Elected_CityMun_Candidates.pdf |url-status=live |access-date=March 7, 2022 |website=Commission on Elections|archive-url=https://web.archive.org/web/20201006184020/https://www.comelec.gov.ph/php-tpls-attachments/2019NLE/ElectionResults/2019NLE_LIst_of_Elected_CityMun_Candidates.pdf |archive-date=October 6, 2020 }}</ref>
+|-
+! Position
+! Name
+|-
+| '''Congressman'''
+| style="text-align:center;" | [[Maria Rachel Arenas]]
+|-
+| '''Mayor'''
+| style="text-align:center;" | Kevin Roy Q. Macanlalay 
+|-
+| '''Vice-Mayor'''
+| style="text-align:center;" | Nestor A. Gabrillo 
+|-
+|rowspan=8| '''Councilors''' 
+| style="text-align:center;" |  Manny D.V. Datuin
+|-
+| style="text-align:center;" | Felipe K. De Vera
+|-
+| style="text-align:center;" | Ardieson B. Soriano
+|-
+| style="text-align:center;" | Haverdani Das B. Mesina
+|-
+| style="text-align:center;" | Gerald C. Aficial
+|-
+| style="text-align:center;" | Elias S. Villanueva
+|-
+| style="text-align:center;" | MYC D. Sison
+|-
+| style="text-align:center;" | Jose A. Loresco
+|-
+| '''Liga ng mga Barangay President''' 
+| style="text-align:center;" | Patrick A. Caramat (Nalsian)
+|-
+| '''Sangguniang Kabataan Federation President'''
+| style="text-align:center;" | Narayana Rsi Das Mesina (Longos)
+|-
+|}
+
+==Tourism==
+[[File:Calasiao Pangasinan 2.JPG|thumb|230px|St. Peter and Paul Church (Poblacion West)]]
+Calasiao is a short ride to the [[Bonuan Gueset#Landmarks & Tourist Attractions|Bonuan Blue Beach]] and the [[Hundred Islands]] in [[Lingayen Gulf]]. Calasiao is about 2 hour ride to Baguio City and a four-hour ride to Manila.
+
+Calasiao is known for its [[Puto (food)|puto]], a soft rice cake; [[Suman (food)|suman]], a sweet coconut and sticky rice cake wrapped in banana leaves; and [[bagoong]], or fermented fish paste. Calasiao puto is described as the town's "white gold."{{Citation needed|date=January 2009}}  Calasiao ''puto'' is a bite-size, soft rice cake made from semi-glutinous rice that is fermented in earthen jars. It is produced mainly in Barangay Dinalaoan.
+
+Many pilgrims from neighbouring cities/towns and provinces visit Calasiao to pray at the Senor Divino Tesoro shrine. The statue of a crucified Jesus Christ is believed to grow in size and grant miracles.
+
+===Puto festival===
+[[File:Calasiao11gjf.JPG|thumb|200px|right|Special Puto (Calasiao stores).]]
+Calasiao celebrates a puto industry festival. The ''Calasiao puto'' is a rice cake that is well known all over the Philippines for its melt-in-the-mouth feeling. It is locally sold along the streets going to Sr. Divino Tesoro.{{Citation needed|date=January 2009}}
+
+It is known for its "white gold": "cup-shaped, bite-sized, soft rice cakes; the semi-glutinous rice is fermented in old earthen jars" (in villages of Dinalaoan, Lumbang, Ambuetel, and part of Nalsian).<ref>{{Cite news |newspaper=Philippine Daily Inquirer|url=http://newsinfo.inquirer.net/topstories/topstories/view/20080503-134365/Free-puto-as-Pangasinan-town-celebrates-rice-cake-festival |title=Inquirer.net, Free puto as Pangasinan town celebrates rice cake festival |access-date=May 3, 2008 |archive-url=https://web.archive.org/web/20080527175757/http://newsinfo.inquirer.net/topstories/topstories/view/20080503-134365/Free-puto-as-Pangasinan-town-celebrates-rice-cake-festival |archive-date=May 27, 2008 |url-status=dead }}</ref>
+
+Calasiao puto is made of long grain rice soaked in water, ground and fermented for three days of more, with just enough sugar to taste, and steamed. It can be topped with cheese or drizzled with chocolate syrup for variation. It is perfect to be paired with [[dinuguan]].<ref>{{Cite web|url=http://www.asensopangasinan.com/festivals/puto-festival-of-calasiao/|title = Puto Festival of Calasiao|date = October 6, 2010}}</ref> The town has the traditional white puto and many flavors like pandan (green), ube (violet), banana (yellow), strawberry (light red/pink) and cheese (gold).
+
+The original white puto and kutsinta (another rice cake variety) is sold at P80 per kilogram (70 to 75 pieces), while the flavored ones are sold at P80 per kg. The price is higher by P15 to P20 in other areas to cover transportation costs.
+
+Bella's Puto consumes three to six sacks of rice a day to make puto, depending on the season. Peak production period is from October to January. A sack of rice can produce 8,000 pieces or 107&nbsp;kg of puto. Bella's Puto is sold at four SM shopping mall branches, in Santa Mesa (Manila), Baliwag (Bulacan), Clark (Pampanga) and Rosales (Pangasinan). It is also sold in a store in Caloocan and at the Pasalubong Center in Rosales town.<ref>{{Cite news |newspaper=Philippine Daily Inquirer|url=http://business.inquirer.net/money/topstories/view/20090816-220505/United-colors-of-Calasiao-puto |title=Business - United colors of Calasiao puto - INQUIRER.net |access-date=November 8, 2012 |archive-url=https://web.archive.org/web/20111228164436/http://business.inquirer.net/money/topstories/view/20090816-220505/United-colors-of-Calasiao-puto |archive-date=December 28, 2011 |url-status=dead }}</ref>
+
+Bocayo (sweetened coconut) and dinuguan are also the best products of Nalsian Bacayao and Nalsian Centro. Calasiao celebrates its town fiesta every May 2 and 3: the feast day of Señor Divino Tesoro. Every June 28 and 29 is the fiesta of [[Saint Peter|San Pedro]] and [[Saint Paul|San Pablo]], which were the dates of the Calasiao fiesta.
+
+== Notable personalities ==
+* [[Mitoy Yonting]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|Calasiao}}
+* [https://www.philatlas.com/luzon/r01/pangasinan/calasiao.html Calasiao Profile at PhilAtlas.com]
+* {{official website|http://www.calasiao.gov.ph/}}
+* [https://web.archive.org/web/20170702112730/http://www.competitive.org.ph/cmcindex/pages/profile/?lgu=Calasiao Municipal Profile at the National Competitiveness Council of the Philippines]
+* [https://web.archive.org/web/20111028164348/http://www.pangasinan.gov.ph/the-province/cities-and-municipalities/calasiao/ Calasiao at the Pangasinan Government Website]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20081120024509/http://www.census.gov.ph/data/census2007/index.html Philippine Census Information]
+
+{{Geographic location  <!-- For directly adjacent municipalities as standardized for all other municipalities -->
+ | Centre    = Calasiao
+ | North     = [[Dagupan]]
+ | Northeast = [[Mangaldan, Pangasinan|Mangaldan]]
+ | East      = [[Santa Barbara, Pangasinan|Santa Barbara]]
+ | South     = [[San Carlos, Pangasinan|San Carlos]]
+ | Southeast = [[Malasiqui, Pangasinan|Malasiqui]]
+ | West      = [[Binmaley, Pangasinan|Binmaley]]
+}}
+{{Pangasinan}}
+{{Authority control}}
+
+[[Category:Municipalities of Pangasinan]]

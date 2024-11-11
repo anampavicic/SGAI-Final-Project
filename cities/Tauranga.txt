@@ -1,0 +1,633 @@
+{{Short description|Coastal city in the Bay of Plenty Region, New Zealand}}
+{{For|the electorate|Tauranga (New Zealand electorate)}}
+{{Use New Zealand English|date=April 2024}}
+
+{{Use dmy dates|date=July 2016}}
+
+{{Infobox settlement
+<!-- Basic info ---------------->| name               = Tauranga
+| native_name        = 
+| nickname           = <!-- Do not add a nickname without adding a source, such as a link from the Bay of Plenty Times -->
+| settlement_type    = [[List of cities in New Zealand|City]] <!-- e.g. Town, Village, City, etc. -->
+| total_type         = Territorial
+| motto              = <!-- Images and maps ----------->
+| image_skyline      = {{multiple image
+  | border        = infobox
+  | total_width   = 300
+  | perrow        = 1/2/2
+  | caption_align = center
+  | image1        = Tauranga Harbour and City.jpg
+  | alt1          = Tauranga City Centre 
+  | caption1      = [[Tauranga]] City 
+  | image2        = Tauranga Post Office.jpg
+  | alt2          = Tauranga Post Office
+  | caption2      = Tauranga Post Office
+  | image3        = Mount Maunganui-2952.jpg
+  | alt3          = View from Mount Maunganui
+  | caption3      = View from the Mount
+  | image4        = Tauranga-0603.jpg
+  | alt4          = Historic villas in Tauranga South
+  | caption4      = Historic villas in [[Tauranga South]]
+  | image5        = Tauranga-abaconda.jpg
+  | alt5          = City centre 
+  | caption5      = Classic Car show taking place at The Strand
+}}
+| image_flag         = 
+| flag_size          = 
+| image_seal         = 
+| seal_size          = 
+| image_shield       = 
+| shield_size        = 
+| image_blank_emblem = 
+| blank_emblem_type  = 
+| blank_emblem_size  = 
+| image_map          = 
+| mapsize            = 
+| map_caption        = 
+| image_dot_map      = 
+| pushpin_map        = #North Island#New Zealand
+| pushpin_label_position = bottom
+| pushpin_map_caption = Location of Tauranga, New Zealand
+| pushpin_mapsize    = 200px
+<!-- Location ------------------>| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = [[New Zealand]]
+| subdivision_type1  = [[List of islands of New Zealand|Island]]
+| subdivision_name1  = [[North Island]]
+| subdivision_type2  = [[Regions of New Zealand|Region]]
+| subdivision_name2  = [[Bay of Plenty Region|Bay of Plenty]]
+| subdivision_type3  = Wards
+| subdivision_name3  = Mauao/Mount Maunganui<br/>Matua-Otūmoetai<br/>Te Papa<br/>Bethlehem<br/>Tauriko<br/>Welcome Bay<br/>Arataki<br/>Pāpāmoa<br/>Te Awanui&nbsp;(Māori) 
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->| seat_type          = Electorate(s)
+| seat               = [[Tauranga (New Zealand electorate)|Tauranga]]<br/>[[Bay of Plenty (New Zealand electorate)|Bay of Plenty]]
+<!-- Politics ----------------->| government_footnotes = 
+| government_type    = 
+| leader_title       = [[Member of parliament|MP]] (Tauranga)
+| leader_name        = {{NZ officeholder data|Tauranga MP|y}} ({{NZ officeholder data|Tauranga Party|y}})
+| leader_title1      = MP (Bay of Plenty)
+| leader_name1       = {{NZ officeholder data|Bay of Plenty MP|y}} ({{NZ officeholder data|Bay of Plenty Party|y}})
+| leader_title2      = [[Mayor of Tauranga|Mayor]]
+| leader_name2       = {{NZ officeholder data|Tauranga City Mayor|y}}
+| leader_title3      = Deputy Mayor
+| leader_name3       = Jen Scoular<ref>{{cite news |title=Tauranga mayor Mahé Drysdale honours grandfather as he's sworn in |url=https://www.stuff.co.nz/nz-news/350366235/tauranga-mayor-mahe-drysdale-honours-grandfather-hes-sworn |publisher=Stuff.co.nz |date=3 August 2024 |access-date=3 August 2024}}</ref>
+| leader_title4      = [[Territorial authorities of New Zealand|Territorial authority]]
+| leader_name4       = [[Tauranga City Council]]
+| established_title  = Settled
+| established_date   = 1250–1300
+| established_title1 = Gazetted as a borough
+| established_date1  = 1882
+| established_title2 = City constituted
+| established_date2  = 17 April 1963
+<!-- Area --------------------->| area_magnitude     = 
+| unit_pref          = <!-- Enter: Imperial, to display imperial  before metric -->
+| area_footnotes     = <ref name="Area"/>
+| area_total_km2     = <!-- ALL fields with measurements are subject to automatic unit conversion-->
+| area_land_km2      = 141.91<!-- See table @ Template:Infobox settlement for details on unit conversion -->
+| area_water_km2     = 
+| area_total_sq_mi   = 
+| area_land_sq_mi    = 
+| area_water_sq_mi   = 
+| area_water_percent = 
+| area_blank1_title  = 
+| area_blank1_km2    = 
+| area_blank1_sq_mi  = <!-- Elevation -------------------------->
+| elevation_footnotes = <!-- For references: use <ref> </ref> tags -->
+| elevation_m        = 
+| elevation_ft       = 
+| elevation_max_m    = 232 <!-- Top of Mount Maunganui -->
+| elevation_max_ft   = 
+| elevation_min_m    = 0 <!-- Sea level -->
+| elevation_min_ft   = <!-- Population ----------------------->
+| population_as_of   = {{NZ population data 2018|||y}}
+| population_footnotes = <ref name="NZ_population_data_2018"/>
+| population_note    = 
+| population_total   = {{NZ population data 2018|Tauranga city|y}}
+| population_density_km2 = auto
+| population_density_sq_mi = 
+| population_urban   = {{NZ population data 2018||y}}
+| demonym            = <!-- [[Taurangian]] -->
+| population_blank2  = <!-- General information --------------->
+| timezone           = [[Time in New Zealand|NZST]]
+| utc_offset         = +12:00
+| timezone_DST       = NZDT
+| utc_offset_DST     = +13:00
+| coor_type          = 
+| coordinates        = {{Coord|37|41|S|176|10|E|region:NZ|display=inline,title}}
+<!-- Area/postal codes and others -------->| postal_code_type   = Postcode(s)
+| postal_code        = [https://www.nzpost.co.nz/sites/default/files/uploads/shared/postcodemaps/tauranga-city.pdf Map of postcodes]<br />3110, 3112, 3116, 3118
+| area_code          = 07
+| website            = [http://www.tauranga.govt.nz/ Tauranga.govt.nz]
+| footnotes          = 
+| blank_name         = Local [[iwi]]
+| blank_info         = [[Ngāti Ranginui]], [[Ngāi Te Rangi]], [[Ngāti Pūkenga]]
+| official_name      = 
+}}
+
+'''Tauranga''' ({{IPA-mi|ˈtaʉɾaŋa}})<ref>{{cite web |url=http://www.nzhistory.net.nz/culture/tereo-100words |title=100 Māori words every New Zealander should know – Māori Language Week &#124; NZHistory, New Zealand history online |publisher=Nzhistory.net.nz |date=1 August 1987 |access-date=20 September 2015 |archive-url=https://web.archive.org/web/20120801100510/http://www.nzhistory.net.nz/culture/tereo-100words |archive-date=1 August 2012 |url-status=live }}</ref><ref>{{cite web |url=http://www.forvo.com/word/tauranga/ |title=Tauranga pronunciation: How to pronounce Tauranga in Māori, English |publisher=Forvo.com |date=12 April 2008 |access-date=20 September 2015 |archive-url=https://web.archive.org/web/20150911174531/http://forvo.com/word/tauranga/ |archive-date=11 September 2015 |url-status=live }}</ref> is a coastal city in the [[Bay of Plenty Region]] and the [[List of cities in New Zealand|fifth-most populous city]] of [[New Zealand]], with an urban population of {{NZ population data 2018||y|y|y| (|)}}, or roughly 3% of the national population. It was settled by Māori late in the 13th century, colonised by Europeans in the early 19th century, and was constituted as a city in 1963.<ref>{{cite web|url=http://www.library.tauranga.govt.nz/localhistory/european-settlement/the-rule-of-law.aspx|title=Local Government 1860 – present|publisher=Tauranga City Council|access-date=19 December 2008|archive-url=https://web.archive.org/web/20081014020900/http://library.tauranga.govt.nz/localhistory/european-settlement/the-rule-of-law.aspx|archive-date=14 October 2008|url-status=dead|df=dmy-all}}</ref>
+
+The city lies in the north-western corner of the Bay of Plenty, on the south-eastern edge of [[Tauranga Harbour]]. The city extends over an area of {{convert|141.91|km2}}, and encompasses the communities of [[Bethlehem, New Zealand|Bethlehem]], on the south-western outskirts of the city; [[Greerton]], on the southern outskirts of the city; Matua, west of the central city overlooking Tauranga Harbour; Maungatapu; [[Mount Maunganui]], located north of the central city across the harbour facing the Bay of Plenty; [[Otūmoetai]]; [[Papamoa]], Tauranga's largest suburb, located in the Bay of Plenty; Tauranga City; [[Tauranga South]]; and [[Welcome Bay]].
+
+Tauranga is one of New Zealand's main centres for business, international trade, culture, fashion and horticultural science. The [[Port of Tauranga]] is New Zealand's largest port in terms of gross export tonnage and efficiency.<ref>{{cite web |url=http://www.port-tauranga.co.nz/ |title=Port of Tauranga Limited – New Zealand's largest and most efficient port – Port of Tauranga |publisher=Port-tauranga.co.nz |access-date=20 September 2015 |archive-url=https://web.archive.org/web/20150915070956/http://www.port-tauranga.co.nz/ |archive-date=15 September 2015 |url-status=live }}</ref> Tauranga is one of New Zealand's fastest-growing cities, with an 11% increase in population between the 2006 census and the 2013 census,<ref>{{cite web |url=http://www.radionz.co.nz/news/national/224710/auckland-drives-5-percent-population-growth |title=Auckland drives 5% population growth &#124; Radio New Zealand News |publisher=Radionz.co.nz |date=15 October 2013 |access-date=20 September 2015 |archive-url=https://web.archive.org/web/20150924132815/http://www.radionz.co.nz/news/national/224710/auckland-drives-5-percent-population-growth |archive-date=24 September 2015 |url-status=live }}</ref> and 19% between the 2013 and 2018 census. Due to its rapid population growth, Tauranga has become New Zealand's fifth-largest city, overtaking [[Dunedin]] and the [[Napier, New Zealand|Napier]]-[[Hastings, New Zealand|Hastings]] urban areas.
+
+==History==
+
+===Settlement===
+The earliest known settlers were [[Māori people|Māori]], who arrived in the 13th century at Tauranga in the [[Tākitimu]] and the [[Mātaatua]] [[Waka (canoe)|waka]].<!-- Something about their culture for 600 years? -->
+
+At 9 am on Friday, 23 June 1826, {{ship||Herald|1826 ship|2}} was the first European ship to enter [[Tauranga Harbour]]. The Revd. [[Henry Williams (missionary)|Henry Williams]] conducted a Christian service at Otamataha Pā.<ref name="HW2-1">{{cite web| work= Williams, H. The Early Journals of Henry Williams, p. 479-494| title= Appendix IV – The Herald (W. Williams, Journal, 20 June 1826)| date= 1961| url= http://www.enzb.auckland.ac.nz/document?wid=3826&page=1&action=null| access-date= 14 February 2017| archive-url= https://web.archive.org/web/20180202112349/http://www.enzb.auckland.ac.nz/document/?wid=3826&page=1&action=null| archive-date= 2 February 2018| url-status= live}}</ref><ref name="Fitzgerald2011-4">{{cite book |last1= Fitzgerald  |first1= Caroline |title= Te Wiremu: Henry Williams – Early Years in the North |year=2011|publisher=Huia Publishers, New Zealand |isbn=978-1-86969-439-5 |pages= 72–73}}</ref><ref name="McCauley">{{cite web| work= Tauranga Memories Kete: Tauranga Local History |author = McCauley, Debbie |title = Koraurau (c. 1796-1828) | date = 2015 | url= https://debbiemccauleyauthor.wordpress.com/biographies/koraurau-1796-1828 | access-date=14 February 2017}}</ref>
+
+In December 1826 and again in March 1827, the ''Herald'' travelled to Tauranga from the [[Bay of Islands]] to obtain supplies of potatoes, pigs and flax.<ref name="HW5-1">{{cite web| last= Williams| first= H. | work= The Early Journals of Henry Williams|pages=479–494| title= Appendix IV – The Herald (W. Williams, Journal, 28 November 1826; H. Williams to C. M. S., 13 December 1826)| date= 1961| url= http://www.enzb.auckland.ac.nz/document?wid=3826&page=1&action=null| access-date= 14 February 2017| archive-url= https://web.archive.org/web/20180202112349/http://www.enzb.auckland.ac.nz/document/?wid=3826&page=1&action=null| archive-date= 2 February 2018| url-status= live}}</ref><ref name="HW7">{{cite web| work= Williams, H. The Early Journals of Henry Williams, p. 479-494| title= Appendix IV – The Herald (H. Williams, Journal, 26 March 1827; 7 April 1827)| date= 1961| url= http://www.enzb.auckland.ac.nz/document?wid=3826&page=1&action=null| access-date= 14 February 2017| archive-url= https://web.archive.org/web/20180202112349/http://www.enzb.auckland.ac.nz/document/?wid=3826&page=1&action=null| archive-date= 2 February 2018| url-status= live}}</ref> In 1835 a [[Church Missionary Society]] mission station was established at Tauranga by William Wade. Rev. [[Alfred Nesbit Brown|Alfred N. Brown]] arrived at the CMS mission station in 1838.<ref name="LMR1874">{{cite book |last1= Rogers |first1= Lawrence M. |title= Te Wiremu: A Biography of Henry Williams|year=1973 |publisher=Pegasus Press }}</ref> John Morgan also visited the mission in 1838.<ref>{{cite web |first = John | last = Morgan |title= The Church Missionary Gleaner, December 1841 |work=Horrors Attending New Zealand Warfare|access-date=9 October 2015 |url= http://www.churchmissionarysociety.amdigital.co.uk/Documents/Images/CMS_OX_Gleaner_1841_09/9| publisher = [[Adam Matthew Digital]] |url-access=subscription }}</ref>
+
+[[File:Street on the waterfront at Tauranga, 1924. ATLIB 296375.png|thumb|left|View of waterfront in 1924]]
+Europeans trading in [[Phormium|flax]] were active in the Bay of Plenty during the 1830s; some were transient, others married local women and settled permanently. The first permanent non-Maori trader was [[James Farrow (trader)|James Farrow]], who travelled to Tauranga in 1829, obtaining flax fibre for Australian merchants in exchange for [[musket]]s and [[gunpowder]]. Farrow acquired a land area of {{convert|1/2|acre|m2|order=flip}} on 10 January 1838 at [[Otūmoetai|Otūmoetai Pā]] from the chiefs [[Hori Kingi Tupaea|Tupaea]], Tangimoana and Te Omanu, the earliest authenticated land purchase in the Bay of Plenty.<ref>{{cite web|url=http://www.tauranga.govt.nz/knowledgebase/tabid/624/qid/1164/tctl/1332_ViewQuestion/Default.aspx |access-date=18 June 2009 |url-status=dead |title=The Traders |archive-url=https://web.archive.org/web/20081020050102/http://www.tauranga.govt.nz/knowledgebase/tabid/624/qid/1164/tctl/1332_ViewQuestion/Default.aspx |archive-date=20 October 2008 }}</ref>
+
+In 1840, a [[Catholic Church|Catholic]] mission station was established. [[Jean Baptiste Pompallier|Bishop Pompallier]] was given land within the palisades of Otūmoetai Pā for a church and a [[presbytery (residence)|presbytery]]. The mission station closed in 1863 due to land wars in the [[Waikato]] district.<ref>{{cite web |url=http://www.kiwitourism.com/tauranga/tauranga-area-guide.html |title=Area Guide Tauranga – Introduction to the Bay of Plenty |publisher=Kiwitourism.com |date=18 June 2006 |access-date=20 September 2015 |archive-url=https://web.archive.org/web/20160122140933/http://www.kiwitourism.com/tauranga/tauranga-area-guide.html |archive-date=22 January 2016 |url-status=live }}</ref>
+
+===New Zealand Wars–Tauranga Campaign===
+The [[Tauranga Campaign]] took place in and around Tauranga from 21 January to 21 June 1864, during the [[New Zealand Wars]]. The Battle of Gate Pa is the best known.
+
+The [[Tauranga Campaign#Battle of Gate Pā|Battle of Gate Pā]] was an attack on the well fortified [[Pā]] and its Māori defenders on 29 April 1864 by British forces made up of approximately 300 men of the 43rd Regiment and a naval contingent. The British casualties were 31 dead (including 10 officers), and 80 wounded – the single most devastating loss of life suffered by the British military in the whole of the New Zealand Wars.  The Māori defenders abandoned the Pā during the night with casualties estimated at 25 dead and an unknown number of wounded.<ref name="cowan42">{{cite book| last = Cowan| first = James| author-link = James Cowan (New Zealand writer)| title = The New Zealand Wars: A History of the Maori Campaigns and the Pioneering Period, Vol. 1, 1845–1864| publisher = RNZ Government Printer| year   = 1922| location = Wellington| chapter = 42, Gate Pa and Te Ranga| chapter-url  = http://nzetc.victoria.ac.nz/tm/scholarly/tei-Cow01NewZ-c42.html}}</ref>
+
+===Fires===
+In November 1916, a large fire broke out at the strand destroying 12 buildings, including the Commercial Hotel.<ref>{{cite web|url=https://paekoroki.tauranga.govt.nz/nodes/view/21074|title=Tauranga Fire Brigade (1882–1957)|publisher=Tauranga City Libraries|access-date=19 March 2023}}</ref>
+
+[[File:Tauranga Fire Hotel.jpg|thumb|Tauranga Hotel on fire surrounded by large crowd]]
+In 1936 another large fire occurred which started in the hotel's staff quarters and drew large crowds.<ref>{{cite news|url=https://paperspast.natlib.govt.nz/newspapers/PAHH19360217.2.22|work=Pahiatua Herald|date=17 February 1936|title=Blaze at Tauranga}}</ref>
+
+===Modern era===
+Under the ''Local Government (Tauranga City Council) Order 2003'',<ref>{{Cite web |date=29 September 2003 |title=Local Government (Tauranga City Council) Order 2003 |url=http://www.knowledge-basket.co.nz/regs/regs/text/2003/2003275.txt |archive-url=https://web.archive.org/web/20051027143725/http://www.knowledge-basket.co.nz/regs/regs/text/2003/2003275.txt |archive-date=27 October 2005 |website=Knowledge Basket}}</ref> Tauranga became legally a [[List of cities in New Zealand|city]] for a second time, from 1 March 2004.
+
+In August 2011, Tauranga received [[Ultra-Fast Broadband]] as part of the [[New Zealand Government]]'s rollout.<ref>{{cite web |url=http://www.voxy.co.nz/technology/ultra-fast-broadband-comes-tauranga/5/99115 |title=Ultra fast broadband comes to Tauranga |publisher=Voxy.co.nz |date=23 August 2011 |access-date=20 September 2015 |archive-url=https://web.archive.org/web/20150610225906/http://www.voxy.co.nz/technology/ultra-fast-broadband-comes-tauranga/5/99115 |archive-date=10 June 2015 |url-status=live }}</ref>
+
+==Geography==
+Tauranga is located around a large harbour that extends along the western [[Bay of Plenty]], and is protected by [[Matakana Island]] and the extinct volcano of [[Mount Maunganui (mountain)|Mauao]] (Mount Maunganui). [[Ngamuwahine River]] is located 19 kilometres southwest of Tauranga.
+
+[[File:Street in Tauranga, 1924. ATLIB 296372.png|thumb|View down The Strand from the intersection of Harington St in 1924, including Tauranga Hotel and the Farmers' Union Trading Company buildings]]
+Tauranga and the [[Bay of Plenty]] are situated along a faultline and so experience (infrequent) seismic activity. There are a few [[volcanoes]] around the area (mainly dormant). The most notable of these are [[Whakaari/White Island|White Island]] and Mauao, nicknamed "The Mount" by locals.
+
+Tauranga is roughly the [[antipodes|antipode]] of [[Jaén, Spain|Jaén]], Spain.
+
+==Administrative divisions==
+===Suburbs===
+{{expand list|date=July 2024}}
+Tauranga City consists of the following suburbs, sorted by 2018 general electoral ward:{{update inline|reason=Wards have changed|date=October 2024}}
+
+{{col-begin|width=auto}}
+{{col-break}}
+* '''Te Papa / Welcome Bay Ward:'''
+** [[Gate Pa]]
+** [[Greerton]]
+** [[Hairini]]
+** [[Maungatapu, Bay of Plenty|Maungatapu]]
+** [[Merivale, Tauranga|Merivale]]
+** [[Motuopuhi Island]] (Rat Island)
+** [[Ohauiti]]
+** [[Poike, New Zealand|Poike]]
+** [[Tauranga Central|Tauranga]]{{efn|group=TaurangaPP|name=CBD|Otherwise known as ''Tauranga Central'' or ''Tauranga CBD''.}}
+** [[Tauranga South]]
+** [[Waikareao Estuary]]
+** [[Welcome Bay]]
+{{col-break}}
+* '''Otumoetai / Pyes Pa Ward:'''
+** [[Bellevue, New Zealand|Bellevue]]
+** [[Bethlehem, New Zealand|Bethlehem]]
+** [[Brookfield, New Zealand|Brookfield]]
+** [[Judea, New Zealand|Judea]]
+** [[Matua, New Zealand|Matua]]
+** [[Omanawa]]
+** [[Otūmoetai]]
+** [[Pyes Pa]]
+** [[Tauriko]]
+** [[The Lakes Village]]
+{{col-break}}
+* '''Mount Maunganui / Papamoa Ward:'''
+** [[Arataki]]
+** [[Kairua]]
+** [[Matapihi]]
+** [[Mount Maunganui]]
+** [[Moturiki Island]]
+** [[Motuotau Island]]
+** [[Omanu]]
+** [[Papamoa Beach]]
+** [[Waitao]]
+{{col-end}}
+
+;Notes:
+{{notelist|group=TaurangaPP}}
+
+==Climate==
+Tauranga has an [[oceanic climate|oceanic or maritime temperate]] climate  (cfb) in the [[Köppen climate classification|Köppen Climate Classification]]. Though in the [[Trewartha climate classification|Trewartha Climate Classification]] it is [[subtropical]] (cfbl)<ref>{{cite web|url=http://www.niwa.co.nz/education-and-training/schools/resources/climate/overview/map_north|title=Northern New Zealand|date=28 February 2007|publisher=[[NIWA]]|access-date=14 May 2014|archive-url=https://web.archive.org/web/20120119095227/http://www.niwa.co.nz/education-and-training/schools/resources/climate/overview/map_north|archive-date=19 January 2012|url-status=live}}</ref>
+
+During the summer months the population swells as holidaymakers descend on the city, especially along the popular white coastal surf beaches from [[Mount Maunganui]] to [[Papamoa]].
+{{Clear}}
+{{Weather box
+|location = Tauranga (1991–2020 normals, extremes 1913–present)
+|metric first = Y
+|single line = Y
+| Jan record high C = 33.7
+| Feb record high C = 33.9
+| Mar record high C = 30.3
+| Apr record high C = 28.4
+| May record high C = 23.9
+| Jun record high C = 21.9
+| Jul record high C = 22.8
+| Aug record high C = 20.7
+| Sep record high C = 24.7
+| Oct record high C = 25.6
+| Nov record high C = 29.2
+| Dec record high C = 30.6
+| year record high C = 33.9
+| Jan avg record high C  = 28.4
+| Feb avg record high C  = 28.4
+| Mar avg record high C  = 26.3
+| Apr avg record high C  = 24.0
+| May avg record high C  = 21.1
+| Jun avg record high C  = 18.5
+| Jul avg record high C  = 17.6
+| Aug avg record high C  = 18.2
+| Sep avg record high C  = 20.1
+| Oct avg record high C  = 22.1
+| Nov avg record high C  = 24.9
+| Dec avg record high C  = 26.8
+| year avg record high C = 29.3
+|Jan high C = 	24.3
+|Feb high C = 	24.4
+|Mar high C = 	22.9
+|Apr high C = 	20.3
+|May high C = 	17.7
+|Jun high C = 	15.4
+|Jul high C = 	14.6
+|Aug high C = 	15.2
+|Sep high C = 	16.7
+|Oct high C = 	18.5
+|Nov high C = 	20.5
+|Dec high C = 	22.6
+| year high C = 	19.4
+|Jan mean C = 	19.8
+|Feb mean C = 	20.1
+|Mar mean C = 	18.4
+|Apr mean C = 	15.9
+|May mean C = 	13.6
+|Jun mean C = 	11.2
+|Jul mean C = 	10.5
+|Aug mean C = 	11.0
+|Sep mean C = 	12.5
+|Oct mean C = 	14.3
+|Nov mean C = 	16.1
+|Dec mean C = 	18.3
+| year mean C = 	15.1
+|Jan low C = 	15.3
+|Feb low C = 	15.8
+|Mar low C = 	13.9
+|Apr low C = 	11.6
+|May low C = 	9.4
+|Jun low C = 	7.1
+|Jul low C = 	6.3
+|Aug low C = 	6.7
+|Sep low C = 	8.3
+|Oct low C = 	10.0
+|Nov low C = 	11.6
+|Dec low C = 	14.1
+| year low C = 	10.8
+| Jan avg record low C  = 9.7
+| Feb avg record low C  = 10.5
+| Mar avg record low C  = 8.6
+| Apr avg record low C  = 5.3
+| May avg record low C  = 3.5
+| Jun avg record low C  = 1.5
+| Jul avg record low C  = 0.9
+| Aug avg record low C  = 1.2
+| Sep avg record low C  = 2.4
+| Oct avg record low C  = 4.1
+| Nov avg record low C  = 5.7
+| Dec avg record low C  = 8.8
+| year avg record low C = 0.2
+|Jan record low C  = 3.3
+|Feb record low C  = 1.7
+|Mar record low C  = 0.7
+|Apr record low C  = -0.6
+|May record low C  =  -5.3
+|Jun record low C  = -4.8
+|Jul record low C  = -4.2
+|Aug record low C  = -3.4
+|Sep record low C  = -4.6
+|Oct record low C  = -2.3
+|Nov record low C  = 0.6
+|Dec record low C  = -0.9
+|year record low C = -5.3
+|rain colour = green	
+|Jan rain mm = 	76.2
+|Feb rain mm = 	83.2
+|Mar rain mm = 	94.9
+|Apr rain mm = 	132.1
+|May rain mm = 	116.2
+|Jun rain mm = 	120.6
+|Jul rain mm = 	133.4
+|Aug rain mm = 	111.6
+|Sep rain mm = 	86.5
+|Oct rain mm = 	80.4
+|Nov rain mm = 	63.4
+|Dec rain mm = 	103
+|year rain mm = 	
+| Jan rain days = 	6.3
+| Feb rain days = 	6.7
+| Mar rain days = 	8.1
+| Apr rain days = 	8.7
+| May rain days = 	9.6
+| Jun rain days = 	10.7
+| Jul rain days = 	11.7
+| Aug rain days = 	11.7
+| Sep rain days = 	10.7
+| Oct rain days = 	9.6
+| Nov rain days = 	8.6
+| Dec rain days = 	8.5
+| unit rain days = 1.0 mm	
+|Jan sun = 	269.0
+|Feb sun = 	221.5
+|Mar sun = 	221.4
+|Apr sun = 	184.3
+|May sun = 	170.9
+|Jun sun = 	134.1
+|Jul sun = 	149.9
+|Aug sun = 	176.4
+|Sep sun = 	178.2
+|Oct sun = 	214.8
+|Nov sun = 	240.0
+|Dec sun = 	241.0
+|year sun = 	
+| Jan humidity = 	72.8
+| Feb humidity = 	76.4
+| Mar humidity = 	78.5
+| Apr humidity = 	79.8
+| May humidity = 	83.3
+| Jun humidity = 	85.0
+| Jul humidity = 	84.3
+| Aug humidity = 	81.7
+| Sep humidity = 	76.2
+| Oct humidity = 	76.1
+| Nov humidity = 	71.8
+| Dec humidity = 	73.4
+|source 1 = NIWA Climate Data<ref name = NIWA>{{cite web
+| archive-url = https://web.archive.org/web/20240520001949/https://niwa.co.nz/climate-and-weather/climate-data-and-activities
+| archive-date = 20 May 2024
+| url = https://niwa.co.nz/climate-and-weather/climate-data-and-activities
+| title = Climate data and activities
+| publisher= NIWA
+| access-date = 20 May 2024}}</ref><ref>{{cite web
+|url = https://cliflo.niwa.co.nz/
+|title = CliFlo -The National Climate Database (Agent numbers: 1611, 1612, 1615, 41428)
+|publisher = NIWA
+|access-date = 20 Jun 2024}}</ref>
+}}
+
+==Demographics==
+In 1976 Tauranga was a medium-sized urban area with a population of around 48,000. However, the completion of a harbour bridge in 1988 brought Tauranga and The Mount closer (they amalgamated in 1989) and re-energised the economies of both parts of the enlarged city.
+By 1996 Tauranga's population had grown to 82,092 and by 2006 it had reached 103,635.<ref>Geonames Database [http://www.travelsradiate.com/oceania/new-zealand/tauranga/2208032 "Region information page"]{{dead link|date=October 2024|fix-attempted=yes}}, ''travelsradiate'', 2010, accessed 2 January 2011.</ref> By 2023, it had reached 152,844.<ref name="Census 2023"/> 
+
+In 2008 Tauranga overtook [[Dunedin]] to become the [[Ranked list of New Zealand main urban areas|sixth-largest]] city in New Zealand by urban area, and the [[List of cities in New Zealand|ninth largest]] city by [[Territorial Authorities of New Zealand|Territorial Authority]] area. With continuing growth it has now surpassed the Napier-Hastings area to become New Zealand's fifth-largest city.
+
+Tauranga covers {{Convert|141.91|km2||abbr=on}}<ref name="Area">{{Cite web|title=ArcGIS Web Application|url=https://statsnz.maps.arcgis.com/apps/webappviewer/index.html?id=6f49867abe464f86ac7526552fe19787| access-date=3 March 2022|website=statsnz.maps.arcgis.com}}</ref> and had an estimated population of {{NZ population data 2018|Tauranga city|y}} as of {{NZ population data 2018|||y|y||,}} with a population density of {{Decimals|{{formatnum:{{NZ population data 2018|Tauranga city|y}}|R}}/141.91|0}} people per km<sup>2</sup>.
+{{Historical populations|2006|103,881|2013|115,161|2018|137,130|2023|152,844|percentages=pagr|align=left|source=<ref name="Census 2018">{{NZ census 2018|Tauranga City (023)|tauranga-city|Tauranga City}}</ref><ref name="Census 2023"/>}}
+
+Tauranga had a population of 152,844 in the [[2023 New Zealand census]], an increase of 15,714 people (11.5%) since the [[2018 New Zealand census|2018 census]], and an increase of 37,683 people (32.7%) since the [[2013 New Zealand census|2013 census]]. There were 73,821 males, 78,558 females and 462 people of [[non-binary gender|other genders]] in 55,929 dwellings.<ref>{{cite web|url=https://explore.data.stats.govt.nz/vis?fs[0]=2023%20Census%2C0%7CTotals%20by%20topic%23CAT_TOTALS_BY_TOPIC%23&pg=0&fc=Variable%20codes&bp=true&snb=9&df[ds]=ds-nsiws-disseminate&df[id]=CEN23_TBT_005&df[ag]=STATSNZ&df[vs]=1.0&dq=doTotal%2Bdo1.023%2Bw_02301%2Bw_02302%2Bw_02303%2Bw_02304%2Bw_02305%2Bw_02306%2Bw_02307%2Bw_02308.2023&ly[rw]=CEN23_TBT_DWD_003|publisher=Stats NZ - Tatauranga Aotearoa - Aotearoa Data Explorer|access-date=3 October 2024|title=Totals by topic for dwellings, (RC, TALB, UR, SA3, SA2, Ward, Health), 2013, 2018, and 2023 Censuses}}</ref> 2.5% of people identified as [[LGBTQ|LGBTIQ+]]. The median age was 39.4 years (compared with 38.1 years nationally). There were 29,604 people (19.4%) aged under 15 years, 26,316 (17.2%) aged 15 to 29, 66,786 (43.7%) aged 30 to 64, and 30,138 (19.7%) aged 65 or older.<ref name="Census 2023"/>
+
+People could identify as more than one ethnicity. The results were 78.7% [[European New Zealanders|European]] ([[Pākehā]]); 19.3% [[Māori people|Māori]]; 3.6% [[Pasifika New Zealanders|Pasifika]]; 10.3% [[Asian New Zealanders|Asian]]; 1.8% Middle Eastern, Latin American and African New Zealanders (MELAA); and 2.1% other, which includes people giving their ethnicity as "New Zealander". English was spoken by 96.2%, Māori language by 4.5%, Samoan by 0.4% and other languages by 12.5%. No language could be spoken by 2.1% (e.g. too young to talk). [[New Zealand Sign Language]] was known by 0.4%. The percentage of people born overseas was 25.2, compared with 28.8% nationally.
+
+Religious affiliations were 31.3% [[Christianity in New Zealand|Christian]], 1.5% [[Hinduism in New Zealand|Hindu]], 0.4% [[Islam in New Zealand|Islam]], 1.9% [[Religion of Māori people|Māori religious beliefs]], 0.6% [[Buddhism in New Zealand|Buddhist]], 0.4% [[New Age]], 0.1% [[Judaism in New Zealand|Jewish]],  and 3.3% other religions. People who answered that they had [[Irreligion in New Zealand|no religion]] were 53.7%, and 6.9% of people did not answer the census question.
+
+Of those at least 15 years old, 22,431 (18.2%) people had a bachelor's or higher degree, 64,740 (52.5%) had a post-high school certificate or diploma, and 29,052 (23.6%) people exclusively held high school qualifications. The median income was $42,100, compared with $41,500 nationally. 14,001 people (11.4%) earned over $100,000 compared to 12.1% nationally. The employment status of those at least 15 was that 61,218 (49.7%) people were employed full-time, 17,007 (13.8%) were part-time, and 3,252 (2.6%) were unemployed.<ref name="Census 2023">{{Cite web|url=https://explore.data.stats.govt.nz/vis?fs[0]=2023%20Census%2C0%7CTotals%20by%20topic%23CAT_TOTALS_BY_TOPIC%23&pg=0&fc=Variable%20codes&bp=true&snb=9&df[ds]=ds-nsiws-disseminate&df[id]=CEN23_TBT_008&df[ag]=STATSNZ&df[vs]=1.0&dq=hq011%2Bhq010%2Bhq009%2Bhq008%2Bhq007%2Bhq006%2Bhq005%2Bhq004%2Bhq003%2Bhq002%2Bhq001%2Bhq000%2Bws1%2Bsp99%2Bra80%2Bra08%2Bra07%2Bra06%2Bra05%2Bra01%2Bra04%2Bra03%2Bra02%2Bra00%2Brb1%2Bls66%2Bls03%2Bls02%2Bls05%2Bls04%2Bls01%2Beg6%2Beg5%2Beg4%2Beg3%2Beg2%2Beg1%2BbiTotal%2Bbi0%2Bbi1%2BasTotalLG%2Bas4%2Bas3%2Bas2%2Bas1%2Bws4%2Bws3%2Bws2%2Bge3%2Bge2%2Bge1%2Brc%2BasMed%2BegTotal%2BlsTotal%2BgeTotal%2BrbTotal%2BraTotal%2BhqTotal%2BibTotal%2Bibmed%2BwsTotal.023.2013%2B2018%2B2023&to[TIME]=false&ly[rw]=CEN23_TBT_IND_003&ly[cl]=CEN23_YEAR_001|publisher=Stats NZ - Tatauranga Aotearoa - Aotearoa Data Explorer|access-date=3 October 2024|title=Totals by topic for individuals, (RC, TALB, UR, SA3, SA2, Ward, Health), 2013, 2018, and 2023 Censuses|at=Tauranga City (023)}}</ref>
+[[File:2023 NZ Census Population Density - Tauranga City.png|thumb|Population density in the 2023 census]]
+{| class="wikitable"
+|+Individual wards
+|-
+!Name !! Area<br/>(km<sup>2</sup>) !! Population !! Density<br/>(per km<sup>2</sup>) || Dwellings !! Median age !! Median<br/>income
+|-
+| Mauao/Mount Maunganui General Ward || style="text-align:right;"|18.34 || style="text-align:right;"|16,005 || style="text-align:right;"|873 || style="text-align:right;"|6,174 || 38.9 years || $47,900<ref>{{Cite web|url=https://explore.data.stats.govt.nz/vis?fs[0]=2023%20Census%2C0%7CTotals%20by%20topic%23CAT_TOTALS_BY_TOPIC%23&pg=0&fc=Variable%20codes&bp=true&snb=9&df[ds]=ds-nsiws-disseminate&df[id]=CEN23_TBT_008&df[ag]=STATSNZ&df[vs]=1.0&dq=hq011%2Bhq010%2Bhq009%2Bhq008%2Bhq007%2Bhq006%2Bhq005%2Bhq004%2Bhq003%2Bhq002%2Bhq001%2Bhq000%2Bws1%2Bsp99%2Bra80%2Bra08%2Bra07%2Bra06%2Bra05%2Bra01%2Bra04%2Bra03%2Bra02%2Bra00%2Brb1%2Bls66%2Bls03%2Bls02%2Bls05%2Bls04%2Bls01%2Beg6%2Beg5%2Beg4%2Beg3%2Beg2%2Beg1%2BbiTotal%2Bbi0%2Bbi1%2BasTotalLG%2Bas4%2Bas3%2Bas2%2Bas1%2Bws4%2Bws3%2Bws2%2Bge3%2Bge2%2Bge1%2Brc%2BasMed%2BegTotal%2BlsTotal%2BgeTotal%2BrbTotal%2BraTotal%2BhqTotal%2BibTotal%2Bibmed%2BwsTotal.w_02301.2013%2B2018%2B2023&to[TIME]=false&ly[rw]=CEN23_TBT_IND_003&ly[cl]=CEN23_YEAR_001|publisher=Stats NZ - Tatauranga Aotearoa - Aotearoa Data Explorer|access-date=3 October 2024|title=Totals by topic for individuals, (RC, TALB, UR, SA3, SA2, Ward, Health), 2013, 2018, and 2023 Censuses|at=Mauao/Mount Maunganui General Ward}}</ref>
+|-
+| Matua-Otūmoetai General Ward || style="text-align:right;"|7.87 || style="text-align:right;"|18,942 || style="text-align:right;"|2,407 || style="text-align:right;"|7,044 || 41.0 years || $44,400<ref>{{Cite web|url=https://explore.data.stats.govt.nz/vis?fs[0]=2023%20Census%2C0%7CTotals%20by%20topic%23CAT_TOTALS_BY_TOPIC%23&pg=0&fc=Variable%20codes&bp=true&snb=9&df[ds]=ds-nsiws-disseminate&df[id]=CEN23_TBT_008&df[ag]=STATSNZ&df[vs]=1.0&dq=hq011%2Bhq010%2Bhq009%2Bhq008%2Bhq007%2Bhq006%2Bhq005%2Bhq004%2Bhq003%2Bhq002%2Bhq001%2Bhq000%2Bws1%2Bsp99%2Bra80%2Bra08%2Bra07%2Bra06%2Bra05%2Bra01%2Bra04%2Bra03%2Bra02%2Bra00%2Brb1%2Bls66%2Bls03%2Bls02%2Bls05%2Bls04%2Bls01%2Beg6%2Beg5%2Beg4%2Beg3%2Beg2%2Beg1%2BbiTotal%2Bbi0%2Bbi1%2BasTotalLG%2Bas4%2Bas3%2Bas2%2Bas1%2Bws4%2Bws3%2Bws2%2Bge3%2Bge2%2Bge1%2Brc%2BasMed%2BegTotal%2BlsTotal%2BgeTotal%2BrbTotal%2BraTotal%2BhqTotal%2BibTotal%2Bibmed%2BwsTotal.w_02302.2013%2B2018%2B2023&to[TIME]=false&ly[rw]=CEN23_TBT_IND_003&ly[cl]=CEN23_YEAR_001|publisher=Stats NZ - Tatauranga Aotearoa - Aotearoa Data Explorer|access-date=3 October 2024|title=Totals by topic for individuals, (RC, TALB, UR, SA3, SA2, Ward, Health), 2013, 2018, and 2023 Censuses|at=Matua-Otūmoetai General Ward}}</ref>
+|-
+| Te Papa General Ward || style="text-align:right;"|10.88 || style="text-align:right;"|18,522 || style="text-align:right;"|1,702 || style="text-align:right;"|6,960 || 37.4 years || $38,100<ref>{{Cite web|url=https://explore.data.stats.govt.nz/vis?fs[0]=2023%20Census%2C0%7CTotals%20by%20topic%23CAT_TOTALS_BY_TOPIC%23&pg=0&fc=Variable%20codes&bp=true&snb=9&df[ds]=ds-nsiws-disseminate&df[id]=CEN23_TBT_008&df[ag]=STATSNZ&df[vs]=1.0&dq=hq011%2Bhq010%2Bhq009%2Bhq008%2Bhq007%2Bhq006%2Bhq005%2Bhq004%2Bhq003%2Bhq002%2Bhq001%2Bhq000%2Bws1%2Bsp99%2Bra80%2Bra08%2Bra07%2Bra06%2Bra05%2Bra01%2Bra04%2Bra03%2Bra02%2Bra00%2Brb1%2Bls66%2Bls03%2Bls02%2Bls05%2Bls04%2Bls01%2Beg6%2Beg5%2Beg4%2Beg3%2Beg2%2Beg1%2BbiTotal%2Bbi0%2Bbi1%2BasTotalLG%2Bas4%2Bas3%2Bas2%2Bas1%2Bws4%2Bws3%2Bws2%2Bge3%2Bge2%2Bge1%2Brc%2BasMed%2BegTotal%2BlsTotal%2BgeTotal%2BrbTotal%2BraTotal%2BhqTotal%2BibTotal%2Bibmed%2BwsTotal.w_02303.2013%2B2018%2B2023&to[TIME]=false&ly[rw]=CEN23_TBT_IND_003&ly[cl]=CEN23_YEAR_001|publisher=Stats NZ - Tatauranga Aotearoa - Aotearoa Data Explorer|access-date=3 October 2024|title=Totals by topic for individuals, (RC, TALB, UR, SA3, SA2, Ward, Health), 2013, 2018, and 2023 Censuses|at=Te Papa General Ward}}</ref>
+|-
+| Bethlehem General Ward || style="text-align:right;"|21.27 || style="text-align:right;"|18,819 || style="text-align:right;"|885 || style="text-align:right;"|7,068 || 44.0 years || $39,600<ref>{{Cite web|url=https://explore.data.stats.govt.nz/vis?fs[0]=2023%20Census%2C0%7CTotals%20by%20topic%23CAT_TOTALS_BY_TOPIC%23&pg=0&fc=Variable%20codes&bp=true&snb=9&df[ds]=ds-nsiws-disseminate&df[id]=CEN23_TBT_008&df[ag]=STATSNZ&df[vs]=1.0&dq=hq011%2Bhq010%2Bhq009%2Bhq008%2Bhq007%2Bhq006%2Bhq005%2Bhq004%2Bhq003%2Bhq002%2Bhq001%2Bhq000%2Bws1%2Bsp99%2Bra80%2Bra08%2Bra07%2Bra06%2Bra05%2Bra01%2Bra04%2Bra03%2Bra02%2Bra00%2Brb1%2Bls66%2Bls03%2Bls02%2Bls05%2Bls04%2Bls01%2Beg6%2Beg5%2Beg4%2Beg3%2Beg2%2Beg1%2BbiTotal%2Bbi0%2Bbi1%2BasTotalLG%2Bas4%2Bas3%2Bas2%2Bas1%2Bws4%2Bws3%2Bws2%2Bge3%2Bge2%2Bge1%2Brc%2BasMed%2BegTotal%2BlsTotal%2BgeTotal%2BrbTotal%2BraTotal%2BhqTotal%2BibTotal%2Bibmed%2BwsTotal.w_02304.2013%2B2018%2B2023&to[TIME]=false&ly[rw]=CEN23_TBT_IND_003&ly[cl]=CEN23_YEAR_001|publisher=Stats NZ - Tatauranga Aotearoa - Aotearoa Data Explorer|access-date=3 October 2024|title=Totals by topic for individuals, (RC, TALB, UR, SA3, SA2, Ward, Health), 2013, 2018, and 2023 Censuses|at=Bethlehem General Ward}}</ref>
+|-
+| Tauriko General Ward || style="text-align:right;"|24.68 || style="text-align:right;"|18,849 || style="text-align:right;"|764 || style="text-align:right;"|6,543 || 37.9 years || $44,100<ref>{{Cite web|url=https://explore.data.stats.govt.nz/vis?fs[0]=2023%20Census%2C0%7CTotals%20by%20topic%23CAT_TOTALS_BY_TOPIC%23&pg=0&fc=Variable%20codes&bp=true&snb=9&df[ds]=ds-nsiws-disseminate&df[id]=CEN23_TBT_008&df[ag]=STATSNZ&df[vs]=1.0&dq=hq011%2Bhq010%2Bhq009%2Bhq008%2Bhq007%2Bhq006%2Bhq005%2Bhq004%2Bhq003%2Bhq002%2Bhq001%2Bhq000%2Bws1%2Bsp99%2Bra80%2Bra08%2Bra07%2Bra06%2Bra05%2Bra01%2Bra04%2Bra03%2Bra02%2Bra00%2Brb1%2Bls66%2Bls03%2Bls02%2Bls05%2Bls04%2Bls01%2Beg6%2Beg5%2Beg4%2Beg3%2Beg2%2Beg1%2BbiTotal%2Bbi0%2Bbi1%2BasTotalLG%2Bas4%2Bas3%2Bas2%2Bas1%2Bws4%2Bws3%2Bws2%2Bge3%2Bge2%2Bge1%2Brc%2BasMed%2BegTotal%2BlsTotal%2BgeTotal%2BrbTotal%2BraTotal%2BhqTotal%2BibTotal%2Bibmed%2BwsTotal.w_02305.2013%2B2018%2B2023&to[TIME]=false&ly[rw]=CEN23_TBT_IND_003&ly[cl]=CEN23_YEAR_001|publisher=Stats NZ - Tatauranga Aotearoa - Aotearoa Data Explorer|access-date=3 October 2024|title=Totals by topic for individuals, (RC, TALB, UR, SA3, SA2, Ward, Health), 2013, 2018, and 2023 Censuses|at=Tauriko General Ward}}</ref>
+|-
+| Welcome Bay General Ward || style="text-align:right;"|18.25 || style="text-align:right;"|20,526 || style="text-align:right;"|1,125 || style="text-align:right;"|7,149 || 38.4 years || $42,800<ref>{{Cite web|url=https://explore.data.stats.govt.nz/vis?fs[0]=2023%20Census%2C0%7CTotals%20by%20topic%23CAT_TOTALS_BY_TOPIC%23&pg=0&fc=Variable%20codes&bp=true&snb=9&df[ds]=ds-nsiws-disseminate&df[id]=CEN23_TBT_008&df[ag]=STATSNZ&df[vs]=1.0&dq=hq011%2Bhq010%2Bhq009%2Bhq008%2Bhq007%2Bhq006%2Bhq005%2Bhq004%2Bhq003%2Bhq002%2Bhq001%2Bhq000%2Bws1%2Bsp99%2Bra80%2Bra08%2Bra07%2Bra06%2Bra05%2Bra01%2Bra04%2Bra03%2Bra02%2Bra00%2Brb1%2Bls66%2Bls03%2Bls02%2Bls05%2Bls04%2Bls01%2Beg6%2Beg5%2Beg4%2Beg3%2Beg2%2Beg1%2BbiTotal%2Bbi0%2Bbi1%2BasTotalLG%2Bas4%2Bas3%2Bas2%2Bas1%2Bws4%2Bws3%2Bws2%2Bge3%2Bge2%2Bge1%2Brc%2BasMed%2BegTotal%2BlsTotal%2BgeTotal%2BrbTotal%2BraTotal%2BhqTotal%2BibTotal%2Bibmed%2BwsTotal.w_02306.2013%2B2018%2B2023&to[TIME]=false&ly[rw]=CEN23_TBT_IND_003&ly[cl]=CEN23_YEAR_001|publisher=Stats NZ - Tatauranga Aotearoa - Aotearoa Data Explorer|access-date=3 October 2024|title=Totals by topic for individuals, (RC, TALB, UR, SA3, SA2, Ward, Health), 2013, 2018, and 2023 Censuses|at=Welcome Bay General Ward}}</ref>
+|-
+| Arataki General Ward || style="text-align:right;"|19.44 || style="text-align:right;"|18,816 || style="text-align:right;"|968 || style="text-align:right;"|7,215 || 43.5 years || $38,500<ref>{{Cite web|url=https://explore.data.stats.govt.nz/vis?fs[0]=2023%20Census%2C0%7CTotals%20by%20topic%23CAT_TOTALS_BY_TOPIC%23&pg=0&fc=Variable%20codes&bp=true&snb=9&df[ds]=ds-nsiws-disseminate&df[id]=CEN23_TBT_008&df[ag]=STATSNZ&df[vs]=1.0&dq=hq011%2Bhq010%2Bhq009%2Bhq008%2Bhq007%2Bhq006%2Bhq005%2Bhq004%2Bhq003%2Bhq002%2Bhq001%2Bhq000%2Bws1%2Bsp99%2Bra80%2Bra08%2Bra07%2Bra06%2Bra05%2Bra01%2Bra04%2Bra03%2Bra02%2Bra00%2Brb1%2Bls66%2Bls03%2Bls02%2Bls05%2Bls04%2Bls01%2Beg6%2Beg5%2Beg4%2Beg3%2Beg2%2Beg1%2BbiTotal%2Bbi0%2Bbi1%2BasTotalLG%2Bas4%2Bas3%2Bas2%2Bas1%2Bws4%2Bws3%2Bws2%2Bge3%2Bge2%2Bge1%2Brc%2BasMed%2BegTotal%2BlsTotal%2BgeTotal%2BrbTotal%2BraTotal%2BhqTotal%2BibTotal%2Bibmed%2BwsTotal.w_02307.2013%2B2018%2B2023&to[TIME]=false&ly[rw]=CEN23_TBT_IND_003&ly[cl]=CEN23_YEAR_001|publisher=Stats NZ - Tatauranga Aotearoa - Aotearoa Data Explorer|access-date=3 October 2024|title=Totals by topic for individuals, (RC, TALB, UR, SA3, SA2, Ward, Health), 2013, 2018, and 2023 Censuses|at=Arataki General Ward}}</ref>
+|-
+| Pāpāmoa General Ward || style="text-align:right;"|21.19 || style="text-align:right;"|22,365 || style="text-align:right;"|1,055 || style="text-align:right;"|7,779 || 36.2 years || $43,800<ref>{{Cite web|url=https://explore.data.stats.govt.nz/vis?fs[0]=2023%20Census%2C0%7CTotals%20by%20topic%23CAT_TOTALS_BY_TOPIC%23&pg=0&fc=Variable%20codes&bp=true&snb=9&df[ds]=ds-nsiws-disseminate&df[id]=CEN23_TBT_008&df[ag]=STATSNZ&df[vs]=1.0&dq=hq011%2Bhq010%2Bhq009%2Bhq008%2Bhq007%2Bhq006%2Bhq005%2Bhq004%2Bhq003%2Bhq002%2Bhq001%2Bhq000%2Bws1%2Bsp99%2Bra80%2Bra08%2Bra07%2Bra06%2Bra05%2Bra01%2Bra04%2Bra03%2Bra02%2Bra00%2Brb1%2Bls66%2Bls03%2Bls02%2Bls05%2Bls04%2Bls01%2Beg6%2Beg5%2Beg4%2Beg3%2Beg2%2Beg1%2BbiTotal%2Bbi0%2Bbi1%2BasTotalLG%2Bas4%2Bas3%2Bas2%2Bas1%2Bws4%2Bws3%2Bws2%2Bge3%2Bge2%2Bge1%2Brc%2BasMed%2BegTotal%2BlsTotal%2BgeTotal%2BrbTotal%2BraTotal%2BhqTotal%2BibTotal%2Bibmed%2BwsTotal.w_02308.2013%2B2018%2B2023&to[TIME]=false&ly[rw]=CEN23_TBT_IND_003&ly[cl]=CEN23_YEAR_001|publisher=Stats NZ - Tatauranga Aotearoa - Aotearoa Data Explorer|access-date=3 October 2024|title=Totals by topic for individuals, (RC, TALB, UR, SA3, SA2, Ward, Health), 2013, 2018, and 2023 Censuses|at=Pāpāmoa General Ward}}</ref>
+|-
+! New Zealand !! !! !! !! !! 38.1 years !! style="text-align:left;"| $41,500
+|}
+
+[[File:Mount Maunganui main beach in Tauranga, New Zealand.jpg|thumb|right|Mount Maunganui Main Beach in winter, with 'Leisure Island' in the background]]
+
+==Government and politics==
+For elections to the [[New Zealand Parliament]], the city of Tauranga is in the [[Tauranga (New Zealand electorate)|Tauranga]] and [[Bay of Plenty (New Zealand electorate)|Bay of Plenty]] electorates.
+
+Tauranga is located in the administrative area of the [[Tauranga City Council]]. The council consists of the [[Mayor of Tauranga]] and nine councillors. The mayor is elected by the city [[at-large]], while the councillors are elected from nine wards (constituencies), each ward electing a single councillor. Elections are held via [[single transferable vote]].<ref>{{cite web |title=Elections 2024 |url=https://www.tauranga.govt.nz/council/about-your-council/elections-2024 |website=tauranga.govt.nz |publisher=Tauranga City Council |access-date=3 August 2024}}</ref>
+
+The present nine wards were first established for the 2024 local elections. There are eight general wards (Mauao/Mount Maunganui, Arataki, Pāpāmoa, Welcome Bay, Matua-Otūmoetai, Bethlehem, Tauriko and Te Papa) and one [[Māori wards and constituencies|Māori ward]] (Te Awanui, covering the entire city).<ref>{{cite web |title=Tauranga City Council Wards|url=https://gis.tauranga.govt.nz/portal/apps/instant/lookup/index.html?appid=5ef10bdd28b94784b53f2116b7b51164 |website=tauranga.govt.nz |publisher=Tauranga City Council |access-date=3 August 2024}}</ref>
+
+Council elections are usually held every three years, most recently in [[2024 Tauranga local elections|2024]]. The next local election for Tauranga is scheduled for 2028.<ref>{{cite news |title=Dates for the Tauranga City Council Election in July 2024 and the Following Election |url=https://gazette.govt.nz/notice/id/2023-go3894 |access-date=3 August 2024 |work=[[New Zealand Gazette]] |date=22 August 2023}}</ref>
+
+In December 2020, the [[Minister of Local Government (New Zealand)|Minister of Local Government]] [[Nanaia Mahuta]] announced that, due to alleged "dysfunction" within the elected council, the council would be replaced by commissioners until the 2022 local elections.<ref>{{Cite web|date=2020-12-04|title=Tauranga City Council to be replaced by commissioner|url=https://www.stuff.co.nz/national/politics/local-government/123605113/tauranga-city-council-to-be-replaced-by-commissioner|access-date=2024-11-06|website=Stuff|language=en}}</ref><ref>{{Cite web|date=2020-12-18|title=Commissioner for Tauranga as councillors' pleas to stay in charge prove futile|url=https://www.stuff.co.nz/bay-of-plenty/123758732/commissioner-for-tauranga-as-councillors-pleas-to-stay-in-charge-prove-futile|access-date=2020-12-21|website=Stuff|language=en}}</ref> However, then Tauranga MP [[Simon Bridges]] said the appointment of commissioners was unnecessary and a "dramatic and draconian step."<ref>{{cite web | url=https://www.nzherald.co.nz/bay-of-plenty-times/news/simon-bridges-urges-local-government-minister-nanaia-mahuta-not-to-intervene-in-tauranga-city-council/HBXU6LQ5CLJFZGQRRIO74PQ4LM/ | title='Draconian': Simon Bridges urges minister not to intervene in council | date=24 November 2020 }}</ref> An independent review by law firm [[Russell McVeagh]] found that Mahuta's decision may have been unlawful.<ref>{{Cite news |date=7 July 2021 |title="Commissioners appointment labelled "unlawful"" |work=Sunlive |url=https://www.sunlive.co.nz/news/272092-commissioners-appointment-labelled-unlawful.html |access-date=2 January 2024}}</ref> Her decision to reappoint the [[Tauranga City Council#Commission reappointment controversy|crown commission]] for a second term in 2022 through to July 2024 was subject to a legal review by [[Dentons]] Kensington Swan who found her decision was challengeable on the grounds of unlawfulness and unreasonableness.<ref>{{Cite web |last=Clark |first=Linda |date=4 May 2022 |title=summary of advice |url=https://imgbb.com/WGRpXhW |access-date=2 January 2024}}</ref>
+
+==Economy==
+Much of the countryside surrounding Tauranga is horticultural land, used to grow a wide range of fresh produce for both domestic consumption and export. There are many [[kiwifruit]] and [[avocados]] orchards as well as other crops.
+
+The [[Port of Tauranga]] is New Zealand's largest export port. It is a regular stop for both container ships and luxury cruise liners.
+[[File:Tauranga NZ7 3481-82 - 46361933804.jpg|thumb|[[Port of Tauranga]] on the Mount Maunganui side, looking south.]]
+[[File:Abaconda Tauranga-Boat Sunrise.jpg|thumb|Tauranga harbour]]
+[[File:Abaconda ocean-2.jpg|thumb|Picturesque sunrise over the Tauranga harbour]]
+
+Tauranga's main shopping malls are Bayfair, in Mount Maunganui and Tauranga Crossing in Tauriko. Most of the city's shopping centres are located in the suburbs. They include Fraser Cove, Tauranga Crossing, Bethlehem Town Centre, [[Papamoa Plaza]], Fashion Island, [[Bayfair Shopping Centre]], Bay Central and Greerton Village.
+
+Tauranga has the following business innovation centres
+
+* The Kollective<ref>{{cite news |url=https://www.nzherald.co.nz/bay-of-plenty-times/news/article.cfm?c_id=1503343&objectid=12139932|title=First glimpse at Tauranga's The Kollective, new $10m building in the Historic Village|work=Bay of Plenty Times|date=10 October 2018|first=Samantha|last=Motion}}</ref>
+* Newnham Park<ref name="Newnham Park">{{cite news |url=https://www.nzherald.co.nz/bay-of-plenty-times/news/article.cfm?c_id=1503343&objectid=12351565|title=Tauranga global exporters spark multimillion-dollar development at business park|work=Bay of Plenty Times|date=9 August 2020|first=Carmen|last=Hall}}</ref>
+
+The following companies have their [[head office]] in Tauranga:
+* Ballance Agri-Nutrients<ref>{{cite web |url=http://www.ballance.co.nz/ |title=Home |publisher=Ballance.co.nz |access-date=20 September 2015 |archive-url=https://web.archive.org/web/20151001133453/http://www.ballance.co.nz/ |archive-date=1 October 2015 |url-status=live }}</ref>
+* [[Brother Industries|Brother NZ]]
+* C3 Limited<ref>{{cite web |url=http://www.c3.co.nz/index.html |title=New Zealand's leading provider of product handling solutions, on the wharf and beyond |publisher=C3 |access-date=20 September 2015 |archive-url=https://web.archive.org/web/20150729004527/http://www.c3.co.nz/index.html |archive-date=29 July 2015 |url-status=live }}</ref>
+* Craigs Investment Partners<ref>{{cite web |url=https://craigsip.com/locations/tauranga|title=Craigs Investment Partners – Find an advisor – Tauranga |website=Craigs Investment Partners|access-date=26 September 2023}}</ref>
+* Dominion Salt<ref>{{cite web |url=http://www.dominionsalt.co.nz/ |title=Leading Salt Manufacturer NZ |publisher=Dominion Salt |date=20 June 2014 |access-date=20 September 2015 |archive-url=https://web.archive.org/web/20150920061605/http://www.dominionsalt.co.nz/ |archive-date=20 September 2015 |url-status=live }}</ref> 
+* Genera Biosecurity
+* [[Kiwi Bus Builders]]
+* [[Port of Tauranga]]
+* Shuzi New Zealand Limited<ref>{{cite web |url=http://www.shuziqi.co.nz/shop/index.php |title=Shuzi New Zealand – Shuzi New Zealand |publisher=Shuziqi.co.nz |access-date=20 September 2015 |archive-url=https://web.archive.org/web/20150825082542/http://www.shuziqi.co.nz/shop/index.php |archive-date=25 August 2015 |url-status=dead }}</ref>
+* Tidy International<ref name="Newnham Park"/>
+* [[Trimax Mowing Systems]] 
+* [[Manawa Energy]]
+* ''UNO'' Magazine
+* [[Zespri|Zespri International]]
+
+==Arts and culture==
+
+===Religion===
+A wide variety of faiths are practised, including [[Christianity]], [[Hinduism]], [[Buddhism]], [[Islam]], [[Sikhism]], [[Taoism]] and [[Judaism]]. There are many denominations of Christianity including [[Pentecostal]], [[Methodist]], [[Presbyterian]], [[Roman Catholic]], [[Exclusive Brethren]], [[Baptist]], [[The Church of Jesus Christ of Latter-day Saints]] (LDS Church) and [[Jacobite Syrian Christian Church]].
+
+===Music===
+The National Jazz Festival takes place in Tauranga every Easter.<ref>{{cite web |url=http://www.jazz.org.nz/ |title=National Jazz Festival 2015 – Home |publisher=Jazz.org.nz |access-date=21 September 2015 |archive-url=https://web.archive.org/web/20150910074943/http://www.jazz.org.nz/ |archive-date=10 September 2015 |url-status=live }}</ref>
+
+===Events===
+New Year celebrations at the Mount in [[Mount Maunganui]] are one of Tauranga's main events, bringing people from all around the country.
+
+In 2014 Tauranga City Council granted permission for an annual Sikh parade to celebrate [[Guru Gobind Singh]]'s birthday. 2500 people took part in 2014, while in 2015, the number increased to 3500.<ref>{{cite news|url=http://www.nzherald.co.nz/bay-of-plenty-times/news/article.cfm?c_id=1503343&objectid=11381973|title=Showcase of culture and colour in annual Sikh parade|work=[[The New Zealand Herald]]|date=5 January 2015|first=Ruth|last=Keber|access-date=5 January 2015|archive-url=https://web.archive.org/web/20150105122454/http://www.nzherald.co.nz/bay-of-plenty-times/news/article.cfm?c_id=1503343&objectid=11381973|archive-date=5 January 2015|url-status=live}}</ref>
+
+===Sports===
+[[File:Abaconda park-1.jpg|thumb|right|upright|McLaren Falls Park, on the outskirts of Tauranga]]
+
+Tauranga has a large stadium complex in the Mount Manganui suburb, [[Baypark Stadium]], rebuilt in 2001 after a similar complex closed in 1995. It hosts [[Dirt track racing in New Zealand|speedway]] events during summer and [[rugby football|rugby]] matches in winter.
+
+Tauranga is also the home of [[Association football|football (soccer)]] club [[Tauranga City United]] who compete in the [[Lotto Sport Italia NRFL Division 2]].
+
+Tauranga is the home to two rowing clubs – Tauranga Rowing Club in Memorial Park and Bay of Plenty Coast Rowing Club at the picturesque [[Wairoa River (Bay of Plenty)|Wairoa River]]. Both clubs have had successful NZ representation over the years.
+
+Tauranga has an all weather outdoor athletics ground at [[Tauranga Domain]].
+
+Tauranga also has a [[Field hockey|Hockey]] Association,<ref>{{Cite web |title=Tauranga Hockey Association |url=https://www.tgahockey.co.nz/tgahockey/home-2?em=0 |access-date=26 September 2023 |website=Tauranga Hockey Association}}</ref> separate from the Regional Bay of Plenty body, which represents the city in domestic tournaments.
+
+==City facilities and attractions==
+[[File:Mt Maunganui & Tauranga 2006.jpg|thumb|upright|View over Greater Tauranga, taken from the top of Mauao]]
+Greater Tauranga is a very popular lifestyle and tourism destination. It features many natural attractions and scenery ranging from popular beaches and harbour environments to lush bush-clad mountains with waterfalls and lakes.
+[[File:Tauranga strand & fisherman 2017.jpg|left|thumb|View of Mount Beach, with Mauao in background]]
+Cultural attractions include the Tauranga Art Gallery, which opened in October 2007 and showcases local, national and international exhibitions in a range of media. On the 17th Avenue, the "Historic Village on 17th",<ref>{{cite web|url=http://www.bayofplentynz.com/main/product/?product=village-on-17th|title=Historic Village on 17th|publisher=Tourism Bay of Plenty|access-date=1 September 2014|archive-url=https://web.archive.org/web/20141215042112/http://www.bayofplentynz.com/main/product/?product=village-on-17th|archive-date=15 December 2014|url-status=live}}</ref> recreates a historic setting with original and replica buildings from early Tauranga housing arts and gift shops.
+
+The [[Baycourt Community and Arts Centre]] is a multi-purpose performing arts and theatre facility located in the central business district.
+
+Aviation interests are well served with the [[Classic Flyers Museum]] and the Gyrate Flying Club where you can experience flying a modern gyroplane; the "motorbike of the sky".<ref>{{cite web |url=http://www.gyrate.co.nz/ |title=Gyrate New Zealand &#124; Fly a Gyro! &#124; Flight Training & Sales |publisher=Gyrate.co.nz |access-date=21 September 2015 |archive-url=https://web.archive.org/web/20151001011539/http://www.gyrate.co.nz/ |archive-date=1 October 2015 |url-status=live }}</ref>
+
+Tauranga has many parks: one of the largest is Memorial Park, and others include Yatton Park, Kulim Park, Fergusson Park and the large Tauranga Domain. The [[Te Puna Quarry Park]] has become a regional attraction, known for being converted from a disused quarry into a community park.<ref>{{cite web |url=http://www.quarrypark.org.nz/ |title=Walking Tracks, Gardens, Sculptures &#124; Te Puna Quarry Park |publisher=Quarrypark.org.nz |access-date=21 September 2015 |archive-url=https://web.archive.org/web/20150915172312/http://www.quarrypark.org.nz/ |archive-date=15 September 2015 |url-status=live }}</ref>
+
+Due to the temperate climate, outdoor activities are very popular, including golf, tramping (hiking), mountain biking and white water rafting. The Bay of Plenty coastline has miles of golden sandy beaches, and watersports are very popular, including swimming, surfing, fishing, diving, kayaking and kitesurfing. Tourists also enjoy dolphin-watching on specially run boat trips.
+
+The coastal suburb [[Papamoa]] and neighbouring [[Mount Maunganui]] are some of the more affluent areas in Tauranga. The region's beaches attract swimmers, surfers, kayakers and kitesurfers throughout the year.
+
+Tauranga has many outlying islands and reefs that make it a notable tourist destination point for travelling scuba divers and marine enthusiasts.<ref>{{Cite web|last=|first=|date=2021|title=The best of Tauranga walking tour|url=https://travel-booking.stuff.co.nz/activities/the-best-of-tauranga-walking-tour-100133671|access-date=21 January 2021|website=[[Stuff (website)|Stuff]]}}</ref> Extensive marine life diversity is available to scuba divers all year round. Water temperatures range from 12 degrees Celsius in winter to 22–24 degrees Celsius in summer. Tauranga houses two professional dive instructor training centres, training NAUI, PADI and SSI dive leader systems.
+
+==Infrastructure==
+===Hospitals===
+Tauranga Hospital is a public secondary regional hospital located in Tauranga South, with 360 beds including neonatal, geriatric, surgical, maternity and mental health care.<ref>{{cite web |title=Tauranga Hospital |url=https://www.health.govt.nz/your-health/certified-providers/public-hospital/tauranga-hospital |access-date=7 March 2022 |website=New Zealand Ministry of Health}}</ref> It provides elective and emergency healthcare across medical, surgical, paediatric, obstetric, gynaecological and psychiatric services. The main tertiary referral centre for Tauranga Hospital is [[Waikato Hospital]], located in [[Hamilton, New Zealand|Hamilton]]. As the site of the Bay of Plenty Clinical School, Tauranga Hospital provides training to medical students from the [[University of Auckland]], as well as selective and elective placements for nursing and midwifery students.<ref>{{cite web |title=Clinical School |url=https://www.bopdhb.govt.nz/education-research/clinical-school/ |website=Bay of Plenty District Health Board |access-date=30 March 2020}}</ref>
+
+Grace Hospital is Tauranga's only private specialist surgical hospital, located in Oropi. It accommodates 6 operating theatres, 48 inpatient beds, a two-bed HDU, a procedure room for minor surgery and two procedure rooms for endoscopy.<ref>{{Cite web |title=State-Of-The-Art Hospital Facilities at Grace Hospital Tauranga |url=https://www.gracehospital.co.nz/Campus/Facilities.html |access-date=2022-03-07 |website=www.gracehospital.co.nz}}</ref>
+
+===Utilities===
+[[Powerco]] operates the local distribution network in the city,<ref>{{cite web |url= https://www.powerco.co.nz/about-us/our-business/our-networks/ |title= Our Networks |publisher=Powerco |access-date= 15 October 2018 |archive-url= https://web.archive.org/web/20181015153351/https://www.powerco.co.nz/about-us/our-business/our-networks/ |archive-date= 15 October 2018 |url-status= live }}</ref> with electricity supplied from [[Transpower New Zealand Limited|Transpower]]'s national grid at three substations: [[Greerton]], [[Kaitemako]] and [[Matapihi]].
+
+Natural gas arrived in Tauranga in 1982, following the completion of the high-pressure pipeline from the [[Maui gas field|Maui pipeline]] near [[Te Awamutu]] to the city, now operated by [[First Gas]].<ref>{{cite web |url= http://gasindustry.co.nz/dmsdocument/5344 |title= The New Zealand Gas Story |publisher=Gas Industry Company |date= December 2016 |access-date= 31 October 2018 |archive-url= https://web.archive.org/web/20170202151245/http://gasindustry.co.nz/dmsdocument/5344 |archive-date= 2 February 2017 |url-status= live }}</ref> First Gas also operates the gas distribution network within the city.
+
+From 24 October 2024, the [[Tauranga City Council]] began [[Water flouridation|flouridating]] the city's water supply in response to a directive from the Director-General of Health.<ref>{{cite news |title=Tauranga water supply to be fluoridated |url=https://insidegovernment.co.nz/tauranga-water-supply-to-be-fluoridated/|access-date=30 October 2024 |work=Inside Government |publisher=JSL media |date=14 October 2024}}</ref>
+
+==Transport==
+[[File:00 2023 Tauranga (New Zealand) - Herries Park and Railway station.jpg|alt= East Coast Main Trunk Railway station in Tauranga City|thumb|A [[KiwiRail|KiwiRail train]] on the East Coast Main Trunk Railway which runs through the central city.]]
+[[Tauranga City Council]] is currently responsible for approximately 530&nbsp;km of roads, 700&nbsp;km of footpaths, cycle ways and access ways.<ref>{{cite web|last=|first=|date=24 March 2014|title=Roads & Road Works|url=http://www.tauranga.govt.nz/council-services/transportation-roads/roads-road-works.aspx|url-status=dead|archive-url=https://web.archive.org/web/20140325165929/http://tauranga.govt.nz/council-services/transportation-roads/roads-road-works.aspx|archive-date=25 March 2014|access-date=3 April 2014|website=www.tauranga.govt.nz}}</ref>
+
+Tauranga City Council also has a bit of work under way with their Transportation and Roads strategy. Their aim for the future to change current [[travel behavior|travel behaviour]] from a focus on private cars to more sustainable modes such as buses, cycling and walking.
+
+===Air===
+[[Tauranga Airport]] is served by [[Air New Zealand]] with flights to Auckland, Wellington and Christchurch. [[Sunair]] is based in Tauranga, operating a fleet of [[light aircraft]]. Sunair operates from [[Tauranga Airport]] to [[Whangarei Airport|Whangarei]], [[Great Barrier Aerodrome|Claris]], [[Whitianga Aerodrome|Whitanga]] and [[Mōtītī Island]]. [[Barrier Air]] also operates from Tauranga to Great Barrier Island.
+
+===Rail===
+[[File:Tauranga train bridge.jpg|thumb|Tauranga railway bridge]] Tauranga is located on the [[East Coast Main Trunk Railway]].
+
+Tauranga has no passenger rail network, however it is a busy freight rail hub due to distribution from the Port of Tauranga.
+
+===Bus===
+Main transportation in the city is provided by the BayBus, with twelve routes servicing the city's population. Bay Hopper buses depart the central stops in Tauranga's CBD, Ohauiti, Mount Maunganui and Bayfair every 15 minutes, with the routes to Papamoa and Greerton half-hourly.<ref>{{Cite web|title=Baybus: Relax, Take a Bus in the Bay of Plenty|url=https://www.baybus.co.nz/|access-date=2020-08-21|website=www.baybus.co.nz}}</ref> [[Bee Card (New Zealand)|Bee Cards]] were introduced for fares on 27 July 2020.<ref>{{Cite web|title=Bee Card|url=https://www.baybus.co.nz/beecard|access-date=21 August 2020|website=www.baybus.co.nz}}</ref>
+
+The city is also a waypoint for bus travel between cities, with the Bay Hopper, and Intercity having a daily schedule.
+
+=== Sea ===
+Tauranga has a passenger ferry service that transports passengers from Tauranga CBD to Mount Maunganui's Salisbury wharf. It is a 2-Way service that costs [[New Zealand dollar|$]]15 each way.<ref>{{Cite web |title=Ferry operated by Matakana Ferry Ltd Reservations |url=https://taurangaharbourferry.rezdy.com/ |access-date=2023-10-14 |website=taurangaharbourferry.rezdy.com}}</ref><ref>{{Cite web |date=2022-09-24 |title=SunLive – New Tauranga ferry service proves popular – The Bay's News First |url=https://www.sunlive.co.nz/news/303429-new-tauranga-ferry-service-proves-popular.html |access-date=2023-10-14 |website=www.sunlive.co.nz |language=en}}</ref>
+
+==Education==
+{{Main|List of schools in the Bay of Plenty Region#Tauranga City}}
+
+Tauranga is home to the Bay of Plenty Tertiary Education Partnership, made up of:
+
+* [[Toi Ohomai Institute of Technology]], Te Whare Wānanga o Awanuiārangi
+* The [[University of Waikato]]
+* [[Te Whare Wānanga o Awanuiārangi]]<ref>{{cite web |title=Tertiary providers renew commitment to Bay's Education Partnership |url=https://www.waikato.ac.nz/news-opinion/media/2018/tertiary-providers-renew-commitment-to-bays-educational-partnership |website=The University of Waikato |access-date=4 September 2018 |archive-url=https://web.archive.org/web/20180904084809/https://www.waikato.ac.nz/news-opinion/media/2018/tertiary-providers-renew-commitment-to-bays-educational-partnership |archive-date=4 September 2018 |url-status=live }}</ref>
+
+The organisations currently share two main campuses, but are planning a new central campus. Stage 1 was expected to be open in 2017, catering for 500 but with capacity for 700, which cost $67.3 million.<ref>{{cite web |url=http://www.sunlive.co.nz/news/21164-tauranga-to-have-cbd-uni-campus.html |title=Tauranga to have CBD uni campus – The Bay's News First |publisher=SunLive |date=26 January 2012 |access-date=21 September 2015 |archive-url=https://web.archive.org/web/20150924111656/http://www.sunlive.co.nz/news/21164-tauranga-to-have-cbd-uni-campus.html |archive-date=24 September 2015 |url-status=live }}</ref><ref>{{cite news |title=Opinion: CBD transformation a major boost for Tauranga |url=https://www.nzherald.co.nz/good-news/news/article.cfm?c_id=1503279&objectid=12085821 |access-date=4 September 2018 |work=Bay of Plenty Times |date=10 July 2018 |archive-url=https://web.archive.org/web/20180904120939/https://www.nzherald.co.nz/good-news/news/article.cfm?c_id=1503279&objectid=12085821 |archive-date=4 September 2018 |url-status=live }}</ref>
+
+Tauranga's secondary schools are:
+* [[Tauranga Boys' College]], with about 2100 boys.<ref>{{Cite web |title=Total Enrolment to Tauranga Boys' College as of 2024 |url=https://www.educationcounts.govt.nz/find-school/school/population/year?district=23&region=4&school=121 |access-date=27 August 2024 |website=Education Counts}}</ref>
+* [[Tauranga Girls' College]], with nearly 1500 girls.<ref>{{Cite web |title=Total Enrolment at Tauranga Girls College as of 2024 |url=https://www.educationcounts.govt.nz/find-school/school/population/year?district=23&region=4&school=122 |access-date=27 August 2024 |website=Education Counts}}</ref>
+* [[Otumoetai College]], with nearly 1900 students.<ref>{{Cite web |title=Total Enrolment of Otumoetai College as of 2024 |url=https://www.educationcounts.govt.nz/find-school/school/population/year?district=23&region=4&school=120 |access-date=27 August 2024 |website=Education Counts}}</ref>
+* [[Bethlehem Campus|Bethlehem College]], a state integrated Christian school offering [[kindergarten]] and Year 1–13, with around 1500 students.
+* [[Aquinas College, Tauranga|Aquinas College]] a state integrated coeducational Catholic school founded in 2003 for Years 7–13, with around 800 students.
+* [[Mount Maunganui College]], a co-educational secondary school, with over 1500 students.
+* [[Pāpāmoa College]], co-educational secondary school opened in 2011 for years 7–13.
+* Te Wharekura o Mauao,<ref>{{cite news |last1=Diamond |first1=Amy |title=School of the Week: Te Wharekura o Mauao has continued to grow since it opened |url=https://www.nzherald.co.nz/bay-of-plenty-times/news/article.cfm?c_id=1503343&objectid=12025661 |access-date=4 September 2018 |work=Bay of Plenty Times |date=10 April 2018 |archive-url=https://web.archive.org/web/20180904084733/https://www.nzherald.co.nz/bay-of-plenty-times/news/article.cfm?c_id=1503343&objectid=12025661 |archive-date=4 September 2018 |url-status=live }}</ref> a co-educational wharekura-ā-iwi total immersion Māori secondary school for Years 7–13, founded in 2010, with around 200 students.
+* Te Kura Kaupapa Māori o Te Kura Kōkiri, a co-educational [[kura kaupapa Māori]] total immersion school for Years 1–13, founded in 2000, with around 140 students.
+
+[[ACG Tauranga]], the city's first fully [[Private school#New Zealand|private]] school,<ref>{{citation |title =ACG Tauranga Term Dates |url =http://www.acgedu.com/nz/tauranga/enrolment/term-dates |access-date =1 May 2014 |archive-url =https://web.archive.org/web/20140502005735/http://www.acgedu.com/nz/tauranga/enrolment/term-dates |archive-date =2 May 2014 |url-status =live }}</ref><ref>{{citation| title =NZ independent school group, ACG, looks to open in Tauranga| author =Press Release: Academic Colleges Group| work =Scoop Education| url =http://www.scoop.co.nz/stories/ED1308/S00072/nz-independent-school-group-acg-looks-to-open-in-tauranga.htm| date =15 August 2013| access-date =1 May 2014| archive-url =https://web.archive.org/web/20140502005215/http://www.scoop.co.nz/stories/ED1308/S00072/nz-independent-school-group-acg-looks-to-open-in-tauranga.htm| archive-date =2 May 2014| url-status =live}}</ref> offers school to Year 12.<ref>{{cite news |last1=Hunter |first1=Zoe |title=School of the Week: ACG Tauranga |url=https://www.nzherald.co.nz/bay-of-plenty-times/news/article.cfm?c_id=1503343&objectid=11950446 |access-date=4 September 2018 |work=Bay of Plenty Times |date=12 December 2018 |archive-url=https://web.archive.org/web/20180904121020/https://www.nzherald.co.nz/bay-of-plenty-times/news/article.cfm?c_id=1503343&objectid=11950446 |archive-date=4 September 2018 |url-status=live }}</ref>
+
+==Notable residents==<!--Please keep in alphabetical order by surname-->
+{{Div col|colwidth=30em}}
+* [[Corey Anderson (cricketer)|Corey Anderson]] – international cricketer
+* [[Tim Balme]] – actor, director
+* [[Trent Boult]] – international cricketer
+* [[Tyler Boyd (footballer)|Tyler Boyd]] – footballer
+* [[John Bracewell]] – international cricketer
+* [[Simon Bridges]] – MP for [[Tauranga (New Zealand electorate)|Tauranga]]; former Leader of the New Zealand National Party; CEO of the Auckland Chamber of Commerce
+* [[Peter Burling (sailor)|Peter Burling]] – America's Cup helmsman and Olympic medallist
+* [[Moss Burmester]] – Olympic swimmer
+* [[Sam Cane]] – international rugby player
+* [[Tony Christiansen]] – former [[Paralympics]], [[FESPIC Games]] and World Games medallist, professional speaker and Tauranga City Councillor
+* [[Bob Clarkson]] – former Member of Parliament and property developer
+* [[Aaron de Mey]] – makeup artist
+* Dame [[Susan Devoy]] – former World Squash Champion
+* Dame [[Lynley Dodd]] – award-winning author and illustrator, principally known for her children's picture books featuring Hairy Maclary and his friends
+* [[Mahé Drysdale]] – Olympic rower
+* [[Daniel Flynn (cricketer)|Daniel Flynn]] – international cricketer
+* [[Hilda Hewlett]] – pioneer aviator
+* [[Gunnar Jackson]] – professional middleweight boxer
+* [[Jess Johnson]] – artist
+* [[Tanerau Latimer]] – former international rugby player
+* [[Tony Lochhead]] – footballer
+*[[Todd Muller]] – MP for [[Bay of Plenty (New Zealand electorate)|Bay of Plenty]]; former Leader of the New Zealand National Party
+* [[Richard O'Brien]] – author of ''[[The Rocky Horror Show]]'' (spent his formative years here)
+* [[Ny Oh]] – folk musician
+* [[Phil Rudd]] – drummer for AC/DC
+* [[Richie Stanaway]] – racing driver
+* [[Andrew Stevenson]] – Olympic rower, Double World Champion Rower, NZ 1982 Sportsman of the Year
+* Sir [[Gordon Tietjens]] – coach of the [[New Zealand national rugby sevens team]]
+* [[Kane Williamson]] – international cricketer
+{{Div col end}}
+
+==Past residents==
+* [[Kathleen Hawkins]] – known as the "Pioneer Poet"
+* [[Les Munro]] – [[Operation Chastise|Dambusters]] veteran
+* [[Winston Peters]] – former MP for Tauranga, leader of NZ First, politician
+* [[Stan Walker (singer)|Stan Walker]] – [[R&B]] singer, former ''[[Australian Idol]]'' contestant and winner<ref>{{cite web|url=http://www.stuff.co.nz/entertainment/2849353/Kiwi-leads-Idol-show-by-a-neck/|title=Kiwi leads Idol show by a neck|date=10 September 2009|publisher=The Dominion Post|access-date=3 November 2009|archive-url=https://web.archive.org/web/20121023221615/http://www.stuff.co.nz/entertainment/2849353/Kiwi-leads-Idol-show-by-a-neck/|archive-date=23 October 2012|url-status=live}}</ref>
+
+==Sister cities==
+Tauranga is [[Sister city|twinned]] with:<ref>{{cite web |title=Community Partnerships|url=https://www.tauranga.govt.nz/Portals/0/data/council/policies/files/community_partnerships_sister_cities.pdf|website=tauranga.govt.nz|publisher=Tauranga City Council|access-date=2020-05-20|archive-url=https://web.archive.org/web/20220312094747/https://www.tauranga.govt.nz/Portals/0/data/council/policies/files/community_partnerships_sister_cities.pdf|archive-date=12 March 2022}}</ref>
+*[[Hitachi, Ibaraki|Hitachi]], Japan
+*[[San Bernardino, California|San Bernardino]], United States
+*[[Yantai]], China
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons category}}
+{{wikivoyage}}
+* [http://www.tauranga.govt.nz/ Tauranga City Council]
+
+{{Tauranga}}
+{{Cities and districts of New Zealand}}
+{{New Zealand topics}}
+
+{{Authority control}}
+
+[[Category:Tauranga| ]]
+[[Category:Populated places around the Tauranga Harbour| ]]
+[[Category:Main urban areas in New Zealand]]
+[[Category:Territorial authorities of New Zealand]]
+[[Category:Port cities in New Zealand]]

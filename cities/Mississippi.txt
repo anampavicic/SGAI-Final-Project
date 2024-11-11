@@ -1,0 +1,1203 @@
+{{short description|U.S. state}}
+{{about|the U.S. state|the river|Mississippi River|other uses}}
+{{pp-move}}
+{{pp-pc|small=yes}}
+{{Infobox settlement
+| name               = Mississippi
+| native_name        = 
+| settlement_type    = [[U.S. state|State]]
+| image_flag         = Flag of Mississippi.svg
+| flag_link          = Flag of Mississippi
+| flag_alt           = Flag
+| flag_size          = 125px
+| image_seal         = Seal of Mississippi 2014.svg
+| seal_size          = 
+| seal_alt           = 
+| seal_link          = Seal of Mississippi
+| etymology          = 
+| nickname_link      = List of U.S. state nicknames
+| nickname           = "The Magnolia State" and "The Hospitality State"
+| nicknames          = 
+| motto_link         = List of U.S. state and territory mottos
+| motto              = {{native name|la|[[Virtute et armis]]}}<br />({{Langx|en|"By valor and arms"}})
+| mottoes            = 
+| anthem             = "[[Go, Mississippi]]"
+
+<!-- maps and coordinates -->| image_map          = Mississippi in United States.svg
+| mapsize            = 375px
+| map_alt            = 
+| map_caption        = Map of the United States with Mississippi highlighted
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = [[United States]]<!-- the name of the country -->
+| established_title1 = Before statehood
+| established_date1  = {{#ifexist:Mississippi Territory|[[Mississippi Territory]]|Mississippi Territory}}
+| established_title2 = [[List of U.S. states by date of admission to the Union#List of U.S. states|Admitted to the Union]]<!-- Founded -->
+| established_date2  = December 10, 1817 (20th)<!-- requires established_title= -->
+| seat_type          = {{#ifeq:capital|capital|[[List of capitals in the United States|Capital]]<br />{{nobold|([[List of U.S. states' largest cities by population|and largest city]])}}|[[List of capitals in the United States|Capital]]}}
+| seat               = [[Jackson, Mississippi|Jackson]]
+| seat1_type         = [[List of U.S. states' largest cities by population|Largest city]]
+| seat1              = {{#ifeq:capital|capital||capital}}
+| parts_type         = [[List of Metropolitan Statistical Areas|Largest metro]]
+| parts_style        = <!-- list, coll (collapsed list), para (paragraph format) -->
+| parts              = [[Jackson metropolitan area, Mississippi|Greater Jackson]]
+
+<!-- government type, leaders -->| government_footnotes = 
+| government_type    = 
+| governing_body     = 
+| leader_party       = 
+| leader_title       = [[Governor of Mississippi|Governor]]
+| leader_name        = {{nowrap|[[Tate Reeves]] ([[Republican Party (United States)|R]])}}<!-- add &nbsp; (no-break space) to disable automatic links -->
+| leader_title1      = [[Lieutenant Governor of Mississippi|Lieutenant Governor]]
+| leader_name1       = {{nowrap|[[Delbert Hosemann]] (R)}}<!-- etc., up to leader_title4 / leader_name4 -->
+| government_blank1_title = [[Legislature]]
+| government_blank1  = [[Mississippi Legislature|Legislature]]
+| government_blank2_title = &nbsp;•&nbsp;[[Upper house]]
+| government_blank2  = [[Mississippi State Senate|Senate]]
+| government_blank3_title = &nbsp;•&nbsp;[[Lower house]]
+| government_blank3  = [[Mississippi House of Representatives|House of Representatives]]
+| government_blank4_title = [[Judiciary]]
+| government_blank4  = [[Supreme Court of Mississippi]]
+| government_blank5_title = [[List of United States Senators from Mississippi|U.S. senators]]
+| government_blank5  = {{nowrap|[[Roger Wicker]] (R)}}<br />{{nowrap|[[Cindy Hyde-Smith]] (R)}}
+| government_blank6_title = [[List of United States representatives from Mississippi|U.S. House delegation]]
+| government_blank6  = {{#if:{{nowrap|[[Mississippi's 1st congressional district|1]]: [[Trent Kelly]] (R)}}<br />{{nowrap|[[Mississippi's 2nd congressional district|2]]: [[Bennie Thompson]] ([[Democratic Party (United States)|D]])}}<br />{{nowrap|[[Mississippi's 3rd congressional district|3]]: [[Michael Guest (politician)|Michael Guest]] (R)}}<br />{{nowrap|[[Mississippi's 4th congressional district|4]]: [[Mike Ezell]] (R)}}
+  | {{nowrap|[[Mississippi's 1st congressional district|1]]: [[Trent Kelly]] (R)}}<br />{{nowrap|[[Mississippi's 2nd congressional district|2]]: [[Bennie Thompson]] ([[Democratic Party (United States)|D]])}}<br />{{nowrap|[[Mississippi's 3rd congressional district|3]]: [[Michael Guest (politician)|Michael Guest]] (R)}}<br />{{nowrap|[[Mississippi's 4th congressional district|4]]: [[Mike Ezell]] (R)}} ([[United States congressional delegations from Mississippi|list]]) 
+  | [[United States congressional delegations from Mississippi|List]]
+  }}
+| unit_pref          = Imperial<!-- enter: Imperial, to display imperial before metric -->
+
+<!-- area -->| area_footnotes     = 
+| area_magnitude     = <!-- use only to set a special wikilink -->
+| area_total_km2     = 125,443
+| area_total_sq_mi   = 48,430<!-- see table @ Template:Infobox settlement for details -->
+| area_land_km2      = 121,607
+| area_land_sq_mi    = 46,952
+| area_water_km2     = 3,940
+| area_water_sq_mi   = 1,521
+| area_water_percent = 3
+| area_rank          = {{#if:32nd|[[List of U.S. states and territories by area|32nd]]}}
+
+<!-- dimensions -->| dimensions_footnotes = 
+| length_km          = 545
+| length_mi          = 340
+| width_km           = 275
+| width_mi           = 170
+
+<!-- elevation -->| elevation_footnotes = 
+| elevation_m        = 90
+| elevation_ft       = 300
+| elevation_point    = <!-- for denoting the measurement point -->
+| elevation_max_footnotes = 
+| elevation_max_m    = 246.0
+| elevation_max_ft   = 807
+| elevation_max_point = [[Woodall Mountain]]<ref>{{cite ngs|designation=Knob Reset|id=EG1487}}</ref><ref name=USGS>{{cite web|url=http://egsc.usgs.gov/isb/pubs/booklets/elvadist/elvadist.html |title=Elevations and Distances in the United States|publisher=United States Geological Survey|year=2001|access-date=October 24, 2011|url-status=dead |archive-url=https://web.archive.org/web/20111015012701/http://egsc.usgs.gov/isb/pubs/booklets/elvadist/elvadist.html|archive-date=October 15, 2011}}</ref>{{efn|Elevation adjusted to [[North American Vertical Datum of 1988]].}}<!-- for denoting the measurement point -->
+| elevation_max_rank = 
+| elevation_min_m    = 0
+| elevation_min_ft   = 0
+| elevation_min_point = [[Gulf of Mexico]]<ref name=USGS /><!-- for denoting the measurement point -->
+| elevation_min_rank = <!-- population -->
+| population_as_of   = 2020
+| population_total   = 2,963,914<ref name="Bureau 2021">{{cite web | title=2020 Census Apportionment Results | website=The United States Census Bureau | date=2021-04-26 | url=https://www.census.gov/data/tables/2020/dec/2020-apportionment-data.html | access-date=2021-04-27}}</ref>
+| population_rank    = {{#if:35th|[[List of states and territories of the United States by population|35th]]}}
+| population_density_km2 = 24.5
+| population_density_sq_mi = 63.5
+| population_density_rank = {{#if:33rd|[[List of states and territories of the United States by population density|33rd]]}}
+| population_demonym = Mississippian<!-- demonym, e.g. Liverpudlian for someone from Liverpool -->
+| population_blank1_title = [[Household income in the United States#Income by state|Median household income]]
+| population_blank1  = US$43,567<ref>{{cite web|url=https://www.census.gov/quickfacts/fact/table/MS,US/PST045218|website=census.gov|title=Median Annual Household Income|access-date=January 27, 2020}} {{PD-notice}}</ref>
+| population_blank2_title = Income rank
+| population_blank2  = [[List of U.S. states and territories by income#States and territories ranked by median household income|50th]]
+
+<!-- demographics (section 1) -->| demographics_type1 = Language
+| demographics1_title1 = [[Languages of the United States|Official language]]
+| demographics1_info1 = [[Template:Official languages of U.S. states and territories|English]]
+| demographics1_title2 = [[Languages of the United States|Spoken language]]
+| demographics1_info2 = <!-- time zone(s) -->
+| timezone1          = [[Central Time Zone (North America)|Central]]
+| utc_offset1        = −06:00
+| timezone1_DST      = [[Central Daylight Time|CDT]]
+| utc_offset1_DST    = −05:00
+| timezone1_location = 
+| timezone2          = 
+| utc_offset2        = 
+| timezone2_DST      = 
+| utc_offset2_DST    = 
+| timezone2_location = <!-- postal codes, area code -->
+| postal_code_type   = [[List of U.S. state abbreviations#Postal codes|USPS abbreviation]]<!-- enter ZIP Code, Postcode, Post code, Postal code... -->
+| postal_code        = MS
+| iso_code           = {{#if:US-MS| [[ISO 3166-2:US|US-MS]]}}
+| code1_name         = [[List of U.S. state abbreviations|Trad. abbreviation]]
+| code1_info         = Miss.
+
+<!-- blank fields (section 1) -->| blank_name_sec1    = Latitude
+| blank_info_sec1    = 30°12′ N to 35° N
+| blank1_name_sec1   = Longitude
+| blank1_info_sec1   = 88°6′ W to 91°39′ W
+| website            = {{URL|https://ms.gov}}
+}}
+
+{{Infobox region symbols|country=United States
+ | image_flag = Flag of Mississippi.svg 
+ | image_seal = Seal of Mississippi 2014.svg
+ | image_arms = Coat of arms of Mississippi.svg
+ | state = Mississippi
+ | amphibian = 
+ | bird = [[Northern mockingbird]]<br/>(''Mimus polyglottos'')
+ | butterfly = [[Papilio troilus|Spicebush swallowtail]]<br/>(''Papilio troilus'')
+ | crustacean = 
+ | fish = [[Largemouth bass]]<br/>(''Micropterus salmoides'')
+ | flower = [[Magnolia]]
+ | grass = 
+ | insect = [[Western honey bee]]<br/>(''Apis mellifera'')
+ | mammal = [[White-tailed deer]] (''Odocoileus virginianus'')
+ | reptile = [[American alligator]]<br/>(''Alligator mississippiensis'')
+ | tree = [[Magnolia grandiflora|Southern magnolia]]<br/>(''Magnolia grandiflora'')
+ | beverage = Milk
+ | colors = red and blue
+ | dance = [[Clogging]]
+ | dinosaur = 
+ | food = [[Sweet potato]]
+ | fossil = 
+ | gemstone = Emerald
+ | mineral = Gold
+ | Musical instrument =
+ | poem = 
+ | rock = Granite
+ | shell = [[Eastern oyster]]<br/>(''Crassostrea virginica'')
+ | ship = 
+ | slogan = {{native name|la|[[Virtute et armis]]}}
+ | soil = 
+ | sport = 
+ | tartan = 
+ | toy = Teddy Bear<ref>{{cite web|url=http://law.justia.com/codes/mississippi/2010/title-3/3/3-3-43/|title=3-3-43 - State toy|work=2010 [[Mississippi Code]] |publisher=Justia|accessdate=31 March 2011}}</ref>
+ | image_route = Ellipse sign 15.svg
+ | image_quarter = 2002 MS Proof.png
+ | quarter_release_date = 2002
+}}
+
+'''Mississippi''' ({{IPAc-en|audio=en-us-Mississippi.ogg|ˌ|m|ɪ|s|ə|ˈ|s|ɪ|p|i}} {{respell|MISS|ə|SIP|ee}})<ref>{{Cite Merriam-Webster|Mississippi|accessdate=2024-03-08}}</ref> is a [[U.S. state|state]] in the [[Southeastern United States|Southeastern]] region of the [[United States]]. It borders [[Tennessee]] to the north, [[Alabama]] to the east, the [[Gulf of Mexico]] to the south, [[Louisiana]] to the southwest, and [[Arkansas]] to the northwest. Mississippi's western boundary is largely defined by the [[Mississippi River]], or its historical course.<ref>{{Cite web|url=https://earthobservatory.nasa.gov/images/147001/meandering-mississippi-river|title=Meandering Mississippi River|date=July 19, 2020|website=earthobservatory.nasa.gov}}</ref> Mississippi is the [[List of U.S. states and territories by area|32nd largest]] by area and [[List of U.S. states by population|35th-most populous]] of the 50 U.S. states and has the lowest per-capita income. [[Jackson, Mississippi|Jackson]] is both the state's [[List of capitals in the United States|capital]] and largest city. [[Jackson metropolitan area, Mississippi|Greater Jackson]] is the state's most populous [[Metropolitan statistical area|metropolitan area]], with a population of 591,978 in [[2020 United States census|2020]]. Other major cities include [[Gulfport, Mississippi|Gulfport]], [[Southaven, Mississippi|Southaven]], [[Hattiesburg, Mississippi|Hattiesburg]], [[Biloxi, Mississippi|Biloxi]], [[Olive Branch, Mississippi|Olive Branch]], [[Tupelo, Mississippi|Tupelo]], [[Meridian, Mississippi|Meridian]], and [[Greenville, Mississippi|Greenville]].<ref>{{Cite web|title=2020 Population and Housing State Data|url=https://www.census.gov/library/visualizations/interactive/2020-population-and-housing-state-data.html|access-date=2022-02-07|website=Census.gov}}</ref>
+
+The state's history traces back to around 9500 BC with the arrival of [[Paleo-Indians]], evolving through periods marked by the development of agricultural societies, rise of the [[Mound Builders]], and flourishing of the [[Mississippian culture]]. European exploration began with the Spanish in the 16th century, followed by French colonization in the 17th century. Mississippi's strategic location along the Mississippi River made it a site of significant economic and strategic importance, especially during the era of cotton plantation agriculture, which led to its wealth pre-Civil War, but entrenched slavery and racial segregation. On December 10, 1817, Mississippi became the [[List of U.S. states by date of admission to the Union|20th state]] admitted to the Union. By 1860, Mississippi was the nation's top [[cotton]]-producing state and [[Slavery in the United States|slaves]] accounted for 55% of the state population.<ref>{{cite web|url=http://mshistorynow.mdah.state.ms.us/articles/161/cotton-in-a-global-economy-mississippi-1800-1860|title=Cotton in a Global Economy: Mississippi (1800-1860) {{!}} Mississippi History Now|website=mshistorynow.mdah.state.ms.us|access-date=May 24, 2019|archive-date=June 15, 2019 |archive-url=https://web.archive.org/web/20190615105736/http://mshistorynow.mdah.state.ms.us/articles/161/cotton-in-a-global-economy-mississippi-1800-1860|url-status=dead}}</ref> Mississippi declared its [[Secession in the United States|secession]] from [[Union (American Civil War)|the Union]] on January 9, 1861, and was one of the seven original [[Confederate States of America|Confederate States]], which constituted the largest slaveholding states in the nation. Following the [[American Civil War|Civil War]], it was restored to the Union on February 23, 1870.<ref>{{cite book|title=The A to Z of the Civil War and Reconstruction |last=Richter |first=William L. |date=2009 |publisher=Scarecrow Press |isbn=9780810863361|location=Lanham |oclc=435767707}}</ref> Mississippi's political and social landscape was dramatically shaped by the Civil War, [[Reconstruction era]], and [[civil rights movement]], with the state playing a pivotal role in the struggle for civil rights. From the end of the Civil War to the 1960s, Mississippi was dominated by [[Social conservatism|socially conservative]] and [[Racial segregation|segregationist]] [[Southern Democrats]] dedicated to upholding [[white supremacy]].
+
+Despite progress, Mississippi continues to grapple with challenges related to health, education, and economic development, often ranking among the lowest in the United States in national metrics for wealth, health care quality, and educational attainment.<ref name="America's Health Rankings">{{cite web|url=http://www.americashealthrankings.org/MS|title=Mississippi Annual State Health Rankings—2013|website=americashealthrankings.org|access-date=October 5, 2014|archive-date=April 24, 2016|archive-url=https://web.archive.org/web/20160424025323/http://www.americashealthrankings.org/MS|url-status=dead}}</ref><ref>{{cite web|url=http://www.statemaster.com/graph/edu_per_of_peo_who_hav_com_hig_sch_inc_equ-completed-high-school-including-equivalency|title=Percent of People Who Have Completed High School (Including Equivalency) statistics—states compared—Statemaster|access-date=October 5, 2014|archive-date=October 6, 2014|archive-url=https://web.archive.org/web/20141006083106/http://www.statemaster.com/graph/edu_per_of_peo_who_hav_com_hig_sch_inc_equ-completed-high-school-including-equivalency|url-status=dead}}</ref><ref>{{cite web |url=http://proximityone.com/stmhi0910.htm|title=State Median Household Income Patterns: 1990–2010|publisher=U.S. Census Bureau|access-date=August 6, 2012}} {{PD-notice}}</ref><ref>{{cite web |url=https://globaldatalab.org/shdi/shdi/|title=Sub-national HDI—Subnational HDI—Global Data Lab|website=globaldatalab.org|access-date=May 24, 2019}}</ref> Economically, it relies on [[agriculture]], manufacturing, and an increasing focus on tourism, highlighted by its casinos and historical sites. Mississippi produces more than half of the country's [[Aquaculture of catfish|farm-raised catfish]], and is a top producer of [[sweet potato]]es, cotton and [[pulpwood]]. Others include advanced manufacturing, [[Public utility|utilities]], [[transport]]ation, and [[Health care|health services]].<ref>[https://www.usnews.com/news/best-states/mississippi Mississippi Rankings and Facts]</ref> Mississippi is almost entirely within the east [[Gulf Coastal Plain]], and generally consists of [[lowland]] [[plain]]s and low hills. The northwest remainder of the state consists of the [[Mississippi Delta]]. Mississippi's highest point is [[Woodall Mountain]] at 807 feet (246 m) above sea level adjacent to the [[Cumberland Plateau]]; the lowest is the Gulf of Mexico. Mississippi has a [[humid subtropical climate]] classification.
+
+Mississippi is known for its deep religious roots, which play a central role in its residents' lives. The state ranks among the highest of [[List of states and territories of the United States|U.S. states]] in [[religiosity]]. Mississippi is also known for being the state with the highest proportion of [[African Americans|African-American]] residents. The state's governance structure is based on the traditional separation of powers, with political trends showing a strong alignment with conservative values. Mississippi boasts a rich cultural heritage, especially in music, being the birthplace of the [[blues]] and contributing significantly to the development of the [[music of the United States]] as a whole.
+
+== Etymology ==
+The state's name is derived from the [[Mississippi River]], which flows along and defines its western boundary. European-American settlers named it after the [[Ojibwe language|Ojibwe]] word ᒥᓯ-ᓰᐱ ''misi-ziibi'' ({{Langx|en|great river}}).
+
+== History ==
+{{Summary too long|History of Mississippi|date=April 2023}}
+{{Main|History of Mississippi}}
+
+Near 9500 BC [[Native Americans in the United States|Native American]]s or [[Paleo-Indians]] arrived in what today is referred to as the [[Southern United States|American South]].<ref name="guy_prentice">{{cite web|url=http://www.nps.gov/history/seac/SoutheastChronicles/NISI/NISI%20Cultural%20Overview.htm |title=Pushmataha, Choctaw Indian Chief |access-date=February 11, 2008 |last=Prentice |first=Guy |year=2003 |publisher=Southeast Chronicles |url-status=dead |archive-url=https://web.archive.org/web/20071202132723/http://www.nps.gov/history/seac/SoutheastChronicles/NISI/NISI%20Cultural%20Overview.htm |archive-date=December 2, 2007 }}
+</ref> Paleo-Indians in the South were [[hunter-gatherer]]s who pursued the [[Pleistocene megafauna|megafauna]] that became extinct following the end of the [[Pleistocene]] age. In the [[Mississippi Delta]], Native American settlements and agricultural fields were developed on the natural levees, higher ground in the proximity of rivers. The Native Americans developed extensive fields near their permanent villages. Together with other practices, they created some localized [[Deforestation in the United States|deforestation]] but did not alter the ecology of the [[Mississippi Delta]] as a whole.<ref name="bio">{{cite journal |url=http://southernspaces.org/2010/bioregional-approach-southern-history-yazoo-mississippi-delta |title=Bioregional Approach to Southern History: The Yazoo-Mississippi Delta |author=Mikko Saikku |date=January 28, 2010 |journal=Southern Spaces |access-date=September 9, 2015|doi=10.18737/M7QK5T |doi-access=free |issn = 1551-2754 }}</ref>
+
+After thousands of years, succeeding cultures of the [[Woodland period|Woodland]] and [[Mississippian culture]] eras developed rich and complex agricultural societies, in which surplus supported the development of specialized trades. Both were [[Mound builder (people)|mound builder]] cultures. Those of the [[Mississippian culture]] were the largest and most complex, constructed beginning about 950&nbsp;AD. The peoples had a trading network spanning the continent from the Great Lakes to the Gulf Coast. Their large earthworks, which expressed their cosmology of political and religious concepts, still stand throughout the [[Mississippi River Valley|Mississippi]] and [[Ohio River Valley|Ohio River]] valleys.
+[[File:Choctaw Village by Francois Bernard.jpg|thumb|''Choctaw Village near the Chefuncte'', by Francois Bernard, 1869, Peabody Museum—Harvard University. The women are preparing dye in order to color cane strips for making baskets.|left]]
+
+Descendant [[Native Americans in the United States|Native American]] tribes of the Mississippian culture in the Southeast include the [[Chickasaw]] and [[Choctaw]]. Other tribes who inhabited the territory of Mississippi (and whose names were honored by colonists in local towns) include the [[Natchez people|Natchez]], the [[Yazoo tribe|Yazoo]], and the [[Biloxi people|Biloxi]].
+
+The first major European expedition into the territory that became Mississippi was that of the Spanish explorer, [[Hernando de Soto (explorer)|Hernando de Soto]], who passed through the northeast part of the state in 1540, in his second expedition to the New World.
+
+===Colonial era===
+
+{{Main|New France|Louisiana (New France)|French and Indian War|Treaty of Paris (1763)|New Spain|West Florida|Indian Reserve (1763)|American Revolutionary War|Treaty of Paris (1783)|Spanish West Florida}}
+
+In April 1699, French colonists established the first European settlement at ''[[Fort Maurepas]]'' (also known as Old Biloxi), built in the vicinity of present-day [[Ocean Springs, Mississippi|Ocean Springs]] on the Gulf Coast. It was settled by [[Pierre Le Moyne d'Iberville]]. In 1716, the French founded [[Natchez, Mississippi|Natchez]] on the Mississippi River (as ''[[Fort Rosalie]]''); it became the dominant town and trading post of the area. The French called the greater territory "[[Louisiana (New France)|New France]]"; the Spanish continued to claim part of the [[Gulf coast]] area (east of [[Mobile Bay]]) of present-day southern [[Alabama]], in addition to the entire area of present-day [[Florida]]. The British assumed control of the French territory after the [[French and Indian War]].
+
+[[File:Pushmataha high resolution.jpg|thumb|upright|[[Pushmataha]], Principal Chief of the [[Choctaw]]|left]]
+
+During the [[Colonial history of the United States|colonial era]], European settlers imported [[Atlantic slave trade|enslaved Africans]] to work on cash crop [[plantation]]s. Under French and Spanish rule, there developed a class of [[free people of color]] (''gens de couleur libres''), mostly [[Multiracial people|multiracial]] descendants of European men and enslaved or free black women, and their [[mixed-race]] children. In the early days the French and Spanish colonists were chiefly men. Even as more European women joined the settlements, the men had interracial unions among women of African descent (and increasingly, multiracial descent), both before and after marriages to European women. Often the European men would help their multiracial children get educated or gain apprenticeships for trades, and sometimes they settled property on them; they often freed the mothers and their children if enslaved, as part of contracts of ''[[plaçage]]''. With this [[social capital]], the free people of color became artisans, and sometimes educated merchants and property owners, forming a third class between the Europeans and most enslaved Africans in the French and Spanish settlements, although not so large a free community as in the city of [[New Orleans]], Louisiana.
+
+After Great Britain's victory in the [[French and Indian War]] ([[Seven Years' War]]), the French surrendered the Mississippi area to them under the terms of the [[Treaty of Paris (1763)]]. They also ceded their areas to the north that were east of the Mississippi River, including the Illinois Country and Quebec. After the [[Peace of Paris (1783)]], the lower third of Mississippi came under Spanish rule as part of [[West Florida]]. In 1819 the United States completed the purchase of West Florida and all of [[East Florida]] in the [[Adams–Onís Treaty]], and in 1822 both were merged into the [[Florida Territory]].
+
+===United States territory===
+
+{{Main|Seminole Wars|Adams–Onís Treaty|Organic act#List of organic acts|Mississippi Territory}}
+
+After the [[American Revolution]] (1775–83), Britain ceded this area to the new United States of America. The [[Mississippi Territory]] was [[Territories of the United States|organized]] on April 7, 1798, from territory ceded by [[Georgia (U.S. state)|Georgia]] and [[South Carolina]] to the United States. Their original colonial charters theoretically extended west to the Pacific Ocean. The Mississippi Territory was later twice expanded to include disputed territory claimed by both the United States and Spain.
+
+From 1800 to about 1830, the United States purchased some lands ([[Treaty of Doak's Stand]]) from Native American tribes for new settlements of European Americans. The latter were mostly migrants from other Southern states, particularly Virginia and North Carolina, where soils were exhausted.<ref>{{cite book|first=Ben |last=Wynne|title=Mississippi (On-The-Road Histories)|year=2007|page=12|publisher=Interlink Publishing Group Incorporated |isbn=978-1566566667}}</ref> New settlers kept encroaching on Choctaw land, and they pressed the federal government to expel the Native Americans. On September 27, 1830, the [[Treaty of Dancing Rabbit Creek]] was signed between the U.S. Government and the [[Choctaw]]. The Choctaw agreed to sell their traditional homelands in Mississippi and Alabama, for compensation and [[Indian Removal|removal]] to reservations in [[Indian Territory]] (now Oklahoma). This opened up land for sale to [[European-American]] migrant settlement.
+
+Article 14 in the treaty allowed those Choctaw who chose to remain in the states to become U.S. citizens, as they were considered to be giving up their tribal membership. They were the second major Native American ethnic group to do so (some Cherokee were the first, who chose to stay in [[North Carolina]] and other areas during rather than join the removal).<ref name="us_citizenship">
+{{cite web
+ |url=http://digital.library.okstate.edu/kappler/Vol2/treaties/cho0310.htm#mn15 
+ |title=Indian Affairs: Laws and Treaties Vol. II, Treaties 
+ |access-date=April 16, 2008 |last=Kappler 
+ |first=Charles 
+ |year=1904 
+ |publisher=Government Printing Office 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20080517182743/http://digital.library.okstate.edu/kappler/Vol2/treaties/cho0310.htm 
+ |archive-date=May 17, 2008  
+}}
+</ref><ref name="david_baird">
+{{Cite book
+| last = Baird
+| first = W. David
+| title = The Choctaw People
+| year = 1973
+| publisher = Indian Tribal Series
+| location = United States
+| chapter = The Choctaws Meet the Americans, 1783 to 1843
+| page = 36
+| id = Library of Congress 73-80708
+| asin = B001G42A16
+}}
+</ref> Today their descendants include approximately 9,500 persons identifying as Choctaw, who live in Neshoba, Newton, Leake, and Jones counties. The [[Mississippi Band of Choctaw Indians]] reorganized in the 20th century and is a Federally recognized tribe.
+
+Many slaveholders brought enslaved [[African Americans]] with them or purchased them through the domestic slave trade, especially in [[New Orleans]]. Through the trade, an estimated nearly one million slaves were forcibly transported to the [[Deep South]], including Mississippi, in an internal migration that broke up many slave families of the Upper South, where [[Planter class|planters]] were selling excess slaves. The Southerners imposed slave laws in the Deep South and restricted the rights of free blacks.
+
+Beginning in 1822, slaves in Mississippi were protected by law from cruel and unusual punishment by their owners.<ref>{{cite book |last=Bond |first=Bradley |title=''Mississippi: A Documentary History'' |url=https://books.google.com/books?id=VQah3gRay2gC |publisher=Univ. Press of Mississippi |year=2005 |page=68 | isbn=978-1617034305}}</ref> The Southern slave codes made the willful killing of a slave illegal in most cases.<ref>{{cite book |last=Morris |first=Thomas D. |title=Southern Slavery and the Law, 1619–1860 |url=https://books.google.com/books?id=VmPWCKh0hZAC&pg=PA172 |publisher=University of North Carolina Press|year=1999|page=172| isbn=978-0807864302}}</ref> For example, the 1860 Mississippi case of ''Oliver v. State'' charged the defendant with murdering his own slave.<ref>{{cite book |last=Fede |first=Andrew |title=''People Without Rights (Routledge Revivals): An Interpretation of the Fundamentals of the Law of Slavery in the U.S. South'' |publisher= [[Routledge]] |year=2012 |page=79| isbn=978-1136716102}}</ref>
+
+[[File:D'Evereux.jpg|thumb|[[D'Evereux|D'Evereux Hall]] in [[Natchez, Mississippi|Natchez]]. Built in 1840, the mansion is listed on the [[National Register of Historic Places listings in Mississippi|National Register of Historic Places]].]]
+
+===Statehood to Civil War===
+
+{{Main|Admission to the Union|List of U.S. states by date of admission to the Union}}
+
+Mississippi became the 20th state on December 10, 1817. [[David Holmes (politician)|David Holmes]] was the first governor.<ref>{{cite journal|last=McCain|first=William D|year=1967|title=The Administrations of David Holmes, Governor of the Mississippi Territory, 1809–1817|journal=Journal of Mississippi History|volume=29|issue=3|pages=328–347}}</ref> The state was still occupied as ancestral land by several Native American tribes, including Choctaw, Natchez, Houma, Creek, and Chickasaw.<ref>{{Cite web|url=http://www.thomaslegion.net/imagelib/sitebuilder/misc/show_image.html?linkedwidth=actual&linkpath=http://www.americancivilwarhistory.net/sitebuildercontent/sitebuilderpictures/indian_tribes.jpg&target=tlx_new&title=Original+Territory:+Native+American++Indian+Tribes|title=Site Builder|website=www.thomaslegion.net}}</ref><ref>{{cite web |url=https://www.wikitree.com/photo.php/f/f2/US_Southern_Colonies_Spanish_La_Florida_WEST-4.jpg |format=JPEG |title=US Southern Colonies Spanish La Florida WEST}}</ref>
+
+Plantations were developed primarily along the major rivers, where the waterfront provided access to the major transportation routes. This is also where early towns developed, linked by the [[steamboats]] that carried commercial products and crops to markets. The remainder of Native American ancestral land remained largely undeveloped but was sold through treaties until 1826, when the Choctaws and Chickasaws refused to sell more land.<ref>{{cite web| url=https://www.choctawnation.com/sites/default/files/2015/09/29/1826_Refusal_of_Chickasaws_and_Choctaws_original.pdf |title=1826 Refusal of Chickasaws and Choctaws | website=choctawnation.com }}</ref> The combination of the Mississippi state legislature's abolition of Choctaw Tribal Government in 1829,<ref>{{cite web | url=http://www.fivecivilizedtribes.org/Five-Tribes/Choctaw/Choctaw-History | title=Five Civilized Tribes | access-date=June 27, 2018 | archive-url=https://web.archive.org/web/20180622115744/http://www.fivecivilizedtribes.org/Five-Tribes/Choctaw/Choctaw-History | archive-date=June 22, 2018 | url-status=dead }}</ref> President Andrew Jackson's [[Indian Removal Act]] and the [[Treaty of Dancing Rabbit Creek]] of 1830,<ref>{{Cite web|url=https://www.choctawnation.com/sites/default/files/2015/09/29/1830_Treaty_of_Dancing_Rabbit_Creek_original.pdf|title=1830 Treaty of Dancing Rabbit Creek|access-date=April 2, 2021}}</ref> the Choctaw were effectively forced to sell their land and were transported to Oklahoma Territory. The forced migration of the Choctaw, together with other southeastern tribes removed as a result of the Act, became known as the [[Trail of Tears]].
+
+When [[King Cotton|cotton was king]] during the 1850s, Mississippi plantation owners—especially those of the Delta and Black Belt central regions—became wealthy due to the high fertility of the soil, the high price of cotton on the international market, and free labor gained through their holding enslaved African Americans. They used some of their profits to buy more cotton land and more slaves. The planters' dependence on hundreds of thousands of slaves for labor and the severe wealth imbalances among whites, played strong roles both in state politics and in planters' support for [[secession]]. Mississippi was a slave society, with the economy dependent on slavery. The state was thinly settled, with population concentrated in the riverfront areas and towns.
+
+By 1860, the enslaved African-American population numbered 436,631 or 55% of the state's total of 791,305 persons. Fewer than 1000 were [[free people of color]].<ref>{{cite web|url=http://fisher.lib.virginia.edu/collections/stats/histcensus/php/state.php |title=Historical Census Browser |publisher=Fisher.lib.virginia.edu |access-date=July 30, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20070823030234/http://fisher.lib.virginia.edu/collections/stats/histcensus/php/state.php |archive-date=August 23, 2007  }}</ref> The relatively low population of the state before the [[American Civil War]] reflected the fact that land and villages were developed only along the riverfronts, which formed the main transportation corridors. Ninety percent of the Delta bottomlands were still frontier and undeveloped.<ref name="Willis Forgotten Time">John C. Willis, ''Forgotten Time: The Yazoo-Mississippi Delta after the Civil War''. Charlottesville: University of Virginia Press, 2000, {{ISBN|978-0813919829}}.</ref> The state needed many more settlers for development. The land further away from the rivers was cleared by freedmen and white migrants during Reconstruction and later.<ref name="Willis Forgotten Time"/>
+
+===Civil War through late 19th century===
+
+{{Main|Ordinance of Secession|Confederate States of America|Mississippi in the American Civil War|Reconstruction era}}
+[[File:First at Vicksburg.jpg|thumb|Confederate lines, [[Siege of Vicksburg|Vicksburg]], May 19, 1863. Shows assault by US 1st Battalion, 13th Infantry.]]
+
+On January 9, 1861, Mississippi became the second state to declare its secession from the [[Union (Civil War)|Union]], and it was one of the founding members of the [[Confederate States of America|Confederate States]]. The first six states to secede were those with the highest number of slaves. During the war, Union and Confederate forces struggled for dominance on the Mississippi River, critical to supply routes and commerce. More than 80,000 Mississippians fought in the [[Mississippi in the American Civil War|Civil War]] for the [[Confederate Army]]. Around 17,000 black and 545 white Mississippians would serve in the [[Union Army]]. Pockets of [[Southern Unionist|Unionism]] in Mississippi were in places such as the northeastern corner of the state and [[Jones County, Mississippi|Jones County]], where [[Newton Knight]] formed a revolt with Unionist leanings, known as the "Free State of Jones".<ref>Rothman, Lily. (June 23, 2016). [https://time.com/4377951/free-state-of-jones-true-story/ Free State of Jones: Why You Probably Hadn't Heard the Real Free State of Jones Story Before]. ''Time''. Retrieved April 10, 2022.</ref> Union General [[Ulysses S. Grant]]'s long siege of [[Vicksburg Campaign|Vicksburg]] finally gained the Union control of the river in 1863.
+
+In the postwar period, [[freedmen]] withdrew from white-run churches to set up independent congregations. The majority of blacks left the [[Southern Baptist Convention]], sharply reducing its membership. They created independent black Baptist congregations. By 1895 they had established numerous black Baptist state associations and the [[National Baptist Convention, USA, Inc.|National Baptist Convention]] of black churches.<ref name="campbell"/>
+
+In addition, independent black denominations, such as the [[African Methodist Episcopal Church]] (established in [[Philadelphia, Pennsylvania]] in the early 19th century) and the [[African Methodist Episcopal Zion Church]] (established in New York City), sent [[missionaries]] to the South in the postwar years. They quickly attracted hundreds of thousands of converts and founded new churches across the South. Southern congregations brought their own influences to those denominations as well.<ref name="campbell">{{cite book|author=James T. Campbell|title=Songs of Zion: The African Methodist Episcopal Church in the United States and South Africa|url=https://books.google.com/books?id=XfWCqvkp_OUC&pg=PA215|year=1995|publisher=Oxford University Press|location=New York|isbn=978-0-19-536005-9|pages=53–54}}</ref><ref name="docsouth.unc.edu">{{cite web|url=http://docsouth.unc.edu/church/intro.html |title=The Church in the Southern Black Community |website=Documenting the South |publisher=University of North Carolina |date=2004 |access-date=January 15, 2009}}</ref>
+
+During [[Reconstruction era of the United States|Reconstruction]], the first Mississippi constitutional convention in 1868, with delegates both black and white, framed a constitution whose major elements would be maintained for 22 years.<ref name="dubois"/> The convention was the first political organization in the state to include African-American representatives, 17 among the 100 members (32 counties had black majorities at the time). Some among the black delegates were [[freedmen]], but others were educated free blacks who had migrated from the North. The convention adopted universal suffrage; did away with property qualifications for [[suffrage]] or for office, a change that also benefited both blacks and poor whites; provided for the state's first public school system; forbade race distinctions in the possession and inheritance of property; and prohibited limiting civil rights in travel.<ref name="dubois">{{cite book|first=W. E. B. |last=DuBois |title=Black Reconstruction in America, 1860–1880|location=New York |publisher=The Free Press |year=1998 |page=437}}</ref> Under the terms of Reconstruction, Mississippi was restored to the Union on February 23, 1870.
+
+Because the Mississippi Delta contained so much fertile bottomland that had not been developed before the American Civil War, 90 percent of the land was still frontier. After the Civil War, tens of thousands of migrants were attracted to the area by higher wages offered by planters trying to develop land. In addition, black and white workers could earn money by clearing the land and selling timber, and eventually advance to ownership. The new farmers included many freedmen, who by the late 19th century achieved unusually high rates of land ownership in the Mississippi bottomlands. In the 1870s and 1880s, many black farmers succeeded in gaining land ownership.<ref name="Willis Forgotten Time"/>
+[[File:Legislature of the State of Mississippi (1890).png|thumb|The legislature of the state of Mississippi in 1890]]
+
+Around the start of the 20th century, two-thirds of the Mississippi farmers who owned land in the Delta were [[African American]].<ref name="Willis Forgotten Time"/> But many had become overextended with debt during the falling cotton prices of the difficult years of the late 19th century. Cotton prices fell throughout the decades following the Civil War. As another agricultural depression lowered cotton prices into the 1890s, numerous African-American farmers finally had to sell their land to pay off debts, thus losing the land which they had developed by hard, personal labor.<ref name="Willis Forgotten Time"/>
+
+Democrats had regained control of the state legislature in 1875, after a year of expanded violence against blacks and intimidation of whites in what was called the "white line" campaign, based on asserting [[white supremacy]]. Democratic whites were well armed and formed [[paramilitary]] organizations such as the [[Red Shirts (southern United States)|Red Shirts]] to suppress black voting. From 1874 to the elections of 1875, they pressured whites to join the Democrats, and conducted violence against blacks in at least 15 known "riots" in cities around the state to intimidate blacks. They killed a total of 150 blacks, although other estimates place the death toll at twice as many. A total of three white Republicans and five white Democrats were reported killed. In rural areas, deaths of blacks could be covered up. Riots (better described as massacres of blacks) took place in Vicksburg, Clinton, Macon, and in their counties, as well-armed whites broke up black meetings and [[lynching|lynched]] known black leaders, destroying local political organizations.<ref>{{Cite journal|last=Wharton|first=V. L.|date=1941|title=The Race Issue in the Overthrow of Reconstruction in Mississippi: A Paper Read before the American Historical Association, 1940|journal=Phylon|volume=2|issue=4|pages=362–370|doi=10.2307/271241|jstor=271241}}</ref> Seeing the success of this deliberate "[[Mississippi Plan]]", South Carolina and other states followed it and also achieved white Democratic dominance. In 1877 by a national compromise, the last of federal troops were withdrawn from the region.
+
+Even in this environment, black Mississippians continued to be elected to local office. However, black residents were deprived of all political power after white legislators passed a new state constitution in 1890 specifically to "eliminate the nigger from politics", according to the state's [[Democratic Party (United States)|Democratic]] governor, [[James K. Vardaman]].<ref name=NRMcMillenP43>{{Cite book|chapter-url=https://books.google.com/books?id=bIN1gR92_SIC&pg=PA41|title=Dark Journey: Black Mississippians in the Age of Jim Crow|first=Neil R.|last=McMillen|page=43|chapter=The Politics of the Disfranchised|date=1990|publisher=University of Illinois Press |isbn=978-0-252-06156-1}}</ref> It erected barriers to voter registration and instituted electoral provisions that effectively [[Disfranchisement after Reconstruction era|disenfranchised]] most black Mississippians and many poor whites. Estimates are that 100,000 black and 50,000 white men were removed from voter registration rolls in the state over the next few years.<ref>Stephen Edward Cresswell, ''Rednecks, Redeemers and Race: Mississippi after Reconstruction'', Jackson: University Press of Mississippi, 2006, p. 124, {{ISBN|978-1578068470}}.</ref>
+
+The loss of political influence contributed to the difficulties of African Americans in their attempts to obtain extended credit in the late 19th century. Together with imposition of [[Jim Crow]] and racial segregation laws, whites increased violence against blacks, with lynchings occurring through the period of the 1890s and extending to 1930.
+
+===20th century to present===
+[[File:All these children.jpg|thumb|Child workers, [[Pass Christian, Mississippi|Pass Christian]], 1911, by [[Lewis Hine]]]]
+
+In 1900, blacks made up more than half of the state's population. By 1910, a majority of black farmers in the Delta had lost their land and became [[sharecropper]]s. By 1920, the third generation after freedom, most African Americans in Mississippi were landless laborers again facing poverty.<ref name="Willis Forgotten Time"/> Starting about 1913, tens of thousands of black Americans left Mississippi for the [[Northern United States|North]] in the [[Great Migration (African American)|Great Migration]] to industrial cities such as [[St. Louis]], [[Chicago]], [[Detroit]], [[Cleveland]], [[Philadelphia]] and [[New York City|New York]]. They sought jobs, better education for their children, the right to vote, relative freedom from discrimination, and better living. In the migration of 1910–1940, they left a society that had been steadily closing off opportunity. Most migrants from Mississippi took trains directly north to Chicago and often settled near former neighbors.
+
+Cotton crops failed due to [[boll weevil]] infestation and successive severe flooding in 1912 and 1913, creating crisis conditions for many African Americans. With control of the ballot box and more access to credit, white planters bought out such farmers, expanding their ownership of Delta bottomlands. They also took advantage of new railroads sponsored by the state.<ref name="Willis Forgotten Time"/> Blacks also faced violence in the form of lynching, shooting, and the burning of churches. In 1923, the [[National Association for the Advancement of Colored People]] stated "the Negro feels that life is not safe in Mississippi and his life may be taken with impunity at any time upon the slightest pretext or provocation by a white man".<ref>{{Cite web |url= http://digital.library.louisville.edu/cdm/ref/collection/leader/id/9763 |title= The Louisville Leader. Louisville, Kentucky |date= May 19, 1923 |website= Louisville Leader Collection |publisher= library.louisville.edu |access-date= May 28, 2016 |archive-date= June 24, 2016 |archive-url= https://web.archive.org/web/20160624215521/http://digital.library.louisville.edu/cdm/ref/collection/leader/id/9763 |url-status= dead }}</ref>
+
+[[File:Mexican and negro cotton pickers inside plantation store, Knowlton Plantation, Perthshire, Miss. Delta. This transient labor is contracted for and brought in trucks from Texas each season. October 1939.jpg|thumb|[[Mexican American]] boy and [[African American]] man at the Knowlton Plantation, Perthshire, Mississippi, in 1939, by [[Marion Post Wolcott]]]]
+[[File:FSA Dancing JukeJoint.jpg|thumb|Dancing at a [[juke joint]] near Clarksdale, Mississippi, in 1939, by [[Marion Post Wolcott]]]]
+
+In the early 20th century, some industries were established in Mississippi, but jobs were generally restricted to whites, including child workers. The lack of jobs also drove some southern whites north to cities such as Chicago and Detroit, seeking employment, where they also competed with European immigrants. The state depended on agriculture, but mechanization put many farm laborers out of work.
+
+By 1900, many white ministers, especially in the towns, subscribed to the [[Social Gospel]] movement, which attempted to apply Christian ethics to social and economic needs of the day. Many strongly supported [[Prohibition]], believing it would help alleviate and prevent many sins.<ref>[http://scholarship.rice.edu/handle/1911/16188 Randy J. Sparks. ''Religion in Mississippi''] (online edition). Rice University (2001).</ref> Mississippi became a [[dry state]] in 1908 by an act of the [[Mississippi Legislature|state legislature]].<ref>{{cite book |title=The Anti-Prohibition Manual: A Summary of Facts and Figures Dealing with Prohibition, 1917 |publisher=National Association of Distillers and Wholesale Dealers |date=1917 |location=Cincinnati, Ohio |page=[https://archive.org/details/antiprohibitionm17nati/page/8 8] |url=https://archive.org/details/antiprohibitionm17nati |access-date=July 16, 2019}}</ref> It remained dry until the legislature passed a [[local option]] bill in 1966.<ref>{{cite book |last1=Tracy |first1=Janice Branch |title=Mississippi Moonshine Politics: How Bootleggers & the Law Kept a Dry State Soaked |date=2015 |publisher=Arcadia Publishing |isbn=978-1625852885 |page=20 |url=https://books.google.com/books?id=AujuBwAAQBAJ&pg=PA20 |access-date=July 16, 2019}}</ref>
+
+African-American Baptist churches grew to include more than twice the number of members as their white Baptist counterparts. The African-American call for social equality resonated throughout the [[Great Depression]] in the 1930s and [[World War II]] in the 1940s.
+
+The [[Second Great Migration (African American)|Second Great Migration]] from the South started in the 1940s, lasting until 1970. Almost half a million people left Mississippi in the second migration, three-quarters of them black. Nationwide during the first half of the 20th century, African Americans became rapidly urbanized and many worked in industrial jobs. The Second Great Migration included destinations in the [[Western United States|West]], especially [[California]], where the buildup of the defense industry offered higher-paying jobs to both African Americans and whites.
+
+Blacks and whites in Mississippi generated rich, quintessentially American music traditions: [[gospel music]], [[country music]], [[jazz]], [[blues]] and [[rock and roll]]. All were invented, promulgated or heavily developed by Mississippi musicians, many of them African American, and most came from the [[Mississippi Delta]]. Many musicians carried their music north to Chicago, where they made it the heart of that city's jazz and blues.
+
+So many African Americans left in the Great Migration that after the 1930s, they became a minority in Mississippi. In 1960 they made up 42% of the state's population.<ref>[http://fisher.lib.virginia.edu/collections/stats/histcensus/php/state.php Historical Census Browser, 1960 United States Census, University of Virginia] {{webarchive|url=https://web.archive.org/web/20070823030234/http://fisher.lib.virginia.edu/collections/stats/histcensus/php/state.php |date=August 23, 2007 }}, accessed March 13, 2008</ref> The whites maintained their discriminatory voter registration processes established in 1890, preventing most blacks from voting, even if they were well educated. Court challenges were not successful until later in the century. After World War II, African-American veterans returned with renewed commitment to be treated as full citizens of the United States and increasingly organized to gain enforcement of their constitutional rights.
+
+The [[Civil rights movement|Civil Rights movement]] had many roots in religion, and the strong community of churches helped supply volunteers and moral purpose for their activism. Mississippi was a center of activity, based in black churches, to educate and register black voters, and to work for integration. In 1954 the state had created the [[Mississippi State Sovereignty Commission]], a tax-supported agency, chaired by the Governor, that claimed to work for the state's image but effectively spied on activists and passed information to the local White Citizens' Councils to suppress black activism. [[Citizens' Councils|White Citizens Councils]] had been formed in many cities and towns to resist integration of schools following the unanimous 1954 [[United States Supreme Court]] ruling (''[[Brown v. Board of Education]]'') that segregation of public schools was unconstitutional. They used intimidation and economic blackmail against activists and suspected activists, including teachers and other professionals. Techniques included loss of jobs and eviction from rental housing.
+
+In the summer of 1964 students and community organizers from across the country came to help register black voters in Mississippi and establish [[Freedom Schools]]. The [[Mississippi Freedom Democratic Party]] was established to challenge the all-white Democratic Party of the [[Solid South]]. Most white politicians resisted such changes. Chapters of the [[Ku Klux Klan]] and its sympathizers used violence against activists, most notably the [[murders of Chaney, Goodman, and Schwerner]] in 1964 during the [[Freedom Summer]] campaign. This was a catalyst for Congressional passage the following year of the [[Voting Rights Act of 1965]]. Mississippi earned a reputation in the 1960s as a reactionary state.<ref>[http://www.southernspaces.org/2006/mississippi-metaphor-state-region-and-nation-historical-imagination Joseph Crespino, "Mississippi as Metaphor: State, Region and Nation in Historical Imagination", ''Southern Spaces'', October 23, 1996], accessed October 1, 2013</ref><ref>[http://www.queenspress.com/archives/nfp/2002/1018/nfp.htm Michael Schenkler, "Memories of Queens College and an American Tragedy", ''Queens Press'', October 18, 2002] {{Webarchive|url=https://web.archive.org/web/20130117094449/http://www.queenspress.com/archives/nfp/2002/1018/nfp.htm |date=January 17, 2013 }}, accessed March 15, 2008</ref>
+
+After decades of disenfranchisement, African Americans in the state gradually began to exercise their right to vote again for the first time since the 19th century, following the passage of federal civil rights legislation in 1964 and 1965, which ended ''de jure'' segregation and enforced constitutional voting rights. Registration of African-American voters increased and black candidates ran in the 1967 elections for state and local offices. The Mississippi Freedom Democratic Party fielded some candidates. Teacher [[Robert G. Clark, Jr.|Robert G. Clark]] of Holmes County was the first African American to be elected to the State House since Reconstruction. He continued as the only African American in the state legislature until 1976 and was repeatedly elected into the 21st century, including three terms as Speaker of the House.<ref name="msu">[http://lib.msstate.edu/collins/speakers/clark/ "Robert G. Clark, 26 October 2000 (video)"] {{Webarchive|url=https://web.archive.org/web/20150611124525/http://lib.msstate.edu/collins/speakers/clark/ |date=11 June 2015 }}, The Morris W. H. (Bill) Collins Speaker Series, Mississippi State University, accessed June 10, 2015</ref>
+
+In 1966, the state was the last to repeal officially statewide [[Prohibition in the United States|prohibition of alcohol]]. Before that, Mississippi had taxed the illegal alcohol brought in by [[Rum-running|bootlegger]]s. Governor [[Paul B. Johnson, Jr.|Paul Johnson]] urged repeal and the sheriff "raided the annual [[Junior League]] [[Mardi Gras]] ball at the Jackson Country Club, breaking open the liquor cabinet and carting off the Champagne before a startled crowd of [[nobility]] and high-ranking state officials".<ref>[http://content.time.com/time/subscriber/article/0,33009,842449,00.html "Mississippi: Bourbon Borealis"], ''Time'', February 11, 1966.</ref>
+
+The end of legal segregation and [[Jim Crow]] led to the integration of some churches, but most today remain divided along racial and cultural lines, having developed different traditions. After the Civil War, most African Americans left white churches to establish their own independent congregations, particularly Baptist churches, establishing state associations and a national association by the end of the 20th century. They wanted to express their own traditions of worship and practice.<ref>{{cite news |author=John Blake |url=http://www.cnn.com/2008/LIVING/wayoflife/08/04/segregated.sundays/index.html |title=Segregated Sundays |publisher=CNN |date=July 30, 2008 |access-date=July 30, 2010}}</ref> In more diverse communities, such as [[Hattiesburg, Mississippi|Hattiesburg]], some churches have multiracial congregations.<ref name="NYTrace"/>
+
+On August 17, 1969, [[Saffir-Simpson Hurricane Scale|Category 5]] [[Hurricane Camille]] hit the Mississippi coast, killing 248 people and causing US$1.5&nbsp;billion in damage (1969 dollars). Mississippi ratified the [[Nineteenth Amendment to the United States Constitution]], in March 1984, which had already entered into force by August 1920; granting women the right to vote.<ref>{{cite web | last1 = Spruill | first1 = Marjorie Julian | last2 = Spruill Wheeler | first2 = Jesse | title = Mississippi Women and the Woman Suffrage Amendment | publisher = Mississippi Historical Society | url = http://www.mshistorynow.mdah.ms.gov/articles/245/mississippi-women-and-the-woman-suffrage-amendment | access-date = August 25, 2018}}</ref>
+
+[[File:Hattiesburg Flags.jpg|thumb|Flagpoles standing behind [[Hattiesburg, Mississippi]] sign, 2016]]
+In 1987, 20 years after the [[United States Supreme Court|U.S. Supreme Court]] had ruled in 1967's ''[[Loving v. Virginia]]'' that a similar Virginian law was unconstitutional, Mississippi repealed its ban on interracial marriage (also known as [[miscegenation]]), which had been enacted in 1890. It also repealed the [[Racial segregation in the United States|segregationist]]-era [[Poll tax (United States)|poll tax]] in 1989. In 1995, the state symbolically ratified the [[Thirteenth Amendment to the United States Constitution|Thirteenth Amendment]], which had abolished slavery in 1865. In 2009, the legislature passed a bill to repeal other discriminatory civil rights laws, which had been enacted in 1964, the same year as the federal [[Civil Rights Act of 1964|Civil Rights Act]], but ruled unconstitutional in 1967 by federal courts. Republican Governor [[Haley Barbour]] signed the bill into law.<ref>{{cite news |url=http://www.clarionledger.com/article/20090421/NEWS/90421036|title=Segregationist Mississippi laws repealed|work=The Clarion-Ledger}}{{Dead link|date=July 2010}}</ref>
+
+On August 29, 2005, [[Hurricane Katrina]], though a [[Saffir-Simpson Hurricane Scale|Category 3]] storm upon final landfall, caused even greater destruction across the entire {{convert|90|mi|km|0}} of the [[Mississippi Gulf Coast]] from Louisiana to Alabama.
+
+[[File:Flag of Mississippi (2001–2020).svg|thumb|The previous [[flag of Mississippi]], used until June 30, 2020, featured the Confederate battle flag.]]
+The previous [[flag of Mississippi]], used until June 30, 2020, featured the [[Flags of the Confederate States of America#Battle flag|Confederate battle flag]]. Mississippi became the last state to remove the Confederate battle flag as an official state symbol on June 30, 2020, when Governor [[Tate Reeves]] signed a law officially retiring the [[Flag of Mississippi#Second flag|second state flag]]. The current flag, The "New Magnolia" flag, was selected via referendum as part of the general election on November 3, 2020.<ref>{{Cite web|last1=Pettus|first1=Emily Wagster|last2=Press|first2=Associated|date=June 30, 2020|title=Governor to retire Mississippi's Confederate-themed flag|url=https://www.chron.com/news/article/Governor-to-retire-Mississippi-s-15376771.php|access-date=June 30, 2020|website=Houston Chronicle|archive-url=https://web.archive.org/web/20200728092533/https://www.chron.com/news/article/Governor-to-retire-Mississippi-s-15376771.php|archive-date=July 28, 2020|url-status=dead}}</ref><ref>{{cite web | url = https://www.nbcnews.com/news/nbcblk/mississippi-voters-decide-replace-confederate-themed-state-flag-n1246244 | title = Mississippi voters decide to replace Confederate-themed state flag | first = Dan | last = Avery | date = November 4, 2020 | access-date = November 4, 2020 | work = [[NBC News]] }}</ref> It officially became the state flag on January 11, 2021, after being signed into law by the state legislature and governor.
+
+==Geography==
+[[File:Map of Mississippi NA.png|thumb|upright=1.35]]
+[[File:Wolf-River-swamp-North-Mississippi.jpg|thumb|Bottomland hardwood swamp near [[Ashland, Mississippi|Ashland]]]]
+[[File:Mississippi Delta SVG Map.svg|thumb|Map of the Mississippi Delta Region (outlined in green)]]
+
+Mississippi is bordered to the north by [[Tennessee]], to the east by [[Alabama]], to the south by [[Louisiana]] and a narrow coast on the [[Gulf of Mexico]]; and to the west, across the Mississippi River, by Louisiana and [[Arkansas]].
+
+In addition to its namesake, major rivers in Mississippi include the [[Big Black River (Mississippi)|Big Black River]], the [[Pearl River (Mississippi-Louisiana)|Pearl River]], the [[Yazoo River]], the [[Pascagoula River]], and the [[Tombigbee River]]. Major lakes include [[Ross Barnett Reservoir]], [[Arkabutla Lake|Arkabutla]], [[Sardis Lake (Mississippi)|Sardis]], and [[Grenada Lake|Grenada]], with the largest being Sardis Lake.
+
+Mississippi is entirely composed of [[lowland]]s, the highest point being [[Woodall Mountain]], at {{cvt|807|ft|m}} above [[sea level]], in the northeastern part of the state. The lowest point is sea level at the [[Gulf Coast]]. The state's mean elevation is {{cvt|300|ft|m}} above sea level.
+
+Most of Mississippi is part of the east [[Gulf Coastal Plain]]. The [[coastal plain]] is generally composed of low hills, such as the Pine Hills in the south and the North Central Hills. The Pontotoc Ridge and the [[Fall Line]] Hills in the northeast have somewhat higher elevations. Yellow-brown [[loess]] soil is found in the western parts of the state. The northeast is a region of fertile black earth uplands, a geology that extend into the [[Black Belt (region of Alabama)|Alabama Black Belt]].
+
+The coastline includes large bays at [[Bay St. Louis, Mississippi|Bay St. Louis]], [[Biloxi, Mississippi|Biloxi]], and [[Pascagoula, Mississippi|Pascagoula]]. It is separated from the Gulf of Mexico proper by the shallow [[Mississippi Sound]], which is partially sheltered by [[Petit Bois Island (Mississippi)|Petit Bois Island]], [[Horn Island (Mississippi)|Horn Island]], [[Ship Island (Mississippi)|East and West Ship Islands]], [[Deer Island (Mississippi)|Deer Island]], [[Round Island (Mississippi)|Round Island]], and [[Cat Island (Mississippi)|Cat Island]].
+
+The northwest remainder of the state consists of the [[Mississippi Delta]], a section of the [[Mississippi Alluvial Plain]]. The plain is narrow in the south and widens north of [[Vicksburg, Mississippi|Vicksburg]]. The region has rich soil, partly made up of [[silt]] which had been regularly deposited by the [[Flood plain|flood waters]] of the Mississippi River.
+
+Areas under the management of the [[National Park Service]] include:<ref>{{cite web|title=Mississippi |publisher=National Park Service |access-date=July 16, 2008 |url=http://www.nps.gov/state/ms}}</ref>
+* [[Brices Cross Roads National Battlefield Site]] near [[Baldwyn, Mississippi|Baldwyn]]
+* [[Gulf Islands National Seashore]]
+* [[Natchez National Historical Park]] in [[Natchez, Mississippi|Natchez]]
+* [[Natchez Trace National Scenic Trail]] in [[Tupelo, Mississippi|Tupelo]]
+* [[Natchez Trace Parkway]]
+* [[Tupelo National Battlefield]] in Tupelo
+* [[Vicksburg National Military Park|Vicksburg National Military Park and Cemetery]] in [[Vicksburg, Mississippi|Vicksburg]]
+
+=== Major cities and towns ===
+
+[[File:Mississippi 90.jpg|thumb|Map with all counties and their county seats]]
+
+Mississippi City Population Rankings of at least 50,000 ([[United States Census Bureau]] as of 2017):<ref name="Annual Population Estimates">{{cite web|url=https://census.gov/data/tables/2017/demo/popest/total-cities-and-towns.html|title=Archived copy|access-date=March 2, 2019}} Retrieved September 20, 2013 {{PD-notice}}</ref>
+{{columns-list|
+# [[Jackson, Mississippi|Jackson]] (166,965)
+# [[Gulfport, Mississippi|Gulfport]] (71,822)
+# [[Southaven, Mississippi|Southaven]] (54,031)
+}}
+
+Mississippi City Population Rankings of at least 20,000 but fewer than 50,000 ([[United States Census Bureau]] as of 2017):<ref name="Annual Population Estimates" />
+{{columns-list|colwidth=20em|
+{{ordered list|start=4
+ | [[Hattiesburg, Mississippi|Hattiesburg]] (46,377)
+ | [[Biloxi, Mississippi|Biloxi]] (45,908)
+ | [[Tupelo, Mississippi|Tupelo]] (38,114)
+ | [[Meridian, Mississippi|Meridian]] (37,940)
+ | [[Olive Branch, Mississippi|Olive Branch]] (37,435)
+ | [[Greenville, Mississippi|Greenville]] (30,686)
+ | [[Horn Lake, Mississippi|Horn Lake]] (27,095)
+ | [[Pearl, Mississippi|Pearl]] (26,534)
+ | [[Madison, Mississippi|Madison]] (25,627)
+ | [[Starkville, Mississippi|Starkville]] (25,352)
+ | [[Clinton, Mississippi|Clinton]] (25,154)
+ | [[Ridgeland, Mississippi|Ridgeland]] (24,266)
+ | [[Columbus, Mississippi|Columbus]] (24,041)
+ | [[Brandon, Mississippi|Brandon]] (23,999)
+ | [[Oxford, Mississippi|Oxford]] (23,639)
+ | [[Vicksburg, Mississippi|Vicksburg]] (22,489)
+ | [[Pascagoula, Mississippi|Pascagoula]] (21,733)
+}}
+}}
+
+Mississippi City Population Rankings of at least 10,000 but fewer than 20,000 ([[United States Census Bureau]] as of 2017):<ref name="Annual Population Estimates" />
+{{columns-list|colwidth=20em|
+{{ordered list|start=21
+ | [[Gautier, Mississippi|Gautier]] (18,512)
+ | [[Laurel, Mississippi|Laurel]] (18,493)
+ | [[Ocean Springs, Mississippi|Ocean Springs]] (17,682)
+ | [[Hernando, Mississippi|Hernando]] (15,981)
+ | [[Clarksdale, Mississippi|Clarksdale]] (15,732)
+ | [[Long Beach, Mississippi|Long Beach]] (15,642)
+ | [[Natchez, Mississippi|Natchez]] (14,886)
+ | [[Corinth, Mississippi|Corinth]] (14,643)
+ | [[Greenwood, Mississippi|Greenwood]] (13,996)
+ | [[Moss Point, Mississippi|Moss Point]] (13,398)
+ | [[McComb, Mississippi|McComb]] (13,267)
+ | [[Bay St. Louis, Mississippi|Bay St. Louis]] (13,043)
+ | [[Canton, Mississippi|Canton]] (12,725)
+ | [[Grenada, Mississippi|Grenada]] (12,267)
+ | [[Brookhaven, Mississippi|Brookhaven]] (12,173)
+ | [[Cleveland, Mississippi|Cleveland]] (11,729)
+ | [[Byram, Mississippi|Byram]] (11,671)
+ | [[D'Iberville, Mississippi|D'Iberville]] (11,610)
+ | [[Picayune, Mississippi|Picayune]] (11,008)
+ | [[West Point, Mississippi|West Point]] (10,675)
+ | [[Yazoo City, Mississippi|Yazoo City]] (11,018)
+ | [[Petal, Mississippi|Petal]] (10,633)
+}}
+}}
+''(See: Lists of [[List of cities in Mississippi|cities]], [[List of towns and villages in Mississippi|towns and villages]], [[List of census-designated places in Mississippi|census-designated places]], [[List of metropolitan areas in Mississippi|metropolitan areas]], [[List of micropolitan areas in Mississippi|micropolitan areas]], and [[List of counties in Mississippi|counties]] in Mississippi)''
+
+=== Climate ===
+[[File:Köppen Climate Types Mississippi.png|right|thumb|[[Köppen climate classification|Köppen climate types]] of Mississippi, using 1991-2020 [[Climatological normal|climate normals]]]]
+Mississippi has a [[humid subtropical climate]] with long, hot and humid summers, and short, mild winters. Temperatures average about {{cvt|81|°F}} in July and about {{cvt|42|°F}} in January. The temperature varies little statewide in the summer; however, in winter, the region near [[Mississippi Sound]] is significantly warmer than the inland portion of the state. The recorded temperature in Mississippi has ranged from {{cvt|-19|°F}}, in 1966, at [[Corinth, Mississippi|Corinth]] in the northeast, to {{cvt|115|°F}}, in 1930, at [[Holly Springs, Mississippi|Holly Springs]] in the north. Snowfall is scant throughout the state, occurring only rarely in the south. Yearly [[Precipitation (meteorology)|precipitation]] generally increases from north to south, with the regions closer to the Gulf being the most humid. Thus, [[Clarksdale, Mississippi|Clarksdale]], in the northwest, gets about {{cvt|50|in}} of precipitation annually and [[Biloxi, Mississippi|Biloxi]], in the south, about {{cvt|61|in}}. Small amounts of snow fall in northern and central Mississippi; snow is occasional in the southern part of the state. 
+[[File:Hurricanes Camille and Katrina comparison.jpg|thumb|right|Hurricanes Camille (left) and Katrina from satellite imagery, as they approached the Mississippi Gulf Coast]]
+
+The late summer and fall is the seasonal period of risk for [[Tropical cyclone|hurricanes]] moving inland from the Gulf of Mexico, especially in the southern part of the state. [[Hurricane Camille]] in 1969 and [[Hurricane Katrina]] in 2005, which killed 238 people in the state, were the most devastating hurricanes to hit the state. Both caused nearly total [[storm surge]] destruction of structures in and around [[Gulfport, Mississippi|Gulfport]], [[Biloxi, Mississippi|Biloxi]], and [[Pascagoula, Mississippi|Pascagoula]].
+
+As in the rest of the [[Deep South]], thunderstorms are common in Mississippi, especially in the southern part of the state. On average, Mississippi has around 27 [[tornado]]es annually; the northern part of the state has more tornadoes earlier in the year and the southern part a higher frequency later in the year. Two of the five deadliest tornadoes in United States history have occurred in the state. These storms struck [[Natchez, Mississippi|Natchez]], in southwest Mississippi (see [[The Great Natchez Tornado]]) and [[Tupelo, Mississippi|Tupelo]], in the northeast corner of the state. About seven F5 tornadoes have been recorded in the state.
+
+{| class="wikitable" " style="text-align:center; font-size:90%"
+| colspan="13" style="text-align:center;font-size:120%;background:#E8EAFA;" | Monthly normal high and low temperatures (°F) for various Mississippi cities
+|-
+! style="background:#e5afaa; height:17px;" | City
+! style="background:#e5afaa;" | Jan
+! style="background:#e5afaa;" | Feb
+! style="background:#e5afaa;" | Mar
+! style="background:#e5afaa;" | Apr
+! style="background:#e5afaa;" | May
+! style="background:#e5afaa;" | Jun
+! style="background:#e5afaa;" | Jul
+! style="background:#e5afaa;" | Aug
+! style="background:#e5afaa;" | Sep
+! style="background:#e5afaa;" | Oct
+! style="background:#e5afaa;" | Nov
+! style="background:#e5afaa;" | Dec
+|-
+! style="background:#c5dfe1; height:16px;" | Gulfport
+| style="background:#c5dfe1;" | 61/43
+| style="background:#c5dfe1;" | 64/46
+| style="background:#c5dfe1;" | 70/52
+| style="background:#c5dfe1;" | 77/59
+| style="background:#c5dfe1;" | 84/66
+| style="background:#c5dfe1;" | 89/72
+| style="background:#c5dfe1;" | 91/74
+| style="background:#c5dfe1;" | 91/74
+| style="background:#c5dfe1;" | 87/70
+| style="background:#c5dfe1;" | 79/60
+| style="background:#c5dfe1;" | 70/51
+| style="background:#c5dfe1;" | 63/45
+|-
+! style="background:#f8f3ca; height:16px;" | Jackson
+| style="background:#f8f3ca;" | 55/35
+| style="background:#f8f3ca;" | 60/38
+| style="background:#f8f3ca;" | 68/45
+| style="background:#f8f3ca;" | 75/52
+| style="background:#f8f3ca;" | 82/61
+| style="background:#f8f3ca;" | 89/68
+| style="background:#f8f3ca;" | 91/71
+| style="background:#f8f3ca;" | 91/70
+| style="background:#f8f3ca;" | 86/65
+| style="background:#f8f3ca;" | 77/52
+| style="background:#f8f3ca;" | 66/43
+| style="background:#f8f3ca;" | 58/37
+|-
+! style="background:#c5dfe1; height:16px;" | Meridian
+| style="background:#c5dfe1;" | 58/35
+| style="background:#c5dfe1;" | 63/38
+| style="background:#c5dfe1;" | 70/44
+| style="background:#c5dfe1;" | 77/50
+| style="background:#c5dfe1;" | 84/60
+| style="background:#c5dfe1;" | 90/67
+| style="background:#c5dfe1;" | 93/70
+| style="background:#c5dfe1;" | 93/70
+| style="background:#c5dfe1;" | 88/64
+| style="background:#c5dfe1;" | 78/51
+| style="background:#c5dfe1;" | 68/43
+| style="background:#c5dfe1;" | 60/37
+|-
+! style="background:#f8f3ca; height:16px;" | Tupelo
+| style="background:#f8f3ca;" | 50/30
+| style="background:#f8f3ca;" | 56/34
+| style="background:#f8f3ca;" | 65/41
+| style="background:#f8f3ca;" | 74/48
+| style="background:#f8f3ca;" | 81/58
+| style="background:#f8f3ca;" | 88/66
+| style="background:#f8f3ca;" | 91/70
+| style="background:#f8f3ca;" | 91/68
+| style="background:#f8f3ca;" | 85/62
+| style="background:#f8f3ca;" | 75/49
+| style="background:#f8f3ca;" | 63/40
+| style="background:#f8f3ca;" | 54/33
+|-
+| colspan="13" style="text-align:center;font-size:90%;background:#E8EAFA;" | Source:<ref>{{cite web|url=http://www.ustravelweather.com/mississippi/|title=Mississippi Weather-Mississippi Weather Forecast-Mississippi Climate|website=ustravelweather.com|access-date=September 9, 2015|archive-url=https://web.archive.org/web/20151121155657/http://www.ustravelweather.com/mississippi/|archive-date=November 21, 2015|url-status=dead}}</ref>
+|}
+
+{{Weather box/concise_F
+| location=Mississippi (1980–2010)
+| source=USA.com<ref name="USA">
+  {{cite web|title=Climatological Information for Mississippi |
+  website=USA.com |date=2003 |url=http://www.usa.com/mississippi-state-weather.htm#HistoricalTemperature}}</ref>
+| 54.3| 58.7| 67.2| 75.2| 82.6| 88.9| 91.4| 91.5| 86.3| 76.9| 66.5| 56.6 <!--highs-->
+| 33.3| 36.7| 43.8| 51.3| 60.3| 67.6| 70.6| 69.7| 63| 51.9| 43.1| 35.7 <!--lows-->
+|5.0|5.2|5.1|5.0|5.1|4.4|4.5|3.9|3.6|4.1|4.9|5.7 <!--precipitation-->
+}}
+
+==== Climate change ====
+{{Excerpt|Climate change in Mississippi|only=paragraphs}}
+
+===Ecology, flora, and fauna===
+
+[[File:WelcomeToMississippiSignWalls.jpg|right|thumb|Leaving Tennessee on US Highway 61]]
+[[File:Clark creek natural area ms.jpg|thumb|upright|Clark Creek Natural Area, Wilkinson County]]
+
+Mississippi is heavily forested, with over half of the state's area covered by wild or cultivated trees. The southeastern part of the state is dominated by [[longleaf pine]], in both uplands and lowland [[flatwoods]] and [[pitcher plant|Sarracenia]] [[bogs]]. The Mississippi Alluvial Plain, or [[Mississippi Delta|Delta]], is primarily farmland and aquaculture ponds but also has sizeable tracts of [[Populus deltoides|cottonwood]], [[Salix nigra|willows]], [[bald cypress]], and [[oak]]s. A belt of [[loess]] extends north to south in the western part of the state, where the Mississippi Alluvial Plain reaches the first hills; this region is characterized by rich, mesic mixed hardwood forests, with some species [[disjunct distribution|disjunct]] from Appalachian forests.<ref>{{cite journal|last1=Delcourt|first1=Hazel R.|last2=Delcourt|first2=Paul A.|title=The Blufflands: Pleistocene pathway into the Tunica Hills|journal=The American Midland Naturalist|date=1975|volume=94|issue=2|pages=385–400|jstor=2424434|doi=10.2307/2424434}}</ref> Two bands of historical [[prairie]], the [[Jackson Prairie]] and the Black Belt, run northwest to southeast in the middle and northeastern part of the state. Although these areas have been highly degraded by conversion to agriculture, a few areas remain, consisting of grassland with interspersed woodland of [[Juniperus virginiana|eastern redcedar]], [[oak]]s, [[hickory|hickories]], [[Maclura pomifera|osage-orange]], and [[Celtis|sugarberry]]. The rest of the state, primarily north of [[Interstate 20]] not including the prairie regions, consists of mixed pine-hardwood forest, common species being [[Pinus taeda|loblolly pine]], [[oak]]s (e.g., [[Quercus nigra|water oak]]), [[hickory|hickories]], [[Liquidambar styraciflua|sweetgum]], and [[elm]]. Areas along large rivers are commonly inhabited by [[bald cypress]], [[Nyssa aquatica|water tupelo]], [[Planera aquatica|water elm]], and [[Carya aquatica|bitter pecan]]. Commonly cultivated trees include loblolly pine, longleaf pine, [[Quercus pagoda|cherrybark oak]], and cottonwood.
+
+There are approximately 3000 species of [[vascular plants]] known from Mississippi.<ref>{{cite web|last1=McCook|first1=Lucile M.|last2=Kartesz|first2=John|title=A preliminary checklist of the plants of Mississippi|url=http://www.herbarium.olemiss.edu/checklist.html|website=University of Mississippi—Pullen Herbarium|access-date=March 22, 2018|archive-url=https://web.archive.org/web/20180323092319/http://www.herbarium.olemiss.edu/checklist.html|archive-date=March 23, 2018|url-status=dead}}</ref> As of 2018, a project funded by the U.S. [[National Science Foundation]] aims to update that checklist of plants with museum ([[herbarium]]) [[plant collecting|vouchers]] and create an online [[atlas]] of each species's distribution.<ref>{{cite web|title=Magnolia grandiFLORA: The digital herbarium for Mississippi|url=http://mississippiplants.org/|website=Magnolia grandiFLORA|publisher=Mississippi Herbarium Consortium|access-date=March 22, 2018}}</ref>
+
+About 420 species of [[List of birds of Mississippi|birds are known to inhabit Mississippi]].
+
+Mississippi has one of the richest fish faunas in the United States, with 204 native fish species.<ref>{{cite book|last1=Ross|first1=Stephen T.|title=Inland Fishes of Mississippi|date=2002|publisher=University Press of Mississippi|location=Jackson, MS|isbn=978-1578062461}}</ref>
+
+Mississippi also has a rich [[freshwater mussel]] fauna, with about 90 species in the primary family of native mussels ([[Unionidae]]).<ref>{{cite journal|last1=Jones|first1=Robert L.|last2=Slack|first2=William T.|last3=Hartfield|first3=Paul D.|title=The freshwater mussels (Mollusca: Bivalvia: Unionidae) of Mississippi|journal=Southeastern Naturalist|date=2005|volume=4|issue=1|pages=77–92|jstor=3878159|doi=10.1656/1528-7092(2005)004[0077:TFMMBU]2.0.CO;2|s2cid=86592258 }}</ref> Several of these species were extirpated during the construction of the [[Tennessee-Tombigbee Waterway]].
+
+Mississippi is home to 63 [[crayfish]] species, including at least 17 [[endemic]] species.<ref>{{cite web|title=Mississippi Crayfishes|url=https://www.srs.fs.fed.us/crayfish/index.php|website=Crayfishes of Mississippi|publisher=U.S. Forest Service, Southern Research Station|access-date=March 23, 2018|archive-date=March 23, 2018|archive-url=https://web.archive.org/web/20180323092830/https://www.srs.fs.fed.us/crayfish/index.php|url-status=dead}}</ref>
+
+Mississippi is home to eight [[Capniidae|winter stonefly]] species.<ref>{{cite journal|last1=Nations|first1=Tina M.|last2=Stark|first2=Bill P.|last3=Hicks|first3=Matthew B.|title=The winter stoneflies (Plecoptera: Capniidae) of Mississippi|journal=Illiesia|date=2007|volume=3|issue=9|pages=70–94|url=http://illiesia.speciesfile.org/papers/Illiesia03-09.pdf|access-date=March 23, 2018}}</ref>
+
+===Ecological problems===
+====Flooding====
+{{Further|List of Mississippi River floods}}
+
+Due to seasonal flooding, possible from December to June, the [[Mississippi River|Mississippi]] and [[Yazoo River|Yazoo]] rivers and their tributaries created a fertile [[floodplain]] in the Mississippi Delta. The river's flooding created natural levees, which planters had built higher to try to prevent flooding of land cultivated for cotton crops. Temporary workers built [[levees]] along the Mississippi River on top of the natural levees that formed from dirt deposited after the river flooded.
+
+From 1858 to 1861, the state took over levee building, accomplishing it through contractors and hired labor. In those years, planters considered their slaves too valuable to hire out for such dangerous work. Contractors hired gangs of Irish immigrant laborers to build levees and sometimes clear land. Many of the Irish were relatively recent immigrants from the famine years who were struggling to get established.<ref>{{cite book|first=David R. |last=Roediger|title=The Wages of Whiteness: Race and the Making of the American Working Class|location=New York|publisher=Verso|year=1999|page=146|isbn=978-1859842409}}</ref> Before the [[American Civil War]], the earthwork levees averaged six feet in height, although in some areas they reached twenty feet.
+
+Flooding has been an integral part of Mississippi history, but clearing of the land for cultivation and to supply wood fuel for steamboats took away the absorption of trees and undergrowth. The banks of the river were denuded, becoming unstable and changing the character of the river. After the Civil War, major floods swept down the valley in 1865, 1867, 1874 and 1882. Such floods regularly overwhelmed levees damaged by Confederate and Union fighting during the war, as well as those constructed after the war.<ref name="John Otto Solomon 1999, pp.10-11">{{cite book|first=John Otto |last=Solomon|title=The Final Frontiers, 1880–1930: Settling the Southern Bottomlands|location=Westport|publisher=Greenwood Press|year=1999|pages=10–11}}</ref> In 1877, the state created the Mississippi Levee District for southern counties.
+
+In 1879, the [[United States Congress]] created the [[Mississippi River Commission]], whose responsibilities included aiding state levee boards in the construction of levees. Both white and black transient workers were hired to build the levees in the late 19th century. By 1882, levees averaged seven feet in height, but many in the southern Delta were severely tested by the flood that year.<ref name="John Otto Solomon 1999, pp.10-11" /> After the 1882 flood, the levee system was expanded. In 1884, the Yazoo-Mississippi Delta Levee District was established to oversee levee construction and maintenance in the northern Delta counties; also included were some counties in [[Arkansas]] which were part of the Delta.<ref name="about the levee">{{cite web|url=http://www.leveeboard.org/about_the_levee/history/physical_development.html |title=About the levee: Physical development of a levee system |publisher=Leveeboard.org |access-date=July 30, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20080513142502/http://www.leveeboard.org/about_the_levee/history/physical_development.html |archive-date=May 13, 2008 }}</ref>
+
+Flooding overwhelmed northwestern Mississippi in 1912–1913, causing heavy damage to the levee districts. Regional losses and the Mississippi River Levee Association's lobbying for a flood control bill helped gain passage of national bills in 1917 and 1923 to provide federal matching funds for local levee districts, on a scale of 2:1. Although U.S. participation in [[World War I]] interrupted funding of levees, the second round of funding helped raise the average height of levees in the Mississippi-Yazoo Delta to {{convert|22|ft|m}} in the 1920s.<ref>{{cite book|first=John Otto |last=Solomon|title=The Final Frontiers, 1880–1930: Settling the Southern Bottomlands|location=Westport|publisher=Greenwood Press|year=1999|page=50|isbn=978-0313289637}}</ref> Scientists now understand the levees have increased the severity of flooding by increasing the flow speed of the river and reducing the area of the floodplains. The region was severely damaged due to the [[Great Mississippi Flood of 1927]], which broke through the levees. There were losses of millions of dollars in property, stock and crops. The most damage occurred in the lower Delta, including [[Washington County, Mississippi|Washington]] and [[Bolivar County, Mississippi|Bolivar]] counties.<ref>{{cite book|author=Solomon|date=1999|title=The Final Frontiers|page=70}}</ref>
+
+Even as scientific knowledge about the Mississippi River has grown, upstream development and the consequences of the levees have caused more severe flooding in some years. Scientists now understand that the widespread clearing of land and building of the levees have changed the nature of the river. Such work removed the natural protection and absorption of wetlands and forest cover, strengthening the river's current. The state and federal governments have been struggling for the best approaches to restore some natural habitats in order to best interact with the original riverine ecology.
+
+==Demographics==
+
+{{US Census population
+|1800= 7600
+|1810= 31306
+|1820= 75448
+|1830= 136621
+|1840= 375651
+|1850= 606526
+|1860= 791305
+|1870= 827922
+|1880= 1131597
+|1890= 1289600
+|1900= 1551270
+|1910= 1797114
+|1920= 1790618
+|1930= 2009821
+|1940= 2183796
+|1950= 2178914
+|1960= 2178141
+|1970= 2216912
+|1980= 2520638
+|1990= 2573216
+|2000= 2844658
+|2010= 2967297
+|2020= 2961279
+|estimate=2939690|estyear=2023
+|align-fn=center
+|footnote=Source: 1910–2020<ref>{{cite web |title=Historical Population Change Data (1910–2020) |url=https://www.census.gov/data/tables/time-series/dec/popchange-data-text.html |website=Census.gov |publisher=United States Census Bureau |access-date=May 1, 2021 |archive-date=April 29, 2021 |archive-url=https://web.archive.org/web/20210429012609/https://www.census.gov/data/tables/time-series/dec/popchange-data-text.html |url-status=dead }}</ref>
+<br/>2022<ref>{{cite web |title=Growth in U.S. Population Shows Early Indication of Recovery Amid COVID-19 Pandemic |website=Census Bureau QuickFacts |date=2022-12-22 |url=https://www.census.gov/newsroom/press-releases/2022/2022-population-estimates.html |access-date=2023-04-20}}</ref>
+}}
+[[File:Mississippi population map 2.png|thumb|Mississippi population density map|left]]Mississippi's population has remained from 2 million people at the [[1930 United States census|1930 U.S. census]], to 2.9 million at the [[2020 United States census|2020 census]].<ref name=":1" /> In contrast with [[Alabama]] to its east, and [[Louisiana]] to its west, Mississippi has been the slowest growing of the three [[Gulf Coast of the United States|Gulf coast]] states by population.<ref>{{Cite web |title=QuickFacts: Alabama; Louisiana; Mississippi |url=https://www.census.gov/quickfacts/fact/table/AL,LA,MS/POP010220 |website=U.S. Census Bureau}}</ref> According to the [[United States Census Bureau|U.S. Census Bureau]], Mississippi's [[center of population]] is located in [[Leake County, Mississippi|Leake County]], in the town of [[Lena, Mississippi|Lena]].<ref>{{cite web|title=Population and Population Centers by State—2000 |publisher=United States Census Bureau |access-date=December 5, 2008 |url=https://www.census.gov/geo/www/cenpop/statecenters.txt |archive-url=https://web.archive.org/web/20011212170351/http://www.census.gov/geo/www/cenpop/statecenters.txt |url-status=dead |archive-date=December 12, 2001 }}</ref>
+
+According to [[United States Department of Housing and Urban Development|HUD]]'s 2022 [[Annual Homeless Assessment Report to Congress|Annual Homeless Assessment Report]], there were an estimated 1,196 [[Homelessness in Mississippi|homeless people in Mississippi]].<ref>{{Cite web |title=2007-2022 PIT Counts by State |url=https://view.officeapps.live.com/op/view.aspx?src=https://www.huduser.gov/portal/sites/default/files/xls/2007-2022-PIT-Counts-by-State.xlsx&wdOrigin=BROWSELINK}}</ref><ref>{{Cite web |title=The 2022 Annual Homelessness Assessment Report (AHAR) to Congress |url=https://www.huduser.gov/portal/sites/default/files/pdf/2022-AHAR-Part-1.pdf}}</ref>
+
+From 2000 to 2010, the United States Census Bureau reported that Mississippi had the highest rate of increase in people identifying as mixed-race, up 70 percent in the decade; it amounts to a total of 1.1 percent of the population.<ref name="NYTrace">[https://www.nytimes.com/2011/03/20/us/20race.html?_r=0 Susan Saulny, "Black and White and Married in the Deep South: A Shifting Image"], ''The New York Times'', March 20, 2011, accessed October 25, 2012</ref> In addition, Mississippi led the nation for most of the last decade in the growth of mixed marriages among its population. The total population has not increased significantly, but is young. Some of the above change in identification as mixed-race is due to new births. But, it appears mostly to reflect those residents who have chosen to identify as more than one race, who in earlier years may have identified by just one race or ethnicity. A binary racial system had been in place since slavery times and the days of official government [[racial segregation]]. In the civil rights era, people of African descent banded together in an inclusive community to achieve political power and gain restoration of their civil rights.
+
+As the demographer [[William H. Frey]] noted, "In Mississippi, I think it's [identifying as mixed race] changed from within."<ref name="NYTrace"/> Historically in Mississippi, after [[Indian removal]] in the 1830s, the major groups were designated as black (African American), who were then mostly enslaved, and white (primarily European American). Matthew Snipp, also a demographer, commented on the increase in the 21st century in the number of people identifying as being of more than one race: "In a sense, they're rendering a more accurate portrait of their racial heritage that in the past would have been suppressed."<ref name="NYTrace"/>
+
+After having accounted for a majority of the state's population since well before the American Civil War and through the 1930s, today [[African American]]s constitute approximately 37.8 percent of the state's population. Most have ancestors who were [[Slavery in the United States|enslaved]], with many forcibly transported from the Upper South in the 19th century to work on the area's new plantations. Many of these slaves were mixed race, with European ancestors, as there were many children born into slavery with white fathers. Some also have Native American ancestry.<ref>{{cite web|url=http://quickfacts.census.gov/qfd/states/28000.html |title=Mississippi QuickFacts from the US Census Bureau |publisher=Quickfacts.census.gov |access-date=March 14, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120314192234/http://quickfacts.census.gov/qfd/states/28000.html |archive-date=March 14, 2012 }}</ref> During the first half of the 20th century, a total of nearly 400,000 African Americans left the state during the [[Great Migration (African American)|Great Migration]], for opportunities in the North, Midwest and West. They became a minority in the state for the first time since early in its development.<ref>[https://www.census.gov/quickfacts/MS U.S. Census Quick Facts: Mississippi], July 1, 2019</ref>
+
+In 2018, The top countries of origin for Mississippi's immigrants were [[Mexico]], [[Guatemala]], [[India]], the [[Philippines]] and [[Vietnam]].<ref>{{Cite web|url=https://www.americanimmigrationcouncil.org/sites/default/files/research/immigrants_in_mississippi.pdf|title=Immigrants in Mississippi}}</ref>
+
+===Race and ethnicity===
+[[File:Mississippi counties by race.svg|thumb|270x270px|Map of counties in Mississippi by racial plurality, per the 2020 U.S. census{{Collapsible list
+| title = Legend|{{col-begin}}{{col-2}}
+
+'''Non-Hispanic White'''
+
+{{legend|#dd7e6b|40–50%}}
+
+{{legend|#cc4125|50–60%}}
+
+{{legend|#a61c00|60–70%}}
+
+{{legend|#85200c|70–80%}}
+
+{{legend|#5b0f00|80–90%}}
+
+{{legend|#410b00|90%+}}
+
+'''Black or African American'''
+
+{{legend|#ffe599|40–50%}}
+
+{{legend|#ffd966|50–60%}}
+
+{{legend|#f1c232|60–70%}}
+
+{{legend|#bf9000|70–80%}}
+
+{{legend|#7f6000|80–90%}}
+
+{{col-end}}
+}}]]
+{| class="wikitable sortable" ; text-align:right; font-size:80%;"
+|+ style="font-size:90%" |Racial and ethnic composition as of the [[2020 United States census|2020 census]]
+|-
+! Race and ethnicity<ref name=":1">{{cite web |url=https://www.census.gov/library/visualizations/interactive/race-and-ethnicity-in-the-united-state-2010-and-2020-census.html |title=Race and Ethnicity in the United States: 2010 Census and 2020 Census
+ |author=<!--Not stated--> |date=August 12, 2021 |website=census.gov |publisher=United States Census Bureau |access-date=2021-09-26}}</ref>
+! colspan="2" data-sort-type="number" |Alone
+! colspan="2" data-sort-type="number" |Total
+|-
+| [[Non-Hispanic or Latino whites|White (non-Hispanic)]]
+|align=right| {{bartable|55.4|%|2||background:gray}}
+|align=right| {{bartable|57.9|%|2||background:gray}}
+|-
+| [[African Americans|African American (non-Hispanic)]]
+|align=right| {{bartable|36.4|%|2||background:mediumblue}}
+|align=right| {{bartable|37.6|%|2||background:mediumblue}}
+|-
+| [[Hispanic and Latino Americans|Hispanic or Latino]]{{efn|Persons of Hispanic or Latino origin are not distinguished between total and partial ancestry.}}
+|align=right| {{bartable}}
+|align=right| {{bartable|3.6|%|2||background:green}}
+|-
+| [[Asian Americans|Asian]]
+|align=right| {{bartable|1.1|%|2||background:purple}}
+|align=right| {{bartable|1.5|%|2||background:purple}}
+|-
+| [[Native Americans in the United States|Native American]]
+|align=right| {{bartable|0.5|%|2||background:gold}}
+|align=right| {{bartable|1.6|%|2||background:gold}}
+|-
+| [[Pacific Islander Americans|Pacific Islander]]
+|align=right| {{bartable|0.04|%|2||background:pink}}
+|align=right| {{bartable|0.1|%|2||background:pink}}
+|-
+| Other
+|align=right| {{bartable|0.2|%|2||background:brown}}
+|align=right| {{bartable|0.7|%|2||background:brown}}
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed collapsible"
+|+ '''Historical racial and ethnic composition from 1990 to 2020'''
+|-
+! Racial composition !! 1990<ref>{{cite web |url=https://www.census.gov/population/www/documentation/twps0056/twps0056.html |title=Historical Census Statistics on Population Totals By Race, 1790 to 1990, and By Hispanic Origin, 1970 to 1990, For The United States, Regions, Divisions, and States |access-date=October 5, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20141224151538/http://www.census.gov/population/www/documentation/twps0056/twps0056.html |archive-date=December 24, 2014  }}</ref> !! 2000<ref>{{Cite web|url=http://censusviewer.com/city/MI|archive-url=https://web.archive.org/web/20231204030156/https://censusviewer.com/city/MI|url-status=dead|archive-date=December 4, 2023|title=Population of Mississippi: Census 2010 and 2000 Interactive Map, Demographics, Statistics, Quick Facts|access-date=April 2, 2021}}</ref>!! 2010<ref>{{cite web|url=https://www.census.gov/2010census/data/|title=2010 Census Data|access-date=October 5, 2014}}</ref>!! 2020<ref name="2020DP1">{{Cite web |url=https://data.census.gov/table/DECENNIALDP2020.DP1?g=040XX00US28 |title=Profile of General Population and Housing Characteristics: 2020 Demographic Profile Data (DP-1): Mississippi |publisher=United States Census Bureau |access-date=April 2, 2024}}</ref> 
+|-
+| [[White Americans|White]] || 63.5% || 61.4% || 59.1% || 56.0% 
+|-
+| [[African Americans|Black]] || 35.6% || 36.3% || 37.0% || 36.6% 
+|-
+| [[Asian Americans|Asian]] || 0.5% || 0.7% || 0.9% || 1.1% 
+|-
+| [[Native Americans in the United States|Native]] || 0.3% || 0.4% || 0.5% || 0.6% 
+|-
+| [[Race and ethnicity in the United States Census|Other race]] || 0.1% || 0.5% || 1.3% || 1.9% 
+|-
+| [[Multiracial American|Two or more races]] || – || 0.7% || 1.2% || 3.7% 
+|}
+
+Americans of [[Scots-Irish Americans|Scots-Irish]], [[English Americans|English]] and [[Scottish Americans|Scottish]] ancestry are present throughout the state. It is believed that there are more people with such ancestry than identify as such on the census, in part because their immigrant ancestors are more distant in their family histories. [[English Americans|English]], [[Scottish Americans|Scottish]] and [[Scots-Irish Americans|Scots-Irish]] are generally the most under-reported ancestry groups in both the [[South Atlantic states]] and the [[East South Central states]]. The historian [[David Hackett Fischer]] estimated that a minimum 20% of Mississippi's population is of English ancestry, though the figure is probably much higher, and another large percentage is of Scottish ancestry. Many Mississippians of such ancestry identify simply as [[American ancestry|American]] on questionnaires, because their families have been in North America for centuries.<ref>[[David Hackett Fischer]], ''[[Albion's Seed: Four British Folkways in America]]'', New York: Oxford University Press, 1989, pp.602–645</ref><ref>{{cite book|author=Dominic Pulera|title=Sharing the Dream: White Males in Multicultural America|url=https://books.google.com/books?id=SVoAXh-dNuYC&pg=PA57|year=2004|publisher=A&C Black|isbn=978-0-8264-1643-8|page=57}}</ref> In the 1980 U.S. census, 656,371 Mississippians of a total of 1,946,775 identified as being of English ancestry, making them 38% of the state at the time.<ref>{{cite web|url=https://www.census.gov/population/www/censusdata/files/pc80-s1-10/tab03.pdf |title=Ancestry of the Population by State: 1980—Table 3 |access-date=February 18, 2012}}</ref>
+
+The state in 2010 had the highest proportion of African Americans in the nation. The African American percentage of population has begun to increase due mainly to a younger population than the whites (the [[total fertility rate]]s of the two races are approximately equal). Due to patterns of settlement and whites putting their children in private schools, in almost all of Mississippi's public school districts, a majority of students are African American. African Americans are the majority ethnic group in the northwestern [[Mississippi Delta|Yazoo Delta]], and the southwestern and the central parts of the state. These are areas where, historically, African Americans owned land as farmers in the 19th century following the Civil War, or worked on cotton plantations and farms.<ref>James C. Cobb, ''[[The Most Southern Place on Earth: The Mississippi Delta and the Roots of Regional Identity]]'' (1994) p. 244</ref>
+
+People of [[French American|French Creole]] ancestry form the largest demographic group in [[Hancock County, Mississippi|Hancock County]] on the Gulf Coast. The African American, [[Choctaw]] (mostly in [[Neshoba County]]), and [[Chinese American]] portions of the population are also almost entirely native born.
+
+The Chinese first came to Mississippi as [[indentured|contract workers]] from [[Cuba]] and [[History of Chinese Americans#California Gold Rush|California]] in the 1870s, and they originally worked as laborers on the cotton plantations. However, most Chinese families came later between 1910 and 1930 from other states, and most operated small family-owned groceries stores in the many small towns of the Delta.<ref>{{Cite journal | jstor=25163098| title=Somewhere between White and Black: The Chinese in Mississippi| journal=OAH Magazine of History| volume=10| issue=4| pages=33–36| last1=Wong| first1=Vivian Wu| date=Summer 1996| doi=10.1093/maghis/10.4.33}}</ref> In these roles, the ethnic Chinese carved out a niche in the state between black and white, where they were concentrated in the Delta. These small towns have declined since the late 20th century, and many ethnic Chinese have joined the exodus to larger cities, including Jackson. Their population in the state overall has increased in the 21st century.<ref>Thornell, John G. 2008. "A Culture in Decline: The Mississippi Delta Chinese", ''Southeast Review of Asian Studies'' 30: 196–202</ref><ref>[[James Loewen|Loewen, James W.]] 1971. ''[[The Mississippi Chinese: Between Black and White]]'', Cambridge: Harvard University Press</ref><ref>Quan, Robert Seto. 1982. ''[[Lotus Among the Magnolias: The Mississippi Chinese]]'', Jackson: [[University Press of Mississippi]]</ref><ref>Jung, John. 2011. ''Chopsticks in the Land of Cotton: Lives of Mississippi Delta Chinese Grocers.'', Yin & Yang Press.</ref>
+
+In the early 1980s many [[Vietnamese American|Vietnamese]] immigrated to Mississippi and other states along the [[Gulf of Mexico]], where they became employed in fishing-related work.<ref>Judge, Phoebe. [https://www.npr.org/templates/story/story.php?storyId=126863820 "Vietnamese Shrimpers May Lose Way Of Life Again"]. [[NPR]]. May 16, 2010. Retrieved on March 26, 2013.</ref>
+
+Italians were one of the largest immigrant groups in the state during the first three decades of the twentieth century.<ref>{{cite book|url=https://mississippi.universitypressscholarship.com/view/10.14325/mississippi/9781617032622.001.0001/upso-9781617032622-chapter-2|title=The International Immigrants of MississippiAn Overview|date=2012 |publisher=University Press of Mississippi |doi=10.14325/mississippi/9781617032622.001.0001 |isbn=9781617032622 |editor-last1=Walton |editor-last2=Carpenter |editor-first1=Shana |editor-first2=Barbara }}</ref>
+
+As of 2011, 53.8% of Mississippi's population younger than age 1 were minorities, meaning that they had at least one parent who was not non-Hispanic white.<ref>{{cite news|url=http://www.cleveland.com/datacentral/index.ssf/2012/06/americas_under_age_1_populatio.html|title=Americans under age 1 now mostly minorities, but not in Ohio: Statistical Snapshot|last=Exner|first=Rich|date=June 3, 2012|work=[[The Plain Dealer]]}}</ref>
+
+=== Birth data ===
+[[File:Ethnic Origins in Mississippi.png|thumb|Ethnic origins in Mississippi|270x270px]]''Note: Births in table do not add up, because Hispanics are counted both by their ethnicity and by their race, giving a higher overall number.''
+{| class="wikitable" style="font-size: 90%;"
+|+ Live Births by Single Race/Ethnicity of Mother
+|-
+! [[Race and ethnicity in the United States Census|Race]]
+! 2013<ref>{{Cite web|url=https://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_01.pdf|title=National Vital Statistics Reports Volume 64, Number 1, January 15, 2015|website=Cdc.gov|access-date=April 2, 2021}}</ref>
+! 2014<ref>{{Cite web|url=https://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_12.pdf|title=National Vital Statistics Reports, Volume 64, Number 12, December 23, 2015|website=Cdc.gov|access-date=April 2, 2021}}</ref>
+! 2015<ref>{{Cite web|url=https://www.cdc.gov/nchs/data/nvsr/nvsr66/nvsr66_01.pdf|title=National Vital Statistics Reports, Volume 66, Number 1, January 5, 2017|website=Cdc.gov|access-date=April 2, 2021}}</ref>
+! 2016<ref>{{Cite web|url=https://www.cdc.gov/nchs/data/nvsr/nvsr67/nvsr67_01.pdf|title=National Vital Statistics Reports Volume 67, Number 1, January 31, 2018|website=Cdc.gov|access-date=April 2, 2021}}</ref>
+! 2017<ref>{{cite web |url=https://www.cdc.gov/nchs/data/nvsr/nvsr67/nvsr67_08-508.pdf |title=National Vital Statistics Reports Volume 67, Number 8, November 7, 2018 |website=www.cdc.gov |access-date=17 January 2022 |archive-url=https://web.archive.org/web/20181111184850/https://www.cdc.gov/nchs/data/nvsr/nvsr67/nvsr67_08-508.pdf |archive-date=11 November 2018 |url-status=dead}}</ref>
+! 2018<ref>
+{{cite web|url=https://www.cdc.gov/nchs/data/nvsr/nvsr68/nvsr68_13-508.pdf |title=Data |website=Cdc.gov |access-date=December 21, 2019}}</ref>
+! 2019<ref>
+{{cite web|url=https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-02-508.pdf |title=Data |website=Cdc.gov |access-date=March 30, 2021}}</ref>
+! 2020<ref>
+{{cite web|url=https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-17.pdf |title=Data |website=www.cdc.gov |access-date=2022-02-20}}</ref>
+! 2021<ref>
+{{cite web|url=https://www.cdc.gov/nchs/data/nvsr/nvsr72/nvsr72-01.pdf |title=Data |website=www.cdc.gov |access-date=2022-02-03}}</ref>
+! 2022<ref>
+{{cite web|url=https://www.cdc.gov/nchs/data/nvsr/nvsr73/nvsr73-02.pdf |title=Data |website=www.cdc.gov |access-date=2024-04-05}}</ref>
+|-
+| [[White Americans|White]]: 
+| 20,818 (53.9%)
+| 20,894 (53.9%)
+| 20,730 (54.0%)
+| ...
+| ...
+| ...
+| ...
+| ...
+| ...
+| ...
+|-
+| > [[Non-Hispanic whites|Non-Hispanic White]]
+| 19,730 (51.0%)
+| 19,839 (51.3%)
+| 19,635 (51.1%)
+| 19,411 (51.2%)
+| 18,620 (49.8%)
+| 18,597 (50.2%)
+| 18,229 (49.8%)
+| 17,648 (49.8%)
+| 17,818 (50.7%)
+| 17,703 (51.1%)
+|-
+| [[African Americans|Black]]
+| 17,020 (44.0%)
+| 17,036 (44.0%)
+| 16,846 (43.9%)
+| 15,879 (41.9%)
+| 16,087 (43.1%)
+| 15,797 (42.7%)
+| 15,706 (42.9%)
+| 15,155 (42.7%)
+| 14,619 (41.6%)
+| 14,035 (40.5%)
+|-
+| [[Asian Americans|Asian]]
+| 504 (1.3%)
+| 583 (1.5%)
+| 559 (1.5%)
+| 475 (1.3%)
+| 502 (1.3%)
+| 411 (1.1%)
+| 455 (1.2%)
+| 451 (1.3%)
+| 404 (1.1%)
+| 396 (1.1%)
+|-
+| [[Native Americans in the United States|American Indian]]
+| 292 (0.7%)
+| 223 (0.6%)
+| 259 (0.7%)
+| 215 (0.6%)
+| 225 (0.6%)
+| 238 (0.6%)
+| 242 (0.7%)
+| 252 (0.7%)
+| 227 (0.6%)
+| 246 (0.7%)
+|-
+| ''[[Hispanic and Latino Americans|Hispanic]]'' (of any race)
+| ''1,496'' (3.9%)
+| ''1,547'' (4.0%)
+| ''1,613'' (4.2%)
+| ''1,664'' (4.4%)
+| ''1,650'' (4.4%)
+| ''1,666'' (4.5%)
+| ''1,709'' (4.7%)
+| ''1,679'' (4.7%)
+| ''1,756'' (5.0%)
+| ''1,930'' (5.6%)
+|-
+| '''Total Mississippi'''
+| '''38,634''' (100%)
+| '''38,736''' (100%)
+| '''38,394''' (100%)
+| '''37,928''' (100%)
+| '''37,357''' (100%)
+| '''37,000''' (100%)
+| '''36,636''' (100%)
+| '''35,473''' (100%)
+| '''35,156''' (100%)
+| '''34,675''' (100%)
+|}
+
+*Since 2016, data for births of [[White Hispanic and Latino Americans|White Hispanic]] origin are not collected, but included in one ''Hispanic'' group; persons of Hispanic origin may be of any race.
+
+In 2022, Mississippi had the highest teen birth rate of any state, at 26.4 births per 1,000 females ages 15 to 19 years of age.<ref>{{cite web | title = Teen Birth Rate by State | publisher = U.S. Department of Health & Human Services | url = https://www.cdc.gov/nchs/pressroom/sosmap/teen-births/teenbirths.htm | accessdate = September 21, 2024}}</ref>
+
+=== LGBT community ===
+The 2010 United States census counted 6,286 same-sex unmarried-partner households in Mississippi, an increase of 1,512 since the [[2000 United States census]].<ref name="LGBTCensus">{{cite web|url=https://www.census.gov/prod/2003pubs/censr-5.pdf |title=Census.gov: Married-Couple and Unmarried-Partner Households 2000 |access-date=July 30, 2010}}</ref> Of those same-sex couples roughly 33% contained at least one child, giving Mississippi the distinction of leading the nation in the percentage of same-sex couples raising children.<ref>{{cite news |url=http://nems360.com/view/full_story/15224008/article-Mississippi-leads-nation-in-same-sex-child-rearing |title=Mississippi leads nation in same-sex child rearing |publisher=Northeast Mississippi Daily Journal |date=August 26, 2011 |access-date=March 12, 2012 |url-status=dead |archive-url=https://archive.today/20120713200756/http://nems360.com/view/full_story/15224008/article-Mississippi-leads-nation-in-same-sex-child-rearing |archive-date=July 13, 2012  }}</ref> Mississippi has the largest percentage of [[LGBT African Americans|African American]] same-sex couples among total households. The state capital, Jackson, ranks tenth in the nation in concentration of African American same-sex couples. The state ranks fifth in the nation in the percentage of [[Hispanic Americans|Hispanic]] same-sex couples among all Hispanic households and ninth in the highest concentration of same-sex couples who are [[old age|seniors]].<ref>{{cite web |author=Ost, Jason |url=http://www.urban.org/publications/900695.html |title=Facts and Findings from ''The Gay and Lesbian Atlas'' |publisher=Urban.org |access-date=July 30, 2010 |archive-date=August 5, 2010 |archive-url=https://web.archive.org/web/20100805102121/http://www.urban.org/publications/900695.html |url-status=dead }}</ref>
+
+=== Language ===
+{| class="wikitable sortable" style="margin-left:1em; float:center"
+|+ Top 10 non-English languages spoken in Mississippi
+|-
+|-
+! Language !! Percentage of population<br /><small>(as of 2010)</small><ref>{{cite web|url=http://www.city-data.com/states/Mississippi-Languages.html"|title=Mississippi—Languages|website=city-data.com|access-date=September 9, 2015}}</ref>
+|-
+| [[Spanish language|Spanish]] || 1.9%
+|-
+| [[French language|French]] || 0.4%
+|-
+| [[German language|German]], [[Vietnamese language|Vietnamese]], and [[Choctaw language|Choctaw]] (tied) || 0.2%
+|-
+| [[Korean language|Korean]], [[Chinese language|Chinese]], [[Tagalog language|Tagalog]], [[Italian language|Italian]] (tied) || 0.1%
+|}In 2000, 96.4% of Mississippi residents five years old and older spoke only English in the home, a decrease from 97.2% in 1990.<ref name="city-data.com">{{cite web|url=http://www.city-data.com/states/Mississippi-Languages.html|title=Mississippi—Languages|website=city-data.com|access-date=September 9, 2015}}</ref> English is largely [[Southern American English]], with some South Midland speech in northern and eastern Mississippi. There is a common absence of final /r/, particularly in the elderly natives and African Americans, and the lengthening and weakening of the diphthongs /aɪ/ and /ɔɪ/ as in 'ride' and 'oil'. South Midland terms in northern Mississippi include: tow sack (burlap bag), dog irons (andirons), plum peach (clingstone peach), snake doctor (dragonfly), and stone wall (rock fence).<ref name="city-data.com" />
+
+===Religion===
+
+{{Pie chart
+| thumb = right
+| caption = Religious self-identification, per [[Public Religion Research Institute]]'s 2022 ''American Values Survey''<ref>{{Cite web |last=Staff |date=February 24, 2023 |title=2022 American Values Atlas: Religious Tradition |url=https://ava.prri.org/#religious/2022/States/religion/m/US-MS |access-date=March 30, 2023 |website=[[Public Religion Research Institute]]}}</ref>
+| label1 = [[Protestantism in the United States|Protestantism]]
+| value1 = 74
+| color1 = Blue
+| label2 = [[Catholicism in the United States|Catholicism]]
+| value2 = 8
+| color2 = Purple 
+| label3 = [[Jehovah's Witnesses|Jehovah's Witness]]
+| value3 = 1
+| color3 = Pink
+| label4 = [[Mormonism]]
+| value4 = 1
+| color4 = green
+| label5 = [[Irreligion in the United States|Unaffiliated]]
+| value5 = 15
+| color5 = White
+| label6 = [[New Age]]
+| value6 = 1
+| color6 = red
+}}Under French and Spanish rule beginning in the 17th century, European colonists were mostly [[Roman Catholics]]. The growth of the cotton culture after 1815 brought in tens of thousands of Anglo-American settlers each year, most of whom were Protestants from Southeastern states. Due to such migration, there was rapid growth in the number of Protestant denominations and churches, especially among the [[Methodist]]s, [[Presbyterian]]s and [[Baptist]]s.<ref name="religion">{{cite web|url=http://mshistory.k12.ms.us/articles/96/religion-in-mississippi |title=Mississippi History Now—Religion in Mississippi |publisher=Mshistory.k12.ms.us |access-date=July 30, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20101008142628/http://mshistory.k12.ms.us/articles/96/religion-in-mississippi |archive-date=October 8, 2010 }}</ref>
+
+[[File:Liberty baptist church amite county ms.jpg|thumb|right|[[Liberty, Mississippi|Liberty]] Baptist Church, [[Amite County]]]]
+
+The revivals of the [[Great Awakening]] in the late 18th and early 19th centuries initially attracted the [[Plain Folk of the Old South|"plain folk"]] by reaching out to all members of society, including women and blacks. Both slaves and free blacks were welcomed into Methodist and Baptist churches. Independent black Baptist churches were established before 1800 in Virginia, Kentucky, South Carolina and Georgia, and later developed in Mississippi as well.
+
+In the post-Civil War years, religion became more influential as the South became known as the "[[Bible Belt]]". By 2014, the Pew Research Center determined 83% of its population was Christian.<ref name=":2">{{cite web |date=May 11, 2015 |title=Adults in Mississippi |url=http://www.pewforum.org/religious-landscape-study/state/mississippi/ |website=Pew Research Center's Religion & Public Life Project}}</ref> In a separate study by the Public Religion Research Institute in 2020, 80% of the population was Christian.<ref>{{Cite web |title=PRRI – American Values Atlas |url=https://ava.prri.org/#religious/2020/States/religion/m/US-MS |access-date=2022-11-26 |website=ava.prri.org}}</ref> In another Public Religion study in 2022, 84% of the population was Christian spread throughout Protestants (74%), Catholics (8%), [[Jehovah's Witnesses]] (1%), and [[Mormons]] (1%).
+
+Since the 1970s, fundamentalist conservative churches have grown rapidly, fueling Mississippi's conservative political trends among whites.<ref name=religion/> In 1973 the [[Presbyterian Church in America]] attracted numerous conservative congregations. As of 2010, Mississippi remained a stronghold of the denomination, which originally was brought by Scots immigrants. The state has the highest adherence rate of the PCA in 2010, with 121 congregations and 18,500 members. It is among the few states where the PCA has higher membership than the PC(USA).<ref>{{cite web|url=http://www.thearda.com/Denoms/D_1305_d.asp|title=Presbyterian Church in America—Religious Groups—The Association of Religion Data Archives|access-date=October 5, 2014}}</ref>
+
+According to the [[Association of Religion Data Archives]] (ARDA), in 2010 the [[Southern Baptist Convention]] had 907,384 adherents and was the largest religious denomination in the state, followed by the [[United Methodist Church]] with 204,165, and the [[Roman Catholic Church]] with 112,488.<ref name="www.thearda.com">{{cite web |url=http://www.thearda.com/rcms2010/r/s/28/rcms2010_28_state_adh_2010.asp |title=The Association of Religion Data Archives &#124; State Membership Report |publisher=www.thearda.com |access-date=November 22, 2013 |archive-date=December 2, 2013 |archive-url=https://web.archive.org/web/20131202233606/http://www.thearda.com/rcms2010/r/s/28/rcms2010_28_state_adh_2010.asp |url-status=dead }}</ref> <!--And Black Baptist? -->Other religions have a small presence in Mississippi; as of 2010, there were 5,012 [[Islam in the United States|Muslims]]; 4,389 [[Hinduism|Hindus]]; and 816 of the [[Baháʼí Faith]].<ref name="www.thearda.com" />
+
+According to the Pew Research Center in 2014, with [[evangelical Protestantism]] as the predominant Christian affiliation, the Southern Baptist Convention remained the largest denomination in the state.<ref name=":2" /> Non-denominational Evangelicals were the second-largest, followed by [[Black church|historically African American denominations]] such as the [[National Baptist Convention, USA, Inc.|National Baptist Convention, USA]] and [[Progressive National Baptist Convention]].
+
+Public opinion polls have consistently ranked Mississippi as the most religious state in the United States, with 59% of Mississippians considering themselves "very religious". The same survey also found that 11% of the population were non-Religious.<ref>
+ {{Cite news
+  |title = Mississippi is The Most Religious U.S. State
+  |author = Frank Newport
+  |publisher = Gallup
+  |date = March 27, 2012
+|url = http://www.gallup.com/poll/153479/Mississippi-Religious-State.aspx
+ }}</ref> In a 2009 Gallup poll, 63% of Mississippians said that they attended church weekly or almost weekly—the highest percentage of all states (U.S. average was 42%, and the lowest percentage was in Vermont at 23%).<ref>[http://www.gallup.com/poll/125999/mississippians-go-church-most-vermonters-least.aspx Mississippians Go to Church the Most; Vermonters, Least]. Gallup.com. Retrieved on April 12, 2014.</ref> Another 2008 Gallup poll found that 85% of Mississippians considered religion an important part of their daily lives, the highest figure among all states (U.S. average 65%).<ref>[http://www.gallup.com/poll/114022/state-states-importance-religion.aspx State of the States: Importance of Religion]. Gallup.com. Retrieved on April 12, 2014.</ref>
+
+==Health==
+
+The state is ranked 50th or last place among all the states for health care, according to the [[Commonwealth Fund]], a nonprofit foundation working to advance performance of the health care system.<ref>{{cite web|url=http://www.commonwealthfund.org/Maps-and-Data/State-Data-Center/State-Scorecard/DataByState/State.aspx?state=MS|title=Commonwealth Fund, ''Aiming Higher: Results from a State Scorecard on Health System Performance'', 2009|publisher=Commonwealthfund.org|date=August 3, 2009|access-date=March 14, 2012|archive-url=https://web.archive.org/web/20120314050902/http://www.commonwealthfund.org/Maps-and-Data/State-Data-Center/State-Scorecard/DataByState/State.aspx?state=MS|archive-date=March 14, 2012|url-status=dead}}</ref>
+
+Mississippi has the highest rate of infant and neonatal deaths of any U.S. state. Age-adjusted data also shows Mississippi has the highest overall [[death rate]], and the highest death rate from [[heart disease]], [[hypertension]] and [[hypertensive renal disease]], [[influenza]] and [[pneumonia]].<ref>{{cite web | title = Deaths: Final Data for 2013, table 18 | publisher = CDC/National Center for Health Statistics | date = May 30, 2014 | url =https://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_02.pdf}}</ref>
+
+In 2011, Mississippi (and Arkansas) had the fewest dentists per capita in the United States.<ref>{{cite web | title = Health, United States, 2014 | publisher = U.S. Department of Health and Human Services | date = May 2015 | url = https://www.cdc.gov/nchs/data/hus/hus14.pdf#055}}</ref>
+
+For three years in a row, more than 30 percent of Mississippi's residents have been classified as [[obese]]. In a 2006 study, 22.8 percent of the state's children were classified as such. Mississippi had the [[Obesity in the United States|highest rate of obesity of any U.S. state]] from 2005 to 2008, and also ranks first in the nation for [[high blood pressure]], [[diabetes]], and [[Sedentary lifestyle|adult inactivity]].<ref>{{cite news |title=We-the-Fat |url=http://www.jacksonfreepress.com/index.php/site/comments/we_the_fat_120308/ |author=Ronni Mott |newspaper=Jackson Free Press |date=December 3, 2008 |access-date=December 20, 2008}}</ref><ref>{{cite news |title=Mississippi heads list of fattest states |url=http://www.star-telegram.com/national_news/story/215983.html |archive-url=https://web.archive.org/web/20190328192044/https://www.star-telegram.com/national_news/story/215983.html |url-status=dead |archive-date=March 28, 2019 |author=Thomas M. Maugh |newspaper=Los Angeles Times |date=August 28, 2007 |access-date=August 28, 2007 }}</ref> In a 2008 study of [[African-American]] women, contributing risk factors were shown to be: lack of knowledge about [[body mass index]] (BMI), dietary behavior, physical inactivity and lack of social support, defined as motivation and encouragement by friends.<ref>{{cite journal |journal=Conference: 136st APHA Annual Meeting and Exposition 2008 |title=Impact of Social, Behavioral and Environmental Factors on Overweight and Obesity among African American Women in Mississippi |url=https://www.researchgate.net/publication/266793424 |author-first1=Victor, PhD |author-last1=Sutton|author-first2=Sandra, MPH, Bureau of Health Data and Research, Mississippi Department of Health |author-last2=Hayes |publisher=American Public Health Association: APHA Scientific Session and Event Listing at 2008 136th Annual Meeting |date=October 29, 2008 |access-date=December 20, 2008  }}</ref> A 2002 report on African-American adolescents noted a 1999 survey which suggests that a third of children were obese, with higher ratios for those in the Delta.<ref name="OATAAA">{{cite journal |title=Obesity and the African American Adolescent |journal=The Mississippi Delta Report |url=http://apha.confex.com/apha/130am/techprogram/paper_46137.htm |author-first1=Gail D., DrPH, MPH, Department of Preventive Medicine-Epidemiology, University of Mississippi Medical Centre|author-last1=Hughes |author-first2=Gloria, MSN |author-last2=Areghan |author-first3=Bern'Nadette, MSPH with Department of General Internal Medicine, University of Mississippi Medical Center |author-last3=Knight |author-first4=Abiodun A., MD with Department of Public Health, Jackson State University |author-last4=Oyebola |publisher=American Public Health Association: 2002 130th Annual APHA Meeting |date=November 11, 2008 |access-date=December 20, 2008}}</ref>
+
+The study stressed that "obesity starts in early childhood extending into the adolescent years and then possibly into adulthood". It noted impediments to needed behavioral modification, including the Delta likely being "the most [[disadvantaged|underserved]] region in the state" with African Americans the major ethnic group; lack of accessibility and availability of medical care; and an estimated 60% of residents living below the [[poverty level]]. Additional risk factors were that most schools had no [[physical education]] curriculum and [[nutrition education]] is not emphasized. Previous intervention strategies may have been largely ineffective due to not being [[culturally sensitive]] or practical.<ref name="OATAAA"/> A 2006 survey found nearly 95 percent of Mississippi adults considered [[childhood obesity]] to be a serious problem.<ref name="PPCOMA">{{cite journal |title=Public Perception of Childhood Obesity among Mississippi Adults |url=https://www.researchgate.net/publication/266782348 |journal=136st APHA Annual Meeting and Exposition 2008 |author-first1=Lei, PhD MBA, Office of Health Data and Research, Mississippi State Department of Health |author-last1=Zhang  |author-first2=Jerome, PhD ACSW, College of Health, Bonnie Harbaugh, PhD RN, School of Nursing|author-last2=Kolbo |author-first3=Charkarra, PhD MPH, Department of Community Health Sciences, University of Southern Mississippi |author-last3=Anderson-Lewis |publisher=American Public Health Association: : APHA Scientific Session and Event Listing at 2008 136th Annual Meeting |date=October 29, 2008 |access-date=December 20, 2008}}</ref>
+
+A 2017 study found that Blue Cross and Blue Shield of Mississippi was the leading health insurer with 53% followed by [[UnitedHealth Group]] at 13%.<ref>{{Cite web|url=https://www.ama-assn.org/delivering-care/patient-support-advocacy/competition-health-insurance-research|title=Competition in health insurance research|website=American Medical Association|access-date=June 15, 2019}}</ref>
+
+==Economy==
+
+{{See also|Mississippi locations by per capita income}}
+[[File:Mississippi quarter, reverse side, 2002.jpg|thumb|upright|A Mississippi [[Quarter (United States coin)|U.S. quarter]]]]
+The [[Bureau of Economic Analysis]] estimates that Mississippi's total state product in 2024 was $150 billion.<ref name="GDPByState">{{cite web |title=GDP by State |url=https://www.bea.gov/data/gdp/gdp-state |website=GDP by State &#124; U.S. Bureau of Economic Analysis (BEA) |publisher=Bureau of Economic Analysis |access-date=10 April 2022}}</ref> GDP growth was .5 percent in 2015 and is estimated to be 2.4 in 2016 according to Darrin Webb, the state's chief economist, who noted it would make two consecutive years of positive growth since the recession.<ref name="Pender, 2017">Pender, 2017.</ref> Per capita personal income in 2006 was $26,908, the lowest per capita personal income of any state, but the state also has the nation's lowest living costs. 2015 data records the adjusted per capita personal income at $40,105.<ref name="Pender, 2017"/> Mississippians consistently rank as one of the highest per capita in charitable contributions.<ref>{{cite web|url=http://www.catalogueforphilanthropy.org/cfp/generosity_index/ |archive-url=https://web.archive.org/web/20021204213344/http://www.catalogueforphilanthropy.org/cfp/generosity_index/ |url-status=dead |archive-date=December 4, 2002 |title=Generosity Index |publisher=Catalogueforphilanthropy.org |access-date=July 30, 2010 }}</ref>
+
+At 56 percent, the state has one of the lowest workforce participation rates in the country. Approximately 70,000 adults are disabled, which is 10 percent of the workforce.<ref name="Pender, 2017"/>
+
+Mississippi's rank as one of the poorest states is related to its dependence on cotton agriculture before and after the Civil War, late development of its frontier bottomlands in the Mississippi Delta, repeated natural disasters of flooding in the late 19th and early 20th century that required massive capital investment in levees, and ditching and draining the bottomlands, and slow development of railroads to link bottomland towns and river cities.<ref name="Solomon Final Frontiers">John Otto Solomon,''The Final Frontiers, 1880–1930: Settling the Southern Bottomlands''. Westport: Greenwood Press, 1999, pp.10–11, 42–43, 50–51, and 70</ref> In addition, when Democrats regained control of the state legislature, they passed the 1890 constitution that discouraged corporate industrial development in favor of rural agriculture, a legacy that would slow the state's progress for years.<ref>{{cite book|last=Naipaul|first=V.S.|title=A Turn in the South|year=1990|publisher=Vintage|isbn=978-0679724889|page=216 |quote=The people who wrote the constitution wanted the state to remain 'a pastoral state, an agricultural state'. They didn't want big business or the corporations coming in, encouraging 'unfavorable competition for jobs with the agricultural community'.}}</ref>
+
+[[File:Cotton pickers and overseer around 1850.jpg|thumb|upright=1.2|Slaves picking cotton while being observed by an overseer on horseback, c. 1850]]
+Before the Civil War, Mississippi was the fifth-wealthiest state in the nation, its wealth generated by the labor of slaves in cotton plantations along the rivers.<ref>{{Cite news|title=Mississippi Almanac Entry |url=http://travel2.nytimes.com/2004/07/15/travel/NYT_ALMANAC_US_MISSISSIPPI.html?ex=1162094400&en=27939e8b35b285fa&ei=5070 |archive-url=https://archive.today/20120526202008/http://travel2.nytimes.com/2004/07/15/travel/NYT_ALMANAC_US_MISSISSIPPI.html?ex=1162094400&en=27939e8b35b285fa&ei=5070 |url-status=dead |archive-date=May 26, 2012 |work=The New York Times |date=July 15, 2004 |access-date=May 12, 2010 }}, The New York Times Travel Almanac (2004)</ref>
+Slaves were counted as property and the rise in the cotton markets since the 1840s had increased their value. By 1860, a majority—55 percent—of the population of Mississippi was enslaved.<ref>{{cite web|url=http://fisher.lib.virginia.edu/collections/stats/histcensus/php/sate.php |title=Historical Census Browser |publisher=Fisher.lib.virginia.edu |access-date=July 30, 2010 }}{{dead link|date=June 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Ninety percent of the Delta bottomlands were undeveloped and the state had low overall density of population.
+
+Largely due to the domination of the [[plantations in the American South|plantation]] economy, focused on the production of [[agriculture|agricultural]] [[cotton]], the state's elite was reluctant to invest in infrastructure such as roads and railroads. They educated their children privately. [[Industrialization]] did not reach many areas until the late 20th century. The planter aristocracy, the elite of [[Antebellum era|antebellum]] Mississippi, kept the tax structure low for their own benefit, making only private improvements. Before the war the most successful planters, such as [[Confederate States of America|Confederate]] President [[Jefferson Davis]], owned riverside properties along the Mississippi and Yazoo rivers in the Mississippi Delta. Away from the riverfronts, most of the Delta was undeveloped frontier.
+
+During the Civil War, 30,000 Mississippi soldiers, mostly white, died from wounds and disease, and many more were left crippled and wounded. Changes to the labor structure and an agricultural depression throughout the South caused severe losses in wealth. In 1860 assessed valuation of property in Mississippi had been more than $500&nbsp;million, of which $218&nbsp;million (43 percent) was estimated as the value of slaves. By 1870, total assets had decreased in value to roughly $177 million.<ref>W. E. B. DuBois,''Black Reconstruction in America, 1860–1880''. New York: Harcourt Brace, 1935; reprint New York: The Free Press, 1998, p. 432</ref>
+
+[[Poor white]]s and landless former slaves suffered the most from the postwar economic depression. The constitutional convention of early 1868 appointed a committee to recommend what was needed for relief of the state and its citizens. The committee found severe destitution among the laboring classes.<ref>Du Bois (1935), ''Black Reconstruction'', p. 437</ref> It took years for the state to rebuild levees damaged in battles. The upset of the commodity system impoverished the state after the war. By 1868 an increased cotton crop began to show possibilities for free labor in the state, but the crop of 565,000 bales produced in 1870 was still less than half of prewar figures.<ref>Du Bois (1935), ''Black Reconstruction'', pp. 432, 434</ref>
+
+Blacks cleared land, selling timber and developing bottomland to achieve ownership. In 1900, two-thirds of farm owners in Mississippi were blacks, a major achievement for them and their families. Due to the poor economy, low cotton prices and difficulty of getting credit, many of these farmers could not make it through the extended financial difficulties. Two decades later, the majority of African Americans were sharecroppers. The low prices of cotton into the 1890s meant that more than a generation of African Americans lost the result of their labor when they had to sell their farms to pay off accumulated debts.<ref name="Willis Forgotten Time"/>
+
+[[File:Daughter of a sharecropper, Lauderdale County, Mississippi, 8a07022.jpg|thumb|right|Sharecropper's daughter, Lauderdale County, 1935]]
+After the Civil War, the state refused for years to build human capital by fully educating all its citizens. In addition, the reliance on agriculture grew increasingly costly as the state suffered loss of cotton crops due to the devastation of the [[boll weevil]] in the early 20th century, devastating floods in 1912–1913 and 1927, collapse of cotton prices after 1920, and drought in 1930.<ref name="Solomon Final Frontiers"/>
+
+It was not until 1884, after the flood of 1882, that the state created the Mississippi-Yazoo Delta District Levee Board and started successfully achieving longer-term plans for levees in the upper Delta.<ref name="about the levee"/> Despite the state's building and reinforcing levees for years, the [[Great Mississippi Flood of 1927]] broke through and caused massive flooding of {{convert|27000|sqmi|km2}} throughout the Delta, homelessness for hundreds of thousands, and millions of dollars in property damages. With the Depression coming so soon after the flood, the state suffered badly during those years. In the [[Great Migration (African American)|Great Migration]], hundreds of thousands of African Americans migrated North and West for jobs and chances to live as full citizens.
+
+=== Energy ===
+{{expand section|date=June 2023}}
+
+==== Solar power ====
+{{excerpt|Solar power in Mississippi}}
+
+===Entertainment and tourism===
+
+The legislature's 1990 decision to legalize casino gambling along the Mississippi River and the Gulf Coast has led to increased revenues and economic gains for the state. Gambling towns in Mississippi have attracted increased tourism: they include the Gulf Coast resort towns of [[Bay St. Louis, Mississippi|Bay St. Louis]], [[Gulfport, Mississippi|Gulfport]] and [[Biloxi, Mississippi|Biloxi]], and the Mississippi River towns of [[Tunica Resorts, Mississippi|Tunica]] (the third largest gaming area in the United States), [[Greenville, Mississippi|Greenville]], [[Vicksburg, Mississippi|Vicksburg]] and [[Natchez, Mississippi|Natchez]].
+
+Before [[Hurricane Katrina]] struck the Gulf Coast, Mississippi was the second-largest gambling state in the Union, after [[Nevada]] and ahead of [[New Jersey]].{{Citation needed|date=June 2008}} In August 2005, an estimated $500,000 per day in tax revenue, {{Inflation|index=US|value=500000|start_year=2005|fmt=eq}}, was lost following Hurricane Katrina's severe damage to several coastal casinos in Biloxi.<ref>[http://www.biloxi.ms.us/katrinastats.html Katrina Stats]. City of Biloxi. Retrieved October 1, 2013.</ref> Because of the destruction from this hurricane, on October 17, 2005, Governor [[Haley Barbour]] signed a bill into law that allows casinos in Hancock and Harrison counties to rebuild on land (but within {{convert|800|ft|m}} of the water). The only exception is in [[Harrison County, Mississippi|Harrison County]], where the new law states that casinos can be built to the southern boundary of [[U.S. Route 90]].{{Citation needed|date=December 2007}}
+
+In 2012, Mississippi had the sixth largest gambling revenue of any state, at $2.25 billion.<ref>[http://www.americangaming.org/sites/default/files/uploads/docs/aga_sos2013_fnl.pdf 2013 edition of State of the States: The AGA Survey of Casino Entertainment] {{webarchive|url=https://web.archive.org/web/20131019101552/http://www.americangaming.org/sites/default/files/uploads/docs/aga_sos2013_fnl.pdf |date=October 19, 2013 }}. American Gaming Association. Retrieved October 1, 2013.</ref> The federally recognized [[Mississippi Band of Choctaw Indians]] has established a gaming casino on its reservation, which yields revenue to support education and economic development.{{Citation needed|date=January 2010}}
+
+[[Momentum Mississippi]], a statewide, public–private partnership dedicated to the development of economic and employment opportunities in Mississippi, was adopted in 2005.<ref>{{Cite web
+| title = Mississippi Direct Financial Incentives 2011—Mississippi, Momentum Mississippi
+| website = Area Development Online
+| access-date = June 16, 2014
+| date = March 2011
+| url = http://www.areadevelopment.com/stateResources/mississippi/mississippi-direct-financial-incentives2011-5842.shtml
+}}</ref>
+
+===Manufacturing===
+
+[[File:2014 Toyota Corolla built in Blue Springs, Mississippi.jpg|thumb|right|2014 Corolla built by [[Toyota Motor Manufacturing Mississippi]] on display at the [[Tupelo Automobile Museum]]]]
+
+Mississippi, like the rest of its southern neighbors, is a [[Right-to-work law#U.S. states with right-to-work laws|right-to-work state]]. It has some major automotive factories, such as the [[Toyota Motor Manufacturing Mississippi|Toyota Mississippi Plant]] in [[Blue Springs, Mississippi|Blue Springs]] and a Nissan Automotive plant in [[Canton, Mississippi|Canton]]. The latter produces the [[Nissan Titan]].
+
+===Taxation===
+
+{{As of|2024|08}}, Mississippi collects personal [[income tax]] at a [[flat tax|flat]] rate of 5% for all income over $10,000.<ref>{{cite web|url=https://www.dor.ms.gov/individual/tax-rates|title=Tax Rates, Exemptions, & Deductions|publisher=Department of Revenue, State of Mississippi|accessdate=7 August 2024}}</ref> The retail [[sales tax]] rate in Mississippi is 7%.<ref>{{cite web|url=https://www.dor.ms.gov/business/sales-tax-rates|title=Sales Tax Rates|publisher=Department of Revenue, State of Mississippi|accessdate=7 August 2024}}</ref> This rate is applied also to groceries, making it the highest grocery tax in the United States.<ref>{{cite news|url=https://www.wjtv.com/news/state/mississippis-grocery-tax-rate-versus-other-states/|title=Mississippi's grocery tax rate versus other states|work=WJTV News|first=Garret|last=Grove|date=23 June 2023}}</ref> Tupelo levies a local sales tax of 2.5%.<ref>{{cite web |url=http://taxfoundation.org/article/local-sales-taxes-add-significant-burden-consumers |title=Local Sales Taxes Add Significant Burden on Consumers |publisher=The Tax Foundation |date=September 22, 2011 |access-date=February 18, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20130117112542/http://taxfoundation.org/article/local-sales-taxes-add-significant-burden-consumers |archive-date=January 17, 2013  }}</ref> State sales tax growth was 1.4 percent in 2016 and estimated to be slightly less in 2017.<ref name="Pender, 2017"/> For purposes of assessment for [[ad valorem tax]]es, taxable [[property tax|property]] is divided into five classes.<ref>{{cite web|url=http://www.dor.ms.gov/taxareas/property/advalor.html |title=Ad Valorem Tax |publisher=Mississippi Department of Revenue |access-date=June 30, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140704022312/http://www.dor.ms.gov/taxareas/property/advalor.html |archive-date=July 4, 2014 }}</ref>
+
+On August 30, 2007, a report by the [[United States Census Bureau]] indicated that Mississippi was the poorest state in the country. Major cotton farmers in the Delta have large, mechanized plantations, and they receive the majority of extensive federal subsidies going to the state, yet many other residents still live as poor, rural, landless laborers. The state's sizable poultry industry has faced similar challenges in its transition from family-run farms to large mechanized operations.<ref>Stuesse, Angela and Laura Helton. "Low-Wage Legacies, Race, and the Golden Chicken in Mississippi: Where Contemporary Immigration Meets African American Labor History", ''Southern Spaces'', December 31, 2013, {{cite web |url=http://southernspaces.org/2013/low-wage-legacies-race-and-golden-chicken-mississippi |title=Low-Wage Legacies, Race, and the Golden Chicken in Mississippi: Where Contemporary Immigration Meets African American Labor History &#124; Southern Spaces |access-date=August 13, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140814000544/http://southernspaces.org/2013/low-wage-legacies-race-and-golden-chicken-mississippi |archive-date=August 14, 2014  }}.</ref> Of $1.2 billion from 2002 to 2005 in federal subsidies to farmers in the Bolivar County area of the Delta, only 5% went to small farmers. There has been little money apportioned for rural development. Small towns are struggling. More than 100,000 people have left the region in search of work elsewhere.<ref>[https://www.washingtonpost.com/wp-dyn/content/article/2007/06/19/AR2007061902193.html Gilbert M. Gaul and Dan Morgan (June 19, 2007), "A Slow Demise in the Delta: US Farm Subsidies Favor Big Over Small and White Over Blacks", ''The Washington Post''], accessed March 29, 2008</ref> The state had a median household income of $34,473.<ref>{{cite web |url=https://finance.yahoo.com/real-estate/article/103432/The-Richest-(and-Poorest)-Places-in-the-U.S.?mod=oneclick |title=The Richest (and Poorest) Places in the U.S |author=Les Christie |date=August 30, 2007 |publisher=CNNMoney.com |access-date=September 22, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20070914035228/http://finance.yahoo.com/real-estate/article/103432/The-Richest-(and-Poorest)-Places-in-the-U.S.?mod=oneclick |archive-date=September 14, 2007  }}</ref>
+
+===Employment===
+
+As of February 2023, the state's unemployment rate was 3.7%, the eleventh-highest in the country, tied with [[Arizona]], [[Massachusetts]], and [[West Virginia]].<ref name="LocalAreaUnemploymentStatistics">{{cite web|url=http://www.bls.gov/web/laus/laumstrk.htm|title=Unemployment Rates for States, Seasonally Adjusted, December 2018|website=Local Area Unemployment Statistics|publisher=U.S. Bureau of Labor Statistics|date=March 2, 2019|access-date=March 2, 2019}}</ref> This is an improvement over the 3.9% rate in January 2023, and 4% over the previous year. The highest unemployment rate recorded in the state was in April 2020, during the start of the [[COVID-19 pandemic]], at 15.6%.<ref>{{Cite web |date=March 24, 2023 |title=Unemployment Rates for States and Historical Highs/Lows |url=https://www.bls.gov/web/laus/lauhsthl.htm |access-date=March 27, 2023 |website=US Bureau of Labor Statistics}}</ref>
+
+===Federal subsidies and spending===
+
+Mississippi ranks as having the second-highest ratio of spending to tax receipts of any state. In 2005, Mississippi citizens received approximately $2.02 per dollar of taxes in the way of federal spending. This ranks the state second-highest nationally, and represents an increase from 1995, when Mississippi received $1.54 per dollar of taxes in federal spending and was 3rd highest nationally.<ref>{{cite web |url=http://www.taxfoundation.org/research/topic/38.html |title=Tax Foundation |publisher=Tax Foundation |access-date=July 30, 2010 |archive-date=February 6, 2010 |archive-url=https://web.archive.org/web/20100206021135/http://www.taxfoundation.org/research/topic/38.html |url-status=dead }}</ref> This figure is based on federal spending after large portions of the state were devastated by [[Hurricane Katrina]], requiring large amounts of federal aid from the [[Federal Emergency Management Agency]] (FEMA). However, from 1981 to 2005, it was at least number four in the nation for federal spending vs. taxes received.<ref>{{cite web|url= http://taxfoundation.org/article/federal-taxes-paid-vs-federal-spending-received-state-1981-2005| title=Federal Taxes Paid Vs Federal Spending Received State 1981–2005| date=October 19, 2007}}</ref>
+
+A proportion of federal spending in Mississippi is directed toward large federal installations such as [[Camp Shelby]], [[John C. Stennis Space Center]], [[Naval Air Station Meridian|Meridian Naval Air Station]], [[Columbus Air Force Base]], and [[Keesler Air Force Base]]. Three of these installations are located in the area affected by [[Hurricane Katrina]].
+
+==Politics and government==
+
+{{Main|Mississippi Legislature|Government of Mississippi|List of Governors of Mississippi|Political party strength in Mississippi}}
+[[File:Governors of Mississippi.jpg|thumb|Five Governors of Mississippi in 1976, from left: [[Ross Barnett]], [[James P. Coleman]], [[William L. Waller]], [[John Bell Williams]], and [[Paul B. Johnson Jr.]]]]
+
+As with all other U.S. states and the federal government, Mississippi's government is based on the separation of legislative, executive and judicial power. Executive authority in the state rests with the Governor, currently [[Tate Reeves]] ([[Republican Party (United States)|R]]). The lieutenant governor, currently [[Delbert Hosemann]] ([[Republican Party (United States)|R]]), is elected on a separate ballot. Both the governor and lieutenant governor are elected to four-year terms of office. Unlike the federal government, but like many other U.S. states, most of the heads of major executive departments are elected by the citizens of Mississippi rather than appointed by the governor.
+
+Mississippi is one of five states that elects its state officials in odd-numbered years (the others are [[Kentucky]], [[Louisiana]], [[New Jersey]] and [[Virginia]]). Mississippi holds elections for these offices every four years, always in the year preceding presidential elections.
+
+In a 2020 study, Mississippi was ranked as the 4th hardest state for citizens to vote in.<ref>{{cite journal |last1=J. Pomante II |first1=Michael |last2=Li |first2=Quan |title=Cost of Voting in the American States: 2020 |journal=Election Law Journal: Rules, Politics, and Policy |date=15 Dec 2020 |volume=19 |issue=4 |pages=503–509 |doi=10.1089/elj.2020.0666 |s2cid=225139517 |doi-access=free }}</ref>
+
+===Laws===
+{{Further|Constitution of the State of Mississippi|Abortion law in Mississippi|LGBT rights in Mississippi|Gun laws in Mississippi|Capital punishment in Mississippi}}
+
+In 2004, Mississippi voters approved a state [[constitutional amendment]] banning [[same-sex marriage]] and prohibiting Mississippi from recognizing same-sex marriages performed elsewhere. The amendment passed 86% to 14%, the largest margin in any state.<ref name="USAT1">{{Cite news|title=Amendment banning gay marriage passes |url=https://www.usatoday.com/news/politicselections/vote2004/2004-11-02-ms-intiative-gay-marriage_x.htm |work=USA Today |date=November 2, 2004 |access-date=October 12, 2007}}</ref><ref name="MSNBCgay">{{Cite news|title=Voters pass all 11 bans on gay marriage |url=https://www.nbcnews.com/id/wbna6383353 |agency=Associated Press |publisher=NBC News |date=November 3, 2004 |access-date=December 7, 2007 }}</ref> Same-sex marriage became legal in Mississippi on June 26, 2015, when the United States Supreme Court invalidated all state-level bans on same-sex marriage as unconstitutional in the landmark case ''[[Obergefell v. Hodges]]''.<ref name="Mississippi Gay Marriage Ban Struck Down">{{Cite news|title=Mississippi's Ban on Gay Marriage Officially Lifted |url=http://www.wapt.com/politics/circuit-clerks-refusing-to-issue-samesex-marriage-licenses-seek-answers/33909092 |access-date=October 16, 2015}}</ref>
+
+With the passing of HB 1523 in April 2016, from July it became legal in Mississippi to refuse service to same-sex couples, based on one's religious beliefs.<ref>{{cite news|url=https://www.theguardian.com/world/2016/apr/05/mississippi-law-lgbt-discrimination-religious-moral-grounds|title=LGBT couples can be refused service under new Mississippi law|date=April 5, 2016|work=The Guardian|access-date=April 7, 2016}}</ref><ref>{{Cite news |url=https://latimes.com/nation/nationnow/la-na-mississippi-law-service-denial-gays-20160405-story.html|title=Mississippi law opens a new front in the battle over gay rights |newspaper=Los Angeles Times |access-date=April 11, 2016}}</ref> The bill has become the subject of controversy.<ref>{{cite news |date=April 5, 2016 |url=https://www.bbc.com/news/world-us-canada-35971038|title=Mississippi passes controversial 'religious freedom' bill |work=BBC News}}</ref> A federal judge blocked the law in July of that year;<ref>{{cite web|last1=Park|first1=Madison|title=Judge blocks controversial Mississippi law|url=http://www.cnn.com/2016/07/01/us/mississippi-religious-freedom-law-blocked/index.html|website=CNN.com|access-date=January 6, 2018|date=July 1, 2016}}</ref> however, it was challenged, and a federal appeals court ruled in favor of the law in October 2017.<ref>{{cite web|author1=Willie James Inman|title=Major religious freedom law set to take effect, unless Supreme Court intervenes|url=http://www.foxnews.com/politics/2017/10/04/major-religious-freedom-law-set-to-take-effect-unless-supreme-court-intervenes.html|website=foxnews.com|access-date=January 6, 2018|date=October 4, 2017}}</ref><ref>{{cite web|last1=Campbell|first1=Larrison|title='Religious freedom law', House Bill 1523, will take effect Oct. 6; appeal planned|url=https://mississippitoday.org/2017/10/01/house-bill-1523-will-take-effect-oct-6/|website=mississippitoday.org|access-date=January 6, 2018|date=October 1, 2017}}</ref>
+
+Mississippi's regulations on [[abortion]] are among the most restrictive in the United States. A 2014 poll by [[Pew Research Center]] found that 59% of the state's population thinks [[abortion]] should be illegal in all/most cases, while only 36% of the state's population thinks abortion should be legal in all/most cases.<ref>{{Cite web|title=Religion in America: U.S. Religious Data, Demographics and Statistics|url=https://www.pewforum.org/religious-landscape-study/compare/views-about-abortion/by/state/|access-date=2021-04-16|website=Pew Research Center's Religion & Public Life Project}}</ref>
+
+Mississippi has banned [[Sanctuary city|sanctuary cities]].<ref>{{Cite web|url=https://www.cnn.com/2019/05/09/politics/sanctuary-city-bans-states/index.html|title=Florida is about to ban sanctuary cities. At least 11 other states have, too|first=Catherine E. |last=Shoichet|website=CNN|date=May 9, 2019}}</ref> Mississippi retains the [[death penalty]] (see also: [[capital punishment in Mississippi]]). The preferred form of execution is the [[lethal injection]].<ref>{{cite web |title=§ 99-19-51 - Manner of execution of death sentence |url=http://law.justia.com/codes/mississippi/2015/title-99/chapter-19/in-general/section-99-19-51/ |publisher=law.justia.com |access-date=June 29, 2016}}</ref><ref>{{cite web | url=https://mississippitoday.org/2022/06/21/new-law-mdoc-commissioner-execution-choice/ | title=New law gives MDOC commissioner choice in how people are executed | date=21 June 2022 }}</ref>
+
+Section 265 of the [[Constitution of the State of Mississippi]] declares that "No person who denies the existence of a Supreme Being shall hold any office in this state."<ref name="Mississippi State Constitution">{{Cite news|title=Mississippi State Constitution |url=http://www.sos.state.ms.us/ed_pubs/constitution/constitution.asp |access-date=February 15, 2011}}</ref> However, this religious test restriction was held to be unconstitutional by the U.S. Supreme Court in ''[[Torcaso v. Watkins]]'' (1961).
+
+[[Gun laws in Mississippi]] are among the most permissive in the country, with no license or background check required to openly carry handguns in most places in the state.
+
+In 2021, the U.S. Supreme Court ruled in a 6−3 decision in ''[[Jones v. Mississippi]]'' that a Mississippi law allowing mandatory sentencing of children to life imprisonment without parole is valid and that states and judges can impose such sentences without separately deciding if the child can be rehabilitated.
+
+===Political alignment===
+
+[[File:United States presidential election in Mississippi, 2016.svg|thumb|right|upright=0.9|[[Treemap]] of the popular vote by county, [[2016 United States presidential election in Mississippi|2016 presidential election]]]]
+
+Mississippi led the South in developing a [[Disfranchisement after Reconstruction era|disenfranchising]] constitution, passing it in 1890. By raising barriers to voter registration, the state legislature disenfranchised most blacks and many poor whites, excluding them from politics until the late 1960s. It established a one-party state dominated by white Democrats, particularly those politicians who supported poor whites and farmers. Although the state was dominated by one party, there were a small number of Democrats who fought against most legislative measures that disenfranchised most blacks.<ref name=":0">{{Cite book|author1-link=David Sansing|last=Sansing|first=David G.|publisher=Clairmont Press|url=https://www.worldcat.org/oclc/861987177|title=A place called Mississippi|date=2013|others=Paul E. Binford|isbn=978-1-56733-244-5|location=Atlanta, Georgia|oclc=861987177}}</ref> They also side with the small group of Mississippi Republicans that still existed in the state and Republicans at the federal level on legislative measures that benefited them.
+
+Most blacks were still disenfranchised under the state's 1890 constitution and discriminatory practices, until passage of the [[Voting Rights Act of 1965]] and concerted grassroots efforts to achieve registration and encourage voting.{{citation needed|date=November 2021}} In the 1980s, whites divided evenly between the parties. In the 1990s, those voters largely shifted their allegiance to the [[Republican Party (United States)|Republican Party]], first for national and then for state offices.<ref>{{cite book|author=Alexander P. Lamis|title=Southern Politics in the 1990s|url=https://books.google.com/books?id=4LukDAAAQBAJ&pg=PT425|year=1999|publisher=LSU Press|page=425|isbn=9780807166772}}</ref>
+
+In 2019, a lawsuit was filed against an 1890 election law known as The Mississippi Plan, which requires that candidates must win the popular vote and a majority of districts.<ref>{{Cite news|url=https://www.npr.org/2019/09/24/763510668/black-voters-sue-over-mississippis-jim-crow-era-election-law|title=Black Voters Sue Over Mississippi's Jim Crow-Era Election Law|newspaper=NPR.org|access-date=January 4, 2020}}</ref> In [[2020 Mississippi elections|the following year]], 79% of Mississippians voted to remove the requirement of doing so.<ref>{{Cite news|url=https://mississippitoday.org/2020/12/31/interactive-how-mississippians-voted-for-2020-candidates-and-ballot-measures/|title=Interactive: How Mississippians voted for 2020 candidates and ballot measures|first=Alex|last=Rozier|date=31 December 2020|website=Mississippi Today|access-date=April 2, 2021}}</ref>
+
+==Transportation==
+===Air===
+Mississippi has six airports with commercial passenger service, the busiest in Jackson ([[Jackson-Evers International Airport]]).
+
+===Roads===
+Mississippi is the only American state where people in cars may legally consume beer. Some localities have laws restricting the practice.<ref>{{cite news |last1=Phillips |first1=Owen |title=Riding in Cars with Beers |url=https://www.theawl.com/2016/04/riding-in-cars-with-beers/ |access-date=April 26, 2019 |date=April 28, 2016}}</ref> In 2018, the state was ranked number eight in the Union in terms of impaired driving deaths.<ref>{{cite web |last1=Woodell |first1=Brody |title=Which states have the MOST and the LEAST drunk driving deaths |date=20 December 2018 |url=https://wqad.com/2018/12/20/which-states-have-the-most-and-the-least-drunk-driving-deaths/ |publisher=WQAD |access-date=April 26, 2019}}</ref>
+[[File:Vicksburg bridge over the mississippi morning-edit.jpg|thumb|right|The [[Vicksburg Bridge]] carries I-20 and U.S. 80 across the Mississippi River at Vicksburg.]]
+
+Mississippi is served by nine [[Interstate Highway System|interstate highways]]:
+{{div col}}
+*{{jct|state=MS|I|10}}
+**{{jct|state=MS|I|110}}
+*{{jct|state=MS|I|20}}
+**{{jct|state=MS|I|220}}
+*{{jct|state=MS|I|22}}
+*{{jct|state=MS|I|55}}
+*{{jct|state=MS|I|59}}
+*{{jct|state=MS|I|69}}
+**{{jct|state=MS|I|269}}
+{{div col end}}
+
+and fourteen main [[United States Numbered Highways|U.S. Routes]]:
+{{div col}}
+*{{jct|state=MS|US|11}}
+*{{jct|state=MS|US|45}}
+*{{jct|state=MS|US|49}}
+*{{jct|state=MS|US|51}}
+*{{jct|state=MS|US|61}}
+*{{jct|state=MS|US|72}}
+*{{jct|state=MS|US|78}}
+**{{jct|state=MS|US|278}}
+*{{jct|state=MS|US|80}}
+*{{jct|state=MS|US|82}}
+*{{jct|state=MS|US|84}}
+*{{jct|state=MS|US|90}}
+*{{jct|state=MS|US|98}}
+*{{jct|state=MS|US|425}}
+{{div col end}}
+
+as well as a system of [[List of state highways in Mississippi|State Highways]].
+
+===Rail===
+{{Mississippi rail network}}
+
+====Passenger====
+
+[[Amtrak]] provides scheduled passenger service along two routes, the ''[[Crescent (Amtrak)|Crescent]]'' and ''[[City of New Orleans (train)|City of New Orleans]]''. Prior to severe damage from [[Hurricane Katrina]], the ''[[Sunset Limited]]'' traversed the far south of the state; the route originated in [[Los Angeles, California]] and it terminated in [[Florida]]. Restoration of services on the portion of this line from New Orleans, LA to Mobile, AL has been approved <ref>{{cite web |title=Connecting the entire Gulf Coast with comprehensive passenger rail |url=https://www.southernrailcommission.org/gulf-coast-rail |website=Southern Rail Commission |access-date=22 April 2024}}</ref> but actual resumption of services have been delayed.<ref>{{cite web |last1=Luczak |first1=Marybeth |title=What's the Status of Amtrak Gulf Coast Service? |url=https://www.railwayage.com/regulatory/whats-the-status-of-amtrak-gulf-coast-service/ |website=Railway Age |publisher=Simmons-Boardman Publishing |access-date=22 April 2024}}</ref>
+
+====Freight====
+
+All but two of the United States [[Class I railroad]]s serve Mississippi (the exceptions are the [[Union Pacific]] and [[Canadian Pacific]]):
+*[[Canadian National Railway]]'s [[Illinois Central Railroad]] subsidiary provides north–south service.
+*[[BNSF Railway]] has a northwest–southeast line across northern Mississippi.
+*[[Kansas City Southern Railway]] provides east–west service in the middle of the state and north–south service along the [[Alabama]] state line.
+*[[Norfolk Southern Railway]] provides service in the extreme north and southeast.
+*[[CSX Transportation|CSX]] has a line along the Gulf Coast.
+
+===Water===
+====Major rivers====
+
+*[[Mississippi River]]
+*[[Big Black River (Mississippi)|Big Black River]]
+*[[Pascagoula River]]
+*[[Pearl River (Mississippi-Louisiana)|Pearl River]]
+*[[Tennessee-Tombigbee Waterway]]
+*[[Yazoo River]]
+
+====Major bodies of water====
+
+[[File:Ross Barnett Reservoir sunset picture.jpg|thumb|right|The Ross Barnett Reservoir at sunset]]
+
+*[[Arkabutla Lake]] {{convert|19550|acre|km2}} of water; constructed and managed by the U.S. Army Corps of Engineers Vicksburg District<ref>{{Cite web|url=http://www.mvk.usace.army.mil/Lakes/arkabutlalake/|archive-url=https://web.archive.org/web/20070715060052/http://www.mvk.usace.army.mil/Lakes/arkabutlalake/|url-status=dead|title=U.S. Army Corps of Engineers Vicksburg District: Arkabutla Lake|archive-date=July 15, 2007}}</ref>
+*[[Bay Springs Lake]] {{convert|6700|acre|km2}} of water and {{convert|133|miles|km}} of shoreline; constructed and managed by the U.S. Army Corps of Engineers
+*[[Grenada Lake]] {{convert|35000|acre|km2}} of water; became operational in 1954; constructed and managed by the U.S. Army Corps of Engineers Vicksburg District<ref>{{Cite web|url=http://www.mvk.usace.army.mil/Lakes/grenadalake/|archive-url=https://web.archive.org/web/20070310210717/http://www.mvk.usace.army.mil/Lakes/grenadalake/|url-status=dead|title=U.S. Army Corps of Engineers Vicksburg District: Grenada Lake|archive-date=March 10, 2007}}</ref>
+*[[Ross Barnett Reservoir]] {{convert|33000|acre|km2}} of water; named for [[Ross Barnett]], the 52nd [[List of Governors of Mississippi|Governor of Mississippi]]; became operational in 1966; constructed and managed by The Pearl River Valley Water Supply District, a state agency; provides water supply for the City of Jackson.
+*[[Sardis Lake (Mississippi)|Sardis Lake]] {{convert|98520|acre|km2}} of water; became operational in October 1940; constructed and managed by the U.S. Army Corps of Engineers Vicksburg District<ref>{{Cite web|url=http://www.mvk.usace.army.mil/Lakes/sardislake/|archive-url=https://web.archive.org/web/20070310232752/http://www.mvk.usace.army.mil/Lakes/sardislake/|url-status=dead|title=U.S. Army Corps of Engineers Vicksburg District: Sardis Lake|archive-date=March 10, 2007}}</ref>
+*[[Enid Lake]] {{convert|44000|acre|km2}} of water; constructed and managed by the U.S. Army
+
+==Education==
+
+{{See also|List of colleges and universities in Mississippi|Education in Mississippi}}
+[[File:NYA-"Lee County Training School(Negro)"-Tupelo, Mississippi-students at work in library - NARA - 195369.tif|thumb|Lee County Training School, 1936]]
+
+Until the [[American Civil War|Civil War]] era, Mississippi had a small number of schools and no educational institutions for [[African Americans]]. The first school for black students was not established until 1862.
+
+During Reconstruction in 1871, black and white Republicans drafted a constitution that was the first to provide for a system of free [[public education]] in the state. The state's dependence on agriculture and resistance to taxation limited the funds it had available to spend on any schools. In the early 20th century, there were still few schools in rural areas, particularly for black children. With seed money from the [[Julius Rosenwald]] Fund, many rural black communities across Mississippi raised matching funds and contributed public funds to build new schools for their children. Essentially, many black adults taxed themselves twice and made significant sacrifices to raise money for the education of children in their communities, in many cases donating land or labor to build such schools.<ref>James D. Anderson,''[[The Education of Blacks in the South, 1860–1935]]''. Chapel Hill: University of North Carolina, 1988, pp. 160–161</ref>
+
+Blacks and whites attended separate, [[Racial segregation in the United States|segregated]] [[Public school (government funded)|public school]]s in Mississippi until the late 1960s, although such segregation had been declared unconstitutional by the United States Supreme Court in its 1954 ruling in ''[[Brown v. Board of Education]]''. In the majority-black Mississippi Delta counties, white parents worked through [[Citizens' Councils|White Citizens' Councils]] to set up private [[segregation academies]], where they enrolled their children. Often funding declined for the public schools.<ref name="bolton178"/> But in the state as a whole, only a small minority of white children were withdrawn from public schools. State officials believed they needed to maintain public education to attract new businesses. Many black parents complained that they had little representation in school administration, and that many of their former administrators and teachers had been pushed out. They have had to work to have their interests and children represented.<ref name="bolton178">Bolton, Charles C. ''[[The Hardest Deal of All: The Battle Over School Integration in Mississippi, 1870–1980]]''. [[University Press of Mississippi]], 2005, pp. 136, 178–179. {{ISBN|1604730609}}, 9781604730609.</ref>
+
+In the late 1980s, Mississippi's 954 public schools enrolled about 369,500 elementary and 132,500 [[secondary school|secondary]] students. Some 45,700 students attended [[private school]]s.
+
+In the 21st century, 91% of white children and most of the black children in the state attend public schools.<ref>{{cite book|last=Bolton|year=2005|title=The Hardest Deal of All|pages=178–179}}</ref> In 2008, Mississippi was ranked last among the fifty states in academic achievement by the [[American Legislative Exchange Council]]'s ''Report Card on Education'',<ref name="alec">{{cite web|url=http://www.alec.org/am/pdf/education/2008_report_card/mississippi08.pdf |title=Report Card on Education |archive-url=https://web.archive.org/web/20110407120218/http://www.alec.org/am/pdf/education/2008_report_card/mississippi08.pdf |archive-date=April 7, 2011 }}</ref> with the lowest average [[ACT (examination)|ACT]] scores and sixth-lowest spending per pupil in the nation. In contrast, Mississippi had the 17th-highest average [[SAT (examination)|SAT]] scores in the nation. As an explanation, the Report noted that 92% of Mississippi high school graduates took the ACT, but only 3% of graduates took the SAT, apparently a self-selection of higher achievers. This breakdown compares to the national average of high school graduates taking the ACT and SAT, of 43% and 45%, respectively.<ref name="alec"/>
+
+Generally prohibited in the [[Western world|West]] at large, [[school corporal punishment]] is not unusual in Mississippi, with 31,236 public school students{{efn|Please note this figure refers to only the number of students paddled, regardless of whether a student was spanked multiple times in a year, and does not refer to the number of instances of corporal punishment, which would be substantially higher.}} paddled at least one time {{Circa|2016}}.<ref name="CORPUN_US_SCHOOL" /> A greater percentage of students were [[paddle (spanking)|paddled]] in Mississippi than in any other state, according to government data for the 2011–2012 school year.<ref name="CORPUN_US_SCHOOL">{{cite web|url=http://corpun.com/counuss.htm |title= Corporal punishment in US schools |publisher=World Corporal Punishment Research | last = Farrell | first = Colin | date=February 2016|access-date=April 4, 2016}}</ref>
+
+In 2007, Mississippi students scored the lowest of any state on the National Assessments of Educational Progress in both math and science.<ref>{{Cite news|title=Study Compares States' Math and Science Scores With Other Countries' |url=https://www.nytimes.com/2007/11/14/education/14students.html | work=The New York Times | first=Sam | last=Dillon | date=November 14, 2007 | access-date=May 12, 2010}}, ''The New York Times'' (2007)</ref>
+
+[[Jackson, MS|Jackson]], the state's capital city, is the site of the state residential school for deaf and hard of hearing students. [[Mississippi School for the Deaf|The Mississippi School for the Deaf]] was established by the state legislature in 1854 before the civil war.
+
+==Culture==
+{{Redirect-distinguish|Culture of Mississippi|Mississippian culture}}
+[[File:Mississippi New State Capitol Building in Jackson.jpg|thumb|The [[Mississippi State Capitol]] was designated a [[National Historic Landmark]] in 2016.]]
+
+While Mississippi has been especially known for its music and literature, it has embraced other forms of art. Its strong religious traditions have inspired striking works by [[outsider art]]ists who have been shown nationally.{{citation needed|date=August 2021}}
+
+Jackson established the [[USA International Ballet Competition]], which is held every four years. This ballet competition attracts the most talented young dancers from around the world.<ref>{{cite web |author=<!-- .entry-content --> |url=http://www.usaibc.com/ |title=USA International Ballet Competition |publisher=Usaibc.com |access-date=July 30, 2010 |archive-url=https://web.archive.org/web/20070925073440/http://www.usaibc.com/ |archive-date=September 25, 2007 |url-status=dead }}</ref>
+
+The [[Magnolia Independent Film Festival]], still held annually in [[Starkville, Mississippi|Starkville]], is the first and oldest in the state.
+
+[[George Ohr]], known as the "Mad Potter of Biloxi" and the father of abstract expressionism in pottery, lived and worked in Biloxi, MS.
+
+===Music===
+{{main|Music of Mississippi}}
+Musicians of the state's Delta region were historically significant to the development of the [[blues]]. Although by the end of the 19th century, two-thirds of the farm owners were black, continued low prices for cotton and national financial pressures resulted in most of them losing their land. More problems built up with the boll weevil infestation, when thousands of agricultural jobs were lost.
+
+[[Jimmie Rodgers (country singer)|Jimmie Rodgers]], a native of Meridian and guitarist/singer/songwriter known as the "Father of Country Music", played a significant role in the development of the blues. He and [[Chester Arthur Burnett]] were friends and admirers of each other's music. Their friendship and respect is an important example of Mississippi's musical legacy. While the state has had a reputation for being racist, Mississippi musicians created new forms by combining and creating variations on musical traditions from African American traditions, and the musical traditions of white Southerners strongly shaped by Scots-Irish and other styles.
+
+The state is creating a [[Mississippi Blues Trail]], with dedicated markers explaining historic sites significant to the history of blues music, such as [[Clarksdale, Mississippi|Clarksdale]]'s Riverside Hotel, where [[Bessie Smith]] died after her auto accident on [[U.S. Route 61|Highway 61]]. The Riverside Hotel is just one of many historical blues sites in Clarksdale. The [[Delta Blues Museum]] there is visited by tourists from all over the world. Close by is "Ground Zero", a contemporary blues club and restaurant co-owned by actor [[Morgan Freeman]].
+
+[[Elvis Presley]], who created a sensation in the 1950s as a crossover artist and contributed to rock 'n' roll, was a native of [[Tupelo, Mississippi|Tupelo]]. From opera star [[Leontyne Price]] to the [[alternative rock]] band [[3 Doors Down]], to [[Gulf and Western (music genre)|Gulf and Western]] singer [[Jimmy Buffett]], modern rock/jazz/world music guitarist-producer [[Clifton Hyde]], to rappers [[David Banner]], [[Big K.R.I.T.]] and [[Afroman]], Mississippi musicians have been significant in all genres.
+
+===Sports===
+{{see also|List of college athletic programs in Mississippi}}
+*[[Biloxi, Mississippi|Biloxi]] is home to the [[Biloxi Shuckers]] baseball team, the [[Double-A (baseball)|Double-A]] [[Minor League Baseball|minor league]] affiliate of the [[Milwaukee Brewers]] and member of the [[Southern League (1964–present)|Southern League]] playing at [[Keesler Federal Park]], and the [[Mississippi Sea Wolves (FPHL)|Mississippi Sea Wolves]] hockey team, a member of the [[Federal Prospects Hockey League]] playing at [[Mississippi Coast Coliseum]].
+*[[Clinton, Mississippi|Clinton]] is home to the [[Mississippi Brilla FC]], a [[USL League Two]] soccer team.
+*[[Southaven, Mississippi|Southaven]] is home to the [[Memphis Hustle]] basketball team. The Hustle are an affiliate of the [[Memphis Grizzlies]]. They play in the [[NBA G League]].
+
+==See also==
+{{portal|Mississippi|United States}}
+*[[Index of Mississippi-related articles]]
+*[[Outline of Mississippi]]
+*[[List of people from Mississippi]]
+*[[Mississippi literature]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+*  Busbee, Westley F. ''Mississippi: A History'' (2005).
+* Gonzales, Edmond, ed. ''A Mississippi Reader: Selected Articles from the Journal of Mississippi History'' (1980)
+* Krane, Dale and Stephen D. Shaffer. ''Mississippi Government & Politics: Modernizers versus Traditionalists'' (1992), government textbook
+* Loewen, James W. and Charles Sallis, eds. ''Mississippi: Conflict and Change'' (2nd ed. 1980), high school textbook
+* McLemore, Richard, ed. ''A History of Mississippi'' 2 vols. (1973), thorough coverage by scholars
+* Mitchell, Dennis J., ''A New History of Mississippi'' (2014)
+* Ownby, ted et al. eds. ''The Mississippi Encyclopedia'' (2017)
+* Skates, John Ray. ''Mississippi: A Bicentennial History'' (1979), popular
+* Sparks, Randy J. ''Religion in Mississippi'' (2001) 374 pp [http://scholarship.rice.edu/handle/1911/16188 online edition]
+* Swain, Martha H. ed. ''Mississippi Women: Their Histories, Their Lives'' (2003). 17 short biographies
+
+==External links==
+{{Sister project links|voy=Mississippi}}
+*{{Official website|1=http://www.ms.gov/}}
+*[http://www.visitmississippi.org/ Mississippi Travel and Tourism]
+*[http://www.mississippi.org/ Mississippi Development Authority]
+*[http://www.mississippibelieveit.com The "Mississippi Believe It" Campaign]
+*[http://www.ers.usda.gov/data-products/state-fact-sheets/state-data.aspx?StateFIPS=28&StateName=Mississippi#.U8QvirEXtQs USDA Mississippi State Facts]
+*[http://www.upress.state.ms.us/ University Press of Mississippi]
+*[ftp://newftp.epa.gov/EPADataCommons/ORD/Ecoregions/ms/ms_eco_pg.pdf Ecoregions of Mississippi]{{Dead link|date=March 2024 |bot=InternetArchiveBot |fix-attempted=yes }}
+*[http://southernspaces.org/2006/mississippi-metaphor-state-region-and-nation-historical-imagination Mississippi as Metaphor State, Region, and Nation in Historical Imagination]", ''Southern Spaces'', October 23, 2006.
+*{{OSM relation|161943}}
+*[https://web.archive.org/web/20110208234440/http://wikis.ala.org/godort/index.php/Mississippi Mississippi State Databases], an annotated list of searchable databases compiled by the Government Documents Roundtable of the American Library Association.
+
+{{s-start}}
+{{s-bef|before=[[Indiana]]}}
+{{s-ttl|title=[[List of U.S. states by date of admission to the Union]]|years=Admitted on December 10, 1817 (20th)}}
+{{s-aft|after=[[Illinois]]}}
+{{s-end}}
+{{Geographic location
+ | Northwest = {{flag|Arkansas}}
+ | North = {{flag|Tennessee}}
+ | Northeast =
+ | West =
+ | Centre = {{flag|Mississippi}}: [[Outline of Mississippi|Outline]] • [[Index of Mississippi-related articles|Index]]
+ | East = {{flag|Alabama}}
+ | Southwest = {{flag|Louisiana}}
+ | South = [[Gulf of Mexico]]
+ | Southeast = 
+}}
+{{Navboxes
+|title = <span style="font-size:11pt;">Topics related to Mississippi</span><br />''The Magnolia State''
+|list =
+{{Mississippi|expanded}}
+{{Protected areas of Mississippi}}
+{{Southern United States}}
+{{New France}}
+{{New Spain}}
+{{Confederate States political divisions}}
+{{United States political divisions}}
+|state=expanded}}
+
+{{Authority control}}
+{{coord|33|-90|dim:300000_region:US-MS_type:adm1st|name=State of Mississippi|display=title}}
+
+[[Category:Mississippi| ]]<!--please leave the empty space as standard-->
+[[Category:1817 establishments in the United States]]
+[[Category:Former British colonies and protectorates in the Americas]]
+[[Category:Former French colonies]]
+[[Category:Southern United States]]
+[[Category:States and territories established in 1817]]
+[[Category:States of the Confederate States of America]]
+[[Category:States of the Gulf Coast of the United States]]
+[[Category:States of the United States]]
+[[Category:Contiguous United States]]

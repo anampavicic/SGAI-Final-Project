@@ -1,0 +1,685 @@
+{{Short description|City in California, United States}}
+{{distinguish|text=[[Vacqueville]], a village in France}}
+{{Use mdy dates|date=May 2024}}
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->
+<!-- Basic info  ---------------->| name               = Vacaville, California
+| official_name      = City of Vacaville
+| other_name         = 
+| native_name        = <!-- for cities whose native name is not in English -->
+| settlement_type    = [[List of municipalities in California|City]]
+<!-- images and maps  ----------->| image_skyline      = Vacaville Hills.jpg
+| imagesize          = 
+| image_caption      = 
+| image_flag         = Flagofvacaville.png
+| flag_size          = 
+| image_seal         = 
+| seal_size          = 
+| nickname           = 
+| motto              = 
+| image_map          = Solano_County_California_Incorporated_and_Unincorporated_areas_Vacaville_Highlighted.svg
+| mapsize            = 250x200px
+| map_caption        = Location in [[Solano County, California|Solano County]] and the state of California
+| pushpin_map        = California#USA
+| pushpin_label      = Vacaville
+| pushpin_map_caption = Location in California##Location in the United States
+<!-- Location ------------------>| coordinates        = {{coord|38|21|14|N|121|58|22|W|region:US-CA|display=inline,title}}
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = United States
+| subdivision_type1  = [[U.S. state|State]]
+| subdivision_name1  = [[California]]
+| subdivision_type2  = [[List of counties in California|County]]
+| subdivision_name2  = [[Solano County, California|Solano]]
+| named_for          = Juan Manuel Cabeza Vaca
+<!-- Politics ----------------->| established_title  = [[Municipal corporation|Incorporated]]
+| established_date   = August 9, 1892<ref>{{cite web
+   |url          = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+   |title        = California Cities by Incorporation Date
+   |format       = Word
+   |publisher    = California Association of [[Local Agency Formation Commission]]s
+   |access-date  = August 25, 2014
+   |archive-url  = https://web.archive.org/web/20131017052413/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+   |archive-date = October 17, 2013
+   |url-status   = dead
+   |df           = mdy-all
+ }}</ref>
+| government_type    = 
+| leader_title       = [[City Council]]<ref>{{cite web
+   | url = https://www.ci.vacaville.ca.us/government/city-council
+   | title = City Council
+   | publisher = City of Vacaville, CA
+   | access-date = March 11, 2023
+ }}</ref>
+| leader_name        = [[Mayor]] John Carli<br />[[Deputy Mayor|Vice-Mayor]] Jeanette Wylie (District 6)<br />Roy Stockton (District 1)<br />Gregory Ritchie II (District 2)<br />Michael Silva (District 3)<br />Sarah Chapman (District 4)<br />Jason Roberts (District 5)
+| leader_title1      = [[California's 3rd State Senate district|State Senator]]
+| leader_name1       = {{Representative|casd|3|fmt=sleader}}<ref name=swd>{{cite web |url=http://statewidedatabase.org/gis/gis2011/index_2011.html |title=Statewide Database |publisher=UC Regents |access-date=November 23, 2014 |archive-url=https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html |archive-date=February 1, 2015 |url-status=dead }}</ref>
+| leader_title2      = [[California's 11th State Assembly district|Assemblymember]]
+| leader_name2       = {{Representative|caad|11|fmt=sleader}}<ref name=swd/>
+| leader_title3      = [[California's 8th congressional district|U.S. Rep.]]
+| leader_name3       = {{Representative|cacd|4|fmt=usleader}}<ref>{{Cite GovTrack|CA|4}}</ref><br />{{Representative|cacd|8|fmt=usleader}}<ref>{{Cite GovTrack|CA|8}}</ref>
+<!-- Area------------------>| unit_pref          = Imperial
+| area_footnotes     = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi   = 29.42
+| area_total_km2     = 76.19
+| area_land_sq_mi    = 29.19
+| area_land_km2      = 75.59
+| area_water_sq_mi   = 0.23
+| area_water_km2     = 0.60
+| area_water_percent = 0.74
+| area_metro_sq_mi   = 
+| elevation_footnotes = <ref>{{Cite GNIS|277624|Vacaville|access-date=November 18, 2014}}</ref>
+| elevation_ft       = 174
+| elevation_m        = 53
+| elevation_max_footnotes = <ref name=about>{{cite web|url=http://www.cityofvacaville.com/index.aspx?page=267|title=About Vacaville|publisher=City of Vacaville, CA|access-date=January 26, 2015|archive-date=November 23, 2016|archive-url=https://web.archive.org/web/20161123002431/http://cityofvacaville.com/index.aspx?page=267|url-status=dead}}</ref>
+| elevation_max_ft   = 300
+| elevation_min_footnotes = <ref name=about/>
+| elevation_min_ft   = 90
+<!-- Population ----------->| population_as_of   = [[2020 United States census|2020]]
+| population_footnotes = <ref name=quif>{{cite web|url=https://www.census.gov/quickfacts/fact/table/vacavillecitycalifornia/PST045219|title=QuickFacts|publisher=[[United States Census Bureau]] | access-date              = October 7, 2018}}</ref>
+| population_total   = 102386
+| population_rank    = [[List of largest California cities by population|71st]] in California<br />[[List of United States cities by population|314th]] in the United States
+| population_density_sq_mi = 3449.14
+| population_metro   = 
+| population_density_metro_sq_mi = <!-- General information  --------------->
+| timezone           = [[Pacific Time Zone|Pacific]]
+| utc_offset         = −8
+| timezone_DST       = PDT
+| utc_offset_DST     = −7
+<!-- Area/postal codes & others -------->| postal_code_type   = [[ZIP Code]]s
+| postal_code        = 95687, 95688, 95696
+| area_code_type     = [[North American Numbering Plan|Area code]]
+| area_code          = [[Area code 707|707]]
+| blank_name         = [[Federal Information Processing Standard|FIPS]] code
+| blank_info         = {{FIPS|06|81554}}
+| blank1_name        = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info        = {{GNIS 4|277624}}, {{GNIS 4|2412139}}
+| website            = {{Official website|www.cityofvacaville.com}}
+| population_density_km2 = 1331.73
+}}
+
+'''Vacaville''' is a city located in [[Solano County, California]], United States.  It is located {{convert|35|mi|km}} from [[Sacramento, California|Sacramento]] and {{convert|55|mi|km}} from [[San Francisco]], it is on the edge of the [[Sacramento Valley]] in [[Northern California]]. The city was founded in 1851 and is named after Juan Manuel Vaca.<ref>{{Cite web |title=Vacaville's History |url=https://www.ci.vacaville.ca.us/about-us/vacaville-s-history |access-date=March 11, 2023 |website=City of Vacaville}}</ref>
+
+As of the [[2020 United States census|2020 census]], Vacaville had a population of 102,386, making it the third-largest city in Solano County.<ref name=":3">{{cite web|title=U.S. Census Bureau QuickFacts: Vacaville city, California|url=https://www.census.gov/quickfacts/fact/table/vacavillecitycalifornia/POP010220#POP010220|access-date=October 8, 2021|website=www.census.gov|language=en}}</ref>
+
+==History==
+Prior to European contact, the indigenous [[Patwin]] tribe lived in the area with the Ululato tribelet establishing a chiefdom around the Ululato village in what is now downtown Vacaville along the Ulatis Creek.<ref>{{cite web|url=https://www.ci.vacaville.ca.us/home/showpublisheddocument?id=6557  |title=Cultural resources|website=vacaville.ca.us|access-date=July 23, 2023}}</ref>
+
+The early settler pioneers of the land were Juan Manuel Cabeza Vaca and Juan Felipe Peña, who were awarded a {{convert|44,000|acre|ha|adj=on}} Mexican land grant in 1842.<ref name=":0">{{Cite news|last=Escalante|first=Eric|date=August 8, 2019|title=Why is it called Vacaville, CA? Here's how the city got its name.|work=KXTV|url=https://www.abc10.com/article/news/local/how-the-city-of-vacaville-got-its-name-in-california/103-9576f83c-b040-48a1-a614-7635a8911afd|access-date=April 29, 2020}}</ref><ref name=":1">{{Cite magazine | title=A City In Ceramics, Vacaville's Centennial Panels|url=https://issuu.com/vacavillemagazine/docs/pages51-66|access-date=June 22, 2020| via= issuu.com |magazine= Vacaville Magazine|pages=56–58|language=en}}</ref> The same year, Vaca and Peña's families settled in the area of Lagoon Valley.<ref name=":1" /> [[Peña Adobe|Peña's Adobe]] home is the oldest standing building, built in 1842, now at [[Peña Adobe Park]].<ref name=":1" />
+
+Discussions for the sale of a portion of land to [[William McDaniel (politician)|William McDaniel]] began in August 1850.<ref name=":2">{{cite book| url= https://books.google.com/books?id=R28UAAAAYAAJ&pg=PA317 | title= History of Solano County...and histories of its cities, towns...etc.| first= J. P. |last= Munro-Fraser| publisher= Wood, Alley & Co.| year= 1879| page= 317}}</ref> A written agreement was signed on December 13, 1851, forming a township, nine square miles of land were deeded to William McDaniel for $3,000, and the original city plans were laid out from that.<ref name=":0" /><ref name=":2" /> In the agreement, McDaniel's would name the new town after Juan Manuel Cabeza Vaca.<ref name=":1" />
+
+[[File:Pena Adobe - Vacaville, CA.JPG|thumb|[[Peña Adobe]] (1842), the oldest building in Vacaville, at [[Peña Adobe Park]]]]
+
+In 1880, Leonard Buck created the California Fruit Shipping Association, and the L.W. and F.H. Buck Company, an early company auctioning fruit in the state,<ref name=":1" /><ref>{{Cite book|url=https://books.google.com/books?id=U96P97P22o8C|title=California Fruit Grower (San Francisco, Calif.)|date=1908|publisher=Brainard N. Rowley|page=12|language=en}}</ref> and Vacaville was soon home to many large [[produce]] companies and local farms, which flourished due to the Vaca Valley's rich soil. Because of Vacaville's flourishing agricultural industry, as well as an increasing number of immigrants coming into the United States, Vacaville had a large Japanese and Chinese population. While their professions varied, many of these Japanese and Chinese worked for the fruit companies in Vacaville.<ref>{{cite news |title=VACAVILLE JAPANESE |url=https://cdnc.ucr.edu/?a=d&d=SFC18950618.2.6 |access-date=November 20, 2023 |publisher=San Francisco Call |date=June 18, 1895}}</ref>
+
+It officially became a city in 1892.<ref name=":1" />
+
+In 1885, the first grade school built was Ulatis School. In 1898, the town's first high school was built, [[Vacaville High School|Vacaville Union High School]].<ref name=":1" />
+[[File:Vacaville High School (1912), Vacaville, California.jpg|thumb|[[Vacaville High School]] in 1912]]
+
+In 1968, the [[Vacaville Heritage Council]] was established.
+
+In August 2020, parts of Vacaville were evacuated due to the [[LNU Lightning Complex fires|Hennessey Fire]], which resulted in the burning of over {{convert|315,000|acre|ha|0|abbr=on}} in five counties, including in Vacaville, where farms and homes were destroyed.<ref name="CALFIRE">{{cite web|title=Hennessey Fire Information|url=https://www.fire.ca.gov/incidents/2020/8/17/hennessey-fire/|website=fire.ca.gov|publisher=California Department of Forestry and Fire Protection|access-date=August 17, 2020|archive-date=August 18, 2020|archive-url=https://web.archive.org/web/20200818015057/https://www.fire.ca.gov/incidents/2020/8/17/hennessey-fire/|url-status=dead}}</ref>
+
+On August 29, 2022, a truck transporting tomatoes crashed on Interstate 80 in Vacaville, injuring four, splattering over 150,000 of the tomatoes onto the eastbound section of the freeway, and significantly delaying eastbound traffic for hours. The peculiarity of the freeway accident subsequently resulted in international news coverage.<ref>{{cite web|url=https://www.bbc.com/news/world-us-canada-62721021.amp |title=Truck spills 150,000 tomatoes causing California crash  |work=[[BBC News]] |date=July 22, 2022 |access-date=August 31, 2022}}</ref>
+
+==Geography==
+Vacaville is surrounded by the Vaca Mountains to the south and to the west and the Sacramento Valley to the north and to the east.
+
+A number of [[rare species|rare]] and [[endangered species]] occur in the Vacaville area. Endangered plants, which have historically occurred in the vernal pool areas in and around Vacaville include ''[[Legenre limosa]]'', ''[[Plagiobothrys hystriculus]]'', ''[[Downingia humilis]]'', Contra Costa goldfields (''[[Lasthenia conjugens]]''), and showy Indian clover (''[[Trifolium amoenum]]'').<ref>''Environmental Assessment for the Green Tree Assessment District'', Earth Metrics Inc Report 7690, City of Vacaville, March 1989</ref>  To this day [[Trifolium amoenum]] can still be found in [[Lagoon Valley Regional Park]].
+
+According to the [[United States Census Bureau]], the city has a total area of {{convert|28.6|sqmi|km2}}, of which 0.74% is covered by water. Excluding the [[Putah South Canal]] and minor local [[stream|creek]]s, the only significant body of water within the city is the {{convert|105|acre|km2|adj=on}} Lagoon Valley Lake.
+
+The unincorporated communities of [[Allendale, Solano County, California|Allendale]] and [[Elmira, California|Elmira]] are generally considered to be part of "greater" Vacaville.
+
+===Climate===
+Vacaville has a typical [[Mediterranean climate]] ([[Köppen climate classification|Köppen]] ''Csa'') with hot, dry summers and cool, wet winters. Characteristic of inland California, summers can get quite hot. Autumns are warm in the early part, but quickly cool down as the wet season approaches. Winters can be cool, and often foggy, but are mild compared to other regions. Spring is a rather pleasant season with fairly mild temperatures and not so much rain. The greater majority of precipitation falls in the autumn, winter, and spring, little to none in summer.
+
+The wettest year was 1983 with {{convert|48.9|in|mm}} and the driest year was 2012 with 5.0 inches. The most precipitation in one month was {{convert|19.83|in|mm}} in January 1916. The most precipitation in 24 hours was {{convert|6.10|in|mm}} on February 27, 1940. Snowfall is rare in Vacaville, but light measurable amounts have occurred, including {{convert|2.2|in|mm}} in January 1907 and {{convert|2.0|in|mm}} in December 1988.<ref>{{cite web|url=http://www.wrcc.dri.edu/cgi-bin/cliMAIN.pl?ca9200|title=VACAVILLE, CALIFORNIA|access-date=October 2, 2014}}</ref>
+
+{{Weather box
+|location = Vacaville, California, 1991–2020 normals, extremes 1998–present
+|single line = Yes
+
+|Jan record high F = 78
+|Feb record high F = 85
+|Mar record high F = 88
+|Apr record high F = 97
+|May record high F = 106
+|Jun record high F = 112
+|Jul record high F = 115
+|Aug record high F = 111
+|Sep record high F = 115
+|Oct record high F = 104
+|Nov record high F = 89
+|Dec record high F = 76
+
+|Jan avg record high F = 69.5
+|Feb avg record high F = 74.7
+|Mar avg record high F = 80.1
+|Apr avg record high F = 89.4
+|May avg record high F = 96.6
+|Jun avg record high F = 105.7
+|Jul avg record high F = 107.4
+|Aug avg record high F = 105.9
+|Sep avg record high F = 103.6
+|Oct avg record high F = 91.9
+|Nov avg record high F = 81.0
+|Dec avg record high F = 68.6
+|year avg record high F = 109.2
+
+|Jan high F = 57.6
+|Feb high F = 63.0
+|Mar high F = 68.5
+|Apr high F = 74.9
+|May high F = 82.8
+|Jun high F = 90.7
+|Jul high F = 97.3
+|Aug high F = 96.5
+|Sep high F = 91.9
+|Oct high F = 81.2
+|Nov high F = 67.0
+|Dec high F = 57.9
+|year high F =
+
+|Jan mean F = 48.6
+|Feb mean F = 52.6
+|Mar mean F = 56.6
+|Apr mean F = 61.5
+|May mean F = 67.8
+|Jun mean F = 74.2
+|Jul mean F = 78.7
+|Aug mean F = 78.0
+|Sep mean F = 74.7
+|Oct mean F = 66.5
+|Nov mean F = 55.8
+|Dec mean F = 48.7
+|year mean F =
+
+|Jan low F = 39.6
+|Feb low F = 42.2
+|Mar low F = 44.8
+|Apr low F = 48.0
+|May low F = 52.9
+|Jun low F = 57.7
+|Jul low F = 60.2
+|Aug low F = 59.5
+|Sep low F = 57.5
+|Oct low F = 51.8
+|Nov low F = 44.5
+|Dec low F = 39.5
+|year low F =
+
+|Jan avg record low F = 27.3
+|Feb avg record low F = 30.9
+|Mar avg record low F = 34.3
+|Apr avg record low F = 37.5
+|May avg record low F = 44.2
+|Jun avg record low F = 49.1
+|Jul avg record low F = 52.9
+|Aug avg record low F = 52.7
+|Sep avg record low F = 47.0
+|Oct avg record low F = 40.9
+|Nov avg record low F = 31.4
+|Dec avg record low F = 26.9
+|year avg record low F = 24.7
+
+|Jan record low F = 18
+|Feb record low F = 16
+|Mar record low F = 26
+|Apr record low F = 27
+|May record low F = 30
+|Jun record low F = 36
+|Jul record low F = 40
+|Aug record low F = 36
+|Sep record low F = 32
+|Oct record low F = 23
+|Nov record low F = 19
+|Dec record low F = 14
+
+|precipitation colour = green
+|Jan precipitation inch = 5.55
+|Feb precipitation inch = 5.14
+|Mar precipitation inch = 3.37
+|Apr precipitation inch = 1.23
+|May precipitation inch = 0.78
+|Jun precipitation inch = 0.22
+|Jul precipitation inch = 0.00
+|Aug precipitation inch = 0.06
+|Sep precipitation inch = 0.13
+|Oct precipitation inch = 1.01
+|Nov precipitation inch = 2.44
+|Dec precipitation inch = 5.67
+|year precipitation inch = 25.60
+
+|unit precipitation days = 0.01 in
+|Jan precipitation days = 12.0
+|Feb precipitation days = 11.0
+|Mar precipitation days = 8.4
+|Apr precipitation days = 5.0
+|May precipitation days = 3.7
+|Jun precipitation days = 1.1
+|Jul precipitation days = 0.1
+|Aug precipitation days = 0.2
+|Sep precipitation days = 0.5
+|Oct precipitation days = 2.6
+|Nov precipitation days = 6.5
+|Dec precipitation days = 10.5
+
+|Jan snow inch = 
+|Feb snow inch = 
+|Mar snow inch = 
+|Apr snow inch = 
+|May snow inch = 
+|Jun snow inch = 
+|Jul snow inch = 
+|Aug snow inch = 
+|Sep snow inch = 
+|Oct snow inch = 
+|Nov snow inch = 
+|Dec snow inch = 
+|year snow inch =
+
+|unit snow days = 0.1 in
+|Jan snow days = 
+|Feb snow days = 
+|Mar snow days = 
+|Apr snow days = 
+|May snow days = 
+|Jun snow days = 
+|Jul snow days = 
+|Aug snow days = 
+|Sep snow days = 
+|Oct snow days = 
+|Nov snow days = 
+|Dec snow days =
+
+|source 1 = NOAA<ref name = NOAA>
+{{cite web
+|url = https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USC00049200&format=pdf&dataTypes=MLY-TMAX-NORMAL,MLY-TMIN-NORMAL,MLY-TAVG-NORMAL,MLY-PRCP-NORMAL,MLY-SNOW-NORMAL
+|publisher = National Oceanic and Atmospheric Administration
+|title = U.S. Climate Normals Quick Access – Station: Vacaville, CA
+|access-date = May 23, 2023
+}}
+</ref>
+|source 2 = National Weather Service (mean maxima/minima 2006&ndash;2020)<ref name = NOWData>
+{{cite web
+|url = https://www.weather.gov/wrh/climate?wfo=sto
+|publisher = National Weather Service
+|title = NOAA Online Weather Data – NWS Sacramento
+|access-date = May 23, 2023
+}}
+</ref>
+}}
+
+==Demographics==
+{{US Census population
+|1870= 343
+|1880= 361
+|1890= 725
+|1900= 1220
+|1910= 1177
+|1920= 1254
+|1930= 1556
+|1940= 1614
+|1950= 3169
+|1960= 10898
+|1970= 21690
+|1980= 43367
+|1990= 71479
+|2000= 88625
+|2010= 92428
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref>
+
+2020 U.S. Census<ref>{{cite web|url=https://www.census.gov/quickfacts/fact/table/vacavillecitycalifornia/PST045219|title=2020 U.S. Census}}</ref>
+|2020=102386}}
+
+=== 2020 ===
+{| class="wikitable" style="text-align:center;"
+|+'''Vacaville, California – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Vacaville, California |url=https://data.census.gov/table?g=160XX00US0681554&tid=DECENNIALSF12000.P004|publisher=[[United States Census Bureau]] |access-date= }}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Vacaville, California|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US0681554&tid=DECENNIALPL2010.P2|publisher=[[United States Census Bureau]] |access-date= }}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Vacaville, California |url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US0681554&tid=DECENNIALPL2020.P2|publisher=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|56,031
+|50,811
+|style='background: #ffffe6; |47,338
+|63.22%
+|54.97%
+|style='background: #ffffe6; |46.23%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|8,691
+|9,187
+|style='background: #ffffe6; |9,386
+|9.81%
+|9.94%
+|style='background: #ffffe6; |9.17%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|608
+|510
+|style='background: #ffffe6; |395
+|0.69%
+|0.55%
+|style='background: #ffffe6; |0.39%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|3,580
+|5,378
+|style='background: #ffffe6; |8,800
+|4.04%
+|5.82%
+|style='background: #ffffe6; |8.59%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|360
+|436
+|style='background: #ffffe6; |663
+|0.41%
+|0.47%
+|style='background: #ffffe6; |0.65%
+|-
+|[[Race and ethnicity in the United States census|Other Race]] alone (NH)
+|169
+|765
+|style='background: #ffffe6; |665
+|0.19%
+|0.83%
+|style='background: #ffffe6; |0.65%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|3,339
+|4,220
+|style='background: #ffffe6; |7,737
+|3.77%
+|4.57%
+|style='background: #ffffe6; |7.56%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|15,847
+|21,121
+|style='background: #ffffe6; |27,402
+|17.88%
+|22.85%
+|style='background: #ffffe6; |26.76%
+|-
+|'''Total'''
+|'''88,625'''
+|'''92,428'''
+|style='background: #ffffe6; |'''102,386'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+According to the 2020 United States Census, Vacaville had a population of 102,386.<ref name=":3" /> During the period 2015–2019, on average, 2.81 people lived in a household.<ref name=":3" /> The American Community Survey estimated the population identified as 50.5% non-Hispanic White, 24.8% Hispanic or Latino, 10.1% Black or African-American, 8.1% of two or more races, 7.8% Asian, 0.9% native Hawaiian or other Pacific Islander, and 0.7% American Indian or Alaska Native.<ref name=":3" /> The same survey estimated that 22.7% of the population was under 18 and 14% was over 65 years old.<ref name=":3" />
+
+===2010===
+The [[2010 United States Census]]<ref>{{cite web|url=http://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0681554|archive-url=https://archive.today/20140715033700/http://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0681554|url-status=dead|archive-date=July 15, 2014|title=2010 Census Interactive Population Search: CA - Vacaville city|publisher=U.S. Census Bureau|access-date=July 12, 2014}}</ref> reported that Vacaville had a population of 92,428. The population density was {{convert|3,233.5|PD/sqmi|PD/km2|sp=us|adj=off}}. The [[Race (United States Census)|racial makeup]] of Vacaville was 66.3% White, 10.3% African American, 0.9% Native American, 6.1% Asian (3.3% Filipino, 0.7% Chinese, 0.6% Indian, 0.5% Japanese, 0.3% Vietnamese, 0.3% Korean), 0.6% Pacific Islander, 8.8% from other races, and 7.0% from two or more races. Hispanics or Latinos of any race were 22.9% of the population (17.0% of Mexican, 0.9% Puerto Rican, 0.5% Salvadoran, 0.3% Nicaraguan, 0.2% Guatemalan, and 0.2% Peruvian descent).
+
+The census reported that 91.3% of the population lived in households and 8.6% were institutionalized.
+
+Of the 31,092 households, 37.8% had children under 18 living in them, 52.6% were opposite-sex married couples living together, 13.1% had a female householder with no husband present, 5.4% had a male householder with no wife present, 6.1% were [[POSSLQ|unmarried opposite-sex partnerships]], and 0.7% were [[same-sex partnerships|same-sex married couples or partnerships]]; 7,053 households (22.7%) were made up of individuals, and 2,689 (8.6%) had someone living alone who was 65 or older. The average household size was 2.71. The city had 22,101 [[family (U.S. Census)|families]] (71.1% of all households); the average family size was 3.19.
+
+The age distribution was 23.3% under 18, 9.7% from 18 to 24, 28.4% from 25 to 44, 28.1% from 45 to 64, and 10.5% who were 65 or older. The median age was 37.2 years. For every 100 females, there were 112.5 males. For every 100 females 18 and over, there were 115.1 males.
+
+The 32,814 housing units had an average density of {{convert|1,148.0|/mi2|/km2|disp=preunit|units&nbsp;|units|}}, of which 63.4% were owner-occupied and 36.6% were occupied by renters. The homeowner vacancy rate was 2.1%; the rental vacancy rate was 6.8%. About 59.0% of the population lived in owner-occupied housing units and 32.3% lived in rental housing units.
+
+===2000===
+As of the 2000 census<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=January 31, 2008|title=U.S. Census website}}</ref> 88,625 people were living in the city. The population density was {{convert|1,263.6|/km2|/mi2|abbr=on}}. The 28,696 housing units had an average density of {{convert|409.1|/km2|/mi2|abbr=on}}. The [[Race (U.S. Census)|racial makeup]] of the city was 72.11% White, 10.02% African American, 0.97% Native American, 4.18% Asian, 0.45% Pacific Islander, 6.74% from other races, and 5.53% from two or more races. About 17.9% of the population were Hispanics or |Latinos of any race.
+
+Of the 28,105 households, 20,966 were families, 41.4% had children under 18 living with them, 57.0% were married couples living together, 12.4% had a female householder with no husband present, and 25.4% were not families. About 19.2% of all households were made up of individuals, and 6.4% had someone living alone who was 65 or older. The average household size was 2.83, and the average family size was 3.24.
+
+The median age was 34 years, and the age distribution of the population was 27.0% under 18, 9.0% from 18 to 24, 35.4% from 25 to 44, 20.3% from 45 to 64, and 8.3% who were 65 or older. For every 100 females, there were 118.4 males. For every 100 females 18 and over, there were 124.7 males.
+[[File:Summer Hillside.jpg|thumb|right|200px|Vacaville Hills during summer]]
+
+===Personal income===
+According to the city of Vacaville, in 2019/2020, median household income was $82,513, which was 39% above the national average and 19% higher than the state average.
+
+In 2007, the median income for a family was $63,950. Also in 2007, males had a median income of $43,527 versus $31,748 for females and per capita income for the city was $21,557. About 6.1% of the population and 4.3% of families lived below the poverty line. Of the total population, 7.4% of those under 18 and 4.8% of those 65 and older lived below the poverty line.<ref>{{cite web|url=http://63.192.157.117/specials/source/pages/vacaville.html |title=Vacaville Information |access-date=October 2, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20071008232524/http://63.192.157.117/specials/source/pages/vacaville.html |archive-date=October 8, 2007 }}</ref>
+
+==Economy==
+===Industry===
+Biotechnology/pharmaceutical facilities are operated by [[Genentech]], [[ALZA Corporation]], [[Kaiser Permanente]], and [[Novartis|Novartis International AG]]. On May 14, 2014, [[ICON Aircraft]] announced they would consolidate all company functions in a new 140,000-square-foot facility in Vacaville.<ref>"[http://generalaviationnews.com/2014/05/14/icon-to-relocate-to-vacaville/ ICON to relocate to Vacaville]" ''General Aviation News'', May 14, 2014. Accessed: May 15, 2014.</ref> Two state prisons are located in Vacaville: [[California State Prison, Solano]] and [[California Medical Facility]]. The latter houses inmates undergoing medical treatments. On June 1, 2023, Roche announced that it was looking to sell its 800-employee drug manufacturing plant in Vacaville, California, or shut down the factory by 2029.<ref>{{Cite news |last=Erman |first=Michael |date=June 1, 2023 |title=Exclusive: Roche looking to sell or shut down California biologic drug plant |language=en |work=Reuters |url=https://www.reuters.com/business/healthcare-pharmaceuticals/roche-looking-sell-vacaville-california-plant-email-2023-05-31/ |access-date=June 1, 2023}}</ref>
+
+===Top employers===
+
+According to the city's 2021 Comprehensive Annual Financial Report,<ref>{{Cite web |date=June 30, 2023 |title=Annual Comprehensive Financial Report |url=https://www.ci.vacaville.ca.us/home/showpublisheddocument/20429/637871722748570000 |access-date=March 11, 2023 |website=City of Vacaville |format=PDF}}</ref> the top employers in Vacaville (excluding government agencies) are:
+
+{| class="wikitable sortable"
+|-
+! #
+! Employer
+! # of Employees
+|-
+| 1
+|[[Kaiser Permanente]]
+|1,179
+|-
+|2
+|[[Amazon (company)|Amazon]]
+|1,083
+|-
+|3
+|[[Genentech]]
+|766
+|-
+|4
+|Blue Mountain Construction Services, Inc.
+|400
+|-
+|5
+|Mariani Packing Co., Inc.
+|350
+|-
+|6
+|Simonton Windows
+|320
+|-
+|7
+|M&G Duravent, Inc.
+|302
+|-
+|8
+|[[Costco]]
+|273
+|-
+|9
+|[[Alza]]
+|250
+|-
+|10
+|[[Walmart]]
+|250
+|}
+Public agencies also constitute major employers; however, the city does not include them in its financial reports because they do not collect employee information through the business license renewal process. Major public employers in Vacaville include the [[California Department of Corrections and Rehabilitation|California State Department of Corrections]], Vacaville Unified School District, the [[State Compensation Insurance Fund]], and the City of Vacaville.
+
+== Arts and culture ==
+[[File:Nut Tree 824 - panoramio.jpg|thumb|Nut Tree Plaza in Vacaville]]
+Between 1992 and 1995, local artist [[Guillermo Wagner Granizo]] installed 20 outdoor ceramic-tile murals, set into three freestanding walls near City Hall, entitled, "Vacaville Centennial".<ref>{{cite web|title=Public Art in Vacaville|url=https://www.garsondesign.com/photos/2000-2009/2006/2006_0403vacaville/CityPublicArtBrochure.pdf|publisher=Community Service Commission, Cultural Arts Advisory Committee}}</ref><ref name=":1" /> The murals depict various aspects of the history of the city of Vacaville, including the early pioneers Juan Manuel Vaca, Juan Felipe Peña, and William McDaniel, the early fruit industry, the first schools, Peña Adobe Park, the [[Nut Tree]] (a 1920s roadside fruit and nut stand), various parades, the annual tree lighting ceremony, "Hamburger Hill", and the factory outlet stores, among others.<ref name=":1" />
+
+The city includes several historic buildings and places, including [[Peña Adobe]], [[Will H. Buck House]], [[Pleasants Ranch]], and [[Vacaville Town Hall]].
+
+The Vacaville Cultural Center, located at the southeast corner of Allison Drive and Ulatis Drive, houses a regional library, the Vacaville Performing Arts Theatre, an outdoor garden, and rentable event space.
+
+The city's libraries are operated by Solano County Library. The Vacaville Town Square Library is located within downtown, north of Main Street and east of Dobbins Road. The Vacaville Cultural Center Library is located within the Cultural Center facility at the southeast corner of Allison Drive and Ulatis Drive.
+
+The Vacaville Art Gallery, located north of Andrews Park along East Monte Vista Avenue, provides exhibitions for local artists and community members.<ref>{{Cite web |title=Home |url=https://www.vacavilleartgallery.org/ |access-date=March 11, 2023 |website=Vacaville Art League and Gallery}}</ref>
+
+===Tourism===
+
+[[File:Nut Tree 832 - panoramio.jpg|thumb|Nut Tree chessboard]]
+
+The city holds an annual Vacaville Fiesta Days celebration downtown, including a parade that features the public-school marching bands, gymnasts, and an electric car showcase, among other things.<ref>{{cite web |title=Home |url=https://www.vacavillefiestadays.org/ |access-date=March 11, 2023 |website=Vacaville Fiesta Days}}</ref>  Other sites for tourists include the [[Premium Outlets|Vacaville Premium Outlets]] and [[the Nut Tree]], which is home to a train for children, a carousel, and a life-size chessboard, as well as numerous stores and dining establishments. Every Friday during the summer, the city holds the CreekWalk Concert Series in downtown Vacaville. Every December, the city holds a Festival of Trees in the ice skating rink and the Tree Lighting Ceremony, in which residents gather downtown to see a {{convert|50|ft|m|adj=on}} tree illuminate and enjoy festive music played by the Jepson Band, hot chocolate, and horse-drawn carriage rides. The Jimmy Doolittle Center at the Nut Tree Airport displays aircraft from as early as 1912 and is home to the Jimmy Doolittle Shell Lockheed Vega. Displays also include personal items of General Doolittle and items related to the Doolittle Raid of 1942.
+
+==Parks and recreation ==
+Regional and community parks include:
+* Centennial Park, a 265-acre community park<ref>{{Cite web |title=Centennial Park |url=https://www.ci.vacaville.ca.us/government/parks-and-recreation/parks-fields/centennial-park |access-date=March 11, 2023 |website=City of Vacaville}}</ref> featuring baseball fields, tennis courts, soccer fields, and trails.
+*Graham Aquatic Center.
+*[[Lagoon Valley Park]], a 306-acre regional park located within Lagoon Valley.<ref>{{Cite web |title=Lagoon Valley Park |url=https://www.ci.vacaville.ca.us/government/parks-and-recreation/parks-fields/lagoon-valley-park |access-date=March 11, 2023 |website=City of Vacaville}}</ref> The park is centered around a 100-acre lagoon, and features disc golf, trails, archery, and recreational sites. The park also houses the Peña Adobe Historical Area, which includes the historic [[Peña Adobe]] home and the Mowers-Goheen Museum.{{cn|date=September 2024}}
+
+==Government==
+
+Vacaville is governed by a seven-member City Council with six elected by district, and one mayor elected at large. Each serving four year terms. Current alignment is Presidential Election: District 1, 3, 5. Gubernatorial Election: Mayor and District 2, 4, 6.  The mayor is John Carli (elected 2022).
+
+Vacaville is represented by California Assembly District 11 - [[Lori Wilson (California politician)|Lori Wilson]], California State Senate District 3 - [[Bill Dodd (California politician)|Bill Dodd]], and primarily by Congressional District 4 - [[Mike Thompson (California politician)|Mike Thompson]], however, a small portion in the east and southeast portion of the city is represented by Congressional District 8 - [[John Garamendi]].
+
+As of September 2022, there were 58,240 registered voters in Vacaville; of these, 22,198 (38.1%) are Democrats, 17,873 (30.7%) are Republicans, and 12,959 (22.3%) stated no party preference.<ref>{{Cite web |date=September 9, 2022 |title=Registration by Political Subdivision by County |url=https://elections.cdn.sos.ca.gov/ror/60day-general-2022/politicalsub.pdf |access-date=March 11, 2023 |website=California Secretary of State}}</ref>
+
+==Education==
+
+Vacaville is served by two public school districts: Vacaville Unified School District and [[Travis Unified School District]]. The city is also served by a community college district, private schools and colleges.
+
+===Vacaville Unified School District===
+The Vacaville Unified School District (VUSD) includes the following campuses:
+
+==== High schools ====
+* [[Buckingham Charter Magnet High School|Buckingham Collegiate Charter Academy]]<ref>{{cite web |title=Buckingham Collegiate Charter Academy |url=http://www.buckingham.schoolloop.com/ |access-date=September 1, 2020 |publisher=Vacaville Unified School District |via=schoolloop.com |archive-date=March 7, 2019 |archive-url=https://web.archive.org/web/20190307173811/http://www.buckingham.schoolloop.com/ |url-status=dead }}</ref>
+* Ernest Kimme Academy for Independent Learners (K–12)
+* Ernest Kimme Work Readiness and Alternative Pathway (Grades 7–12)
+* [[Vacaville High School]]<ref>{{cite web |title=Vacaville High School |url=https://vhs.schoolloop.com/ |access-date=September 1, 2020 |publisher=Vacaville Unified School District |via=schoolloop.com}}</ref>
+* [[Will C. Wood High School]]<ref>{{cite web |title=Will C. Wood High School |url=https://wcw.schoolloop.com/ |access-date=September 1, 2020 |publisher=Vacaville Unified School District |via=schoolloop.com}}</ref>
+
+==== Middle schools ====
+* Ernest Kimme Academy for Independent Learners (K-12)
+* Kairos Public Schools Vacaville Academy (Charter School)
+* Sierra Vista K-8
+* Vaca Peña Middle School
+* Willis Jepson Middle School
+
+====Elementary schools====
+* Ace Program
+* Alamo Elementary School
+* Browns Valley Elementary School
+* Cooper Elementary School
+* Edwin Markham Elementary School
+* Ernest Kimme Academy for Independent Learners (K-12)
+* Eugene Padan Elementary School
+* Fairmont Charter Elementary School
+* Hemlock Elementary School
+* Jean Callison Elementary
+* Kairos Public Schools Vacaville Academy (K-8)
+* Orchard Elementary
+* Sierra Vista K-8
+
+==== Alternate schools and programs ====
+
+* Ernest Kimme Charter Academy for Independent Learning
+* Muzetta Thrower Adult Education Center
+
+===Travis Unified School District===
+The Travis Unified School District (TUSD), which serves [[Travis Air Force Base|Travis Air Force Base (TAFB)]] and parts of Fairfield and Vacaville, includes the following campuses:
+* Cambridge Elementary School
+* Foxboro Elementary School
+* Center Elementary School (Fairfield)
+* [[Scandia, Solano County, California|Scandia Elementary School]] (TAFB)
+* Travis Elementary School (TAFB)
+
+Its campuses serving Vacaville secondary students are:
+* Golden West Middle School (Fairfield)
+* [[Vanden High School]] (Fairfield)
+
+===Private schools===
+Private institutions with campuses in Vacaville are:
+* Bethany Lutheran Preschool and Elementary School
+* Centurion Christian Classical School
+* Notre Dame Parochial School ([[Independent school|Catholic Private School K-8]])
+* Vacaville Adventist (Seventh-day Adventist)
+* Vacaville Christian Schools (preschool through 12th grade)
+*The Academy of 21st Century Learning
+
+===Colleges and universities===
+Vacaville is within the [[Solano Community College]] District. The Vacaville campus, located along North Village Parkway, features a 70-seat lecture hall, classrooms, science and computer laboratories, and a multipurpose room for theater arts and physical education.<ref>{{Cite web |title=Vacaville Center |url=https://welcome.solano.edu/vacaville/ |access-date=March 11, 2023 |website=Solano Community College}}</ref> As part of the college's Bachelor's of Biomanufacturing degree program, the campus also contains the Biotechnology and Science Building, which houses four biotech labs, two chemistry labs, two biology labs, and a wet and dry anatomy lab. Among others, it offers an associate degree in biotechnology, which could lead to employment with local industries.
+
+== Media ==
+Radio station [[KUIC]] is based in Vacaville.
+
+The [[The Reporter (Vacaville)|Vacaville Reporter]] is a local daily newspaper. The [[Daily Republic]], based in Fairfield, also provides local news coverage on Vacaville.
+
+==Infrasructure==
+=== Transportation ===
+[[Interstate 80 in California|Interstate 80]] passes through Vacaville, connecting [[San Francisco]] to the southwest and [[Sacramento, California|Sacramento]] to the northeast. [[Interstate 505]] branches off Interstate 80, connecting Vacaville to Winters before eventually reaching [[Interstate 5 in California|Interstate 5]] to the north.
+
+The [[Fairfield/Vacaville (Amtrak station)|Fairfield-Vacaville Hannigan station]], located east of Peabody Road in neighboring Fairfield, serves Vacaville and Fairfield. The station opened in November 2017. The station is served by ''[[Capitol Corridor]]'' trains operated by [[Amtrak California]].
+
+The [[Vacaville Transportation Center]], located along Allison Drive and adjacent to Interstate 80, is the main hub for commuters via bus as well as vanpools and park-and-ride to the Sacramento area and the San Francisco Bay Area. [[Vacaville City Coach]] provides local bus service. SolanoExpress, which is operated by [[SolTrans]], provides intercity connections to Fairfield, Benicia, Davis, [[Walnut Creek station|Walnut Creek BART]], and Sacramento.
+
+The Nut Tree Airport is located in Vacaville and is operated by the Solano County General Services Department.<ref>{{Cite web |title=Nut Tree Airport |url=https://www.solanocounty.com/depts/genserv/nta/ |access-date=March 11, 2023 |website=Solano County}}</ref>
+
+===Hospitals===
+The city includes two hospitals, [[NorthBay VacaValley Hospital]], a 50-bed facility whose campus also includes the NorthBay Cancer Center and HealthSpring Fitness Center, and the [[Kaiser Permanente Vacaville Medical Center]], a hospital and trauma center.{{citation needed|date=April 2021}}
+
+==Notable people==<!-- PLEASE RESPECT ALPHABETICAL ORDER -->
+<span style="color:blue;">'''(B)'''</span> denotes that the person was born in Vacaville.
+* [[Arthur Adams (comics)|Arthur Adams]] (born 1963), comic-book artist known for  ''[[Longshot (Marvel Comics)|Longshot]]'' and ''[[Monkeyman and O'Brien]]''<ref name="CBA#17">Cooke, Jon B. [http://www.twomorrows.com/comicbookartist/articles/17adams.html "The Art of Arthur Adams"], Reprinted from ''Comic Book Artist'' No. 17, November 15, 2001</ref><ref name=ModernMasters>George Khoury and Eric Nolen-Weathington. ''Modern Masters Volume Six: Arthur Adams'', 2006, TwoMorrows Publishing.</ref>
+* Brothers Wayne and [[Trent Gardner]] - founders and members of American prog metal band [[Magellan (band)|Magellan]]
+* [[Dennis Alexio]] (born 1959) – [[Kickboxing|kickboxer]], eight-time world champion<span style="color:blue;"> '''(B)'''</span>
+* [[Fight Fair|Chris Begley]] – member of the band [[Fight Fair]]<ref>{{cite web |url=http://www.myspace.com/chrissbegley |title=Archived copy |access-date=March 8, 2010 |archive-date=March 18, 2009 |archive-url=https://web.archive.org/web/20090318090201/http://www.myspace.com/chrissbegley |url-status=dead }}</ref><ref>{{cite web|url=https://www.myspace.com/fightfair|title=Fight Fair|work=Myspace|access-date=October 2, 2014}}</ref>
+* [[Andy Bloom (athlete)|Andy Bloom]] (born 1973) - Olympic shot putter, NCAA champion in shot put and discus
+* [[Frank H. Buck]] - politician, fruit baron, developer of [[Beverly Hills, California]] <span style="color:blue;"> '''(B)'''</span>
+* [[Jarrett Bush]] – [[NFL]] player, [[Green Bay Packers]], [[Will C. Wood High School]] alumnus<span style="color:blue;"> '''(B)'''</span><ref>{{cite web | title=Players: Jarrett Bush| url=http://www.packers.com/team/players/bush_jarrett/ | archive-url=https://web.archive.org/web/20080415175552/http://www.packers.com/team/players/bush_jarrett/ | work=The Official website of the Green Bay Packers | publisher=Green Bay Packers, Inc. | year=2009 | access-date=May 3, 2009|archive-date=April 15, 2008}}</ref>
+* [[Kyle DeVan]] – [[offensive guard]] for [[Indianapolis Colts]]<ref>{{cite web|title=The Official website of the Indianapolis Colts|url=http://www.colts.com/sub.cfm?page=depth&pos_id=34|access-date=April 18, 2011}}</ref>
+* [[Jermaine Dye]] – Major League Baseball player; [[2005 World Series]] MVP with the [[Chicago White Sox]]<span style="color:blue;"> </span><ref>
+{{cite web | title=Jermaine Dye: Stats, Bio, Photos, Highlights | url=http://mlb.mlb.com/team/player.jsp?player_id=113679 | work=The Official website of the Chicago White Sox | publisher=MLB Advanced Media | year=2009 | access-date=May 3, 2009}}</ref>
+* [[Tony Gonsolin]] - Pitcher for the [[Los Angeles Dodgers]] <span style="color:blue;"> '''(B)'''</span>
+* [[Xzavie Jackson]] – [[defensive end]] for [[Cincinnati Bengals]]<ref>
+{{cite web | title=Player Bio:Xzavie Jackson | url=http://mutigers.cstv.com/sports/m-footbl/mtt/jackson_xzavie00.html | work=The Official Athletic Website of the University of Missouri | publisher=CBS Interactive | year=2009 | access-date=May 3, 2009}}</ref><ref>
+{{cite web | title=Player Bio:Xzavie Jackson | url=http://www.philadelphiaeagles.com/team/player110.html | work=The Official website of the Philadelphia Eagles | publisher=Philadelphia Eagles | year=2008 | access-date=May 3, 2009 | archive-url=https://archive.today/20070702083254/http://www.philadelphiaeagles.com/team/player110.html | archive-date=July 2, 2007 | url-status=dead | df=mdy-all }}</ref>
+* [[Stefan Janoski]] - skateboarder
+* [[Willis Linn Jepson]] - botanist and conservationist <span style="color:blue;"> '''(B)'''</span>
+* [[Josh Kaddu]] - linebacker for the [[Miami Dolphins]]
+* [[Bonnie McKee]] - pop singer and songwriter<span style="color:blue;"> '''(B)'''</span>
+* [[Tawny Newsome]] - actress, comedienne, and musician; voices [[Beckett Mariner]] on ''[[Star Trek: Lower Decks]]''<span style="color:blue;"> '''(B)'''</span>
+* [[Vince Newsome]] - [[NFL]] player for [[Los Angeles Rams]], [[Cleveland Browns]], [[Baltimore Ravens]]; in 1983, became first Vacaville resident drafted into [[NFL]]<ref>{{cite web|title=Vacaville Football, Bulldogs in the Pros|url=http://www.vacavillefootball.com/pros.htm|access-date=June 16, 2015}}</ref>
+* [[Frank Parker (actor)|Frank Parker]] - actor, played Grandpa [[Shawn Brady]] on ''[[Days of Our Lives]]''
+* [[Papa Roach]] – rock band
+*[[Aaron Pauley]] - bassist and vocalist of rock band [[Of Mice & Men (band)|Of Mice & Men]]
+* [[Michael Polenske]] - vintner<ref name=Sardar>{{cite journal|last=Sardar|first=Zahid|title=From city to rusticity|journal=Rosewood Magazine|date=May 2010|pages=78–80|url=http://www.blackbirdvineyards.com/included/docs/articles/1005_rosewood.pdf|access-date=June 4, 2013|archive-date=January 2, 2014|archive-url=https://web.archive.org/web/20140102191138/http://www.blackbirdvineyards.com/included/docs/articles/1005_rosewood.pdf|url-status=dead}}</ref>
+* [[Purv Pullen|A. Purves Pullen]] (a.k.a. Dr. Birdbath) – voice actor known for mimicking birds and animals, including bird sounds in the Disney film ''[[Snow White and the Seven Dwarfs (1937 film)|Snow White and the Seven Dwarfs]]''
+* [[Jacoby Shaddix]] – lead singer of rock band [[Papa Roach]]<ref>
+{{cite web | title=Jacoby Shaddix-Biography | url=http://www.uk.imdb.com/name/nm1260449/bio | work=Internet Movie Database | publisher=IMDB.com | year=2009 | access-date=May 3, 2009}}</ref>
+* [[Casey Sheehan]] – awarded Bronze Star with Palm Fronds posthumously for actions in Iraq on April 4, 2004<ref>
+{{cite news | first=Joe | last=Garofoli | title=Portraits of Sacrifice – Casey Sheehan: Vacaville | url=http://www.sfgate.com/cgi-bin/article/article?f=/c/a/2007/03/18/INGO0OEM1F1.DTL | work=San Francisco Chronicle | publisher=Hearst Communications, Inc | date=March 18, 2007 | page=E4 | access-date=May 3, 2009}}</ref>
+* [[Cindy Sheehan]] – political activist<ref>
+{{cite web | title=Meet Cindy | url=http://www.cindysheehanforcongress.com/article.php?list=type&type=19 | publisher=Cindy Sheehan for Congress | year=2008 | access-date=May 3, 2009}}</ref>
+* [[Jessica Sierra]] - singer<ref>"Season 1 Revisited."  ''Celebrity Rehab with Dr. Drew''. Hst. Dr. Drew Pinsky. VH1. November 20, 2011.</ref>
+* [[Robyn Stevens]] (born 1983) - race walker
+* [[Carson Strong]] - football quarterback for the [[Michigan Panthers (2022)|Michigan Panthers]]<span style="color:blue;"> '''(B)'''</span>
+* [[Greg Tagert]] - baseball manager
+* [[Mykal Walker]] - NFL linebacker for the [[Atlanta Falcons]]
+* [[Thomas Williams (American football)|Thomas Williams]] – [[linebacker]] for [[USC Trojans]] and NFL<ref>{{cite web | title=Thomas Williams Bio | url=http://www.jaguars.com/Team/Player.aspx?id=2790 | work=The Official website of the Jacksonville Jaguars | publisher=National Football League | year=2008 | access-date=May 3, 2009 | archive-url=https://web.archive.org/web/20090503091848/http://jaguars.com/Team/Player.aspx?id=2790 | archive-date=May 3, 2009 | url-status=dead | df=mdy-all }}</ref><ref>{{cite web | title=Player Bio:Thomas Williams | url=http://usctrojans.cstv.com/sports/m-footbl/mtt/williams_thomas00.html | work=Official USC Website | publisher=USC | year=2008 | access-date=May 3, 2009 | archive-url=https://web.archive.org/web/20090526035048/http://usctrojans.cstv.com/sports/m-footbl/mtt/williams_thomas00.html | archive-date=May 26, 2009 | url-status=dead }}</ref>
+* [[Luzena Wilson]] - [[California Gold Rush]] entrepreneur and memoirist
+
+==See also==
+{{Portal|San Francisco Bay Area}}
+*[[1892 Vacaville–Winters earthquakes]]
+*[[Nut Tree Airport]]
+*[[Rancho Los Putos]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{commons category|Vacaville, California}}
+{{Wikivoyage|Vacaville}}
+* {{Official website}}
+* [http://visitvacaville.org/ Vacaville Visitor's Bureau]
+
+{{SF Bay Area}}
+{{Solano County, California}}
+{{California}}
+
+{{authority control}}
+
+[[Category:Vacaville, California| ]]
+[[Category:1892 establishments in California]]
+[[Category:Incorporated cities and towns in California]]
+[[Category:Cities in Solano County, California]]
+[[Category:Cities in the San Francisco Bay Area]]
+[[Category:Populated places established in 1892]]

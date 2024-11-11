@@ -1,0 +1,509 @@
+{{Short description|Municipality in Rizal, Philippines}}
+{{More citations needed|date=September 2014}}
+{{Infobox settlement
+| name                   = {{PH wikidata|name}}
+| image_skyline          = 121San Isidro, Angono, Rizal 25.jpg
+| image_caption          = Angono Municipal Hall
+| image_flag             = Flag_of_Angono,_Rizal.png
+| flag_size              = 120x80px
+| image_seal             = Angono Rizal.png
+| seal_size              = 100x80px
+| image_map              = {{PH wikidata|image_map}}
+| map_caption            = {{PH wikidata|map_caption}}
+| image_map1             = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map            = Philippines
+| pushpin_label_position = left
+| pushpin_map_caption    = Location within the {{PH wikidata|country}}
+| coordinates            = {{PH wikidata|coordinates}}
+| settlement_type        = {{PH wikidata|settlement_type}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = [[Philippines]]
+| subdivision_type1      = [[Regions of the Philippines|Region]]
+| subdivision_name1      = {{PH wikidata|region}}
+| subdivision_type2      = [[Provinces of the Philippines|Province]]
+| subdivision_name2      = {{PH wikidata|province}}
+| official_name          = {{PH wikidata|official_name}}
+| etymology              =  <!--origin of name-->
+| named_for              =  <!--named after (if person or place)-->
+| native_name            =
+| other_name             =
+| nicknames               = 
+{{plainlist|
+* ''Art Capital of the Philippines''
+* ''Home of the Higantes Festival''
+}}
+| motto                  = ''Angono: An Artist's Paradise, A Tourist's Haven''
+| anthem                 =
+| subdivision_type3      = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3      = {{PH legislative district}}
+| established_title      = [[Date of establishment|Founded]]
+| established_date       = August 19, 1938<ref>https://m.facebook.com/notes/ang-nuno/kasaysayan-ng-angono-rizal-mula-sa-panahon-ng-mga-espanyol-hanggang-sa-panahon-n/134643163253506/ {{User-generated source|certain=yes|date=March 2022}}</ref>
+| parts_type             = [[Barangay]]s
+| parts_style            = para
+| p1                     = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title           = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name            = Jeri Mae Calderon
+| leader_title1          = [[Vice Mayor]]
+| leader_name1           = Gerardo Calderon
+| leader_title2          = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2           = [[Jack Duavit|Michael John Duavit]]
+| leader_title3          = [[Sangguniang Bayan|Municipal Council]]
+| leader_name3           = {{PH Town Council
+ | 1=Arvin L. Villamayor
+ | 2=Patnubay B. Tiamson
+ | 3=Roberto R. Sison Jr.
+ | 4=Ma Jhoana G. Duran
+ | 5=Aurea B. Natividad
+ | 6=Florinio F. Matusoc
+ | 7=Ma Elena D. Ibañez
+ | 8=Agustin B. Canlas
+}}
+| leader_title4          = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4           = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type        = {{PH wikidata|government_type}}
+| government_footnotes   = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m            = {{PH wikidata|elevation_m}}
+| elevation_max_m        = 272
+| elevation_min_m        = -1
+| elevation_max_rank     =
+| elevation_min_rank     =
+| elevation_footnotes    = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes= 
+| elevation_min_footnotes=
+| area_rank              = 
+| area_footnotes         = {{PH area}}
+| area_total_km2         = {{PH wikidata|area}}
+| population_footnotes   = {{PH census|current}}
+| population_total       = {{PH wikidata|population_total}}
+| population_as_of       = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title= [[Household]]s
+| population_blank1      = {{PH wikidata|household}}
+| population_blank2_title= 
+| population_blank2      = 
+| population_demonym     =
+| population_rank        =
+| population_note        =
+| timezone               = [[Philippine Standard Time|PST]]
+| utc_offset             = +8
+| postal_code_type       = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code            = {{PH wikidata|postal_code}}
+| postal2_code_type      = {{PSGCstyle}}
+| postal2_code           = {{PSGC detail}}
+| area_code_type         = {{areacodestyle}}
+| area_code              = {{PH wikidata|area_code}}
+| website                = {{PH wikidata|website}}
+| demographics_type1     = [[Economy of the Philippines|Economy]]
+| demographics1_title1   = {{PH wikidata|income_class_title}}
+| demographics1_info1    = {{PH wikidata|income_class}}
+| demographics1_title2   = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2    = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3   = [[Revenue]]
+| demographics1_info3    = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4   = Revenue rank
+| demographics1_info4    = 
+| demographics1_title5   = [[Asset]]s
+| demographics1_info5    = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6   = Assets rank
+| demographics1_info6    = 
+| demographics1_title7   = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7    =  
+| demographics1_title8   = IRA rank
+| demographics1_info8    = 
+| demographics1_title9   = [[Expenditure]]
+| demographics1_info9    = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10  = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10   = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2     = Service provider
+| demographics2_title1   = Electricity
+| demographics2_info1    = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2   = Water
+| demographics2_info2    = 
+| demographics2_title3   = Telecommunications
+| demographics2_info3    = 
+| demographics2_title4   = Cable TV
+| demographics2_info4    =
+| demographics2_title5   = 
+| demographics2_info5    =
+| demographics2_title6   = 
+| demographics2_info6    =
+| demographics2_title7   = 
+| demographics2_info7    =
+| demographics2_title8   = 
+| demographics2_info8    =
+| demographics2_title9   = 
+| demographics2_info9    =
+| demographics2_title10  = 
+| demographics2_info10   =
+| blank_name_sec1        = {{PH wikidata|climate_title}}
+| blank_info_sec1        = {{PH wikidata|climate_type}}
+| blank1_name_sec1       = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1       = {{PH wikidata|language}}
+| blank2_name_sec1       = [[Crime index]]
+| blank2_info_sec1       = 
+| blank3_name_sec1       = 
+| blank3_info_sec1       = 
+| blank4_name_sec1       = 
+| blank4_info_sec1       = 
+| blank5_name_sec1       = 
+| blank5_info_sec1       = 
+| blank6_name_sec1       = 
+| blank6_info_sec1       = 
+| blank7_name_sec1       = 
+| blank7_info_sec1       = 
+| blank1_name_sec2       = Major religions
+| blank1_info_sec2       = 
+| blank2_name_sec2       = Feast date
+| blank2_info_sec2       = 
+| blank3_name_sec2       = Catholic diocese
+| blank3_info_sec2       =
+| blank4_name_sec2       = Patron saint
+| blank4_info_sec2       = [[Saint Clement I]]
+| blank5_name_sec2       = 
+| blank5_info_sec2       = 
+| blank6_name_sec2       = 
+| blank6_info_sec2       = 
+| blank7_name_sec2       = 
+| blank7_info_sec2       =
+| short_description      =
+| footnotes              =
+}}
+
+'''Angono''' ({{IPA|tl|aŋˈŋono|pron}} or {{IPA|tl|aːˈŋono|}}), officially the '''Municipality of Angono''' ({{lang-tgl|Bayan ng Angono}}),  is a 1st class [[Greater Manila Area|urban]] [[municipality of the Philippines|municipality]] in the [[Philippine Province|province]] of [[Rizal (province)|Rizal]], [[Philippines]]. According to the 2020 census, it has a population of 130,494 people.{{PH census|current}}
+
+It is best known as the '''Art Capital of the Philippines''', being the hometown of national artist for music [[Lucio San Pedro]] and national artist for visual arts [[Carlos "Botong" Francisco]],<ref name="newsinfo.inquirer.net">{{cite web| url = http://newsinfo.inquirer.net/744307/higantes-art-engraved-in-angono| title = 'Higantes': Art engraved in Angono {{!}} Inquirer News}}</ref> as well as the site of the [[Angono Petroglyphs]], the oldest known work of art in the Philippines. It is currently campaigning for its inclusion in the [[UNESCO]] [[Creative Cities Network]] as it is a center for visual arts. It is also campaigning for the inclusion of the [[Angono Petroglyphs]] (1 of 5 properties of the ''Petroglyphs and Petrographs of the Philippines'' UNESCO tentative site) in the [[World Heritage List]].
+
+First created as a [[pueblo]] in 1766, Angono was a barrio of its neighboring town [[Taytay, Rizal|Taytay]] and [[Binangonan, Rizal|Binangonan]] before it was legally proclaimed an independent municipality in 1938 by then President [[Manuel L. Quezon]].
+
+== Etymology ==
+The Name "Angono" was derived from the myth of Panguno which Comes from the word "Ang nuno" which means "The Dwarf"
+
+== Geography ==
+Located {{convert|12|km}} from [[Antipolo]] and {{convert|29|km}} east of [[Manila]]. With the continuous expansion of [[Metro Manila]], the municipality is considered part of [[Greater Manila Area]]. Angono is boundaried by [[Taytay, Rizal|Taytay]] in the north, [[Antipolo]] in the northeast, Teresa in the east, and [[Binangonan]] in the south.
+
+===Barangays===
+[[File:Ph fil angono rizal.png|thumb|left|upright=1.2|'''Political map of Angono''']]
+
+Angono is politically subdivided into 10 [[barangay]]s.{{PSGC detail|area}} Each barangay consists of [[purok]]s and some have [[sitios]].
+
+* Bagumbayan
+* Kalayaan
+* Mahabang Parang
+* [[Poblacion]] Ibaba
+* Poblacion Itaas
+* San Isidro
+* Santo Niño
+* San Pedro
+* San Roque
+* San Vicente
+
+====Etymology====
+* Bagumbayan – This barangay came from the Filipino word "bagong bayan" which means "new town".
+* Kalayaan – This barangay's name came from the Filipino word ''[[wikt:kalayaan|kalayaan]]'', meaning "freedom".
+* Mahabang Parang – The word "mahaba" means "long" and "[[Parang (knife)|parang]]" is a type of "[[machete]]", so the name of this barangay roughly translates to "long machete".
+* [[Poblacion]] Ibaba – The name of this barangay came from the Spanish word "[[Poblacion|población]]" meaning "[[town]]" and from the Filipino word "[[ibaba]]" which means "below". Therefore, this barangay means "town below".
+* Poblacion Itaas – This is the least populous barangay with a population of 583 people. The name roughly translates to "town above".
+* San Isidro – The largest and most populous [[barangay]] with a population of 31,339 people. This is also one of the largest and most populous barangays in the [[Philippines]]. This barangay is named after the [[Catholic Church|Catholic]] [[patron saint]] of [[farmer]]s named "'''Isidore the Farm Labourer'''" or "[[Isidore the Laborer]]".
+* Santo Niño – This barangay's name was inspired by the image of Jesus Christ as a child garbed in royal clothing known as the "[[Sto. Niño]]"
+* San Pedro – This barangay's name came from the [[Apostles in the New Testament|apostle]] of [[Jesus Christ]] "[[Saint Peter]]".
+* San Roque – The name of this barangay came from the patron saint of the sick and invalids known as "[[Saint Roch]]".
+* San Vicente – This barangay's name came from the Dominican saint [[Saint Vincent Ferrer]].
+
+===Climate===
+{{Weather box
+| location     = Angono, Rizal
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 29
+| Jan low C  = 20
+| Feb high C = 30
+| Feb low C  = 20
+| Mar high C = 32
+| Mar low C  = 21
+| Apr high C = 34
+| Apr low C  = 23
+| May high C = 33
+| May low C  = 24
+| Jun high C = 31
+| Jun low C  = 25
+| Jul high C = 30
+| Jul low C  = 24
+| Aug high C = 29
+| Aug low C  = 24
+| Sep high C = 29
+| Sep low C  = 24
+| Oct high C = 30
+| Oct low C  = 23
+| Nov high C = 30
+| Nov low C  = 22
+| Dec high C = 29
+| Dec low C  = 21
+| Jan precipitation mm = 7
+| Feb precipitation mm = 7
+| Mar precipitation mm = 9
+| Apr precipitation mm = 21
+| May precipitation mm = 101
+| Jun precipitation mm = 152
+| Jul precipitation mm = 188
+| Aug precipitation mm = 170
+| Sep precipitation mm = 159
+| Oct precipitation mm = 115
+| Nov precipitation mm = 47
+| Dec precipitation mm = 29
+| Jan rain days        = 3.3
+| Feb rain days        = 3.5
+| Mar rain days        = 4.8
+| Apr rain days        = 8.1
+| May rain days        = 18.9
+| Jun rain days        = 23.5
+| Jul rain days        = 26.4
+| Aug rain days        = 25.5
+| Sep rain days        = 24.5
+| Oct rain days        = 19.6
+| Nov rain days        = 10.4
+| Dec rain days        = 6.4
+| source 1 = Meteoblue (modeled/calculated data, not measured locally)<ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/angono_philippines_1730713
+| title =  Angono: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| access-date = 11 May 2020 }}</ref>
+| date = 11 May 2020
+}}
+
+==Demographics==
+{{Philippine Census
+| align= none
+| cols = 2
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = 
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+In the 2020 census, the population of Angono, Rizal, was 130,494 people,{{PH census|current}} with a density of {{convert|{{sigfig|130,494/26.22|2}}|PD/km2|disp=or}}.
+
+===Religion===
+[[File:Angono Church.jpg|thumb|Diocesan Shrine and Parish of St. Clement]]
+[[Christianity]] is the major religion in the town, and the majority of all [[Christian denomination]] is [[Catholicism]] and a minority of {{Lang|tl|[[Iglesia ni Cristo]]|italic=no}}, [[Members Church of God International]] [[Born Again Movement|Born Again]], [[Jehovah's Witnesses]] and more.
+
+Catholic Churches:
+*[[Diocesan Shrine and Parish of Saint Clement|Diocesan Shrine and Parish of St. Clement]], Barangay Poblacion Ibaba
+*St. Joseph the Worker Parish, Barangay Mahabang Parang
+*Christ the King Chapel, Exodusville Subdivision
+*San Vicente Chapel, Brgy. San Vicente.
+*Sto. Niño Chapel, Constellation Homes Subdivision
+
+== Economy ==
+{{stack|float=left|{{PH poverty incidence}}}}
+[[File:SM Angono, Rizal, June 2023.jpg|thumb|SM Center Angono]]
+There are several business establishments present in the booming town of Angono. The ''SM Center Angono'' is considered one of the major businesses in town. Trade and commerce are active, such data processing, pawnshops and banks as well. With nearly 100,000 inhabitants in this urbanized town, progress is at its peak. The proposed Angono Fish Port to be constructed at the lakeside shore of Laguna de Bay will soon boost more business opportunities and easier access from the nearby towns situated at the shores of the said lake.
+
+Angono is known as the Arts Capital of the Philippines. With the existence of numerous business establishments and leisure hubs/historical sites, this town is surely a tourist destination.
+{{clear-left}}
+
+==Culture==
+[[File:Angono,Rizaljf4749 08.JPG|thumb|World War II Monument, Junction]]
+[[File:Angono Public Artwork.jpg|thumb|One of the numerous public artworks in Angono]]
+Angono is the hometown of two national artists, [[Lucio San Pedro]] for music and [[Carlos "Botong" Francisco]] for visual arts.<ref name="newsinfo.inquirer.net"/> One of the public schools in Barangay Mahabang Parang is named Carlos "Botong" V. Francisco Memorial National High School in honor of the said artist. The town also boasts of other artists like Nemi Miranda (also known as Nemiranda), Perdigon Vocalan, Jose "Pitok" Blanco and the Blanco Family. Around the town are artworks such as various sculptures and murals.
+
+Angono also boasts of several actors/actresses Joey Hipolito, Freddie Reynoso, Zoraida Sanchez, Mike Tan, Nikki Gil, and BJ Tolits Forbes; GMA TV Host Herlene "Hipon" Budol; news anchor [[Sandra Aguinaldo]] and film director Cathy Garcia-Molina.
+
+The artistic town of Angono celebrates the feast of [[Pope Clement I]] every November 22 to 23 of each year. There are times that this coincides with the feast of [[Christ the King]]. The celebration starts with the novena mass on the 14th till 22nd day of November, where devotees in prayer and thanksgiving dance in the church patio after each novena mass. The dancing is often accompanied by the symphonic/marching bands of Angono while church bells ring.
+
+The town is currently campaigning for its inclusion in the [[UNESCO]] [[Creative Cities Network]] as a center for visual arts. It is also campaigning for the inclusion of the [[Angono Petroglyphs]] (1 of 5 properties of the ''Petroglyphs and Petrographs of the Philippines'' UNESCO tentative site) in the [[World Heritage List]].
+
+===Bisperas Mayores===
+The Bisperas Mayores or the day before the feast day is celebrated with a parade of marching bands, drum and lyres sponsored by each barangay of Angono held in the morning and early afternoon. The morning parade usually starts in Rainbow Village and ends at the church patio where the devotees again dance in praise and thanksgiving while the marching bands play. The afternoon parade is also joined by papier-mâché higantes, local government officials and employees, commercial establishments in Angono, schools and other Angono socio and civic groups.
+
+The celebration on the morning of November 23 starts with a concelebrated mass with the Bishop of Antipolo. The procession follows after the mass with parehadoras, higantes and devotees joining the image of [[Isidore the Laborer|St. Isidore the Laborer]], [[Pope Clement I]] and the [[Virgin Mary]] in a procession leading to the banks of Laguna de Bay in Barangay San Vicente for the fluvial procession, fishes like kanduli, tilapia and bangus which are caught by the fishermen devotees during the fluvial procession are displayed near the image of [[Pope Clement I]]. The images, devotees and members of the band ride the pagoda for the procession in the lake which will disembark at another part of the Angono shoreline side of the lake in Barangay Poblacion Ibaba. The road procession will again start with merry making of parehadoras, higantes and wet devotees which will culminate in the church. Filipino artistry is truly alive in every celebration in Angono.
+
+===Cristo Rey===
+The feast of [[Christ the King]] which is held on the Sunday before the 1st Sunday of Advent usually coincides with the feast of [[Pope Clement I]]. The Viva San Clemente! celebration banners usually include “Mabuhay ang Kristong Hari!” slogans to remind the people that [[Christ]] is the Lord and to proclaim Christ as the King of all nations. This is also a reminder that [[Pope Clement I]] is only a servant of [[God in Christianity|God]] which somehow does not need adoration of the people because our Lord has already given him the highest honor – a blessing of a Saint – Angono's patron and inspiration.
+
+[[Pope Clement I]] was the fourth [[pope]] of the [[Catholic Church]] after [[Saint Peter|Pope Peter]] the prince of the apostles, [[Saint Linus|Pope Linus]], and [[Pope Anacletus]]. He faithfully proclaimed [[Christ]] during his time and until his martyrdom by being thrown into the sea attached to an iron anchor. The people of Angono celebrate [[Pope Clement I]]'s feast day with a fluvial procession in the waters of Laguna de Bay as a reminder and inspiration of his faith in God.
+
+===Higantes Festival===
+{{Main|Higantes Festival}}
+[[File:Higantes Angono Municipal Hall.jpg|thumb|Higantes, along Angono Municipal Hall]]
+Angono's joyous fiesta in honor of Pope Clement I whose image, resplendent in [[papal vestments]], is held November 22–23, and involves a procession accompanied by parehadoras devotees dressed in colorful local costumes, wooden shoes and carrying boat paddles and higantes, giant papier-mâché effigies. The street event culminates in fluvial procession at Laguna de Bay amidst revelry that continues until the image is brought back to its sanctuary.
+
+Higantes Festival is now promoted as tourism-generating event in the country. This attracts numerous tourists from all over the world.
+
+It was said that the ''higantes'' started during the Spanish colonial times. When Angono was once a hacienda and ruled by Spanish hacienderos The Guido. The Angono land tillers' way of protesting their struggle was by making giant effigies of their landlords whose hands are usually high up on their waist.
+
+The body of the traditional higante is made of bamboo and colorful cloth and its faces of papier-mâché. The three oldest higantes of Angono consists of a family of giants – the father, mother and child higante, they traditionally add color and fun during the fiesta celebration. It was in the 80s when then Angono artist Perdigon Vocalan brought the idea of the Higantes Festival by going out of the traditional family of giants and advocating having more higantes in the fiesta by coordinating with the barangays of Angono to come up with Higantes that will represent their barangay. At present, the Higantes of Angono can be seen in fiesta celebrations around the Philippines and in national cultural presentations, a highlight being the Centennial Parade in the Quirino Grandstand for the Philippine Centennial celebration in 1998.
+
+The higantes are made of papier-mâché. Higantes measures four to five feet in diameter and ten to twelve feet in height. Traditionally, it began in the last century when Angono was a Spanish hacienda. These higantes were influenced by the Mexican art form of papier-mâché brought by the Spanish priests to the Philippines.
+
+===Parehadora===
+The traditional parehadoras are group of young girls holding paddles and wearing bakya or wooden slippers and dressed in a colorful outfit which joins the procession in the feast day of [[Pope Clement I]]. They usually march at the beat of the band playing alongside them. Now with a dying lake, the tradition of the Parehadora is now just a reminder that Angono was once a fishing village and thrives at the harvest of Laguna Lake.
+
+===Salubong===
+Black Saturday is highlighted by 3-hour presentation of “Vigilia na Muling Pagkabuhay” at the patio of the church. On Easter Sunday, a celebration is held as the reunion of the [[Resurrection of Jesus|Risen Christ]] with [[Virgin Mary]] is reenacted. It is facilitated by a young girl inside an inverted giant paper flower suspended from a bamboo trellis who removes the mourning veil from Mary's head. The petals of the suspended flower are mechanically opened by giant birds attached to strings to reveal the girl inside. It is then followed by a religious dancing of young ladies called “Kapitana” and “Tenyenta”, to the tune of “Bati”.
+
+==Government==
+[[File:Angono Municipal Hall (Rizal; 08-08-2021).jpg|thumb|Angono Municipal Hall]]
+===Local government===
+{{main|Sangguniang Bayan}}
+The municipality is governed by a municipal mayor designated as its local chief executive and by a municipal council as its legislative body in accordance with the Local Government Code. The mayor, vice mayor, and the councilors are elected directly by the people through an election which is being held every three years.
+
+===Elected officials===
+'''Sangguniang Bayan 2022-2025:'''<ref>{{Cite web |title=Halalan 2022 Results |url=https://halalanresults.abs-cbn.com/local/rizal/angono}}</ref>
+*Mayor: [[Jeri Mae Calderon]] ([[Nationalist People's Coalition|NPC]])
+*Vice Mayor: [[Gerardo Calderon]] ([[Nationalist People's Coalition|NPC]])
+*Councilors: 
+#Arvin Villamayor ([[Nationalist People's Coalition|NPC]])
+#Patnubay Tiamson ([[Nacionalista Party|NP]])
+#Roberto Sison, Jr. ([[Nationalist People's Coalition|NPC]])
+#Jhoana Duran ([[Nationalist People's Coalition|NPC]])
+#Aurea Natividad ([[Nationalist People's Coalition|NPC]])
+#Florinio Matusoc ([[Nationalist People's Coalition|NPC]])
+#Maria Elena Ibañez ([[Nationalist People's Coalition|NPC]])
+#Agustin Canlas ([[Nationalist People's Coalition|NPC]])
+*ABC / LNB President: Jonathan V. Hernandez
+*SK President: Ivan Jeyo R. Ang
+
+===List of local chief executives===
+{| class="wikitable sortable"
+|-
+! No. !! Name !! Title !! Served (From) !! Until
+|-
+| 1 || Antonio P. Ibañez || Mayor || 1938 || 1940
+|-
+| 2 || Domingo S. Villamayor || Mayor || 1940 || 1946 
+|-
+| 3 || Demetrio Tolentino || Mayor || 1946 || 1947
+|-
+| (1) || Antonio P. Ibañez || Mayor || 1947 || 1950
+|-
+| 4 || Ponciano A. Rivera || Mayor || 1950 || 1951 
+|-
+| 5 || Roman S. Reyes || Mayor || 1951 || 1955
+|-
+| 6 || Saturnino V. Tiamson || Mayor || 1955 || 1968<ref>{{cite news|title=Angono goes Nacionalista|work=[[The Manila Times]]|publisher=The Manila Times Publishing Company, Inc.|date=November 18, 1959|page=11-A|quote=Re-elected to the mayorship is the incumbent mayor, Saturnino Tiamson.}}</ref>
+|-
+| (4) || Ponciano A. Rivera || Mayor || 1968 || 1972
+|-
+| (6) || Saturnino V. Tiamson || Mayor || 1972 || 1986 
+|-
+| - || Nemesio B. Miranda || OIC || 1986 || 1988
+|-
+| 7 || Vivencio B. Villamayor || Mayor || 1988 || 1995
+|-
+| (6) || Saturnino V. Tiamson || Mayor || 1995 || 1998 
+|-
+| 8 || Gerardo V. Calderon || Mayor || 1998 || 2007
+|-
+| 9 || Aurora A. Villamayor || Mayor || 2007 || 2010
+|-
+| (8) || Gerardo V. Calderon || Mayor || 2010 || 2019
+|-
+| 10 || Jeri Mae E. Calderon || Mayor || 2019 || present
+|}
+
+==Education==
+{{unreferenced section|date=July 2018}}
+
+Schools:
+{{Div col}}
+*ALC High School
+*Angono Christian School
+*Angono Elementary School
+*[[Angono National High School]]
+*Angono Private High School
+*Baby Jesus Chrissamore Learning Center
+*Blanco Family Academy
+*Charis Praise Christian Academy
+*Christ the King College of Angono
+*Angono Catholic College formerly known as Colegio De San Clemente
+*Crossmount School of Arts and Trades
+*Eastern Light College
+*Faderoga's Learning Center
+*Gingergrace Academe
+*Holy Deliverance Integrated Christian School
+*Hope Academy
+*Jason Harvey Academy
+*Joaquin Guido Elementary School
+*Jonathan T.M. Caballero Academy of Special Needs 
+*Joyland Playschool Childcare and Learning Center
+*Lakeside Hills Learning School
+*Little Footprints Playschool and Tutorial Center
+*Little Lambs Learning Center
+*Maranatha Christian Academy
+*Marrieve of Light School
+*Mind Slot Integrated School
+* Carlos "Botong" V. Francisco Memorial National High School
+*New Hope in Faith School
+*Nuestra Senora De Guia Academy - East Rizal
+*Praise Christian Academy
+*[[Raises Academy]]
+*Regional Lead School for the Arts in Angono
+*Seven Angels College
+*Shinil Cristian Academy
+*St. Catherine Learning Center
+*St. Martin Montessori School
+*Santo Entiero Learning Center
+*San Vicente Elementary School
+*Teensy Weensy Child Development Christian School
+{{Div col end}}
+
+==Healthcare==
+*Angono Medics Hospital
+*St. Clement Medical, Inc.
+*Rizal Provincial Hospital (Angono Annex)
+*San Isidro Hospital
+*San Isidro Hospital (Angono Annex)
+* Mikko Medics Medical Maternity & Lying-in Clinic
+
+== Notable person ==
+*[[Mike Tan]], actor 
+*[[Herlene Budol]], actress-comedian
+*[[Christian Standhardinger]], Basketball Player 
+*[[Arvin Tolentino]], Basketball Player
+*[[Rowgien Stimpson Unigo]], MLBB Pro Player, MLBB World Champion
+
+==See also==
+* [[List of Cultural Properties of the Philippines in Angono, Rizal]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+*[{{NSCB detail}} Philippine Standard Geographic Code]
+*[https://web.archive.org/web/20081120024509/http://www.census.gov.ph/data/census2007/index.html Philippine Census Information]
+*[https://web.archive.org/web/20140714111641/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=9&fLguType=CM&frmIdRegion=6&frmIdProvince=38&frmIdLgu=821 Local Governance Performance Management System]
+*https://web.archive.org/web/20131029195219/http://www.tourism.gov.ph/sitepages/FestivitiesList.aspx?festivityCode=205&monthCode=04
+
+{{Geographic location
+ | Centre    = Angono
+ | North     = [[Antipolo]]
+ | Southeast = [[Binangonan]]
+ | South     = ''[[Laguna de Bay]]''
+ | West      = [[Taytay, Rizal|Taytay]]
+ | Northeast = [[Teresa, Rizal|Teresa]]
+}}
+{{Rizal}}
+{{Authority control}}
+
+[[Category:Municipalities of Rizal (province)]]
+[[Category:Populated places on Laguna de Bay]]
+[[Category:Populated places established in 1938]]
+[[Category:1938 establishments in the Philippines]]

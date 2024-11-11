@@ -1,0 +1,98 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Nasser
+| native_name             = ناصر
+| native_name_lang        = ar
+| settlement_type         = [[List of cities and towns in Egypt|City]]
+| image_skyline           = 
+| image_alt               = 
+| image_caption           = 
+| image_flag              = 
+| flag_alt                = 
+| image_seal              = 
+| seal_alt                = 
+| image_shield            = 
+| shield_alt              = 
+| nickname                = 
+| motto                   = 
+| image_map               = File:مركز ناصر.png
+| map_alt                 = 
+| map_caption             = Location in Beni Suef Governorate
+| pushpin_map             = Egypt
+| pushpin_label_position  = bottom
+| pushpin_map_alt         = 
+| pushpin_map_caption     = Location in Egypt
+| coordinates             = {{coord|29.16985|N|31.102638|E|display=inline,title}}
+| coor_pinpoint           = 
+| coordinates_footnotes   = 
+| subdivision_type        = Country
+| subdivision_name        = {{flag|Egypt}}
+| subdivision_type1       = [[Governorates of Egypt|Governorate]]
+| subdivision_name1       = [[Beni Suef Governorate|Beni Suef]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| subdivision_type3       = 
+| subdivision_name3       = 
+| established_title       = 
+| established_date        = 
+| founder                 = 
+| seat_type               = 
+| seat                    = 
+| government_footnotes    = 
+| leader_party            = 
+| leader_title            = 
+| leader_name             = 
+| unit_pref               = Metric<!-- or US or UK -->
+| area_footnotes          = <ref name="Citypopulation"/>
+| area_total_km2          = 220
+| area_land_km2           = 
+| area_water_km2          = 
+| area_water_percent      = 
+| area_note               = 
+| elevation_footnotes     = 
+| elevation_m             = 
+| population_footnotes    = <ref name="Citypopulation"/>
+| population_total        = 392,002
+| population_as_of        = 2019 (estimated)
+| population_density_km2  = auto
+| population_demonym      = 
+| population_note         = 
+| timezone1               = [[Egypt Standard Time|EST]]
+| utc_offset1             = +2
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = 
+| area_code               = 
+| iso_code                = 
+| website                 = <!-- {{URL|example.com}} -->
+| footnotes               = 
+}}
+
+'''Nasser''' ({{langx|ar|ناصر}}), older name is '''Bush''' ({{langx|ar|بوش}}, {{Langx|cop|ⲡⲟⲩϣⲓⲛ|lit=the stable}} {{IPA-cop|pˈuʃən|pronounced}})[https://www.trismegistos.org/place/2650] is a city and corresponding [[Markaz (country subdivision)|markaz]] in [[Beni Suef Governorate]], [[Egypt]]. It is named after former Egyptian President [[Gamal Abdel Nasser]].
+
+The city was called ''Pois'' ({{Langx|grc|Πωις}})<ref>{{Cite web |title=TM Places |url=https://www.trismegistos.org/place/2650 |access-date=2022-11-09 |website=www.trismegistos.org}}</ref> in [[Ptolemaic Kingdom|Ptolemaic]] and [[Byzantine Egypt]].
+
+The [[1885 Census of Egypt]] recorded Bush (as ''Boche'') as a [[nahiyah]] under the district of [[Beni Suef]] in [[Beni Suef Governorate]]; at that time, the population of the city was 7,091 (3,554 men and 3,537 women).<ref name="1885 Census">{{cite book |last1=Egypt min. of finance, census dept |title=Recensement général de l'Égypte |date=1885 |page=74 |url=https://books.google.com/books?id=OpQNAAAAQAAJ |access-date=21 June 2020}}</ref>
+
+== Demographics ==
+{{historical populations
+| align  = left
+| source = Citypopulation.de<ref name="Citypopulation"/>
+
+| 1996 | 225166
+| 2006 | 273542
+| 2019 | 393002
+}}
+
+As of 2019, the estimated population of Nasser markaz was 393,002, of whom 264,887 lived in rural areas and 128,115 in urban areas.<ref name="Citypopulation">{{cite web |title=Nāṣir (Markaz, Egypt) |url=https://www.citypopulation.de/en/egypt/admin/ban%C4%AB_suwayf/2209__nāṣir/|website=Citypopulation.de |access-date=22 June 2020}}</ref>
+
+==References==
+{{portal|Egypt}}
+{{Reflist}}
+
+[[Category:Populated places in Beni Suef Governorate]]
+
+
+{{egypt-geo-stub}}

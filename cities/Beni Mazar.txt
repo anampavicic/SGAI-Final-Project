@@ -1,0 +1,92 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| name                            = Beni Mazar
+| other_name                      = 
+| native_name                     = بَنِي مَزَار
+| nickname                        = Bani Zrar
+| settlement_type                 = 
+| motto                           = <!-- images and maps  ----------->
+| image_skyline                   = 
+| imagesize                       = 
+| image_caption                   = 
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| image_map                       = 
+| mapsize                         = 
+| map_caption                     = 
+| pushpin_map                     = Egypt<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = bottom
+| pushpin_mapsize                 = 300
+| pushpin_map_caption             = Location in Egypt, North Al-Minia city
+<!-- Location ------------------>| subdivision_type                = Country
+| subdivision_name                = {{flag|Egypt}}
+| subdivision_type1               = [[Governorates of Egypt|Governorate]]
+| subdivision_name1               = [[Minya Governorate|Minya]]
+| subdivision_type2               = 
+| subdivision_name2               = 
+| subdivision_type3               = 
+| subdivision_name3               = |<!-- Politics ----------------->
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = سليجه أفندي
+| leader_name                     = 
+| leader_title1                   = <!-- for places with, say, both a mayor and a city manager -->
+| leader_name1                    = 
+| established_title               = <!-- Settled -->
+| established_date                = <!-- Area    --------------------->
+| area_magnitude                  = 
+| unit_pref                       = Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes                  = <ref name="citypopulation">{{cite web |title=Banī Mazār (Markaz, Egypt) - Population Statistics, Charts, Map and Location |url=https://citypopulation.de/en/egypt/admin/al_miny%C4%81/2413__ban%C4%AB_maz%C4%81r/ |website=citypopulation.de |access-date=17 March 2023}}</ref>
+| area_total_km2                  = 316.7 
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->| population_as_of                = 2021
+| population_footnotes            = <ref name="citypopulation" />
+| population_note                 = 
+| population_total                = 701,816 
+| population_density_km2          = auto
+| population_density_sq_mi        = auto
+| population_metro                = 
+| population_density_metro_km2    = 
+| population_density_metro_sq_mi  = 
+| population_blank1_title         = Ethnicities
+| population_blank1               = 
+| population_density_blank1_km2   = 
+| population_density_blank1_sq_mi = <!-- General information  --------------->
+| timezone                        = [[Egypt Standard Time|EST]]
+| utc_offset                      = +2
+| timezone_DST                    = 
+| utc_offset_DST                  = 
+| coordinates                     = {{coord|28|30|N|30|48|E|region:EG|display=inline}}
+| elevation_footnotes             = <!--for references: use  tags-->
+| elevation_m                     = 
+| elevation_ft                    = <!-- Area/postal codes & others -------->
+| postal_code_type                = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code                     = 
+| area_code                       = 
+| blank_name                      = 
+| blank_info                      = Beni Mazar
+| blank1_name                     = 
+| blank1_info                     = 
+| website                         = 
+| footnotes                       = 
+}}
+
+'''Beni Mazar''' ({{Langx|ar|بَنِي مَزَار}}) is a rural [[List of cities and towns in Egypt|town]] in [[Egypt]]. It is located in the [[Minya Governorate]], on the west bank of the [[Nile]]. The older name of the town is '''Shinwada''' ({{Langx|ar|شِنُوادة}} or شِنُوَدة) which comes from Sahidic {{Langx|cop|ϭⲓⲛⲟⲩⲟⲟⲧⲉ}} (Bohairic: ϣⲓⲛⲟⲩⲟϯ)<ref>{{Cite book|last=Maher Ishak|first=Emile|title=The phonetics and phonology of the Bohairic dialect of Coptic and the survival of Coptic words in the colloquial and Classical Arabic of Egypt and of Coptic grammatical constructions in colloquial Egyptian Arabic}}</ref> meaning "kailyard".<ref>{{Cite book|last=Peust|first=Carsten|title=Die Toponyme vorarabischen Ursprungs im modernen Ägypten}}</ref>
+
+==See also==
+{{portal|Egypt}}
+* [[List of cities and towns in Egypt]]
+
+== References ==
+<references />{{Cities of Egypt}}
+
+{{coord|28|30|N|30|48|E|display=title}}
+
+[[Category:Populated places in Minya Governorate]]
+
+
+{{egypt-geo-stub}}

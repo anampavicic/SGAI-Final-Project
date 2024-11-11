@@ -1,0 +1,949 @@
+{{Short description|Municipality in Bulacan, Philippines}}
+{{Use mdy dates|date=November 2022}}
+{{Use Philippine English|date=November 2022}}
+{{Infobox settlement
+| name                   = {{PH wikidata|name}} 
+| image_skyline          = San Miguel,Bulacan6406 09.JPG
+| image_caption          = San Miguel Municipal Hall
+| image_flag             = 2923San Miguel, Bulacan Municipal Hall fvf 05.JPG
+| flag_size              = 120x80px
+| image_seal             = San Miguel Bulacan.png  
+| seal_size              = 100x80px
+| image_map              = {{PH wikidata|image_map}}
+| map_caption            = {{PH wikidata|map_caption}}
+| image_map1             = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map            = Philippines
+| pushpin_label_position = left
+| pushpin_map_caption    = Location within the {{PH wikidata|country}}
+| coordinates            = {{PH wikidata|coordinates}}
+| settlement_type        = {{PH wikidata|settlement_type}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = [[Philippines]]
+| subdivision_type1      = [[Regions of the Philippines|Region]]
+| subdivision_name1      = {{PH wikidata|region}}
+| subdivision_type2      = [[Provinces of the Philippines|Province]]
+| subdivision_name2      = {{PH wikidata|province}}
+| official_name          = {{PH wikidata|official_name}}
+| etymology              =  <!--origin of name-->
+| named_for              =  <!--named after (if person or place)-->
+| native_name            =
+| other_name             = San Miguel de Mayumo
+| nickname               =
+| motto                  =
+| anthem                 =
+| subdivision_type3      = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3      = {{PH legislative district}}
+| established_title      = [[Date of establishment|Founded]]
+| established_date       = September 29, 1725
+| established_title1     = Chartered
+| established_date1      = 1874
+| parts_type             = [[Barangay]]s
+| parts_style            = para
+| p1                     = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title           = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name            = Roderick D. Tiongson
+| leader_title1          = [[Vice Mayor]]
+| leader_name1           = John A. Alvarez
+| leader_title2          = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2           = [[Lorna Silverio|Lorna C. Silverio]]
+| leader_title3          = [[Sangguniang Bayan|Municipal Council]]
+| leader_name3           = {{PH Town Council
+| 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Gerome D. Reyes
+ | 3=Romeo C. Dizon
+ | 4=Mary Joy Ann S. Chico
+ | 5=Emmanuel D. Magtalas
+ | 6=Anika Corinne D. Santiago-Tan
+ | 7=Joseph Noel P. de Guzman
+ | 8=Mark David C. Maon
+ | 9=Jayvee C. Lacsina
+}}
+| leader_title4          = [[Elections in the Philippines#Qualification|Electorate]] 
+| leader_name4           = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type        = {{PH wikidata|government_type}}
+| government_footnotes   = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m            = {{PH wikidata|elevation_m}}
+| elevation_max_m        = 54
+| elevation_min_m        = 9
+| elevation_max_rank     =
+| elevation_min_rank     =
+| elevation_footnotes    = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes= 
+| elevation_min_footnotes=
+| area_rank              = 
+| area_footnotes         = {{PH area}}
+| area_total_km2         = {{PH wikidata|area}}
+| population_footnotes   = {{PH census|current}}
+| population_total       = {{PH wikidata|population_total}}
+| population_as_of       = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title= [[Household]]s
+| population_blank1      = {{PH wikidata|household}} 
+| population_blank2_title= 
+| population_blank2      = 
+| population_demonym     =
+| population_rank        = 16 out of 1,489 [[Philippine municipality|Municipalities]]
+| population_note        =
+| timezone               = [[Philippine Standard Time|PST]]
+| utc_offset             = +8
+| postal_code_type       = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code            = {{PH wikidata|postal_code}}
+| postal2_code_type      = {{PSGCstyle}}
+| postal2_code           = {{PSGC detail}}
+| area_code_type         = {{areacodestyle}}
+| area_code              = {{PH wikidata|area_code}}
+| website                = {{PH wikidata|website}}
+| demographics_type1     = [[Economy of the Philippines|Economy]]
+| demographics1_title1   = {{PH wikidata|income_class_title}}
+| demographics1_info1    = {{PH wikidata|income_class}}
+| demographics1_title2   = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2    = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3   = [[Revenue]]
+| demographics1_info3    = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}} 
+| demographics1_title4   = Revenue rank
+| demographics1_info4    = 
+| demographics1_title5   = [[Assets]]
+| demographics1_info5    = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}} 
+| demographics1_title6   = Assets rank
+| demographics1_info6    = 
+| demographics1_title7   = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7    =  
+| demographics1_title8   = IRA rank
+| demographics1_info8    = 
+| demographics1_title9   = [[Expenditure]]
+| demographics1_info9    = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}} 
+| demographics1_title10  = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10   = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}  
+| demographics_type2     = Utilities
+| demographics2_title1   = Electricity
+| demographics2_info1    = [[Meralco]] 
+| demographics2_title2   = Water
+| demographics2_info2    =  
+| demographics2_title3   = Telecommunications
+| demographics2_info3    = 
+| demographics2_title4   = Cable TV
+| demographics2_info4    =
+| demographics2_title5   = 
+| demographics2_info5    =
+| demographics2_title6   = 
+| demographics2_info6    =
+| demographics2_title7   = 
+| demographics2_info7    =
+| demographics2_title8   = 
+| demographics2_info8    =
+| demographics2_title9   = 
+| demographics2_info9    =
+| demographics2_title10  = 
+| demographics2_info10   =
+| blank_name_sec1        = {{PH wikidata|climate_title}}
+| blank_info_sec1        = {{PH wikidata|climate_type}}
+| blank1_name_sec1       = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1       = {{PH wikidata|language}}
+| blank2_name_sec1       = [[Crime index]]
+| blank2_info_sec1       = 
+| blank3_name_sec1       = 
+| blank3_info_sec1       = 
+| blank4_name_sec1       = 
+| blank4_info_sec1       = 
+| blank5_name_sec1       = 
+| blank5_info_sec1       = 
+| blank6_name_sec1       = 
+| blank6_info_sec1       = 
+| blank7_name_sec1       = 
+| blank7_info_sec1       = 
+| blank1_name_sec2       = Major religions
+| blank1_info_sec2       = 
+| blank2_name_sec2       = Feast date
+| blank2_info_sec2       = 
+| blank3_name_sec2       = Catholic diocese
+| blank3_info_sec2       =
+| blank4_name_sec2       = Patron saint 
+| blank4_info_sec2       = 
+| blank5_name_sec2       = 
+| blank5_info_sec2       = 
+| blank6_name_sec2       = 
+| blank6_info_sec2       = 
+| blank7_name_sec2       = 
+| blank7_info_sec2       =
+| short_description      =
+| footnotes              =
+}}
+
+'''San Miguel''', officially the '''Municipality of San Miguel''' ({{lang-tgl|Bayan ng San Miguel}}, [[kapampangan language|Kapampangan]]: ''Balen ning San Miguel''),  is a 1st class [[municipality of the Philippines|municipality]] in the [[Philippine Province|province]] of [[Bulacan]], [[Philippines]]. According to the 2020 census, it has a population of 172,073 people.{{PH census|current}}
+
+It is the third largest municipality by area in the province after [[Doña Remedios Trinidad]] and [[Norzagaray]].
+
+==Etymology==
+There are two accounts on the origin of the town's name:
+* According to the 1953 journal ''History of Bulacan'', the town was originally named ''Mayumo'' from the Kapampangan term for "sweets". The name San Miguel was added by the Augustinian missionaries who selected [[Michael (archangel)|Michael the Archangel]] as the patron saint of the town.<ref name="history"/>
+* An account tells that the two leaders decided to form a town named Miguel De Mayumo after the name of Miguel Pineda and ''Mayumo'', from the Kapampangan term and for the goodwill and generosity of Mariano Puno.
+
+==History==
+
+===Spanish colonial era===
+[[File:FvfSanMiguel6926 11.JPG|thumb|[[San Miguel Arcangel Church (San Miguel, Bulacan)|San Miguel Arkanghel Parish Church]] built by Augustinian missionaries during the Spanish Occupation]]
+The municipality of San Miguel de Mayumo was established in 1763 by Carlos Agustin Maniquiz, Maria Juana Puno - wife of Carlos Agustin Maniquiz and Miguel Pineda, with Pineda as the first town mayor of San Miguel. Miguel Pineda was a native of [[Angat, Bulacan]] who decided to settle permanently in the barrio of San Bartolome (now named Barangay Tartaro). He found the place ideal for hunting and was later chosen as the leader of other settlers. He formed an alliance with Mariano Puno, the recognized leader of the adjacent prosperous village called Santo Rosario (now named Barangay Mandile).
+
+The town was previously part of Pampanga, hence San Miguel's culture having [[Kapampangan people|Kapampangan]] influence. In 1848, the town and the neighbouring barrios, which were then part of Pampanga, were added to the territory of the Province of Bulacan.<ref name="history"/>
+
+====The Pact of Biak-Na-Bato====
+{{Main|Pact of Biak-na-Bato}}
+[[File:0934jfPoblacion School Monument San Jose San Miguel Bulacan Bulacanfvf 01.jpg|thumb|200px|left|Biak-na-Bato Heroes and San Miguel Martyrs Monument (foreground) and the old American-era water district tower (background)]]
+During the [[Philippine Revolution]] in 1897, newly appointed Governor-General [[Fernando Primo de Rivera]] decided to crush [[Emilio Aguinaldo]] and his troops in [[Cavite]], but Aguinaldo fled to [[Batangas]] and joined forces with Gen. [[Miguel Malvar]]. The Spaniards continue their pursuit but the troops outwitted them by going to the district of [[Morong (district)|Morong]] (now [[Rizal (province)|Rizal]]) and finally to Biak-na-Bato in San Miguel, Bulacan. Aguinaldo made the mountain caves into his headquarters.<ref name="biac na bato 1"/><ref name="biac na bato 2"/>
+
+Biak-na-Bato ({{cvt|21.17|km2}} in the villages of Kalawakan and Talbak in [[Doña Remedios Trinidad, Bulacan|Doña Remedios Trinidad]] town and the villages of Biak-na-Bato and Sibul) served as one of the camps of the revolutionary [[Katipunan]] forces during the [[Philippine Revolution]]. It was declared a [[national park]] by [[Manuel L. Quezon]] on November 16, 1937, through Proclamation No. 223.<ref name="biac na bato park"/>
+
+===American occupation era===
+Between 1903 and 1906, the adjacent town of [[San Ildefonso, Bulacan|San Ildefonso]] was consolidated with San Miguel due to the former's low income and inability to finance its expenditures in operating the local government.<ref>{{cite PH act|chamber=Act|number=932|date=October 8, 1903|url=https://issuances-library.senate.gov.ph/legislative%2Bissuances/Act%20No.%20932|title=An Act Reducing the Twenty-five Municipalities of the Province of Bulacan to Thirteen|accessdate=July 3, 2023|website=Senate of the Philippines Legislative Digital Resources}}</ref> It was later separated from the town to become an independent town of its own when it became capable of meeting its expenses.<ref>{{Cite web|url=http://www.bulacan.gov.ph/sanildefonso/history.php|title = Bulacan, Philippines: San Ildefonso, Bulacan: History}}</ref>
+
+===Japanese occupation era===
+During [[World War II]], Japanese Imperial ground troops entered and occupied the town municipality of San Miguel on 1942. Local Filipino troops of the [[Philippine Commonwealth Army]] and [[Philippine Constabulary]] units retreated into the nearby mountains to become the Bulakeño guerrilla resistance against the Japanese occupation forces until the province's liberation.
+
+===Philippine independence era===
+San Miguel was the largest town in Bulacan until September 13, 1977, when [[Doña Remedios Trinidad, Bulacan|Doña Remedios Trinidad]], the current largest municipality of Bulacan, was established under ''Presidential Decree No. 1196'' during the term of President [[Ferdinand Marcos]].<ref name="drt"/>
+
+===Contemporary===
+On August 26, 2007, residents at the foot of the Biak-na-Bato mountains petitioned president [[Gloria Macapagal Arroyo]] to declare the mountains protected areas to stop [[marble]] quarrying and [[mining]] there.<ref>[http://newsinfo.inquirer.net/breakingnews/regions/view_article.php?article_id=84808 Inquirer.net, Bulaceños want Biak-na-Bato declared a protected area]</ref>
+
+In August 2014 during a fieldtrip to the Madlum Cave, seven students of [[Bulacan State University]] were swept after heavy rains which triggered a flash flood while crossing the Madlum river.<ref>{{Cite news |date=March 28, 2018 |title=CA upholds dismissal of Bulacan State University officials over field trip tragedy |work=Rappler.com |url=https://www.rappler.com/nation/199150-ca-dismissal-bulacan-state-university-san-miguel-field-trip-tragedy/ |access-date=June 9, 2023}}</ref>
+
+==Geography==
+The town of San Miguel is bounded by [[Nueva Ecija]] Province in the northernmost area, [[Pampanga]] Province in the west, the town is bounded by two provinces with land borders. The town of [[San Ildefonso, Bulacan]] lies next to San Miguel in the southernmost area, [[Doña Remedios Trinidad, Bulacan|Doña Remedios Trinidad]] in the eastmost area which also borders [[San Rafael, Bulacan|San Rafael]] and [[Angat, Bulacan|Angat]]. San Miguel then was the biggest municipality in the province of Bulacan before some areas were taken and annexed to Doña Remedios Trinidad during the term of [[Ferdinand Marcos]]. The geographic nature of the town is diversified and multi-faceted, rich in nature's beauty like waterfall, rivers, caves, few mountains, hilly areas and springs. The mainland are plain agricultural lands, some part of which was substantially eroded due to commercialization and urbanization. {{citation needed|date=May 2015}}
+
+San Miguel is {{convert|53|km|sp=us}} from [[Malolos]] and {{convert|76|km|sp=us}} from [[Manila]].
+
+===Climate===
+
+The prevailing climatic conditions in the municipality is categorized into two types: Wet season and dry season.
+* Wet Season - (Rainy season or Monsoon season) 
+* Dry Season - (Summer season)
+
+{{Weather box
+| location     = San Miguel, Bulacan
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 28
+| Jan low C  = 20
+| Feb high C = 29
+| Feb low C  = 20
+| Mar high C = 31
+| Mar low C  = 21
+| Apr high C = 33
+| Apr low C  = 22
+| May high C = 32
+| May low C  = 24
+| Jun high C = 31
+| Jun low C  = 24
+| Jul high C = 30
+| Jul low C  = 24
+| Aug high C = 29
+| Aug low C  = 24
+| Sep high C = 29
+| Sep low C  = 24
+| Oct high C = 30
+| Oct low C  = 23
+| Nov high C = 30
+| Nov low C  = 22
+| Dec high C = 28
+| Dec low C  = 21
+| Jan precipitation mm = 6
+| Feb precipitation mm = 4
+| Mar precipitation mm = 6
+| Apr precipitation mm = 17
+| May precipitation mm = 82
+| Jun precipitation mm = 122
+| Jul precipitation mm = 151
+| Aug precipitation mm = 123
+| Sep precipitation mm = 124
+| Oct precipitation mm = 99
+| Nov precipitation mm = 37
+| Dec precipitation mm = 21
+| Jan rain days        = 3.3
+| Feb rain days        = 2.5
+| Mar rain days        = 11.7
+| Apr rain days        = 6.6
+| May rain days        = 17.7
+| Jun rain days        = 22.2
+| Jul rain days        = 25.2
+| Aug rain days        = 23.7
+| Sep rain days        = 23.2
+| Oct rain days        = 17.9
+| Nov rain days        = 9.2
+| Dec rain days        = 5.2
+| source 1 = Meteoblue <ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/san-miguel_philippines_1688954
+| title =  San Miguel: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| access-date = May 12, 2020 }}</ref>
+| date = May 12, 2020 }}
+
+=== Barangays ===
+[[File:Ph Bul San Miguel.jpg|thumb|upright=2|{{center|'''Political map of San Miguel'''}}]]
+San Miguel is politically subdivided into 49 [[barangay]]s.<ref name="psgc">[http://nap.psa.gov.ph/activestats/psgc/municipality.asp?muncode=031421000&regcode=03&provcode=14 Philippine Standard Geographic Code listing for San Miguel] - National Statistical Coordination Board</ref> Each barangay consists of [[purok]]s and some have [[sitios]]
+
+There are 11 urban and the rest rural barangays in the town.
+
+{{div col}}
+<!-- arranged by PSGC for easier updates in the future -->
+{{PH brgy table lite|top}}
+{{PH brgy table lite|031421001| Bagong Silang                  |  1876| 1625}}
+{{PH brgy table lite|031421002| Balaong                        |  2670| 2678}}
+{{PH brgy table lite|031421003| Balite                         |  2598| 2365}}
+{{PH brgy table lite|031421004| Bantog                         |  3695| 3129}}
+{{PH brgy table lite|031421006| Bardias                        |  1636| 1590}}
+{{PH brgy table lite|031421007| Baritan                        |  1553| 1351}}
+{{PH brgy table lite|031421008| Batasan Bata                   |  2037| 2014}}
+{{PH brgy table lite|031421009| Batasan Matanda                |  3003| 2839}}
+{{PH brgy table lite|031421011| Biak{{nbhyph}}na{{nbhyph}}Bato |  1737| 1631}}
+{{PH brgy table lite|031421012| Biclat                         |  1870| 1594}}
+{{PH brgy table lite|031421013| Buga                           |  1512| 1476}}
+{{PH brgy table lite|031421014| Buliran                        |  4862| 4753}}
+{{PH brgy table lite|031421015| Bulualto                       |  2873| 2642}}
+{{PH brgy table lite|031421016| Calumpang                      |  3980| 3859}}
+{{PH brgy table lite|031421019| Cambio                         |  1886| 1902}}
+{{PH brgy table lite|031421020| Camias                         |  7560| 7426}}
+{{PH brgy table lite|031421021| Ilog{{nbhyph}}Bulo             |  1604| 1554}}
+{{PH brgy table lite|031421023| King Kabayo                    |  1662| 1533}}
+{{PH brgy table lite|031421024| Labne                          |  1431| 1416}}
+{{PH brgy table lite|031421025| Lambakin                       |  2805| 2686}}
+{{PH brgy table lite|031421027| Magmarale                      |  2163| 2059}}
+{{PH brgy table lite|031421028| Malibay                        |  1935| 1906}}
+{{PH brgy table lite|031421030| Mandile                        |  1878| 1752}}
+{{PH brgy table lite|031421031| Masalipit                      |  2883| 2583}}
+{{PH brgy table lite|031421032| Pacalag                        |  1165|  999}}
+{{PH brgy table lite|031421033| Paliwasan                      |  2849| 2633}}
+{{PH brgy table lite|031421035| Partida                        |  3205| 3164}}
+{{PH brgy table lite|031421036| Pinambaran                     |  3860| 4100}}
+{{PH brgy table lite|031421037| [[Poblacion]]                  |  3127| 3115}}
+{{PH brgy table lite|031421038| Pulong Bayabas                 |  2030| 1438}}
+{{PH brgy table lite|031421039| Sacdalan                       |  2216| 2160}}
+{{PH brgy table lite|031421040| Salacot                        |  3127| 3140}}
+{{PH brgy table lite|031421041| Salangan                       |  5056| 4610}}
+{{PH brgy table lite|031421043| San Agustin                    |  3755| 3673}}
+{{PH brgy table lite|031421044| San Jose                       |  4951| 4805}}
+{{PH brgy table lite|031421045| San Juan                       |  8602| 6854}}
+{{PH brgy table lite|031421046| San Vicente                    |  2860| 3083}}
+{{PH brgy table lite|031421047| Santa Ines                     |  6000| 5572}}
+{{PH brgy table lite|031421048| Santa Lucia                    |  3335| 3145}}
+{{PH brgy table lite|031421049| Santa Rita Bata                |  2945| 2853}}
+{{PH brgy table lite|031421050| Santa Rita Matanda             |  2829| 2656}}
+{{PH brgy table lite|031421051| Sapang                         |  1632| 1324}}
+{{PH brgy table lite|031421052| Sibul                          | 10161| 9322}}
+{{PH brgy table lite|031421054| Tartaro                        |  6001| 4506}}
+{{PH brgy table lite|031421055| Tibagan                        |  3678| 3249}}
+{{PH brgy table lite|031421056| Bagong Pag{{nbhyph}}asa        |  1314| 1226}}
+{{PH brgy table lite|031421057| Pulong Duhat                   |  1389| 1030}}
+{{PH brgy table lite|031421058| Maligaya                       |  2092| 1847}}
+{{PH brgy table lite|031421059| Tigpalas                       |  3994| 3987}}
+{{PH brgy table lite|bottom|142854}}
+{{div col end}}
+
+==Demographics==
+{{Philippine Census
+| align= right
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+In the 2020 census, the population of San Miguel, Bulacan, was 172,073 people,{{PH census|current}} with a density of {{convert|{{sigfig|172,073/231.40|2}}|PD/km2|disp=or|sp=us}}.
+
+===Languages===
+The municipality, along with two other municipalities (Remedios Trinidad and Norzagaray) and one city (San Jose del Monte) of Bulacan, is the homeland of the ''Alta Kabulowan'', the first inhabitants of Bulacan, [[Southern Alta language|whose language]] is also called '''Alta Kabulowan'''. Their language is currently endangered and is in dire need of local government intervention. The majority of residents in the town are native speakers of the [[Tagalog language]]. Due to its proximity with Pampanga towns and it was part of Pampanga, some residents also speak the [[Kapampangan language]].
+
+=== Religion and Traditions ===
+Currently, San Miguel is divided into four parishes and a large number of ''visitas'', all of which are under the jurisdiction of the [[Roman Catholic Diocese of Malolos|Diocese of Malolos]]. These are [[San Miguel Arcangel Church (San Miguel, Bulacan)|Diocesan Shrine and Parish of San Miguel Arcangel]] located in Brgy. Poblacion; San Jose Esposo de Maria Parish located in Brgy. San Jose; Nuestra Señora delos Remedios Parish located in Brgy. Sibul Springs; and Sacred Heart of Jesus Parish located in Brgy. Salacot.
+
+The traditions are very alive and well-preserved in San Miguel, as shown by the [[Holy Week in the Philippines|Holy Week processions]] in the mother church, which include about 60 ''carrozas''. Numerous images of our Lord, the Blessed Mother, and saints, visited this church, such as the [[Black Nazarene|Nuestro Padre Jesus Nazareno of Quiapo]] and [[Immaculate Conception Parish Church (Santa Maria)|La Purisima Concepcion de Santa Maria]]. Every May 8, San Miguel holds its town ''fiesta'', and every September 29, it celebrates its ''Pistang Patron'' celebration.
+[[File:Procesion de los Desposorios.jpg|alt=The image of our Lady wearing her traditional wedding dress, accompanied by the dancers of the parish.|thumb|252x252px|Procession de los Desposorios]]
+The tradition of ''Los Desposorios'' or the [[Marriage of the Virgin|Bethrotal of Mary and Joseph]] is very alive at San Jose Esposo de Maria Parish in Brgy. San Jose. The said parish celebrates its [[Patronal festival|fiesta]] every 26 November, the traditional date which the [[Augustinians]] celebrates the feast of the Bethrotal. It will start with ''Procesion de los Desposorios'' and after that, the antique image of Saint Joseph and Our Lady meets at the [[patio]] of the parish and the rite of the [[Renewal of vows|Renewal of Vows]] will be conducted.
+
+== Economy ==
+{{PH poverty incidence}}
+
+==Government==
+[[File:0376jfSan Miguel Ildefonso Bulacan Welcome arch sign Roadsfvf 17.jpg|right|thumb|San Miguel Welcome Arch from San Ildefonso, Bulacan]]
+
+===Elected officials===
+* Municipal Mayor: Roderick D. Tiongson ([[National Unity Party (Philippines)|NUP]])
+* Municipal Vice Mayor: John "Bong" A. Alvarez ([[National Unity Party (Philippines)|NUP]])
+*Sangguniang Bayan Members:
+# Gerome "Jhong" D. Reyes ([[National Unity Party (Philippines)|NUP]])
+# Romeo C. Dizon (Reform PH-People's Party)
+# Mary Joy Ann S. Chico (Reform PH-People's Party)
+# Emmanuel "Emil" D. Magtalas ([[National Unity Party (Philippines)|NUP]])
+# Anika Corinne "Nika" D. Santiago-Tan ([[National Unity Party (Philippines)|NUP]])
+# Joseph Noel P. de Guzman (Reform PH-People's Party)
+# Mark David "Bong" C. Maon ([[National Unity Party (Philippines)|NUP]])
+# Jayvee C. Lacsina ([[National Unity Party (Philippines)|NUP]])
+*ABC President: Crisanto DG. Tiongson
+*Sangguniang Kabataan President: Pol David R. Buencamino
+
+=== List of Gobernadorcillo ===
+
+{| class="wikitable"
+|+
+!Name
+! colspan="2" |Term
+!Name
+!Term
+!Name
+!Term
+!Name
+! colspan="2" |Term
+|-
+|Miguel Pineda
+| colspan="2" |1763
+|Ignacio Sandulan
+|1796
+|Agapito Santa Ana
+|1827
+|Victor Buencamino
+| colspan="2" |1858
+|-
+|Jose Malapandan
+| colspan="2" |1764
+|Agustin Payawal
+|1797
+|Carlos Morales
+|1828
+|Norberto Maniquis
+| colspan="2" |1859
+|-
+|Miguel Ligon
+|1765
+|1766
+|Santiago Maniquis
+|1798
+|Jacinto Ligon
+|1829
+|Eugenio Dantis
+| colspan="2" |1860
+|-
+|Miguel Tecson
+| colspan="2" |1767
+|Marcos Bondoc
+|1799
+|Mariano Tecson
+|1830
+|Pedro Santiago
+| colspan="2" |1861
+|-
+|Miguel Bantog
+| colspan="2" |1768
+|Nicolas Bacaui
+|1800
+|Augustin Santiago
+|1831
+|Mariano Macapagal
+| colspan="2" |1862
+|-
+|Miguel Ligon
+| colspan="2" |1769
+|Eusebio Santiago
+|1801
+|Isidro Gonzales
+|1832
+|Jose Santiago
+|1863
+|1864
+|-
+|Esteban Bantog
+| colspan="2" |1770
+|Francisco Bernabe
+|1802
+|Eustaquio Ligon
+|1833
+|Bonifacio Pengson
+|1865
+|1866
+|-
+|Miguel Ligon
+| colspan="2" |1771
+|Calixto Yambot
+|1803
+|Vicente Ventura
+|1834
+|Tomas Tecson
+|1867
+|1868
+|-
+|Esteban Sayson
+| colspan="2" |1772
+|Jose Tuazon
+|1804
+|Apolonio Fernando
+|1835
+|Antonio David
+|1869
+|1870
+|-
+|Eulogio Payawal
+| colspan="2" |1773
+|Baltazar Pangilinan
+|1805
+|Severino Payawal
+|1836
+|Pelagio de Leon
+|1871
+|1872
+|-
+|Dionisio Maniquiz
+| colspan="2" |1774
+|Jose Payawal
+|1806
+|Andres de la Cruz
+|1837
+|Marcelo Velayo Bernardo
+|1873
+|1874
+|-
+|Antonio Bacual
+| colspan="2" |1775
+|Francisco Libunao
+|1807
+|Vicente Felix
+|1838
+|Flaviano Esguerra
+|1875
+|1876
+|-
+|Miguel Ligon
+|1776
+|1777
+|Vicente Sayson
+|1808
+|Eusebio Dantis
+|1839
+|Juan Buencamino
+|1877
+|1878
+|-
+|Dionisio Maniquis
+| colspan="2" |1778
+|Augustin Maniquis
+|1809
+|Atanacio Libunao
+|1840
+|Calixto Limpingco
+| colspan="2" |1879
+|-
+|Andres Bondoc
+| colspan="2" |1779
+|Lorenzo Ligon
+|1810
+|Pedro Ligon
+|1841
+|Juan de Guzman
+| colspan="2" |1880
+|-
+|Pablo Bondoc
+| colspan="2" |1780
+|Baltazar Pangilinan
+|1811
+|Domingo Pangilinan
+|1842
+|Francisco Villarica
+|1881
+|1882
+|-
+|Alejandro Dantis
+| colspan="2" |1781
+|Canuto Dantis
+|1812
+|Nicolas Libunao
+|1843
+|Potenciano Buencamino
+|1883
+|1885
+|-
+|Juan Fernando
+| colspan="2" |1782
+|Lorenzo Yambot
+|1813
+|Tomas Tecson
+|1844
+|Valentin Viola
+| colspan="2" |1886
+|-
+|Alejandro Maniquis
+| colspan="2" |1783
+|Clemente Ligon
+|1814
+|Juan Siojo
+|1845
+|Jose Santiago
+| colspan="2" |1887
+|-
+|Miguel Ventura
+| colspan="2" |1784
+|Vicente Tecson
+|1815
+|Felipe Gonzales
+|1846
+|Evaristo Siojo
+| colspan="2" |1888
+|-
+|Andres Patiag
+| colspan="2" |1785
+|Pablo Ventura
+|1816
+|Mariano P. Joson
+|1847
+|Bartolome Viola
+| colspan="2" |1889
+|-
+|Miguel Maniquis
+| colspan="2" |1786
+|Pantaleon Ligon
+|1817
+|Victor Buencamino
+|1848
+|Simon Tecson
+| colspan="2" |1890
+|-
+|Domingo Libunao
+| colspan="2" |1787
+|Vicente Dasig
+|1818
+|Fulgencio Santiago
+|1849
+|Simon Santiago
+| colspan="2" |1891
+|-
+|Domingo Santa MAria
+| colspan="2" |1788
+|Blas Maniquis
+|1819
+|Vicente Felix
+|1850
+|Jose de Leon
+| colspan="2" |1892
+|-
+|Francisco Tecson
+| colspan="2" |1789
+|Dionisio Fernando
+|1820
+|Rufino San Gabriel
+|1851
+|Bartolome Viola
+| colspan="2" |1893
+|-
+|Marcos Zapala
+| colspan="2" |1790
+|Jacinto Santiago
+|1821
+|Eugenio Dantis
+|1852
+|Lucio Maniquis
+| colspan="2" |1894
+|-
+|Miguel Quiambao
+| colspan="2" |1791
+|Manuel Bantog
+|1822
+|Tranquilino Gabriel
+|1853
+|Ciriaco Libunao
+| colspan="2" |1895
+|-
+|Andres Bantog
+| colspan="2" |1792
+|Narciso Macapagal
+|1823
+|Victor Buencamino
+|1854
+|Simon T. Libunao
+| colspan="2" |1896
+|-
+|Teodoro Tuazon
+| colspan="2" |1793
+|Mariano delos Santos
+|1824
+|Catalino Ligon
+|1855
+|Gregorio Marquez
+| colspan="2" |1897
+|-
+|Miguel Morales
+| colspan="2" |1794
+|Lorenzo Tecson
+|1825
+|Juan Siojo
+|1856
+|Simon Tecson
+|1898
+|1899
+|-
+|Tibursio Sayson
+| colspan="2" |1795
+|Lorenzo Ligon
+|1826
+|Tibursio Tecson
+|1857
+|Jose Buencamino
+| colspan="2" rowspan="2" |1900
+|-
+| colspan="7" |
+|Teodoro Lim
+|}
+
+=== List of chief executives===
+{| class="wikitable"
+|+
+!Name
+! colspan="2" |Term
+!Notes
+|-
+! colspan="4" |Municipal President
+|-
+|Meliton Carlos
+|1901
+|1903
+|
+|-
+|Damaso Sempio
+|1903
+|1905
+|
+|-
+|Mariano Tecson
+|1906
+|1908
+|
+|-
+|Miguel Siojo
+|1908
+|1912
+|
+|-
+|Serafin Tecson
+|1912
+|1916
+|
+|-
+|Catalino Sevilla
+|1916
+|1919
+|
+|-
+|Juan Buencamino Sr.
+|1919
+|1922
+|
+|-
+|Jose Ligon
+|1922
+|1925
+|
+|-
+|Eugenio Tecson
+|1925
+|1928
+|
+|-
+|Regino Sevilla
+|1928
+|1931
+|
+|-
+|Moises V. Ligon
+|1931
+|1934
+|
+|-
+! colspan="4" |Municipal Mayor
+|-
+|Florentino C. Viola
+|1934
+|1938
+|
+|-
+|Regino Sevilla
+|1938
+|1940
+|
+|-
+|Eugenio Tecson
+|1941
+|1944
+|
+|-
+|Rafael Roura
+Luis Santa Maria
+
+Eugenio Tecson
+
+Manuel V. Fernando
+| colspan="2" |1945
+|Appointed as Alcalde during Philippine Liberation
+|-
+|Eugenio Tecson
+|1945
+|1951
+|Remained in position after World War II
+|-
+|Conrado S. Pascual
+|1952
+|1955
+|
+|-
+|Felipe V. Buencamino
+|1956
+|1963
+|
+|-
+|Benjamin S. Payawal
+|1963
+|1967
+|
+|-
+|Felix M. Tayag
+|1964
+|1967
+|
+|-
+|Marcelo Aure
+|1968
+|1979
+|Appointed as Municipal Mayor during Martial Law (''Bagong Lipunan'') era from 1976 - 1979
+|-
+|Juan F. Dela Cruz
+|1979
+|1986
+|Municipal Mayor during Martial Law (''Bagong Lipunan'') era
+|-
+|Manuel Lipana
+|1986
+|1987
+|Transitional Municipal Government during 1987 Referendum
+|- 
+|Fernando B. Mendez Sr.
+|1988
+|1995
+|
+|-
+|Santiago C. Sevilla
+|1995
+|2004
+|
+|-
+|Edmundo Jose "Pop" T. Buencamino
+|2004
+|2006
+|Term not finished; suspended due to his case in [[Sandiganbayan]].<ref>{{cite web| url = http://newsinfo.inquirer.net/678676/ex-san-miguel-bulacan-mayor-convicted-of-graft-for-illegal-collections| title = Ex-San Miguel, Bulacan mayor convicted of graft for illegal collections {{!}} Inquirer News| date = March 13, 2015}}</ref><ref>http://sc.judiciary.gov.ph/jurisprudence/2007/april2007/175895.htm#_ftnref1 {{Bare URL inline|date=August 2022}}</ref>
+|-
+|Roderick DG. Tiongson
+|2006
+|2016
+|Vice Mayor during "Pop" Buencamino's term; sworn into office as Acting Mayor from 2006 - 2007 
+|-
+|Marivee Mendez - Coronel
+|2016
+|2019
+|First Female Mayor of San Miguel, Bulacan
+|}
+
+==Education==
+[[File:San Miguel Central School.JPG|190px|thumb|right|San Miguel Elementary School]]
+
+The town has numerous public schools offering elementary and high school education. Some of the elementary public schools are:
+* San Miguel North Central School, in barangay Camias
+* San Miguel South Central Elementary School, located in population center of the town
+
+Some of the public high schools are:
+* [[San Miguel National High School]], located in barangay San Juan
+* John J. Russel Memorial High School, located at Sibul
+* Vedasto R. Santiago High School, located in barangay Salacot
+* Partida High School, located at Partida
+* Balaong High School, annex of San Miguel National High School, located at Barangay Balaong
+* Maligaya High School, annex of Vedasto R. Santiago High School, located at Barangay Maligaya
+
+Some of the private schools offering elementary and pre-elementary education are:
+* D. C. Nicolas School, located in barangay Tigpalas
+* [[Park Ridge School of Montessori]], located in barangay Camias
+* Saint Paul University at San Miguel, located in barangay Salangan
+* School of Mount St. Mary, located in barangay Santa Rita (New)
+* Waminal Achievers Academy, Incorporated, located in population center of the town
+* God's Love Children's Advancement Center, location in Santa Rita (Old)
+
+Some of the tertiary schools are:
+* Bulacan Polytechnic College (San Miguel Campus) in barangay Salacot
+* Integrated College of Business and Technology at barangay Salangan
+* Saint Paul University at San Miguel, located in barangay Salangan
+* Microlink Institute of Science and Technology (San Miguel Campus) in barangay Camias
+
+==Notable personalities==
+<!--NOTE: Only add people who have WP articles as per [[WP:Notability]].-->
+[[File:San Miguel222.JPG|right|thumb|Tecson House - The house where Emilio Aguinaldo slept before he departed to Pangasinan. The house of Simon Tecson]]
+* [[Nicanor Abelardo]] - Kundiman composer.
+* Serafin Payawal - Commonwealth-era violinist and bandleader of the Serafin Payawal Orchestra
+* [[Virgilio S. Almario]] - National Artist for Literature. Poet, critic, translator, editor, teacher, cultural manager, and the founder of [[Adarna House]].
+* [[Felipe Buencamino]] - Former [[Secretary of Foreign Affairs (Philippines)|Secretary of Foreign Affairs]] and one of the founders of [[Iglesia Filipina Independiente]]. One of the authors of the [[Malolos Constitution]]
+* [[Alfredo Lim]] – Former [[Philippine Senator]], then Mayor of [[Manila]] and former [[National Bureau of Investigation (Philippines)|Director of the National Bureau of Investigation]].
+* [[Pablo Tecson]] – Former [[Governor General]] of [[Bulacan]] and later served as [[Secretary of Agriculture (Philippines)|Insular Secretary of the Philippine Bureau of Agriculture]].
+* Emiliano Tecson – Participated in the ratification of the first [[Philippine Constitution]] with [[Emilio Aguinaldo]].
+* Simon Tecson – Filipino General who served as revolutionary Colonel of the [[Siege of Baler]]. Former mayor of San Miguel, Bulacan.
+* [[Trinidad Tecson]] – One of the renowned female revolutionaries of the [[Philippine Revolution]]. Known as the ''Mother of Biak-na-Bato''. Also known as 'The Mother of [[Philippine Red Cross]]' and 'Mother of Mercy'.
+* [[Maximo Viola]] - Doctor, revolutionary, and initial financier of the publication of Jose Rizal's novel ''[[Noli me tangere (novel)]]''
+* [[Carlos A. Santos-Viola]] – Filipino architect. Best known for designing and building churches for the [[Iglesia ni Cristo]] religious group.
+* Pablo Payawal - Congressman, House of Representative, 2nd District of Bulacan.  (1934-1935)
+* [[Narcisa de Leon|Narcisa Buencamino-de Leon]] - One of the founders of LVN Pictures, one of the biggest film studios in the history of [[Cinema of the Philippines|Philippine Cinema]]
+* Von Lazaro - New York-based fashion designer
+* [[Magtanggol C. Gunigundo]] - chairman, Presidential Commission on Good Government (PCGG) from 1992 to 1998; and Constitutional Convention Delegate representing the 2nd District of Bulacan, 1971 Constitutional Convention
+
+==References==
+{{reflist|refs=
+<ref name="history">{{cite web |url=http://nlpdl.nlp.gov.ph/HD01/p10/pd1/jpg/39.jpg |title=History of Bulacan|last1=Cruz|first1=Jose|last2=Liwanag|first2=Aurora|last3=Celis|first3=Arturo|last4=Manikis|first4=Filipina|last5=Sambol|first5=Jose|last6=Mendoza|first6=Leticia|last7=Manio|first7=Zenaida|last8=Salamat|first8=Graciana|last9=Trinidad|first9=Lucina|last10=Lorenzo|first10= Victorina|date=April 1953 |website=National Library of the Philippines Techno Aklatan |agency=[[National Library of the Philippines]] |location=[[Manila]], Philippines |page=39 |language=en |format=JPG, PDF |access-date=August 5, 2019}}</ref>
+<ref name="biac na bato 1">{{cite web |url= http://nlpdl.nlp.gov.ph/HD01/p10/pd1/jpg/12.jpg |title=History of Bulacan |last1=Cruz |first1=Jose|last2=Liwanag|first2=Aurora |last3=Celis|first3=Arturo |last4=Manikis|first4=Filipina|last5=Sambol|first5=Jose|last6=Mendoza|first6=Leticia|last7=Manio|first7=Zenaida|last8=Salamat|first8=Graciana|last9=Trinidad|first9=Lucina|last10=Lorenzo|first10= Victorina|date=April 1953 |website=National Library of the Philippines Techno Aklatan |agency=[[National Library of the Philippines]] |location=[[Manila]], Philippines |page=12 |language=en |format=JPG, PDF |access-date=August 5, 2019 }}</ref>
+<ref name="biac na bato 2">{{cite web |url= http://nlpdl.nlp.gov.ph/HD01/p10/pd1/jpg/13.jpg |title=History of Bulacan |last1=Cruz |first1=Jose|last2=Liwanag|first2=Aurora |last3=Celis|first3=Arturo |last4=Manikis |first4=Filipina|last5=Sambol|first5=Jose|last6=Mendoza|first6=Leticia|last7=Manio|first7=Zenaida|last8=Salamat|first8=Graciana|last9=Trinidad|first9=Lucina|last10=Lorenzo|first10= Victorina|date=April 1953 |website=National Library of the Philippines Techno Aklatan |agency=[[National Library of the Philippines]] |location=[[Manila]], Philippines |page=13 |language=en |format=JPG, PDF |access-date=August 5, 2019 }}</ref>
+<ref name="biac na bato park">{{cite PH act| title = Establishing As Biak-Na-Bato National Park For The Benefit And Enjoyment Of The People Of The Philippines Parcel Of Land Situated In The Municipality Of San Miguel, Province Of Bulacan, Island Of Luzon| chamber = PD| number = 223| language = English| date = November 16, 1937|url = https://www.officialgazette.gov.ph/1937/11/16/proclamation-no-223-s-1937/| accessdate = August 5, 2019}}</ref>
+<ref name="drt">{{cite PH act| title = Establishing As Biak-Na-Bato National Park For The Benefit And Enjoyment Of The People Of The Philippines Parcel Of Land Situated In The Municipality Of San Miguel, Province Of Bulacan, Island Of Luzon| chamber = PD| number = 1196| language = English| date = September 13, 1977|url = http://www.chanrobles.com/presidentialdecrees/presidentialdecreeno1196.html#.XUenwfIzbZ4| accessdate = August 5, 2019}}</ref>
+}}
+
+==External links==
+{{Commons category}}
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20131004104825/http://census.gov.ph/ Philippine Census Information]
+
+{{Geographic location
+ | Centre = San Miguel
+ | North = [[Gapan, Nueva Ecija]]
+ | East = [[Doña Remedios Trinidad, Bulacan|Doña Remedios Trinidad]]
+ | South = [[San Ildefonso, Bulacan|San Ildefonso]]
+ | West = [[Candaba, Pampanga]]
+ | Northwest = [[San Isidro, Nueva Ecija]]
+}}
+
+{{Navboxes
+|title = Articles Related to San Miguel, Bulacan
+|list =
+{{Bulacan}}
+{{Central Luzon}}
+}}
+
+{{Authority control}}
+
+[[Category:San Miguel, Bulacan| ]]
+[[Category:Municipalities of Bulacan]]
+[[Category:Populated places established in 1763]]
+[[Category:1763 establishments in the Philippines]]
+[[Category:Spa towns in the Philippines]]

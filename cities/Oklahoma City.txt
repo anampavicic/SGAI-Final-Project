@@ -1,0 +1,910 @@
+{{Short description|Capital city of Oklahoma, United States}}
+{{Other uses}}
+{{Use mdy dates|date=November 2023}}
+{{Infobox settlement
+| name                     = Oklahoma City
+| native_name              = 
+| settlement_type          = [[List of capitals in the United States|State capital city]]
+| image_skyline            = {{multiple image
+| border                   = infobox
+| total_width              = 290
+| perrow                   = 1/2/2/2
+| caption_align            = center
+| image1                   = Downtown Oklahoma City skyline at twilight.jpg
+| caption1                 = [[Downtown Oklahoma City]]
+| image2                   = Oklahoma City Municipal Hall.jpg
+| caption2                 = Oklahoma City Hall
+| image3                   = Skydance Bridge.jpg
+| caption3                 = [[Skydance Bridge]]
+| image4                   = Field of Chairs OKC.jpg
+| caption4                 = [[Oklahoma City National Memorial]]
+| image5                   = Snow at the Oklahoma State Capitol.jpg
+| caption5                 = [[Oklahoma State Capitol]]
+| image6                   = Paycom Center OKC.jpg
+| caption6                 = [[Paycom Center]]
+| image7                   = Oklahoma City Convention Center.jpg
+| caption7                 = Convention Center
+}}
+| image_flag               = Flag of Oklahoma City, Oklahoma.png
+| image_seal               = Seal of Oklahoma City, Oklahoma.png
+| nickname                 = "OKC", "The 405", "Oklas", "Boomtown", "The Big Friendly",<ref>{{cite news |last=Lackmeyer |first=Steve |date=December 24, 2019 |title=Why Oklahoma City as 'The Big Friendly' lacks a friendly embrace |url=https://www.oklahoman.com/story/business/columns/steve-lackmeyer/2019/12/24/why-oklahoma-city-as-the-big-friendly-lacks-a-friendly-embrace/60412328007/ |access-date=2023-08-29}}</ref> "The City",<ref name=Monikers>[http://www.taglineguru.com/monikerlist.html U.S. City Monikers], Tagline Guru website, accessed January 5, 2008</ref>
+| motto                    = 
+| image_map                = {{maplink
+  | frame              = yes
+  | plain              = yes
+  | frame-align        = center
+  | frame-width        = 280
+  | frame-height       = 280
+  | frame-coord        = {{coord|qid=Q34863}}
+  | zoom               = 9
+  | type               = shape
+  | marker             = city
+  | stroke-width       = 2
+  | stroke-color       = #0096FF
+  | fill               = #0096FF
+  | id2                = Q34863
+  | type2              = shape-inverse
+  | stroke-width2      = 2
+  | stroke-color2      = #5F5F5F
+  | stroke-opacity2    = 0
+  | fill2              = #000000
+  | fill-opacity2      = 0
+}}
+| map_caption = Interactive map of Oklahoma City
+| pushpin_map = Oklahoma#USA
+| pushpin_relief = 1
+| pushpin_map_caption = Location within the state of Oklahoma##Location within the United States
+| pushpin_label = Oklahoma City
+| coordinates              = {{coord|35|28|7|N|97|31|17|W|type:city_region:US-OK|display=inline,title}}
+| subdivision_type         = Country
+| subdivision_name         = [[United States]]
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_type2        = [[List of counties in Oklahoma|Counties]]
+| subdivision_name1        = [[Oklahoma]]
+| subdivision_name2        = {{hlist|[[Oklahoma County, Oklahoma|Oklahoma]]|[[Canadian County, Oklahoma|Canadian]]|[[Cleveland County, Oklahoma|Cleveland]]|[[Pottawatomie County, Oklahoma|Pottawatomie]]}}
+| established_title        = Founded
+| established_date         = April 22, 1889<ref name=OKChistory>{{cite web |url=http://www.okhistory.org/publications/enc/entry.php?entry=OK025 |publisher=Oklahoma History Society |title=Oklahoma City |access-date=April 12, 2016 |archive-url=https://web.archive.org/web/20160402081348/http://www.okhistory.org/publications/enc/entry.php?entry=OK025 |archive-date=April 2, 2016 |url-status=dead}}</ref>
+| established_title2       = [[Municipal corporation|Incorporated]]
+| established_date2        = July 15, 1890<ref name=OKChistory />
+| government_type          = [[Council–manager]]
+| governing_body           = [[Oklahoma City Council]]
+| leader_title             = [[List of mayors of Oklahoma City|Mayor]]
+| leader_name              = [[David Holt (politician)|David Holt]] ([[Republican Party (United States)|R]])
+| leader_party             = 
+| leader_title1            = City manager
+| leader_name1             = Craig Freeman
+| total_type               = City
+| area_footnotes           = <ref name="TigerWebMapServer">{{cite web|title=ArcGIS REST Services Directory|url=https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer|publisher=United States Census Bureau|accessdate=September 20, 2022}}</ref>
+| area_total_sq_mi         = 620.79
+| area_total_km2           = 1607.83
+| area_land_sq_mi          = 606.48
+| area_land_km2            = 1570.77
+| area_water_sq_mi         = 14.31
+| area_water_km2           = 37.06
+| area_urban_sq_mi         = 421.73
+| area_urban_km2           = 1,092.3
+| elevation_footnotes      = <ref name="GR3"/>
+| elevation_ft             = 1198
+| population_total         = 681054 {{increase}}
+| population_as_of         = [[2020 United States Census|2020]]
+| population_footnotes     = 
+| population_rank          = [[List of North American cities by population|61st]] in North America<br />[[List of United States cities by population|20th]] in the United States<br>[[List of municipalities in Oklahoma|1st]] in Oklahoma
+| population_density_sq_mi = 1122.96
+| population_density_km2   = 433.58
+| population_urban         = 982,276 ([[List of United States urban areas|US: 46th]])
+| population_density_urban_km2 = 899.3
+| population_density_urban_sq_mi = 2,329.2
+| population_metro_footnotes = <ref name="2020Pop">{{cite web |title=2020 Population and Housing State Data |url=https://www.census.gov/library/visualizations/interactive/2020-population-and-housing-state-data.html |publisher=United States Census Bureau |access-date=August 22, 2021}}</ref>
+| population_metro         = 1441695 ([[List of metropolitan statistical areas|US: 42nd]])
+| population_demonym       = {{hlist|Oklahoma Cityan|Oklahoma Citian}}
+| demographics_type2       = GDP
+| demographics2_footnotes  = <ref>{{Cite web|title=Total Gross Domestic Product for Oklahoma City, OK (MSA)|url=https://fred.stlouisfed.org/series/NGMP36420|website=fred.stlouisfed.org}}</ref>
+|demographics2_title1     = MSA
+|demographics2_info1      = $94.742 billion (2022)
+| postal_code_type         = [[ZIP Code]]s
+| postal_code              = {{collapsible list
+| title = Zip codes<ref>{{cite web |url=http://zip4.usps.com/zip4/citytown.jsp |publisher=USPS |title=Zip Code Lookup |access-date=December 11, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20101104123722/http://zip4.usps.com/zip4/citytown.jsp |archive-date=November 4, 2010}}</ref>
+| frame_style = border:none; padding: 0;
+| list_style = text-align:center;display:none
+|73101–73132, 73134–73137, 73139-73157, 73159-73160, 73162–73165, 73167, 73169–73170, 73172–73173, 73178–73179, 73184, 73189–73190, 73194–73196}}
+| area_code                = [[Area codes 405 and 572|405/572]]
+
+| website                  = {{URL|http://www.okc.gov/}}
+| footnotes                = 
+| timezone                 = [[Central Time Zone (North America)|Central (CST)]]
+| utc_offset               = −6
+| timezone_DST             = [[Central Time Zone (North America)|CDT]]
+| utc_offset_DST           = −5
+| blank_name               = [[Federal Information Processing Standards|FIPS code]]
+| blank_info               = 40-55000
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = 1102140<ref name="GR3">{{GNIS|1102140}}</ref>
+| unit_pref                = Imperial
+| pop_est_as_of            = 
+| pop_est_footnotes        = 
+| population_est           = 
+}}
+
+'''Oklahoma City''' ({{IPAc-en|audio=En-us-Oklahoma.ogg|,|oʊ|k|l|ə|'|h|oʊ|m|ə|_|-}}), officially the '''City of Oklahoma City''', and often shortened to '''OKC''', is the [[List of capitals in the United States|capital]] and [[List of municipalities in Oklahoma|most populous city]] of the [[U.S. state]] of [[Oklahoma]]. The [[county seat]] of [[Oklahoma County, Oklahoma|Oklahoma County]],<ref name="GR6">{{cite web|url=http://www.naco.org/Counties/Pages/FindACounty.aspx |access-date=June 7, 2011 |title=Find a County |publisher=National Association of Counties |url-status=dead |archive-url=https://web.archive.org/web/20110531210815/http://www.naco.org/Counties/Pages/FindACounty.aspx |archive-date=May 31, 2011}}</ref> its population ranks [[List of United States cities by population|20th among United States cities]] and 8th in the [[Southern United States]]. The population grew following the 2010 census and reached 681,054 in the [[2020 United States census|2020 census]].<ref name="QuickFacts">{{cite web |title=U.S. Census Bureau QuickFacts: Oklahoma City city, Oklahoma |url=https://www.census.gov/quickfacts/fact/table/oklahomacitycityoklahoma/POP010220}}</ref> The [[Oklahoma City metropolitan area]] had a population of 1,396,445,<ref name="Metropolitan Area">{{cite web |title=Metropolitan and Micropolitan Statistical Areas  |url=https://www.census.gov/popest/data/metro/totals/2018/index.html|work=2018 Population Estimates |publisher=[[United States Census Bureau]], Population Division |date=April 15, 2019 |access-date=April 18, 2019}} {{dead link|date=December 2017 |bot=Balon Greyjoy |fix-attempted=yes}}</ref> and the Oklahoma City–[[Shawnee, Oklahoma|Shawnee]] [[Combined Statistical Area]] had a population of 1,469,124,<ref name="Metropolitan Area" /> making it Oklahoma's largest municipality and metropolitan area by population.
+
+Oklahoma City's city limits extend somewhat into [[Canadian County, Oklahoma|Canadian]], [[Cleveland County, Oklahoma|Cleveland]], and [[Pottawatomie County, Oklahoma|Pottawatomie]] counties. However, much of those areas outside the core Oklahoma County area are suburban tracts or protected rural zones ([[Drainage basin|watershed]]). The city is the [[List of United States cities by area|eighth-largest in the United States by area]] including [[Consolidated city-county|consolidated city-counties]]; it is the second-largest, after [[Houston]], not including consolidated cities. The city is also the second-largest by area among state capital cities in the United States, after [[Juneau, Alaska]].
+
+Oklahoma City has one of the world's largest livestock markets.<ref>{{cite web |url=https://www.visitokc.com/about-okc/okc-districts/stockyards-city/ |title=Stockyards City &#124; Oklahoma City Districts |website=Visitokc.com}}</ref> Oil, natural gas, [[petroleum product]]s, and related industries are its economy's largest sector. The city is in the middle of an active oil field, and [[oil derrick]]s dot the capitol grounds. The federal government employs a large number of workers at [[Tinker Air Force Base]] and the [[United States Department of Transportation]]'s [[Mike Monroney Aeronautical Center]] (which house offices of the [[Federal Aviation Administration]] and the Transportation Department's Enterprise Service Center, respectively).
+
+Oklahoma City is on the [[Interstate 35|I-35]] and [[Interstate 40|I-40]] corridors, one of the primary travel corridors south into neighboring Texas and [[New Mexico]], north towards [[Wichita, Kansas|Wichita]] and [[Kansas City, Missouri|Kansas City]], west to [[Albuquerque, New Mexico|Albuquerque]], and east towards [[Little Rock, Arkansas|Little Rock]] and [[Memphis, Tennessee|Memphis]]. Located in the state's [[Central Oklahoma|Frontier Country]] region, the city's northeast section lies in an ecological region known as the [[Cross Timbers]]. The city was founded during the [[Land Run of 1889]] and grew to a population of over 10,000 within hours of its founding. It was the site of the [[Oklahoma City bombing|April 19, 1995, bombing]] of the [[Alfred P. Murrah Federal Building]], in which 167 people died,<ref name=":04">{{Cite report |url=https://oklahoma.gov/content/dam/ok/en/health/health2/documents/okc-bombing.pdf |title=Oklahoma City Bombing Injuries |last1=Shariat |first1=Sheryll |last2=Mallonee |first2=Sue |date=December 1998 |publisher=Injury Prevention Service, Oklahoma State Department of Health |pages=2–3 |language=en |last3=Stidham |first3=Shelli Stephens |author-link= |access-date=21 October 2024}}</ref> the deadliest terror attack in U.S. history until [[September 11 attacks|the attacks of September 11, 2001]], and the deadliest act of [[Domestic terrorism in the United States|domestic terrorism]] in U.S. history.
+
+Since weather records have been kept beginning in 1890, Oklahoma City has been struck by 14 violent [[tornado]]es, 11 of which were rated F4 or EF4 on the [[Fujita scale|Fujita]] and [[Enhanced Fujita scale]]s, and two rated F5 and EF5.<ref name="OKC Tor2">{{cite web|title=Tornadoes Which Have Occurred in the Oklahoma City, Oklahoma Area Since 1890|url=http://www.weather.gov/oun/tornadodata-okc-table|publisher=National Weather Service Norman Oklahoma|access-date=December 8, 2015|archive-date=February 17, 2017|archive-url=https://web.archive.org/web/20170217145122/http://www.weather.gov/oun/tornadodata-okc-table|url-status=dead}}</ref>
+
+==History==
+{{Main|History of Oklahoma City}}
+{{For timeline}}
+[[File:Oklahoma1885.jpg|thumb|Map of Indian Territory (Oklahoma) 1889, showing Oklahoma as a train stop on a railroad line. Britannica 9th ed.|left]]
+
+{| style="float:left; width:15em; margin:1em; border:1px solid gray; padding:5px; background:beige; text-align:center;"
+|-
+| align=center | '''Native American names for Oklahoma City'''
+|-
+| {{langx|cho|Tʋmaha chito Oklahumma}}
+|-
+| {{langx|chr|ᎣᎦᎳᎰᎹ ᎦᏚᎲᎢ}}
+|-
+| <small>''Romanized:''</small> ogalahoma gaduhvi
+|-
+| {{langx|chy|Ma'xepóno'e}}
+|-
+| {{langx|com|Pia Sooka̠hni}}
+|-
+| {{langx|del|Oklahoma-utènaii}}
+|-
+| {{langx|iow|Chína Chége Itúⁿ}}<ref>(2009) Kansas Historical Society, Ioway-Otoe-Missouria Language Project, English to Ioway-Otoe-Missouria Dictionary, "Dictionary N-O (English to Baxoje)", "Oklahoma City, Okla.". [https://www.kshs.org/research/collections/documents/businessrecords/ioway_pdf/dict_n_o_eng_june_7_2009.pdf Link]</ref>
+|-
+| {{langx|nv|Halgai Hóteeldi Kin Haalʼáhí}}
+|-
+| {{langx|sac|Okonohômîheki}}<ref>Gordon Whittaker, 2005, "A Concise Dictionary of the Sauk Language", The Sac & Fox National Public Library Stroud, Oklahoma. [https://www.sacandfoxnation-nsn.gov/wp-content/uploads/2021/04/Copy-of-A-Concise-Dictionary-Sauk.pdf]</ref>
+|}
+
+Oklahoma City was settled on April 22, 1889,<ref>{{cite encyclopedia |url=http://digital.library.okstate.edu/encyclopedia/entries/l/la014.html |title=Land Run of 1889 |first=Stan |last=Hoig |encyclopedia=Encyclopedia of Oklahoma History & Culture |publisher=Oklahoma Historical Society|access-date=January 29, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140221094748/http://digital.library.okstate.edu/encyclopedia/entries/L/LA014.html |archive-date=February 21, 2014 }}</ref> when the area known as the "[[Unassigned Lands]]" was opened for settlement in an event known as "[[Land Rush of 1889|The Land Run]]".<ref>Wilson, Linda D. "[http://digital.library.okstate.edu/encyclopedia/entries/O/OK025.html Oklahoma City]", {{Webarchive|url=https://web.archive.org/web/20110525163038/http://digital.library.okstate.edu/encyclopedia/entries/O/OK025.html |date=May 25, 2011 }}, [http://digital.library.okstate.edu/encyclopedia/index.html Encyclopedia of Oklahoma History and Culture] {{webarchive|url=https://web.archive.org/web/20150201065646/http://digital.library.okstate.edu/encyclopedia/index.html |date=February 1, 2015 }}. Retrieved January 26, 2010.</ref> On April 26 of that year, its first mayor was elected, [[William Couch]]. Some 10,000 [[Homestead Act|homesteaders]] settled in the area that would become the capital of Oklahoma. The town grew quickly; the population doubled between 1890 and 1900.<ref>Wilson. [http://digital.library.okstate.edu/encyclopedia/index.html Encyclopedia of Oklahoma History and Culture] {{webarchive|url=https://web.archive.org/web/20150201065646/http://digital.library.okstate.edu/encyclopedia/index.html |date=February 1, 2015 }}</ref> Early leaders of the development of the city included [[Anton H. Classen]], [[John Wilford Shartel]], [[Henry Overholser]], [[Oscar Ameringer]], [[Jack C. Walton]], [[Angelo C. Scott]], and [[James W. Maney]].
+
+[[File:Oklahoma City 1890.jpg|thumb|[[Lithography|Lithograph]] of Oklahoma City from 1890.|left]]
+[[File:PostcardOklahomaCityOKBroadway1910.jpg|thumb|Looking north on Broadway from present-day Sheridan Ave, 1910.|left]]
+By the time Oklahoma was admitted to the Union in 1907, Oklahoma City had surpassed [[Guthrie, Oklahoma|Guthrie]], the territorial capital, as the new state's population center and commercial hub. Soon after, the capital was moved from Guthrie to Oklahoma City.<ref>Curtis, Gene. [http://www.tulsaworld.com/webextra/itemsofinterest/centennial/centennial_storypage.asp?ID=070611_1_A4_cpSta85612 "Only in Oklahoma: State capital location was a fight to the finish"], ''Tulsa World''. Retrieved February 4, 2010.</ref> Oklahoma City was a significant stop on [[U.S. Route 66|Route 66]] during the early part of the 20th century; it was prominently mentioned in [[Bobby Troup]]'s 1946 jazz song "[[(Get Your Kicks on) Route 66]]" made famous by artist [[Nat King Cole]].
+
+Before [[World War II]], Oklahoma City developed significant [[Meat packing industry|stockyards]], attracting jobs and revenue formerly in [[Chicago]] and [[Omaha, Nebraska]]. With the 1928 discovery of oil within the city limits (including under the State Capitol), Oklahoma City became a major center of oil production.<ref>{{cite web|url=http://www.ogs.ou.edu/fossilfuels/pdf/OKOilNotesPDF.pdf|title=Oklahoma Oil: Past, Present and Future|website=Ogs.ou.edu}}</ref> Post-war growth accompanied the construction of the [[Interstate Highway System]], which made Oklahoma City a major interchange as the convergence of [[Interstate 35|I-35]], [[Interstate 40|I-40]], and [[Interstate 44|I-44]]. It was also aided by the federal development of [[Tinker Air Force Base]] after successful lobbying efforts by the director of the Chamber of Commerce [[Stanley Draper]].
+
+In 1950, the [[United States Census Bureau|Census Bureau]] reported the city's population as 8.6% black and 90.7% white.<ref name="census">{{cite web|title=Race and Hispanic Origin for Selected Cities and Other Places: Earliest Census to 1990 |publisher=U.S. Census Bureau |url=https://www.census.gov/population/www/documentation/twps0076/twps0076.html |url-status=dead |archive-url=https://web.archive.org/web/20120812191959/http://www.census.gov/population/www/documentation/twps0076/twps0076.html |archive-date=August 12, 2012 }}</ref>
+
+In 1959, the city government launched a "Great Annexation Drive" that expanded the city's area from {{convert|80|sqmi|km2}} to {{convert|475.55|sqmi|km2}} by the end of 1961, making it the largest U.S. city by land mass at the time.<ref name="smallwood">{{cite book |title=Urban Builder : Life and Times of Stanley Draper |chapter=Mr. Oklahoma City |publisher=[[University of Oklahoma Press]] |last=Smallwood |first=James M. |date=1977 |isbn=0-8061-1447-9 |pages=197–198}}</ref>
+
+[[Patience Latting]] was elected [[List of mayors of Oklahoma City|Mayor of Oklahoma City]] in 1971, becoming the city's first female mayor.<ref name=newsok>{{cite news|first=Bryan|last=Dean|title=Former Oklahoma City Mayor Patience Latting dies at age 94 |url=http://newsok.com/former-oklahoma-city-mayor-patience-latting-dies-at-age-94/article/3741834 |work=[[The Oklahoman]] |date=December 28, 2012 |access-date=January 11, 2013}}</ref> Latting was also the first woman to serve as mayor of a U.S. city with over 350,000 residents.<ref name=newsok/>
+[[File:Oklahoma City National Memorial at Christmas.jpg|thumb|Oklahoma City National Memorial at Christmas.|left]]
+
+Like many other American cities, the center city population declined in the 1970s and 1980s as families followed newly constructed highways to move to newer housing in nearby suburbs. [[Urban renewal]] projects in the 1970s, including the [[Pei Plan (Oklahoma City)|Pei Plan]], removed older structures but failed to spark much new development, leaving the city dotted with vacant lots used for parking. A notable exception was the city's construction of the [[Myriad Botanical Gardens|Myriad Gardens and Crystal Bridge]], a botanical garden and modernistic [[conservatory (greenhouse)|conservatory]] in the heart of downtown. Architecturally significant historic buildings lost to clearances were the Criterion Theater,<ref>{{cite web |title=Criterion Group |url=http://www.okchistory.com/index.php?option=com_content&view=article&id=63:preservingabout&catid=44:about-the-criterion-group&Itemid=84 |publisher=OKCHistory.com |access-date=October 20, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20111007235908/http://www.okchistory.com/index.php?option=com_content&view=article&id=63%3Apreservingabout&catid=44%3Aabout-the-criterion-group&Itemid=84 |archive-date=October 7, 2011 }}</ref><ref>{{cite web|url=http://www.criteriongroup.org/ |title=The Criterion Group, main page |publisher=The Criterion Group |access-date=October 20, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20091029035822/http://www.criteriongroup.org/ |archive-date=October 29, 2009 }}</ref> the Baum Building,<ref>{{cite web|url=http://okhistory.org/research/hillerman/results.php?mapnoinput=3h&action=Search |publisher=OKCHistory.org |title=Baum Building |access-date=October 20, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090707221731/http://okhistory.org/research/hillerman/results.php?mapnoinput=3h&action=Search |archive-date=July 7, 2009 }}</ref> the Hales Building,<ref>{{cite web|access-date=October 21, 2009 |url=http://okhistory.org/research/hillerman/results.php?mapnoinput=2a&action=Search |publisher=OKCHistory.org |title=Hales Building |url-status=dead |archive-url=https://web.archive.org/web/20090707214404/http://okhistory.org/research/hillerman/results.php?mapnoinput=2a&action=Search |archive-date=July 7, 2009 }}</ref><ref>[[#Lackmeyer|Lackmeyer and Money]], pp. 20, 42.</ref> and the Biltmore Hotel.<ref>{{cite web|url=http://okhistory.org/research/hillerman/results.php?mapnoinput=2y&action=Search |publisher=OKCHistory.org |title=Biltmore Hotel |access-date=October 20, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090725014049/http://okhistory.org/research/hillerman/results.php?mapnoinput=2y&action=Search |archive-date=July 25, 2009 }}</ref>
+
+In 1993, the city passed a massive redevelopment package known as the [[Metropolitan Area Projects Plan|Metropolitan Area Projects]] (MAPS), intended to rebuild the city's core with civic projects to establish more activities and life in downtown. The city added a new [[Chickasaw Bricktown Ballpark|baseball park]]; a central library; renovations to the [[Civic Center Music Hall|civic center]], [[Cox Convention Center|convention center]], and fairgrounds; and a water canal in the [[Bricktown, Oklahoma City|Bricktown]] entertainment district. Water taxis transport passengers within the district, adding color and activity along the canal. MAPS has become one of the most successful public-private partnerships undertaken in the U.S., exceeding $3&nbsp;billion in private investment as of 2010.<ref>[http://www.okcchamber.com/index.php?src=gendocs&ref=ChamberHistory&category=About Metropolitan Area Projects], Greater Oklahoma City Chamber. Retrieved February 5, 2010.</ref> As a result of MAPS, the population in downtown housing has exponentially increased, with the demand for additional residential and retail amenities, such as groceries, services, and shops.
+
+Since the completion of the MAPS projects, the downtown area has seen continued development. Several downtown buildings are undergoing renovation/restoration. Notable among these was the restoration of the [[Skirvin Hotel]] in 2007. The famed [[First National Center (Oklahoma City)|First National Center]] is also being renovated.
+
+Residents of Oklahoma City suffered substantial losses on April 19, 1995, when [[Timothy McVeigh]] [[Oklahoma City bombing|detonated a bomb]] in front of the [[Alfred P. Murrah Federal Building|Murrah building]]. The building was destroyed (the remnants of which had to be imploded in a controlled demolition later that year), more than 100 nearby buildings suffered severe damage, and 168 people were killed.<ref name="VictimAges">{{cite news|agency=Associated Press |title=Victims of the Oklahoma City bombing |date=June 20, 2001 |url=https://www.usatoday.com/news/nation/2001-06-11-mcveigh-victims.htm |work=USA Today |archive-url=https://web.archive.org/web/20120215065450/http://www.usatoday.com/news/nation/2001-06-11-mcveigh-victims.htm |archive-date=February 15, 2012 |url-status=live  }}</ref> The site has been commemorated as the [[Oklahoma City National Memorial]] and Museum.<ref name="NPS">{{cite web|title=Oklahoma City National Memorial |publisher=[[National Park Service]] |url=http://www.nps.gov/okci/ |archive-url=https://web.archive.org/web/20110514123638/http://www.nps.gov/okci/index.htm |archive-date=May 14, 2011 |url-status=live  }}</ref> Since its opening in 2000, over three million people have visited. Every year on April 19, survivors, families, and friends return to the memorial to read the names of each person lost. McVeigh was executed by [[lethal injection]] on June 11, 2001.
+
+The "Core-to-Shore" project was created to [[Oklahoma City Crosstown Expressway|relocate I-40 one mile (1.6&nbsp;km) south]] and replace it with a [[boulevard]] to create a landscaped entrance to the city.<ref>{{cite web|url=http://www.okc.gov/planning/coretoshore/index.html|title=Core to Shore at City of Oklahoma City|website=Okc.gov|url-status=dead|archive-url=https://web.archive.org/web/20100527103013/http://www.okc.gov/planning/coretoshore/index.html|archive-date=May 27, 2010}}</ref> This also allows the central portion of the city to expand south and connect with the shore of the Oklahoma River. Several elements of "Core to Shore" were included in the [[Metropolitan Area Projects Plan 3|MAPS 3]] proposal approved by voters in late 2009.
+
+==Geography==
+[[File:Oklahoma City Oklahoma.jpg|thumb|right|Mid-May 2006 photograph of Oklahoma City taken from the [[International Space Station]] (ISS)]]
+Oklahoma City lies along one of the primary corridors into [[Texas]] and [[Mexico]] and is a three-hour drive from the [[Dallas-Fort Worth metroplex]]. The city is in the [[Central Oklahoma|Frontier Country]] region in the state's center, making it ideal for state government.
+
+According to the [[United States Census Bureau]], the city has a total area of {{convert|620.34|sqmi|km2}},<ref name="okc.gov">{{cite web|title=About Oklahoma City|url=http://www.okc.gov/about/index.html|website=okc.gov|access-date=February 25, 2016|url-status=dead|archive-url=https://web.archive.org/web/20160223125833/http://okc.gov/about/index.html|archive-date=February 23, 2016}}</ref> of which {{convert|601.11|sqmi|km2}} is land and {{convert|19.23|sqmi|km2}} is water.
+
+Oklahoma City lies in the Sandstone Hills region of Oklahoma, known for hills of {{convert|250|to|400|ft|m|-1}} and two species of oak: [[blackjack oak]] (''Quercus marilandica'') and [[post oak]] (''Q. stellata'').<ref>[http://www.netstate.com/states/geography/ok_geography.htm Oklahoma Geography], NetState.com . Retrieved February 4, 2010.</ref> The northeastern part of the city and its eastern suburbs fall into an ecological region known as the [[Cross Timbers]].<ref>{{cite web|url=ftp://ftp.epa.gov/wed/ecoregions/ok/ok_front.pdf|title=Ecoregions of Oklahoma|access-date=September 24, 2008}} {{dead link|date=October 2019 |bot=InternetArchiveBot |fix-attempted=yes}}</ref>
+
+The city is roughly bisected by the [[North Canadian River]] (recently renamed the Oklahoma River inside city limits). The North Canadian once had sufficient flow to flood every year, wreaking destruction on surrounding areas, including the central business district and the original Oklahoma City Zoo.<ref>[http://www.oklahoma-city-life.com/history-of-the-oklahoma-city-zoo.html History of the Oklahoma City Zoo] {{Webarchive|url=https://web.archive.org/web/20160117005255/http://www.oklahoma-city-life.com/history-of-the-oklahoma-city-zoo.html |date=January 17, 2016}}, Oklahoma City Life Web site. Retrieved February 5, 2010.</ref> In the 1940s, a dam was built on the river to manage the flood control and reduce its level.<ref>[http://www.ou.edu/special/albertctr/archives/ThomasLegInventory/Etproj05.htm Elmias Thomas Collection Projects Series] {{webarchive|url=https://web.archive.org/web/20141115090659/http://www.ou.edu/special/albertctr/archives/ThomasLegInventory/Etproj05.htm |date=November 15, 2014 }}, University of Oklahoma. Retrieved February 5, 2010.</ref> In the 1990s, as part of the citywide revitalization project known as MAPS, the city built a series of low-water dams, returning water to the portion of the river flowing near downtown.<ref>[http://www.okc.gov/maps/river/index.html=November 2008 Oklahoma River] {{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes}}, [http://www.okc.gov/ City of Oklahoma City]. Retrieved February 4, 2010. {{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}</ref> The city has three large lakes: [[Lake Hefner]] and [[Lake Overholser]], in the northwestern quarter of the city; and the largest, [[Lake Stanley Draper]], in the city's sparsely populated far southeast portion.
+
+The population density typically reported for Oklahoma City using the area of its city limits can be misleading. Its urbanized zone covers roughly {{convert|244|sqmi|km2}} resulting in a 2013 estimated density of {{convert|2,500|/sqmi}}, compared with larger rural watershed areas incorporated by the city, which cover the remaining {{convert|377|sqmi|km2|abbr=on}} of the city limits.<ref name=autogenerated3>American Fact Finder Table GCT-PH1 retrieved on July 17, 2008</ref>
+
+Oklahoma City is one of the largest cities in the nation in compliance with the [[Clean Air Act (United States)|Clean Air Act]].<ref>[http://www.mtpokc.com/about.html About] {{Webarchive|url=https://web.archive.org/web/20090516191904/http://www.mtpokc.com/about.html |date=May 16, 2009 }}, Modern Transit Project. Retrieved February 5, 2010.</ref>
+
+===Tallest buildings===
+{{Main|List of tallest buildings in Oklahoma City}}
+{| class="wikitable sortable"
+|-
+! scope="col" | Rank
+! scope="col" | Building
+! scope="col" | Height
+! scope="col" | Floors
+! scope="col" | Built
+! scope="col" class="unsortable" | Ref.
+|-
+|1 || [[Devon Energy Center (Oklahoma City)|Devon Energy Center]] || {{convert|844|ft|m|0}}|| 50 || 2012 ||<ref>{{cite web|url=https://skyscraperpage.com/cities/?buildingID=78797 |title=Devon Energy Center, Oklahoma City |publisher=SkyscraperPage.com |date= |accessdate=February 16, 2022}}</ref>
+|-
+|2 || [[BancFirst Tower]] || {{convert|500|ft|m|0}}|| 36 || 1971 ||<ref>{{cite web|url=https://skyscraperpage.com/cities/?buildingID=515 |title=Cotter Ranch Tower, Oklahoma City |publisher=SkyscraperPage.com |date= |accessdate=February 16, 2022}}</ref>
+|-
+|3 ||[[First National Center (Oklahoma City)|First National Center]] || {{convert|446|ft|m|0}}|| 33 || 1931 ||<ref>{{cite web|url=https://skyscraperpage.com/cities/?buildingID=565 |title=First National Center, Oklahoma City |publisher=SkyscraperPage.com |date= |accessdate=February 16, 2022}}</ref>
+|-
+|4 || [[BOK Park Plaza]] || {{convert|433|ft|m|0}}|| 27 || 2017 ||<ref>{{cite web|url=https://skyscraperpage.com/cities/?buildingID=105043 |title=BOK Park Plaza, Oklahoma City |publisher=SkyscraperPage.com |date= |accessdate=February 16, 2022}}</ref>
+|-
+|5 ||[[Oklahoma Tower]] || {{convert|410|ft|m|0}}|| 31 || 1982 ||<ref>{{cite web|url=https://skyscraperpage.com/cities/?buildingID=516 |title=First Oklahoma Tower, Oklahoma City |publisher=SkyscraperPage.com |date= |accessdate=February 16, 2022}}</ref>
+|-
+|6 || [[SandRidge Center|Strata Tower]] || {{convert|393|ft|m|0}}|| 30 || 1973 ||<ref>{{cite web|url=https://skyscraperpage.com/cities/?buildingID=517 |title=Strata Tower, Oklahoma City |publisher=SkyscraperPage.com |date= |accessdate=February 16, 2022}}</ref>
+|-
+|7 || [[City Place Tower (Oklahoma City)|City Place]] || {{convert|391|ft|m|0}}|| 33 || 1931 ||<ref>{{cite web|url=https://skyscraperpage.com/cities/?buildingID=566 |title=City Place, Oklahoma City |publisher=SkyscraperPage.com |date= |accessdate=February 16, 2022}}</ref>
+|-
+|8 || Valliance Bank Tower || {{convert|321|ft|m|0}}|| 22 || 1984 ||<ref>{{cite web|url=https://skyscraperpage.com/cities/?buildingID=623 |title=Valliance Bank Tower, Oklahoma City |publisher=SkyscraperPage.com |date= |accessdate=February 16, 2022}}</ref>
+|-
+|9 || [[Leadership Square|Leadership Square North]] || {{convert|285|ft|m|0}}|| 22 || 1984 ||<ref>{{cite web|url=https://skyscraperpage.com/cities/?buildingID=569 |title=One Leadership Square, Oklahoma City |publisher=SkyscraperPage.com |date= |accessdate=February 16, 2022}}</ref>
+|-
+|10 || Arvest Tower || {{convert|281|ft|m|0}}|| 16 || 1972 ||<ref>{{cite web|url=https://skyscraperpage.com/cities/?buildingID=568 |title=Bank of Oklahoma Plaza, Oklahoma City |publisher=SkyscraperPage.com |date= |accessdate=February 16, 2022}}</ref>
+|}
+
+===Neighborhoods===
+{{Main|Neighborhoods of Oklahoma City}}
+[[File:Automobile Alley in Oklahoma City.jpg|thumb|right|Automobile Alley in Oklahoma City]]
+[[File:Heartofokc.jpg|thumb|Looking up in the heart of Oklahoma City's Central Business District]]
+Oklahoma City neighborhoods are highly varied, with affluent historic neighborhoods located next to districts that have not wholly recovered from the economic and social decline of the 1970s and 1980s.{{citation needed|date=May 2021}}
+
+The city is bisected geographically and culturally by the North Canadian River, which divides North Oklahoma City and South Oklahoma City. The north side is characterized by diverse and fashionable urban neighborhoods near the city center and sprawling suburbs further north. South Oklahoma City is generally more blue-collar working class and significantly more industrial, having grown up around the Stockyards and meat packing plants at the turn of the century. It is also the center of the city's rapidly growing Latino community.
+
+[[Downtown Oklahoma City]], which has 7,600 residents, is seeing an influx of new private investment and large-scale public works projects, which have helped to revitalize a central business district left almost deserted by the Oil Bust of the early 1980s. The centerpiece of downtown is the newly renovated Crystal Bridge and Myriad Botanical Gardens, one of the few elements of the [[Pei Plan]] to be completed. In 2021, a massive new central park will link the gardens near the CBD and the new convention center to be built just south of it to the North Canadian River as part of a massive works project known as "Core to Shore"; the new park is part of MAPS3, a collection of civic projects funded by a one-cent temporary (seven-year) sales tax increase.<ref>{{cite web|url=https://www.okc.gov/government/maps-3/projects/downtown-public-park|title=Scissortail Park &#124; City of OKC|website=Okc.gov}}</ref>
+
+===Climate===
+{{Main|Climate of Oklahoma City}}
+Oklahoma City has a temperate [[humid subtropical climate]] ([[Köppen-Geiger climate classification system|Köppen]]: Cfa), along with significant continental influences. The city features hot, humid summers and cool winters. Prolonged and severe droughts (sometimes leading to wildfires in the vicinity) and hefty rainfall leading to flash flooding and flooding occur regularly. Consistent winds, usually from the south or south-southeast during the summer, help temper the hotter weather. Consistent northerly winds during the winter can intensify cold periods. Severe [[ice storm]]s and [[snowstorm]]s happen sporadically during the winter.
+
+The average temperature is {{convert|61.4|°F}}, with the monthly daily average ranging from {{convert|39.2|°F|1}} in January to {{convert|83.0|°F|1}} in July. Extremes range from {{convert|-17|F|0}} on [[Great Blizzard of 1899|February 12, 1899]] to {{convert|113|F|0}} on August 11, 1936, and [[Summer 2012 North American heat wave|August 3, 2012]];<ref>[http://www.weather.gov/oun/climate-records "Climatological averages and records"] [[National Weather Service|NWS]] Norman, Oklahoma. Retrieved August 22, 2012.</ref> The last sub-zero (Fahrenheit) reading was {{convert|-14|F|0}} on February 16, 2021.<ref name = NOAA/><ref>{{cite news|url=https://www.cnn.com/2021/02/16/us/record-cold-weather-us-trnd/index.html|title=These US cities had the coldest morning in decades -- with some reaching all-time record lows|author=Miller, Brandon|date=February 16, 2021|publisher=CNN|access-date=February 16, 2021}}</ref> Temperatures reach {{convert|100|F|0}} on 10.4 days of the year, {{convert|90|F|0}} on nearly 70 days, and fail to rise above freezing on 8.3 days.<ref name = NOAA/> The city receives about {{convert|35.9|in|cm|1}} of precipitation annually, of which {{convert|8.6|in|cm|1}} is snow.
+
+The report "Regional Climate Trends and Scenarios for the U.S. National Climate Assessment" ([[National Climate Assessment|NCA]]) from 2013 by NOAA projects that parts of the Great Plains region can expect up to 30% (high emissions scenario based on CMIP3 and NARCCAP models) increase in extreme precipitation days by mid-century. This definition is based on days receiving more than one inch of rainfall.<ref>{{cite web|url=http://scenarios.globalchange.gov/sites/default/files/NOAA_NESDIS_Tech_Report_142-4-Climate_of_the_U.S.%20Great_Plains_0.pdf|title=Regional Climate Trends and Scenarios for the U.S. National Climate Assessment|year=2013|author=NOAA|page=58}}</ref>
+
+====Extreme weather====
+Oklahoma City has an active severe weather season from March through June, especially during April and May. Being in the center of what is colloquially referred to as [[Tornado Alley]], it is prone to widespread and severe tornadoes, as well as severe [[hail]]storms and occasional [[derecho]]es. Tornadoes occur every month of the year, and a secondary smaller peak also occurs during autumn, especially in October. The Oklahoma City metropolitan area is one of the most tornado-prone major cities in the world, with about 150 tornadoes striking within the city limits since 1890. Since the time weather records have been kept, Oklahoma City has been struck by 13 violent tornadoes, eleven rated F/EF4 and two rated F/EF5.<ref name="OKC Tor2"/>
+
+On [[1999 Oklahoma tornado outbreak|May 3, 1999]], parts of Oklahoma City and surrounding communities were impacted by a tornado. It was the last U.S. tornado to be given a rating of F5 on the [[Fujita scale]] before the [[Enhanced Fujita scale]] replaced it in 2007. While the tornado was in the vicinity of Bridge Creek to the southwest, wind speeds of {{convert|318|mi/h|km/h|-1|abbr=on}} were estimated by a mobile Doppler radar, the highest wind speeds ever recorded on Earth.<ref name="3may99">{{cite web|title = The Great Plains Tornado Outbreak of May 3–4, 1999 |publisher = National Weather Service Norman Oklahoma |url = http://www.weather.gov/oun/events-19990503 |access-date = May 30, 2013}}</ref> A [[2013 Moore tornado|second top-of-the-scale tornado]] occurred on May 20, 2013; South Oklahoma City, along with [[Newcastle, Oklahoma|Newcastle]] and [[Moore, Oklahoma|Moore]], was hit by an [[Enhanced Fujita scale|EF5]] tornado. The tornado was {{convert|0.5|to|1.3|mi|km|}} wide and killed 23 people.<ref name="Moore">{{cite web |title = The Tornado Outbreak of May 20, 2013 |publisher = National Weather Service Norman, Oklahoma |year = 2013 |url = http://www.weather.gov/oun/events-20130520 |access-date = May 30, 2013 }}</ref> On May 31, less than two weeks after the May 20 event, [[Tornado outbreak of May 26–31, 2013|another outbreak]] affected the Oklahoma City area. Within Oklahoma City, the system spawned an EF1 and an EF0 tornado, and in El Reno to the west, an EF3 tornado occurred. [[2013 El Reno tornado|This lattermost tornado]], which was heading in the direction of Oklahoma City before it dissipated, had a width of {{convert|2.6|mi|km}}, making it the widest tornado ever recorded. Additionally, winds over {{convert|295|mi/h|km/h|abbr=on}} were measured, one of the two highest wind records for a tornado.<ref>{{cite web|title=The May 31 – June 1, 2013 Tornado and Flash Flooding Event|publisher=National Weather Service Norman, Oklahoma|year=2013|url=http://www.weather.gov/oun/events-20130531|access-date=June 10, 2013}}</ref>
+
+With {{convert|19.48|in|mm}} of rainfall, May 2015 was Oklahoma City's record-wettest month since record-keeping began in 1890. Across Oklahoma and Texas generally, there was a record [[2015 Texas–Oklahoma floods|flooding in the latter part of the month]].<ref name=WP26May>{{cite news|url=https://www.washingtonpost.com/news/post-nation/wp/2015/05/26/after-massive-storms-in-oklahoma-and-texas-at-least-six-people-and-tens-of-thousands-without-power/|title=After massive storms in Oklahoma and Texas, at least nine killed and 30 people missing|date=May 26, 2015|newspaper=[[Washington Post]]}}</ref>
+{{Oklahoma City weatherbox}}
+
+==Demographics==
+{{US Census population
+| title= Population of Oklahoma City 1890-2022
+| align = right
+|1890 = 4151
+|1900 = 10037
+|1910 = 64205
+|1920 = 91295
+|1930 = 185389
+|1940 = 204424
+|1950 = 243504
+|1960 = 324253
+|1970 = 368164
+|1980 = 404014
+|1990 = 444719
+|2000 = 506132
+|2010 = 579999
+|2020 = 681054
+| estyear = 2023
+| estimate = 702767
+| estref = <ref name="USCensusEst2023">{{cite web|url=https://www.census.gov/quickfacts/fact/table/oklahomacitycityoklahoma,US/PST045223|title=Annual Estimates of the Resident Population for Counties: April 1, 2020 to July 1, 2023|publisher= United States Census Bureau|access-date=May 16, 2024}}</ref>
+| align-fn = center
+| footnote = U.S. Decennial Census<ref>{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=U.S. Decennial Census|publisher=United States Census Bureau|access-date=February 21, 2015}}</ref><br />1790-1960<ref>{{cite web|url=http://mapserver.lib.virginia.edu/|title=Historical Census Browser|publisher=University of Virginia Library|access-date=February 21, 2015|archive-date=August 11, 2012|archive-url=https://web.archive.org/web/20120811110448/http://mapserver.lib.virginia.edu/|url-status=dead}}</ref> 1900-1990<ref>{{cite web|url=https://www.census.gov/population/cencounts/ok190090.txt|title=Population of Counties by Decennial Census: 1900 to 1990|publisher=United States Census Bureau|editor-last=Forstall|editor-first=Richard L.|date=March 27, 1995|access-date=February 21, 2015}}</ref><br />1990-2000<ref>{{cite web|url=https://www.census.gov/population/www/cen2000/briefs/phc-t4/tables/tab02.pdf |archive-url=https://ghostarchive.org/archive/20221009/https://www.census.gov/population/www/cen2000/briefs/phc-t4/tables/tab02.pdf |archive-date=2022-10-09 |url-status=live|title=Census 2000 PHC-T-4. Ranking Tables for Counties: 1990 and 2000|publisher=United States Census Bureau|date=April 2, 2001|access-date=February 21, 2016}}</ref> 2010<ref name="QF">{{cite web|title=State & County QuickFacts|url=http://quickfacts.census.gov/qfd/states/40/40109.html|publisher=United States Census Bureau|access-date=November 12, 2013|url-status=dead|archive-url=https://web.archive.org/web/20110606155446/http://quickfacts.census.gov/qfd/states/40/40109.html|archive-date=June 6, 2011}}</ref>
+}}
+In the [[2010 United States census|2010 census]], there were 579,999 people, 230,233 households, and 144,120 families in the city. The population density was 956.4 inhabitants per square mile (321.9/km<sup>2</sup>). There were 256,930 housing units at an average density of 375.9 per square mile (145.1/km<sup>2</sup>). By the [[2020 United States census|2020 census]], its population grew to 681,054.<ref name=":0" />
+
+Of Oklahoma City's 579,999 people in 2010, 44,541 resided in Canadian County, 63,723 lived in Cleveland County, 471,671 resided in Oklahoma County, and 64 resided in Pottawatomie County.<ref>{{cite web|url=https://www.census.gov/prod/cen2010/cph-1-38.pdf|title=Oklahoma 2010: Summary Population and Housing Statistics|website=Census.gov|access-date=March 15, 2020}}</ref>
+
+In 2010, there were 230,233 households, 29.4% of which had children under 18 living with them, 43.4% were married couples living together, 13.9% had a female householder with no husband present, and 37.4% were non-families. One person households account for 30.5% of all households, and 8.7% of all households had someone living alone who was 65 years of age or older. The average household size was 2.47 and the average family size was 3.11.<ref>{{cite web|url=http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_SF2_SF2DP1&prodType=table|archive-url=https://archive.today/20200212212931/http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_SF2_SF2DP1&prodType=table|url-status=dead|archive-date=February 12, 2020|title=American FactFinder – Results|author=Data Access and Dissemination Systems (DADS)|website=Census.gov}}</ref>
+
+According to the American Community Survey 1-year estimates in 2022, the median income for a household in the city was $63,713, and the median income for a family was $80,833. Married-couple families $99,839, and nonfamily households $40,521.<ref>U.S. Census Bureau. "Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars)." American Community Survey, ACS 1-Year Estimates Subject Tables, Table S1901, 2022, https://data.census.gov/table/ACSST1Y2022.S1901?t=Income and Poverty&g=160XX00US4055000. Accessed on May 1, 2024.</ref> The per capita income for the city was $35,902.<ref>U.S. Census Bureau. "Per Capita Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars)." American Community Survey, ACS 1-Year Estimates Detailed Tables, Table B19301, 2022, https://data.census.gov/table/ACSDT1Y2022.B19301?t=Income and Poverty&g=160XX00US4055000. Accessed on May 1, 2024.</ref> 15.5% of the population and 11.2% of families were below the poverty line. Of the total population, 20.1% of those under 18 and 10.6% of those 65 and older lived below the poverty line.<ref>U.S. Census Bureau. "Poverty Status in the Past 12 Months." American Community Survey, ACS 1-Year Estimates Subject Tables, Table S1701, 2022, https://data.census.gov/table/ACSST1Y2022.S1701?t=Income and Poverty&g=160XX00US4055000. Accessed on May 1, 2024.</ref>
+
+In the [[2000 United States census|2000 census]], Oklahoma City's age composition was 25.5% under the age of 18, 10.7% from 18 to 24, 30.8% from 25 to 44, 21.5% from 45 to 64, and 11.5% who were 65 years of age or older. The median age was 34 years. For every 100 females, there were 95.6 males. For every 100 females age 18 and over, there were 92.7 males.
+
+Oklahoma City has experienced significant population increases since the late 1990s. It is the first city in the state to record a population greater than 600,000 residents and the first city in the [[Great Plains]] region to record a population greater than 600,000 residents. It is the largest municipal population of the [[Great Plains]] region (Oklahoma, Kansas, Nebraska, South Dakota, North Dakota).{{Ambiguous|date=August 2024|reason=The cities of Dallas and Denver both have greater populations; the definition of the Great Plains seems at issue.}}
+
+In the [[2020 United States census|2020 census]], there were 268,035 households in the city, out of which 81,374 households (30.4%) were individuals, 113,161 (42.2%) were [[marriage|opposite-sex married couples]], 17,699 (6.6%) were [[POSSLQ|unmarried opposite-sex partnerships]], and 2,930 (1.1%) were [[same-sex partnerships|same-sex married couples or partnerships]].<ref>U.S. Census Bureau. "COUPLED HOUSEHOLDS, BY TYPE." Decennial Census, DEC Demographic and Housing Characteristics, Table PCT15, 2020, https://data.census.gov/table/DECENNIALDHC2020.PCT15?q=Oklahoma City city, Oklahoma&t=Relationship. Accessed on April 30, 2024.</ref>
+
+=== Race and ethnicity ===
+
+[[File:Racial and ethnicity distribution map okc 2020.jpg|thumb|right|Map of racial distribution of the Oklahoma City area, 2020 U.S. census. Each dot is one person: {{legend inline|outline=white|white|text=⬤|textcolor=rgb(115, 178, 255)|White}} {{legend inline|outline=white|white|text=⬤|textcolor=rgb(159, 212, 0)|Black}} {{legend inline|outline=white|white|text=⬤|textcolor=rgb(255, 0, 0)|Asian}} {{legend inline|outline=white|white|text=⬤|textcolor=rgb(255, 170, 0)|Hispanic}} {{legend inline|outline=white|white|text=⬤|textcolor=rgb(140, 81, 181)|Multiracial}} {{legend inline|outline=white|white|text=⬤|textcolor=rgb(153, 102, 51)|Native American/Other}}]]
+
+{| class="wikitable sortable collapsible mw-collapsible" style="font-size: 90%;"
+|-
+! Historical racial composition !! 2020 <ref name=":0">{{cite web|author=Indianapolis Star |url=https://data.indystar.com/census/race-ethnicity/total-population-change/oklahoma-city-city-oklahoma/160-4055000/#ctable |title=Oklahoma City city, Oklahoma Demographics and Housing 2020 Decennial Census &#124; indystar.com |publisher=Data.indystar.com |date=October 21, 2014 |accessdate=February 16, 2022}}</ref>!! 2010<ref>{{cite web|url=http://quickfacts.census.gov/qfd/states/40/4055000.html |title=State & County QuickFacts – Oklahoma City (city), Oklahoma |publisher=[[United States Census Bureau]] |url-status=dead |archive-url=https://web.archive.org/web/20090328074511/http://quickfacts.census.gov/qfd/states/40/4055000.html |archive-date=March 28, 2009 }}</ref> !! 1990<ref name="census"/> !! 1970<ref name="census"/> !! 1940<ref name="census"/>
+|-
+| [[White American|White (Non-Hispanic)]] || 49.5% || 56.7% || 72.9% || 82.2% || 90.4%
+|-
+| [[Hispanic and Latino Americans|Hispanic or Latino]] || 21.3% || 17.2% || 5.0% || 2.0% || n/a
+|-
+| [[African American|Black or African American]] || 13.8% || 14.8% || 16.0% || 13.7% || 9.5%
+|-
+| [[Multiracial American|Mixed]] || 7.6% || 4.0% || 0.4% || – || –
+|-
+| [[Asian American|Asian]] || 4.6% || 4.0% || 2.4% || 0.2% || –
+|-
+| [[Native Americans in the United States|Native American]] || 3.4% || 3.1% || 4.2% || 2.0% || 0.1% 
+|}
+
+According to the 2020 census, the racial composition of Oklahoma City was as follows:<ref>{{cite web |title=Hispanic or Latino, and Not Hispanic or Latino By Race |url=https://data.census.gov/cedsci/table?q=oklahoma%20city&tid=DECENNIALPL2020.P2 |website=data.census.gov |publisher=United States Census Bureau |access-date=February 12, 2022 |date=August 12, 2021}}</ref> [[White American|White or European American]] 49.5%, [[Hispanic and Latino Americans|Hispanic or Latino]] 21.3%, [[Black (U.S. Census)|Black or African American]] 13.8%, [[Race and ethnicity in the United States Census|Asian]] 4.6%, [[Native Americans in the United States|Native American]] 2.8%, [[Pacific Islands American|Native Hawaiian and Other Pacific Islander]] 0.2%, other race 0.4%, and [[Multiracial American|two or more races]] (non-Hispanic) 7.6%. Its population has diversified since the 1940s census, where 90.4% was [[Non-Hispanic whites|non-Hispanic white]].<ref name="census" /> An analysis in 2017 found Oklahoma City to be the 8th least racially segregated significant city in the United States.<ref>{{cite web |title=10 Least Segregated Cities In America|url=https://www.insidermonkey.com/blog/10-least-segregated-cities-in-america-564362/?singlepage=1}}</ref>
+Of the 20 largest US cities, Oklahoma City has the second-highest percentage of the population reporting two or more races on the Census, 7.6%, second to 8.9% in [[New York City]].
+
+===2020===
+{| class="wikitable" style="text-align:center;"
+|+'''Oklahoma City – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004 Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Oklahoma City|url=https://data.census.gov/table/DECENNIALSF12000.P004?g=160XX00US4055000|website=[[United States Census Bureau]]}}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web |title = P2 Hispanic or Latino, and not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Oklahoma City|url = https://data.census.gov/cedsci/table?q=p2&g=160XX00US4055000&tid=DECENNIALPL2010.P2 |publisher = [[United States Census Bureau]]}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web |title = P2 Hispanic or Latino, and not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Oklahoma City |url = https://data.census.gov/cedsci/table?q=p2&g=160XX00US4055000&tid=DECENNIALPL2020.P2 |publisher = [[United States Census Bureau]]}}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|327,225
+|328,582
+|style='background: #ffffe6; |337,063
+|64.65%
+|56.65%
+|style='background: #ffffe6; |49.49%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|76,994
+|85,744
+|style='background: #ffffe6; |93,767
+|15.21%
+|14.78%
+|style='background: #ffffe6; |13.77%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|16,406
+|18,208
+|style='background: #ffffe6; |18,757
+|3.24%
+|3.14%
+|style='background: #ffffe6; |2.75%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|17,410
+|23,051
+|style='background: #ffffe6; |31,163
+|3.44%
+|3.97%
+|style='background: #ffffe6; |4.58%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|278
+|464
+|style='background: #ffffe6; |971
+|0.05%
+|0.08%
+|style='background: #ffffe6; |0.14%
+|-
+|[[Race and ethnicity in the United States census|Some Other Race]] alone (NH)
+|452
+|700
+|style='background: #ffffe6;|2,700
+|0.09%
+|0.12%
+|style='background: #ffffe6; |0.40%
+|-
+|[[Multiracial Americans|Mixed Race or Multi-Racial]] (NH)
+|15,999
+|23,212
+|style='background: #ffffe6; |51,872
+|3.16%
+|4.00%
+|style='background: #ffffe6; |7.62%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|51,368
+|100,038
+|style='background: #ffffe6; |144,761
+|10.15%
+|17.25%
+|style='background: #ffffe6; |21.26%
+|-
+|'''Total'''
+|'''506,132'''
+|'''579,999'''
+|style='background: #ffffe6; |'''681,054'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===Metropolitan statistical area===
+[[File:Flickr - Nicholas T - Skyline.jpg|thumb|Old Interstate 40 Crosstown, Oklahoma City]]
+Oklahoma City is the principal city of the eight-county Oklahoma City metropolitan statistical Area in [[Central Oklahoma]] and is the state's largest urbanized area. As of 2015, the metro area was the [[List of metropolitan statistical areas|41st largest in the nation]] based on population.<ref name=bmark>{{cite web|title=Results|url=https://www.census.gov/popest/data/metro/totals/2015/index.html|website=American Factfinder|publisher=[[United States Census Bureau]]|access-date=March 24, 2016}} {{dead link|date=December 2017 |bot=Balon Greyjoy |fix-attempted=yes}}</ref>
+
+=== Religion ===
+The [[Association of Religion Data Archives]] in 2020 reported that the [[Southern Baptist Convention]] was the city and metropolitan area's most prominent Christian tradition with 213,008 members, [[Christianity]] being the area's predominant religion. [[Nondenominational Christianity|Non/interdenominational Protestants]] were the second largest tradition with 195,158 members. The [[Roman Catholic church|Roman Catholic Church]] claimed 142,491 adherents throughout the metropolitan region and [[Pentecostalism|Pentecostals]] within the [[Assemblies of God USA]] numbered 48,470.<ref name=":1">{{Cite web |title=Maps and data files for 2020 {{!}} U.S. Religion Census {{!}} Religious Statistics & Demographics |url=https://www.usreligioncensus.org/index.php/node/1639 |access-date=2023-01-24 |website=www.usreligioncensus.org}}</ref> The remainder of Christians in the area held to predominantly [[Evangelical Christian]] beliefs in numerous evangelical Protestant denominations. Outside of Christendom, there were 4,230 practitioners of [[Hinduism]] and 2,078 [[Mahayana|Mahayana Buddhists]]. An estimated 8,904 residents practiced [[Islam]] during this study.<ref name=":1" />
+
+===Crime===
+
+Law enforcement claims Oklahoma City has traditionally been the territory of the notorious [[Juárez Cartel]], but the [[Sinaloa Cartel]] has been reported as trying to establish a foothold in Oklahoma City. There are many rival gangs in Oklahoma City, one whose headquarters has been established in the city, the Southside Locos, traditionally known as [[Sureños]].<ref>{{cite web |url=http://www.newsok.com/narcotics-agents-arrest-suspected-cartel-member-in-oklahoma-city/article/3472186?custom_click=lead_story_title |title=Narcotics agents arrest suspected cartel member in Oklahoma City |publisher=Newsok.com |date=June 29, 2010 |access-date=February 15, 2012 |archive-date=May 15, 2012 |archive-url=https://web.archive.org/web/20120515214044/http://newsok.com/narcotics-agents-arrest-suspected-cartel-member-in-oklahoma-city/article/3472186?custom_click=lead_story_title |url-status=dead }}</ref>
+
+Oklahoma City also has its share of violent crimes, particularly in the 1970s. The worst occurred in 1978 when six employees of a Sirloin Stockade restaurant on the city's south side were murdered execution-style in the restaurant's freezer. An intensive investigation followed, and the three individuals involved, who also killed three others in [[Purcell, Oklahoma]], were identified. One, Harold Stafford, died in a motorcycle accident in [[Tulsa, Oklahoma|Tulsa]] not long after the restaurant murders. Another, Verna Stafford, was sentenced to life without parole after being granted a new trial after she had been sentenced to death. [[Roger Dale Stafford]], considered the mastermind of the murder spree, was executed by lethal injection at the [[Oklahoma State Penitentiary]] in 1995.<ref>{{cite book|last=Stover|first=Jean|title=Sirloin Stockade Slaughter: Murder on the Run|year=2009|publisher=Eloquent Books|location=Durham, Connecticut|isbn=978-1-60860-924-6|url=https://books.google.com/books?id=MiOLvihIQZ4C&q=six+employees+of+a+Sirloin+Stockade%2C+oklahoma+city&pg=PA83}}</ref>
+
+[[Oklahoma City Police Department|The Oklahoma City Police Department]] has a uniformed force of 1,169 officers and 300+ civilian employees. The department has a central police station and five substations covering 2,500 police reporting districts that average 1/4 square mile in size.
+[[File:Murrah Building - Aerial.jpg|thumb|The Murrah Federal Building after the [[Oklahoma City bombing|attack]]]]
+
+On April 19, 1995, the [[Alfred P. Murrah Federal Building]] was destroyed by a fertilizer bomb manufactured and detonated by [[Timothy McVeigh]]. The blast and catastrophic collapse killed 168 people and injured over 680. The blast shock-wave destroyed or damaged 324 buildings within a 340-meter radius, destroyed or burned 86 cars, and shattered glass in 258 nearby buildings, causing at least an estimated $652 million. McVeigh was convicted and subsequently executed by lethal injection on June 11, 2001.
+
+==Economy==
+{{See also|List of companies based in Oklahoma City}}
+[[File:Sonic Drive-In corporate headquarters.jpg|thumb|The [[Sonic Drive-In]] restaurant chain is headquartered in Oklahoma City.]]
+The economy of Oklahoma City, once just a regional power center of government and energy exploration, has since diversified to include the sectors of information technology, [[tertiary sector of the economy|services]], [[health care|health services]], and administration. The city is headquarters to two [[Fortune 500]] companies: [[Expand Energy]] and [[Devon Energy]],<ref>{{cite magazine | url=http://fortune.com/fortune500/devon-energy-corporation-270/ | magazine=Forbes | title=Fortune 500 2014:Devon Energy Corporation | access-date=November 29, 2014 | archive-url=https://web.archive.org/web/20141129160141/http://fortune.com/fortune500/devon-energy-corporation-270/ | archive-date=November 29, 2014}}</ref> as well as being home to [[Love's Travel Stops & Country Stores]], which is ranked thirteenth on [[Forbes]]' list of private companies.<ref>{{cite magazine | url=https://www.forbes.com/companies/loves-travel-stops-country-stores/ | magazine=Forbes | title=Love's Travel Stops & Country Stores | access-date=November 29, 2014 | date=October 2014 | archive-url=https://web.archive.org/web/20141019032947/http://www.forbes.com/companies/loves-travel-stops-country-stores/ | archive-date=October 19, 2014}}</ref>
+
+As of March 2024, the top 20 employers in the city were:<ref>{{Cite web |title=Greater Oklahoma City Economic Development {{!}} Greater Oklahoma City Economic Development |url=https://www.greateroklahomacity.com/index.php?src=employers&srctype=major_employers_map&submenu=_employers |access-date=2024-04-19 |website=www.greateroklahomacity.com |archive-date=April 19, 2024 |archive-url=https://web.archive.org/web/20240419061558/https://www.greateroklahomacity.com/index.php?src=employers&srctype=major_employers_map&submenu=_employers |url-status=dead }}</ref>
+
+{| class="wikitable"
+|-
+! #
+! Employer
+! # of employees
+|-
+|1
+|[[Oklahoma|State of Oklahoma]] (State Capital)
+|37,600
+|-
+|2
+|[[Tinker Air Force Base]]
+|26,000
+|-
+|3
+|[[Oklahoma State University–Stillwater|Oklahoma State University-Stillwater]]
+|13,940
+|-
+|4
+|[[University of Oklahoma|University of Oklahoma-Norman]]
+|11,530
+|-
+|5
+|[[Integris Health]]
+|11,000
+|-
+|6
+|[[Amazon (company)|Amazon]]
+|8,000
+|-
+|7
+|[[Hobby Lobby|Hobby Lobby Stores]] (HQ)
+|6,500
+|-
+|8
+|[[Mercy Health Center]] (HQ)
+|6,500
+|-
+|9
+|[[SSM Health Care]] (Regional HQ)
+|5,600
+|-
+|10
+|FAA [[Mike Monroney Aeronautical Center]]
+|5,150
+|-
+|11
+|[[University of Oklahoma Health Sciences Center]]
+|5000
+|-
+|12
+|City of Oklahoma City
+|4,500
+|-
+|13
+|[[OU Health|OU Medical Center]]
+|4,360
+|-
+|14
+|[[Paycom]] (HQ)
+|4,200
+|-
+|15
+|[[Boeing|The Boeing Company]]
+|3,740
+|-
+|16
+|[[MidFirst Bank|Midfirst Bank]] (HQ)
+|3,100
+|-
+|17
+|[[Norman Regional Hospital]]
+|2,740
+|-
+|18
+|[[AT&T]]
+|2,700
+|-
+|19
+|[[Oklahoma Gas & Electric|OGE Energy Corp]] (HQ)
+|2,240
+|-
+|20
+|[[Dell]]
+|2,100
+|}
+
+Other major corporations with a significant presence (over 1,000 employees) in the city of Oklahoma City include the [[United Parcel Service]], [[Farmers Insurance Group]], Great Plains [[Coca-Cola]] Bottling Company, [[Deaconess Hospital (Oklahoma City, Oklahoma)|Deaconess Hospital]], [[Johnson Controls]], [[MidFirst Bank]], Rose State College, and Continental Resources.<ref name="GOC">{{cite web |date=July 2014 |title=Oklahoma City MSA Major Employer List |url=http://www.greateroklahomacity.com/index.php?src=directory&view=employers |archive-url=https://web.archive.org/web/20141129151814/http://www.greateroklahomacity.com/index.php?src=directory&view=employers |archive-date=November 29, 2014 |access-date=November 29, 2014 |publisher=Greater Oklahoma City}}</ref><ref>"[http://www.city-data.com/us-cities/The-South/Oklahoma-City-Economy.html Oklahoma City: Economy], City-Data.com. Retrieved January 26, 2010.</ref>
+
+While not in the city limits, other large employers within the Oklahoma City MSA include [[Tinker Air Force Base|United States Air Force – Tinker AFB]] (27,000); [[University of Oklahoma]] (11,900); [[University of Central Oklahoma]] (2,900); and [[Norman Regional Hospital]] (2,800).<ref name=GOC />
+
+According to the Oklahoma City Chamber of Commerce, the metropolitan area's economic output grew by 33% between 2001 and 2005 due chiefly to economic diversification. Its [[gross metropolitan product]] (GMP) was $43.1&nbsp; billion in 2005<ref>{{cite web |url=http://newsok.com/article/3096816 |title=City area enjoys increase in jobs |website=NewsOK |access-date=May 1, 2010 |date=August 2, 2007 |first1=Paul |last1=Monies |url-access=subscription |url-status=dead |archive-url=https://web.archive.org/web/20120926001444/http://newsok.com/article/3096816 |archive-date= Sep 26, 2012 }}</ref> and grew to $61.1&nbsp;billion in 2009.<ref>{{Cite web |title=Gross Domestic Product by Metropolitan Area, 2016 |url=https://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm |url-status=dead |archive-url=https://web.archive.org/web/20180727125527/https://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm |archive-date=Jul 27, 2018 |website=BEA}}</ref> By 2016 the GMP had grown to $73.8&nbsp;billion.<ref>{{cite web |url=http://usmayors.org/metroeconomies/0616/report.pdf |title=U.S. Metro Economies - Analysis: Metro Economies since 2009 - GMP and Employment Report: 2015-2017 |website=United States Conference of Mayors |publisher=IHS Global Insight |access-date=October 2, 2016 |url-status=dead |archive-url=https://web.archive.org/web/20160918184734/http://usmayors.org/metroeconomies/0616/report.pdf |archive-date=September 18, 2016 |df=mdy-all }}</ref>
+
+In 2008, ''Forbes'' magazine reported that the city had falling unemployment, one of the strongest housing markets in the country and solid growth in energy, agriculture, and manufacturing.<ref>{{cite web|url=https://www.forbes.com/2008/04/29/cities-recession-places-forbeslife-cx_jz_0429realestate.html|title=America's Recession-Proof Cities|first=Joshua|last=Zumbrun|date=April 29, 2008|website=Forbes |url-status=live |archive-url=https://web.archive.org/web/20230610065850/https://www.forbes.com/2008/04/29/cities-recession-places-forbeslife-cx_jz_0429realestate.html |archive-date= Jun 10, 2023 }}</ref> However, during the early 1980s, Oklahoma City had one of the worst job and housing markets due to the bankruptcy of [[Penn Square Bank]] in 1982 and then the post-1985 crash in oil prices (oil bust).{{citation needed|date=November 2014}}
+
+===Tourism===
+Approximately 23.2 million visitors contributed $4.3 billion to Oklahoma City's economy. These visitors directly spent $2.6 billion, sustained nearly 34,000 jobs, and generated $343 million in state and local taxes.<ref>{{cite web | url=https://www.visitokc.com/articles/post/okc-tourism-study-reveals-record-breaking-economic-impact/ | title=OKC Tourism Study Reveals Record-breaking Economic Impact | date=August 9, 2023 |website=Visit OKC |url-status=live |archive-url=https://web.archive.org/web/20231107060852/https://www.visitokc.com/articles/post/okc-tourism-study-reveals-record-breaking-economic-impact/ |archive-date= Nov 7, 2023 }}</ref>
+
+===Business districts===
+{{see also|Neighborhoods of Oklahoma City}}
+
+Business and entertainment districts (and, to a lesser extent, local neighborhoods) tend to maintain their boundaries and character by applying zoning regulations and business improvement districts (districts where property owners agree to a property tax surcharge to support additional services for the community).<ref>{{cite web | url=http://www.okc.gov/planning/b_i_d/index.html | publisher=The City of Oklahoma City | title=Business Improvement Districts | access-date=November 29, 2014 | url-status=dead | archive-url=https://web.archive.org/web/20141218203951/http://www.okc.gov/planning/b_i_d/index.html | archive-date=December 18, 2014 | df=mdy-all }}</ref> Through zoning regulations, historic districts, and other special zoning districts, including overlay districts, are well established.<ref>{{cite web|url=http://www.okc.gov/planning/SpecialZoningDistricts%20rev3HR.pdf |publisher=City of Oklahoma City |title=Special Zoning District Map |access-date=November 29, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20141218210424/https://www.okc.gov/planning/SpecialZoningDistricts%20rev3HR.pdf |archive-date=December 18, 2014 }}</ref> Oklahoma City has three business improvement districts, including one encompassing the [[Downtown Oklahoma City|central business district]].
+
+==Culture==
+
+===Museums and theaters===
+{{more citations needed|date=April 2018}}
+[[File:Bricktown Canal Water Taxis in Oklahoma City.jpg|thumb|Water taxis in Oklahoma City's downtown Bricktown neighborhood]]
+The Donald W. Reynolds Visual Arts Center is the new downtown home for the [[Oklahoma City Museum of Art]]. The museum features visiting exhibits, original selections from its collection, a theater showing various foreign, independent, and classic films each week, and a restaurant. OKCMOA is also home to the most comprehensive collection of [[Dale Chihuly|Chihuly]] glass in the world, including the 55-foot Eleanor Blake Kirkpatrick Memorial Tower in the Museum's atrium.<ref>{{cite web|url=http://www.okcmoa.com/exhibitions/dalechihuly-theexhibition|archive-url=https://web.archive.org/web/20080405030315/http://www.okcmoa.com/exhibitions/dalechihuly-theexhibition|url-status=dead|title=Dale Chihuly: The Exhibition &#124; Oklahoma City Museum of Art<!-- Bot generated title -->|archive-date=April 5, 2008}}</ref> The art deco [[Civic Center Music Hall]], which was renovated in 2001, has performances from the Oklahoma City Ballet, the Oklahoma City Opera, the [[Oklahoma City Philharmonic]], and also various concerts and traveling [[Broadway theatre|Broadway shows]].
+[[File:The Survivor Tree at the Oklahoma City National Memorial.jpg|thumb|right|The Survivor Tree on the grounds of the Oklahoma City National Memorial]]
+
+Other theaters include the Lyric Theatre, Jewel Box Theatre, Kirkpatrick Auditorium, the Poteet Theatre, the Oklahoma City Community College Bruce Owen Theater, and the 488-seat Petree Recital Hall at the [[Oklahoma City University]] campus. The university opened the Wanda L Bass School of Music and Auditorium in April 2006.
+
+The [[Oklahoma Contemporary]] Arts Center (formerly City Arts Center) moved downtown in 2020, near Campbell Art Park at 11th and Broadway, after being at the [[Oklahoma State Fair]] fairgrounds since 1989. It features exhibitions, performances, classes, workshops, camps, and weekly programs.
+
+The [[Science Museum Oklahoma]] (formerly Kirkpatrick Science and Air Space Museum at Omniplex) houses exhibits on science and aviation and an [[IMAX]] theater. The museum formerly housed the International Photography Hall of Fame (IPHF), which displays photographs and artifacts from an extensive collection of cameras and other artifacts preserving the history of photography. IPHF honors those who have contributed significantly to the art and/or science of photography and relocated to [[St. Louis, Missouri]] in 2013.
+
+The [[Museum of Osteology]] displays over 450 real skeletons and houses over 7,000.<ref name="Hayes 2023 b471">{{cite web | last=Hayes | first=Jana | title=Indiana Bones, Oklahoma Museum of Osteology's cat, now a TikTok celeb | website=The Oklahoman | date=May 11, 2023 | url=https://www.oklahoman.com/story/lifestyle/features/2023/05/11/indiana-bones-cat-tiktok-oklahoma-museum-osteology-viral/70203685007/ | access-date=January 28, 2024}}</ref> Focusing on the form and function of the skeletal system, this {{convert|7000|sqft|m2|abbr=on}} museum displays hundreds of skulls and skeletons from all corners of the world. Exhibits include adaptation, locomotion, classification, and diversity of the vertebrate kingdom. The Museum of Osteology is the only one of its kind in America.
+
+The [[National Cowboy & Western Heritage Museum]] has galleries of western art<ref name="U.S. News Travel 1970 l810">{{cite web | title=National Cowboy and Western Heritage Museum Reviews | website=U.S. News Travel | date=January 1, 1970 | url=https://travel.usnews.com/Oklahoma_City_OK/Things_To_Do/National_Cowboy_and_Western_Heritage_Museum_62280/ | access-date=January 28, 2024}}</ref> and is home to the [[Hall of Great Western Performers]].<ref name="Smith 2022 y790">{{cite web | last=Smith | first=Cory | title=Kurt Russell in Oklahoma for induction in Hall of Great Western Performers | website=KOKH | date=April 11, 2022 | url=https://okcfox.com/newsletter-daily/kurt-russell-in-oklahoma-for-induction-in-hall-of-great-western-performers | access-date=January 28, 2024}}</ref>
+
+In September 2021, the [[First Americans Museum]] opened to the public, focusing on the histories and cultures of the numerous tribal nations and many Indigenous peoples in the state of Oklahoma.<ref name="The National Endowment for the Humanities 2014 y006">{{cite web |last=Rieger |first=Andy | title=A New Museum for First Americans | website=The National Endowment for the Humanities | date=March 4, 2014 | url=https://www.neh.gov/article/new-museum-first-americans | access-date=January 28, 2024}}</ref>
+
+The [[Oklahoma City National Memorial]] in the northern part of Oklahoma City's downtown was created as the inscription on its eastern gate of the Memorial reads, "to honor the victims, survivors, rescuers, and all who were changed forever on April 19, 1995"; the memorial was built on the land formerly occupied by the Alfred P. Murrah Federal Building complex before its 1995 bombing. The outdoor Symbolic Memorial can be visited 24 hours a day for free, and the adjacent Memorial Museum, in the former ''Journal Record'' building damaged by the bombing, can be entered for a small fee. The site is also home to the National Memorial Institute for the Prevention of Terrorism, a non-partisan, nonprofit [[think tank]] devoted to preventing terrorism.
+
+The [[American Banjo Museum]] in the [[Bricktown, Oklahoma City|Bricktown]] Entertainment district is dedicated to preserving and promoting the music and heritage of the banjo.<ref name="Tonkins 2019 d694">{{cite web | last=Tonkins | first=Sam | title=American Banjo Museum in OKC provides visitors with history, artistic insight | website=OU Daily | date=February 6, 2019 | url=https://www.oudaily.com/culture/american-banjo-museum-in-okc-provides-visitors-with-history-artistic-insight/article_1145bee2-2a70-11e9-9a36-4fe1d5ab8593.html | access-date=January 28, 2024}}</ref> Its collection is valued at $3.5&nbsp; million{{citation needed|date=March 2016}}, and an interpretive exhibit tells the evolution of the banjo from its roots in American slavery, to bluegrass, to folk, and to world music.
+
+The [[Oklahoma History Center]] is the state's history museum. Across the street from the governor's mansion at 800 Nazih Zuhdi Drive in northeast Oklahoma City, the museum opened in 2005 and is operated by the [[Oklahoma Historical Society]]. It preserves Oklahoma's history from the prehistoric to the present day.
+
+The [[Oklahoma State Firefighters Museum]] contains early colonial firefighting tools, the first fire station in Oklahoma,<ref name="Oklahoma 2015 s560">{{cite web | last=Bond | first=Carol Mowdy | title=Oklahoma Magazine | website=Oklahoma | date=February 6, 2015 | url=https://okmag.com/blog/a-tribute-to-unsung-heroes/ | access-date=January 28, 2024}}</ref> and modern fire trucks.<ref name="Painter 2009 p288">{{cite web | last=Painter | first=Bryan | title=Oklahoma City museum honors firefighters' valor | website=The Oklahoman | date=September 6, 2009 | url=https://www.oklahoman.com/story/entertainment/arts/2009/09/06/oklahoma-city-museum-honors-firefighters-valor/61362161007/ | access-date=January 28, 2024}}</ref>
+
+=== Restaurants ===
+[[Florence's Restaurant]] in 2022 was named one of [[List of James Beard America's Classics|America's Classics]] by the James Beard Foundation.<ref name=":02">{{Cite web |last=Castrodale |first=Jelisa |date=17 February 2022 |title=The James Beard Foundation Just Named These Restaurants 'America's Classics' |url=https://www.foodandwine.com/news/james-beard-foundation-americas-classics-2022 |access-date=2023-02-27 |website=Food & Wine |language=en |archive-date=February 26, 2023 |archive-url=https://web.archive.org/web/20230226175720/https://www.foodandwine.com/news/james-beard-foundation-americas-classics-2022 |url-status=dead }}</ref><ref>{{Cite web |last=Watts  |first=James D. Jr|date=24 February 2022 |title=Tulsa chefs, restaurants and bars up for James Beard Awards |url=https://tulsaworld.com/entertainment/dining/tulsa-chefs-restaurants-and-bars-up-for-james-beard-awards/article_2615401e-94f2-11ec-8855-432df90fa614.html |access-date=2023-02-27 |website=[[Tulsa World]] |language=en}}</ref> It was the first James Beard award for an Oklahoma entity.<ref name=":02" /> ''[[The Oklahoman]]'' called Florence's "The Grand Dame of all local restaurants".<ref>{{Cite web |title=32 Black-owned food businesses in the OKC metro area that will have you coming back for more |url=https://www.oklahoman.com/story/lifestyle/food/2023/02/25/black-owned-restaurants-businesses-okc-oklahoma-city-bakeries-food-near-me/69913222007/ |date=Feb 25, 2023 |first1=JaNae |last1=Williams  |access-date=2023-02-27 |website=The Oklahoman |language=en-US}}</ref> Andrew Black, chef/owner of Grey Sweater, won the [[James Beard Foundation Award: 2020s|2023 James Beard Award]] for Best Chef Southwest.<ref>{{Cite web |last1=Brown |first2=Marnie |last2=Hunter |first1=Forrest |date=2023-06-06 |title=These chefs and restaurants are 2023's James Beard Award winners |url=https://www.cnn.com/travel/article/james-beard-award-winners-2023/index.html |access-date=2023-06-06 |website=CNN |language=en}}</ref>
+
+The [[Food Network]] show ''[[Diners, Drive-Ins, and Dives]]'' has been to several restaurants in the Oklahoma City metropolitan area. Some of these include Cattlemen's Steakhouse, Chick N Beer, Clanton's Cafe, The Diner, Eischen's Bar, Florence's Restaurant, and Guyutes, among several others.<ref>{{cite web |title=Guy Fieri loved these Oklahoma spots on 'Diners, Drive-Ins and Dives.' How many have you tried? |url=https://www.yahoo.com/news/guy-fieri-loved-oklahoma-spots-134100548.html |date=November 25, 2023 |first1=Alix |last1=Martichoux |website=Yahoo |access-date=9 July 2024 |url-status=live |archive-url= https://web.archive.org/web/20240709183506/https://www.yahoo.com/news/guy-fieri-loved-oklahoma-spots-134100548.html|archive-date= 9 July 2024 }}</ref>
+
+==Sports==
+{{main|Sports in Oklahoma City}}
+[[File:AT&T Ballpark.jpg|thumb|[[Chickasaw Bricktown Ballpark]], home of the [[Oklahoma City Comets]]]]
+
+Oklahoma City is home to several professional sports teams, including the [[Oklahoma City Thunder]] of the [[National Basketball Association]]. The Thunder is the city's second "permanent" major professional sports franchise after the now-defunct [[Arena Football League|AFL]] [[Oklahoma Wranglers]]. It is the third major-league team to call the city home when considering the temporary hosting of the [[New Orleans Pelicans|New Orleans/Oklahoma City Hornets]] for the 2005–06 and 2006–07 NBA seasons. However, the [[Oklahoma City Thunder|Thunder]] was formerly the [[Seattle SuperSonics|Sonics]] before the [[Seattle SuperSonics relocation to Oklahoma City|movement of the Sonics to OKC in 2008.]]
+
+Other professional sports clubs in Oklahoma City include the [[Oklahoma City Comets]], the [[Triple-A (baseball)|Triple-A]] affiliate of the [[Los Angeles Dodgers]], the [[Oklahoma City Energy FC]] of the [[United Soccer League]], and the Crusaders of Oklahoma Rugby Football Club of [[USA Rugby]]. The Oklahoma City Blazers, a name used for decades of the city's hockey team in the [[Central Hockey League]], has been used for [[Oklahoma City Jr. Blazers|a junior team]] in the [[Western States Hockey League]] since 2014.
+
+The [[Paycom Center]] in [[Downtown Oklahoma City|downtown]] is the main multipurpose arena in the city, which hosts concerts, [[National Hockey League|NHL]] exhibition games, and many of the city's pro sports teams. In 2008, the Oklahoma City Thunder became the primary tenant. Nearby in Bricktown, the [[Chickasaw Bricktown Ballpark]] is the home to the city's baseball team, the Comets. "The Brick", as it is locally known, is considered one of the finest minor league parks in the nation.<ref>Michael Davis in ''[https://stadiumjourney.com/stadiums/chickasaw-bricktown-ballpark-s282 Chickasaw Bricktown Ballpark-Oklahoma City Dodgers]'' 29 September 2019</ref>
+
+Oklahoma City hosts the [[World Cup of Softball]] and the annual NCAA Women's College World Series. The city has held 2005 [[NCAA Men's Division I Basketball Championship|NCAA Men's Basketball]] [[2005 NCAA Men's Division I Basketball Tournament#Chicago Regional|First]] and [[2005 NCAA Men's Division I Basketball Tournament#Chicago Regional 2|Second round]] and hosted the [[2007 Big 12 men's basketball tournament|Big 12]] Men's and women's basketball tournaments in 2007 and 2009. The major universities in the area – [[University of Oklahoma]], [[Oklahoma City University]], and [[Oklahoma State University–Stillwater|Oklahoma State University]] – often schedule major basketball games and other sporting events at [[Paycom Center]] and Chickasaw Bricktown Ballpark. However, most home games are played at their campus stadiums.
+
+Other major sporting events include Thoroughbred and Quarter Horse racing circuits at [[Remington Park]] and numerous [[horse show]]s and equine events that take place at the state fairgrounds each year. There are multiple golf courses and country clubs spread around the city.
+
+===High school football===
+The state of Oklahoma hosts a highly competitive high school football culture, with many teams in the [[Oklahoma City metropolitan area]]. The Oklahoma Secondary School Activities Association (OSSAA) organizes high school football into eight distinct classes based on school enrollment size. Beginning with the largest, the classes are 6A, 5A, 4A, 3A, 2A, A, B, and C. Class 6A is broken into two divisions. Oklahoma City schools in include: Westmoore, Putnam City North, Putnam City, Putnam City West, Southeast, Capitol Hill, U.S. Grant, and Northwest Classen.<ref>{{cite web |url=http://www.ossaaonline.com/docs/2013-14/Football/FB_1415_1516_Classifications-3.pdf |title=Archived copy |access-date=September 1, 2015 |archive-url=https://web.archive.org/web/20150806211705/http://www.ossaaonline.com/docs/2013-14/Football/FB_1415_1516_Classifications-3.pdf |archive-date=August 6, 2015 |url-status=dead }}</ref>
+
+===Oklahoma City Thunder===
+
+The [[Oklahoma City Thunder]] of the [[National Basketball Association]] (NBA) has called Oklahoma City home since the [[2008–09 NBA season|2008–09 season]], when owner [[Clay Bennett (businessman)|Clay Bennett]] relocated the franchise from [[Seattle]], [[Washington (state)|Washington]]. The Thunder plays home games in downtown Oklahoma City at the [[Paycom Center]]. The Thunder is known by several nicknames, including "OKC Thunder" and simply "OKC", and its mascot is [[Rumble the Bison]].
+
+After arriving in Oklahoma City for the 2008–09 season, the Oklahoma City Thunder secured a berth (8th) in the [[2010 NBA Playoffs]] the following year after boasting its first 50-win season, winning two games in the first round against the [[Los Angeles Lakers]]. In 2012, Oklahoma City made it to the [[2012 NBA Finals|NBA Finals]] but lost to the [[Miami Heat]] in five games. In 2013, the Thunder reached the [[Western Conference (NBA)|Western Conference]] semi-finals without [[NBA All-Star|All-Star]] guard [[Russell Westbrook]], who was injured in their first-round series against the [[Houston Rockets]], only to lose to the [[Memphis Grizzlies]]. In 2014, Oklahoma City reached the NBA's Western Conference Finals again but eventually lost to the [[San Antonio Spurs]] in six games.
+
+Sports analysts have regarded the Oklahoma City Thunder as one of the elite franchises of the NBA's Western Conference and a media darling of the league's future. Oklahoma City earned [[Northwest Division (NBA)|Northwest Division]] titles every year from 2011 to 2014 and again in 2016 and has consistently improved its win record to 59 wins in 2014. The Thunder is led by third-year head coach [[Mark Daigneault]] and was anchored by All-Star point guard Russell Westbrook before a July 2019 trade that sent him to the Houston Rockets.
+
+===Hornets===
+{{Main|Effect of Hurricane Katrina on the New Orleans Hornets}}
+In the aftermath of [[Hurricane Katrina]], the NBA's New Orleans Hornets temporarily relocated to the [[Ford Center (Oklahoma City)|Ford Center]], playing the majority of its home games there during the 2005–06 and 2006–07 seasons. The team became the first NBA franchise to play regular-season games in Oklahoma.{{citation needed|date=April 2014}} The team was known as the New Orleans/Oklahoma City Hornets while playing in Oklahoma City.
+The team returned to New Orleans full-time for the 2007–08 season. The Hornets played their final home game in Oklahoma City during the exhibition season on October 9, 2007, against the [[Houston Rockets]].
+
+===Professional sports teams===
+{{Main|Sports in Oklahoma City}}
+<!--[[File:|thumb|right|caption]]-->
+
+{|class="wikitable sortable"
+|-
+|+ Current professional sports teams
+|-
+! Sports Franchise !! League !! Sport !! Founded !! Stadium (capacity)
+|-
+|[[Oklahoma City Thunder]] ||align=center |[[National Basketball Association|NBA]] ||[[Basketball]] ||align=center |2008 ||[[Paycom Center]] (18,203)
+|-
+|[[Oklahoma City Comets]] ||align=center |[[Minor League Baseball|MiLB]] ||[[Baseball]] ||align=center |1998 ||[[Chickasaw Bricktown Ballpark]] (13,066)
+|-
+|[[Oklahoma City Blue]] ||align=center |[[NBA G League]] ||Basketball||align=center |2018 ||[[Paycom Center]] (18,203)
+|-
+|[[Oklahoma City Energy]] ||align=center |[[USL Championship]] (Division 2) ||[[Soccer]] ||align=center |2018 ||[[Taft Stadium]] (7,500)
+|-
+|[[Oklahoma City FC (WPSL)|Oklahoma City Football Club]] ||align=center |[[Women's Premier Soccer League]] ||Soccer  ||align=center |2022 ||[[Oklahoma City University|Brian Harvey Field]] (1,500)
+|-
+|Oklahoma City Spark ||align=center |[[Women's Professional Fastpitch]] ||[[Softball]] ||align=center |2023 ||[[USA Softball Hall of Fame Stadium]] (13,500)
+|}
+
+===2028 Olympics===
+
+Venues in Oklahoma City will host two events during the [[2028 Summer Olympics]], which will primarily be held in [[Los Angeles]]. The LA Olympic Organizing Committee opted to have [[canoe slalom]] and [[softball]] in Oklahoma City, given the lack of acceptable venues for those sports in Los Angeles. Riversport OKC will host the canoe slalom competition, while [[Devon Park (stadium)|Devon Park]] will host the softball competition. Oklahoma City is located approximately 1,300 miles away from Los Angeles.<ref>{{cite news |date=June 22, 2024 |title=Oklahoma City to host softball, canoe slalom during the 2028 Los Angeles Games |url=https://www.nbcnews.com/sports/olympics/oklahoma-city-host-softball-canoe-slalom-2028-los-angeles-games-rcna158450 |work=[[NBC News]] |accessdate=August 11, 2024}}</ref>
+
+==Parks and recreation==
+[[File:Myriad Botanical Gardens.jpg|right|thumb|Myriad Botanical Gardens, the centerpiece of downtown OKC's central business district]]
+<!-- I added in a sentence above on the new Scissortail Park and reworked the Myriad Gardens sentences, please enhance. I also reorganized the content of the section for flow as it was previously hodge podge. Please enhance as there have been massive additions to this category including Riversports/River District which I don't know much about -->
+
+One of the more prominent landmarks of downtown Oklahoma City is the Crystal Bridge [[tropical]] [[Conservatory (greenhouse)|conservatory]] at the [[Myriad Botanical Gardens]], a large downtown urban park. Designed by [[I. M. Pei]], the park also includes the Water Stage amphitheater, a bandshell, and lawn, a sunken pond complete with koi, an interactive children's garden complete with a carousel and water sculpture, various trails and interactive exhibits that rotate throughout the year including the ice skating in the Christmas winter season. In 2007, following a renovation of the stage, ''Oklahoma Shakespeare In The Park'' relocated to the Myriad Gardens. Bicentennial Park, also downtown located near the Oklahoma City Civic Center campus, is home to the annual ''Festival of the Arts'' in April.
+
+The Scissortail Park is just south of the Myriad Gardens, a large interactive park that opened in 2021. This park contains a large lake with paddleboats, a dog park, a concert stage with a great lawn, a promenade including the Skydance Bridge, a children's interactive splash park and playground, and numerous athletic facilities. Farmers Market is a common attraction at Scissortail Park during the season, and there are multiple film showings, food trucks, concerts, festivals, and civic gatherings.
+
+Returning to the city's first parks masterplan, Oklahoma City has at least one major park in each quadrant outside downtown. [[Will Rogers Gardens|Will Rogers Park]], the Grand Boulevard loop once connected Lincoln Park, Trosper Park, and Woodson Park, some sections of which no longer exist. Martin Park Nature Center is a natural habitat in far northwest Oklahoma City. Will Rogers Park is home to the ''Lycan Conservatory'', the Rose Garden, and the Butterfly Garden, all built in the WPA era. In April 2005, the ''Oklahoma City Skate Park'' at Wiley Post Park was renamed the ''Mat Hoffman Action Sports Park'' to recognize [[Mat Hoffman]], an Oklahoma City area resident and businessman who was instrumental in the design of the skate park and is a 10-time BMX World Vert champion.<ref name=OKCApril2005Agenda>{{cite web|last=Couch|first=James D|title=Council Agenda Item No. VIII. I. April 26, 2005|url=http://www.okc.gov/council/council_library/packet/050426/VIIII.pdf|work=Memorandum|publisher=The City of Oklahoma City|access-date=July 23, 2012|url-status=dead|archive-url=https://web.archive.org/web/20131029192825/http://www.okc.gov/council/council_library/packet/050426/VIIII.pdf|archive-date=October 29, 2013}}</ref>
+
+Walking trails line the [[Bricktown Canal]] and the [[North Canadian River|Oklahoma River]] in downtown. The city's bike trail system follows around Lake Hefner and Lake Overholser in the northwest and west quadrants of the city. The majority of the east shore area of Lake Hefner is taken up by parks and bike trails, including a new leashless dog park and the postwar-era ''Stars and Stripes Park'', and eateries near the lighthouse. Lake Stanley Draper, in southeast Oklahoma City, is the city's largest and most remote lake, offering a genuine rural yet still urban experience.
+
+<!-- all of the below should be moved to the culture area, not much to do with parks -->
+The [[Oklahoma City Zoo and Botanical Garden]] is home to numerous natural habitats, [[Works Progress Administration|WPA]] era architecture and landscaping, and major touring concerts during the summer at its amphitheater. Nearby is a combination racetrack and casino, [[Remington Park]], which hosts both [[Quarter Horse]] (March – June) and [[Thoroughbred]] (August—December) seasons.
+
+Oklahoma City is also home to the [[American Banjo Museum]], which houses a large collection of highly decorated banjos from the early 20th century and exhibits the banjo's history and its place in American history. Concerts and lectures are also held there.
+
+==Government==
+{{Main|Government of Oklahoma City}}
+{{See also|List of mayors of Oklahoma City}}
+[[File:State Capitol seen from OK History Center.jpg|thumb|Oklahoma State Capitol, seen from the OK History Center]]
+[[File:Oklahoma City, City Hall.jpg|right|thumb|The [[Art Deco]] city hall building, a block from the Civic Center]]
+The City of Oklahoma City has operated under a [[council–manager government|council-manager]] form of city government since 1927.<ref>"[http://www.okc.gov/council/index.html Mayor and Council]", {{webarchive|url=https://web.archive.org/web/20150201205113/http://www.okc.gov/council/index.html |date=February 1, 2015 }}" [http://www.okc.gov/ City of Oklahoma City]. Retrieved January 27, 2010.</ref> [[David Holt (politician)|David Holt]] assumed the office of Mayor on April 10, 2018, after being elected two months earlier.<ref>{{cite web|title=About Mayor Holt|url=https://www.okc.gov/government/mayor-david-holt/about-mayor-holt|publisher=City of Oklahoma City|date=April 10, 2018|access-date=April 10, 2018|archive-date=April 11, 2018|archive-url=https://web.archive.org/web/20180411120242/https://www.okc.gov/government/mayor-david-holt/about-mayor-holt|url-status=dead}}</ref> Eight councilpersons represent each of the eight wards of Oklahoma City. The [[Oklahoma City Council|City Council]] appointed current City Manager Craig Freeman on November 20, 2018. Freeman took office on January 2, 2018, succeeding James D. Couch, who had served in the role since 2000. Before becoming City Manager, Craig Freeman served as Finance Director for the city.<ref>{{cite web|url=https://www.okc.gov/Home/Components/News/News/2904/140|title=Craig Freeman sworn in as Oklahoma City Manager. News Releases {{!}} City of OKC|date=January 2, 2019|website=Okc.gov|access-date=January 16, 2019}}</ref>
+
+===Politics===
+Similar to many American cities, Oklahoma City is politically [[Conservatism in the United States|conservative]] in its suburbs and [[Modern liberalism in the United States|liberal]] in the central city. In the [[United States House of Representatives]], it is represented by [[Republican Party (United States)|Republicans]] [[Stephanie Bice]] and [[Tom Cole]] of the 5th and 4th districts, respectively. The city has called on residents to vote for sales tax-based projects to revitalize parts of the city. The [[Bricktown, Oklahoma City|Bricktown]] district is the best example of such an initiative. In the recent [[Metropolitan Area Projects Plan 3|MAPS 3]] vote, the city's fraternal police order criticized the project proposals for not doing enough to expand the police presence to keep up with the growing residential population and increased commercial activity. In September 2013, Oklahoma City area attorney David Slane announced he would pursue legal action regarding MAPS3 on claims the multiple projects that made up the plan violate a state constitutional law limiting voter ballot issues to a single subject.<ref>[http://www.okcfox.com/story/23330885/oklahoma-city-responds-to-david-slanes-challenge-of-maps-3 Oklahoma City responds to David Slane's challenge of MAPS-3], [[KOKH-TV]], September 3, 2013.</ref>
+[[File:Okc area 2016 election.png|thumb|Oklahoma City region population dot map and 2016 presidential election results by precinct (click to enlarge).]]
+
+{| class=wikitable
+! colspan = 6 | Oklahoma County Voter Registration and Party Enrollment as of November 1, 2020<ref>{{cite web |url=https://www.ok.gov/elections/documents/VRstatsbycounty_11012020.pdf |title=Voter registration as of November 1, 2020 by county |access-date=December 14, 2020 |archive-date=December 13, 2020 |archive-url=https://web.archive.org/web/20201213205536/https://www.ok.gov/elections/documents/VRstatsbycounty_11012020.pdf |url-status=dead }}</ref>
+|-
+! colspan = 2 | Party
+! Number of Voters
+! Percentage
+|-
+| {{party color cell|Democratic Party (United States)}}
+| [[Democratic Party (United States)|Democratic]]
+| style="text-align:center;"| 164,628
+| style="text-align:center;"| 37.26%
+|-
+| {{party color cell|Republican Party (United States)}}
+| [[Republican Party (United States)|Republican]]
+| style="text-align:center;"| 189,991
+| style="text-align:center;"| 43.00%
+|-
+| {{party color cell|Libertarian Party (United States)}}
+| [[Libertarian Party (United States)|Libertarian]]
+| style="text-align:center;"| 3,385
+| style="text-align:center;"| 0.77%
+|-
+| {{party color cell|Independent Party (United States)}}
+| Unaffiliated
+| style="text-align:center;"| 83,799
+| style="text-align:center;"| 18.97%
+|-
+! colspan = 2 | Total
+! style="text-align:center;"| 441,803
+! style="text-align:center;"| 100%
+|}
+
+<!--
+===Crime===
+-->==International relations==
+
+===Consulates===
+
+{| cellpadding="4" cellspacing="0" style="margin:0 0 1em 1em; border:1px solid #ccc; empty-cells:show; border-collapse:collapse;" border="1" class="sortable"
+|- style="background:#ccc;"
+|Consulate||Date||Consular District
+|-
+|[[Guatemala]]n Consulate-General, Oklahoma City<ref name="Consulates in Oklahoma City1">{{cite news
+ |title=Guatemala opens consulate in Oklahoma to serve a growing population
+ |url=http://newsok.com/guatemala-opens-consulate-in-oklahoma-to-serve-growing-population/article/5553445
+ |newspaper=The Oklahoman
+ |date=June 20, 2017}}</ref>
+ ||06.2017||Oklahoma, Kansas
+|-
+|[[Mexico|Mexican]] Consulate, Oklahoma City<ref name="Consulates in Oklahoma City2">{{cite news
+ |title=New consulate in Oklahoma City will serve 'vibrant Mexican community' in Oklahoma
+ |url=https://www.oklahoman.com/story/news/2023/05/20/oklahoma-citys-mexican-consulate-now-open-for-business/70239656007/
+ |newspaper=The Oklahoman
+ |date=May 22, 2023}}</ref>
+ ||05.2023||Oklahoma
+<!-- new table sections as new consulates open in OKC
+|- style="background:#efefef;"
+|{{flag|XXX|name=XXXX}} Consulate-General, Oklahoma City<ref name="Consulates in Oklahoma City1"/>||00.0000||Oklahoma
+|-
+|{{flag|XXX|name=XXXX}} Consulate-General, Oklahoma City<ref name="Consulates in Oklahoma City2"/>||00.0000||Oklahoma
+-->
+|}
+
+===Twin towns – sister cities===
+Oklahoma City's [[Sister city|sister cities]] are:<ref>{{cite web |title=Our Cities|url=http://sistercitiesokc.org/about-us/our-cities|website=sistercitiesokc.org|publisher=Sister Cities OKC, Inc.|access-date=May 6, 2021}}</ref>
+{{div col|colwidth=20em}}
+*{{flagicon|BRA}} [[Rio de Janeiro]], Brazil
+*{{flagicon|CHN}} [[Haikou]], China
+*{{flagicon|MEX}} [[Puebla (city)|Puebla]], Mexico
+*{{flagicon|PER}} [[Piura]], Peru
+*{{flagicon|RWA}} [[Kigali]], Rwanda
+*{{flagicon|RUS}} [[Ulyanovsk]], Russia (suspended August, 2022)
+*{{flagicon|TWN}} [[Tainan]], Taiwan
+*{{flagicon|TWN}} [[Taipei]], Taiwan
+*{{flagicon|AUS}} [[Darwin, Northern Territory|Darwin]], Australia
+
+{{div col end}}
+
+==Education==
+
+===Higher education===
+{{See also|List of colleges and universities in Oklahoma City}}
+[[File:NightSower.JPG|thumb|right|OU Health Sciences Center in Oklahoma City]]
+The city is home to several colleges and universities. [[Oklahoma City University]], formerly known as [[Epworth University]], was founded by the [[United Methodist Church]] on September 1, 1904, and is known for its performing arts, science, mass communications, business, [[Oklahoma City University School of Law|law]], and athletic programs. OCU has its main campus in the north-central section of the city, near the city's [[Asia District, Oklahoma City|Asia District]] area. OCU Law is in the old Central High School building in the Midtown district near downtown.
+
+The [[University of Oklahoma]] has several institutions of higher learning in the city and metropolitan area, with [[OU Medicine]] and the [[University of Oklahoma Health Sciences Center]] campuses east of downtown in the [[Oklahoma Health Center]] district, and the main campus to the south in the suburb of [[Norman, Oklahoma|Norman]]. [[OU Medicine|OU Medical Center]] hosts the state's only Level-One [[trauma center]]. OU Health Sciences Center is one of the nation's largest independent medical centers, employing over 12,000 people.<ref>{{cite web|url=http://www.oumedical.com/|archive-url=https://archive.today/20010924083149/http://www.oumedical.com/|url-status=dead|title=中国赌城最佳在线-中国在线赌城-中国赌城亚洲在线|archive-date=September 24, 2001|website=Oumedical.com}}</ref> OU is one of only four major universities in the nation to operate six medical schools.{{Clarify|date=April 2011}}
+
+The third-largest university in the state, the [[University of Central Oklahoma]], is just north of the city in the suburb of [[Edmond, Oklahoma|Edmond]]. [[Oklahoma Christian University]], one of the state's private liberal arts institutions, is just south of the Edmond border, inside the Oklahoma City limits.<ref>{{cite web|url=https://www.oc.edu/about/university-profile.html|title=University Profile|website=Oc.edu}}</ref>
+
+[[Oklahoma City Community College]] in south Oklahoma City is the second-largest community college in the state. [[Rose State College]] is east of Oklahoma City in suburban [[Midwest City, Oklahoma|Midwest City]]. [[Oklahoma State University–Oklahoma City]] is in the "Furniture District" on the Westside. Northeast of the city is [[Langston University]], the state's [[Historically black colleges and universities|historically black college]] (HBCU). Langston also has an urban campus in the [[Eastside, Oklahoma City|eastside]] section of the city. [[Southern Nazarene University]], which was founded by the [[Church of the Nazarene]], is a university in suburban [[Bethany, Oklahoma|Bethany]], which is surrounded by the Oklahoma City city limits.
+
+Although technically not a university, the FAA's [[Mike Monroney Aeronautical Center]] has many aspects of an institution of higher learning. Its FAA Academy is accredited by the [[Higher Learning Commission]]. Its [[Civil Aerospace Medical Institute]] (CAMI) has a medical education division responsible for aeromedical education in general, as well as the education of aviation medical examiners in the U.S. and 93 other countries. In addition, The [[National Academy of Sciences|National Academy of Science]] offers Research Associateship Programs for fellowship and other grants for CAMI research.
+
+===Primary and secondary===
+{{main|Education in Oklahoma City}}
+[[File:Bishop McGuinness Catholic High School.jpg|thumb|[[Bishop McGuinness Catholic High School (Oklahoma)|Bishop McGuinness Catholic High School]]]]
+Oklahoma City is home to (as of 2009) the state's largest school district, [[Oklahoma City Public Schools]],<ref>{{cite web | date=November 6, 2009 | url=http://www.newsok.com/districts-enrollment-growth-a-tale-of-demographic-shifts/article/3414919?custom_click=pod_headline_opinion-oklahoman-editorials | title=(OKC) District's enrollment growth a tale of demographic shifts | format=ASP | work=[[The Oklahoman|Daily Oklahoman]] | access-date=November 6, 2009 | archive-date=June 14, 2011 | archive-url=https://web.archive.org/web/20110614085059/http://www.newsok.com/districts-enrollment-growth-a-tale-of-demographic-shifts/article/3414919?custom_click=pod_headline_opinion-oklahoman-editorials | url-status=dead }}</ref> which covers the most significant portion of the city.<ref name=OKCountyCensusSDmap2020>{{cite web|url=https://www2.census.gov/geo/maps/DC2020/PL20/st40_ok/schooldistrict_maps/c40109_oklahoma/DC20SD_C40109.pdf|title=2020 CENSUS - SCHOOL DISTRICT REFERENCE MAP: Oklahoma County, OK|publisher=[[U.S. Census Bureau]]|access-date=2024-01-28}}</ref> The district's [[Classen School of Advanced Studies]] and [[Harding Charter Preparatory High School]] rank high among public schools nationally according to a formula that looks at the number of Advanced Placement, International Baccalaureate and/or Cambridge tests taken by the school's students divided by the number of graduating seniors.<ref>[https://web.archive.org/web/20060509181509/http://www.msnbc.msn.com/id/12532678/site/newsweek/ The Top of the Class 2008], ''Newsweek'', May 17, 2008. (Retrieved April 28, 2010).</ref> In addition, OKCPS's Belle Isle Enterprise Middle School was named the top middle school in the state according to the Academic Performance Index and recently received the [[National Blue Ribbon Schools Program|Blue Ribbon School]] Award, in 2004 and again in 2011.<ref>[http://www.okcps.org/ms/Belle_Isle/ Belle Isle Enterprise Middle School] (Retrieved January 26, 2010). {{webarchive |url=https://web.archive.org/web/20080905070230/http://www.okcps.org/ms/Belle_Isle/ |date=September 5, 2008 }}</ref>
+
+Due to Oklahoma City's explosive growth, parts of several suburban districts spill into the city. All but one of the school districts in Oklahoma County includes portions of Oklahoma City. The other districts in that county covering OKC include: [[Choctaw/Nicoma Park Schools|Choctaw/Nicoma Park]],<!--07620--> [[Crooked Oak Public Schools|Crooked Oak]]<!--09060-->, [[Crutcho Public School|Crutcho]],<!--ELM 09150--> [[Deer Creek Public Schools|Deer Creek]],<!--09570--> [[Edmond Public Schools|Edmond]]<!--10590-->, [[Harrah Public Schools|Harrah]],<!--13890--> [[Jones Public Schools|Jones]]<!--15840-->, [[Luther Public Schools|Luther]]<!--18630-->, [[McLoud Public Schools|McLoud]]<!--19560-->, [[Mid-Del School District|Mid-Del]],<!--19950--> [[Millwood Public Schools|Millwood]],<!--20080--> [[Moore Public Schools|Moore]],<!--20250--> [[Mustang Public Schools|Mustang]],<!--21000--> [[Oakdale Public School (Oklahoma)|Oakdale]],<!--ELM 22350--> [[Piedmont Public Schools|Piedmont]]<!--23970-->, [[Putnam City School District|Putnam City]]<!--25290-->, and [[Western Heights Public Schools|Western Heights]]<!--32370-->.<ref name=OKCountyCensusSDmap2020/> School districts in Cleveland County covering portions of Oklahoma City include: [[Little Axe Public Schools|Little Axe]], McLoud, Mid-Del, Moore, and [[Robin Hill Public School|Robin Hill]].<ref>{{cite web|url=https://www2.census.gov/geo/maps/DC2020/PL20/st40_ok/schooldistrict_maps/c40027_cleveland/DC20SD_C40027.pdf|title=2020 CENSUS - SCHOOL DISTRICT REFERENCE MAP: Cleveland County, OK|publisher=[[U.S. Census Bureau]]|access-date=2024-01-28}} - [https://www2.census.gov/geo/maps/DC2020/PL20/st40_ok/schooldistrict_maps/c40027_cleveland/DC20SD_C40027_SD2MS.txt Text list]</ref> Within Canadian County, [[Banner Public School|Banner]],<!--ELM 03540--> Mustang,<!--21000--> [[Piedmont Public Schools|Piedmont]]<!--23790-->, [[Union City School District (Oklahoma)|Union City]],<!--30630--> and [[Yukon Public Schools|Yukon]]<!--33480--> school districts include parts of OKC.<ref>{{cite web|url=https://www2.census.gov/geo/maps/DC2020/PL20/st40_ok/schooldistrict_maps/c40017_canadian/DC20SD_C40017.pdf|title=2020 CENSUS - SCHOOL DISTRICT REFERENCE MAP: Canadian County, OK|publisher=[[U.S. Census Bureau]]|access-date=2024-01-28|pages=4, 7-8, 11-12 (PDF p. 5, 8-9, 12-13/13)}} - [https://www2.census.gov/geo/maps/DC2020/PL20/st40_ok/schooldistrict_maps/c40017_canadian/DC20SD_C40017_SD2MS.txt Text list]</ref>
+
+There are also [[charter schools]]. [[KIPP]] Reach College Preparatory School in Oklahoma City received the 2012 National Blue Ribbon, and its school leader, Tracy McDaniel Sr., was awarded the Terrel H. Bell Award for Outstanding Leadership.
+
+The city also boasts several private and parochial schools. [[Casady School]] and [[Heritage Hall School]] are both examples of a private college preparatory school with rigorous academics that range among the top in Oklahoma. [[Providence Hall Classical Christian School|Providence Hall]] is a Protestant school. Two prominent schools of the [[Roman Catholic Archdiocese of Oklahoma City|Archdiocese of Oklahoma City]] include [[Bishop McGuinness High School (Oklahoma)|Bishop McGuinness High School]] and [[Mount St. Mary High School (Oklahoma)|Mount Saint Mary High School]]. Other private schools include the Advanced Science and Technology Education Center and [[Crossings Christian School]].
+
+The [[Oklahoma School of Science and Mathematics]], a school for some of the state's most gifted math and science pupils, is also in Oklahoma City.
+
+===CareerTech===
+Oklahoma City has several public career and technology education schools associated with the [[Oklahoma Department of Career and Technology Education]], the largest of which are [[Metro Technology Center]] and [[Francis Tuttle Technology Center]].
+
+Private career and technology education schools in Oklahoma City include [[Oklahoma Technology Institute]], Platt College, [[Vatterott College]], and Heritage College. The [[Dale Rogers Training Center]] is a nonprofit vocational training center for individuals with disabilities.
+
+==Media==
+{{See also|Media in Oklahoma City}}
+
+===Print===
+''[[The Oklahoman]]'' is Oklahoma City's major daily newspaper and is the most widely circulated in the state. NewsOK.com is the Oklahoman's online presence. ''Oklahoma Gazette'' is Oklahoma City's independent newsweekly, featuring such staples as local commentary, feature stories, restaurant reviews, movie listings, and music and entertainment. ''The Journal Record'' is the city's daily business newspaper, and ''okcBIZ'' is a monthly publication that covers business news affecting those who live and work in Central Oklahoma.
+
+Numerous community and international newspapers cater to the city's ethnic mosaic, such as ''[[Black Chronicle|The Black Chronicle]]'', headquartered in the [[Eastside, Oklahoma City|Eastside]], the OK VIETIMES and ''Oklahoma Chinese Times'', in [[Asia District, Oklahoma City|Asia District]], and various Hispanic community publications. ''The Campus'' is the student newspaper at Oklahoma City University. Gay publications include ''The Gayly Oklahoman''.
+
+An upscale lifestyle publication called ''405 Magazine'' (formerly Slice Magazine) is circulated throughout the metropolitan area.<ref>{{cite web|url=https://www.405magazine.com/about-us/| title=About 405 Magazine|publisher=405 Magazine|access-date=March 15, 2020}}</ref>  In addition, there is a magazine published by ''Back40 Design Group'' called ''The Edmond Outlook''. It contains local commentary and human interest pieces directly mailed to over 50,000 Edmond residents.
+
+''[[Ready Player One]]'' is set in Oklahoma City in the year 2045.
+
+===Broadcast===
+Oklahoma City was home to several pioneers in radio and television broadcasting. Oklahoma City's [[WKY]] Radio was the first radio station transmitting west of the [[Mississippi River]] and the third radio station in the United States.<ref name="states1">[http://www.50states.com/facts/okla.htm Oklahoma Fast Facts and Trivia] {{Webarchive|url=https://web.archive.org/web/20090421201401/http://www.50states.com/facts/okla.htm |date=April 21, 2009 }}. Retrieved January 26, 2009.</ref> WKY received its federal license in 1921 and has continually broadcast under the same call letters since 1922. In 1928, WKY was purchased by [[Edward K. Gaylord|E.K. Gaylord]]'s Oklahoma Publishing Company and affiliated with the [[NBC Red Network]]; in 1949, WKY-TV (channel 4) went on the air and later became the first independently owned television station in the U.S. to broadcast in color.<ref name="states1"/> In mid-2002, WKY radio was purchased outright by [[Citadel Broadcasting]], who was bought out by [[Cumulus Broadcasting]] in 2011. The Gaylord family earlier sold WKY-TV in 1976, which has gone through a succession of owners (what is now [[KFOR-TV]] is owned by [[Nexstar Media Group]] as of October 2019).
+
+The major U.S. broadcast television networks have [[network affiliate|affiliates]] in the Oklahoma City [[media market|market]] (ranked 41st for television by [[Nielsen Media Research|Nielsen]] and 48th for radio by [[Arbitron]], covering a 34-county area serving the central, north-central and west-central sections of Oklahoma); including [[NBC]] affiliate KFOR-TV (channel 4), [[American Broadcasting Company|ABC]] affiliate [[KOCO-TV]] (channel 5), [[CBS]] affiliate [[KWTV-DT]] (channel 9, the [[Flagship (broadcasting)|flagship]] of locally based [[Griffin Media]]), [[PBS]] station KETA-TV (channel 13, the flagship of the state-run [[Oklahoma Educational Television Authority|OETA]] member network), [[Fox Broadcasting Company|Fox]] affiliate [[KOKH-TV]] (channel 25), [[Independent station (North America)|independent station]] [[KOCB]] (channel 34), [[The CW|CW]] [[owned-and-operated station]] [[KAUT-TV]] (channel 43), [[MyNetworkTV]] affiliate [[KSBI|KSBI-TV]] (channel 52), and [[Ion Television]] affiliate [[KOPX-TV]] (channel 62). The market is also home to several religious stations, including [[Trinity Broadcasting Network|TBN]] owned-and-operated station [[KTBO-TV]] (channel 14) and Norman-based [[Daystar (TV network)|Daystar]] owned-and-operated station [[KOCM]] (channel 46).
+
+Despite the market's geographical size, none of the English-language commercial affiliates in the Oklahoma City designated market area operate full-power satellite stations covering the far northwestern part of the state (requiring cable or satellite to view them). However, KFOR-TV, KOCO-TV, KWTV-DT, and KOKH-TV each operate low-power translators in that portion of the market. Oklahoma City is one of the few markets between Chicago and Dallas to have affiliates of two or more of the significant Spanish-language broadcast networks: [[Telemundo]] affiliate [[KTUZ-TV]] (channel 30), [[Woodward, Oklahoma|Woodward]]-based [[Univision]]/[[UniMás]] affiliate [[KUOK]] 35 (whose translator KUOK-CD, channel 36, serves the immediate Oklahoma City area), and [[Estrella TV]] affiliate [[KOCY-LD]] (channel 48). (Locally based [[Tyler Media Group]], which owns the three stations above, also owns eight radio stations in the market, including [[Regional Mexican]]-formatted [[KTUZ-FM]] (106.7) and news–talk outlet [[KOKC (AM)|KOKC]] (1520 AM).)
+
+==Infrastructure==
+
+===Fire department===
+[[File:Oklahoma City Fire Department Dive Team.jpg|thumb|right|OKCFD dive team at Lake Hefner]]
+Oklahoma City is protected by the Oklahoma City Fire Department (OKCFD), which employs 1015 paid, professional firefighters. The current Chief of Department is Richard Kelley, and the department is commanded by three Deputy Chiefs, who – along with the department chief – oversee the Operational Services, Prevention Services, and Support Services bureaus. The OKCFD operates out of 37 fire stations throughout the city in six battalions. The OKCFD operates a fire apparatus fleet of 36 engine companies (including 30 paramedic engines), 13 ladder companies, 16 brush pumper units, six water tankers, two hazardous materials units, one Technical Rescue Unit, one Air Supply Unit, six Arson Investigation Units, and one Rehabilitation Unit along with several special units. Each engine Company is staffed with a driver, an officer, and one to two firefighters, while each ladder company is staffed with a driver, an officer, and one firefighter. The minimum staffing for each shift is 213 personnel. The Oklahoma City Fire Department responds to over 70,000 emergency calls annually.<ref>[http://www.okc.gov/fire/ City of Oklahoma City | Fire Department]. Okc.gov. Retrieved on July 21, 2013.</ref><ref>[http://www.okc.gov/fire/ops/index.html City of Oklahoma City | Fire Department] {{webarchive|url=https://web.archive.org/web/20130526045436/http://www.okc.gov/fire/ops/index.html |date=May 26, 2013 }}. Okc.gov. Retrieved on July 21, 2013.</ref><ref>{{cite web |url=http://www.okc.gov/fire/fire_report.pdf |title=Archived copy |access-date=July 12, 2013|url-status=dead |archive-url=https://web.archive.org/web/20131113015517/http://www.okc.gov/fire/fire_report.pdf |archive-date=November 13, 2013 }}</ref>
+
+===Transportation===
+{{Main|Transportation in Oklahoma City}}
+
+====Highway====
+Oklahoma City is an integral point on the [[Interstate Highway System|United States Interstate Network]], with three major interstate highways – [[Interstate 35 in Oklahoma|Interstate 35]], [[Interstate 40 in Oklahoma|Interstate 40]], and [[Interstate 44 in Oklahoma|Interstate 44]] – bisecting the city. [[Interstate 240 (Oklahoma)|Interstate 240]] connects [[Interstate 40 in Oklahoma|Interstate 40]] and [[Interstate 44 in Oklahoma|Interstate 44]] in south Oklahoma City. At the same time, [[Interstate 235 (Oklahoma)|Interstate 235]] spurs from Interstate 44 in north-central Oklahoma City into downtown. Interstate 44, between NW 23rd St and NW 36th St, is the busiest roadway in the city and state, with an average daily traffic count of 167,200 vehicles per day in 2018.<ref>{{Cite web |date=2018 |title=Metro Areas |url=https://www.odot.org/maps/aadt/2018/UrbanMap_MetroAreas.pdf |website=odot.org}}</ref>
+
+Major state expressways through the city include Lake Hefner Parkway ([[Oklahoma State Highway 74|SH-74]]), the [[John Kilpatrick Turnpike|Kilpatrick Turnpike]], Airport Road ([[Oklahoma State Highway 152|SH-152]]), and [[U.S. Route 77 in Oklahoma|Broadway Extension]] ([[U.S. Route 77 in Oklahoma|US-77]]) which continues from I-235 connecting Central Oklahoma City to Edmond. Lake Hefner Parkway runs through northwest Oklahoma City, while Airport Road runs through southwest Oklahoma City and leads to [[Will Rogers World Airport]]. The Kilpatrick Turnpike loops around north and west Oklahoma City.
+
+Oklahoma City also has several major national and state highways within its city limits. Shields Boulevard (US-77) continues from E.K. Gaylord Boulevard in downtown Oklahoma City and runs south, eventually connecting to I-35 near the suburb of [[Moore, Oklahoma]]. Northwest Expressway (Oklahoma State Highway 3) runs from North Classen Boulevard in north-central Oklahoma City to the northwestern suburbs.
+
+The following significant expressways traverse Oklahoma City:
+* [[Interstate 35 in Oklahoma|Interstate 35]] 
+* [[Interstate 40 in Oklahoma|Interstate 40]] (Crosstown Expressway, Stanley Draper Expressway, Tinker Diagonal, Tom Stead Memorial Highway)
+* [[Interstate 44 in Oklahoma|Interstate 44]] (Turner Turnpike, Belle Isle Freeway, Will Rogers Expressway, H.E. Bailey Turnpike)
+* [[Interstate 235 in Oklahoma|Interstate 235]] (Centennial Expressway) / [[U.S. Route 77 in Oklahoma|U.S. 77]] (Broadway Extension)
+* [[Interstate 240 in Oklahoma|Interstate 240]] (Southwest Expressway)
+* [[Oklahoma State Highway 74|Lake Hefner Parkway]] (State Highway 74)
+* [[Oklahoma State Highway 152|Airport Road]] (State Highway 152)
+* [[Kilpatrick Turnpike]]
+
+====Air====
+Oklahoma City is served by two primary airports, [[Will Rogers World Airport]] and the much smaller [[Wiley Post Airport]] (incidentally, the two honorees died in the same plane crash in [[Alaska]])<ref>"[http://www.centennialofflight.gov/essay/Explorers_Record_Setters_and_Daredevils/Wiley_Post/EX27.htm Wiley Post]", {{webarchive |url=https://web.archive.org/web/20121008043851/http://www.centennialofflight.gov/essay/Explorers_Record_Setters_and_Daredevils/Wiley_Post/EX27.htm |date=October 8, 2012 }}, U.S. Centennial of Flight Commission. Retrieved February 1, 2010.</ref> Will Rogers World Airport is the state's busiest commercial airport, with 4,341,159 passengers served in 2018, a historical record.<ref>[http://newsok.com/will-rogers-world-airport-sets-passenger-traffic-record/article/5579243 Current Statistics], [http://www.flyokc.com/ Will Rogers World Airport] . Retrieved January 12, 2018.</ref>
+
+[[Tinker Air Force Base]], in southeast Oklahoma City, is the largest military air depot in the nation. It is a major maintenance and deployment facility for the [[United States Navy|Navy]] and the [[United States Air Force|Air Force]] and the second largest military institution in the state (after [[Fort Sill]] in [[Lawton, Oklahoma|Lawton]]).
+
+[[File:UnitedKOKC.jpg|thumb|right|United Airlines Embraer 170 aircraft at the East Concourse of Will Rogers World Airport]]
+
+====Rail and intercity bus====
+[[Amtrak]] has a station downtown at the [[Santa Fe Depot (Oklahoma City)|Santa Fe Depot]], with daily service to [[Fort Worth, Texas|Fort Worth]] and the nation's rail network via the [[Heartland Flyer]]. Oklahoma City once was the crossroads of several interstate passenger railroads at the Santa Fe Depot, the Union Station, and the [[Missouri-Kansas-Texas Railroad]] station.<ref>'Official Guide of the Railways,' 1949 Index of Stations</ref> But service at that level has long since been discontinued. However, several proposals to extend the current train service have been made, including a plan to expand the Heartland Flyer to [[Newton, Kansas]], which is currently being connected through [[Amtrak Thruway]]. Freight service is provided by [[BNSF Railway]], [[Union Pacific Railroad]], and Stillwater Central.
+
+[[Greyhound Lines|Greyhound]] and several other [[Intercity bus service|intercity bus]] companies serve Oklahoma City at the [[Union Station (Oklahoma City)|Union Bus Station]] in downtown.
+
+====Public transit====
+{{Main|Embark (transit authority)|Oklahoma City Streetcar}}
+[[File:Oklahoma City Streetcar - green car on 4th Street passing First United Methodist Church.jpg|thumb|right|Streetcar of the OKC Streetcar system passing the historic First United Methodist Church, in downtown]]
+[[Embark (transit authority)|Embark (formerly Metro Transit)]] is the city's public transit company. The primary transfer terminal is downtown at NW 5th Street and Hudson Avenue. Embark maintains limited coverage of the city's primary street grid using a [[Spoke-hub distribution paradigm|hub-and-spoke system]] from the main terminal, making many journeys impractical due to the relatively small number of bus routes offered and that most trips require a transfer downtown. The city has recognized transit as a significant issue for the rapidly growing and urbanizing city. It has initiated several recent studies to improve the existing bus system, starting with a plan known as the Fixed Guideway Study.<ref>[http://www.okfgs.org/ Oklahoma Fixed Guideway Study] {{webarchive |url=https://web.archive.org/web/20100605085756/http://www.okfgs.org/ |date=June 5, 2010 }} (Retrieved April 21, 2010)</ref> This study identified several potential commuter transit routes from the suburbs into downtown OKC as well as feeder-line bus and/or rail routes throughout the city.
+
+Though Oklahoma City has no [[light rail]] or [[commuter rail]] service, city residents identified improved transit as one of their top priorities. From the fruits of the Fixed Guideway and other studies, city leaders strongly desire to incorporate urban rail transit into the region's future transportation plans. The greater Oklahoma City metropolitan transit plan identified from the Fixed Guideway Study includes a [[tram|streetcar system]] in the downtown area, to be fed by enhanced city bus service and commuter rail from the suburbs including [[Edmond, Oklahoma|Edmond]], [[Norman, Oklahoma|Norman]], and [[Midwest City, Oklahoma|Midwest City]]. There is a significant push for a commuter rail line connecting downtown OKC with the eastern suburbs of [[Del City, Oklahoma|Del City]], [[Midwest City, Oklahoma|Midwest City]], and [[Tinker Air Force Base]]. In addition to commuter rail, a short heritage rail line that would run from Bricktown just a few blocks away from the Amtrak station to the [[Adventure District]] in northeast Oklahoma City is under reconstruction.
+
+In December 2009, Oklahoma City voters passed [[Metropolitan Area Projects Plan 3|MAPS 3]], the $777&nbsp;million (7-year, 1-cent tax) initiative. This initiative would generate funding (approx. $130&nbsp;million) for the modern [[Oklahoma City Streetcar]] system in downtown Oklahoma City and the establishment of a transit hub.
+
+On September 10, 2013, the federal government announced that Oklahoma City would receive a $13.8-million grant from the U.S. Department of Transportation's [[Transportation Investment Generating Economic Recovery|TIGER program]]. This was the first-ever grant for Oklahoma City for a rail-based initiative and is thought to be a turning point for city leaders who have applied for grants in the past, only to be denied continuously. It is believed the city will use the TIGER grant along with approximately $10&nbsp; million from the MAPS 3 Transit budget to revitalize the city's Amtrak station, becoming an Intermodal Transportation Hub, taking over the role of the existing transit hub at NW 5th/Hudson Ave.{{citation needed|date=December 2018}}
+
+Construction of the [[Oklahoma City Streetcar]] system in Downtown OKC began in early 2017,<ref name="streetcar work begins">{{cite news|last=Crum|first=William|title=Streetcar work begins in Bricktown|newspaper=[[The Oklahoman]]|date=February 8, 2017|url=http://newsok.com/streetcar-work-begins-in-bricktown/article/5537265|access-date=February 8, 2017}}{{Dead link|date=June 2021 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> and the system opened for service in December 2018.<ref name="lines form">{{cite news |last=Crum |first=William |date=December 14, 2018 |title=Lines form to catch first rides on the Oklahoma City streetcar |url=https://newsok.com/article/5617756/speeches-holiday-carols-confetti-usher-in-new-era-for-oklahoma-city-transit |work=[[The Oklahoman]] |publisher=GateHouse Media Inc. |access-date=December 14, 2018}}</ref><ref name="service begins">{{cite press release |author=<!--Staff writer(s); no by-line.--> |date=December 14, 2018 |title=OKC Streetcar service begins |url=https://www.okc.gov/Home/Components/News/News/2884/18 |type=Press release |publisher=City of Oklahoma City |access-date=December 14, 2018}}</ref> Also known as the Maps 3 Streetcar, it connects the areas of Bricktown, Midtown and Downtown. The {{convert|6.9|mi|adj=on|abbr=on}} system serves the greater [[Downtown Oklahoma City|Downtown]] area using modern [[low-floor]] streetcars. The initial system consists of two lines connecting Oklahoma City's Central Business District with the entertainment district, [[Bricktown, Oklahoma City|Bricktown]], and the Midtown District. Expansion to other districts surrounding downtown and more routes in the CBD is already underway.{{citation needed|date=December 2018}}
+
+====Walkability====
+A 2013 study by [[Walk Score]] ranked Oklahoma City the 43rd most walkable out of the 50 largest U.S. cities. Oklahoma City has 18 neighborhoods with a Walk Score above 60, mainly close to the downtown core.<ref>{{cite web |url=http://www.walkscore.com/rankings/cities/|title=2011 City and Neighborhood Rankings |publisher=Walk Score |year=2011 |access-date=August 28, 2011}}</ref>
+
+===Health===
+[[File:OU Physicians Nima.JPG|thumb|OU Physicians Center]]
+Oklahoma City and the surrounding metropolitan area have several healthcare facilities and specialty hospitals. In Oklahoma City's MidTown district near downtown resides the state's oldest and largest single-site hospital, [[St. Anthony Hospital (Oklahoma City)|St. Anthony Hospital and Physicians Medical Center]].
+
+[[OU Medicine]], an academic medical institution on the campus of The [[University of Oklahoma Health Sciences Center]], is home to OU Medical Center. OU Medicine operates Oklahoma's only level-one trauma center at the OU Medical Center and the state's only level-one trauma center for children at Children's Hospital at OU Medicine,<ref>{{cite web|url=http://www.facs.org/trauma/verified.html|title=Trauma Centers|work=American College of Surgeons|access-date=September 16, 2013|archive-url=https://web.archive.org/web/20140707233016/http://www.facs.org/trauma/verified.html|archive-date=July 7, 2014|url-status=dead}}</ref> both of which are in the [[Oklahoma Health Center]] district. Other medical facilities operated by OU Medicine include OU Physicians and OU Children's Physicians, the OU College of Medicine, the Oklahoma Cancer Center, and OU Medical Center Edmond, the latter in the northern suburb of [[Edmond, Oklahoma|Edmond]].
+
+[[File:INTEGRIS Baptist Medical Center.jpg|thumb|INTEGRIS Baptist Medical Center]]
+INTEGRIS Health owns several hospitals, including INTEGRIS Baptist Medical Center, the INTEGRIS Cancer Institute of Oklahoma,<ref>[[INTEGRIS Cancer Institute of Oklahoma]].</ref> and the INTEGRIS Southwest Medical Center.<ref>{{cite web|url=http://integrisok.com/locations|title=Oklahoma Hospital, Health Center & Clinic Locations – INTEGRIS OK|first=Todd|last=Stogner|website=Integrisok.com}}</ref> INTEGRIS Health operates hospitals, rehabilitation centers, physician clinics, mental health facilities, independent living centers, and home health agencies throughout much of Oklahoma. INTEGRIS Baptist Medical Center ranks high-performing in the following categories: Cardiology and Heart Surgery; Diabetes and Endocrinology; Ear, Nose and Throat; Gastroenterology; Geriatrics; Nephrology; Orthopedics; Pulmonology and Urology.
+
+The Midwest Regional Medical Center is in the suburb of [[Midwest City, Oklahoma|Midwest City]]; other significant hospitals include the Oklahoma Heart Hospital and the Mercy Health Center. There are 347 physicians for every 100,000 people in the city.
+
+In the [[American College of Sports Medicine]]'s annual ranking of the United States' 50 most populous metropolitan areas on the basis of community health, Oklahoma City took last place in 2010, falling five spots from its 2009 rank of 45.<ref>{{cite web|url=http://www.acsm.org/AM/Template.cfm?Section=Home_Page&CONTENTID=12957&TEMPLATE=/CM/ContentDisplay.cfm |title=ACSM American Fitness Index Ranks 50 Largest Metro Areas on Health And Community Fitness |date= May 26, 2009 |website=ACSM |access-date=May 26, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100705221008/http://www.acsm.org/AM/Template.cfm?Section=Home_Page&CONTENTID=12957&TEMPLATE=%2FCM%2FContentDisplay.cfm |archive-date=July 5, 2010 }}</ref> The ACSM's report, published as part of its [[ACSM American Fitness Index|American Fitness Index program]], cited, among other things, the poor diet of residents, low levels of physical fitness, higher incidences of obesity, diabetes, and cardiovascular disease than the national average, low access to recreational facilities like swimming pools and baseball diamonds, the paucity of parks and low investment by the city in their development, the high percentage of households below the poverty level, and the lack of state-mandated physical education curriculum as contributing factors.<ref>{{cite web| url = http://www.americanfitnessindex.org/docs/reports/oklahomacity.pdf| title = Oklahoma City, OK MSA 2010 AFI Report |website=AFI | access-date = May 26, 2010| url-status = dead| archive-url = https://web.archive.org/web/20110815114707/http://www.americanfitnessindex.org/docs/reports/oklahomacity.pdf| archive-date = August 15, 2011| df = mdy-all}}</ref>
+
+== Notable people ==
+{{Main list|List of people from Oklahoma City}}
+
+== See also ==
+* [[Coyle v. Smith]]
+* [[History of Oklahoma]]
+* [[List of mayors of Oklahoma City]]
+* [[USS Oklahoma City|USS ''Oklahoma City'']], 2 ships
+
+{{portal bar|Geography|North America|Oklahoma|United States|Cities}}
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{Commons|Oklahoma City}}
+{{Sister project links|voy=Oklahoma City|Oklahoma City, Oklahoma}}
+* [http://www.okc.gov/ Official city website]
+* [http://www.travelok.com/oklahoma_city Oklahoma City tourism information]
+* [http://www.visitokc.com/ Convention & Visitors' Bureau]
+* [http://www.city-data.com/city/Oklahoma-City-Oklahoma.html/ City-Data page]
+* [http://www.filmrowokc.com/ Oklahoma City Historic Film Row District website] {{Webarchive|url=https://web.archive.org/web/20180311142322/http://www.filmrowokc.com/ |date=March 11, 2018 }}
+* [http://travel.nytimes.com/2008/08/08/travel/escapes/08American.html ''New York Times'' travel article about Oklahoma City]
+* [http://okc.net/ OKC.NET] cultural commentary about Oklahoma City
+* [http://voicesofoklahoma.com/ron_norick.html Voices of Oklahoma interview with Ron Norick] {{Webarchive|url=https://web.archive.org/web/20100425021347/http://www.voicesofoklahoma.com/ron_norick.html |date=April 25, 2010 }}, mayor during the Oklahoma City bombing
+
+{{Oklahoma City}}
+
+{{Navboxes
+| title = Articles relating to Oklahoma City
+| list = 
+{{Oklahoma City Metropolitan Area}}
+{{Oklahoma City skyscrapers}}
+{{Oklahoma}}
+{{Canadian County, Oklahoma}}
+{{Cleveland County, Oklahoma}}
+{{Oklahoma County, Oklahoma}}
+{{Pottawatomie County, Oklahoma}}
+{{US state capitals}}
+{{Oklahoma county seats}}
+}}
+{{USPopulousCities}}
+{{Authority control}}
+
+[[Category:Oklahoma City| ]]
+[[Category:Cities in Oklahoma]]
+[[Category:Cities in Canadian County, Oklahoma]]
+[[Category:Cities in Cleveland County, Oklahoma]]
+[[Category:Cities in Oklahoma County, Oklahoma]]
+[[Category:Cities in Pottawatomie County, Oklahoma]]
+[[Category:County seats in Oklahoma]]
+[[Category:List of place names of Choctaw origin in the United States]]
+[[Category:Oklahoma City metropolitan area]]
+[[Category:Populated places established in 1889]]
+[[Category:1889 establishments in Indian Territory]]
+[[Category:State capitals in the United States]]

@@ -1,0 +1,1159 @@
+{{Short description|City in Missouri, United States}}
+{{redirect|KCMO|other uses|KCMO (disambiguation)}}
+{{pp-sock|small=yes}}
+{{for-multi|the city in the state of Kansas|Kansas City, Kansas}}
+{{Use mdy dates|date=December 2023}}
+<!--Information outside of Kansas City, Missouri such as for the metro area, Kansas City, Kansas, or North Kansas City, Missouri should go on their respective pages. -->
+{{Infobox settlement
+| name                    = Kansas City, Missouri
+| settlement_type         = [[List of cities in Missouri|City]]
+<!-- images, nickname, motto -->
+| image_skyline           = {{multiple image
+| border                     = infobox
+| total_width                = 300
+| caption_align              = center
+| image_style                = border:1;
+| perrow                     = 1/2/2/1
+| image1                     = Downtown - panoramio (15).jpg
+| caption1                   = [[Downtown Kansas City]] skyline
+| image2                     = Kauffman Stadium at night, 2009.jpg
+| caption2                   = [[Kauffman Stadium]]
+| image3                     = Nelson Museum of Art Courtyard.jpg
+| caption3                   = [[Nelson-Atkins Museum of Art]]
+| image4                     = Kauffman Center for Performing Arts 2.jpg
+| caption4                   = [[Kauffman Center for the Performing Arts]]
+| image5                     = National World War I Museum and Memorial aerial.jpg
+| caption5                   = [[National World War I Museum and Memorial]]
+| image6                     = Kansas City, MO Union Station (3557621442).jpg
+| caption6                   = [[Kansas City Union Station]]
+}}
+| image_flag              = Flag of Kansas City, Missouri.svg
+| flag_size               = 125px
+| image_blank_emblem      = Logo of Kansas City, Missouri.svg
+| blank_emblem_type       = Logo
+| blank_emblem_size       = 90px
+| nicknames               = "KC", "KCMO", the "City of Fountains", "Paris of the Plains", and the "Heart of America"
+<!-- maps and coordinates -->
+  | image_map               = {{maplink
+  | frame              = yes
+  | plain              = yes
+  | frame-align        = center
+  | frame-width        = 290
+  | frame-height       = 290
+  | frame-coord        = {{coord|39.0945|-94.55}}
+  | zoom               = 9
+  | type               = shape
+  | marker             = city
+  | stroke-width       = 2
+  | stroke-color       = #0096FF
+  | fill               = #0096FF
+  | id2                = Q41819
+  | type2              = shape-inverse
+  | stroke-width2      = 2
+  | stroke-color2      = #5F5F5F
+  | stroke-opacity2    = 0
+  | fill2              = #000000
+  | fill-opacity2      = 0
+}}
+| map_caption             = Interactive map of Kansas City
+| pushpin_map = Missouri#USA
+| pushpin_relief = yes
+| pushpin_label = Kansas City
+| coordinates             = {{coord|39|05|59|N|94|34|42|W|region:US-MO|display=inline,title}}
+<!-- location -->
+| subdivision_type        = Country
+| subdivision_name        = United States
+| subdivision_type1       = [[U.S. state|State]]
+| subdivision_name1       = [[Missouri]]
+| subdivision_type2       = [[List of counties in Missouri|Counties]]
+| subdivision_name2       = [[Jackson County, Missouri|Jackson]], [[Clay County, Missouri|Clay]], [[Platte County, Missouri|Platte]], [[Cass County, Missouri|Cass]]
+<!-- established -->
+| established_title       = [[Municipal corporation|Incorporated (Town)]]
+| established_date        = {{start date and age|June 1, 1850}}
+| established_title1      = Incorporated (City)
+| established_date1       = {{start date and age|March 28, 1853}}
+| named_for               = [[Kansas River]]
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| government_type         = [[Council-manager government|Council-manager]]
+| governing_body          = [[Kansas City, Missouri City Council]]
+| leader_party            = [[Democratic Party (United States)|D]]
+| leader_title            = [[Mayor of Kansas City, Missouri|Mayor]]
+| leader_name             = [[Quinton Lucas]]
+| leader_title1           = City Manager
+| leader_name1            = Brian Platt
+| leader_title2           = City Clerk
+| leader_name2            = Marilyn Sanders
+<!-- display settings -->
+| unit_pref               = Imperial
+<!-- area -->
+| area_footnotes          = <ref name="TigerWebMapServer">{{cite web|title=ArcGIS REST Services Directory|url=https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer|publisher=United States Census Bureau|access-date=August 28, 2022|archive-date=January 19, 2022|archive-url=https://web.archive.org/web/20220119173812/https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer|url-status=live}}</ref>
+| dunam_link              = <!-- If dunams are used, this specifies which dunam to link. -->
+| area_total_km2          = 825.69
+| area_total_sq_mi        = 318.80
+| area_land_km2           = 815.14
+| area_land_sq_mi         = 314.73
+| area_water_km2          = 10.55
+| area_water_sq_mi        = 4.07
+| area_water_percent      = 1.28
+| area_urban_km2          = 1,849.5
+| area_urban_sq_mi        = 714.10
+| area_metro_km2          = 20,596
+| area_metro_sq_mi        = 7,952.16
+<!-- elevation -->
+| elevation_m             = 277
+| elevation_ft            = 910
+<!-- population -->
+| population_as_of        = [[2020 United States census|2020]]
+| population_total        = 508090
+| population_footnotes =<ref name="QuickFacts"/>
+| pop_est_footnotes       = <ref name="QuickFacts"/><ref name=PopEstCities>{{cite web|url=https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html|title=City and Town Population Totals: 2020–2023|publisher=[[United States Census Bureau]], Population Division|access-date=May 16, 2024|archive-date=July 11, 2022|archive-url=https://web.archive.org/web/20220711040810/https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html|url-status=live}}</ref>
+| pop_est_as_of           = 2023
+| population_est          = 510704
+| population_rank         = [[List of United States cities by population|38th]] in the United States<br />[[List of cities in Missouri|1st]] in Missouri
+| population_density_km2  = 623.31
+| population_density_sq_mi = 1614.38
+| population_urban               = 1,674,218 ([[List of United States urban areas|US: 34th]])
+| population_density_urban_km2   = 905.2 
+| population_density_urban_sq_mi = 2,344.5
+| population_metro_footnotes     = <ref name="2020Pop">{{cite web |title=2020 Population and Housing State Data |newspaper=Census.gov |url=https://www.census.gov/library/visualizations/interactive/2020-population-and-housing-state-data.html |publisher=United States Census Bureau |access-date=August 22, 2021 |archive-date=August 24, 2021 |archive-url=https://web.archive.org/web/20210824081449/https://www.census.gov/library/visualizations/interactive/2020-population-and-housing-state-data.html |url-status=live }}</ref>
+| population_metro               = 2392035 ([[List of metropolitan statistical areas|US: 31st]])
+| population_demonym      = Kansas Citian
+<!-- demographics (section 1) -->
+| demographics_type1      = GDP
+| demographics1_footnotes = <ref>{{Cite web|title=Total Gross Domestic Product for Kansas City, MO–KS (MSA)|url=https://fred.stlouisfed.org/series/NGMP28140|website=fred.stlouisfed.org|access-date=January 3, 2024|archive-date=January 3, 2024|archive-url=https://web.archive.org/web/20240103193441/https://fred.stlouisfed.org/series/NGMP28140|url-status=live}}</ref>
+| demographics1_title1    = Kansas City (MSA)
+| demographics1_info1     = $169.5 billion (2022)
+<!-- time zone(s) -->
+| timezone1               = [[Central Time Zone|CST]]
+| utc_offset1             = −06:00
+| timezone1_DST           = [[Central Time Zone|CDT]]
+| utc_offset1_DST         = −05:00
+<!-- postal codes, area code -->
+| postal_code_type        = [[ZIP Code]]s<ref>{{cite web|url=http://zip4.usps.com/zip4/citytown.jsp |publisher=USPS |title=Zip Code Lookup |access-date=November 27, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20101104123722/http://zip4.usps.com/zip4/citytown.jsp |archive-date=November 4, 2010 }}</ref>
+| postal_code             = {{collapsible list
+|title = 64XXX
+|frame_style = border:none; padding: 0;
+|list_style = text-align:center;display:none
+|64101–64102, 64105–64106, 64108–64114, 64116–64121, 64123–64134, 64136–64139, 64141, 64144–64158, 64161–64168, 64170–64171, 64179–64180, 64184, 64187–64188, 64190–64191, 64195–64199, 64999}}
+| area_code_type          = [[Area code]]s
+| area_codes              = [[Area code 816|816]], [[Area code 975|975]]
+<!-- blank fields (section 1) -->
+| blank_name_sec1         = [[Federal Information Processing Standard|FIPS code]]
+| blank_info_sec1         = 29000–38000<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=January 31, 2008 |title=U.S. Census website |archive-date=December 27, 1996 |archive-url=https://web.archive.org/web/19961227012639/https://www.census.gov/ |url-status=live }}</ref>
+| blank1_name_sec1        = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info_sec1        = 748198<ref name=gnis>{{GNIS|748198}}</ref>
+<!-- website, footnotes -->
+| website                 = {{URL|https://kcmo.gov/}}
+}}
+
+'''Kansas City, Missouri''' ('''KC''' or '''KCMO''') is the largest city in the [[U.S. state]] of [[Missouri]] by [[List of cities in Missouri|population]] and area. Most of the city lies within [[Jackson County, Missouri|Jackson County]], and other portions spill into [[Clay County, Missouri|Clay]], [[Platte County, Missouri|Platte]], and [[Cass County, Missouri|Cass]] counties. It is the central city of the [[Kansas City metropolitan area]], which straddles the [[Missouri]]–[[Kansas]] state line and has a population of 2,392,035.<ref>{{Cite web|url=https://www.ksjbam.com/2021/12/13/cities-with-the-most-single-family-homes/|title=Cities With the Most Single-Family Homes|first=Jonathan|last=Jones|access-date=July 6, 2023|archive-date=December 14, 2021|archive-url=https://web.archive.org/web/20211214183532/https://www.ksjbam.com/2021/12/13/cities-with-the-most-single-family-homes/|url-status=live}}</ref><ref>{{Cite web|url=https://southernoregonbusiness.com/kansas-citys-fateful-suburban-experiment/|title=Kansas City's Fateful Suburban Experiment|first=Jim|last=Teece|date=June 1, 2020|website=Southern Oregon Business Journal|access-date=July 6, 2023|archive-date=July 7, 2023|archive-url=https://web.archive.org/web/20230707161950/https://southernoregonbusiness.com/kansas-citys-fateful-suburban-experiment/|url-status=live}}</ref><ref>{{Cite web|url=https://www2.census.gov/programs-surveys/metro-micro/geographies/reference-files/1999/historical-delineation-files/cencty.txt|title=Central Cities OF METROPOLITAN AND MICROPOLITAN STATISTICAL AREAS, June 1999|access-date=August 10, 2022|archive-date=July 27, 2022|archive-url=https://web.archive.org/web/20220727213737/https://www2.census.gov/programs-surveys/metro-micro/geographies/reference-files/1999/historical-delineation-files/cencty.txt|url-status=live}}</ref><ref name="2020Pop" /> As of the [[2020 United States census|2020 census]], the city had a population of 508,090,<ref name="QuickFacts">{{cite web |title=QuickFacts: Kansas City city, Missouri |url=https://www.census.gov/quickfacts/fact/table/kansascitycitymissouri/POP010220 |url-status=live |archive-url=https://web.archive.org/web/20220716001241/https://www.census.gov/quickfacts/fact/table/kansascitycitymissouri/POP010220 |archive-date=July 16, 2022 |access-date=August 26, 2021 |publisher=United States Census Bureau}}</ref> making it the [[List of United States cities by population|37th most-populous city in the United States]], as well as the sixth-most populous city in the [[Midwestern United States|Midwest]].<ref>{{cite web|url=https://www.worldatlas.com/articles/the-largest-cities-in-the-midwest.html|title=The Largest Cities in the Midwest|date=January 4, 2019|website=Worldatlas.com|access-date=February 1, 2024|archive-date=May 6, 2021|archive-url=https://web.archive.org/web/20210506010326/https://www.worldatlas.com/articles/the-largest-cities-in-the-midwest.html|url-status=live}}</ref> Kansas City was founded in the 1830s as a port on the [[Missouri River]] at its confluence with the [[Kansas River]] from the west. On June 1, 1850, the town of Kansas was incorporated; shortly after came the establishment of the [[Kansas Territory]]. Confusion between the two ensued, and the name Kansas City was assigned to distinguish them soon after.
+
+Sitting on Missouri's western boundary with [[Kansas]], with [[Downtown Kansas City|Downtown]] near the confluence of the Kansas and Missouri Rivers, the city encompasses about {{convert|319.03|sqmi|km2}}, making it the [[List of United States cities by area|25th largest city by total area]] in the United States. It is one of Jackson County's two seats along with the major [[satellite city]] of [[Independence, Missouri|Independence]]; and its other major Missouri suburbs include [[Blue Springs, Missouri|Blue Springs]], [[Lee's Summit, Missouri|Lee's Summit]], [[Raytown, Missouri|Raytown]], and [[Liberty, Missouri|Liberty]]. Its major Kansas suburbs include [[Overland Park, Kansas|Overland Park]], [[Olathe, Kansas|Olathe]], [[Lenexa, Kansas|Lenexa]], and [[Kansas City, Kansas]].
+
+The city is composed of several [[Neighborhoods of Kansas City, Missouri|neighborhoods]], including the [[River Market, Kansas City|River Market District]], [[18th and Vine District]], and the [[Country Club Plaza]]. Celebrated cultural traditions include [[Kansas City jazz]]; theater, as a historical center of the [[Vaudevillian]] [[Orpheum circuit]] in the 1920s; the nickname [[List of fountains in the Kansas City metropolitan area|City of Fountains]]; the [[Kansas City Chiefs|Chiefs]] and [[Kansas City Royals|Royals]] sports franchises; and cuisine such as [[Kansas City–style barbecue]] and [[strip steak]].
+{{toclimit|3}}
+
+==History==
+{{Main|History of the Kansas City metropolitan area}}
+{{For timeline}}
+The town of [[town of Kansas|Kansas, Missouri]], was incorporated on June 1, 1850, reincorporated and renamed City of Kansas on March 28, 1853, and renamed Kansas City in 1889. The [[Kansas City Metropolitan Area|area]] straddles the border between Missouri and Kansas at the [[Kaw Point|confluence of the Kansas and Missouri rivers]], and was considered a good place settle.
+
+The [[Antioch Christian Church (Kansas City, Missouri)|Antioch Christian Church]], [[Dr. James Compton House]], and [[Woodneath]] are listed on the [[National Register of Historic Places]].<ref name="nris">{{NRISref|version=2010a|dateform=mdy}}</ref>
+
+===Exploration and settlement===
+[[File:Westport Pioneers Statue.jpg|thumb|The Kansas City Pioneer Square monument in Westport features [[Pony Express]] founder [[Alexander Majors]], Westport and Kansas City founder [[John Calvin McCoy]], and [[mountain man]] [[Jim Bridger]] who owned Chouteau's Store.]]
+In past centuries, the area's tribal inhabitants include the [[Hopewell tradition]], [[Mississippian culture]], [[Kaw people|Kansa]], [[Osage Nation|Osage]], [[Otoe]], and [[Missouria|Missouri]].<ref>{{cite web |url=https://www.visitkc.com/visitors/things-do/trip-ideas-tools/discover/diversity/native-american-culture-kansas-city |title=Native American Culture in Kansas City |website=VisitKC.com |access-date=February 8, 2023 |archive-date=February 5, 2023 |archive-url=https://web.archive.org/web/20230205020759/https://www.visitkc.com/visitors/things-do/trip-ideas-tools/discover/diversity/native-american-culture-kansas-city |url-status=live }}</ref> The first documented European visitor to the eventual site of Kansas City was [[Étienne de Veniard, Sieur de Bourgmont]], who was also the first European to explore the lower Missouri River. Criticized for his response to the [[Native Americans in the United States|Native American]] attack on [[Fort Détroit]], he had deserted his post as fort commander and was avoiding French authorities. Bourgmont lived with a Native American wife in a village about {{convert|90|mi|km}} east near [[Brunswick, Missouri]], where he illegally traded [[furs]].
+
+To clear his name, he wrote ''Exact Description of Louisiana, of Its Harbors, Lands and Rivers, and Names of the Indian Tribes That Occupy It, and the Commerce and Advantages to Be Derived Therefrom for the Establishment of a Colony'' in 1713 and ''The Route to Be Taken to Ascend the Missouri River'' in 1714. In the documents, he describes the junction of the "Grande Riv[ière] des Cansez" and Missouri River, as the first adoption of those names. French cartographer [[Guillaume Delisle]] used the descriptions to make the area's first reasonably accurate map.
+
+The [[Kingdom of Spain|Spanish]] took over the region in the [[Treaty of Paris (1763)|Treaty of Paris]] in 1763, but were not to play a major role other than taxing and licensing Missouri River ship traffic. The French continued their [[fur trade]] under Spanish license. The [[Chouteau]] family operated under Spanish license at [[St. Louis, Missouri|St. Louis]], in the lower [[Missouri River Valley|Missouri Valley]] as early as 1765 and in 1821 the Chouteaus reached Kansas City, where [[François Chouteau]] established Chouteau's Landing.
+
+===After the Louisiana Purchase (1803)===
+{{see also|Bleeding Kansas|History of slavery in Missouri}}
+[[File:Kansas City in 1843, drawing from Centennial History of Oregon.png|thumb|In 1843, Kansas City was depicted in a history of [[Oregon]].]]
+After the 1803 [[Louisiana Purchase]], [[Lewis and Clark]] visited the confluence of the Kansas and Missouri rivers, noting it was a good place to build a fort. In 1831, a group of [[Mormons]] from [[New York state]] led by [[Joseph Smith]] settled in the area. They built the first school within what became Kansas City, but were forced out by [[mob violence]] in 1833.<ref>{{Cite book |last=Wilkinson |first=Ernest L. |title=Brigham Young University: The First 100 Years |location=Provo |publisher=BYU Press |year=1976 |volume=1 |page=7 }}</ref>
+
+In 1831, Gabriel Prudhomme Sr., a Canadian trapper and partner of [[François Chouteau]], purchased {{convert|257|acres}} fronting the Missouri River.  He established a home for his wife, Josephine, and six children. He operated a ferry on the river.{{citation needed|date=February 2023}}
+
+In 1833, [[John Calvin McCoy|John McCoy]], son of [[Baptist]] [[missionary]] [[Isaac McCoy]] and brother-in-law of [[Johnston Lykins]], established [[Westport, Kansas City|West Port]] along the [[Santa Fe Trail]], {{convert|3|mi|km|abbr=off|adj=off|sp=us}} south of the river. In 1834, McCoy established Westport Landing on a bend in the Missouri to serve as a landing point for West Port, with Lykins as the first postmaster. He found it more convenient to have his goods offloaded at the Prudhomme landing next to Chouteau's landing than in Independence.  Several years after Gabriel Prudhomme's death, a group of fourteen investors purchased his land at auction on November 14, 1838. By 1839, the investors divided the property and the first lots were sold in 1846 after legal complications were settled. The remaining lots were sold by February 1850.{{citation needed|date=February 2023}}
+
+In 1850, the landing area was incorporated as the town of [[town of Kansas|Kansas, Missouri]].<ref>{{cite web | title=Why is Kansas City located in Missouri instead of Kansas? | url=http://www.kclibrary.org/kchistory/why-kansas-city-located-missouri-instead-kansas | access-date=January 2, 2010 | url-status=dead | archive-url=https://web.archive.org/web/20100716232838/http://www.kclibrary.org/kchistory/why-kansas-city-located-missouri-instead-kansas | archive-date=July 16, 2010 | df=mdy-all }}</ref> By that time, the towns of Kansas, Westport, and nearby [[Independence, Missouri|Independence]], had become critical points in the [[Territorial acquisitions of the United States|westward expansion]] of the United States. Three major [[Historical roads and trails of the United States|trail]]s – the [[Santa Fe Trail|Santa Fe]], [[California Trail|California]], and [[Oregon Trail|Oregon]] – all passed through Jackson County.
+
+On February 22, 1853, Kansas was reincorporated and renamed the City of Kansas with its first elected mayor, [[William Samuel Gregory]]. Due to a legal discovery of living outside city boundaries, he was soon succeeded by Johnston Lykins as the second (but first legally elected) mayor.<ref name="KC Mayors">{{cite book | title=A Condensed History of the Kansas City Area: Its Mayors and Some V.I.P.s | last=Green | first=George Fuller | publisher=The Lowell Press | date=1968 | location=[[Kansas City, Missouri]] | oclc=1144606867}}</ref><ref name="Lykins KCH">{{cite web | title=Johnston Lykins | work=Missouri Valley Special Collections | publisher=[[Kansas City Public Library]] | url= https://kchistory.org/document/biography-johnston-lykins-1800-1876-missionary-doctor-and-kansas-citys-second-mayor | first=Daniel | last=Coleman | access-date=March 31, 2022}}</ref> The city had an area of {{convert|0.70|sqmi|km2}} and a population of 2,500. The boundary lines extended from the middle of the Missouri River south to what is now Ninth Street, and from Bluff Street on the west to a point between Holmes Road and Charlotte Street on the east.<ref>{{cite web | title=Early City Limits | url=http://images.kclibrary.org/localhistory/media.cfm?mediaID=95980 | access-date =September 11, 2006 |archive-url = https://web.archive.org/web/20070927175946/http://images.kclibrary.org/localhistory/media.cfm?mediaID=95980 |archive-date = September 27, 2007}}</ref>
+
+===American Civil War===
+{{Further|American Civil War}}
+During the [[American Civil War|Civil War]], the city and its immediate surroundings were the focus of intense military activity. Although the [[First Battle of Independence]] in August 1862 resulted in a [[Confederate States Army]] victory, the Confederates were unable to leverage their win in any significant fashion, as Kansas City was occupied by Union troops and proved too heavily fortified to assault. The [[Second Battle of Independence]], which occurred on October 21–22, 1864, as part of [[Sterling Price]]'s [[Price's Raid|Missouri expedition of 1864]], also resulted in a Confederate triumph. Once again their victory proved hollow, as Price was decisively defeated in the pivotal [[Battle of Westport]] the next day, effectively ending Confederate efforts to regain Missouri.
+
+General [[Thomas Ewing, Jr.|Thomas Ewing]], in response to a successful raid on nearby [[Lawrence, Kansas]], led by [[William Quantrill]], issued [[General Order No. 11 (1863)|General Order No. 11]], forcing the eviction of residents in four western Missouri counties – including Jackson – except those living in the city and nearby communities and those whose allegiance to the Union was certified by Ewing.
+
+===After Civil War===
+[[File:Junction of Main and Delaware Streets, Kansas City, Mo (NYPL b12647398-68704).tiff|thumb|The junction of Main and Delaware Streets in 1898]]
+After the Civil War, Kansas City grew rapidly. The selection of the city over [[Leavenworth, Kansas]], for the [[Hannibal and St. Joseph Railroad]] bridge over the [[Missouri River]] brought significant growth. The population exploding after 1869, when Hannibal Bridge, designed by [[Octave Chanute]], opened. The boom prompted a name change to Kansas City in 1889, and the city limits to be extended south and east. Westport became part of Kansas City on December 2, 1897. In 1900, Kansas City was the 22nd largest city in the country, with a population of 163,752 residents.<ref name="U.S. Census Bureau">{{cite web|title=Missouri – Race and Hispanic Origin for Selected Cities and Other Places: Earliest Census to 1990 |url=https://www.census.gov/population/www/documentation/twps0076/twps0076.html |publisher=U.S. Census Bureau |access-date=December 18, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20120812191959/http://www.census.gov/population/www/documentation/twps0076/twps0076.html |archive-date=August 12, 2012 }}</ref>
+
+[[landscape architecture|Landscape architect]] [[George Kessler]] shaped Kansas City into a leading example of the [[City Beautiful]] movement, with a network of boulevards and parks.<ref>{{cite web | title=Historic Sanborn Maps of Kansas City | url=http://digital.library.umsystem.edu/image/umcscsanic/title/kansas+city+missouri | publisher=[[University of Missouri]] Digital Library | access-date=March 21, 2011 | archive-date=July 16, 2022 | archive-url=https://web.archive.org/web/20220716001241/https://dl.mospace.umsystem.edu//mu/islandora/object/mu:138690/title/kansas+city+missouri | url-status=live }}</ref> New neighborhoods like [[Southmoreland]] and the Rockhill District were conceived to accommodate the city's largest residencies of palatial proportions.{{citation needed|date=February 2023}}
+
+The obsolescence of [[Kansas City Union Station#Union Depot era|Union Depot]] in West Bottoms in favor of the new [[Kansas City Union Station|Union Station]] in 1914, and the opening of the [[Liberty Memorial]] in 1923, provided two of the city's most identifiable landmarks. [[Robert A. Long]], president of the Liberty Memorial Association, was a driving force in the funding for construction. Long was a longtime resident and wealthy businessman. He built the [[R.A. Long Building]] for the [[Long-Bell Lumber Company]], his home, [[Kansas City Museum|Corinthian Hall]] (now the [[Kansas City Museum]]) and [[Longview Farm]].{{citation needed|date=February 2023}}
+
+Further spurring Kansas City's growth was the opening of the innovative [[Country Club Plaza]] development by [[Jesse Clyde Nichols|J.C. Nichols]] in 1925, as part of his [[Country Club District]] plan.{{citation needed|date=February 2023}}
+
+====20th century streetcar system====
+[[Streetcars in Kansas City|The Kansas City streetcar system]] once had hundreds of miles of streetcars running through the city and was one of the largest systems in the country.<ref>{{Cite web|url=https://www.kcur.org/show/central-standard/2013-11-22/the-history-of-the-kansas-city-streetcar|title=The History Of The Kansas City Streetcar|website=KCUR 89.3 – NPR in Kansas City.|access-date=April 19, 2020|archive-date=May 5, 2021|archive-url=https://web.archive.org/web/20210505063343/https://www.kcur.org/show/central-standard/2013-11-22/the-history-of-the-kansas-city-streetcar|url-status=live}}</ref> In 1903 the 8th Street Tunnel was built as an underground streetcar system through the city. The last run of the streetcar was on June 23, 1957, but the tunnel still exists.<ref>{{Cite web|url=https://www.kcur.org/arts-life/2016-09-15/the-8th-street-tunnel-is-a-gateway-to-kansas-citys-history-but-you-probably-cant-get-in|title=The 8th Street Tunnel Is A Gateway To Kansas City's History — But You Probably Can't Get In|date=September 15, 2016|website=KCUR 89.3 – NPR in Kansas City.|access-date=April 19, 2020|archive-date=May 5, 2021|archive-url=https://web.archive.org/web/20210505010844/https://www.kcur.org/arts-life/2016-09-15/the-8th-street-tunnel-is-a-gateway-to-kansas-citys-history-but-you-probably-cant-get-in|url-status=live}}</ref>
+
+===Pendergast era===
+At the start of the 20th century, [[political machines]] gained clout in the city, with the one led by [[Tom Pendergast]] dominating the city by 1925. Several important buildings and structures were built during this time, including the [[Kansas City City Hall]] and the Jackson County Courthouse. During this time, he aided one of his nephew's friends, [[Harry S. Truman]], in a political career. Truman eventually became a senator, then vice president, then [[Presidency of Harry S. Truman|president]].<ref>{{cite web |last1=Taylor |first1=Jon |title=Harry Truman and the Pendergast Political Machine |url=https://pendergastkc.org/article/harry-truman-and-pendergast-political-machine |website=pendergastkc |date=June 16, 2017 |publisher=Kansas City Public Library |access-date=August 31, 2021 |archive-date=October 10, 2021 |archive-url=https://web.archive.org/web/20211010214303/https://pendergastkc.org/article/harry-truman-and-pendergast-political-machine |url-status=live }}</ref> The machine fell in 1939 when Pendergast, riddled with health problems, pleaded guilty to tax evasion after long federal investigations. His biographers have summed up his uniqueness:
+
+{{blockquote|Pendergast may bear comparison to various big-city bosses, but his open alliance with hardened criminals, his cynical subversion of the democratic process, his monarchistic style of living, his increasingly insatiable gambling habit, his grasping for a business empire, and his promotion of Kansas City as a wide-open town with every kind of vice imaginable, combined with his professed compassion for the poor and very real role as city builder, made him bigger than life, difficult to characterize.<ref>{{cite book |author=Lawrence H. Larsen and Nancy J. Hulston |year=2013 |title=Pendergast! |url={{google books |plainurl=y |id=n-Qiu53FCOsC|page=11}} |publisher=University of Missouri Press |page=xi}}</ref>}}
+
+====Troost redlining and white flight====
+[[Troost Avenue]] was once the eastern edge of Kansas City, Missouri and a residential corridor nicknamed Millionaire Row. It is now widely seen as one of the city's most prominent racial and economic dividing lines due to urban decay, which was caused by [[white flight]].<ref>{{Cite web|url=https://info.umkc.edu/unews/troost-wall-the-product-of-kansas-citys-long-running-racial-plight/|title='Troost Wall' the product of Kansas City's long-running racial plight: Racist real estate practices leave urban decay – University News|website=info.umkc.edu|date=March 5, 2013 |access-date=November 18, 2019|archive-date=May 5, 2021|archive-url=https://web.archive.org/web/20210505031259/https://info.umkc.edu/unews/troost-wall-the-product-of-kansas-citys-long-running-racial-plight/|url-status=live}}</ref><ref>{{Cite web|url=https://www.kcur.org/community/2014-03-27/how-troost-became-a-major-divide-in-kansas-city|title=How Troost Became a Major Divide in Kansas City|date=March 27, 2014 |publisher=KCUR 89.3 – NPR in Kansas City|access-date=April 19, 2020|archive-date=May 5, 2021|archive-url=https://web.archive.org/web/20210505063331/https://www.kcur.org/community/2014-03-27/how-troost-became-a-major-divide-in-kansas-city|url-status=live}}</ref> During the civil rights era the city blocked people of color from moving to homes west of Troost Avenue, causing the areas east of Troost to have one of the worst murder rates in the country. This led to the dominating economic success of neighboring [[Johnson County, Kansas|Johnson County]].<ref>{{Cite web|url=http://www.kansan.com/opinion/shondell-redlining-in-kansas-city-contributes-to-systemic-racism/article_2987f836-1779-11e8-afce-7fa966f3796e.html|title=Shondell: Redlining in Kansas City contributes to systemic racism|first=Joseph|last=Shondell|website=The University Daily Kansan|date=February 25, 2018 |access-date=November 18, 2019|archive-date=June 23, 2021|archive-url=https://web.archive.org/web/20210623055156/https://www.kansan.com/opinion/shondell-redlining-in-kansas-city-contributes-to-systemic-racism/article_2987f836-1779-11e8-afce-7fa966f3796e.html|url-status=live}}</ref>
+
+In 1950, African Americans represented 12.2% of Kansas City's population.<ref name="U.S. Census Bureau"/> The city's most populous ethnic group, non-Hispanic whites,<ref name="census1">{{cite web|url=http://quickfacts.census.gov/qfd/states/29/2938000.html |title=Kansas City (city), Missouri |work=State & County QuickFacts |publisher=U.S. Census Bureau |access-date=April 20, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120423160756/http://quickfacts.census.gov/qfd/states/29/2938000.html |archive-date=April 23, 2012 }}</ref> declined from 89.5% in 1930 to 54.9% in 2010.<ref name="U.S. Census Bureau"/>
+
+In 1940, the city had about 400,000 residents; by 2000, it had about 440,000. From 1940 to 1960, the city more than doubled its physical size, while increasing its population by only about 75,000. By 1970, the city covered approximately {{convert|316|sqmi|km2}}, more than five times its size in 1940.{{Citation needed|date=February 2023}} Aggressively annexing the surrounding suburbs and undeveloped land spared Kansas City from the severe population loss suffered by cities like St. Louis and Detroit, similar cities which both lost over 50% of their population in the postwar era. In the most neglected neighborhoods, however, the same pattern of abandonment occurred and left behind massive numbers of vacant lots and abandoned homes, especially in the areas east of Troost.
+
+====Hyatt Regency walkway collapse====
+The [[Hyatt Regency walkway collapse]] was a major disaster that occurred on July 17, 1981, killing 114 people and injuring more than 200 others during a [[tea dance]] in the 45-story [[Sheraton Kansas City Hotel at Crown Center|Hyatt Regency hotel]] in [[Crown Center]]. It is the deadliest structural collapse in US history other than the [[September 11 attacks]].<ref>{{Cite web|url=https://interestingengineering.com/understanding-hyatt-regency-walkway-collapse|title=Understanding the Tragic Hyatt Regency Walkway Collapse|date=July 4, 2017|website=interestingengineering.com|access-date=November 18, 2019|archive-date=February 27, 2019|archive-url=https://web.archive.org/web/20190227121238/https://interestingengineering.com/understanding-hyatt-regency-walkway-collapse|url-status=live}}</ref> In 2015 a memorial called the Skywalk Memorial Plaza was built for the families of the victims of the disaster, across the street from the hotel which is now a Sheraton.<ref>{{Cite web|url=https://www.kcur.org/community/2015-11-12/three-decades-on-a-memorial-for-the-victims-of-the-hyatt-disaster|title=Three Decades On, A Memorial For The Victims Of The Hyatt Disaster|date=November 12, 2015|website=KCUR 89.3 – NPR in Kansas City.|access-date=April 19, 2020|archive-date=May 5, 2021|archive-url=https://web.archive.org/web/20210505031302/https://www.kcur.org/community/2015-11-12/three-decades-on-a-memorial-for-the-victims-of-the-hyatt-disaster|url-status=live}}</ref>
+
+===21st century===
+====Downtown Kansas City re-development====
+[[File:Kansas_city_(16778782291).jpg|thumb|[[Downtown Kansas City]] looking over [[Union Station (Kansas City)|Union Station]] from the Liberty Memorial]]
+In the 21st century, the Kansas City area has undergone extensive redevelopment, with more than $6 billion in improvements to the downtown area on the Missouri side. One of the main goals is to attract convention and tourist dollars, office workers, and residents to downtown KCMO. Among the projects include the redevelopment of the [[Power & Light District]] into a retail and entertainment district; and the Sprint Center, an 18,500-seat arena that opened in 2007, funded by a 2004 ballot initiative involving a tax on car rentals and hotels, designed to meet the stadium specifications for a possible future NBA or NHL franchise,<ref>{{Cite web|url=https://www.bizjournals.com/kansascity/stories/2004/08/02/daily19.html|title=Voter OK of arena tax 'changes everything'|work=Kansas City Business Journal|access-date=March 30, 2018|archive-date=March 7, 2021|archive-url=https://web.archive.org/web/20210307203144/https://www.bizjournals.com/kansascity/stories/2004/08/02/daily19.html|url-status=live}}</ref> and was renamed [[T-Mobile Center]] in 2020; Kemper Arena, which was functionally superseded by Sprint Center, fell into disrepair and was sold to private developers. By 2018, the arena was being converted to a sports complex under the name [[Hy-Vee Arena]].<ref>{{cite press release|url=https://www.hy-vee.com/corporate/news-events/news-press-releases/iconic-kansas-city-venue-named-hyvee-arena/|title=Iconic Kansas City Venue Named Hy-Vee Arena|publisher=[[Hy-Vee]]|access-date=May 29, 2018|archive-url=https://web.archive.org/web/20180529130457/https://www.hy-vee.com/corporate/news-events/news-press-releases/iconic-kansas-city-venue-named-hyvee-arena/|archive-date=May 29, 2018|url-status=live}}</ref> The Kauffman Performing Arts Center opened in 2011 providing a new, modern home to the KC Orchestra and Ballet. In 2015, an 800-room Hyatt Convention Center Hotel was announced for a site next to the Performance Arts Center & Bartle Hall. Construction was scheduled to start in early 2018 with Loews as the operator.<ref>{{Cite news|url=http://www.kansascity.com/news/business/article180921826.html|title=For some on the KC council, patience on the convention hotel is wearing thin|work=kansascity.com|access-date=November 20, 2017|archive-url=https://web.archive.org/web/20171119103816/http://www.kansascity.com/news/business/article180921826.html|archive-date=November 19, 2017|url-status=live}}</ref>
+
+From 2007 to 2017, downtown residential population in Kansas City quadrupled and continues to grow. The area has grown from almost 4,000 residents in the early 2000s to nearly 30,000 {{as of|2017|lc=yes}}. Kansas City's downtown ranks as the sixth-fastest-growing downtown in America with the population expected to grow by more than 40% by 2022. Conversions of office buildings such as the Power & Light Building and the Commerce Bank Tower into residential and hotel space has helped to fulfill the demand. New apartment complexes like One, Two, and Three Lights, River Market West, and 503 Main have begun to reshape Kansas City's skyline. Strong demand has led to occupancy rates in the upper 90%.<ref name="kansascity">{{Cite news|url=http://www.kansascity.com/news/business/development/article84819842.html|title=Three projects are part of a surge in downtown KC apartments|work=kansascity.com|access-date=November 20, 2017|archive-url=https://web.archive.org/web/20171201104733/http://www.kansascity.com/news/business/development/article84819842.html|archive-date=December 1, 2017|url-status=live}}</ref>
+
+The residential population of downtown has boomed, and the office population has dropped significantly from the early 2000s to the mid-2010s. Top employers like AMC moved their operations to modern office buildings in the suburbs. High office vacancy plagued downtown, leading to the neglect of many office buildings. By the mid-2010s, many office buildings were converted to residential uses and the Class A vacancy rate plunged to 12% in 2017. Swiss Re, Virgin Mobile, AutoAlert, and others have begun to move operations to downtown Kansas City from the suburbs and expensive coastal cities.<ref>{{cite web|url=https://www.bizjournals.com/kansascity/news/2017/10/25/swiss-re-office-kansas-city-move.html|title=Missouri writes up $20M to lure 400-employee insurer across state line|work=Kansas City Business Journal|access-date=September 30, 2018|archive-date=March 8, 2021|archive-url=https://web.archive.org/web/20210308031734/https://www.bizjournals.com/kansascity/news/2017/10/25/swiss-re-office-kansas-city-move.html|url-status=live}}</ref><ref>{{Cite news|url=https://kceconomy.org/2017/10/05/source-of-metro-employment-growth-shifting-east/|title=Source of Metro Employment Growth Shifting East?|date=October 5, 2017|website=Kceconomy.org|access-date=November 20, 2017|archive-url=https://web.archive.org/web/20171201041614/https://kceconomy.org/2017/10/05/source-of-metro-employment-growth-shifting-east/|archive-date=December 1, 2017|url-status=live}}</ref>
+
+====Transportation developments====
+The area has seen additional development through various transportation projects, including improvements to the [[Grandview Triangle]], which intersects Interstates 435 and 470, and [[U.S. Route 71 (Missouri)|U.S. Route 71]].
+
+In July 2005, the [[Kansas City Area Transportation Authority]] (KCATA) launched Kansas City's first [[bus rapid transit]] line, the [[Metro Area Express]] (MAX), which links the River Market, Downtown, Union Station, Crown Center and the Country Club Plaza. The KCATA continues to expand MAX with additional routes on Prospect Avenue, Troost Avenue, and Independence Avenue.<ref>{{Cite web|url=http://www.kcata.org/transit-initiatives/prospect_max|title=Prospect MAX {{!}} Transit Initiatives|publisher=KCATA|access-date=November 20, 2017|archive-url=https://web.archive.org/web/20171112190613/http://www.kcata.org/transit-initiatives/prospect_max|archive-date=November 12, 2017|url-status=live}}</ref>
+
+In 2013, construction began on a two-mile [[KC Streetcar|streetcar]] line in downtown Kansas City (funded by a $102 million ballot initiative that was passed in 2012) that runs between the River Market and Union Station, it began operation in May 2016. In 2017, voters approved the formation of a TDD to expand the streetcar line south 3.5 miles from Union Station to UMKC's Volker Campus. Additionally in 2017, the KC Port Authority began engineering studies for a Port Authority funded streetcar expansion north to Berkley Riverfront Park. Citywide, voter support for rail projects continues to grow with numerous light rail projects in the works.<ref>{{cite news |last=Morris |first=Mark |url=http://www.kansascity.com/news/local/article334693/Missouri-Supreme-Court-all-but-ends-battle-over-KC-streetcar-financing.html |title=Missouri Supreme Court all but ends battle over KC streetcar financing |newspaper=[[The Kansas City Star]] |date=December 24, 2013 |access-date=July 29, 2016 |archive-url=https://web.archive.org/web/20160806194804/http://www.kansascity.com/news/local/article334693/Missouri-Supreme-Court-all-but-ends-battle-over-KC-streetcar-financing.html |archive-date=August 6, 2016 |url-status=live }}</ref><ref>{{Cite web|url=http://kcrta.org/streetcar/|title=Midtown/UMKC Streetcar Extension Resources|publisher=KCRTA|access-date=November 20, 2017|archive-url=https://web.archive.org/web/20171201044055/http://kcrta.org/streetcar/|archive-date=December 1, 2017|url-status=live}}</ref>
+
+In 2016, Jackson County, Missouri, acquired unused rail lines as part of a long-term commuter rail plan. For the time being, the line is being converted to a trail while county officials negotiate with railroads for access to tracks in Downtown Kansas City.
+
+On November 7, 2017, Kansas City voters overwhelmingly approved a new single terminal at [[Kansas City International Airport]] by a 75% to 25% margin. The new single terminal replaced the three existing "Clover Leafs" at KCI Airport on February 28, 2023.
+
+==Geography==
+[[File:Kansas City by Sentinel-2.jpg|thumb|The Kansas City metropolitan area was photographed by the [[Sentinel-2]] satellite in July 2022.]]
+The city has an area of {{convert|319.03|sqmi|sqkm|2}}, of which, {{convert|314.95|sqmi|sqkm|2}} is land and {{convert|4.08|sqmi|sqkm|2}} is water.<ref name="Gazetteer files">{{cite web|title=US Gazetteer files 2010 |url=https://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt |publisher=[[United States Census Bureau]] |access-date=July 8, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120112090031/http://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt |archive-date=January 12, 2012 }}</ref> Bluffs overlook the rivers and river bottom areas. Kansas City proper is bowl-shaped and is surrounded to the north and south by [[glacier]]-carved [[limestone]] and [[bedrock]] cliffs. Kansas City is at the confluence between the Dakota and Minnesota ice lobes during the maximum late Independence glaciation of the [[Pleistocene]] [[Geologic time scale|epoch]]. The Kansas and Missouri rivers cut wide valleys into the terrain when the glaciers melted and drained. A partially filled spillway valley crosses the central city. This valley is an eastward continuation of the Turkey Creek Valley. It is the closest major city to the geographic center of the contiguous United States, or "Lower 48".
+
+===Cityscape===
+{{further|List of neighborhoods in Kansas City, Missouri}}
+Kansas City comprises more than 240<ref>{{cite web|url=http://www.kcmo.org/planning/pdf/focus/Neighborhood_Assessment_Reports/neighborhoodtypes.pdf |title=Neighborhood Types|archive-url=https://web.archive.org/web/20090325133934/http://www.kcmo.org/planning/pdf/focus/Neighborhood_Assessment_Reports/neighborhoodtypes.pdf|archive-date=March 25, 2009}}</ref> neighborhoods, some with histories as independent cities or as the sites of major events.
+
+====Architecture====
+[[File:Community Christian Church KCMO.jpg|thumb|[[Community Christian Church (Kansas City, Missouri)|Community Christian Church]] was designed by [[Frank Lloyd Wright]] and is next to the [[Country Club Plaza]].]]
+{{main|Architecture of Kansas City}}
+{{further|List of fountains in the Kansas City metropolitan area|List of tallest buildings in Kansas City, Missouri}}
+The [[Nelson-Atkins Museum of Art]] opened its Euro-Style Bloch addition in 2007, and the Safdie-designed [[Kauffman Center for the Performing Arts]] opened in 2011. The [[Kansas City Power and Light Building|Power and Light Building]] is influenced by the [[Art Deco]] style and sports a glowing sky beacon. The new world headquarters of [[H&R Block]] is a 20-story all-glass oval bathed in a soft green light. The four industrial artworks atop the support towers of the Kansas City Convention Center ([[Bartle Hall Convention Center|Bartle Hall]]) were once the subject of ridicule, but now define the night skyline near the [[T-Mobile Center]] along with [[One Kansas City Place]] (Missouri's tallest office tower), the [[KCTV-Tower]] (Missouri's tallest freestanding structure) and the [[Liberty Memorial]], a World War I memorial and museum that flaunts simulated flames and smoke billowing into the night skyline. It was designated as the [[National World War I Museum and Memorial]] in 2004 by the United States Congress. Kansas City is home to significant national and international architecture firms including ACI Boland, [[BNIM]], [[360 Architecture]], [[HNTB]], [[Populous (architects)|Populous]]. [[Frank Lloyd Wright]] designed two private residences and [[Community Christian Church (Kansas City, Missouri)|Community Christian Church]] there.
+
+Kansas City hosts more than 200 working fountains, especially on the Country Club Plaza. Designs range from French-inspired traditional to modern. Highlights include the Black Marble H&R Block fountain in front of Union Station, which features synchronized water jets; the Nichols Bronze Horses at the corner of Main and J.C. Nichols Parkway at the entrance to the Plaza Shopping District; and the fountain at [[Hallmark Cards]] World Headquarters in [[Crown Center]].
+
+====City Market====
+[[File:BridgeTownofKansas.jpg|thumb|The [[Town of Kansas]] Bridge connects pedestrian traffic from the Riverfront Heritage Trail (starting at Berkley Riverfront Park) to River Market.]]
+Since its inception in 1857, [[River Market, Kansas City|City Market]] has been one of the largest and most enduring public farmers' markets in the American Midwest, linking growers and small businesses to the community. More than 30 full-time merchants operate year-round and offer specialty foods, fresh meats and seafood, restaurants and cafes, floral, and home accessories.<ref name="Thecitymarket.org">{{cite web|url=http://www.thecitymarket.org|title=Historic City Market :: City Market Kansas City|work=thecitymarket.org|access-date=February 4, 2019|archive-url=http://webarchive.loc.gov/all/20110711094146/http%3A//www.thecitymarket.org/|archive-date=July 11, 2011|url-status=dead}}</ref> The City Market has the [[Arabia Steamboat Museum]], which houses artifacts from a steamboat that sank near Kansas City in 1856.<ref name="Thecitymarket.org" />
+
+====Downtown====
+{{Main|Downtown Kansas City}}
+[[Downtown Kansas City]] is {{convert|2.9|sqmi|km2}} bounded by the Missouri River to the north, 31st Street to the south, [[Troost Avenue]] to the east, and State Line Road to the west. Areas near Downtown Kansas City include the [[39th Street (Kansas City)|39th Street District]], which is known as Restaurant Row,<ref>{{cite web|url=http://restaurants.pitch.com/search/restaurants.php |title=Kansas City – Restaurants – Restaurant Guide |url-status=dead |archive-url=https://web.archive.org/web/20080509084947/http://restaurants.pitch.com/search/restaurants.php |archive-date=May 9, 2008 }}</ref> and features one of Kansas City's largest selections of independently owned restaurants and boutique shops. It is a center of literary and visual arts, and [[bohemian culture]]. [[Crown Center]] is the headquarters of [[Hallmark Cards]] and a major downtown shopping and entertainment complex. It is connected to Union Station by a series of covered walkways. The [[Country Club Plaza]], or "the Plaza", is an upscale, outdoor shopping, and entertainment district. It is the first suburban shopping district in the United States,<ref>{{cite web|url=http://www.countryclubplaza.com/plaza.aspx?pgID=893 |title=A walk through Kansas City history |archive-url=https://web.archive.org/web/20081220142025/http://www.countryclubplaza.com/plaza.aspx?pgID=893 |archive-date=December 20, 2008 }}</ref> designed to accommodate shoppers arriving by automobile,<ref>{{Cite book|title=The American city : what works, what doesn't|last=Garvin, Alexander.|date=2014|publisher=McGraw-Hill Education|isbn=9780071801621|oclc=892561635|pages=119–125 }}</ref> and is surrounded by apartments and condominiums, including several high rise buildings. The associated [[Country Club District]] to the south includes the Sunset Hill and [[Brookside (Kansas City)|Brookside]] neighborhoods, and is traversed by [[Ward Parkway]], a landscaped boulevard known for its statuary, fountains, and large, historic homes. [[Union Station (Kansas City)|Union Station]] is home to [[Science City at Union Station|Science City]], restaurants, shopping, theaters, and the city's [[Amtrak]] facility.
+
+[[File:Alphamap.gif|thumb|The city's tallest buildings and characteristic skyline are roughly contained inside the [[downtown freeway loop (Kansas City)|downtown freeway loop]], shaded in red. Downtown Kansas City itself is established by city [[Local ordinance|ordinance]] to stretch from the Missouri River south to 31st Street (beyond the bottom of this map), and from State Line Rd. to Troost Ave.]]After years of neglect and seas of parking lots, Downtown Kansas City is undergoing a period of change with over $6 billion in development since 2000. Many residential properties recently have been or are under redevelopment in three surrounding warehouse loft districts and the Central Business District. The [[Power & Light District]], a new, nine-block entertainment district comprising numerous restaurants, bars, and retail shops, was developed by the [[Cordish Company]] of [[Baltimore, Maryland]]. Its first tenant opened on November 9, 2007. It is anchored by the [[T-Mobile Center]], a 19,000-seat sports and entertainment complex.<ref>{{cite web|url=http://www.sprintcenter.com/news/detail/sprint_center_announces_grand_opening_week_festivities|title=Sprint Center Announces Grand Opening Week Festivities|publisher=Sprint Center|access-date=March 6, 2017|archive-url=https://web.archive.org/web/20170306131822/http://www.sprintcenter.com/news/detail/sprint_center_announces_grand_opening_week_festivities|archive-date=March 6, 2017|url-status=live}}</ref>
+
+===Climate===
+{{climate chart
+|Kansas City
+|22|40|1.0
+|26|45|1.5
+|36|57|2.1
+|46|67|3.9
+|57|76|5.1
+|67|86|5.3
+|72|90|4.4
+|70|89|4.7
+|61|80|3.8
+|49|68|3.2
+|36|55|1.8
+|27|44|1.3
+|units = imperial
+|float = right
+|clear = both}}
+Kansas City is in the [[Midwestern United States]], near the geographic center of the country, at the confluence of the [[Missouri River|Missouri]] and [[Kansas River|Kansas]] rivers. The city lies in either the [[humid continental climate|humid continental]] zone when using the {{convert|0|°C}} isotherm, or in the [[humid subtropical climate|humid subtropical]] zone when using the {{convert|-3|°C}} isotherm.<ref>{{cite web|url=http://www.weatherbase.com/weather/weather-summary.php3?s=64427&cityname=Kansas+City%2C+Missouri%2C+United+States+of+America&units=|title=Kansas City Missouri Climate Summary|publisher=Weatherbase|access-date=February 3, 2015|archive-date=February 3, 2015|archive-url=https://web.archive.org/web/20150203194055/http://www.weatherbase.com/weather/weather-summary.php3?s=64427&cityname=Kansas+City%2C+Missouri%2C+United+States+of+America&units=|url-status=live}}</ref> The city experiences roughly 104 air frosts on average per annum.<ref>{{cite web|url=http://www.weatherbase.com/weather/weather.php3?s=64427&cityname=Kansas-City-Missouri-United-States-of-America|title=Kansas City, Missouri, Temperature Averages|publisher=Weatherbase|access-date=February 3, 2015|archive-date=February 3, 2015|archive-url=https://web.archive.org/web/20150203181543/http://www.weatherbase.com/weather/weather.php3?s=64427&cityname=Kansas-City-Missouri-United-States-of-America|url-status=live}}</ref> {{Unreliable source?|date=January 2023}} The city is part of USDA plant [[hardiness zone]]s 5b and 6a.<ref>{{cite web|url=http://planthardiness.ars.usda.gov/PHZMWeb/Images/300dpi/MO.jpg |title=Plant Hardiness Zone Map Missouri |publisher=USDA.gov |access-date=June 28, 2013 |archive-url=https://web.archive.org/web/20140224001607/https://planthardiness.ars.usda.gov/PHZMWeb/Images/300dpi/MO.jpg |archive-date=February 24, 2014 }}</ref> In the center of North America, far removed from a significant body of water, there is significant potential for extreme hot and cold swings throughout the year. The warmest month is July, with a 24-hour average temperature of {{convert|81.0|°F|1}}. The summer months are hot and humid, with moist air riding up from the [[Gulf of Mexico]], and high temperatures surpass {{convert|100|°F}} on 5.6 days of the year,<!--140 occurrences in 25 "valid" years--> and {{convert|90|°F}} on 47 days.<ref name = "NWS Pleasant Hill, MO"/><ref>{{cite web |url=http://www.theweatherprediction.com/thermo/interpret/ |title=Interpretation Of Skew-T Indices |publisher=Theweatherprediction.com |access-date=July 10, 2013 |archive-date=September 17, 2013 |archive-url=https://web.archive.org/web/20130917202112/http://www.theweatherprediction.com/thermo/interpret/ |url-status=live }}</ref> The coldest month of the year is January, with an average temperature of {{convert|31.0|°F|1}}. Winters are cold, with 22 days where the high temperature is at or below {{convert|32|°F}} and 2.5 nights with a low at or below {{convert|0|°F}}.<ref name = "NWS Pleasant Hill, MO"/> The official record highest temperature is {{convert|113|°F|0}}, set on August 14, 1936, at Downtown Airport, while the official record lowest is {{convert|−23|°F|0}}, set on December 22 and 23, 1989.<ref name = "NWS Pleasant Hill, MO"/> Normal seasonal snowfall is {{convert|13.4|in|cm|0}} at Downtown Airport and {{convert|18.8|in|cm|0|abbr=on}} at Kansas City International Airport. The average window for freezing temperatures is October 31 to April 4, while for measurable ({{convert|0.1|in|cm|abbr=on|disp=or}}) snowfall, it is November 27 to March 16 as measured at Kansas City International Airport.<ref name = "NWS Pleasant Hill, MO"/><!--Downtown is missing data for five seasons in the 1990s--> Precipitation, both in frequency and total accumulation, shows a marked uptick in late spring and summer.
+
+Kansas City is located in [[Tornado Alley]], a broad region where cold air from Canada collides with warm air from the Gulf of Mexico, leading to the formation of powerful storms, especially during the spring. The Kansas City metropolitan area has experienced several significant outbreaks of [[tornado]]es in the past, including the [[May 1957 Central Plains tornado outbreak|Ruskin Heights tornado in 1957]]<ref>{{cite web|url=http://www.wdaftv4.com/almanac/watorndo.html |title=Kansas City Tornado Almanac |archive-url=https://web.archive.org/web/20020824021557/http://www.wdaftv4.com/almanac/watorndo.html |archive-date=August 24, 2002 }}</ref> and the [[May 2003 tornado outbreak sequence]]. The region can also experience [[ice storm]]s during the winter, such as the [[2002 Central Plains Ice Storm|2002 ice storm]] duringin  which hundreds of thousands of residents lost power for days or weeks.<ref>{{cite web|url=http://www.kansascity.com/mld/kansascity/news/special_packages/star_history/calamities_crime/12508862.htm |title=KC powerless as icy barrage pummels the area, leaves behind disaster zone |archive-url=https://web.archive.org/web/20220716001241/https://www.kansascity.com/ |archive-date=July 16, 2022 |access-date=September 10, 2006}}</ref> Kansas City and its outlying areas are also subject to flooding, including the Great Floods of [[Great Flood of 1844|1844]], [[Great Flood of 1951|1951]], and [[Great Flood of 1993|1993]].
+
+{{Kansas City weatherbox}}
+
+==Demographics==
+{{US Census population
+|1860= 4418
+|1870= 32260
+|1880= 55785
+|1890= 132716
+|1900= 163752
+|1910= 248381
+|1920= 324410
+|1930= 399746
+|1940= 400178
+|1950= 456622
+|1960= 475539
+|1970= 507087
+|1980= 448159
+|1990= 435146
+|2000= 441545
+|2010= 459787
+|2020= 508090
+| estyear = 2023
+| estimate = 510704
+| estref=<ref name="QuickFacts"/><ref name=PopEstCities/>
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2016|archive-date=October 3, 2014|archive-url=https://web.archive.org/web/20141003185009/https://www.census.gov/programs-surveys/decennial-census.html|url-status=live}}</ref>{{cbignore}}<br />2010–2020<ref name="QuickFacts" />
+}}
+
+[[File:Race and ethnicity 2010- Kansas City (5560459588).png|thumb|Map of racial distribution in Kansas City, 2010 U.S. Census. Each dot is 25 people: {{legend inline|outline=white|white|text=⬤|textcolor=#ff0000|White}} {{legend inline|outline=white|white|text=⬤|textcolor=#0000ff|Black}} {{legend inline|outline=white|white|text=⬤|textcolor=#00ffaa|Asian}} {{legend inline|outline=white|white|text=⬤|textcolor=#ffa600|Hispanic}} {{legend inline|outline=white|white|text=⬤|textcolor=#ffff07|Other}}]]
+Kansas City has the second largest [[Somali Americans|Somali]] and [[Sudanese Americans|Sudanese]] populations in the United States. The Latino/Hispanic population of Kansas City, which is heavily Mexican and [[Central America]]n, is spread throughout the metropolitan area, with some concentration in the northeast part of the city and southwest of downtown. The Asian population, mostly Southeast Asian, is partly concentrated within the northeast side to the Columbus Park neighborhood in the Greater Downtown area, a historically [[List of Italian American neighborhoods|Italian American neighborhood]], the UMKC area and in River Market, in northern Kansas City.<ref name=census2010>{{cite web |url=http://factfinder.census.gov/servlet/ADPTable?_bm=y&-geo_id=16000US2938000&-qr_name=ACS_2008_3YR_G00_DP3YR5&-ds_name=ACS_2008_3YR_G00_&-_lang=en&-redoLog=false&-_sse=on |title=Kansas City city, Missouri – ACS Demographic and Housing Estimates: 2006–2008 |publisher=Factfinder.census.gov |access-date=May 5, 2012 |archive-url=https://archive.today/20200211183105/http://factfinder.census.gov/servlet/ADPTable?_bm=y&-geo_id=16000US2938000&-qr_name=ACS_2008_3YR_G00_DP3YR5&-ds_name=ACS_2008_3YR_G00_&-_lang=en&-redoLog=false&-_sse=on |archive-date=February 11, 2020 |url-status=dead }}</ref><ref>{{cite news |url=https://www.washingtonpost.com/wp-srv/special/nation/census/2010/ |title=Interactive: Mapping the census |work=[[The Washington Post]] |access-date=May 7, 2012 |archive-url=https://web.archive.org/web/20120209065917/http://www.washingtonpost.com/wp-srv/special/nation/census/2010/ |archive-date=February 9, 2012 |url-status=dead }}</ref><ref name=immigrantsinkansascity>{{cite web |url=http://fox4kc.com/2012/02/20/changing-faces-of-the-north-end/ |title=Immigrants, How They've Helped Shape Kansas City |publisher=FOX4KC |date=February 20, 2012 |access-date=May 7, 2012 |archive-url=https://web.archive.org/web/20120504012034/http://fox4kc.com/2012/02/20/changing-faces-of-the-north-end/ |archive-date=May 4, 2012 |url-status=live }}</ref>
+
+The Historic Kansas City boundary is roughly {{convert|58|sqmi|km2}} and has a population density of about {{Convert|5,000|PD/sqmi}}. It runs from the Missouri River to the north, 79th Street to the south, the Blue River to the east, and State Line Road to the west. During the 1960s and 1970s, Kansas City annexed large amounts of land, which are largely undeveloped.
+
+Between the 2000 and 2010 census counts, the urban core of Kansas City continued to drop significantly in population. The areas of Greater Downtown in the center city, and sections near I-435 and I-470 in the south, and Highway 152 in the north are the only areas of Kansas City, Missouri, to have an increase in population, with the Northland population growing the most.<ref>{{cite web|title=2000–2010 Population Change Map |url=http://marc.org/gis/assets/2010Census/Tracts_population_change_dotdensity.pdf |archive-url=https://web.archive.org/web/20110603055112/http://marc.org/gis/assets/2010Census/Tracts_population_change_dotdensity.pdf |url-status=dead |archive-date=June 3, 2011 |publisher=Mid-America Regional Council |access-date=September 2, 2013 }}</ref> Even so, the population of Kansas City as a whole from 2000 to 2010 increased by 4.1%.
+
+{| class="wikitable sortable" style="font-size: 90%;"
+|-
+! Historical racial composition !! 2020<ref name="censusqfkc">{{cite web | title=QuickFacts | publisher=[[United States Census Bureau]] | url=https://www.census.gov/quickfacts/kansascitycitymissouri | access-date=April 5, 2023 | archive-date=May 22, 2023 | archive-url=https://web.archive.org/web/20230522222727/https://www.census.gov/quickfacts/kansascitycitymissouri | url-status=live }}</ref> !! 2010<ref name="census1"/> !! 1990<ref name="U.S. Census Bureau"/> !! 1970<ref name="U.S. Census Bureau"/> !! 1940<ref name="U.S. Census Bureau"/>
+|-
+| [[White American|White]] || 59.7% || 59.2% || 66.8% ||  77.2% || 89.5%
+|-
+| Black or [[African American]] || 26.5% || 29.9% || 29.6% || 22.1% || 10.4%
+|-
+| [[Hispanic and Latino Americans|Hispanic or Latino]] (of any race) || 10.7% || 10.0% || 3.9% || 2.7%{{efn|name="fifteen"|From 15% sample}} || N/A
+|-
+| [[Multiracial Americans|Two or more races]] || 6.3% || 3.2% || N/A || N/A || N/A
+|-
+| [[Asian American|Asian]] || 2.7% || 2.5% || N/A || N/A || N/A
+|-
+| [[Native Americans in the United States|American Indian]] and [[Alaska Natives]] || 0.4% || 0.5% || N/A || N/A || N/A
+|-
+| [[Native Hawaiians|Native Hawaiian]] and [[Pacific Islander Americans|Other Pacific Islander]] || 0.3% || 0.2% || N/A || N/A || N/A
+|}
+
+In February 2022, the city had an estimated 3,000 [[Homelessness|homeless]] people.<ref name="demand"/><ref name="CanKCend"/>
+
+{| class="wikitable" style="text-align:center;"
+|+'''Kansas City, Missouri – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Kansas City city, Missouri |url=https://data.census.gov/table?g=160XX00US2938000&tid=DECENNIALSF12000.P004|publisher=[[United States Census Bureau]]}}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Kansas City city, Missouri |url=https://data.census.gov/table?q=p2&g=160XX00US2938000&tid=DECENNIALPL2010.P2|publisher=[[United States Census Bureau]]}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Kansas City city, Missouri|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US2938000&tid=DECENNIALPL2020.P2|publisher=[[United States Census Bureau]]|access-date=March 7, 2024|archive-date=March 7, 2024|archive-url=https://web.archive.org/web/20240307184452/https://data.census.gov/cedsci/table?q=p2&g=160XX00US2938000&tid=DECENNIALPL2020.P2|url-status=live}}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|254,471
+|252,257
+|style='background: #ffffe6; |268,273
+|57.63%
+|54.86%
+|style='background: #ffffe6; |52.80%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|136,921
+|135,916
+|style='background: #ffffe6; |130,983
+|31.01%
+|29.56%
+|style='background: #ffffe6; |25.78%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|1,784
+|1,823
+|style='background: #ffffe6; |1,854
+|0.40%
+|0.40%
+|style='background: #ffffe6; |0.36%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|8,100
+|11,275
+|style='background: #ffffe6; |15,793
+|1.83%
+|2.45%
+|style='background: #ffffe6; |3.11%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|442
+|787
+|style='background: #ffffe6; |1,456
+|0.10%
+|0.17%
+|style='background: #ffffe6; |0.29%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|757
+|709
+|style='background: #ffffe6; |2,366
+|0.17%
+|0.15%
+|style='background: #ffffe6; |0.47%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|8,466
+|11,067
+|style='background: #ffffe6; |26,396
+|1.92%
+|2.41%
+|style='background: #ffffe6; |5.20%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|30,604
+|45,953
+|style='background: #ffffe6; |60,969
+|6.93%
+|9.99%
+|style='background: #ffffe6; |12.00%
+|-
+|'''Total'''
+|'''441,545'''
+|'''459,787'''
+|style='background: #ffffe6; |'''508,090'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+The racial makeup (including Hispanics in the racial counts) was 55.30% (280,985) [[White (U.S. Census)|White alone]], 26.10% (132,617) [[African American (U.S. Census)|Black alone]], 0.63% (3,221) [[Native American (U.S. Census)|Native American alone]], 3.14% (15,966) [[Asian (U.S. Census)|Asian alone]], 0.30% (1,501) [[Pacific Islander (U.S. Census)|Pacific Islander alone]], 5.52% (28,063) [[Race (United States Census)|Other Race alone]], and 9.00% (45,737) [[Multiracial Americans|Multiracial or Mixed Race]].<ref>{{Cite web|title=P1: Race – 2020: DEC Redistricting Data (PL 94-171) – Kansas City city, Missouri Utah|url=https://data.census.gov/table/DECENNIALPL2020.P1?q=p2&g=160XX00US2938000|publisher=[[United States Census Bureau]]|access-date=March 7, 2024|archive-date=March 7, 2024|archive-url=https://web.archive.org/web/20240307184452/https://data.census.gov/table/DECENNIALPL2020.P1?q=p2&g=160XX00US2938000|url-status=live}}</ref>
+
+The racial and ethnic makeup (where Hispanics are excluded from the racial counts and placed in their own category) was 52.80% (268,273) [[Non-Hispanic whites|White alone (non-Hispanic)]], 25.78% (130,983) [[African American (U.S. Census)|Black alone (non-Hispanic)]], 0.36% (1,854) [[Native American (U.S. Census)|Native American alone (non-Hispanic)]], 3.11% (15,793) [[Asian (U.S. Census)|Asian alone (non-Hispanic)]], 0.29% (1,456) [[Pacific Islander (U.S. Census)|Pacific Islander alone (non-Hispanic)]], 0.47% (2,366) [[Race (United States Census)|Other Race alone (non-Hispanic)]], 5.20% (26,396) [[Multiracial Americans|Multiracial or Mixed Race (non-Hispanic)]], and 12.00% (60,969) [[Hispanic and Latino Americans|Hispanic or Latino]].<ref name=2020CensusP2/>
+
+==Economy==
+{{Main|Economy of Kansas City}}
+<!-- Deleted image removed: [[File:Kc-reserve.jpg|thumb|right|upright|Kansas City Federal Reserve Bank "J" insignia on the dollar bill.]] -->
+The federal government is the largest employer in the Kansas City metro area, with more than 146 agencies. Kansas City is one of ten regional office cities for the US government.<ref>''The Federal Workforce by the Numbers – Kansas City''. Greater Kansas City Federal Executive Board. 2011.</ref> The [[Internal Revenue Service]] maintains a large service center in Kansas City that occupies nearly {{convert|1.4|e6sqft|m2}}.<ref>{{cite web|url=http://www.360architects.com/IRS_portfolio_360.html |title=RS Kansas City Service Center Campus |publisher=360architects.com |access-date=May 5, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120520062231/http://www.360architects.com/IRS_portfolio_360.html |archive-date=May 20, 2012 }}</ref> It is one of only two sites to process paper returns.<ref>{{cite web|url=https://www.irs.gov/pub/irs-pdf/i1099gi.pdf |title=2012 Instruction 1099-GENERAL |access-date=May 5, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20150315042632/https://www.irs.gov/pub/irs-pdf/i1099gi.pdf |archive-date=March 15, 2015 }}</ref> The IRS has approximately 2,700 full-time employees in Kansas City, growing to 4,000 during [[tax season]]. The [[General Services Administration]] has more than 800 employees. Most are at the [[Bannister Federal Complex]] in South Kansas City. The Bannister Complex housed the [[Kansas City Plant]], which is a [[National Nuclear Security Administration]] facility operated by [[Honeywell]]. The Kansas City Plant has since been moved to a new location on Botts Road. [[Honeywell]] employs nearly 2,700 at the Kansas City Plant, which produces and assembles 85% of the non-nuclear components of the United States [[nuclear bomb]] arsenal.<ref>{{cite web|url=http://www.bizjournals.com/kansascity/stories/2006/07/17/daily22.html|title=Honeywell gets extension, will move KC plant|work=Kansas City Business Journal|date=July 17, 2006|access-date=September 30, 2018|archive-url=https://web.archive.org/web/20110526223635/http://www.bizjournals.com/kansascity/stories/2006/07/17/daily22.html|archive-date=May 26, 2011|url-status=live}}</ref> The [[Social Security Administration]] has more than 1,700 employees in the metro, with more than 1,200 at its downtown Mid-America Program Service Center (MAMPSC).<ref>{{cite web |url=http://www.ssa.gov/kc/kc_facts.htm |title=Facts About Our Region |website=SSA.gov |access-date=May 5, 2012 |archive-url=https://web.archive.org/web/20120608042244/http://www.ssa.gov/kc/kc_facts.htm |archive-date=June 8, 2012 |url-status=live }}</ref>
+
+One of the largest US drug manufacturing plants is the [[Sanofi-Aventis]] plant in south Kansas City on a campus developed by [[Ewing Kauffman]]'s [[Marion Laboratories]].<ref>{{cite web|url=http://www.sanofi-aventis.us/live/us/en/layout.jsp?scat=E6A55491-82EB-407E-8AF7-7921F223BF61 |title=U.S. Manufacturing Sheet |publisher=[[Sanofi-Aventis]] |access-date=May 5, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20100726063028/http://www.sanofi-aventis.us/live/us/en/layout.jsp?scat=E6A55491-82EB-407E-8AF7-7921F223BF61 |archive-date=July 26, 2010 }}</ref> It has been developing academic and economic institutions related to [[animal health]] sciences, with [[Manhattan, Kansas]] at one end of the<ref>{{cite news|url=http://www.kansascity.com/105/story/921286.html |work=Kansas City Star |title=Kansas Tops List for Biodefense Lab |archive-url=https://web.archive.org/web/20081207152552/http://www.kansascity.com/105/story/921286.html |archive-date=December 7, 2008 }}</ref> Kansas City Animal Health Corridor, and Kansas City hosting the [[National Bio and Agro-Defense Facility]] which researches animal diseases. The [[Stowers Institute for Medical Research]] engages in medical basic science research, working with [[Open University]] and [[University of Kansas Medical Center]] in a joint Interdisciplinary Graduate Program in Biomedical Science (IGPBS).
+
+Agriculture companies include [[Dairy Farmers of America]], the largest dairy co-op in the United States. The [[National Association of Intercollegiate Athletics]] and The [[National Association of Basketball Coaches]] are based in Kansas City.
+
+[[File:Kc-hr-block.jpg|thumb|[[H&R Block]]'s oblong headquarters is in downtown Kansas City.]]
+The Kansas City [[Federal Reserve Bank]] opened a new building in 2008 near Union Station. Missouri is the only state to have two of the 12 [[Federal Reserve Bank]] headquarters, with the second in St. Louis. Kansas City's effort to get the bank was helped by former mayor [[James A. Reed (politician)|James A. Reed]], who as senator, broke a tie to pass the [[Federal Reserve Act]].<ref>{{cite web|url=http://stlouisfed.org/publications/foregone/chapter_three.htm |title=A Foregone Conclusion: The Founding of the Federal Reserve Bank of St. Louis |first= James Neal |last=Primm |access-date=January 1, 2007 |archive-url=https://web.archive.org/web/20070315085137/http://stlouisfed.org/publications/foregone/chapter_three.htm |archive-date=March 15, 2007 }}</ref>
+
+The national headquarters for the [[Veterans of Foreign Wars]] is headquartered just south of Downtown.
+
+With a [[Gross Metropolitan Product]] of $41.68 billion in 2004, Kansas City's (Missouri side only) economy makes up 20.5% of Missouri's [[gross state product]].<ref>{{cite web|url=http://usmayors.org/metroeconomies/Top100_2006.pdf |title=The Role of Metro Areas in the U.S. Economy |work=U.S. Conference of Mayors |page=119 |date=March 2006 |access-date=December 26, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20091216130547/http://usmayors.org/metroeconomies/Top100_2006.pdf |archive-date=December 16, 2009 }}</ref> In 2014, Kansas City was ranked #6 for real estate investment.<ref>Roberts, Rob. "KC ranks among best places to own rental property." ''Kansas City Business Journal''. February 2, 2014.</ref>
+
+Three international law firms, Lathrop & Gage, Stinson Leonard Street, and [[Shook, Hardy & Bacon]] are based in the city.
+
+In 2022, the city had an estimated 3,000 [[Homelessness|homeless]] people,<ref name="demand">{{Cite web |date=February 26, 2022 |title=Historic Northeast residents demand councilmember act on homeless encampment, crime |url=https://fox4kc.com/news/historic-northeast-residents-demand-councilmember-act-on-homeless-encampment-crime/ |access-date=February 26, 2023 |website=FOX 4 Kansas City WDAF-TV |language=en-US |archive-date=February 26, 2023 |archive-url=https://web.archive.org/web/20230226232125/https://fox4kc.com/news/historic-northeast-residents-demand-councilmember-act-on-homeless-encampment-crime/ |url-status=live }}</ref> addressed by the Zero KC initiative.<ref name="CanKCend">{{Cite news |last=Spoerre |first=Anna |date=September 23, 2022 |title=Can Kansas City end homelessness? A look at the new 5-year plan for housing, services |work=The Kansas City Star |url=https://www.kansascity.com/news/politics-government/article266114126.html |access-date=February 26, 2023 |archive-date=September 22, 2022 |archive-url=https://web.archive.org/web/20220922210952/https://www.kansascity.com/news/politics-government/article266114126.html |url-status=live }}</ref>
+
+===Headquarters===
+The following companies are headquartered in Kansas City, Missouri:
+{{Columns-list|colwidth=22em|
+*[[American Century Investments]]
+*[[Andrews McMeel Universal]]
+*[[Applebee's]] (former)<ref>{{cite web|url=https://www.applebees.com/en/news/2011/applebeesr-selects-site-for-new-headquarters|date=May 27, 2011|title=Applebee's Selects Site For New Headquarters|publisher=[[Applebee's]]|access-date=February 14, 2024|archive-date=February 15, 2024|archive-url=https://web.archive.org/web/20240215022426/https://www.applebees.com/en/news/2011/applebeesr-selects-site-for-new-headquarters|url-status=live}}</ref>
+*[[Barkley Inc.]]
+*[[Bob Bernstein|Bernstein-Rein]]
+*[[Blue Cross and Blue Shield of Kansas City]]
+*[[BNIM]]
+*[[Boulevard Brewing Company]]
+*[[Burns & McDonnell]]
+*[[Cerner]]
+*[[Children International]]
+*[[Commerce Bancshares]]
+*[[Copaken, White & Blitt]]
+*[[Evergy]], formerly Great Plains Energy
+*[[Freightquote.com]]
+*[[Garney Holding Company]]
+*[[H&R Block]]
+*[[Hallmark Cards]]
+*[[HNTB]]
+*[[Hostess Brands]]
+*[[J.E. Dunn Construction Group]]
+*[[JHS Pedals]]
+*[[Kansas City Southern Railway]]
+*[[Lockton Companies]]
+*[[MANICA Architecture]]
+*[[Novastar Financial]]
+*[[Populous (company)|Populous]]
+*[[Russell Stover Candies]]
+*[[Smith Electric Vehicles]]
+*[[UMB Financial Corporation]]
+*[[Veterans of Foreign Wars]]
+*[[Walton Construction]]
+}}
+
+===Top employers===
+According to the city's Fiscal Year 2014–15 Comprehensive Annual Financial Report,<ref>{{cite web |url=https://data.kcmo.org/api/file_data/giIrBvZTN1gsdFHv7GK7EJiCzLUYXNz0Kb8PwWwUbA8?filename%253DFY15+CAFR+final.pdf |title=Comprehensive annual Report |website=Data.kcmo.org |access-date=July 29, 2016 |archive-url=https://web.archive.org/web/20160921220830/https://data.kcmo.org/api/file_data/giIrBvZTN1gsdFHv7GK7EJiCzLUYXNz0Kb8PwWwUbA8?filename%3DFY15+CAFR+final.pdf |archive-date=September 21, 2016 |url-status=live }}</ref> the top ten principal employers are as follows:
+{| class="wikitable sortable"
+|-
+!Rank
+!Employer
+!Employees
+!Percentage of total employment
+|-
+|1.
+|Public school system
+|30,172
+|2.92%
+|-
+|2.
+|[[Federal government of the United States|Federal government]]
+|30,000
+|2.91%
+|-
+|3.
+|State/county/city government
+|24,616
+|2.39%
+|-
+|4.
+|[[Cerner|Cerner Corporation]]
+|10,128
+|0.98%
+|-
+|5.
+|HCA Midwest Health System
+|9,753
+|0.94%
+|-
+|6.
+|[[Saint Luke's Health System]]
+|7,550
+|0.73%
+|-
+|7.
+|[[Children's Mercy Hospital|Children's Mercy Hospitals and Clinics]]
+|6,305
+|0.61%
+|-
+|8.
+|[[T-Mobile US|T-Mobile]]
+|6,300
+|0.61%
+|-
+|9.
+|[[University of Kansas Hospital|The University of Kansas Hospital]]
+|6,030
+|0.58%
+|-
+|10.
+|[[Hallmark Cards|Hallmark Cards, Inc.]]
+|4,600
+|0.45%
+|}
+
+==Culture==
+===Abbreviations and nicknames===
+Kansas City, Missouri is abbreviated as KCMO and the [[Kansas City metropolitan area|metropolitan area]] as KC. Residents are Kansas Citians. It is officially nicknamed the [[List of fountains in the Kansas City metropolitan area|City of Fountains]].<ref>{{Cite web |title=Today I Learned: How KC Earned its "City of Fountains" Nickname |url=https://www.visitkc.com/2017/04/24/today-i-learned-how-kc-earned-its-city-fountains-nickname |access-date=March 21, 2024 |website=Visit KC |archive-date=March 21, 2024 |archive-url=https://web.archive.org/web/20240321210255/https://www.visitkc.com/2017/04/24/today-i-learned-how-kc-earned-its-city-fountains-nickname |url-status=live }}</ref> The fountains at [[Kauffman Stadium]], commissioned by original [[Kansas City Royals]] owner Ewing Kauffman, are the largest privately funded fountains in the world.<ref name="RoadTrip">{{cite book |last=Pahigaian |first=Josh |author2=Kevin O'Connell |title=The Ultimate Baseball Road Trip |year=2004 |publisher=Lyons Press |location=Guilford, Connecticut |isbn=1-59228-159-1 }}</ref> In 2018, [[UNESCO]] designated Kansas City its first and only [[City of Music (UNESCO)|City of Music]] in the US, in "recognition of [Kansas City's] investment and commitment to music, arts, and creativity as a driver of urban economic development".<ref name="unesco city of music"/> The city has more [[boulevard]]s than any other city except [[Paris]] and has been called '''Paris of the [[Great Plains|Plains]]'''. Soccer's popularity, and [[Children's Mercy Park]]'s popularity as a home stadium for the [[United States men's national soccer team|U.S. Men's National Team]], led to the appellation Soccer Capital of America. The city is called the Heart of America, in proximity to the [[Mean center of U.S. population|population center]] of the United States and the [[Geographic centers of the United States|geographic center]] of the 48 contiguous states.
+
+===Performing arts===
+In 1886, Kansas City had only two theaters when David Austin Latchaw, originally from rural [[Pennsylvania]], moved there. Latchaw maintained friendly relations with several actors such as [[Otis Skinner]], [[Richard Mansfield]], [[Maude Adams]], [[Margaret Anglin]], [[John Drew Jr.|John Drew]], [[Minnie Maddern Fiske]], [[Julia Marlowe]], [[E. H. Sothern]], and [[Robert Mantell]].<ref name="londre">{{Cite book|title=The enchanted years of the stage : Kansas City at the crossroads of American theater, 1870–1930|last=Londré |first=Felicia Hardison|date=2007|publisher=University of Missouri Press|isbn=9780826265852|oclc=290503575}}</ref>
+
+Theater troupes in the 1870s toured the state, performing in cities or small towns forming along the railroad lines. Rail transport had enhanced the theater troupe tour market, by allowing full costumes, props, and sets. As theater grew in popularity after the mid-1880s, that number increased and by 1912, ten new theaters had been built in Kansas City. By the 1920s, Kansas City was the center of the [[vaudevillian]] [[Orpheum circuit]].<ref name="londre" />
+
+[[File:Kauffman Center.jpg|thumb|[[Kauffman Center for the Performing Arts]]]]
+The [[Kansas City Repertory Theatre]] is the metro's top professional theatre company.<ref>{{cite web|url=https://kcrep.org/history/|title=Mission & History – Kansas City Repertory Theatre|website=kcrep.org|date=October 5, 2021|access-date=February 6, 2024|archive-date=December 2, 2023|archive-url=https://web.archive.org/web/20231202095624/https://kcrep.org/history/|url-status=live}}</ref> The [[Starlight Theatre (Kansas City)|Starlight Theatre]] is an 8,105-seat outdoor theatre designed by [[Edward Buehler Delk|Edward Delk]].<ref>{{cite web|url=https://www.kcstarlight.com/about-starlight/|title=History of Starlight Theatre|website=kcstarlight.com|access-date=February 6, 2024|archive-date=February 6, 2024|archive-url=https://web.archive.org/web/20240206220656/https://www.kcstarlight.com/about-starlight/|url-status=live}}</ref> The [[Kansas City Symphony]] was founded by [[R. Crosby Kemper Jr.]] in 1982 to replace the defunct Kansas City Philharmonic, which was founded in 1933.<ref>{{cite web|url=https://www.kcsymphony.org/about-us/|title=About Us – Kansas City Symphony|website=kcsymphony.org|access-date=February 6, 2024|archive-date=February 5, 2024|archive-url=https://web.archive.org/web/20240205110632/https://www.kcsymphony.org/about-us/|url-status=live}}</ref> The symphony performs at the [[Kauffman Center for the Performing Arts]]. [[Matthias Pintscher]] is the symphony's music director and lead conductor. Lyric Opera of Kansas City, founded in 1958, performs at the Kauffman Center, offers one American contemporary opera production during its season, consisting of either four or five productions. The Civic Opera Theater of Kansas City performs at the downtown [[Folly Theater]] and at the UMKC Performing Arts Center. Every summer from mid-June to early July, The Heart of America Shakespeare Festival performs at Southmoreland Park near the [[Nelson-Atkins Museum of Art|Nelson-Atkins Museum]]; the festival was founded by Marilyn Strauss in 1993.
+
+The [[Kansas City Ballet]], founded in 1957 by Tatiana Dokoudovska, is a ballet troupe comprising 25 professional dancers and apprentices. Between 1986 and 2000, it combined with Dance St. Louis to form the State Ballet of Missouri, although it remained in Kansas City. From 1980 to 1995, the Ballet was run by dancer and choreographer [[Todd Bolender]]. The Ballet offers an annual repertory split into three seasons, performing classical to contemporary ballets.<ref>{{cite web|last=Jowitt |first=Deborah |authorlink=Deborah Jowitt |url=http://www.villagevoice.com/dance/0812,kansas-city-ballet-happy-fiftieth,381145,14.html |title=Kansas City Ballet: Happy Fiftieth! |archive-url=https://web.archive.org/web/20080519071516/http://www.villagevoice.com/dance/0812%2Ckansas-city-ballet-happy-fiftieth%2C381145%2C14.html |archive-date=May 19, 2008 |publisher=The [[Village Voice]] |date=March 18, 2008}}</ref> The Ballet also performs at the Kauffman Center. The [[Kansas City Chorale]] is a professional 24-voice chorus with an annual concert series and a concert in [[Phoenix, Arizona|Phoenix]] each year with sister choir the Phoenix Chorale. The Chorale has made several recordings, including with the Phoenix Chorale.
+
+===Jazz===
+[[File:Negro League Baseball Museum and American Jazz Museum.jpg|thumb|Entrance of the American Jazz Museum]]
+{{main|Kansas City jazz}}
+Kansas City jazz in the 1930s marked the transition from big bands to the bebop influence of the 1940s. The 1979 documentary ''[[The Last of the Blue Devils]]'' portrays this era in interviews and performances by local jazz notables. In the 1970s, Kansas City attempted to resurrect the glory of the jazz era in a family-friendly atmosphere. In the 1970s, an effort to open jazz clubs in the River Quay area of City Market along the Missouri ended in a [[wikt:turf war|gang war]]. Three of the new clubs were blown up in what ultimately ended Kansas City mob influence in [[Las Vegas, Nevada|Las Vegas]] casinos. The annual Kansas City Blues and Jazz Festival attracts top jazz stars and large tourist audiences. In 2007 it was rated Kansas City's "best festival" by ''The Pitch''.<ref>{{cite web|url=http://pitch.com/bestof/2001/award/best-festival-15509/ |title=The Pitch, ''Best of 2007'': "Best Festival" – Kansas City's Blues and Jazz Festival |publisher=Pitch.com |access-date=May 5, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20110715091331/http://www.pitch.com/bestof/2001/award/best-festival-15509/ |archive-date=July 15, 2011 }}</ref>
+
+Live music venues are throughout the city, with the highest concentration in the Westport entertainment district centered on Broadway and Westport Road near [[Country Club Plaza]], and the [[18th and Vine]] neighborhood's flourish for jazz music. A variety of music genres are performed or have originated there, including musicians [[Janelle Monáe]], [[Puddle of Mudd]], [[Isaac James (band)|Isaac James]], [[The Get Up Kids]], [[Shiner (band)|Shiner]], [[Flee The Seen]], [[The Life and Times]], [[Reggie and the Full Effect]], [[Coalesce (band)|Coalesce]], [[The Casket Lottery]], [[The Gadjits]], [[The Rainmakers (band)|The Rainmakers]], [[Vedera]], [[The Elders (band)|The Elders]], [[Blackpool Lights]], [[The Republic Tigers]], [[Tech N9ne]], [[Krizz Kaliko]], [[Kutt Calhoun]], [[Skatterman & Snug Brim]], [[Mac Lethal]], [[Ces Cru]], and [[Solè]]. [[Kansas City Jazz Orchestra]] is big band style.
+
+In 2018, [[UNESCO]] named Kansas City a City of Music, as the only one in the United States. The designation is based on the city's rich musical heritage, and its {{US$|7 million|long=no}} budget for improving the [[18th and Vine]] Jazz District in 2016.<ref name="unesco city of music">{{Cite web|url=http://www.startlandnews.com/2018/03/unesco-city-of-music/|title=Investing in the arts earns KC designation as UNESCO's only 'City of Music' in US|last=Wankum|first=Leah|date=March 27, 2018|website=Startland News|access-date=April 16, 2018|archive-url=https://web.archive.org/web/20180417105443/http://www.startlandnews.com/2018/03/unesco-city-of-music/|archive-date=April 17, 2018|url-status=live}}</ref>
+[[File:Kansas City Convention Center, West 13th Street - Kansas City, Missouri, USA - panoramio.jpg|thumb|The Kansas City Convention Center]]
+
+===Irish culture===
+In 2021, the US Census Bureau estimated 253,040 people of Irish descent in the metro, with 123,934 in Jackson, Clay, and Platte Counties.<ref>{{cite web |url=https://www.census.gov/library/stories/2021/03/happy-saint-patricks-day-to-one-of-ten-americans-who-claim-irish-ancestry.html |title=Residents With Irish Ancestry Are in All 3,142 U.S. Counties and Make Up 20% of the Population in Some |website=census.gov |access-date=February 10, 2023 |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218183406/https://www.census.gov/library/stories/2021/03/happy-saint-patricks-day-to-one-of-ten-americans-who-claim-irish-ancestry.html |url-status=live }}</ref> The Irish were the first large immigrant group to settle in Kansas City following the lead of [[Bernard Donnelly|Fr. Bernard Donnelly]] ({{circa|1800–1880}}) and founded its first newspaper.<ref>{{cite book |url={{google books |plainurl=y |id=7OtFfyk3y3AC|page=14}}|author=O'Laughlin, Michael. |title=Missouri Irish, The Original History of the Irish in Missouri, including St. Louis, Kansas City and Trails West |access-date=November 21, 2014}}</ref> The Irish community includes bands, dancers, Irish stores, newspapers, and the [[Kansas City Irish Center]] at Drexel Hall in Midtown. The first book detailing Irish history in Kansas City is ''Missouri Irish: Irish Settlers on the American Frontier'', published in 1984. The Kansas City Irish Fest is held over Labor Day weekend in Crown Center and Washington Park.<ref>{{cite web|url=https://www.kansascity.com/kc-city-guides/things-to-do/article265055009.html|title=Irish Fest celebrates 20 years in Kansas City: Who's performing, how to get tickets|last=Hernandez|first=Joseph|date=August 30, 2022|website=[[The Kansas City Star]]|access-date=February 6, 2024}}</ref><ref>{{cite web|url=https://www.kcur.org/arts-life/2021-09-01/kansas-city-irish-fest-2021-what-to-expect|title=Kansas City Irish Fest Returns to Crown Center This Weekend, Here's What You Can Expect|last=Kniggendorf|first=Anne|date=September 1, 2021|website=kcur.org|access-date=February 6, 2024|archive-date=February 6, 2024|archive-url=https://web.archive.org/web/20240206220112/https://www.kcur.org/arts-life/2021-09-01/kansas-city-irish-fest-2021-what-to-expect|url-status=live}}</ref>
+
+===Casinos===
+Missouri voters approved riverboat [[casino]] gaming on the [[Missouri River|Missouri]] and [[Mississippi River]]s by referendum with a 63% majority on November 3, 1992. The first casino facility in the state opened in September 1994 in North Kansas City by [[Harrah's Entertainment]] (now Caesar's Entertainment).<ref>{{cite web |url=http://www.mgc.dps.mo.gov/history_rb.htm |title=Missouri Gaming Commission: ''The History of Riverboat Gambling in Missouri'' |publisher=Mgc.dps.mo.gov |date=July 1, 1994 |access-date=May 5, 2012 |archive-url=https://web.archive.org/web/20120206015618/http://www.mgc.dps.mo.gov/history_rb.htm |archive-date=February 6, 2012 |url-status=live }}</ref> The combined revenues for four casinos exceeded $153 million per month in May 2008.<ref>{{cite news|url=http://www.kansascity.com/business/story/663369.html |work=The Kansas City Star |date=June 13, 2008 |title=Missouri riverboat casinos' revenue increases in May}}{{dead link|date=May 2012}}</ref> The metropolitan area is home to six casinos: [[Ameristar Casinos|Ameristar Kansas City]], [[Argosy Gaming Company|Argosy Kansas City]], [[Harrah's Entertainment|Harrah's North Kansas City]], [[Isle of Capri Casinos|Isle of Capri Kansas City]], the [[7th Street Casino]] (which opened in Kansas City, Kansas, in 2008) and [[Hollywood Casino at Kansas Speedway|Hollywood Casino]] (which opened in February 2012 in Kansas City, Kansas).
+
+==={{anchor|Cuisine}}Cuisine===
+[[File:Bull-kemper.jpg|thumb|upright=2|The [[American Hereford Association]] bull, [[Kemper Arena]], and the [[Kansas City Live Stock Exchange]] Building are in the former [[Kansas City Stockyard]] of [[West Bottoms]].]]
+Kansas City is famous for its [[steak]] and [[Kansas City-style barbecue]].<ref>{{cite web|url=https://www.visitkc.com/visitors/places-eat/kansas-city-barbecue-capital-world|title=Kansas City is the Barbecue Capital of the World|website=visitkc.com|date=September 9, 2014|access-date=February 6, 2024|archive-date=February 6, 2024|archive-url=https://web.archive.org/web/20240206220448/https://www.visitkc.com/visitors/places-eat/kansas-city-barbecue-capital-world|url-status=live}}</ref> During the heyday of the [[Kansas City Stockyards]], the city was known for its Kansas City steaks or [[Strip steak|Kansas City strip steaks]]. The most famous of its steakhouses is the [[Golden Ox]] in the [[Kansas City Live Stock Exchange]] in the [[West Bottoms]] [[Feedlot|stockyards]]. These stockyards were second only to those of Chicago in size, but they never recovered from the [[Great Flood of 1951]] and eventually closed. [[Jess & Jim's Steakhouse]] was founded in 1938 in the [[Martin City, Missouri|Martin City neighborhood]].
+
+The Kansas City Strip cut of steak is similar to the New York Strip cut, and is sometimes referred to just as a [[strip steak]]. Along with [[Texas]], [[Memphis, Tennessee|Memphis]], [[North Carolina|North]], and [[South Carolina]], Kansas City is lauded as a "world capital of barbecue". More than 90 barbecue restaurants<ref>{{cite web |url=http://www.experiencekc.com/barbeque.html |title=Experience Kansas City – Barbeque Kansas City Style |publisher=Experiencekc.com |access-date=March 16, 2010 |archive-url=https://web.archive.org/web/20100520012817/http://www.experiencekc.com/barbeque.html |archive-date=May 20, 2010 |url-status=live }}</ref> operate in the metropolitan area.<ref>{{cite web|url=https://kansascitymag.com/10-best-kansas-city-bbq-spots-right-now/|title=The 10 Best BBQ Spots in Kansas City Right Now|website=Kansas City Magazine|access-date=August 1, 2023|archive-date=August 1, 2023|archive-url=https://web.archive.org/web/20230801222249/https://kansascitymag.com/10-best-kansas-city-bbq-spots-right-now/|url-status=live}}</ref><ref>{{cite web|url=https://www.kansascity.com/news/your-kcq/article252371028.html|title=In Kansas City style: How this Midwest hub became the barbeque capital of the world|last=Wells|first=Michael|date=September 14, 2022|website=[[The Kansas City Star]]|access-date=August 1, 2023|archive-date=December 17, 2021|archive-url=https://web.archive.org/web/20211217063757/https://www.kansascity.com/news/your-kcq/article252371028.html|url-status=live}}</ref> The [[American Royal]] each fall hosts what it claims is the world's biggest barbecue contest.
+
+[[File:P072914PS-1794 (14992509108).jpg|thumb|[[President Obama]] visits [[Arthur Bryant's]] barbecue.]]
+Classic Kansas City-style barbecue was an inner-city phenomenon that evolved from the pit of [[Henry Perry (restaurateur)|Henry Perry]], a migrant from [[Memphis, Tennessee|Memphis]] who is generally credited with opening the city's first barbecue stand in 1921, and blossomed in the [[18th and Vine Historic District|18th and Vine]] neighborhood. [[Arthur Bryant's]] took over the Perry restaurant and added [[sugar]] to his sauce to sweeten the recipe a bit. In 1946 one of Perry's cooks, George W. Gates, opened Gates Bar-B-Q, later [[Gates and Sons Bar-B-Q]] when his son Ollie joined the family business. Bryant's and Gates are the two definitive Kansas City barbecue restaurants; native Kansas Citian and essayist Calvin Trillin famously called Bryant's "the single best restaurant in the world" in an essay he wrote for ''Playboy'' magazine in the 1960s. [[Fiorella's Jack Stack Barbecue]] is also well regarded. In 1977, [[Rich Davis]], a psychiatrist, test-marketed his own concoction called K.C. Soul Style Barbecue Sauce. He renamed it [[KC Masterpiece]], and in 1986, he sold the recipe to the [[Kingsford (charcoal)|Kingsford]] division of [[Clorox]]. Davis retained rights to operate restaurants using the name and sauce, whose recipe popularized the use of molasses as a sweetener in Kansas City-style barbecue sauces.{{citation needed|date=February 2021}}
+
+Kansas City has several [[James Beard Award]]-winning/nominated chefs and restaurants. Winning chefs include Michael Smith, [[Celina Tio]], Colby Garrelts, Debbie Gold, Jonathan Justus and Martin Heuser. A majority of the Beard Award-winning restaurants are in the Crossroads district, downtown and in Westport.
+
+===Points of interest===
+{{main|List of points of interest in Kansas City, Missouri}}
+
+{| class="wikitable sortable"
+|-
+!Name
+!Description
+!Photo
+|-
+|[[Country Club Plaza|Country Club Plaza District]]
+|This district was developed in 1922 featuring Spanish-styled architecture and upscale shops and restaurants. Nearby are the [[University of Missouri–Kansas City]], the [[Kansas City Art Institute]], the [[Kemper Museum of Contemporary Art]], and the [[Nelson-Atkins Museum of Art]].<ref>{{cite web|url=https://countryclubplaza.com/tourism|title=A Kansas City Tradition|website=Country Club Plaza|access-date=February 6, 2024|archive-date=February 6, 2024|archive-url=https://web.archive.org/web/20240206221125/https://countryclubplaza.com/tourism/|url-status=live}}</ref>
+|[[File:Country Club Plaza 2 Kansas City MO.jpg|frameless|upright=0.65]]
+|-
+|[[18th and Vine]]
+|Home of distinctive [[Kansas City jazz]], the [[Negro Leagues Baseball Museum]], the [[American Jazz Museum]], and the future home of the MLB Urban Youth Academy.<ref>{{Cite web|url=http://populous.com/news/2016/04/20/populous-designed-kansas-city-mlb-urban-youth-academy-breaks-ground/ | archive-url=https://web.archive.org/web/20160829133123/http://populous.com/news/2016/04/20/populous-designed-kansas-city-mlb-urban-youth-academy-breaks-ground/| archive-date=August 29, 2016 | title=Populous-designed Kansas City MLB Urban Youth Academy Breaks Ground |date=April 20, 2016}}</ref> Several jazz clubs and venues include the Gem Theater and the Blue Room.
+|[[File:Negro League Baseball Museum and American Jazz Museum.jpg|frameless|upright=0.65]]
+|-
+|[[Crossroads, Kansas City|Crossroads Arts District]]
+|Home to several restaurants, art galleries, and hotels. First Friday is a monthly event with pop-up galleries, food trucks, venue deals, and music events. [[Kansas City Union Station|Union Station]] and the [[Kauffman Center for the Performing Arts|Kauffman Center]] are here. Union Station has varying exhibits, including at [[Science City at Union Station|Science City]].
+|[[File:TWA Headquarters (4719002602).jpg|frameless|upright=0.65]]
+|-
+|[[Westport, Kansas City, Missouri|Westport District]]
+|Originally a separate town until annexed by Kansas City, it contains several restaurants, shops, and nightlife options. Along with the Power and Light District, it is one of the city's main entertainment areas. The [[University of Kansas Hospital]] is close to the district, just across State Line Road.
+|[[File:Westport Square Kansas City MO.jpg|frameless|upright=0.65]]
+|-
+|[[Kansas City Power & Light District|Power and Light District]]
+|A new shopping and entertainment district within the Central Business District, it was developed by the Cordish Companies. The [[T-Mobile Center]] is a major anchor and the [[Midland Theatre]] is a concert venue.
+|[[File:PLD KCLive.jpg|frameless|upright=0.65]]
+|-
+|[[River Market, Kansas City|River Market District]]/ [[Berkley Riverfront Park]]
+|Kansas City's original neighborhood on the Missouri River contains one of the country's largest and longest lasting public farmers' markets in the nation, and the [[Steamboat Arabia Museum]]. The new streetcar line's northernmost loop through the River Market with three stops around City Market. Pedestrians can take the [[Town of Kansas]] Bridge connection to the Riverfront Heritage Trail to [[Berkley Riverfront Park]], which is operated by [[Port of Kansas City|Port KC]].
+|[[File:River Market KCMO1.JPG|frameless|upright=0.65]]
+|-
+|[[Crown Center]]
+|Developed by [[Hallmark Cards|Hallmark]], it is a short walk from the [[National World War I Museum and Memorial]] (Liberty Memorial).
+|[[File:Crown Center 1 Kansas City MO.jpg|frameless|upright=0.65]]
+|-
+|[[West Bottoms]]
+|The West Bottoms originated primarily as stockyards and for industrial uses, but is slowly being revitalized with apartments and shops. It has [[Kemper Arena]].
+|[[File:GoldenOxKC.jpg|frameless|upright=0.65]]
+|-
+|Kansas City, North
+|Several attractions are north of the Missouri River. Zona Rosa is a mixed-used development with shopping, dining, and events. The [[Charles B. Wheeler Downtown Airport]] features the Aviation History Museum. [[Worlds of Fun]] and [[Oceans of Fun]] are major amusement parks of the midwest.
+|[[File:MambaLiftHillWOF.jpg|frameless|upright=0.65]]
+|-
+|[[Swope Park]]
+|Swope Park has {{convert|1,805|acres}}, a larger total space than [[Central Park]], with several attractions including the [[Kansas City Zoo]] and [[Starlight Theatre (Kansas City, Missouri)|Starlight Theatre]] is the second largest outdoor musical theatre venue in the U.S.<ref>{{cite web|url=http://kcparks.org/attraction/starlight-theatre/|title=Starlight Theatre Attractions – KCparks.org|website=kcparks.org|access-date=May 8, 2016|archive-url=https://web.archive.org/web/20160515183404/http://kcparks.org/attraction/starlight-theatre/|archive-date=May 15, 2016|url-status=live}}</ref> [[Sporting Kansas City]] practice at the soccer complex.
+|[[File:KCMO Zoo Nima 09.JPG|frameless|upright=0.65]]
+|}
+
+===Religion===
+[[File:Kansas City Missouri Temple 11.jpg|thumb|[[Kansas City Missouri Temple]]]]
+
+50.75% of Kansas City area residents have a known religious affiliation. The most common religious denominations in the area are:<ref>{{cite web|url=http://www.bestplaces.net/religion/metro/missouri/kansas_city|title=Religion in Kansas City Metro Area, Missouri|work=bestplaces.net|access-date=August 12, 2012|archive-url=https://web.archive.org/web/20130317022021/http://www.bestplaces.net/religion/metro/missouri/kansas_city|archive-date=March 17, 2013|url-status=live}}</ref>
+
+* None/no affiliation 49.25%
+* [[Catholicism|Catholic]] 13.2%
+* [[Baptists]] 10.4%
+* Other [[Christianity|Christian]] 10.3%
+* [[Methodism|Methodist]] 6.0%
+* [[Pentecostalism|Pentecostal]] 2.7%
+* [[The Church of Jesus Christ of Latter-day Saints|Latter-day Saint]] 2.5%
+* [[Lutheranism|Lutheran]] 2.3%
+* [[Presbyterianism in the United States|Presbyterian]] 1.7%
+* [[Judaism]] 0.4%
+* [[Eastern religions]] 0.4%
+* [[Islam]] 0.4%
+
+===Walt Disney===
+In 1911, [[Elias Disney]] moved [[Disney family|his family]] from [[Marceline, Missouri|Marceline]] to Kansas City. They lived in a new home at 3028 Bellefontaine with a garage he built, in which [[Walt Disney]] made his first [[animation]].<ref name="dnr.mo.gov">{{cite web|title=Disney, Walt, House and Garage|url=http://www.dnr.mo.gov/shpo/nps-nr/78001654.pdf|work=dnr.mo.gov|access-date=March 3, 2015|archive-date=January 17, 2016|archive-url=https://web.archive.org/web/20160117034639/http://dnr.mo.gov/shpo/nps-nr/78001654.pdf|url-status=live}}</ref> In 1919, Walt returned from France where he had served as a [[List of ambulance drivers during World War I|Red Cross ambulance driver]] in [[World War I]]. He started the first animation company in Kansas City, [[Laugh-O-Gram Studio]], in which he designed [[Mickey Mouse]]. When the company went bankrupt, Walt Disney moved to [[Hollywood, Los Angeles|Hollywood]] and started [[The Walt Disney Company]] on October 16, 1923.
+
+==Sports==
+{{Main|Sports in Kansas City}}
+Professional sports teams in Kansas City include the [[Kansas City Chiefs]] in the [[National Football League]] (NFL), the [[Kansas City Royals]] in [[Major League Baseball]] (MLB) and [[Sporting Kansas City]] in [[Major League Soccer]] (MLS).
+
+The following table lists the professional teams in the Kansas City metropolitan area:
+{| class="wikitable sortable"
+|-
+! Club !! Sport !! Founded !! League !! Venue
+|-
+|[[Kansas City Chiefs]]
+|[[American football|Football]]
+|1960 (as the Dallas Texans)<br />1963 (as Kansas City Chiefs)
+|[[National Football League]]
+|[[Arrowhead Stadium]]
+|-
+|[[Kansas City Royals]]
+|Baseball
+|1969
+|[[Major League Baseball]]
+|[[Kauffman Stadium]]
+|-
+|[[Sporting Kansas City]]
+|Soccer
+|1996
+|[[Major League Soccer]]
+|[[Children's Mercy Park]] ([[Kansas City, Kansas]])
+|-
+|[[Sporting Kansas City II]]
+|Soccer
+|2016
+|[[MLS Next Pro]]
+|[[Children's Mercy Park]] ([[Kansas City, Kansas]])
+|-
+|[[Kansas City Current]]
+|Soccer
+|2018 (as [[Utah Royals FC]])
+2021 (as KC NWSL)
+|[[National Women's Soccer League]]
+|[[Children's Mercy Park]] ([[Kansas City, Kansas]])
+|-
+|[[Kansas City Mavericks]]
+|[[Ice hockey|Hockey]]
+|2009
+|[[ECHL]]
+|[[Silverstein Eye Centers Arena|Cable Dahmer Arena]] ([[Independence, Missouri|Independence]])
+|-
+|[[Kansas City Comets (2010–)|Kansas City Comets]]
+|[[Indoor soccer]]
+|2010
+|[[Major Arena Soccer League]]
+|[[Silverstein Eye Centers Arena|Cable Dahmer Arena]] (Independence)
+|-
+|[[Kansas City Monarchs (American Association)|Kansas City Monarchs]]
+|Baseball
+|1993 (as the Duluth-Superior Dukes)
+2003 (as the Kansas City T-Bones)
+|[[American Association of Professional Baseball|American Association]]
+|[[Legends Field (Kansas City)|Legends Field]]
+|-
+|[[Kansas City Blues (USA Rugby)|Kansas City Blues]]
+|Rugby union
+|1966
+|USA Rugby Division 1
+|Swope Park Training Complex
+|-
+|[[Kansas City Storm]]
+|[[Women's American football|Women's football]]
+|2004
+|WTFA
+|[[North Kansas City High School]]
+|-
+|[[Kansas City Goats]]
+|[[Arena football]]
+|2023
+|[[The Arena League]]
+|[[Municipal Auditorium (Kansas City)|Municipal Arena]]
+|}
+
+===Professional football===
+[[File:Chiefsgame.jpg|thumb|[[Arrowhead Stadium]] is home of the [[Kansas City Chiefs]].]]
+The [[Kansas City Chiefs|Chiefs]], now a member of the [[National Football League|NFL's]] [[American Football Conference]], started play in 1960 as the Dallas Texans of the [[American Football League]] before moving to Kansas City in 1963. The Chiefs lost [[Super Bowl I]] to the [[Green Bay Packers]] by a score of 35–10. In 1969, the team became the last AFL champion and won [[Super Bowl IV]].<ref>{{cite web|url=https://bleacherreport.com/articles/1653179-two-championships-in-one-season-1969-kansas-city-chiefs|title=The 1969 Kansas City Chiefs: Two Championships in One Season|last=Shuck|first=Barry|date=May 27, 2013|website=[[Bleacher Report]]|access-date=August 1, 2023|archive-date=March 25, 2022|archive-url=https://web.archive.org/web/20220325131526/https://bleacherreport.com/articles/1653179-two-championships-in-one-season-1969-kansas-city-chiefs|url-status=live}}</ref> In 2020, they won [[Super Bowl LIV]],<ref>{{Cite web|url=https://www.espn.com/nfl/recap?gameId=401131047|title=49ers vs. Chiefs – Game Recap – February 2, 2020 |publisher=ESPN|language=en|access-date=February 5, 2020|archive-date=March 8, 2021|archive-url=https://web.archive.org/web/20210308041457/https://www.espn.com/nfl/recap?gameId=401131047|url-status=live}}</ref> in 2023, they won [[Super Bowl LVII]],<ref>{{cite web|url=https://www.npr.org/2023/02/12/1156401776/super-bowl-57-kansas-city-chiefs-philadelphia-eagles#:~:text=The%20Kansas%20City%20Chiefs%20are,number%20one%20in%20their%20conferences).|title=Kansas City is super again: Chiefs beat Philadelphia Eagles 38–35 in 2023 Super Bowl|last=Lewis|first=Russell|date=February 12, 2023|website=[[NPR]]|access-date=August 1, 2023|archive-date=August 1, 2023|archive-url=https://web.archive.org/web/20230801040125/https://www.npr.org/2023/02/12/1156401776/super-bowl-57-kansas-city-chiefs-philadelphia-eagles#:~:text=The%20Kansas%20City%20Chiefs%20are,number%20one%20in%20their%20conferences).|url-status=live}}</ref> and in 2024 they won [[Super Bowl LVIII]].<ref>{{cite news|url=https://nypost.com/2024/02/11/sports/chiefs-beat-49ers-in-overtime-to-win-wild-super-bowl-2024/|title=Chiefs beat 49ers in overtime to win wild Super Bowl 2024|last=Schwartz|first=Paul|date=February 11, 2024|work=[[New York Post]]|access-date=February 14, 2024|archive-date=February 13, 2024|archive-url=https://web.archive.org/web/20240213021656/https://nypost.com/2024/02/11/sports/chiefs-beat-49ers-in-overtime-to-win-wild-super-bowl-2024/|url-status=live}}</ref>
+
+===Professional baseball===
+[[File:Kansas City Royals.jpg|thumb|The [[Kansas City Royals]] became 1985 and 2015 World Series Champions.]]
+The [[Oakland Athletics|Athletics]] baseball franchise played in the city from 1955, after moving from [[Philadelphia]], to 1967, when the team relocated to [[Oakland, California]]. The city's current Major League Baseball franchise, the [[Kansas City Royals|Royals]], started play in 1969, and are the only major league sports franchise in Kansas City that has not relocated or changed its name. The Royals were the first [[American League]] expansion team to reach the playoffs (in [[1976 American League Championship Series|1976]]) to reach the World Series (in 1980) and to win the World Series (in 1985).<ref>{{cite web|url=https://sabr.org/gamesproj/game/october-27-1985-royals-rout-redbirds-to-wrap-up-first-world-series-title/|title=October 27, 1985: Royals rout Cardinals 11-0 to clinch first World Series title|last=Bush|first=Frederick|date=October 4, 2020|website=Society For American Baseball Research|access-date=August 1, 2023|archive-date=August 1, 2023|archive-url=https://web.archive.org/web/20230801215321/https://sabr.org/gamesproj/game/october-27-1985-royals-rout-redbirds-to-wrap-up-first-world-series-title/|url-status=live}}</ref> The Royals returned to the World Series in 2014 and won in 2015.<ref>{{cite web|url=https://www.sbnation.com/2015/11/2/9657312/2015-royals-world-series|title=The Royals won the 2015 World Series because of devil magic and pure talent|last=Brisbee|first=Grant|date=November 2, 2015|website=[[SB Nation]]|access-date=August 1, 2023|archive-date=August 1, 2023|archive-url=https://web.archive.org/web/20230801215735/https://www.sbnation.com/2015/11/2/9657312/2015-royals-world-series|url-status=live}}</ref><ref>{{cite web|url=https://www.npr.org/sections/thetwo-way/2015/11/02/453845714/kansas-city-wins-world-series-for-first-time-in-30-years|title=Kansas City Royals Win World Series for first time in 30 Years|last=Domonske|first=Camila|date=November 2, 2015|website=[[NPR]]|access-date=August 1, 2023|archive-date=August 1, 2023|archive-url=https://web.archive.org/web/20230801215949/https://www.npr.org/sections/thetwo-way/2015/11/02/453845714/kansas-city-wins-world-series-for-first-time-in-30-years|url-status=live}}</ref>
+
+The [[Kansas City Monarchs]], formerly the Kansas City T-Bones, is an unaffiliated minor league team. It played in the [[Northern League (baseball, 1993–2010)|independent Northern League]] from 2003 until 2010 and has been part of the [[American Association of Independent Professional Baseball|independent American Association]] since 2011. Its home is [[Legends Field (Kansas City)|Legends Field]] in [[Kansas City, Kansas]].<ref>{{cite web|url=https://www.mlb.com/history/negro-leagues/teams/kansas-city-monarchs|title=The Kansas City Monarchs of the Negro Leagues|website=[[MLB.com]]|access-date=August 1, 2023|archive-date=August 1, 2023|archive-url=https://web.archive.org/web/20230801221631/https://www.mlb.com/history/negro-leagues/teams/kansas-city-monarchs|url-status=live}}</ref>
+
+===Professional soccer===
+[[File:Livestrong Sporting Park - Kansas City (7298623286).jpg|thumb|upright=1.35|[[Sporting Kansas City]] played the [[New England Revolution]] at [[Children's Mercy Park]].]]
+
+The Kansas City Wiz became a charter member of Major League Soccer in 1996. It was renamed the Kansas City Wizards in 1997. In 2011, the team was renamed [[Sporting Kansas City]] and moved to its new stadium [[Children's Mercy Park]] in [[Kansas City, Kansas]]. It won the [[MLS Cup]] twice, the [[Supporters' Shield]] once, and the [[U.S. Open Cup|US Open Cup]] four times.
+
+[[FC Kansas City]] played from 2013 to 2017 in the [[National Women's Soccer League]]; the team's home games were held at [[Swope Soccer Village]]. They won the NWSL in 2014 and 2015. The team folded after the 2017 season and its assets were transferred to [[Utah Royals FC]]. After the 2020 season, the Utah Royals folded and its assets were transferred to a new Kansas City team, now known as the [[Kansas City Current]]. The Current moved to Children's Mercy Park after spending their first season at [[Legends Field (Kansas City)|Legends Field]], where they were known as KC NWSL.<ref>{{cite press release |title=Kansas City NWSL to Play 2022 Home Matches at Children's Mercy Park |url=https://www.kansascitycurrent.com/news/kansas-city-nwsl-to-play-2022-home-matches-at-childrens-merc |publisher=[[Kansas City Current]] |access-date=December 1, 2021 |date=September 22, 2021 |archive-date=May 28, 2023 |archive-url=https://web.archive.org/web/20230528001313/https://www.kansascitycurrent.com/news/kansas-city-nwsl-to-play-2022-home-matches-at-childrens-merc |url-status=live }}</ref> On October 6, 2022, the team's ownership broke ground on an 11,500-seat soccer-specific stadium on the Berkley Riverfront Park,<ref>{{cite press release |title=Kansas City NWSL and Port KC Finalize Plans for First NWSL Purpose-Built Stadium at Kansas City Riverfront |url=https://www.kansascitycurrent.com/news/kansas-city-nwsl-and-port-kc-finalize-plans-for-first-nwsl-p |publisher=[[Kansas City Current]] |access-date=December 1, 2021 |date=October 26, 2021 |archive-date=December 2, 2021 |archive-url=https://web.archive.org/web/20211202054606/https://www.kansascitycurrent.com/news/kansas-city-nwsl-and-port-kc-finalize-plans-for-first-nwsl-p |url-status=live }}</ref><ref>{{cite news |url=https://www.kshb.com/sports/local-sports/kansas-city-nwsl/stadium-for-kansas-city-nwsl-to-be-built-along-berkley-riverfront |title=Stadium for Kansas City NWSL to be built along Berkley Riverfront |date=October 26, 2021 |access-date=April 24, 2023 |work=[[KSHB-TV]] |first=Katelyn |last=Brown |archive-date=April 21, 2023 |archive-url=https://web.archive.org/web/20230421234339/https://www.kshb.com/sports/local-sports/kansas-city-nwsl/stadium-for-kansas-city-nwsl-to-be-built-along-berkley-riverfront |url-status=live }}</ref> with a goal to open by March 2024.<ref>{{cite news |url=https://fox4kc.com/sports/kansas-city-current/kc-current-sets-timeline-for-new-stadium-construction/ |title=KC Current sets timeline for new stadium construction |date=April 22, 2023 |access-date=April 24, 2023 |work=[[WDAF-TV|FOX 4]] |first=PJ |last=Green |archive-date=April 23, 2023 |archive-url=https://web.archive.org/web/20230423043427/https://fox4kc.com/sports/kansas-city-current/kc-current-sets-timeline-for-new-stadium-construction/ |url-status=live }}</ref>
+
+Kansas City was selected on June 16, 2022, as one of the eleven US host cities for the [[2026 FIFA World Cup]].<ref>{{cite news |url=https://www.theguardian.com/football/2022/jun/30/how-kansas-city-became-the-2026-world-cups-most-unlikely-host-city |title=How Kansas City became the 2026 World Cup's most unlikely host city |date=June 30, 2022 |access-date=April 24, 2023 |work=[[The Guardian]] |first=Dave |last=Caldwell}}</ref>
+
+===College athletics===
+In college athletics, Kansas City has been the home of the Big 12 College Basketball Tournaments. The [[Big 12 men's basketball tournament|men's tournament]] has been played at [[T-Mobile Center]] since March 2008. The [[Big 12 women's basketball tournament|women's tournament]] is played at [[Municipal Auditorium (Kansas City)|Municipal Auditorium]].
+
+The city has one [[NCAA Division I]] program, the [[Kansas City Roos]], representing the [[University of Missouri–Kansas City]] (UMKC). The program, historically known as the UMKC Kangaroos, adopted its current branding after the 2018–19 school year.
+
+In addition to serving as the home stadium of the Chiefs, [[Arrowhead Stadium]] serves as the venue for various intercollegiate football games. It has hosted the Big 12 Championship Game five times. On the last weekend in October, the [[Mid-America Intercollegiate Athletics Association|MIAA]] Fall Classic rivalry game between [[Northwest Missouri State Bearcats football|Northwest Missouri State University]] and [[Pittsburg State University]] took place at the stadium.
+
+===Rugby===
+Kansas City is represented on the [[rugby union|rugby]] pitch by the [[Kansas City Blues RFC]], a former member of the [[Rugby Super League (United States)|Rugby Super League]] and a Division 1 club. The team works closely with Sporting Kansas City and splits home-games between Sporting's training pitch and [[Rockhurst University]]'s stadium.
+
+===Former teams===
+Kansas City briefly had four short-term major league baseball teams between 1884 and 1915: the [[Kansas City Cowboys (Union Association)|Kansas City Unions]] of the short-lived [[Union Association]] in 1884, the [[Kansas City Cowboys (National League)|Kansas City Cowboys]] in the [[National League (baseball)|National League]] in 1886, a team of the [[Kansas City Cowboys (American Association)|same name]] in the then-major league [[American Association (19th century)|American Association]] in 1888 and 1889, and the [[Kansas City Packers]] in the [[Federal League]] in 1914 and 1915. The [[Kansas City Monarchs]] of the now-defunct [[Negro National League (1920–1931)|Negro National]] and [[Negro American League|Negro American]] Leagues represented Kansas City from 1920 through 1955. The city also had a number of minor league baseball teams between 1885 and 1955. After the [[Kansas City Blues (1885–1901)|Kansas City Cowboys]] began play in the 1885 [[Western League (1885–1899)|Western League]], from 1903 through 1954, the [[Kansas City Blues (American Association)|Kansas City Blues]] played in the high-level [[American Association (1902–1997)|American Association]] minor league. In 1955, Kansas City became a major league city when the [[Oakland Athletics|Philadelphia Athletics]] baseball franchise relocated to the city in 1955. Following the 1967 season, the team relocated to [[Oakland, California]].
+
+Kansas City was represented in the [[National Basketball Association]] by the [[Sacramento Kings|Kansas City Kings]] (called the Kansas City-Omaha Kings from 1972 to 1975), when the former Cincinnati Royals moved to the Midwest in 1972. The team left for [[Sacramento]] in 1985.<ref>{{cite web|url=https://theathletic.com/1747622/2020/04/16/from-despised-gm-to-missing-on-magic-to-low-attendance-the-story-behind-the-kings-demise-in-kansas-city/|title=From despised GM to missing on Magic: The story behind the King's demise in K.C.|last=Taylor|first=Nate|date=April 16, 2020|website=[[The Athletic]]|access-date=December 27, 2023|archive-date=December 27, 2023|archive-url=https://web.archive.org/web/20231227160157/https://theathletic.com/1747622/2020/04/16/from-despised-gm-to-missing-on-magic-to-low-attendance-the-story-behind-the-kings-demise-in-kansas-city/|url-status=live}}</ref>
+
+In 1974, the [[National Hockey League]] placed an expansion team in Kansas City called the [[Kansas City Scouts]]. The team moved to [[Denver]] in 1976, then to [[New Jersey]] in 1982 where they have remained ever since as the [[New Jersey Devils]].
+
+==Parks and boulevards==
+[[File:Penn Valley Park.jpg|thumb|View of downtown from [[Penn Valley Park]]]]
+[[File:Loose Park Rose Garden.jpg|thumb|The rose garden in [[Loose Park]] is Kansas City's third-largest public park.]]
+[[File:JC Nichols Fountain by Henri-Léon Gréber Kansas City.jpg|thumb|''J.C. Nichols Memorial Fountain'', by [[Henri-Léon Gréber]], is in Mill Creek Park, adjacent to Country Club Plaza.]]
+Kansas City has {{convert|132|mi|km}} of boulevards and parkways, 214 urban parks, 49 ornamental fountains, 152 baseball diamonds, 10 community centers, 105 tennis courts, 5 golf courses, 5 museums and attractions, 30 pools, and 47 park shelters.<ref>{{cite web|url=http://www.kcmo.org/parks/2008referencebook.pdf |title=Parks & Recreation, 2008 Reference Book |archive-url=https://web.archive.org/web/20090325133930/http://www.kcmo.org/parks/2008referencebook.pdf |archive-date=March 25, 2009 }}</ref><ref>{{cite web|url=http://www.kcmo.org/parks.nsf/web/Aboutus |title=Parks & Recreation, About Parks & Recreation |archive-url=https://web.archive.org/web/20081121164325/http://www.kcmo.org/parks.nsf/web/Aboutus |archive-date=November 21, 2008 }}</ref> These amenities are found across the city. Much of the system, designed by [[George E. Kessler]], was constructed from 1893 to 1915.
+
+Cliff Drive, in Kessler Park on the North Bluffs, is a designated State Scenic Byway. It extends {{convert|4.27|mi|km}} from The Paseo and Independence Avenue through Indian Mound on Gladstone Boulevard at Belmont Boulevard, with many historical points and architectural landmarks.
+
+[[Ward Parkway]], on the west side of the city near [[State Line Road]], is lined by many of the city's largest and most elaborate homes.<ref>{{cite web|url=https://kcparks.org/places/ward-parkway/|title=Ward Parkway – KC Parks & Rec|website=Kansas City Parks & Recreation|access-date=August 5, 2023|archive-date=August 5, 2023|archive-url=https://web.archive.org/web/20230805232106/https://kcparks.org/places/ward-parkway/|url-status=live}}</ref><ref>{{cite web|url=https://www.kshb.com/lifestyle/taste-see-kc-the-history-behind-ward-parkway|title=Taste & See KC: The history behind Ward Parkway|last=Perry|first=Zack|date=January 16, 2017|website=kshb.com|access-date=August 5, 2023|archive-date=August 5, 2023|archive-url=https://web.archive.org/web/20230805232507/https://www.kshb.com/lifestyle/taste-see-kc-the-history-behind-ward-parkway|url-status=live}}</ref>
+
+[[The Paseo (Kansas City, Missouri)|The Paseo]] is a major north–south parkway that runs {{convert|19|mi|km}} through the center of the city beginning at Cliff Drive. It was modeled on the ''[[Paseo de la Reforma]]'', a fashionable [[Mexico City]] boulevard. It has been recently renamed [[Martin Luther King Jr. Drive (St. Louis)|Martin Luther King Jr. Boulevard]] and now the city has voted to change it back to the Paseo.<ref>{{Cite web|url=https://fox4kc.com/news/city-leaders-prepare-to-restore-paseo-street-signs-in-response-to-vote-against-mlk-name/|title=City leaders prepare to restore Paseo street signs in response to vote against MLK name|date=November 7, 2019|access-date=April 19, 2020|archive-date=May 5, 2021|archive-url=https://web.archive.org/web/20210505095104/https://fox4kc.com/news/city-leaders-prepare-to-restore-paseo-street-signs-in-response-to-vote-against-mlk-name/|url-status=live}}</ref>
+
+[[Swope Park]] is one of the nation's largest city parks, comprising {{convert|1805|acre|sqmi|0|abbr=on}}, more than twice the size of New York City's [[Central Park]].<ref>{{cite web|url=http://www.kcmo.org/timeline.nsf/web/18960000?opendocument |title=TimeLine 150 |archive-url=https://web.archive.org/web/20081120124113/http://www.kcmo.org/timeline.nsf/web/18960000?opendocument |archive-date=November 20, 2008 }}</ref> It features a [[Kansas City Zoo|zoo]], a woodland nature and wildlife rescue center, 2 golf courses, 2 lakes, an [[amphitheatre]], a day-camp, and numerous picnic grounds. Hodge Park, in the Northland, covers {{convert|1029|acres|0|abbr=on}} (1.61 sq. mi.). This park includes the {{convert|80|acre|m2|adj=on}} Shoal Creek Living History Museum, a village of more than 20 historical buildings dating from 1807 to 1885. [[Berkley Riverfront Park]], {{convert|955|acre|km2}} on the banks of the [[Missouri River]] on the north edge of downtown, holds annual [[Independence Day (United States)|Independence Day]] celebrations and other festivals.
+
+A program went underway to replace many of the fast-growing [[American Sweetgum|sweetgum]] trees with [[hardwood]] varieties.<ref>{{cite web|url=http://www.kcmo.org/planning/pdf/focus/NA_reports/triblen.pdf |title=Tri-Blenheim Neighbors United |date= April 29, 2000 |archive-url=https://web.archive.org/web/20090325133936/http://www.kcmo.org/planning/pdf/focus/NA_reports/triblen.pdf |archive-date=March 25, 2009 }}</ref>
+
+===Civil Engineering Landmark===
+In 1974, the Kansas City Park and Boulevard System was recognized by the [[American Society of Civil Engineers]] (ASCE) as a [[National Historic Civil Engineering Landmark]].<ref>"Nomination of Park and Boulevard System, Kansas City, Missouri for Designation as National Historic Civil Engineering Landmark." American Society of Civil Engineers. Kansas City Section. 1974.</ref> The nomination noted that this park system was among "...the first to integrate the aesthetics of landscape architecture with the practicality of city planning, stimulating other metropolitan areas to undertake similar projects."<ref name="ASCE">{{cite web |title=Kansas City Park and Boulevard System |url=https://www.asce.org/about-civil-engineering/history-and-heritage/historic-landmarks/kansas-city-park-and-boulevard-system |website=American Society of Civil Engineers |access-date=January 26, 2022 |archive-date=May 5, 2021 |archive-url=https://web.archive.org/web/20210505095100/https://www.asce.org/project/kansas-city-park-and-boulevard-system/ |url-status=live }}</ref> The park's plan developed by landscape architect [[George Kessler#Kansas City|George Kessler]] included some of the "...first specifications for pavements, gutters, curbs, and walks. Other engineering advances included retaining walls, earth dams, subsurface drains, and an impoundment lake – all part of Kansas City's legacy that has influenced urban planning in cities throughout North America."<ref name="ASCE"/>
+
+==Law and government==
+
+===City government===
+[[File:Kansas City Missouri City Hall.jpg|thumb|upright|City Hall, Kansas City, Missouri]]
+{{See also|List of mayors of Kansas City|Alcohol laws of Missouri}}
+
+Kansas City is home to the largest [[Kansas City, Missouri Municipal Government|municipal government]] in the state of Missouri. The city has a council/manager form of government. The role of [[city manager]] has diminished over the years. The non-elective office of city manager was created following excesses during the Pendergast days.
+
+The mayor is the head of the [[Kansas City, Missouri City Council|Kansas City City Council]], which has 12 members elected from six districts (one member elected by voters in the district and one at-large member elected by voters citywide). The mayor is the presiding member. By charter, Kansas City has a "weak-mayor" system, in which most of the power is formally vested in the city council. However, in practice, the mayor is very influential in drafting and guiding public policy.
+
+Kansas City holds city elections in every fourth odd-numbered year. The last citywide election was held in April 2023. The officials took office in August 2023 and will hold the position until 2027.
+
+Pendergast was the most prominent leader during the machine politics days. The most nationally prominent Democrat associated with the machine was [[Harry S Truman]], who became a Senator, Vice President and then [[President of the United States]] from 1945 to 1953. Kansas City is the seat of the [[United States District Court for the Western District of Missouri]], one of two [[United States district courts|federal district courts]] in Missouri. The [[United States District Court for the Eastern District of Missouri]] is in St. Louis. It also is the seat of the Western District of the [[Missouri Court of Appeals]], one of three districts of that court (the Eastern District is in St. Louis and the Southern District is in [[Springfield, Missouri|Springfield]]).
+
+The Mayor, City Council, and City Manager are listed below:<ref>{{cite web |url=https://www.kceb.org/useruploads/2019_mayorCC/Election_Summary_Official_6-19.pdf |title=Kansas City Missouri Municipal General Election June 18, 2019 |publisher=Kansas City Municipal Administration |access-date=August 11, 2021 |archive-date=March 8, 2021 |archive-url=https://web.archive.org/web/20210308182211/https://www.kceb.org/useruploads/2019_mayorCC/Election_Summary_Official_6-19.pdf |url-status=live }}</ref><ref>{{cite web |url=https://www.kcmo.gov/city-hall/city-officials/city-council-members |title=City Council Members |publisher=City of Kansas City, Missouri |access-date=August 11, 2021 |url-status=live |archive-url=https://web.archive.org/web/20190719152736/https://www.kcmo.gov/city-hall/city-officials/city-council-members |archive-date=July 19, 2019 }}</ref>
+
+{| class="wikitable"
+|-
+! Office
+! Officeholder
+|-
+|Mayor (presides over Council)
+|[[Quinton Lucas]]
+|-
+|Councilman, District 1 At-large
+|Kevin O'Neill
+|-
+|Councilman, District 1
+|Nathan Willett
+|-
+|Councilwoman, District 2 At-large
+|Lindsey French
+|-
+|Councilman, District 2
+|Wes Rodgers
+|-
+|Councilwoman, District 3 At-large
+|Melissa Patterson Hazley
+|-
+|Councilwoman, District 3
+|Melissa Robinson
+|-
+|Councilman, District 4 At-large
+|Crispin Rea
+|-
+|Councilman, District 4
+|Eric Bunch
+|-
+|Councilman, District 5 At-large
+|Darrell Curls
+|-
+|Councilwoman, District 5
+|Ryana Parks-Shaw
+|-
+|Councilwoman, District 6 At-large
+|Andrea Bough
+|-
+|Councilman, District 6
+|Johnathan Duncan
+|-
+|City Manager
+|Brian Platt
+|-
+|Mayor Pro-Tem
+|Ryana Parks-Shaw
+|}
+
+===National political conventions===
+Kansas City hosted the [[1900 Democratic National Convention]], the [[1928 Republican National Convention]] and the [[1976 Republican National Convention]]. The urban core of Kansas City consistently votes Democratic in presidential elections; however, on the state and local level Republicans often find success, especially in the Northland and other suburban areas of Kansas City.
+
+===Federal representation===
+Kansas City is represented by three members of the [[United States House of Representatives]]:
+*[[Missouri's 4th congressional district]] – the Cass County portion of Kansas City; represented by [[Mark Alford (politician)|Mark Alford]] (Republican)<ref>{{cite web|url=https://www.govtrack.us/congress/members/MO/4|title=Missouri's 4th congressional district list|website=govtrack.us|access-date=February 1, 2024|archive-date=February 1, 2024|archive-url=https://web.archive.org/web/20240201183150/https://www.govtrack.us/congress/members/MO/4|url-status=live}}</ref>
+*[[Missouri's 5th congressional district]] – all of Kansas City proper in Jackson County, Independence, and portions of Clay County; represented by [[Emanuel Cleaver]] (Democrat)<ref>{{cite web|url=https://www.govtrack.us/congress/members/MO/5|title=Missouri's 5th congressional district list|website=govtrack.us|access-date=February 1, 2024|archive-date=February 1, 2024|archive-url=https://web.archive.org/web/20240201183413/https://www.govtrack.us/congress/members/MO/5|url-status=live}}</ref>
+*[[Missouri's 6th congressional district]] – Portions of Kansas City proper in [[Clay County, Missouri|Clay County]] and [[Platte County, Missouri|Platte County]]; represented by [[Sam Graves]] (Republican)<ref>{{cite web|url=https://www.govtrack.us/congress/members/MO/6|title=Missouri's 6th congressional district|website=govtrack.us|access-date=February 1, 2024|archive-date=February 1, 2024|archive-url=https://web.archive.org/web/20240201183810/https://www.govtrack.us/congress/members/MO/6|url-status=live}}</ref>
+
+===Crime===
+[[File:Police Respond to Shooting.jpg|thumb|Police respond to a shooting in the [[Crossroads, Kansas City|Crossroads]] area during early New Year's Day 2016.]]
+Some of the earliest organized violence in Kansas City was during the [[American Civil War]]. Shortly after the city's incorporation in 1850, so-called [[Bleeding Kansas]] erupted, affecting [[border ruffians]] and [[Jayhawkers]]. During the war, Union troops [[General Order № 11 (1863)|burned all occupied dwellings]] in Jackson County south of Brush Creek and east of Blue Creek to Independence in an attempt to halt raids into Kansas. After the war, the ''[[Kansas City Times]]'' turned outlaw [[Jesse James]] into a folk hero via its coverage. James was born in the Kansas City metro area at [[Kearney, Missouri]], and notoriously robbed the Kansas City Fairgrounds at 12th Street and Campbell Avenue.
+
+In the early 20th century under Pendergast, Kansas City became the country's "most wide open town". Though this gave rise to [[Kansas City jazz]] and to the [[Kansas City crime family|Kansas City mob]] (initially under [[Johnny Lazia]]), and the arrival of [[organized crime]]. In the 1970s, the Kansas City mob was involved in a gang war over control of the [[River Quay]] entertainment district, in which three buildings were bombed and several gangsters were killed. Police investigations gained after boss [[Nick Civella]] was recorded discussing gambling bets on [[Super Bowl IV]] (where the Kansas City Chiefs defeated the Minnesota Vikings). The war and investigation led to the end of mob control of the [[Stardust Casino]], which was the basis for the 1995 film ''[[Casino (1995 film)|Casino]]'', though the production minimizes the Kansas City connections.
+
+{{As of|November 2012}}, Kansas City [[United States cities by crime rate|ranked 18th]] on the [[Federal Bureau of Investigation]] (FBI)'s annual survey of crime rates for cities with populations over 100,000.<ref>{{cite web |url=http://www.bizjournals.com/kansascity/news/2013/02/01/fbi-violent-crime-drops-in-kansas.html |title=FBI: Violent crime drops in Kansas City for first half of 2012 |work=Kansas City Business Journal |date=February 1, 2013 |access-date=July 10, 2013 |archive-url=https://web.archive.org/web/20130730054734/http://www.bizjournals.com/kansascity/news/2013/02/01/fbi-violent-crime-drops-in-kansas.html |archive-date=July 30, 2013 |url-status=live }}</ref> Much of the city's violent crime occurs on the city's lower income East Side. Revitalizing the downtown and midtown areas has been fairly successful and now these areas have below average violent crime compared to other major downtowns.<ref>{{cite web|url=http://www.thinkdowntownkc.com/happening/happening.htm |title=Powered prohibited Mirror |work=thinkdowntownkc.com |url-status=dead |archive-url=https://web.archive.org/web/20081222050510/http://www.thinkdowntownkc.com/happening/happening.htm |archive-date=December 22, 2008 }}</ref>{{irrelevant citation|date=June 2019|reason=Link does not corroborate claim, but instead links to an article about money spent on development.}} According to a 2007 analysis by ''[[The Kansas City Star]]'' and the [[University of Missouri-Kansas City]], downtown experienced the largest drop in crime of any neighborhood in the city during the 2000s.<ref>{{Cite web|url=http://www.downtownkc.org/content.aspx?pgID=875&newsID=579&exCompID=82|archive-url=https://web.archive.org/web/20080412045254/http://www.downtownkc.org/content.aspx?pgID=875&newsID=579&exCompID=82|url-status=dead|title=Crime falls downtown and across much of Kansas City|date=January 7, 2008|website=downtownkc.org|archive-date=April 12, 2008}}</ref>
+
+==Education==
+{{Main|List of schools of Kansas City}}
+
+===Colleges and universities===
+Many universities, colleges, and seminaries are in the Kansas City metropolitan area, including:
+
+* [[University of Missouri–Kansas City]] − one of four schools in the [[University of Missouri System]], serving more than 15,000 students<ref>{{cite web|url=https://www.umkc.edu/about/history.html|title=Our History – UMKC|website=UMKC.edu|access-date=February 1, 2024|archive-date=April 9, 2024|archive-url=https://web.archive.org/web/20240409235310/https://www.umkc.edu/about/history.html|url-status=live}}</ref>
+* [[Rockhurst University]] − [[Jesuit]] university founded in 1910
+* [[Kansas City Art Institute]] − four-year college of fine arts and design founded in 1885
+* [[Kansas City University]] − medical and graduate school founded in 1916
+* [[Avila University]] − Catholic university of the [[Sisters of St. Joseph of Carondelet]]
+* [[Park University]] − private institution established in 1875; Park University Graduate School is downtown
+* [[Baker University]] − multiple branches of the School of Professional and Graduate Studies
+* [[William Jewell College]] − private liberal arts institution founded in 1849
+* [[Metropolitan Community College (Kansas City)|Metropolitan Community College]] − a two-year college with multiple campuses in the city and suburbs
+* [[Midwestern Baptist Theological Seminary]] − Southern Baptist Convention
+* [[Nazarene Theological Seminary]] − Church of the Nazarene
+* [[Calvary University]]
+* [[Saint Paul School of Theology]] − Methodist
+
+===Primary and secondary schools===
+[[File:Kc board of ed 2017-05-25.jpg|thumb|upright|Headquarters of the [[Kansas City Public Schools]] serves the inner core of the city.]]
+The city is not served by one unified school district, but 15 separate districts due to the historical unwillingness of suburban voters to merge their existing school districts with the Kansas City district as the city expanded its limits in the 1950s and 1960s.<ref>{{Cite book |last=Shortridge |first=James R. |title=Kansas City and How it Grew, 1822–2011 |publisher=[[University Press of Kansas]] |year=2012 |isbn=9780700618828 |location=Lawrence, Kansas |pages=116–117}}</ref>
+
+School outcomes vary between and even within districts, with a some high schools being nationally ranked,<ref>{{Cite web|url=https://www.bizjournals.com/kansascity/news/2017/04/25/us-news-ranks-kc-area-high-schools.html#g/411076/13|title=See which KC high schools U.S. News ranks among the nation's best|work=Kansas City Business Journal|date=April 25, 2017|access-date=October 27, 2017|archive-url=https://web.archive.org/web/20170922200334/https://www.bizjournals.com/kansascity/news/2017/04/25/us-news-ranks-kc-area-high-schools.html#g/411076/13|archive-date=September 22, 2017|url-status=live}}</ref> and others having some of the lowest graduation rates.<ref>{{Cite web |date=January 5, 2012 |title=Mayor: KC Schools Among Worst In Nation |url=https://www.kmbc.com/article/mayor-kc-schools-among-worst-in-nation/3668180 |access-date=February 24, 2023 |publisher=KMBC |language=en |archive-date=February 24, 2023 |archive-url=https://web.archive.org/web/20230224031449/https://www.kmbc.com/article/mayor-kc-schools-among-worst-in-nation/3668180 |url-status=live }}</ref> There are also numerous private schools; Catholic schools are governed by the [[Diocese of Kansas City]].
+
+The following public school districts serve Kansas City:<ref>{{Cite web |title=Find My School District |url=https://showmekcschools.org/kansas-city-school-districts/ |access-date=February 24, 2023 |website=Show Me KC Schools |language=en-US |archive-date=February 24, 2023 |archive-url=https://web.archive.org/web/20230224031442/https://showmekcschools.org/kansas-city-school-districts/ |url-status=live }}</ref>
+
+In the Jackson County portion of the city:
+* [[Kansas City Public Schools]]
+* [[Blue Springs R-IV School District|Blue Springs R-4 School District]]
+* [[Center School District]]
+* [[Fort Osage R-1 School District]]
+* [[Grandview C-4 School District]]
+* [[Hickman Mills C-1 School District]]
+* [[Independence School District]]
+* [[Lee's Summit R-VII School District|Lees Summit R-7 School District]]
+* [[Raytown C-2 School District]]
+
+In the Cass County portion:
+* [[Belton School District]]
+
+In the Clay County portion:
+* [[Liberty Public School District|Liberty School District]]
+* [[North Kansas City School District]]
+* [[Smithville School District]]
+
+In the Platte County portion:
+* [[Park Hill School District]]
+* [[Platte County R-3 School District]]
+
+===Libraries and archives===
+* [[Linda Hall Library]] − internationally recognized independent library of science, engineering and technology, housing over one million volumes
+* [[Mid-Continent Public Library]] − largest public library system in Missouri, and among the largest collections in America
+* [[Kansas City Public Library]] − oldest library system in Kansas City<ref>{{cite web|url=https://kclibrary.org/library-history|title=Library History – Kansas City Public Library|website=kclibrary.org|access-date=February 6, 2024|archive-date=February 6, 2024|archive-url=https://web.archive.org/web/20240206222050/https://kclibrary.org/library-history|url-status=live}}</ref>
+* [[University of Missouri-Kansas City|University of Missouri-Kansas City Libraries]] − four collections: Leon E. Bloch Law Library and Miller Nichols Library, both on Volker Campus; and Health Sciences Library and Dental Library, both on Hospital Hill in Kansas City
+* [[Rockhurst University]] Greenlease Library
+* The [[Black Archives of Mid-America]] − research center of the African American experience in the central Midwest
+* [[National Archives and Records Administration]] (NARA), Central Plains Region − one of 18 national records facilities, holding millions of archival records and microfilms for Iowa, Kansas, Missouri, and Nebraska in a new facility adjacent to Union Station, which was opened to the general public in 2008
+
+==Media==
+[[File:Kc-star-plant.jpg|thumb|''The Kansas City Star''{{'}}s former printing facility opened in 2006.]]
+{{Main|Media in Kansas City, Missouri}}
+
+===Print media===
+''[[The Kansas City Star]]'' is the area's primary newspaper. [[William Rockhill Nelson]] and his partner, [[Samuel Morss]], first published the evening paper on September 18, 1880. The ''Star'' competed with the morning ''Kansas City Times'' before acquiring that publication in 1901. The ''Times'' name was discontinued in March 1990, when the morning paper was renamed the ''Star''.<ref>{{Cite book |last=Haskell |first=Harry |title=Boss-busters & sin hounds : Kansas City and its Star |date=2007 |publisher=University of Missouri Press |isbn=978-0-8262-6612-5 |location=Columbia |oclc=614533916}}</ref>
+
+Weekly newspapers include ''The Call'' (which is focused toward Kansas City's African-American community), the ''[[Kansas City Business Journal]]'', ''[[The Pitch (newspaper)|The Pitch]]'', ''Ink'', and the bilingual publications ''Dos Mundos'' and ''KC Hispanic News''.
+
+Publications include ''Ingram's Magazine'' and a local [[upper class|society]] journal, the ''Independent''.
+
+The city is served by two major faith-oriented newspapers: The ''Kansas City Metro Voice'', serving the Christian community, and the ''Kansas City Jewish Chronicle'', serving the Jewish community. It is the headquarters of the ''[[National Catholic Reporter]]'', an independent Catholic newspaper.
+
+===Broadcast media===
+{{more citations needed|section|date=April 2022}}
+[[File:Kctv-tower1.jpg|thumb|upright|Landmark [[KCTV]] Tower on West 31st on Union Hill]]
+The Kansas City media market (ranked 32nd by Arbitron<ref>{{cite web|url=http://www.arbitron.com/downloads/bluebook_sp08.pdf |publisher=Arbitron, Inc.|title=2008 Market Survey Schedule: All Markets|archive-url=https://web.archive.org/web/20080819203149/http://www.arbitron.com/downloads/bluebook_sp08.pdf |archive-date=August 19, 2008 |page= 4}}</ref> and 31st by Nielsen<ref>{{cite web |url=http://tvbythenumbers.com/2007/11/06/nielsen-people-meter-markets/1649 |title=TV by the Numbers, ''Nielsen People Meter Markets'', November 6, 2007: "Rank, Designated Market Area, Homes" |publisher=Tvbythenumbers.com |access-date=May 5, 2012 |archive-url=https://web.archive.org/web/20090416204928/http://tvbythenumbers.com/2007/11/06/nielsen-people-meter-markets/1649 |archive-date=April 16, 2009 |url-status=dead }}</ref>) includes 10 television stations, 30 FM and 21 AM radio stations. Kansas City broadcasting jobs have been a stepping stone for national television and radio personalities, notably [[Walter Cronkite]] and [[Mancow Muller]].
+
+WDAF radio (now at [[WDAF-FM|106.5 FM]]; original 610 AM frequency now occupied by [[KFNZ (AM)|KFNZ]]) signed on in 1927 as an affiliate of the [[NBC Red Network]], under the ownership of ''The Star.'' In 1949, the ''Star'' signed on [[WDAF-TV]] as an affiliate of the [[NBC]] television network. The ''Star'' sold off the WDAF stations in 1957, following an [[antitrust]] investigation by the United States government (reportedly launched at Truman's behest, following a long-standing feud with the ''Star'') over the newspaper's ownership of television and radio stations. [[KCMO (AM)|KCMO]] radio (originally at 810 AM, now at 710 AM) signed on KCMO-TV (now [[KCTV]]) in 1953. The respective owners of [[WHB (AM)|WHB]] (then at 710 AM, now at 810 AM) and KMBC radio (980 AM, now [[KMBZ (AM)|KMBZ]]), Cook Paint and Varnish Company and the Midland Broadcasting Company, signed on [[KMBC-TV|WHB-TV/KMBC-TV]] as a time-share arrangement on VHF channel 9 in 1953; KMBC-TV took over channel 9 full-time in June 1954, after Cook Paint and Varnish purchased Midland Broadcasting's stations.
+
+The major broadcast television networks have affiliates in the Kansas City market (covering 32 counties in northwestern Missouri, with the exception of counties in the far northwestern part of the state that are within the adjacent [[Saint Joseph, Missouri|Saint Joseph]] market, and northeastern Kansas); including [[WDAF-TV]] 4 ([[Fox Broadcasting Company|Fox]]), [[KCTV]] 5 ([[CBS]]), [[KMBC-TV]] 9 ([[American Broadcasting Company|ABC]]), [[KCPT]] 19 ([[PBS]]), [[KCWE]] 29 ([[The CW]]), [[KSHB-TV]] 41 ([[NBC]]) and [[KSMO-TV]] 62 ([[MyNetworkTV]]). Other television stations in the market include Saint Joseph-based [[KTAJ-TV]] 16 ([[Trinity Broadcasting Network|TBN]]), Kansas City, Kansas-based TV25.tv (consisting of three locally owned stations throughout northeast Kansas, led by KCKS-LD 25, affiliated with several [[digital subchannel|digital multicast]] networks), Lawrence, Kansas-based [[KMCI-TV]] 38 ([[Independent station|independent]]), Spanish-language station [[KUKC-LD]] 20 ([[Univision]]), Spanish-language station [[KGKC-LD]] 39 ([[Telemundo]]), and [[KPXE-TV]] 50 ([[Ion Television]]). The Kansas City television stations also serve as alternates for the nearby Saint Joseph television market.
+
+===Film community===
+Kansas City has been a locale for film and television productions. Between 1931 and 1982 Kansas City was home to the [[Calvin Company]], a large film production company that specialized in promotional shorts for corporations and in educational films for schools and the government. Calvin was an important venue for Kansas City arts, training local filmmakers who went on to [[Cinema of the United States|Hollywood careers]] and also employing local actors, most of whom earned their main income in fields such as radio and television announcing. Kansas City native [[Robert Altman]] directed movies at the Calvin Company, which led him to shoot his first feature film, ''[[The Delinquents (1957 film)|The Delinquents]]'', in Kansas City using many local players.
+
+The 1983 television movie ''[[The Day After]]'' was filmed in Kansas City and Lawrence, Kansas. The 1995 film ''[[Truman (1995 film)|Truman]]'', starring [[Gary Sinise]], was filmed in the city. Other films shot in or around Kansas City include ''[[Article 99]]'', ''[[Mr. and Mrs. Bridge|Mr. & Mrs. Bridge]]'', ''[[Kansas City (film)|Kansas City]]'', ''[[Paper Moon (film)|Paper Moon]]'', ''[[In Cold Blood (film)|In Cold Blood]]'', ''[[Ninth Street]]'', and ''[[Sometimes They Come Back (film)|Sometimes They Come Back]]'' (in and around nearby [[Liberty, Missouri]]). More recently, a scene in the controversial film ''[[Brüno]]'' was filmed in downtown Kansas City's historic Hotel Phillips.
+
+Today, Kansas City is home to an active independent film community. The [[Independent Filmmaker's Coalition]] is an organization dedicated to expanding and improving independent filmmaking in Kansas City. The city launched the KC Film Office in October 2014 with the goal of better marketing the city for prospective television shows and movies to be filmed there. The City Council passed several film tax incentives in February 2016 to take effect in May 2016; the KC Film Office is coordinating its efforts with the State of Missouri to reinstate film incentives on a statewide level.<ref>{{cite web|url=http://www.kshb.com/news/local-news/tax-breaks-for-films-could-bring-cash-to-kc|title=Tax breaks for films could bring cash to Kansas City|last=Monreal|first=Jane|date=April 2, 2016|publisher=KSHB|access-date=May 9, 2016|archive-url=https://web.archive.org/web/20160417155354/http://www.kshb.com/news/local-news/tax-breaks-for-films-could-bring-cash-to-kc|archive-date=April 17, 2016|url-status=dead}}</ref> Kansas City was named as a top city to live and work in as a movie maker in 2020.<ref>{{Cite web|date=January 31, 2021|title=Best Places to Live and Work as a Moviemaker 2020|url=https://www.moviemaker.com/best-places-to-live-and-work-as-a-moviemaker-2020/3/|access-date=February 1, 2021|website=MovieMaker Magazine|archive-date=May 5, 2021|archive-url=https://web.archive.org/web/20210505052915/https://www.moviemaker.com/best-places-to-live-and-work-as-a-moviemaker-2020/3/|url-status=live}}</ref>
+
+==Transportation==
+{{Main|Kansas City metropolitan area#Transportation|Kansas City metropolitan area}}
+Originally, Kansas City was the launching point for travelers on the [[Santa Fe Trail|Santa Fe]], [[Oregon Trail|Oregon]], and [[California Trail|California]] trails. Later, with the construction of the [[Hannibal Bridge]] across the [[Missouri River]], it became the junction of 11 trunk railroads. More rail tonnage passes through the city than through any other U.S. city. [[Trans World Airlines]] (TWA) located its headquarters in the city, and had ambitious plans to turn the city into an air hub.
+
+===Highways===
+[[File:Alphamap.gif|thumb|Kansas City is a major meeting place for several of the nation's busiest highways.]]
+Missouri and Kansas were the first states to start building interstates with [[Interstate 70]]. [[Interstate 435]], which encircles the entire city, is the second longest beltway in the [[Interstate Highway System]]. ([[Interstate 275 (Ohio-Kentucky-Indiana)|Interstate 275]] around [[Cincinnati, Ohio]] is the longest.) The Kansas City metro area has more limited-access highway lane-miles per capita than any other large US metro area, over 27% more than the second-place [[Dallas–Fort Worth metroplex]], over 50% more than the average American metropolitan area. From 2013 to 2017 the average commuting time was 21.8 minutes.<ref>{{Cite web|url=https://www.census.gov/quickfacts/fact/table/kansascitycitymissouri/PST045218|title=U.S. Census Bureau QuickFacts: Kansas City city, Missouri|website=census.gov|access-date=November 3, 2019|archive-date=May 13, 2020|archive-url=https://web.archive.org/web/20200513051925/https://www.census.gov/quickfacts/fact/table/kansascitycitymissouri/PST045218|url-status=live}}</ref> The [[Sierra Club]] blames the extensive freeway network for excessive [[urban sprawl|sprawl]] and the decline of central Kansas City.<ref>{{cite web |url=http://www.sierraclub.org/sprawl/report98/kansas_city.asp |title=1998 Sprawl Report- Sprawl – Sierra Club |publisher=Sierraclub.org |access-date=May 5, 2012 |archive-url=https://web.archive.org/web/20120516193458/http://www.sierraclub.org/sprawl/report98/kansas_city.asp |archive-date=May 16, 2012 |url-status=live }}</ref> However, the relatively uncongested road network contributes significantly to Kansas City's position as one of America's largest [[logistics]] hubs.<ref>{{cite web|url=http://www.kcsmartport.com/sec_news/media/documents/ShippingCentral.pdf |title=Shipping Central |website=Kcsmartport.com |archive-url=https://web.archive.org/web/20090325133930/http://www.kcsmartport.com/sec_news/media/documents/ShippingCentral.pdf |archive-date=March 25, 2009 }}</ref>
+
+====Interstate highways====
+Kansas City has a confluence of major U.S. [[Interstate Highway System|interstate highways]]: [[Interstate 29 in Missouri|I-29]], [[Interstate 35 in Missouri|I-35]], [[Interstate 49 in Missouri|I-49]], [[Interstate 70 in Missouri|I-70]], [[Interstate 435|I-435]], [[Interstate 470 (Missouri)|I-470]], [[Interstate 635 (Kansas–Missouri)|I-635]], and [[Interstate 670 (Kansas–Missouri)|I-670]].
+
+====US highways====
+Kansas City includes these US highways: [[U.S. Route 24 in Missouri|US 24]], [[U.S. Route 40 in Missouri|US 40]], [[U.S. Route 50 in Missouri|US 50]], [[U.S. Route 56 in Kansas|US 56]], [[U.S. Route 69 in Missouri|US 69]], [[U.S. Route 71 in Missouri|US 71]], and [[U.S. Route 169 in Missouri|US 169]].
+
+====Missouri state highways====
+[[Missouri State Highway System|State routes]] are [[Missouri Route 1|Route 1]], [[Missouri Route 9|Route 9]], [[Missouri Route 12|Route 12]], [[Missouri Route 45|Route 45]], [[Missouri Route 78|Route 78]], [[Missouri Route 92|Route 92]], [[Missouri Route 150|Route 150]], [[Missouri Route 152|Route 152]], [[Missouri Route 210|Route 210]], [[Missouri Route 269|Route 269]], [[Missouri Route 283|Route 283]], [[Missouri Route 291|Route 291]], and [[Missouri Route 350|Route 350]]. [[Missouri supplemental route]]s are Route AA, Route D, Route K, Route V, and [[Bannister Road|Route W]].<ref name=rm21atlas>{{cite map | publisher= Rand McNally|title = 2021 Road Atlas|map =Missouri |year = 2020|scale = [1:253440] |page =58 |inset = Kansas City & Vicinity |isbn = 978-0-528-02243-2}}</ref>
+
+====Other routes====
+Other routes include the [[Chicago–Kansas City Expressway]] and the [[Lewis and Clark National Historic Trail]].
+
+===Airports===
+[[File:Kci.JPG|thumb|[[Kansas City International Airport]]]]
+[[Kansas City International Airport]] (airport code MCI) was built to TWA's specifications to make a world hub.<ref>{{Cite web|url=https://flykci.com/newsroom/press-kit/backgrounder/|title=Backgrounder|website=Kansas City International Airport|access-date=October 8, 2019|archive-date=May 5, 2021|archive-url=https://web.archive.org/web/20210505072244/https://flykci.com/newsroom/press-kit/backgrounder/|url-status=live}}</ref> Its original passenger-friendly design placed each of its gates {{convert|100|ft|m}} from the street. Following the [[September 11, 2001 attacks]], it required a costly overhaul to conform to tighter security protocols from the [[Transportation Security Administration]]. In March 2023, a new $1.5 billion terminal opened on the site of the old Terminal A.<ref>{{Citation|title=KCI Airport New Terminal Two Year Terminal A Demo Anniversary Time Lapse|url=https://www.youtube.com/watch?v=V7reDz0J1R8| archive-url=https://ghostarchive.org/varchive/youtube/20211211/V7reDz0J1R8| archive-date=December 11, 2021 | url-status=live|language=en|access-date=August 14, 2021}}{{cbignore}}</ref> Designed by [[Skidmore, Owings and Merrill]], it is a single, advanced technology terminal with 39 gates, eventually planned to entirely replace remaining Terminals B and C.
+
+[[Charles B. Wheeler Downtown Airport]] (airport code MKC) was TWA's original headquarters and houses the [[Airline History Museum]]. It is used for [[general aviation]] and airshows.
+
+===Public transportation===
+Like most American cities, Kansas City's mass transit system was originally rail-based. From 1870 to 1957, Kansas City's streetcar system was among the top in the country, with over {{convert|300|mi|km}} of track at its peak. The rapid sprawl in the following years led this private system to be shut down.
+
+Amtrak currently operates two routes via Kansas City, the Southwest Chief to Chicago or Los Angeles, and the Missouri River Runner to St. Louis.
+
+====KCATA RideKC====
+On December 28, 1965, the [[Kansas City Area Transportation Authority]] (KCATA) was formed via a bi-state compact created by the Missouri and Kansas legislatures. The compact gave the KCATA responsibility for planning, construction, owning, and operating passenger transportation systems and facilities within the seven-county area.
+
+====RideKC Bus and MAX====
+[[File:RideKC Bus.jpg|thumb|A newly branded RideKC Bus]]
+In July 2005, the KCATA launched Kansas City's first [[bus rapid transit]] line, the [[Metro Area Express]] (MAX). MAX links River Market, Downtown, [[Kansas City Union Station|Union Station]], Crown Center, and Country Club Plaza.<ref>{{cite web |url=http://www.kcata.org/maps_schedules/max/ |title=Maps and Schedules |publisher=KCATA |access-date=March 16, 2010 |archive-url=https://web.archive.org/web/20100420042341/http://www.kcata.org/maps_schedules/max |archive-date=April 20, 2010 |url-status=dead}}</ref> MAX operates and is marketed more like a rail system than a local bus line. A unique identity was created for MAX, including 13 modern diesel buses and easily identifiable "stations". MAX features (real-time [[global positioning system|GPS]] tracking of buses, available at every station), and stoplights automatically change in their favor if buses are behind schedule. In 2010, a second MAX line was added on Troost Avenue.<ref>{{cite web |url=http://www.kcata.org/light_rail_max/max_and_bus_rapid_transit/ |title=Light Rail and MAX |publisher=KCATA |access-date=March 16, 2010 |archive-url=https://web.archive.org/web/20100115112506/http://www.kcata.org/light_rail_max/max_and_bus_rapid_transit/ |archive-date=January 15, 2010 |url-status=live}}</ref> The city is planning another MAX line down Prospect Avenue.<ref>{{cite web|url=http://www.kcata.org/light_rail_max/prospect_ave_study|title=Prospect Ave. MAX {{!}} Light Rail and MAX|publisher=KCATA|access-date=May 9, 2016|archive-url=https://web.archive.org/web/20160602120949/http://www.kcata.org/light_rail_max/prospect_ave_study|archive-date=June 2, 2016|url-status=live}}</ref>
+
+The Prospect MAX line launched in 2019 and Mayor [[Quinton Lucas]] announced the service would be fare-free indefinitely.<ref>{{Cite web|url=https://www.masstransitmag.com/technology/fare-collection/news/21127532/mo-prospect-max-bus-service-will-be-farefree-indefinitely-for-riders|title=MO: Prospect MAX bus service will be fare-free indefinitely for riders|last=Rice|first=Glenn|date=February 28, 2020|website=Mass Transit Magazine|access-date=March 1, 2020|archive-date=May 5, 2021|archive-url=https://web.archive.org/web/20210505043353/https://www.masstransitmag.com/technology/fare-collection/news/21127532/mo-prospect-max-bus-service-will-be-farefree-indefinitely-for-riders|url-status=live}}</ref>
+
+====RideKC Streetcar====
+[[File:Streetcar 10main.jpg|thumb|KC Streetcar departs the Library stop, heading north to the River Market.]]
+On December 12, 2012, a ballot initiative to construct a {{US$|102 million|long=no}}, {{convert|2|mi|adj=on}}, modern [[KC Streetcar]] line in downtown Kansas City was approved by local voters.<ref>{{cite news|url=http://www.bizjournals.com/kansascity/news/2012/12/12/kansas-city-voters-approve-streetcar.html|title=Kansas City voters approve streetcar plan|newspaper=Kansas City Business Journal|access-date=January 26, 2013|archive-url=https://web.archive.org/web/20130730051350/http://www.bizjournals.com/kansascity/news/2012/12/12/kansas-city-voters-approve-streetcar.html|archive-date=July 30, 2013|url-status=live}}</ref> The streetcar route runs along Main Street from [[River Market]] to [[Union Station (Kansas City, Missouri)|Union Station]]; it debuted on May 6, 2016.<ref>{{cite web|url=http://www.kansascity.com/news/local/article76034492.html|title=Crowds jam streetcars in Kansas City return|website=kansascity|access-date=May 7, 2016|archive-url=https://web.archive.org/web/20160507115829/http://www.kansascity.com/news/local/article76034492.html|archive-date=May 7, 2016|url-status=live}}</ref> A new non-profit corporation made up of private sector stakeholders and city appointees – the [[Kansas City Streetcar Authority]] – operates and maintains the system. Unlike many similar systems around the U.S., no fare is to be charged initially.<ref>{{cite news |url=http://www.bizjournals.com/kansascity/news/2012/09/26/kansas-city-streetcar-rides-will-be-free.html |title=Kansas City streetcar rides will be free |newspaper=Kansas City Business Journal |access-date=January 26, 2013 |archive-url=https://web.archive.org/web/20121112043708/http://www.bizjournals.com/kansascity/news/2012/09/26/kansas-city-streetcar-rides-will-be-free.html |archive-date=November 12, 2012 |url-status=live }}</ref> Residents within the proposed Transportation Development District are determining the fate of the KC Streetcar's southern extension through Midtown and the Plaza to [[University of Missouri–Kansas City|UMKC]]. The Port Authority of Kansas City is also studying running an extension to [[Berkley Riverfront Park]].
+
+====RideKC Bridj====
+In 2015, the KCATA, Unified Government Transit, Johnson County Transit, and IndeBus began merging from individual metro services into one coordinated transit service for the metropolitan area, called RideKC. The buses and other transit options are branded as RideKC Bus, RideKC MAX, RideKC Streetcar, and RideKC Bridj. RideKC Bridj is a micro transit service partnership between Ford Bridj and KCATA that began on March 7, 2016, much like a [[taxicab]] service and with a [[mobile app]]. The merger and full coordination is expected to be complete by 2019.<ref>{{cite web|url=http://www.kcata.org/news/ride_kc_bridj_begins_service_march_7|title=Ride KC: Bridj Begins Service March 7|publisher=Kansas City Area Transportation Authority|access-date=May 9, 2016|archive-url=https://web.archive.org/web/20160510082640/http://www.kcata.org/news/ride_kc_bridj_begins_service_march_7|archive-date=May 10, 2016|url-status=live}}</ref>
+
+====Intercity transit====
+Intercity bus services to Kansas City are provided by [[Greyhound Lines]] and [[Jefferson Lines]] at the [[Kansas City Bus Station]]. [[Amtrak]] also serves the city at [[Kansas City Union Station|Union Station]] via the [[Southwest Chief]] and [[Missouri River Runner]].
+
+===Walkability===
+A 2015 study by [[Walk Score]] ranked Kansas City as the 42nd most walkable out of the 50 largest U.S. cities.<ref>{{cite web |url=https://www.walkscore.com/MO/Kansas_City |title=2015 City and Neighborhood Rankings |publisher=Walk Score |year=2015 |access-date=August 24, 2015 |archive-url=https://web.archive.org/web/20150906150703/https://www.walkscore.com/MO/Kansas_City |archive-date=September 6, 2015 |url-status=live }}</ref> As a whole, the city has a score of 34 out of 100. However, several of the more densely populated neighborhoods have much higher scores: Westport has a score of 91, the Downtown Loop has a score of 85, the Crossroads scored 85, and the Plaza scored 83.<ref>{{cite web|url=https://www.walkscore.com/MO/Kansas_City|title=Kansas City neighborhoods on Walk Score|website=Walk Score|access-date=May 9, 2016|archive-url=https://web.archive.org/web/20160416085712/https://www.walkscore.com/MO/Kansas_City|archive-date=April 16, 2016|url-status=live}}</ref> Those ratings range from "A Walker's Paradise" to "Very Walkable". In April 2017, voters approved an $800 million general obligation bond, part of which is designated for sidewalk repairs and creating complete-streets.
+
+===Modal characteristics===
+According to the American Community Survey, 81.6 percent of working Kansas City residents commuted to work by driving alone, 7.9 percent carpooled, 2.7 percent used public transportation, and 1.7 percent walked to work. About 1.5 percent commuted by other means, including taxi, bicycle, or motorcycle. About 4.6 percent of working Kansas City residents worked at home.<ref>{{cite web|publisher=Census Reporter|title=Means of Transportation to Work by Age|access-date=May 6, 2018|url=https://censusreporter.org/data/table/?table=B08101&geo_ids=16000US2938000&primary_geo_id=16000US2938000|archive-url=https://web.archive.org/web/20180507003324/https://censusreporter.org/data/table/?table=B08101&geo_ids=16000US2938000&primary_geo_id=16000US2938000|archive-date=May 7, 2018|url-status=live}}</ref>
+
+In 2015, 11.4 percent of Kansas City households were without a car, which was virtually unchanged in 2016 (11.3 percent). The national average was 8.7 percent in 2016. Kansas City averaged 1.58 cars per household in 2016, compared to a national average of 1.8 per household.<ref>{{cite journal|title=Car Ownership in U.S. Cities Data and Map|journal=Governing|url=http://www.governing.com/gov-data/car-ownership-numbers-of-vehicles-by-city-map.html|access-date=May 4, 2018|archive-url=https://web.archive.org/web/20180511162014/http://www.governing.com/gov-data/car-ownership-numbers-of-vehicles-by-city-map.html|archive-date=May 11, 2018|url-status=dead}}</ref>
+
+==Sister cities==
+Kansas City has 15 sister cities:<ref>{{cite web |url=http://www.kcsistercities.org/sister-cities |title=Kansas City Sister Cities |website=kcsistercities.org |publisher=Sister City Association of Kansas City, MO |year=2014 |access-date=November 17, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20141009123500/http://www.kcsistercities.org/sister-cities |archive-date=October 9, 2014 }}</ref>
+
+{| class="wikitable sortable"
+|-
+! City
+! Subdivision
+! Country
+! Date
+|-
+| [[Seville]]
+| {{flag|Andalusia}}
+| {{flagu|Spain}}
+| 1967
+|-
+| [[Kurashiki, Okayama|Kurashiki]]<ref name="KC sister">{{cite news | title=Learn more about Kansas City's sister cities and possible travel destinations | first=Jennifer | last=Silvey | date=July 28, 2019 | work=Fox 4 KC | url=https://fox4kc.com/news/learn-more-about-kansas-citys-sister-cities-and-possible-travel-destinations/ | access-date=January 19, 2021 | archive-date=May 5, 2021 | archive-url=https://web.archive.org/web/20210505080948/https://fox4kc.com/news/learn-more-about-kansas-citys-sister-cities-and-possible-travel-destinations/ | url-status=live }}</ref><ref>{{cite web|title=Japanese Tea Room and Garden|url=http://kcparks.org/facility/japanese-tea-room/|publisher=Kansas City Parks|access-date=October 18, 2017|archive-date=October 19, 2017|archive-url=https://web.archive.org/web/20171019005609/http://kcparks.org/facility/japanese-tea-room/|url-status=live}}</ref>
+| {{flag|Okayama Prefecture}}
+| {{flagu|Japan}}
+| 1972
+|-
+| [[Morelia]]
+| {{flag|Michoacán}}
+| {{flagu|Mexico}}
+| 1973
+|-
+| [[Freetown]]
+| [[Western Area]]
+| {{flagu|Sierra Leone}}
+| 1974
+|-
+| [[Tainan]]
+|
+| {{flagdeco|ROC}} Taiwan
+| 1978
+|-
+| [[Xi'an]]
+| [[Shaanxi]]
+| {{flagu|People's Republic of China}}
+| 1989
+|-
+| [[Guadalajara]]<ref name="Guadalajara sisters">{{cite web | url =http://www.guadalajara.gob.mx/dependencias/relacionespublicas/versioningles/sistercities.html | archive-url =https://web.archive.org/web/20120302011742/http://www.guadalajara.gob.mx/dependencias/relacionespublicas/versioningles/sistercities.html|archive-date = March 2, 2012 | title = Sister Cities, Public Relations | publisher = Guadalajara municipal government|access-date = March 12, 2013}}</ref>
+| {{flag|Jalisco}}
+| {{flagu|Mexico}}
+| 1991
+|-
+| [[Hannover]]
+| {{flag|Lower Saxony}}
+| {{flagu|Germany}}
+| 1993
+|-
+| [[Port Harcourt]]
+| [[Rivers State]]
+| {{flagu|Nigeria}}
+| 1993
+|-
+| [[Arusha]]
+| [[Arusha Region]]
+| {{flagu|Tanzania}}
+| 1995
+|-
+| [[San Nicolás de los Garza]]
+| {{flag|Nuevo León}}
+| {{flagu|Mexico}}
+| 1997
+|-
+| [[Ramla]]
+|
+| {{flagu|Israel}}
+| 1998
+|-
+| [[Metz]]
+| {{flag|Moselle}}
+| {{flagu|France}}
+| 2004
+|-
+| [[Yan'an]]
+| [[Shaanxi]]
+| {{flagu|People's Republic of China}}
+| 2017
+|-
+| [[Kabul]]
+| [[Kabul Province]]<ref>{{Cite web|url=https://www.afghanembassy.us/news/deputy-mayor-of-kabul-signs-sister-cities-friendship-agreement-with-kansas-city-missouri/|title=Deputy Mayor of Kabul Signs Sister Cities Friendship Agreement with Kansas City, Missouri ::: Embassy of Afghanistan|access-date=April 19, 2020|archive-date=August 2, 2020|archive-url=https://web.archive.org/web/20200802193519/https://www.afghanembassy.us/news/deputy-mayor-of-kabul-signs-sister-cities-friendship-agreement-with-kansas-city-missouri/|url-status=dead}}</ref>
+| {{flagu|Afghanistan}}
+| 2018
+|}
+
+==Notable people==
+{{main|List of people from Kansas City, Missouri}}
+Current or former long-time residents include cartoonists [[Walt Disney]],<ref>{{cite web|url=https://www.kcur.org/community/2014-05-09/what-its-like-to-live-in-walt-disneys-childhood-home-in-kansas-city|title=What it's like to live in Walt Disney's childhood home in Kansas City|date=May 9, 2014|website=kcur.org|access-date=August 5, 2023|archive-date=August 5, 2023|archive-url=https://web.archive.org/web/20230805233848/https://www.kcur.org/community/2014-05-09/what-its-like-to-live-in-walt-disneys-childhood-home-in-kansas-city|url-status=live}}</ref> [[Friz Freleng]], and [[Ub Iwerks]]; musicians [[Count Basie]] and [[Tech N9ne]]; actors [[Don Cheadle]] and [[Chris Cooper]]; politicians [[Emanuel Cleaver]] and [[Tom Pendergast]]; and reporter [[Walter Cronkite]].
+
+==See also==
+{{Portal|Geography|North America|United States|Cities}}
+*[[2024 Kansas City parade shooting]]
+*[[Kansas City Police Officers Association]]
+*[[List of people from Kansas City, Missouri]]
+*[[Sites of interest of Kansas City]]
+*[[USS Kansas City|USS ''Kansas City'']], 3 ships
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Sister project links|Kansas City, Missouri|voy=Kansas City}}
+*{{official website}}
+*[http://www.visitkc.com/ Official Travel and Tourism Site] {{Webarchive|url=https://web.archive.org/web/20141117015051/https://www.visitkc.com/ |date=November 17, 2014 }}
+*[http://www.kcchamber.com/ Kansas City Chamber of Commerce] {{Webarchive|url=https://web.archive.org/web/20120126045401/http://www.kcchamber.com/ |date=January 26, 2012 }}
+* Historic maps of Kansas City in the [http://dl.mospace.umsystem.edu/mu/islandora/object/mu%3A138839 Sanborn Maps of Missouri Collection] {{Webarchive|url=https://web.archive.org/web/20210513101924/https://dl.mospace.umsystem.edu//mu/islandora/object/mu:138839 |date=May 13, 2021 }} at the [[University of Missouri]]
+* [https://artsandculture.google.com/partner/the-black-archives-of-mid-america The Black Archives of Mid-America on Google Cultural Institute] 
+
+{{Navboxes
+|title = Articles relating to Kansas City, Missouri
+|list =
+{{Kansas City, Missouri}}
+{{Kansas City MSA}}
+{{Cass County, Missouri}}
+{{Clay County, Missouri}}
+{{Jackson County, Missouri}}
+{{Platte County, Missouri}}
+{{Missouri}}
+{{Midwestern United States}}
+{{All-American City Award Hall of Fame}}
+{{USPopulousCities}}
+}}
+{{Authority control}}
+
+[[Category:Kansas City, Missouri| ]]
+[[Category:1850 establishments in Missouri]]
+[[Category:Cities in Cass County, Missouri]]
+[[Category:Cities in Clay County, Missouri]]
+[[Category:Cities in Jackson County, Missouri]]
+[[Category:Cities in Kansas City metropolitan area]]
+[[Category:Cities in Missouri]]
+[[Category:Cities in Platte County, Missouri]]
+[[Category:Missouri populated places on the Missouri River]]
+[[Category:Populated places established in 1850]]

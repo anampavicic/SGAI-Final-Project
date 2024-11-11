@@ -1,0 +1,499 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->| name                            = Lianyungang
+| official_name                   = 
+| native_name                     = 连云港市
+| native_name_lang                = zh-Hans
+| other_name                      = Lienyunkang
+| settlement_type                 = [[Prefecture-level city]]
+| image_skyline                   = File:连云港金海国际周边.jpg
+| imagesize                       = 
+| image_caption                   = skylines of Lianyungang
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| image_blank_emblem              = 
+| blank_emblem_type               = 
+| blank_emblem_size               = 
+| nickname                        = 
+| motto                           = <!-- images and maps  ----------->
+| image_map                       = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=7}}
+| mapsize1                        = 
+| pushpin_map                     = China Jiangsu#Eastern China#China
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_mapsize                 = <!-- Location ------------------>
+| pushpin_map_caption             = Location of the city center in Jiangsu
+| coor_pinpoint                   = Lianyungang municipal government
+| coordinates                     = {{coord|34.5966|N|119.2214|E|type:adm2nd_region:CN-32_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->| subdivision_type                = Country
+| subdivision_name                = People's Republic of China
+| subdivision_type1               = [[Provinces of the People's Republic of China|Province]]
+| subdivision_type2               = 
+| subdivision_name1               = [[Jiangsu]]
+| subdivision_name2               = 
+| established_title               = <!-- Settled -->
+| established_date                = 
+| established_title1              = <!-- Incorporated (town) -->
+| established_date1               = 
+| established_title2              = <!-- Incorporated (city) -->
+| established_date2               = 
+| established_title3              = 
+| established_date3               = 
+| founder                         = 
+| named_for                       = <!-- Area    --------------------->
+| seat_type                       = Municipal seat
+| seat                            = [[Haizhou District, Lianyungang|Haizhou District]]
+| parts_type                      = 
+| parts_style                     = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+| parts                           = <!-- parts text, or header for parts list -->
+| p1                              = 
+| government_footnotes            = 
+| government_type                 = [[Prefecture-level city]]
+| leader_title                    = [[Communist Party of China|CPC]] secretary
+| leader_name                     = Yang Xingshi ({{lang|zh-hans|杨省世}})
+| leader_title1                   = Mayor
+| leader_name1                    = Xiang Xuelong ({{lang|zh-hans|项雪龙}})
+| total_type                      = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref                       = <!--Enter: Imperial, to display imperial before metric-->
+| area_footnotes                  = 
+| area_magnitude                  = <!-- use only to set a special wikilink -->
+| area_total_km2                  = 7154 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+| area_land_km2                   = 7,444 <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+| area_water_km2                  = 
+| area_water_percent              = 
+| area_urban_km2                  = 2252
+| area_metro_km2                  = 738
+| area_blank1_title               = 
+| area_blank1_km2                 = <!-- Elevation -------------------------->
+| elevation_footnotes             = <!--for references: use <ref> </ref> tags-->
+| elevation_m                     = 
+| elevation_ft                    = 
+| elevation_min_m                 = 
+| elevation_min_ft                = <!-- Population   ----------------------->
+| population_total                = 4599360 
+| population_as_of                = 2020 census
+| population_footnotes            = <ref>{{Cite web|url=https://www.citypopulation.de/en/china/jiangsu/admin/|title = China: Jiāngsū (Prefectures, Cities, Districts and Counties) - Population Statistics, Charts and Map}}</ref>
+| population_density_km2          = auto
+| population_urban                = 2214611
+| population_density_urban_km2    = auto
+| population_metro                = 1210767
+| population_density_metro_km2    = auto
+| population_blank1_title         = 
+| population_blank1               = 
+| population_density_blank1_km2   = 
+| demographics_type2   = GDP<ref>{{Cite web |url=http://dy.163.com/v2/article/detail/E6MPUTF9053718WA.html |title=存档副本 |access-date=2019-10-07 |archive-date=2019-10-07 |archive-url=https://web.archive.org/web/20191007050113/http://dy.163.com/v2/article/detail/E6MPUTF9053718WA.html |url-status=live}}</ref>
+| demographics2_title1 = [[Prefecture-level city]] 
+| demographics2_info1 = [[Renminbi|CN¥]] 277&nbsp;billion<br />[[US$]] 42&nbsp;billion
+| demographics2_title2 = Per capita
+| demographics2_info2 = CN¥ 61,332<br />US$ 9,286
+<!-- General information  --------------->
+| population_note                 = 
+| postal_code_type                = [[Postal code of China|Postal code]] <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code                     = 222000<br /><small>(Urban center)</small><br />222100-222300, 222500<br /><small>(Other areas)</small>
+| area_code                       = 518
+| iso_code                        = [[ISO 3166-2:CN|CN-JS-07]]
+| website                         = {{URL|www.lyg.gov.cn/}}
+| footnotes                       = 
+| image_dot_map                   = 
+| dot_mapsize                     = 
+| dot_map_caption                 = 
+| dot_x                           = 
+| dot_y                           = 
+| p2                              = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->| leader_title2                   = 
+| leader_name2                    = 
+| leader_title3                   = 
+| leader_name3                    = 
+| leader_title4                   = 
+| leader_name4                    = 
+| elevation_max_m                 = 
+| elevation_max_ft                = 
+| timezone                        = [[China Standard Time|China Standard]]
+| utc_offset                      = +8
+| blank2_name                     = Major [[Nationalities of China|Nationalities]]
+| blank2_info                     = [[Han Chinese|Han]]
+| blank3_name                     = [[Administrative divisions of the People's Republic of China#County level|County-level divisions]]
+| blank3_info                     = 7
+| blank4_name                     = '''[[Administrative divisions of the People's Republic of China#Township level|Township-level divisions]]'''
+| blank4_info                     = 
+| blank5_name                     = [[Licence plates of the People's Republic of China|License Plate]]
+| blank5_info                     = {{lang|zh-cn|苏G}}
+| blank6_name                     = City Tree
+| blank6_info                     = '''[[Ginkgo]]'''
+| blank7_name                     = City Flower
+| blank7_info                     = '''[[Magnolia]]'''
+| blank8_name                     = 
+| blank8_info                     = 
+| image_map1                      = Lianyungang locator map in Jiangsu.svg
+| map_caption1                    = Lianyungang is highlighted on this map of Jiangsu
+}}
+{{Infobox Chinese
+|t=連雲港 |s=连云港
+|p=Liányúngǎng
+|w=Lien2 Yun2 Kang3
+|j=lin<sup>4</sup>wan<sup>4</sup>gong<sup>2</sup>
+|wuu=lie<sup>平</sup>yiuin<sup>平</sup>kaon<sup>上</sup>
+|poj=Liânhûnkáng
+|l=Port connected to the clouds
+|showflag=p
+|order=st
+}}
+{{Infobox Chinese
+|title=Other names
+|c={{linktext|lang=zh|海州}}
+|p=Hǎizhoū
+|w=Hai3 Chou1
+|j=
+|wuu=
+|poj=
+|l=City of the Sea
+|showflag=
+|order=
+}}
+
+'''Lianyungang''' ({{Zh|s={{linktext|连云港}}|t={{linktext|連雲港}}|p=Liányúngǎng}}) is a [[prefecture-level city]] in northeastern [[Jiangsu]] [[province of China|province]], China. It borders [[Yancheng]] to its southeast, [[Huai'an]] and [[Suqian]] to its south, [[Xuzhou]] to its southwest, and the province of [[Shandong]] to its north. Its name derives from [[Lian Island]], the largest island in Jiangsu which lies off its coastline, and [[Yuntai Mountain (Jiangsu)|Yuntai Mountain]], the highest peak in Jiangsu, a few miles from the city center, and the fact that it is a port. The name can be literally translated as the Port Connecting the Clouds.
+
+Lianyungang was home to 4.65 million inhabitants as of the 2020 census whom 1,210,767 lived in the built-up (''or metro'') area made of Haizhou and Lianyun counties. Lianyungang was known in the West as '''Haichow''' (Postal romanization), which means the City of Sea. Haichow was opened to foreign trade by the Qing imperial government in 1905.{{citation needed|date=November 2012}}
+
+==Geography==
+Lianyungang is between 118°24' and 119°48' east longitude and 34°11' and 35°07' north latitude. Lianyungang covers an area of {{convert|7777|km2|abbr=on}}.
+
+==Administration==
+{{See also|List of administrative divisions of Jiangsu}}
+
+The [[prefecture-level city]] of Lianyungang administers six [[Administrative divisions of the People's Republic of China#County level|county-level divisions]], including three [[District of China|districts]] and three [[County (People's Republic of China)|counties]].
+
+{|class="wikitable"
+! colspan="6" | Map
+|-
+| colspan="6" | <div style="position: relative" class="center">
+{{Image label begin|image=Administrative Division Lianyungang.png|width={{{1|552}}}|link=}} 
+{{Image label|x=1040|y=670|scale={{{1|552}}}/1840|text=[[Lianyun District|'''Lianyun''']]}}
+{{Image label|x=900|y=870|scale={{{1|552}}}/1840|text=[[Haizhou District, Lianyungang|'''Haizhou''']]}}
+{{Image label|x=690|y=420|scale={{{1|552}}}/1840|text=[[Ganyu District|'''Ganyu''']]}}
+{{Image label|x=370|y=900|scale={{{1|552}}}/1840|text=[[Donghai County|'''Donghai<br />County''']]}}
+{{Image label|x=1140|y=1140|scale={{{1|552}}}/1840|text=[[Guanyun County|'''Guanyun<br />County''']]}}
+{{Image label|x=1100|y=1500|scale={{{1|552}}}/1840|text=[[Guannan County|'''Guannan<br />County''']]}}
+{{Image label|x=1200|y=110|scale={{{1|552}}}/1840|text=<span style="color: black; font-size: smaller;">'''Disputed islands with [[Rizhao]] in [[Shandong]].'''</span>}}
+{{Image label end}}
+</div>
+|-
+! align=left          | Subdivision
+! align=left          | Simplified Chinese
+! align=left          | Hanyu Pinyin
+! align=left          | Population {{small|([[Seventh National Population Census of the People's Republic of China|2020]])}}
+! align=left          | Area {{small|(km<sup>2</sup>)}}
+! align=left          | Density {{small|(/km<sup>2</sup>)}}
+|-
+|- style="background:#d3d3d3;"
+| colspan="6"  style="text-align:center; "| '''City Proper'''
+|-
+| align=left | [[Lianyun District]]
+| align=left | {{lang|zh-Hans|连云区}}
+| align=right | Liányún Qū
+| align=right| 292,762
+| align=right| 805.9
+| align=right| 363.3
+|-
+| align=left | [[Haizhou District, Lianyungang|Haizhou District]]
+| align=left | {{lang|zh-Hans|海州区}}
+| align=right | Hǎizhōu Qū
+| align=right| 918,005
+| align=right| 690.6
+| align=right| 1,329
+|-
+|- style="background:#d3d3d3;"
+| colspan="6"  style="text-align:center; "| '''Suburban'''
+|-
+| align=left | [[Ganyu District]]
+| align=left | {{lang|zh-Hans|赣榆区}}
+| align=right | Gànyú Qū
+| align=right| 1,003,844
+| align=right| 1,454
+| align=right| 690.4
+|-
+|-
+| align=left | [[Donghai County]]
+| align=left | {{lang|zh-Hans|东海县}}
+| align=right | Dōnghǎi Xiàn
+| align=right| 1,047,357
+| align=right| 2,031
+| align=right| 515.7
+|-
+|- style="background:#d3d3d3;"
+| colspan="6"  style="text-align:center; "| '''Rural'''
+|-
+| align=left | [[Guanyun County]]
+| align=left | {{lang|zh-Hans|灌云县}}
+| align=right| Guànyún Xiàn
+| align=right| 725,047
+| align=right| 1,551
+| align=right| 467.5
+|-
+| align=left | [[Guannan County]]
+| align=left | {{lang|zh-Hans|灌南县}}
+| align=right | Guànnán Xiàn
+| align=right| 612,345
+| align=right| 1,028
+| align=right| 595.7
+|-
+|- style="background:#d3d3d3;"
+| colspan=3 style="text-align:center; "|'''Total'''
+| align=right|'''4.65 million'''
+| align=right|'''7,560'''
+| align=right|'''608.4'''
+|-
+| colspan=6 style="text-align:center; "| Dissolved district: [[Xinpu District]]
+|}
+
+==Economy==
+[[File:Urban-Rural Population and Land Area Estimates, v2, 2010 Shanghai, China (13874137394).jpg|thumb|Population density and low elevation coastal zones in the Shanghai area. Lianyungang is particularly vulnerable to [[sea level rise]].]]
+Lianyungang is one of the first 14 Chinese coastal cities opening to the outside world and a rising center of industry, foreign trade, and tourism in east China. It is the eastern terminus of the [[New Eurasian Land Bridge]] and the proposed [[Northern East West Freight Corridor]]. The New Eurasia Continental Landbridge continue by land, connecting Lianyungang with over 40 countries and regions in [[Europe]], [[South Asia]] and the [[Middle East]] by railway networks.
+
+The Lianyun-Port, in the center of the coast, links eastern sea routes with western land routes. [[Japan]] and [[South Korea]] in the east can be reached economically and conveniently from Lianyungang. Near the port, the [[Tianwan Nuclear Power Plant]] is one of the biggest nuclear power plants in China, with two operational units and six more planned. Lianyungang is also rich in mineral resources. [[Donghai County]] has 70% of the national reserve of natural crystal, and is manufacturing 80% of China’s crystal products.<ref>{{Cite web|url=http://www.jiangsu.net/city/city.php?name=donghai|title=Donghai, Jiangsu, China|website=www.jiangsu.net|access-date=2017-09-04}}</ref>
+
+The [[Government of the People's Republic of China|Chinese government]] has stated its intention to build an economic belt along the New Eurasia Continental Landbridge in "the [[Ninth Five-Year Plan (People's Republic of China)|Ninth Five-Year Plan]] of the National Economy and Social Development and the Long-range Goal for the Year 2010." On "China's 21st Century Agenda", Lianyungang is to be developed into an international seaport linking countries on the Pacific rim with those in Central Asia. In the "National Ocean Development Plan" it is listed as one of three special development zones.
+
+Lianyungang Economic & Technological Development Zone was approved by the State Council as one of the first batch of state-level development zones in December 1984. It is in the eastern new seashore urban area of Liangyungang City. The distance to the nearest airport, Liangyungang Airport is {{convert|10|–|20|km|mi|abbr=on}} and the distance to the nearest highway G310 is {{convert|10|–|20|km|mi|abbr=on}}. Lianyungang port is {{convert|20|–|50|km|mi|abbr=on}}.<ref>[http://rightsite.asia/en/industrial-zone/lianyungang-economic-technological-development-zone/ Rightsite.asia | Lianyungang Economic & Technological Development Zone]</ref>
+
+On July 18, 2019, began a construction on a large petrochemical storage dock in the Xuwei area of the port of Lianyungang.<ref>{{Cite web|url=http://portuguese.xinhuanet.com/2019-07/18/c_138236759.htm|title=Construção começa no cais de armazenamento petroquímico fortemente investido_portuguese.xinhuanet.com|website=portuguese.xinhuanet.com|access-date=2019-12-16}}</ref>
+
+== Climate ==
+
+The temperature in Lianyungang can reach average highs of 30&nbsp;°C in the summer and drop to as low as −4&nbsp;°C in the winter. Lianyungang’s climate is classified by [[Köppen Climate Classification|Köppen]] and Geiger as [[Humid subtropical climate|Cwa]] (humid subtropical climate with dry winters).<ref>{{Cite web|url=https://en.climate-data.org/asia/china/jiangsu/lianyungang-2443/|title=Lianyungang climate: Average Temperature, weather by month, Lianyungang weather averages - Climate-Data.org|website=en.climate-data.org|access-date=2019-12-16}}</ref>
+
+The vast majority of precipitation occurs between June and August, where it can measure up to 278mm of rainfall on average. Winter precipitation is quite low, making snowfall rare and short-lived.<ref>{{cite web|url=http://www.worldweatheronline.com/v2/weather-averages.aspx?q=LYG|title=Nancheng Weather Forecast|website=WorldWeatherOnline.com}}</ref> Extremes since 1961 have ranged from a record high of {{convert|40.2|°C|0}} on July 15 2002 to a record low of {{convert|-18.1|°C|0}} on 5 February 1969.<ref>{{Cite web |date=September 2023 |title=连云港国家高新技术产业开发区气候可行性论证区域评估报告（简本） |url=http://js.cma.gov.cn/dsjwz/lygs/njszfxxgk/sjfdzdgknr/sjtzgg/202405/P020240514317032559120.pdf |access-date=24 October 2024 |website=Jiangsu Meteorological Bureau (in Chinese)}}</ref>
+
+{{Weather box
+| width = auto
+| location = Lianyungang (1991–2020 normals, extremes 1961–present)
+| metric first = y
+| single line = y
+| collapsed = Y
+| Jan high C = 5.6
+| Feb high C = 8.4
+| Mar high C = 13.8
+| Apr high C = 20.2
+| May high C = 25.5
+| Jun high C = 29.2
+| Jul high C = 31.0
+| Aug high C = 30.3
+| Sep high C = 26.9
+| Oct high C = 21.8
+| Nov high C = 14.7
+| Dec high C = 7.9
+| Jan mean C = 1.0
+| Feb mean C = 3.4
+| Mar mean C = 8.3
+| Apr mean C = 14.5
+| May mean C = 20.0
+| Jun mean C = 24.1
+| Jul mean C = 27.1
+| Aug mean C = 26.6
+| Sep mean C = 22.6
+| Oct mean C = 16.7
+| Nov mean C = 9.8
+| Dec mean C = 3.2
+| Jan low C = -2.6
+| Feb low C = -0.6
+| Mar low C = 3.7
+| Apr low C = 9.6
+| May low C = 15.3
+| Jun low C = 20.0
+| Jul low C = 24.0
+| Aug low C = 23.7
+| Sep low C = 19.0
+| Oct low C = 12.6
+| Nov low C = 5.8
+| Dec low C = -0.5
+| Jan record high C = 17.5
+| Jan record low C = -12.3
+| Feb record high C = 24.8
+| Feb record low C = -18.1
+| Mar record high C = 28.0
+| Mar record low C = -9.1
+| Apr record high C = 33.1
+| Apr record low C = -1.4
+| May record high C = 37.1
+| May record low C = 5.5
+| Jun record high C = 37.9
+| Jun record low C = 12.6
+| Jul record high C = 40.2
+| Jul record low C = 18.0
+| Aug record high C = 37.8
+| Aug record low C = 15.6
+| Sep record high C = 35.8
+| Sep record low C = 9.7
+| Oct record high C = 32.4
+| Oct record low C = -0.1
+| Nov record high C = 27.7
+| Nov record low C = -7.1
+| Dec record high C = 21.4
+| Dec record low C = -12.1
+| year high C = 
+| year low C = 
+| year high F = 
+| year low F = 
+| precipitation colour = green
+| Jan precipitation mm = 17.5
+| Feb precipitation mm = 22.3
+| Mar precipitation mm = 33.0
+| Apr precipitation mm = 42.5
+| May precipitation mm = 63.9
+| Jun precipitation mm = 106.6
+| Jul precipitation mm = 252.5
+| Aug precipitation mm = 198.5
+| Sep precipitation mm = 79.7
+| Oct precipitation mm = 33.4
+| Nov precipitation mm = 36.0
+| Dec precipitation mm = 18.7
+| Jan humidity = 66
+| Feb humidity = 66
+| Mar humidity = 64
+| Apr humidity = 65
+| May humidity = 69
+| Jun humidity = 74
+| Jul humidity = 82
+| Aug humidity = 83
+| Sep humidity = 76
+| Oct humidity = 70
+| Nov humidity = 69
+| Dec humidity = 66
+| unit precipitation days = 0.1 mm
+| Jan precipitation days = 4.6
+| Feb precipitation days = 5.5
+| Mar precipitation days = 6.0
+| Apr precipitation days = 6.4
+| May precipitation days = 8.1
+| Jun precipitation days = 7.3
+| Jul precipitation days = 13.6
+| Aug precipitation days = 12.1
+| Sep precipitation days = 7.6
+| Oct precipitation days = 5.6
+| Nov precipitation days = 5.7
+| Dec precipitation days = 4.4
+| year precipitation days = 
+| Jan sun = 156.8
+| Feb sun = 156.8
+| Mar sun = 200.2
+| Apr sun = 220.7
+| May sun = 232.1
+| Jun sun = 193.8
+| Jul sun = 182.7
+| Aug sun = 192.2
+| Sep sun = 190.7
+| Oct sun = 189.2
+| Nov sun = 159.4
+| Dec sun = 160.0
+| year sun = 
+| Jan percentsun = 50
+| Feb percentsun = 50
+| Mar percentsun = 54
+| Apr percentsun = 56
+| May percentsun = 54
+| Jun percentsun = 45
+| Jul percentsun = 42
+| Aug percentsun = 47
+| Sep percentsun = 52
+| Oct percentsun = 55
+| Nov percentsun = 52
+| Dec percentsun = 52
+| year percentsun = 
+| Jan snow days = 2.7
+| Feb snow days = 3.0
+| Mar snow days = 1.2
+| Apr snow days = 0.1
+| May snow days = 0
+| Jun snow days = 0
+| Jul snow days = 0
+| Aug snow days = 0
+| Sep snow days = 0
+| Oct snow days = 0
+| Nov snow days = 0.5
+| Dec snow days = 1.3
+| year snow days = 
+| source 1 = [[China Meteorological Administration]]<ref name="cma graphical">{{cite web |url=http://data.cma.cn/data/weatherBk.html |script-title=zh:中国气象数据网 – WeatherBk Data |publisher=[[China Meteorological Administration]] |language = zh-hans |access-date=25 June 2023}}</ref><ref>
+{{cite web|url=https://experience.arcgis.com/template/e724038fda394e9d9b7921f10fd1aa55/page/%E7%BA%AF%E8%A1%A8%E6%A0%BC%E7%BB%9F%E8%AE%A1-(%E5%AF%B9%E6%AF%948110%E5%8F%98%E5%8C%96)/?org=UQmaps |script-title=zh:中国气象数据网|publisher=[[China Meteorological Administration]] |language = zh-hans | access-date =25 June 2023 |title=Experience Template }}</ref>
+| source = 
+}}
+
+==Tourism==
+
+=== Lian Island Resort ===
+[[File:连云港连岛海滨浴场 1.jpg|thumb|The sea beach of Lian Island Resort]]
+One of the most popular tourist attractions in Lianyungang and the only [[Tourist Attraction Rating Categories of China|AAAA-Class]] beachfront in Jiangsu Province, [[Lian Island]] ({{zh|s=连岛|p=lián dǎo}}) is a beautiful island connected to Lianyun District by a {{convert|6.7|km|abbr=on}} sea dyke, the longest in China. There are two main beach and swimming areas, several places to eat, as well as hotels. Lian Island is home to an annual music extravaganza featuring some of China's most famous pop stars.
+
+=== Huaguo Mountain ===
+{{main|Mount Huaguo (Jiangsu)}}
+Lianyungang is famous for its "Huaguo Shan, Shuilian Dong" ({{lang|zh-hant|花果山水簾洞}}) attraction. Shuiliandong literally means the "Water Curtain Hole," since, according to legend, the hole was hidden behind a waterfall, therefore resembling a "curtain of water."
+
+The hole is famous because according to legend it is the home of [[Sun Wukong]], commonly known as the Monkey King from the epic novel ''[[Journey to the West]]''. In this hole, underneath the mountain is where he and his monkey subjects lived. After learning [[Tao]], the Monkey King travelled back to the hole so that he and his subjects could eat and play for eternity. Eventually, the [[Jade Emperor]] sent heavenly armies to battle him at this spot because of his misdeeds. While the Monkey King story is a work of fiction, [[Xuanzang]], the monk whom he accompanies on the journey of the novel, was based on a historical person.
+
+==Transport==
+[[File:A25 at Xugou Shopping Center (20191005075746).jpg|thumb|Lianyungang BRT]]
+Lianyungang has convenient transport including highway, railways, port and airport. It is one of the 42 major transportation hub cities in China.
+
+=== Airport===
+[[Lianyungang Huaguoshan Airport]], {{convert|20|km|abbr=on}} south of downtown Lianyungang, provides scheduled passenger service to dozens of airports in China. [[Lianyungang Baitabu Airport]] (IATA: LYG, ICAO: ZSLG) was a dual-use military and public airport serving the city of Lianyungang. All flights were transferred to [[Lianyungang Huaguoshan Airport]] on 2 December 2021. <ref>{{cite news |url=http://news.carnoc.com/list/454/454209.html |script-title=zh:连云港新机场拟名花果山国际机场 预计2020亮相 |work=Carnoc |language=zh |date=2018-07-15}}</ref>
+
+=== Railway===
+[[File:Lianyungang East Railway station.JPG|alt=|thumb|[[Lianyun railway station|Lianyungangdong railway station]] is the start of the New Eurasian Land Bridge]]
+[[File:Lianyungang Railway Station 20190502.jpg|thumb|[[Lianyungang railway station]] in Haizhou]]
+Lianyungang is the eastern end of the [[Longhai Railway]] (formerly the Lunghai Railway), connecting it with [[Lanzhou]] in central China. As a major arterial east–west railway in China, it runs from Lianyungang to [[Lanzhou]], [[Gansu]] through the provinces of Jiangsu, [[Anhui]], [[Henan]], [[Shaanxi]], and Gansu, covering a total length of 1,759&nbsp;km.
+
+Lianyungang-Xuzhou High speed Railway, connecting Lianyungang and the important provincial transportation hub of [[Xuzhou]], is under construction. The length of this railway is {{convert|180|km|abbr=on}} and the speed standard is {{convert|350|km/h|abbr=on}}.
+
+Qingdao-Yancheng High speed Railway, part of China's Coastal High-speed Railway, goes through Lianyungang. The length of this railway is 429&nbsp;km and the speed standard is 200&nbsp;km/h.
+
+Lianyungang-Nanjing/Zhenjiang High speed Railway connects Lianyungang and the provincial capital, [[Nanjing]]. The length of this railway is {{convert|300|km|abbr=on}} and the speed standard is {{convert|250|km/h|abbr=on}}.
+
+=== Expressway===
+Lianyungang is the intersection of [[G15 Shenyang–Haikou Expressway]], [[G25 Changchun–Shenzhen Expressway]] and [[G30 Lianyungang–Khorgas Expressway]].
+
+=== Port===
+Lianyungang port is among the 10 largest ports in China and the 30 largest port in the world. The cargo throughput of Lianyungang port is 210 million ton/year (2015). The container throughput is 5 million TEU/year (2015).<ref>{{Cite web |title=[江苏]连云港港口2015年完成货物吞吐量2.1亿吨 |url=http://www.moc.gov.cn/difangxinwen/xxlb_fabu/fbpd_jiangsu/201601/t20160107_1973189.html |url-status=dead |archive-url=https://web.archive.org/web/20161220051811/http://www.moc.gov.cn/difangxinwen/xxlb_fabu/fbpd_jiangsu/201601/t20160107_1973189.html |archive-date=2016-12-20 |access-date=2023-12-07 |website=Ministry of Transport of the People's Republic of China |language=Chinese}}</ref> The port is part of the Maritime [[Silk Road]] that runs from the Chinese coast to the south via [[Singapore]] towards the southern tip of [[India]], to [[Mombasa]], then through the [[Suez Canal]] to the Mediterranean with its connections to [[Central Europe|Central]] and [[Eastern Europe]].<ref>{{Cite web|url=https://lloydslist.maritimeintelligence.informa.com/LL1123726/32-Lianyungang-China|title=32 Lianyungang (China) :: Lloyd's List}}</ref><ref>[https://mepc.org/speeches/maritime-dimension-one-belt-one-road-strategic-perspective The Maritime Dimension of “One Belt, One Road” in Strategic Perspective]</ref>
+
+==Notable people==
+<!---♦♦♦ Only add a person to this list if they already have their own article on the English Wikipedia ♦♦♦---> 
+<!---♦♦♦ Please keep the list in alphabetical order by SURNAME ♦♦♦--->
+*[[Chen Qinggang]] (born 1966), journalist and newspaper bureau chief
+*[[Zhong Huijuan]] (born 1961), pharmaceutical entrepreneur
+*[[He Bingjiao]] (born 1997), Chinese badminton player
+
+==Sister Cities==
+*{{flagicon|KGZ}} [[Bishkek]], Kyrgyzstan
+*{{flagicon|AUS}} [[City of Greater Geelong|Greater Geelong]], Australia
+*{{flagicon|KOR}} [[Mokpo]], South Korea
+*{{flagicon|NZL}} [[Napier, New Zealand|Napier]], New Zealand
+*{{flagicon|ESP}} [[Sabadell]], Spain
+*{{flagicon|JPN}} [[Saga (city)|Saga]], Japan
+*{{flagicon|JPN}} [[Sakai]], Japan
+*{{flagicon|RUS}} [[Volzhsky, Volgograd Oblast|Volzhsky]], Russia
+
+==See also==
+[[File:Drum Tower of Haizhou (Front).jpg|thumb|Drum Tower of Haizhou, the old town of Lianyungang]]
+* [[List of twin towns and sister cities in China]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+*[http://www.lyg.gov.cn Government website of Lianyungang] {{in lang|zh|en|ja|ko}} 
+*[http://lianyungang.jiangsu.net Lianyungang comprehensive guide with open directory] (Jiangsu.net)
+*[https://web.archive.org/web/20080830052829/http://www.chinaculture.org/gb/en_aboutchina/2003-09/24/content_22634.htm Tang Seng]
+
+{{Jiangsu topics}}
+{{Jiangsu}}
+{{Prefectural-level divisions of the People's Republic of China}}
+{{Metropolitan cities of the People's Republic of China}}
+{{SEZ}}
+{{Ports of China}}
+
+{{Authority control}}
+
+[[Category:Lianyungang| ]]
+[[Category:Cities in Jiangsu]]
+[[Category:Prefecture-level divisions of Jiangsu]]
+[[Category:Port cities and towns in China]]

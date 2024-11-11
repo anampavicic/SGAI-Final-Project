@@ -1,0 +1,546 @@
+{{Short description|Component city in Agusan del Sur, Philippines}}
+{{Use mdy dates|date=July 2022}}
+{{more citations needed|date=April 2014}}
+{{Infobox settlement
+| name                   = {{PH wikidata|name}}
+| image_skyline          = {{Photomontage
+| photo1a      = Bayugan city.jpg
+| photo1b      = Gaisano Grand Market Place Bayugan (Original Work).jpg
+| size         = 250
+| position     = center
+| spacing      = 2
+| color        = transparent
+| border       = 0
+| foot_montage = 
+}}
+| image_caption          = Downtown Bayugan; Gaisano Grand Market Place Bayugan
+| image_flag             = 
+| flag_size              = 120x80px
+| image_seal             = Bayugan-city-ph-seal.jpg
+| seal_size              = 100x80px
+| image_map              = {{PH wikidata|image_map}}
+| map_caption            = {{PH wikidata|map_caption}}
+| image_map1             = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map            = Philippines
+| pushpin_label_position = right
+| pushpin_map_caption    = Location within the {{PH wikidata|country}}
+| coordinates            = {{PH wikidata|coordinates}}
+| settlement_type        = {{PH wikidata|settlement_type}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = [[Philippines]]
+| subdivision_type1      = [[Regions of the Philippines|Region]]
+| subdivision_name1      = {{PH wikidata|region}}
+| subdivision_type2      = [[Provinces of the Philippines|Province]]
+| subdivision_name2      = {{PH wikidata|province}}
+| official_name          = {{PH wikidata|official_name}}
+| etymology              =  <!--origin of name-->
+| named_for              =  <!--named after (if person or place)-->
+| native_name            =
+| other_name             =
+| nicknames               = 
+| motto                  =
+| anthem                 =
+| subdivision_type3      = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3      = {{PH legislative district}}
+| established_title      = [[Date of establishment|Founded]]
+| established_date       = August 20, 1961
+| established_title1     = Cityhood
+| established_date1      = June 21, 2007 (Lost cityhood in 2008 and 2010)
+| established_title2     = Affirmed Cityhood
+| established_date2      = February 15, 2011
+| parts_type             = [[Barangay]]s
+| parts_style            = para
+| p1                     = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title           = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name            = Kirk A. Asis 
+| leader_title1          = [[Vice Mayor]]
+| leader_name1           = Kim Lope A. Asis 
+| leader_title2          = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2           = Alfelito M. Bascug
+| leader_title3                   = [[Sangguniang Panlungsod|City Council]]
+| leader_name3           = {{PH Town Council
+ | 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Kim A. Asis
+ | 3=Jonathan D. Sayon
+ | 4=Rizalina B. Parba
+ | 5=An Janette A. Alonde-Rana
+ | 6=Charles P. Anggayong
+ | 7=Gilbert M. Honculada
+ | 8=Charles C. Salazar
+ | 9=Fortunato A. Paway II
+ | 10=Primitivo N. Alimpoos
+ | 11=Orlando A. Sevilla}}
+| leader_title4          = [[Elections in the Philippines#Qualification|Electorate]] 
+| leader_name4           = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type        = {{PH wikidata|government_type}}
+| government_footnotes   = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m            = {{PH wikidata|elevation_m}}
+| elevation_max_m        = 1295
+| elevation_min_m        = 8
+| elevation_max_rank     =
+| elevation_min_rank     =
+| elevation_footnotes    = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes= 
+| elevation_min_footnotes= 
+| area_rank              =
+| area_footnotes         = {{PH area}}
+| area_total_km2         = {{PH wikidata|area}}
+| population_footnotes   = {{PH census|current}}
+| population_total       = {{PH wikidata|population_total}}
+| population_as_of       = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title= [[Household]]s
+| population_blank1      = {{PH wikidata|household}} 
+| population_demonym     = Bayuganon
+| population_rank        =
+| population_note        =
+| timezone               = [[Philippine Standard Time|PST]]
+| utc_offset             = +8
+| postal_code_type       = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code            = {{PH wikidata|postal_code}}
+| postal2_code_type      = {{PSGCstyle}}
+| postal2_code           = {{PSGC detail}}
+| area_code_type         = {{areacodestyle}}
+| area_code              = {{PH wikidata|area_code}}
+| website                = {{PH wikidata|website}}
+| demographics_type1     = [[Economy of the Philippines|Economy]]
+| demographics1_title1   = {{PH wikidata|income_class_title}}
+| demographics1_info1    = {{PH wikidata|income_class}}
+| demographics1_title2   = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2    = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3   = [[Revenue]]
+| demographics1_info3    = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}} 
+| demographics1_title4   = Revenue rank
+| demographics1_info4    = 
+| demographics1_title5   = [[Asset]]s
+| demographics1_info5    = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}} 
+| demographics1_title6   = Assets rank
+| demographics1_info6    = 
+| demographics1_title7   = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7    =  
+| demographics1_title8   = IRA rank
+| demographics1_info8    = 
+| demographics1_title9   = [[Expenditure]]
+| demographics1_info9    = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}} 
+| demographics1_title10  = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10   = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2     = Service provider
+| demographics2_title1   = Electricity
+| demographics2_info1    = {{PH electricity distribution | {{wikidata|label|raw}} }} 
+| demographics2_title2   = Water
+| demographics2_info2    =  
+| demographics2_title3   = Telecommunications
+| demographics2_info3    = 
+| demographics2_title4   = Cable TV
+| demographics2_info4    =
+| blank_name_sec1        = {{PH wikidata|climate_title}}
+| blank_info_sec1        = {{PH wikidata|climate_type}}
+| blank1_name_sec1       = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1       = {{PH wikidata|language}}
+| blank2_name_sec1       = [[Crime index]]
+| blank2_info_sec1       = 
+| blank3_name_sec1       = 
+| blank3_info_sec1       = 
+| blank4_name_sec1       = 
+| blank4_info_sec1       = 
+| blank5_name_sec1       = 
+| blank5_info_sec1       = 
+| blank6_name_sec1       = 
+| blank6_info_sec1       = 
+| blank7_name_sec1       = 
+| blank7_info_sec1       = 
+| blank1_name_sec2       = Major religions
+| blank1_info_sec2       = 
+| blank2_name_sec2       = Feast date
+| blank2_info_sec2       = 
+| blank3_name_sec2       = Catholic diocese
+| blank3_info_sec2       =
+| blank4_name_sec2       = Patron saint 
+| blank4_info_sec2       = 
+| blank5_name_sec2       = 
+| blank5_info_sec2       = 
+| blank6_name_sec2       = 
+| blank6_info_sec2       = 
+| blank7_name_sec2       = 
+| blank7_info_sec2       =
+| short_description      =
+| footnotes              =
+}}
+
+'''Bayugan''', officially the '''City of Bayugan''' ({{lang-ceb|Dakbayan sa Bayugan}}; {{lang-fil|Lungsod ng Bayugan}}), is a 1st class [[Cities of the Philippines#Legal classification|component city]] in the [[Provinces of the Philippines|province]] of [[Agusan del Sur]], [[Philippines]]. According to the 2020 census, it has a population of 109,499 people.{{PH census|current}}.
+
+Gained cityhood through Republic Act No. 9405,<ref>{{Cite web|title=Republic Act No. 9405|url=https://www.officialgazette.gov.ph/2007/03/23/republic-act-no-9405/|archive-url=|archive-date=|access-date=|website=officialgazette}}</ref> it is the only city in the province of Agusan del Sur and also the most populous.
+
+Located at the northern part of Agusan del Sur, Bayugan is the "cut-flower capital" of the province owing to its lucrative [[cut flower]] industry. The city's climate, especially in the highland barangays, is conducive to high yield cut-flower production. The city is also one of the major producers of rice and vegetables in the province, even providing for neighboring municipalities and provinces.{{citation needed|date=November 2014}}
+
+==Etymology==
+
+The natives called the area Bayugan since the word ''bayugan'' is a [[Manobo]] term for pathway. Another version states that ''bayug'' trees used to grow abundantly in the area. It was also believed that the natives used to make this place their meeting spot and that the means of gathering the inhabitants was by knocking on a hollow piece of wood which they termed as the ''bayug''.
+
+==History==
+Bayugan was formerly a sitio of Barangay Maygatasan, [[Esperanza, Agusan del Sur|Esperanza]].<ref>{{Cite web|url=http://agusandelsur.gov.ph/index/governance/2011-11-17-16-33-48/2011-08-15-05-52-42/bayugan-city|title=City of Bayugan}}</ref> Several versions abound on how the sitio got its name. First, the place was located along the river which served as the pathway of the natives in going to Esperanza.
+
+In 1942, Japanese troops entered Bayugan during the [[World War II|second World War]].
+
+In 1945, the town of Bayugan in Southern Agusan was liberated by Filipino soldiers and guerrillas from the Japanese forces occupying the town.
+
+In 1948, the Department of Public Works and Highways conducted a survey for a [[Pan-Philippine Highway|National Highway]] that would connect [[Butuan]] with [[Davao City]]. Simultaneously, the Bureau of Lands surveyed the places that would be traversed by the proposed road. Possible town sites were identified and among them was Barangay Maygatasan. However, part of the National Highway (now the Narra Avenue) passed through the sitio of Bayugan instead of Barangay Maygatasan. Migrants started settling in the sitio of Bayugan, thus, prompting the transfer of the proposed town site.
+
+In the early part of 1960, the inhabitants led by Mr. Jose Joson passed a resolution creating the sitio of Bayugan into a regular barrio. In April of that year, Barangay Bayugan was inaugurated with Joson as the Teniente del Barrio. Brought about by the construction of the National Highway which traversed the place, business activity sprouted rapidly in the area.
+
+A year later, barangay officials led by then Sergio Mullaneda worked out the creation of Bayugan into a regular municipality through the assistance of Governor Democrito O. Plaza, Governor of Agusan. By virtue of Executive Order No. 440 of then President [[Carlos P. Garcia]], the petition to create the municipality of Bayugan was granted on August 6, 1961. Mr. Mullaneda, the first appointed Municipal Mayor of Bayugan assumed into office on August 6, 1962, during the term of President [[Diosdado Macapagal]]. In the year 2007 Bayugan was converted to a city.
+
+Bayugan is a transportation highway nexus for the eastern part of [[Mindanao]] Island. Bayugan is now one if not the fastest growing component city in North Eastern [[Mindanao]].
+
+In 2024, a 65-year-old named Rosa was decapitated in Brgy. Canayugan for planting her [[Bougainvillea|bougainvilleas]] by a neighbor because the thorns of the flowers poked him on the chest.<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=9l6nnaWq_cI |title=Lola, pinugutan ng ulo para diumano ipangregalo sa mga kainuman?! {{!}} Kapuso Mo, Jessica Soho |date=2024-01-09 |last=GMA Public  Affairs |access-date=2024-07-28 |via=YouTube}}</ref>
+
+===Cityhood===
+{{main|Cities of the Philippines}}
+{{Hatnote|For further information, see [[League of Cities of the Philippines v. COMELEC]].}}
+[[File:Bayugan proper 2.jpg|thumb|left|250px|Narra Avenue]]
+On July 24, 2006, the [[Philippine Congress|congress]] approved R.A. 9405, an act converting the Municipality of Bayugan into a component city to be known as the City of Bayugan.
+
+But in 2008, the [[Supreme Court of the Philippines]] declared the law unconstitutional. The court ruled that Bayugan, along with the other fifteen cities covered by the law did not meet the requirements for cityhood.
+
+More than a year later, on December 22, 2009, acting favorably on the appeal of the sixteen affected cities, the [[Supreme Court of the Philippines|Supreme Court]] reversed its earlier ruling. It deemed that the passage of the amendatory law regarding the criteria for cityhood as set by congress specifically exempting a particular political subdivision therefrom was constitutional. The court further ruled that congress, in enacting the exempting law, effectively decreased the already codified indicators. As such, the cityhood status of Bayugan, and the rest of the fifteen local government units was restored.
+
+But again on August 24, 2010, in a 16-page resolution, the court reinstated its November 18, 2008 decision striking down the constitutionality of Republic Act 9405. Voting 7–6, with two justices abstaining, the court reinstated its decision declaring RA 9405 as unconstitutional.
+
+However, in another twist of fate for Bayugan, the court once again upheld for the third and final time the constitutionality of RA 9405 on February 15, 2011, thereby finalizing the cityhood of Bayugan and the other fifteen municipalities affected by the law.  On July 3, 2011, the court ordered its clerk of court to issue an entry of judgment on the cityhood case, sealing with finality the constitutionality of the law.
+<ref>Republic Act 9405</ref>
+
+After six years of legal battle, in its board resolution, the [[League of Cities of the Philippines]] acknowledged and recognized the cityhood of Bayugan and 15 other cities.
+
+==Geography==
+Bayugan is bordered by the Municipality of [[Sibagat, Agusan del Sur|Sibagat]] and the province of [[Surigao del Sur]] to the north; the Municipality of [[Prosperidad, Agusan del Sur|Prosperidad]] to the east; the Municipality of [[Esperanza, Agusan del Sur|Esperanza]] to the south; and the Municipality of [[Las Nieves, Agusan del Norte]], to the west.
+
+===Climate===
+{{Weather box
+|location = Bayugan
+|metric first = yes
+|single line = yes
+|Jan high C = 30
+|Feb high C = 31
+|Mar high C = 31
+|Apr high C = 33
+|May high C = 33
+|Jun high C = 33
+|Jul high C = 32
+|Aug high C = 33
+|Sep high C = 33
+|Oct high C = 32
+|Nov high C = 32
+|Dec high C = 31
+|year high C = 32
+|Jan low C = 23 
+|Feb low C = 23
+|Mar low C = 23
+|Apr low C = 24
+|May low C = 25
+|Jun low C = 24
+|Jul low C = 24
+|Aug low C = 24
+|Sep low C = 24
+|Oct low C = 24
+|Nov low C = 24
+|Dec low C = 24
+|year low C = 24
+|Jan precipitation mm = 259.1
+|Feb precipitation mm = 236.7
+|Mar precipitation mm = 131.5
+|Apr precipitation mm = 102.6
+|May precipitation mm = 104.9
+|Jun precipitation mm = 155.8
+|Jul precipitation mm = 146.4
+|Aug precipitation mm = 103.6
+|Sep precipitation mm = 123.1
+|Oct precipitation mm = 166.8
+|Nov precipitation mm = 166.5
+|Dec precipitation mm = 242.7
+|year precipitation mm = 1939.7
+|Jan precipitation days = 22
+|Feb precipitation days = 19
+|Mar precipitation days = 18
+|Apr precipitation days = 13
+|May precipitation days = 15
+|Jun precipitation days = 20
+|Jul precipitation days = 18
+|Aug precipitation days = 16
+|Sep precipitation days = 16
+|Oct precipitation days = 19
+|Nov precipitation days = 21
+|Dec precipitation days = 24
+|year precipitation days = 221
+|source 1 = [http://www.worldweatheronline.com/Bayugan-weather-averages/Agusan-Del-Sur/PH.aspx World Weather Online]
+|date = January 2015
+}}
+
+The city is geographically situated below the typhoon belt but is usually affected by depressions forming in the typhoon regions of Visayas and the province of Surigao del Norte. The climate map of the Philippines based on the modified coronas classification shows that the city falls under Type II. Which also is the weather classification of the province of Agusan del Sur.
+
+Type II climate has no dry season with very pronounced wet season of heavy precipitation. Maximum rainfall generally occurs from December to January although there is no single dry month. Its average monthly rainfall is {{Convert|161.6|mm}} and average temperature is {{Convert|32|C}}. Areas characterized by this climate type are generally along or very near the eastern coast thus are open to the north-east monsoon.
+{{clear left}}
+
+===Barangays===
+Bayugan is politically subdivided into 43 [[barangay]]s. Each barangay consists of [[purok]]s  while some have [[sitios]].
+
+Currently, there are 3 barangays which classified as urban and 40 are rural.{{PSGC detail|nscb}}
+{{PH brgy table lite|top}}
+{{PH brgy table lite|160301028| Berseba                       | 1585| 1688}}
+{{PH brgy table lite|160301029| Bucac                         | 3918| 3367}}
+{{PH brgy table lite|160301030| Cagbas                        | 1923| 1757}}
+{{PH brgy table lite|160301001| Calaitan                      | 1913| 2385}}
+{{PH brgy table lite|160301031| Canayugan                     | 1156| 1167}}
+{{PH brgy table lite|160301002| Charito                       | 1549| 1529}}
+{{PH brgy table lite|160301032| Claro Cortez                  |  819|  654}}
+{{PH brgy table lite|160301003| Fili                          | 2949| 2923}}
+{{PH brgy table lite|160301033| Gamao                         | 1096| 1035}}
+{{PH brgy table lite|160301034| Getsemane                     |  398|  436}}
+{{PH brgy table lite|160301035| Grace Estate                  |  677|  651}}
+{{PH brgy table lite|160301004| Hamogaway                     | 1508| 1568}}
+{{PH brgy table lite|160301006| Katipunan                     | 1225| 1135}}
+{{PH brgy table lite|160301007| Mabuhay                       | 1730| 1750}}
+{{PH brgy table lite|160301036| Magkiangkang                  | 1801| 1628}}
+{{PH brgy table lite|160301037| Mahayag                       |  629|  554}}
+{{PH brgy table lite|160301009| Marcelina                     | 3789| 3508}}
+{{PH brgy table lite|160301010| Maygatasan                    | 4818| 4148}}
+{{PH brgy table lite|160301038| Montivesta                    |  709|  602}}
+{{PH brgy table lite|160301039| Mt. Ararat                    |  684|  821}}
+{{PH brgy table lite|160301040| Mt. Carmel                    | 2387| 2047}}
+{{PH brgy table lite|160301041| Mt. Olive                     | 1509| 1501}}
+{{PH brgy table lite|160301042| New Salem                     |  569|  663}}
+{{PH brgy table lite|160301011| Noli                          | 3712| 3380}}
+{{PH brgy table lite|160301013| Osmeña                        | 1589| 1573}}
+{{PH brgy table lite|160301014| Panaytay                      |  695|  624}}
+{{PH brgy table lite|160301043| Pinagalaan                    | 1411| 1108}}
+{{PH brgy table lite|160301016| Poblacion                     |16010|17596}}
+{{PH brgy table lite|160301017| Sagmone                       | 1301| 1157}}
+{{PH brgy table lite|160301018| Saguma                        | 2215| 1937}}
+{{PH brgy table lite|160301019| Salvacion                     | 5886| 5079}}
+{{PH brgy table lite|160301044| San Agustin                   |  679|  613}}
+{{PH brgy table lite|160301020| San Isidro                    | 1206| 1046}}
+{{PH brgy table lite|160301045| San Juan                      | 3307| 3391}}
+{{PH brgy table lite|160301023| Santa Irene                   | 3651| 2820}}
+{{PH brgy table lite|160301046| Santa Teresita                | 1828| 1668}}
+{{PH brgy table lite|160301047| Santo Niño                    | 1606| 1643}}
+{{PH brgy table lite|160301024| Taglatawan                    |12838|12976}}
+{{PH brgy table lite|160301048| Taglibas                      |  402|  386}}
+{{PH brgy table lite|160301049| Tagubay                       |  930|  749}}
+{{PH brgy table lite|160301025| Verdu                         | 1562| 1373}}
+{{PH brgy table lite|160301050| Villa Undayon                 | 1609| 1312}}
+{{PH brgy table lite|160301027| Wawa                          | 1334| 1413}}
+{{PH brgy table lite|bottom|99361}}
+
+==Demographics==
+[[File:Lope Asis Memorial Gymnasium (Bayugan).jpg|thumb|Lope Asis Memorial Gymnasium]]
+{{Philippine Census
+| align= none
+| title= Population census of {{PH wikidata|name}}
+| 1903 = 
+| 1918 = 
+| 1939 = 
+| 1948 = 
+| 1960 = 
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+Indigenous people:
+*[[Manobo]]
+*[[Lumad peoples#Higaonon|Higaonon]]
+*Banwaon
+*[[Lumad peoples#Mandaya|Kamayo/Mandaya]]
+*Talaandig
+{{clear left}}
+
+==Economy==
+{{PH poverty incidence}}
+
+;Products:
+{{Columns-list|colwidth=30em|
+*Rice / palay (the major rice production site of Agusan del Sur)
+*[[Cut flowers]] (abundant in the city making it the cut flower capital of Agusan del Sur)
+*Corn
+*Coconut
+*Banana
+*Rubber
+*Vegetables
+*Legumes
+*Cacao
+*Coffee
+*Citrus
+*Root Crops
+*Fruits
+}}
+
+Fertile soil suitable for agricultural, Protection Forest About 26,107.163 Hectares = 51.697% in land classifications. Gold, silver, sand and gravel.
+{{clear left}}
+
+==Government==
+[[File:Bayugan City Hall.jpg|right|thumb|Bayugan City Hall in the background]]
+
+===City officials===
+Elected city officials 2019–present:
+
+Executive:
+*Mayor: Kirk A. Asis
+*Vice Mayor: Kim Lope A. Asis
+
+Legislative:
+*City councilors:
+**Kim "Tata" Asis
+**Dionril "Balong" Salvan
+**Rizalina B. Parba
+**Anjannette "Badat" Alonde-Rana
+**Charles P. Anggayong
+**Fortunato "Jun" Paway II
+**Jonathan D. Sayon
+**Teresito "Terry" Abastillas
+**Allan R. Cogollodo
+**Primitivo N. Alimpoos
+
+===Barangay council===
+Association of Baragay Councils (Liga ng mga Barangay):
+
+*President - Eleony G. Estrera (Barangay Gethsemane)
+*Vice President - ''Vacant position''
+
+==Tourism==
+
+{{Columns-list|colwidth=28em|
+*Bayugan Rotunda
+*Pinagalaan (Bayug/Hamogaway) Falls 
+*Narra Avenue 
+*Wawa Bridge 
+*Meteor Garden
+*Gethsemane Falls
+*Santa Irene Overview
+*Andanan/Wawa River and Irrigation System
+*Family Place Resort
+*Green Haven Adventure Farm
+*Mangrove Base Park
+*ARC Bayugan
+*Graceland Cold Spring
+*Magkiangkang Cave
+*New Loon Cave
+*San Agustin Lake
+*Putting Bato Cave
+*Katipunan Lake
+*Vising/Sisimon Cave
+*Rizal Park Plaza
+*Bayugan City Hall
+*Sacred Heart of Jesus Parish Church
+*San Lorenzo Ruiz Diocesan Shrine
+*Ziram Garden
+*Sisa Theme Nature Park
+}}
+
+==Culture==
+
+===Local festivals and events===
+
+*Kahimunan tu Bayugan Festival, Holy Child - A local version of the Sinulog Festival of Cebu, it is highlighted by street dancing focusing on the indigenous tribes' of Bayugan and their way of life. Celebrated every Last Sunday of January.
+*Sacred Heart of Jesus Festival – Popularly known as the town fiesta or "pista", celebrated every June 30.
+*Rice Corn and Flower Festival - A new born festival replacing the traditional "Araw ng Bayugan" and is a celebration of the abundant harvest of crops of farmers in the city. The name of the festival is coined from the nickname of the city (City of Rice, Corn, and Flowers). It highlights street dancing and float contests.
+*Charter Day Celebration- Held every June 21 to commemorate the city-hood of Bayugan.
+
+==Infrastructure==
+
+===Communications===
+The [[Philippine Long Distance Telephone Company]] provides fixed line services. Wireless mobile communications services are provided by [[Smart Communications]] and [[Globe Telecommunications]].
+
+===Transportation===
+Major transportation around the vicinity of the city are [[Auto rickshaw (Philippines)|Motorela/Tricycle]] and some multicabs which travel to remote barangays. "Habal-habal" is also used as a transport to the mountain barangays of Bayugan.
+
+====Accessibility====
+;By air
+[[Butuan Airport]]: Butuan has the nearest airport from Bayugan.
+
+[[Francisco Bangoy International Airport|Davao Airport]]: From [[Manila]] or [[Cebu]] to [[Davao City]] as transit point.
+
+[[Surigao Airport]]: From [[Manila]] or [[Cebu]] to [[Surigao City]] as transit point.
+
+;By land
+Bayugan can be reached via land transport. [[Davao Metro Shuttle]], Bachelor Express, Land Car Inc., and Surigao Express are only few bus companies travelling to and from the city. [[Buses]] are serving routes from [[Davao City]], [[Butuan]], [[Surigao City]], and [[Bislig]]. [[Philtranco]] and PP Bus Line serving [[Pasay]]/[[Quezon City#Cubao|Cubao]] via [[Butuan]] or [[Davao City|Davao]] are also available.
+
+Accredited Transport Cooperative as of January 2021:
+
+* Agusan Sur Transport Service Cooperative<ref>{{Cite web |date=January 2021 |title=Accredited Transport Cooperatives as of January 2021 |url=https://otc.gov.ph/wp-content/uploads/2021/02/Accredited-Transport-Cooperatives-Jan-2021-Web.pdf |website=[[Office of Transportation Cooperatives]]}}</ref>
+;By sea
+Inter-island vessels [[Cokaliong Shipping Lines]], 2-Go and TransAsia Shipping Lines ply the [[Cebu]]-[[Nasipit]] routes on regular schedules with Nasipit Port as transit point. Multi-cabs and buses are available at the wharf going to Butuan Integrated Terminal for the regular bus trips to Bayugan.
+
+==Education==
+[[File:ADSCO.jpg|thumb|right|Agusan del Sur College, a private college institution in Bayugan.]]
+Agusan del Sur Pilot Laboratory School, or commonly known as ADSPILS, is a Public Elementary School. ADSPILS is the only Special Science Elementary School in the city. The school has about 600 pupils with over 3 sections in each grade, Science Class, Best Class and Crack.
+
+[[Bayugan National Comprehensive High School]], or BNCHS, is a comprehensive [[high school]] with a population of about six thousand students, and is located on a site that has an area of 5 hectares. The school is currently recognized for its [[Research and development|research program]] in science related topics. "Comprehensive" it is because it offers different curricula such as ESEP (Engineering and Science Education Program), Special Program in Journalism (pilot school for journalism in [[Caraga]] Region), Special Program in the Arts (with the specialization of Visual Arts, Creative Writing, Dancing, Music, Media Arts and Theater Arts), Technical Vocational Courses, Special Program in Sports and Revised Basic Education Curriculum.
+
+[[Agusan del Sur College]] or ADSCO established in 1966, is the only private educational institution in the city offering [[University-preparatory school|Preparatory]], [[Elementary school|Elementary]], [[High School]], [[College]] (CHED) degree courses i.e. Bachelor of Science in Business Administration (BSBA) major in : Marketing Management, Financial Management, Operation Management, Bachelor of Secondary Education, Bachelor of Elementary Education, Bachelor of Arts major in English, Associate in Computer Secretarial, Bachelor of Science in Hotel and Restaurant Management (by year 2011) and '''[[TESDA]] programs''' like Health Care Services NC II, Computer Hardware Servicing NC II, Shielded Metal Arc Welding (SMAW) NC II, Driving NC II, Security Services NC II, Massage Therapy NC II, Housekeeping, Commercial Cooking NC II, Bookkeeping NC II.
+
+[[Father Saturnino Urios University]] (formerly Father Urios Technical Institute of Bayugan Inc. or FUTIBI), is the oldest private educational institution in the city. Located at the heart of the city making it one of the most populous school in Bayugan. Created in the year 1959, Urios caters elementary and secondary basic education. By school year 2010–2011, Urios will be putting up its technical courses. The school was founded by a Jesuit priest Father Atanasio B. De Castro in 1959. The school is currently headed by Mrs. Chereil C. Martel (Principal) and Fr. Roberto Butawan (School Director).
+
+==Sister cities==
+
+*{{Flagicon|PHI}} [[Butuan]], [[Philippines]]
+*{{Flagicon|PHI}} [[Davao City]], [[Philippines]]
+*{{Flagicon|PHI}} [[Makati]], [[Philippines]]
+*{{Flagicon|PHI}} [[Cebu City]], [[Philippines]]
+
+==Gallery==
+
+<gallery widths="200" heights="150" class="center">
+File:Float RCF Festival.jpg|A flower float during the float contest of the Rice Corn and Flower Festival.
+File:Narra Avenue Bayugan.jpg|Narra Avenue has been a transportation nexus in [[Mindanao]]
+File:Bayugans Nature Beauty.jpg|The highlands of Bayugan. This is seen from the Santa Irene Overview.
+File:DepEd Bayugan City.jpg|Bayugan City Division of the Department of Education.
+File:Rizal Park Bayugan.jpg|Bayugan Rizal Park Plaza
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Portal|Philippines}}
+{{Commons category}}
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+*[https://web.archive.org/web/20050805083129/http://www.geocities.com/Athens/Cyprus/8446/bayugan.html A History of Bayugan at the Agusan–Surigao Historical Archive]
+*[http://www.sunstar.com.ph/manila/local-news/2011/07/03/sc-16-cityhood-laws-constitutional-final-164696] {{Webarchive|url=https://web.archive.org/web/20160807223349/http://www.sunstar.com.ph/manila/local-news/2011/07/03/sc-16-cityhood-laws-constitutional-final-164696 |date=August 7, 2016 }}
+*[https://web.archive.org/web/20070930191621/http://www.bayugan.gov.ph/ Municipality of Bayugan Official Website]
+
+{{Geographic location
+|Centre    = Bayugan
+|North     = [[Sibagat, Agusan del Sur|Sibagat]]
+|Northeast = [[Lanuza, Surigao del Sur]]<br>[[Tandag|Tandag, Surigao del Sur]]
+|East      = [[San Miguel, Surigao del Sur]]
+|Southeast = [[Prosperidad, Agusan del Sur|Prosperidad]]
+|South     = [[Esperanza, Agusan del Sur|Esperanza]]
+|Southwest = [[Las Nieves, Agusan del Norte]]
+|West      = [[Sibagat, Agusan del Sur|Sibagat]]<br>[[Butuan]]
+}}
+{{Navboxes
+| title = Articles Related to Bayugan
+| list  =
+{{Agusan del Sur}}
+{{Caraga}}
+{{Philippine cities}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bayugan, Agusan Del Sur}}
+[[Category:Cities in Caraga]]
+[[Category:Populated places in Agusan del Sur]]
+[[Category:Populated places established in 1961]]
+[[Category:1961 establishments in the Philippines]]
+[[Category:Component cities in the Philippines]]
+[[Category:Political divisions established by Philippine executive order]]

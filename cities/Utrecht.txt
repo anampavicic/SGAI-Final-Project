@@ -1,0 +1,664 @@
+{{Short description|City and municipality in Utrecht, Netherlands}}
+{{Distinguish|Utecht}}
+{{about|the Dutch city and municipality|the province|Utrecht (province)|other uses}}
+{{Use dmy dates|date=October 2020}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name               = Utrecht
+| official_name      = 
+| native_name        = ''Ut(e)reg'' ([[Hollandic dialect|Utrechts]])
+| settlement_type    = [[List of cities in the Netherlands by province|City]] and [[List of municipalities of the Netherlands|municipality]]
+| image_skyline      = {{multiple image
+ |total_width   = 280
+ |border        = infobox
+ |perrow        = 1/2/2/1
+ |caption_align = center
+ |image1        = Sol Lumen.jpg
+ |alt1          = Dom Tower of the St. Martin's Cathedral
+ |caption1      = [[Dom Tower of Utrecht|Dom Tower]] of the [[St. Martin's Cathedral, Utrecht|St. Martin's Cathedral]]
+ |image2        = Jaarbeursplein Utrecht 2019.jpg
+ |alt2          = Jaarbeursplein
+ |caption2      = Jaarbeursplein
+ |image3        = Uithof, 3584 Utrecht, Netherlands - panoramio (12).jpg
+ |alt3          = Uithof centre in Utrecht Science Park
+ |caption3      = Uithof centre in [[Utrecht Science Park]]
+ |image4        = Spoorwegmuseum Utrecht 003.JPG
+ |alt4          = Spoorwegmuseum
+ |caption4      = Spoorwegmuseum
+ |image5        = Neude at night.jpg
+ |al5           = Neude
+ |caption5      = Neude
+ |image6        = Utrecht Centraal station vanaf voetgangersbrug 2017 1.jpg
+ |alt6          = Utrecht Centraal railway station
+ |caption6      = [[Utrecht Centraal railway station]]
+ }}
+| image_flag         = Flag of Utrecht city.svg
+| flag_size          = 100x67px
+| flag_alt           = 
+| image_shield       = Utrecht gemeente wapen.svg
+| shield_size        = 100x80px
+| shield_alt         = 
+| nickname           = Domstad (Cathedral City)
+| image_map          = Map - NL - Municipality code 0344 (2009).svg
+| map_alt            = Highlighted position of Utrecht in a municipal map of Utrecht
+| map_caption        = Location of Utrecht municipality
+| pushpin_map        = Netherlands#Europe
+| pushpin_map_caption = Location within the Netherlands##Location within Europe
+| pushpin_relief     = 1
+| coordinates        = {{Coord|52|05|27|N|05|07|18|E|region:NL|display=inline,title}}
+| subdivision_type   = Country
+| subdivision_name   = Netherlands
+| subdivision_type1  = [[Provinces of the Netherlands|Province]]
+| subdivision_name1  = [[Utrecht (province)|Utrecht]]
+| government_footnotes = <ref name="mayor_now">{{cite web |title=Burgemeester |trans-title=Mayor |url=http://www.utrecht.nl/hoe-werkt-de-gemeente/burgemeester-en-wethouders/persoonlijke-websites-college/burgemeester/ |url-status=dead |publisher=Gemeente Utrecht |access-date=3 April 2014 |archive-url=https://web.archive.org/web/20140407073106/http://www.utrecht.nl/hoe-werkt-de-gemeente/burgemeester-en-wethouders/persoonlijke-websites-college/burgemeester/ |archive-date=7 April 2014 |language=nl}}</ref>
+| governing_body     = [[Municipal council (Netherlands)|Municipal council]]
+| leader_party       = [[Labour Party (Netherlands)|PvdA]]
+| leader_title       = [[Burgemeester|Mayor]]
+| leader_name        = [[Sharon Dijksma]]
+| total_type         = Municipality
+| unit_pref          = Metric
+| area_footnotes     = <ref name="tno_randstad">{{cite tech report |last1=Bouman-Eijs |first1=Anita |last2=van Bree |first2=Thijmen |last3=Jonkhoff |first3=Wouter |last4=Koops |first4=Olaf |last5=Manshanden |first5=Walter |last6=Rietveld |first6=Elmer |title=De Top 20 van Europese grootstedelijke regio's 1995–2011; Randstad Holland in internationaal perspectief |trans-title=Top 20 of European metropolitan regions 1995–2011; Randstad Holland compared internationally |url=http://www.zuidvleugel.nl/sites/www.zuidvleugel.nl/files/article/downloads/top_20_europese_grootstedelijke_regios_1995_2011_tno_2012_r11155.pdf |url-status=dead |publisher=[[Netherlands Organisation for Applied Scientific Research|TNO]] |location=Delft |date=17 December 2012 |access-date=25 July 2013 |archive-url=https://web.archive.org/web/20140303212054/http://www.zuidvleugel.nl/sites/www.zuidvleugel.nl/files/article/downloads/top_20_europese_grootstedelijke_regios_1995_2011_tno_2012_r11155.pdf |archive-date=3 March 2014 |language=nl}}</ref>
+| area_total_km2     = {{Dutch municipality total area|Utrecht}}
+| area_land_km2      = {{Dutch municipality land area|Utrecht}}
+| area_water_km2     = {{Dutch municipality water area|Utrecht}}
+| area_blank1_title  = [[Randstad]]
+| area_blank1_km2    = 3043
+| elevation_footnotes = <ref name="AHN">{{cite web |author=<!--Staff writer(s); no by-line.--> |title=Postcodetool for 3512GG |url=http://www.ahn.nl/postcodetool |work=Actueel Hoogtebestand Nederland |publisher=Het Waterschapshuis |access-date=3 April 2014 |language=nl |archive-date=26 December 2018 |archive-url=https://web.archive.org/web/20181226031342/http://www.ahn.nl/postcodetool%0A |url-status=live }}</ref>
+| elevation_m        = 5
+| elevation_max_footnotes = 
+| elevation_max_m    = 
+| elevation_min_footnotes = 
+| elevation_min_m    = 
+| population_footnotes = <ref name="tno_randstad"/><ref>{{Dutch municipality population|dataref}}</ref><ref>{{Dutch municipality population urbanmetro|dataref}}</ref>
+| population_total   = 375161
+| population_as_of   = 30 June 2024
+| population_density_km2 = 3646
+| population_urban   = {{Dutch municipality population urbanmetro|Utrecht Urban}}
+| population_metro   = {{Dutch municipality population urbanmetro|Utrecht Metro}}
+| population_blank1_title = [[Randstad]]
+| population_blank1  = 6979500
+| population_demonym = Utrechter(s) <ref group=nb>See {{slink|Utrecht sodomy trials|Legacy}} for the history of these demonyms.</ref>
+| timezone           = [[Central European Time|CET]]
+| utc_offset         = +1
+| timezone_DST       = [[Central European Summer Time|CEST]]
+| utc_offset_DST     = +2
+| postal_code_type   = [[Postal codes in the Netherlands|Postcode]]
+| postal_code        = 3450–3455, 3500–3585
+| area_code_type     = [[Telephone numbers in the Netherlands|Area code]]
+| area_code          = 030
+| website            = {{URL|1=http://www.utrecht.nl}}
+| module             = {{infobox mapframe|zoom=9}}
+| footnotes          = Click on the map for a fullscreen view
+| image_blank_emblem = Utrecht (municipality) 2020.svg
+| blank_emblem_type  = [[Brandmark]]
+| blank_emblem_size  = 120px
+}}
+
+'''Utrecht''' ({{IPAc-en|ˈ|j|uː|t|r|ɛ|k|t}} {{respell|YOO|trekt}},<ref>{{cite EPD|18}}</ref><ref>{{cite LPD|3}}</ref> {{IPA|nl|ˈytrɛxt|lang|260 Utrecht.ogg}}; {{Langx|nl|label=[[Utrechts-Alblasserwaards|Utrecht dialect]]|Ut(e)reg}} {{IPA|nl|ˈyt(ə)ʁɛχ||generic=yes}}) is the [[List of cities in the Netherlands by province|fourth-largest city]] of the [[Netherlands]], as well as the capital and the most populous city of the [[Provinces of the Netherlands|province]] of [[Utrecht (province)|Utrecht]]. The [[municipality]] of Utrecht is located in the eastern part of the [[Randstad]] [[conurbation]], in the very centre of mainland Netherlands, and includes [[Haarzuilens]], [[Vleuten]] and [[De Meern]]. It has a population of 361,699 as of {{As of|2021|December|bare=yes}}.<ref name="opendata.cbs.nl">{{Cite web |url=https://opendata.cbs.nl/statline/#/CBS/nl/dataset/37230ned/table?ts=1578685738191 |title=CBS Statline |access-date=10 January 2020 |archive-date=3 August 2017 |archive-url=https://web.archive.org/web/20170803035505/https://opendata.cbs.nl/statline/#/CBS/nl/dataset/37230ned/table?ts=1578685738191 |url-status=live }}</ref>
+
+Utrecht's ancient city centre features many buildings and structures, several dating as far back as the [[High Middle Ages]]. It has been the religious centre of the Netherlands since the 8th century. In 1579, the [[Union of Utrecht]] was signed in the city to lay the foundations for the [[Dutch Republic]]. Utrecht was the most important city in the Netherlands until the [[Dutch Golden Age]], when it was surpassed by [[Amsterdam]] as the country's cultural centre and most populous city.
+
+Utrecht is home to [[Utrecht University]], the largest university in the Netherlands, as well as several other institutions of higher education. Due to its central position within the country, it is an important hub for both [[rail transport|rail]] and [[road transport]]; it has the busiest railway station in the Netherlands, [[Utrecht Centraal railway station|Utrecht Centraal]]. It has the second-highest number of cultural events in the Netherlands, after Amsterdam.<ref name="Umon">{{cite web |author=Gemeente Utrecht |title=Utrecht Monitor 2007 |url=http://www.utrecht.nl/images/Secretarie/Bestuursinformatie/Publicaties2007/UM2007/UtrechtMonitor2007.pdf |access-date=6 January 2008 |language=nl |archive-date=6 February 2016 |archive-url=https://web.archive.org/web/20160206065523/http://www.utrecht.nl/images/Secretarie/Bestuursinformatie/Publicaties2007/UM2007/UtrechtMonitor2007.pdf |url-status=dead}}</ref> In 2012, [[Lonely Planet]] included Utrecht in the top 10 of the world's unsung places.<ref>{{cite news |last=Blasi |first=Abigail |title=10 of the world's unsung places |url=https://www.lonelyplanet.com/travel-tips-and-articles/10-of-the-worlds-unsung-places/40625c8c-8a11-5710-a052-1479d277e7b8 |publisher=Lonely Planet |date=14 May 2012 |access-date=6 August 2017 |archive-date=7 August 2017 |archive-url=https://web.archive.org/web/20170807023240/https://www.lonelyplanet.com/travel-tips-and-articles/10-of-the-worlds-unsung-places/40625c8c-8a11-5710-a052-1479d277e7b8 |url-status=live }}</ref>
+
+== History ==
+{{For timeline}}
+
+===Origins (before 650 CE)===
+[[File:Traiectum - Wttecht - Utrecht (Atlas van Loon).jpg|thumb|left|[[Willem Blaeu]]'s 1652 map of Utrecht]]
+Although there is some evidence of earlier inhabitation in the region of Utrecht, dating back to the [[Stone Age]] (app. 2200 [[BCE]]) and settling in the [[Bronze Age]] (app. 1800–800&nbsp;BCE),<ref>{{cite web |url=http://www.utrecht.nl/smartsite.dws?id=163711 |title=Gemeente Utrecht, Geschiedenis Utrecht voor 1528 |access-date=8 September 2008 |archive-date=16 October 2008 |archive-url=https://web.archive.org/web/20081016132507/http://www.utrecht.nl/smartsite.dws?id=163711 |url-status=live }}</ref> the founding date of the city is usually related to the construction of a [[Roman Empire|Roman]] [[fortification]] (''[[castellum]]''), probably built in around 50 [[Current Era|CE]]. A series of such fortresses were built after the [[Roman emperor]] [[Claudius]] decided the empire should not expand further north. To consolidate the border, the [[Limes Germanicus]] defense line was constructed<ref name="20eUtrecht">{{cite book |last1=de Bruin |first1=R.E. |last2=Hoekstra |first2=T.J. |last3=Pietersma |first3=A. |author-link3=Albert Pietersma |title=Twintig eeuwen Utrecht, korte geschiedenis van de stad |publisher=SPOU & Het Utrechts Archief |location=Utrecht |year=1999 |language=nl |isbn=90-5479-040-7}}</ref> along the main branch of the river [[Rhine]], which at that time traversed a more northern route (now known as the [[Kromme Rijn]]) compared to today's Rhine flow. These fortresses were designed to house a [[cohort (military unit)|cohort]] of about 500 Roman soldiers. Near the fort, settlements grew that housed [[artisan]]s, traders and soldiers' wives and children.
+
+In Roman times, the name of the Utrecht fortress was simply ''[[Traiectum (Utrecht)|Traiectum]]'', denoting its location at a possible Rhine crossing. Traiectum became Dutch Trecht; with the U from [[Old Dutch]] "uut" (downriver) added to distinguish U-trecht from [[Maastricht|Maas-tricht]],<ref>{{cite web |author=Het Utrechts Archief |title=Het ontstaan van de stad Utrecht (tot 100) |url=http://www.hetutrechtsarchief.nl/werkstukken/onderwerpen/ontstaan-utrecht |language=nl |access-date=21 October 2009 |archive-date=2 May 2009 |archive-url=https://web.archive.org/web/20090502015136/http://www.hetutrechtsarchief.nl/werkstukken/onderwerpen/ontstaan-utrecht |url-status=live }}</ref><ref>{{cite book |last=van der Sijs |first=Nicoline |title=Chronologisch woordenboek. De ouderdom en herkomst van onze woorden en betekenissen |url=http://www.dbnl.org/tekst/sijs002chro01_01/sijs002chro01_01_0010.htm |location=Amsterdam / Antwerp |year=2001 |page=100 |language=nl |isbn=90-204-2045-3 |access-date=21 October 2009 |archive-date=29 December 2008 |archive-url=https://web.archive.org/web/20081229085936/http://www.dbnl.org/tekst/sijs002chro01_01/sijs002chro01_01_0010.htm |url-status=live }}</ref> on the river [[Meuse]]. In 11th-century official documents, it was Latinized as Ultra Traiectum. Around the year 200, the wooden walls of the fortification were replaced by sturdier [[tuff]] stone walls,<ref>{{cite book |last=Kloosterman |first=R.P.J. |title=Lichte Gaard 9. Archeologisch onderzoek naar het castellum en het bisschoppelijk paleis. Basisrapportage archeologie 41 |url=http://www.utrecht.nl/images/DSO/monumenten/publicaties/Basisrapportages_Archeologie/BRArch_41_Lichte_Gaard/BrArch41_Lichte_Gaard.pdf |publisher=StadsOntwikkeling gemeente Utrecht |year=2010 |isbn=978-90-73448-39-1 |access-date=15 February 2011 |archive-date=6 December 2013 |archive-url=https://web.archive.org/web/20131206203657/http://www.utrecht.nl/images/DSO/monumenten/publicaties/Basisrapportages_Archeologie/BRArch_41_Lichte_Gaard/BrArch41_Lichte_Gaard.pdf |url-status=live }}</ref> remnants of which are still to be found below the buildings around Dom Square.
+
+From the middle of the 3rd century, [[Germanic Tribes|Germanic tribes]] regularly invaded the Roman territories. After around 275 the Romans could no longer maintain the northern border, and Utrecht was abandoned.<ref name="20eUtrecht"/> Little is known about the period from 270 to 650. Utrecht is first spoken of again several centuries after the Romans left. Under the influence of the growing realms of the [[Franks]], during [[Dagobert I]]'s reign in the 7th century, a church was built within the walls of the Roman fortress.<ref name="20eUtrecht"/> In ongoing border conflicts with the [[Frisians]], this first church was destroyed.
+
+===Centre of Christianity in the Netherlands (650–1579)===
+[[File:Dom in Utrecht - panoramio.jpg|thumb|The [[Dom Tower of Utrecht|Dom Tower]] seen from the city centre. The remaining section of the [[St. Martin's Cathedral, Utrecht|Cathedral of Saint Martin]] is not connected to the tower since the collapse of the [[nave]] in 1674 due to a storm.]]{{Main articles|Prince-Bishopric of Utrecht}}
+By the mid-7th century, British, English and Irish [[missionaries]] set out to convert the [[Frisians]]. [[Pope Sergius I]] appointed their leader, Saint [[Willibrordus]], as bishop of the Frisians. The tenure of Willibrordus is generally considered to be the beginning of the [[Archdiocese of Utrecht (695–1580)|Bishopric of Utrecht]].<ref name="20eUtrecht"/> In 723, the Frankish leader [[Charles Martel]] bestowed the fortress in Utrecht and the surrounding lands as the base of the bishops. From then on Utrecht became one of the most influential seats of power for the Catholic Church in the Netherlands. The archbishops of Utrecht were based at the uneasy northern border of the [[Carolingian Empire]]. In addition, the city of Utrecht had competition from the nearby trading centre [[Dorestad]].<ref name="20eUtrecht"/> After the fall of Dorestad around 850, Utrecht became one of the most important cities in the Netherlands.<ref>{{cite book |last=van der Tuuk |first=Luit |editor-last=van der Eerden |editor-first=Ria |display-editors=etal |chapter=Denen in Dorestad |title=Jaarboek Oud Utrecht 2005 |publisher=SPOU |location=Utrecht |year=2005 |pages=5–40 |language=nl |isbn=90-71108-24-4}}</ref> The importance of Utrecht as a centre of Christianity is illustrated by the election of the Utrecht-born [[Pope Adrian VI|Adriaan Florenszoon Boeyens]] as [[pope]] in 1522 (the last non-Italian pope before [[John Paul II]]).
+
+====Prince-bishops====
+{{main|Archdiocese of Utrecht (695–1580)}}
+When the Frankish rulers established the system of [[feudalism]], the [[Bishop]]s of Utrecht came to exercise worldly power as [[prince-bishop]]s.<ref name="20eUtrecht"/> The territory of the bishopric not only included the modern province of Utrecht (Nedersticht, 'lower [[Sticht]]'), but also extended to the northeast. The feudal conflict of the [[Middle Ages]] heavily affected Utrecht. The prince-bishopric was involved in almost continuous conflicts with the Counts of [[County of Holland|Holland]] and the Dukes of [[Guelders]].<ref>{{cite book |last=Janssen |first=H.P.H. |title=Geschiedenis van de Middeleeuwen |publisher=Aula |location=Utrecht |edition=12th |year=2002 |pages=289–296 |language=nl |isbn=90-274-5377-2}}</ref> The [[Veluwe]] region was seized by Guelders, but large areas in the modern province of [[Overijssel]] remained as the Oversticht.
+
+====Religious buildings====
+Several churches and monasteries were built inside, or close to, the city of Utrecht. The most dominant of these was the [[Cathedral of Saint Martin, Utrecht|Cathedral of Saint Martin]], inside the old Roman fortress. The construction of the present [[Gothic architecture|Gothic]] building was begun in 1254 after an earlier [[Romanesque architecture|romanesque]] construction had been badly damaged by fire. The [[Choir (architecture)|choir]] and [[transept]] were finished from 1320 and were followed then by the ambitious [[Dom Tower of Utrecht|Dom tower]].<ref name="20eUtrecht"/> The last part to be constructed was the central [[nave]], from 1420. By that time, however, the age of the great cathedrals had come to an end and declining finances prevented the ambitious project from being finished, the construction of the central nave being suspended before the planned [[flying buttress]]es could be finished.<ref name="20eUtrecht"/>
+Besides the cathedral there were four [[collegiate church]]es in Utrecht: [[St. Salvator's Church]] (demolished in the 16th century), on the Dom square, dating back to the early 8th century.<ref>{{cite book |last=Stöver |first=R.J. |title=De Salvator- of Oudmunsterkerk te Utrecht, Stichtingsmonument van het bisdom Utrecht |language=nl |year=1997 |location=Utrecht}}</ref> Saint [[John the Baptist|John]] (Janskerk), originating in 1040;<ref>{{cite web |title=Janskerk Informatie |url=http://www.janskerkutrecht.nl/ |access-date=6 January 2008 |archive-date=30 December 2007 |archive-url=https://web.archive.org/web/20071230083733/http://www.janskerkutrecht.nl/ |url-status=dead}}</ref> [[Pieterskerk, Utrecht|Saint Peter]], building started in 1039<ref>{{cite web |title=Sint Pieterskerk Utrecht |url=http://www.planetware.com/utrecht/st-pieterskerk-nl-ut-piet.htm |access-date=5 January 2008 |archive-date=3 March 2008 |archive-url=https://web.archive.org/web/20080303170005/http://www.planetware.com/utrecht/st-pieterskerk-nl-ut-piet.htm |url-status=live }}</ref> and [[Mary (mother of Jesus)|Saint Mary]]'s church building started around 1090 (demolished in the early 19th century, cloister survives).<ref>{{cite book |last=Haverkate |first=H.M. |title=Een kerk van papier. De geschiedenis van de voormalige Mariakerk te Utrecht |language=nl |year=1985 |location=Zutphen, the Netherlands}}</ref>
+Besides these churches, the city housed [[St. Paul's Abbey, Utrecht|St. Paul's Abbey]],<ref>{{cite book |last=Broer |first=C.J.C. |title=Uniek in de stad. De oudste geschiedenis van de kloostergemeenschap op de Hohorst sinds 1050 de Sint-Paulusabdij te Utrecht |language=nl |year=2000 |location=Utrecht}}</ref> the 15th-century [[Begijnhof, Utrecht|beguinage of St. Nicholas]], and a 14th-century chapter house of the [[Teutonic Knights]].<ref name="Karel V">{{cite web |title=Karel V |language=nl |url=http://www.karelv.nl/ |access-date=6 January 2008 |archive-date=17 December 2007 |archive-url=https://web.archive.org/web/20071217220152/http://www.karelv.nl/ |url-status=live }}</ref>
+
+Besides these buildings which belonged to the bishopric, an additional four [[parish church]]es were constructed in the city: the [[Jacobikerk]] ([[James, son of Zebedee|dedicated to Saint James]]), founded in the 11th century, with the current Gothic church dating back to the 14th century;<ref>{{cite web |title=Jacobikerk |url=http://www.jacobikerk.nl/ |access-date=6 January 2008 |archive-date=9 January 2008 |archive-url=https://web.archive.org/web/20080109205733/http://www.jacobikerk.nl/ |url-status=live }}</ref> the Buurkerk (Neighbourhood-church) of the 11th-century parish in the centre of the city; Nicolaichurch (dedicated to [[Saint Nicholas]]), from the 12th century,<ref>{{cite web |title=Nicolaikerk |url=http://www.nicolaikerk.nl/ |access-date=6 January 2008 |archive-date=24 December 2007 |archive-url=https://web.archive.org/web/20071224223244/http://www.nicolaikerk.nl/ |url-status=live }}</ref> and the 13th-century Geertekerk (dedicated to Saint [[Gertrude of Nivelles]]).<ref>{{cite web |title=Geertekerk – Remonstrantse Gemeente Utrecht |url=http://www.geertekerk.nl/ |access-date=6 January 2008 |archive-date=5 December 2007 |archive-url=https://web.archive.org/web/20071205235942/http://www.geertekerk.nl/ |url-status=live }}</ref>
+
+====City of Utrecht====
+Its location on the banks of the river Rhine allowed Utrecht to become an important trade centre in the Northern Netherlands. The growing town was granted [[City rights in the Netherlands|city rights]] by [[Henry V, Holy Roman Emperor|Henry V]] at Utrecht on 2 June 1122. When the main flow of the Rhine moved south, the old bed which still flowed through the heart of the town became ever more [[canal]]ized; and the wharf system was built as an inner city harbour system.<ref>{{cite web |title=De Utrechtse (Werven |language=nl |publisher=Gemeente Utrecht |url=http://www.utrecht.nl/smartsite.dws?id=168424 |access-date=27 January 2008 |archive-url=https://web.archive.org/web/20081016132529/http://www.utrecht.nl/smartsite.dws?id=168424 |archive-date=16 October 2008 |url-status=dead}}</ref> On the wharfs, storage facilities (''werfkelders'') were built, on top of which the main street, including houses, was constructed. The wharfs and the cellars are accessible from a platform at water level with stairs descending from the street level to form a unique structure.<ref group=nb>Almost all other canal cities in The Netherlands (such as Amsterdam and Delft) have the water in canals bordering directly to the road surface</ref><ref>{{cite web |title=Historic wharf photos from the Utrecht City Archive |publisher=Utrecht City Archive |url=http://www.hetutrechtsarchief.nl/atlantis_treffers.asp?trefwoord=werven |access-date=27 January 2008}}{{dead link|date=April 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> The relations between the bishop, who controlled many lands outside of the city, and the citizens of Utrecht was not always easy.<ref name="20eUtrecht"/> The bishop, for example dammed the [[Kromme Rijn]] at [[Wijk bij Duurstede]] to protect his estates from flooding. This threatened shipping for the city and led the city of Utrecht to commission a canal to ensure access to the town for shipping trade: the Vaartse Rijn, connecting Utrecht to the [[Hollandse IJssel]] at [[IJsselstein]].
+
+====The end of independence====
+In 1528 the bishop lost secular power over both Neder- and Oversticht—which included the city of Utrecht—to [[Charles V, Holy Roman Emperor]]. Charles V combined the [[Seventeen Provinces]] (the current [[Benelux]] and the northern parts of France) as a personal union. This ended the prince-bishopric of Utrecht, as the secular rule was now the [[lordship of Utrecht]], with the religious power remaining with the bishop, although Charles V had gained the right to appoint new bishops. In 1559 the bishopric of Utrecht was raised to archbishopric to make it the religious centre of the Northern [[ecclesiastical province]] in the Seventeen Provinces.
+
+The transition from independence to a relatively minor part of a larger union was not easily accepted. To quell uprisings, Charles V struggled to exert his power over the city's citizens who had struggled to gain a certain level of independence from the bishops and were not willing to cede this to their new lord. The heavily fortified castle [[Vredenburg (castle)|Vredenburg]] was built to house a large garrison whose main task was to maintain control over the city. The castle would last less than 50&nbsp;years before it was demolished in an uprising in the early stages of the [[Dutch Revolt]].
+
+===Republic of the Netherlands (1579–1806)===
+[[File:Lambert de Hondt (II) - The Surrender of Utrecht.jpg|thumb|[[Lambert de Hondt (II)]]: the Surrender of Utrecht on 30 June 1672 to the French king [[Louis XIV]], 1672, [[Centraal Museum|Centraal Museum Utrecht]]]]
+[[File:Het afdanken der waardgelders door prins Maurits op de Neude te Utrecht, 31 juli 1618 (Joost Cornelisz. Droochsloot, 1625).jpg|thumb|Prince Maurits in Utrecht, 31 July 1618]]
+
+In 1579 the northern seven provinces signed the [[Union of Utrecht]] treaty (Dutch: Unie van Utrecht), in which they decided to join forces against Spanish rule. The Union of Utrecht is seen as the beginning of the [[Dutch Republic]]. In 1580, the new and predominantly Protestant state abolished the bishoprics, including the archbishopric of Utrecht. The [[stadtholder]]s disapproved of the independent course of the Utrecht bourgeoisie and brought the city under much more direct control of the republic, shifting the power towards its dominant province [[Holland]]. This was the start of a long period of stagnation of trade and development in Utrecht. Utrecht remained an atypical city in the new republic being about 40% Catholic in the mid-17th century, and even more so among the elite groups, who included many rural nobility and gentry with town houses there.<ref>{{cite book |author=Wayne Franits |title=Dutch Seventeenth-Century Genre Painting |page=65 |publisher=Yale University Press |year=2004 |isbn=0-300-10237-2}}</ref>
+
+The fortified city temporarily fell to the French invasion in 1672 (the [[Rampjaar|Disaster Year]], Dutch: Rampjaar). The French invasion was stopped just west of Utrecht at the [[Hollandic Water Line#Old Hollandic Waterline|Old Hollandic Waterline]]. In 1674, only two years after the French left, the centre of Utrecht was struck by a [[tornado]]. The halt to building before construction of flying buttresses in the 15th century now proved to be the undoing of the cathedral of St Martin church's central section which collapsed, creating the current Dom square between the tower and choir. In 1713, Utrecht hosted one of the first international peace negotiations when the [[Treaty of Utrecht (1713)|Treaty of Utrecht]] settled the [[War of the Spanish Succession]]. Beginning in 1723, Utrecht became the centre of the non-Roman [[Old Catholic Church]]es in the world.
+
+===Modern history (1815–present)===
+[[File:Een uitzinnige menigte verwelkomt de Canadese bevrijders in Utrecht - An ecstatic crowd in Utrecht welcomes the Canadian liberators (4502667274).jpg|thumb|upright|People celebrating the [[Liberation Day (Netherlands)|liberation of Utrecht]] at the end of [[World War II]] on 7 May 1945]]
+[[File:Lange Elisabethstraat Mariaplaats, 3511 Utrecht, Netherlands - panoramio.jpg|thumb|left|Zadelstraat]]
+[[File:Utrecht-plaats-OpenTopo.jpg|left|thumb|Contemporary map of Utrecht]]
+In the early 19th century, the role of Utrecht as a fortified town had become obsolete. The fortifications of the [[Nieuwe Hollandse Waterlinie]] were moved east of Utrecht. The town walls could now be demolished to allow for expansion. The moats remained intact and formed an important feature of the Zocher plantsoen, an [[English garden|English style landscape park]] that remains largely intact today. Growth of the city increased when, in 1843, a railway connecting Utrecht to Amsterdam was opened. After that, Utrecht gradually became the main hub of the [[Train routes in the Netherlands|Dutch railway network]]. With the [[Industrial Revolution]] finally gathering speed in the Netherlands and the ramparts taken down, Utrecht began to grow far beyond its medieval centre. When the Dutch government allowed the bishopric of Utrecht to be reinstated by [[Roman Catholic Church|Rome]] in 1853, Utrecht became the centre of Dutch Catholicism once more. From the 1880s onward, neighbourhoods such as Oudwijk, [[Wittevrouwen]], Vogelenbuurt to the East, and Lombok to the West were developed. New middle-class residential areas, such as Tuindorp and [[Oog in Al]], were built in the 1920s and 1930s. During this period, several [[Jugendstil]] houses and office buildings were built, followed by [[Gerrit Rietveld|Rietveld]] who built the [[Rietveld Schröder House]] (1924), and [[Willem Marinus Dudok|Dudok]]'s construction of the city theatre (1941).
+
+[[File:Oudegracht 158.JPG|thumb|The [[Winkel van Sinkel]], the first department store in The Netherlands.]]
+During [[World War II]], Utrecht was held by German forces until the general German surrender of the Netherlands on 5 May 1945. [[British army|British]] and [[Canadian Army|Canadian]] troops that had surrounded the city entered it after that surrender, on 7 May 1945. Following the end of World War II, the city grew considerably when new neighbourhoods such as [[Overvecht]], [[Kanaleneiland]], {{Interlanguage link multi|Hoograven|nl}} and [[Lunetten]] were built. Around 2000, the [[Leidsche Rijn]] housing area was developed as an extension of the city to the west.{{Cn|date=April 2023}}
+
+The area surrounding [[Utrecht Centraal railway station]] and the station itself were developed following modernist ideas of the 1960s, in a [[Brutalist architecture|brutalist]] style. This development led to the construction of the shopping mall {{Interlanguage link multi|Hoog Catharijne|nl}}, the music centre Vredenburg ([[Herman Hertzberger|Hertzberger]], 1979), and conversion of part of the ancient canal structure into a highway ([[Catharijnesingel|Catherijnebaan]]). Protest against further modernisation of the city centre followed even before the last buildings were finalised. In the early 21st century, the whole area is undergoing change again. The redeveloped music centre TivoliVredenburg opened in 2014 with the original Vredenburg and Tivoli concert and rock and jazz halls brought together in a single building.  {{Clear}}
+
+==Geography==
+
+===Climate===
+Utrecht experiences a temperate [[oceanic climate]] ([[Köppen climate classification|Köppen]]: ''Cfb'') similar to all of the [[Netherlands]].
+
+{{Weather box
+|location = [[De Bilt]]
+|metric first = Yes
+|single line = Yes
+| Jan record high C = 15.1
+| Feb record high C = 18.9
+| Mar record high C = 23.9
+| Apr record high C = 28.9
+| May record high C = 33.6
+| Jun record high C = 36.8
+| Jul record high C = 37.5
+| Aug record high C = 35.3
+| Sep record high C = 34.2
+| Oct record high C = 26.7
+| Nov record high C = 18.7
+| Dec record high C = 15.3
+|year record high C = 37.5
+| Jan high C = 6.1
+| Feb high C = 7.0
+| Mar high C = 10.5
+| Apr high C = 14.8
+| May high C = 18.3
+| Jun high C = 20.9
+| Jul high C = 23.1
+| Aug high C = 22.9
+| Sep high C = 19.5
+| Oct high C = 14.8
+| Nov high C = 9.9
+| Dec high C = 6.7
+|year high C = 14.6
+| Jan mean C = 3.6
+| Feb mean C = 3.9
+| Mar mean C = 6.5
+| Apr mean C = 9.9
+| May mean C = 13.4
+| Jun mean C = 16.1
+| Jul mean C = 18.2
+| Aug mean C = 17.8
+| Sep mean C = 14.7
+| Oct mean C = 10.9
+| Nov mean C = 7.0
+| Dec mean C = 4.2
+|year mean C = 10.6
+| Jan low C = 0.9
+| Feb low C = 0.7
+| Mar low C = 2.4
+| Apr low C = 4.5
+| May low C = 8.0
+| Jun low C = 10.8
+| Jul low C = 13.0
+| Aug low C = 12.5
+| Sep low C = 10.0
+| Oct low C = 7.1
+| Nov low C = 3.9
+| Dec low C = 1.6
+|year low C = 6.3
+| Jan record low C = -24.8
+| Feb record low C = -21.6
+| Mar record low C = -14.4
+| Apr record low C = -6.6
+| May record low C = -3.7
+| Jun record low C = 0.2
+| Jul record low C = 3.2
+| Aug record low C = 3.8
+| Sep record low C = -0.7
+| Oct record low C = -7.8
+| Nov record low C = -14.4
+| Dec record low C = -16.6
+|year record low C = -24.8
+|precipitation colour = green
+| Jan precipitation mm = 70.3
+| Feb precipitation mm = 62.7
+| Mar precipitation mm = 57.4
+| Apr precipitation mm = 41.1
+| May precipitation mm = 58.9
+| Jun precipitation mm = 70.1
+| Jul precipitation mm = 84.8
+| Aug precipitation mm = 83.1
+| Sep precipitation mm = 77.5
+| Oct precipitation mm = 80.7
+| Nov precipitation mm = 79.7
+| Dec precipitation mm = 83.4
+|year precipitation mm = 849.7
+|unit precipitation days = 1&nbsp;mm
+| Jan precipitation days = 12
+| Feb precipitation days = 10
+| Mar precipitation days = 11
+| Apr precipitation days = 9
+| May precipitation days = 10
+| Jun precipitation days = 10
+| Jul precipitation days = 10
+| Aug precipitation days = 10
+| Sep precipitation days = 11
+| Oct precipitation days = 12
+| Nov precipitation days = 13
+| Dec precipitation days = 12
+|year precipitation days = 131
+| Jan snow days = 6
+| Feb snow days = 6
+| Mar snow days = 4
+| Apr snow days = 2
+| May snow days = 0
+| Jun snow days = 0
+| Jul snow days = 0
+| Aug snow days = 0
+| Sep snow days = 0
+| Oct snow days = 0
+| Nov snow days = 2
+| Dec snow days = 5
+|year snow days = 25
+|Jan humidity = 87
+|Feb humidity = 84
+|Mar humidity = 81
+|Apr humidity = 75
+|May humidity = 75
+|Jun humidity = 76
+|Jul humidity = 77
+|Aug humidity = 79
+|Sep humidity = 84
+|Oct humidity = 86
+|Nov humidity = 89
+|Dec humidity = 89
+| Jan sun = 66.6
+| Feb sun = 89.6
+| Mar sun = 139.4
+| Apr sun = 189.2
+| May sun = 217.5
+| Jun sun = 207.1
+| Jul sun = 213.9
+| Aug sun = 196.3
+| Sep sun = 152.8
+| Oct sun = 119.3
+| Nov sun = 67.4
+| Dec sun = 55.5
+|year sun = 1714.6
+|source 1 = [[Royal Netherlands Meteorological Institute]] (1991–2020 normals, snowy days normals for 1971–2000)<ref>{{cite web |url=http://www.klimaatatlas.nl/tabel/stationsdata/klimtab_8110_260.pdf |title=Klimaattabel De Bilt, langjarige gemiddelden, tijdvak 1981–2010 |publisher=[[Royal Netherlands Meteorological Institute]] |language=nl |access-date=9 September 2013 |archive-date=7 December 2013 |archive-url=https://web.archive.org/web/20131207002117/http://www.klimaatatlas.nl/tabel/stationsdata/klimtab_8110_260.pdf |url-status=live }}</ref>
+|source 2 = [[Royal Netherlands Meteorological Institute]] (1901–present extremes)<ref>{{cite web |url=http://www.weergegevens.nl/ |title=Maandrecords De Bilt |publisher=[[Royal Netherlands Meteorological Institute]] |language=nl |access-date=9 May 2016 |archive-date=5 June 2016 |archive-url=https://web.archive.org/web/20160605081444/http://www.weergegevens.nl/ |url-status=live }}</ref>
+|date=December 2013}}
+
+== Population ==
+[[File:Utrecht population pyramid.svg|thumb|Utrecht population pyramid in 2022]]
+
+=== Demographics ===
+{{Historical populations
+|title      = Historical population
+|align      = right
+|cols       = 3
+|pop_name   = 
+|percentages = pagr
+|footnote   = 
+|source     = {{Harvnb|Lourens|Lucassen|1997|pp=87–88}} (1400–1795)
+|1400|13000
+|1481|17250
+|1577|27500
+|1623|30000
+|1670|30000
+|1748|25244
+|1795|32294
+| 1900 | 102086
+| 1910 | 119006
+| 1920 | 138334
+| 1930 | 153208
+| 1940 | 165029
+| 1950 | 193190
+| 1960 | 254186
+| 1970 | 279000
+| 1980 | 236208
+| 1990 | 230676
+| 2000 | 233667
+| 2010 | 307081
+| 2011 | 312634
+| 2019 | 357179
+}}
+
+Utrecht city had a population of 361,924 in 2022. It is a growing municipality and projections are that the population will surpass 392,000 by 2025.<ref name="bevolkingutrecht">{{cite web |last=Gemeente Utrecht |title=Utrechts onderzoek en cijfers |url=http://www.utrecht.nl/smartsite.dws?id=278616 |archive-url=http://arquivo.pt/wayback/20091015030852/http://www.utrecht.nl/smartsite.dws?id=278616 |url-status=dead |archive-date=15 October 2009 |access-date=15 October 2010}}</ref> As of November 2019, the city of Utrecht has a population of 357,179.<ref name="opendata.cbs.nl"/>
+
+Utrecht has a young population, with many inhabitants in the age category from 20 and 30&nbsp;years, due to the presence of a large university. About 52% of the population is female, 48% is male. The majority of households (52.5%) in Utrecht are single-person households. About 29% of people living in Utrecht are either married, or have another legal partnership. About 3% of the population of Utrecht is divorced.<ref name="bevolkingutrecht"/>
+
+=== Inhabitants by origin ===
+{| class="wikitable"
+!2020<ref>{{Cite web |title=CBS Statline |url=https://opendata.cbs.nl/statline/#/CBS/nl/dataset/37713/table |access-date=2023-06-28 |website=opendata.cbs.nl |language=nl}}</ref>
+!Numbers
+!%
+|-
+!Without recent migration background
+|228,502
+|63.9%
+|-
+!Western migration background
+|43,511
+|12.17%
+|-
+!Non-Western migration background
+|85,584
+|23.93%
+|-
+|[[Morocco]]
+|31,429
+|8.79%
+|-
+|[[Turkey]]
+|14,210
+|3.97%
+|-
+|[[Indonesia]]
+|7,923
+|2.22%
+|-
+|[[Suriname]]
+|7,771
+|2.17%
+|-
+|[[Netherlands Antilles]] and [[Aruba]]
+|2,907
+|0.81%
+|-
+|Total
+|357,597
+|100%
+|}
+
+For 62.8% of the population of Utrecht both parents were born in the Netherlands. Approximately 12.4% of the population consists of people with a recent migration background from [[Western world|Western]] countries, while 24.8% of the population has at least one parent who is of 'non-Western origin' (8.8% from Morocco, 4% Turkey, 3% Surinam and Dutch Caribbean and 9.1% of other countries).<ref name="bevolkingutrecht" /> 
+
+{| class="wikitable" style="float:right;"
+|+Population of the city of Utrecht by country of birth of the parents of citizens (2022). Those with a mixed background are counted in the 'non Dutch' groupings. <ref>{{cite web |url=http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=37713&D1=0-8&D2=0&D3=1-2,6-55&D4=603&D5=l&HDR=T,G4&STB=G1,G3,G2&VW=T |title=CBS StatLine – Bevolking; leeftijd, herkomstgroepering, geslacht en regio, 1 januari |access-date=8 August 2017 |archive-date=30 June 2017 |archive-url=https://web.archive.org/web/20170630224048/http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=37713&D1=0-8&D2=0&D3=1-2,6-55&D4=603&D5=l&HDR=T,G4&STB=G1,G3,G2&VW=T |url-status=live }}</ref>
+|-
+! Country/Territory || Population
+|-
+|{{flagicon|NED}} [[Netherlands]] || style="text-align:right;"|227,343 (62,8%)
+|-
+|{{flagicon|MAR}} [[Morocco]] || style="text-align:right;"|30,656 (8.8%)
+|-
+|{{flagicon|TUR}} [[Turkey]] || style="text-align:right;"|13,988 (4.%)		
+|-
+|{{flagicon|IDN}} [[Indonesia]] || style="text-align:right;"|8,014 (2.3%)	
+|-
+|{{flagicon|SUR}} [[Suriname]] || style="text-align:right;"|7,827 (3%)
+|-
+|Other || style="text-align:right;"|59,655 (20,7%)
+|}
+
+=== Religion ===
+Utrecht has been the religious centre of the Netherlands since the 8th century. Currently it is the see of the Metropolitan [[Roman Catholic Archdiocese of Utrecht|Archbishop of Utrecht]], the most senior Dutch Roman Catholic leader.<ref>{{cite web |title=Aartsbisdom Utrecht |url=http://www.aartsbisdom.nl/ |language=nl |access-date=10 December 2007 |archive-date=30 January 2021 |archive-url=https://web.archive.org/web/20210130092121/https://www.aartsbisdom.nl/ |url-status=live }}</ref><ref>{{cite web |title=Katholiek Nederland |url=http://www.katholieknederland.nl/ |language=nl |access-date=10 December 2007 |archive-date=4 October 2010 |archive-url=https://web.archive.org/web/20101004021841/http://www.katholieknederland.nl/ |url-status=dead}}</ref> His [[ecclesiastical province]] covers the whole kingdom.
+
+Utrecht is also the see of the archbishop of the [[Old Catholic Church]], titular head of the [[Union of Utrecht (Old Catholic)|Union of Utrecht]], and the location of the offices of the [[Protestant Church in the Netherlands]], the main Dutch Protestant church.
+
+As of 2013, the largest religion is Christianity with 28% of the population being Christian, followed by Islam with 9.9% in 2016 and Hinduism with 0.8%.
+
+{{Pie chart
+|thumb = right
+|caption = Religions in Utrecht (2013)<ref>{{cite web |url=https://www.cbs.nl/nl-nl/maatwerk/2014/40/kerkelijkheid-en-kerkbezoek-2010-2013 |publisher=Centraal Bureau voor de Statistiek |title=Kerkelijkheid en kerkbezoek, 2010/2013 |date=2 October 2014 |access-date=9 March 2017 |archive-date=21 June 2019 |archive-url=https://web.archive.org/web/20190621105812/https://www.cbs.nl/nl-nl/maatwerk/2014/40/kerkelijkheid-en-kerkbezoek-2010-2013 |url-status=live }}</ref>
+|label1 = None
+|value1 = 61.0
+|color1 = Gold
+|label2 = [[Catholic Church|Roman Catholic]]
+|value2 = 13.4
+|color2 = DarkOrchid
+|label3 = [[Protestant Church in the Netherlands]]
+|value3 = 10.2
+|color3 = DodgerBlue
+|label4 = Other Christian denominations 
+|value4 = 4.4
+|color4 = Turquoise
+|label5 = [[Islam in the Netherlands|Islam]]
+|value5 = 9.5
+|color5 = Green
+|label6 = [[Hinduism]]
+|value6 = 0.8
+|color6 = Orange
+|label7 = [[Buddhism]]
+|value7 = 0.6
+|color7 = Red
+|label8 = [[Judaism]]
+|value8 = 0.1
+|color8 = Brown
+}}
+
+===Population centres and agglomeration===
+The city of Utrecht is subdivided into 10 city quarters, all of which have their own neighbourhood council and service centre for civil affairs.
+
+# Binnenstad 
+# Oost 
+# Leidsche Rijn 
+# West 
+# Overvecht 
+# Zuid 
+# Noordoost 
+# Zuidwest 
+# Noordwest 
+# Vleuten-De Meern
+
+Utrecht is the centre of a densely populated area, a fact which makes concise definitions of its agglomeration difficult, and somewhat arbitrary. The smaller Utrecht agglomeration of continuously built-up areas counts some 420,000 inhabitants and includes [[Nieuwegein]], [[IJsselstein]] and [[Maarssen]]. It is sometimes argued that the close by municipalities [[De Bilt]], [[Zeist]], [[Houten]], [[Vianen]], [[Driebergen-Rijsenburg]] ([[Utrechtse Heuvelrug]]), and [[Bunnik]] should also be counted towards the Utrecht agglomeration, bringing the total to 640,000 inhabitants. The larger region, including slightly more remote cities such as [[Woerden]] and [[Amersfoort]], counts up to 820,000 inhabitants.<ref name="CBS statline 2007">{{cite web |author=CBS Statline |title=Gemiddelde bevolking per regio naar leeftijd en geslacht / Gebieden in Nederland 2007 |year=2007 |url=http://statline.cbs.nl/StatWeb/start.asp?KEYWORDS=agglomeratie+utrecht&BOOL=0&LA=NL&DM=SLNL&lp=Search/SResults |access-date=5 January 2008}}{{Dead link|date=August 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+== Politics ==
+ {| class="wikitable"
+ |+ [[Gemeenteraad|Municipal Council]] (2022-2026)
+! colspan=2 |party
+!seats
+|-
+|style="color:inherit;background:{{party color|GroenLinks}}"| ||[[GroenLinks]]||9
+|-
+|style="color:inherit;background:{{party color|Democrats 66}}"| ||[[Democrats 66|D66]]||8
+|-
+|style="color:inherit;background:{{party color|People's Party for Freedom and Democracy}}"| ||[[People's Party for Freedom and Democracy|VVD]]||5
+|-
+|style="color:inherit;background:{{party color|Labour Party (Netherlands)}}"| ||[[Labour Party (Netherlands)|PvdA]]||4
+|-
+|style="color:inherit;background:{{party color|Christian Democratic Appeal}}"| ||[[Christian Democratic Appeal|CDA]]||3
+|-
+|style="color:inherit;background:{{party color|Party for the Animals}}"| ||[[Party for the Animals|PvDD]]||3
+|-
+|style="color:inherit;background:{{party color|Volt Netherlands}}"| ||[[Volt Netherlands|Volt]]||3
+|-
+|style="color:inherit;background:{{party color|Christian Union (Netherlands)}}"| ||[[Christian Union (Netherlands)|Christenunie]]||2
+|-
+|style="color:inherit;background:{{party color|Denk (political party)}}"| ||[[Denk (political party)|Denk]]||1
+|-
+|style="color:inherit;background:{{party color|Bij1}}"| ||[[Bij1]]||1
+|-
+|bgcolor=""| ||Local parties||6
+|}
+
+== Cityscape ==
+[[File:Panorama Utrecht.jpg|thumb|Panorama]]
+[[File:Utrecht Canals - July 2006.jpg|thumb|[[Oudegracht]] (the 'old canal') in central Utrecht]]
+[[File:Utrecht Oude Gracht Hamburgerbrug (LOC).jpg|thumb|The Oudegracht in the 1890s]]
+[[File:Utrecht Canals Aerial View - July 2006.jpg|thumb|left|upright|View of the Oudegracht from the Dom Tower]]
+[[File:DomtorenUitzichtIn2009.jpg|thumb|left|upright|Aerial view of Utrecht from the Dom Tower]]
+Utrecht's cityscape is dominated by the [[Dom Tower of Utrecht|Dom Tower]], the tallest belfry in the Netherlands and originally part of the [[Cathedral of Saint Martin, Utrecht|Cathedral of Saint Martin]].<ref>{{cite web |url=http://www.domtoren.nl/ |title=RonDom |publisher=Domtoren.nl |access-date=13 April 2011 |archive-date=30 January 2012 |archive-url=https://web.archive.org/web/20120130030600/http://www.bouwdomtoren.nl/ |url-status=live }}</ref> An ongoing debate is over whether any building in or near the centre of town should surpass the Dom Tower in height ({{cvt|112|m|disp=sqbr}}). Nevertheless, some tall buildings are now being constructed that will become part of the skyline of Utrecht. The second-tallest building of the city, the [[Rabobank]]-tower, was completed in 2010 and stands {{cvt|105|m|0|abbr=off}} tall.<ref>{{cite web |url=http://www.rabobankgroep.nl/asp/default.asp?node_id=15062&version_id=1 |title=Rabobank Groep |publisher=Rabobankgroep.nl |access-date=13 April 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110724163429/http://www.rabobankgroep.nl/asp/default.asp?node_id=15062&version_id=1 |archive-date=24 July 2011}}</ref> Two antennas will increase that height to {{cvt|120|m|0|abbr=off}}. Two other buildings were constructed around the [[Stadion Galgenwaard|Nieuw Galgenwaard]] stadium (2007). These buildings, the 'Kantoortoren Galghenwert' and 'Apollo Residence', stand {{cvt|85.5|m|1|abbr=off}} and {{cvt|64.5|m|1|abbr=off}} high, respectively.
+The former Utrecht Main Post Office, built in 1924, is still in the city centre at Neude square, but is now serving as library, see also [[Utrecht Post Office]].
+
+Another landmark is the old centre and the canal structure in the inner city. The [[Oudegracht]] is a curved canal, partly following the ancient main branch of the [[Rhine]]. It is lined with the unique wharf-basement structures that create a two-level street along the canals.<ref>{{cite web |url=http://www.utrecht.nl/smartsite.dws?id=168424 |title=Cultuurhistorie en Monumenten |publisher=Utrecht.nl |date=4 December 1993 |access-date=13 April 2011 |archive-url=https://web.archive.org/web/20110608230327/http://www.utrecht.nl/smartsite.dws?id=168424 |archive-date=8 June 2011 |url-status=dead}}</ref> The inner city has largely retained its medieval structure,<ref>{{cite web |url=http://www.utrecht.nl/smartsite.dws?id=90241 |title=Wijksite Binnenstad |publisher=Utrecht.nl |date=30 March 2011 |access-date=13 April 2011 |archive-url=https://web.archive.org/web/20110608232007/http://www.utrecht.nl/smartsite.dws?id=90241 |archive-date=8 June 2011 |url-status=dead}}</ref> and the moat ringing the old town is largely intact.<ref>{{cite web |url=http://www.map21ltd.com/COSTC11/Utrecht/Utrecht.htm |publisher=Map21ltd.com |access-date=13 April 2011 |title=Utrecht |archive-url=https://web.archive.org/web/20030807220327/http://www.map21ltd.com/COSTC11/Utrecht/Utrecht.htm |archive-date=7 August 2003 |url-status=dead}}</ref> In the 1970s part of the moat was converted into a motorway. It was then converted back into a waterway, the work being finished in 2020.<ref>{{cite web |title=Joining the circle: Utrecht removes road to be ringed by water once more |url=https://www.dutchnews.nl/news/2020/09/joining-the-circle-utrecht-removes-road-to-be-ringed-by-water-once-more/ |website=DutchNews.nl |date=11 September 2020 |access-date=23 September 2020 |archive-date=22 September 2020 |archive-url=https://web.archive.org/web/20200922015651/https://www.dutchnews.nl/news/2020/09/joining-the-circle-utrecht-removes-road-to-be-ringed-by-water-once-more/ |url-status=live }}</ref><ref>{{cite web |title=Utrecht restores historic canal made into motorway in 1970s |url=https://www.theguardian.com/world/2020/sep/14/utrecht-restores-historic-canal-made-into-motorway-in-1970s |website=The Guardian |date=14 September 2020 |access-date=23 September 2020 |archive-date=19 September 2020 |archive-url=https://web.archive.org/web/20200919231659/https://www.theguardian.com/world/2020/sep/14/utrecht-restores-historic-canal-made-into-motorway-in-1970s |url-status=live }}</ref>
+
+Because of the role of Utrecht as a fortified city, construction outside the medieval centre and its city walls was restricted until the 19th century. Surrounding the medieval core there is a ring of late-19th- and early-20th-century neighbourhoods, with newer neighbourhoods positioned farther out.<ref>Historische Atlas van de stad Utrecht. {{ISBN|90-8506-189-X}}</ref> The eastern part of Utrecht remains fairly open. The [[Dutch Water Line]], moved east of the city in the early 19th century, required open lines of fire, thus prohibiting all permanent constructions until the middle of the 20th century on the east side of the city.<ref>{{cite book |publisher=Wandelplatform-LAW |title=Waterliniepad |language=nl |edition=1st |year=2004 |isbn=90-71068-61-7}}</ref>
+
+Due to the past importance of Utrecht as a religious centre, several monumental churches were erected, many of which have survived.<ref>{{cite web |url=http://www.kerkenkijken.nl/ |title=Kerken Kijken Utrecht &#124; Home |publisher=Kerkenkijken.nl |access-date=13 April 2011 |archive-date=24 July 2011 |archive-url=https://web.archive.org/web/20110724113700/http://www.kerkenkijken.nl/ |url-status=live }}</ref> Most prominent is the [[Cathedral of Saint Martin, Utrecht|Dom Church]]. Other notable churches include the romanesque [[Pieterskerk, Utrecht|St Peter's]] and St John's churches; the gothic churches of St James and St Nicholas; and the Buurkerk, now converted into a [[Museum Speelklok|museum for automatically playing musical instruments]].
+
+==Transport==
+===Public transport===
+Because of its central location, Utrecht is well connected to the rest of the Netherlands and has a well-developed public transport network.
+
+====Heavy rail====
+[[File:2015-08 utrecht cs 02.JPG|thumb|Utrecht Centraal railway station]]
+[[Utrecht Centraal]] is the main railway station of Utrecht and is the largest in the country. There are regular intercity services to all major Dutch cities, including direct services to [[Schiphol railway station|Schiphol Airport]]. Utrecht Centraal is a station on the [[Rail transport in the Netherlands#Night service|night service]], providing an all-night service to (among others) Schiphol Airport, Amsterdam and Rotterdam, seven days a week. International [[InterCityExpress]] (ICE) services to Germany through [[Arnhem]] call at Utrecht Centraal. Regular local trains to all areas surrounding Utrecht also depart from Utrecht Centraal; and service several smaller stations: [[Utrecht Lunetten railway station|Utrecht Lunetten]]; [[Utrecht Vaartsche Rijn railway station|Utrecht Vaartsche Rijn]]; [[Utrecht Overvecht railway station|Utrecht Overvecht]]; [[Utrecht Leidsche Rijn railway station|Utrecht Leidsche Rijn]]; [[Utrecht Terwijde railway station|Utrecht Terwijde]]; [[Utrecht Zuilen railway station|Utrecht Zuilen]] and [[Vleuten railway station|Vleuten]]. A former station [[Utrecht Maliebaan railway station|Utrecht Maliebaan]] closed in 1939 and has since been converted into the [[Dutch Railway Museum]].
+
+Utrecht is the location of the headquarters of [[Nederlandse Spoorwegen]] (English: ''Dutch Railways''), the largest rail operator in the Netherlands, and [[ProRail]], the state-owned company responsible for the construction and maintenance of the country's rail infrastructure.
+
+====Light rail====
+The [[Utrecht sneltram]] is a [[light rail]] scheme running southwards from Utrecht Centraal to the suburbs of [[IJsselstein]], [[Kanaleneiland]], Lombok and [[Nieuwegein]]. The sneltram began operations in 1983 and is currently operated by the private transport company [[Qbuzz]]. On 16 December 2019 the new tram line to the [[Uithof]] started operating, creating a direct [[mass transit]] connection from the [[central station]] to the main [[Utrecht university]] campus.<ref>{{cite web |url=http://www.railwaygazette.com/nc/news/single-view/view/qbuzz-wins-utrecht-sneltram-concession.html |access-date=31 October 2010 |title=Railway Gazette: Qbuzz wins Utrecht sneltram concession |archive-date=29 October 2010 |archive-url=https://web.archive.org/web/20101029163732/http://www.railwaygazette.com/nc/news/single-view/view/qbuzz-wins-utrecht-sneltram-concession.html |url-status=live }}</ref>
+
+====Bus transport====
+The main local and regional bus station of Utrecht is located adjacent to Utrecht Centraal railway station, at the East and West entrances. Due to large-scale renovation and construction works at the railway station, the station's bus stops are changing frequently. As a general rule, westbound buses depart from the bus station on the west entrance, other buses from the east side station. Local [[bus]]es in Utrecht are operated by [[Qbuzz]]; its services include a high-frequency service to the [[Uithof]] university district. The local bus fleet is one of Europe's cleanest, using only buses compliant with the [[European emission standards#Emission standards for trucks and buses|Euro-VI standard]] as well as electric buses for inner-city transport. Regional buses from the city are operated by [[Arriva]] and [[Connexxion]].
+
+The Utrecht Centraal railway station is also served by the pan-European services of [[Eurolines]]. Furthermore, it acts as departure and arrival place of many coach companies serving holiday resorts in Spain and France—and during winter in [[Austria]] and [[Switzerland]].
+
+===Cycling===
+Like most Dutch cities, Utrecht has an extensive network of [[Bicycle path|cycle paths]], making cycling safe and popular. 33% of journeys within the city are by bicycle, more than any other mode of transport.<ref>{{cite web |title=Microsoft Word - Utrecht city document.doc |url=http://blog.zeit.de/gruenegeschaefte/files/2010/05/2008-06-11-utrecht_city_document-ditewig.pdf |access-date=23 June 2014 |archive-date=23 February 2015 |archive-url=https://web.archive.org/web/20150223173828/http://blog.zeit.de/gruenegeschaefte/files/2010/05/2008-06-11-utrecht_city_document-ditewig.pdf |url-status=live }}</ref> (Cars, for example, account for 30% of trips). Bicycles are used by young and old people, and by individuals and families. They are mostly traditional, upright, steel-framed bicycles, with few gears. There are also bucket bikes for carrying cargo such as groceries or small children. Thanks in part to the access provided by bicycles, 100% of the population lives in a [[15-minute city]] and more than 90% can get to the major destination types within 10 minutes.<ref>{{cite journal |title=A composite X-minute city cycling accessibility metric and its role in assessing spatial and socioeconomic inequalities – A case study in Utrecht, the Netherlands |journal=Journal of Urban Mobility |date=December 2023 |doi=10.1016/j.urbmob.2022.100043 |last1=Knap |first1=Elizabeth |last2=Ulak |first2=Mehmet Baran |last3=Geurs |first3=Karst T. |last4=Mulders |first4=Alex |last5=Van Der Drift |first5=Sander |volume=3 |page=100043 |s2cid=255256096 |doi-access=free }}</ref> In 2014, the city council decided to build the world's largest [[bicycle parking station]], near the [[Utrecht Centraal railway station|Central Railway Station]].<ref>{{cite web |url=http://www.dutchnews.nl/news/archives/2014/04/utrecht_to_build_worlds_bigges |title=Utrecht to build world's biggest bike park – for 12,500 bikes – DutchNews.nl |work=DutchNews.nl |date=27 April 2014 |access-date=29 March 2015 |archive-date=29 March 2015 |archive-url=https://web.archive.org/web/20150329220826/http://www.dutchnews.nl/news/archives/2014/04/utrecht_to_build_worlds_bigges |url-status=live }}</ref> This three-floor construction cost over €30&nbsp;million and can hold 12,500 bicycles. The bicycle parking station was built in stages, with the first part opening in August 2017, and the final section (after some delay) being opened on 19 August 2019.<ref>{{cite web |url=https://bicycledutch.wordpress.com/2019/08/20/finally-fully-open-utrechts-huge-bicycle-parking-garage/ |title=Finally fully open: Utrecht's huge bicycle parking garage |work=Bicycle Dutch |date=20 August 2019 |access-date=6 February 2023 |archive-date=6 February 2023 |archive-url=https://web.archive.org/web/20230206092552/https://bicycledutch.wordpress.com/2019/08/20/finally-fully-open-utrechts-huge-bicycle-parking-garage/ |url-status=live }}</ref>
+
+===Road transport===
+Utrecht is well-connected to the Dutch road network. Two of the most important major roads serve the city of Utrecht: the [[A12 motorway (Netherlands)|A12]] and [[A2 motorway (Netherlands)|A2]] motorways connect [[Amsterdam]], [[Arnhem]], [[The Hague]] and [[Maastricht]], as well as Belgium and Germany. Other major motorways in the area are the [[Almere]]–[[Breda]] [[A27 motorway (Netherlands)|A27]] and the Utrecht–[[Groningen (city)|Groningen]] [[A28 motorway (Netherlands)|A28]].<ref>{{cite web |title=Autosnelwegen.nl |url=http://www.autosnelwegen.nl/ |publisher=Autosnelwegen.nl |access-date=13 April 2011 |archive-date=29 March 2010 |archive-url=https://web.archive.org/web/20100329095027/http://www.autosnelwegen.nl/ |url-status=live }}</ref> Due to the increasing traffic and the ancient city plan, traffic congestion is a common phenomenon in and around Utrecht, causing elevated levels of [[air pollutant]]s. This has led to a passionate debate in the city about the best way to improve the city's air quality.
+
+===Shipping===
+Utrecht has an industrial port located on the [[Amsterdam-Rijnkanaal]].<ref>{{cite encyclopedia |first=Michael |last=Clarke |url=http://www.britannica.com/eb/topic-21914/Amsterdam-Rhine-Canal |title=Amsterdam-Rhine Canal (canal, the Netherlands) – Britannica Online Encyclopedia |encyclopedia=Britannica.com |access-date=13 April 2011 |archive-date=30 December 2007 |archive-url=https://web.archive.org/web/20071230141826/http://www.britannica.com/eb/topic-21914/Amsterdam-Rhine-Canal |url-status=live }}</ref> The container terminal has a capacity of 80,000 containers a year. In 2003, the port facilitated the transport of four million tons of cargo; mostly sand, gravel, fertiliser and fodder.<ref>{{cite web |url=http://www.ctu.net/ |title=Container Terminal Utrecht |publisher=Ctu.net |access-date=13 April 2011 |archive-date=6 January 2011 |archive-url=https://web.archive.org/web/20110106005145/http://www.ctu.net/ |url-status=live }}</ref> Additionally, some tourist boat trips are organised from various places on the Oudegracht; and the city is connected to touristic shipping routes through sluices.<ref>{{cite web |author=Martijn Elsinghorst |url=http://vareninutrecht.nl/index.php?page=lp_rondvaart_utrecht |title=Rondvaart Utrecht |publisher=Vareninutrecht.nl |access-date=13 April 2011 |archive-date=24 July 2011 |archive-url=https://web.archive.org/web/20110724171937/http://vareninutrecht.nl/index.php?page=lp_rondvaart_utrecht |url-status=dead}}</ref><ref>{{cite web |url=http://www.schuttevaer.com/ |title=50 JAAR REDERIJ |publisher=Schuttevaer |access-date=13 April 2011 |archive-date=19 April 2011 |archive-url=https://web.archive.org/web/20110419231854/http://www.schuttevaer.com/ |url-status=live }}</ref><ref>{{cite web |url=http://www.inutrechtuit.nl/leuk_en_doen/lovers_rondvaart.html |title=Lovers Rondvaart – In Utrecht uit – de uitagenda over uitgaan restaurants in Utrecht |publisher=Inutrechtuit.nl |access-date=13 April 2011 |archive-url=https://web.archive.org/web/20110624031321/http://inutrechtuit.nl/leuk_en_doen/lovers_rondvaart.html |archive-date=24 June 2011 |url-status=dead}}</ref>
+
+==Economy==
+[[File:Utrecht de inktpot september 2003.jpg|thumb|'{{Interlanguage link multi|De Inktpot|nl}}' ("The Inkpot") with fake UFO]]
+
+Production industry constitutes a small part of the economy of Utrecht. The economy of Utrecht depends for a large part on the several large institutions located in the city. It is the centre of the Dutch railway network and the location of the head office of [[Nederlandse Spoorwegen]]. [[ProRail]] is headquartered in ''{{Interlanguage link multi|De Inktpot|nl}}'' (The Inkwell), the largest brick building in the Netherlands<ref>{{cite web |url=http://www.usine-utrecht.nl/inktpot-prorail-ns-hoofdkantoor/ |title=De administratiegebouwen van de spoorwegen te Utrecht |access-date=10 April 2020 |language=nl |date=15 February 2016 |archive-date=23 December 2019 |archive-url=https://web.archive.org/web/20191223144903/http://www.usine-utrecht.nl/inktpot-prorail-ns-hoofdkantoor/ |url-status=live }}</ref> (the "UFO" featured on its façade stems from an art program in 2000). [[Rabobank]], a large bank, has its headquarters in Utrecht.<ref>{{cite web |title=Toezicht - Rabobank |url=https://www.rabobank.nl/over-ons/toezicht/ |website=rabobank.nl |access-date=10 April 2020 |language=nl |archive-date=10 April 2020 |archive-url=https://web.archive.org/web/20200410233238/https://www.rabobank.nl/over-ons/toezicht/ |url-status=live }}</ref>
+
+Utrecht is also informally considered{{who|date=March 2024}} the "capital" of the [[Video games in the Netherlands|Dutch games industry]].<ref>{{cite web |title=Utrecht is the gaming capital of Europe and that's making millions |url=https://innovationorigins.com/en/utrecht-is-the-gaming-capital-of-europe-and-thats-making-millions/ |website=IO |date=1 February 2020}}</ref> It was named by [[Business Finland]] in 2023 as one of several capitals for the European games industry as a whole.<ref>{{cite web |title= Game capitals in Europe|url=https://tfprod.businessfinland.fi/4922fb/globalassets/finnish-customers/02-build-your-network/digitalization/game-industry/game-capitals-in-europe-study-melanie-krautwald-game-industry.pdf}}</ref> Utrecht's influence in this field was caused by video game development courses at its universities, which were the first such courses in Europe when launched in 2002. Since 2008 Utrecht has also been home to the studio incubator program [[Dutch Game Garden]], which has launched a number of studios in the area.<ref>{{cite web |title= Game Development|url=https://www.hku.nl/en/study-at-hku/games/game-development}}</ref><ref>{{cite web |title=Going Dutch: teamLab to launch permanent exhibition in the Netherlands in 2024 |url=https://www.theartnewspaper.com/2020/08/26/going-dutch-teamlab-to-launch-permanent-exhibition-in-the-netherlands-in-2024 |website=The Art Newspaper - International art news and events |date=26 August 2020}}</ref> By 2014 the program had created 200 jobs.<ref>{{cite web |last1=Bailey |first1=Kat |title=How the Dutch Game Garden Helped Remake Video Games in the Netherlands |url=https://www.vg247.com/how-the-dutch-game-garden-helped-remake-video-games-in-the-netherlands |website=VG247 |language=en |date=30 December 2015}}</ref> Utrecht is also home to [[Nixxes Software]] (a [[PlayStation Studios]] subsidiary) as well as [[Sokpop Collective]].
+
+==Education==
+[[File:Utrecht-Uithof, from CambridgeLaan 01.jpg|thumb|View on the Science Park campus of [[Utrecht University]]. The building in the centre is the library.]]
+
+Utrecht hosts several large institutions of higher education. The most prominent of these is [[Utrecht University]] (est. 1636), the largest university of the [[Netherlands]] with 30,449 students ({{As of|2012|lc=y}}). The university is partially based in the inner city as well as in the [[Uithof]] campus area, on the east side of the city. According to [[Shanghai Jiaotong University]]'s university ranking in 2014, it is the 57th-best university in the world.<ref>{{cite web |website=www.shanghairanking.com |title=World-University-Rankings |url=http://www.shanghairanking.com/World-University-Rankings/Utrecht-University.html |access-date=30 March 2015 |archive-date=3 April 2015 |archive-url=https://web.archive.org/web/20150403235146/http://www.shanghairanking.com/World-University-Rankings/Utrecht-University.html |url-status=dead}}</ref> Utrecht also houses the much smaller [[University of Humanistic Studies]], which houses about 400 students.<ref>{{cite web |title=About the University of Humanistic Studies (Dutch) |url=http://www.uvh.nl/organisatie/over-de-universiteit |access-date=25 December 2012 |url-status=dead |archive-url=https://web.archive.org/web/20130116205642/http://www.uvh.nl/organisatie/over-de-universiteit |archive-date=16 January 2013}}</ref>
+
+Utrecht is home of one of the locations of [[TIAS School for Business and Society]], focused on post-experience management education and the largest management school of its kind in the Netherlands. In 2008, its executive [[MBA]] program was rated the 24th best program in the world by the ''[[Financial Times]]''.<ref>{{cite web |author=Financial Times |title=FT.com |url=http://rankings.ft.com/emba-rankings |access-date=6 January 2008 |archive-date=29 February 2008 |archive-url=https://web.archive.org/web/20080229061100/http://rankings.ft.com/emba-rankings |url-status=dead}}</ref>
+
+Utrecht is also home to two other large institutions of higher education: the vocational university [[University of Professional Education Utrecht|Hogeschool Utrecht]] (37,000 students),<ref>{{cite web |author=Hogeschool Utrecht |title=Kengetallen HU Jaarverslag |url=http://www.hu.nl/Jaarverslag/Kengetallen.aspx |access-date=7 August 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120718052752/http://hu.nl/Jaarverslag/Kengetallen.aspx |archive-date=18 July 2012}}</ref> with locations in the city and the Uithof campus; and the [[Utrecht School of the Arts|HKU Utrecht School of the Arts]] (3,000 students).
+
+There are many schools for [[Primary education#Netherlands|primary]] and secondary education, allowing parents to select from different philosophies and religions in the school as is inherent in the [[Education in the Netherlands|Dutch school system]].
+
+==Culture==
+[[File:Miffy Statue in Utrecht.jpg|thumb|[[Miffy]] statue at the Nijntjepleintje in Utrecht]]
+[[File:Rietveld Schröderhuis HayKranen-20.JPG|thumb|The [[Rietveld Schröder House]] from 1924]]
+[[File:Kariatiden Winkel van Sinkel.JPG|thumb|Caryatids at the Winkel van Sinkel]]
+
+Utrecht city has an active cultural life, and in the Netherlands is second only to Amsterdam.<ref name="Umon"/> There are several theatres and theatre companies. The 1941 main city theatre was built by [[Willem Marinus Dudok|Dudok]]. In addition to theatres, there is a large number of cinemas including three arthouse cinemas. Utrecht is host to the international [[Early Music Festival]] (Festival Oude Muziek, for music before 1800) and the [[Netherlands Film Festival]]. The city has an important classical music hall Vredenburg (1979 by [[Herman Hertzberger]]). Its acoustics are considered among the best of the 20th-century original music halls.{{citation needed|date=March 2015}} The original Vredenburg music hall has been redeveloped as part of the larger station area redevelopment plan and in 2014 gained additional halls that allowed its merger with the rock club Tivoli and the SJU jazzpodium. There are several other venues for music throughout the city. Young musicians are educated in the [[College or university school of music|conservatory]], a department of the [[Utrecht School of the Arts]]. There is a specialised [[Museum Speelklok|museum]] of automatically playing musical instruments.
+
+[[File:Prins Clausbrug vanuit NO bekeken.JPG|thumb|Prins Clausbrug across the [[Amsterdam-Rhine Canal]]]]
+
+There are many art galleries in Utrecht. There are also several foundations to support art and artists. Training of artists is done at the [[Utrecht School of the Arts]]. The [[Centraal Museum]] has many exhibitions on the arts, including a permanent exhibition on the works of Utrecht resident illustrator [[Dick Bruna]], who is best known for creating [[Miffy]] ("Nijntje", in Dutch). BAK, [Dutch: "Basis voor Actuele Kunst," Basis for Contemporary Art] offers contemporary art exhibitions and public events, as well as a Fellowship program for practitioners involved in contemporary arts, theory and activisms. Although street art is illegal in Utrecht, the Utrechtse Kabouter, a picture of a gnome with a red hat, became a common sight in 2004.<ref>{{cite web |url=http://utrechtsekabouter.weebly.com/ |title=Home |work=weebly.com |access-date=29 March 2015 |archive-date=2 April 2015 |archive-url=https://web.archive.org/web/20150402162238/http://utrechtsekabouter.weebly.com/ |url-status=live }}</ref> Utrecht also houses one of the landmarks of modern architecture, the 1924 [[Rietveld Schröder House]], which is listed on UNESCO's [[World Heritage Site]]s.
+
+Every Saturday, a paviour adds another letter to ''[[The Letters of Utrecht]]'', an endless poem in the cobblestones of the Oude Gracht in Utrecht. With the ''Letters'', Utrecht has a [[social sculpture]] as a growing monument created for the benefit of future people.
+
+To promote culture, Utrecht city organizes cultural Sundays. During a thematic Sunday, several organisations create a program which is open to everyone without, or with a substantially reduced, admission fee. There are also initiatives for [[amateur]] artists. The city subsidises an organisation for amateur education in arts aimed at all inhabitants (Utrechts Centrum voor de Kunsten), as does the university for its staff and students. Additionally there are also several private initiatives. The city council provides coupons for discounts to inhabitants who receive welfare to be used with many of the initiatives.
+
+In 2017, Utrecht was named as a UNESCO [[City of Literature]]. In 2025 the national [[literatuurmuseum|literature museum]] will move from the Hague to Utrecht.
+
+===Sports===
+[[File:Coachpraatje bij de Munt - WLM 2011 - ednl.jpg|thumb|{{Interlanguage link multi|Triton rowing club|nl|3=U.S.R. Triton}} team pauses with their coach by the Muntbrug, a rotating bridge built in 1887.]]
+Utrecht is home to the premier league (professional) [[association football|football]] club [[FC Utrecht]], which plays in [[Stadion Galgenwaard|Stadium Nieuw Galgenwaard]]. It is also the home of Kampong, the largest (amateur) sportsclub in the Netherlands (4,500 members), SV Kampong.<ref>{{cite web |url=http://www.kampong.nl/ |title=kampong.nl |publisher=kampong.nl |access-date=2014-06-23 |archive-url=https://web.archive.org/web/20050218010740/http://www.kampong.nl/ |archive-date=18 February 2005 |url-status=dead}}</ref> Kampong features [[field hockey]], association football, [[cricket]], [[tennis]], [[squash (sport)|squash]] and [[boules]]. Kampong's men and women top hockey squads play in the highest Dutch hockey league, the Rabohoofdklasse. Utrecht is also home to baseball and softball club UVV, which plays in the highest Dutch baseball league: de Hoofdklasse. Utrecht's waterways are used by several rowing clubs. Viking is a large club open to the general public, and the student clubs Orca and Triton compete in the [[Varsity (rowing regatta)|Varsity]] each year.
+
+In July 2013, Utrecht hosted the [[European Youth Olympic Festival]], in which more than 2,000 young athletes competed in nine different Olympic sports. In July 2015, Utrecht hosted the Grand Départ and first stage of the [[Tour de France]].<ref>{{cite web |url=http://www.letour.fr/le-tour/2014/us/pre-race/news/ahc/utrecht-2015-the-colour-of-cycling.html |title=Utrecht 2015: the colour of cycling – News pre-race – Tour de France 2014 |publisher=Letour.fr |date=2013-11-28 |access-date=2014-06-23 |archive-url=https://web.archive.org/web/20131203040046/http://www.letour.fr/le-tour/2014/us/pre-race/news/ahc/utrecht-2015-the-colour-of-cycling.html |archive-date=3 December 2013 |url-status=dead}}</ref>
+
+===Museums===
+[[File:Aanzicht op de westgevel van bouwdeel 1 - Utrecht - 20234880 - RCE.jpg|thumb|[[Duitse Huis]] in April 1982]]
+Utrecht has several smaller and larger museums. Many of those are located in the southern part of the old town, the Museumkwartier.
+*{{Interlanguage link multi|Aboriginal Art Museum|nl}},<ref>{{cite web |url=http://www.aamu.nl/ |title=aamu.nl |publisher=aamu.nl |date=2014-06-06 |access-date=2014-06-23 |archive-url=https://web.archive.org/web/20140703232236/http://www.aamu.nl/ |archive-date=3 July 2014 |url-status=dead}}</ref> located at the Oudegracht and closed since 15 June 2017, this museum had a small exhibit of Australian Aboriginal Art
+*BAK, basis voor actuele kunst, an international platform for theoretically-informed, politically driven art and experimental research
+*[[Centraal Museum]], located in the MuseumQuarter, this municipal museum has a large collection of art, design, and historical artifacts;
+**{{Interlanguage link multi|Dick Bruna huis|nl}},<ref>{{cite web |url=http://www.dickbrunahuis.com/eng/index.html |archive-url=https://web.archive.org/web/20060217115228/http://www.dickbrunahuis.com/eng/index.html |url-status=dead |archive-date=2006-02-17 |title=Centraal Museum Utrecht |language=nl |publisher=dick bruna huis |access-date=2014-06-23}}</ref> art of Centraal Museum on this separate location is dedicated to Miffy creator Dick Bruna.
+*[[Duitse Huis]] has a collection of historical items including many charters with seals dating from as far back as the early 13th century and a collection of medieval coins.<ref>{{cite web |url=http://www.rdo.nl/pagina/1 |title=Over RDO |publisher=Ridderlijke Duitsche Orde |access-date=2014-06-21 |url-status=dead |archive-url=https://web.archive.org/web/20140225021736/http://www.rdo.nl/pagina/1 |archive-date=25 February 2014}}</ref>
+*[[Museum Catharijneconvent]], Museum of the Catholic Church shows the history of Christian culture and arts in the Netherlands;
+*[[Museum Speelklok]] National Museum in the centre of the city, displays several centuries of mechanical musical instruments;
+*[[Railway Museum (Netherlands)|Railway Museum (Nederlands Spoorwegmuseum)]] Railway sponsored museum on the history of the Dutch railways;
+*[[Utrecht Archives]],<ref>{{cite web |url=http://www.hetutrechtsarchief.nl/ |title=hetutrechtsarchief.nl |publisher=hetutrechtsarchief.nl |access-date=2014-07-13 |archive-date=14 May 2017 |archive-url=https://web.archive.org/web/20170514041609/http://www.hetutrechtsarchief.nl/ |url-status=live }}</ref> are located at Hamburgerstraat 28 in Utrecht;
+*{{Interlanguage link multi|Utrecht university museum|nl|3=Universiteitsmuseum (Utrecht)}}<ref>{{cite web |url=http://www.museum.uu.nl/ |archive-url=https://web.archive.org/web/20080212022734/http://www.museum.uu.nl/ |title=web.archive.org – www.museum.uu.nl |archive-date=12 February 2008 |work=uu.nl}}</ref> [[Utrecht University]] museum includes the ancient [[botanical garden]];
+*{{Interlanguage link multi|Volksbuurtmuseum Wijk C|nl}}<ref>{{cite web |author=Etlon |url=http://home.wxs.nl/~wersc6/frames.htm |archive-url=https://web.archive.org/web/20070930030851/http://home.wxs.nl/~wersc6/frames.htm |archive-date=2007-09-30 |title=Volksbuurtmuseum wijk C |date=2007-09-30 |access-date=2014-06-23}}</ref>
+*[[Sonnenborgh Observatory]]<ref>{{Cite web |url=https://www.sonnenborgh.nl/english |title=English - Sonnenborch |access-date=24 July 2018 |archive-date=24 July 2018 |archive-url=https://web.archive.org/web/20180724183704/https://www.sonnenborgh.nl/english |url-status=live }}</ref> observatory and museum that regularly hosts lectures on astronomy, located at Zonnenburg 2 in Utrecht;
+*{{Interlanguage link multi|Betje Boerhave Museum|nl}}<ref>{{cite web |url=http://www.kruideniersmuseum.nl/ |title=Museum voor het kruideniersbedrijf - Kruideniersmuseum |website=www.kruideniersmuseum.nl |access-date=24 July 2018 |archive-date=14 July 2018 |archive-url=https://web.archive.org/web/20180714195052/http://www.kruideniersmuseum.nl/ |url-status=live }}</ref> museum for the grocer's shop where people can buy old-fashioned food and non-food items, located at Hoogt 6 in Utrecht.
+
+===Music and events===
+The city has several music venues such as [[TivoliVredenburg]], [[Tivoli (Utrecht)|Tivoli De Helling]], [[ACU (Utrecht)|ACU]], [[Moira (Utrecht)|Moira]], EKKO, dB's and RASA. Utrecht hosts the yearly Utrecht Early Music Festival ([[Festival Oude Muziek]]).<ref>{{cite web |title=OudeMuziek :: Home |url=http://www.oudemuziek.nl/home/ |publisher=Oudemuziek.nl |access-date=23 June 2014 |archive-date=17 July 2014 |archive-url=https://web.archive.org/web/20140717020856/http://www.oudemuziek.nl/home/ |url-status=live }}</ref> Several Editions of the [[Thunderdome (music festival)|Thunderdome]], a large gabber music event, have been held in [[Jaarbeurs Utrecht]]. The city also hosts [[Trance Energy]] there. Every summer there used to be the ''Summer Darkness'' festival, which celebrated [[Goth subculture|goth culture]] and [[Gothic music|music]].<ref name="Brandon Hartley">{{cite web |last=Hartley |first=Brandon |title=When the Goths Have Their Picnic |date=September 2011 |url=http://anotherworldblog.wordpress.com/2011/09/01/when-the-goths-have-their-picnic/ |publisher=Another World Blog |access-date=10 October 2011 |archive-date=25 April 2012 |archive-url=https://web.archive.org/web/20120425051649/http://anotherworldblog.wordpress.com/2011/09/01/when-the-goths-have-their-picnic/ |url-status=live }}</ref> In November the [[Le Guess Who?]] festival, focused on [[indie rock]], [[art rock]] and [[experimental rock]], takes place in many of the city's venues.
+
+===Theatre===
+There are two main theatres in the city, the {{Interlanguage link multi|Theater Kikker|nl}}<ref>{{cite web |title=theaterkikker.nl |url=http://www.theaterkikker.nl/ |publisher=theaterkikker.nl |access-date=23 June 2014 |archive-date=27 June 2014 |archive-url=https://web.archive.org/web/20140627052135/http://www.theaterkikker.nl/ |url-status=live }}</ref> and the {{Interlanguage link multi|Stadsschouwburg Utrecht|nl}}.<ref>{{cite web |title=stadsschouwburg-utrecht.nl |url=http://www.stadsschouwburg-utrecht.nl/ |publisher=stadsschouwburg-utrecht.nl |access-date=23 June 2014 |archive-date=25 June 2014 |archive-url=https://web.archive.org/web/20140625054840/http://www.stadsschouwburg-utrecht.nl/ |url-status=live }}</ref> De Parade, a travelling theatre festival, performs in Utrecht in summer. The city also hosts the yearly [[Festival aan de Werf]] which offers a selection of contemporary international theatre, together with visual arts, public art and music.
+
+==Notable people from Utrecht==
+[[File:Geboortehuis van Paus Adriaan.jpg|thumb|upright|Birthplace of [[Pope Adrian VI]]]]
+<!--PLEASE RESPECT ALPHABETICAL ORDER -->
+<!-- Please only add people who have attained lasting global fame (>50 years). There are thousands of well-known people from the city of Utrecht. This article is not a list of such people, therefore only the most famous people can be mentioned. People who are well-known but who cannot claim lasting global fame should be listed on the article: List of people from Utrecht -->
+{{main|List of people from Utrecht}}
+:''See also the category [[:Category:People from Utrecht (city)|People from Utrecht]]''
+
+Over the ages famous people have been born or raised in Utrecht.
+Among the most famous Utrechters are:<!-- Please do not add to this list but in the list of people from Utrecht instead -->
+*[[Pope Adrian VI]] (1459–1523), head of the Catholic Church
+*[[Louis Andriessen]] (1939–2021), composer
+*[[Marco van Basten]] (born 1964), football player
+*[[Dick Bruna]] (1927–2017), writer and illustrator ([[Miffy]])
+*[[C.H.D. Buys Ballot]] (1817–1890), meteorologist ([[Buys-Ballot's law]])
+*[[Theo van Doesburg]] (1883–1931), painter and artist ([[De Stijl]] movement)
+*[[Karel Doorman]] (1889–1942), Rear Admiral ([[Battle of the Java Sea]])
+*[[Paul Fentener van Vlissingen]] (1941–2006), businessman and philanthropist
+*[[Anton Geesink]] (1934–2010), [[judoka]], first non-Japanese worldchampion [[Judo]]
+*[[Rijk de Gooyer]] (1925–2011), actor, writer, comedian and singer
+*[[Sylvia Kristel]] (1952–2012), actress (''[[Emmanuelle (1974 film)|Emmanuelle]]'')
+*[[Gerrit Rietveld]] (1888–1964), designer and architect ([[De Stijl]] movement)
+*[[Dafne Schippers]] (born 1992), sprinter/heptathlon Olympian
+*[[Herman van Veen]] (born 1945), actor, musician, singer-songwriter and author of ''[[Alfred J. Kwak]]''
+*[[Wil Velders-Vlasblom]] (1930–2019), first female alderman in Utrecht
+*[[Jason Wilnis]] (born 1990), mixed martial artist and former kickboxing [[Glory_(kickboxing)#Glory_Middleweight_Championship|Glory middleweight champion]]
+*[[Jurriën Timber]] (born 2001), football player for [[Premier League]] side [[Arsenal F.C.|Arsenal]], with 15 international caps for [[Netherlands national football team|The Dutch National Team]]
+
+==International relations==
+{{more citations needed section|date=July 2015}}
+{{see also|List of twin towns and sister cities in the Netherlands}}
+
+===Twin towns===
+Utrecht is [[Twin towns and sister cities|twinned]] with:
+*{{flagicon|NCA}} [[León (Nicaragua)|León]], Nicaragua
+*{{flagicon|CZE}} [[Brno]], Czech Republic<ref name="Brno twinnings">{{cite web |url=http://www2.brno.cz/index.php?lan=en&nav01=2222&nav02=1249 |title=City of Brno Foreign Relations – Statutory city of Brno |year=2003 |publisher=City of Brno |language=cs |access-date=6 September 2011 |url-status=dead |archive-url=https://web.archive.org/web/20160115084015/http://www2.brno.cz/index.php?lan=en&nav01=2222&nav02=1249 |archive-date=15 January 2016}}</ref><ref name="Brno">{{cite web |url=http://www.brno.cz/index.php?nav02=1985&nav01=34&nav03=1010&nav04=1016&nav05=1249&nav06=1272 |title=Brno – Partnerská města |publisher=City of Brno |language=cs |access-date=17 July 2009 |archive-date=23 May 2011 |archive-url=https://web.archive.org/web/20110523100252/http://www2.brno.cz/index.php?nav02=1985&nav01=34&nav03=1010&nav04=1016&nav05=1249&nav06=1272 |url-status=dead}}</ref>
+*{{flagicon|INA}} [[Pekanbaru]], Indonesia
+*previously {{flagicon|GER}} [[Hannover]], Germany, between 1970 and 1976
+
+===Other relations===
+*{{flagicon|USA}} [[Portland, Oregon]], United States as a friendship city<ref>{{cite web |url=http://sister-cities.org/interactive-map/Portland,%20Oregon |publisher=Sister Cities International |location=Washington, DC, US |title=Portland, Oregon |access-date=2015-07-04 |archive-url=https://web.archive.org/web/20150527135739/http://sister-cities.org/interactive-map/Portland%2C%20Oregon |archive-date=27 May 2015 |url-status=dead}}</ref>
+
+==See also==
+*[[Catharijne]]
+*[[Lauwerecht]]
+*[[List of mayors of Utrecht]]
+*[[Utrecht (agglomeration)]]
+
+==Notes==
+{{reflist|group=nb}}
+
+==References==
+{{reflist}}
+
+===Bibliography===
+{{see also|Timeline of Utrecht#Bibliography|l1=Bibliography of the history of Utrecht}}
+*{{cite book |last1=Lourens |first1=Piet |last2=Lucassen |first2=Jan |title=Inwonertallen van Nederlandse steden ca. 1300–1800 |publisher=NEHA |location=Amsterdam |year=1997 |isbn=9057420082}}
+
+==External links==
+*{{Official website|http://www.utrecht.nl/english/}}
+*[http://www.cu2030.nl/ CU 2030, redevelopment of the Utrecht Central railroad station area] {{in lang|nl}}
+
+{{Sister bar|Utrecht (city)|auto=y}}
+{{Dutch municipality Utrecht}}
+{{Utrecht Province}}
+{{Dutch capital cities}}
+{{Authority control}}
+
+{{DEFAULTSORT:Utrecht (City)}}
+[[Category:Utrecht (city)| ]]
+[[Category:40s establishments in the Roman Empire]]
+[[Category:Cities in the Netherlands]]
+[[Category:Municipalities of Utrecht (province)]]
+[[Category:Populated places in Utrecht (province)]]
+[[Category:Populated places on the Rhine]]
+[[Category:Provincial capitals of the Netherlands]]
+[[Category:Populated places established in the 1st century]]
+[[Category:Germania Inferior]]

@@ -1,0 +1,462 @@
+{{Short description|City in northeastern Hungary}}
+{{expand Hungarian|topic=geo|otherarticle=Nyíregyháza|date=October 2012}}
+{{more footnotes|date=October 2012}}
+
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| name                   = Nyíregyháza
+| other_name             = 
+| settlement_type        = [[Town with county rights|City with county rights]]
+| official_name          = {{lang|hu|Nyíregyháza Megyei Jogú Város}}
+| image_skyline          = 
+Nyíregyháza montázs.jpg
+| image_caption          = '''Left:''' Our Lady of Nyíregyháza Cathedral, Saving Palace (Takarekpalota) '''Right:''' Nyíregyháza City Hall, A view of Cathedral from Kossuth Street, 25 Kossuth Street (All items were from above to bottom)
+| image_shield           = HUN Nyíregyháza Címer.svg
+| image_flag             = Flag of Nyíregyháza.svg
+| image_blank_emblem     = Nyíregyháza Logo.png
+| blank_emblem_type      = [[Logo]]
+| timezone               = [[Central European Time|CET]]
+| utc_offset             = +1
+| timezone_DST           = [[Central European Summer Time|CEST]]
+| utc_offset_DST         = +2
+| leader_title           = [[Mayor]]
+| leader_name            = [[Ferenc Kovács (politician, born 1960)|Dr Ferenc Kovács]] ([[Fidesz]])
+| leader_title1          = [[Deputy Mayor]]
+| leader_name1           = Menyhért Jászai ([[Fidesz]]-[[KDNP]]) <br>Dr Attila Ulrich ([[Fidesz]]-[[KDNP]])
+| leader_title2          = [[Town Notary]]
+| leader_name2           = Dr Sándor Szemán
+| pushpin_map            = Hungary Szabolcs-Szatmár-Bereg#Hungary
+| pushpin_relief         = 1
+| pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption    = 
+| pushpin_mapsize        =
+| map                    = <!--<div style="position: relative">[[File:HU county Szabolcs-Szatmar-Bereg.svg|275px]]<div style="position: absolute; left: 221px; top: 38px">[[File:Red Dot.gif]]{{refend}}{{refend}}-->
+| subdivision_type       = Country
+| subdivision_name       = {{HUN}}
+| subdivision_type1      = [[List of regions of Hungary|Region]]
+| subdivision_name1      = [[Northern Great Plain]]
+| subdivision_type2      = [[Counties of Hungary|County]]
+| subdivision_name2      = [[Szabolcs-Szatmár-Bereg County|Szabolcs-Szatmár-Bereg]]
+| subdivision_type3      = [[Districts of Hungary|District]]
+| subdivision_name3      = [[Nyíregyháza District|Nyíregyháza]]
+| established_title1     = Established
+| established_date1      = 9th century AD
+| established_title2     = [[Market town#Hungary|Market town]]
+| established_date2      = 1786
+| area_total_km2         = 274.46
+| elevation_m            = 116
+| population_footnotes   =
+| population_as_of       = 2017
+| population_total       = 117689<ref>[http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=17206 KSH - Nyíregyháza, 2017]</ref>
+| population_rank        = [[List of cities and towns in Hungary|7th in Hungary]]
+| population_density_km2 = 425.92
+| population_urban       = 238,020 ([[List of urban areas in Hungary|3rd]])<ref>[http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=urb_lpop1&lang=en Eurostat, 2016]</ref>
+<!-- demographics (section 1) -->
+| demographics_type1     = [[Demographics of Hungary|Population by ethnicity]]
+| demographics1_footnotes = <ref name="KSH - Nyíregyháza, 2011">[http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=17206 KSH - Nyíregyháza, 2011]</ref>
+| demographics1_title1   = [[Hungarians]]
+| demographics1_info1    = 86.1%
+| demographics1_title2   = [[Romani people in Hungary|Roma]]
+| demographics1_info2    = 1.8%
+| demographics1_title3   = [[Hungarian Germans|Germans]]
+| demographics1_info3    = 0.5%
+| demographics1_title4   = [[Ukrainians in Hungary|Ukrainians]]
+| demographics1_info4    = 0.4%
+| demographics1_title5   = [[Romanians in Hungary|Romanians]]
+| demographics1_info5    = 0.3%
+| demographics1_title6   = [[Slovaks in Hungary|Slovaks]]
+| demographics1_info6    = 0.2%
+| demographics1_title7   = [[Rusyns]]
+| demographics1_info7    = 0.1%
+| demographics1_title8   = [[Bulgarians in Hungary|Bulgarians]]
+| demographics1_info8    = 0.1%
+| demographics1_title9   = [[Poles in Hungary|Poles]]
+| demographics1_info9    = 0.1%
+<!-- demographics (section 2) -->
+| demographics_type2     = [[Demographics of Hungary|Population by religion]]
+| demographics2_footnotes = <ref name="KSH - Nyíregyháza, 2011">[http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=17206 KSH - Nyíregyháza, 2011]</ref>
+| demographics2_title1   = [[Catholic Church in Hungary|Roman Catholic]]
+| demographics2_info1    = 21.0%
+| demographics2_title2   = [[Hungarian Greek Catholic Church|Greek Catholic]]
+| demographics2_info2    = 10.6%
+| demographics2_title3   = [[Reformed Church in Hungary|Calvinists]]
+| demographics2_info3    = 16.4%
+| demographics2_title4   = [[Evangelical-Lutheran Church in Hungary|Lutherans]]
+| demographics2_info4    = 7.0%
+| demographics2_title5   = [[Jews in Hungary|Jews]]
+| demographics2_info5    = 0.1%
+| demographics2_title6   = Other
+| demographics2_info6    = 1.8%
+| demographics2_title7   = [[Non-religious]]
+| demographics2_info7    = 14.6%
+| demographics2_title8   = Unknown
+| demographics2_info8    = 28.5%
+| postal_code_type       = [[Postal codes in Hungary|Postal code]]
+| postal_code            = 4400 to 4433
+| area_code_type         = [[Telephone numbers in Hungary|Area code]]
+| area_code              = (+36) 42
+| coordinates            = {{coord|47.95306|21.72713|region:HU|display=inline,title}}
+| website                = {{URL|https://www.nyiregyhaza.hu/}}
+| blank_name             = Motorways
+| blank_info             = [[M3 motorway (Hungary)|M3 Motorway]]
+| blank6_name_sec1       = [[List of airports in Hungary|Airport]]
+| blank6_info_sec1       = [[Nyíregyháza Airport|Nyíregyháza]]
+| blank2_name            = Distance from Budapest
+| blank2_info            = {{convert|233|km|abbr=on}} East
+| blank1_name_sec1       = [[NUTS statistical regions of Hungary|NUTS 3 code]]
+| blank1_info_sec1       = HU323
+| blank3_name_sec2       = [[List of members of the National Assembly of Hungary (2018–22)|MP]]
+| blank3_info_sec2       = [[Tünde Szabó]] ([[Fidesz]]) <br>[[Győző Vinnai]] ([[Fidesz]])
+}}
+
+[[File:County Hall, Nyíregyháza.jpg|thumb|280px|County Hall, Nyíregyháza by [[Ignác Alpár]]]]
+[[File:Váci Mihály Municipal Cultural Centre, Nyíregyháza.jpg|thumb|280px|Váci Mihály Municipal Cultural Centre, Nyíregyháza by [[Ferenc Bán]]]]
+'''Nyíregyháza''' ({{IPA-hu|ˈɲiːrɛchaːzɒ|lang|hu-Nyíregyháza.ogg}}, {{lang-sk|Níreďháza}} {{IPA|sk|ˈɲiːrɛɟɦaːza|}}) is a [[city with county rights]] in northeastern [[Hungary]] and the county capital of [[Szabolcs-Szatmár-Bereg]]. With a population of 118,001, it is the [[Cities of Hungary#Largest cities in Hungary|seventh-largest city]] in [[Hungary]] and the second largest in the [[Northern Great Plain]] region. Its development has been ongoing since the 18th century, making it the economic and cultural center of the region. [[Nyíregyháza Zoo]], with over 500 species, is recognized throughout Europe.
+
+== Geography ==
+Nyíregyháza is located in [[Szabolcs-Szatmár-Bereg County]] in the northern Plain region, which also comprises [[Hajdú-Bihar County]] and [[Jász-Nagykun-Szolnok County]]. It is located in the center of [[Nyírség]] as an agricultural town. The boundaries of the city are often understood as a very broad frame, because generally the near suburbs are included in them. It is located at the intersections of routes 4, 41, 36, and 38, making the city easy to reach, lying at the crossroads to [[Carpathian Ruthenia|Sub-Carpathia]] and [[Transylvania]].
+===Climate===
+Nyíregyháza's climate is classified as [[humid continental climate]] ([[Köppen climate classification|Köppen]] ''Dfb''). Among them, the annual average temperature is {{Convert|10.7|C}}, the hottest month in July is {{Convert|21.4|C}}, and the coldest month is {{Convert|-1.2|C}} in January. The annual precipitation is {{Convert|546.0|mm}}, of which July is the wettest with {{Convert|67.9|mm}}, while January is the driest with only {{Convert|26.5|mm}}. The extreme temperature throughout the year ranged from {{Convert|-19.2|C}} on December 28, 1996 to {{Convert|39.3|C}} on July 20, 2007.
+{{Weather box
+|location = Nyíregyháza, 1991−2020 normals<!--, extremes 1980−present-->
+|single line = Y
+|metric first = Y
+|collapsed = Y
+|Jan record high C = 14.6
+|Feb record high C = 18.6
+|Mar record high C = 24.3
+|Apr record high C = 31.7
+|May record high C = 32.9
+|Jun record high C = 35.6
+|Jul record high C = 39.3
+|Aug record high C = 38.2
+|Sep record high C = 35.6
+|Oct record high C = 26.9
+|Nov record high C = 24.1
+|Dec record high C = 15.4
+|Jan high C = 1.5
+|Feb high C = 4.4
+|Mar high C = 10.6
+|Apr high C = 17.7
+|May high C = 22.5
+|Jun high C = 25.8
+|Jul high C = 27.8
+|Aug high C = 27.9
+|Sep high C = 22.2
+|Oct high C = 15.9
+|Nov high C = 9.0
+|Dec high C = 2.7
+|year high C = 15.7
+|Jan mean C = -1.2
+|Feb mean C = 0.7
+|Mar mean C = 5.8 
+|Apr mean C = 11.9
+|May mean C = 16.4
+|Jun mean C = 19.8
+|Jul mean C = 21.4
+|Aug mean C = 21.3
+|Sep mean C = 16.0
+|Oct mean C = 10.6
+|Nov mean C = 5.2
+|Dec mean C = 0.1
+|year mean C = 10.7
+|Jan low C = -3.6
+|Feb low C = -2.4
+|Mar low C = 1.5
+|Apr low C = 6.5
+|May low C = 10.8
+|Jun low C = 14.3
+|Jul low C = 15.6
+|Aug low C = 15.3
+|Sep low C = 10.8
+|Oct low C = 6.2
+|Nov low C = 2.0
+|Dec low C = -2.1
+|year low C = 6.2
+|Jan record low C = -18.8
+|Feb record low C = -18.9
+|Mar record low C = -13.4
+|Apr record low C = -4.0
+|May record low C = -0.2
+|Jun record low C = 6.8
+|Jul record low C = 8.4
+|Aug record low C = 6.8
+|Sep record low C = 0.9
+|Oct record low C = -7.6
+|Nov record low C = -13.4
+|Dec record low C = -19.2
+|precipitation colour = green
+|Jan precipitation mm = 26.5
+|Feb precipitation mm = 30.9
+|Mar precipitation mm = 27.9
+|Apr precipitation mm = 39.9
+|May precipitation mm = 58.7
+|Jun precipitation mm = 63.5
+|Jul precipitation mm = 67.9
+|Aug precipitation mm = 46.0
+|Sep precipitation mm = 50.8
+|Oct precipitation mm = 44.2
+|Nov precipitation mm = 41.2
+|Dec precipitation mm = 48.5
+|year precipitation mm = 546.0
+|unit precipitation days = 1.0 mm
+|Jan precipitation days = 6.1
+|Feb precipitation days = 6.5
+|Mar precipitation days = 5.7
+|Apr precipitation days = 6.6
+|May precipitation days = 8.7
+|Jun precipitation days = 8.3
+|Jul precipitation days = 8.1
+|Aug precipitation days = 5.9
+|Sep precipitation days = 6.5
+|Oct precipitation days = 6.7
+|Nov precipitation days = 7.0
+|Dec precipitation days = 7.6
+|year precipitation days = 83.7
+|Jan humidity = 88.4
+|Feb humidity = 78.5
+|Mar humidity = 66.9
+|Apr humidity = 60.8
+|May humidity = 65.1
+|Jun humidity = 67.9
+|Jul humidity = 68.2
+|Aug humidity = 67.8
+|Sep humidity = 72.9
+|Oct humidity = 77.6
+|Nov humidity = 83.4
+|Dec humidity = 88.3
+|year humidity = 73.8
+|source 1 = NOAA<ref name=NOAA9120r>{{cite web
+|url = https://www.nodc.noaa.gov/archive/arc0216/0253808/1.1/data/0-data/Region-6-WMO-Normals-9120/Hungary/CSV/NyiregyhazaNapkor_12892.csv
+|title = Nyíregyháza Climate Normals 1991-2020
+|publisher = [[National Oceanic and Atmospheric Administration]]
+|access-date = August 28, 2023
+|archive-url = https://web.archive.org/web/20230828015618/https://www.nodc.noaa.gov/archive/arc0216/0253808/1.1/data/0-data/Region-6-WMO-Normals-9120/Hungary/CSV/NyiregyhazaNapkor_12892.csv
+|archive-date = 2023-08-28}}</ref>}}
+
+==History==
+The first written mentions of Nyíregyháza date back to 1209, although it was then called simply ''Nyír'' ('[[birch]]'), after the ''Nyírség'', the greater region in which the city lies. A source from 1326 <!--OR 1236?-->mentions that by then the city already had a [[Church (building)|church]], hence the second part of the name, ''egyház'' (meaning 'church'). By the middle of the 15th century, the town had about 400 inhabitants. In the 16th century, during the [[Ottoman Empire|Turkish]] occupation of Hungary, Nyíregyháza became deserted; it was resettled only in the 1630s–1640s.
+
+After the [[Rákóczi's War for Independence|War for Independence]] led by Prince [[Francis II Rákóczi]], the town's population increased. Most new settlers were [[Slovaks]] from the area of [[Békéscsaba]]. In 1786, Nyíregyháza was granted the right to hold four market days a year; by this time the town was the biggest in the county, with 7,500 inhabitants. In the early 19th century, Nyíregyháza was wealthy enough to secure freedom from its [[Feudalism|feudal]] lords, the Dessewffy and Károlyi families. During these prosperous years, the town got a new town hall, a hospital, several schools, and a restaurant by nearby ''Sóstó'' lake ("Salty Lake").
+
+The town's inhabitants took an active part in the [[Hungary#From the 18th century to World War I (1699–1918)|revolution and war for independence in 1848–49]], and after the suppression of the revolution, several were imprisoned, among them the mayor, Márton Hatzel.
+
+In the second half of the 19th century, Nyíregyháza became more and more urbanized, and in 1876, became the seat of [[Szabolcs County]] (now part of the larger integrated county [[Szabolcs-Szatmár-Bereg]]). In 1858, the railroad line reached Nyíregyháza; several new buildings were built, including a telegraph office, the main post office, and the theater. In 1881 the population consisted of 24,102 people, of which 13,534 were Hungarians, 8,678 Slovaks, 389 Germans and 1,501 of other ethnicities.<ref>{{cite web|language=hu|url=https://library.hungaricana.hu/hu/view/NEDA_1881_02/?pg=0&layout=s|title=Hungarian 1881 census|access-date=8 December 2022}}</ref> In 1911, the tramway network was complete. After the grim years of [[World War I]] and the [[Hungarian–Romanian War]], Nyíregyháza remained under [[Romania]]n occupation for ten months. Between the two world wars, the city celebrated the 100th anniversary of its independence from feudal landowners.
+
+During [[World War II]], [[Jews]] were used as [[Forced labour|forced laborers]] by Hungarians. After the [[Operation Margarethe|German invasion]], more than 6,000 of the city's Jewish inhabitants were [[Holocaust|deported]] to [[Auschwitz concentration camp|Auschwitz]].<ref>{{cite web|title=Pinkas Hakehillot Hungary: Nyiregyhaza|url=http://www.jewishgen.org/yizkor/pinkas_hungary/hun379.html|website=www.jewishgen.org}}</ref><ref name="auto2">{{cite web|last=Seemann|first=Uwe|title=Information Portal to European Sites of Remembrance|url=http://www.memorialmuseums.org/eng/staettens/view/956/Ny%C3%ADregyh%C3%A1za-Holocaust-Memorial27247|website=www.memorialmuseums.org}}</ref> After the war, 2,000 Hungarians were sent to [[Forced labor of Hungarians in the Soviet Union|Soviet labor camps]] (colloquially called ''[[malenky robot]]'', or "little work"). Several buildings were destroyed, too, including the Status Quo Synagogue, whose front wall was preserved and is now displayed in Nyíregyháza's Jewish Cemetery.<ref>[[Grand Rabbi|Chief Rabbi]] Joseph Leifer of Nyíregyháza is buried in the cemetery. He was the son of the world-renowned Rabbi Mordachai of Nadvorna, and settled in Nyíregyháza after World War I, attracting a large following there. His grave is visited annually by thousands of Hasidim.</ref>
+
+A monument in the memory of the [[Holocaust]] victims was constructed in 2004.<ref name="auto2" />
+
+From the 1960s, the city grew and developed quickly. Today, Nyíregyháza is one of the most prosperous cities in Hungary, serving as both a center of education and a popular tourist destination. It is known for having a bar in every street.
+
+Nyíregyháza is the birthplace of Israeli artist [[Zeev Kun]] (1930-2024).
+
+==Population==
+With a population of 118,001, Nyíregyháza is the seventh-largest city in Hungary. 
+{{Historical populations
+|type =
+|footnote =
+|1870 | 13015
+|1890 | 18996
+|1900 | 28073
+|1910 | 33444
+|1920 | 38751
+|1930 | 46522
+|1941 | 53917
+|1949 | 48382
+|1960 | 56834
+|1970 | 75245
+|1980 | 108235
+|1990 | 114152
+|2001 | 118795
+|2011 | 119746
+|2022 | 116439
+}}
+{| class="infobox" style="float:center;"
+| style="text-align:center;" colspan="2" | '''Significant minority groups'''
+|-
+! Nationality||| Population (2021)
+|-
+|{{flag|Germany}} || 613
+|-
+|{{flag|Ukraine}}  || 465
+|-
+|{{flag|Russia}} ||  337
+|-
+|{{flag|Romania}} || 305
+|-
+|{{flag|Slovakia}} || 214
+|-
+|{{flag|Estonia}} || 1
+|}
+
+== Economy ==
+After the [[End of socialism in Hungary|fall of Communism]], several foreign-owned companies appeared in the city. In the early 2000s, the largest employers were Hübner Flextronics Ltd. and Hirsch's, but during the period of economic recession, many companies eliminated several thousand jobs. Today, the largest public companies are the [[Lego]] Manufacturing Kft. and the [[Michelin]] Hungaria Abroncsgyártó Kft., providing employment for about 3,000 people.
+[[File:Nyiregyhaza main street.jpg|thumb|A part of downtown]]
+
+== Religion ==
+* [[Catholic Church|Roman Catholic]]: During the 2011 census, 25,132 people, or 20.1% of the population, identified themselves as being Roman Catholic (8,365 fewer than in the 2001 census). The city is co-seat of the [[Diocese of Debrecen-Nyíregyháza]]. <!--Catholic churches in the city include [[Our Lady of Hungary Co-Cathedral]], St. Anthony's Church, Garden City Virgin of Fatima Church, Örökösföld housing Divine Mercy Church, Camillians with church St. Ladislaus Church (Borbánya), St. Stephen's Church (Nyírszőlős), Sóstói St. Joseph Church (Sóstóhegy), Holy Cross Church (IH), Andrew Jehoshaphat Hospital of Saint Lazarus hospital chapel and Sóstói misézőhelye travel.--> The church owns [[St. Emeric Catholic High School, Primary School and College]] and a kindergarten in the city.
+* [[Eastern Catholic Churches|Greek Catholic]]: During the 2001 census, 12,742 people, or 10.6% of the population, identified themselves as being Greek Catholic (6,303 less than in 2001). The city is the seat of the only Hungarian Greek Catholic [[bishopric]], the [[Diocese of Hajdúdorog]]. The Co-Cathedral of the [[Nyíregyháza St. Nicholas Greek Catholic Cathedral]], other churches in the city: Jósaváros Greek Catholic Church, Nyíregyháza-Örökösföld Holy Trinity Greek Catholic Church, Nyíregyháza-Borbánya Mother of God Greek Catholic Church, Fox Mountain St Stephen's Chapel (Sóstóhegy), Nyírszőlős Birth of the Mother of God Greek Catholic Church, Nyíregyháza-Oros Protection of the Theotokos Greek Catholic Church, Rozsrétszőlősi Greek Catholic chapel. Here you will find the country's only Greek Catholic institution of higher learning, the [[St. Athanasius Greek Catholic Theological College]]. Other religious educational institutions include [[St. Nicholas Greek Catholic Kindergarten, Primary and Secondary School]], [[Nicholas Soja Greek Catholic Primary School and Nursery]] (Huszar Colony).
+* [[Reformed Churches|Reformed]]: During the 2011 census, 19,662 people, or 16.4% of the population, identified themselves as belonging to this religion (5,956 less than in 2001). The city is part of the [[East Hungarian Reformed Church District]]. Churches in the city are the [[Nyíregyháza City Reformed Church Temple]], Nyíregyháza-Garden City Reformed Church Church of Nyíregyháza-Sóstói Reformed Church church Orosi Reformed Church Temple. Also maintained by the Church are the [[Jókai Reformed Primary School]], Magdaléneum - Reformed Disability Nurse, Nursing Home, Mustard Seed Nursery, Kálvineum Nursing Home.
+* [[Lutheranism|Lutheran]]: During the 2011 census, 8,391 people, or 7% of the population, identified themselves as belonging to this religion (3,970 less than in 2001). Because of the city's [[Szabolcs Hajdu-diocese]] headquarters, especially in the 18th century Nyíregyháza újranépesítő [[tirpákok]] are important in the tradition of the Church. In 1947, the Hungarian-Slovak population exchange greatly contributed to the decrease in the number of believers. The denomination of the oldest and largest local church in the [[Protestant Great Church (Nyíregyháza)|Nyíregyháza Lutheran Church Great Church]], other churches: Evangelical small church, Nyíregyháza-Garden City Augsburg Confession Lutheran Church meetinghouses, Nyíregyháza Lutheran Church III. area Borbánya church Rozsrétszőlősi Bethlehem Lutheran church, the church Nyírszőlős Lutheran Church. The [[Nyíregyháza College|College of Nyíregyháza]] Budapest [[Protestant Theological University]] mel pricing religious cooperation is going well. Maintained by the Church's educational institutions: [[Lajos Kossuth Nyíregyháza Lutheran High School]], [[Zoltan Turóczy Protestant English Bilingual Primary School and Nursery]]. The institution of the Emmaus Lutheran Church Charity Home Church also.
+* [[Eastern Orthodox Church|Orthodox]]: During the 2011 census, 127 people declared themselves as belonging to this religion. The St George the Martyr Orthodox chapel falls under the [[Hungarian Orthodox Diocese]].
+
+== Transportation ==
+National road traffic to Budapest goes through the [[M3 motorway (Hungary)|M3 motorway]] and four national highways (4, 36, 38, 41) and the lower state roads, other cities of the country and the settlements of Szabolcs-Szatmár-Bereg county. Szabolcs Volán Zrt. Launches long-haul flights to major cities in the region and to larger towns in the country.
+
+Due to the nature of the city junction, Nyíregyháza's road network is heavily loaded. The city center is surrounded by a 2X2-lane "highway". And the narrow city center is bordered by the "small boulevard", the northern, eastern and southern parts of which have already been completed. The M3 motorway, which recently reached the city, will hopefully reduce traffic and congestion on roads passing through the city center. At the same time the motorway reached the city, the east bypass (main road 403) was opened, allowing those traveling between Budapest and Záhony to avoid the city. Those coming to Debrecen no longer have to cross the city. The Nyíregyháza ring road includes the already completed 403 road and the M3 motorway south of the city. The missing parts of the ring road are Highway 338 (already authorized, but with an unknown construction date) in the west and the northern sector.
+
+The most important of its railway connections is the 100 electric tram line between Szolnok and Záhony, from where the number 80 line to Tokaj, 113 line to Mátészalka and 116 line to Vásárosnamény branch out. Nyíregyháza is the final stop of the Ohat-Pusztakócs-Nyíregyháza railway line, which provides passenger traffic to Tiszalök. Next to the station are the Nyírvidék small railway to Dombrád and Balsa, which closed in December 2009. Nyíregyháza is one of the busiest railway stations in the country. There are InterCity flights to Budapest every hour to Debrecen and Miskolc. Nyíregyháza welcomes visitors to the city in a new and modern station building.<gallery class="left">
+Image:Nyirtrain.JPG| Central Train station
+Image:Nyíregyháza line 23.jpg| Solaris Urbino on Line 23
+</gallery>
+
+== Tourist sights ==
+[[File:nyíregyhaza cathedral.jpg|thumb|right|Nyiregyháza's Roman Catholic church with the newly built fountain in the foreground]]
+[[File:Nyiregyhaza megyehaza.jpg|thumb|County Hall]]
+[[File:Nyíregyháza Zoo, Aquarium, underground passage.jpg|thumb|[[Nyíregyháza Zoo]]]]
+Nyíregyháza also has several museums and exhibitions, showing the city's rich cultural heritage.
+
+* Collection of the International Medallion Art and Small Sculpture Creative Community of Nyíregyháza-Sóstó – periodic exhibitions of works of contemporary artists
+
+== Politics ==
+The current mayor of Nyíregyháza is [[Ferenc Kovács (politician, born 1960)|Ferenc Kovács]] (Fidesz-KDNP).
+
+The local Municipal Assembly, elected in the [[2019 Hungarian local elections|2019 local government elections]], is made up of 22 members (1 mayor, 15 individual constituency MEPs and 6 compensation List MEPs) divided into the following political parties and alliances:<ref>{{cite web|title=Városi közgyűlés tagjai 2019-2024 - Nyíregyháza (Szabolcs-Szatmár-Bereg megye)|url=https://www.valasztas.hu/telepules-adatlap_onk2019?_onknavigacio_WAR_nvinvrportlet_formDate=32503680000000&p_p_id=onknavigacio_WAR_nvinvrportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=5&_onknavigacio_WAR_nvinvrportlet_prpVlId=294&_onknavigacio_WAR_nvinvrportlet_prpVltId=687&_onknavigacio_WAR_nvinvrportlet_prpMegyeKod=16&_onknavigacio_WAR_nvinvrportlet_prpTelepulesKod=119&_onknavigacio_WAR_nvinvrportlet_settlement=ny%C3%ADregyh|access-date=2019-10-29|agency=valasztas.hu}}</ref>
+{| class="wikitable"
+! style="background:#ccc" colspan="2" | Party
+! style="background:#ccc" | Seats
+! style="background:#ccc" colspan="16" | Current Municipal Assembly
+|-
+| style="background-color: {{party color|Fidesz}}  | &nbsp;
+|[[Fidesz]]-[[Christian Democratic People's Party (Hungary)|KDNP]]
+| style="text-align: right" | '''13'''
+|style="background-color: {{party color|Fidesz}} |<span style="color:white;">'''M'''</span>
+|style="background-color: {{party color|Fidesz}} | &nbsp;
+|style="background-color: {{party color|Fidesz}} | &nbsp;
+|style="background-color: {{party color|Fidesz}} | &nbsp;
+|style="background-color: {{party color|Fidesz}} | &nbsp;
+|style="background-color: {{party color|Fidesz}} | &nbsp;
+|style="background-color: {{party color|Fidesz}} | &nbsp;
+|style="background-color: {{party color|Fidesz}} | &nbsp;
+|style="background-color: {{party color|Fidesz}} | &nbsp;
+|style="background-color: {{party color|Fidesz}} | &nbsp;
+|style="background-color: {{party color|Fidesz}} | &nbsp;
+|style="background-color: {{party color|Fidesz}} | &nbsp;
+|style="background-color: {{party color|Fidesz}} | &nbsp;
+|-
+| style="background-color: #2D68C4  | &nbsp;
+| Opposition coalition{{efn|name=opposition|Coalition of [[Mindenki Magyarországa Movement|Mindenki Magyarországa]]-[[Politics Can Be Different|LMP]]-Association of Independents-[[Jobbik]]-[[Hungarian Socialist Party|MSZP]]-[[Dialogue for Hungary|Dialogue]]-[[Momentum Movement|Momentum]]-[[Democratic Coalition (Hungary)|DK]].}}
+| style="text-align: right" | '''9'''
+|style="background-color: #2D68C4 | &nbsp;
+|style="background-color: #2D68C4 | &nbsp;
+|style="background-color: #2D68C4 | &nbsp;
+|style="background-color: #2D68C4 | &nbsp;
+|style="background-color: #2D68C4 | &nbsp;
+|style="background-color: #2D68C4 | &nbsp;
+|style="background-color: #2D68C4 | &nbsp;
+|style="background-color: #2D68C4 | &nbsp;
+|style="background-color: #2D68C4 | &nbsp;
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| &nbsp;
+|}
+
+=== List of mayors since 1990 ===
+{| class=wikitable
+|-
+! Member
+! colspan=2 | Party
+! Term of office
+|-
+| [[Zoltán Mádi]]
+| style="background-color:{{party color|Fidesz}}" |  
+| [[Fidesz]]
+| 1990–1994
+|-
+| [[Judit Csabai (politician)|Lászlóné Csabai]]
+| style="background-color:{{party color|Hungarian Socialist Party}}" | 
+| [[Hungarian Socialist Party|MSZP]]
+| 1994–2010
+|-
+| [[Ferenc Kovács (politician, born 1960)|Ferenc Kovács]]
+| style="background-color:{{party color|Fidesz}}" |  
+| [[Fidesz]]
+| 2010–
+|}
+
+== Sport ==
+The city is home to [[Hübner Nyíregyháza BS]], a [[Nemzeti Bajnokság I/A (men's basketball)|First division]] basketball team that plays its home games at the Continental Arena.<ref>{{cite news|author1=Dankó László |title= Az első győzelem - Sopronban nyert a Hübner Nyíregyháza BS|url=https://www.nyiregyhaza.hu/post/az-elso-gyozelem-sopronban-nyert-a-hubner-nyiregyhaza-bs-2021-10-16 |accessdate=17 December 2021 |work=nyiregyhaza.hu |date=16 October 2021 |language=Hungarian}}</ref> Football club [[Nyíregyháza Spartacus FC|Nyíregyháza Spartacus]] play in the country's top tier (in 2024-25) and their stadium is the [[Városi Stadion (Nyíregyháza)|Városi Stadion]].
+
+The [[Rally Hungary]] is a rally race headquartered in Nyíregyháza that is part of the [[European Rally Championship]] since 2019.
+
+The Volán Sporttelep (Entrance on Czuczor Gergely utca) is an association football venue<ref>{{cite web |url=https://www.magyarfutball.hu/en/stadion/1705 |title=Nyíregyháza, Volán Sporttelep | website=Magyar Futball |access-date=11 February 2024}}</ref> and former [[motorcycle speedway]] track. It has been a significant venue for speedway and has hosted many events, including qualifying rounds of the [[Speedway World Championship]] (the first in 1990)<ref>{{cite web |url=https://dlprezes.pl.tl/SPEEDWAY--_--Indywidualne-mistrzostwa-%26%23346%3Bwiata-----------k1-World-Speedway-Championship-k2-.htm |title=World Championship |website=Metal Speedway |access-date=11 February 2024}}</ref><ref>{{cite web |url=http://www.speedway.org/history/ |title=World Championship  | website=Speedway.org |access-date=11 February 2024}}</ref> and a qualifying round of the [[Speedway World Team Cup]] in 1989.<ref>{{cite web |url=http://www.internationalspeedway.co.uk/ |title=Speedway World Cup  | website=International Speedway |access-date=11 February 2024}}</ref> The last speedway is believed to have take place in 1997.
+
+==Twin towns – sister cities==
+{{See also|List of twin towns and sister cities in Hungary}}
+Nyíregyháza is [[Sister city|twinned]] with:<ref>{{cite web |title=Testvérvárosok|url=https://www.nyiregyhaza.hu/testvervarosok|website=nyiregyhaza.hu|publisher=Nyíregyháza|language=hu|access-date=2020-11-09}}</ref><ref>{{cite web |title=Nyíregyháza, Węgry|url=https://bielsko-biala.pl/nyiregyhaza-wegry|website=bielsko-biala.pl|publisher=Bielsko-Biała|language=pl|access-date=2020-11-09}}</ref><ref>{{cite web |title=Nyíregyháza – Ungaria|url=https://www.baiamare.ro/ro/Descopera-Baia-Mare/Orasul-Baia-Mare/Orase-infratite/Lista-oraselor/Nyiregyhaza/|website=baiamare.ro|publisher=Baia Mare|language=ro|access-date=2020-11-09}}</ref>
+{{div col|colwidth=20em}}
+*{{flagicon|ROU}} [[Baia Mare]], Romania
+*{{flagicon|POL}} [[Bielsko-Biała]], Poland
+*{{flagicon|CHN}} [[Harbin]], China
+*{{flagicon|GER}} [[Iserlohn]], Germany
+*{{flagicon|FIN}} [[Kajaani]], Finland
+*{{flagicon|ISR}} [[Kiryat Motzkin]], Israel
+*{{flagicon|SVK}} [[Prešov]], Slovakia
+*{{flagicon|POL}} [[Rzeszów]], Poland
+*{{flagicon|ROU}} [[Satu Mare]], Romania
+*{{flagicon|ENG}} [[St Albans City and District|St Albans]], England, United Kingdom
+*{{flagicon|UKR}} [[Uzhhorod]], Ukraine
+{{div col end}}
+
+==Notable residents==
+<!---♦♦♦ Only add a person to this list if they already have their own article on the English Wikipedia ♦♦♦---> 
+<!---♦♦♦ Please keep the list in alphabetical order by LAST NAME ♦♦♦---> 
+*[[Gyula Benczúr]] - painter
+*[[Márton Fucsovics]] - professional tennis player
+*[[Dániel Gazdag]] - footballer
+*[[Miklós Kállay]]
+*[[Gyula Krúdy]]
+*[[György Mitró]]
+*[[Gábor Nógrádi]] - author, screenwriter, playwright, essayist, publicist and poet
+
+==Broadcasting==
+Near Nyíregyháza, at {{coord|47|56|12.17|N|21|45|28.35|E|type:landmark|name=Nyíregyháza Radio Mast}}, stands the oldest radio mast in Hungary. Built in 1925, it is a {{convert|115|m|adj=on}} tall guyed mast radiator, used for broadcasting on 1251&nbsp;kHz ([[AM broadcasting|AM]]).
+
+==References and notes==
+;References
+{{Reflist}}
+
+;Notes
+{{notelist}}
+
+== Further reading ==
+{{refbegin}}
+* [https://web.archive.org/web/20131202222936/http://www.caboodle.hu/nc/news/news_archive/single_page/?tx_ttnews&#91;tt_news&#93;=8772 Bronze Age settlement and a former Sarmatian burial ground discovered in Nyíregyháza]
+{{refend}}
+
+==External links==
+*{{commons category-inline}}
+{{Wikivoyage|Nyíregyháza}}
+* [https://web.archive.org/web/20040120142403/http://www.nyirhalo.hu:51080/nyiregyhaza/eng/english.php Official site] 
+* [https://web.archive.org/web/20040520170703/http://www.furdohaz.hu/ Sóstó Thermal Bath] {{in lang|hu}}
+* [http://www.nyirport.hu Nyíregyházi Hírportál - hírek - news] {{in lang|hu}}
+* [http://www.nyiron.hu/ A portal site] {{in lang|hu}}
+* [https://web.archive.org/web/20070508233708/http://www.indexkelet.hu/ Index-Kelet - local news] {{in lang|hu}}
+* [http://www.happyartfestival.hu/ Happy Art Festival site in English]
+* [https://web.archive.org/web/20131202222936/http://www.caboodle.hu/nc/news/news_archive/single_page/?tx_ttnews&#91;tt_news&#93;=8772 Bronze Age settlement and a former Sarmatian burial ground discovered in Nyíregyháza]
+* [http://en.funiq.hu/nyiregyhaza Nyíregyháza at funiq.hu] 
+
+{{Nyíregyháza District}}
+{{Szabolcs-Szatmar-Bereg}}
+{{Regional capitals of Hungary}}
+{{Principal cities of Hungary}}
+{{Cities with county rights (Hungary)}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nyiregyhaza}}
+[[Category:Nyíregyháza| ]]
+[[Category:County seats in Hungary]]
+[[Category:Cities with county rights of Hungary]]
+[[Category:Populated places in Szabolcs-Szatmár-Bereg County]]

@@ -1,0 +1,469 @@
+{{short description|Capital of Sulu province, Philippines}}
+{{about|the municipality|the island|Jolo}}
+{{More citations needed|date=July 2019}}
+{{Infobox settlement
+| name                     = {{PH wikidata|name}}
+| image_skyline            = Jolo town proper, Tulay Mosque bay view (Jolo, Sulu; 10-10-2023).jpg
+| image_caption            = 
+| image_flag               = Flag_of_Jolo,_Sulu.png
+| flag_size                = 120x80px
+| image_seal               = Jolo_seal.jpg
+| seal_size                = 100x80px
+| image_map                = {{PH wikidata|image_map}}
+| map_caption              = {{PH wikidata|map_caption}}
+| image_map1               = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map              = Philippines
+| pushpin_label_position   = left
+| pushpin_map_caption      = Location within the {{PH wikidata|country}}
+| coordinates              = {{PH wikidata|coordinates}}
+| settlement_type          = {{PH wikidata|settlement_type}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = [[Philippines]]
+| subdivision_type1        = [[Regions of the Philippines|Region]]
+| subdivision_name1        = {{PH wikidata|region}}
+| subdivision_type2        = [[Provinces of the Philippines|Province]]
+| subdivision_name2        = {{PH wikidata|province}}
+| official_name            = {{PH wikidata|official_name}}
+| etymology                = <!--origin of name-->
+| named_for                = <!--named after (if person or place)-->
+| native_name              = 
+| other_name               = Tiyanggi <br />{{lang-tsg|تِیَڠْگِ}}
+| nickname                 = 
+| motto                    = 
+| anthem                   = 
+| subdivision_type3        = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3        = {{PH legislative district}}
+| established_title               = [[Date of establishment|Established]]
+| established_date                = February 11, 1904<ref>{{cite journal |title=[Act No. 38] AN ACT providing for the organization and government of the municipalities of Jolo, Siassi and Cagayan de Sulu |date=11 February 1904|journal=Report of the Governor of the Moro Province.|pages=69–70 |access-date=11 September 2024|url=https://ia800702.us.archive.org/5/items/aaf7627.1904.001.umich.edu/aaf7627.1904.001.umich.edu.pdf}}</ref>| parts_type               = [[Barangay]]s
+| parts_style              = para
+| p1                       = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title             = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name              = Kerkhar S. Tan
+| leader_title1            = [[Vice Mayor]]
+| leader_name1             = Ezzeddin Soud L. Tan
+| leader_title2            = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2             = Samier A. Tan
+| leader_title3            = [[Sangguniang Bayan|Municipal Council]]
+| leader_name3             = {{PH Town Council
+| 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Edsir A. Tan II
+ | 3=Alkramer R. Izquierdo
+ | 4=Hussin A. Amin II
+ | 5=John S. Schuck III
+ | 6=Ezzel Arab U. Abubakar
+ | 7=Ahmed J. Amilhamja
+ | 8=Khaizar E. Gonzales
+ | 9=Radzhar S. Anni
+}}
+| leader_title4            = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4             = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type          = {{PH wikidata|government_type}}
+| government_footnotes     = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m              = {{PH wikidata|elevation_m}}
+| elevation_max_m          = 430
+| elevation_min_m          = 0
+| elevation_max_rank       = 
+| elevation_min_rank       = 
+| elevation_footnotes      = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes  = 
+| elevation_min_footnotes  = 
+| area_rank                = 
+| area_footnotes           = {{PH area}}
+| area_total_km2           = 22.24
+| population_footnotes     = {{PH census|current}}
+| population_total         = {{PH wikidata|population_total}}
+| population_as_of         = {{PH wikidata|population_as_of}}
+| population_density_km2   = auto
+| population_blank1_title  = [[Household]]s
+| population_blank1        = {{PH wikidata|household}}
+| population_blank2_title  = 
+| population_blank2        = 
+| population_demonym       = 
+| population_rank          = 
+| population_note          = 
+| timezone                 = [[Philippine Standard Time|PST]]
+| utc_offset               = +8
+| postal_code_type         = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code              = {{PH wikidata|postal_code}}
+| postal2_code_type        = {{PSGCstyle}}
+| postal2_code             = {{PSGC detail}}
+| area_code_type           = {{areacodestyle}}
+| area_code                = {{PH wikidata|area_code}}
+| website                  = {{PH wikidata|website}}
+| demographics_type1       = [[Economy of the Philippines|Economy]]
+| demographics1_title1     = {{PH wikidata|income_class_title}}
+| demographics1_info1      = {{PH wikidata|income_class}}
+| demographics1_title2     = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2      = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3     = [[Revenue]]
+| demographics1_info3      = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4     = Revenue rank
+| demographics1_info4      = 
+| demographics1_title5     = [[Asset]]s
+| demographics1_info5      = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6     = Assets rank
+| demographics1_info6      = 
+| demographics1_title7     = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7      = 
+| demographics1_title8     = IRA rank
+| demographics1_info8      = 
+| demographics1_title9     = [[Expenditure]]
+| demographics1_info9      = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10    = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10     = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2       = Service provider
+| demographics2_title1     = [[List of electric distribution utilities in the Philippines|Electricity]]
+| demographics2_info1      = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2     = Water
+| demographics2_info2      = 
+| demographics2_title3     = Telecommunications
+| demographics2_info3      = 
+| demographics2_title4     = Cable TV
+| demographics2_info4      = 
+| demographics2_title5     = 
+| demographics2_info5      = 
+| demographics2_title6     = 
+| demographics2_info6      = 
+| demographics2_title7     = 
+| demographics2_info7      = 
+| demographics2_title8     = 
+| demographics2_info8      = 
+| demographics2_title9     = 
+| demographics2_info9      = 
+| demographics2_title10    = 
+| demographics2_info10     = 
+| blank_name_sec1          = {{PH wikidata|climate_title}}
+| blank_info_sec1          = {{PH wikidata|climate_type}}
+| blank1_name_sec1         = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1         = {{PH wikidata|language}}
+| blank2_name_sec1         = [[Crime index]]
+| blank2_info_sec1         = 
+| blank3_name_sec1         = 
+| blank3_info_sec1         = 
+| blank4_name_sec1         = 
+| blank4_info_sec1         = 
+| blank5_name_sec1         = 
+| blank5_info_sec1         = 
+| blank6_name_sec1         = 
+| blank6_info_sec1         = 
+| blank7_name_sec1         = 
+| blank7_info_sec1         = 
+| blank1_name_sec2         = Major religions
+| blank1_info_sec2         = 
+| blank2_name_sec2         = Feast date
+| blank2_info_sec2         = 
+| blank3_name_sec2         = Catholic diocese
+| blank3_info_sec2         = 
+| blank4_name_sec2         = Patron saint
+| blank4_info_sec2         = 
+| blank5_name_sec2         = 
+| blank5_info_sec2         = 
+| blank6_name_sec2         = 
+| blank6_info_sec2         = 
+| blank7_name_sec2         = 
+| blank7_info_sec2         = 
+| short_description        = 
+| footnotes                = 
+}}
+
+'''Jolo''', officially the '''Municipality<!---City---> of Jolo''' ({{IPA|tl|hoˈlo|}}; {{lang-tsg|Kawman<!---Bandar---> sin Tiyanggi}}; {{lang-tl|Bayan<!---Lungsod---> ng Jolo}}), is a 1st class [[municipality of the Philippines|municipality]] and capital of the [[Philippine Province|province]] of [[Sulu]], [[Philippines]]. According to the 2020 census, it has a population of 137,266 people.{{PH census|current}}
+
+==Etymology==
+According to Dr. Najeeb M. Saleeby (1908) and in old maps such as the [[Velarde map]], ''"Joló"'' was the historical [[Philippine Spanish|Spanish]] spelling of the word ''"[[Sulu]]"'' that now refers to the province and the whole [[Sulu Archipelago]], which the early Spaniards historically spelt as ''"Xoló"'', with the initial letter most likely formerly pronounced with the [[Early Modern Spanish]] {{IPAblink|ʃ}} sound, with {{IPA|[ʃoˈlo]}} the Spanish pronunciation of Sulu, but later evolved into the [[Modern Spanish]] {{IPAblink|x}}, leading to its modern pronunciation {{IPA|es|xoˈlo|}}. In many dialects, the initial sound is [[Voiceless glottal fricative|glottal]], yielding {{IPA|[hoˈlo]}}. The Spanish version ''Joló'' is still used to pertain Sulu (both province, archipelago, and ancient sultanate) in Spanish writings. Meanwhile, the word ''"[[Sulu]]"'' itself comes from {{lang-tsg|Sulug}}, an older form of {{lang-tsg|Sūg|lit=sea current}}.<ref>{{cite book|last=Saleeby|first=Najeeb M.|title=The History of Sulu|url=https://www.gutenberg.org/files/41771/41771-h/41771-h.htm|date=1908|page=133}}</ref>
+
+It is also said that the [[Philippine Hokkien|Hokkien]] Chinese traders who frequented and later migrated to the place, named Jolo from [[Philippine Hokkien|Hokkien]] {{lang-nan|[[wikt:好|好]][[wikt:路|路]]|lit=Good Place/Route|translit=hó lō͘}} after [[Philippine Hokkien|Hokkien]] {{lang-nan|[[wikt:好|好]][[wikt:儂|儂]]|lit=Good People|translit=hó lâng}}'','' reflecting the Chinese perception of the natives, because whenever Chinese traders would leave goods on Jolo's shore, they found them undisturbed on their return.<ref name="ATimes">Garrido, Marco C. (2005-01-20). [https://web.archive.org/web/20050121085425/http://atimes.com/atimes/Southeast_Asia/GA20Ae01.html "Tribulation Islands, Part 2"]. Asia Times.</ref> Part of its population is still of [[Chinese Filipino|Chinese descent]] today, particularly from [[Xiamen|Amoy (Xiamen)]] and [[Singapore]].<ref>{{cite web|url=http://www.tsinoy.com/article_item.php?articleid%3D850|url-status=dead|archive-url=https://web.archive.org/web/20081211061957/http://www.tsinoy.com/article_item.php?articleid=850|archive-date=December 11, 2008|access-date=January 11, 2009 |title=Meet Filipinos Online &#124; Chinese Filipino Culture &#124; Korean Tele Novela }}</ref>
+
+==History==
+
+===Pre-Colonial period===
+In the 14th century, Arab traders landed on the island to introduce and convert its inhabitants to Islam.  The native inhabitants on the island are the [[Tausūg people]]. The Tausugs are part of the larger [[Moro people|Moro group]] which dominates the Sulu Archipelago.  The Moro had an independent state known as the [[Sultanate of Sulu]], which was politically and economically centered on Jolo, the residence for Sulu Sultanates. The Seat of the Royal Sultanate of Sulu was in Astana Putih, which is Tausug for ‘White Palace’ in Umbul Duwa in the municipality of [[Indanan, Sulu|Indanan]] on Jolo Island, later on, the capital was moved in [[Maimbung]] during the 1800s.<ref name="Timeline"/>
+
+===Spanish Colonial Period===
+The Spanish failed to conquer and convert the Muslim areas in Mindanao. After colonising the islands in the north, they failed to take over the well-organized sultanates in the south.
+
+====Trading center====
+The Sulu [[economy]] relied on the network of nearby trading partners.  The Sultanate benefited from importing [[rice]] from northern Philippines, as the Sulu region had a chronic rice shortage.  The Sultanate was unable to bring agriculture to its full potential because the area was prone to erratic rainfall and drought.
+
+====Chinese immigration====
+Since the 15th century, the Sulu Sultanate traded local produce with neighbors and with countries as far as China by sea.  Most of the import and export trade was done with Singapore which was estimated to be worth half a million dollars annually.  In 1870, the Tausug lost much of their redistributive trade to the Chinese because of the Spanish cruising system and Chinese immigration from [[Singapore]].  Mostly originating from the [[Fujian]] province, most of the Chinese in Jolo worked as craftsmen, skilled and unskilled laborers and domestic servants for wealthy Tausugs and Chinese. [[Singapore]] served as a training ground from which they learned the [[Malay language]] and became experienced in dealing with [[Southeast Asia]]ns.  It was these Chinese who eventually dominated trade in Jolo and benefited greatly from Jolo's status as an entrepot, and exercised profound influence over the Sulu Sultanate.  However, the Sultanate was not keen on the Chinese monopoly. By 1875, [[Jamal ul-Azam|Sultan Jamal ul-Azam]] wanted an English merchant to establish himself in order to break the monopoly at Jolo.
+
+Chinese who lived in Sulu ran guns across a Spanish blockade to supply the Moro [[Datu]]s and Sultanates with weapons to fight the Spanish, who were engaging in a campaign to subjugate the Moro sultanates on Mindanao. A trade involving the Moros selling slaves and other goods in exchange for guns developed. The Chinese had entered the economy of the sultanate, taking control of nearly the entire Sultanate's economy in Mindanao and dominating the markets. Though the Sultans did not like their economic monopoly, they did business with them. The Chinese set up a trading network between Singapore, [[Zamboanga City|Zamboanga]], Jolo and Sulu.
+
+The Chinese sold small arms like [[Enfield rifle|Enfield]] and [[Spencer rifle]]s to the [[Buayan]] [[Datu Uto]]. They were used to battle the Spanish invasion of Buayan. The Datu paid for the weapons in slaves.<ref>{{cite book
+| title      = The Sulu zone, 1768–1898: the dynamics of external trade, slavery, and ethnicity in the transformation of a Southeast Asian maritime state
+| author     = James Francis Warren
+| edition    = 2, illustrated
+| publisher  = NUS Press
+| year       = 2007
+| isbn       = 978-9971-69-386-2
+| pages      = 129, 130, 131
+| url        = https://books.google.com/books?id=VUZq93ydrrwC&pg=PA129
+}}</ref> The population of Chinese in Mindanao in the 1880s was 1,000. The Chinese ran guns across a Spanish blockade to sell to Mindanao Moros. The purchases of these weapons were paid for by the Moros in slaves in addition to other goods. The main group of people selling guns were the Chinese in Sulu. The Chinese took control of the economy and used steamers to ship goods for exporting and importing. [[Opium]], [[ivory]], textiles, and [[crockery]] were among the other goods which the Chinese sold.
+
+The Chinese on Maimbung sent the weapons to the [[Sulu Sultanate]], who used them to battle the Spanish and resist their attacks. A [[Chinese-Mestizo]] was one of the Sultan's brothers-in-law, the Sultan was married to his sister. He and the Sultan both owned shares in the ship (named the Far East) which helped smuggled the weapons.<ref>{{cite book
+| title      = The Sulu zone, 1768–1898: the dynamics of external trade, slavery, and ethnicity in the transformation of a Southeast Asian maritime state
+| author     = James Francis Warren
+| edition    = 2, illustrated
+| publisher  = NUS Press
+| year       = 2007
+| isbn       = 978-9971-69-386-2
+| page       = 130
+| url        = https://books.google.com/books?id=VUZq93ydrrwC&pg=PA129
+}}</ref>
+
+The Spanish launched a surprise offensive under Colonel Juan Arolas in April 1887 by attacking the Sultanate's capital at [[Maimbung]] in an effort to crush resistance. Weapons were captured and the property of the Chinese was destroyed and the Chinese were deported to Jolo.<ref>{{cite book
+| title      = The Sulu zone, 1768–1898: the dynamics of external trade, slavery, and ethnicity in the transformation of a Southeast Asian maritime state
+| author     = James Francis Warren
+| edition    = 2, illustrated
+| publisher  = NUS Press
+| year       = 2007
+| isbn       = 978-9971-69-386-2
+| page       = 131
+| url        = https://books.google.com/books?id=VUZq93ydrrwC&pg=PA129
+}}</ref>
+
+====Spanish control====
+{{stack|float=right|[[File:UvA-BC 300.068 - Siboga - Sulu.jpg|thumbnail|right|Gates of Jolo, circa 1899]]}}
+In 1876, the Spanish attempted to gain control of the Muslims by burning Jolo and were successful.<ref name="Timeline">Ang, Josiah C. [http://www.seasite.niu.edu/Tagalog/Modules/Modules/MuslimMindanao/historical_timeline_of_the_royal.htm "Historical Timeline of the Royal Sultanate of Sulu Including Related Events of Neighboring Peoples"]. Center for Southeast Asian Studies Northern Illinois University.</ref>  In March 1877, The Sulu Protocol was signed between Spain, England and Germany which recognized Spain's rights over Sulu and eased European tensions in the area. The Spanish built the smallest walled city in the world in Jolo. The Spanish and the Sultan of Sulu signed the Treaty of Peace on July 22, 1878, in which the sultan accepted Spanish sovereignty over Sulu and Tawi-Tawi{{refn|Controversy exists over terminology used in the Spanish-language  and Tausug-language versions of the treaty and whether Spain was given complete sovereignty over the Sulu [[archipelago]], including [[Basilan]], or whether a "protectorate-ship" was entered into}}<ref>Spanish text of treaty can be viewed in [https://books.google.com/books?id=n_LfAAAAMAAJ&pg=PA401  Coleccion de los tratados, convenios y documentos internationales], text also published in the [http://digitallibrary.ust.edu.ph/cdm/compoundobject/collection/gacetademan/id/57363/rec/1 Gaceta de Manila, Año XVlll, Tomo II, numero 0052] {{Webarchive|url=https://web.archive.org/web/20181228035032/http://digitallibrary.ust.edu.ph/cdm/compoundobject/collection/gacetademan/id/57363/rec/1 |date=2018-12-28 }} (August 21, 1878)</ref> but Sulu and Tawi-tawi remained partially ruled by the Spanish as their sovereignty was limited to military stations and garrisons and pockets of civilian settlements. 
+
+====Trading decline====
+Trade suffered heavily in 1892 when three steamers used for trade were lost in a series of storms on the trade route between Singapore and Jolo. The traders in Singapore lost so heavily as a result that they refused to accept trade unless it was paid for in cash.  Along with the fear of increased taxation, many Chinese left to other parts of the Archipelago as Jolo lost its role as the regional entrepot. The Tausug had already abandoned trading when the Chinese arrived. Thus, Jolo never fully gained its previous trading status. However, the Chinese continued to dominate trade throughout the Archipelago and Mindanao.<ref name="Warren"/>
+
+===American Colonial Period===
+[[File:Philippine Island - Jolo Island - NARA - 68155964.jpg|thumb|Aerial view of Jolo, 1936]]
+
+In 1899 following the [[Treaty of Paris (1898)|Treaty of Paris of 1898]], [[sovereignty]] over the Philippines was transferred from [[Spain]] to the [[United States]] who attempted to forcibly incorporate the Muslim areas into the Philippine state. The [[History of the Philippines (1898–1946)|American colonizers]] eventually took over the southern regions with force (see ''[[Moro Rebellion]]'').  The Sultanate of Sulu was abolished in 1936.
+
+==Geography==
+The town of Jolo is located on the north-west side of the Jolo Island, which is located south-west of the tip of [[Zamboanga Peninsula]] on [[Mindanao]] island. The island is situated between the [[Provinces of the Philippines|provinces]] of [[Basilan]] and [[Tawi-Tawi]], bounded by [[Sulu Sea]] to the north and [[Celebes Sea]] to the south.
+
+[[Jolo]] is a [[volcanic island]], which lies at the center of the [[Sulu Archipelago]] covering {{convert|890|km2|sqmi}}.  The [[Sulu Archipelago]] is an island chain in the Southwest Philippines between [[Mindanao]] and [[Borneo]], which is made up of 900 islands of volcanic and coral origin covering an area of {{convert|2688|km2|sqmi}}.  There are numerous [[volcano]]es and [[volcanic crater|craters]] around Jolo with the last known activity (an earthquake assumed resulting from a [[submarine eruption]] from an undetermined location) taking place on September 21, 1897, causing devastating [[tsunamis]] in the archipelago and western Mindanao.<ref>[http://www.volcano.si.edu/world/volcano.cfm?vnum=0700-01=&volpage=erupt "Eruption history of Jolo"] {{Webarchive|url=https://web.archive.org/web/20121012083551/http://www.volcano.si.edu/world/volcano.cfm?vnum=0700-01=&volpage=erupt |date=2012-10-12 }}. Global Volcanism Program.</ref><ref>U.S. Bureau of Census. "Census of the Philippine Islands, 1903", pp.217–218. Government Printing Office, 1905.</ref><ref name="Timeline"/>
+
+===Barangays===
+Jolo is politically subdivided into 8 barangays . Each barangay consists of [[purok]]s  while some have [[sitios]].
+* Alat
+* Asturias
+* Bus-Bus
+* Takut Takut
+* Tulay
+* San Raymundo
+* Chinese Pier
+* Walled City
+
+===Climate===
+Jolo has a consistently very warm to hot, oppressively humid, and wet [[tropical rainforest climate]] ([[Köppen climate classification|Köppen]] ''Af'').
+{{Weather box
+| location     = Jolo, Sulu
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| temperature colour = pastel
+| Jan high C = 27
+| Jan low C  = 27
+| Feb high C = 27
+| Feb low C  = 26
+| Mar high C = 27
+| Mar low C  = 27
+| Apr high C = 28
+| Apr low C  = 27
+| May high C = 28
+| May low C  = 28
+| Jun high C = 28
+| Jun low C  = 28
+| Jul high C = 28
+| Jul low C  = 27
+| Aug high C = 28
+| Aug low C  = 27
+| Sep high C = 28
+| Sep low C  = 27
+| Oct high C = 28
+| Oct low C  = 27
+| Nov high C = 28
+| Nov low C  = 27
+| Dec high C = 28
+| Dec low C  = 27
+| rain colour = green
+| Jan rain mm = 170
+| Feb rain mm = 130
+| Mar rain mm = 125
+| Apr rain mm = 122
+| May rain mm = 229
+| Jun rain mm = 286
+| Jul rain mm = 254
+| Aug rain mm = 248
+| Sep rain mm = 182
+| Oct rain mm = 257
+| Nov rain mm = 233
+| Dec rain mm = 188
+| Jan rain days = 18.3
+| Feb rain days = 15.3
+| Mar rain days = 15.2
+| Apr rain days = 14.6
+| May rain days = 22.8
+| Jun rain days = 24.0
+| Jul rain days = 24.3
+| Aug rain days = 23.3
+| Sep rain days = 20.5
+| Oct rain days = 22.6
+| Nov rain days = 21.9
+| Dec rain days = 19.3
+| source 1 = Meteoblue <small>(modeled/calculated data, not measured locally)</small><ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/jolo_philippines_1710141
+| title =  Jolo, Sulu : Average Temperatures and Rainfall
+| publisher = Meteoblue
+| access-date = 31 January 2019 }}</ref>
+| date = 31 January 2019
+}}
+{{clear-left}}
+
+==Demographics==
+{{Philippine Census
+| align= none
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+===Languages===
+{{stack|float=right|[[File:Tulay Mosque.jpg|thumb|Tulay Central Mosque, the largest mosque in Sulu]]}}
+The majority of people who live in Jolo speak [[Tausug language|Tausug]]. [[English language|English]] is also used, especially in schools and different offices. [[Hokkien]] and [[Malay language|Malay]] are also spoken by some traders. Other languages include [[Sama language|Sama]] and [[Yakan language|Yakan]], while [[Chavacano]] is also spoken by Christian and Muslim locals who maintain contacts and trade with the mainland Zamboanga Peninsula and Basilan.
+
+According to the 2000 Philippine census by the [[Philippine Statistics Authority]], the Tausug language ranks number 14 with 1,022,000 speakers all over the country, the speakers mainly in the Western Mindanao area to which Sulu belongs.
+
+===Religion===
+About 99%<ref name="PSA">{{cite web|title=Muslim Population in Mindanao (based on POPCEN 2015|url=http://rssoarmm.psa.gov.ph/release/54739/factsheet/muslim-population-in-mindanao-%28based-on-popcen-2015%29|author=Philippine Statistics Authority|access-date=Aug 31, 2018|date=July 26, 2017|archive-date=May 4, 2019|archive-url=https://web.archive.org/web/20190504160119/http://rssoarmm.psa.gov.ph/release/54739/factsheet/muslim-population-in-mindanao-(based-on-popcen-2015)|url-status=dead}}</ref> of the people living in Jolo practice [[Islam]], but there is also a significant Christian minority consisting of [[Roman Catholic]]s and [[Protestant]]s. Tausugs were the first Filipinos to adopt Islam when the Muslim missionary Karim ul-Makhdum came to Sulu in 1380. Other missionaries included [[Rajah Baguinda]] and the Muslim Arabian scholar Sayid Abu Bakr, who became the first Sultan of Sulu. The family and community relations are based on their understanding of Islamic law. The Tausug are also heavily influenced by their pre-Islamic traditions.
+
+Tulay Central Mosque is the largest [[mosque]] in town and in the province. There are also numerous mosques located in different areas and barangays around Jolo. [[Our Lady of Mount Carmel Cathedral, Jolo|Our Lady of Mount Carmel Cathedral]] is a Roman Catholic cathedral located in the town center and is the biggest church in town. "Jolo Alliance Evangelical Church" (formerly known as Jolo Evangelical Church) of the Christian and Missionary Alliance Churches of the Philippines (CAMACOP) also co-exist along with the Catholic Church since the 1900s, making it the first Protestant church in the archipelago.
+{{clear-left}}
+
+==Culture==
+{{stack|float=right|[[File:Tausug.jpg|thumb|right|Tausug woman in traditional garb, performing the Pangalay]]}}
+[[Bangsamoro]] or Moroland is the homeland of the [[Moro people|Moro]], which is a Spanish term used for Muslims.  The majority of Jolo's people are [[Tausūg people|Tausug]]s – the ethnic group that dominates the Sulu Archipelago.  Tausug derives from the words tau meaning “man” and sug meaning “current”, which translates to “ people of the current”, because they were known to be seafarers with military and merchant skills.  The Tausugs are known as the warrior tribe with excellent fighting skills.<ref name="PCA">[http://www.sulu.gov.ph/culture.asp?id=3&hide_id=3&&n3IEl5XBkvMrP1Boo33L&sCode=mp8Cr74Yq10POj6mt52js1NAqkDWw6 "People, Culture and the Arts"] {{webarchive|url=https://web.archive.org/web/20111005064227/http://www.sulu.gov.ph/culture.asp?id=3&hide_id=3&&n3IEl5XBkvMrP1Boo33L&sCode=mp8Cr74Yq10POj6mt52js1NAqkDWw6 |date=2011-10-05 }}. Province of Sulu Official Web Site.</ref>
+
+Before the Tausugs adopted [[Islam]], the Tausugs were organized into [[kauman]] and were governed by a [[patriarchal]] form of government with the individual datus as heads of their own communities. The source of law was the [[Adat]] which the Tausugs followed strictly.<ref>Kamlian, Jamail A.. [http://www.law.emory.edu/ihr/wrkpaper/j_kamlian.doc "Islam, Women and Gender Justice: A Discourse on the Traditional Islamic Practices among the Tausug in Southern Philippines"] {{webarchive|url=https://web.archive.org/web/20100614084232/http://www.law.emory.edu/ihr/wrkpaper/j_kamlian.doc |date=2010-06-14 }}. Emory University School of Law, Atlanta, Georgia, U.S.A.</ref>
+
+The Tausug arts and handicrafts have a mix of Islamic and Indonesian influences. Pangalay is a popular celebratory dance at Tausug weddings, which can last weeks depending on the financial status and agreement of the families. They dance to the music of [[kulintangan]], [[gabbang]], and [[agong]]. Another traditional dance of courtship is the Pangalay ha Agong. In this dance, two Tausug warriors compete for the attention of a woman using an agong (large, deep, brass gong) to demonstrate their competence and skill.<ref name="PCA"/>
+
+A large portion of the population in Jolo is of [[China|Chinese]] descent. Between 1770 and 1800, 18,000 Chinese came from South China to trade and many of them stayed.  In 1803, Portuguese Captain Juan Carvalho reported that there were 1,200 Chinese living in the town.  The reorientation of the Sulu trade patterns caused an influx of Chinese immigrants from Singapore.<ref name="Warren">James Francis Warren, "The Sulu Zone, 1768–1898: The Dynamics of External Trade, Slavery, and Ethnicity in the Transformation of a Southeast Asian Maritime State". National University of Singapore Press, Singapore.</ref>
+
+==Economy==
+<p style="margin-left: 85px;">'''Poverty Incidence of {{wikidata|label}}'''</p>
+{| style="font-size:85%;" '|
+|  {{#invoke:Chart
+ | bar chart
+ | height    = 300
+ | width     = 420
+ | group 1   = {{#invoke:wd|properties|raw|P8843|P585=2000}} : {{#invoke:wd|properties|raw|P8843|P585=2003}} : {{#invoke:wd|properties|raw|P8843|P585=2006}} : {{#invoke:wd|properties|raw|P8843|P585=2009}} : {{#invoke:wd|properties|raw|P8843|P585=2012}} : {{#invoke:wd|properties|raw|P8843|P585=2015}} : {{#invoke:wd|properties|raw|P8843|P585=2018}} : {{#invoke:wd|properties|raw|P8843|P585=2021}} 
+ | x legends = 
+  2000 <br /> {{#invoke:wd|properties|raw|P8843|P585=2000}}  :
+  2003 <br /> {{#invoke:wd|properties|raw|P8843|P585=2003}}  :
+  2006 <br /> {{#invoke:wd|properties|raw|P8843|P585=2006}}  :
+  2009 <br /> {{#invoke:wd|properties|raw|P8843|P585=2009}}  :
+  2012 <br /> {{#invoke:wd|properties|raw|P8843|P585=2012}}  :
+  2015 <br /> {{#invoke:wd|properties|raw|P8843|P585=2015}}  :
+  2018 <br /> {{#invoke:wd|properties|raw|P8843|P585=2018}}  :
+  2021 <br /> {{#invoke:wd|properties|raw|P8843|P585=2021}}  
+ | colors      = #D4AF37
+ | group names = {{wikidata|label|}}
+ }}
+<p style="margin-left: 85px;">
+'''Source:''' [[Philippine Statistics Authority]]<ref>{{cite web 
+| url = https://psa.gov.ph/content/poverty-incidence-pi
+| title = Poverty incidence (PI):
+| publisher = Philippine Statistics Authority
+| accessdate = December 28, 2020}}</ref>{{#if:{{#invoke:wd|properties|raw|P8843|P585=2000}}|<ref>{{safesubst:#invoke:wd|reference|raw|P8843|P585=2000}}</ref>|}}{{#if:{{#invoke:wd|properties|raw|P8843|P585=2003}}|<ref>{{safesubst:#invoke:wd|reference|raw|P8843|P585=2003}}</ref>|}}{{#if:{{#invoke:wd|properties|raw|P8843|P585=2006}}|<ref>{{safesubst:#invoke:wd|reference|raw|P8843|P585=2006}}</ref>|}}{{#if:{{#invoke:wd|properties|raw|P8843|P585=2012}}|<ref>{{safesubst:#invoke:wd|reference|raw|P8843|P585=2012}}</ref>|}}{{#if:{{#invoke:wd|properties|raw|P8843|P585=2015}}|<ref>{{safesubst:#invoke:wd|reference|raw|P8843|P585=2015}}</ref>|}}{{#if:{{#invoke:wd|properties|raw|P8843|P585=2018}}|<ref>{{safesubst:#invoke:wd|reference|raw|P8843|P585=2018}}</ref>|}}{{#if:{{#invoke:wd|properties|raw|P8843|P585=2021}}|<ref>{{safesubst:#invoke:wd|reference|raw|P8843|P585=2021}}</ref>|}}
+</p>
+|}
+
+[[File:Jolo town proper, Serantes (Jolo, Sulu; 10-10-2023).jpg|thumb|Downtown Jolo]]
+===Industry===
+In Jolo, most of the residents are in the [[agriculture]] industry. Agricultural products include [[coconut]], [[cassava]], [[abaca]], [[coffee]], [[lanzones]], [[jackfruit]], [[durian]], [[mangosteen]] and [[Artocarpus odoratissimus|marang]]. Jolo is the only municipality in Sulu that does not [[seaweed farming|farm seaweed]]. Fishing is the most important industry; otherwise people engage in the industries of boat building, mat weaving, coffee processing, and [[fruit preserves|fruit preservation]].<ref>[http://www.sulu.gov.ph/tourism.asp?id=2&hide_id=2&tabid=1&Rm425S01OAq76gfSRMn5&sCode=QTc27aq1THg66Nu5XujNWI6e7O20Au "Tourism"] {{webarchive|url=https://web.archive.org/web/20111005064253/http://www.sulu.gov.ph/tourism.asp?id=2&hide_id=2&tabid=1&Rm425S01OAq76gfSRMn5&sCode=QTc27aq1THg66Nu5XujNWI6e7O20Au |date=2011-10-05 }}. Province of Sulu Official Web Site.</ref>
+
+===Banking===
+There were different banks operating in Jolo and serving the people of Jolo for their needs. These included the [[Philippine National Bank]], [[Metropolitan Bank and Trust Company|Metrobank]], [[Allied Banking Corporation|Allied Bank]], [[Al-Amanah Islamic Bank]], [[Land Bank of the Philippines|Land Bank]] and [[Development Bank of the Philippines]]. [[Automated teller machines]] (ATMs) are also available in selected bank branches.
+
+===Economic growth===
+{{stack|float=right|[[File:US Navy 060608-N-1577S-015 The U.S. Military Sealift Command (MSC) Hospital ship USNS Mercy (T-AH 19) anchors off the city coast during a scheduled humanitarian visit.jpg|thumb|upright|View of Jolo, with [[USNS Mercy (T-AH-19)|USNS Mercy]] in the background.]]}}
+Economic development in Jolo has been hampered by instability, violence and unrest caused by the presence of several [[Islamist]] [[Separatism in the Philippines|separatist]] groups in the Bangsamoro. The long-running separatist insurgency has made these Muslim-dominated islands some of the poorest regions in the nation. Jolo has faced a large degree of lawlessness and poverty.<ref>Crossette, Barbara (1987-09-11). [https://query.nytimes.com/gst/fullpage.html?res=9B0DE1DE153DF932A2575AC0A961948260&sec=&spon=&pagewanted=all "In Filipino Port, Lawlessness Grows"]. ''[[New York Times]]''.</ref>    Jolo is a main stronghold for the [[Al-Qaeda]]-linked [[Abu Sayyaf]] group, and these conditions are ideal for militant recruitment. However, the situation has improved since the US has invested in developing the region.
+
+In 2007, [[United States Undersecretary of State for Public Diplomacy and Public Affairs]] [[Karen Hughes]] and US Ambassador [[Kristie Kenney]] visited Jolo to learn about US government-sponsored projects for ‘development, peace and prosperity’ in the region. The [[United States Agency for International Development]] (USAID) has funded a ‘farm-to-market’ road between [[Maimbung]] and Jolo to help farmers transport agricultural produce to the market.   On her visit, Kenney announced the $3&nbsp;million plan to improve the [[Jolo Airport]].<ref>http://www.lexisnexis.com/us/lnacademic/results/docview/docview.do?docLinkInd=true&risb=21_T5667574747&format=GNBFI&sort=DATE,A,H&startDocNo=1&resultsUrlKey=29_T5666963374&cisb=22_T5667573664&treeMax=true&treeWidth=0&csi=173384&docNo=2{{full citation needed|date=September 2020}}</ref>  Since 1997, USAID has spent $4&nbsp;million a year in the region.<ref>{{Cite web |url=http://www.sulu.gov.ph/latestinsulu.asp?id=37&hide_id=5&tabid=1&scode#t2WKj77QX60XM5ALuh8R=jeDXxt0Fn60Lc5FSq11YycJfnr2MDo |title=The Official Website of the Provincial Government of Sulu |access-date=2009-02-15 |archive-date=2009-05-12 |archive-url=https://web.archive.org/web/20090512114158/http://sulu.gov.ph/latestinsulu.asp?id=37&hide_id=5&tabid=1&scode#t2WKj77QX60XM5ALuh8R=jeDXxt0Fn60Lc5FSq11YycJfnr2MDo |url-status=dead }}{{full citation needed|date=September 2020}}</ref>   Other institutions involved are the [[World Bank]], [[JICA]] and [[AusAID]].
+
+The Filipino government has spent over P39&nbsp;million for development and infrastructure in Sulu.<ref>{{cite web |url=http://www.sulu.gov.ph/latestinsulu.asp?id=61&hide_id=5&tabid=1&scode#t2WKj77QX60XM5ALuh8R=jeDXxt0Fn60Lc5FSq11YycJfnr2MDo |url-status=dead |archive-url=https://web.archive.org/web/20090512121850/http://sulu.gov.ph/latestinsulu.asp?id=61&hide_id=5&tabid=1&scode |archive-date=2009-05-12 |title=The Official Website of the Provincial Government of Sulu}}</ref>  In October 2008, the Provincial Government of Sulu in cooperation with the Local Water Utilities Administration (LWUA), the United States Agency for International Development (USAID), the Mindanao Economic Development Council (MEDCO) and the Jolo Mainland Water District (JMWD) started the construction of a 54&nbsp;million pesos project to upgrade the water supply system in Jolo.<ref>(2008-09-25). [http://www.lwua.gov.ph/news/sept_08_news/News_jolo.htm "P54-million water supply project for Jolo mainland"] {{Webarchive|url=https://web.archive.org/web/20120303003614/http://www.lwua.gov.ph/news/sept_08_news/News_jolo.htm |date=2012-03-03 }}. Local Water Utilities Administration.</ref>
+
+==Peace and order==
+
+===Clan feud===
+{{main|Rido}}
+In present-day [[Sulu (province)|Sulu]], there is a degree of lawlessness and clan-based politics. These [[clan]] lines are based along family ties, which started after Arthur Amaral proposed marriage to a woman from a rival clan. The rejected proposal caused a family feud which forced families to take sides. There are 100,000 rifles circling the Sulu archipelago. Almost every household owns a gun, and the clans often settle disputes with violence.   Most of the disputes between clans revolve around land. The clan-based society makes it extremely difficult for police to impose law. There are several gun shootings and the Filipino Army is often called in to settle disputes.<ref>AlJazeeraEnglish (2008-07-29). [https://www.youtube.com/watch?v=dkIK-FAlLu4 "People and Power - Gun culture - 29 July 08 Part 1"]. YouTube.</ref> In April 2008, the Jolo Zone of Peace, which was supported by the [[Geneva]]-based [[Centre for Humanitarian Dialogue]] (CHD), was established where firearms were restricted in mediating conflicts between clans. The Sulu government is attempting to spread this zone of peace into the countryside.<ref>AlJazeeraEnglish (2008-07-29). [https://www.youtube.com/watch?v=aA6OQolVRyE "People and Power - Gun culture - 29 July 08 Part 2"]. YouTube.</ref>
+
+===Abu Sayyaf===
+The island was considered dangerous for foreigners, especially Americans, as militants threatened to shoot or abduct them on the spot. Much of the anger comes from when American colonizers killed 1000 men, women and children, who had retreated up Mount Dajo in 1906 after refusing to pay taxes,  in the [[First Battle of Bud Dajo]] during the [[Philippine–American War]].<ref name="lexisnexis.com">http://www.lexisnexis.com/us/lnacademic/results/docview/docview.do?docLinkInd=true&risb=21_T5667574747&format=GNBFI&sort=DATE,A,H&startDocNo=1&resultsUrlKey=29_T5666963374&cisb=22_T5667573664&treeMax=true&treeWidth=0&csi=11314&docNo=3{{full citation needed|date=September 2020}}</ref> However, the American image has improved since American development plans for the region were carried out.
+
+The most radical separatist Islamic group [[Abu Sayyaf]] claims to be fighting for an Islamic state independent of the Roman Catholic Philippine government. The group has strongholds in Jolo and [[Basilan]].  Driven by poverty and high rewards, a significant number of local residents are suspected to work for them. The Abu Sayyaf has committed a series of kidnappings. On April 23, 2000, the Abu Sayyaf raided the [[Malaysia]]n resort island of [[Sipadan]] and kidnapped 21 tourists from Germany, France, Finland and South Africa and brought them back to Jolo, asking for $25&nbsp;million in [[ransom]] money. The Abu Sayyaf has also kidnapped several [[journalist]]s and [[photographers]] in Jolo. The US has already spent millions of dollars for information leading to the arrest of militants; and offered up to $5&nbsp;million in bounty with Manila as much as P10&nbsp;million reward for information leading to the capture of Abu Sayyaf leaders.
+
+[[Sulu (province)|Sulu]] governor Benjamin Loong supported the [[US Special Forces]] projects “Operation Smiles” of providing medical care, and building roads and schools. The US Special Forces and Governor Loong hopes that winning respect and alleviating poverty from the people will stop terrorist recruitment. Governor Loong claimed that many residents have turned away Abu Sayyaf and [[Jemaah Islamiah]] members.<ref name="lexisnexis.com"/>
+
+===War on Terror===
+{{stack|float=right|[[File:Aftermath of the Jolo Cathedral bombings.jpg|thumb|The damage of the cathedral on January 28, 2019.]]}}
+Three months after the [[September 11 attacks]], [[George W. Bush]] announced the US was opening a second front in the [[War on Terror]] in the [[Operation Enduring Freedom – Philippines|Philippines]]. The Archipelago became the testing grounds for the Philippine anti-terror plan “Clear, Hold and Develop”. In August 2006, Operation Ultimatum was launched and 5,000 Philippine marines and soldiers, supported by the US Special Forces began clearing the island of Jolo, fighting against a force of 400 guerillas. By February 2007, the town of Jolo was deemed cleared of terrorists.
+
+=== 2019 cathedral bombings ===
+On 27 January 2019, [[2019 Jolo Cathedral bombings|two bombings]] took place at the [[Our Lady of Mount Carmel Cathedral, Jolo|Cathedral of Our Lady of Mount Carmel]]. The bombings led by an unknown bandit but not exactly group [[Abu Sayyaf]] were widely condemned by local people in Jolo. The bombing caused at least few people killed or wounded during that day.{{citation needed|date=August 2020}}
+
+=== 2020 town plaza bombings ===
+On 24 August 2020, at around 12:00 pm, a bomb exploded in front of the Paradise Food Plaza in Barangay Walled City. At least five civilians and four soldiers were killed, while several others were wounded. A second bomb exploded at around 1:00 pm near the Cathedral of Our Lady of Mount Carmel, which was the same site of two bombings last year. One civilian was killed while two others were injured. Philippine Red Cross Chief [[Richard J. Gordon|Richard Gordon]] said that a motorcycle loaded with an [[improvised explosive device]] exploded near a military truck.<ref>{{Cite news|url=https://www.aljazeera.com/news/2020/08/killed-jolo-bombing-southern-philippines-200824044747046.html|title=Nine killed in Jolo bombing in southern Philippines|work=Al Jazeera|date=2020-08-24|access-date=2020-08-24}}</ref><ref>{{Cite news|url=https://www.nytimes.com/2020/08/24/world/asia/-philippines-explosions-jolo-sulu.html|title=At Least 10 Killed After 2 Blasts Rip Through Southern Philippines|work=The New York Times|date=2020-08-24|access-date=2020-08-24}}</ref><ref>{{Cite news|url=https://www.cnnphilippines.com/regional/2020/8/24/explosion-jolo-sulu.html|title=4 soldiers killed, 17 others wounded from explosion in barangay in Jolo, Sulu|work=CNN Philippines|date=2020-08-24|access-date=2020-08-24|archive-date=2020-08-24|archive-url=https://web.archive.org/web/20200824103140/https://www.cnnphilippines.com/regional/2020/8/24/explosion-jolo-sulu.html|url-status=dead}}</ref>
+
+==Political and societal significance==
+[[File:Sulu Provincial Capitol (Asturias, Jolo, Sulu; 10-10-2023).jpg|thumb|Sulu Provincial Capitol]]
+The Moros are geographically concentrated in the Southwest of the Philippines. Moros identify mostly with the majority Muslim nations of Indonesia and Malaysia because of their geographic proximity, and linguistic and cultural similarities. Moros have faced encroachments from the Spanish, Americans and now face the national Philippine government. Thus, the struggle for the Moro independent state has existed for over 400 years.
+
+Jolo has been the center of this conflict. Between 1972 and 1976, Jolo was the center of the Muslim Separatist Rebellion between the Muslim militants and the [[Ferdinand Marcos|Marcos]] regime which killed 120,000 people. In 1974, fighting broke out when the government troops stopped the [[Moro National Liberation Front]] (MNLF) from taking over the town.<ref name="ATimes"/>
+
+Currently, the Moro National Liberation Front is the ruling party of the [[Autonomous Region in Muslim Mindanao]] (ARMM). In 1996, the MNLF was granted leadership of the ARMM in response to the calls for Muslim autonomy. Abdusakur Tan is the governor of Sulu and Kerkhar Tan is the mayor of Jolo. Politicians in these regions rose to power with the help of clan connections.
+
+== See also ==
+* [[Battle of Jolo (1974)]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+*[https://www.philatlas.com/mindanao/armm/sulu/jolo.html Jolo Profile at PhilAtlas.com]
+*[{{NSCB detail}} Philippine Standard Geographic Code]
+*[https://cmci.dti.gov.ph/lgu-profile.php?lgu=Jolo Jolo Profile at the DTI Cities and Municipalities Competitive Index]
+*[https://web.archive.org/web/20131004104825/http://census.gov.ph/ Philippine Census Information]
+*[https://web.archive.org/web/20160110090534/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=1&frmIdProvince=96&frmIdLgu=1696 Local Governance Performance Management System]
+
+{{Geographic location
+| Centre = Jolo
+| N      = [[Hadji Panglima Tahil]]
+| E      = [[Patikul]]
+| S      = [[Patikul]]
+| W      = [[Indanan]]
+}}
+{{Sulu}}
+{{Bangsamoro}}
+{{Philippine Provincial Capitals}}
+{{Metropolitan areas of the Philippines}}
+{{Authority control}}
+
+[[Category:Municipalities of Sulu]]
+[[Category:Provincial capitals of the Philippines]]

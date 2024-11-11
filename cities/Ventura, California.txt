@@ -1,0 +1,648 @@
+{{Use mdy dates|date=May 2024}}
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->| name               = Ventura, California
+| official_name      = San Buenaventura
+| settlement_type    = [[List of municipalities in California|City]]
+<!-- Images and maps ------>| image_skyline      = {{multiple image
+| border                   = infobox
+| total_width              = 280
+| image_style              = border:1;
+| perrow                   = 1/2/2
+| caption_align            = center
+| image1                   = Fountain and front view of Mission San Buenaventura, Ventura, California LCCN2013631958.tif
+| caption1                 = [[Mission San Buenaventura]] 
+| image2                   = Ventura County Courthouse building.jpg
+| caption2                 = [[Ventura County Courthouse]]
+| image3                   = Elizabeth Bard Memorial Hospital.jpg
+| caption3                 = [[Elizabeth Bard Memorial Hospital]]
+| image4                   = Ventura Pier Sunset View.jpg
+| caption4                 = [[Ventura Pier]]
+| image5                   = The Cross Ventura.jpg
+| caption5                 = [[Serra Cross]]
+}}
+| image_flag         = 
+| image_seal         = VenturaSeal.jpg
+| nickname           = 
+| image_map          = Ventura_County_California_Incorporated_and_Unincorporated_areas_San_Buenaventura_(Ventura)_Highlighted.svg
+| map_caption        = Location in Ventura County
+| pushpin_map        = USA California Southern#California#USA
+| pushpin_map_caption = Location in Southern California##Location in California##Location in the United States
+| pushpin_label      = Ventura
+| pushpin_label_position = 
+| pushpin_relief     = 1
+<!-- Location ------------->| coordinates        = {{coord|34|16|30|N|119|13|40|W|region:US-CA_type:city|display=inline,title}}
+| subdivision_type   = Country
+| subdivision_name   = United States
+| subdivision_type1  = [[U.S. state|State]]
+| subdivision_name1  = [[California]]
+| subdivision_type2  = [[List of counties in California|County]]
+| subdivision_name2  = [[Ventura County, California|Ventura]]
+<!-- History -------------->| established_title  = [[Mission San Buenaventura|Mission]]
+| established_date   = March 31, 1782
+| established_title1 = [[Municipal corporation|Incorporated]]
+| established_date1  = April 2, 1866<ref>{{Cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+|url-status     = dead
+ |archive-url  = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = November 3, 2014
+|df          = mdy-all
+}}</ref>
+| named_for          = [[Saint Bonaventure]]
+<!-- Government ----------->| leader_title       = [[List of mayors of Ventura, California|Mayor]]
+| leader_name        = Joe Schroeder<ref>{{Cite web
+| url = https://www.cityofventura.ca.gov/712/City-Council
+| title = City Council
+| publisher = City of Ventura
+| access-date = December 22, 2022}}</ref>
+| leader_title1      = [[City manager]]
+| leader_name1       = Bill Ayub<ref>{{Cite web |title=Ventura Council Confirms Appointment Of Former Ventura County Sheriff As New City Manager |url=https://www.kvta.com/news/ventura-council-confirms-appointment-of-former-ventura-county-sheriff-as-new-city-manager/ |access-date=December 26, 2023 |website=KVTA}}</ref>
+| leader_title2      = [[California's 19th State Senate district|CA Senate]]
+| leader_name2       = {{Representative|casd|19|fmt=sleader}}<ref name=swd>{{Cite web |url=http://statewidedatabase.org/gis/gis2011/index_2011.html |title=Statewide Database |publisher=UC Regents |access-date=November 23, 2014}}</ref>
+| leader_title3      = [[California's 38th State Assembly district|CA Assembly]]
+| leader_name3       = {{Representative|caad|38|fmt=sleader}}<ref name="maps">{{cite web|url=https://wedrawthelines.ca.gov/final-maps/|title=Final Maps|website=We Draw the Lines CA|accessdate=March 30, 2024}}</ref>
+| leader_title4      = [[United States House of Representatives|U.S. Congress]]<ref>{{Cite web
+| url = http://wedrawthelines.ca.gov/downloads/meeting_handouts_072011/handouts_20110729_q2_cd_finaldraft_splits.zip
+| title = Communities of Interest - City
+| publisher = California Citizens Redistricting Commission
+| access-date = September 27, 2014
+| archive-date = September 30, 2013
+| archive-url = https://web.archive.org/web/20130930184128/http://wedrawthelines.ca.gov/downloads/meeting_handouts_072011/handouts_20110729_q2_cd_finaldraft_splits.zip
+| url-status = dead
+}}</ref>
+| leader_name4       = [[California's 24th congressional district|CA-24]]: {{Representative|cacd|24|fmt=usleader}}<br />[[California's 26th congressional district|CA-26]]: {{Representative|cacd|26|fmt=usleader}}
+<!-- Area ----------------->| unit_pref          = Imperial
+| area_footnotes     = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi   = 32.29
+| area_total_km2     = 83.63
+| area_land_sq_mi    = 21.89
+| area_land_km2      = 56.68
+| area_water_sq_mi   = 10.41
+| area_water_km2     = 26.95
+| area_water_percent = 32.53
+<!-- Elevation ------------>| elevation_footnotes = <ref>{{Cite GNIS|1667934|Ventura|access-date=December 3, 2014}}</ref>
+| elevation_ft       = 36
+| elevation_m        = 11
+<!-- Population ----------->| population_as_of   = [[2020 United States Census|2020]]
+| population_footnotes = <ref>{{Cite web
+| url = https://www.census.gov/quickfacts/table/PST045215/0665042
+| access-date = January 5, 2022
+| title = QuickFacts: San Buenaventura (Ventura) city, California
+| publisher = U.S. Census Bureau }}</ref>
+| population_total   = 110763
+| population_rank    = [[Ventura County, California|4th]] in Ventura County<br />[[List of largest California cities by population|62nd]] in California
+| population_density_km2 = auto
+| population_demonym = Venturan
+<!-- Time zone ------------>| timezone           = [[Pacific Time Zone|Pacific]]
+| utc_offset         = &minus;8
+| timezone_DST       = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST     = &minus;7
+<!-- Codes ---------------->| postal_code_type   = [[ZIP code]]s<ref>{{Cite web
+| url = https://tools.usps.com/go/ZipLookupAction!input.action
+| title = ZIP Code(tm) Lookup
+| publisher = [[United States Postal Service]]
+| access-date = December 3, 2014}}</ref>
+| postal_code        = 93001–93007, 93009
+| area_code          = [[Area code 805|805]]
+| blank_name         = [[Federal Information Processing Standards|FIPS code]]
+| blank_info         = 06-65042
+| blank1_name        = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info        = {{GNIS 4|1667934}}, {{GNIS 4|2411779}}
+| website            = {{URL|https://www.cityofventura.ca.gov/}}
+| pop_est_as_of      = 
+| pop_est_footnotes  = 
+| population_est     = 
+| population_density_sq_mi = auto
+}}
+
+'''Ventura''', officially named '''San Buenaventura''' (Spanish for "[[Saint Bonaventure]]"),<ref>Erwin G. Gudde, ''California Place Names: The Origin and Etymology of Current Geographical Names'', 4th ed., rev. and enlarged by William Bright (University of California Press, 1998), p. 410.</ref> is a city in and the [[county seat]] of [[Ventura County, California]], United States. It is a coastal city located northwest of [[Los Angeles]]. The population was 110,763 at the [[2020 United States Census|2020 census]].<ref>{{Cite news|url=https://datausa.io/profile/geo/san-buenaventura-(ventura)-ca/|title=San Buenaventura (Ventura), CA|work=Data USA|access-date=November 29, 2017}}</ref> Ventura is a popular tourist destination, owing to its historic landmarks, beaches, and resorts.
+
+Ventura has been inhabited by different peoples, including the Chumash Native Americans, for at least 10,000 years.<ref>{{cite web |url=https://www.cityofventura.ca.gov/594/About-Ventura |title= City of Ventura - About Ventura |author=<!--Not stated--> |date=<!--Not stated--> |website= City of Ventura official website |publisher= © 2006-2023 Ventura, CA |access-date= January 6, 2023}}</ref> With the arrival of Spanish missionaries in 1782, [[Mission San Buenaventura]] was established by [[Junípero Serra]], giving the city its name.<ref>{{cite web |url=https://www.britannica.com/place/Ventura |title= Ventura, CA |author=<!--Not stated--> |date=<!--Not stated--> |website= Encyclopædia Britannica|publisher= |access-date= January 6, 2023}}</ref> Following the [[Mexican secularization act of 1833|Mexican secularization of the Californian missions]], San Buenaventura was granted by Governor [[Pío Pico]] to [[Don (honorific)|Don]] José de Arnaz as [[Rancho Ex-Mission San Buenaventura]] and a small community arose. Following the American [[Conquest of California]], San Buenaventura was eventually incorporated as a city in 1866. The 1920s brought a major oil boom which significantly developed and expanded Ventura, a growth that continued with the [[post–World War II economic expansion]].
+
+==History==
+[[File:Mission San Buenaventura (Edwin Deakin, c. 1875) (cropped).jpg|thumb|left|Ventura was founded by the Spanish in 1782, when [[Saint Junípero Serra]] established [[Mission San Buenaventura]].]]
+
+=== Chumash ===
+Archaeological discoveries in the area suggest that humans have populated the region for at least 10,000–12,000 years.<ref>{{cite news |last=Clerici |first=Kevin |url=http://www.vcstar.com/news/2007/jul/17/venturas-own-ruins-of-pompeii-unearthed-are-at |title=Artifacts are found at site |newspaper=[[Ventura County Star]] |date=July 17, 2007 |archive-date=December 3, 2013 |archive-url=https://web.archive.org/web/20131203074713/http://www.vcstar.com/news/2007/jul/17/venturas-own-ruins-of-pompeii-unearthed-are-at/}}</ref> Archaeological research demonstrates that the [[Chumash people]] have deep roots in central and southern coastal regions of California, and has revealed artifacts from their culture.<ref name = "McCall"/>{{rp|page=11}} Shisholop Village, designated Historic Point of Interest #18 by the city at the foot of nearby Figueroa Street, was the site of a Chumash village.<ref name="Landmark #18">[http://maps.cityofventura.net/menu/docs/historic/18.pdf Landmark #18: Shisholop Village Site] {{Webarchive|url=https://web.archive.org/web/20141208075536/http://maps.cityofventura.net/menu/docs/historic/18.pdf |date=December 8, 2014 }} accessed October 7, 2013, from link on [https://web.archive.org/web/20131002170814/http://maps.cityofventura.net/menu/flex/citymap/index.html?config=config_historic.xml&extent=16396,19574,16691,19701 City Map with Historic Landmarks]</ref> They had keen oceanic navigational skills made use of the abundant local resources from sea and land.<ref name = "McCall">{{Cite book| edition = Revised| publisher = EZ Nature Books| isbn = 978-0936784151| last1 = McCall| first1 = Lynne| last2 = Perry| first2 = Rosalind| title = California's Chumash Indians : a project of the Santa Barbara Museum of Natural History Education Center| location = San Luis Obispo, Calif| year = 2002| url-access = registration| url = https://archive.org/details/californoiaschuma00mcca}}</ref>{{rp|page=36}} The Ventura Chumash were in contact with the Channel Islands Chumash; both mainland and island Chumash utilized large plank-sewn seagoing canoes, called [[Tomol]], with the island people bringing shell bead money, island chert, and sea otter pelts to trade for mainland products like acorns and deer meat.<ref name="anderson">{{cite web |last = Anderson| first = John| title = The Chumash Indians Who Live in Ventura County California: The Ventura Chumash| access-date = May 7, 2013| year = 1999| url = https://www.angelfire.com/id/newpubs/ven77.html}}</ref><ref name="nps.gov">{{cite web| title = Santa Cruz Island History and Culture| publisher = National Park Service| access-date = November 24, 2019| url = https://www.nps.gov/chis/learn/historyculture/santacruzisland.htm}}</ref>
+
+===Spanish era===
+[[File:Drawing of Mission San Buenaventura taken from Alfred Robinson's book, "Life in California", California, ca.1839 (CHS-5762) (cropped).jpg|thumb|left|Mission San Buenaventura in 1839]]
+[[File:Olivas adobe2 (cropped).jpg|thumb|left|Don Raymundo Olivas, a retired [[Californio]] soldier, built the [[Olivas Adobe]] in 1841 on his [[Rancho San Miguel (Olivas)|Rancho San Miguel]].]]
+[[File:View of San Buenaventura, California (May 1865).jpg|thumb|left|Village of San Buenaventura in 1865]]
+In 1769, the Spanish [[Portolà expedition]], first recorded European visitors to inland areas of California, came down the [[Santa Clara River Valley]] from the previous night's encampment near today's [[Saticoy, California|Saticoy]] and camped near the outlet of the [[Ventura River]] on [[Timeline of the Portolà expedition|August 14]]. Fray [[Juan Crespi]], a Franciscan missionary traveling with the expedition, noted that "we saw a regular town, the most populous and best laid-out of all that we had seen on the journey up to the present time."<ref>{{cite book |last=Bolton |first=Herbert E. |pages=159–160 |year=1927 |title=Fray Juan Crespi: Missionary Explorer on the Pacific Coast, 1769-1774 |url=http://catalog.hathitrust.org/Record/000288788 |publisher=HathiTrust Digital Library}}</ref> Archaeological records found that the Chumash village they encountered was settled sometime around AD&nbsp;1000.
+[[Junípero Serra]], first leader of the Franciscans in California, founded [[Mission San Buenaventura]] in 1782 as his ninth and last mission established near the Chumash village as part of [[Spanish missions in California|Spain's colonization]] of [[Alta California]].<ref>{{cite book |first=Arnold L. |last=Murphy |year=1979 |title=A Comprehensive Story of Ventura County, California |publisher=M & N Printing |location=Oxnard, CA |page=8}}</ref> The mission was named for [[Bonaventure|St. Bonaventure]], a 13th-century Franciscan saint and a [[Doctor of the Church]]. [[San Miguel Chapel Site|San Miguel Chapel]] was the first outpost and center of operations while the first Mission San Buenaventura was being constructed. The first mission burned in 1801 and a replacement building of brick and stone was completed in 1809. The bell tower and facade of the new mission was destroyed by an 1812 earthquake.<ref>Hogle, Gene ''NAC Green Book of Pacific Coast Touring'' (1931) National Automobile Club p.25</ref><ref name=earthquake>{{cite news |url=http://www.vcstar.com/news/ventura-earthquake-fault-more-dangerous-than-previously-thought-geologists-say-ep-512329663-351511421.html |title=Ventura earthquake fault more dangerous than previously thought, geologists say. |first=Kit |last=Stolz |work=[[Ventura County Star]] |date=January 5, 2014|access-date=January 5, 2016}}</ref> The Mission was rebuilt and functions as a [[parish]] church.
+
+===Mexican era===
+The [[Mexican secularization act of 1833]] was passed twelve years after Mexico won [[Mexican War of Independence|independence]] from Spain in 1821. Mission land was sold or given away in large grants called [[Ranchos of California|ranchos]]. [[Rancho Ex-Mission San Buenaventura]] was a {{convert|48823|acre|km2|adj=on}} grant that included downtown Ventura. The [[Battle of San Buenaventura]] was fought in 1838 between competing armies from northern and southern California. Governor [[Juan Bautista Alvarado]] granted [[Rancho San Miguel (Olivas)|Rancho San Miguel]] to Felipe Lorenzana and Raymundo Olivas, whose [[Olivas Adobe]] on the banks of the [[Santa Clara River (California)|Santa Clara River]] was the most magnificent [[hacienda]] south of [[Monterey, California|Monterey]]. Fernando Tico also received a [[Rancho Ojai|Mexican land grant]] for Ojai and a parcel near the river in downtown Ventura.<ref>{{cite web|url=http://www.venturacogensoc.org/SpanGrants.htm |title=Spanish and Mexican Land Grants |publisher=Ventura County Genealogical Society |access-date=March 17, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20070318174905/http://www.venturacogensoc.org/SpanGrants.htm |archive-date=March 18, 2007 }}</ref>
+
+===American era===
+[[File:Ventura-1874-july4th.jpg|thumb|[[Independence Day (United States)|Fourth of July]] celebration in 1874. The Parade Marshal is [[Thomas R. Bard]].]]
+[[File:San Buenaventura, California (1898).jpg|thumb|right|Downtown Ventura in 1898]]
+
+Following the American [[Conquest of California]] in the [[Mexican–American War]], California became a U.S. territory in 1848 and a U.S. state in 1850. After the [[American Civil War]], settlers came to the area, buying land from the Mexicans, or simply as [[squatter]]s. Vast holdings were later acquired by Easterners, including railroad magnate [[Thomas A. Scott]]. He sent [[Thomas R. Bard]] to handle Scott's property.
+
+Ventura had a flourishing Chinese settlement in the early 1880s. The largest concentration of activity, known as China Alley, was just across Main Street from the Mission San Buenaventura.<ref>{{cite web|title=Point of Interest Number: 91 {{!}} Historic Name: China Alley Historic Area|url=https://map.cityofventura.net/docs/historic/91.pdf|work=City of San Buenaventura Historic Landmarks, Districts, and Points of Interest|publisher=City of Ventura}}</ref>
+
+[[Ventura Pier]] was built in 1872 at a cost of $45,000 and was the longest wooden pier in California. By 1917, it had been rebuilt to a length of {{convert|1,700|feet}}. Much of the pier was destroyed by a storm in 1995, but it was subsequently rebuilt.<ref>{{Cite news|title=Ventura Pier closed after piling gives way |newspaper=[[Ventura County Star]] |first=John |last=Scheibe |url=http://www.vcstar.com/news/ventura-pier-closed-after-piling-gives-way|date=January 24, 2014|access-date=October 26, 2015}}</ref><ref>{{Cite book |title=Southern California Adventure Guide |last=Young |first=Don |publisher=Hunter Publishing, Inc |year=2009}}</ref><ref>{{cite news |title=Landmark Pier Readies for Latest Renovation Project |newspaper=[[Los Angeles Times]] |first=Anna |last=Gorman |date=February 8, 1999| access-date=July 6, 2016 |url=https://www.latimes.com/archives/la-xpm-1999-feb-08-me-6073-story.html}}</ref><ref>{{cite news |title=Pier Renovation Begins This Week |newspaper=[[Los Angeles Times]] |first=Roseann |last=Langlois |date=July 19, 1999 |access-date=July 6, 2016 |url=https://www.latimes.com/archives/la-xpm-1999-jul-19-me-57494-story.html}}</ref>
+
+In 1913, the [[Rincon Sea Level Road]] and the Ventura River Bridge opened.<ref>Gyllstrom, Paul. [https://books.google.com/books?id=YigfAQAAMAAJ&pg=RA3-PA86 "Rincon Sea-Level Road Soon Completed" ''Motor Age,'' Volume XXII, 17 October 1912, p. 25]</ref>
+[[File:Casa de Anza (Ventura, California).jpg|thumb|left|Casa de Anza, built in 1929 to house workers from the [[Ventura Oil Field]]]]
+The large [[Ventura Oil Field]] was first drilled in 1919 and at its peak produced {{convert|90000|oilbbl/d|m3/d}}.<ref>{{cite news|url=http://www.vcreporter.com/cms/story/detail/tar_on_your_foot/6850/|title= Tar on your foot|first=Kit |last=Stolz |newspaper=Ventura County Reporter|date=April 16, 2009|access-date=April 7, 2016}}</ref><ref>{{cite news|url=http://www.vcstar.com/news/local/ventura/ventura-countys-largest-oil-company-celebrates-100-years-2fac17c7-0d13-507c-e053-0100007f78ea-374639181.html|title=Ventura Oil Field celebrates 100 years |first=Arlene |last=Martinez |newspaper=[[Ventura County Star]] |date=April 6, 2016|access-date=April 7, 2016}}</ref> The development of the oil fields in the 1920s, along with the building of better roads to Los Angeles and the affordability of automobiles, enabled a major real estate boom. Symphony concerts and Little League teams were sponsored by the oil companies.<ref>{{Cite web |last=MacGregor |first=Hilary E. |date=1997-06-22 |title=Decisions on Oil Paved Way for Tale of 2 Cities: Ventura and Santa Barbara |url=https://www.latimes.com/archives/la-xpm-1997-06-22-mn-5922-story.html |access-date=2024-06-19 |website=Los Angeles Times |language=en-US}}</ref> Contemporary downtown Ventura is defined by extant buildings from this period.<ref name=Swift>{{cite web |publisher=City of Ventura |url=http://www.cityofventura.net/files/file/item-2_3-24-14.PDF |archive-url=https://web.archive.org/web/20140413131025/http://www.cityofventura.net/files/file/item-2_3-24-14.PDF |title=The Swift & Company Building |department=Historic Landmark Designation Application |date=March 24, 2014 |access-date=April 7, 2016 |archive-date=April 13, 2014 |url-status=dead }}</ref><ref>{{cite web |publisher=City of Ventura |url=https://map.cityofventura.net/docs/historic/108.pdf |title=Historic Landmark #108 |access-date=April 7, 2016}}</ref> Landmarks built during the [[oil boom]] include [[Ventura Theatre]] (1928), the [[First Baptist Church of Ventura]] (1926), the Ventura Hotel (1926), and the Mission Theatre (1928).<ref>Hamilton, Denise (June 9, 1988) [https://www.latimes.com/archives/la-xpm-1988-06-09-ve-6095-story.html "A New Life Awaits Ventura Theater : Restaurateur Has Big Plans to Book Jazz, Country, Salsa Acts at Ornate Ex-Movie House"] ''Los Angeles Times''</ref><ref name=Swift />
+
+On March 12, 1928, the [[St. Francis Dam]], {{convert|54|mi}} inland, [[Catastrophic failure|failed catastrophically]], creating a flood that took more than 600 lives as it flowed down the Santa Clara River to the ocean.
+
+From the south, travel by auto was slow and hazardous, until the completion of a four-lane freeway ([[US Highway 101]]) over the [[Conejo Grade]] in 1959. This route, which was widened and improved by 1969, is known as the [[Ventura Freeway]], which directly links Ventura with the rest of the [[Greater Los Angeles]].
+
+In 2017, the [[Thomas Fire]] started north of Ventura in [[Santa Paula, California|Santa Paula]]. Propelled by the [[Santa Ana Winds]], the fire spread into hillside neighborhoods of Ventura and the area above downtown. The fire burned down 504 residences burned in the city.<ref>{{Cite news |last=Rode |first=Erin |date=December 10, 2020 |title=Tale of two apartment buildings burned in Thomas Fire: One nearly done; other yet to start |url=https://www.vcstar.com/story/news/2020/12/10/ventura-hawaiian-village-harbor-view-villas-thomas-fire-wildfire/3783125001/ |access-date=December 13, 2020 |newspaper=Ventura County Star |language=en |url-access=limited}}</ref>
+
+Main Street in the downtown was closed to vehicle traffic in June 2020 in an effort to boost business and keep people safe during the [[COVID-19 pandemic]].<ref>{{Cite news |last=Santos |first=Senerey de los |date=June 17, 2020 |title=Downtown Ventura shuts down Main Street to boost economy |url=https://keyt.com/news/2020/06/16/downtown-ventura-shuts-down-main-street-to-boost-economy/ |access-date=October 18, 2023 |work=News Channel 3-12 |language=en-US}}</ref>
+
+==Geography==
+[[File:VENTURA HARBOR 2020.jpg|thumb|left|View of [[Ventura Harbor]]]]
+[[File:-Ventura California Aerial Photo Don Ramey Logan.jpg|thumb|right|Aerial view of Ventura]]
+Ventura is located northwest of [[Los Angeles]] on the [[California coast]]. The western portion of the city stretches north along the [[Ventura River]] which is characterized by a narrow valley with steeply sloped areas along both sides. The steep slopes of the Ventura foothills abut the northern portion of the community. Much of the eastern portion is on a relatively flat [[Alluvial plain|alluvial coastal plain]] lying along the western edge of the [[Oxnard Plain]]. Several Barrancas extend from the foothills to the [[Santa Clara River (California)|Santa Clara River]] which forms the city's southerly boundary.<ref>{{Cite news |last=Carlson |first=Cheri |date=December 20, 2021 |title=Ventura may broaden closures of barrancas during red-flag fire conditions |newspaper=Ventura County Star |url=https://www.vcstar.com/story/news/2021/12/20/california-wildfires-ventura-closures-brown-barrancas-red-flag-fire-conditions/8796384002/ |access-date=December 21, 2021 |url-access=limited}}</ref> The city extends up to the beginning of the [[Santa Clara River Valley]] at the historic community of [[Saticoy, California|Saticoy]].<ref>{{cite web |author=Rincon Consultants, Inc. |date=June 2014 |url=http://www.cityofventura.net/files/file/meetings/Misc_Posting/Olivas%20Park%20Drive%20Extension%20Project%20FEIR%20VOL%20I.pdf |title=Olivas Park Drive Extension Project Final Environmental Impact Report SCH # 1995081004" |archive-url=https://web.archive.org/web/20140713040503/http://www.cityofventura.net/files/file/meetings/Misc_Posting/Olivas%20Park%20Drive%20Extension%20Project%20FEIR%20VOL%20I.pdf |archive-date=July 13, 2014 |publisher=City of Ventura}}</ref>
+
+Ventura is within a [[seismically active]] region like much of California and is crossed by several [[Seismic hazard|potentially active fault systems]].<ref>{{Cite news |url=https://www.vcstar.com/story/news/local/2019/11/08/what-do-experts-say-ventura-earthquakes/2531688001/ |title=What do the experts say about Ventura earthquakes? |date=November 9, 2019 |newspaper=[[Ventura County Star]] |language=en |access-date=November 10, 2019}}</ref> The [[Ventura Fault]] is capable of an 8.0 earthquake and a local [[tsunami]] up to 23 feet in height.<ref>{{Cite news |url=http://www.nbclosangeles.com/news/local/Ventura-Oxnard-Tsunami-Risk-Earthquake-Fault-Study-322388791.html |title=Ventura, Oxnard Might Be at Greater Tsunami Risk: Study |agency=Associated Press |last=Lloyd |first=Jonathan |via=NBC Southern California |language=en |date=August 20, 2015 |access-date=November 20, 2019}}</ref><ref>{{Cite news |url=https://www.latimes.com/california/story/2019-11-08/ventura-earthquakes |title=Swarm of earthquakes hits Ventura |last=LIN II |first=RONG-GONG |date=November 8, 2019 |newspaper=[[Los Angeles Times]] |language=en-US |access-date=November 10, 2019}}</ref><ref name="lat">{{Cite news |url=http://www.latimes.com/local/california/la-me-ventura-fault-20150420-story.html  |title=Earthquake fault heightens California tsunami threat, experts say. |last=Lin II |first=Rong-Gong |date=April 20, 2015 |newspaper=[[Los Angeles Times]] |access-date=July 31, 2016}}</ref> According to the [[United States Census Bureau]], Ventura has a total area of {{convert|32.1|sqmi|km2}}, of which {{convert|21.7|sqmi|km2}} is land and {{convert|10.4|sqmi|km2}}, comprising 32.53%, is water.
+
+===Climate===
+{{climate chart
+|Ventura, California
+|44|67|3.6
+|45|67|3.8
+|47|67|2.8
+|48|69|0.9
+|52|71|0.3
+|56|73|0.1
+|59|76|0.1
+|58|77|0.1
+|57|77|0.1
+|53|75|0.7
+|47|71|1.1
+|44|67|2.6
+|units = imperial
+|float = right
+|clear = both}}
+Ventura has a [[Mediterranean climate]], typical of most coastal [[California]] cities, with the sea breeze off the Pacific Ocean moderating temperatures. It is not uncommon for the city to be affected by [[Santa Ana winds]] off the [[Transverse Ranges]] on occasion, which increase temperatures dramatically.
+
+{{Weather box
+|location = Ventura, California
+|single line = Y
+|width = 50%
+|Jan record high F = 90
+|Feb record high F = 89
+|Mar record high F = 99
+|Apr record high F = 100
+|May record high F = 101
+|Jun record high F = 101
+|Jul record high F = 103
+|Aug record high F = 101
+|Sep record high F = 105
+|Oct record high F = 105
+|Nov record high F = 98
+|Dec record high F = 89
+|year record high F = 105
+|Jan high F = 66.5
+|Feb high F = 66.6
+|Mar high F = 67.4
+|Apr high F = 69.3
+|May high F = 70.9
+|Jun high F = 72.7
+|Jul high F = 76.0
+|Aug high F = 77.0
+|Sep high F = 76.7
+|Oct high F = 74.5
+|Nov high F = 70.7
+|Dec high F = 66.7
+|year high F = 71.3
+|Jan low F = 44.0
+|Feb low F = 45.0
+|Mar low F = 46.7
+|Apr low F = 48.1
+|May low F = 52.1
+|Jun low F = 55.6
+|Jul low F = 58.7
+|Aug low F = 58.4
+|Sep low F = 57.0
+|Oct low F = 52.8
+|Nov low F = 47.4
+|Dec low F = 43.6
+|year low F = 50.8
+|Jan record low F = 28
+|Feb record low F = 27
+|Mar record low F = 33
+|Apr record low F = 34
+|May record low F = 35
+|Jun record low F = 39
+|Jul record low F = 41
+|Aug record low F = 46
+|Sep record low F = 41
+|Oct record low F = 33
+|Nov record low F = 31
+|Dec record low F = 27
+|year record low F = 27
+|Jan rain inch = 3.59
+|Feb rain inch = 3.81
+|Mar rain inch = 2.81
+|Apr rain inch = 0.92
+|May rain inch = 0.27
+|Jun rain inch = 0.04
+|Jul rain inch = 0.09
+|Aug rain inch = 0.01
+|Sep rain inch = 0.07
+|Oct rain inch = 0.73
+|Nov rain inch = 1.09
+|Dec rain inch = 2.63
+|year rain inch = 16.06
+|rain colour = green
+|source 1 = <ref>{{cite web|url=https://www.bestplaces.net/climate/city/california/ventura|title=Ventura, California Climate|website=www.bestplaces.net|access-date=August 9, 2021}}</ref>
+|source 2 = <ref name= NOAA>{{cite web  |url = https://www.ncei.noaa.gov/access/us-climate-normals/#dataset=normals-monthly&timeframe=30&station=USC00049285|title = NOAA NCEI U.S. Climate Normals Quick Access|publisher = [[National Oceanic and Atmospheric Administration]]|access-date = August 10, 2021}}</ref>
+}}
+
+==Demographics==
+{{US Census population
+|1880= 1370
+|1890= 2320
+|1900= 2470
+|1910= 2901
+|1920= 4156
+|1930= 11603
+|1940= 13264
+|1950= 16534
+|1960= 29114
+|1970= 57964
+|1980= 73774
+|1990= 92575
+|2000= 100916
+|2010= 106433
+|2020= 110763
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref>
+}}The community is registered in the census as '''San Buenaventura (Ventura)'''.<ref>{{Cite web |title=San Buenaventura (Ventura) city, California |url=https://www.census.gov/quickfacts/fact/table/sanbuenaventuraventuracitycalifornia/PST045221 |website=Census QuickFacts |publisher=[[United States Census Bureau]]}}</ref><ref>{{Cite web |title=Explore Census Data |url=https://data.census.gov/profile/San_Buenaventura_(Ventura)_city,_California?g=1600000US0665042 |access-date=December 9, 2022 |website=data.census.gov}}</ref>[[File:Mission San Buenaventura, Ventura, California LCCN2013631959 (cropped).tif|left|thumb|Founded in 1782, the [[Mission San Buenaventura|Mission Basilica of San Buenaventura]] is a parish of the [[Roman Catholic Archdiocese of Los Angeles]]. In 2020, [[Pope Francis]] elevated it to the category of [[Basilicas in the Catholic Church|basilica]].]]
+[[File:The Cross at Grant Park in Ventura, CA.jpg|thumb|left|The [[Serra Cross]] was first erected on top of Loma de la Cruz in 1782.]]
+
+===2020 census===
+{| class="wikitable" style="text-align:center;"
+|+'''Ventura city, California – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – San Buenaventura (Ventura) city, California |url=https://data.census.gov/table?g=160XX00US0665042&tid=DECENNIALSF12000.P004|publisher=[[United States Census Bureau]] |access-date= }}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – San Buenaventura (Ventura) city, California |url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US0665042&tid=DECENNIALPL2010.P2|publisher=[[United States Census Bureau]] |access-date= }}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – San Buenaventura (Ventura) city, California|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US0665042&tid=DECENNIALPL2020.P2|publisher=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|68,710
+|63,879
+|style='background: #ffffe6; |59,425
+|68.09%
+|60.02%
+|style='background: #ffffe6; |53.65%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|1,284
+|1,466
+|style='background: #ffffe6; |1,743
+|1.27%
+|1.38%
+|style='background: #ffffe6; |1.57%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|631
+|545
+|style='background: #ffffe6; |399
+|0.63%
+|0.51%
+|style='background: #ffffe6; |0.36%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|2,933
+|3,523
+|style='background: #ffffe6; |4,267
+|2.91%
+|3.31%
+|style='background: #ffffe6; |3.85%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|134
+|167
+|style='background: #ffffe6; |163
+|0.13%
+|0.16%
+|style='background: #ffffe6; |0.15%
+|-
+|[[Race and ethnicity in the United States census|Other Race]] alone (NH)
+|152
+|181
+|style='background: #ffffe6; |661
+|0.15%
+|0.17%
+|style='background: #ffffe6; |0.60%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|2,499
+|2,798
+|style='background: #ffffe6; |5,203
+|2.48%
+|2.63%
+|style='background: #ffffe6; |4.70%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|24,573
+|33,874
+|style='background: #ffffe6; |38,902
+|24.35%
+|31.83%
+|style='background: #ffffe6; |35.12%
+|-
+|'''Total'''
+|'''100,916'''
+|'''106,433'''
+|style='background: #ffffe6; |'''110,763'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2010===
+The [[2010 United States Census]]<ref>{{cite web|url=http://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0665042|archive-url=https://archive.today/20140715033717/http://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0665042|url-status=dead|archive-date=July 15, 2014|title=2010 Census Interactive Population Search: CA - San Buenaventura (Ventura) city|publisher=U.S. Census Bureau|access-date=July 12, 2014}}</ref> reported that Ventura had a population of 106,433. The population density was {{convert|3,316.2|PD/sqmi|PD/km2|sp=us|adj=off}}. The racial makeup of Ventura was 76.6% [[White (U.S. Census)|White]], 1.6% [[African American (U.S. Census)|African American]], 1.2% [[Native American (U.S. Census)|Native American]], 3.4% [[Asian (U.S. Census)|Asian]] (0.9% Filipino, 0.6% Chinese, 0.4% Indian, 0.4% Korean, 0.4% Japanese, 0.3% Vietnamese, 0.5% Other), 0.2% [[Pacific Islander (U.S. Census)|Pacific Islander]], 5.2% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] people of any race were 31.8% of the population.
+
+The Census reported that 103,940 people (97.7% of the population) lived in households, 755 (0.7%) lived in non-institutionalized group quarters, and 1,738 (1.6%) were institutionalized.
+
+There were 40,438 households, out of which 13,014 (32.2%) had children under the age of 18 living in them, 18,907 (46.8%) were [[marriage|opposite-sex married couples]] living together, 4,936 (12.2%) had a female householder with no husband present, 2,153 (5.3%) had a male householder with no wife present.  There were 2,621 (6.5%) [[POSSLQ|unmarried opposite-sex partnerships]], and 371 (0.9%) [[same-sex partnerships|same-sex married couples or partnerships]]. 10,959 households (27.1%) were made up of individuals, and 4,271 (10.6%) had someone living alone who was 65 years of age or older. The average household size was 2.57.  There were 25,996 [[family (U.S. Census)|families]] (64.3% of all households); the average family size was 3.14.
+
+The population was spread out, with 23,918 people (22.5%) under the age of 18, 9,581 people (9.0%) aged 18 to 24, 28,814 people (27.1%) aged 25 to 44, 29,957 people (28.1%) aged 45 to 64, and 14,163 people (13.3%) who were 65 years of age or older.  The median age was 39.0 years. For every 100 females, there were 97.7 males.  For every 100 females age 18 and over, there were 95.6 males.
+
+There were 42,827 housing units at an average density of {{convert|1,334.4|/sqmi|/km2|sp=us|adj=off}}, of which 22,600 (55.9%) were owner-occupied, and 17,838 (44.1%) were occupied by renters. The homeowner vacancy rate was 1.3%; the rental vacancy rate was 5.5%.  59,330 people (55.7% of the population) lived in owner-occupied housing units and 44,610 people (41.9%) lived in rental housing units.
+
+===2000===
+[[File:Ventura Center for Spiritual Living, fka First Baptist Church of Ventura (cropped).jpg|thumb|right|The [[Mayan Revival architecture|Mayan Revival]] style [[First Baptist Church of Ventura]], built in 1926-32]]
+
+As of the [[census]]<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=January 31, 2008|title=U.S. Census website}}</ref> of 2000, there were 100,916 people, 38,524 households, and 25,233 families residing in the city.  The population density was {{convert|4,790.6|PD/sqmi|PD/km2|sp=us|adj=off}}.  There were 39,803 housing units at an average density of {{convert|1,889.5|/sqmi|/km2|sp=us|adj=off}}.  The racial makeup of the city was 78.8% [[White (U.S. Census)|White]], 1.4% [[African American (U.S. Census)|African American]], 1.2% [[Native American (U.S. Census)|Native American]], 3.0% [[Asian (U.S. Census)|Asian]], 0.2% [[Pacific Islander (U.S. Census)|Pacific Islander]], 11.1% from [[Race (United States Census)|other races]], and 4.3% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] people of any race were 30.4% of the population.
+
+There were 38,524 households, out of which 32.1% had children under the age of 18 living with them, 49.2% were married couples living together, 11.7% had a female householder with no husband present, and 34.5% were non-families. 26.5% of all households were made up of individuals, and 9.7% had someone living alone who was 65 years of age or older.  The average household size was 2.56 and the average family size was 3.12.
+
+In the city, the population was spread out, with 25.0% under the age of 18, 7.8% from 18 to 24, 31.5% from 25 to 44, 22.8% from 45 to 64, and 12.8% who were 65 years of age or older.  The median age was 37 years. For every 100 females, there were 96.9 males.  For every 100 females age 18 and over, there were 93.8 males.
+
+The median income for a household in the city was $52,297, and the other income for a family was $60,466. Males had a median income of $43,828 versus $31,793 for females. The [[per capita income]] for the city was $25,065.  About 6.4% of families and 9.0% of the population were below the [[poverty line]], including 12.2% of those under age 18 and 5.3% of those age 65 or over.
+
+==Economy==
+[[File:Ventura State Beach, Ventura, California 8175278909.jpg|thumb|left|[[San Buenaventura State Beach]] is a tourist destination.]]
+[[File:El Jardin Patio Building.jpg|thumb|right|Shops in Downtown Ventura]]
+Ventura is a popular tourist destination in Southern California, owing to its historic landmarks, beaches, and the local leisure economy.<ref>{{cite news|url=http://www.vcstar.com/story/money/business/2017/05/25/beaches-and-trails-lure-tourists-ventura-county/101429472/|title=Beaches and trails lure tourists to Ventura County|newspaper=[[Ventura County Star]]|first=Tyler |last=Hersko|date=May 25, 2017|access-date=May 27, 2017}}</ref> Businesses related to tourism and hospitality account for a significant portion of Ventura's economic activity.{{citation needed|date=August 2022}}
+
+The outdoor clothing manufacturer [[Patagonia (clothing)|Patagonia]] is based in Ventura.<ref>{{cite web|url=http://www.patagonia.com/us/jobs |title=Patagonia Job Listing for Ventura, CA, Reno, NV, and worldwide |publisher=Patagonia.com |access-date=May 12, 2014}}</ref> Diaper bag manufacturer [[Petunia Pickle Bottom]] was founded in Ventura.<ref>{{Cite news|last=McKinnon|first=Lisa|date=July 13, 2013|title=In the bag: Ventura-based Petunia Pickle Bottom branches out|url=http://www.vcstar.com/business/in-the-bag-ventura-based-petunia-pickle-bottom-branches-out-ep-292559713-351662471.html|access-date=November 6, 2020|newspaper=Ventura County Star|language=en}}</ref> Research and resource company [[The Barna Group]] is located near downtown Ventura.{{citation needed|date=November 2020}}
+
+In 2009 the City of Ventura created Ventura Ventures Technology Center,<ref>{{cite web|url=http://www.v2tc.com/ |title=v2tc.com |publisher=v2tc.com |access-date=May 12, 2014|archive-date=May 12, 2014|archive-url=https://web.archive.org/web/20140512222927/http://v2tc.com/}}</ref> a business incubator with a high-tech focus. Ventura Ventures Technology Center was created as an economic engine to develop jobs and companies locally, as well as attract entrepreneurs to the area. [[The Trade Desk]] was started in the incubator.<ref>{{Cite news|date=July 25, 2019|title=The Trade Desk Plans Expansion In Ventura|url=https://www.socaltech.com/the_trade_desk_plans_expansion_in_ventura/s-0078543.html|access-date=November 23, 2020|work=socaltech}}</ref> The Trade Desk, an industry leader in advertising on [[Streaming media|streaming services]], is the second biggest [[publicly-traded company]] in Ventura County by [[market capitalization]].<ref>{{Cite news |last=Biasotti |first=Tony |date=February 15, 2023 |title=Ventura's Trade Desk bucks industry trend, sees hefty profits from ads in streaming TV |url=https://www.vcstar.com/story/news/2023/02/15/venturas-trade-desk-bucks-industry-trend-reports-steep-profit-growth/69907294007/ |access-date=February 17, 2023 |newspaper=Ventura County Star |language=en-US}}</ref>
+
+===Top employers===
+[[File:Aerial view of the pier, Ventura, California LCCN2013631292.tiff|thumb|right|The historic [[Ventura Pier]]]]
+According to the city's 2020 Comprehensive Annual Financial Report,<ref>{{cite web |url=https://www.cityofventura.ca.gov/DocumentCenter/View/25618/2019-2020-Comprehensive-Annual-Financial-Report |format=PDF |publisher=City of San Buenaventura |title=Comprehensive Annual Financial Report Fiscal Year Ended June 30, 2020}}</ref> the top employers in the city are:
+
+{| class="wikitable"
+|-
+! #
+! Employer
+! Number of employees
+! % of total city employment
+|-
+| 1
+|[[Ventura County, California|County of Ventura]]
+|8,232
+|15.08%
+|-
+|2
+|[[Ventura Unified School District]]
+|2,650
+|4.85%
+|-
+|3
+|[[Community Memorial Hospital of San Buenaventura|Community Memorial Health System]]
+|2,176
+|3.99%
+|-
+|4
+|Employer's Depot Inc.
+|820
+|1.50%
+|-
+|5
+|[[Patagonia (clothing)|Patagonia Works]] (Lost Arrow Corp.)
+|665
+|1.22%
+|-
+|6
+|[[Kaiser Permanente]]
+|656
+|1.20%
+|-
+|7
+|[[Ventura County Community College District]]
+|653
+|1.20%
+|-
+|8
+|City of San Buenaventura
+|615
+|1.13%
+|-
+|9
+|[[Target Corporation|Target]]
+|495
+|0.91%
+|-
+|10
+|Ventura Superior Court
+|305
+|0.56%
+|}
+
+===Cannabis===
+{{further|Cannabis in California}}
+Following the legalization of cannabis in California, local governments can prohibit companies from growing, testing, and selling cannabis within their jurisdiction by licensing none or only some of these activities but may not prohibit adults from growing, using or transporting marijuana for personal use. The state allows deliveries without local agency licensing at the point of delivery.<ref name="VCS 2019/01/02">{{Cite news|url=https://www.vcstar.com/story/news/2019/01/02/so-far-so-good-legal-marijuana-pot-cannabis-ventura-county/2406687002/|title=So far, so good for legal marijuana sales in Ventura County|last=Martinez|first=Christian|date=January 2, 2019|newspaper=[[Ventura County Star]]|language=en|access-date=June 17, 2019}}</ref> In November 2020, a ballot measure for taxation of cannabis was approved by city voters. The City Council adopted a resolution allowing a maximum number of cannabis businesses in the city in February 2021.<ref>{{Cite news|last=Orozco|first=Lance|date=November 4, 2020|title=Marijuana-Related Tax Proposals Approved By South Coast Voters|url=https://www.kclu.org/post/marijuana-related-tax-proposals-approved-south-coast-voters|access-date=November 5, 2020|work=KCLU News|language=en}}</ref> The ordinances allow up to three retail permits and up to 10 distribution permits.<ref>{{Cite news |last=Woods II |first=Wes |date=July 22, 2022 |title=Potential Ventura cannabis businesses make their case |url=https://www.vcstar.com/story/news/local/communities/ventura/2022/07/19/potential-ventura-cannabis-businesses-make-their-case/10076156002/ |access-date=August 3, 2022 |newspaper=Ventura County Star |language=en-US}}</ref> In October 2022, the City Manager selected four businesses to be allowed to operate in the city after a lengthy application and ranking process. Three retail and one distribution business without a retail component were selected. Two more permits for the city's coastal zone, which includes downtown were considered and rejected after further information requested from the [[California Coastal Commission]] was reviewed.<ref>{{Cite news |last=Woods II |first=Wes |date=January 8, 2023 |title=Appeals put Ventura cannabis operations on hold as frustration sets in |url=https://www.vcstar.com/story/news/2023/01/08/appeals-put-ventura-cannabis-dispensaries-on-hold/69775719007/ |access-date=January 9, 2023 |newspaper=Ventura County Star |language=en-US}}</ref> Once the appeals process is completed, applicants worked with the city on safety, security, odor control and other issues before being able to open for business.<ref>{{Cite news |last=Woods II |first=Wes |date=October 25, 2022 |title=Find out which cannabis businesses will open in Ventura |url=https://www.vcstar.com/story/news/local/communities/ventura/2022/10/25/cannabis-businesses-open-ventura-heres-who-chosen/10590829002/ |access-date=October 26, 2022 |newspaper=Ventura County Star |language=en-US}}</ref> In late June 2023, the three retail businesses that were selected filed a lawsuit against the city for a court order that would end the appeals and force the city to issue them permits. The other five finalists had appealed, resulting in a lengthy delay while the appeal was sent to the California Office of Administrative Hearings.<ref>{{Cite news |last=Biasotti |first=Tony |date=July 14, 2023 |title=After yearslong wait, lawsuit filed as cannabis retailers ready to open in Ventura |url=https://www.vcstar.com/story/money/business/2023/07/14/marijuana-dispensaries-ventura-california-lawsuits-appeals-permits-licenses-legal-cannabis/70402463007/ |access-date=July 15, 2023 |newspaper=Ventura County Star |language=en-US}}</ref> The city decided in late July to issue permits to the three businesses already selected immediately after August 31 and also issue permits to three of the other five finalists.<ref>{{Cite news |last=Biasotti |first=Tony |date=July 28, 2023 |title=Ventura doubles number of cannabis shops it will allow; first of 6 could open in September |url=https://www.vcstar.com/story/news/local/2023/07/28/ventura-cannabis-stores-could-open-in-september/70471456007/ |access-date=August 1, 2023 |newspaper=Ventura County Star |language=en-US}}</ref>
+
+==Arts and culture==
+===Music venues===
+[[File:Ventura Theater in 2018 (cropped).jpg|thumb|right|The historic [[Ventura Theatre]] was built as a [[movie palace]] in 1928.]]
+The [[Ventura Theatre|Majestic Ventura Theater]] is an early 20th-century landmark in the downtown. It has been a venue for concerts such as [[The Doors]], [[Pearl Jam]], [[Van Halen]], [[X (U.S. band)|X]], [[Ray Charles]], [[Red Hot Chili Peppers]], [[Social Distortion]], [[Bad Religion]], [[Fugazi]], [[Incubus (band)|Incubus]], [[Tom Petty]], [[They Might Be Giants]], and [[Johnny Cash]], as well as homegrown artists like [[Kyle (musician)|KYLE]], [[Cirith Ungol (band)|Cirith Ungol]], [[Big Bad Voodoo Daddy]] and [[Army of Freshmen]].<ref>{{cite web|last=McAlpine|first=Ken|date=January 3, 2017|title=Exclusive Interview {{!}} For Big Bad Voodoo Daddy lead singer Scotty Morris, Ventura is home sweet home|url=https://visitventuraca.com/blog/exclusive-interview-for-big-bad-voodoo-daddy-lead-singer-scotty-morris-ventura-is-home-sweet-home/|access-date=August 11, 2020|website=Visit Ventura|publisher=Ventura Visitors & Convention Bureau}}</ref><ref>{{cite news|last=Locey|first=Bill|date=April 17, 2008|title=Tom Petty takes a run at the charts with his first band|language=en|newspaper=[[Ventura County Star]]|url=http://archive.vcstar.com/entertainment/tom-petty-takes-a-run-at-the-charts-with-his-first-band-ep-373938591-352596031.html/|access-date=August 11, 2020}}</ref>
+
+The [[Ventura County Fairgrounds]] is the home of the annual [[Ventura County Fair]], and over the years has hosted such acts as [[Jimi Hendrix]], [[The Grateful Dead]], [[Phish]], [[Smokey Robinson]], [[All American Rejects]], [[Smash Mouth]], and [[Sugar Ray]], as well as the [[Vans]] [[Warped Tour]]. The [[Ventura station|train station]] for [[Amtrak]]'s [[Pacific Surfliner]] route is adjacent to the fairgrounds.
+
+===Downtown===
+[[File:Ventura, California (2) (4051708522) (cropped).jpg|thumb|left|Historic [[California Churrigueresque]] architecture in Downtown Ventura]]
+Downtown Ventura is home to the [[Mission San Buenaventura]], museums, galleries, dining, and shopping. Located in downtown is the historic Ortega [[Adobe]], once home to the Ortega family known for chili products. Downtown Ventura is home to [[Ventura County Courthouse|Ventura's ornate city hall]]. Downtown includes restaurants, wine bars, breweries, and the Rubicon Theatre Company.
+
+In Plaza Park (Chestnut and Santa Clara streets, downtown) stands a large [[Moreton Bay Fig|Moreton Bay fig tree]].  Across the street, the main post office has [[United States post office murals|murals on interior walls]] commissioned by the [[Section of Painting and Sculpture]] of the [[U.S. Treasury Department]] as [[New Deal#Works of art and music|New Deal art]].<ref>Department of Geography, [[University of California, Berkeley]] [http://livingnewdeal.berkeley.edu/projects/ventura-post-office-agriculture-and-industries-of-ventura-ventura-ca/ "Ventura Post Office "Agriculture and Industries of Ventura" – Ventura CA"] {{Webarchive|url=https://web.archive.org/web/20131027002614/http://livingnewdeal.berkeley.edu/projects/ventura-post-office-agriculture-and-industries-of-ventura-ventura-ca/ |date=October 27, 2013 }} ''Living New Deal'' Accessed March 3, 2014</ref>
+
+===Other sites===
+[[File:USCGC Blacktip, hosts visitors in Ventura, California -a.jpg|thumb|right|Ventura Harbor is the headquarters for the [[Channel Islands National Park]].]]
+Ventura Harbor has fishing boats, seafood restaurants and a retail center, the Ventura Harbor Village. The [[Channel Islands National Park]] Headquarters is also located at the harbor, and boats to the [[Channel Islands of California|Channel Islands]] depart daily.
+
+The [[Olivas Adobe]], one of the early "California Rancho"-styled homes, is operated as a museum and performing arts venue. Living history reenactments, demonstrations of Rancho life and ghost stories are presented. A summer music series of performances held in the courtyard features an eclectic assortment of artists from [[blues]] to [[jazz]] to [[country music|country]].
+
+"Two Trees" is two lone trees on a hilltop, visible from much of Ventura. Access to the hill is private property. In early October 2017, one of the trees was destroyed by high winds.<ref>{{Cite news|last=Cason|first=Colleen|date=October 14, 2017|title=Rest in peace, Two Tree; you will be missed but not forgotten|url=https://www.vcstar.com/story/news/columnists/2017/10/14/rest-peace-two-tree-you-missed-but-not-forgotten/759964001/|access-date=March 30, 2021|newspaper=Ventura County Star|language=en-US}}</ref><ref>{{Cite news|last=Martinez|first=Christian|date=October 9, 2017|title=Windy weather takes out one of Ventura's 'Two Trees'|url=https://www.vcstar.com/story/news/2017/10/09/windy-weather-whips-up-trouble-monday-ventura-county/746298001/|access-date=March 30, 2021|newspaper=Ventura County Star|language=en-US}}</ref>
+
+===Libraries===
+[[File:First National Bank of Ventura (1926) (cropped).jpg|thumb|left|200px|First National Bank of Ventura]]
+There are three branches of the [[Ventura County Library]] in the City of Ventura: E.P. Foster Library<ref>{{cite news|url=https://www.latimes.com/archives/la-xpm-1997-04-01-me-44016-story.html|title=E. P. Foster Is Deemed Top Candidate for Main Library|newspaper=[[Los Angeles Times]]|first=Hilary E. |last=MacGregor|date= April 1, 1997|access-date=June 18, 2017}}</ref><ref>{{cite web|url=http://www.vencolibrary.org/locations/epfoster |title=E. P. Foster Library &#124; Ventura County Library |publisher=Vencolibrary.org |access-date=May 12, 2014}}</ref> on Main Street, Avenue Library<ref>{{cite web|url=http://www.vencolibrary.org/locations/avenue |title=Avenue Library &#124; Ventura County Library |publisher=Vencolibrary.org |access-date=May 12, 2014}}</ref> on Ventura Avenue, and Hill Road Library on the east side of the city.<ref name=":1">{{Cite web|url=http://venturafriendsofthelibrary.org/?p=7561|title=Hill Road Library Grand Opening – Ventura Friends of the Library|website=venturafriendsofthelibrary.org|language=en-US|access-date=December 7, 2017}}</ref> Saticoy Library<ref>{{cite web|url=http://www.vencolibrary.org/locations/saticoy |title=Saticoy Library — Serving Saticoy, Somis and Ventura's East End &#124; Ventura County Library |publisher=Vencolibrary.org |access-date=May 12, 2014}}</ref> is in the unincorporated area of Saticoy outside the east end of the city of Ventura.
+
+The Evelyn and Howard Boroughs Library of [[Ventura College]], dedicated in 2005, serves the students, faculty and staff of the college as well as the general public of Ventura County.<ref>{{Cite web|url=http://www.venturacollege.edu/departments/student-services/library/about-the-library-0|title=About the Library {{!}} Ventura College|website=www.venturacollege.edu|language=en|access-date=December 7, 2017}}</ref>
+
+The Research Library of the [[Museum of Ventura County]] holds books and archival materials related to the history of the county and surrounding regions. Its holdings are catalogued in the Ventura County Library system and the Central Coast Museum Consortium, and the library is open to the public.<ref>{{Cite news|url=http://venturamuseum.org/research-library/|title=Research Library - Museum of Ventura County|work=Museum of Ventura County|access-date=December 7, 2017|language=en-US}}</ref>
+
+Ventura County Law Library, located in the Ventura County Government Center, makes current legal resources available to judges, lawyers, government officials, and other users.<ref>{{Cite news|url=http://www.vencolawlib.org/about-us/|title=About the Library|date=November 10, 2012|work=Ventura County Law Library|access-date=December 7, 2017|language=en-US}}</ref>
+
+==Sports==
+Ventura is notable for the quality and frequency of the [[surfing]] conditions at spots such as Surfer's Point at [[Seaside Park (Ventura)|Seaside Park]].<ref>{{cite news|title=Stand-up paddleboarders hit Ventura's big waves|first=Doug |last=Thompson|newspaper=[[Ventura County Star]]|date= February 25, 2016|access-date=March 23, 2016|url= http://www.vcstar.com/news/special/outdoors/stand-up-paddleboarders-hit-venturas-big-waves-2af7014f-f35c-74e9-e053-0100007f182f-370160481.html}}</ref> [[X Games]] California 2023 (Summer) event finals were scheduled for the adjacent [[Ventura County Fairgrounds]].{{r|VCS 2023-07-14}}
+
+Ventura is the home to the soccer clubs Ventura County Football Club<ref>{{cite web|url=http://venturacountyfc.com |title=Ventura County FC|publisher=Ventura County Football Club|access-date=December 1, 2016}}</ref> and [[Ventura County Fusion]], of [[USL League Two]].
+
+Ventura is also home to the Ventura Raceway, a 1/5mile dirt track which hosts an array of auto racing events throughout the year, including the prestigious Turkey Night Grand Prix.
+
+==Government==
+[[File:Venturacityhall (cropped).jpg|thumb|right|Historic [[Ventura County Courthouse|San Buenaventura City Hall]]]]
+{{Main|List of mayors of Ventura, California}}
+Ventura had an at-large system of electing council members<ref>{{cite news|url=http://www.vcstar.com/story/news/local/communities/ventura/2017/09/06/ventura-faces-threat-voting-rights-suit/638358001/|title=Ventura faces threat of voting rights suit|newspaper=[[Ventura County Star]]|first=Arlene |last=Martinez|date=September 6, 2017|access-date=November 11, 2017}}</ref> but changed to seven council districts in 2018 due to threatened legal action based on the California Voting Rights Act.<ref>{{Cite web|url=https://www.cityofventura.ca.gov/1222/District-Based-Elections|title = District Elections &#124; Ventura, CA}}</ref> Council members have four-year terms and their elections are staggered so three or four are up for re-election every two years.<ref>{{Cite web|url=https://www.cityofventura.ca.gov/712/City-Council|title = City Council &#124; Ventura, CA}}</ref> The council elects from among its own members a mayor and deputy mayor who serve two-year terms.<ref>{{Cite web|url=https://www.cityofventura.ca.gov/733/Selection-of-Mayor|title=Selection of Mayor {{!}} Ventura, CA|website=www.cityofventura.ca.gov|language=en|access-date=December 7, 2017}}</ref>
+
+Joe Schroeder was selected as [[List of mayors of Ventura, California|Mayor of San Buenaventura]] in December 2022. Ventura is located within [[California's 26th congressional district]], with [[Julia Brownley]] currently serving as its representative in the [[U.S. Congress]].
+
+==Education==
+[[File:Ventura High School.jpg|thumb|left|[[Ventura High School]], est. 1889]]
+Ventura has four college campuses: [[Ventura College of Law]], [[Southern California Institute of Law]], [[Santa Barbara Business College]] and [[Ventura College]]. Ventura College of Law is a non-profit law school founded in 1969.  Ventura College is a [[community college]], part of the Ventura County Community College District.<ref>{{cite web|url=http://www.vcccd.edu/ |title=Ventura County Community College District |publisher=vcccd.edu |access-date=May 12, 2014}}</ref>   The [[Brooks Institute of Photography]] shut down in 2016 after many years in the community.
+
+Public school students from kindergarten through 12th grade attend schools in the [[Ventura Unified School District]]. The district has five high schools: [[Ventura High School|Ventura High]] in the midtown area, [[Buena High School (California)|Buena High]] in east Ventura, [[Foothill Technology High School]], [[Pacific High School (Ventura, California)|Pacific High School]]<ref>{{cite web |url=http://www.venturausd.org/pacific/Home.aspx |title=Pacific|website=www.venturausd.org}}</ref> and [[El Camino High School (Ventura)|El Camino High School]], an independent study program located on the Ventura College campus.  Private schools include [[St. Bonaventure High School]], a [[Catholic school]], [[Ventura County Christian School]],<ref>{{cite web |url=http://vccschool.com |title=Ventura County Christian School |website=Ventura County Christian School}}</ref> Ventura Missionary School,<ref>{{cite web |url=https://www.venturamissionaryschool.com/ |title= Ventura Missionary School}}</ref> evangelical Christian schools, and Holy Cross School, Sacred Heart, and Our Lady of the Assumption, Roman Catholic schools for grades pre-kindergarten through 8.
+
+==Infrastructure==
+[[File:ElizabethBard (cropped).JPG|thumb|right|View of the Pacific Ocean from [[Elizabeth Bard Memorial Hospital]]]]
+
+===Transportation===
+The major road through Ventura is the [[Ventura Freeway]] ([[U.S. Route 101 in California|U.S. Route 101]]), connecting the [[California Central Coast]] and [[San Francisco]] to the north, and [[Los Angeles]] to the south. [[California State Route 33|State Route&nbsp;33]], the Ojai Freeway, heads north to [[Ojai, California|Ojai]]. [[California State Route 126|State Route&nbsp;126]] and [[California State Route 118|State Route&nbsp;118]] head east to [[Santa Clarita, California|Santa Clarita]] and [[Simi Valley, California|Simi Valley]], respectively.
+
+[[Ventura–East station]], in the historic [[Montalvo, Ventura, California|Montalvo]] neighborhood, serves as the western terminus of the [[Ventura County Line]] of the [[Metrolink (California)|Metrolink]] commuter rail system, which extends to [[Union Station (Los Angeles)|Union Station in Los Angeles]]. The downtown [[Ventura station|Ventura Amtrak Station]] is served by Amtrak's ''[[Pacific Surfliner]]'' from [[San Luis Obispo, California|San Luis Obispo]] to [[San Diego]]. 
+ 
+Local bus service is provided by [[Gold Coast Transit]]. Commuter and intercity bus services are provided by [[VCTC Intercity]] and by [[Santa Barbara Metropolitan Transit District|MTD]] to [[Santa Barbara, California|Santa Barbara]].
+
+===Utilities===
+[[File:Ventura Avenue Water Treatment Facility.jpg|thumb|left|The historic [[Spanish Colonial Revival style|Spanish Colonial style]] Ventura Ave. Water Treatment Plant]]
+Ventura provides water to its residents and some [[unincorporated areas]] near the city. [[Drinking water|Water]] sources are [[Lake Casitas]], the [[Ventura River]], and [[groundwater]].<ref>{{Cite news|url=https://www.vcstar.com/story/news/local/communities/ventura/2019/09/30/who-gets-ventura-river-water-ventura-agrees-track-usage/3824221002/|title=Who gets Ventura River water? Ventura agrees to track, potentially reduce its usage|last=Martinez|first=Arlene|date=September 30, 2019|newspaper=[[Ventura County Star]]|language=en|access-date=October 1, 2019}}</ref> The water system includes 3 [[Water treatment|treatment plants]], 10 [[well]]s, and 27 [[reservoir]]s. The city has rights to [[State Water Project]] since the early 1970s but has not built a connection to use the water.<ref>{{Cite web |last=Wilson |first=Kathleen |date=May 26, 2023 |title=Key funding comes through from EPA to boost water supply in Ventura |url=https://www.vcstar.com/story/news/local/2023/05/24/ventura-california-wastewater-drinking-water-effluent-santa-clara-river-estuary/70248226007/ |access-date=May 26, 2023 |website=Ventura County Star |language=en-US}}</ref>
+
+[[Sanitary sewer]] services began treatment at a [[Sewage treatment|single plant]]  in 1955.<ref>{{Cite news|last=Holland|first=Brooke|date=August 19, 2021|title=EPA chief visits Ventura, talks drought, water infrastructure|url=https://www.pacbiztimes.com/2021/08/19/epa-chief-visits-ventura-talks-drought-water-infrastructure/|access-date=August 20, 2021|work=Pacific Coast Business Times|language=en-US}}</ref> The plant, within a former portion of the [[estuary]] of the [[Santa Clara River (California)|Santa Clara River]], has ponds of treated water that attract birds.<ref>{{Cite news|last=Kisken|first=Tom|date=November 24, 2017|title=These Ventura ponds are for the birds (and birders)|url=https://www.vcstar.com/story/news/local/2017/11/23/these-ventura-ponds-birds-and-birders/831122001/|access-date=August 16, 2020|newspaper=[[Ventura County Star]]|language=en-US}}</ref><ref name="VCS 2014-10-19">Heitmann, Cheryl (November 19, 2014) [http://www.vcstar.com/news/local-news/ventura/ventura-mayor-defines-fullservice-city_25122909 "Ventura mayor defines full-service city"] ''[[Ventura County Star]]''</ref> Some [[recycled water]] from the plant is used for landscaping and other [[non potable]] uses.<ref>{{Cite news |url=https://www.vcstar.com/story/news/local/communities/ventura/2019/09/13/california-water-issues-ventura-cwin-lawsuit-environmental-impact-report/2288976001/ |title=Ventura's awash in water litigation. This time, the target is state water |last=Martinez |first=Arlene |date=September 14, 2019 |newspaper=[[Ventura County Star]] |access-date=September 14, 2019}}</ref><ref>{{Cite news |url=https://www.vcstar.com/story/news/local/communities/ventura/2019/09/05/ventura-county-ca-wastewater-treatment/2144525001/ |title=A look inside Ventura's wastewater operations. What's the future of its estuary discharge? |last=Martinez |first=Arlene |date=September 5, 2019 |newspaper=[[Ventura County Star]] |language=en |access-date=September 6, 2019}}</ref><ref>{{Cite news |last=Biasotti |first=Tony |date=October 15, 2019 |title=Ventura OKs $200 million-plus plan to remove wastewater from estuary. Here's what's next. |language=en |newspaper=Ventura County Star |url=https://www.vcstar.com/story/news/local/2019/10/15/ventura-approves-200-million-wastewater-recycling-plan/3976522002/ |access-date=October 16, 2019}}</ref><ref>{{Cite web |last=Woods II |first=Wes |date=April 22, 2024 |title=Ventura considering $13.3M design deal for water purification plant |url=https://www.vcstar.com/story/news/2024/04/22/ventura-eyeing-13-3-million-design-deal-for-water-purification-plant/73332568007/ |access-date=April 22, 2024 |website=Ventura County Star |language=en-US}}</ref>
+
+The Montalvo Community Services District looked at the cost of a new treatment plant in 2014 and considered having the city take over their service area and dissolve the district. The Montalvo Municipal Improvement District had been formed 60 years prior to bringing sewer service to what was then a remote [[unincorporated area]] southeast of Ventura. The city of Ventura annexed the last unincorporated portions of Montalvo in 2012<ref>{{cite news |title=Agency approves Parklands annexation in east Ventura |first= Tony |last= Biasotti |work=[[Ventura County Star]] |date= October 19, 2011 |url=http://www.vcstar.com/news/lafco-approves-parklands-annexation-in-east}}</ref> and had already begun to provide water to the community before the annexation.<ref>Biasotti, Tony (November 14, 2014) [http://www.vcstar.com/news/local-news/ventura/end-of-an-era-in-montalvo-as-sewer-district-prepares-to-hand-off-services_38133204 "'End of an era' in Montalvo, as sewer district prepares to hand off services"] ''[[Ventura County Star]]''</ref>
+
+==Neighborhoods==
+* Arundell
+* College
+* Downtown
+* Hillsides
+* Hobson Heights
+* Juanamaria
+* Midtown
+* [[Montalvo, California|Montalvo]]
+* North Bank
+* Olivias
+* Pierpoint
+* Poinsettia
+* [[Saticoy, California|Saticoy]]
+* Serra
+* Taylor Ranch
+* Thille
+* Wells
+* Westside
+
+==In popular culture==
+[[File:Ventura County Fair.jpg|thumb|right|The Ventura County Fair, held annually at the Ventura Fairgrounds]]
+===Film===
+<!--Please provide a source for any movies added here and continue in tone of paragraph rather than a lone declarative sentence mentioning a movie. This is not a list of favorite movies that someone thought may have been filmed in Ventura. Thanks-->
+The movies ''[[Swordfish (film)|Swordfish]]'', ''[[Little Miss Sunshine]]'' and ''[[Erin Brockovich (film)|Erin Brockovich]]'' were partially filmed in Ventura.<ref>Clerici, Kevin (October 2, 2010) [http://www.vcstar.com/news/no-headline-nxxfcfilmventura03 "Ventura launches campaign to promote film, television"] ''[[Ventura County Star]]''</ref>
+
+The comedy film ''[[The Bet (2016 film)|The Bet]]'' was filmed entirely in the city of Ventura and was written by Ventura residents [[Chris Jay]] and Aaron Goldberg, both members of the band [[Army of Freshmen]].<ref>Baumgardner, Pam (March 5, 2014). “[http://venturarocks.com/blog/tag/betting-on-baker/ Baker's Dozen Movie Set]”, ‘’VenturaRocks.com’’. Retrieved on 2016-04-15.</ref>
+
+===Books===
+Ventura was fictionalized as "Madison City" by long-time resident [[Erle Stanley Gardner]] in his ''D.A.'' series of crime novels featuring [[Doug Selby]], the crusading district attorney of a rural California county.
+
+Ventura is the setting for Julie Carobini's 2007 book ''Chocolate Beach''.
+
+===Music===
+The [[America (band)|America]] song "[[Ventura Highway]]" was inspired by the feel of the coastal highway running through Ventura, when the songwriter saw the sign to Ventura on a childhood family trip.<ref name="LAT 2006-10-01">{{Cite news |last=Boucher |first=Geoff |date=October 1, 2006 |title='Ventura Highway' America 1972 |newspaper=[[Los Angeles Times]] |url=https://www.latimes.com/archives/la-xpm-2006-oct-01-ca-socalsong01-story.html |access-date=June 22, 2022}}</ref>
+
+The song "(Girl We got a) Good Thing" by [[Weezer]] mentions Ventura in the 2nd verse, where [[Rivers Cuomo]] sings "Or driving to Ventura on the 101."
+
+===Other===
+The [[macOS Ventura]] operating system was presented at Apple's [[Worldwide Developers Conference]] (WWDC2022) on June 6, 2022, after having been named after the city.<ref>{{Cite news |last=Salgado |first=Cytlalli |date=June 21, 2022 |title=macOS Ventura: Apple's new operating system named after city |url=https://www.vcstar.com/story/news/local/communities/county/2022/06/21/macos-ventura-apple-operating-system-macbook-iphone-california/10004349002/ |access-date=June 21, 2022 |newspaper=Ventura County Star |language=en-US}}</ref>
+
+Ventura is a course in [[Tony Hawk|Tony Hawk's]] ''[[Tony Hawk's Pro Skater 2|Pro Skater 2]]''. It was called "Skatestreet Ventura".
+
+==Notable people==
+* [[Anderson .Paak]], Grammy-nominated rapper, singer, songwriter, record producer, and drummer; attended [[Foothill Technology High School]] and named his fourth studio album [[Ventura (Anderson .Paak album)|Ventura]]
+* [[Curren Caples]], skateboarder<ref name="VCS 2023-07-14">{{Cite news |last=Woods II |first=Wes |date=July 14, 2023 |title=Ventura skateboarder Curren Caples ready for hometown X Games |url=https://www.vcstar.com/story/news/2023/07/14/ventura-skateboarder-curren-caples-ready-for-hometown-x-games/70405784007/ |access-date=July 16, 2023 |newspaper=Ventura County Star}}</ref>
+*[[Frank Churchill]], composer for Disney, began his career in Ventura
+*[[George Christie (biker)|George Christie]], the long-time president of the Hells Angels Ventura chapter. 
+*[[Cirith Ungol (band)|Cirith Ungol]], [[heavy metal music|heavy metal]] band who formed in Ventura in 1972 and are still active
+*[[Matt Corral]], NFL quarterback for the Carolina Panthers
+*[[Kevin Costner]], actor, attended Buena High School
+*[[James Ennis III]], basketball player for the [[Philadelphia 76ers]], born in Ventura
+*[[Erle Stanley Gardner]] (1889–1970) created the fictional lawyer [[Perry Mason]], who appeared first in [[novels]] and then later in a [[television]] series from 1957 to 1966, followed by several "made-for-TV" movies in the 1980s. Gardner was a lawyer and did much of his early writing in Downtown Ventura. The First National Bank building at California and Main streets, where Gardner's law office was located, bears his name on a [[History of California|state historical marker]] and is also identified as the "Erle Stanley Gardner Building" over the front entrance.
+*[[Natasha Halevi]], actress and director, attended Saint Bonaventure High School
+*[[Kyle (musician)|Kyle]], rapper, attended Ventura High School
+*[[Zachary Levi]], actor, attended Buena High School
+*[[Fernando Librado]] (1839–1915), [[Chumash people|Chumash]] [[North American Indigenous elder|elder]] and master builder of the ''[[tomol]]'' born at [[Mission San Buenaventura]]. He worked extensively with [[John Peabody Harrington]] in his later life to record much about the Chumash people, language, and culture.<ref name=":02">{{Cite journal |last=Johnson |first=John R. |date=1982 |title=The Trail to Fernando |url=https://escholarship.org/uc/item/1j17p1td |journal=Journal of California and Great Basin Anthropology |pages=132–37}}</ref>
+*[[Cameron Rising]], quarterback for the Utah Utes
+*[[Theodosia Burr Shepherd]] (1845–1906), [[botanist]], [[Horticulture|horticulturist]] and pioneer in plant breeding; called the "Flower Wizard of California",<ref name="Kallas">{{cite news |last1=Kallas |first1=Anne |title=Ventura garden harkens to historic woman's contributions to hybridize flowers |url=http://archive.vcstar.com/news/ventura-garden-harkens-to-historic-womans-contributions-to-hybridize-flowers-ep-458604426-351363901.html/ |access-date=September 14, 2018 |work=Ventura County Star |date=May 14, 2014}}</ref> and "The Pioneer Seed-grower", as she was the first woman in California and possibly in the US to hybridize flowers.<ref name="Gray">{{cite news |last1=Gray |first1=Lillian |title=Women who do things: Theodosia Burr Shepherd |url=https://www.newspapers.com/clip/4445035/theodosia_shepherd_article/ |access-date=September 15, 2018 |work=The Wilkes-Barre Record |location=Wilkes-Barre, Pennsylvania |date=July 7, 1905|quote="this quiet indefatigable woman floriculturist was the first person to grow flower seed for the eastern states' trade. Her seeds have found their way throughout Europe. She is the pioneer flower seed grower of California."}}</ref><ref name="Kallas"/> Her seed and bulb business, the Theodosia B. Shepherd Company, is considered to be the foundation of the California seed industry and is listed as number 34 in the [[City of Ventura Historic Landmarks and Districts]]. She was compared favorably to [[Luther Burbank]].<ref name="Pacific">{{cite journal |title=Women of the Horticultural World |journal=The Pacific Garden |date=December 1911 |volume=5 |issue=1 |pages=6–7 |url=https://books.google.com/books?id=XwVSAQAAMAAJ&pg=PA6 |access-date=September 14, 2018|quote=On the foundation which she laid is builded the great seed industry of California.}}</ref>
+*[[Steven Thrasher]] (born 1978), journalist and academic<ref name=":0">{{Cite web |last=Childs |first=Jeremy |title=Oxnard native Steven Thrasher writes book on 'The Viral Underclass' |url=https://www.vcstar.com/story/news/local/communities/oxnard/2022/08/01/oxnard-steven-thrasher-the-viral-underclass-ventura-county-hiv-aids/10133005002/ |access-date=August 7, 2022 |website=Ventura County Star |language=en-US |archive-date=August 6, 2022 |archive-url=https://web.archive.org/web/20220806192610/https://www.vcstar.com/story/news/local/communities/oxnard/2022/08/01/oxnard-steven-thrasher-the-viral-underclass-ventura-county-hiv-aids/10133005002/ |url-status=live }}</ref>
+*[[Sami Whitcomb]] (born 1988), [[Women's National Basketball Association|WNBA]] shooting guard for the [[Seattle Storm]]<ref>{{Cite web |date=2024-06-03 |title=Sami Whitcomb |url=https://venturacountysportshalloffame.org/inductee/sami-whitcomb/ |access-date=2024-06-14 |website=VC Sports Hall of Fame |language=en-US}}</ref>
+
+==Sister cities==
+* {{flagdeco|Mexico}} [[Loreto Municipality, Baja California Sur|Loreto, Baja California Sur]] (Mexico)<ref>{{cite news|author=Staff |date=March 30, 2015 |url=http://www.vcstar.com/news/local-news/ventura/ventura-loreto-discuss-new-sister-city-program-during-binational-visit |title=Ventura, Loreto discuss new sister city program during binational visit |newspaper=[[Ventura County Star]] |access-date=March 1, 2016}}</ref>
+
+==See also==
+{{Portal|Greater Los Angeles}}
+*[[Foster Park Bowl]]
+*[[City of Ventura Historic Landmarks and Districts]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons category}}
+{{wikivoyage|Ventura}}
+* {{Official website}}
+* [http://www.city-data.com/city/Ventura-California.html Ventura, California] on [http://www.city-data.com City Data]
+* [https://www.imdb.com/search/text?realm=title&field=locations&q=ventura%2C+california Movies and televisions shows filmed in Ventura]
+* [http://www.ventura-usa.com/ Ventura Visitor's and Convention Bureau]
+* [http://www.venturaharbor.com/ Ventura Port District]
+* [http://www.venturachamber.com/ Ventura Chamber of Commerce]
+
+{{Geographic location
+| Centre =Ventura
+| North =     [[Ojai, California|Ojai]]<br /><small>''[[California State Route 33|SR 33]]''</small>
+| Northeast = [[Santa Paula, California|Santa Paula]]<br />[[Santa Clarita, California|Santa Clarita]]<br /><small>''[[California State Route 126|SR 126]]''</small>
+| East =      [[Saticoy, California|Saticoy]]<br />[[Moorpark, California|Moorpark]] and [[Simi Valley, California|Simi Valley]]<br /><small>''[[California State Route 118|SR 118]]''</small>
+| Southeast = [[Camarillo, California|Camarillo]]<br />[[Los Angeles, California|Los Angeles]]<br /><small>''[[U.S. Route 101 (California)|U.S. 101]]''</small>
+| South =     [[Oxnard, California|Oxnard]]<br />[[Port Hueneme, California|Port Hueneme]]<br />[[Malibu, California|Malibu]]<br /><small>''[[U.S. Route 101 (California)|U.S. 101]]''</small><br /><small>''[[California State Route 1|SR 1]]''</small>
+| Southwest = Pacific Ocean<br />[[Channel Islands of California|Channel Islands]]
+| West =      Pacific Ocean
+| Northwest = [[Carpinteria, California|Carpinteria]]<br />[[Santa Barbara, California|Santa Barbara]]<br /><small>''[[U.S. Route 101 (California)|U.S. 101]]''</small>
+}}
+
+{{Ventura, California}}
+{{Ventura County, California}}
+{{Ventura River}}
+{{Santa Clara River}}
+{{Greater Los Angeles Area}}
+{{California Central Coast}}
+{{California county seats}}
+{{Authority control}}
+
+[[Category:Ventura, California| ]]
+[[Category:1866 establishments in California]]
+[[Category:Cities in Ventura County, California]]
+[[Category:County seats in California]]
+[[Category:Incorporated cities and towns in California]]
+[[Category:Populated coastal places in California]]
+[[Category:Populated places established in 1866]]
+[[Category:Port cities in California]]
+[[Category:Seaside resorts in California]]
+[[Category:Spanish mission settlements in North America]]

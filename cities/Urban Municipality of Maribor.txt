@@ -1,0 +1,123 @@
+{{Short description|Urban municipality of Slovenia}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Urban Municipality of Maribor
+| official_name           = 
+| native_name             = ''Mestna občina Maribor''
+| native_name_lang        = sl<!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type         = City [[Municipalities of Slovenia|Municipality]]
+| image_skyline           = Maribor banner2.jpg
+| image_alt               = 
+| image_caption           = 
+| image_shield            = Coat of arms of Maribor (2020).svg
+| shield_size             = 120x80px
+| shield_alt              = Coat-of-arms of the Urban Municipality of Maribor
+| nickname                = 
+| motto                   = 
+| image_map               = Karte Maribor si.png
+| map_alt                 = 
+| map_caption             = Location of the Urban Municipality of Maribor in Slovenia
+| coordinates             = {{coord|46|34|N|15|38|E|region:US_type:city|display=inline,title}}
+| coor_pinpoint           = 
+| coordinates_footnotes   = 
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{flag|Slovenia}}
+| established_title       = 
+| established_date        = 
+| founder                 = 
+| seat_type               = <!-- [[Capital (political)|Capital]] -->
+| seat                    = 
+| government_footnotes    = 
+| leader_party            = 
+| leader_title            = Mayor
+| leader_name             = Saša Arsenovič
+| unit_pref               = Metric
+| area_footnotes          = <ref>{{cite web |title=Maribor – Slovenske regije in občine v številkah |url=https://www.stat.si/obcine/sl/Municip/Index/94 |publisher=[[Statistical Office of Slovenia]]|website=stat.si |access-date=3 June 2024|language=sl}}</ref>
+| total_type              = 
+| area_total_km2          = 148
+| area_note               = 
+| elevation_footnotes     = 
+| elevation_m             = 
+| population_footnotes    = <ref name="SURS">{{cite web |title=Prebivalstvo po starosti, občine, Slovenija, polletno |url=https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05C4003S.px/table/tableViewLayout2/ |website=stat.si |publisher=[[Statistical Office of Slovenia]] |access-date=3 June 2024 |language=sl}}</ref>
+| population_total        = 113747
+| population_as_of        = January 2024
+| population_density_km2  =
+| population_demonym      = 
+| population_note         = 
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +01
+| timezone1_DST           = [[Central European Summer Time|CEST]]
+| utc_offset1_DST         = +02
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = 
+| area_code               = 
+| iso_code                = 
+| website                 = {{Official URL}}
+| footnotes               = 
+}}
+The '''Urban Municipality of Maribor''' ({{IPA|sl|ˈmaːɾibɔɾ|pron}}), also the '''City of Maribor''' ({{langx|sl|Mestna občina Maribor}}, acronym '''MOM'''), is one of twelve [[urban municipality|urban municipalities]] in [[Slovenia]]. Its seat is [[Maribor]], the second-largest city in Slovenia. The population of the municipality was 113,747 in January 2024.<ref name="SURS"/> It borders [[Austria]].
+
+==Settlements==
+[[File:Mestna občina Maribor - naselja.jpg|250px|thumb|left|Settlements in the Urban Municipality of Maribor]]
+In addition to the municipal seat of Maribor, the municipality also includes the following settlements:
+{{Div col|colwidth=14em}}
+# [[Bresternica]]
+# [[Celestrina]]
+# [[Dogoše]]
+# [[Gaj nad Mariborom]]
+# [[Grušova]]
+# [[Hrastje, Maribor|Hrastje]]
+# [[Hrenca]]
+# [[Jelovec, Maribor|Jelovec]]
+# [[Kamnica, Maribor|Kamnica]]
+# [[Laznica, Maribor|Laznica]]
+# [[Limbuš]]
+# [[Malečnik]]
+# [[Meljski Hrib]]
+# [[Metava]]
+# [[Nebova]]
+# [[Pekel, Maribor|Pekel]]
+# [[Pekre]]
+# [[Počehova]]
+# [[Razvanje]]
+# [[Ribniško Selo]]
+# [[Rošpoh, Maribor|Rošpoh]] – part
+# [[Ruperče]]
+# [[Šober]]
+# [[Srednje]]
+# [[Trčova]]
+# [[Vinarje, Maribor|Vinarje]]
+# [[Vodole]]
+# [[Vrhov Dol]]
+# [[Za Kalvarijo]]
+# [[Zgornji Slemen, Maribor|Zgornji Slemen]] – part
+# [[Zrkovci]]
+{{Div col end}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{commons category-inline|City Municipality of Maribor|Urban Municipality of Maribor}}
+*[https://www.geopedia.world/#T12_L362_F2463:91_x1741552.6966888525_y5871664.046896631_s12_b2345 Urban Municipality of Maribor on Geopedia]
+
+{{Geographic location
+ | Centre = Maribor
+ | N  = [[Municipality of Kungota|Kungota]] / [[Municipality of Pesnica|Pesnica]]
+ | E  = [[Municipality of Lenart|Lenart]]<br/>[[Municipality of Duplek|Duplek]]
+ | SE = [[Municipality of Starše|Starše]]
+ | S  = [[Municipality of Hoče-Slivnica|Hoče-Slivnica]] / [[Municipality of Miklavž na Dravskem Polju|Miklavž na Dravskem Polju]]
+ | W  = [[Municipality of Selnica ob Dravi|Selnica ob Dravi]]<br/>[[Municipality of Ruše|Ruše]]
+ | NW = {{Flagicon|Austria}} [[Leutschach an der Weinstraße]]
+}}
+{{Maribor}}
+{{Municipalities of Slovenia}}
+{{Authority control}}
+
+[[Category:City Municipality of Maribor| ]]
+[[Category:Municipalities in Styria (Slovenia)|Maribor]]
+[[Category:1994 establishments in Slovenia]]
+
+
+{{Maribor-geo-stub}}

@@ -1,0 +1,102 @@
+{{Infobox settlement
+| name                    = Nossa Senhora do Socorro
+| native_name             = ''Município de Nossa Senhora do Socorro''
+| native_name_lang        = 
+| settlement_type         = [[Municipalities of Brazil|Municipality]]
+| image_skyline           = 
+| image_alt               = 
+| image_caption           = 
+| image_flag              = Bandeira de N. Sra. do Socoro Basico.JPG
+| flag_alt                = 
+| image_seal              = Brasão-Socorro.jpg
+| seal_alt                = 
+| image_shield            = 
+| shield_alt              = 
+| etymology               = 
+| nickname                = 
+| motto                   = 
+| image_map               = Sergipe Municip NossaSenhoradoSocorro.svg
+| map_alt                 = 
+| map_caption             = Location of Nossa Senhora do Socorro in [[Sergipe]]
+| pushpin_map             = Brazil
+| pushpin_label_position  = bottom
+| pushpin_map_alt         = 
+| pushpin_map_caption     = Location of Nossa Senhora do Socorro in Brazil
+| coordinates             = {{coord|10|51|18|S|37|03|33|W|region:BR|display=inline,title}}
+| coor_pinpoint           = 
+| coordinates_footnotes   = 
+|subdivision_type               = [[List of sovereign states|Country]]
+|subdivision_type1              = [[Regions of Brazil|Region]]
+|subdivision_type2              = [[States of Brazil|State]]
+|subdivision_name               = {{flag|Brazil}}
+|subdivision_name1 = [[Northeast Region, Brazil|Northeast]]
+|subdivision_name2 = [[Image:Bandeira de Sergipe.svg|border|22px]] [[Sergipe]]
+| established_title       = Founded
+| established_date        = 1868
+| founder                 = 
+| seat_type               = 
+| seat                    = 
+| government_footnotes    = 
+| leader_party            = 
+| leader_title            = Mayor
+| leader_name             = Padre Inaldo Luis da Silva
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           = 
+| unit_pref               = Metric
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->
+| area_footnotes          = 
+| area_note               = 
+| area_water_percent      = 
+| area_rank               = 
+| area_blank1_title       = 
+| area_blank2_title       = 
+<!-- square kilometers -->
+| area_total_km2          = 155.02
+| area_land_km2           = 
+| area_water_km2          = 
+| area_urban_km2          = 
+| area_rural_km2          = 
+| area_metro_km2          = 
+| area_blank1_km2         = 
+| area_blank2_km2         = 
+<!-- hectares -->
+| length_km               = 
+| width_km                = 
+| dimensions_footnotes    = 
+| elevation_footnotes     = 
+| elevation_m             = 36
+| population_as_of        = 2020 <ref>[https://cidades.ibge.gov.br/brasil/se/nossa-senhora-do-socorro/panorama IBGE 2020]</ref>
+| population_footnotes    = 
+| population_total        = 185,706
+| population_density_km2  = auto
+| population_note         = 
+| population_demonym      = Socorrense
+| timezone1               = [[Time in Brazil|BRT]]
+| utc_offset1             = &minus;3
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = 
+| area_code               = 
+| iso_code                = 
+| website                 = 
+| footnotes               = 
+}}
+
+'''Nossa Senhora do Socorro''' is a [[Municipalities of Brazil|municipality]] located in the [[States of Brazil|Brazilian state]] of [[Sergipe]]. Its population was 185,706 (2020) and its area is {{convert|155.02|km2|mi2|abbr=on}}. Nossa Senhora do Socorro is located {{convert|36|km|mi|abbr=on}} from the state capital of Sergipe, [[Aracaju]].<ref name="i"/>
+
+==References==
+{{reflist|2|refs=
+
+<ref name="i">{{cite web | url = http://cod.ibge.gov.br/4EV | title = Nossa Senhora do Socorro | year = 2016 | publisher = Instituto Brasileiro de Geografia e Estatística | location = Brasília, Brazil | accessdate = 2016-11-21 | language = Portuguese}}</ref>
+
+}}
+
+{{Municipalities of Sergipe}}
+
+[[Category:Municipalities in Sergipe]]
+[[Category:Populated places established in 1868]]
+
+{{Sergipe-geo-stub}}

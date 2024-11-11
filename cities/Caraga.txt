@@ -1,0 +1,620 @@
+{{short description|Administrative region of the Philippines}}
+{{for|the municipality in the province of Davao Oriental|Caraga, Davao Oriental}}
+{{Use mdy dates|date=March 2020}}
+{{Use Philippine English|date=November 2022}}
+{{Infobox settlement
+<!-- Basic info  -->| name               = Caraga
+| official_name      = Caraga Administrative Region
+| other_name         = Region XIII
+| settlement_type    = [[Regions of the Philippines|Region]]
+
+<!-- Skyline  -->| image_skyline      = {{Photomontage
+| photo1a = PANSUKIAN, NAKED ISLAND.jpg{{!}}A naked beach at Siargao Island
+| photo2a = Tinuy-an falls 1 mikepeligro.jpg{{!}}Tinuy-an Falls
+| photo2b = Float RCF Festival.jpg{{!}}Rice Corn and Flower Festival in Bayugan
+| photo3a = @ D. Macapagal Bridge - panoramio.jpg{{!}}Macapagal Bridge
+| photo3b = Libjo - panoramio.jpg{{!}}A lagoon in Libjo, Dinagat Islands
+| photo4a = Hinatuan enchanted river.jpg{{!}}Hinatuan Enchanted River
+| size = 250
+| position = center
+| spacing = 2
+| color = transparent
+| border = 0
+| foot_montage = From top, left to right: A naked beach in [[Siargao|Siargao Island]]; [[Tinuy-an Falls]]; Rice Corn and Flower Festival in [[Bayugan]]; [[Macapagal Bridge]] in [[Butuan]]; A lagoon in [[Libjo, Dinagat Islands|Libjo]]; [[Hinatuan Enchanted River]]
+| 
+}}
+| image_alt          = 
+| image_caption      = <!-- images and maps  -->
+| image_flag         = 
+| flag_size          = 120x80px
+| image_seal         = 
+| seal_size          = 100x80px
+| image_map          = {{PH wikidata|image_map}}
+| map_caption        = Location in the Philippines
+
+<!-- Motto  -->| nickname           = 
+| motto              = <!-- Location -->
+| coordinates        = {{coord|region:PH|format=dms|display=inline,title}}
+| subdivision_type   = Country
+| subdivision_name   = [[Philippines]]
+| subdivision_type1  = [[Island groups of the Philippines|Island group]]
+| subdivision_name1  = [[Mindanao]]
+
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->| seat_type          = Regional center<br/>{{nobold|and largest city}}
+| seat               = [[Butuan]]
+
+<!-- Politics -->| leader_title       = 
+| leader_name        = <!-- Area    -->
+| area_total_km2     = {{PH wikidata|area}}
+| area_footnotes     = <!-- Population   -->
+| population_as_of   = {{PH wikidata|population_as_of}}
+| population_total   = {{PH wikidata|population_total}}
+| population_footnotes = {{PH census|2015}}
+| population_density_km2 = auto
+
+<!-- General information  -->| timezone           = [[Philippine Standard Time|PST]]
+| utc_offset         = +8
+| iso_code           = PH-13
+
+<!-- Others -->| blank_name_sec1    = [[Provinces of the Philippines|Provinces]]
+| blank_info_sec1    = {{Collapsible list
+ | titlestyle             = font-weight:normal;text-align:left;background-color:WhiteSmoke;
+ | title                  = 5
+ | [[Agusan del Norte]]
+ | [[Agusan del Sur]]
+ | [[Dinagat Islands]]
+ | [[Surigao del Norte]]
+ | [[Surigao del Sur]]
+ }}
+| blank1_name_sec1   = [[Cities of the Philippines|Independent cities]]
+| blank1_info_sec1   = {{Collapsible list
+ | titlestyle             = font-weight:normal;text-align:left;background-color:WhiteSmoke;
+ | title                  = 1
+ | [[Butuan]]
+ }}
+| blank2_name_sec1   = [[Cities of the Philippines|Cities]]
+| blank2_info_sec1   = {{Collapsible list
+ | titlestyle             = font-weight:normal;text-align:left;background-color:WhiteSmoke;
+ | title                  = 5
+ | [[Bayugan]]
+ | [[Bislig]]
+ | [[Cabadbaran]]
+ | [[Surigao City]]
+ | [[Tandag]]
+ }}
+| blank3_name_sec1   = [[Municipalities of the Philippines|Municipalities]]
+| blank3_info_sec1   = 67
+| blank4_name_sec1   = [[Barangay]]s
+| blank4_info_sec1   = 1,311
+| blank5_name_sec1   = [[House of Representatives of the Philippines|Cong. districts]]
+| blank5_info_sec1   = 7
+| blank_name_sec2    = [[Languages of the Philippines|Languages]]
+| blank_info_sec2    = {{hlist | item-style=white-space:nowrap; | [[Cebuano language|Cebuano]] | [[Surigaonon language|Surigaonon]] | [[Butuanon language|Butuanon]] | [[Kamayo language|Kamayo]] | [[Cotabato Manobo language|Manobo]] | [[Tagalog language|Tagalog]] | [[English language|English]] |  ''other minority languages'' }}
+| blank1_name_sec2   = [[List of regions of the Philippines by GDP|GDP]] (2023)
+| blank1_info_sec2   = [[Philippine peso|₱]]406.45 billion<br />[[USD|$]]7.31 billion<ref name="grdp">{{Cite web |title=2021 to 2023 Gross Regional Domestic Product (GRDP)|url=https://psa.gov.ph/statistics/grdp/tables |access-date=April 26, 2024 |publisher=Philippine Statistics Authority|website=openstat.psa.gov.ph}}</ref>
+| blank2_name_sec2   = Growth rate
+| blank2_info_sec2   = {{increase}} (4.87%)<ref name="grdp" />
+| blank3_name_sec2   = [[Human Development Index|HDI]]
+| blank3_info_sec2   = {{increase}} 0.698 ({{fontcolor|orange|Medium}})
+| blank4_name_sec2   = HDI rank
+| blank4_info_sec2   = [[List of Philippine provinces and regions by Human Development Index|9th in the Philippines]] (2019)
+| website            = 
+| elevation_max_point = Mount Hilong-hilong
+| elevation_max_m    = 2012
+| image_map1         = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250|zoom=8}}{{hidden end}}
+| translit_lang1_info1 = 
+| blank5_name_sec2   = '''Official language'''
+| blank5_info_sec2   = [[Filipino language|Filipino]] (de facto) and [[Cebuano language|Bisaya]] (de jure)
+}}
+
+'''Caraga''', officially the '''Caraga Administrative Region'''<ref name="ChanRobles-RA7901" /> (or simply known as '''Caraga Region''') and designated as '''Region XIII''', is an [[Regions of the Philippines|administrative region]] in the [[Philippines]] occupying the northeastern section of [[Mindanao]]. The region was created through ''Republic Act No. 7901'' on February 23, 1995.<ref name="ChanRobles-RA7901">{{cite web|title=Republic Act No. 7901 - An Act Creating Region XIII to be Known as the Caraga Administrative Region, and for Other Purposes|url=http://www.chanrobles.com/republicacts/republicactno7901.html|website=Chan Robles Virtual Law Library|access-date=29 March 2016|date=23 February 1995}}</ref> The region comprises five provinces: [[Agusan del Norte]], [[Agusan del Sur]],  [[Dinagat Islands]], [[Surigao del Norte]], and [[Surigao del Sur]];<ref>{{cite web|url=http://president.gov.ph/gov_at_work/ira-shares-for-lgus-jump-by-37-5-in-2013/|title=IRA Shares for LGUs Jump by 37.5% in 2013|date=January 9, 2013|publisher=Office of the President of the Philippines|url-status=dead|archive-url=https://web.archive.org/web/20140903080930/http://president.gov.ph/gov_at_work/ira-shares-for-lgus-jump-by-37-5-in-2013/|archive-date=September 3, 2014}}</ref> six cities: [[Bayugan]], [[Bislig]], [[Butuan]] (a highly-urbanized city), [[Cabadbaran]], [[Surigao City|Surigao]] and [[Tandag]]; 67 municipalities and 1,311 [[barangay]]s. [[Butuan]], the most urbanized city in Caraga, serves as the regional administrative center.
+
+{{TOC limit|2}}
+
+==Etymology==
+Caraga is named after the [[Kalagan people]] ([[Spanish language|Spanish]] "Caragan"), a [[Mansakan languages|Mansakan]] subgroup (related to [[Visayan people|Visayans]]) native to the regions of [[Davao Region|Davao]] and parts of Caraga who speak the [[Kalagan language]]s. The name itself is from ''kalagan'' (literally "[strong] spirited") which means "fierce" or "brave"; from ''kalag'' ("spirit" or "soul") in the native [[animistic]] ''[[anito]]'' religions. Hence, the whole ''Provincia de Caraga'' of AD 1622 was called ''region de gente animosa'', that is "region of spirited folk".<ref>{{cite web |title=CARAGA Region History and Geography |url=http://nnc.gov.ph/index.php/regional-offices/caraga/58-region-caraga-profile/322-caraga-region-history-and-geography.html |website=GOVPH |publisher=Republic of the Philippines |access-date=3 June 2019 |archive-date=August 28, 2018 |archive-url=https://web.archive.org/web/20180828202720/http://nnc.gov.ph/index.php/regional-offices/caraga/58-region-caraga-profile/322-caraga-region-history-and-geography.html |url-status=dead }}</ref>
+
+==History==
+During pre-colonial times, the [[Rajahnate of Butuan]] ruled in what is now [[Agusan del Norte]] and [[Butuan]]. It had much influence on all of Caraga, portions of northern [[Mindanao]], and the western side of [[Bohol]]. According to records, Butuan was in conflict with the [[Sultanate of Ternate]] in present-day Moluccas of Indonesia. The Ternateans would attack and ransack Butuan and its wealth, but Butuan always prevailed. Butuan had friendly relations with the [[Rajahnate of Cebu]] which it considered an ally. It became a powerful Hindu state much known for its goldsmithing and boat-making. Its people used gigantic boats known as [[balangay]] which carried numerous men. Relics of these gold crafts and giant boats have been unearthed and preserved by the [[National Museum of the Philippines]] and other museums. Butuan also had cordial relations with the [[Kingdom of Champa]] in what is now central Vietnam. The Butuan people managed to cross the [[Sulu Sea]] and the [[South China Sea]] to reach Champa for trade. While the Rajahnate of Butuan was at large, the indigenous [[lumad]]s of the inner sections of Caraga were free and had their own highly advanced democratic societies, known for their knowledge of nature, medicine, mythology, and warfare. Chinese traders eventually came into Butuan and the Sino-Butuan trade became the focal point of Champa-Butuan relations, where the two nations competed against one another for better trade with the Chinese. Eventually, Butuan started to weaken due to massive attacks from Ternate. Cebu was unable to help at the time because it was also being attacked by Ternate. Likewise, the Kedatuan of Dapitan in [[Bohol]], "The Venice of the Visayas", was also destroyed by an attack from Ternate.
+
+[[Rajah Siawi]] and Rajah Kulambo, members of the [[maginoo|nobility]] of the [[Surigaonon people|Surigaonon]] and [[Butuanon people]], respectively, were encountered by the [[Magellan expedition]] in 1521 on the island of [[Limasawa]] (a hunting ground for the rulers). [[Antonio Pigafetta]] describes them as tattooed and covered in gold ornaments. Pigafetta also records the name of the Surigao region as "Calagan". He also describes the "balanghai" (''[[balangay]]'') warships they sailed.<ref name=Nowell>{{cite book |last=Nowell |first=C. E. |year=1962 |title=Magellan's Voyage Around the World |chapter=Antonio Pigafetta's account |location=Evanston |publisher=Northwestern University Press |oclc=347382 |hdl=2027/mdp.39015008001532 }}</ref>{{rp|141–142}}
+
+
+Linguist [[R. David Zorc]] suspects that the Tagalogs originated either in the general area of Caraga or  [[Eastern Visayas]]. He traced the origins and prehistory of the Tagalogs based on linguistic evidence. Tagalog is classified as a [[Central Philippine language]], and is therefore closely related to the [[Bisayan languages|Bisayan]], [[Mansakan languages|Mansakan]], and [[Bikol languages]].
+
+When the Spaniards returned and subjugated the Rajahante of Butuan, already weak due to tensions with the Sultanate of Ternate, the boat-making and [[goldsmith]]ing traditions were eradicated and relations between coastal Butuan and the [[lumads]] of the interior became less known. The lumads of the interior were also converted to Christianity, which diminished some of their traditions on nature worship. The Spanish attacked the [[Sultanate of Ternate]] to negate any future attacks on Caraga, in which they succeeded, due to their much greater firepower. With the Spaniards having full control of Caraga, they started establishing Spanish-modeled centers to maximize their coverage and control over the territory, in which they succeeded. The Spaniards ruled the country until the United States defeated them in the [[Spanish-American War]] which led to the entire archipelago falling into American hands.
+
+The "[[Kalagan language|Kalagan]]", called "Caragan" by the Spaniards, occurred in the two provinces of Surigao, the northern part of [[Davao Oriental]] and eastern [[Misamis Oriental]]. In 1635, Caraga was fortified by 45 additional Spanish soldiers and household [[Mexican settlement in the Philippines|heads from Mexico]], in 1670 a further 81 soldiers, and in 1672 still another 81.<ref name= "Mexicans" >[https://academic.oup.com/past/article/232/1/87/1752419 Convicts or Conquistadores? Spanish Soldiers in the Seventeenth-Century Pacific By Stephanie J. Mawson] AGI, México, leg. 25, núm. 62; AGI, Filipinas, leg. 8, ramo 3, núm. 50; leg. 10, ramo 1, núm. 6; leg. 22, ramo 1, núm. 1, fos. 408 r –428 v; núm. 21; leg. 32, núm. 30; leg. 285, núm. 1, fos. 30 r –41 v .</ref>  By the end of the 1700s, Caraga had 3,497 native families,<ref name="Estadismo1">[http://www.xeniaeditrice.it/zu%C3%B1igaIocrpdf.pdf ESTADISMO DE LAS ISLAS FILIPINAS TOMO PRIMERO By Joaquín Martínez de Zúñiga (Original Spanish)]</ref>{{rp|539}}<ref name="Estadismo2">[https://ia601608.us.archive.org/10/items/bub_gb_ElhFAAAAYAAJ_2/bub_gb_ElhFAAAAYAAJ.pdf ESTADISMO DE LAS ISLAS FILIPINAS TOMO SEGUNDO By Joaquín Martínez de Zúñiga (Original Spanish)]</ref>{{rp|31,54,113}} protected by a company of Mexican soldiers.<ref name= "Mexicans" /> The two Agusan provinces were later organized under the administrative jurisdiction of [[Surigao (province)|Surigao]] and became the independent [[Agusan (province)|Agusan province]] in 1914. In 1960, Surigao was divided into Norte and Sur,<ref name="ChanRobles-RA2786">{{cite web|title=Republic Act No. 2786 - An Act to Create the Provinces of Surigao del Norte and Surigao del Sur|url=http://www.chanrobles.com/republicacts/republicactno2786.html|website=Chan Robles Virtual Law Library|access-date=29 March 2016|date=19 June 1960}}</ref> and in June 1967, Agusan followed suit.<ref name="LawPhilNet-RA4979">{{cite web|title=Republic Act No. 4979; An Act Creating the Provinces of Agusan del Norte and Agusan del Sur|url=http://www.lawphil.net/statutes/repacts/ra1967/ra_4979_1967.html|website=The LawPhil Project|access-date=29 March 2016|date=17 June 1967}}</ref> While Butuan then was just a town of Agusan, the logging boom in the 1950s drew business to the area. On August 2, 1950, by virtue of ''Republic Act 523'', the City Charter of Butuan was approved.<ref name="GovPH-RA523">{{cite web|title=Republic Act No. 523; An Act Creating the City of Butuan|url=https://www.officialgazette.gov.ph/1950/06/15/republic-act-no-523/|website=Official Gazette of the Republic of the Philippines|access-date=29 March 2016|date=15 June 1950}}</ref>
+
+In the early years of the Caraga Region, its inhabitants reportedly came from mainland Asia, followed by Malayans, Arabs, Chinese, Japanese, Spanish and Americans. Migrants from the Visayan and Luzon provinces later settled in the area. Most of its inhabitants speak [[Cebuano language|Cebuano]] and live in rural areas.
+
+On February 23, 1995, the Caraga Region was created through Republic Act No. 7901 in the administration of [[President of the Philippines|President]] [[Fidel Ramos]]. The creation of Caraga Region is the revival of the Spanish province of the same name. The provinces of [[Agusan del Norte]], [[Agusan del Sur]] and [[Surigao del Norte]] (of the former [[Northern Mindanao]] region) and [[Surigao del Sur]] (of the former [[Davao Region|Southern Mindanao region]]) were annexed as part of the newly created region.
+
+==Geography==
+Caraga Region, situated in the northeast section of Mindanao, is between 8&nbsp;00' to 10&nbsp;30' N. latitude and 125&nbsp;15' to 126&nbsp;30' E. longitude. It is bounded on the north by the [[Bohol Sea]]; on the south by the provinces of [[Davao del Norte]], [[Davao de Oro]] and [[Davao Oriental]] of [[Davao Region|Region XI]]; on the west by [[Bukidnon]] and [[Misamis Oriental]] of [[Northern Mindanao|Region X]]; and on the east by the [[Philippine Sea]] of the Pacific Ocean.
+
+The region has a total land area of {{convert|18,846.97|km2}}, representing 6.3% of the country's total land area and 18.5% of the island of Mindanao. 47.6% of the total land area of the region belongs to the province of Agusan del Sur. Of the total land area, 71.22% is forestland and 28.78% is alienable and disposable land. Major land uses include forestland comprising 31.36% and 23.98% of agricultural and open spaces.
+
+===Topography===
+The region is characterized by mountainous areas, flat and rolling lands. Mountain ranges divide Agusan and Surigao provinces and sub-ranges separate most of the lowlands along the Pacific coast. The most productive agricultural area of the region lies along the [[Agusan River]] Basin. The well-known [[Agusan Marsh Wildlife Sanctuary|Agusan Marsh]] sits in the middle of Agusan del Sur. Among the lakes in the region, [[Lake Mainit]] is the widest. It traverses eight municipalities: [[Alegria, Surigao del Norte|Alegria]], [[Tubod, Surigao del Norte|Tubod]], [[Mainit, Surigao del Norte|Mainit]] and [[Sison, Surigao del Norte|Sison]] in Surigao del Norte, and [[Tubay, Agusan del Norte|Tubay]], [[Santiago, Agusan del Norte|Santiago]], [[Jabonga, Agusan del Norte|Jabonga]] and [[Kitcharao, Agusan del Norte|Kitcharao]] in Agusan del Norte.
+
+===Climate===
+Caraga Region has Type II climate, with no pronounced wet and dry season. During the months of November to February, heavy rains are usually experienced in the region.
+
+==Administrative divisions==
+{{stack|float=right|[[File:Ph caraga.png|thumb|right|Map of Caraga]]}}
+
+===Provinces===
+Caraga comprises 5 [[Provinces of the Philippines|provinces]], 1 [[Philippine city#City classification|''highly urbanized'' city]], 5 ''component'' cities, 67 [[Municipalities of the Philippines|municipalities]], and 1,311 [[barangay]]s.
+
+{| class="wikitable sortable" style="margin:auto; background:#fdfdfd; text-align:center; font-size:90%; border:1pt solid gray;"
+|-
+! scope="col" style="border-bottom:none;" class="unsortable" | Province {{font|{{small|or}} {{abbr|''HUC''|Highly urbanized city; administered independently from any province}}|css=font-weight:normal}}
+! scope="col" style="border-bottom:none;" class="unsortable" | Capital
+! scope="col" style="border-bottom:none;white-space:nowrap;" class="unsortable" colspan=2 | Population {{small|(2020)}}{{PH census|2020}}
+! scope="col" style="border-bottom:none;" colspan=2 | Area<ref name="PSA-NSCB-ProvinceList">{{cite web |title=PSGC Interactive; List of Provinces |url=http://www.nscb.gov.ph/activestats/psgc/listprov.asp |website=[[Philippine Statistics Authority]] |access-date=29 March 2016 |url-status=dead |archive-url=https://web.archive.org/web/20130111015112/http://www.nscb.gov.ph/activestats/psgc/listprov.asp |archive-date=11 January 2013 }}</ref>
+! scope="col" style="border-bottom:none;" colspan=2 | Density
+! scope="col" style="border-bottom:none;" class="unsortable" | Cities
+! scope="col" style="border-bottom:none;" class="unsortable" | {{Abbr|Muni.|Municipalities}}
+! scope="col" style="border-bottom:none;" class="unsortable" | {{abbr|Barangay|Barangays}}
+|-
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-top:none;" colspan=2 |
+! scope="col" style="border-style:none none solid solid;" | km<sup>2</sup>
+! scope="col" style="border-style:none solid solid none;white-space:nowrap;" class="unsortable" | sq mi
+! scope="col" style="border-style:none none solid solid;" | /km<sup>2</sup>
+! scope="col" style="border-style:none solid solid none;white-space:nowrap;" class="unsortable" | /sq mi
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-top:none;" |
+|-
+! scope="row" style="text-align:left; background:initial;"| [[Agusan del Norte]]
+| style="text-align:left;" | [[Cabadbaran|Cabadbaran City]]
+| {{percent and number|387503|2804788|disp=table|1|pad=yes}}
+| {{convert|2,730.24|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|387503/2,730.24|2}}|PD/km2|abbr=values|disp=table}}
+| 1
+| 10
+| 167
+|-
+! scope="row" style="text-align:left; background:initial;"| [[Agusan del Sur]]
+| style="text-align:left;" | [[Prosperidad, Agusan del Sur|Prosperidad]]
+| {{percent and number|739367|2804788|disp=table|1|pad=yes}}
+| {{convert|9,989.52|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|739367/9,989.52|2}}|PD/km2|abbr=values|disp=table}}
+| 1
+| 13
+| 314
+|-
+! scope="row" style="text-align:left; background:initial;"| [[Dinagat Islands]]
+| style="text-align:left;" | [[San Jose, Dinagat Islands|San Jose]]
+| {{percent and number|128117|2804788|disp=table|1|pad=yes}}
+| {{convert|1,036.34|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|128117/1,036.34|2}}|PD/km2|abbr=values|disp=table}}
+| 0
+| 7
+| 100
+|-
+! scope="row" style="text-align:left; background:initial;"| [[Surigao del Norte]]
+| style="text-align:left;" | [[Surigao City]]
+| {{percent and number|534636|2804788|disp=table|1|pad=yes}}
+| {{convert|1,972.93|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|534636/1,972.93|2}}|PD/km2|abbr=values|disp=table}}
+| 1
+| 20
+| 335
+|-
+! scope="row" style="text-align:left; background:initial;"| [[Surigao del Sur]]
+| style="text-align:left;" | [[Tandag]]
+| {{percent and number|642255|2804788|disp=table|1|pad=yes}}
+| {{convert|4,932.70|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|642255/4,932.70|2}}|PD/km2|abbr=values|disp=table}}
+| 2
+| 17
+| 309
+|-
+! scope="row" style="text-align:left;background-color:initial;border-right:0;font-weight:normal;font-style:italic;" | [[Butuan]]
+| style="text-align:right;border-left:0;" | †
+| {{percent and number|372910|2804788|disp=table|1|pad=yes}}
+| {{convert|816.62|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|372910/816.62|2}}|PD/km2|abbr=values|disp=table}}
+! 
+! 
+|86
+|- class="sortbottom"
+! colspan="3" scope="row" style="text-align:left;" | Total
+! scope="col" style="text-align:right;" | 2,804,788
+! scope="col" style="text-align:right;" | 22,294.97
+! scope="col" style="text-align:right;" | {{convert|22,294.97|km2|disp=number|2}}
+! scope="col" style="text-align:right;" | {{sigfig|2804788/22,294.97|2}}
+! scope="col" style="text-align:right;" | {{convert|{{sigfig|2933772/22,294.97|2}}|PD/km2|disp=number}}
+! scope="col" | 6
+! scope="col" | 67
+! scope="col" | 1,311
+|- class="sortbottom" style="text-align:left; background:#f2f2f2; border-top:double gray;"
+| colspan="12" style="padding-left:1em;" |
+{{Color box|#FDFDFD|†|border=darkgray}} [[Butuan]] is a ''highly urbanized city''; figures are excluded from Agusan del Norte.
+|}
+
+====Governors and vice governors====
+{| class="wikitable sortable"
+|-
+!width=140 |Province
+!width=150 |Image
+!width=235 |Governor
+!width=120 colspan=2 |Political Party
+!width=150 |Vice Governor
+|-
+|{{center|}}{{center|[[Agusan del Norte]]}}
+|align=center |[[File:Gov Amante.png|138x138px]]
+|[[Angelica Amante]]
+| {{party name with colour|Partido Demokratiko Pilipino-Lakas ng Bayan}}
+|Rico Corvera
+|-
+|{{center|[[File: Agusan del Sur seal.svg|75px]]}}{{center|[[Agusan del Sur]]}}
+|align=center |[[File:Gov Cane.png|138x138px]]
+|[[Santiago Cane Jr.]]
+| {{party name with colour|National Unity Party (Philippines)}}
+|Samuel Tortor
+|-
+|{{center|}}{{center|[[Dinagat Islands]]}}
+|align=center |[[File:Gov Demerey.png|138x138px]]
+|Nilo Demerey Jr.
+| {{party name with colour|Lakas-CMD}} 
+|Benglen Ecleo
+|-
+|{{center|[[File: Official Seal of Surigao del Norte.svg|75px]]}}{{center|[[Surigao del Norte]]}}
+|align=center |[[File:Gov Barbers.png|138x138px]]
+|Robert Lyndon Barbers
+| {{party name with colour|Nacionalista Party}} 
+|Eddie Gokiangkee Jr.
+|-
+|{{center|}}{{center|[[Surigao del Sur]]}}
+|align=center |[[File:Gov Pimentel.png|138x138px]]
+|[[Alexander Pimentel]]
+| {{party name with colour|Partido Demokratiko Pilipino-Lakas ng Bayan}} 
+|Manuel Alameda
+|}
+
+===Cities===
+{{unbulleted list
+| {{Color box|#BFF5FF|†|border=darkgray}} {{font|Regional center|size=90%}}
+}}
+
+{| class="wikitable sortable collapsible collapsed" style="text-align:center;background-color:#FDFDFD;font-size:90%;"
+|-
+! scope="col" style="border-bottom:none;" class="unsortable" | City
+! scope="col" style="border-bottom:none;" | Population {{small|(2020)}}{{PH census|2020}}
+! scope="col" style="border-bottom:none;" colspan=2 | Area
+! scope="col" style="border-bottom:none;" colspan=2 | Density
+! scope="col" style="border-bottom:none;" class= | City class
+! scope="col" style="border-bottom:none;" | Income class
+! scope="col" style="border-bottom:none;" | Province
+|-
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-style:none none solid solid;" | km<sup>2</sup>
+! scope="col" style="border-style:none solid solid none;white-space:nowrap;" class="unsortable" | sq mi
+! scope="col" style="border-style:none none solid solid;" | /km<sup>2</sup>
+! scope="col" style="border-style:none solid solid none;white-space:nowrap;" class="unsortable" | /sq mi
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-top:none;" |
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Bayugan]]
+| style="text-align:right;" | 109,499
+| {{convert|688.47|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|109499/688.47|2}}|PD/km2|abbr=values|disp=table}}
+| rowspan="2"| Component
+| 5th
+| [[Agusan del Sur]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Bislig]]
+| style="text-align:right;" | 99,490
+| {{convert|331.80|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|99490/331.80|2}}|PD/km2|abbr=values|disp=table}}
+| 3rd
+| [[Surigao del Sur]]
+|-
+! scope="row" style="text-align:left;background-color:#BFF5FF;border-right:0;" |† [[Butuan]]
+| style="text-align:right;" | 372,910
+| {{convert|816.62|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|372910/816.62|2}}|PD/km2|abbr=values|disp=table}}
+| Highly urbanized
+| 1st
+| [[Agusan del Norte]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Cabadbaran]]
+| style="text-align:right;" | 80,354
+| {{convert|214.44|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|80354/214.44|2}}|PD/km2|abbr=values|disp=table}}
+| rowspan="3"| Component
+| 5th
+| [[Agusan del Norte]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Surigao City]]
+| style="text-align:right;" | 171,107
+| {{convert|245.30|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|171107/245.30|2}}|PD/km2|abbr=values|disp=table}}
+| 3rd
+| [[Surigao del Norte]]
+|-
+! scope="row" style="text-align:left;background-color:initial;" | [[Tandag]]
+| style="text-align:right;" | 62,669
+| {{convert|291.73|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|62669/291.73|2}}|PD/km2|abbr=values|disp=table}}
+| 5th
+| [[Surigao del Sur]]
+|}
+
+==Demography==
+{{Philippine Census
+
+| align= left
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote = Source: Philippine Statistics Authority{{PH census|2015}}<ref name=NSO>{{cite web|url=https://www.census.gov.ph/sites/default/files/attachments/hsd/pressrelease/Population%20and%20Annual%20Growth%20Rates%20for%20The%20Philippines%20and%20Its%20Regions%2C%20Provinces%2C%20and%20Highly%20Urbanized%20Cities%20Based%20on%201990%2C%202000%2C%20and%202010%20Censuses.pdf |title=2010 Census and Housing Population |publisher=Philippine Statistics Authority |access-date=14 March 2014 |url-status=dead |archive-url=https://web.archive.org/web/20130928012059/http://www.census.gov.ph/sites/default/files/attachments/hsd/pressrelease/Population%20and%20Annual%20Growth%20Rates%20for%20The%20Philippines%20and%20Its%20Regions%2C%20Provinces%2C%20and%20Highly%20Urbanized%20Cities%20Based%20on%201990%2C%202000%2C%20and%202010%20Censuses.pdf |archive-date=28 September 2013 }}</ref>
+}}
+
+Based on the 2020 census, the total population of the region was 2,804,788. The annual growth rate over this period was over 20%. Among the five provinces, Agusan del Sur registered the largest population at 739,657, and Dinagat Islands was the smallest at 128,117. Surigao del Norte was the fastest growing province with an annual average growth rate of 1.76% over the last five years, while Dinagat Islands was the slowest at 0.05% over the same period.{{PH census|2015}}
+
+Butuan and Surigao City had total populations of 372,910 and 171,107, respectively. Butuan recorded an annual growth rate of 1.62% in the period 2010–2015.{{PH census|2015}}
+
+===Language===
+[[File:NUESTRA SENORA DEL ROSARIO PARISH (AERIAL, UPLOAD LOCALLY).png|thumb|right|Nuestra Senora del Rosario Parish in [[Magallanes, Agusan del Norte|Magallanes]]]]
+[[Cebuano language|Cebuano]] is spoken by 33.79% of the households in the region, the language serves as a lingua franca of the region, making it the second language of the majority of residents. [[Surigaonon language|Surigaonon]] is spoken by 33.21% of households, followed by [[Butuanon language|Butuanon]] with 15%; [[Kamayo language|Kamayo]], 7.06%, and [[Manobo languages|Manobo]], 4.73%. The rest speak a [[Boholano dialect|Boholano]] dialect of Cebuano, 5.87%; [[Hiligaynon language|Hiligaynon]],  2.87%; and other languages and dialects, 7.20%–these include [[Ilocano language|Ilocano]], [[Kapampangan language|Kapampangan]], [[Maranao language|Maranao]], [[Maguindanao language|Maguindanaon]] and [[Tausug language|Tausug]] languages.
+
+===Religion===
+The dominant religion in the region is [[Roman Catholic]], with 74% of the total household population in Caraga. Significant religious minorities include Protestants that constitute 20% of the total household population and Aglipayan that constitute 6% of the total household population.<ref>{{cite web|url=https://psa.gov.ph/content/caraga-three-every-ten-households-owned-agricultural-land |title=Caraga: Three in Every Ten Households Owned Agricultural Land &#124; Philippine Statistics Authority |publisher=Psa.gov.ph |date=2002-11-21 |access-date=2020-02-01}}</ref>
+
+===Cultural groups===
+
+The majority of the inhabitants of the region are of [[Visayans|Visayan]] heritage. They are mostly descended from settlers from Cebu, Bohol, [[Siquijor]] and [[Negros Oriental]]. The province is home to several minority groups, totaling 675,722 in 1995, representing 34.7% of the region's population. Most numerous were the [[Manobos]] with 294,284 or 43.55% of the ethnic minorities. Other cultural groups in the region with significant populations were the [[Kamayo people|Kamayos]], Higaonons, Banwaons, Umayamnons, [[Kalagan people|Kalagans]], and [[Lumad peoples#Mamanwa|Mamanwas]]. Other significant minority residents in the province include:
+*[[Ilocano people|Ilocanos]]
+*[[Hiligaynon people|Hiligaynons]]
+*[[Kapampangan people|Kapampangans]]
+*[[Bicolano people|Bicolanos]]
+*[[Pangasinan people|Pangasinans]]
+*[[Tagalog people|Tagalogs]]
+*[[Waray people|Warays]]
+*[[Maranao people|Maranaos]]
+*[[Maguindanao people|Maguindanaons]]
+*[[Tausūg people|Tausugs]]
+
+Most members of these cultural groups reside in the province of [[Agusan del Sur]].
+
+==Economy==
+{{stack|float=left|{{PH poverty incidence}}}}
+From 2001 to 2003, Caraga Region consistently maintained its performance vis-à-vis other regions in Mindanao. Caraga posted a 0.9% growth rate compared to the 9.5% growth rate of Region 12 and the 2.6% growth rate of the Autonomous Region for Muslim Mindanao (ARMM). Caraga's growth rate in 2001–2002 and the 2002–2003 period was the same (0.9%). This was much less than the growth of the population. This performance was better however than the region's performance in the 2000–2001 period, where the region's economy declined by 1.4%.
+
+The region's contribution to Mindanao's domestic product is 7.58% in 2003. Caraga has the second lowest per capital income among Mindanao regions and nationwide. In 2003, the region accounted for 1.35% of the country's GNP.
+
+===Poverty rate===
+Poverty in the region decreased by 1.7% from 44.7% in 1997 to 42.9% in 2000. Another positive development is the increase in the regional annual family income based on the 1997 and 2000 Family Income and Expenditure Survey, which increased by 13.65% from ₱71,7126.00 in 1997 to ₱81,519.00 in 2000. Regional annual family expenditures also posted a 16.65% increase, from ₱61,815.00 in 1997 to ₱72,108.00 in 2000. The average annual savings slipped by 5% from ₱9,911.00 to ₱9,411.00. Poverty incidence data for 2003 is not yet available.<ref name="CRDP 2004-2010">Caraga Regional Development Plan 2004-2010{{full citation needed|date=August 2015}}</ref>
+
+On a national and Mindanao-wide perspective, Caraga Region is one of the most impoverished regions in the country. The region has the fourth highest poverty incidence level of families among all the regions in the country for years 1997 and 2000 while among Mindanao regions, Caraga has the third highest poverty incidence (in terms of incidence of families).<ref name="CRDP 2004-2010"/>
+
+===Gross regional domestic product (GRDP)===
+[[File:Downtown Butuan City (Original Work).jpg|thumb|right|Downtown Butuan]]
+
+The region performed fairly well in terms of regional output contributing 8.01% in 1998, 8.25% in 1999 and 8.29% in 2000 to the Mindanao GRDP. The region contributed 1.44% in 1998, 1.48% in 1999 and 1.50% in 2000, to the Philippine economy. In terms of growth rate, the region accelerated faster and outpaced the other regions in Mindanao from 1998 to 2000, except for the Southern Mindanao Region which posted a 6.06% increase in 1999–2000. Caraga Region recorded a 5.42% increase during the same period.
+
+GRDP in 2000 amounted to P14.336 billion as against the 1999 performance of P13.599 billion. The deceleration of the region's economy from 6.03% in 1999 to 5.42% in 2000 was attributed to the slowdown of the agriculture, fishery and forestry (AFF) and services sectors. The improved performance of the Industry sector, from 5.69% in 1999 to 6.69% in 2000, cushioned the effects of what could have been a slowdown of the region's economy.
+
+From the 1.4% decrease in the GRDP in 2000–2001, the GRDP bounced back in 2001–2002 by a 0.9% growth. The positive trend was maintained in 2002–2003, with the region's GRDP growing by 0.9%, the same growth rate from the previous year.
+
+The agriculture, fishery and forestry (AFF) sector is Caraga's banner economic sector, exhibiting an increasing growth trend of 3.8% and 6.8% growth rates in 2001 and 2003 respectively. Despite the decreasing growth trend of the agriculture and fishery subsectors, the sizeable growth rate of the forestry subsector more than compensated for the decrease. The forestry subsector grew by 36.3% in 2003, the highest growth rate for any subsector in the region. Caraga Region has the highest GVA in the forestry subsector among all regions in the Philippines.
+
+The services sector is also one of the bright spots in the region's economy. After experiencing a decelerated growth rate in 2002 compared to the previous year's 6.1% growth rate, the sector bounced back in 2003 with a 5.6% growth rate. Moreover, the trade subsector continued to be the dominant subsector posting a 5.6%, 6.6% and 6.3% growth rate in 2001 to 2003 respectively. It is significant to note that all the subsectors posted positive growth rates in 2001 and 2003. The transportation, communication and storage sub-sector posted the highest growth rate of 8.4% among the sub-sectors in the services sector.
+
+The industry sector was the worst performing sector of the regional economy with a continuous decline from 2001 to 2003. Although the sector's slide slightly decelerated in 2002 (-6.7% in 2002 from -13.3% decline in 2001), it contracted by -12.1% in 2003. The construction subsector had the largest decline of 16.6%, 11.3% and 33.5% in 2001, 2002 and 2003 respectively. The mining subsector also posted negative growth rates but the decreasing trend in this subsector decelerated. The manufacturing offset the decrease in the two sub-sectors by growing at 8.9% in 2003, making it the biggest contributor to this sector. Even with the negative performance of the mining and quarrying sector, Caraga was the second highest producer of metallic minerals, with metallic mineral productions valued at PhP 1.25 billion in 2001 (Philippine Yearbook, 2003).
+
+===Exports and investments===
+[[File:SM CITY BUTUAN (MAY 6, 2020).jpg|thumb|[[SM City Butuan]], the first [[SM Supermalls|SM Mall]] in the region]]
+Investments in the region fell by 25.4% from PhP 6.3 billion in 2002 to PhP 4.6 billion in 2003. All provinces in the region posted a negative growth rate in investments, with Agusan del Sur posting the biggest year-on-year decline of 62.6% for the 2002–2003 period. Agusan del Norte's percentage share on investments increased from 64.8% to 79.5% despite an 8.5% decline. Per advice of the Department of Trade and Industry (DTI)-Caraga office, the data on investments are partial at best and is not reflective of the whole investment level in the region. DTI Caraga's data does not include public investment figures.
+
+Exports decreased by 19.08% in the 2000–2001 period and 57.52% in 2001–2002. Agusan Norte, Surigao Norte and Surigao Sur posted negative growth rates in the 2000–2001 period, with Surigao Sur posting the biggest decrease in exports (81.31%). In 2002, Agusan Norte posted an impressive 741.04% increase in exports, a harbinger of increased economic activity in the province. Surigao Norte posted the biggest decrease in exports for 2002 (63.17%).
+
+In 2000, the region contributed 1.87% to Mindanao's exports; this expanded to 2.68% in 2001 only to decrease to 0.77% in 2002.<ref name="CRDP 2004-2010"/>
+
+===Natural resources===
+The region is noted for its wood-based economy, its extensive water resources and its rich mineral deposits such as iron, gold, silver, nickel, chromite, manganese and copper. Its leading crops are palay (rice), banana and coconut.
+
+The region features several beaches, abundant seafood, hot and cold springs, evergreen forests and balmy weather. Caraga's most famous attraction today is Siargao Island, a surfing destination in Dinagat Islands.
+
+===Major products===
+Major agricultural products of the region include palay, corn, coconut, gold, banana, rubber, oil palm, calamansi, prawns, [[milkfish]], crabs, seaweeds and mango. Caraga's proximity to Cebu and Manila makes it a favorable shipping point for products to and from these markets. Nasipit Port can serve as a secondary shipping hub to Cagayan de Oro when traffic volume from other points in Mindanao increases. With a roll-on, roll-off (RORO) ferry service now in place, Surigao City serves as a vital transportation link for trucks and buses bound for Luzon.
+
+{| class="wikitable"
+|-
+! scope="col" | Agusan del Norte
+! scope="col" | Agusan del Sur
+! scope="col" | Surigao del Norte
+! scope="col" | Surigao del Sur
+! scope="col" | Dinagat Islands
+|-
+| gold mining, rice, coconut, and bananas
+|  Palm oil, coconut, and rice
+| Ironwood, nickeliferous laterite ore, gold, chromite, lode ore, and laterite ore; limestone, silica deposits, guano, rock phosphate, sand, and gravel; chromate; Marlin, tuna, lapu-lapu, mollusks, crabs, even squid, stingrays, and octopuses
+| palay, corn, coconut, abaca, soybeans, coffee, and other high value crops; prawns, milkfish, and crabs; are Narra, red and white Lauan, Mayapis, Almon, Apitong, Yakal, Bagtikan, Tanguile, Rattan and Bonbon
+| seafood, coconut and other lumber products, mines
+|}
+
+==Environment and Wildlife==
+[[File:AGUSAN RIVER REHABILITATION PROJECT.jpg|thumb|[[Agusan River]] in [[Butuan]]]]
+The region contains one of the last ecological frontiers of the Philippines. It is home to 12 Key Biodiversity Areas identified by [[Haribon Foundation]] and the Philippine [[Department of Environment and Natural Resources]]. The Key Biodiversity Areas include: '''Mt. Kambinliw and Mt. Redondo''' in [[Dinagat Islands]] which is home to the critically endangered [[Dinagat bushy-tailed cloud rat]] which was recently rediscovered after decades of disappearance, the endangered [[Dinagat hairy-tailed rat]], [[Dinagat Gymnure]] which has been declared by the EDGE Species Programme of the [[Zoological Society of London]] as one of the top 100 most evolutionary distinct and globally endangered species in the world, and a strange sub-species of the [[Philippine Tarsier]] which is unusually larger and darker in color than the common Philippine tarsier; '''Siargao Island Protected Landscape and Seascape''' in [[Surigao del Norte]] which is the surfing capital of the country; '''Carrascal Bay''' in [[Surigao del Sur]]; '''Consuelo and General Islands''' in [[Surigao del Sur]]; '''Mt. Hilong-hilong''' which is shared by [[Agusan del Norte]], [[Agusan del Sur]], Surigao del Norte, and Surigao del Sur and is regarded as one of the most expansive home of the critically endangered [[Philippine Eagle]]; '''Magsaysay''' in Agusan del Norte; '''Mt. Kaluayan-Mt. Kinabalian''' which is shared between [[Agusan del Sur]] and Northern Mindanao's [[Bukidnon]] province; '''Cagwait''' in Surigao del Sur; '''Mt. Diwata Range''' which is shared between Agusan del Sur and Surigao del Sur and is a focal point in the West Mindanao Ecological Frontier; '''Hinatuan Bay''' in Surigao del Sur which is famous for its Hinatuan Enchanted River; '''Bislig Rainforest''' between Agusan del Sur and Surigao del Sur; and '''Agusan Marsh Wildlife Sanctuary''' in Agusan del Sur which is part of the [[World Heritage Site#Nomination process|UNESCO Tentative List]]
+
+==Tourism==
+{{travel guide|1=section|date=February 2017}}
+
+===Surfing===
+[[Siargao]], popularly known as the "surfing capital of the Philippines", hosts an annual international surfing event. The huge "pacific rollers" have been ranked among the top five breaks in the world, including the "Cloud Nine" considered one of the world's top surfing waves. Other breaks, which offer exploratory surfing without crowds, are found in the towns of [[Cantilan]], [[Tandag]] and [[Lanuza, Surigao del Sur|Lanuza]].
+
+===Islands===
+The islets and islands of Guyam, Daku, Naked or Pansukian, La Janosa, Pig-ot, Dinagat, Bucas Grande, Britania and the General Island in [[Cantilan]] feature white-sand beaches which are ringed by coral reefs suitable for swimming and snorkeling.
+
+Other attractions include naturally-carved water channels amidst [[mangrove forest]]s in Barangay Manjagao; the floating village of Barangay Dayasan, the Buenavista Cave; and the tropical white sand beaches in Sagisi island. The Britania in San Agustin-Surigao del Sur features 25 islets and islands of white sand and clusters of limestone hills.
+
+===Mountain-biking===
+Biking trails within Kawas, Alabel City, Surigao del Sur, Agusan del Norte and Siargao play host to cross-country and downhill competitions participated by local and international bikers.
+
+===Trekking===
+[[File:Mt Mayapay.jpg|thumb|Mount Mayapay in [[Agusan del Norte]]]]
+Mt. Mas-ai and Mt. Hilong-Hilong features panoramic views of the vast lower Agusan Valley. Close to Mt. Mas-ai lies [[Lake Mainit]], the fourth-largest lake in the country, with an area of {{convert|147|km2}}. Through the years, the lake has been a known lair for pidjanga, tilapia, kasili, banak, haw-an, gingaw, saguyon and igi.{{citation needed|date=March 2016}} Migratory birds, pagosi and tabokali flowers are its intermittent added attractions.
+
+The {{convert|8000|ha|km2|adj=on}} mangrove forests in [[Del Carmen, Surigao del Norte|Del Carmen]] form one of the largest contiguous mangrove forests in the Philippines.<ref name="PhilStar-DelCarmenMangrove">{{cite news|last1=Ty|first1=Charley|title=Bringing back the sparkle to Siargao's shores|url=http://www.philstar.com/starweek-magazine/2016/03/20/1564900/bringing-back-sparkle-siargaos-shores|access-date=29 March 2016|work=The Philippine Star|date=20 March 2016|quote=The municipality of Del Carmen is home to about half of Surigao del Norte’s 8,000 hectares of mangrove forests.}}</ref> Sohoton Cave and Lagoon in Bucas Grande Island, which is more than an hour boat ride from Siargao, features limestone formations to a point where one enters a narrow channel which soon becomes a cave.
+
+===Caves===
+The limestone karst bedrock of some areas in Surigao and Agusan provinces (particularly in the towns of San Agustin, Tagbina, Lianga, Rosario, and Bislig) features several caves, but none of these are regular destinations for recreational cavers. Located within the towns of Tagbina and Bislig, Banbow and Tatol caves (which are ranked the 6th and 9th longest caves in the Philippines) have recently been declared by the Japanese cave explorers as the third longest cave in the country.{{citation needed|date=March 2016}} Some of the most frequently visited and accessible caves in the region are the Buenavista and Silop Caves in Surigao City and the Libas Cave in Jabonga-Agusan del Norte. These caves have limestone formations and naturally carved stalagmites, stalactites and columns.
+
+===Agusan Marsh===
+The {{convert|14,000|ha|km2|adj=on}} [[Agusan Marsh Wildlife Sanctuary|Agusan Marsh]] in Agusan del Sur is one of the biggest wetlands in the country and is host to diverse species of birds.<ref name="MB-AgusanMarsh">{{cite news|title=A biodiversity hotspot called Agusan Marsh |url=http://www.mb.com.ph/a-biodiversity-hotspot-called-agusan-marsh/ |access-date=29 March 2016 |work=Manila Bulletin |date=28 October 2015 |quote=A protected area covering more than 14,000 hectares in the heart of the 250-kilometer Agusan River, it is perhaps the country’s most significant wetland and listed in the prestigious Ramsar List Wetlands of International Importance. |url-status=dead |archive-url=https://web.archive.org/web/20160415185103/http://www.mb.com.ph/a-biodiversity-hotspot-called-agusan-marsh/ |archive-date=15 April 2016 }}</ref>
+
+===Events and festivals===
+[[File:Manobo Girl.jpg|thumb|A [[Manobo]] girl performing a dance during the Kahimunan Festival in Butuan in 2019.]]
+Festivals include the Naliyagan Festival of Agusan del Sur,<ref name="MB-NaliyaganFest">{{cite news|last1=Crismundo |first1=Mike |title=Week-long 'Naliyagan' Festival gears up in Agusan del Sur |url=http://www.mb.com.ph/week-long-naliyagan-festival-gears-up-in-agusan-del-sur/ |access-date=29 March 2016 |work=[[Manila Bulletin]] |date=11 June 2015 }}{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Kahimunan, Balangay, Kaliguan Festival of Cagwait in Surigao del Sur, Lisagan and the most famous in the region, the Bonok-Bonok Maradjaw Karadjaw festivals, in honor of its Patron Saint [[Nicholas of Tolentino|San Nicolas de Tolentino]].<ref name="PhilStar-BonokBonokFest">{{cite web|title=Surigao Norte celebrates Bonok-Bonok Festival|url=http://www.philstar.com/nation/356971/surigao-norte-celebrates-bonok-bonok-festival|website=[[The Philippine Star]]|access-date=29 March 2016|date=8 September 2006}}</ref> Surfers from around the world converge in Siargao during the annual international surfing competition.
+
+==Facilities==
+The entire region is connected by roads from and to the major commercial, trading and processing centers of Cagayan de Oro and Davao. Butuan is being developed as the regional center with modern facilities and big commercial centers. There are secondary seaports and airports in the region. It has an increasing number of telecommunication facilities and the presence of the Verano Seaport in Surigao City as the major baseport in the region.
+
+==Social development==
+
+===Education and skills development===
+{{multiple image|caption_align=center|header_align=center
+ | width = 200
+ | image1 = FSUU MORELOS OPEN FIELD NIGHT.jpg
+ | alt1 = 
+ | image2 = FSUU STUDENT CENTER.jpg
+ | alt2 = 
+ | footer = [[Father Saturnino Urios University]] Open Field (Left) and Student Center (Right), at night.
+}}
+
+The region's literacy rate of 93% in 1990 was marginally higher than the National Average of 92.57%. Supporting the education of the region in 1997 were the 1,478 public and 49 private elementary schools, 110 public and 71 private secondary schools, 26 secondary school annexes, and 7 vocational schools.
+
+The region has a total of 49 higher education institutions comprising 45 private Higher Education Institutions (HEIs) and 4 State Universities and Colleges (SUCs). Among the Higher Education Institutions, San Nicolas College (now St. Paul University-Surigao and first university established in the entire region) is identified as the center for development in teacher education and the regional center for [[Gender and Development]], it being the seat of Caraga Women's resources center.
+
+The Caraga State University (CSU) formerly known as Northern Mindanao State Institute of Science and Technology (NORMISIST), is among the 112 state-funded universities and colleges in the Philippines. It is identified by the Commission on Higher Education (CHED) as the Center of Development (COD) in Information Technology, COD in Biology, and COD in Mathematics. It is the seat of the Caraga Center for Research in Environmental Management and Eco-governance (CREME), formerly known as the Caraga Center for Environmental Studies and Management (CCESM), which acts as the focal point of capability building and coordination for environmental efforts in the region. The university, through the Caraga Center for Geo-informatics (CCGeo), is also the lead implementing agency of the Geo-SAFER Mindanao (Geo-informatics for the Systematic Assessment of Flood Effects and Risks for a Resilient Mindanao), a research program that utilizes LiDAR data for mapping flood risk areas towards building a resilient Mindanao. CSU is producing Board Topnotchers in Forestry, Geodetic Engineering, Mining Engineering, and Agricultural Engineering, and has strengthened its research and innovation system through the years which resulted to its recent status as a Level IV State University, recognized by CHED as excellent in Teaching and Research.
+
+[[Father Saturnino Urios University]], was founded by Caraga's most loved Spanish missionary, Fr. Saturnino Urios S.J. in 1990. The Commission on Higher Education (CHED) recognized [[Father Saturnino Urios University]] as one of the best schools in the region producing top notchers in national board examinations in Nursing, Engineering, and Accountancy. Its performance in the Licensure Examinations for Teachers (LET) and the Philippine Bar (BAR) is also relatively high. On July 12, 2006, Urios College formally announced its elevation into a university and is now renamed Fr. Saturnino Urios University (FSUU), the first home-grown university in Caraga.
+
+For the school year 1996–1997, the participation rate for public elementary schools was 93.65%. Public secondary schools registered a lower rate, 56%. The teacher-to-pupil ratios for both levels were within the standard of one teacher per 40 pupils. Cohort survival rates were considered low for both the elementary and secondary levels at 66.23% and 68.93%, respectively. For the school year 1996–97, dropout rate at the secondary level was high, especially in Butuan (9.5%) and Surigao Del Sur (7.8%). This can be one of the causes why the majority of the population finished only up to the elementary school level.
+
+===Health and nutrition===
+[[File:D.O. Plaza Memorial Hospital, Patin-ay, Prosperidad (Original Work).jpg|thumb|Democrito O. Plaza Memorial Hospital in [[Prosperidad]]. Opened in 2017.]]
+All the vital health indicators from 1992 to 1997 showed a decreasing trend except for maternal mortality rate. The crude birth rate decreased from the 1992–1996 five-year average of 21.02 to 18.71 in 1997. The crude death rate also decreased from 3.60 in the 1992–1996 average to 3.0 in 1997. The infant mortality rate increased from an average of 1.33 in 1992–1996 to 1.56 in 1997.
+
+All of the leading causes of morbidity from 1992 to 1997 were communicable diseases, and showed a reduction in rates for every 1,000,000 population, except for pneumonia (836.30 to 1,200.23), diarrhea (1,059.40 to 1,133.11), influenza (655.36 to 926.74), and malaria (216.80 to 366.5). With regards to the leading causes of mortality, lifestyle-related diseases like cardiovascular diseases and cancer top the list, replacing the communicable diseases.
+
+The region is faced with problems of endemic diseases like [[schistosomiasis]] and [[malaria]]. Although there was a slight reduction in its prevalence for the past three years, still Caraga ranked as number two in schistosomiasis cases and number six in malaria cases nationwide.
+
+Malnutrition rates were posted at 49.25%, of which 34.05% were classified as mildly underweight, 11.66% as moderately underweight, 1.43% as severely underweight and 3.60% as overweight.
+
+Life expectancy for the region, based on the 1995 census, was 65.73 years old for males and 70.98 years old for females.
+
+As of 1997, there were 62 hospitals in the region, of which 35 were government and 27 were private. Out of the 27 private hospitals, 20 were primary, 4 secondary and 3 tertiary. Out of the 35 government hospitals, 18 were primary, 14 were secondary and 3 were tertiary. There were 73 main health centers, 489 barangay health stations manned by 76 doctors, 147 nurses, 35 medical technologists, 45 dental aides, 52 dentists, 608 midwives and 137 sanitary inspectors. All of these were devolved to the local government units in accordance with the 1991 local Government code.
+
+===Social welfare services===
+In 1996, Caraga had 1,619 welfare facilities of which 1,238 were Day care Centers; 8 were Senior Citizens' Center; 3 were Productivity Skills capability Building for Disadvantaged Women (PSCBDW); and with 1 each were the child Learning and Resource Center, Women Center, Home for the Girls, Regional Rehabilitation Center for Youth, Lingap Center, Balay Silongan, Foster Home for Exploited Children And Women, and Halfway Home for Improved Mental Patients.
+
+On the community-based services, only the PSCBDW is being managed by DSWD while the rest are managed by the LGUs.
+
+===Housing===
+The region had unique housing profile in 1990. While other areas complained of housing shortage, a significant number of houses, particularly in Agusan del Norte and Surigao del Norte were vacant. However, available statistics do not give the magnitude of substandard of units to be replaced and current housing backlog. Currently, the cities of Butuan and Surigao and other municipalities are not spared from housing problems, i.e. squatters bought by urbanization.
+
+==Infrastructure==
+[[File:AGUSAN BRIDGE (AERIAL VIEW).jpg|thumb|right|Agusan Bridge in Butuan City (Under construction)]]
+
+===Roads and bridges===
+
+Caraga Region has the first and only cable-stayed bridge in the entire Mindanao island, the Macapagal Bridge in Butuan connecting the Butuan Bypass Road over Agusan River.
+
+The region is connected to the major centers of its neighboring regions by the [[Pan-Philippine Highway|Maharlika Highways]] that runs from the cities of Davao, Cagayan de Oro and Surigao. The provinces are interlinked with concrete roads, except for a very few parts in Surigao del Sur which is still partially concreted in select areas and is on its nearing completion. Total road length of the region runs to 7,515.596&nbsp;km. Road density was at 0.3988 as of 1995. There were 1,325.558&nbsp;km classified as national roads in the region and 1,289.774&nbsp;km of city and provincial roads. The total municipal road length for the region was 696.46&nbsp;km.
+
+The region had bridges with the combined length of 23,775.49 meters linear. Surigao del Norte and Surigao del Sur had the longest bridge length 9,288.520 m linear and 7,853.4 m linear, respectively.
+
+A project called 'East-West Lateral Road' forms part of the total regional connectivity between the Region XIII and [[Northern Mindanao]]. It foresees to promote development in different fields such as eco-tourism, agriculture, industry, and domestic trade. It will also provide an accessible route for the remote area settlers, thus uplifting their economic growth.<ref>{{cite web|url=http://www.build.gov.ph/Home/Project_Details/76?Agency=DPWH|title=East-West Lateral Road|access-date=July 31, 2019}}</ref>
+
+===Seaports and airports===
+As the overland gateway to Visayas and Luzon, the region is accessible by sea through the baseport of Verano Port and Lipata Ferry Terminal in Surigao City that connects the neighboring province of [[Southern Leyte]]. Other terminal ports are in Dapa in Siargao, Surigao del Norte, San Jose in Dinagat Islands, Tandag and Bislig in Surigao del Sur and Nasipit Port in Agusan del Norte. Fast craft ferry services used to ply the Surigao City-[[Cebu]] City route every day. Private ports can also be found in the different municipalities and cities of the region, however, only three of these 42 ports are operational.
+
+The region is serviced by commercial flights to and from Manila and Cebu through the airports of [[Butuan]], [[Surigao Airport|Surigao]] and [[Siargao]] in Surigao del Norte and [[Tandag Airport]] in Surigao del Sur. The [[Bislig Airport]] used to service commercial flights before its operations were suspended. Proposed airports in Agusan del Sur and Dinagat are being studied if viable for commercial operations. There are six other private owned airports in the region among them is the PHILNICO airport located in Nonoc Island in Surigao City. The ports and airports are supported by the road networks that connect the provinces within and outside the region.
+
+==Notable people==
+* [[Soledad Duterte]] &ndash; a Filipino teacher and activist, known as the mother of President [[Rodrigo Duterte]]
+* [[Edelmiro Amante]] &ndash; former Executive Secretary, Congressman, Assemblyman and Presidential Consultant for Mindanao Flagship Projects
+* [[Erlpe John Amante]] &ndash; former Governor and former Representative. In 2014, he was awarded as Outstanding Filipino Achiever in Public Service by the Golden Globe Annual Awards for Business Excellence
+* [[Maria Angelica Rosedell Amante]] &ndash; current Representative and former governor
+* [[Sylvia Sanchez]] &ndash; actress
+* [[Allan Amoguis]] &ndash; Italian Catholic bishop, prelate of the Christian Patriarchate of East Asia (born 1973)
+* [[Susan Fuentes]] &ndash; The Queen of Visayan Songs (1954–2013). She popularized the songs like ''Matud Nila, Usahay, Miss Kita Kung Christmas'' and ''Rosas Pandan.''
+* [[Laurice Guillen]] &ndash; Award-winning film director and actress, also the wife of the actor [[Johnny Delgado]] (deceased).
+* [[Edelmiro A. Amante, Sr.]] &ndash; Former Executive Secretary of Pres. [[Fidel V. Ramos]]. Former Representative of Second District and Governor of [[Agusan del Norte]].
+* [[Ardy Larong]] &ndash; [[Small forward]]/[[shooting guard]] of [[Alaska Aces (PBA)|Alaska Aces]] in the [[Philippine Basketball Association]] (PBA).
+* [[Marky Cielo]] &ndash; Actor of [[GMA Network]]. He died so young at the age of 20 on December 7, 2008, in [[Antipolo]], [[Rizal (province)|Rizal]]. The cause of his death is still unknown.
+* [[Stephany Stefanowitz]] &ndash; She represented Butuan in the [[Miss Philippines Earth 2010]]. In 2012, she joined Miss Philippines Earth and won the title as [[Miss Philippines Earth 2012]] but she represented [[Quezon City]]. She grabbed the title as 1st runner-up in the [[Miss Earth 2012]] pageant held in the country. Her mother is from Barangay Ampayon, Butuan and her father is from [[Hamburg]], [[Germany]].
+* [[Hernando Iriberri|General Hernando DCA Iriberri]] &ndash; The former [[Chief of Staff of the Armed Forces of the Philippines]] from 2015 to 2016. He is not from Butuan but an alumnus of [[Fr. Saturnino Urios University]] High School department.
+* [[Jason Dy|Jason James Dy]] &ndash; The grand champion of [[the Voice of the Philippines]] Season 2.
+* [[Roy Señeres]] &ndash; Presidential candidate of 2016 National and Local elections. He was the representative of the OFW Club Partylist from 2013 to 2016. He was also the ambassador to the United Arab Emirates during [[Fidel Ramos]] administration.
+* [[Lance Busa]] &ndash; The grand winner of the first edition of [[Michael Bolton]]'s singing competition "Bolt of Talent".
+* [[Elaine Duran|Elaine Colima Duran]] &ndash; The grand winner of the [[Tawag ng Tanghalan (season 3)|third season of Tawag ng Tanghalan]].
+* [[Debold Sinas|Police General Debold Menorias Sinas]] &ndash; The 23rd [[Chief of the Philippine National Police]] and Undersecretary of the [[Office of the President of the Philippines]].
+* [[Bayang Barrios]] &ndash; Filipino musician and singer
+* [[Grace Nono]] &ndash; Filipino Singer, [[ethnomusicologist]] and scholar of [[Philippine]] [[shamanism]]
+* [[Dennis Laurente]] &ndash; Filipino Professional Boxer raised in [[Sibagat, Agusan del Sur]]
+* [[Rodolfo Plaza]] &ndash; Former Representative, from [[Prosperidad, Agusan del Sur]]
+* [[Erlinda Lavandia]] &ndash; considered as one of the greatest javelin throwers in the history of the Southeast Asian Games. In 1977, Kuala Lumpur SEA Games, she won the gold medal on a record throw of 45.22 meters. In 1979 in Jakarta, she improved the SEA Games record at 45.78 meters and broke the record two years later at 46.20 meters in Manila Sea Games.
+* [[Martin Andanar]] &ndash; former Secretary for Presidential Communications Operations Office under President Rodrigo Duterte
+* [[Robert Barbers]] &ndash; former Secretary for the Department of Interior and Local Government, served as Philippine Senator in 1998 and was the first police officer to be elected senator
+* [[Jose Sering]] &ndash; former head of the Philippine Olympic Committee [[Philippine Olympic Committee|POC]] under President Ferdinand E. Marcos and multi-elected Governor of Surigao del Norte.
+* [[Rhee Timbang]] &ndash; former [[Obispo Maximo]] (Supreme Bishop) of the [[Iglesia Filipina Independiente]] from 2017 to 2023.
+* [[Anji Salvacion]] &ndash; ''[[Pinoy Big Brother: Kumunity Season 10]]'' winner from Siargao.
+* [[Andi Eigenmann]] &ndash; actress and vlogger from Siargao.
+* [[Marcelito Pomoy]] &ndash; singer and [[Pilipinas Got Talent (season 2)|''Pilipinas Got Talent'' (season 2)]] Grand Winner and ''[[America's Got Talent: The Champions]]'' finalist
+* [[Gabriel Amigo III]] &ndash; international [[Enduro (mountain biking)|Enduro mountain bike racing]] champion
+* [[Dennis Orcollo]] &ndash; professional pool player; [[Billiard Congress of America Hall of Fame]] inductee
+* Elmar Sillador &ndash; 1992 [[Philippine National Police Medal of Valor]] recipient<ref>{{cite news|last=Evangelista|first=Romie|title=PNP marks 1st anniversary|url=https://news.google.com/newspapers?nid=8cBNEdFwSQkC&dat=19920130&printsec=frontpage&hl=en|access-date=April 25, 2021|work=[[Manila Standard]]|publisher=Kamahalan Publishing Corp.|date=January 30, 1992|page=6}}</ref>
+* [[Prospero Arreza Pichay, Jr.]] (Butch Pichay) &ndash; son of Provincial Treasurer Prospero Pichay Sr. He became the Congressman of Surigao del Sur 1st district from 1998 until 2007.
+* Lt. Gen. [[William Hotchkiss III]] &ndash; member of the famed Blue Diamonds, a combat ready pilot.
+* [[Hernando Iriberri|Gen. Hernando Delfin Carmelo Arreza Iriberri]] &ndash; PMA Class "Matikas", 1983 -  became the Commanding General of the Philippine Army (56th) and the 46th Chief of Staff of the [[Armed Forces of the Philippines]].<ref>{{cite news |newspaper=Philippine Daily Inquirer|url= http://newsinfo.inquirer.net/349599/bautista-gets-his-fourth-star#ixzz2WjX6LOO0|title= BGen.Hernando Iriberri |publisher= Appointed commander of the Army’s 503rd Brigade in Abra province.|accessdate= January 31, 2013}}</ref>
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{Commons category-inline}}
+* {{Wikivoyage inline}}
+* {{OSM relation}}
+
+{{Geographic location
+| title = Regions adjacent to Caraga
+| Centre = Caraga
+| North = [[Eastern Visayas]]<br/>''[[Surigao Strait]]''
+| West = Northern Mindanao
+| East = ''[[Philippine Sea]]''
+| South = [[Davao Region]]
+| Northwest = [[Central Visayas]]<br/>''[[Bohol Sea]]''
+}}
+{{Caraga}}
+{{Regions of the Philippines}}
+
+[[Category:Caraga| ]]
+[[Category:Regions of the Philippines]]
+[[Category:Mindanao]]

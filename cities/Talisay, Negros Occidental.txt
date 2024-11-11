@@ -1,0 +1,405 @@
+{{Short description|Component city in Negros Occidental, Philippines}}
+{{For|other places in the Philippines also named "Talisay"|Talisay (disambiguation)}}
+{{Use mdy dates|date=July 2022}}
+{{Infobox settlement
+| name                   = {{PH wikidata|name}}
+| image_skyline          = The Ruins in Talisay, Negros Occidental at Dusk.jpg 
+| image_caption          = View of ''[[The Ruins (mansion)|The Ruins]]'' of the Mariano Ledesma Lacson Mansion, Talisay City at dusk
+| image_flag             = Flag_of_Talisay,_Negros_Occidental.png
+| flag_size              = 120x80px
+| image_seal             =   
+| seal_size              = 100x80px
+| image_map              = {{PH wikidata|image_map}}
+| map_caption            = {{PH wikidata|map_caption}}
+| image_map1             = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map            = Philippines
+| pushpin_label_position = left
+| pushpin_map_caption    = Location within the {{PH wikidata|country}}
+| coordinates            = {{PH wikidata|coordinates}}
+| settlement_type        = {{PH wikidata|settlement_type}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = [[Philippines]]
+| subdivision_type1      = [[Regions of the Philippines|Region]]
+| subdivision_name1      = {{PH wikidata|region}}
+| subdivision_type2      = [[Provinces of the Philippines|Province]]
+| subdivision_name2      = {{PH wikidata|province}}
+| official_name          = {{PH wikidata|official_name}}
+| native_name            =
+| etymology          = <!--origin of name-->
+| named_for          = [[Terminalia catappa]] (locally called ''Talisay'')
+| other_name             = 
+| nickname               =
+| motto                  =
+| anthem                 =
+| subdivision_type3      = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3      = {{PH legislative district}}
+| established_title1     = [[Date of establishment|Founded]]
+| established_date1      = 1788
+| established_title2     = Chartered
+| established_date2      = September 29, 1850
+| established_title3     = Cityhood
+| established_date3      = February 11, 1998
+| parts_type             = [[Barangay]]s
+| parts_style            = para
+| p1                     = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title           = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name            = Nilo Jesus Antonio Neil E. Lizares III
+| leader_title1          = [[Vice Mayor]]
+| leader_name1           = Jose Nicolas V. Jalandoni III
+| leader_title2          = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2           = Jose Francisco B. Benitez
+| leader_title3          = [[Sangguniang Panlungsod|City Council]]
+| leader_name3            = {{PH Town Council
+ | 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Angel Gabriel C. Villacin
+ | 3=Charles Amelo Ramon C. Lizares
+ | 4=Kenn Thomas P. Tirthdas
+ | 5=Stephen V. Siote
+ | 6=William L. Malan
+ | 7=Rolin Albert S. Meliton
+ | 8=Ivan Randy T. Ereñeta
+ | 9=Gorgonio T. Treyes III
+ | 10=Rosalinda S. Tuvilla II
+ | 11=Remus G. Gulmatico
+}}
+| leader_title4          = [[Elections in the Philippines#Qualification|Electorate]] 
+| leader_name4           = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type        = {{PH wikidata|government_type}}
+| government_footnotes   = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m            = {{PH wikidata|elevation_m}}
+| elevation_max_m        = 2413
+| elevation_min_m        = 0
+| elevation_max_rank     =
+| elevation_min_rank     =
+| elevation_footnotes    = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes= 
+| elevation_min_footnotes= 
+| area_footnotes         = {{PH area}}
+| area_total_km2         = {{PH wikidata|area}}
+| population_footnotes   = {{PH census|current}}
+| population_total       = {{PH wikidata|population_total}}
+| population_as_of       = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title= [[Household]]s
+| population_blank1      = {{PH wikidata|household}} 
+| population_blank2_title= 
+| population_blank2      = 
+| population_demonym     =
+| population_rank        =
+| population_note        =
+| timezone               = [[Philippine Standard Time|PST]]
+| utc_offset             = +8
+| postal_code_type       = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code            = {{PH wikidata|postal_code}}
+| postal2_code_type      = {{PSGCstyle}}
+| postal2_code           = {{PSGC detail}}
+| area_code_type         = {{areacodestyle}}
+| area_code              = {{PH wikidata|area_code}}
+| website                = {{PH wikidata|website}}
+| demographics_type1     = [[Economy of the Philippines|Economy]]
+| demographics1_title1   = {{PH wikidata|income_class_title}}
+| demographics1_info1    = {{PH wikidata|income_class}}
+| demographics1_title2   = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2    = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3   = [[Revenue]]
+| demographics1_info3    = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}} 
+| demographics1_title4   = Revenue rank
+| demographics1_info4    = 
+| demographics1_title5   = [[Asset]]s
+| demographics1_info5    = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}} 
+| demographics1_title6   = Assets rank
+| demographics1_info6    = 
+| demographics1_title7   = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7    =  
+| demographics1_title8   = IRA rank
+| demographics1_info8    = 
+| demographics1_title9   = [[Expenditure]]
+| demographics1_info9    = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}} 
+| demographics1_title10  = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10   = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2     = Service provider 
+| demographics2_title1   = Electricity
+| demographics2_info1    = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2   = Water
+| demographics2_info2    =  
+| demographics2_title3   = Telecommunications
+| demographics2_info3    = 
+| demographics2_title4   = Cable TV
+| demographics2_info4    =
+| demographics2_title5   = 
+| demographics2_info5    =
+| demographics2_title6   = 
+| demographics2_info6    =
+| demographics2_title7   = 
+| demographics2_info7    =
+| demographics2_title8   = 
+| demographics2_info8    =
+| demographics2_title9   = 
+| demographics2_info9    =
+| demographics2_title10  = 
+| demographics2_info10   =
+| blank_name_sec1        = {{PH wikidata|climate_title}}
+| blank_info_sec1        = {{PH wikidata|climate_type}}
+| blank1_name_sec1       = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1       = {{PH wikidata|language}}
+| blank2_name_sec1       = [[Crime index]]
+| blank2_info_sec1       = 
+| blank3_name_sec1       = 
+| blank3_info_sec1       = 
+| blank4_name_sec1       = 
+| blank4_info_sec1       = 
+| blank5_name_sec1       = 
+| blank5_info_sec1       = 
+| blank6_name_sec1       = 
+| blank6_info_sec1       = 
+| blank7_name_sec1       = 
+| blank7_info_sec1       = 
+| blank1_name_sec2       = Major religions
+| blank1_info_sec2       = 
+| blank2_name_sec2       = Feast date
+| blank2_info_sec2       = 
+| blank3_name_sec2       = Catholic diocese
+| blank3_info_sec2       =
+| blank4_name_sec2       = Patron saint 
+| blank4_info_sec2       = 
+| blank5_name_sec2       = 
+| blank5_info_sec2       = 
+| blank6_name_sec2       = 
+| blank6_info_sec2       = 
+| blank7_name_sec2       = 
+| blank7_info_sec2       =
+| short_description      =
+| footnotes              =
+}}
+
+'''Talisay''', officially the '''City of Talisay''' ({{langx|hil|Dakbanwa sang Talisay}}; {{langx|fil|Lungsod ng Talisay}}), is a fourth class [[Cities of the Philippines#Legal classification|component city]] in the [[Provinces of the Philippines|province]] of [[Negros Occidental]], [[Philippines]]. According to the 2020 census, it has a population of 108,909 people.{{PH census|current}}
+
+It is part of the [[metropolitan area]] called [[Metro Bacolod]], which includes its neighbors, [[Silay]] to the north and [[Bacolod]] to the south.<ref>{{cite web| title= Building Globally Competitive Metro Areas in the Philippines| url= http://www.neda.gov.ph/devpulse/pdf_files/Devpulse%20factsheet%20-%20Aug%2030%20issue.pdf| access-date= June 16, 2010| archive-url= https://web.archive.org/web/20100705110205/http://www.neda.gov.ph/devpulse/pdf_files/Devpulse%20factsheet%20-%20Aug%2030%20issue.pdf| archive-date= July 5, 2010| url-status= dead}}</ref> It has a total land area of {{convert|20118|ha}}.
+
+Talisay is often confused with another Visayas city also named [[Talisay, Cebu|Talisay]], which is a component city in the neighboring province of [[Cebu]].
+
+==History==
+===Precolonial Period===
+
+Indigenous people settled in the cogon-lined lowlands of northwest Negros long before Spanish conquest. The settlement was called Minuluan, but was also known as Talisay by the province and neighboring communities in [[Panay]]. Its residents were either lowlanders or part of the Aetas who usually resided up in the highlands of northern Negros. <ref>{{cite web |title=Provincia de San Nicolás de Tolentino de Agustinos descalzos de la Congregacion de España e Indias |url=https://www.mercaba.es/america/agustinos_de_filipinas_de_inquisicion_de_indias.pdf |publisher=Manila : Imprenta del Colegio de Santo Tomás, a cargo de D. G. Memije |language=en |date=1879}}</ref>
+
+===Spanish Colonial Period===
+The Augustinian Recollects arrived in Negros Island in 1848 and converted the settlement into a parish in 1849, separating it from [[Silay]].<ref>{{cite web |title=San Nicolas de Tolentino Parish Talisay City, Negros Occidental |url=https://recoletos.ph/2017/07/21/san-nicolas-de-tolentino-parish-talisay-city-negros-occidental/ |website=Agustinos Recoletos |access-date=17 September 2024}}</ref> Fray Fernando Cuenca, a Recollect and the town's parish priest from 1850 to his death in 1902, spearheaded the development of Minuluan's land into agricultural farms. The town became a [[monocrop]] farm for sugarcane, which eventually become the dominant cash crop in the whole of Negros Island. <ref name="Parish History">{{cite web |last1=Romanillos |first1=Emmanuel Luis |title=A History of the parish of Talisay City (Neg. Occ.) from 1850 to the 1990s |url=https://dialnet.unirioja.es/descarga/articulo/6391040.pdf |website=University of Rioja |access-date=17 September 2024}}</ref>
+[[File:San Nicolas de Tolentino Parish Talisay (DS Lizares, Talisay, Negros Occidental; 10-30-2022).jpg|thumb]]
+
+Negros Island's cheap land attracted settlers from Iloilo, Cebu and Bohol.<ref>{{cite web |last1=Larkin |first1=John |title=Sugar and the Origins of Modern Philippine Society |url=https://publishing.cdlib.org/ucpressebooks/view?docId=ft4580066d&chunk.id=d0e3641&toc.depth=1&toc.id=d0e1083&brand=ucpress |website=publishing.cdlib.org |date=January 1992}}</ref> Four major haciendas came to being: Minuluan, [[Bago, Negros Occidental|Bago]], [[Bacolod]] and [[Silay]]. In 1850, these four haciendas produced 150 tons of sugar. Coupled with the opening of [[Port of Iloilo|Iloilo Port]] to world trade, demand for sugar from Negros soared, and the island's sugar output continued to rise through the 1860s until the end of the century.<ref name="Colonial sugar production">{{cite journal |last1=Aguilar |first1=Filomeno Jr. |title=Colonial sugar production in the Spanish Philippines: Calamba and Negros compared |journal=Journal of Southeast Asian Studies |date=3 May 2017 |volume=48 |issue=2 |pages=237–261 |doi=10.1017/S0022463417000066 |url=https://www.cambridge.org/core/journals/journal-of-southeast-asian-studies/article/colonial-sugar-production-in-the-spanish-philippines-calamba-and-negros-compared/9247E908CBE71C724902321EDB1BC6AB |access-date=17 September 2024}}</ref>
+
+[[File:Balay ni Tana Dicang (Rizal Street, Talisay, Negros Occidental; 10-30-2022).jpg|thumb|Tana Dicang House]]
+
+With the sugar boom, the local hacienderos amassed great wealth and began to build extravagant homes for their families.<ref name="Of houses that sugar built">{{cite web |last1=Cruz |first1=Elfren |title=Of houses that sugar built |url=https://qa.philstar.com/opinion/2024/05/02/2351876/houses-sugar-built |website=Philstar.com |access-date=17 September 2024}}</ref> [[Tana Dicang House|Balay ni Tana Dicang]] of the Lizares clan is one of the first, and still-extant [[bahay na bato]] from this period, characterized by ground floors made from stone and second floor made from wood. It was built in 1872.<ref>{{cite web |title=The enduring legacy of Talisay's Balay ni Tana Dicang |url=https://philstarlife.com/geeky/698178-enduring-legacy-talisay-balay-tana-dicang?page=4 |website=Philstar Life |access-date=17 September 2024}}</ref> In the early 1890s, the largest property owner in Minuluan was Isidro de la Rama with around 1,260 hectares of landholdings.<ref name="Colonial sugar production" />
+
+===Philippine Revolution===
+
+During the Revolution, Minuluan became a battleground for Philippine independence. In November 3, 1898 the local ''hacienderos'' (landlords) of Negros banded together to revolt against the Spaniards.<ref>{{cite web |title=Cinco de Noviembre and the Negros Republic |url=https://independenceday.ph/historical-events/cinco-de-noviembre-and-the-negros-republic/ |website=Independence Day |access-date=19 September 2024}}</ref> After two days of preparation, wealthy landowners and local leaders [[Aniceto Lacson]] led the troops north of Bacolod including Minuluan, while [[Juan Araneta]] of Bago led the troops south of Bacolod. They successfully ended Spanish control in the island, remarkably without much bloodshed. This also led to the establishment of the [[Republic of Negros]]. Today, the day of the revolt is called Cinco de Noviembre, and is a local holiday commemorated in Negros Island.<ref name="Cinco de Noviembre">{{cite web |title=Cinco de Noviembre |url=https://www.festivalscape.com/philippines/negros-occidental/cinco-de-noviembre |website=Festival Escape |access-date=17 September 2024 |date=30 October 2023}}</ref>
+
+===American Colonial Period===
+Around 1901, Minuluan was formally renamed Talisay, as it started to appear in US records of the war.<ref>{{cite web |title=Annual Reports of the War Department: 1901 |url=https://books.google.com/books?id=tJfvvOlwplgC |publisher=United States War Department |access-date=18 September 2024 |language=en |date=1901}}</ref> 
+
+The local elementary school was established in 1912. It is now known as the Talisay South Elementary School.
+
+Another local land baron, Don Mariano Ledesma, built a ten-room Italianate manor for his family in 1920. This became a local landmark renown for its luxurious exterior. During World War II, the American and Filipino forces torched the place, only leaving its concrete skeleton. While it was never restored to its original grandeur, it has been turned into a tourist attraction called [[The Ruins (mansion)|The Ruins]] and has since become one of the most visited spots in Negros Occidental.<ref>{{cite web |last1=Morton |first1=Ella |title=The Magnificent Ruined Mansion of Talisay |url=https://slate.com/human-interest/2014/12/the-ruins-at-talisay-in-the-philippines.html |website=Slate |access-date=17 September 2024 |date=16 December 2014}}</ref>
+
+===Postwar===
+
+In 1954, the Negros Occidental School of Arts and Trades was established in the town. Later on, this school will become the main campus of the [[Carlos Hilado Memorial State University]].<ref>{{cite web |title=Republic Act No. 848 |url=https://lawphil.net/statutes/repacts/ra1953/ra_848_1953.html |website=LawPhil |access-date=17 September 2024}}</ref>
+
+Two years later, in 1956, A.S. Diaz Electric Service was founded to provide power, lighting and heating in Talisay and nearby Bacolod. It was eventually folded into [[CENECO]] in 1975.<ref>{{cite web |title=Republic Act No 1453, June 14, 1956 |url=https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/14372 |website=Judiciary.gov.ph |access-date=18 September 2024}}</ref>
+
+A cholera pandemic hit Negros Island in 1961, starting explosively in Bacolod and Talisay.<ref>{{cite journal |last1=Joseph |first1=P. R. |last2=Tamayo |first2=J. F. |last3=Mosley |first3=W. H. |last4=Alvero |first4=M. G. |last5=Dizon |first5=J. J. |last6=Henderson |first6=D. A. |title=Studies of cholera El Tor in the Philippines. 2. A retrospective investigation of an explosive outbreak in Bacolod City and Talisay, November 1961 |journal=Bulletin of the World Health Organization |pages=637–643 |date=1965|volume=33 |issue=5 |pmid=5295144 |pmc=2475864 }}</ref>
+
+===Martial Law Period===
+The Visayas Technical Institute was established in Talisay in 1977. This is the precursor to the [[Technological University of the Philippines Visayas|TUP Visayas]].<ref>{{cite web |title=About - Technological University of the Philippines Visayas |url=http://www.tupvisayas.edu.ph/about |website=www.tupvisayas.edu.ph |access-date=20 September 2024}}</ref>
+
+Meanwhile, during the mid1970s, world prices of sugar collapsed as Western European and United States' demand for sugar fell. This, combined with a [[Monopolies in the Philippines (1965–1986)#Sugar_industry|monopoly sponsored by the Marcos administration]] created a massive surplus of sugar, driving down prices further and devastating the economy of Negros island. In 1985, the sugar prices hit rock-bottom.<ref>{{cite web |last1=Tribune |first1=Chicago |title=SUGAR-CHOKED ISLAND STARVING |url=https://www.chicagotribune.com/1985/11/24/sugar-choked-island-starving/ |website=Chicago Tribune |access-date=18 September 2024 |date=24 November 1985}}</ref><ref>{{cite journal |last1=Nagano |first1=Yoshiko |title=The Collapse of the Sugar Industry in Negros Occidental and Its Social and Economic Consequences |journal=Kasarinlan: Philippine Journal of Third World Studies |date=3 December 2007 |volume=3 |issue=3 |pages=59–64 |url=https://www.journals.upd.edu.ph/index.php/kasarinlan/article/view/620 |access-date=18 September 2024 |language=en |issn=2012-080X}}</ref> Talisay was affected greatly and caused the closure of its sugar mills, including the Talisay-Silay Milling Co. (TASIMICO), in the late 1980s, displacing thousands of workers.<ref>{{cite web |title=Sugar gone sour. Economic crisis in the Philippines |url=https://www.csmonitor.com/1985/1227/zphil.html |website=Christian Science Monitor |access-date=18 September 2024}}</ref>
+
+===Contemporary===
+
+On February 11, 1998, by virtue of ''Republic Act No. 8489'', Talisay was finally elevated into a city through the efforts of its local officials led by Mayor Amelo Lizares.<ref>{{cite web|title=Talisay City|url=http://www.negros-occ.gov.ph/about-negros-occidental/cities-and-municipalities/cities/talisay-city.html|website=Negros Occidental Provincial Government|access-date=July 10, 2014}}</ref> 
+
+Located between Bacolod in the south and Silay with [[Bacolod Airport]] in the north, Talisay is experiencing spillover development. Real estate company  [[Megaworld]] has now set up in the city, with Northill Gateway township, currently under construction.<ref>{{cite web |last1=Bajenting |first1=Johanna Marie O. |title='Talisay is the future of the Metro' |url=https://www.sunstar.com.ph/more-articles/talisay-is-the-future-of-the-metro |website=SunStar Publishing Inc. |access-date=20 September 2024 |language=en |date=23 October 2016}}</ref>
+
+Talisay is also positioning itself as a retail hub within Negros Occidental<ref>{{cite web |title=Talisay positioned as Negros Occidental retail capital |url=https://www.talisaycity.gov.ph/talisaycity-news/talisay-positioned-negros-occidental-retail-capital |website=Talisay City, Negros Occidental |access-date=20 September 2024 |date=4 July 2017}}</ref> as well as a retirement haven for expats.<ref>{{cite web |title=Building a new history of grassroots governance |url=https://isacenter.org/wp-content/uploads/2018/12/2015-Case-Study-City-Government-of-Talisay.pdf |publisher=Institute for Solidarity in Asia |access-date=20 September 2024}}</ref>
+
+==Geography==
+Talisay City is {{convert|7|km}} north of [[Bacolod]], facing the Bacolod–Silay Access Road in the east.
+
+===Barangays===
+Talisay City is politically subdivided into 27 [[barangay]]s. Each barangay consists of [[purok]]s and some have [[sitios]].
+{{Div col|colwidth=15em}} 
+* Bubog
+* Cabatangan
+* Zone 4-A ([[Poblacion]])
+* Zone 4 ([[Poblacion]])
+* Concepcion
+* Dos Hermanas
+* Efigenio Lizares
+* Zone 7 ([[Poblacion]])
+* Zone 14-B ([[Poblacion]])
+* Zone 12-A ([[Poblacion]])
+* Zone 10 ([[Poblacion]])
+* Zone 5 ([[Poblacion]])
+* Zone 16 ([[Poblacion]])
+* Matab-ang
+* Zone 9 ([[Poblacion]])
+* Zone 6 ([[Poblacion]])
+* Zone 14 ([[Poblacion]])
+* San Fernando
+* Zone 15 ([[Poblacion]])
+* Zone 14-A ([[Poblacion]])
+* Zone 11 ([[Poblacion]])o
+* Zone 8 ([[Poblacion]])
+* Zone 12 ([[Poblacion]])
+* Zone 1 ([[Poblacion]])
+* Zone 2 ([[Poblacion]])
+* Zone 3 ([[Poblacion]])
+* Katilingban
+{{div col end}}
+
+===Climate===
+{{Weather box
+| location     = Talisay
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 28
+| Jan low C  = 23
+| Feb high C = 29
+| Feb low C  = 23
+| Mar high C = 30
+| Mar low C  = 23
+| Apr high C = 32
+| Apr low C  = 24
+| May high C = 31
+| May low C  = 25
+| Jun high C = 30
+| Jun low C  = 25
+| Jul high C = 29
+| Jul low C  = 25
+| Aug high C = 30
+| Aug low C  = 25
+| Sep high C = 29
+| Sep low C  = 25
+| Oct high C = 29
+| Oct low C  = 24
+| Nov high C = 29
+| Nov low C  = 24
+| Dec high C = 28
+| Dec low C  = 24
+| Jan precipitation mm = 120
+| Feb precipitation mm = 87
+| Mar precipitation mm = 95
+| Apr precipitation mm = 97
+| May precipitation mm = 187
+| Jun precipitation mm = 263
+| Jul precipitation mm = 251
+| Aug precipitation mm = 220
+| Sep precipitation mm = 227
+| Oct precipitation mm = 268
+| Nov precipitation mm = 220
+| Dec precipitation mm = 158
+| Jan rain days        = 16.1
+| Feb rain days        = 12.6
+| Mar rain days        = 15.4
+| Apr rain days        = 16.8
+| May rain days        = 25.8
+| Jun rain days        = 28.4
+| Jul rain days        = 29.1
+| Aug rain days        = 27.9
+| Sep rain days        = 27.7
+| Oct rain days        = 28.5
+| Nov rain days        = 23.9
+| Dec rain days        = 18.4
+| source 1 = Meteoblue<ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/talisay_philippines_1683877
+| title =  Talisay: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| access-date = May 7, 2020 }}</ref>
+| date = May 7, 2020 }}
+
+==Demographics==
+{{Philippine Census
+| align= none
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+== Economy ==
+{{PH poverty incidence}}
+
+===Business process outsourcing===
+In 2016, [[business process outsourcing]] (BPO) company [[iQor]] opened its call/contact center in Talisay, making it the first BPO company in the city.<ref>{{cite web |url=https://signedevents.com/philippines/bacolod-city/masskara-2016-get-hired-and-celebrate-with-iqor/ |url-status=dead |archive-url=https://web.archive.org/web/20161020173940/https://signedevents.com/philippines/bacolod-city/masskara-2016-get-hired-and-celebrate-with-iqor/ |archive-date=October 20, 2016 |title=MassKara 2016: Get Hired And Celebrate With iQor {{!}} SignedEvents.com}}</ref>
+
+{{clear left}}
+
+==Education==
+Talisay is also known for its two major tertiary institutions: The [[Technological University of the Philippines – Visayas]] and [[Carlos Hilado Memorial State University|Carlos Hilado Memorial State University, Main Campus]]. Talisay also has two private schools that offer K-12 Education which are the: Colegio San Nicolas de Tolentino-Recoletos and Notre Dame of Talisay City.
+
+==Places of interest==
+<gallery widths="200" heights="150">
+File:The Ruins Talisay.jpg|''[[The Ruins (mansion)|The Lacson Ruins]]'', Iconic Philippine mansion and a popular tourist spot
+File:Andres Bonifacio statue Talisay City Philippines.jpg|Statue of [[Andres Bonifacio]]
+File:TheDistrictNorthPoint.jpg|''The District - North Point'' at [[Ayala North Point]], is the major shopping place in the city
+File:Campuestohan.jpg|[[Campuestohan Highland Resort]] in Sitio Campuestohan, Barangay Cabatangan
+File:Aniceto Lacson House.jpg|Aniceto Lacson House
+</gallery>
+
+==See also==
+*[[Metro Bacolod]]
+*[[Bacolod]]
+*[[Negros Revolution]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wikivoyage}}
+{{commons category}}
+* {{official website|http://www.talisaycity.gov.ph/}}
+*[http://www.negros-occ.gov.ph/about-negros-occidental/cities-and-municipalities/cities/talisay-city Talisay City Profile at the Official Website of Negros Occidental]
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+*[https://web.archive.org/web/20100215030939/http://www.census.gov.ph/data/sectordata/2007/region%206.pdf 2007 Philippine Census Information Region VI - Western Visayas]
+*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=9&frmIdProvince=55&frmIdLgu=982 Local Governance Performance Management System]
+
+{{Geographic location
+| Centre    = Talisay
+| North     = [[Silay]]
+| East      = [[Calatrava, Negros Occidental|Calatrava]]
+| Southeast = [[Salvador Benedicto, Negros Occidental|Salvador Benedicto]]
+| South     = [[Bacolod]] / [[Murcia, Negros Occidental|Murcia]]
+| West      = ''Guimaras Strait''
+}}
+{{Navboxes
+| title = Articles Related to Talisay, Negros Occidental
+| list  =
+{{Negros Occidental}}
+{{Philippine cities}}
+}}
+
+{{Authority control}}
+
+[[Category:Cities in Negros Occidental]]
+[[Category:Metro Bacolod]]
+[[Category:Component cities in the Philippines]]

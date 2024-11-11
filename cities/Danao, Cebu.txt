@@ -1,0 +1,496 @@
+{{Short description|Component city in Cebu, Philippines}}
+{{distinguish|Davao City}}
+{{pp-protected|small=yes}}
+{{Infobox settlement
+| name                   = {{PH wikidata|name}}
+| image_skyline          = {{PH wikidata|image_skyline}}
+| image_caption          = {{PH wikidata|image_caption}}
+| image_seal             = Danao Cebu.png
+| seal_size              = 100x80px
+| image_map              = {{PH wikidata|image_map}}
+| map_caption            = {{PH wikidata|map_caption}}
+| image_map1             = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map            = Philippines
+| pushpin_label_position = left
+| pushpin_map_caption    = Location within the {{PH wikidata|country}}
+| coordinates            = {{PH wikidata|coordinates}}
+| settlement_type        = {{PH wikidata|settlement_type}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = [[Philippines]]
+| subdivision_type1      = [[Regions of the Philippines|Region]]
+| subdivision_name1      = {{PH wikidata|region}}
+| subdivision_type2      = [[Provinces of the Philippines|Province]]
+| subdivision_name2      = {{PH wikidata|province}}
+| official_name          = {{PH wikidata|official_name}}
+| etymology              =  <!--origin of name-->
+| named_for              =  <!--named after (if person or place)-->
+| native_name            =
+| other_name             =
+| nickname               =
+| motto                  =
+| anthem                 =Danao among pinangga (Our beloved Danao)
+| subdivision_type3      = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3      = {{PH legislative district}}
+| established_title      = Chartered
+| established_date       = 1773
+| established_title1     = Cityhood
+| established_date1      = June 7, 1961
+| parts_type             = [[Barangay]]s
+| parts_style            = para
+| p1                     = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title           = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name            = Thomas Mark H. Durano
+| leader_title1          = [[Vice Mayor]]
+| leader_name1           = [[Ramon Durano III|Ramon D. Durano III]]
+| leader_title2          = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2           = Vincent Franco D. Frasco
+| leader_title3          = [[Sangguniang Panlungsod|City Council]]
+| leader_name3           = {{PH Town Council
+| 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ |  2=Ramon M. Durano V
+ |  3=Carmen Remedios H. Durano
+ |  4=Jaime A. Duterte Jr.
+ |  5=Jose Calvin B. Tuadles
+ |  6=Kristine Camaongay-Gorre
+ |  7=Miguel Antonio A. Magpale
+ |  8=Don Roel G. Arias
+ |  9=Leonilo C. Canson
+ | 10=Adano T. Roble
+ | 11=Edmund T. Lao
+ |991=
+}}
+| leader_title4          = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4           = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type        = {{PH wikidata|government_type}}
+| government_footnotes   = 
+| elevation_m            = {{PH wikidata|elevation_m}}
+| elevation_max_m        = 867
+| elevation_min_m        = 0
+| elevation_max_rank     =
+| elevation_min_rank     =
+| elevation_footnotes    = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes= 
+| elevation_min_footnotes= 
+| area_rank              =
+| area_footnotes         = {{PH area}}
+| area_total_km2         = {{PH wikidata|area}}
+| population_footnotes   = {{PH census|current}}
+| population_total       = {{PH wikidata|population_total}}
+| population_as_of       = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title= [[Household]]s
+| population_blank1      = {{PH wikidata|household}} 
+| population_blank2_title= 
+| population_blank2      = 
+| population_demonym     =
+| population_rank        =
+| population_note        =
+| timezone               = [[Philippine Standard Time|PST]]
+| utc_offset             = +8
+| postal_code_type       = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code            = {{PH wikidata|postal_code}}
+| postal2_code_type      = {{PSGCstyle}}
+| postal2_code           = {{PSGC detail}}
+| area_code_type         = {{areacodestyle}}
+| area_code              = {{PH wikidata|area_code}}
+| website                = {{PH wikidata|website}}
+| demographics_type1     = [[Economy of the Philippines|Economy]]
+| demographics1_title1   = {{PH wikidata|income_class_title}}
+| demographics1_info1    = {{PH wikidata|income_class}}
+| demographics1_title2   = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2    = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3   = [[Revenue]]
+| demographics1_info3    = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}} 
+| demographics1_title4   = Revenue rank
+| demographics1_info4    = 
+| demographics1_title5   = [[Asset]]s
+| demographics1_info5    = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}} 
+| demographics1_title6   = Assets rank
+| demographics1_info6    = 
+| demographics1_title7   = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7    =  
+| demographics1_title8   = IRA rank
+| demographics1_info8    = 
+| demographics1_title9   = [[Expenditure]]
+| demographics1_info9    = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}} 
+| demographics1_title10  = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10   = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2     = Service provider
+| demographics2_title1   = [[List of electric distribution utilities in the Philippines|Electricity]]
+| demographics2_info1    = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2   = Water
+| demographics2_info2    =  
+| demographics2_title3   = Telecommunications
+| demographics2_info3    = 
+| demographics2_title4   = Cable TV
+| demographics2_info4    =
+| demographics2_title5   = 
+| demographics2_info5    =
+| demographics2_title6   = 
+| demographics2_info6    =
+| demographics2_title7   = 
+| demographics2_info7    =
+| demographics2_title8   = 
+| demographics2_info8    =
+| demographics2_title9   = 
+| demographics2_info9    =
+| demographics2_title10  = 
+| demographics2_info10   =
+| blank_name_sec1        = {{PH wikidata|climate_title}}
+| blank_info_sec1        = {{PH wikidata|climate_type}}
+| blank1_name_sec1       = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1       = {{PH wikidata|language}}
+| blank2_name_sec1       = 
+| blank2_info_sec1       = 
+| blank3_name_sec1       = 
+| blank3_info_sec1       = 
+| blank4_name_sec1       = 
+| blank4_info_sec1       = 
+| blank5_name_sec1       = 
+| blank5_info_sec1       = 
+| blank6_name_sec1       = 
+| blank6_info_sec1       = 
+| blank7_name_sec1       = 
+| blank7_info_sec1       = 
+| blank1_name_sec2       = Major religions
+| blank1_info_sec2       = 
+| blank2_name_sec2       = Feast date
+| blank2_info_sec2       = 
+| blank3_name_sec2       = Catholic diocese
+| blank3_info_sec2       = {{PH wikidata|diocese}}
+| blank4_name_sec2       = Patron saint 
+| blank4_info_sec2       = {{PH wikidata|patron_saint}}
+| blank5_name_sec2       = 
+| blank5_info_sec2       = 
+| blank6_name_sec2       = 
+| blank6_info_sec2       = 
+| blank7_name_sec2       = 
+| blank7_info_sec2       =
+| short_description      =
+| footnotes              =
+}}
+'''Danao''', officially the '''City of Danao''' ({{lang-ceb|Dakbayan sa Danao}}; {{lang-fil|Lungsod ng Danao}}), is a 3rd class [[Cities of the Philippines#Legal classification|component city]] in the [[Provinces of the Philippines|province]] of [[Cebu]], [[Philippines]]. According to the 2020 census, it has a population of 156,321 people.{{PH census|current}}
+
+'''Danao''' is within the [[Metro Cebu]] area.
+
+==Etymology==
+According to the most popular legend, the town derived its name from the word ''danawan'', which means ''pond'' in [[Philippine English|English]] when Captain del Rosario established the town as a ''municipio''.
+
+==History==
+The origin of the name ''Danao'' lacks concrete historical records, though two legendary accounts exist regarding its establishment as a municipio. The most popular legend dates back to 1844, involving a Spanish captain named Manuel Anecito del Rosario. Commissioned by early Spanish authorities in [[Cebu]] province, del Rosario's mission was to establish municipios from [[Compostela, Cebu|Compostela]] to [[Borbon, Cebu|Borbon]].
+
+While traveling north on horseback, Captain del Rosario encountered natives in Cotcot, tending to their [[carabao]]s in a pond. Unfamiliar with the area, he asked the locals (in [[Spanish language|Spanish]]) the name of the place. Misunderstanding his question, the natives thought he referred to the pond and replied ''danawan'', meaning pond. Due to the captain's limited understanding of the local dialect and defective hearing, he interpreted the response as "Danao." Consequently, the place was named Danao, and Captain del Rosario established it as a ''municipio''.
+
+Captain del Rosario stayed in Danao for several years, overseeing the construction of essential infrastructure, including the ''presidencia'' (town hall), the Roman Catholic Church completed in 1847, the ''convento'', and town streets such as ''Calle'' Lapulapu, ''Calle'' Rizal, and ''Calle'' [[Marcelo H. del Pilar|Marcelo del Pilar]]. Some of the [[History of the Philippines (1565–1898)|Spanish-era]] culverts in these streets still exist today.
+
+Following the establishment of Danao, del Rosario continued to the north, helping to organize the towns of [[Carmen, Cebu|Carmen]], [[Catmon]], and [[Borbon, Cebu|Borbon]]. In 1860, he returned to Danao, adopting the surname ''[[González (surname)|Gonzales]]'' and settling permanently in the town he favored most.
+
+Efforts to document Danao’s pre-war and post-liberation history were unsuccessful, as many records were presumed lost or destroyed during World War II.<ref>{{Cite web |title=City of Danao History |url=https://danaocity.gov.ph/about-us/history/ |access-date=June 6, 2024 |website=Danao City}}</ref>
+
+===Establishment===
+{{main|Cities of the Philippines}}
+Danao was officially established as a city on June 7, 1961, by virtue of Republic Act No. 3028. Each year, a Charter Day Celebration takes place from June 1-7, featuring various activities such as traditional games and customs enjoyed by Danawanons across generations.
+
+===Contemporary===
+In 2005, the definition of [[Metro Cebu]] was expanded, including Danao City as the northern boundary and [[Carcar|Carcar City]] as the southern boundary.
+
+==Geography==
+Danao is in the [[Metro Cebu]] area and is {{convert|33|km}} from [[Cebu City]].{{sfn|Sun–Star|2005}} It is bordered on the north by [[Carmen, Cebu|Carmen]], on the west by [[Asturias, Cebu|Asturias]], on the south by [[Compostela, Cebu|Compostela]] and to the east by the [[Camotes Sea]].
+
+===Barangays===
+Danao is politically subdivided into 42 [[barangay]]s. Each barangay consists of [[purok]]s and some have [[sitios]].
+
+{{PH brgy table lite|top|true}}
+{{PH brgy table lite|072223001| Baliang              | 1843| 1728| 5.27}}
+{{PH brgy table lite|072223002| Bayabas              |  714|  609| 2.20}}
+{{PH brgy table lite|072223004| Binaliw              | 2635| 2341| 1.21}}
+{{PH brgy table lite|072223006| Cabungahan           | 2317| 2201| 1.30}}
+{{PH brgy table lite|072223007| Cagat-Lamac          | 1253| 1023| 1.21}}
+{{PH brgy table lite|072223008| Cahumayan            | 4162| 3506|12.60}}
+{{PH brgy table lite|072223009| Cambanay             | 3526| 2818| 3.36}}
+{{PH brgy table lite|072223010| Cambubho             |  940|  594| 1.65}}
+{{PH brgy table lite|072223011| Cogon-Cruz           | 4188| 3034| 2.81}}
+{{PH brgy table lite|072223012| Danasan              | 1350| 1266| 5.16}}
+{{PH brgy table lite|072223013| Dungga               | 1273| 1017| 2.56}}
+{{PH brgy table lite|072223014| Dunggoan             | 6310| 5313| 2.41}}
+{{PH brgy table lite|072223015| Guinacot             | 4853| 4089| 3.00}}
+{{PH brgy table lite|072223016| Guinsay              | 9152| 7887| 3.76}}
+{{PH brgy table lite|072223017| Ibo                  | 1171|  964| 1.94}}
+{{PH brgy table lite|072223018| Langosig             | 1020|  750| 1.26}}
+{{PH brgy table lite|072223019| Lawaan               | 1679| 1352| 4.18}}
+{{PH brgy table lite|072223020| Licos                | 1852| 1581| 2.51}}
+{{PH brgy table lite|072223021| Looc                 | 9543| 9200| 3.05}}
+{{PH brgy table lite|072223022| Magtagobtob          |  453|  382| 3.24}}
+{{PH brgy table lite|072223023| Malapoc              | 1256|  974| 1.53}}
+{{PH brgy table lite|072223024| Manlayag             | 1638| 1578| 4.26}}
+{{PH brgy table lite|072223025| Mantija              | 1447| 1233| 3.37}}
+{{PH brgy table lite|072223026| Masaba               | 3090| 2743| 2.23}}
+{{PH brgy table lite|072223027| Maslog               | 9929| 9892| 3.23}}
+{{PH brgy table lite|072223028| Nangka               |  413|  446| 3.06}}
+{{PH brgy table lite|072223029| Oguis                |  634|  600| 0.92}}
+{{PH brgy table lite|072223030| Pili                 |  777|  677| 1.84}}
+{{PH brgy table lite|072223031| Poblacion            | 9090| 8710| 1.31}}
+{{PH brgy table lite|072223032| Quisol               | 1461| 1255| 1.73}}
+{{PH brgy table lite|072223033| Sabang               |12431| 9945| 3.43}}
+{{PH brgy table lite|072223034| Sacsac               |  618|  514| 1.84}}
+{{PH brgy table lite|072223035| Sandayong Norte      | 1490| 1454| 0.71}}
+{{PH brgy table lite|072223036| Sandayong Sur        | 3069| 2808| 4.04}}
+{{PH brgy table lite|072223037| Santa Rosa           | 1559| 1151| 2.18}}
+{{PH brgy table lite|072223038| Santican             | 1218| 1014| 2.90}}
+{{PH brgy table lite|072223039| Sibacan              |  635|  519| 3.26}}
+{{PH brgy table lite|072223040| Suba                 | 7523| 6785| 0.40}}
+{{PH brgy table lite|072223041| Taboc                | 5482| 4880| 1.26}}
+{{PH brgy table lite|072223042| Taytay               | 3914| 3618| 0.31}}
+{{PH brgy table lite|072223043| Togonon              | 1619| 1394|11.00}}
+{{PH brgy table lite|072223044| Tuburan Sur          | 6944| 5407| 2.29}}
+{{PH brgy table lite|bottom|119252|true}}
+
+===Climate===
+{{Weather box
+| location     = Danao, Cebu
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 28
+| Jan low C  = 23
+| Feb high C = 29
+| Feb low C  = 23
+| Mar high C = 30
+| Mar low C  = 23
+| Apr high C = 31
+| Apr low C  = 24
+| May high C = 31
+| May low C  = 25
+| Jun high C = 30
+| Jun low C  = 25
+| Jul high C = 30
+| Jul low C  = 25
+| Aug high C = 30
+| Aug low C  = 25
+| Sep high C = 30
+| Sep low C  = 25
+| Oct high C = 29
+| Oct low C  = 25
+| Nov high C = 29
+| Nov low C  = 24
+| Dec high C = 28
+| Dec low C  = 23
+| Jan precipitation mm = 70
+| Feb precipitation mm = 49
+| Mar precipitation mm = 62
+| Apr precipitation mm = 78
+| May precipitation mm = 138
+| Jun precipitation mm = 201
+| Jul precipitation mm = 192
+| Aug precipitation mm = 185
+| Sep precipitation mm = 192
+| Oct precipitation mm = 205
+| Nov precipitation mm = 156
+| Dec precipitation mm = 111
+| Jan rain days        = 13.4
+| Feb rain days        = 10.6
+| Mar rain days        = 13.1
+| Apr rain days        = 14.5
+| May rain days        = 24.2
+| Jun rain days        = 27.9
+| Jul rain days        = 28.4
+| Aug rain days        = 27.7
+| Sep rain days        = 27.1
+| Oct rain days        = 27.4
+| Nov rain days        = 22.5
+| Dec rain days        = 15.9
+| source 1 = Meteoblue <small>(modeled/calculated data, not measured locally)</small><ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/danao_philippines_1715804
+| title =  Danao: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| access-date = May 10, 2020 }}</ref>
+| date = May 10, 2020
+}}
+
+==Demographics==
+{{Philippine Census
+| align=none
+| title = Population census of {{PH wikidata|name}}
+| source=[[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}
+| 1903  = {{PH census population|1903}}
+| 1918  = {{PH census population|1918}}
+| 1939  = {{PH census population|1939}}
+| 1948  = {{PH census population|1948}}
+| 1970  = {{PH census population|1970}}
+| 1975  = {{PH census population|1975}}
+| 1980  = {{PH census population|1980}}
+| 1990  = {{PH census population|1990}}
+| 1995  = {{PH census population|1995}}
+| 2000  = {{PH census population|2000}}
+| 2007  = {{PH census population|2007}}
+| 2010  = {{PH census population|2010}}
+| 2015  = {{PH census population|2015}}
+| 2020  = {{PH census population|2020}}
+| 2025  = 
+| 2030  = 
+}}
+
+==Economy==
+{{PH poverty incidence}}
+
+=== Mining ===
+{{further|Coal mining in the Philippines}}
+
+=== Railways ===
+The [[Panay Railways#Cebu line|Cebu railway]] ran from Danao south to [[Argao, Cebu|Argao]]. During [[World War II]], the bridges, tracks and Central Station were bombed so extensively that the railway never recovered, and it closed in 1942. After that, whatever was left after the war was dug up to become the Cebu North Road.
+
+Now a new light railway is to be built in [[Cebu Light Rail Transit System|Cebu]].{{sfn|Philstar Global|2018}}{{sfn|Philippines News Agency|2019}}
+
+===Sugar===
+{{further|Sugar industry of the Philippines}}
+[[File:Trapiche in Intosan resort, Taboc, Danao.jpg|thumb|The industrial mill is now a decorated relic; the old sugar cane ''intosan'' is now a resort]]
+The old system of [[sugar mill|milling sugar]] cane used to produce sugar, called ''"intosan"''. Although the railway was originally to move coal, it was soon used too to move sugar cane to the docks.
+
+===Gun industry===
+Danao City was well known for its gun industry. The industry started around 1905–06.{{sfn|Rama|2007}} When World War II came, the Danao gunsmiths went underground, joined the guerrilla movement or were inducted into the [[United States Army Forces in the Far East]]. Their main task was to re-chamber the Japanese [[Arisaka]] rifles to fit the US .30 caliber round or to keep the original Japanese rifle in good service.
+
+The industry went on, still underground. In the 1960s, the term ''[[paltik]]'' was given to the homemade (and illegal) guns.{{citation needed|date=July 2009}} In the early 1990s the industry was legalized by the government, with the creation of two organizations of local gunsmiths. The organization now left with proper permit is Workers League of Danao Multi-purpose Cooperative (World MPC), in Dungguan, Danao City.{{sfn|Sun–Star|2004}}
+
+World MPC was incorporated in October 1994 with twenty-five initial members. In November 1996 it was given license to manufacture handguns from caliber .22 to .45 by the Philippine National Police (PNP). The organization had been a potent group in working for the legalization of gun-making industry in the country with the aim to upgrade the technology and skills of gun makers, to provide job security and additional revenue for the government. The gun-making industry in Danao was pioneered using brass or copper as materials. The Chairman of World MPC was in charge of the compliance of the requirements of the Firearms Explosives Security Service Agency and Guards Supervisory Section (FESSAGES) until his death in 2010 after which World MPC itself was then shutdown for non-compliance of FESSAGES policies.
+
+===Holiday industry===
+[[File:El Salvador 1, Sabang, Danao.jpg|thumb|El Salvador resort in Sabang]]
+
+Tourism in the area is still in its infancy. All along the eastern seaboard of Cebu there are family-owned resorts.
+
+In 2017, Danao hosted the Xterra Off-road Triathlon. This was held at the Coco Palms resort.<ref>{{cite web |title=Xterra Danao |date=April 23, 2017 |location=Cebu |url=http://www.triathlonphilippines.com/xterra-danao-cebu-april-23-2017/}}</ref><ref>{{cite web |url=https://k226.com/news/newsitem.aspx?id=9496 |title=Weiss, Wasle win XTERRA Danao |date=April 26, 2017}}</ref>
+
+===Mitsumi===
+
+Mitsumi is one of the largest employers in northern Cebu.{{efn-ua|1=MinebeaMitsumi, Inc. (ミネベア株式会社 Minebea Kabushiki-gaisha) or NMB (Nippon Miniature Bearing) is a Japanese multinational corporation and a major producer of machinery components and electronics devices.}}{{refn|1=[http://www.mitsumi.co.jp/profile/factory_world_e.html# Mitsumi Electric Co, Ltd. - Cebu Mitsumi, Inc]}}
+
+===Metro Cebu Expressway===
+Work for the ₱50&nbsp;billion, {{convert|74|km|adj=on|0}} [[Metro Cebu Expressway]], started in 2018. It will connect Naga City in the south to Danao City in the north.{{sfn|The Freeman|2017}}
+{{clear left}}
+
+==Gallery==
+<gallery mode="packed" heights="136">
+Danao, Cebu 2017-01-05 02.jpg |City hall
+Danao, Cebu 2017-05 09.jpg |Father of Danao City
+Danao, Cebu 2017-05 01.jpg |Roadside ornament
+Palengke - Danao City 01 by Hulagway.jpg|Danao City market
+Palengke - Danao City Public Market 02 by Hulagway.jpg|Danao City Public Market
+</gallery>
+<gallery mode="packed" heights="136">
+Ferry port, City Hall, Danao city, Cebu.jpg|Port for ferries to Camotes and Leyte
+Tomas de Villanueva church, Danao city, Cebu 1.jpg|Sto Tomas de Villanueva church
+Danao, Cebu 2017-05 06.jpg |Old cannon with a more recent setting
+</gallery>
+
+==Notes==
+
+{{notelist-ua}}
+
+==References==
+
+{{Reflist}}
+
+==Sources==
+
+{{refbegin|30em}}
+*{{cite news
+| url          = http://www.dausa.org/2007/04/24/boboy-and-danao%E2%80%99s-thunder-things/
+| title        = Boboy and Danao's thunder things
+| date         = April 24, 2007
+| first1       = Karlon N.
+| last1        = Rama
+| url-status   = unfit
+| archive-url   = https://web.archive.org/web/20081014062442/http://www.dausa.org/2007/04/24/boboy-and-danao%E2%80%99s-thunder-things/#more-24
+| archive-date  = October 14, 2008
+}}
+*{{cite news
+| title       = Cebu LRT seen operational by 2022
+| url         = https://www.pna.gov.ph/articles/1070701
+| last1       = Philippines News Agency
+| first1      = John Rey Saavedra
+| date        = May 26, 2019
+| archive-url  = https://web.archive.org/web/20190526131122/https://www.pna.gov.ph/articles/1070701
+| archive-date = May 26, 2019
+| url-status  = live
+}}
+*{{cite news
+| date        = December 10, 2018
+| last1       = Philstar Global
+| first1      = Richmond Mercurio
+| title       = DOTr eyes operation of Cebu LRT, BRT by 2020
+| url         = https://www.philstar.com/business/2018/12/10/1875617/dotr-eyes-operation-cebu-lrt-brt-2020
+| archive-url  = https://web.archive.org/web/20190920072708/https://www.philstar.com/business/2018/12/10/1875617/dotr-eyes-operation-cebu-lrt-brt-2020
+| archive-date = September 20, 2019
+| url-status  = live
+}}
+*{{cite news
+| date        = January 20, 2004
+| last1       = Sun–Star
+| title       = Danao's gunmakers seek government aid
+| first1      = Oscar C. Pineda
+| url         = http://www.sunstar.com.ph/static/ceb/2004/01/20/feat/danao.s.gunmakers.seek.government.aid.html
+| archive-url  = https://web.archive.org/web/20040207104025/http://www.sunstar.com.ph/static/ceb/2004/01/20/feat/danao.s.gunmakers.seek.government.aid.html
+| archive-date = February 7, 2004
+| url-status  = unfit
+}}
+*{{cite news
+| last1       = Sun–Star
+| date        = October 8, 2005
+| title       = RDC enlarges Metro Cebu
+| url         = http://www.sunstar.com.ph/static/ceb/2004/01/20/feat/danao.s.gunmakers.seek.government.aid.html
+| archive-url  = https://web.archive.org/web/20070930033755/http://www.sunstar.com.ph/static/ceb/2005/10/08/news/rdc.enlarges.metro.cebu.html
+| archive-date = September 30, 2007
+| url-status  = unfit
+}}
+*{{cite news
+| first1      = Erica Jean Palmera
+| title       = The old Cebu Railway
+| url         = http://www.philstar.com/cebu-lifestyle/2014/05/15/1323377/old-cebu-railway
+| last1       = The Freeman
+| date        = May 15, 2014
+| archive-url  = https://web.archive.org/web/20140519191421/http://www.philstar.com/cebu-lifestyle/2014/05/15/1323377/old-cebu-railway
+| archive-date = May 19, 2014
+| url-status  = unfit
+}}
+*{{cite news
+| title       = Construction of P50B road starts next year
+| first1      = Mitchelle L. Palaubsanon
+| last1       = The Freeman
+| date        = May 4, 2017
+| url         = http://beta.philstar.com/freeman/cebu-news/2017/05/04/1690848/construction-p50b-road-starts-next-year
+| archive-url  = https://web.archive.org/web/20170520015152/http://beta.philstar.com/freeman/cebu-news/2017/05/04/1690848/construction-p50b-road-starts-next-year
+| archive-date = May 20, 2017
+| url-status  = live
+}}
+{{refend}}
+
+==External links==
+{{Commons category}}
+*{{Wikivoyage inline}}
+
+{{Geographic location  <!-- This geo box is for DIRECTLY ADJACENT municipalities as standardized for all other municipalities -->
+| Centre    = Danao
+| North     = [[Carmen, Cebu|Carmen]]
+| East      = ''[[Camotes Sea]]''
+| South     = [[Compostela, Cebu|Compostela]]
+| West      = [[Asturias, Cebu|Asturias]]
+| Northwest = [[Tuburan, Cebu|Tuburan]]
+}}
+{{Navboxes
+| title = Articles Related to Danao City, Cebu
+| list  =
+{{Metro Cebu}}
+{{Cebu}}
+{{Central Visayas}}
+{{Philippine cities}}
+{{Largest cities and municipalities in Visayas}}
+}}
+
+{{Authority control}}
+{{Use mdy dates|date=July 2022|cs1-dates=ss}}
+
+[[Category:Cities in Cebu]]
+[[Category:Cities in Metro Cebu]]
+[[Category:Populated places established in 1773]]
+[[Category:Component cities in the Philippines]]

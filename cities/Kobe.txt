@@ -1,0 +1,870 @@
+{{Short description|City in the Kansai region, Japan}}
+{{About|the city in Japan|the basketball player|Kobe Bryant|other uses}}
+{{Use mdy dates|date=July 2023}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+|name                            = Kobe
+|native_name                     = {{nobold|神戸市}}
+|official_name                   = Kobe City
+|settlement_type                 = [[Cities designated by government ordinance of Japan|Designated city]]
+|image_skyline                   = {{multiple image
+|border                          = infobox
+|total_width                     = 280 
+|image_style                     = border:1;
+|perrow                          = 1/2/2/1/2
+|image1                          = Kobe Port Tower and Maritime Museum, November 2016.jpg
+|alt1                            = Port of Kobe
+|image2                          = The old settlement hall of no15 01 1920.jpg
+|alt2                            = Old Kobe Residency 15th Hall (The Former American Consulate in Kobe)
+|image3                          = Hyogo prefectural museum of art08s3200.jpg
+|alt3                            = Hyogo Prefectural Museum of Art
+|image4                          = Chang'an gate (Nankinmachi, Kobe).jpg
+|alt4                            = Nankin-machi
+|image5                          = Ikuta Shrine 201208.JPG
+|alt5                            = Ikuta Shrine
+|image6                          = Kobe kitano thomas house07 2816.jpg
+|alt6                            = The Former Thomas House
+}}
+|imagesize                       =
+|image_alt                       =
+|image_caption                   = From top left: [[Kobe Port Tower]] and [[Kobe Maritime Museum]] in [[Meriken Park]], [[:ja:旧居留地十五番館|Old Kobe Residency 15th Hall]] (The Former American Consulate in Kobe) of the [[Kobe foreign settlement]], [[Hyōgo Prefectural Museum of Art|Hyogo Prefectural Museum of Art]], the [[Chinatown]] in [[Nankin-machi]], [[Ikuta Shrine]], and a view from [[:ja:神戸市風見鶏の館|Kobe Weathervane House]] (The Former Thomas House) of [[Kitano-chō|Kitano-cho]]
+|image_flag                      = Flag of Kobe.svg
+|flag_alt                        = 
+|image_seal                      = Emblem of Kobe, Hyogo.svg
+|nickname                        = 
+|motto                           = <!-- maps and coordinates ------>
+|image_map                       = {{maplink|frame=yes|plain=yes|frame-align=center|type=shape-inverse|stroke-width=2|stroke-color=#333333|zoom=9}}
+|map_caption                     = Interactive map outlining Kobe
+|image_map1                      = Kobe in Hyogo Prefecture Ja.svg
+|map_alt1                        = 
+|mapsize1                        = 290
+|map_caption1                    = {{color box|#ad4ce6}} Location of Kobe in [[Hyōgo Prefecture]]
+|image_dot_map                   = 
+|dot_mapsize                     = 
+|dot_map_base_alt                = 
+|dot_map_alt                     = 
+|dot_map_caption                 = 
+|dot_x                           = 
+|dot_y                           = 
+|pushpin_map                     = Japan
+|pushpin_mapsize                 = 300
+|pushpin_label_position          = <!-- position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_alt                 = 
+|pushpin_map_caption             = 
+|pushpin_relief                  = 
+|coordinates                     = {{coord|34|41|24|N|135|11|44|E|type:city(1545410)_region:JP-28|display=it}}
+|coor_pinpoint                   = <!-- to specify exact location of coordinates (was coor_type) -->
+|coordinates_footnotes           = <!-- for references: use <ref> tags -->
+<!-- location ------------------>
+|subdivision_type                = Country
+|subdivision_name                = [[Japan]]
+|subdivision_type1               = [[Regions of Japan|Region]]
+|subdivision_name1               = [[Kansai region|Kansai]]
+|subdivision_type2               = [[Prefectures of Japan|Prefecture]]
+|subdivision_name2               = [[Hyōgo Prefecture]]
+|subdivision_type3               = 
+|subdivision_name3               = <!-- established --------------->
+|established_title               = First official record
+|established_date                = 201 AD
+|established_title2              = City Status
+|established_date2               = April 1, 1889
+|founder                         = 
+|named_for                       = <!-- seat, smaller parts ------->
+|seat_type                       = <!-- defaults to: Seat -->
+|seat                            = <!-- government type, leaders -->
+|government_footnotes            = <!-- for references: use <ref> tags -->
+|leader_party                    = 
+|leader_title                    = Mayor
+|leader_name                     = [[Kizō Hisamoto]]
+|leader_title1                   = 
+|leader_name1                    = <!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings  --------->
+|total_type                      = <!-- to set a non-standard label for total area and population rows -->
+|unit_pref                       = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area ---------------------->
+|area_magnitude                  = <!-- use only to set a special wikilink -->
+|area_footnotes                  = <!-- for references: use <ref> tags -->
+|area_total_km2                  = 557.02
+|area_land_km2                   = 
+|area_water_km2                  = 
+|area_water_percent              = 
+|area_note                       = <!-- elevation ----------------->
+|elevation_footnotes             = <!-- for references: use <ref> tags -->
+|elevation_m                     = 
+|elevation_ft                    = <!-- population ---------------->
+|population_footnotes            = <!-- for references: use <ref> tags -->
+|population_total                = 1,522,188 ([[List of Japanese cities by population|7th]])
+|population_as_of                = June 1, 2021
+|population_density_km2          = auto
+|population_est                  = 
+|pop_est_as_of                   = 
+|population_demonym              = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+|population_note                 = 
+|population_metro_footnotes      = <ref>{{Cite web |title=UEA Code Tables |url=http://www.csis.u-tokyo.ac.jp/UEA/uea_code_e.htm |publisher=Center for Spatial Information Science, University of Tokyo |access-date=January 26, 2019}}</ref> (2015)
+|population_metro                = 2419973 ([[List of metropolitan areas in Japan by population|6th]])
+<!-- time zone(s) -------------->
+|timezone1                       = [[Japan Standard Time]]
+|utc_offset1                     = +9
+<!-- postal codes, area code --->
+|postal_code_type                = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code                     = 
+|area_code_type                  = <!-- defaults to: Area code(s) -->
+|area_code                       = <!-- blank fields (section 1) -->
+|blank_name_sec1                 = Phone&nbsp;number
+|blank_info_sec1                 = 078-331-8181
+|blank1_name_sec1                = Address
+|blank1_info_sec1                = 6-5-1 Kano-chō, Chūō-ku, Kōbe-shi, Hyōgo-ken<br/>650-8570
+<!-- blank fields (section 2) -->
+|blank_name_sec2                 = [[Köppen climate classification|Climate]]
+|blank_info_sec2                 = [[Humid subtropical climate|Cfa]]
+<!-- website, footnotes -------->
+|website                         = [https://www.city.kobe.lg.jp/foreignlanguage/index.html City of Kobe]
+|footnotes                       = 
+|module                          = {{Infobox place symbols| embedded=yes
+|tree                            = ''[[Camellia sasanqua]]''
+|flower                          = [[Hydrangea]]
+|bird                            = 
+|flowering_tree                  = 
+|butterfly                       = 
+|fish                            = 
+|other_symbols                   = 
+}}
+}}
+{{Infobox Chinese
+| pic                         = Kobe (Chinese characters).svg
+| piccap                          = "Kobe" in new-style (''[[shinjitai]]'') ''[[kanji]]''
+| picupright                      = 0.425
+| shinjitai                       = 神戸
+| kyujitai                        = 神戶
+| romaji                          = Kōbe
+}}
+'''Kobe''' ({{IPAc-en|ˈ|k|oʊ|b|eɪ}} {{respell|KOH|bay}}; {{langx|ja|神戸|Kōbe}}, {{IPA|ja|koꜜːbe|pron|TomJ-Kobe.ogg}}), officially {{nihongo|'''Kobe City'''|神戸市|Kōbe-shi}}, is the capital city of [[Hyōgo Prefecture]], Japan. With a population around 1.5 million, Kobe is [[Japan]]'s [[List of Japanese cities by population|seventh-largest city]] and the third-largest port city after [[Port of Tokyo|Tokyo]] and [[Port of Yokohama|Yokohama]]. It is located in the [[Kansai region]], which makes up the southern side of the main island of [[Honshu|Honshū]], on the north shore of [[Osaka Bay]]. It is part of the [[Keihanshin]] metropolitan area along with [[Osaka]] and [[Kyoto]].<ref>{{cite news|url=http://ricerca.repubblica.it/repubblica/archivio/repubblica/2016/04/13/kobe48.html|title=Kobe|author=Gabriele Zanatta|newspaper=[[la Repubblica]]|date=April 13, 2016|page=48|language=it}}</ref> The Kobe city centre is located about {{convert|35|km|0|abbr=on}} west of Osaka and {{convert|70|km|0|abbr=on}} southwest of Kyoto.
+
+The earliest written records regarding the region come from the {{Lang|ja-latn|[[Nihon Shoki]]}}, which describes the founding of the [[Ikuta Shrine]] by [[Empress Jingū]] in AD 201.<ref name="ikutahistory">[http://www.ikutajinja.or.jp/index1.html Ikuta Shrine official website] {{webarchive|url=https://web.archive.org/web/20080404125132/http://www.ikutajinja.or.jp/index1.html |date=April 4, 2008 }} – "History of Ikuta Shrine" (Japanese)</ref><ref name="kobecityinfo">[http://www.kobecityinfo.com/history.html Kobe City Info] {{Webarchive|url=https://web.archive.org/web/20080616060627/http://www.kobecityinfo.com/history.html |date=June 16, 2008 }} – "History". Retrieved February 2, 2007.</ref> For most of its history, the area was never a single political entity, even during the [[Tokugawa period]], when the port was controlled directly by the [[Tokugawa shogunate]]. Kobe did not exist in its current form until its founding in 1889. Its name comes from {{nihongo||神戸|Kanbe|an archaic title for supporters of the city's [[Ikuta Shrine]]}}.<ref name="nagasakiu">[http://hikoma.lb.nagasaki-u.ac.jp/en/target.php?id=5363 Nagasaki University] {{Webarchive|url=https://web.archive.org/web/20070516202402/http://hikoma.lb.nagasaki-u.ac.jp/en/target.php?id=5363 |date=May 16, 2007 }} – "Ikuta Shrine". Retrieved February 3, 2007.</ref><ref name="kojien_kanbe">Entry for {{lang|ja-Hani|「神戸（かんべ）」}}. [[Kōjien]], fifth edition, 1998, {{ISBN|4-00-080111-2}}</ref> Kobe became one of Japan's [[City designated by government ordinance|designated cities]] in 1956.
+
+Kobe was one of the cities to open for trade with the [[Western world|West]] following the 1853 end of the [[Sakoku|policy of seclusion]] and has retained its cosmopolitan character ever since with a rich architectural heritage dating back to the [[Meiji era]]. While the 1995 [[Great Hanshin earthquake]] diminished some of Kobe's prominence as a port city, it remains Japan's fourth-busiest [[container port]].<ref name="busyport2006">[http://aapa.files.cms-plus.com/Statistics/worldportrankings%5F2006.xls American Association of Port Authorities] {{webarchive|url=https://web.archive.org/web/20081221123213/http://aapa.files.cms-plus.com/Statistics/worldportrankings_2006.xls |date=December 21, 2008 }} – "World Port Rankings 2006". Retrieved April 15, 2008.</ref> Companies headquartered in Kobe include [[ASICS]], [[Kawasaki Heavy Industries]], and [[Kobe Steel]], while over 100 international corporations have their Asian or Japanese headquarters in the city, including [[Eli Lilly and Company]], [[Procter & Gamble]], [[Boehringer Ingelheim]], and [[Nestlé]].<ref name="foreign_hq">"Number of foreign corporations with headquarters in Kobe passes 100." (Japanese) in Nikkei Net, retrieved from [http://www.nikkei.co.jp/news/retto/20070702c6b0202c02.html NIKKEI.net] {{Webarchive|url=https://web.archive.org/web/20070706011802/http://www.nikkei.co.jp/news/retto/20070702c6b0202c02.html |date=July 6, 2007 }} on July 3, 2007.</ref><ref name="companyhq">[http://www.hyogo-kobe.jp/english/list/company.html Hyogo-Kobe Investment Guide] {{webarchive|url=https://web.archive.org/web/20061208073732/http://www.hyogo-kobe.jp/english/list/company.html |date=December 8, 2006 }} – "List of Foreign Enterprises and Examples". Retrieved February 8, 2007.</ref> The city is the point of origin and namesake of [[Kobe beef]], the home of [[Kobe University]], and the site of one of Japan's most famous [[onsen|hot spring]] resorts, [[Arima Onsen]].
+
+==History==
+{{for timeline|Timeline of Kobe}}
+
+===Origins===
+Tools found in western Kobe demonstrate the area was populated at least from the [[Jōmon period]].<ref name="oldkobehistory">[http://www.city.kobe.jp/cityoffice/15/020/youran/rekishi.html City of Kobe] {{Webarchive|url=https://web.archive.org/web/20070918145414/http://www.city.kobe.jp/cityoffice/15/020/youran/rekishi.html |date=September 18, 2007 }} – "Kobe's History" (Japanese). Retrieved October 22, 2007.</ref>
+
+The natural geography of the area, particularly of Wada Cape in [[Hyōgo-ku, Kobe|Hyōgo-ku]], led to the development of a port, which would remain the economic center of the city.<ref name="hyogotsu">[http://www.hyogo-tourism.jp/english/hyogotsu/index.html Hyogo International Tourism Guide] {{Webarchive|url=https://web.archive.org/web/20061130123308/http://www.hyogo-tourism.jp/english/hyogotsu/index.html |date=November 30, 2006 }} – "Hyogo-tsu". Retrieved February 2, 2007.</ref> Some of the earliest written documents mentioning the region include the {{Lang|ja-latn|[[Nihon Shoki]]}}, which describes the founding of the [[Ikuta Shrine]] by [[Jingū of Japan|Empress Jingū]] in AD 201.<ref name="ikutahistory" />
+<gallery mode="packed" style="text-align: center;" heights="110" perrow="3" caption="Gallery">
+File:Ikuta Shrine, Kobe City; April 2017 (04).jpg|[[Ikuta Shrine]]
+File:Nagata Jinja Kobe Torii.jpg|[[Nagata Shrine]]
+File:Taisanji31s3872.jpg|[[Taisan-ji (Kobe)|Taisan-ji]]. The main hall is a [[National Treasures of Japan|National Treasure of Japan]] (built in 716).
+</gallery>
+
+===Nara and Heian periods===
+During the [[Nara period|Nara]] and [[Heian period]]s, the port was known by the name {{nihongo|Ōwada Anchorage||Ōwada-no-tomari}} and was one of the ports from which [[imperial embassies to China]] were dispatched.<ref name="kobecityinfo"/><ref name="oldkobehistory"/> 
+The city was briefly the [[capital of Japan]] in 1180, when [[Taira no Kiyomori]] moved his grandson [[Emperor Antoku]] to [[Fukuhara-kyō]] in present-day Hyōgo-ku.<ref name="oldkobehistory" /> The Emperor returned to Kyoto after about five months.<ref name="kobecityinfo"/>
+Shortly thereafter in 1184, the [[Taira]] fortress in Hyōgo-ku and the nearby Ikuta Shrine became the sites of the [[Genpei War]] [[battle of Ichi-no-Tani]] between the Taira and [[Minamoto clan]]s. The Minamoto prevailed, pushing the Taira further.
+<gallery mode="packed" style="text-align: center;" heights="110" perrow="3" caption="Gallery">
+File:Taira no Kiyomori Portrait by Fujiwara Tamenobu and Takenobu.png|[[Taira no Kiyomori]]
+File:Yukimi-no-gosho.jpg|Marker indicating the former location of [[Fukuhara-kyō]]
+File:Genpei kassen.jpg|[[Battle of Ichi-no-Tani]] ([[Genpei War]])
+</gallery>
+
+===Kamakura period===
+As the port grew during the [[Kamakura period]], it became an important hub for trade with China and other countries. In the 13th century, the city came to be known by the name {{nihongo|Hyōgo Port|兵庫津|Hyōgo-tsu}}.<ref name="hyogotsu" /> During this time, Hyōgo Port, along with northern Osaka, composed the province of [[Settsu Province|Settsu]] (most of today's Kobe belonged to Settsu except [[Nishi-ku, Kobe|Nishi Ward]] and [[Tarumi-ku, Kobe|Tarumi Ward]], which belonged to [[Harima Province|Harima]]).
+<gallery mode="packed" style="text-align: center;" heights="110" perrow="3" caption="Gallery">
+File:Yukai sanjurokkassen 勇魁三十六合戦 (Courageous Leaders in Thirty-six Battles) (BM 2008,3037.02214).jpg|[[Kusunoki Masashige]] ([[Battle of Minatogawa]])
+File:Minatogawa-jinja shinmon.jpg|[[Minatogawa Shrine]]
+</gallery>
+
+===Edo period===
+Later, during the [[Edo period]], the eastern parts of present-day Kobe came under the jurisdiction of the [[Amagasaki Domain]] and the western parts under that of the [[Akashi Domain]], while the center was controlled directly by the [[Tokugawa shogunate]].<ref>[http://www.city.kobe.jp/cityoffice/06/014/year/year.html#3 City of Kobe] {{Webarchive|url=https://web.archive.org/web/20080420204218/http://www.city.kobe.jp/cityoffice/06/014/year/year.html#3 |date=April 20, 2008 }} – "Old Kobe" (Japanese). Retrieved February 16, 2007.</ref><ref>[http://www.city.ashiya.hyogo.jp/english/history.html City of Ashiya] {{webarchive|url=https://web.archive.org/web/20080617011231/http://www.city.ashiya.hyogo.jp/english/history.html |date=June 17, 2008 }} – "An Outline History of Ashiya". Retrieved February 16, 2007.</ref>
+It was not until the [[abolition of the han system]] in 1871 and the establishment of the current [[Prefectures of Japan|prefecture system]] that the area became politically distinct.
+<gallery mode="packed" style="text-align: center;" heights="110" perrow="3" caption="Gallery">
+File:Hanakuma castle01s3200.jpg|Hanakuma Castle
+</gallery>
+
+===Meiji period===
+Hyōgo Port was opened to foreign trade by the Shogunal government at the same time as Osaka on January&nbsp;1, 1868, just before the advent of the [[Boshin War]] and the [[Meiji Restoration]].<ref>{{cite book|author1=John Whitney Hall|author2=Marius B. Jansen|title=The Cambridge History of Japan|url=https://books.google.com/books?id=7OFYajIf9QgC&pg=PA304|year=1988|publisher=Cambridge University Press|isbn=978-0-521-22356-0|page=304}}</ref> At the time of the opening of the city for foreign trade, the area saw intense fighting resulting from the civil war in progress. Shortly after the opening of Kobe to trade, the [[Kobe Incident]] occurred, where several western soldiers sustained wounds from gunfire by troops from Bizen. The region has since been identified with the West and many foreign residences from the period remain in Kobe's [[Kitano-chō|Kitano area]].
+<gallery mode="packed" style="text-align: center;" heights="110" perrow="3" caption="Gallery">
+File:Kobe Bund 1979.94.6P01B.jpg|[[Kobe foreign settlement]] Kaigan-dōri Avenue around 1885
+File:Shinkaichi.jpg|[[Shinkaichi]] theatre street in Kobe (Taisho era)
+File:Viewofkobe.PNG|Hyōgo Port in the 19th century<ref>From the [http://digitalgallery.nypl.org/nypldigital/id?110089 NYPL Digital Library]</ref>
+File:Kobe kaigan street01 1920.jpg|The Bund, built in the 1860s–1930s
+File:Choueke house02 1920.jpg|[[Kitano-chō|Kitano area]], built in the 1880s–1910s
+File:Old hyogo prefectural office bld03 1920.jpg|Former Hyogo prefectural office, built in 1902
+File:Sesshu Kobe coast prosperity view.jpg|This [[nishiki-e]] (colored woodcut) shows a foreign steamboat entering Hyōgo Port shortly after its opening to the West in the late 19th century. 
+</gallery>
+
+=== Modern era ===
+Kobe, as it is known today, was founded on April&nbsp;1, 1889, and was [[City designated by government ordinance|designated]] on September&nbsp;1, 1956 by government ordinance. The history of the city is closely tied to that of the Ikuta Shrine, and the name "Kobe" derives from {{nihongo||神戸|kamube|later ''kanbe''}}, an archaic name for those who supported the shrine.<ref name="nagasakiu"/><ref name="kojien_kanbe"/>
+
+During [[World War II]], Kobe was lightly bombed in the [[Doolittle Raid]] on April 18, 1942, along with [[Tokyo]] and a few other cities. Eventually, it was [[Bombing of Kobe in World War II|bombed again with incendiary bombs by B-29 Superfortress bombers on March&nbsp;16 and 17,&nbsp;1945]], causing the death of 8,841 residents and the destruction of 21% of [[Bombing of Kobe in World War II|Kobe's urban area]]. This incident inspired the well-known [[Studio Ghibli]] film ''[[Grave of the Fireflies]]'' and the [[Grave of the Fireflies (novel)|book]] by [[Akiyuki Nosaka]] on which the film was based. It also features in the motion picture ''[[A Boy Called H]]''.
+
+Following continuous pressure from citizens, on March&nbsp;18, 1975, the Kobe City Council passed an ordinance banning vessels carrying [[nuclear weapon]]s from Kobe Port. This effectively prevented any U.S. warships from entering the port, because U.S. policy is to never disclose whether any given warship is carrying nuclear weapons. This [[nuclear proliferation|nonproliferation]] policy has been termed the "[[Japan's non-nuclear policy#The Kobe Formula|Kobe formula]]".<ref>[http://www.prop1.org/prop1/jkobef.htm Kobe City Council] – "Resolution on the Rejection of the Visit of Nuclear-Armed Warships into Kobe Port", March 18, 1975. Retrieved February 16, 2007.</ref><ref>Kamimura, Naoki. "Japanese Civil Society and U.S.-Japan Security Relations in the 1990s". retrieved from [http://www.ippnw.org/MGS/V7N1Kamimura.html International Physicians for the Prevention of Nuclear War] {{webarchive|url=https://web.archive.org/web/20060516075014/http://www.ippnw.org/MGS/V7N1Kamimura.html |date=May 16, 2006 }} on February 2, 2007</ref>
+
+On January 17, 1995, [[Great Hanshin earthquake|a magnitude 6.9 earthquake]] occurred at 5:46 am [[Japan Standard Time|JST]] near the city. About 6,434 people in the city were killed, 212,443 were made homeless, and large parts of the port facilities and other parts of the city were destroyed.<ref>[https://web.archive.org/web/20080625151141/http://www.city.kobe.jp/cityoffice/06/013/report/january.2008.pdf The Great Hanshin-Awaji Earthquake Statistics and Restoration Progress] (Jan. 2008). Retrieved April 14, 2008.</ref><ref>[http://www.kkr.mlit.go.jp/en/topics_hanshin.html Great Hanshin Earthquake Restoration] {{Webarchive|url=https://web.archive.org/web/20141014224958/http://www.kkr.mlit.go.jp/en/topics_hanshin.html |date=October 14, 2014 }}. Retrieved April 14, 2008.</ref> The earthquake destroyed portions of the [[Hanshin Expressway]], an elevated freeway that dramatically toppled over. In Japan, this earthquake is known as the [[Great Hanshin earthquake]] (or the Hanshin-Awaji earthquake). To commemorate Kobe's recovery from it, the city holds an event every December called the [[Kobe Luminarie|Luminarie]], where the city center is decorated with illuminated metal archways.
+
+The [[Port of Kobe]] was Japan's busiest port and one of Asia's top ports until the Great Hanshin earthquake.<ref name="maruhon">[https://web.archive.org/web/20010303054315/http://maruhon.com/business/port.htm Maruhon Business News] – Port Conditions in Japan. Retrieved January 23, 2007.</ref> Kobe has since dropped to fourth in Japan and, as of 2012, was the 49th-[[List of world's busiest container ports|busiest container port worldwide]].
+
+<gallery mode="packed" style="text-align: center;" caption="Gallery" heights="130px" perrow="3">
+File:KobeFormerSettelment Map JapDirectory (1905).tif|Map of the [[Kobe foreign settlement|Foreign Settlement]]
+File:Kobe after the 1945 air raid.JPG|View of Kobe after the [[Bombing of Kobe in World War II|bombing]] in 1945
+File:Admiralty Chart No 2265 Kobe Ko, Published 1966.jpg|Port of Kobe in 1966
+File:Hanshin-Awaji earthquake 1995 337.jpg|Damage in [[Sannomiya]] after the [[Great Hanshin earthquake]] in 1995
+File:Port of Kobe Earthquake Memorial Park2.jpg|Kobe Earthquake Memorial Park 
+</gallery>
+
+== Geography ==
+[[File:151229_Kobe_Port_Japan01bs.jpg|thumb|260px|View of Kobe from an airplane]]
+
+Wedged between the coast and the mountains, the city of Kobe is long and narrow. To the east is the city of [[Ashiya, Hyōgo|Ashiya]], while the city of [[Akashi, Hyōgo|Akashi]] lies to its west. Other adjacent cities include [[Takarazuka, Hyōgo|Takarazuka]] and [[Nishinomiya]] to the east and [[Sanda, Hyōgo|Sanda]] and [[Miki, Hyōgo|Miki]] to the north.
+
+The landmark of the port area is the red steel [[Kobe Port Tower|Port Tower]]. A [[ferris wheel]] sits in nearby [[Harborland]], a notable tourist [[Esplanade|promenade]].{{Citation needed|date=May 2014}} Two artificial islands, [[Port Island]] and [[Rokkō Island]], have been constructed to give the city room to expand.
+
+Away from the seaside at the heart of Kobe lie the [[Motomachi, Kobe|Motomachi]] and [[Sannomiya]] districts, as well as Kobe's [[Chinatown]], [[Nankin-machi]], all well-known retail areas. A multitude of train lines cross the city from east to west. The main transport hub is [[Sannomiya Station]], with the eponymous [[Kobe Station (Hyōgo)|Kobe Station]] located to the west and the [[Shinkansen]] [[Shin-Kobe Station]] to the north.
+
+[[Mount Rokkō]] overlooks Kobe at an elevation of {{cvt|931|m}}. During autumn, it is famous for the rich change in [[autumn leaf color|colors of its forests]].
+
+{{wide image|Panoramic view of Kobe and Kobe Harbor from the Kobe Port Tower.png|1000px|align-cap=center|A panorama of Kobe, [[Port of Kobe|its harbor]], and [[Port Island]] from [[Kobe Port Tower]]}}
+
+=== Wards ===
+Kobe has nine [[wards of Japan|wards]] (''ku''):
+
+# [[Nishi-ku, Kobe|Nishi-ku]]: The westernmost area of Kobe, Nishi-ku overlooks the city of [[Akashi, Hyōgo|Akashi]] and is the site of [[Kobe Gakuin University]]. This ward has the largest population, with 247,000 residents.<ref>[http://www.city.kobe.jp/cityoffice/06/013/toukei/contents/kubetusihyo.html City of Kobe] {{Webarchive|url=https://web.archive.org/web/20071014182029/http://www.city.kobe.jp/cityoffice/06/013/toukei/contents/kubetusihyo.html |date=October 14, 2007 }}, "Population by Ward" (Japanese). Retrieved July 25, 2007.</ref>
+# [[Kita-ku, Kobe|Kita-ku]]: Kita-ku is the largest ward by area and contains the Rokko Mountain Range, including [[Mount Rokkō]] and [[Mount Maya]]. The area is well known for its rugged landscape and hiking trails. The [[onsen]] resort town of [[Arima Onsen|Arima]] also lies within Kita-ku.
+# [[Tarumi-ku, Kobe|Tarumi-ku]]: Tarumi-ku is a mostly residential area. The second-longest suspension bridge in the world, the [[Akashi Kaikyō Bridge]], extends from Maiko in Tarumi-ku to [[Awaji Island]] to the south. A relatively new addition to Kobe, Tarumi-ku was not a part of the city until 1946.
+# [[Suma-ku, Kobe|Suma-ku]]: Suma-ku is the site of Suma beach, attracting visitors during the summer months.
+# [[Nagata-ku, Kobe|Nagata-ku]]: Nagata-ku is the site of [[Nagata jinja|Nagata Shrine]], one of the three "Great Shrines" in Kobe.
+# [[Hyōgo-ku, Kobe|Hyōgo-ku]]: At various times known as Ōwada Anchorage or Hyōgo Port, this area is the historical heart of the city. [[Shinkaichi]] in Hyogo-ku was once the commercial center of Kobe, but was heavily damaged during [[World War II]], and since, Hyogo-ku has lost much of its former prominence.
+# [[Chūō-ku, Kobe|Chūō-ku]]: {{nihongo|''Chūō''|中央}} literally means "central" and, as such, Chūō-ku is the commercial and entertainment center of Kobe. [[Sannomiya]], [[Motomachi, Kobe|Motomachi]] and [[Harborland]] make up the main entertainment areas in Kobe. Chūō-ku includes the city hall and [[Hyōgo Prefecture|Hyōgo prefectural]] government offices. [[Port Island]] and [[Kobe Airport]] lie in the southern part of this ward.
+# [[Nada-ku, Kobe|Nada-ku]]: The site of [[Oji Zoo]] and [[Kobe University]], Nada is known for [[Nada-Gogō|its sake]]. Along with [[Fushimi-ku, Kyoto|Fushimi]] in [[Kyoto]], it accounts for 45% of Japan's sake production.<ref>[http://www.kippo.or.jp/culture_e/syoku/sakejijo/sakejijo1.html Kansai Window] {{webarchive|url=https://web.archive.org/web/20060619122900/http://www.kippo.or.jp/culture_e/syoku/sakejijo/sakejijo1.html |date=June 19, 2006 }}, "Japan's number one sake production". Retrieved February 6, 2007.</ref>
+# [[Higashinada-ku, Kobe|Higashinada-ku]]: The easternmost area of Kobe, Higashinada-ku borders the city of [[Ashiya, Hyōgo|Ashiya]]. The man-made island of [[Rokko Island|Rokko]] makes up the southern part of this ward.
+
+{| class="wikitable" style="margin-left: auto; margin-right: auto;" width="810px"
+! colspan="7" | Wards of Kobe
+|-
+! rowspan="2" |
+! colspan="2" | Place Name
+!
+!
+!
+!Map of Kobe
+|-
+! style="width: 190px;" |[[Romanization of Japanese|Rōmaji]]
+! style="width: 190px;" |[[Kanji]]
+!Population
+!''Land area in km<sup>2</sup>''
+!Pop. density
+per km2
+!
+|-
+| style="text-align: center;" "width: 20px;" | 1
+|[[Nishi-ku, Kobe|Nishi-ku]]
+|西区
+|240,386
+|138.01
+|1,742
+| rowspan="9" |[[File:兵庫県神戸市区画図_番号.png|alt=|border|center|399x399px|A map of Kobe's Wards]]
+|-
+| style="text-align: center;" | 2
+|[[Kita-ku, Kobe|Kita-ku]]
+| 北区
+|212,211
+|240.29
+|883
+|-
+| style="text-align: center;" | 3
+|[[Tarumi-ku, Kobe|Tarumi-ku]]
+| 垂水区
+|216,337
+|28.11
+|7,696
+|-
+| style="text-align: center;" | 4
+|[[Suma-ku, Kobe|Suma-ku]]
+| 須磨区
+|158,196
+|28.93
+|5,468
+|-
+| style="text-align: center;" | 5
+|[[Nagata-ku, Kobe|Nagata-ku]]
+| 長田区
+|95,155
+|11.36
+|8,376
+|-
+|6
+|[[Hyōgo-ku, Kobe|Hyōgo-ku]]
+|兵庫区
+|107,307
+|14.68
+|7,310
+|-
+|7
+|[[Chūō-ku, Kobe|Chūō-ku]]
+|中央区
+|142,232
+|28.97
+|4,910
+|-
+|8
+|[[Nada-ku, Kobe|Nada-ku]]
+|灘区
+|136,865
+|32.66
+|4,191
+|-
+|9
+|[[Higashinada-ku, Kobe|Higashinada-ku]]
+|東灘区
+|214,255
+|34.02
+|6,298
+|}
+
+===Cityscape===
+<gallery mode="packed" style="text-align: center;" heights="130" perrow="3" caption="Gallery">
+File:Meriken-boat.jpg|View of MOSAIC and [[Meriken Park]] from ferry at dusk (2022)
+File:Kobe unterwegs in Kobe 3.jpg|[[Meriken Park]] (2018)
+File:151003 Port of Kobe Japan01s3.jpg|Skyline of Kobe from Kobe Bridge (2015)
+File:Twilight view of Kobe, from a point near Shin-Kobe station.jpg|View of [[Sannomiya]] from [[Shin-Kobe Station]] (2009)
+File:121208 Nunobiki Herb Garden Kobe Hyogo pref Japan09s3.jpg|[[Nunobiki Herb Garden]] (2012)
+File:Kobe Kobe Port Tower Panoaramablick 03.jpg|Kobe [[central business district]] (2018)
+File:Kobe Meriken Park area at night 2016-06-14.jpg|Kobe [[central business district]] at night (2016)
+File:Kobe Chuo and Suma at night.jpeg|Downtown at night
+File:View of Kikuseidai from Mount Maya Kobe.jpg|Night view from [[Kikuseidai]]
+File:Views from Venus Bridge in Kobe 001.jpg|alt=|Sunset from Mt.Suwa observation deck
+File:Views from Venus Bridge in Kobe 003.jpg|Chūō-ku, seen by night from Mt.Suwa observation deck
+File:Views from Venus Bridge in Kobe 002.jpg|Panorama of Kobe from Mt.Suwa observation deck
+</gallery>
+
+===Climate===
+Kobe has a [[humid subtropical climate]] ([[Köppen climate classification]] ''Cfa'') with hot summers and cool to cold winters. Precipitation is significantly higher in summer than in winter, though on the whole lower than most parts of Honshū, and there is no significant snowfall. The average annual temperature in Kobe is {{convert|17.0|C}}. The average annual rainfall is {{cvt|1277.8|mm}} with July as the wettest month. The temperatures are highest on average in August, at around {{convert|28.6|C}}, and lowest in January, at around {{convert|6.2|C}}. The highest temperature ever recorded in Kobe was {{cvt|38.8|C}} on August 5, 1994; the coldest temperature ever recorded was {{cvt|-7.2|C}} on February 27, 1981.
+
+{{Weather box
+|single line = Y
+|metric first = Y
+|location = Kobe (1991−2020 normals, extremes 1896−present)
+|Jan record high C = 19.2
+|Feb record high C = 20.8
+|Mar record high C = 23.7
+|Apr record high C = 28.5
+|May record high C = 31.9
+|Jun record high C = 36.3
+|Jul record high C = 37.7
+|Aug record high C = 38.8
+|Sep record high C = 35.8
+|Oct record high C = 31.9
+|Nov record high C = 26.2
+|Dec record high C = 23.7
+|Jan record low C = -6.4
+|Feb record low C = -7.2
+|Mar record low C = -5.0
+|Apr record low C = -0.6
+|May record low C = 3.9
+|Jun record low C = 10.0
+|Jul record low C = 14.5
+|Aug record low C = 16.1
+|Sep record low C = 10.5
+|Oct record low C = 5.3
+|Nov record low C = -0.2
+|Dec record low C = -4.3
+|precipitation colour = green
+|Jan precipitation mm = 38.4
+|Feb precipitation mm = 55.6
+|Mar precipitation mm = 94.2
+|Apr precipitation mm = 100.6
+|May precipitation mm = 134.7
+|Jun precipitation mm = 176.7
+|Jul precipitation mm = 187.9
+|Aug precipitation mm = 103.4
+|Sep precipitation mm = 157.2
+|Oct precipitation mm = 118.0
+|Nov precipitation mm = 62.4
+|Dec precipitation mm = 48.7
+|year precipitation mm = 1277.8
+|Jan mean C = 6.2
+|Feb mean C = 6.5
+|Mar mean C = 9.8
+|Apr mean C = 15.0
+|May mean C = 19.8
+|Jun mean C = 23.4
+|Jul mean C = 27.1
+|Aug mean C = 28.6
+|Sep mean C = 25.4
+|Oct mean C = 19.8
+|Nov mean C = 14.2
+|Dec mean C = 8.8
+|year mean C = 17.0
+|Jan high C = 9.4
+|Feb high C = 10.1
+|Mar high C = 13.5
+|Apr high C = 18.9
+|May high C = 23.6
+|Jun high C = 26.7
+|Jul high C = 30.4
+|Aug high C = 32.2
+|Sep high C = 28.8
+|Oct high C = 23.2
+|Nov high C = 17.5
+|Dec high C = 12.0
+|year high C = 20.5
+|Jan low C = 3.1
+|Feb low C = 3.4
+|Mar low C = 6.3
+|Apr low C = 11.4
+|May low C = 16.5
+|Jun low C = 20.6
+|Jul low C = 24.7
+|Aug low C = 26.1
+|Sep low C = 22.6
+|Oct low C = 16.7
+|Nov low C = 10.9
+|Dec low C = 5.7
+|year low C = 14.0
+|Jan humidity = 62
+|Feb humidity = 61
+|Mar humidity = 61
+|Apr humidity = 61
+|May humidity = 64
+|Jun humidity = 72
+|Jul humidity = 74
+|Aug humidity = 71
+|Sep humidity = 67
+|Oct humidity = 64
+|Nov humidity = 63
+|Dec humidity = 62
+|year humidity = 65
+|Jan sun = 145.8
+|Feb sun = 142.4
+|Mar sun = 175.8
+|Apr sun = 194.8
+|May sun = 202.6
+|Jun sun = 164.0
+|Jul sun = 189.4
+|Aug sun = 229.6
+|Sep sun = 163.9
+|Oct sun = 169.8
+|Nov sun = 152.2
+|Dec sun = 153.2
+|year sun = 2083.7
+|Jan snow cm = 0
+|Feb snow cm = 0
+|Mar snow cm = 0
+|Apr snow cm = 0
+|May snow cm = 0
+|Jun snow cm = 0
+|Jul snow cm = 0
+|Aug snow cm = 0
+|Sep snow cm = 0
+|Oct snow cm = 0
+|Nov snow cm = 0
+|Dec snow cm = 0
+|year snow cm = 1
+|unit precipitation days = 0.5 mm
+|Jan precipitation days = 6.0
+|Feb precipitation days = 7.1
+|Mar precipitation days = 10.0
+|Apr precipitation days = 10.1
+|May precipitation days = 10.4
+|Jun precipitation days = 12.1
+|Jul precipitation days = 10.9
+|Aug precipitation days = 7.4
+|Sep precipitation days = 10.3
+|Oct precipitation days = 8.8
+|Nov precipitation days = 6.4
+|Dec precipitation days = 6.8
+|year precipitation days = 106.2
+|source 1 = Japan Meteorological Agency<ref>{{cite web
+| url = https://www.data.jma.go.jp/obd/stats/etrn/index.php?prec_no=63&block_no=47770&year=&month=12&day=&view=h0
+|script-title=ja:気象庁 / 平年値（年・月ごとの値） 
+| publisher = [[Japan Meteorological Agency]]
+| access-date = May 19, 2021}}</ref>
+}}
+{{Weather box
+|location = [[Kobe Airport]] (2006−2020 normals, extremes 2006−present)
+|single line = Y
+|metric first = Y
+|Jan record high C = 17.2
+|Feb record high C = 19.5
+|Mar record high C = 21.3
+|Apr record high C = 23.9
+|May record high C = 30.2
+|Jun record high C = 34.5
+|Jul record high C = 36.2
+|Aug record high C = 37.0
+|Sep record high C = 35.2
+|Oct record high C = 31.5
+|Nov record high C = 24.3
+|Dec record high C = 21.9
+|Jan record low C = -3.6
+|Feb record low C = -3.4
+|Mar record low C = -1.5
+|Apr record low C = 1.9
+|May record low C = 7.0
+|Jun record low C = 14.2
+|Jul record low C = 19.4
+|Aug record low C = 20.5
+|Sep record low C = 14.7
+|Oct record low C = 8.5
+|Nov record low C = 2.7
+|Dec record low C = -1.4
+|precipitation colour = green
+|Jan precipitation mm = 33.3
+|Feb precipitation mm = 54.3
+|Mar precipitation mm = 83.2
+|Apr precipitation mm = 83.7
+|May precipitation mm = 117.6
+|Jun precipitation mm = 164.5
+|Jul precipitation mm = 186.9
+|Aug precipitation mm = 84.7
+|Sep precipitation mm = 135.1
+|Oct precipitation mm = 106.1
+|Nov precipitation mm = 52.8
+|Dec precipitation mm = 49.3
+|year precipitation mm = 1148.4
+|Jan mean C = 5.9
+|Feb mean C = 6.3
+|Mar mean C = 9.2
+|Apr mean C = 13.7
+|May mean C = 18.5
+|Jun mean C = 22.2
+|Jul mean C = 25.9
+|Aug mean C = 27.9
+|Sep mean C = 24.9
+|Oct mean C = 19.7
+|Nov mean C = 14.0
+|Dec mean C = 8.5
+|year mean C = 16.4
+|Jan high C = 9.3
+|Feb high C = 9.7
+|Mar high C = 12.8
+|Apr high C = 17.3
+|May high C = 22.2
+|Jun high C = 25.2
+|Jul high C = 28.6
+|Aug high C = 31.1
+|Sep high C = 28.1
+|Oct high C = 23.0
+|Nov high C = 17.3
+|Dec high C = 11.9
+|year high C = 19.7
+|Jan low C = 2.4
+|Feb low C = 2.6
+|Mar low C = 5.3
+|Apr low C = 9.9
+|May low C = 15.1
+|Jun low C = 19.8
+|Jul low C = 23.9
+|Aug low C = 25.6
+|Sep low C = 22.1
+|Oct low C = 16.7
+|Nov low C = 10.7
+|Dec low C = 5.1
+|year low C = 13.2
+|unit precipitation days = 1.0 mm
+|Jan precipitation days = 4.6
+|Feb precipitation days = 6.6
+|Mar precipitation days = 8.3
+|Apr precipitation days = 8.8
+|May precipitation days = 8.6
+|Jun precipitation days = 9.8
+|Jul precipitation days = 10.2
+|Aug precipitation days = 6.0
+|Sep precipitation days = 8.8
+|Oct precipitation days = 7.9
+|Nov precipitation days = 5.7
+|Dec precipitation days = 5.8
+|year precipitation days = 91.1
+|source 1 = Japan Meteorological Agency<ref>{{cite web
+| url = https://www.data.jma.go.jp/obd/stats/etrn/view/rank_a.php?prec_no=63&block_no=1587&year=&month=&day=&view=h0
+|script-title=ja:観測史上1～10位の値（年間を通じての値）
+| publisher = [[Japan Meteorological Agency|JMA]]
+| access-date = February 26, 2022}}</ref><ref>{{cite web
+| url = https://www.data.jma.go.jp/obd/stats/etrn/view/nml_amd_ym.php?prec_no=63&block_no=1587&year=&month=&day=&view=h0
+|script-title=ja:気象庁 / 平年値（年・月ごとの値） 
+| publisher = [[Japan Meteorological Agency|JMA]]
+| access-date = February 26, 2022}}</ref>
+}}
+
+==Demographics==
+{| class="infobox" style="float:right;"
+| style="text-align:center;" colspan="2" | '''Foreigners in Kobe'''<ref name=pop-detail>{{cite web |url=http://www.city.kobe.lg.jp/information/data/statistics/toukei/datakobe/data/dk3003.pdf |script-title=ja:神戸市統計資料 |access-date=January 9, 2020 |quote="{{Nihongo2|6. 外国人数}}" |publisher=Kobe Government |language=ja |archive-date=April 14, 2018 |archive-url=https://web.archive.org/web/20180414172429/http://www.city.kobe.lg.jp/information/data/statistics/toukei/datakobe/data/dk3003.pdf |url-status=dead }}</ref>
+|-
+! Nationality || Population (2018)
+|-
+| {{flagu|South Korea}} ||17,175
+|-
+| {{flagu|Mainland China}} ||13,205
+|-
+| {{flagu|Vietnam}}  ||5,955
+|-
+| {{flagu|Taiwan}} ||1,309
+|-
+| Others ||8,974
+|-
+|}
+{{Historical populations
+|title       = Historical population
+|type        = Japan
+|align       = right
+|width       = 
+|state       = 
+|shading     = 
+|percentages = 
+|footnote    = 
+|1870|18650
+|1880|48786
+|1890|142965
+|1900|283839
+|1910|398905
+|1920|746500
+|1925|818619
+|1930|915234
+|1935|1058053
+|1940|1134458
+|1945|694000
+|1950|821062
+|1955|986344
+|1960|1113977
+|1965|1216682
+|1970|1288930
+|1975|1360605
+|1980|1367390
+|1985|1410734
+|1990|1477410
+|1995|1423792
+|2000|1493398
+|2005|1525393
+|2010|1544873
+|2015|1537272
+|2020|1521241
+}}
+
+[[File:Kobe Metropolitan Employment Area.svg|thumb|200px|The Kobe [[Urban Employment Area|Metropolitan Employment Area]]]]
+As of September 2007, Kobe had an estimated [[population]] of 1,530,295 making up 658,876 [[household]]s. This was an increase of 1,347 persons or approximately 0.1% over the previous year. The [[population density]] was approximately 2,768 persons per square kilometre, while there are about 90.2 males to every 100 females.<ref name="population statistics">[http://www.city.kobe.jp/cityoffice/06/013/toukei/contents/suikeijinkou.html City of Kobe] {{Webarchive|url=https://web.archive.org/web/20081225010552/http://www.city.kobe.jp/cityoffice/06/013/toukei/contents/suikeijinkou.html |date=December 25, 2008 }} – "Estimated Population of Kobe". Retrieved October 2, 2007.</ref> About thirteen percent of the population are between the ages of 0 and 14, sixty-seven percent are between 15 and 64, and twenty percent are over the age of 65.<ref name="pocket statistics">[http://www.city.kobe.jp/cityoffice/06/013/toukei/contents/pocket.html City of Kobe] {{Webarchive|url=https://web.archive.org/web/20070808061701/http://www.city.kobe.jp/cityoffice/06/013/toukei/contents/pocket.html |date=August 8, 2007 }} – "Statistical Summary of Kobe". Retrieved July 25, 2007.</ref>
+
+Approximately 44,000 registered foreign nationals live in Kobe. The four most common nationalities are [[Koreans in Japan|Korean]] (22,237), [[Chinese in Japan|Chinese]] (12,516), Vietnamese (1,301), and [[Americans in Japan|American]] (1,280).<ref name="pocket statistics" />
+
+==Economy==
+[[File:Kobe Mosaic06s4s3200.jpg|thumb|200px|Kobe is the busiest port in the [[Kansai region]].]]
+The [[Port of Kobe]] is both an important port and manufacturing center within the [[Hanshin Industrial Region]]. Kobe is the [[List of world's busiest container ports|busiest container port]] in the region, surpassing even [[Osaka]], and the fourth-busiest in Japan.<ref name="busyport2005">[http://aapa.files.cms-plus.com/Statistics/WORLD%20PORT%20RANKINGS%202005.xls American Association of Port Authorities] {{webarchive|url=https://web.archive.org/web/20070927223354/http://aapa.files.cms-plus.com/Statistics/WORLD%20PORT%20RANKINGS%202005.xls |date=September 27, 2007 }} – "World Port Rankings 2005". Retrieved July 3, 2007.</ref>
+
+{{As of|2004}}, the city's total real [[Gross domestic product|GDP]] was ¥6.3 trillion, which amounts to thirty-four percent of the GDP for [[Hyōgo Prefecture]] and approximately eight percent for the whole [[Kansai region]].<ref name="Kobe economy">[http://web.hyogo-iic.ne.jp/hyogoip/4-2-1.pdf Hyogo Industrial Advancement Center] {{webarchive|url=https://web.archive.org/web/20070704042535/http://web.hyogo-iic.ne.jp/hyogoip/4-2-1.pdf |date=July 4, 2007 }} – "Industry Tendencies in Various Areas of Hyogo Prefecture" (Japanese). Retrieved July 3, 2007.</ref><ref>[http://www.esri.cao.go.jp/jp/sna/kenmin/h16/main.html Cabinet Office, Government of Japan] {{webarchive|url=https://web.archive.org/web/20070716010107/http://www.esri.cao.go.jp/jp/sna/kenmin/h16/main.html |date=July 16, 2007 }} – "2004 Prefectural Economy Survey" (Japanese). Retrieved July 3, 2007.</ref> [[Per capita income]] for the year was approximately ¥2.7 million.<ref name="Kobe economy"/> Broken down by [[Three-sector hypothesis|sector]], about one percent of those employed work in the [[Primary sector of economic activity|primary sector]] (agriculture, fishing and mining), twenty-one percent work in the [[Secondary sector of economic activity|secondary sector]] (manufacturing and industry), and seventy-eight percent work in the [[Tertiary sector of economic activity|service sector]].<ref name="pocket statistics" />
+
+The value of [[manufactured goods]] produced and exported from Kobe for 2004 was ¥2.5 trillion. The four largest sectors in terms of value of goods produced are small appliances, food products, transportation equipment, and communication equipment making up over fifty percent of Kobe's manufactured goods. In terms of numbers of employees, food products, small appliances, and transportation equipment make up the three largest sectors.<ref>[http://www.city.kobe.jp/cityoffice/06/013/toukei/pdf/kougyou/16kiji.pdf Kobe City Report on Census of Manufacturers, 2004] {{Webarchive|url=https://web.archive.org/web/20080528011425/http://www.city.kobe.jp/cityoffice/06/013/toukei/pdf/kougyou/16kiji.pdf |date=May 28, 2008 }} (Japanese). Retrieved March 30, 2007.</ref>
+
+The [[GDP]] in Kobe [[Urban Employment Area|Metropolitan Employment Area]] (2.4 million people) is US$96.0 billion in 2010.<ref>{{Cite web|url = http://www.csis.u-tokyo.ac.jp/UEA/uea_data_e.htm|title = Metropolitan Employment Area (MEA) Data|author = Yoshitsugu Kanemoto|publisher = Center for Spatial Information Science, The [[University of Tokyo]]}}</ref><ref>[https://data.oecd.org/conversion/exchange-rates.htm Conversion rates – Exchange rates] – OECD Data</ref>
+
+=== Major companies and institutes ===
+Japanese companies which have their headquarters in Kobe include [[ASICS]], a shoe manufacturer; [[Daiei]], a department store chain; [[Kawasaki Heavy Industries]], [[Kawasaki Shipbuilding Corporation|Kawasaki Shipbuilding Co.]], [[Kinki Sharyo]], [[Mitsubishi Motors]], [[Mitsubishi Heavy Industries]] (ship manufacturer), [[Mitsubishi Electric]], [[Kobe Steel]], [[Sumitomo Rubber Industries]],<ref>"[http://www.srigroup.co.jp/english/corporate/outline.html Company Outline]." [[Sumitomo Rubber Industries]]. Retrieved on January 24, 2015.</ref> [[Sysmex Corporation]] (medical devices manufacturer)<ref>"[http://www.sysmex.co.jp/en/sysmex/profile/index.html Corporate Profile] {{webarchive|url=https://web.archive.org/web/20150119214307/http://www.sysmex.co.jp/en/sysmex/profile/index.html |date=2015-01-19 }}." [[Sysmex Corporation]]. Retrieved on January 21, 2015.</ref> and [[TOA Corporation]]. Other companies include the [[confectionery]] manufacturers [[Konigs-Krone]] and [[Morozoff Ltd.]], [[Sun Television (Japan)|Sun Television Japan]] and [[UCC Ueshima Coffee Co.]]
+
+There are over 100 international corporations that have their East Asian or Japanese headquarters in Kobe. Of these, twenty-four are from China, eighteen from the United States, and nine from Switzerland.<ref name="foreign_hq" /> Some prominent corporations include [[Eli Lilly and Company]], [[Nestlé]], [[Procter & Gamble]],<ref>"[http://www.pg.com/company/who_we_are/worldwide_operations.shtml P&G Locations]." ''[[Procter & Gamble]]''. Retrieved November 14, 2008.</ref> [[Tempur-Pedic]], [[Boehringer-Ingelheim]], and [[Toys "R" Us]]. In 2018, April, [[Swift Engineering]] USA, an American aerospace engineering firm established their joint venture in Kobe called Swift Xi Inc.
+
+Kobe is the site of a number of research institutes, such as the [[RIKEN]] Kobe Institute Center for [[developmental biology]] and [[medical imaging]] techniques,<ref>[http://www.cdb.riken.go.jp/en/index.html RIKEN Center for Developmental Biology RIKEN Kobe Institute] {{Webarchive|url=https://web.archive.org/web/20070410110103/http://www.cdb.riken.go.jp/en/index.html |date=April 10, 2007 }}. Retrieved June 26, 2007.</ref> and Center for Computational Science (R-CCS, home of the [[Fugaku (supercomputer)|Fugaku supercomputer]]), the [[National Institute of Information and Communications Technology]] (NICT) Advanced ICT Research Institute,<ref>[http://www2.nict.go.jp/w/w103/en/index.html National Institute of Information and Communications Technology Kobe Advanced ICT Research Center] {{webarchive|url=https://web.archive.org/web/20070702201525/http://www2.nict.go.jp/w/w103/en/index.html |date=July 2, 2007 }}. Retrieved June 26, 2007.</ref><ref>{{cite web|title=History of Advanced ICT Research Institute|url=https://www.nict.go.jp/en/advanced_ict/plan/history-en.html|website=National Institute of Information and Communications Technology|access-date=January 19, 2018}}</ref> the National Research Institute for Earth Science and Disaster Prevention,<ref>[http://www.bosai.go.jp/e/index.html National Research Institute for Earth Science and Disaster Prevention]. Retrieved June 12, 2007.</ref> and the Asian Disaster Reduction Center.<ref>[http://www.adrc.or.jp Asian Disaster Reduction Center] {{webarchive|url=https://web.archive.org/web/20070702000621/http://www.adrc.or.jp/ |date=July 2, 2007 }}. Retrieved June 12, 2007.</ref>
+
+International organizations include the [[WHO Centre for Health Development]], an [[intergovernmental agency]] forming part of the [[World Health Organization]]. The [[Diplomatic missions of Panama|Consulate-General of Panama in Kobe]] is located on the eighth floor of the Moriyama Building in [[Chūō-ku, Kobe]].<ref>"[http://www.m-osaka.com/en/consulate/index.html List of Consulates in Kansai Area] {{webarchive|url=https://web.archive.org/web/20080923210956/http://www.m-osaka.com/en/consulate/index.html |date=2008-09-23 }}." ''Creation Core Higashi Osaka''. Retrieved on January 15, 2009.</ref>
+
+<gallery>
+File:Kobe crystal tower01 2048.jpg|[[Kawasaki Heavy Industries]] headquarters on [[Harborland]]
+File:Kobe Kawasaki Shipbuilding Co02ds3200.jpg|[[Kawasaki Shipbuilding Corporation|Kawasaki Shipbuilding Co.]] headquarters on [[Port of Kobe|Kobe Harbor]]
+File:P and g02 1024.jpg|[[Procter & Gamble]] Asia headquarters on [[Rokko Island]]
+File:Kobe Nestle Japan HQ01ss3200.jpg|[[Nestlé|Nestlé Japan Ltd.]] headquarters on [[Sannomiya]]
+File:UCC Ueshima Coffee Company02s3872.jpg|[[UCC Ueshima Coffee Co.]] headquarters on [[Port Island]]
+</gallery>
+
+==Transportation==
+{{See also|Transport in Keihanshin}}
+[[File:Kobe Airport06s5s3200.jpg|thumb|200px|[[Kobe Airport]]]]
+[[File:Train of Sanyo Shinkansen leaving Shin-Kobe Station.jpg|thumb|200px|[[Shin-Kobe Station]]]]
+[[File:Train for Sannomiya-Hanadokeimae Station at Shin-Nagata Station.jpg|thumb|200px|[[Kobe Municipal Subway]]]]
+[[File:Akashi Bridge.JPG|thumb|200px|The [[Akashi Kaikyō Bridge]] extends from Kobe to [[Awaji Island]].]]
+===Air===
+[[Itami Airport]], in nearby [[Itami, Hyōgo|Itami]], serves primarily domestic flights throughout Japan, [[Kobe Airport]], built on a reclaimed island south of [[Port Island]], also offers mostly domestic and charter flights, while [[Kansai International Airport]] in [[Osaka]] mainly serves international flights in the area.
+
+===Rail===
+The [[JR West]] [[Sanyō Shinkansen]] stops at [[Shin-Kobe Station]]. [[Sannomiya Station]] is the main commuter hub in Kobe, serving as the transfer point for major intercity rail services: the [[JR Kobe Line]] connects Kobe to [[Osaka]] and [[Himeji, Hyōgo|Himeji]], while both the [[Hankyū Kōbe Main Line|Hankyū Kobe Line]] and the [[Hanshin Main Line]] run from Kobe to [[Umeda Station]] in Osaka. [[Sanyō Electric Railway]] trains from Himeji reach Sannomiya via the [[Kōbe Rapid Transit Railway]]. [[Kōbe Electric Railway]] runs north to [[Sanda, Hyogo|Sanda]] and [[Arima Onsen]]. 
+
+[[Kobe Municipal Subway]] provides connections to Shin-Osaka and Sannomiya stations from Kobe's western and eastern suburbs. Additionally, [[Kobe New Transit]] runs two lines serving [[Kobe Airport]] and [[Rokko Island]].
+
+===Ropeway===
+Over [[Mount Rokkō]], the city has two [[funicular]] lines and three [[aerial lift]]s as well, namely [[Maya Cablecar]], [[Rokkō Cable Line]], [[Rokkō Arima Ropeway]], [[Maya Ropeway]], and [[Shin-Kobe Ropeway]].
+
+===Road===
+Kobe is a transportation hub for a number of [[Expressways of Japan|expressways]], including the [[Meishin Expressway]] ([[Nagoya]] – Kobe) and the [[Hanshin Expressway]] (Osaka – Kobe).<ref>[http://www.city.kobe.jp/cityoffice/27/kigyo-yuchi/invest-kobe/e/access/domestic/index.html Hyogo-Kobe Investment Guide] {{Webarchive|url=https://web.archive.org/web/20080616083057/http://www.city.kobe.jp/cityoffice/27/kigyo-yuchi/invest-kobe/e/access/domestic/index.html |date=June 16, 2008 }} – "Domestic Access". Retrieved February 15, 2007.</ref> Other expressways include the [[Sanyō Expressway]] (Kobe – [[Yamaguchi Prefecture|Yamaguchi]]) and the [[Chūgoku Expressway]] (Osaka – Yamaguchi).
+The [[Honshū-Shikoku Bridge Project#Kobe-Awaji-Naruto Expressway|Kobe-Awaji-Naruto Expressway]] runs from Kobe to [[Naruto, Tokushima|Naruto]] via [[Awaji Island]] and includes the [[Akashi Kaikyō Bridge]], the longest suspension bridge in the world.
+
+===Maritime===
+The [[Port of Kobe]] is one of Japan's busiest container ports. [[Sub Area Activity Hanshin]] of the [[Japan Maritime Self-Defense Force]]s provides monitoring across [[Osaka Bay]] and [[Harima Sea]].
+
+== Education ==
+[[File:Kobe-Univ-Rokkodai-Honkan.jpg|thumb|200px|[[Kobe University]] main building]]
+{{Main|Education in Kobe}}
+The city of Kobe directly administers 169 elementary and 81 middle schools, with enrollments of approximately 80,200 and 36,000 students, respectively.<ref name="Kobe schools">[http://www.city.kobe.jp/cityoffice/57/kyouikutyousa/index.html City of Kobe] {{Webarchive|url=https://web.archive.org/web/20070927011449/http://www.city.kobe.jp/cityoffice/57/kyouikutyousa/index.html |date=September 27, 2007 }} – "Number of municipal schools and students" (Japanese). Retrieved July 2, 2007.</ref> If the city's four private elementary schools and fourteen private middle schools are included, these figures jump to a total 82,000 elementary school students and 42,300 junior high students enrolled for the 2006 school year.<ref name="pocket statistics" /><ref>[http://web.pref.hyogo.jp/pa15/pa15_000000005.html Hyogo Prefectural Government] – "Private elementary schools" (Japanese). Retrieved July 2, 2007.</ref><ref>[http://web.pref.hyogo.jp/pa15/pa15_000000004.html Hyogo Prefectural Government] – "Private middle schools" (Japanese). Retrieved July 2, 2007.</ref>
+
+Kobe also directly controls six of the city's twenty-five full-time public high schools including [[Kobe Municipal Fukiai High School|Fukiai High School]] and Rokkō Island High School. The remainder are administered by the Hyogo Prefectural Board of Education.<ref name="Kobe schools"/><ref>[http://www.city.kobe.lg.jp/child/college/highschool/ City of Kobe] – "Municipal high school" (Japanese). Retrieved March 2, 2016.</ref> In addition, twenty-five high schools are run privately within the city.<ref>[http://web.pref.hyogo.jp/pa15/pa15_000000003.html Hyogo Prefectural Government] – "Private high schools" (Japanese). Retrieved July 2, 2007.</ref> The total enrollment for high schools in 2006 was 43,400.<ref name="pocket statistics" />
+
+Kobe is home to eighteen public and private universities, including [[Kobe University]], [[Kobe Institute of Computing]] and [[Konan University]], and eight [[junior colleges]]. Students enrolled for 2006 reached 67,000 and 4,100, respectively.<ref name="pocket statistics" /> Kobe is also home to 17 Japanese language schools for international students, including the international training group Lexis Japan.
+
+[[International school]]s serve both long-term foreign residents and expatriates living in Kobe and the Kansai region. The schools offer instruction in English, [[Deutsche Schule Kobe/European School|German]], [[Kobe Chinese School|Chinese]], and [[Chōsen gakkō|Korean]]. There are three English-language international schools: [[Canadian Academy]], [[Marist Brothers International School]], and St. Michael's International School.
+
+== Culture ==
+[[File:Kobe kitano thomas house07 2816.jpg|thumb|Weathercock House, one of the many [[:ja:異人館|foreign residences]] of the [[Kitano-cho|Kitano area]] of Kobe]]
+
+Kobe is most famous for its [[Kobe beef]] (which is raised in the surrounding Hyōgo Prefecture) and [[Arima Onsen]] (hot springs). Notable buildings include the [[Ikuta Shrine]] as well as the [[Kobe Port Tower]]. Nearby mountains such as [[Mount Rokkō]] and [[Mount Maya]] overlook the city.
+
+The city is widely associated with cosmopolitanism and fashion, encapsulated in the Japanese saying, "If you can't go to Paris, go to Kobe."<ref name="nytimes">Hassan, Sally. (April 9, 1989). "Where Japan Opened a Door To the West". ''[[The New York Times]]'', retrieved from [https://query.nytimes.com/gst/fullpage.html?res=950DEED6173FF93AA35757C0A96F948260&sec=travel&spon=&partner=permalink&exprod=permalink New York Times website] on February 7, 2007.</ref> The biannual fashion event Kobe Fashion Week, featuring the [[Kobe Collection]], is held in Kobe.<ref>[http://kobe-collection.com/ Kobe Collection Official Website] (Japanese). Retrieved February 27, 2007.</ref> The jazz festival "Kobe Jazz Street" has been held every October at jazz clubs and hotels since 1981.<ref>[http://www.kobejazzstreet.gr.jp/history/english.html Kobe Jazz Street] {{webarchive|url=https://web.archive.org/web/20070210181938/http://www.kobejazzstreet.gr.jp/history/english.html |date=February 10, 2007 }}. Retrieved March 12, 2007.</ref> It also hosts both a Festival, as well as a statue of [[Elvis Presley]], the unveiling of which was heralded by the presence of former [[Prime Minister of Japan]] [[Junichiro Koizumi]]. Kobe is well known in Japan as being a city for the affluent, as many high-end stores and mansions line its streets.
+
+Kobe is the site of Japan's first golf course, [[Kobe Golf Club]], established by [[Arthur Hesketh Groom]] in 1903,<ref name="golfclubatlas">[http://www.golfclubatlas.com/alison1.html Golf Club Atlas] {{webarchive|url=https://web.archive.org/web/20070218222750/http://www.golfclubatlas.com/alison1.html |date=February 18, 2007 }} – "Gliding Past Fuji – C.H. Alison in Japan". Retrieved February 7, 2007.</ref> and Japan's first [[mosque]], [[Kobe Mosque]], built in 1935.<ref>Penn, M. "Islam in Japan", ''[http://www.asiaquarterly.com/content/view/168/ Harvard Asia Quarterly] {{webarchive|url=https://web.archive.org/web/20070202212653/http://www.asiaquarterly.com/content/view/168/ |date=February 2, 2007 }}'' Vol. 10, No. 1, Winter 2006. Retrieved February 15, 2007.</ref> The city hosts the [[Kobe Regatta & Athletic Club]], founded in 1870 by [[Alexander Cameron Sim]],<ref name="krac">[http://www.krac.org/history.shtml Kobe Regatta and Athletic Club] {{webarchive|url=https://web.archive.org/web/20070310152249/http://www.krac.org/history.shtml |date=March 10, 2007 }} – "a distinguished history". Retrieved February 7, 2007.</ref> and a prominent [[Foreign cemeteries in Japan#Kobe|foreign cemetery]]. A number of Western-style residences – {{nihongo||[[:ja:異人館|異人館]]|ijinkan}} – from the 19th century still stand in [[Kitano-chō|Kitano]] and elsewhere in Kobe. Museums include the [[Kobe City Museum]] and [[Kobe City Museum of Literature|Museum of Literature]].
+
+The city headquarters the [[professional wrestling promotion]] [[Dragongate]], established in 2004 as an offshoot of [[Último Dragón]]'s original [[Toryumon (Último Dragón)|Toryumon]] system.<ref>{{Cite web |last=Carroll |first=John |date=January 7, 2013 |title=Dragon Gate 101 – History and Generations |url=https://www.voicesofwrestling.com/2016/01/07/dragon-gate-101-history-and-generations/ |access-date=December 21, 2023 |website=Voices of Wrestling}}</ref>
+
+The dialect spoken in Kobe is called ''Kobe-ben'', a sub-dialect of [[Kansai dialect]].{{citation needed|date=October 2020}}
+
+== Sports ==
+{| class="wikitable"
+|-
+! scope="col"| Club
+! scope="col"| Sport
+! scope="col"| League
+! scope="col"| Venue
+! scope="col"| Established
+|-
+| [[Orix Buffaloes]]
+| [[Baseball]]
+| [[Pacific League]]
+| [[Kobe Sports Park Baseball Stadium]]<br/>[[Osaka Dome]]
+| 1938
+|-
+| [[Vissel Kobe]]
+| [[Association football|Football]]
+| [[J. League]]
+| [[Kobe City Misaki Park Stadium|Noevir Stadium Kobe]]<br/>[[Kobe Universiade Memorial Stadium]]
+| 1995
+|-
+| [[INAC Kobe Leonessa]]
+| [[Association football|Football]]
+| [[L. League]]
+| [[Kobe City Misaki Park Stadium|Noevir Stadium Kobe]]<br/>[[Kobe Universiade Memorial Stadium]]
+| 2001
+|-
+| [[Deução Kobe]]
+| [[Futsal]]
+| [[F. League]]
+| [[World Memorial Hall|World Hall]]
+| 1993
+|-
+| [[Kobelco Steelers]]
+| [[rugby football|Rugby]]
+| [[Top League]]
+| [[Kobe City Misaki Park Stadium|Noevir Stadium Kobe]]<br/>[[Kobe Universiade Memorial Stadium]]
+| 1928
+|-
+| [[Hisamitsu Springs]]
+| [[Volleyball]]
+| [[V.League (Japan)|V.Premier League]]
+| 
+| 1948
+|}
+
+Kobe hosted the [[1985 Summer Universiade]] as well as the [[1991 ABC Championship|1991 Men's Asian Basketball Championship]], which was the qualifier for the [[Basketball at the 1992 Summer Olympics|1992 Summer Olympics Basketball Tournament]].
+Kobe was one of the host cities of the [[2002 FIFA World Cup]], hosting matches at [[Kobe City Misaki Park Stadium|Noevir Stadium Kobe]] (then known as Wing Stadium Kobe), which was renovated to increase its capacity to 40,000 for the event. 
+Kobe was one of the host cities for the official [[2006 Women's Volleyball World Championship]].
+
+Kobe also hosted the World Darts Federation World Cup in October 2017. The event was held in the Exhibition Hall in Port Island with over 50 countries competing.
+
+==International relations==
+
+'''Sister cities'''
+{{See also|List of twin towns and sister cities in Japan}}
+<!--
+Note to editors: This list is for sister cities of Kobe, but not included fictional sister cities like:
+
+*{{flagicon|DEU}} [[Hamburg]], Germany (1966)
+*{{flagicon|CAN}} [[Vancouver]], [[British Columbia|BC]], Canada (1990)
+Please do not add any of them to this list. -->
+
+Kobe's [[Sister city|sister cities]] are:<ref name=sisters>{{cite web |title=About Kobe|url=https://global.kobe-investment.jp/english/info-kobe.php|publisher=Global Kobe Investment|access-date=March 10, 2022}}</ref>
+{{div col|colwidth=20em}}
+*{{flagicon|ESP}} [[Barcelona]], [[Catalonia]], Spain (1993)
+*{{flagicon|AUS}} [[Brisbane]], [[Queensland]], Australia (1985)
+*{{flagicon|KOR}} [[Incheon]], South Korea (2010)
+*{{flagicon|ITA}} [[Genoa]], [[Liguria]], Italy (1963)
+*{{flagicon|FRA}} [[Marseille]], [[Provence-Alpes-Côte d'Azur]], France (1961)
+*{{flagicon|LVA}} [[Riga]], Latvia (1974)
+*{{flagicon|BRA}} [[Rio de Janeiro]], Brazil (1969)
+*{{flagicon|USA}} [[Seattle]], [[Washington (state)|WA]], United States (1957)
+*{{flagicon|CHN}} [[Tianjin]], China (1973)
+*{{flagicon|UK}} [[Aberdeen]], United Kingdom (2022)<ref>{{cite web | url=https://www.aberdeencity.gov.uk/news/hydrogen-twin-cities-award-aberdeen-and-kobe-japan | title=Hydrogen Twin Cities Award for Aberdeen and Kobe, Japan &#124; Aberdeen City Council | date=November 16, 2022 }}</ref>
+{{div col end}}
+
+'''Friendship and cooperation cities'''
+Kobe also cooperates with:<ref name=sisters/>
+{{div col|colwidth=20em}}
+*{{flagicon|KOR}} [[Daegu]], South Korea (2010)
+*{{flagicon|PAK}} [[Faisalabad]], [[Punjab, Pakistan|Punjab]], Pakistan (2000)
+*{{flagicon|RWA}} [[Kigali]], Rwanda (2016)
+*{{flagicon|USA}} [[Philadelphia]], [[Pennsylvania|PA]], United States (1986)
+{{div col end}}
+
+A memorandum of understanding on the possible establishment of sister city relations in the future was concluded in 2019 with [[Ahmedabad]], [[Gujarat]], India.<ref>{{cite news |title=Kobe, Ahmedabad to be sister cities|url=https://timesofindia.indiatimes.com/city/ahmedabad/kobe-ahmedabad-to-be-sister-cities/articleshow/69980264.cms|access-date=March 10, 2022|publisher=Times of India|date=June 27, 2019}}</ref>
+
+'''Sister ports'''
+The [[Port of Kobe]]'s sister ports are:<ref name=sisters/>
+{{div col|colwidth=20em}}
+*{{flagicon|NED}} [[Port of Rotterdam]], Netherlands (1967)
+*{{flagicon|USA}} [[Port of Seattle]], United States (1967)
+*{{flagicon|CHN}} [[Port of Tianjin]], China
+{{div col end}}
+
+== Gallery ==
+<gallery>
+File:Anyoin03 1024.jpg|[[An'yō-in (Kobe)|An'yō-in]]. Its [[Japanese rock garden|karesansui]] is one of Japan's [[Places of Scenic Beauty]].
+File:140517 Kobe Municipal Arboretum Japan02bs.jpg|[[Kobe Municipal Arboretum]]
+File:Kobe port tower11s3200.jpg|[[Kobe Port Tower]]
+File:Mosaic04s3200.jpg|[[Harborland]]
+File:Be kobe sign.jpg|"Be Kobe" sign near [[Harborland]] 
+File:Kobe Nankinmachi at night.jpg|[[Nankin-machi]], [[Motomachi, Kobe|Motomachi]]
+File:Giant panda01 960.jpg|[[Kobe Oji Zoo]] as home of the [[giant panda|giant]] and [[red panda]]s
+File:171125 Kobe Municipal Foreign Cemetery Kobe Japan01s.jpg|[[Foreign cemeteries in Japan#Kobe|Foreigners' cemetery]] on the slopes of Futatabiyama
+File:Notre Dame Kobe Japan01-r.jpg|Notre Dame Kobe Wedding Hall
+File:170811 Rokko-Arima Ropeway Kobe Japan00n.jpg|[[Arima Onsen]] located north of Kobe
+File:171125 Futatabi Park Kobe Japan02s.jpg|Futatabi Park located [[Mount Rokkō]]
+</gallery>
+
+== References ==
+{{Reflist|30em}}
+
+==Bibliography==
+{{Further|Timeline of Kobe#Bibliography|l1=Bibliography of the history of Kobe}}
+
+== External links ==
+{{Commons category|Kobe}}
+{{Wikivoyage}}
+{{Wiktionary|神戸|Kōbe}}
+{{Americana Poster|Kobé|year=1920}}
+* {{Commons category-inline|Kobe by decade|History of Kobe}}
+* [http://www.city.kobe.lg.jp Kobe City official website] {{in lang|ja}}
+* [https://web.archive.org/web/20120922041935/http://www.city.kobe.lg.jp/foreign/english/index.html Kobe City official website]
+* [http://digitalgallery.nypl.org/nypldigital/dgkeysearchresult.cfm?word=Kobe%2Dshi%20%28Japan%29&s=3&notword=&f=2 New York Public Library Digital Gallery] – late 19th-century photographs of Kobe
+* {{osmrelation-inline|900329|Kobe}}
+* {{YouTube|u=kobecitychannel|Kobe City}} {{in lang|ja}}
+* {{Cite NIE|wstitle=Kōbé|year=1905 |short=x}}
+* {{Cite Collier's|wstitle=Kobe |short=x}}
+
+{{Navboxes
+|list =
+{{Hyogo}}
+{{Metropolitan cities of Japan}}
+{{World's most populated urban areas}}
+{{JPLargestMetros}}
+{{Most populous cities in Japan}}
+}}
+
+{{Authority control}}
+
+[[Category:Kobe| ]]
+[[Category:Cities designated by government ordinance of Japan]]
+[[Category:Populated places destroyed by earthquakes]]
+[[Category:Cities in Hyōgo Prefecture]]
+[[Category:Populated coastal places in Japan]]
+[[Category:Port settlements in Japan]]

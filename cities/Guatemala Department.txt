@@ -1,0 +1,140 @@
+{{Short description|Department of Guatemala}}
+{{expand Spanish|date=January 2023|topic=geo}}
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| official_name = Guatemala Department
+| native_name = Departmento de Guatemala
+| native_name_lang = es<!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type = Department
+| motto = <!-- images and maps  ----------->
+| image_skyline = Collage - Guatemala Department.jpg
+| imagesize = 
+| image_caption = '''Counterclockwise from top:'''  Guatemala City, Santa Catarina Pinula, Mixco, Lago Amatitlan, Parque Nacional Naciones Unidas & Villa Nueva.
+| image_flag = Bandera del Departamento Guatemala.svg
+| flag_size = 
+| image_seal = 
+| seal_size = 
+| image_shield = Escudo de Armas de la Ciudad de Guatemala.svg
+| shield_size = 
+| image_blank_emblem = 
+| blank_emblem_type = 
+| blank_emblem_size = 
+| image_map = {{switcher|[[File:Municipalities of Guatemala Department.svg | frameless]] | Municipalities of Guatemala Department | [[File:Guatemala (orthographic projection).svg | frameless]] | [[Guatemala]] on the [[Western Hemisphere]] }}
+| mapsize = 
+| map_caption = 
+| image_map1 = 
+| mapsize1 = 
+| map_caption1 = 
+| image_dot_map = 
+| dot_mapsize = 
+| dot_map_caption = 
+| dot_x = 
+| dot_y = 
+| pushpin_map = <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position = bottom
+| pushpin_map_caption = Location in Guatemala
+<!-- Location ------------------>| subdivision_type = Country
+| subdivision_name = {{GTM}}
+| seat_type = Capital
+| seat = [[Guatemala City]]
+| parts_type = [[Municipalities of Guatemala|Municipalities]]
+| parts = 17 
+<!-- Politics ----------------->| government_footnotes = 
+| government_type = [[Department (country subdivision)|Departmental]]
+| leader_title = Governor
+| leader_name = 
+| leader_title1 = <!-- for places with, say, both a mayor and a city manager -->
+| leader_name1 = 
+| leader_title2 = 
+| leader_name2 = 
+| leader_title3 = 
+| leader_name3 = 
+| leader_title4 = 
+| leader_name4 = 
+| established_title = <!-- Settled -->
+| established_date = 
+| established_title2 = <!-- Incorporated (town) -->
+| established_date2 = 
+| established_title3 = <!-- Incorporated (city) -->
+| established_date3 = <!-- Area    --------------------->
+| area_magnitude = 
+| unit_pref = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes = 
+| area_total_km2 = 2126
+| area_land_km2 = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2 = 
+| area_total_sq_mi = 
+| area_land_sq_mi = 
+| area_water_sq_mi = 
+| area_water_percent = 
+| area_urban_km2 = 
+| area_urban_sq_mi = 
+| area_metro_km2 = 
+| area_metro_sq_mi = 
+| area_blank1_title = 
+| area_blank1_km2 = 
+| area_blank1_sq_mi = <!-- Population   ----------------------->
+| population_as_of = 2018
+| population_footnotes = <ref name="population">{{Cite web |title=Guatemala: Departments, Major Cities & Towns - Population Statistics, Maps, Charts, Weather and Web Information |url=https://www.citypopulation.de/en/guatemala/cities/ |access-date=2024-06-14 |website=www.citypopulation.de}}</ref>
+| population_note = 
+| population_total = 3,015,081
+| population_density_km2 = auto
+| population_density_sq_mi = 
+| population_urban = 2750965
+| population_density_urban_km2 = 
+| population_density_urban_sq_mi = 
+| population_blank1_title = Ethnicities
+| population_blank1 = 
+| population_blank2_title = Religions
+| population_blank2 = [[Roman Catholicism]], [[Evangelicalism]], [[Maya religion|Maya]]
+| population_density_blank1_km2 = 
+| population_density_blank1_sq_mi = <!-- General information  --------------->
+| timezone = 
+| utc_offset = -6
+| timezone_DST = 
+| utc_offset_DST = 
+| elevation_footnotes = <!--for references: use <ref> tags-->
+| elevation_m = 
+| elevation_max_m = 
+| elevation_min_m = <!-- Area/postal codes & others -------->
+| postal_code_type = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code = 
+}}
+
+'''Guatemala Department''' is one of the 22 [[departments of Guatemala]].  The capital is [[Guatemala City]], which also serves as the national capital.  The department consists of Guatemala City, its suburbs and other municipalities.
+
+The department covers a surface area of {{convert|2126|km2}}, and had a population of 3,015,081 at the 2018 census.<ref name="population" />
+
+== Municipalities ==
+
+# [[Amatitlán]]
+# [[Chinautla]]
+# [[Chuarrancho]]
+# [[Fraijanes]]
+# [[Guatemala City]]
+# [[Mixco]]
+# [[Palencia, Guatemala|Palencia]]
+# [[San José del Golfo]]
+# [[San José Pinula]]
+# [[San Juan Sacatepéquez]]
+# [[San Miguel Petapa]]
+# [[San Pedro Ayampuc]]
+# [[San Pedro Sacatepéquez, Guatemala|San Pedro Sacatepéquez]]
+# [[San Raymundo]]
+# [[Santa Catarina Pinula]]
+# [[Villa Canales]]
+# [[Villa Nueva, Guatemala|Villa Nueva]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons-inline}}
+
+{{Departments of Guatemala}}
+
+{{coord|14|38|29|N|90|30|47|W|region:GT-GU_type:adm1st_source:dewiki|display=title}}
+{{Authority control}}
+
+[[Category:Guatemala Department| ]]
+[[Category:Departments of Guatemala]]

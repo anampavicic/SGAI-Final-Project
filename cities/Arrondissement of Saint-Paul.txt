@@ -1,0 +1,59 @@
+{{Infobox French subdivision
+| type = arr
+| name=Saint-Paul
+| INSEE=9744
+| nbcomm=5
+| prefecture=n
+| seat=[[Saint-Paul, Réunion|Saint-Paul]]
+| population             = {{France metadata Wikidata|population_total}}
+| population_as_of       = {{France metadata Wikidata|population_as_of}}
+| population_footnotes   = {{France metadata Wikidata|population_footnotes2}} 
+| area=537.2
+| image_map=Locator map of Arrondissement Saint-Paul 2018.png
+| map_caption=Location within Réunion
+}}
+
+The '''arrondissement of Saint-Paul''' is an [[Arrondissements of France|arrondissement]] of France in the [[Réunion]] [[Departments of France|department]] in the Réunion [[Regions of France|region]]. It has five [[Communes of France|communes]].<ref name="insee2" /> Its population is 214,073 (2016), and its area is {{convert|537.2|km2|abbr=on}}.<ref name=insee>{{cite web|url=https://www.insee.fr/fr/statistiques/1405599?geo=ARR-9741+ARR-9742+ARR-9743+ARR-9744|title=Comparateur de territoire, géographie au 01/01/2019|accessdate=2019-10-06|publisher=[[INSEE]]}}</ref>
+
+==Composition==
+
+The communes of the arrondissement of Saint-Paul, and their [[INSEE code]]s, are:<ref name=insee2>{{cite web|url=https://www.insee.fr/fr/metadonnees/cog/arrondissement/ARR9744-saint-paul|title=Arrondissement de Saint-Paul (9744)|accessdate=2019-10-06|publisher=[[INSEE]]}}</ref>
+{{div col|colwidth=15em}}
+# [[Le Port, Réunion|Le Port]] <small>(97407)</small>
+# [[La Possession]] <small>(97408)</small>
+# [[Saint-Leu, Réunion|Saint-Leu]] <small>(97413)</small>
+# [[Saint-Paul, Réunion|Saint-Paul]] <small>(97415)</small>
+# [[Les Trois-Bassins]] <small>(97423)</small>
+{{div col end}}
+
+==History==
+
+The arrondissement of Saint-Paul, containing four communes that were previously part of the [[arrondissement of Saint-Pierre, Réunion|arrondissement of Saint-Pierre]] and one commune that was previously part of the [[arrondissement of Saint-Denis, Réunion|arrondissement of Saint-Denis]], was created in 1969.<ref>[https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000719357 Décret n°69-876 du 24 septembre 1969]</ref> In September 2006 it absorbed the two communes of [[Le Port, Réunion|Le Port]] and [[La Possession]] from the arrondissement of Saint-Denis, and it lost the two communes of [[Les Avirons]] and [[L'Étang-Salé]] to the arrondissement of Saint-Pierre.<ref name=arrete>{{cite web|url=http://administration.reunion.gouv.fr/raa/2006/juin/arrete2433.pdf|title=Arrêté préfectoral, 30 June 2006|accessdate=2019-10-29|archive-date=2019-10-29|archive-url=https://web.archive.org/web/20191029133016/http://administration.reunion.gouv.fr/raa/2006/juin/arrete2433.pdf|url-status=dead}}</ref>
+
+As a result of the reorganisation of the [[cantons of France]] which came into effect in 2015, the borders of the cantons are no longer related to the borders of the arrondissements. The cantons of the arrondissement of Saint-Paul were, as of January 2015:<ref name=insee2012>{{cite web|url=https://www.insee.fr/fr/statistiques/fichier/2119595/dep974.pdf |title=Populations légales 2012: 974 Département de la Réunion|date=December 2014|publisher=[[Institut national de la statistique et des études économiques|INSEE]]}}</ref>
+{{div col|colwidth=17em}}
+# Le Port-1
+# Le Port-2
+# [[Canton of La Possession|La Possession]]
+# Saint-Leu-1
+# Saint-Leu-2
+# [[Cantons of Saint-Paul|Saint-Paul-1]]
+# [[Cantons of Saint-Paul|Saint-Paul-2]]
+# [[Cantons of Saint-Paul|Saint-Paul-3]]
+# Saint-Paul-4
+# Saint-Paul-5
+# Les Trois-Bassins
+{{div col end}}
+
+==References==
+{{Reflist}}
+
+{{Arrondissements of Réunion}}
+{{Authority control}}
+
+{{Coord|21|00|31|S|55|16|15|E|type:adm3rd_source:kolossus-itwiki|display=title}}
+
+[[Category:Arrondissements of Réunion|Saint-Paul]]
+
+
+{{Réunion-geo-stub}}

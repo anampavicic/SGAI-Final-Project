@@ -1,0 +1,256 @@
+{{Expand French|topic=geo|San-Pédro|date=March 2017}}
+{{For|the department|San-Pédro Department}}
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   =San-Pédro  <!-- at least one of the first two fields must be filled in -->
+|official_name          =
+|native_name            =  <!-- if different from the English name -->
+|other_name             =
+|settlement_type        = City, [[sub-prefectures of Ivory Coast|sub-prefecture]], and [[Communes of Ivory Coast|commune]]
+|image_skyline          = San Pédro-église.JPG
+|imagesize              = 300px
+|image_caption          = View to a methodist church in San-Pédro
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|nickname               = 
+|motto                  =
+<!-- images and maps  ----------->
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|pushpin_map            = Ivory Coast#Africa <!-- name of a location map as per Template:Location_map -->
+|pushpin_label_position = <!-- position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_mapsize        =300
+<!-- Location ------------------>
+|pushpin_map_caption    =Location within Ivory Coast
+|coordinates            = {{coord|4|45|N|6|38|W|region:CI|display=inline}}
+<!-- Area/postal codes & others -------->
+|subdivision_type       = Ivory Coast
+|subdivision_name       = {{CIV}}
+|subdivision_type1      = [[Districts of Ivory Coast|District]]
+|subdivision_type2      = [[Regions of Ivory Coast|Region]]
+|subdivision_type3      = [[Departments of Ivory Coast|Department]]
+|subdivision_type4      = 
+|subdivision_name1      = [[Bas-Sassandra District|Bas-Sassandra]]
+|subdivision_name2      = [[San-Pédro Region|San-Pédro]]
+|subdivision_name3      = [[San-Pédro Department|San-Pédro]]
+|subdivision_name4      =
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) --> 
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|seat_type              =
+|seat                   =
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     = 
+|government_footnotes   =
+|government_type        =
+|leader_party           =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_magnitude         = <!-- use only to set a special wikilink --> 
+|area_total_km2           = 887
+|area_total_sq_mi         =
+|area_total_dunam         = <!--Used in Middle East articles only-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_land_sq_mi          =
+|area_water_km2           =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Elevation -------------------------->
+|elevation_footnotes    = 
+|elevation_m            = 1
+|elevation_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_total               = 390654
+|population_as_of               =2021 census      |population_footnotes           = <ref>[https://www.citypopulation.de/en/ivorycoast/sub/admin/ Citypopulation.de] Population of regions and sub-prefectures of Ivory Coast</ref>
+|population_density_km2         = auto
+|population_density_sq_mi       =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_blank1_title        = City
+|population_blank1              = 164944 <ref name="pop">{{Cite web |date=2022-08-08 |title=Ivory Coast: Districts, Major Cities & Localities - Population Statistics, Maps, Charts, Weather and Web Information |url=https://www.citypopulation.de/en/ivorycoast/cities/ |url-status=live |archive-url=https://web.archive.org/web/20231204134421/https://www.citypopulation.de/en/ivorycoast/cities/ |archive-date=Dec 4, 2023 |website=City Population}}</ref>
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|population_note                = (2014 census)
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|website                = 
+|footnotes              = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  
+|dot_y =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|timezone               = 
+|utc_offset             = 
+|timezone_DST           = 
+|utc_offset_DST         = 
+| coor_type             = <!-- can be used to specify what the coordinates refer to -->
+|twin1                  =
+|twin1_country          =
+|twin2                  =
+|twin2_country          =
+|twin3                  =
+|twin3_country          =
+|twin4                  =
+|twin4_country          =
+|twin5                  =
+|twin5_country          =
+|twin6                  =
+|twin6_country          =
+|twin7                  =
+|twin7_country          =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|blank2_name            =
+|blank2_info            =
+|blank3_name            =
+|blank3_info            =
+|blank4_name            =
+|blank4_info            =
+|blank5_name            =
+|blank5_info            =
+|blank6_name            =
+|blank6_info            =
+}} 
+'''San-Pédro''' is a city in southwestern [[Ivory Coast]]. It is the nation's second largest [[port]] and the seat of [[Bas-Sassandra District]] and [[San-Pédro Region]]. It is also a [[Communes of Ivory Coast|commune]] and the seat of and a [[sub-prefectures of Ivory Coast|sub-prefecture]] of [[San-Pédro Department]]. In the 2014 census, the city had a population of 164,944,<ref name="pop"/> making it the sixth-largest city in the country. The city is served by [[San Pédro Airport]].
+
+Northwest of the city lies the [[Taï National Park]], known as one of the last sanctuaries of the [[pygmy hippopotamus]], which is listed on the [[UNESCO]]'s [[World Heritage List]].
+
+== Economy ==
+
+Largely developed from the 1960s, [[fishing]] is an important [[Industry (economics)|industry]], while the town is known for its [[Nightlife (activity)|nightlife]] and its [[beach]]es.
+
+{{Wikivoyage|San Pedro (Côte d'Ivoire)}}
+
+== Demographics ==
+In 2014, the population of the sub-prefecture of San-Pédro was 261,616.<ref name=San-Pédro>{{cite web|title=RGPH 2014, Répertoire des localités, Région San-Pédro|url=http://www.ins.ci/n/documents/rgph/SAN-PEDRO.pdf|website=ins.ci|accessdate=5 August 2019}}</ref>
+
+== Transport ==
+
+A railway is proposed from San-Pédro to iron ore deposits around [[Mount Nimba]].<ref>{{cite web |url=http://worldofrail.com/railwaysafrica/2010/10/new-railway-in-ivory-coast/ |title = WorldOfRail.com}}{{dead link |date=November 2023}}</ref>  There would be no immediate connection with the existing [[metre gauge]] national railway at [[Abidjan]].
+
+==Education==
+{{ill|École française de San Pédro|fr}} is located in San-Pédro.
+
+== Notable people ==
+* [[Jean-Philippe Gbamin]] (born 25 September 1995), is an Ivorian footballer
+
+==Villages==
+The twenty eight villages of the sub-prefecture of San-Pédro and their population in 2014 are:<ref name=San-Pédro/>
+{{Columns-list|colwidth=22em|
+# Baba (8,336)
+# Digboué (138)
+# Dimoulé (1,068)
+# Djiro-Gnépahio/Campement Bernard (3,563)
+# Grand-Gabo (116)
+# Kablaké 1 (471)
+# Kablaké 2 (468)
+# Klou (220)
+# Petit-Gabo (240)
+# Petit-Pédro (2,711)
+# Pont-Bascule (914)
+# Poro (932)
+# San-Pedro (164,944)
+# Taki (1,502)
+# Digboué-Klou (211)
+# Djahio (1,996)
+# Doulayéko (1,957)
+# Goréké (873)
+# Kounouko (7,885)
+# Kpotè (7,037)
+# Krémoué (1,587)
+# Madié (830)
+# Magné (1,059)
+# Mapri (1,204)
+# Marikro (3,481)
+# Monogaga (511)
+# Moussadougou (16,344)
+# Podio (1,553)
+# Pont-Brimé (3,449)
+# Popoko (2,382)
+# Taboké (2,865)
+# Watté (20,769)
+}}
+
+== Gallery ==
+
+<gallery>
+File:San Pédro-plage4.JPG
+File:San Pédro1.JPG
+</gallery>
+
+== See also ==
+* [[Cement in Africa]]
+* [[Railway stations in Ivory Coast]]
+
+== References ==
+{{Commons|San Pedro}}
+{{Reflist}}
+
+{{San-Pédro Region subdivisions}}
+{{Authority control}}
+
+{{DEFAULTSORT:San-Pedro, Ivory Coast}}
+[[Category:San-Pédro, Ivory Coast| ]]
+[[Category:Sub-prefectures of San-Pédro Region]]
+[[Category:District capitals of Ivory Coast]]
+[[Category:Communes of San-Pédro Region]]
+[[Category:Regional capitals of Ivory Coast]]
+[[Category:Ivory Coast geography articles needing translation from French Wikipedia]]

@@ -1,0 +1,375 @@
+{{more citations needed|date=April 2020}}
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = Huaibei
+|official_name          = 
+|other_name             = Huai-pei
+|native_name            = 淮北市
+|native_name_lang = zh
+|nickname               = 
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Huaibei easterly view.jpg
+|imagesize              = 
+|image_caption          = Huaibei, easterly view, taken from the twelfth floor of the Xiangwangfu Hotel
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              =  Location of Huaibei Prefecture within Anhui (China).png
+|mapsize                =  
+|map_caption            =  
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = 
+|pushpin_label_position = 
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|coor_pinpoint = Huaibei municipal government
+|coordinates            = {{coord|33.956|N|116.798|E|type:adm2nd_region:CN-34_source:Gaode|format=dms|display=it}}
+|subdivision_type       = Country
+|subdivision_name = [[China|People's Republic of China]]
+|subdivision_type1      = [[Province (China)|Province]]
+|subdivision_name1      = [[Anhui]]
+|subdivision_type2      = [[Administrative divisions of the People's Republic of China#County level|County-level divisions]]
+|subdivision_name2      =  
+|subdivision_type3      = [[Administrative divisions of the People's Republic of China#Township level|Township-level divisions]]
+|subdivision_name3      =  
+|subdivision_type4      = 
+|subdivision_name4      = 
+|seat_type              = Municipal seat
+|seat                   =[[Xiangshan District, Huaibei|Xiangshan District]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =CPC Secretary
+|leader_name            =Bi Meijia ({{lang|zh-hans|毕美家}})
+|leader_title1          =[[Mayor]]
+|leader_name1           =Xu Chongxin ({{lang|zh-hans|许崇信}}) 
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) --> 
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink --> 
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_total_km2           =2740.9<!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           =748.4
+|area_metro_km2           =2740.9
+|area_blank1_title        =
+|area_blank1_km2          =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               =2020 census
+|population_footnotes           =<ref>{{Cite web | url=http://www.citypopulation.de/php/china-anhui-admin.php | title=China: Ānhuī (Prefectures, Cities, Districts and Counties) - Population Statistics, Charts and Map}}</ref>
+|population_note                =
+|population_total               =1970265   
+|population_density_km2         =auto<!--For automatic calculation, any density field may contain: auto -->
+|population_metro               =1970265
+|population_density_metro_km2   =auto
+
+|population_urban               =1037863
+|population_density_urban_km2   =auto
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =auto 
+| demographics_type2   = GDP<ref>{{Cite web |title=《安徽统计年鉴2022》电子查阅版 |url=http://tjj.ah.gov.cn/oldfiles/tjj/tjjweb/tjnj/2022/index.htm |website=tjj.ah.gov.cn |access-date=2022-10-18 |archive-date=2022-10-18 |archive-url=https://web.archive.org/web/20221018145816/http://tjj.ah.gov.cn/oldfiles/tjj/tjjweb/tjnj/2022/index.htm |url-status=live }}</ref>
+| demographics2_title1 = [[Prefecture-level city]]
+| demographics2_info1 = [[CN¥]] 122.3 billion<br />[[US$]] 16.2 billion 
+| demographics2_title2 = Per capita
+| demographics2_info2 = CN¥ 61,956<br />US$ 9,604  
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|CST]]
+|utc_offset             = +8
+<!-- Area/postal codes & others -------->
+|postal_code_type       = <!--  [[Postal code of China|Postal code]] -->
+|postal_code            = 235000
+|area_code              = 561
+|iso_code = [[ISO 3166-2:CN|CN-AH-06]]
+|blank2_name            =[[Licence plates of the People's Republic of China|License Plate]] Prefix 
+|blank2_info            = {{lang|zh-cn|皖F}}
+|blank3_name            =<!-- Major [[Nationalities of China|Nationalities]] -->
+|blank3_info            =
+|website                = 
+|footnotes              = 
+}}
+
+'''Huaibei''' ({{zh|s=淮北 |p=Huáiběi}}) is a [[prefecture-level city]] in northern [[Anhui]] [[Province (China)|Province]], China. It borders [[Suzhou, Anhui|Suzhou]] (Anhui) to the east, [[Bengbu]] to the south, [[Bozhou]] to the west, and the provinces of [[Henan]] to the northwest and [[Jiangsu]] to the northeast. The population was 1,970,165 inhabitants as of the 2020 census (2,114,276 in 2010), all integrated in the built-up (or metro) area and the city has an administrative area of {{convert|2741|km2|abbr=on}}.
+
+==Administration==
+
+The [[prefecture-level city]] of Huaibei administers 4 [[Administrative divisions of the People's Republic of China#County level|county-level divisions]], including 3 [[District of China|districts]] and 1 [[County (People's Republic of China)|county]].
+
+*[[Lieshan District]] ({{lang|zh-hans|烈山区}})
+*[[Xiangshan District, Huaibei|Xiangshan District]] ({{lang|zh-hans|相山区}})
+*[[Duji District]] ({{lang|zh-hans|杜集区}})
+*[[Suixi County, Anhui|Suixi County]] ({{lang|zh-hans|濉溪县}})
+These are further divided into 43 [[Administrative divisions of the People's Republic of China#Township level|township-level divisions]], including 20 [[town of China|towns]], 8 [[Township (People's Republic of China)|townships]] and 15 [[Subdistricts of China|subdistrict]]s.
+
+{|class="wikitable" style="font-size:90%;"
+!colspan="6"| Map
+|-
+|colspan="6" rowspan="11"| <div style="position: relative" class="center">
+{{Image label begin|image=Administrative Division Huaibei.png|width=300|link=}} 
+{{Image label|x=510|y=550|scale=300/750|text=[[Lieshan District|'''Lieshan''']]}}
+{{Image label|x=320|y=350|scale=300/750|text=[[Xiangshan District, Huaibei|'''Xiangshan''']]}}
+{{Image label|x=530|y=290|scale=300/750|text=[[Duji District|'''Duji''']]}}
+{{Image label|x=310|y=720|scale=300/750|text=[[Suixi County, Anhui|'''Suixi<br />County''']]}}
+{{Image label end}}
+</div>
+|}
+
+==Natural environment==
+
+===Geography===
+Situated in northern Anhui, Huaibei is located at the junction of [[Jiangsu]], [[Henan]], and Anhui. The town of {{ill|Duanyuan|zh|段园镇}} forms the [[exclave]] of [[Duji District]] that borders [[Xuzhou]] (Jiangsu) to the north.
+
+==Sports==
+
+The [[Huaibei City Stadium]] is located in Huaibei. The 30,000-capacity venue is used mostly for football (soccer) matches.
+
+==Climate==
+Huaibei city has a monsoon-influenced [[humid subtropical climate]] ([[Köppen climate classification|Köppen]]: ''Cwa''). Summers are hot and humid, and winters are cool to cold and dry. 
+{{Weather box|width=auto
+|metric first=y
+|single line=y 
+|collapsed = Y
+| location     = Huaibei (1991–2020 normals, extremes 1981–2010)
+| Jan record high C = 18.0
+| Feb record high C = 25.4
+| Mar record high C = 28.6
+| Apr record high C = 34.1
+| May record high C = 36.9
+| Jun record high C = 40.4
+| Jul record high C = 39.6
+| Aug record high C = 38.0
+| Sep record high C = 36.9
+| Oct record high C = 34.4
+| Nov record high C = 27.7
+| Dec record high C = 21.4
+|Jan high C = 	6.2
+|Feb high C = 	9.6
+|Mar high C = 	15.1
+|Apr high C = 	21.7
+|May high C = 	27.0
+|Jun high C = 	31.3
+|Jul high C = 	32.2
+|Aug high C = 	31.1
+|Sep high C = 	27.5
+|Oct high C = 	22.4
+|Nov high C = 	15.0
+|Dec high C = 	8.3
+|Jan mean C = 	1.6
+|Feb mean C = 	4.6
+|Mar mean C = 	9.8
+|Apr mean C = 	16.2
+|May mean C = 	21.6
+|Jun mean C = 	26.0
+|Jul mean C = 	27.9
+|Aug mean C = 	26.9
+|Sep mean C = 	22.6
+|Oct mean C = 	17.0
+|Nov mean C = 	9.8
+|Dec mean C = 	3.6
+|Jan low C = 	-1.8
+|Feb low C = 	0.8
+|Mar low C = 	5.5
+|Apr low C = 	11.4
+|May low C = 	16.9
+|Jun low C = 	21.5
+|Jul low C = 	24.4
+|Aug low C = 	23.7
+|Sep low C = 	18.9
+|Oct low C = 	12.7
+|Nov low C = 	5.9
+|Dec low C = 	0.1
+| Jan record low C = -12.0
+| Feb record low C = -14.0
+| Mar record low C =  −7.3
+| Apr record low C =   0.1
+| May record low C =   6.2
+| Jun record low C =  13.3
+| Jul record low C =  17.1
+| Aug record low C =  13.9
+| Sep record low C =   9.1
+| Oct record low C =   0.3
+| Nov record low C =  −7.2
+| Dec record low C = -14.0
+| precipitation colour  = green
+|Jan precipitation mm = 	16.0
+|Feb precipitation mm = 	20.3
+|Mar precipitation mm = 	33.7
+|Apr precipitation mm = 	37.8
+|May precipitation mm = 	71.4
+|Jun precipitation mm = 	110.6
+|Jul precipitation mm = 	220.3
+|Aug precipitation mm = 	173.7
+|Sep precipitation mm = 	63.3
+|Oct precipitation mm = 	42.2
+|Nov precipitation mm = 	33.5
+|Dec precipitation mm = 	18.0
+|Jan humidity = 	66
+|Feb humidity = 	64
+|Mar humidity = 	63
+|Apr humidity = 	63
+|May humidity = 	65
+|Jun humidity = 	67
+|Jul humidity = 	78
+|Aug humidity = 	80
+|Sep humidity = 	74
+|Oct humidity = 	68
+|Nov humidity = 	69
+|Dec humidity = 	67
+|unit precipitation days = 0.1 mm	
+|Jan precipitation days = 4.2
+|Feb precipitation days = 5.6
+|Mar precipitation days = 6.0
+|Apr precipitation days = 6.9
+|May precipitation days = 7.2
+|Jun precipitation days = 7.7
+|Jul precipitation days = 13.0
+|Aug precipitation days = 11.1
+|Sep precipitation days = 7.9
+|Oct precipitation days = 5.6
+|Nov precipitation days = 5.7
+|Dec precipitation days = 4.3
+|year precipitation days = 	
+|Jan sun = 	147.2
+|Feb sun = 	150.1
+|Mar sun = 	190.9
+|Apr sun = 	217.3
+|May sun = 	229.1
+|Jun sun = 	215.2
+|Jul sun = 	202.4
+|Aug sun = 	194.0
+|Sep sun = 	182.1
+|Oct sun = 	183.1
+|Nov sun = 	160.4
+|Dec sun = 	156.4
+|year sun = 	
+| Jan percentsun = 	47
+| Feb percentsun = 	48
+| Mar percentsun = 	51
+| Apr percentsun = 	55
+| May percentsun = 	53
+| Jun percentsun = 	50
+| Jul percentsun = 	46
+| Aug percentsun = 	47
+| Sep percentsun = 	50
+| Oct percentsun = 	53
+| Nov percentsun = 	52
+| Dec percentsun = 	51
+| year percentsun =	
+|Jan snow days = 	3.2
+|Feb snow days = 	2.9
+|Mar snow days = 	1.0
+|Apr snow days = 	0
+|May snow days = 	0
+|Jun snow days = 	0
+|Jul snow days = 	0
+|Aug snow days = 	0
+|Sep snow days = 	0
+|Oct snow days = 	0
+|Nov snow days = 	0.7
+|Dec snow days = 	1.8
+|year snow days = 	
+|source 1 = [[China Meteorological Administration]]<ref name="cma graphical">{{cite web |url=http://data.cma.cn/data/weatherBk.html |script-title=zh:中国气象数据网 – WeatherBk Data |publisher=[[China Meteorological Administration]] |language = zh-hans |access-date=30 July 2023}}</ref><ref>
+{{cite web|url=https://experience.arcgis.com/template/e724038fda394e9d9b7921f10fd1aa55/page/%E7%BA%AF%E8%A1%A8%E6%A0%BC%E7%BB%9F%E8%AE%A1-(%E5%AF%B9%E6%AF%948110%E5%8F%98%E5%8C%96)/?org=UQmaps |script-title=zh:中国气象数据网|publisher=[[China Meteorological Administration]] |language = zh-hans | access-date =30 July 2023 |title=Experience Template }}</ref>
+}}
+
+===Natural resources===
+
+Huaibei has vast quantities of mineral reserves including [[marble]], [[iron]], [[copper]], [[gold]], [[silver]], [[nickel]], [[cobalt]], [[fire clay]] and [[limestone]]. It also possesses 2.726 million tons of [[coal]].
+
+==Economy==
+
+===Industry===
+Huaibei is the home to numerous chemical, construction, machinery, textile, power, electronics, and mineral industrial firms. The city has over 2,000 industrial enterprises, of which 22 large and medium-sized ones are run by the state.
+
+The annual output of raw coal from Huaibei is 2,000 million tons, ranking first in eastern China.
+
+The power industry has also developed rapidly and is currently ranked third in eastern China - Huaibei Power Station has a total installed capacity of 950 MW and an annual electricity output of 620 GW. The Huaibei No. 2 Power Station, with the total installed capacity of l.2 GW, is also being built.
+
+The textile industry in Huaibei is ranked second in Anhui. It has established a comprehensive system of printing and dyeing, wool and silk spinning, and knitting processes. The textile firms have 200,000 spindles, 15,000 looms, with a printing & dyeing capacity of 110 million meters.
+
+Huaibei's winemaking industry is over 1,000 years old. The ''Kouzi'' wine from the city has an annual output of 20,000 tons.
+
+The construction industry is developing rapidly with an annual cement output of 2 million tons.
+
+The chemical industry focuses on industrial products such as [[fertilizers]], [[coke (fuel)|coke]], [[sulphuric acid]], and [[rubber]].
+
+The metallurgy, machinery, electronics, and food industries have also produced more than 100 kinds of products have reached or been approaching the national or international level.
+
+===Agriculture===
+
+Huaibei is the main agriculture base for producing and exporting grain, cotton, and domestic animals. The main crops are wheat, maize, cotton, broad bean, rice, and potato. Livestocks include cattle, horse, pig, goat, rabbit, and domestic birds, etc. More than 200,000 mu ({{convert|130|km2|abbr=on|disp=or}}) of land has been cultivated for fisheries that contain a large number of fish, shrimps, and crabs. The city is part of the National Agricultural Comprehensive Development Zones in Huanghai and Huaihai.
+
+===Foreign trade===
+
+Huaibei is one of the ten largest coal exporting cities in China and the largest exporter of textile products within Anhui Province. A large exporting enterprise in the city is responsible for producing 13 classes of over 100 kinds of export goods, among them coal, textile, grain, oil, silk, ores, chemicals, and pharmaceutical products. These merchandise are then exported to more than 80 countries and regions such as the [[United States]], [[Japan]], [[Australia]], [[Canada]], [[Western Europe]], [[Russia]], and [[Hong Kong]], etc.
+
+===Development zone===
+
+Huaibei has formed South Lake Economic and Technological Development Zone and the Tanxikouzi Economic and Technological Development Zone to attract foreign investors.
+
+==Transportation and communication==
+
+The railways in the city are linked to [[Beijing]]-[[Shanghai]] Railway to the east, [[Urumqi]]-[[Lianyungang]] Railway to the north, and [[Beijing]]-[[Kowloon]] Railway to the west. Six state and provincial highways run through the city. Qinglongshan Port in Huaibei opens to [[Hongze Lake]] that connects to [[Yangtze River]]. The city is also only {{convert|50|km|abbr=on}} away from [[Xuzhou]] Guanyin Airport.
+
+The 550&nbsp;MHz stations in Huaibei can receive televised programs from more than 20 channels in China.
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wiktionary|Huaibei|Huai-pei}}
+*[https://web.archive.org/web/20051013071818/http://www.huaibei.gov.cn/ Government website of Huaibei] {{in lang|zh}}
+
+{{Anhui topics}}
+{{Anhui}}
+{{Prefectural-level divisions of the People's Republic of China}}
+{{Authority control}}
+
+[[Category:Huaibei| ]]
+[[Category:Cities in Anhui]]

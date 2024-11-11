@@ -1,0 +1,857 @@
+{{Use mdy dates|date=April 2021}}
+{{Infobox settlement
+|name            = Sioux Falls, South Dakota
+|settlement_type          = [[City]]
+|nickname                 = Best Little City in America, Queen City of the West, The Heart of America
+|motto                    = 
+<!-- Images --------------->
+|image_skyline            = {{multiple image|total_width=300|perrow=1/2/2/1|border=infobox|caption_align=center|image1=Downtown_and_Falls_Park_03-16-24.jpg|caption1=Sioux Falls skyline as seen from Falls Park|image2=OldMinnehahaCountyCH9.jpg|caption2=[[Old Minnehaha County Courthouse]]|image3=Washington Pavilion 8.JPG|caption3=[[Washington Pavilion of Arts and Science]]|image4=Premier Center Side 05-11-15.jpg|caption4=[[Denny Sanford Premier Center]]|image5=Old Main & East Hall Augustana 1.jpg|caption5=[[Augustana University]]}}
+|imagesize                = 
+|image_caption            = 
+|image_flag               = Flag of Sioux Falls, South Dakota.svg
+|image_seal               = SiouxFallsSeal1.png
+|image_blank_emblem       = Sioux Falls Logo.png
+|blank_emblem_type        = Logo
+<!-- Maps ----------------->
+|image_map                = {{maplink
+  | frame              = yes
+  | plain              = yes
+  | frame-align        = center
+  | frame-width        = 290
+  | frame-height       = 290
+  | frame-coord        = {{coord|qid=Q131335}}
+  | zoom               = 10
+  | type               = shape
+  | marker             = city
+  | stroke-width       = 2
+  | stroke-color       = #0096FF
+  | fill               = #0096FF
+  | id2                = Q131335
+  | type2              = shape-inverse
+  | stroke-width2      = 2
+  | stroke-color2      = #5F5F5F
+  | stroke-opacity2    = 0
+  | fill2              = #000000
+  | fill-opacity2      = 0
+}}
+| map_caption              = Interactive map of Sioux Falls
+|pushpin_map = South Dakota#USA
+|pushpin_relief = yes
+<!-- Location ------------->
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[South Dakota]]
+|subdivision_type2        = [[List of counties in South Dakota|Counties]]
+|subdivision_name2        = [[Minnehaha County, South Dakota|Minnehaha]], [[Lincoln County, South Dakota|Lincoln]]
+<!-- Government ----------->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = [[Paul TenHaken]] ([[Republican Party (United States)|R]])
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Founded
+|established_date         = 1856
+|established_title1       = [[Municipal corporation|Incorporated]]
+|established_date1        = February 4, 1879<ref>{{cite web|title=SD Towns |publisher=[[South Dakota State Historical Society]] |access-date=February 14, 2010 |url=http://history.sd.gov/Archives/forms/exhibits/SD%20Towns.pdf |url-status=dead |archive-url=https://web.archive.org/web/20100210030454/http://history.sd.gov/Archives/forms/exhibits/SD%20Towns.pdf |archive-date=February 10, 2010}}</ref>
+|named_for                = [[The waterfall of the Big Sioux River]]
+<!-- Area ----------------->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2020">{{cite web|title=2020 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2020_Gazetteer/2020_gaz_place_46.txt|publisher=United States Census Bureau|accessdate=July 24, 2022}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 210.27
+|area_land_km2            = 208.87
+|area_water_km2           = 1.40
+|area_total_sq_mi         = 81.19
+|area_land_sq_mi          = 80.64
+|area_water_sq_mi         = 0.54
+<!-- Population ----------->
+|population_as_of         = [[2020 United States census|2020]]
+|population_est           = 206410
+|pop_est_as_of            = 2023
+|pop_est_footnotes        = <ref name="USCensusEst2022"/>
+|population_footnotes     = <ref name="2020 Census (City)"/>
+|population_total         = 192517
+|population_rank          = US: [[List of United States cities by population|121st]]<br>SD: [[List of cities in South Dakota|1st]]
+|population_density_km2   = 921.72
+|population_density_sq_mi = 2387.25
+|population_urban_footnotes = <ref name="urban area">{{cite web |url=https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural.html|title=List of 2020 Census Urban Areas|website=census.gov|publisher=United States Census Bureau|access-date=January 8, 2023}}</ref>
+|population_urban         = 194283 (US: [[List of United States urban areas|197th]])
+|population_density_urban_km2 = 1104.8
+|population_density_urban_sq_mi = 2861.3
+|population_metro_footnotes = <ref name="2020Pop">{{cite web |title=2020 Population and Housing State Data |url=https://www.census.gov/library/visualizations/interactive/2020-population-and-housing-state-data.html |publisher=United States Census Bureau |access-date=September 23, 2021}}</ref>
+|population_metro         = 289592 (US: [[Metropolitan statistical area|171st]])
+|population_density_metro_km2 = 43.42
+|population_density_metro_sq_mi = 112.5
+|population_demonym       = Siouxlander (unofficial)
+<!-- General information -->
+|timezone                 = [[Central Time Zone|Central (CST)]]
+|utc_offset               = –6
+|timezone_DST             = CDT
+|utc_offset_DST           = –5
+|elevation_footnotes      = <ref name=gnis/>
+|elevation_m              = 446
+|elevation_ft             = 1463
+|coordinates              = {{coord|43|32|11|N|96|43|54|W|region:US-SD|display=it}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = {{collapsible list|title=Zip codes<ref>{{cite web|url=http://zip4.usps.com/zip4/citytown.jsp|publisher=USPS|title=Zip Code Lookup|access-date=May 22, 2015|url-status=dead|archive-url=https://web.archive.org/web/20080101160345/http://zip4.usps.com/zip4/citytown.jsp |archive-date=January 1, 2008}}</ref>|frame_style= border:none; padding: 0;|list_style=text-align:center;display:none|57101, 57103-57110, 57117-57118, 57186, 57188-57189, 57192-57193, 57197-57198}}
+|area_code                = [[Area code 605|605]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 46-59020
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1267566<ref name=gnis>{{GNIS|1267566}}</ref>
+|blank_name_sec1          = [[Sales tax]]
+|blank_info_sec1          = 6.2%<ref>{{cite web|url=https://www.avalara.com/taxrates/en/state-rates/south-dakota/cities/sioux-falls.html|title=Sioux Falls (SD) sales tax rate|access-date=December 19, 2023}}</ref>
+|website                  = {{URL|https://www.siouxfalls.gov/home|siouxfalls.gov}}
+|footnotes                = 
+}}
+
+'''Sioux Falls''' ({{IPAc-en|ˌ|s|uː|_|ˈ|f|ɔː|l|z}} {{respell|SOO|_|FALZ}}) is the [[List of cities in South Dakota|most populous city]] in the [[U.S. state]] of [[South Dakota]] and the [[List of United States cities by population|121st-most populous city]] in the United States. It is the [[county seat]] of [[Minnehaha County, South Dakota|Minnehaha County]]<ref name="GR6">{{cite web|url=http://www.naco.org/Counties/Pages/FindACounty.aspx|access-date=June 7, 2011|title=Find a County|publisher=National Association of Counties}}</ref> and also extends into northern [[Lincoln County, South Dakota|Lincoln County]] to the south, which continues up to the [[Iowa]] state line. The population was 192,517 at the [[2020 United States census|2020 census]],<ref name="2020 Census (City)">{{cite web|title=Explore Census Data |url=https://data.census.gov/profile/Sioux_Falls_city,_South_Dakota?g=160XX00US4659020 |publisher=[[United States Census Bureau]] |access-date=December 19, 2023}}</ref> and in 2022, its estimated population was 202,078.<ref name="USCensusEst2022"/> According to city officials, the estimated population had grown to 213,891 as of early 2024.<ref>{{cite web|url=https://www.siouxfalls.business/sioux-falls-announces-year-end-building-totals-new-population-number/ |title=Sioux Falls announces year-end building totals, new population number |work=siouxfalls.business|date=January 12, 2024 }}</ref> The Sioux Falls metro area accounts for more than 30% of the state's population. Chartered in 1856 on the banks of the [[Big Sioux River]], the city is situated in the rolling hills at the junction of [[Interstate 29 in South Dakota|interstates 29]] and [[Interstate 90 in South Dakota|90]].
+
+==History==
+{{Main|History of Sioux Falls, South Dakota|Timeline of Sioux Falls, South Dakota}}
+[[File:Downtown Sioux Falls in the evening.jpg|thumb|left|Looking south on Main Avenue]]
+[[File:South Dakota - Sioux Falls - NARA - 68148946 (cropped).jpg|thumb|left|Sioux Falls in October 1943]]
+The history of Sioux Falls revolves around the cascades of the [[Big Sioux River]]. The falls were created about 14,000 years ago during the [[Wisconsin glaciation|last ice age]]. The lure of the falls has been a powerful influence. [[Ho-Chunk]], [[Iowa people|Ioway]], [[Otoe]], [[Missouria]], [[Omaha people|Omaha]] (and [[Ponca]] at the time), [[Quapaw]], [[Kaw people|Kansa]], [[Osage Nation|Osage]], [[Arikara]], [[Sioux]], and [[Cheyenne]] people inhabited and settled the region previous to Europeans and European descendants. Numerous [[burial mounds]] still exist on the high bluffs near the river and are spread throughout the general vicinity. Indigenous people maintained an agricultural society with fortified villages, and the later arrivals rebuilt on many of the same sites that were previously settled. [[Lakota people|Lakota]] populate urban and reservation communities in the contemporary state and many Lakota, Dakota, and numerous other Indigenous Americans reside in Sioux Falls today.<ref>{{cite web|title=American Indian Services Inc. |url=http://www.americanindianservicesinc.org/ |access-date=April 22, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080304030725/http://www.americanindianservicesinc.org/ |archive-date=March 4, 2008}}</ref>
+
+French voyagers/explorers visited the area in the early 18th century. The first documented visit by an American of European descent was by [[Philander Prescott]], who camped overnight at the falls in December 1832. Captain [[James Allen (Army engineer)|James Allen]] led a military expedition out of Fort Des Moines in 1844. Jacob Ferris described the Falls in his 1856 book "The States and Territories of the Great West".<ref>{{cite web|title=History of Sioux Falls |publisher=City of Sioux Falls |access-date=November 23, 2008 |url=http://www.siouxfalls.org/Information/history/siouxfalls.aspx |url-status=dead |archive-url=https://web.archive.org/web/20080705075009/http://www.siouxfalls.org/Information/history/siouxfalls.aspx |archive-date=July 5, 2008}}</ref>
+
+Two separate groups, the Dakota Land Company of [[Saint Paul, Minnesota|St. Paul]] and the Western Town Company of [[Dubuque, Iowa]] organized in 1856 to claim the land around the falls, considered a promising townsite for its beauty and water power. Each laid out {{convert|320|acre|km2|adj=on}} claims, but worked together for mutual protection. They built a temporary barricade of turf which they dubbed "Fort Sod", in response to native tribes attempting to defend their land from the settlers. Seventeen men then spent "the first winter" in Sioux Falls. The following year the population grew to near 40.
+
+Although conflicts in [[Minnehaha County, South Dakota|Minnehaha County]] between [[Native Americans in the United States|Native Americans]] and white [[settler]]s were few, the [[Dakota War of 1862]] engulfed nearby southwestern [[Minnesota]]. The town was evacuated in August of that year when two local [[settlers]] were killed as a result of the conflict. The settlers and [[soldier]]s stationed here traveled to [[Yankton, South Dakota|Yankton]] in late August 1862. The abandoned townsite was pillaged and burned.
+
+Fort Dakota, a military reservation established in present-day downtown, was established in May 1865.<ref>{{cite web|url=https://www.angelfire.com/mn3/rambow/vtour.html |title=Ft. Dakota Virtual Tour |website=Angelfire.com |access-date=March 18, 2017}}</ref> Many former settlers gradually returned and a new wave of settlers arrived in the following years. The population grew to 593 by 1873, and a building boom was underway in that year. The Village of Sioux Falls, consisting of {{convert|1200|acre|km2}}, was incorporated in 1876 and was granted a city charter by the Dakota Territorial legislature on March 3, 1883.<ref>{{cite web|url=http://www.factmonster.com/ce6/us/A0845380.html |title=Sioux Falls |website=Factmonster.com |access-date=March 18, 2017}}</ref>
+
+The arrival of the [[rail transport|railroads]] ushered in the great Dakota Boom decade of the 1880s. The population of Sioux Falls mushroomed from 2,164 in 1880 to 10,167 at the close of the decade. The growth transformed the city. A [[Locust Plague of 1874|severe plague of grasshoppers]] and a [[Long Depression|national depression]] halted the boom by the early 1890s. The city grew by only 89 people from 1890 to 1900.
+
+In the 1890s Sioux Falls became a destination for women seeking divorce due to having some of the nation's most permissive divorce laws and being accessible by rail. It was known as the "Divorce Colony" and remained a popular venue for divorces until South Dakota changed its residency requirements in 1908.<ref>{{cite news |last1=Kindy |first1=Dave |title=When divorce was widely banned, desperate women went to South Dakota |url=https://www.washingtonpost.com/history/2022/07/03/south-dakota-divorce-capital/ |newspaper=Washington Post |date=July 3, 2022}}</ref>
+
+But prosperity eventually returned with the opening of the John Morrell meat packing plant in 1909, the establishment of an airbase and a military radio and communications training school in 1942, and the completion of the interstate highways in the early 1960s. Much of the growth in the first part of the 20th century was fueled by agriculturally based industry, such as the Morrell plant and the nearby stockyards (one of the largest in the nation).
+
+{{Wide image|Sioux Falls panorama 1908 1.jpg|650px|Downtown Sioux Falls in 1908, looking west}}
+
+In 1955 the city decided to consolidate the neighboring incorporated city of [[South Sioux Falls, South Dakota|South Sioux Falls]]. At the time South Sioux Falls had a population of nearly 1,600 inhabitants, according to the 1950 census. It was the third largest city in the county after Sioux Falls and Dell Rapids. By October 18, 1955, South Sioux Falls residents voted 704 in favor and 227 against to consolidate with Sioux Falls. On the same issue, Sioux Falls residents voted on November 15 by the vote 2,714 in favor and 450 against.
+
+In 1981, to take advantage of recently relaxed state [[usury]] laws, [[Citibank]] relocated its primary credit card center from [[New York City]] to Sioux Falls. Some claim that this event was the primary impetus for the increased population and job growth rates that Sioux Falls has experienced over the past quarter-century. Others point out that Citibank's relocation was only part of a more general transformation of the city's economy from an industrially based one to an economy centered on health care, finance, and retail trade.<ref>Hetland, Cara. ''Sioux Falls 25 years after Citibank's arrival.'' [http://minnesota.publicradio.org/display/web/2006/02/23/siouxfalls], Minnesota Public Radio. February 24, 2006. (accessed March 23, 2007)</ref>
+
+Sioux Falls has grown at a rapid pace since the late 1970s, with the city's population more than doubling from 81,182 in 1980 to 192,517 in 2020.
+
+{{Wide image|Sioux Falls Skyline.jpg|800px|Downtown Sioux Falls in 2010, looking west}}
+
+===2019 tornadoes===
+On the night of [[Tornadoes of 2019#September 10–11|September 10, 2019]], the south side of Sioux Falls was hit by three strong EF2 tornadoes, severely damaging at least 37 buildings, including the Plaza 41 Shopping Center. One tornado hit the Avera Heart Hospital, damaging portions of the roof and windows, and causing seven injuries, including a man who fractured his skull as he was thrown into an exterior wall of the hospital. Another tornado hit the busy commercial district near the Empire Mall, injuring one woman inside her home. Another touched down on the far south side in a suburban residential area, tearing the roofs off homes. The total damage was more than $5 million.<ref>{{cite report|author=National Weather Service Weather Forecast Office in Sioux Falls, South Dakota|title=South Dakota Event Report: EF2 Tornado|url=https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=857460|publisher=National Centers for Environmental Information|year=2019|accessdate=January 18, 2020}}{{cite report|author=National Weather Service Weather Forecast Office in Sioux Falls, South Dakota|title=South Dakota Event Report: EF2 Tornado|url=https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=857477|publisher=National Centers for Environmental Information|year=2019|accessdate=January 18, 2020}}{{cite report|author=National Weather Service Weather Forecast Office in Sioux Falls, South Dakota|title=South Dakota Event Report: EF2 Tornado|url=https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=857478|publisher=National Centers for Environmental Information|year=2019|accessdate=January 18, 2020}}{{Cite news|agency=Associated Press|date=September 11, 2019|title=Powerful storm strikes Sioux Falls with three confirmed EF-2 tornadoes|url=https://www.kcrg.com/content/news/Powerful-storm-strikes-Sioux-Falls-with-three-confirmed-EF-2-tornadoes-560060791.html|access-date=September 25, 2020|work=KCRG News}}</ref>
+
+==Geography==
+According to the [[United States Census Bureau]], the city has an area of {{convert|73.47|sqmi|2}}, of which {{convert|72.96|sqmi|2}} is land and {{convert|0.51|sqmi|sqkm|2}} is water.<ref name="Gazetteer files">{{cite web|title=US Gazetteer files 2010 |url=https://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt |publisher=[[United States Census Bureau]] |access-date=June 21, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120125061959/http://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt |archive-date=January 25, 2012}}</ref> The city is in extreme eastern South Dakota, about {{convert|15|mi}} west of the [[Minnesota]] border.
+
+===Metropolitan area===
+The [[Sioux Falls, South Dakota metropolitan area|Sioux Falls Metropolitan Statistical Area]] consists of four South Dakota counties ([[Lincoln County, South Dakota|Lincoln]], [[McCook County, South Dakota|McCook]], [[Minnehaha County, South Dakota|Minnehaha]], and [[Turner County, South Dakota|Turner]]) and one Minnesota county ([[Rock County, Minnesota|Rock]]).<ref>{{cite web|url=https://siouxfalls.business/sioux-falls-metro-area-officially-expands-into-minnesota/ |title=Sioux Falls metro area officially expands — into Minnesota |work=siouxfalls.business|date=July 15, 2024 }}</ref> The estimated population of this MSA in 2022 was 289,592, an increase of 4.6% from the 2020 census.<ref name=PopEstMSA>{{cite web|url=https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-metro-and-micro-statistical-areas.html|title=Metropolitan and Micropolitan Statistical Areas Population Totals: 2020-2022|work=2022 Population Estimates|publisher=[[United States Census Bureau]], Population Division|date=December 19, 2023|access-date=December 19, 2023}}</ref> In addition to Sioux Falls, the metropolitan area includes [[Canton, South Dakota|Canton]], [[Brandon, South Dakota|Brandon]], [[Dell Rapids, South Dakota|Dell Rapids]], [[Tea, South Dakota|Tea]], [[Harrisburg, South Dakota|Harrisburg]], [[Worthing, South Dakota|Worthing]], [[Beresford, South Dakota|Beresford]], [[Lennox, South Dakota|Lennox]], [[Hartford, South Dakota|Hartford]], [[Crooks, South Dakota|Crooks]], [[Baltic, South Dakota|Baltic]], [[Montrose, South Dakota|Montrose]], [[Salem, South Dakota|Salem]], Renner, Rowena, Chancellor, Colton, Humboldt, Parker, Hurley, [[Garretson, South Dakota|Garretson]], Sherman, Corson, Viborg, Irene, Centerville, [[Luverne, Minnesota|Luverne]], [[Hills, Minnesota|Hills]], and [[Beaver Creek, Minnesota|Beaver Creek]]. 
+
+===Climate===
+[[File:Monthly Climate Normals (1991-2020) - Sioux Falls Area, SD(ThreadEx).svg|thumb|right|Climate chart for Sioux Falls]]
+Due to its inland location and relatively high latitude, Sioux Falls has a [[humid continental climate]] ([[Köppen climate classification|Köppen]] ''Dfa'', bordering on ''Dwa'') characterized by hot, humid summers and cold, dry winters. It is in [[Hardiness zone|USDA Plant Hardiness Zone]] 5a.<ref>{{Cite news|title = USDA Plant Hardiness Zone Map|access-date = July 18, 2013|url = http://planthardiness.ars.usda.gov/PHZMWeb/Default.aspx|publisher = United States Department of Agriculture – Agricultural Research Service}}</ref> The monthly daily average temperature ranges from {{convert|17.9|F|1}} in January to {{convert|74.4|F|1}} in July; there are 15 days of maximums at or above {{convert|90|F|0}} and 25 days with minimums at or below {{convert|0|F|0}} annually.<ref name=NOAA/><ref name=NCEI/> Snowfall occurs mostly in light to moderate amounts during the winter, totaling {{convert|45.3|in|cm|0}}.<ref name=NOAA/><ref name=NCEI/> Precipitation, at {{convert|27.85|in|mm|0}} annually, is concentrated in the warmer months.<ref name=NOAA/><ref name=NCEI/> This results in frequent [[thunderstorm]]s in summer from [[convection]] being built up with the unstable weather patterns. Extremes range from {{convert|-42|F|0}} on [[Great Blizzard of 1899|February 9, 1899]] to {{convert|110|F|0}} as recently as June 21, 1988.<ref name=NOAA/>
+
+{{Weather box
+| collapsed =
+| location = Sioux Falls ([[Sioux Falls Regional Airport|Foss Field Airport]]), elevation: {{convert|436|m|abbr=on|disp=or}},{{efn|Considering the average elevation of the airport.<ref>{{cite web|url=https://aviation-safety.net/database/airport/airport.php?id=FSD|title=Sioux Falls Regional Airport (Jo Foss Field), SD profile – Aviation Safety Network|last=Ranter|first=Harro|website=aviation-safety.net|access-date=June 27, 2019}}</ref>}} 1991–2020 normals,{{efn|Mean monthly maximums and minimums (i.e. the expected highest and lowest temperature readings at any point during the year or given month) calculated based on data at said location from 1991 to 2020.}} extremes 1893–present
+|single line = Y
+|Jan record high F = 66
+|Feb record high F = 70
+|Mar record high F = 88
+|Apr record high F = 98
+|May record high F = 104
+|Jun record high F = 110
+|Jul record high F = 110
+|Aug record high F = 109
+|Sep record high F = 104
+|Oct record high F = 95
+|Nov record high F = 82
+|Dec record high F = 63
+|year record high F = 110
+|Jan avg record high F = 47.4
+|Feb avg record high F = 53.1
+|Mar avg record high F = 70.4
+|Apr avg record high F = 82.2
+|May avg record high F = 87.7
+|Jun avg record high F = 93.4
+|Jul avg record high F = 94.7
+|Aug avg record high F = 93.7
+|Sep avg record high F = 89.7
+|Oct avg record high F = 81.8
+|Nov avg record high F = 66.7
+|Dec avg record high F = 50.1
+|year avg record high F = 96.8
+|Jan high F = 27.2
+|Feb high F = 32.0
+|Mar high F = 45.0
+|Apr high F = 59.0
+|May high F = 70.8
+|Jun high F = 80.9
+|Jul high F = 85.3
+|Aug high F = 82.8
+|Sep high F = 75.6
+|Oct high F = 61.1
+|Nov high F = 45.0
+|Dec high F = 31.6
+|year high F = 58.0
+|Jan mean F = 17.9
+|Feb mean F = 22.3
+|Mar mean F = 34.7
+|Apr mean F = 47.2
+|May mean F = 59.1
+|Jun mean F = 69.9
+|Jul mean F = 74.4
+|Aug mean F = 72.0
+|Sep mean F = 63.8
+|Oct mean F = 49.6
+|Nov mean F = 34.8
+|Dec mean F = 22.5
+|year mean F = 47.4
+|Jan low F = 8.5
+|Feb low F = 12.6
+|Mar low F = 24.3
+|Apr low F = 35.5
+|May low F = 47.5
+|Jun low F = 58.8
+|Jul low F = 63.4
+|Aug low F = 61.1
+|Sep low F = 51.9
+|Oct low F = 38.1
+|Nov low F = 24.5
+|Dec low F = 13.4
+|year low F = 36.6
+|Jan avg record low F = -16.0
+|Feb avg record low F = -10.1
+|Mar avg record low F = -0.6
+|Apr avg record low F = 18.1
+|May avg record low F = 31.1
+|Jun avg record low F = 44.4
+|Jul avg record low F = 49.4
+|Aug avg record low F = 47.4
+|Sep avg record low F = 33.7
+|Oct avg record low F = 19.8
+|Nov avg record low F = 4.4
+|Dec avg record low F = -9.3
+|year avg record low F = -19.2
+|Jan record low F = −38
+|Feb record low F = −42
+|Mar record low F = −23
+|Apr record low F = 4
+|May record low F = 17
+|Jun record low F = 32
+|Jul record low F = 34
+|Aug record low F = 34
+|Sep record low F = 13
+|Oct record low F = −5
+|Nov record low F = −17
+|Dec record low F = −31
+|year record low F = -42
+|precipitation colour = green
+|Jan precipitation inch = 0.60
+|Feb precipitation inch = 0.83
+|Mar precipitation inch = 1.60
+|Apr precipitation inch = 3.00
+|May precipitation inch = 3.86
+|Jun precipitation inch = 4.23
+|Jul precipitation inch = 3.25
+|Aug precipitation inch = 3.34
+|Sep precipitation inch = 2.73
+|Oct precipitation inch = 2.36
+|Nov precipitation inch = 1.22
+|Dec precipitation inch = 0.83
+|year precipitation inch = 27.85
+|Jan snow inch = 8.0
+|Feb snow inch = 8.6
+|Mar snow inch = 7.2
+|Apr snow inch = 5.1
+|May snow inch = 0.1
+|Jun snow inch = 0.0
+|Jul snow inch = 0.0
+|Aug snow inch = 0.0
+|Sep snow inch = 0.0
+|Oct snow inch = 1.4
+|Nov snow inch = 6.2
+|Dec snow inch = 8.7
+|year snow inch = 45.3
+|unit precipitation days = 0.01 in
+|Jan precipitation days = 7.0
+|Feb precipitation days = 7.0
+|Mar precipitation days = 8.2
+|Apr precipitation days = 10.2
+|May precipitation days = 12.1
+|Jun precipitation days = 11.8
+|Jul precipitation days = 9.0
+|Aug precipitation days = 9.4
+|Sep precipitation days = 8.1
+|Oct precipitation days = 7.9
+|Nov precipitation days = 6.2
+|Dec precipitation days = 7.0
+|year precipitation days = 103.9
+|unit snow days = 0.1 in
+|Jan snow days = 7.3
+|Feb snow days = 6.8
+|Mar snow days = 5.1
+|Apr snow days = 2.2
+|May snow days = 0.1
+|Jun snow days = 0.0
+|Jul snow days = 0.0
+|Aug snow days = 0.0
+|Sep snow days = 0.0
+|Oct snow days = 0.9
+|Nov snow days = 3.5
+|Dec snow days = 6.9
+|year snow days = 32.8
+|Jan humidity = 71.7
+|Feb humidity = 73.3
+|Mar humidity = 72.1
+|Apr humidity = 64.5
+|May humidity = 63.5
+|Jun humidity = 65.4
+|Jul humidity = 65.4
+|Aug humidity = 67.9
+|Sep humidity = 69.5
+|Oct humidity = 67.2
+|Nov humidity = 73.4
+|Dec humidity = 75.5
+|year humidity = 69.1
+|Jan dew point C = −14.2
+|Feb dew point C = −10.8
+|Mar dew point C = −4.8
+|Apr dew point C = 0.9
+|May dew point C = 7.1
+|Jun dew point C = 12.9
+|Jul dew point C = 15.9
+|Aug dew point C = 14.9
+|Sep dew point C = 9.7
+|Oct dew point C = 2.7
+|Nov dew point C = −4.2
+|Dec dew point C = −11.1
+|year dew point C = 1.6
+|Jan uv = 1
+|Feb uv = 2
+|Mar uv = 4
+|Apr uv = 5
+|May uv = 7
+|Jun uv = 8
+|Jul uv = 9
+|Aug uv = 8
+|Sep uv = 6
+|Oct uv = 3
+|Nov uv = 2
+|Dec uv = 1
+| source 1 = [[NOAA]] (relative humidity and dew point 1961–1990)<ref name= NOAA>
+{{cite web
+|url = https://www.weather.gov/wrh/Climate?wfo=fsd
+|title = NowData – NOAA Online Weather Data
+|publisher = National Oceanic and Atmospheric Administration
+|access-date = October 14, 2021}}</ref><ref name=NCEI>
+{{cite web
+|url = https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&startDate=0001-01-01&endDate=9996-12-31&stations=USW00014944&format=pdf
+|title = Station: Sioux Falls, SD
+|work = U.S. Climate Normals 2020: U.S. Monthly Climate Normals (1991–2020)
+|publisher = National Oceanic and Atmospheric Administration
+|access-date = October 14, 2021
+|archive-url = https://web.archive.org/web/20230705043356/https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&startDate=0001-01-01&endDate=9996-12-31&stations=USW00014944&format=pdf
+|archive-date=July 5, 2023}}</ref><ref name=WMO>
+{{cite web
+|url = https://www.ncei.noaa.gov/pub/data/normals/WMO/1961-1990/TABLES/REG_IV/US/GROUP4/72651.TXT
+|title = WMO Climate Normals for Sioux Falls/Foss Field, SD 1961–1990
+|publisher = National Oceanic and Atmospheric Administration
+|access-date = October 14, 2021
+|archive-url = https://web.archive.org/web/20230705040939/https://www.ncei.noaa.gov/pub/data/normals/WMO/1961-1990/TABLES/REG_IV/US/GROUP4/72651.TXT
+|archive-date=July 5, 2023}}</ref>
+|source 2 = Weather Atlas (UV index)<ref name="Weather Atlas">{{cite web |url=https://www.weather-us.com/en/south-dakota-usa/sioux-falls-climate |title=Sioux Falls, South Dakota, USA – Monthly weather forecast and Climate data |publisher=Weather Atlas |access-date=July 4, 2019}}</ref>
+}}
+{{Graph:Weather monthly history
+| table=ncei.noaa.gov/weather/Sioux Falls, South Dakota.tab
+| title=Sioux Falls monthly weather statistics
+}}
+
+==Demographics==
+{{US Census population
+|1880= 2164
+|1890= 10177
+|1900= 10266
+|1910= 14094
+|1920= 25202
+|1930= 33362
+|1940= 40832
+|1950= 52969
+|1960= 65466
+|1970= 72488
+|1980= 81182
+|1990= 100814
+|2000= 123975
+|2010= 153888
+|2020= 192517
+|estyear=2023
+|estimate=206410
+|estref=<ref name="USCensusEst2022">{{cite web|url=https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html |date=December 19, 2023|title=City and Town Population Totals: 2020-2022|publisher=United States Census Bureau|accessdate=December 19, 2023}}</ref>
+|align-fn=center
+|footnote=U.S. Decennial Census<ref>{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade/2020/2020-census-results.html|title=2020 Census Results|publisher=Census.gov|access-date=August 14, 2021}}</ref><br>2020 Census<ref name="2020 Census (City)"/>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:center;"
+|+Sioux Falls, South Dakota – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000Census>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 Sioux Falls city, South Dakota Sioux Falls city, South Dakota |url=https://data.census.gov/table?g=160XX00US4659020&tid=DECENNIALSF12000.P004|publisher=[[United States Census Bureau]]}}</ref>
+!Pop 2010<ref>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) Sioux Falls city, South Dakota Sioux Falls city, South Dakota|url=https://data.census.gov/cedsci/table?g=160XX00US4659020&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]]}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) Sioux Falls city, South Dakota Sioux Falls city, South Dakota|url=https://data.census.gov/cedsci/table?g=160XX00US4659020&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|Non-Hispanic White]] alone (NH)
+|112,703
+|130,577
+|style='background: #ffffe6; |149,423
+|90.91%
+|84.85%
+|style='background: #ffffe6; |77.62%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|2,198
+|6,412
+|style='background: #ffffe6; |12,069
+|1.77%
+|4.17%
+|style='background: #ffffe6; |6.27%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|2,558
+|3,831
+|style='background: #ffffe6; |4,745
+|2.06%
+|2.49%
+|style='background: #ffffe6; |2.46%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|1,467
+|2,724
+|style='background: #ffffe6; |5,269
+|1.18%
+|1.77%
+|style='background: #ffffe6; |2.74%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|49
+|75
+|style='background: #ffffe6; |69
+|0.04%
+|0.05%
+|style='background: #ffffe6; |0.04%
+|-
+|Some Other Race alone (NH)
+|95
+|169
+|style='background: #ffffe6; |534
+|0.08%
+|0.11%
+|style='background: #ffffe6; |0.28%
+|-
+|[[Multiracial Americans|Mixed Race or Multi-Racial]] (NH)
+|1,818
+|3,273
+|style='background: #ffffe6; |8,139
+|1.47%
+|2.13%
+|style='background: #ffffe6; |4.23%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|3,087
+|6,827
+|style='background: #ffffe6; |12,269
+|2.49%
+|4.44%
+|style='background: #ffffe6; |6.37%
+|-
+|'''Total'''
+|'''123,975'''
+|'''153,888'''
+|style='background: #ffffe6; |'''192,517'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+As of the [[census]] of 2020, there were 192,517 people and 86,565 households in the city.
+
+===2010 census===
+As of the [[census]] of 2010, there were 153,888 people, 61,707 households, and 37,462 families residing in the city. The population density was {{convert|2109.2|PD/sqmi|PD/km2|1}}. There were 66,283 housing units at an average density of {{convert|908.5|/sqmi|/km2|1}}. The [[Race and ethnicity in the United States Census|racial makeup]] of the city was 86.8% White, 4.2% African American, 2.7% Native American, 1.8% Asian, 0.1% Pacific Islander, 2.0% from other races, and 2.5% from two or more races. Hispanic or Latino people of any race were 4.4% of the population.
+
+There were 61,707 households, of which 31.9% had children under the age of 18 living with them, 45.5% were married couples living together, 10.9% had a female householder with no husband present, 4.4% had a male householder with no wife present, and 39.3% were non-families. 30.6% of all households were made up of individuals, and 8.7% had someone living alone who was 65 years of age or older. The average household size was 2.40 and the average family size was 3.02.
+
+The median age in the city was 33.6 years. 24.6% of residents were under the age of 18; 10.7% were between the ages of 18 and 24; 29.7% were from 25 to 44; 24.1% were from 45 to 64; and 10.9% were 65 years of age or older. The gender makeup of the city was 49.6% male and 50.4% female.
+
+In 2015, the median household income in Minnehaha County, SD was $59,884, while Lincoln County, SD was $76,094. This represents a 0.29% growth from the previous year. The median family income for Sioux Falls was $74,632 in 2015. Males had a median income of $40,187 versus $31,517 for females. The [[per capita income]] for the county was $26,392. 11.8% of the population and 8.5% of families were below the [[Poverty threshold|poverty line]]. Out of the total population, 16.8% of those under the age of 18 and 8.8% of those 65 and older were living below the poverty line.<ref>2011–2015 American Community Survey 5-Year Estimates
+</ref>
+
+Many European immigrants, primarily from Scandinavia, Germany and the British Isles, settled in South Dakota in the 19th century. By 1890, one-third of the residents of South Dakota were immigrants.<ref>{{cite web|title=South Dakota State Historical Society EducationKit|url=https://history.sd.gov/museum/docs/Immigrants.pdf|access-date=April 15, 2021|pages=6–8}}</ref>
+
+===Religion===
+Most Sioux Falls residents are [[Lutheranism|Lutheran]]; [[Catholics]] are the second-largest group. The [[Evangelical Lutheran Church in America]] is the largest Lutheran denomination in the city, with 20 churches in Sioux Falls.<ref>{{cite web |url= http://search.elca.org/Pages/WorldMap.aspx?Type=Synod&Synod=3C%20-%20South%20Dakota%20Synod,%20ELCA&Language=|title = Pages – ELCA Interactive Map}}</ref> As of 2008, there was one mosque in Sioux Falls for approximately 3,000 Muslims.<ref>{{cite web | last=Tarabay | first=Jamie | title=Muslim Community On the Rise in South Dakota | website=NPR | date=June 22, 2008 | url=https://www.npr.org/2008/06/22/91784882/muslim-community-on-the-rise-in-south-dakota | access-date=October 28, 2024}}</ref> Sioux Falls also has the only Hindu temple in South Dakota, Hindu Temple of Siouxland, located in its suburb of [[Tea, SD]].<ref>{{Cite web |last=Langland |first=Jill |date=2018-10-15 |title=Grand opening of South Dakota's first Hindu Temple |url=https://www.dakotanewsnow.com/content/news/Grand-opening-of-South-Dakotas-first-Hindu-Temple-497540551.html |access-date=2024-01-19 |website=Dakotanewsnow.com |language=en}}</ref>
+
+==Economy==
+===Top employers===
+According to the city's 2022 Comprehensive Annual Financial Report,<ref>{{cite web|url=https://legislativeaudit.sd.gov/reports/City/Sioux%20Falls%20City%202022.pdf|title=City of Sioux Falls 2022 Comprehensive Annual Financial Report|page=146|date=December 19, 2023}}</ref> the largest employers in the city are:
+
+{| class="wikitable"
+|-
+! #
+! Employer
+! Industry
+! # of Employees
+! Percentage
+|-
+| 1
+| [[Sanford Health]]
+| Health Care
+| 11,010
+| 6.9%
+|-
+| 2
+| [[Avera Health]]
+| Health Care
+| 7,888
+| 4.9%
+|-
+| 3
+| [[Sioux Falls School District]]
+| Education
+| 3,688
+| 2.1%
+|-
+| 4
+| [[Smithfield Foods]] (John Morrell)
+| Meat Processing
+| 3,400
+| 2.3%
+|-
+| 5
+| [[Hy-Vee]]
+| Retail Grocery
+| 2,806
+| 1.8%
+|-
+| 6
+| [[Wells Fargo]]
+| Financial
+| 2,035
+| 1.3%
+|-
+| 7
+| [[Walmart]]/[[Sam's Club]]
+| Retail
+| 1,547
+| 1.0%
+|-
+| 8
+| City of Sioux Falls
+| Government
+| 1,477
+| 0.9%
+|-
+| 9
+| [[Citigroup]]
+| Financial
+| 1,400
+| 0.8%
+|-
+| 10
+| [[United States Department of Veterans Affairs|Department of Veterans Affairs Medical & Regional Office]]
+| Medical
+| 1,214
+| 0.9%
+|-
+|—
+|'''Total employers'''
+|—
+|'''36,465'''
+|'''22.8%'''
+|}
+
+Partially due to the lack of a state corporate income tax, Sioux Falls is home to a number of financial companies. The largest employers among these<ref name="siouxfallsdevelopment">{{cite web|url=https://www.argusleader.com/story/news/business-journal/2019/03/22/sioux-falls-jobs-sanford-avera-health-walmart-wells-fargo-hyvee-top-employers/3224514002/http://www.siouxfallsdevelopment.com/Publications/CDP-2016.pdf|title=Major Area Employers|publisher=Sioux Falls Development Foundation|access-date=January 27, 2016|archive-url=https://web.archive.org/web/20161211094959/http://siouxfallsdevelopment.com/Publications/CDP-2016.pdf|archive-date=December 11, 2016|url-status=dead}}</ref> are [[Wells Fargo]] and [[Citigroup]].
+
+While no longer as economically dominant as it once was, the [[manufacturing]] and [[food processing]] sector remains an important component of Sioux Falls' economy. The [[Smithfield Foods|Smithfield Foods/John Morrell]] meatpacking plant is the city's third-largest employer.<ref>{{cite web|title=America's meat shortage is more serious than your missing hamburgers|url=https://www.vox.com/recode/2020/5/8/21248618/coronavirus-meat-shortage-food-supply-chain-grocery-stores|last=Estes|first=Adam Clark|date=May 8, 2020|website=Vox|language=en|access-date=May 8, 2020}}</ref>
+
+==Arts and culture==
+
+===Events===
+Downtown Sioux Falls hosts a SculptureWalk<ref>{{cite web |url=http://www.sculpturewalksiouxfalls.com/ |title=SculptureWalk Sioux Falls homepage |first=Jim|last=Clark |access-date=November 25, 2009}}</ref> every summer and "First Fridays" on the first Friday of each summer month. The Downtown Riverfest<ref>{{cite web |title=Downtown Riverfest &#124; Downtown Sioux Falls |url=http://www.dtsf.com/events/details/downtown-riverfest2/2016-8-13 |url-status=dead |archive-url=https://web.archive.org/web/20170103052846/http://www.dtsf.com/events/details/downtown-riverfest2/2016-8-13 |archive-date=January 3, 2017 |access-date=March 18, 2017 |website=Dtsf.com}}</ref> brings live music, art, kids' activities and more in an annual festival that embraces the beauty of the Big Sioux.<ref>{{cite web |title=Security Check Required |url=https://www.facebook.com/SiouxFallsArtistCommunity/ |access-date=March 18, 2017 |publisher=[[Facebook]]}}</ref>
+
+Festival of Bands is a regional competition that hosts over 40 marching bands each year from across the Midwest. The Sioux Empire Spectacular is a Drum Corps regional competition. Party in the Park is an annual outdoor musical event held at Terrace Park. The [[Sioux Empire Fair]] is a regional fair held at the W. H. Lyon Fairgrounds, and the Sioux Falls JazzFest is hosted at Yankton Trail Park each year.
+
+SiouxperCon is an annual nonprofit fan convention that celebrates comic books, sci-fi, fantasy, anime, board games, and video gaming.<ref>{{cite web|url=http://www.kdlt.com/2017/05/13/siouxpercon-returns-second-year/|title=SIOUXPERCON Returns For Second Year – KDLT|date=May 13, 2017}}</ref>
+
+===Arts===
+[[File:1bronze michelangelo moses reproduction sioux falls.jpg|thumb|right|Replica of [[Michelangelo]]'s [[Moses (Michelangelo)|''Moses'']] at Augustana University]]
+In the beginning of the 21st century, Sioux Falls experienced a renaissance of cultural interest. The Sioux Empire Arts Council continues to lead in the Sioux Falls area arts scene and gives out Mayor's Awards each year in several categories for excellence demonstrated by Sioux Falls residents.<ref>{{cite web| title =Mayor's Awards for the Arts| publisher =Sioux Empire Arts Council| url =http://www.siouxempireartscouncil.com/Mayor.htm| access-date =April 22, 2008| url-status =dead| archive-url =https://web.archive.org/web/20080514072826/http://www.siouxempireartscouncil.com/Mayor.htm| archive-date =May 14, 2008| df =mdy-all}}</ref> The Sioux Falls SculptureWalk was the first visual evidence of the renaissance and is an attraction for both visitors and resident artists, hosting over 55 sculptures including a replica of the [[David (Michelangelo)|Michelangelo's David]].<ref>{{cite web|url=http://sculpturewalksiouxfalls.com/about/ |title=About |publisher=SculptureWalk Sioux Falls |access-date=March 18, 2017}}</ref><ref name="visitsiouxfalls.com">{{cite web|url=http://visitsiouxfalls.com/why-sioux-falls/so-much-to-see-in-sioux-falls/|archive-url=https://web.archive.org/web/20150517021054/http://visitsiouxfalls.com/why-sioux-falls/so-much-to-see-in-sioux-falls/|url-status=dead|archive-date=May 17, 2015|title=So Much to See in Sioux Falls – Visit Sioux Falls|date=May 17, 2015}}</ref> Work was essential to the renovation of the original Washington High School into the Washington Pavilion (housing two performing arts, a visual arts, and a science center).<ref>{{cite web|url=https://www.washingtonpavilion.org/online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=150A970F-CCD6-4CC6-98DC-6061447A2AB3&menu_id=E8CADA75-EEF5-4335-90C6-53107DBCE58C |title=About the Pavilion |website=Washingtonpavilion.org |date=January 1, 1970 |access-date=March 18, 2017}}</ref>
+
+The Northern Plains Indian Art Market (NPIAM) was established in 1988 by American Indian Services, Inc., of Sioux Falls as the Northern Plains Tribal Arts Show (NPTA). Northern Plains Tribal Arts dominated the Sioux Falls art scene from its inception in 1988. American Indian Services produced the juried art show and market from 1988 to 2003. Since 2004, Sinte Gleca University of Rosebud has been the producing organization. In the first 25 years of its existence—one of the longest-running Indian art shows in the country—over 800 artists from 7 northern plains states and two Canadian provinces exhibited at NPTA/NPIAM. Writers for national publications, filmmakers, and researchers have all joined the audiences over the years.
+
+A permanent Northern Plains Tribal Arts collection is housed in the Egger Gallery at the Washington Pavilion. Since the Washington Pavilion opened its doors to the public in 1999, the collection has called the Visual Arts Center home. Originally the pieces were on an extended loan from American Indian Services, Inc.; in 2013, thanks to many supporters, the works were acquired under the title of the Augustana Tribal Arts Collection, and now officially belong to the Visual Arts Center.<ref>{{cite web |url=https://www.washingtonpavilion.org/online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=E4652B00-6C9C-4FD3-8450-CD317C6C441D |title=VAC: Northern Plains Tribal Art |website=Washingtonpavilion.org |access-date=March 18, 2017 |archive-url=https://web.archive.org/web/20160828082624/https://www.washingtonpavilion.org/online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=E4652B00-6C9C-4FD3-8450-CD317C6C441D |archive-date=August 28, 2016 |url-status=dead}}</ref>
+
+As the 21st century began, poetry and literary events became more popular with the opening of the Sioux Empire Arts Council Horse Barn Gallery and due to a National Endowment for the Arts-supported Y Writer's Voice. The Y Writer's Voice included an annual reading series of 38 nationally known poets and writers, who performed works and youth workshops through the Sioux Falls Writers Voice in local performance spaces, at the YMCA after-school program, and in local schools, gaining national attention.<ref>{{cite web |url=http://www.ymca.net/arts_and_humanities/national_writers_voice.html |title=YMCA National Writer's Voice |author=YMCA of the USA |access-date=November 25, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20091012130735/http://www.ymca.net/arts_and_humanities/national_writers_voice.html |archive-date=October 12, 2009 }}</ref>
+
+[[File:Washington Pavilion 5.JPG|thumb|left|[[Washington Pavilion of Arts and Science]]]]
+
+The Sioux Falls mayor's awards in literary arts designated movers and shakers during the growth and development of the literary arts scene. In addition to literary awards, there are mayor's awards in visual arts, performing arts, music, organizing in the arts, advocacy, and lifetime achievement, per the mayor's discretion.<ref name="artssiouxfalls.org">{{cite web |title=Archived copy |url=http://www.artssiouxfalls.org/wp-content/uploads/2016/03/Mayors-Award-for-the-Arts-History-of-Honorees.pdf |url-status=dead |archive-url=https://web.archive.org/web/20160922212743/http://www.artssiouxfalls.org/wp-content/uploads/2016/03/Mayors-Award-for-the-Arts-History-of-Honorees.pdf |archive-date=September 22, 2016 |access-date=August 11, 2016}}</ref>
+
+The [[Sioux Falls Jazz and Blues Festival]] is a three-day outdoor musical event featuring two stages and is free to the public. It is held the third weekend in July at Yankton Trail Park.<ref name="siouxfallsjazzfest.com">{{cite web|url=http://www.siouxfallsjazzfest.com/festival-info/about-jazzfest/ |title=About JazzFest – Sioux Falls JazzFest 2017 |website=Siouxfallsjazzfest.com |date=July 15, 2016 |access-date=March 18, 2017}}</ref><ref>{{cite web|url=http://www.jazzfestsiouxfalls.com |title=Sioux Falls JazzFest 2017 |website=Jazzfestsiouxfalls.com |date=July 15, 2016 |access-date=March 18, 2017}}</ref> The Sioux Falls Jazz & Blues Society hosts national musicians during its annual concert series. Each year the series includes approximately five concerts with acts from all over the world. JazzFest, with over 125,000 in annual attendance, has expanded over the years to include the Jazziest Diversity Project, the All-City Jazz Ensemble, the Concert Series, and JazzFest Jazz Camp.<ref>{{cite web|url=http://sfjb.org/about-us/history-of-sfjb/ |title=History of SFJB &#124; Sioux Falls Jazz and Blues |website=Sfjb.org |date=August 12, 2016 |access-date=March 18, 2017}}</ref> 2016 was the festival's 25th anniversary year.<ref name="siouxfallsjazzfest.com"/>
+
+In 2019, Levitt at the Falls launched its first season of free concerts in a state-of-the-art outdoor amphitheater in Falls Park West. Downtown Sioux Falls boasts Ipso Gallery.<ref>{{cite web |url=http://www.dtsf.com/events/details/ipso-gallery-presents-boonie/2015-6-5 |title=Ipso Gallery Presents: Boonie &#124; Downtown Sioux Falls |website=Dtsf.com |date=June 5, 2015 |access-date=March 18, 2017 |archive-url=https://web.archive.org/web/20170103052911/http://www.dtsf.com/events/details/ipso-gallery-presents-boonie/2015-6-5 |archive-date=January 3, 2017 |url-status=dead }}</ref> the Orpheum Theater, SculptureWalk, The Premiere Playhouse, The Good Night Theatre Collective, Sioux Falls State Theater, the Museum of Visual Materials, the Interactive Water Fountain, Falls Park, Creative Spirits, Eastbank Art Gallery, Levitt at the Falls, and the Washington Pavilion, home to the South Dakota Symphony Orchestra, the occasional Poets & Painters show, and the Spotlight Theatre Collective (formerly known as the Dakota Academy of Performing Arts.)<ref>{{Cite web |title=Dakota Academy of Performing Arts Rebrands to Spotlight Theatre Company: Where Everyone Has a Place in the Spotlight {{!}} Washington Pavilion |url=https://www.washingtonpavilion.org/newsroom/dakota-academy-performing-arts-rebrands-spotlight-theatre-company |access-date=2024-10-11 |website=www.washingtonpavilion.org |language=en}}</ref>
+
+===Landmarks===
+[[File:Michelangelo David bronze reproduction.jpg|thumb|upright|Replica of [[Michelangelo]]'s [[David (Michelangelo)|''David'']] in Fawick Park]]
+The [[Washington Pavilion of Arts and Science|Washington Pavilion]] contains the Kirby Science Discovery Center, as well as two performing arts centers that host several Broadway productions and operas. The South Dakota Symphony's home hosts dance groups as well as smaller theater and choral events. The Visual Arts Center, also part of the Pavilion complex, hosts six galleries of changing exhibits, all free of charge. The Wells Fargo Cinedome is a multi-format {{convert|60|ft|m|abbr=on}} dome theater that plays several films each month. The Cinedome also hosts the Sweetman Planetarium which has at least one show played everyday.<ref>{{Cite web |title=Sweetman Planetarium {{!}} Washington Pavilion |url=https://www.washingtonpavilion.org/planetarium |access-date=2024-10-11 |website=www.washingtonpavilion.org |language=en}}</ref>
+
+The [[Great Plains Zoo|Great Plains Zoo & Delbridge Museum]] provides the area with natural history and animal exhibits in its {{convert|50|acre|m2|adj=on}} park.<ref>{{cite web |url=http://www.greatplainszoo.org/Visit/history-mission |title=Our History & Our Mission |author=Great Plains Zoo & Delbridge Museum of Natural History |date=April 8, 2005 |access-date=November 25, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090418044347/http://www.greatplainszoo.org/Visit/history-mission |archive-date=April 18, 2009 }}</ref> The taxidermy animals once hosted within the Delbridge Museum were removed in 2023 due to health concerns of the high amounts of arsenic in the mounts.<ref>{{Cite web |date=2024-07-16 |title=City of Sioux Falls looking at all options for Delbridge museum |url=https://www.sdpb.org/arts-life/2024-07-16/city-of-sioux-falls-looking-at-all-options-for-delbridge-museum |access-date=2024-10-11 |website=sodakpb |language=en}}</ref>
+
+The USS ''South Dakota'' Battleship Memorial to the [[World War II]] [[battleship]] [[USS South Dakota (BB-57)#Post-war|USS ''South Dakota'']] is on State Highway 42 (West 12th Street) and Kiwanis Avenue.
+
+The [[114th Fighter Wing]] is at Joe Foss Field and houses F-16C/D fighter aircraft. The [[South Dakota Air National Guard|SD&nbsp;ANG]] unit is known for its support of community activities and services.
+
+A replica of [[Michelangelo]]'s ''[[David (Michelangelo)|David]]'' is near the downtown area at Fawick Park.
+
+==Sports==
+{| class="wikitable"
+|-
+! scope="col" | Club
+! scope="col" | League
+! scope="col" | Venue
+! scope="col" | Established
+! scope="col" | Championships
+|-
+| [[Sioux Falls Canaries]]
+| [[American Association of Independent Professional Baseball|AAIPB]], Baseball
+| [[Sioux Falls Stadium]]
+| 1993
+| 1
+|-
+| [[Sioux Falls Stampede]]
+| [[United States Hockey League|USHL]], Ice hockey
+| [[Denny Sanford Premier Center]]
+| 1999
+| 3
+|-
+| [[Sioux Falls Storm]]
+| [[Indoor Football League|IFL]], Indoor football
+| [[Denny Sanford Premier Center]]
+| 2000
+| 11
+|-
+| [[Sioux Falls Skyforce]]
+| [[NBA G League]], Basketball
+| [[Sanford Pentagon]]
+| 1989
+| 3
+|-
+| [[Sioux Falls Thunder FC]]
+| [[National Premier Soccer League|NPSL]], Soccer
+| [[McEneaney Field]]
+| 2017
+| 0
+|-
+| [[Sioux Falls City FC]]
+| [[Women's Premier Soccer League|WPSL]], Soccer
+| [[University of Sioux Falls]]
+| 2022
+| 0
+|}
+
+The Sioux Falls Canaries were known as the Sioux Falls Fighting Pheasants from 2010 to 2013.
+
+===Special sporting events===
+Sioux Falls has several multipurpose athletic stadiums: the primarily baseball [[Sioux Falls Stadium]], indoor [[Sioux Falls Arena]], indoor [[Sanford Pentagon]], and indoor [[Denny Sanford Premier Center]]. Sioux Falls Stadium hosted the 2007 [[American Association of Independent Professional Baseball]] all-star game.<ref>{{cite web | title =2007 American Association All Star Game | publisher =aabfan.com | date =July 17, 2007 | url =http://aabfan.com/league/allstar/allstar07.shtml | access-date =October 16, 2008 }}</ref>
+
+Constructed in 2014, the Denny Sanford Premier Center is home to the Summit League's men's and women's basketball tournaments.<ref>{{cite news | url = http://www.startribune.com/sports/blogs/294543001.html | newspaper = [[Minneapolis Star Tribune]] | date = March 6, 2015 | first = Patrick | last = Reusse | title = Sioux Falls sports scene benefits from Sanford | access-date = April 4, 2015}}</ref> The Premier Center also hosted the [[2016 NCAA Division I women's basketball tournament|2016 Division I Women's Tournament]] Regional as well as the 2017 USHL/NHL Top Prospects Game.
+
+==Government==
+{| class="wikitable" style="float:right; clear:right; font-size:88%; margin-left:1em;"
+|+2022 Mayor and City Council<ref>{{cite web|title=Council Members|url=http://www.siouxfalls.org/council/members|publisher=City of Sioux Falls|access-date=September 20, 2022}}</ref>
+|-
+| Mayor || [[Paul TenHaken]]
+|-
+| Central || Curtis Soehl
+|-
+| Northeast || Pat Starr
+|-
+| Northwest || Greg Neitzert
+|-
+| Southeast || David Barranco
+|-
+| Southwest || Marshall Selberg
+|-
+| At-large || Sarah Cole
+|-
+| At-large || Rich Merkouris
+|-
+| At-large || Alex Jensen 
+|}
+
+The city of Sioux Falls is led by a [[Mayor–council government|mayor–council]] (strong mayor) form of government. Mayoral elections occur every four years. City council seats are also contested every four years. Not all council members are elected in the same year, as the elections are staggered throughout even-numbered years. The council consists of five members elected to represent specific sections of the city and three additional seats that represent the city as a whole (that is, [[at-large]]). The council member position is designed to be part-time. Sioux Falls operates under a [[home rule]] charter as permitted by the South Dakota constitution.<ref name=SiouxFallscouncil>{{cite web|url=http://www.siouxfalls.org/upload/documents/comdev/2006%20plan%20draft%20comment.pdf |title=2006 Action Plan Draft |publisher=City of Sioux Falls |year=2006 |access-date=March 20, 2007 |archive-url=https://web.archive.org/web/20070704194931/http://www.siouxfalls.org/upload/documents/comdev/2006%20plan%20draft%20comment.pdf |archive-date=July 4, 2007 |url-status=dead}}</ref>
+
+In the [[2004 United States presidential election|2004 presidential election]], [[George W. Bush]] won both Minnehaha and Lincoln counties, receiving 56% and 65% of the vote, respectively.<ref name=2004countyvote>{{cite web | url = http://www.uselectionatlas.org/RESULTS/datagraph.php?year=2004&fips=46&f=0&off=0&elect=0 | title = 2004 Presidential Election Data Graphs – South Dakota | publisher = Uselectionatlas.org | access-date = March 23, 2007}}</ref> In [[2008 United States presidential election|2008]], [[Barack Obama]] won Minnehaha County by 0.7%, while [[John McCain]] won Lincoln County by 15%.<ref name=Dave>{{cite web | url=http://uselectionatlas.org/RESULTS/ | title = 2008 Presidential Election Data Graphs – South Dakota | publisher = Uselectionatlas.org | access-date= October 26, 2008}}</ref> Both counties have voted for the Republican nominee in every presidential election since 2012.
+
+==Education==
+[[File:AugustanaSFSD.JPG|thumb|[[Augustana University |Augustana University's]] mascot, Ole, with the Administration Building, East Hall, and Old Main visible in the background]]
+
+===Higher education===
+Sioux Falls is home to [[Augustana University]], the [[University of Sioux Falls]], [[Sioux Falls Seminary]], Southeast Technical College, [[National American University]], the [[South Dakota School for the Deaf]], the University of South Dakota's Sanford School of Medicine (Sioux Falls campus), Stewart School and the [[South Dakota Public Universities and Research Center]] (formerly known as [[USDSU]]).
+
+===Public schools===
+The [[Sioux Falls School District]], which covers the majority of Sioux Falls,<ref name=MinnehahaCountySDMap2020>{{cite web|url=https://www2.census.gov/geo/maps/DC2020/PL20/st46_sd/schooldistrict_maps/c46099_minnehaha/DC20SD_C46099.pdf|title=2020 CENSUS - SCHOOL DISTRICT REFERENCE MAP: Minnehaha County, SD|publisher=[[U.S. Census Bureau]]|access-date=2024-03-13}} - [https://www2.census.gov/geo/maps/DC2020/PL20/st46_sd/schooldistrict_maps/c46099_minnehaha/DC20SD_C46099_SD2MS.txt Text list]</ref> serves over 23,000 students living in Sioux Falls and some of its surrounding suburbs.<ref>{{cite web|url=http://www.sf.k12.sd.us/our-district/vision-and-mission/district-overview|title=District Overview – Sioux Falls School District|website=Sf.k12.sd.us|access-date=February 11, 2019}}</ref> There are 25 elementary schools, seven middle schools, and six high schools, including:<ref>{{cite web | title = Map of Schools | publisher = Sioux Falls School District | url = https://www.ace.sf.k12.sd.us/o/ace | accessdate = September 21, 2022}}</ref>
+{{colbegin}}
+*Axtell Park Building
+*Career and Technical Education Academy
+*[[Lincoln High School (Sioux Falls, South Dakota)|Lincoln High School]]
+*[[Roosevelt High School (South Dakota)|Roosevelt High School]]
+*[[Thomas Jefferson High School (South Dakota)|Jefferson High School]]
+*[[Washington High School (Sioux Falls, South Dakota)|Washington High School]]
+{{colend}}
+
+Other school districts in Minnehaha County which cover parts of Sioux Falls include: [[Tea Area School District 41-5]]<!--UNI 00052*-->, [[Brandon Valley School District 49-2]]<!--UNI 07950-->, [[Tri-Valley School District 49-6]]<!--UNI 44940-->, and [[Lennox School District 41-4]]<!--UNI 41550*-->.<ref name=MinnehahaCountySDMap2020/> Within Lincoln County, other districts which cover parts of Sioux Falls include Tea Area<!--UNI 00052*--> and [[Harrisburg School District 41-2]].<!--UNI 31350*--><ref name=LincolnCountySDMap2020>{{cite web|url=https://www2.census.gov/geo/maps/DC2020/PL20/st46_sd/schooldistrict_maps/c46083_lincoln/DC20SD_C46083.pdf|title=2020 CENSUS - SCHOOL DISTRICT REFERENCE MAP: Lincoln County, SD|publisher=[[U.S. Census Bureau]]|access-date=2024-03-13}} - [https://www2.census.gov/geo/maps/DC2020/PL20/st46_sd/schooldistrict_maps/c46083_lincoln/DC20SD_C46083_SD2MS.txt Text list]</ref>
+
+===Private schools===
+Bishop O'Gorman Catholic Schools is a centralized Catholic school system that includes eight schools: six elementary schools, all PreK-6 (St. Mary, St. Lambert, St. Michael-St. Katharine Drexel, Holy Spirit and Christ the King); one junior high (O'Gorman Junior High, grades 7–8); and one high school, [[O'Gorman Catholic High School|O'Gorman]] (9–12). The junior and senior high O'Gorman schools are on the same campus. Approximately 2,800 students attend Bishop O'Gorman Catholic Schools. As of the 2009–10 school year the Sioux Falls Catholic School system's St. Joseph Cathedral School was closed.
+
+The [[Lutheran Church-Missouri Synod]] operates two schools in Sioux Falls. Sioux Falls Lutheran School is on 37th street, while the Lutheran High School of Sioux Falls is on Western Avenue. In 2018, voters approved a plan to move Sioux Falls Lutheran School to a new building near the I-29/I-229 merge on south Boe Lane. Students moved to the new building at the beginning of the Spring 2020 semester.<ref>{{cite web|url=https://www.siouxfallslutheran.com/construction-updates|title = Construction Updates}}</ref>
+
+The [[Wisconsin Evangelical Lutheran Synod]] has two schools in Sioux Falls: Bethel Lutheran<ref>{{cite web|url=http://www.bethelwels.com/resources/school/|title=School – Bethel Evangelical Lutheran|date=August 5, 2017}}</ref> and Good Shepherd Lutheran.<ref>{{cite web|url=http://gswels.org/school/aboutschool/|title=About Good Shepherd Lutheran School}}</ref>
+
+Other private schools include [[Sioux Falls Christian Schools]], Christian Center, The Baan Dek Montessori, Cornerstone School, and the Open Arms Christian Child Development Center.
+
+==Media==
+{{See also|Media in Sioux Falls, South Dakota}}
+
+==Infrastructure==
+===Transportation===
+====Roads====
+Most Sioux Falls residents travel and commute by car. [[Interstate 90 in South Dakota|Interstate 90]] passes east to west across the northern edge of the city, while [[Interstate 29 in South Dakota|Interstate 29]] bisects the western portion of the city from the north and south. [[Interstate 229 (South Dakota)|Interstate 229]] forms a partial loop around Sioux Falls, and connects with I-90 to the northeast and I-29 to the southwest. A [[Grid plan|grid design system]] for city streets is the standard for the central (older) area of the city; secondary streets in newer residential areas have largely abandoned this plan.
+
+Due to current and expected regional growth, several large construction projects have been or will be undertaken. New interchanges have recently been added to I-29. An interchange was also completed on I-90 at Marion Road. I-29 has recently been improved from I-90 to 57th Street. This upgrade includes additional lanes and auxiliary lanes. Over the next decade, the city of Sioux Falls and the South Dakota Department of Transportation plan to construct a [[limited-access highway]] around the city's outer edges to the south and east, known as [[South Dakota Highway 100]].<ref>{{cite web | title = South Dakota 100 Corridor Preservation Project | publisher = South Dakota Department of Transportation | access-date = May 10, 2010 | url = http://www.sddot.com/sd100/index.asp}}</ref> This highway will start at the northern Tea exit (Exit 73 on I-29, 101st Street), run east on 101st Street, curve northeast east of Western Avenue, then turn north near Sycamore Avenue. It will end at the Timberline Avenue exit (Exit 402 on I-90). Sioux Falls' major roads include W 41st, Minnesota, Main, W 26th (which becomes Louise as it turns south), 12th, 49th, 57th, and Western.
+
+====Public/mass transit====
+[[File:Bus Stop Downtown Sioux Falls 1.jpg|thumb|Main downtown bus terminal]]
+[[Sioux Area Metro]], the local public transit organization, operates 16 bus lines within the city, with most routes operating Monday through Saturday.<ref>{{cite news|title=Sioux Falls Transit First to Deploy RouteMatch Software's Fixed Route CAD/AVL Solution |work=Market Wire |date=August 2007 |url=http://findarticles.com/p/articles/mi_pwwi/is_/ai_n19466093 |access-date=October 16, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20140701191951/http://findarticles.com/p/articles/mi_pwwi/is_/ai_n19466093 |archive-date=July 1, 2014 }}</ref> Recently, the city added a new transfer station in Sioux Falls on Louise Avenue between 49th and 57th Streets. The Sioux Area Metro Paratransit serves members of the community who would otherwise not be able to travel by providing door-to-door service. Public transportation is supplemented with the SAM On Demand service that offers [[microtransit]] options.<ref>{{cite web | last=Seamer | first=Cooper | title=SAM On Demand launches full city service for weekdays | website=www.dakotanewsnow.com | date=August 12, 2024 | url=https://www.dakotanewsnow.com/2024/08/12/sam-demand-launches-full-city-service-weekdays/ | access-date=October 11, 2024}}</ref>
+
+[[Jefferson Lines]] runs long-distance bus routes to the [[Sioux Falls Bus Station]]. Non-transfer destinations include [[Fargo, North Dakota|Grand Forks]], [[Kansas City, Missouri|Kansas City]], [[Minneapolis]], and [[Omaha, Nebraska|Omaha]]. Until 1965 a branch of the [[Milwaukee Road]] train from Chicago, the ''[[Arrow (Milwaukee Road train)|Arrow]],'' made a stop in Sioux Falls.<ref>Jim Cribbins, ''The Milwaukee Road Remembered,'' 1990, pp. 61–66</ref>
+
+====Air====
+Many domestic airlines serve [[Sioux Falls Regional Airport]].<ref>{{cite web|url=https://www.sioux-falls-airport.com/ |title=Sioux Falls Regional Airport – Home |website=Sfairport.com |access-date=March 18, 2017}}</ref>
+
+====Rail====
+The [[BNSF Railway]] provides freight rail service. Amtrak does not serve any community in South Dakota.<ref>{{Cite web |date=2019-12-28 |title=Amtrak Stations in South Dakota |url=https://amtrakguide.com/stations/amtrak-stations-in-south-dakota/ |access-date=2024-07-15 |website=Amtrak Guide |language=en}}</ref> On June 23, 2024, a BNSF railway bridge near near North Sioux City collapsed due to flooding.<ref>{{Cite news |last=McLawhorn |first=Jennifer |date=2024-07-15 |title=BNSF Working To Remove Debris After Bridge Collapse |url=https://www.rtands.com/track-structure-2/bnsf-working-to-remove-debris-after-bridge-collapse/ |access-date=2024-07-15 |work=[[Railway Track and Structures]]}}</ref><ref>{{Cite web |date=2024-06-26 |title=Rail bridge not in use when it collapsed, BNSF says |url=https://www.keloland.com/keloland-com-original/rail-bridge-not-in-use-when-it-collapsed-bnsf-says/ |access-date=2024-07-15 |website=Keloland |publisher=Nexstar Media Inc. |archive-date=June 26, 2024 |archive-url=https://web.archive.org/web/20240626010756/https://www.keloland.com/keloland-com-original/rail-bridge-not-in-use-when-it-collapsed-bnsf-says/ |url-status=bot: unknown }}</ref>
+
+==Notable people==
+{{Div col}}
+* [[James Abourezk]], first Arab-American U.S. senator, practiced law in Sioux Falls<ref>{{cite web|url=http://calitreview.com/author/james_abourezk |title=California Literary ReviewJames Abourezk |website=Calitreview.com |access-date=March 18, 2017}}</ref>
+* [[Erika M. Anderson]], aka EMA, musician and digital media artist<ref>{{cite web|url=http://www.iwannadestroy.com/about |title=ABOUT – EMA |access-date=November 19, 2021}}</ref>
+* [[Jacob M. Appel]], author, wrote ''[[Coulrophobia & Fata Morgana]]'' while living in Sioux Falls<ref>''American Writer'', March 2017, Pp. 7–8</ref>
+* [[Shayna Baszler]], former [[Mixed martial arts|MMA]] fighter and professional wrestler<ref>{{cite web|title=Shayna Baszler|url=http://www.sherdog.com/fighter/Shayna-Baszler-12116|publisher=sherdog.com|access-date=September 23, 2013}}</ref>
+* [[George Botsford]], composer and pianist, noted for the "[[Black and White Rag]]"<ref>{{cite web|url=http://www.jwpepper.com/10281737.item#.UkDShdYo6Uk |title=Black and White Rag by George Botsford/arr. Daehn&#124; J.W. Pepper Sheet Music |website=Jwpepper.com |access-date=March 18, 2017}}</ref>
+* [[Chris Browne]], comic strip artist and cartoonist, ''[[Hägar the Horrible]]''<ref>{{cite web|title=Chris Browne|url=http://www.ksfy.com/story/20962983/hagar|publisher=WorldNow and KSFY.|access-date=September 24, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130927004830/http://www.ksfy.com/story/20962983/hagar|archive-date=September 27, 2013}}</ref>
+* [[Benny Castillo]], 11-year minor league baseball player and manager<ref>{{cite web|title=Benny Castillo|url=http://www.keloland.com/newsdetail.cfm/canaries-hire-castillo-as-hitting-coach/?id=63075|publisher=KELOLAND TV.|access-date=September 24, 2013|archive-url=https://web.archive.org/web/20130927090257/http://www.keloland.com/newsdetail.cfm/canaries-hire-castillo-as-hitting-coach/?id=63075|archive-date=September 27, 2013|url-status=dead}}</ref>
+* [[Dallas Clark]], professional football player<ref>{{cite web|title=Dallas Clark|url=http://www.abcactionnews.com/dpp/news/local_news/getting-to-know-tampa-bay-buccaneer-dallas-clark-with-this-weeks-10-questions-for|publisher=Scripps TV Station Group|access-date=September 24, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130927165348/http://www.abcactionnews.com/dpp/news/local_news/getting-to-know-tampa-bay-buccaneer-dallas-clark-with-this-weeks-10-questions-for|archive-date=September 27, 2013}}</ref>
+* [[Devin Clark (fighter)|Devin Clark]],  [[Ultimate Fighting Championship|UFC]] mixed martial artist
+* [[Donn Clendenon]], [[Major League Baseball|MLB]] first baseman<ref>{{cite web|title=Donn Clendenon|url=https://www.baseball-reference.com/players/c/clenddo01.shtml|publisher=BASEBALL REFERENCE. COM|access-date=September 24, 2013}}</ref>
+* [[Dusty Coleman]], [[MLB]] infielder
+* [[Brian Cummings]], voice actor
+* [[George Jonathan Danforth]], South Dakota politician
+* [[Chris Darrow]], multi-instrumentalist and singer-songwriter
+* [[Karl Dean]], former mayor of [[Nashville, Tennessee]]
+* [[Nick Dinsmore]], WWE Superstar 1999–2009 and WWE coach 2012–2015
+* [[William Dougherty]], South Dakota politician<ref>{{cite web|title=William Dougherty|url=http://www.kdlt.com/index.php?option=com_content&task=view&id=3670&Itemid=57|publisher=.kdlt.com|access-date=September 24, 2013}}</ref>
+* [[Wallace L. Dow|Wallace Dow]], architect
+* [[Walker Duehr]], professional ice hockey player, played in the [[National Hockey League]]
+* [[Oscar Randolph Fladmark]], World War II and Korean War fighter pilot, recipient of the [[Distinguished Flying Cross (United States)]]
+* [[James D. Ford]], former [[Chaplain of the United States House of Representatives]]
+* [[Terry Forster]], pitcher for five [[Major League Baseball|MLB]] teams
+* [[Joe Foss]], World War II "[[flying ace|ace]] of aces" fighter pilot, first commissioner of the [[American Football League]]; 20th [[governor of South Dakota]]<ref>{{cite web|title=Joe Foss|url=http://acepilots.com/usmc_foss.html|publisher=by Acepilots.com|access-date=September 24, 2013}}</ref>
+* [[Michael E. Fossum]], astronaut<ref>{{cite web|title=Michael E. Fossum|url=http://www.jsc.nasa.gov/Bios/htmlbios/fossum.html|publisher=.jsc.nasa.gov|access-date=September 24, 2013}}</ref>
+* [[Neil Graff]], quarterback for several NFL teams<ref>{{cite web|title=Neil Graff|url=https://www.pro-football-reference.com/players/G/GrafNe00.htm|publisher=pro-football-reference.com|access-date=September 24, 2013}}</ref>
+*[[George Barnes Grigsby]], [[Alaska Territory's at-large congressional district|delegate to Congress from Alaska Territory]]<ref name=Lutha>{{cite magazine |last=Grigsby |first=Lutha |date=November 1, 1995 |title=Colonel Melvin Grigsby and Family |url=http://grigsbyfoundation.org/NGPF%20Documents/24%20Colonel%20Melvin%20Grigsby%201845-1917%20and%20Family.pdf |magazine=National Grigsby Family Society Newsletter |page=49 |publisher=GrigsbyFoundation.org |access-date=February 25, 2019 |archive-date=February 25, 2019 |archive-url=https://web.archive.org/web/20190225044834/http://grigsbyfoundation.org/NGPF%20Documents/24%20Colonel%20Melvin%20Grigsby%201845-1917%20and%20Family.pdf |url-status=dead }}</ref>
+*[[John T. Grigsby]], [[Lieutenant Governor of South Dakota]]<ref name="Lutha"/>
+*[[Melvin Grigsby]], [[American Civil War]] and [[Spanish–American War]] veteran who served as [[Attorney General of South Dakota]]<ref name="Lutha"/>
+*[[Sioux K. Grigsby]], [[Lieutenant Governor of South Dakota]]<ref name="Lutha"/>
+* [[Donald A. Haggar]], lawyer and legislator<ref>{{cite web|title=Donald A. Haggar|url=http://legis.state.sd.us/historical/LegislatorDetail.aspx?MemberID=49|archive-url=https://web.archive.org/web/20080614041450/http://legis.state.sd.us/historical/LegislatorDetail.aspx?MemberID=49|url-status=dead|archive-date=June 14, 2008|publisher=South Dakota Legislature|access-date=September 24, 2013}}</ref>
+* [[Mary Hart (TV personality)|Mary Hart]], television personality, ''[[Entertainment Tonight]]''<ref>{{cite web|title=Mary Hart|url=http://www.sdhalloffame.com/index.php?option=com_content&task=view&id=36&Itemid=78&iid=203|publisher=sdhalloffame.com|access-date=September 24, 2013|archive-url=https://web.archive.org/web/20110930093049/http://www.sdhalloffame.com/index.php?option=com_content&task=view&id=36&Itemid=78&iid=203|archive-date=September 30, 2011|url-status=dead}}</ref>
+* [[Allison Hedge Coke]], writer and educator<ref name="artscouncil.sd.gov">{{cite web |url=http://www.artscouncil.sd.gov/aisc/litcoke.aspx |format=PDF |title=Allison Adelle Hedge Coke : Resume |website=Artscouncil.sd.gov |access-date=March 18, 2017 |archive-url=https://web.archive.org/web/20170103085201/http://www.artscouncil.sd.gov/aisc/litcoke.aspx |archive-date=January 3, 2017 |url-status=dead }}</ref><ref>{{cite web|url=https://www.loc.gov/poetry/prize-fellow/bynner.html?loclr=eape |title=Witter Bynner Fellowships (Prizes and Fellowships, The Poetry and Literature Center at the Library of Congress) |website=Loc.gov |date=December 20, 2016 |access-date=March 18, 2017}}</ref>
+* [[Stephanie Herseth Sandlin]], U.S. representative from {{ushr|SD|AL}}, current President of [[Augustana University]]
+* [[Crystal Johnson (attorney)|Crystal Johnson]], state's attorney for [[Minnehaha County, South Dakota|Minnehaha County]]
+* [[January Jones]], actress, best known for playing [[Betty Draper]] on ''[[Mad Men]]''
+* [[Herbert Krause]], author (1905–1976)<ref name=Cloquet2010>{{cite web |url=https://cloquetriverpress.com/reading-herbert-krause/ |title=Reading Herbert Krause |last= Munger |first=Mark |date= 2010 |website=Cloquet River Press |publisher= |access-date=January 26, 2021}}</ref>
+* [[David Lillehaug]], associate justice of the [[Minnesota Supreme Court]] and [[Attorney General of Minnesota]]
+* [[Mike Martz]], former head coach of NFL's [[St. Louis Rams]], born in Sioux Falls<ref>{{cite web|title=Mike Martz|url=http://www.cccaasports.org/hof_view.asp?HofId=68|publisher=California Community College Athletic Association|access-date=September 24, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130928232731/http://www.cccaasports.org/hof_view.asp?HofId=68|archive-date=September 28, 2013}}</ref>
+* [[Gail Matthius]], actress, cast member on ''[[Saturday Night Live]]''
+* [[Milton J. Nieuwsma]], author, screenwriter, producer
+* [[Pat O'Brien (radio and television personality)|Pat O'Brien]], television personality, ''[[Access Hollywood]]''<ref>{{cite news|title=Pat O'Brien|newspaper=University of South Dakota Athletics|url=http://www.goyotes.com/genrel/051203aaa.html|publisher=CBS Interactive.|access-date=September 24, 2013}}</ref>
+* [[A. J. Rosier]], [[Wyoming Senate|Wyoming state senator]]<ref>{{Cite book |last=Bartlett |first=Ichabod Sargent |url=https://books.google.com/books?id=q6A-AAAAYAAJ&q=rosier |title=History of Wyoming |date=1918 |publisher=[[S. J. Clarke Publishing Company]] |volume=2 |location=Chicago |pages=55–56 |language=en}}</ref>
+* [[David Soul]], actor, co-star of ''[[Starsky & Hutch]]''
+* [[David Stenshoel]], musician ([[Boiled in Lead]])
+* [[Joan Tabor]], actress<ref>{{cite web|title=Joan Tabor|url=http://search.ancestry.com/cgi-bin/sse.dll?gl=ROOT_CATEGORY&rank=1&new=1&so=1&MSAV=0&msT=1&gss=ms_f-2_s&gsfn=Joan&gsln=Tabor&msdpn__ftp=SD|publisher=Ancestry.com|access-date=September 24, 2013}}</ref>
+* [[John Thune]], South Dakota senator<ref>{{cite web| url=http://thune.senate.gov/public/index.cfm?FuseAction=Biography.Home | title=About John Thune }}</ref>
+* [[Shane Van Boening]], professional pool player<ref>{{cite web|title=Shane Van Boening|url=http://www.azbilliards.com/people/4315-shane-van-boening/|publisher=AZBilliards.com EPPA inc.|access-date=September 24, 2013}}</ref>
+* [[Jerry verDorn]], actor, ''[[Guiding Light]]'' and ''[[One Life to Live]]''<ref>{{cite web|title=Jerry verDorn|url=http://www.soapoperadigest.com/jerry-verdorn-411|publisher=American Media, Inc.|access-date=September 24, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130927012439/http://www.soapoperadigest.com/jerry-verdorn-411|archive-date=September 27, 2013}}</ref>
+{{Div col end}}
+
+==Sister cities==
+Sioux Falls' [[sister cities]] are:<ref>{{cite web |title=Partners|url=http://siouxfallssistercities.com/|publisher=Sister Cities Association of Sioux Falls|access-date=December 9, 2020}}</ref>
+*{{flagicon|UK}} [[Newry, Mourne and Down District Council]], Northern Ireland, United Kingdom
+*{{flagicon|GER}} [[Potsdam]], Germany
+
+==See also==
+* ''[[The Divorce Colony]]''
+* [[Impact of the COVID-19 pandemic on the meat industry in the United States]]
+* [[List of cities in South Dakota]]
+* [[Pandora papers]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+* Olson, Gary D. "Norwegian Immigrants in Early Sioux Falls: A Demographic Profile", ''Norwegian-American Studies'', 36 (2011), pp 45–84.
+* Olson, Gary D. "A Dakota Boomtown: Sioux Falls, 1877–1880", ''Great Plains Quarterly'' (2004) 24#1 pp 17–30
+* {{cite book|title=Reveille for Sioux Falls: A World War II Army Air Forces Technical School Changes a South Dakota City|last=Oyos|first=Lynwood E.|date=2014|publisher=The Center for Western Studies, [[Augustana College (South Dakota)|Augustana College]]|isbn=9780931170973|title-link=United States Army Air Forces}} The author is professor emeritus of History at Augustana College.
+* Tingley, Ralph and Tingley, Kathleen. ''Mission in Sioux Falls: The First Baptist Church, 1875–1975'' (1975)
+* ''History of Southeastern Dakota: Its Settlement and Growth'' (1881)
+
+==External links==
+{{Commons category|Sioux Falls, South Dakota}}
+{{EB1911 poster|Sioux Falls}}
+{{Wikivoyage|Sioux Falls}}
+* [https://www.siouxfalls.gov/home City of Sioux Falls -- Official Website]
+* [https://siouxfalls.com/ Sioux Falls Area Chamber of Commerce]
+
+{{Geographic Location
+| Centre    = Sioux Falls
+| North     = [[Brookings, South Dakota|Brookings]]
+| Northeast = 
+| East      = [[Brandon, South Dakota|Brandon]]
+| Southeast = 
+| South     = [[Canton, South Dakota|Canton]]
+| Southwest = 
+| West      = [[Mitchell, South Dakota|Mitchell]]
+| Northwest = 
+| image     = 
+}}
+{{Sioux Falls}}
+{{Lincoln County, South Dakota}}
+{{Minnehaha County, South Dakota}}
+{{South Dakota}}
+{{Midwestern United States}}
+{{South Dakota county seats}}
+{{Authority control}}
+
+[[Category:Sioux Falls, South Dakota| ]]
+[[Category:Cities in South Dakota]]
+[[Category:Cities in Minnehaha County, South Dakota]]
+[[Category:Cities in Lincoln County, South Dakota]]
+[[Category:County seats in South Dakota]]
+[[Category:Sioux Falls, South Dakota metropolitan area]]
+[[Category:Populated places established in 1856]]

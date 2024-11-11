@@ -1,0 +1,621 @@
+{{short description|City with county rights in Southern Great Plain, Hungary}}
+{{Use dmy dates|date=April 2024}}
+{{Infobox settlement<!-- more fields are available for this Infobox--See Template:Infobox Settlement -->
+| name                    = Kecskemét
+| other_name              = 
+| settlement_type         = [[Town with county rights|City with county rights]]
+| official_name           = {{lang|hu|Kecskemét Megyei Jogú Város}}
+| image_skyline           = {{Photomontage
+ |photo1a                 = Városi Tanácsház (2253. számú műemlék) 4.jpg{{!}}
+ |photo2a                 = Canadair NF-5A Freedom Fighter, Turkey - Air Force JP6913865.jpg{{!}}
+ |photo2b                 = PiarKecskemetFotoThalerTamas (2).JPG{{!}}
+ |photo3a                 = Mercedes Kecsemét, open hatch, Automotive 2017 Hungexpo.jpg{{!}}
+ |photo3b                 = 20170819 111250 Kecskemét Kossuth szobor.jpg{{!}}
+ |photo4a                 = Ev._templom_(2225._számú_műemlék).jpg{{!}}
+ |photo4b                 = Technika Háza, 2010 Kecskemét - panoramio - Bocskai László (4).jpg{{!}}
+ |spacing                 = 2
+ |position                = center
+ |color_border            = white
+ |color                   = white
+ |size                    = 300
+ |foot_montage            = 
+ }}
+| image_shield            = Coa_Hungary_Town_Kecskemét.svg
+| image_flag              = Flag_Hungary_Town_Kecskemét.svg
+| timezone                = [[Central European Time|CET]]
+| utc_offset              = +1
+| timezone_DST            = [[Central European Summer Time|CEST]]
+| utc_offset_DST          = +2
+| leader_title            = Mayor
+| leader_name             = [[Klaudia Szemereyné Pataki|Klaudia Szemerey-Pataki]] ([[Fidesz]]-[[Christian Democratic People's Party (Hungary)|KDNP]])
+| leader_title1           = [[Deputy mayor|Deputy Mayor]]
+| leader_name1            = Gyula Tamás Szeberényi (Fidesz-KDNP)<br>Kornél Mák (Fidesz-KDNP)<br>József Gaál (Independent) <br>Tamás Homoki (Independent)
+| leader_title2           = [[Town Notary]]
+| leader_name2            = Mária Berenténé Meskó
+| pushpin_map             = Hungary Bács-Kiskun#Hungary#Europe
+| pushpin_relief          = 1
+| pushpin_label_position  = 
+| pushpin_map_caption     = 
+| pushpin_mapsize         = 
+| map                     = <!--<div style="position: relative">[[File:HU county Bacs-Kiskun.svg|275px]]<div style="position:absolute; left:137px; top:104px;">[[File:Red Dot.gif]]</div></div>-->
+| subdivision_type        = Country
+| subdivision_name        = {{HUN}}
+| subdivision_type1       = [[List of regions of Hungary|Region]]
+| subdivision_name1       = [[Southern Great Plain]]
+| subdivision_type2       = [[Counties of Hungary|County]]
+| subdivision_name2       = [[Bács-Kiskun County|Bács-Kiskun]]
+| subdivision_type3       = [[Districts of Hungary|District]]
+| subdivision_name3       = [[Kecskemét District|Kecskemét]]
+| established_title1      = Established
+| established_date1       = 9th century AD
+| established_title2      = [[Market town#Hungary|Market town]]
+| established_date2       = 14th century AD
+| area_total_km2          = 321.36
+| elevation_m             = 105
+| population_footnotes    = 
+| population_as_of        = 1 January 2016
+| population_total        = 110,813<ref name="KSH - Kecskemét, 2011">{{Cite web |url=http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=26684 |title=KSH - Kecskemét, 2011 |access-date=14 May 2018 |archive-date=7 June 2020 |archive-url=https://web.archive.org/web/20200607093857/http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=26684 |url-status=live }}</ref>
+| population_rank         = [[List of cities and towns of Hungary|8th in Hungary]]
+| population_density_km2  = 
+| population_urban        = 187,835 ([[List of urban areas in Hungary|8th]])<ref>{{Cite web |url=http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=urb_lpop1&lang=en |title=Eurostat, 2016 |access-date=14 May 2018 |archive-date=3 September 2015 |archive-url=https://web.archive.org/web/20150903213351/http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=urb_lpop1&lang=en |url-status=live }}</ref>
+| population_demonym      = kecskeméti
+| demographics_type1      = [[Demographics of Hungary|Population by ethnicity]]
+| demographics1_footnotes = <ref name="KSH - Kecskemét, 2011"/>
+| demographics1_title1    = [[Hungarians]]
+| demographics1_info1     = 84.8%
+| demographics1_title2    = [[Germans of Hungary|Germans]]
+| demographics1_info2     = 1.3%
+| demographics1_title3    = [[Romani people in Hungary|Gypsies]]
+| demographics1_info3     = 1.1%
+| demographics1_title4    = [[Romanians in Hungary|Romanians]]
+| demographics1_info4     = 0.3%
+| demographics1_title5    = [[Serbs in Hungary|Serbs]]
+| demographics1_info5     = 0.1%
+| demographics1_title6    = [[Slovaks in Hungary|Slovaks]]
+| demographics1_info6     = 0.1%
+| demographics1_title7    = [[Croats of Hungary|Croats]]
+| demographics1_info7     = 0.1%
+| demographics1_title8    = [[Bulgarians in Hungary|Bulgarians]]
+| demographics1_info8     = 0.1%
+| demographics1_title9    = [[Ukrainians in Hungary|Ukrainians]]
+| demographics1_info9     = 0.1%
+| demographics1_title10   = Others
+| demographics1_info10    = 1.1%
+| demographics_type2      = [[Demographics of Hungary|Population by religion]]
+| demographics2_footnotes = <ref name="KSH - Kecskemét, 2011"/>
+| demographics2_title1    = [[Catholic Church in Hungary|Roman Catholic]]
+| demographics2_info1     = 39.7%
+| demographics2_title2    = [[Hungarian Greek Catholic Church|Greek Catholic]]
+| demographics2_info2     = 0.3%
+| demographics2_title3    = [[Reformed Church in Hungary|Calvinists]]
+| demographics2_info3     = 10.2%
+| demographics2_title4    = [[Evangelical-Lutheran Church in Hungary|Lutherans]]
+| demographics2_info4     = 1.2%
+| demographics2_title5    = [[History of the Jews in Hungary|Jews]]
+| demographics2_info5     = 0.1%
+| demographics2_title6    = Other
+| demographics2_info6     = 1.6%
+| demographics2_title7    = [[Irreligion|Non-religious]]
+| demographics2_info7     = 17.3%
+| demographics2_title8    = Unknown
+| demographics2_info8     = 29.6%
+| postal_code_type        = [[Postal codes in Hungary|Postal code]]
+| postal_code             = 6000 to 6008, 6044
+| area_code_type          = [[Telephone numbers in Hungary|Area code]]
+| area_code               = (+36) 76
+| coordinates             = {{Wikidatacoord|Q171357|region:HU_type:city|display=inline,title}}
+| blank_name              = Motorways
+| blank_info              = [[M5 motorway (Hungary)|M5]], [[M8 motorway (Hungary)|M8]] (planned), [[M44 motorway (Hungary)|M44]] (planned)
+| blank6_name_sec1        = [[List of airports in Hungary|International airports]]
+| blank6_info_sec1        = [[Kecskemét Air Base|Kecskemét]]
+| blank2_name             = Distance from Budapest
+| blank2_info             = {{cvt|91.5|km}} Northeast
+| blank1_name_sec1        = [[NUTS statistical regions of Hungary|NUTS 3 code]]
+| blank1_info_sec1        = HU331
+| blank3_name_sec2        = [[List of members of the National Assembly of Hungary (2018–22)|MP]]
+| blank3_info_sec2        = [[László Salacz]] ([[Fidesz]]) <br>[[Gábor Zombor]] ([[Fidesz]])
+| website                 = {{URL|https://kecskemet.hu/}}
+}}
+
+'''Kecskemét''' ({{IPAc-en|US|ˈ|k|ɛ|tʃ|k|ɛ|m|eɪ|t}} {{respell|KETCH|kem|ayt}}<ref>{{cite web|url=https://www.collinsdictionary.com/dictionary/english/kecskemet|title=Kecskemét|work=[[Collins English Dictionary]]|publisher=[[HarperCollins]]|access-date=8 September 2019}}</ref><ref>{{Cite Merriam-Webster|Kecskemet|access-date=8 September 2019}}</ref> {{IPA-hu|ˈkɛt͡ʃkɛmeːt|lang}}) is a [[city with county rights]] in central [[Hungary]]. It is the [[List of cities and towns of Hungary|eighth-largest city in the country]], and the [[county seat]] of [[Bács-Kiskun County|Bács-Kiskun]].
+
+Kecskemét lies halfway between the capital [[Budapest]] and the country's third-largest city, [[Szeged]], {{convert|86|km|0|abbr=off}} from both of them and almost equal distance from the two big rivers of the country, the [[Danube]] and the [[Tisza]]. It is the northern of two centres of the Hungarian [[Southern Great Plain]] ({{langx|hu|Dél-[[Great Hungarian Plain|Alföld]]}}) region (comprising the three [[County|counties]] Bács-Kiskun, [[Békés County|Békés]] and [[Csongrád County|Csongrád]]); the southern centre is Szeged, the seat of Csongrád county.
+
+==Etymology==
+The name of the city stems from the [[Hungarian language|Hungarian]] word {{lang|hu|kecske}} meaning '[[goat]]' and {{lang|hu|-mét}} meaning '[[mountain pass|pass]]'.
+
+== Geography ==
+Kecskemét was established at the meeting point of a large sandy region and a sandy yellow soil; its elevation is {{cvt|120|m|0}} [[Metres above sea level|above sea level]]. The territory west of the city is covered by wind-blown sand, characterised by the almost parallel northern-southern sand dunes and the plain between them. At the end of the 18th and the beginning of the 19th centuries, the pastures had become depleted. Overgrazing by cattle had destroyed the natural vegetation cover, and the movement of sand seriously endangered the town. Concentrated reforestation and planting of fruit and vines was carried out to stabilise the soil again.
+
+Kecskemét is in the centre of [[Kiskunság]], one of Hungary's famous regions. The [[Kiskunság National Park]] was established in 1975 to preserve the many different regional species of plants and animals. It is a "mosaic"-type national park, consisting of units that are not connected.
+
+=== Climate ===
+The characteristic weather in the Kecskemét region of Kiskunság is continental warm, dry, sometimes extreme. The amount of sunlight makes it possible for the region to produce agricultural products such as wheat, apricots, red peppers, and tomatoes. The warmest month in Kecskemét is July, with an average temperature of {{cvt|22.2|C|1}}; the coldest is January, with {{cvt|-0.3|C|1}}.
+
+Early spring and late autumn frosts are frequent on the Great Hungarian Plain. The possibility of frost usually ends only in the middle of April. After the third week of October, the temperature is frequently below {{cvt|0|°C|0}}.
+{{Weather box
+|location = Kecskemét, 1991−2020 normals<!--, extremes 1980−present-->
+|single line = Y
+|metric first = Y
+|collapsed = Y
+|Jan record high C = 19.0
+|Feb record high C = 20.5
+|Mar record high C = 26.2
+|Apr record high C = 30.6
+|May record high C = 34.3
+|Jun record high C = 37.7
+|Jul record high C = 41.1
+|Aug record high C = 38.1
+|Sep record high C = 35.6
+|Oct record high C = 28.3
+|Nov record high C = 22.6
+|Dec record high C = 18.5
+|year record high C = 41.1
+|Jan high C = 3.3
+|Feb high C = 6.1
+|Mar high C = 11.8
+|Apr high C = 18.1
+|May high C = 22.8
+|Jun high C = 26.2
+|Jul high C = 28.4
+|Aug high C = 28.6
+|Sep high C = 22.8
+|Oct high C = 16.9
+|Nov high C = 9.9
+|Dec high C = 3.9
+|year high C = 16.6
+|Jan mean C= -0.3
+|Feb mean C= 1.5
+|Mar mean C= 6.2
+|Apr mean C= 11.8
+|May mean C= 16.5
+|Jun mean C= 20.4
+|Jul mean C= 22.2
+|Aug mean C= 21.7
+|Sep mean C= 16.4
+|Oct mean C= 11.1
+|Nov mean C= 5.6
+|Dec mean C= 0.7
+|year mean C= 11.2
+|Jan low C = -3.3
+|Feb low C = -2.5
+|Mar low C = 1.3
+|Apr low C = 6.2
+|May low C = 10.6
+|Jun low C = 14.3
+|Jul low C = 15.7
+|Aug low C = 15.4
+|Sep low C = 11.0
+|Oct low C = 6.3
+|Nov low C = 2.0
+|Dec low C = -2.1
+|year low C = 6.2
+|Jan record low C = -23.7
+|Feb record low C = -21.1
+|Mar record low C = -14.9
+|Apr record low C = -5.1
+|May record low C = -0.3
+|Jun record low C = 4.4
+|Jul record low C = 6.8
+|Aug record low C = 7.1
+|Sep record low C = 0.7
+|Oct record low C = -8.0
+|Nov record low C = -12.2
+|Dec record low C = -21.7
+|year record low C = -23.7
+|precipitation colour = green
+|Jan precipitation mm = 28.7
+|Feb precipitation mm = 33.2
+|Mar precipitation mm = 26.1
+|Apr precipitation mm = 34.3
+|May precipitation mm = 60.4
+|Jun precipitation mm = 71.8
+|Jul precipitation mm = 62.4
+|Aug precipitation mm = 45.5
+|Sep precipitation mm = 50.4
+|Oct precipitation mm = 43.7
+|Nov precipitation mm = 42.5
+|Dec precipitation mm = 40.8
+|year precipitation mm = 539.8
+|unit precipitation days = 1.0 mm
+|Jan precipitation days = 5.6
+|Feb precipitation days = 5.9
+|Mar precipitation days = 5.5
+|Apr precipitation days = 6.4
+|May precipitation days = 8.8
+|Jun precipitation days = 8.1
+|Jul precipitation days = 6.8
+|Aug precipitation days = 5.7
+|Sep precipitation days = 6.1
+|Oct precipitation days = 6.5
+|Nov precipitation days = 6.7
+|Dec precipitation days = 7.5
+|year precipitation days = 79.6
+| Jan snow days  =8.25
+| Feb snow days  =6.54
+| Mar snow days  =3.42
+| Apr snow days  =0.63
+| May snow days  =0
+| Jun snow days  =0
+| Jul snow days  =0
+| Aug snow days  =0
+| Sep snow days  =0
+| Oct snow days  =0.17
+| Nov snow days  =1.96
+| Dec snow days  =5.38
+| year snow days =
+|Jan humidity = 83.0
+|Feb humidity = 77.0
+|Mar humidity = 67.3
+|Apr humidity = 60.6
+|May humidity = 64.1
+|Jun humidity = 65.1
+|Jul humidity = 62.9
+|Aug humidity = 63.6
+|Sep humidity = 69.1
+|Oct humidity = 77.2
+|Nov humidity = 83.9
+|Dec humidity = 84.7
+|year humidity = 71.5
+|source 1 = NOAA,<ref name=NOAA9120r>{{cite web
+|url = https://www.nodc.noaa.gov/archive/arc0216/0253808/1.1/data/0-data/Region-6-WMO-Normals-9120/Hungary/CSV/Kecskemet_12970.csv
+|title = Kecskemet Climate Normals 1991-2020
+|publisher = [[National Oceanic and Atmospheric Administration]]
+|access-date = 28 August 2023
+|archive-url = https://web.archive.org/web/20230828013307/https://www.nodc.noaa.gov/archive/arc0216/0253808/1.1/data/0-data/Region-6-WMO-Normals-9120/Hungary/CSV/Kecskemet_12970.csv |archive-format=CSV |format=CSV
+|archive-date = 28 August 2023}}</ref> Meteomanz(snowy days 2000-2023, extremes since 2021)<ref>{{Cite web |url=http://www.meteomanz.com/sy3?l=1&cou=6210&ind=12970&m1=01&y1=2000&m2=07&y2=2024 |title=Kecskemet - Weather data by months |access-date=20 July 2024 |website=meteomanz}}</ref>}}
+
+== History ==
+[[File:Katona József Színház - Kecskemét.jpg|thumb|left|József Katona Theatre|286x286px]]
+[[File:Cifrapalota Kecskemét Zsolnay.JPG|thumb|right|Hungarian [[Art Nouveau]]: Cifrapalota|293x293px]]
+The first [[Archaeology|archaeological]] trace of a human in the area is about five thousand years old. The [[Sarmatians]] invaded the area in the first century [[Anno Domini|B.C.]]; since then the area has been continuously inhabited by a variety of cultures. János Hornyik, the first town historian, believed that the settlement known as ''Partiskum'' of the Sarmatian [[Iazyges|Jazygian]] was here. Contemporary consensus among historians is that it is more likely permanent settlement occurred only after the Hungarian conquest. At the beginning of the 13th century, there were seven villages in the area, each with a population of 200–300 formed near the village church, a typical rural pattern. They were all destroyed by the [[First Mongol invasion of Hungary|Mongol Invasion]]. Some of the villages revived at the time of the [[Cumans|Cumanians]]' colonization.
+
+As Kecskemét was situated at an important trading route, it grew as a customhouse and a market-place; in 1368 it was identified in one of [[King of Hungary|King]] [[Louis I of Hungary]]'s charters as an ''oppidium'' (town). The town's active economic life and relatively dense population attracted more traders, craftsmen and residents, including [[History of the Jews in Hungary|Jews]] who became an important part of the town.
+
+During the [[Ottoman Empire|Turkish invasion]], settlers from neighboring villages sought shelter in Kecskemét, which was protected by defensive [[palisade]]s. They also were escaping the oppression of the ''spahi'' landlords. In addition to the protection of its setting, the town of Kecskemét had arranged to pay tax directly to the ''[[pasha]]'' in Buda, thus gaining his protection and enjoying a special situation.
+
+Kecskemét gradually absorbed the lands of those who had taken refuge in the town. Residents created a large [[Common land|common]] field for the animals they were breeding. By the beginning of the 18th century, residents held nearly 30,000 cattle, which grazed on an almost {{convert|2000|km2|sqmi|adj=on}} field.
+
+At the end of the 18th century, animal breeding started to decline in economic importance, as the fields had become overgrazed and denuded. It took nearly 100 years before the region developed its next major agricultural commodity. In the 19th century, Kecskemét was already part of an important wine district, but the city increased in importance after the vine-pest destroyed most vineyards in the hilly regions. Damage was less significant in the plains' areas of loose, sandy soil. In the 1870s, landowners planted large plantations of grapevines around the town. These were the basis of the 20th-century vineyards and wine industry of the 20th century in Kecskemét. Cottage-type settlements grew up at the vineyards to house workers, a pattern still characteristic of the rural areas around the town. The growth of the wine industry stimulated those of the food industry and trade. The city is still known for its ''[[barackpálinka]]'', an [[apricot]] brandy.
+
+With their accumulation of capital, peasants began to adopt bourgeois customs and goods, stimulating trade in the town. Such regional wealth led to construction of new buildings, especially those surrounding Kecskemét's main square. This [[Art Nouveau]] complex is architecturally significant: the Town Hall, the New College, the Ornamented Palace, the Luther-Palace, the House of Trade (today the House of Young), and the Gentlemen's Casino, now used as the Hungarian Museum of Photography.
+
+The town's growth suffered in the 1929–33 economic world crisis and [[Great Depression]], followed by the upheaval and destruction of [[World War II]]. During the war and especially May–June 1944, Hungarian authorities rounded up and deported most of the Jews from the city to [[Auschwitz concentration camp|Auschwitz-Birkenau]], where most were killed. Jewish Hungarians had been an important part of Kecskemét's thriving culture and trade. After 1945, the new [[Hungarian People's Republic|Communist government]], strongly influenced by the [[Soviet Union]], imposed a different social-political system. Kecskemét's development slowed. Due to reorganisation in local government, Kecskemét lost its big territory; several new independent villages were formed in the area. They were economically connected to the town.
+
+In 1950, for the first time, Kecskemét took on a significant political administrative role, as it was made seat of the country's largest county, [[Bács-Kiskun County|Bács-Kiskun]]. In the special system of the so-called ''controlled economy'' under the Communist regimes, such status provided political and financial advantages that greatly helped the city continue its growth. The architect József Kerényi (1900–1975) adapted and renovated several historic buildings for other uses, helping keep the varied historical character of the city alive. For instance, in the early 1970s, he renovated the early-eighteenth-century [[Franciscans|Franciscan]] [[monastery]] for use as the [[Zoltán Kodály]] Conservatory; it opened for classes in 1975.[[File:Feszület Kecskemét Belvárosában.jpg|thumb|Crucifix in the centre of Kecskemét—51.4% of the city's population are Christians|248x248px]]The Hungarian Association of Photographers formed the Hungarian Photography Foundation in 1990. It helped raise funds for the restoration of an 18th-century building in Kecskemét last used as an [[Orthodox Judaism|Orthodox]] synagogue. It was adapted for the Hungarian Museum of Photography (''Magyar Fotográfiai Múzeum''), which opened in 1991. The museum holds work by Hungarian and other photographers of international and national reputations. It especially collects Hungarian photographers who successfully worked abroad.<ref>[http://fotomuzeum.hu/en "Hungarian Museum of Photography"] {{Webarchive|url=https://web.archive.org/web/20100812161602/http://fotomuzeum.hu/en |date=12 August 2010 }}, official website, English, accessed 7 September 2010</ref>
+
+On 18 June 2008, German car manufacturer [[Daimler AG|Daimler]] announced that it would build a [[Mercedes-Benz]] manufacturing plant in Kecskemét, planning to invest €800 million (US$1.24 billion). The plant, one of the biggest if not the biggest-ever in the region, provides work for 2,500 people.
+
+== Economy ==
+In March 2012, the German automobile manufacturer [[Daimler AG]] opened a plant nearby Kecskemét, to manufacture the new [[Mercedes-Benz B-Class|B-Class]], [[Mercedes-Benz A-Class|A-Class]] and [[Mercedes-Benz CLA-Class|CLA-Class]] models.<ref>{{cite news|url=https://www.washingtonpost.com/business/mercedes-attacks-bmw-from-hungary-with-new-facility/2012/03/29/gIQAub6LiS_video.html |archive-url=https://web.archive.org/web/20130722092212/http://www.washingtonpost.com/business/mercedes-attacks-bmw-from-hungary-with-new-facility/2012/03/29/gIQAub6LiS_video.html |url-status=dead |archive-date=22 July 2013 |title=Mercedes Attacks BMW From Hungary With New Facility |newspaper=Washington Post |access-date=29 March 2012}}</ref> The [[Stuttgart]]-based company invested €800 million (US$1.24 billion) to build the new plant, which is expected to create 3,000 new jobs in the region.<ref>{{cite news |url=http://www.iht.com/articles/ap/2008/06/18/business/EU-FIN-COM-Germany-Daimler.php |title=Carmaker Daimler to build new factory in Kecskemet, Hungary |publisher=International Herald Tribune |date=18 June 2008 |archive-url=https://web.archive.org/web/20081207074213/http://www.iht.com/articles/ap/2008/06/18/business/EU-FIN-COM-Germany-Daimler.php |archive-date=7 December 2008 |access-date=7 September 2010}}</ref> According to the plans, more than 100,000 vehicles will be produced annually at the factory.<ref>{{cite news |url=http://www.logsped.hu/mercedes_kecskemeti_gyara_az_eredeti_tervek_szerint_epul.htm |title=A Mercedes kecskeméti gyára az eredeti tervek szerint épül |language=hu |publisher=LogSped.hu |date=28 October 2008 |access-date=15 June 2009 |archive-date=22 February 2009 |archive-url=https://web.archive.org/web/20090222131736/http://www.logsped.hu/mercedes_kecskemeti_gyara_az_eredeti_tervek_szerint_epul.htm |url-status=live }}</ref>
+[[File:Wikicamp 2019 by Samat 012.jpg|alt=|thumb|249x249px|Mercedes-Benz Conecto on Line 12 at Kecskemét operated by DAKK]]
+[[File:Kecskemét main railway station SE, 2016 Hungary.jpg|alt=|thumb|246x246px|Kecskemét Railway Station]]
+As of 2021, the largest companies were:
+
+* [[Mercedes-Benz]] – cars: 5,000 employees
+* [[Duvenbeck IMMO]] – logistic: 1,100 employees
+* [[ACPS Automotive]] – towbars: 1,000 employees
+* [[Knorr-Bremse]] – brakes: 950 employees
+* [[Phoenix Mecano]] – enclosures and mechanical components: 850 employees
+* [[CabTec]] – cable: 800 employees
+* [[Fornetti]] – baked goods: 800 employees
+* [[Univer Product]] – canned goods: 800 employees
+
+In the city, unemployment is extremely low. Over the last few years, thousands of jobs have been created to promote a low unemployment rate. In 2024, unemployment was 2,70%.
+
+== Public transport ==
+[[File:M5-Kecskemét.jpg|thumb|M5 motorway near Kecskemét|245x245px]]
+[[File:036 Kecskemet, Hungary.jpg|thumb|Aerial view with the air base|243x243px]]
+With the 1900s industrialisation of Hungary, Kecskemét developed public transportation by [[tram]]s for a population of 50,000. Not until after World War II did bus travel begin in the city. In 2010, with competitive funding from the [[European Union|EU]], the city launched a number of trolley bus lines and in 2011 completely rebuilt the town centre as a [[trolleybus]] and pedestrian tourist zone.
+
+Currently, bus travel is the only public transportation to many destinations. Bus destinations ({{As of|2022|011|02|lc=on}}):<ref>{{cite web |url=https://keko.hu/upload/documents/menetrend_fuzet_20221102.pdf |website=keko.hu/ |title=Kecskemét |publisher=Kecskeméti Közlekedési Központ |access-date=26 October 2022 |archive-date=13 November 2022 |archive-url=https://web.archive.org/web/20221113153349/https://keko.hu/upload/documents/menetrend_fuzet_20221102.pdf |url-status=live }}</ref>
+
+* 1 Noszlopy park - GAMF - Homokbánya kollégium
+* 1D Homokbánya kollégium - Mercedes gyár I. kapu
+* 2 Széchenyi tér - Rendőrfalu
+* 2A Széchenyi tér - Gokart Stadion
+* 2D Noszlopy park - Mercedes gyár I. kapu
+* 2S Noszlopy park - Déli Ipartelep - SMP gyár
+* 3 Széchenyi tér - Műkertváros - Nyíri Úti Kórház
+* 3A Széchenyi tér - Műkertváros
+* 4 Margaréta Otthon - Széchenyi tér - Repülőtér
+* 4A Széchenyi tér - Kisfái
+* 4C Széchenyi tér - Repülőtér
+* 5 Széchenyi tér - Máriaváros
+* 6 Széchenyi tér - Szeleifalu
+* 7 Noszlopy park - Knorr Bremse - Szilády Nyomda
+* 7C Noszlopy park - Mindszenti körút
+* 9 Széchenyi tér - Talfája köz
+* 10 Széchenyi tér - TESCO M5 Hipermarket
+* 11 Széchenyi tér - Petőfiváros - Kadafalvi út
+* 11A Széchenyi tér - Petőfiváros - AUCHAN Kereskedelmi Központ
+* 12 Margaréta Otthon - Belváros - Köztemető I. kapu
+* 12D Hunyadiváros (Serleg utca) - Mercedes gyár I. kapu
+* 13 Széchenyi tér - Knorr Bremse
+* 13D Széchenyi tér - Mercedes-gyár I. kapu
+* 13K Széchenyi tér - Georg Knorr út
+* 14 Széchenyi tér - Széchenyiváros
+* 14D Széchenyiváros (Margaréta Otthon) - Mercedes gyár I. kapu
+* 15 Noszlopy park - Hetényegyháza
+* 15D Hetényegyháza - Mercedes gyár I. kapu
+* 16 Széchenyi tér - Miklovicsfalu
+* 18 Széchenyi tér - Köztemető II. kapu
+* 19 Noszlopy park - Miklóstelep
+* 20 Széchenyi tér - Megyei Kórház - Széchenyiváros
+* 20H Széchenyi tér - Köztemető II. kapu - Kórházak - Széchenyi tér
+* 21 Noszlopy park - Széchenyiváros - Nagykörút - Noszlopy park
+* 21D Noszlopy park - Kurucz körút - Mercedes gyár I. kapu
+* 22 Noszlopy park - Csabay Géza körút - Nagykörút - Noszlopy park
+* 23 Széchenyi tér - Katonatelep
+* 23A Széchenyi tér - Hunyadiváros - Katonatelep
+* 25 Noszlopy park - Műkertváros
+* 28 Széchenyi tér - Szeleifalu
+* 29 Széchenyi tér - Hetényegyháza
+* 32 Noszlopy park - Matkó
+* 34 Kadafalva - Széchenyiváros - Kadafalva
+* 34A Széchenyi tér - Széchenyiváros - Kadafalva
+* 34V Kadafalva - Petőfiváros - Kadafalva
+* 169 Széchenyi tér - Miklovicsfalu - Széchenyi tér
+* 350 Máriaváros vasútállomás - Széchenyiváros
+* 353 Hetényegyháza vasútállomás - Hetényegyháza központ
+* 354 Hetényegyháza vasútállomás - Hetényegyháza központ
+* 916 Széchenyi tér - Talfája köz - Széchenyi tér
+
+== Demographics ==
+Kecskemét has 107,267 residents ({{As of|2001|lc=on}}). The population is homogeneous with a large Hungarian majority. A few thousand of the [[Romani people in Hungary|Romani minority]] live in the city; they formed their independent minority government in 1994. (95% [[Hungarians|Hungarian]]; 0.8% Romani; 0.4% [[Germans of Hungary|German]]; 0.2% [[Slovaks|Slovak]]; 4.8% other.) The city had a thriving [[History of the Jews in Hungary|Jewish population]] before World War II, as represented by their grand [[synagogue]]. Most of the Jews were deported by the [[Nazi Germany|Nazi]] forces in 1944 to [[Internment|concentration camps]], where they were killed.
+
+The Vice President of the German minority in Kecskemet is Ms Rozalia Neuendorf. Since 19 March 2007, there is also a minority self-government for [[Croats of Hungary|Croats]] in Kecskemét.<ref>[http://www.croatica.hu/fileadmin/glasnik/2007/glasnik14internet.pdf Hrvatski glasnik] {{Webarchive |url=https://web.archive.org/web/20070606220659/http://www.croatica.hu/fileadmin/glasnik/2007/glasnik14internet.pdf |date=6 June 2007 }}, 5 April 2007, Croatian, page 3, accessed 6 October 2008</ref>
+
+{| class="infobox" style="float:center;"
+| style="text-align:center;" colspan="2" | '''Significant minority groups'''
+|-
+! Nationality||| Population (2011)
+|-
+|German || 1,441
+|-
+|Romanian || 334
+|-
+|Russian || 181
+|-
+|Serbian || 167
+|-
+|Croatian || 130
+|-
+|Slovakian || 100
+|}
+
+== Districts ==
+{{Historical populations
+|type =
+|footnote =
+|1739 | 19556
+|1742 | 12978
+|1784 | 22356
+|1850 | 32308
+|1857 | 41539
+|1870 | 32830
+|1880 | 35122
+|1890 | 38439
+|1900 | 46059
+|1910 | 52270
+|1920 | 55153
+|1930 | 58169
+|1941 | 63256
+|1949 | 61370
+|1960 | 71226
+|1970 | 84482
+|1980 | 96882
+|1990 | 102516
+|2001 | 107749
+|2011 | 111411
+|2022 | 108334
+}}
+
+Kecskemét is divided into 21+1 sections.
+
+* Belváros ([[Downtown]])
+* I. Árpádváros ([[Árpád]]town)
+* II. Máriaváros ([[Mary, mother of Jesus|Marytown]])
+* III. Széchenyiváros ([[István Széchenyi|Széchenyitown]])
+* IV. Bethlenváros ([[Gabriel Bethlen|Bethlentown]])
+* V. Rákócziváros ([[Francis II Rákóczi|Rákóczitown]])
+* VI. Erzsébetváros ([[Empress Elisabeth of Austria|Elisabethtown]])
+* VII. Kossuthváros ([[Lajos Kossuth|Kossuthtown]])
+* VIII. Hunyadiváros ([[John Hunyadi|Hunyaditown]])
+* IX. Szent István-város (Műkertváros, Szolnoki-hegy) ([[Stephen I of Hungary|Saint Stephen]] town)
+* X. Szent László-város (Rendőrfalu) ([[Ladislaus I of Hungary|Saint Ladislaus]] town)
+* XI. Alsószéktó (Szeleifalu)
+* XII. Felsőszéktó (Petőfiváros, Sutusfalu)
+* XIII. Talfája
+* XIV. Katonatelep
+* XV. Repülőtér (Reptéri-lakótelep)
+* XVI. Matkó
+* XVII. Kadafalva
+* XVIII. Szarkás
+* XIX. Hetényegyháza
+* XX. Méntelek
+* XXI. Borbáspuszta
+
+== Main sights ==
+* [[Kecskemét City Hall|City Hall]]
+* "Cifra Palota"
+* [[Co-Cathedral of the Ascension of the Lord, Kecskemét]]
+* Old Church
+* Synagogue
+* [[József Katona]] Theatre
+* Hungarian Museum of Photography
+* Museum of Hungarian Naive Artists
+* [https://www.google.com/maps/@46.9044337,19.748134,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipPz5X-lms9oGRhIzrJoDPQNMm9p7oot7TNAkebP!2e10!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPz5X-lms9oGRhIzrJoDPQNMm9p7oot7TNAkebP%3Dw203-h100-p-k-no!7i3548!8i2660 MiG-21 Monument]
+<gallery>
+File:Ev. templom (2225. számú műemlék).jpg|[[Lutheranism|Evangelical]] Church
+File:Görögkeleti templom (Szentháromság) (2252. számú műemlék) 2.jpg|[[Eastern Orthodox Church|Orthodox]] Church
+</gallery>
+
+== Activities ==
+* Adventure Spa & Waterslide Park [http://www.csuszdapark.hu www.csuszdapark.hu]
+* Kecskemét Baths http://www.kecskemetifurdo.hu/
+* Kecskemét Wild Park http://www.zookecskemet.hu/
+* Katona József Theatre of Kecskemét http://kecskemetikatona.hu/hu/english{{Dead link|date=February 2020 |bot=InternetArchiveBot |fix-attempted=yes }}.
+* Kecskemét Arboretum http://www.kecskemetiarboretum.hu/
+
+== Events == 
+* [http://www.csipero.hu/en/ Csiperó- Future of Europe International childrend and youth meeting] 
+* [[Kecskemét Animation Film Festival]]
+* [[Kecskemét Air Show]]
+
+== Politics ==
+The current mayor of Kecskemét is [[Klaudia Szemereyné Pataki]] (Fidesz-KDNP).
+
+The local Municipal Assembly, elected at the [[2019 Hungarian local elections|2019 local government elections]], is made up of 21 members (1 Mayor, 14 Individual constituencies MEPs and 6 Compensation List MEPs) divided into this political parties and alliances:<ref>{{cite web|title=Városi közgyűlés tagjai 2019-2024 - Kecskemét (Bács-Kiskun megye)|url=https://www.valasztas.hu/telepules-adatlap_onk2019?_onknavigacio_WAR_nvinvrportlet_formDate=32503680000000&p_p_id=onknavigacio_WAR_nvinvrportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=5&_onknavigacio_WAR_nvinvrportlet_prpVlId=294&_onknavigacio_WAR_nvinvrportlet_prpVltId=687&_onknavigacio_WAR_nvinvrportlet_prpMegyeKod=03&_onknavigacio_WAR_nvinvrportlet_prpTelepulesKod=060&_onknavigacio_WAR_nvinvrportlet_settlement=kecskem|agency=valasztas.hu|access-date=29 October 2019|archive-date=21 July 2023|archive-url=https://web.archive.org/web/20230721220502/https://www.valasztas.hu/telepules-adatlap_onk2019?_onknavigacio_WAR_nvinvrportlet_formDate=32503680000000&p_p_id=onknavigacio_WAR_nvinvrportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=5&_onknavigacio_WAR_nvinvrportlet_prpVlId=294&_onknavigacio_WAR_nvinvrportlet_prpVltId=687&_onknavigacio_WAR_nvinvrportlet_prpMegyeKod=03&_onknavigacio_WAR_nvinvrportlet_prpTelepulesKod=060&_onknavigacio_WAR_nvinvrportlet_settlement=kecskem|url-status=live}}</ref>
+
+{| class="wikitable"
+! style="background:#ccc" colspan="2" | Party
+! style="background:#ccc" | Seats
+! style="background:#ccc" colspan="16" | Current Municipal Assembly
+|-
+| style="background-color: {{party color|Fidesz}} | &nbsp;
+|[[Fidesz]]-[[Christian Democratic People's Party (Hungary)|KDNP]]
+| style="text-align: right" | '''12'''
+|style="background-color: {{party color|Fidesz}} |<span style="color:white;">'''M'''</span>
+|style="background-color: {{party color|Fidesz}} | &nbsp;
+|style="background-color: {{party color|Fidesz}} | &nbsp;
+|style="background-color: {{party color|Fidesz}} | &nbsp;
+|style="background-color: {{party color|Fidesz}} | &nbsp;
+|style="background-color: {{party color|Fidesz}} | &nbsp;
+|style="background-color: {{party color|Fidesz}} | &nbsp;
+|style="background-color: {{party color|Fidesz}} | &nbsp;
+|style="background-color: {{party color|Fidesz}} | &nbsp;
+|style="background-color: {{party color|Fidesz}} | &nbsp;
+|style="background-color: {{party color|Fidesz}} | &nbsp;
+|style="background-color: {{party color|Fidesz}} | &nbsp;
+|-
+| style="background-color: #87CEEB | &nbsp;
+|Alliance for Hírös City{{efn|name=opposition|Supported by Opposition coalition.}}
+| style="text-align: right" | '''9'''
+|style="background-color: #87CEEB | &nbsp;
+|style="background-color: #87CEEB | &nbsp;
+|style="background-color: #87CEEB | &nbsp;
+|style="background-color: #87CEEB | &nbsp;
+|style="background-color: #87CEEB | &nbsp;
+|style="background-color: #87CEEB | &nbsp;
+|style="background-color: #87CEEB | &nbsp;
+|style="background-color: #87CEEB | &nbsp;
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| &nbsp;
+|}
+
+===List of mayors===
+List of city mayors from 1990:
+{| class=wikitable
+|-
+! Member
+! colspan=2 | Party
+! Term of office
+|-
+| [[Endre Bányai]]
+| style="background-color:{{party color|Hungarian Democratic Forum}}" | 
+| [[Hungarian Democratic Forum|MDF]]
+| 1990
+|-
+| [[József Merász]]
+| style="background-color:{{party color|Independent (politician)}}" | 
+| [[Independent (politics)|Independent]]
+| 1990–1994
+|-
+| [[László Katona]]
+| style="background-color:{{party color|Hungarian Democratic Forum}}" | 
+| MDF
+| 1994–1998
+|-
+| [[Gábor Szécsi]]
+| style="background-color:{{party color|Fidesz}}" | 
+| [[Fidesz]]
+| 1998–2006
+|-
+| [[Gábor Zombor]]
+| style="background-color:{{party color|Fidesz}}" | 
+| Fidesz-[[Christian Democratic People's Party (Hungary)|KDNP]]
+| 2006–2014
+|-
+| [[Klaudia Szemereyné Pataki]]
+| style="background-color:{{party color|Fidesz}}" | 
+| Fidesz-KDNP
+| 2014–
+|}
+
+==Notable natives and residents==
+* András Gáspár (1804–1884), Hungarian [[General officer|General]]{{Citation needed|date=September 2010}}
+* Adrienne Nagy (born 1988) Hungarian pop singer
+* [[József Katona]] (1791–1830), author
+* [[Antal Szabó]] (1875–1926), painter
+* [[Zoltán Kodály]] (1882–1967), Hungarian [[composer]], [[Ethnomusicology|ethnomusicologist]], educator, [[Linguistics|linguist]] and philosopher. A music conservatory was named in his honor. The train station was built on the site of his family's house.
+* [[Kálmán Latabár]] (1902–1970), actor, [[comedian]]
+* [[Nicolas Abraham]] (1919–1975), French psychoanalyst
+* [[Tamás Adamik]] (born 1937), Hungarian linguist and professor
+* [[Ákos Kónya]] (born 1974), ultramarathoner
+
+==Twin towns – sister cities==
+{{See also|List of twin towns and sister cities in Hungary}}
+Kecskemét is [[Sister city|twinned]] with:<ref name=twins>{{cite web|title=Kecskemét nemzetközi, testvér- és partnervárosi kapcsolatai|url=https://kecskemet.hu/varoshaza/onkormanyzat/nemzetkozi-kapcsolatok/kecskemet-nemzetkozi-testver--es-partnervarosi-kapcsolatai|website=kecskemet.hu|publisher=Kecskemét|language=hu|access-date=9 March 2021|archive-date=19 March 2022|archive-url=https://web.archive.org/web/20220319161207/https://kecskemet.hu/varoshaza/onkormanyzat/nemzetkozi-kapcsolatok/kecskemet-nemzetkozi-testver--es-partnervarosi-kapcsolatai|url-status=live}}</ref>
+{{div col|colwidth=20em}}
+* {{flagicon|JPN}} [[Aomori (city)|Aomori]], Japan
+* {{flagicon|UKR}} [[Berehove]], Ukraine
+* {{flagicon|ENG}} [[Coventry]], England, United Kingdom
+* {{flagicon|AUT}} [[Dornbirn]], Austria
+* {{flagicon|SVK}} [[Galanta]], Slovakia
+* {{flagicon|FIN}} [[Hyvinkää]], Finland
+* {{flagicon|SWE}} [[Lidköping Municipality|Lidköping]], Sweden
+* {{flagicon|ISR}} [[Nahariya]], Israel
+* {{flagicon|GER}} [[Rüsselsheim am Main]], Germany
+* {{flagicon|ROU}} [[Sfântu Gheorghe]], Romania
+* {{flagicon|ROU}} [[Târgu Mureș]], Romania
+* {{flagicon|TUR}} [[Tekirdağ]], Turkey
+* {{flagicon|POL}} [[Gmina Wadowice|Wadowice]], Poland
+<!--Großenhain, Novi Sad, Tábor - not twinning-->
+{{div col end}}
+
+===Friendly cities===
+Kecskemét also cooperates with:<ref name=twins/>
+* {{flagicon|GER}} [[Großenhain]], Germany
+* {{flagicon|SRB}} [[Novi Sad]], Serbia
+* {{flagicon|CZE}} [[Tábor]], Czech Republic
+
+== Military ==
+The MH 59th "[[Dezső Szentgyörgyi]]" Tactical Wing, the only jet fighter unit of the [[Hungarian Defence Forces]], is based at Kecskemét air force base. The [[Kecskemét Air Show]] is held here every two years.
+
+==Sport==
+* [[Kecskeméti TE]], association football club
+* [[Kecskeméti LC]], association football club
+
+== References ==
+{{Reflist}}
+
+;Notes
+{{Notelist}}
+
+== External links ==
+{{Commons category}}
+{{Wikivoyage|Kecskemét}}
+* {{Official website|http://www.kecskemet.hu}} in Hungarian, English and German
+* [http://www.utcakereso.hu/map/index.php?varos=kecskemet Kecskemét's local map]
+* [http://www.civertan.hu/legifoto/legifoto.php?page_level=287 Aerial photography: Kecskemét]
+* [http://fotomuzeum.hu/en "Hungarian Museum of Photography"], Official Website, English
+* [http://en.funiq.hu/kecskemet Kecskemét at funiq.hu]
+
+{{Kecskemét District}}
+{{Bács-Kiskun}}
+{{Regional capitals of Hungary}}
+{{Principal cities of Hungary}}
+{{Cities with county rights (Hungary)}}
+{{Hungary's most flowery settlements}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kecskemet}}
+[[Category:Kecskemét| ]]
+[[Category:County seats in Hungary]]
+[[Category:Cities with county rights of Hungary]]
+[[Category:Populated places in Bács-Kiskun County]]
+[[Category:Populated places established in the 9th century]]

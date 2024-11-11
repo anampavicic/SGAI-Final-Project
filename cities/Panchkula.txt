@@ -1,0 +1,313 @@
+{{About|the municipality in India|its namesake district|Panchkula district}}
+{{Use dmy dates|date=October 2019}}
+{{More citations needed|date=December 2014}}
+{{Use Indian English|date=December 2017}}
+<!-- See [[Wikipedia:WikiProject Indian cities]] for details -->
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name               = Panchkula
+| native_name        = ''Paṁcakulā''
+| native_name_lang   = hi<!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type    = [[City]]
+| image_skyline      = Yagya Shala, within the Mansa Devi temple complex, Panchkula near Chandigarh.jpg
+| image_alt          = 
+| image_caption      = Yagya Shala, within the [[Mata Mansa Devi Mandir|Mansa Devi temple complex]] in Panchkula, [[Haryana]]
+| image_flag         = 
+| flag_alt           = 
+| image_seal         = 
+| seal_alt           = 
+| image_shield       = 
+| shield_alt         = 
+| nickname           = Chandigarh Tricity
+| motto              = 
+| image_map          = 
+| map_alt            = 
+| map_caption        = 
+| pushpin_map        = India Haryana#India
+| pushpin_label_position = right
+| pushpin_map_alt    = 
+| pushpin_map_caption = Location in Haryana, India
+| coordinates        = {{coord|30.74|76.80|display=inline,title}}
+| coor_pinpoint      = 
+| coordinates_footnotes = 
+| subdivision_type   = Country
+| subdivision_name   = {{flag|India}}
+| subdivision_type1  = [[States and union territories of India|State]]
+| subdivision_type2  = [[List of districts of India|District]]
+| subdivision_type3  = 
+| subdivision_name1  = [[Haryana]]
+| subdivision_name2  = [[Panchkula district|Panchkula]]
+| subdivision_name3  = 
+| established_title  = 
+| established_date   = 
+| founder            = 
+| seat_type          = 
+| seat               = 
+| government_footnotes = 
+| government_type    = [[Municipal Corporation]]
+| governing_body     = Municipal Corporation Panchkula
+| leader_party       = [[Bhartiya Janta Party|BJP]]
+| leader_title       = Mayor
+| leader_name        = Kulbhushan Goyal<ref>{{cite web |title=Kulbhushan Goyal sworn in as new Panchkula Mayor |url=https://indianexpress.com/article/cities/chandigarh/kulbhushan-goyal-sworn-in-as-new-panchkula-mayor-7134326/ |website=The Indian Express |language=en |date=6 January 2021}}</ref>
+| unit_pref          = Metric
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->| area_footnotes     = 
+| area_magnitude     = <!-- <ref name="auto"/> -->
+| area_total_km2     = 32.6
+| population_total   = 211,355
+| population_as_of   = 2011
+| population_density_km2 = auto
+| area_water_km2     = 
+| area_water_ha      = 
+| area_water_percent = 
+| area_urban_km2     = 
+| area_urban_ha      = 
+| area_rural_km2     = 
+| area_rural_ha      = 
+| area_metro_km2     = 
+| area_metro_ha      = 
+| area_rank          = 
+| area_blank1_title  = 
+| area_blank1_ha     = 
+| area_blank2_title  = <!-- square kilometers -->
+| area_blank2_km2    = <!-- hectares -->
+| area_blank2_ha     = 
+| area_note          = 
+| dimensions_footnotes = 
+| length_km          = 
+| width_km           = 
+| elevation_footnotes = 
+| elevation_m        = 365
+| population_footnotes = <ref name=census/>
+| demographics_type1 = Languages
+| demographics1_title1 = Official
+| demographics1_info1 = [[Hindi]]<ref name=nclmanurep2010>{{cite web |url = http://www.nclm.nic.in/shared/linkimages/NCLM52ndReport.pdf |title = Report of the Commissioner for linguistic minorities: 52nd report (July 2014 to June 2015) |pages = 85–86 |publisher = Commissioner for Linguistic Minorities, Ministry of Minority Affairs, Government of India |access-date = 16 February 2016|archive-url = https://web.archive.org/web/20161115133948/http://nclm.nic.in/shared/linkimages/NCLM52ndReport.pdf |archive-date = 15 November 2016 |url-status=dead }}</ref>
+| demographics1_title2 = Additional official
+| demographics1_info2 = [[English language|English]]<ref name=nclmanurep2010/> and [[Punjabi language|Punjabi]]<ref name="punjabiofficial">{{cite web |url=https://www.hindustantimes.com/india/haryana-grants-second-language-status-to-punjabi/story-MTUeEQDE4fRCbEyPkAm63N.html |title=Haryana grants second language status to Punjabi |work=[[Hindustan Times]] |agency=Indo-Asian News Service |date=28 January 2010 |access-date=2 January 2019 |archive-url=https://web.archive.org/web/20181105012411/https://www.hindustantimes.com/india/haryana-grants-second-language-status-to-punjabi/story-MTUeEQDE4fRCbEyPkAm63N.html |archive-date=5 November 2018 |url-status=live  }}</ref>
+| demographics1_title3 = Regional
+| demographics1_info3 = [[Haryanvi language|Haryanvi]]<ref>{{cite web |title=Haryanvi |url=https://www.ethnologue.com/language/bgc/ |website=Ethnologue |archive-url=https://web.archive.org/web/20160601091217/https://www.ethnologue.com/language/bgc/ |access-date=20 Feb 2024|archive-date=1 June 2016 }}</ref>
+| timezone1          = [[Indian Standard Time|IST]]
+| utc_offset1        = +5:30
+| timezone1_DST      = 
+| utc_offset1_DST    = 
+| postal_code_type   = [[Postal Index Number|PIN]]
+| postal_code        = 134 109 - 134 116
+| area_code          = +91-172-XXX-XXXX
+| area_code_type     = Telephone code
+| iso_code           = [[ISO 3166-2:IN|IN-HR]]
+| registration_plate = HR-03
+| website            = {{URL|https://panchkula.nic.in}}
+{{URL|https://mcpanchkula.com}}
+| footnotes          = 
+| area_urban_footnotes = <!-- <ref name="auto"> </ref> -->
+| area_rural_footnotes = <!-- <ref name="auto"/> -->
+| area_metro_footnotes = <!-- <ref name="auto"/> -->
+| official_name      = 
+| population_demonym = Panchkula Wale
+}}
+
+'''Panchkula''' ([[ISO 15919|ISO]]: ''Paṁcakulā'') is a city and district headquarter in the [[Panchkula district]] in [[Haryana]], India. It is a satellite town of the state capital [[Chandigarh]]. Panchkula is a border city with [[Punjab]], [[Chandigarh]] and [[Himachal Pradesh]]. The origin of the name Panchkula came from "the place where five irrigation canals meet". It is approximately {{cvt|4|km}} southeast of Chandigarh, {{cvt|105|km}} southwest of [[Shimla]], {{cvt|44|km}} from [[Ambala]] and {{cvt|259|km}} northeast of [[New Delhi]], the national capital. It is a part of the [[Chandigarh capital region]] or Greater Chandigarh. The [[Chandigarh]]-[[Mohali]]-Panchkula metropolitan region collectively forms a [[Chandigarh Tricity]], with a combined population of over two million.
+
+The city hosts the [[Chandimandir Cantonment]], the headquarters of the [[Western Command (India)|Western Command]] of the [[Indian Army]]. It is a planned city like [[Chandigarh]], with a sector system.
+
+==Etymology==
+The word is derived from the local word ''panch'' ({{langx|sa|पंच}}) (''five'') ''kula'' ({{langx|sa|कुला}}) (''canals'') "The city of 5 canals", possibly referring to five irrigation canals that distribute water from the [[Ghaggar-Hakra River|Ghaggar River]] and these kuls pass through the [[Chandimandir Cantonment]] area to [[Mata Mansa Devi Mandir]] area. Kuls or canals were made along the contours of the hillocks in a way that they collect the water upstream and convey it downstream at the contour height higher than the actual level of the Ghaggar river at the same spot.<ref name="HR-review">{{Cite web|title=Haryana Review 2013, page 30|url=http://haryanasamvad.gov.in/store/document/HR-Review-January-2013.pdf|url-status=dead|archive-url=https://web.archive.org/web/20160508155230/http://haryanasamvad.gov.in/store/document/HR-Review-January-2013.pdf|archive-date=8 May 2016|access-date=18 April 2016}}</ref><ref>[https://panchkula.nic.in/about-district/ Panchkula district profile], panchkula.nic.in, accessed 29 Sep 2021.</ref> One of the canals is called the Singh Nalla which was being beautified in 2021 by building a walking track and by planting plants and flowers.<ref>[https://timesofindia.indiatimes.com/city/chandigarh/singh-nullah-beautification-notices-issued-to-residents/articleshow/86591508.cms Singh Nullah beautification: Notices issued to residents], Times of India, 29 Sep 2021.</ref>
+
+==History==
+[[File:Kalka Temple in Panchkula, in Haryana, photographed by Yogabrata Chakraborty, on June 4, 2023.jpg|thumb|Kalimata Temple in Kalka, Panchkula.]]
+The city is named after Panchkula village, which is situated on the Ambala Kalka highway, near the junction with the Chandigarh road. The city was planned and developed by the state of Haryana in the 1970s. Panchkula was supposed to be the capital.
+
+===Ramgarh Fort and Mata Mansa Devi Temple===
+{{anchor | Ramgarh Fort and Mata Mansa Devi Temple }} 
+The fort was built by the rulers of [[Kahlur|Kahlur State]], the headquarters of which was [[Bilaspur, Himachal Pradesh|Bilaspur]] in Himachal Pradesh. The King of Bilaspur built the Ramgarh Fort 360 years ago.<ref name=harsamvad1>[http://haryanasamvad.gov.in/store/document/Haryana%20Samvad%20October%202018.pdf Haryana Samvad] {{Webarchive|url=https://web.archive.org/web/20181129225259/http://haryanasamvad.gov.in/store/document/Haryana%20Samvad%20October%202018.pdf |date=29 November 2018 }}, Oct 2018, p38-40.</ref> In 1687, its rulers offered [[Guru Gobind Singh]] a horse, a sword, and Rs 500000 when he was relocating his troops from [[Paonta Sahib]] to [[Anandpur Sahib]] after the [[Battle of Bhangani]]. In the 1750s, it eventually fell to the status of a fief under the [[Sirmur State]], but became independent again in 1804. It is currently occupied by the progeny of Kalee Chand, younger son of King of Bilaspur Sangar Chand (r. 1197–1220), and runs as a heritage hotel.
+
+[[Mata Mansa Devi Mandir]] is a Hindu temple dedicated to [[Manasa|Goddess Mansa Devi]], a form of [[Shakti]], in the [[Panchkula district]] of Haryana state in India. The temple complex is spread over {{cvt|100|acre}}. It is one of the prominent [[Shakti Pitha]] temples of North India involving seven [[Shakti]] goddesses, namely Mata Mansa Devi, [[Naina Devi]], [[Jawalamukhi]], [[Chintpurni]], [[Bajreshwari Mata Temple, Kangra|Brajeshwari]], [[Chamunda Devi]] and [[Jayanti Devi Temple|Jayanti Devi]]. Thousands of devotees visit the shrine from various parts of the country, and especially during the [[Navratra]] [[mela]], this number rises to lakhs every day for the nine auspicious days.<ref>{{Cite web |date=2022-04-03 |title=Chaitra Navratri fair kicks off at Mata Mansa Devi temple in Panchkula |url=https://www.hindustantimes.com/cities/chandigarh-news/chaitra-navratri-fair-kicks-off-at-mata-mansa-devi-temple-in-panchkula-101648931722357.html |access-date=2022-05-27 |website=Hindustan Times |language=en}}</ref>
+
+==Geography and climate==
+[[File:Himalayan Expressway, Village Tipra, Panchkula, Haryana.jpeg|thumb|[[Himalayan Expressway]], a section of NH5, near Panchkula]]
+Panchkula district has a sub-tropical continental monsoon climate with hot summers, cool winters, and monsoon rainfall. It has great variation in temperature ({{cvt|-1 to 43|°C|disp=sqbr}}). Sometimes winter frost occurs during December and January. The district also receives winter rains from the western disturbance. The rainfall is mostly received in the monsoon. [[Morni]] hills constitute the highest point of the district as well as of Haryana. The [[Ghaggar]] is the only perennial river, which is very shallow outside of the monsoons. The mountains and hills of [[Kasauli]] are clearly visible from Panchkula.
+
+Generally, the slope of the district is from northeast to southwest, and in this direction, most of the rivers/streams rain-fed torrents flow down and spread much gravel and pebbles in their beds. Only the Sirsa River, in [[Kalka]] Tehsil flows towards the northwest. The soils in the district are mainly light [[loam]].
+
+The underground water in the district is generally fresh and suitable for domestic and irrigation purposes. The underground water level is generally high in the southern parts and low in the north and northeast which is a hilly tract. The district lies in the [[Himalayas]] boundary fault zones and earthquakes of moderate to high intensity have occurred in the past.
+
+===Average temperature===
+*Spring: It lasts from February-end to early April. Temperatures vary from (max) {{cvt|13 to 20|°C}} and (min) {{cvt|5 to 12|°C}}.
+*Autumn: In autumn (from September-end to mid-November.), the temperature may rise to a maximum of {{cvt|30|°C}}. Temperatures usually remain between {{cvt|10 and 22|°C}} in autumn. The minimum temperature is around {{cvt|6|°C}}.
+*Summer: The temperature in summer (from mid-April to June-end) may rise even above {{cvt|40|°C}}. Temperatures generally remain between {{cvt|30 and 39|°C}}.
+*Monsoon: During the monsoon season (from early July to mid-September), Panchkula receives moderate to heavy rainfall and sometimes heavy to very heavy rainfall (generally during the month of August or September). Usually, the rain-bearing monsoon winds blow from southwest/southeast. The city mostly receives heavy rain from the south (which is usually a persistent rain) but it generally receives most of its rain during monsoon either from the northwest or the northeast. The maximum amount of rain received by the city of Panchkula during monsoon season was {{cvt|195.5|mm}} in a single day.
+*Winter: Winters (November-end to February-end) are mild but it can sometimes get quite chilly in Panchkula. Average temperatures in the winter remain at (max) {{cvt|5 to 14|°C}}and (min) {{cvt|-1 to 5|°C}}. Rain usually comes from the west during winters and it is usually a persistent rain for 2–3&nbsp; days, sometimes with hail-storms.<ref>{{cite web|url=http://worldweather.wmo.int/066/c00526.htm|title=World Weather Information Service - Chandigarh|work=wmo.int}}</ref>
+
+==Demographics==
+{{bar box|width = 300px
+ |barwidth = 250px |cellpadding="0"
+ |title=Religion in Panchkula City<ref name=census/>
+|titlebar=#Fcd116
+|left1=Religion
+|right1=Percent
+|float=right
+|bars=
+{{bar percent|[[Hinduism]]|#FF6600|{{rounded calculation|(192964/211355) * 100|2}}}}
+{{bar percent|[[Sikhism]]|#FFFF00|{{rounded calculation|(10220/211355) * 100|2}}}}
+{{bar percent|[[Islam]]|#009000|{{rounded calculation|(4867/211355) * 100|2}}}}
+{{bar percent|Others|#9955BB|{{rounded calculation|((211355 - (192964+10220+4867))/211355) * 100|2}}}}
+}}
+According to the [[2011 Census of India]], the people of the city are overwhelmingly [[Hindus|Hindu]], with [[Sikh]] and [[Muslim]] micro minorities.<ref name=census>{{cite web |title=Table C0101: Population by religious community (Haryana) Excel row 23 |url=https://censusindia.gov.in/nada/index.php/catalog/11374/download/14487/DDW06C-01%20MDDS.XLS |website=censusindia.gov.in |access-date=29 January 2023}}</ref>
+
+In 2011, Panchkula had 48,772 households in the city, with a population of 211,355, of which male and female were 111,731 and 99,624 respectively.<ref name=":0" />
+
+<ref>https://m.tribuneindia.com/news/chandigarh/caste-community-politics-also-at-play-in-panchkula-mc-poll-189466 {{Bare URL inline|date=August 2024}}</ref>
+
+== Government and politics ==
+[[File:Panchkula sector 17.jpg|thumb|A street in Sector 17]]The city is a part of the [[Ambala (Lok Sabha constituency)|Ambala Lok Sabha]] constituency represented by BJP's [[Rattan Lal Kataria]],<ref>{{Cite web|last=Standard|first=Business|title=Ambala Lok Sabha Election Results 2019: Ambala Election Result 2019 {{!}} Ambala Winning MP & Party {{!}} Ambala Lok Sabha Seat|url=https://www.business-standard.com/elections/lok-sabha-elections-2019/haryana/ambala-sc-election-results-22_1244.html|access-date=2020-09-15|website=Business Standard}}</ref> and the [[Panchkula (Vidhan Sabha constituency)|Panchkula state assembly]] constituency, represented by BJP's [[Gian Chand Gupta]] since 2019.<ref>{{Cite web|last=Service|first=Tribune News|title=Haryana Vidhan Sabha Speaker Gian Chand Gupta tests positive for coronavirus|url=https://www.tribuneindia.com/news/haryana/haryana-vidhan-sabha-speaker-gian-chand-gupta-tests-positive-for-coronavirus-130683|access-date=2020-09-15|website=Tribuneindia News Service|language=en}}</ref>
+
+=== City administration ===
+[[File:Night lit by street lights in Panchkula, India.jpg|thumb|Street in Sector 11]]
+Panchkula municipality is governed under the Haryana Municipal Act, 1973.<ref>{{cite web | url=http://www.bareactslive.com/HRY/hl402.htm | title=Haryana Municipal Act, 1973 }}</ref> According to the 2011 Census, Panchkula is governed by a municipal council,<ref name=":0">{{Cite web|title=Census of India Haryana Town Amenities (Excel Row 5)|url=https://censusindia.gov.in/2011census/dchb/DCHB.html|access-date=15 September 2020|website=Census of India Website}}</ref> but it has since upgraded to the status of a municipal corporation.<ref>{{Cite web|title=Municipal Corporation, Panchkula {{!}} District Administration Panchkula, Government of Haryana, India {{!}} India|url=https://panchkula.nic.in/hi/public-utility/municipal-corporation-panchkula/|access-date=2020-09-15|language=hi-IN}}</ref> The population of the municipality, as per Census 2011, is 210,175.<ref>{{Cite web|title=Census India PR Cities 1 Lakh and Above|url=https://censusindia.gov.in/2011-prov-results/paper2/data_files/India2/Table_2_PR_Cities_1Lakh_and_Above.pdf}}</ref>
+
+Since 2017, Rajesh Jogpal ([[Haryana Public Service Commission|HCS]]) headed the corporation as its municipal commissioner.<ref>{{Cite web|date=2018-11-29|title=Municipal Corporation, Panchkula|url=http://www.mcpanchkula.org/|archive-url=https://web.archive.org/web/20181129213651/http://www.mcpanchkula.org/|url-status=dead|archive-date=2018-11-29|access-date=2020-09-15}}</ref>  In December 2019, he was transferred and replaced by [[Indian Administrative Service|IAS]] Sumedha Kataria.<ref>{{Cite web|date=2019-12-30|title=Panchkula MC commissioner Rajesh Jogpal transferred|url=https://indianexpress.com/article/cities/chandigarh/panchkula-mc-commissioner-rajesh-jogpal-transferred-6190787/|access-date=2020-09-15|website=The Indian Express}}</ref> The first woman Mayor of Panchkula was Upinder Kaur Ahluwalia, who served the term from 2013 to 2018.<ref>{{Cite web|date=2013-07-04|title=Upinder Walia is the new mayor of Panchkula MC|url=https://www.hindustantimes.com/chandigarh/upinder-walia-is-new-mayor-of-panchkula-mc/story-uE6VWYz1QzHrIEweyI1bKN.html|access-date=2020-09-15|website=Hindustan Times}}</ref><ref>{{Cite web|title=Ahluwalia is Panchkula's first woman Mayor |url=http://archive.indianexpress.com/news/ahluwalia-is-panchkula-s-first-woman-mayor/1137897/|access-date=2020-09-15|website=Indian Express}}</ref> In 2018, the state decided to hold direct elections for the post,<ref>{{Cite web|last=Service|first=Tribune News|title=Leaders welcome direct election for Mayor|url=https://www.tribuneindia.com/news/archive/chandigarh/leaders-welcome-direct-election-for-mayor-650585|access-date=2020-09-15|website=Tribuneindia News Service}}</ref> and as of now, the mayor of Panchkula is Kulbhushan Goyal of BJP. In a closely contested mayoral election in Panchkula, Bharatiya Janata Party’s Kulbhushan Goyal trumped the Congress’ [[Upinder Kaur Ahluwalia]] by 2,057 votes.
+
+BJP also secured a majority in the 20-member municipal corporation House by winning 11 seats along with its alliance partner Jannayak Janata Party. Congress won seven seats, and two went to Independent candidates.<ref>{{Cite web|author=Arvind Bishnoi|date=20 August 2020|title=Panchkula councilors spring to action with polls around the corner {{!}} Chandigarh News |url=https://timesofindia.indiatimes.com/city/chandigarh/panchkula-councillors-spring-to-action-with-polls-around-the-corner/articleshow/77651232.cms|access-date=2020-09-15|website=The Times of India}}</ref>
+
+In July 2020, the Panchkula Municipal Corporation was bifurcated, with [[Kalka]] and [[Pinjore]] separating from the corporation and getting their own municipal council status.<ref>{{Cite web|date=2020-07-07|title=Panchkula civic body bifurcated, Kalka to have its own council|url=https://indianexpress.com/article/cities/chandigarh/panchkula-civic-body-bifurcated-kalka-to-have-its-own-council-6493715/|access-date=2020-09-15|website=The Indian Express}}</ref> The city is divided into 20 [[Ward (electoral subdivision)|wards]] for the purpose of administration,<ref>{{Cite web|date=2020-09-01|title=Stage set for civic polls in Panchkula|url=https://indianexpress.com/article/india/stage-set-for-civic-polls-in-panchkula6579301/|access-date=2020-09-23|website=The Indian Express}}</ref><ref>{{Cite web|last=Service|first=Tribune News|title=Seven wards of Panchkula MC reserved for women|url=https://www.tribuneindia.com/news/chandigarh/seven-wards-of-panchkula-mc-reserved-for-women-138581|access-date=2020-09-23|website=Tribuneindia News Service}}</ref> and is built over an area of {{cvt|32.6|km2}}.<ref name=":0" />
+
+=== Civic utilities ===
+Water supply and sewerage in Panchkula is maintained by [[Haryana Shahari Vikas Pradhikaran|Haryana Urban Development Authority]] (HUDA), the Public Health and Engineering Department (PHED) of the state, as well as the municipal corporation at the local level.<ref>{{Cite web|title=Water Supply Status {{!}} Public Health Engineering Department, Haryana, India|url=https://phedharyana.gov.in/WSStatus|access-date=2020-12-09|website=phedharyana.gov.in}}</ref> As of 2008, 80 MLD of water is supplied to Panchkula city, and it is treated by chlorination.<ref name=":2">{{Cite web|date=2017-11-04|title=Central Pollution Control Board|url=http://cpcb.nic.in/upload/NewItems/NewItem_153_Foreword.pdf|archive-url=https://web.archive.org/web/20171104041100/http://cpcb.nic.in/upload/NewItems/NewItem_153_Foreword.pdf|url-status=dead|archive-date=2017-11-04|access-date=2020-12-09}}</ref>
+
+Panchkula also produces {{convert|115|MT|kg lb}} of waste per day, out of which only about {{cvt|40|MT|kg lb}} is processed.<ref name=":1">{{Cite web|date=2020-10-21|title=Solid Waste Management Practices in Urban India - National Institute of Urban Affairs Report|url=https://sbm.niua.org/sites/all/themes/bootstrap_sub_theme/word%20files/Report_for_Web.pdf|archive-url=https://web.archive.org/web/20201021125101/https://sbm.niua.org/sites/all/themes/bootstrap_sub_theme/word%20files/Report_for_Web.pdf|url-status=dead|archive-date=2020-10-21|access-date=2020-12-09}}</ref> As per the [[National Institute of Urban Affairs]] (NIUA) report, 100% door to door collection has been ensured in all wards through waste pickers.<ref name=":1" /> Jhariwala village has a sanitary landfill for the waste, where unsegregated waste is dumped. The city also has a community composting facility, material recovery facility, and [[biogas]] plant.<ref name=":1" /> As of 2008, the city generated 64 MLD of sewage and had three [[Sewage treatment|sewage treatment plants]] (STPs) that were functional with a capacity of 18, 39 and 15 MLD respectively.<ref name=":2" />
+
+Panchkula city has an interim master plan that has been published by the Town and Country Planning Department of Haryana state.<ref>{{Cite web|title=Town and Country Planning Department, Haryana|url=https://tcpharyana.gov.in/DevelopmentPlan.htm|access-date=2020-12-09|website=tcpharyana.gov.in}}</ref>
+
+== Economy ==
+=== Employment ===
+[[Panchkula IT Park]] (also known as Haryana State Industrial and Infrastructural Development Corporation Technology Park) is the state-of-the-art infrastructure to facilitate information technology in the city. It spreads over 74 acres developed by HSIIDC situated in sector 22 on the foothills of [[Shivalik Hills]] or outer [[Himalayas]] and on the banks of the [[Ghaggar River]]. It is well connected to Delhi, Haryana, Punjab, and Himachal Pradesh.
+
+=== Tourism ===
+There are various tourist attractions in and around Panchkula including:
+[[File:A temple in Mansa Devi temple complex, Panchkula near Chandigarh.jpg|thumb|Patiala temple, constructed 1840 AD by [[Maharaja of Patiala]], within the [[Mata Mansa Devi Mandir|Mansa Devi temple complex]] in Panchkula]]
+
+*[[Mata Mansa Devi Mandir]] is one of the most prominent temples in North India and is dedicated to Goddess [[Mansa Devi]], a form of [[Shakti]].
+*[[Bhima Devi Temple Site Museum]], nicknamed Khajuraho of North India for its erotic sculptures, comprises the restored ruins of an ancient Hindu temple dating from between the 8th and 11th century AD.
+*[[Nada Sahib]] is a Sikh Gurudwara in the Panchkula district of the Indian state of Haryana. Situated on the banks of the Ghaggar-Hakra River in the Sivalik Hills.
+*[[Morni]], the hill resort at Morni Hills, an offshoot of the [[Sivalik Hills]], are about {{convert|45|km|mi}} from the city. The hills were named for Queen Morni, who is said to have ruled this city.
+*[[Pinjore Gardens]], also known as Yadavindra Gardens, are about {{convert|20|km|abbr=on}} from the city and cover a total area of {{convert|100|ha}}. The work of creating the gardens began in the seventeenth century. Pinjore Gardens is the venue for an annual mango festival. The garden houses a mini zoo, historic places, a Japanese garden, a nursery, and a number of picnic spots. According to Hindu theology, the [[Pandava]] brothers rested in Pinjore during their exile.
+*[[National Cactus and Succulent Botanical Garden and Research Centre]] a {{convert|7|acre|abbr=on}} cactus garden in the center of Panchkula, was established in 1987 and is known for its rare and endangered species of Indian [[succulent plant]]s.
+*[[Kaushalya Dam]] is an earth-filled barrage dam on the [[Kaushalya river]] in Pinjore. It is an important wetland that is home to many endangered migratory birds.[[File:Kaushalya-Dam.jpg|thumb|Kaushalya Dam]]
+*[[Bir Shikargah Wildlife Sanctuary]], [[Khol Hi-Raitan Wildlife Sanctuary]], [[Pheasant Breeding Centre, Morni]], [[Jatayu Conservation Breeding Centre, Pinjore]], [[Pheasant Breeding Centre, Berwala]].
+
+== Sports ==
+Panchkula has its own Sports Complex in Sector 3 includes [[Tau Devi Lal Cricket Stadium]], Panchkula Golf Course, Olympic Athletic Track, and other multi-purpose facilities for sports.
+
+[[Tau Devi Lal Cricket Stadium]] has a cricket stadium, badminton hall, football ground, athletic Track, and accommodation facilities for the sportsperson. It also boasts of a state-of-the-art modern international standard Astroturf laid Hockey Stadium with lights for eager hockey enthusiasts.
+
+Panchkula Golf Course was set up in 2003 over 135 acres of land. This 18-hole golf course is located in sector 3 in the foothills of [[Shivalik Hills]] on the banks of the [[Ghaggar River]], just off the [[Himalayan Expressway]].
+
+==Education==
+
+=== Colleges ===
+* [[National Institute of Fashion Technology]], Sector 23<ref>{{cite web |title=NIFT Panchkula |url=https://www.nift.ac.in/panchkula/ |website=www.nift.ac.in |access-date=29 January 2023}}</ref>
+{{Cleanup-list|section|date=March 2024}} 
+* [[Government College, Panchkula]] Sector 1
+* [[Government College for Girls, Panchkula]] Sector 14
+* [[Govt. Polytechnic Panchkula]]<ref>{{Cite web |title=Govt Polytechnic Panchkula – Govt Polytechnic Panchkula |url=https://gppanchkula.ac.in/ |access-date=2023-09-10 |language=en-US}}</ref>
+* [[Mother Teresa Saket College of Physiotherapy]], Chandimandir Cantonment
+* [[State Institute of Engineering & Technology, Panchkula]]. <ref>https://gppanchkula.ac.in/wp-content/uploads/2023/08/BTech-ADVERTISEMENT-_pkl_230829_204348.jpg {{Bare URL image|date=August 2024}}</ref>
+
+=== CBSE affiliated school ===
+* [[The British School, Panchkula]], Sector 8
+{{Cleanup-list|section|date=March 2024}} 
+* [[Amravati Vidyalaya Senior Secondary School]], Amravati Enclave<ref>[https://amravatividyalaya.com/ Amravati Vidyalaya Senior Secondary School]</ref>
+* [[Army Public School, Chandimandir Cantonment]]
+* [[Bhavan Vidyalaya]], Sector 15
+* [[Blue Bird, Panchkula]], Sector 16
+* [[CL DAV]], Sector 11
+* [[DAV Public School, Panchkula]], Sector 8
+* [[DC Model Senior Secondary School]], Sector 7
+* [[Doon Public School]], Sector 21
+* [[Hallmark Public School]], Sector 15
+* [[Hansraj Public School]], Sector 6<ref>{{Cite web |title=HANSRAJ PUBLIC SCHOOL |url=http://hansrajpublicschool.com/ |access-date=2023-09-10 |website=hansrajpublicschool.com}}</ref>
+* [[Haryana Model School]], Sector 10
+* [[Jainendra Public School]], Sector 1
+* [[Kendriya Vidyalaya No. 1 (KV1), Chandimandir Cantonment ]]
+* [[Kendriya Vidyalaya No. 2 (KV2), Chandimandir Cantonment ]]
+* [[Litera Heritage School]], Sector-14, Ext.-2, Panchkula
+* [[Manav Mangal School]], Sector 11
+* [[New India Smart School]], Sector 15
+* [[St. Soldier Divine Public School]], Sector 16
+* [[Satluj Public School]], Sector 4
+* [[Shishu Niketan, MDC]], Sector 5
+* [[The Gurukul]], Sector 20
+* [[The Sky World School]], Sector 21
+
+=== CISCE affiliated schools ===
+* [[Little Flower Convent School]], Sector 14
+* [[St. Xavier's High School, Panchkula]], Sector 20
+* [[Saupin's School]], Sector 9
+
+==Healthcare==
+=== Government run hospitals ===
+{{Cleanup-list|section|date=March 2024}} 
+* [[Command Hospital, Chandimandir Cantonment]]
+* [[General Hospital, Panchkula]] Sector 6
+* [[Government Pet Animal Medical Center Cum Teaching Hospital]], Sector 3
+* [[Saket Orthopedic Hospital]], Sector 1.
+
+=== Private hospitals ===
+* [[Panchkula Welfare Trust#Charitable Diagnostic Centre|Charitable Diagnostic Centre]], Sector 4
+{{Cleanup-list|section|date=March 2024}} 
+* [[Alchemist Hospital]], Sector 21
+
+* [[Alchemist Eye Institute]], Sector 21
+* [[Ameerpet Dental Hospital]], Sector 16
+* [[Blessings Hospital]], Sector 15
+* [[Cloudnine Hospital]], Sector 5, Panchkula
+* [[Chakravarty Nursing Home]], Sector 10
+* [[Clove Dental]], Sector 20<ref>{{Cite web |title=Panchkula - Sector20 |url=https://clovedental.in/dentist-near-me/panchkula/panchkula-sector20/ |access-date=2023-09-10 |website=Clove Dental |language=en-US}}</ref>
+* [[Dhawan Hospital]], Sector 7
+* [[Drishti Eye Hospital]], Sector 10
+* [[Gokul Surgical Hospital]], Sector 15
+* [[Gulmohar IVF & Fertility centre]], Sector 7
+* [[Happy Family Hospital]], Sector 5 MDC
+* [[Institute of Reproduction & Child Cares]], Sector 17
+* [[Ivy Hospital]], Sector 5C MDC
+* [[Jindal Nursing Home]], Sector 17
+* [[Kare Partners Mother And Child Hospital]], Sector 2
+* [[Malhotra Super Specialty Hospital]], Sector 25
+* [[Mind Peace Clinic]] Sector 14
+* [[Mirchia Hospital]] Sector 15
+* [[Noheria Nursing Home]], Sector 8
+* [[Ojas Hospital]], Sector 26
+* [[Orthomax Hospital]], Sector 15
+* [[Paras Hospital]], HSIIDC Park, Sector 22
+* [[Paras Bliss Hospital]] Sector 5 MDC
+* [[Phoenix Hospital]], Sector 16
+* [[Raffles Hospital, Panchkula]] Sector 14
+* [[Sunny Hospital]], Sector 4
+* [[Wings Hospital]], Sector 25
+
+==Notable people==
+<!---♦♦♦ Only add a person to this list if they already have their OWN article on the English Wikipedia ♦♦♦--->
+<!---♦♦♦ Please keep the list in alphabetical order by LAST NAME ♦♦♦--->
+
+* [[Meenakshi Chaudhary]] - Indian actress, model and beauty pageant winner
+* [[Dolly Guleria]] - Punjabi folk and Sufi singer, daughter of Nightingale of Punjab Padma Shri awardee Surinder Kaur
+* [[Ved Prakash Malik]] - Four star general who commanded the [[Indian Army]] during the [[Kargil War]]<ref>{{Cite news|url=http://timesofindia.indiatimes.com/india/Panchkula-City-of-Generals-gets-2-more-after-farewell-to-arms/articleshow/13696287.cms|title=Panchkula: 'City of Generals' gets 2 more after 'farewell to arms' |newspaper=The Times of India|access-date=2017-01-17}}</ref>
+* [[B.S. Sandhu]] - former [[Director general of police|Director General of Police]], Haryana
+
+==See also==
+* [[Ajitgarh]]
+* [[Amar Ujala]]
+* [[Zirakpur]]
+
+== References ==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+<!--Please do not put links to businesses here, Wikipedia is not for self-promotion. See WP:EL for more information.-->
+*{{Official website|http://panchkula.nic.in}}
+*{{Wikivoyage-inline}}
+{{Haryana}}
+
+[[Category:Panchkula| ]]
+[[Category:Cities and towns in Panchkula district]]
+[[Category:Planned communities in India]]

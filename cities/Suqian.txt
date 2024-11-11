@@ -1,0 +1,398 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = Suqian
+|official_name          = 
+|other_name             = Sutsien, Su-ch'ien
+|native_name            = 宿迁市
+|native_name_lang = zh-Hans
+|nickname               = 
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  = 
+<!-- images and maps  ----------->
+|image_skyline          = Renmindadao road and Xihu road intersection.to west,see Xihu road.20141105..JPG
+|imagesize              = 
+|image_caption          =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=7}}
+|image_map1             = Suqian locator map in Jiangsu.svg
+|mapsize1               =  
+|map_caption1           = Location of Suqian City (red) in Jiangsu
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Jiangsu#Eastern China#China
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location of the city center in Jiangsu
+|pushpin_mapsize        = 
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[People's Republic of China]]
+|subdivision_type1      = [[Province (China)|Province]]
+|subdivision_name1      = [[Jiangsu]]
+|subdivision_type2      = 
+|subdivision_name2      = 
+|seat_type              = Municipal seat
+|seat                   = [[Sucheng District]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =Mayor
+|leader_name            =[[Wang Tianqi]] ({{lang|zh|王天琦}})
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) --> 
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink --> 
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_total_km2           =8555  <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           =2108
+|area_metro_km2           =2108
+|area_blank1_title        =
+|area_blank1_km2          =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               =2020 census
+|population_footnotes           =<ref>{{Cite web|url=https://www.citypopulation.de/en/china/jiangsu/admin/|title = China: Jiāngsū (Prefectures, Cities, Districts and Counties) - Population Statistics, Charts and Map}}</ref>
+|population_total               =4,986,192
+|population_density_km2         =auto 
+|population_metro               =1,622,912 
+|population_density_metro_km2   =auto
+|population_urban               =1,622,912
+|population_density_urban_km2   =auto
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =   
+| demographics_type2   = GDP<ref name="people.com.cn">{{Cite web|url=http://ah.people.com.cn/n2/2022/0126/c401574-35113409.html|title=2021年江苏13市GDP出炉 苏州2.27万亿位居第一|website=ah.people.com.cn|access-date=January 26, 2022|archive-date=January 26, 2022|archive-url=https://web.archive.org/web/20220126211825/http://ah.people.com.cn/n2/2022/0126/c401574-35113409.html|url-status=live}}</ref>
+| demographics2_title1 = [[Prefecture-level city]] 
+| demographics2_info1 = [[Renminbi|CN¥]] 371.9&nbsp;brillion<br />[[US$]] 57.6&nbsp;billion
+| demographics2_title2 = Per capita
+| demographics2_info2 = CN¥ 74,586<br />US$ 11,561
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coor_pinpoint = Suqian municipal government
+|coordinates            = {{coord|33.963|N|118.275|E|type:adm2nd_region:CN-32_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Postal code of China|Postal code]] <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            = {{ublist|223800 <small>(Urban center)</small>|223600, 223700, 223900 <small>(Other areas)</small>}}
+|area_code              =527
+|iso_code = [[ISO 3166-2:CN|CN-JS-13]]
+|blank2_name            =Major [[Nationalities of China|Nationalities]]
+|blank2_info            =[[Han Chinese|Han]]
+|blank3_name            =[[Administrative divisions of the People's Republic of China#County level|County-level divisions]]
+|blank3_info            =5
+|blank4_name            = '''[[Administrative divisions of the People's Republic of China#Township level|Township-level divisions]]'''
+|blank4_info            =115
+|blank5_name            ='''[[Licence plates of the People's Republic of China|License Plate]] Prefix'''
+|blank5_info            = {{lang|zh-cn|苏N}}
+|blank6_name            =
+|blank6_info            =
+|website = {{URL|www.suqian.gov.cn/}}
+|footnotes              = 
+}}
+'''Suqian''' ({{zh|s={{linktext|宿迁}}|t={{linktext|宿遷}}|p=Sùqiān}}, [[Help:IPA|IPA]]: {{IPAc-cmn|s|u|4|.|q|ian|1}}) is a [[prefecture-level city]] in northern [[Jiangsu]] Province, China. It borders [[Xuzhou]] to the northwest, [[Lianyungang]] to the northeast, [[Huai'an]] to the south, and the province of [[Anhui]] to the west.
+
+== History ==
+[[File:Nieuhof-Ambassade-vers-la-Chine-1665 0800.tif|217x217px|thumb|left|"Tissang" (Suqian). Nieuhof: ''L'ambassade de la Compagnie Orientale des Provinces Unies vers l'Empereur de la Chine'', 1665]]
+Suqian was said to be the site of a military grain store built when the Emperor Yuan of Jin reigned. Thus, the former Xiaxiang county where the store located was renamed Suyu ({{lang|zh-hant|宿預}}; means "prepared" or "usually prepared") in 405. Then the county was annexed by Xuzhou and renamed Suqian in 762 because the homophone "yu ({{lang|zh|豫}})" as the given name of the [[Emperor Daizong of Tang]] was deemed to be [[ineffable]].<ref>{{Cite book|script-title=zh:中国历史大辞典·历史地理卷|publisher=Shanghai Cishu Press|year=1996|isbn=7-5326-0299-0|pages=838–839|trans-title=The Great Encyclopaedia of Chinese history, Volume on Historical Geography}}</ref> The county was put under the jurisdiction of Huaiyang military prefecture during the Song dynasty, then was transferred to Pizhou after Jurchen's Jin took it. The county was administered by Huai'an military prefecture during 1272–75, but restored as a part of Pizhou afterwards. It was annexed by Xuzhou again in 1733.
+
+The area was rife with banditry during the early years of the Republic of China. In Autumn 1917, six persons were executed as bandits in Suqian. "They cut off their arms, broke their legs, cut off their ears, punched out their eyes, skinned them, then cut off their heads, and finally cut out their hearts."<ref>{{cite book|author=John Pollock|title=A Foreign Devil in China|date=December 2010|publisher=World Wide Publications|pages=45–46|isbn=978-1-59328-277-6}}</ref> Suqian was put under the jurisdiction of Huaiyin in 1934. The county was converted as a county-level city in 1987, later was  elevated to prefecture status in 1996.<ref>{{Cite web|url=http://www.suqian.gov.cn/cnsq/lsyg/eng_wztt.shtml|title=Historical Evolution|website=Suqian Official Website}}</ref>[[File:宿迁骆马湖落日 - panoramio.jpg|thumb|Luoma Lake|left]]
+
+==Geography and climate==
+Suqian possesses the majority of [[Luoma Lake]], which is a major lake in the [[Huai River]] basin.
+
+{{Weather box|width=auto
+|location = Suqian ([[Suyu District]]) (1991–2020 normals, extremes 1981–2010)
+|metric first=y
+|single line=y 
+|collapsed = Y
+|Jan high C = 	5.4
+|Feb high C = 	8.6
+|Mar high C = 	14.1
+|Apr high C = 	20.6
+|May high C = 	25.7
+|Jun high C = 	29.5
+|Jul high C = 	31.1
+|Aug high C = 	30.4
+|Sep high C = 	26.7
+|Oct high C = 	21.6
+|Nov high C = 	14.5
+|Dec high C = 	7.7
+|Jan mean C = 	1.1
+|Feb mean C = 	3.9
+|Mar mean C = 	9.0
+|Apr mean C = 	15.3
+|May mean C = 	20.6
+|Jun mean C = 	24.8
+|Jul mean C = 	27.3
+|Aug mean C = 	26.5
+|Sep mean C = 	22.2
+|Oct mean C = 	16.5
+|Nov mean C = 	9.6
+|Dec mean C = 	3.2
+|Jan low C = 	-2.4
+|Feb low C = 	0.1
+|Mar low C = 	4.6
+|Apr low C = 	10.3
+|May low C = 	15.8
+|Jun low C = 	20.6
+|Jul low C = 	24.1
+|Aug low C = 	23.4
+|Sep low C = 	18.5
+|Oct low C = 	12.2
+|Nov low C = 	5.6
+|Dec low C = 	-0.4
+|Jan record high C = 17.3 |Jan record low C = -15.6
+|Feb record high C = 26.1 |Feb record low C = -16.1
+|Mar record high C = 27.9 |Mar record low C = -8.0
+|Apr record high C = 32.8 |Apr record low C = -0.7
+|May record high C = 36.6 |May record low C = 3.4
+|Jun record high C = 38.5 |Jun record low C = 11.6
+|Jul record high C = 38.5 |Jul record low C = 17.1
+|Aug record high C = 37.5 |Aug record low C = 14.2
+|Sep record high C = 35.2 |Sep record low C = 8.0
+|Oct record high C = 33.1 |Oct record low C = -1.2
+|Nov record high C = 27.8 |Nov record low C = -7.1
+|Dec record high C = 20.4 |Dec record low C = -16.5
+|year high C =  |year low C = 
+|year high F =  |year low F =
+|precipitation colour = green
+|Jan precipitation mm = 	22.7
+|Feb precipitation mm = 	26.5
+|Mar precipitation mm = 	41.9
+|Apr precipitation mm = 	46.9
+|May precipitation mm = 	76.4
+|Jun precipitation mm = 	127.9
+|Jul precipitation mm = 	211.1
+|Aug precipitation mm = 	180.1
+|Sep precipitation mm = 	91.3
+|Oct precipitation mm = 	41.8
+|Nov precipitation mm = 	35.2
+|Dec precipitation mm = 	20.2
+|Jan humidity = 	68
+|Feb humidity = 	66
+|Mar humidity = 	64
+|Apr humidity = 	65
+|May humidity = 	69
+|Jun humidity = 	72
+|Jul humidity = 	82
+|Aug humidity = 	83
+|Sep humidity = 	79
+|Oct humidity = 	72
+|Nov humidity = 	71
+|Dec humidity = 	68
+|unit precipitation days = 0.1 mm	
+|Jan precipitation days = 	4.8
+|Feb precipitation days = 	5.9
+|Mar precipitation days = 	6.4
+|Apr precipitation days = 	7.2
+|May precipitation days = 	7.5
+|Jun precipitation days = 	8.3
+|Jul precipitation days = 	12.9
+|Aug precipitation days = 	11.4
+|Sep precipitation days = 	7.5
+|Oct precipitation days = 	5.5
+|Nov precipitation days = 	5.9
+|Dec precipitation days = 	4.9
+|year precipitation days = 	
+|Jan sun = 	143.5
+|Feb sun = 	143.7
+|Mar sun = 	181.4
+|Apr sun = 	200.7
+|May sun = 	211.5
+|Jun sun = 	182.1
+|Jul sun = 	175.4
+|Aug sun = 	180.5
+|Sep sun = 	172.9
+|Oct sun = 	177.1
+|Nov sun = 	153.3
+|Dec sun = 	151.1
+|year sun = 	
+| Jan percentsun = 	45
+| Feb percentsun = 	46
+| Mar percentsun = 	49
+| Apr percentsun = 	51
+| May percentsun = 	49
+| Jun percentsun = 	42
+| Jul percentsun = 	40
+| Aug percentsun = 	44
+| Sep percentsun = 	47
+| Oct percentsun = 	51
+| Nov percentsun = 	50
+| Dec percentsun = 	49
+| year percentsun =	
+|Jan snow days = 	3.2
+|Feb snow days = 	2.6
+|Mar snow days = 	1.1
+|Apr snow days = 	0.1
+|May snow days = 	0
+|Jun snow days = 	0
+|Jul snow days = 	0
+|Aug snow days = 	0
+|Sep snow days = 	0
+|Oct snow days = 	0
+|Nov snow days = 	0.6
+|Dec snow days = 	1.5
+|year snow days = 	
+|source 1 = [[China Meteorological Administration]]<ref name="cma graphical">{{cite web |url=http://data.cma.cn/data/weatherBk.html |script-title=zh:中国气象数据网 – WeatherBk Data |publisher=[[China Meteorological Administration]] |language = zh-hans |access-date=25 June 2023}}</ref><ref>
+{{cite web|url=https://experience.arcgis.com/template/e724038fda394e9d9b7921f10fd1aa55/page/%E7%BA%AF%E8%A1%A8%E6%A0%BC%E7%BB%9F%E8%AE%A1-(%E5%AF%B9%E6%AF%948110%E5%8F%98%E5%8C%96)/?org=UQmaps |script-title=zh:中国气象数据网|publisher=[[China Meteorological Administration]] |language = zh-hans | access-date =25 June 2023}}</ref>
+}}
+
+== Demographics ==
+As of the [[2020 Chinese census]], Suqian had a recorded population of about 4,986,192 whom 1,622,912 lived in the built-up (''or metro'') area made of Sucheng and Suyu urban districts.
+
+== Economy ==
+Local Yanghe along with Moutai and Wuliangye, are the three biggest manufacturers of [[baijiu]].<ref>{{Cite web|url=https://www.economist.com/news/business/21699487-sales-baijiu-chinas-national-tipple-are-rebound-proof-positive|title=Proof positive|website=The Economist|language=en|access-date=2018-02-08}}</ref> Besides, several domestic companies followed [[JD.com]] to site their [[call centre]]s in Suqian.
+
+== Transport ==
+
+=== Roads ===
+
+==== Expressways ====
+[[G2513 Huai'an–Xuzhou Expressway]]
+
+=== Rail ===
+Yanghe Station, known as Suqian Station on Suqian[[G2513 Huai'an–Xuzhou Expressway|–]]Huai'an Railway is located in the south outskirt of Suqian.
+
+== Education ==
+[[Suqian College]] is the single institution in Suqian providing bachelor's degree education.
+
+==Administration==
+[[File:Txu-oclc-10552568-ni50-11.jpg|thumb|Map including Suqian (labeled as SU-CH'IEN (SUTSIEN) (walled) {{lang|zh-hant|宿遷}}) ([[Army Map Service|AMS]], 1954)]]
+{{update|date=July 2019}}
+{{see also|List of administrative divisions of Jiangsu}}
+
+The [[prefecture-level city]] of Suqian administers 5 [[Administrative divisions of the People's Republic of China#County level|county-level divisions]], including 3 [[County (People's Republic of China)|counties]] and 2 [[District of China|districts]].
+
+These are further divided into 115 [[Administrative divisions of the People's Republic of China#Township level|township-level divisions]], including 111 [[town of China|towns]] and [[Township (People's Republic of China)|township]], and 4 [[Subdistricts of China|subdistrict]]s.
+
+{|class="wikitable" 
+! colspan="6" | Map
+|-
+| colspan="6" | <div style="position: relative" class="center">
+{{Image label begin|image=Administrative Division Suqian.png|width={{{1|445}}}|link=}} 
+{{Image label|x=930|y=1720|scale={{{1|445}}}/1780|text=[[Hongze Lake|''Hongze<br/>Lake'']]}}
+{{Image label|x=330|y=600|scale={{{1|445}}}/1780|text=[[Luoma Lake|''Luoma<br/>Lake'']]}}
+{{Image label|x=500|y=1070|scale={{{1|445}}}/1780|text=[[Sucheng District|'''Sucheng''']]}}
+{{Image label|x=670|y=770|scale={{{1|445}}}/1780|text=[[Suyu District|'''Suyu''']]}}
+{{Image label|x=1250|y=500|scale={{{1|445}}}/1780|text=[[Shuyang County|'''Shuyang<br/>County''']]}}
+{{Image label|x=1010|y=1170|scale={{{1|445}}}/1780|text=[[Siyang County|'''Siyang<br/>County''']]}}
+{{Image label|x=430|y=1700|scale={{{1|445}}}/1780|text=[[Sihong County|'''Sihong<br/>County''']]}}
+{{Image label end}}
+</div>
+|-
+! align=left          | Subdivision
+! align=left          | Simplified Chinese
+! align=left          | Hanyu Pinyin
+! align=left          | Population {{small|([[Seventh National Population Census of the People's Republic of China|2020]])}}
+! align=left          | Area {{small|(km<sup>2</sup>)}}
+! align=left          | Density {{small|(/km<sup>2</sup>)}}
+|-
+|- style="background:#d3d3d3;"
+| colspan="6" style="text-align:center; " | '''City Proper'''
+|-
+| align="left" | [[Sucheng District]]
+| align="left" | {{lang|zh-Hans|宿城区}}
+| align="right" | {{transl|zh|Sùchéng Qū}}
+| align="right" | 1,034,392
+| align="right" | 1,018
+| align="right" | 1,016
+|-
+|- style="background:#d3d3d3;"
+| colspan="6" style="text-align:center; " | '''Suburban'''
+|-
+| align="left" | [[Suyu District]]
+| align="left" | {{lang|zh-Hans|宿豫区}}
+| align="right" | {{transl|zh|Sùyù Qū}}
+| align="right" | 588,520
+| align="right" | 1,146
+| align="right" | 513.5
+|-
+|- style="background:#d3d3d3;"
+| colspan="6" style="text-align:center; " | '''Rural'''
+|-
+| align="left" | [[Shuyang County]]
+| align="left" | {{lang|zh-Hans|沭阳县}}
+| align="right" | {{transl|zh|Shùyáng Xiàn}}
+| align="right" | 1,674,978
+| align="right" | 2,300
+| align="right" | 728.3
+|-
+| align="left" | [[Siyang County]]
+| align="left" | {{lang|zh-Hans|泗阳县}}
+| align="right" | {{transl|zh|Sìyáng Xiàn}}
+| align="right" | 829,562
+| align="right" | 1,389
+| align="right" | 597.2
+|-
+| align="left" | [[Sihong County]]
+| align="left" | {{lang|zh-Hans|泗洪县}}
+| align="right" | {{transl|zh|Sìhóng Xiàn}}
+| align="right" | 858,740
+| align="right" | 2,719
+| align="right" | 315.8
+|-
+|-
+|- style="background:#d3d3d3;"
+| colspan="3" style="text-align:center; " |'''Total'''
+| align="right" |'''4,986,192'''
+| align="right" |'''8,572'''
+| align="right" |'''581.7'''
+|}
+
+== References ==
+{{reflist}}
+
+==External links==
+*[http://www.suqian.gov.cn Government Website of Suqian] (in Simplified Chinese)
+*[http://suqian.jiangsu.net Suqian comprehensive guide with open directory] (Jiangsu.net)
+{{Jiangsu topics}}
+{{Jiangsu}}
+{{Prefectural-level divisions of the People's Republic of China}}
+
+{{authority control}}
+
+[[Category:Suqian| ]]
+[[Category:Cities in Jiangsu]]
+[[Category:Prefecture-level divisions of Jiangsu]]

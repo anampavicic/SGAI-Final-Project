@@ -1,0 +1,57 @@
+{{Infobox French subdivision
+| type = arr
+| name=Saint-Denis
+| INSEE=9741
+| nbcomm=3
+| prefecture=y
+| seat=[[Saint-Denis, Réunion|Saint-Denis]]
+| population             = {{France metadata Wikidata|population_total}}
+| population_as_of       = {{France metadata Wikidata|population_as_of}}
+| population_footnotes   = {{France metadata Wikidata|population_footnotes2}} 
+| area=287.8
+| image_map=Locator map of Arrondissement Saint-Denis 2018.png
+| map_caption=Location within Réunion
+}}
+The '''arrondissement of Saint-Denis''' is an [[Arrondissements of France|arrondissement]] of France in the [[Réunion]] [[Departments of France|department]] in the Réunion [[Regions of France|region]]. It has three [[Communes of France|communes]].<ref name="insee2" /> Its population is 204,304 (2016), and its area is {{convert|287.8|km2|abbr=on}}.<ref name=insee>{{cite web|url=https://www.insee.fr/fr/statistiques/1405599?geo=ARR-9741+ARR-9742+ARR-9743+ARR-9744|title=Comparateur de territoire, géographie au 01/01/2019|accessdate=2019-10-06|publisher=[[INSEE]]}}</ref>
+
+==Composition==
+
+The communes of the arrondissement of Saint-Denis, and their INSEE codes, are:<ref name=insee2>{{cite web|url=https://www.insee.fr/fr/metadonnees/cog/arrondissement/ARR9741-saint-denis|title=Arrondissement de Saint-Denis (9741)|accessdate=2019-10-06|publisher=[[INSEE]]}}</ref>
+# [[Saint-Denis, Réunion|Saint-Denis]] <small>(97411)</small>
+# [[Sainte-Marie, Réunion|Sainte-Marie]] <small>(97418)</small>
+# [[Sainte-Suzanne, Réunion|Sainte-Suzanne]] <small>(97420)</small>
+
+==History==
+
+At the creation of the department of Réunion in 1947, its only arrondissement was Saint-Denis.<ref>[https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000000849126&pageCourante=05262 Décret n° 47-1018 du 7 juin 1947 relatif à l'organisation départementale et à l'institution préfectorale dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion]</ref> It lost 11 communes to the new [[arrondissement of Saint-Pierre, Réunion|arrondissement of Saint-Pierre]] in 1964,<ref>[https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000000853108&pageCourante=08211 Décret n°64-925 du 3 septembre 1964]</ref> six communes to the new [[arrondissement of Saint-Benoît]] in 1968,<ref>[https://www.legifrance.gouv.fr/jo_pdf.do?cidTexte=JPDF0610196800009451 Décret n° 68-862 du 2 octobre 1968]</ref> and one commune to the new [[arrondissement of Saint-Paul]] in 1969.<ref>[https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000719357 Décret n°69-876 du 24 septembre 1969]</ref> In September 2006 it lost the two communes of [[Le Port, Réunion|Le Port]] and [[La Possession]] to the arrondissement of Saint-Paul.<ref name=arrete>{{cite web|url=http://administration.reunion.gouv.fr/raa/2006/juin/arrete2433.pdf|title=Arrêté préfectoral, 30 June 2006|accessdate=2019-10-29|archive-date=2019-10-29|archive-url=https://web.archive.org/web/20191029133016/http://administration.reunion.gouv.fr/raa/2006/juin/arrete2433.pdf|url-status=dead}}</ref>
+
+As a result of the reorganisation of the [[cantons of France]] which came into effect in 2015, the borders of the cantons are no longer related to the borders of the arrondissements. The cantons of the arrondissement of Saint-Benoît were, as of January 2015:<ref name=insee2012>{{cite web|url=https://www.insee.fr/fr/statistiques/fichier/2119595/dep974.pdf |title=Populations légales 2012: 974 Département de la Réunion|date=December 2014|publisher=[[Institut national de la statistique et des études économiques|INSEE]]}}</ref>
+{{div col|colwidth=17em}}
+# [[Cantons of Saint-Denis|Saint-Denis-1]]
+# [[Cantons of Saint-Denis|Saint-Denis-2]]
+# [[Cantons of Saint-Denis|Saint-Denis-3]]
+# [[Cantons of Saint-Denis|Saint-Denis-4]]
+# Saint-Denis-5
+# Saint-Denis-6
+# Saint-Denis-7
+# Saint-Denis-8
+# Saint-Denis-9
+# [[Canton of Sainte-Marie|Sainte-Marie]]
+# Sainte-Suzanne
+{{div col end}}
+
+==References==
+{{Reflist}}
+
+{{Arrondissements of Réunion}}
+
+{{coord|20|52|58|S|55|26|55|E|type:adm3rd_source:kolossus-itwiki|display=title}}
+
+
+{{authority control}}
+
+{{DEFAULTSORT:Arrondissement Of Saint-Denis, Reunion}}
+[[Category:Arrondissements of Réunion|Saint-Denis]]
+
+
+{{Réunion-geo-stub}}

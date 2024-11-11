@@ -1,0 +1,398 @@
+{{short description|Prefecture-level city in Anhui, People's Republic of China}}
+{{distinguish|Huai'an}}
+{{Other uses}}
+{{Expand Chinese|date=June 2020|topic=geo}}
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info ---------------->
+|name                 = Huainan
+|official_name        = 
+|other_name           = Hwainan
+|native_name          = 淮南市
+|native_name_lang = zh
+|nickname             = 
+|settlement_type      = [[Prefecture-level city]]
+|total_type           = <!-- to set a non-standard label for total area and population rows -->
+|motto                =
+<!-- images and maps ----------->
+|image_skyline        = Tongfei Gate, Shou County.jpg
+|imagesize            = 
+|image_caption        = 
+|image_seal           = 
+|seal_size            = 
+|image_shield         = 
+|shield_size          = 
+|image_blank_emblem   = 
+|blank_emblem_type    = 
+|blank_emblem_size    = 
+|image_map            = Location of Huainan Prefecture within Anhui (China).png
+|mapsize              = 
+|map_caption          = Location of Huainan City jurisdiction in Anhui
+|image_map1           = 
+|mapsize1             = 
+|map_caption1         = 
+|image_dot_map        = 
+|dot_mapsize          = 
+|dot_map_caption      = 
+|dot_x                = 
+|dot_y                = 
+<!--
+|pushpin_map          = Anhui
+|pushpin_label_position = 
+|pushpin_map_caption  = Location of the city centre in Anhui
+|pushpin_mapsize      =
+-->
+|coor_pinpoint = [[:zh:淮南站|Huainan railway station]] plaza
+|coordinates = {{coord|32.6314|N|117.0194|E|type:adm2nd_region:CN-34_source:Gaode|format=dms|display=it}}
+<!-- Location ------------------>
+|subdivision_type     = Country
+|subdivision_name = [[China|People's Republic of China]]
+|subdivision_type1    = [[Provinces of China|Province]]
+|subdivision_name1    = [[Anhui]]
+|subdivision_type2    = [[Administrative divisions of China#County level|County-level divisions]]
+|subdivision_name2    = 7
+|subdivision_type3    = [[Administrative divisions of China#Township level|Township-level divisions]]
+|subdivision_name3    = 66
+|subdivision_type4    = 
+|subdivision_name4    = 
+|seat_type            = Municipal seat
+|seat                 = [[Tianjia'an District]]
+|parts_type           =
+|parts_style          = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                      Default is list if up to 5 items, coll if more than 5-->
+|parts                = <!-- parts text, or header for parts list -->
+|p1                   = 
+|p2                   = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->
+|government_footnotes =
+|government_type      = 
+|leader_title         = CPC Secretary
+|leader_name          = Shen Qiang ({{lang|zh-hans|沈强}})
+|leader_title1        = [[Mayor]]
+|leader_name1         = Wang Hong ({{lang|zh|王宏}})
+|leader_title2        = 
+|leader_name2         = 
+|leader_title3        = 
+|leader_name3         = 
+|leader_title4        = 
+|leader_name4         = 
+|established_title    = <!-- Settled -->
+|established_date     = 
+|established_title1   = <!-- Incorporated (town) -->
+|established_date1    = 
+|established_title2   = <!-- Incorporated (city) -->
+|established_date2    = 
+|established_title3   = 
+|established_date3    = 
+|founder              = 
+|named_for            = 
+<!-- Area --------------------->
+|area_magnitude       = <!-- use only to set a special wikilink --> 
+|unit_pref            = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes       =
+|area_total_km2       = 5530 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2        = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2       = 
+|area_water_percent   = 
+|area_urban_km2       = 1500.2
+|area_metro_km2       = 1989.7
+|area_blank1_title    = 
+|area_blank1_km2      = 
+<!-- Elevation -------------------------->
+|elevation_footnotes  = <!--for references: use <ref> </ref> tags-->
+|elevation_m          = 
+|elevation_ft         = 
+|elevation_max_m      = 
+|elevation_max_ft     = 
+|elevation_min_m      = 
+|elevation_min_ft     = 
+<!-- Population ----------------------->
+|population_as_of     = 2020 census
+|population_footnotes = <ref>{{cite web| url = http://www.citypopulation.de/php/china-anhui-admin.php| title = China: Ānhuī (Prefectures, Cities, Districts and Counties) - Population Statistics, Charts and Map}}</ref>
+|population_note      =
+|population_total     = 3033528 
+|population_density_km2 = auto<!--For automatic calculation, any density field may contain: auto -->
+|population_metro     = 1868944
+|population_density_metro_km2 = auto
+|population_urban     = 1561636
+|population_density_urban_km2 = auto
+|population_blank1_title =
+|population_blank1    =
+|population_density_blank1_km2 =
+| demographics_type2   = GDP<ref name=":0">{{Cite web |title=《安徽统计年鉴2022》电子查阅版 |url=http://tjj.ah.gov.cn/oldfiles/tjj/tjjweb/tjnj/2022/index.htm |website=tjj.ah.gov.cn |access-date=2022-10-18 |archive-date=2022-10-18 |archive-url=https://web.archive.org/web/20221018145816/http://tjj.ah.gov.cn/oldfiles/tjj/tjjweb/tjnj/2022/index.htm |url-status=live }}</ref>
+| demographics2_title1 = [[Prefecture-level city]]
+| demographics2_info1 = [[CN¥]] 145.7 billion<br />[[US$]] 18.9 billion 
+| demographics2_title2 = Per capita
+| demographics2_info2 = CN¥ 47,929<br />US$ 7,430
+<!-- General information --------------->
+|timezone             = [[China Standard Time|CST]]
+|utc_offset           = +8
+<!-- Area/postal codes & others -------->
+|postal_code_type     = <!-- [[Postal code of China|Postal code]] -->
+|postal_code          = 232000
+|area_code            = 554
+|iso_code = [[ISO 3166-2:CN|CN-AH-04]]
+|blank_name           = [[GDP]] 
+|blank_info           = 
+|blank1_name          = GDP per capita 
+|blank1_info          = 
+|blank2_name          = [[Vehicle registration plates of China|License plate]] Prefix 
+|blank2_info          = {{lang|zh-cn|皖D}}
+|website              = 
+|footnotes            = 
+}}
+{{Infobox Chinese
+|pic=淮南市洞山中路景色-新锦江大酒店 - panoramio - luchangjiang~鲁昌江.jpg
+|c={{linktext|lang=zh|淮南}} |p=Huáinán |w=Huai-nan |l=[Land(s)] South of the [[Huai River]]
+}}
+'''Huainan'''<!--Chinese in infobox; see WP:MOS-ZH--> ({{Zh|c=淮南|p=Huáinán}}) is a [[prefecture-level city]] with 3,033,528 inhabitants as of the 2020 census in north-central [[Anhui]] province, China. It is named for the [[Han dynasty|Han]]-era [[Principality of Huainan]]. It borders the provincial capital of [[Hefei]] to the south, [[Lu'an]] to the southwest, [[Fuyang]] to the west, [[Bozhou]] to the northwest, [[Bengbu]] to the northeast and [[Chuzhou]] to the east. Huainan is one of the core cities of Hefei Metropolitan Circle<ref>{{Cite web |url=http://xxgk.ah.gov.cn/UserData/DocHtml/731/2016/12/15/572807095431.html |title=安徽省人民政府网——安徽省人民政府办公厅关于印发长江三角洲 城市群发展规划安徽实施方案的通知 |access-date=2018-04-10 |archive-date=2018-07-02 |archive-url=https://web.archive.org/web/20180702011113/http://xxgk.ah.gov.cn/UserData/DocHtml/731/2016/12/15/572807095431.html |url-status=dead }}</ref> and is known for its coal industry and [[thermal power plants]]. Its built-up area made of 4 urban districts (all but Panji not yet conurbated) and Fengtai County largely being urbanized, was home to 1,868,944 inhabitants as of 2020. Its city flower is the Chinese rose (''[[Rosa chinensis]]'') and its city tree is the Old-World Plane Tree (''[[Platanus orientalis]]''). It is also considered to be the hometown and birthplace of [[tofu]].<ref name="ShurtleffAoyagi2013">{{cite book|author1=William Shurtleff|author2=Akiko Aoyagi|title=History of Tofu and Tofu Products (965 CE to 2013)|url=https://books.google.com/books?id=gGrUNvZt0_YC&pg=PA55|date=May 2013|publisher=Soyinfo Center|isbn=978-1-928914-55-6|page=55}}</ref>
+
+==Administration==
+
+{{Historical population
+| source = [[Census in China]]<ref>{{cite journal |title=China County Map with 2000-201o Population Census Data |url=https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VKGEBX |website=dataverse.harvard.edu | date=2020 | doi=10.7910/DVN/VKGEBX |access-date=6 January 2024 | author1=Spatial Data Lab }}</ref>
+|[[1953 Chinese census|1953]] | 286941
+|[[1964 Chinese census|1964]] | 456223
+|[[1982 Chinese census|1982]] | 576605
+|[[1990 Chinese census|1990]] | 724157
+|[[2000 Chinese census|2000]] | 1062430
+|[[2010 Chinese census|2010]] | 1238488
+|[[2020 Chinese census|2020]] | 1255619
+|align = right
+}}
+
+The [[prefecture-level city]] of Huainan administers seven [[Administrative divisions of the People's Republic of China#County level|county-level divisions]], including five [[District of China|districts]] and two [[County (People's Republic of China)|counties]].
+
+*[[Tianjia'an District]] ({{lang|zh-hans|田家庵区}})
+*[[Panji District]] ({{lang|zh-hans|潘集区}})
+*[[Xiejiaji District]] ({{lang|zh-hans|谢家集区}})
+*[[Datong District, Huainan|Datong District]] ({{lang|zh-hans|大通区}})
+*[[Bagongshan District]] ({{lang|zh-hans|八公山区}})
+*[[Fengtai County]] ({{lang|zh-hans|凤台县}})
+*[[Shou County]] ({{lang|zh-hans|寿县}})
+
+These are further divided into 66 [[Administrative divisions of the People's Republic of China#Township level|township-level divisions]], including 24 [[town of China|towns]], 23 [[Township (People's Republic of China)|townships]] and 19 [[Subdistricts of China|subdistrict]]s.
+
+{|class="wikitable" 
+!Map
+|-
+|<div style="position: relative" class="center">
+{{Image label begin|image=Administrative Division Huainan 2.png|width=450|link=}}
+{{Image label|x=565|y=450|scale=450/850|text=[[Tianjia'an District|'''Tianjia'an''']]}}
+{{Image label|x=480|y=310|scale=450/850|text=[[Panji District|'''Panji''']]}}
+{{Image label|x=700|y=480|scale=450/850|text=[[Datong District, Huainan|'''Datong''']]}}
+{{Image label|x=370|y=410|scale=450/850|text=[[Bagongshan District|<span style="font-size:smaller">'''Bagongshan'''</span>]]}}
+{{Image label|x=540|y=570|scale=450/850|text=[[Xiejiaji District|'''Xiejiaji''']]}}
+{{Image label|x=190|y=250|scale=450/850|text=[[Fengtai County|'''Fengtai'''<br />'''County''']]}}
+{{Image label|x=350|y=800|scale=450/850|text=[[Shou County|'''Shou'''<br />'''County''']]}}
+{{Image label end}}
+</div>
+|}
+
+===High-tech development zone===
+* [[Shannan New Area]] ({{lang|zh-hans|山南新区}})
+
+==Geography==
+The urban centre is located on a plain on the south bank of the [[Huai River]], bordering [[Gaotang Lake]] on the east and a forested hill area on the south. To the west are [[Bagong Mountain Scenic Spot|Bagongshan District]] and [[Shou County]].
+
+===Climate===
+{{Infobox weather
+|width = auto
+|location = Huainan (1991–2020 normals, extremes 1981–2010)
+|metric first=y
+|single line=y 
+|collapsed = Y
+|Jan high C = 	6.8
+|Feb high C = 	9.9
+|Mar high C = 	15.3
+|Apr high C = 	22.0
+|May high C = 	27.2
+|Jun high C = 	30.4
+|Jul high C = 	32.5
+|Aug high C = 	31.6
+|Sep high C = 	27.7
+|Oct high C = 	22.7
+|Nov high C = 	15.9
+|Dec high C = 	9.2
+|Jan mean C = 	2.9
+|Feb mean C = 	5.6
+|Mar mean C = 	10.5
+|Apr mean C = 	16.8
+|May mean C = 	22.3
+|Jun mean C = 	26.0
+|Jul mean C = 	28.6
+|Aug mean C = 	27.7
+|Sep mean C = 	23.5
+|Oct mean C = 	18.1
+|Nov mean C = 	11.4
+|Dec mean C = 	5.1
+|Jan low C = 	-0.1
+|Feb low C = 	2.3
+|Mar low C = 	6.7
+|Apr low C = 	12.4
+|May low C = 	17.9
+|Jun low C = 	22.1
+|Jul low C = 	25.4
+|Aug low C = 	24.6
+|Sep low C = 	20.1
+|Oct low C = 	14.4
+|Nov low C = 	7.8
+|Dec low C = 	2.0
+|Jan record high C = 19.9 |Jan record low C = -12.2
+|Feb record high C = 26.5 |Feb record low C = -13.0
+|Mar record high C = 30.2 |Mar record low C = -4.5
+|Apr record high C = 34.6 |Apr record low C = 0.4
+|May record high C = 37.3 |May record low C = 7.3
+|Jun record high C = 38.7 |Jun record low C = 11.9
+|Jul record high C = 40.0 |Jul record low C = 18.4
+|Aug record high C = 39.3 |Aug record low C = 15.9
+|Sep record high C = 38.1 |Sep record low C = 10.9
+|Oct record high C = 34.0 |Oct record low C = 1.3
+|Nov record high C = 29.5 |Nov record low C = -6.2
+|Dec record high C = 23.1 |Dec record low C = -15.7
+|year high C =  |year low C = 
+|year high F =  |year low F =
+|precipitation colour = green
+|Jan precipitation mm = 	36.9
+|Feb precipitation mm = 	40.6
+|Mar precipitation mm = 	59.3
+|Apr precipitation mm = 	61.1
+|May precipitation mm = 	78.9
+|Jun precipitation mm = 	173.0
+|Jul precipitation mm = 	183.0
+|Aug precipitation mm = 	140.7
+|Sep precipitation mm = 	81.0
+|Oct precipitation mm = 	54.6
+|Nov precipitation mm = 	48.0
+|Dec precipitation mm = 	26.9
+|Jan humidity = 	69
+|Feb humidity = 	69
+|Mar humidity = 	64
+|Apr humidity = 	64
+|May humidity = 	65
+|Jun humidity = 	71
+|Jul humidity = 	77
+|Aug humidity = 	79
+|Sep humidity = 	75
+|Oct humidity = 	68
+|Nov humidity = 	68
+|Dec humidity = 	68
+|unit precipitation days = 0.1 mm	
+|Jan precipitation days = 	7.3
+|Feb precipitation days = 	8.0
+|Mar precipitation days = 	8.7
+|Apr precipitation days = 	8.1
+|May precipitation days = 	9.4
+|Jun precipitation days = 	9.9
+|Jul precipitation days = 	11.8
+|Aug precipitation days = 	12.6
+|Sep precipitation days = 	8.3
+|Oct precipitation days = 	7.6
+|Nov precipitation days = 	7.9
+|Dec precipitation days = 	6.2
+|year precipitation days = 	
+|Jan sun = 	126.1
+|Feb sun = 	123.8
+|Mar sun = 	168.3
+|Apr sun = 	193.2
+|May sun = 	196.7
+|Jun sun = 	177.5
+|Jul sun = 	193.0
+|Aug sun = 	182.1
+|Sep sun = 	157.7
+|Oct sun = 	164.4
+|Nov sun = 	148.4
+|Dec sun = 	133.6
+|year sun = 	
+| Jan percentsun = 	40
+| Feb percentsun = 	39
+| Mar percentsun = 	45
+| Apr percentsun = 	49
+| May percentsun = 	46
+| Jun percentsun = 	42
+| Jul percentsun = 	45
+| Aug percentsun = 	45
+| Sep percentsun = 	43
+| Oct percentsun = 	47
+| Nov percentsun = 	48
+| Dec percentsun = 	43
+| year percentsun =	
+|Jan snow days = 	4.2
+|Feb snow days = 	2.7
+|Mar snow days = 	1.1
+|Apr snow days = 	0
+|May snow days = 	0
+|Jun snow days = 	0
+|Jul snow days = 	0
+|Aug snow days = 	0
+|Sep snow days = 	0
+|Oct snow days = 	0
+|Nov snow days = 	0.7
+|Dec snow days = 	1.5
+|year snow days = 	
+|source 1 = [[China Meteorological Administration]]<ref name="cma graphical">{{cite web |url=http://data.cma.cn/data/weatherBk.html |script-title=zh:中国气象数据网 – WeatherBk Data |publisher=[[China Meteorological Administration]] |language = zh-hans |access-date=27 June 2023}}</ref><ref>
+{{cite web|url=https://experience.arcgis.com/template/e724038fda394e9d9b7921f10fd1aa55/page/%E7%BA%AF%E8%A1%A8%E6%A0%BC%E7%BB%9F%E8%AE%A1-(%E5%AF%B9%E6%AF%948110%E5%8F%98%E5%8C%96)/?org=UQmaps |script-title=zh:中国气象数据网|publisher=[[China Meteorological Administration]] |language = zh-hans | access-date =27 June 2023 |title=Experience Template }}</ref>
+}}
+
+==Economy==
+[[File:安徽省淮南市优山美地小区公寓楼 - panoramio - luchangjiang~鲁昌江 (1).jpg|thumb|High rise apartments, 2010]]
+Huainan is a major production center for [[coal]], with an output of 43.28 million tons in 2006.
+
+The city hosted the 17th China Tofu Cultural Festival on September 15–17, 2010, including the National Bean Products Exhibition.<ref>{{Cite web |url=http://english.anhuinews.com/system/2010/09/16/003356173.shtml |title=The 17th Huainan Tofu Festival Draws Curtain-Tofu,Festival,-ÖÐ°²ÔÚÏß-english |access-date=2010-10-08 |archive-url=https://web.archive.org/web/20101205152717/http://english.anhuinews.com/system/2010/09/16/003356173.shtml |archive-date=2010-12-05 |url-status=dead }}</ref>
+
+==Education==
+*[[Anhui University of Science and Technology]] ({{lang|zh-Hans|安徽理工大学}}) [http://www.aust.edu.cn/ official website]
+*[[Huainan Normal University]] ({{lang|zh-Hans|淮南师范学院}}) [http://www.hnnu.edu.cn/ official website]
+*[[Huainan United University]] ({{lang|zh-Hans|淮南联合大学}}) [http://www.hnuu.edu.cn/ official website] {{Webarchive|url=https://web.archive.org/web/20210116122008/http://www.hnuu.edu.cn/ |date=2021-01-16 }}
+*Huainan Vocational Technical College ({{lang|zh-Hans|淮南职业技术学院}}) [https://web.archive.org/web/20160805172831/http://www.hnvtc.ah.edu.cn/ official website]
+*Anhui Industry&Trade Vocational Technical College ({{lang|zh-Hans|安徽工贸职业技术学院}}) [http://www.ahgmedu.cn/ official website] {{Webarchive|url=https://web.archive.org/web/20200105133448/http://www.ahgmedu.cn/ |date=2020-01-05 }}
+*Anhui Modern Information Engineering College ({{lang|zh-Hans|安徽现代信息工程职业学院}}) [http://www.ahmodern.cn/ official website] {{Webarchive|url=https://web.archive.org/web/20201129171252/http://www.ahmodern.cn/ |date=2020-11-29 }}
+The key high schools:
+
+* Huainan No.1 High School ({{lang|zh-Hans|淮南一中}})<ref>{{cite web |url=http://www.hnyz.com.cn/ |script-title=zh:淮南一中官网 |publisher=Huainan No. 1 High School}}</ref>
+* Huainan No.2 High School ({{lang|zh-Hans|淮南二中}})<ref>{{cite web |url=http://www.hnez.com.cn/ |script-title=zh:淮南二中官网 |publisher=Huainan No. 2 High School}}</ref>
+* Huainan No.5 High School ({{lang|zh-Hans|淮南五中}})
+* Huainan No.4 High School ({{lang|zh-Hans|淮南四中}})
+* Fengtai No.1 High School ({{lang|zh-Hans|凤台一中}})
+* Shouxian No.1 High School ({{lang|zh-Hans|寿县一中}})
+
+==Transportation==
+East of the city a bridge crosses the Huai River, shared by the [[Fuyang-Huainan Railway]] and highway S225. Near the city center, a ferry provides connection to the (rural) north bank of the Huai River.
+
+===Rail===
+* [[Huainan railway station]], terminus of the [[Fuyang-Huainan Railway]] and [[Huainan Railway]]
+* [[Huainan East railway station]] (high-speed services) on the [[Hefei–Bengbu high-speed railway]]
+* [[Huainan South railway station]] (high-speed services) on the [[Shangqiu–Hangzhou high-speed railway]]
+
+===Highway===
+'''Expressways'''
+* [[File:Anhui Expwy S17 sign no name.svg|x27px]] [[S17 Bengbu-Hefei Expressway|S17 Benghe Expressway]]
+* [[File:Anhui Expwy S12 sign no name.svg|x27px]] [[S12 Chuzhou-Xincai Expressway|S12 Chuxin Expressway]]
+'''National Highways'''
+* [[File:Kokudou_206(China).svg|x27px]] [[China National Highway 206|G206]]
+
+== Notable people ==
+
+* [[Bai Yaoping]], major general
+
+==See also==
+*[[List of twin towns and sister cities in China]]
+*[[Yuan You]]
+{{Portal|China}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+{{commons category|Huainan}}
+*[http://www.huainan.gov.cn Government website of Huainan] {{in lang|zh|en|ko}}
+*http://www.ah.xinhuanet.com/huainan/index.htm {{in lang|zh}}
+
+{{Anhui topics}}
+{{Anhui}}
+{{Metropolitan cities of the People's Republic of China}}
+{{Prefectural-level divisions of the People's Republic of China}}
+{{Authority control}}
+
+[[Category:Huainan| ]]
+[[Category:Cities in Anhui]]

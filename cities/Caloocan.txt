@@ -1,0 +1,1027 @@
+{{Short description|Highly urbanized city in Metro Manila, Philippines}}
+{{Use mdy dates|date=July 2022}}
+{{Use Philippine English|date=September 2022}}
+{{distinguish|Capoocan}}
+{{Infobox settlement
+| name               = {{PH wikidata|name}}
+| image_skyline      = {{multiple image
+| perrow         = 2/2/2/2
+| border         = infobox
+| total_width    = 280
+| caption_align  = center
+| image1         = The Bonifacio Monument (Caloocan) 01.jpg
+| caption1       = [[Bonifacio Monument]]
+| image2         = Caloocan City Hall, June 2023 (2).jpg
+| caption2       = Caloocan City Hall
+| image3         = Old St. Pancratius Church in La Loma Cemetery, Caloocan City.jpg
+| caption3       = [[La Loma Cemetery]]
+| image4         = San Roque Cathedral, Caloocan City.jpg
+| caption4       = [[Caloocan Cathedral]]
+| image5         = 9891Caloocan City Bagumbong Deparo Landmarks 36.jpg
+| caption5       = [[Caloocan Sports Complex]]
+| image6         = TaoistTemplejf4950 09.JPG
+| caption6       = Thai To Taoist Temple
+}}
+| image_flag         = Flag of Caloocan City.png
+| flag_size          = 120x80px
+| image_seal         = Caloocan City.png
+| seal_size          = 100x80px
+| image_map          = Caloocan in Metro Manila.svg
+| map_caption        = Location of Caloocan within [[Metro Manila]]
+| image_map1         = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map        = Philippines
+| pushpin_label_position = left
+| pushpin_map_caption = Location within the {{PH wikidata|country}}
+| coordinates        = {{PH wikidata|coordinates}}
+| settlement_type    = {{PH wikidata|settlement_type}}
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = [[Philippines]]
+| subdivision_type1  = [[Regions of the Philippines|Region]]
+| subdivision_name1  = {{PH wikidata|region}}
+| subdivision_type2  = [[Provinces of the Philippines|Province]]
+| subdivision_name2  = ''none''
+| etymology          = <!--origin of name-->
+| named_for          = <!--named after (if person or place)-->
+| other_name         = Kalookan
+| nickname           = 
+| motto              = ''Aksyon at Malasakit''
+| anthem             = ''"Mabuhay ang Caloocan"''
+| subdivision_type3  = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3  = {{PH legislative district}}
+| established_title  = [[Date of establishment|Founded]]
+| established_date   = 1815
+| established_title1 = Cityhood
+| established_date1  = February 16, 1962
+| established_title2 = Highly urbanized city
+| established_date2  = December 22, 1979
+| parts_type         = [[Barangay]]s
+| parts_style        = para
+| p1                 = 193 (see [[#Barangays|Barangays]])
+| leader_title       = [[Mayor of Caloocan|Mayor]]
+| leader_name        = [[Along Malapitan|Dale Gonzalo Malapitan]] ([[Nacionalista Party|NP]])
+| leader_title1      = [[Vice Mayor]]
+| leader_name1       = Anna Karina Teh-Limsico ([[Nacionalista Party|NP]])
+| leader_title2      = [[House of Representatives of the Philippines#Current composition|Representatives]] <!--congressman or congresswoman -->
+| leader_name2       = *[[Oscar Malapitan]] (1st District) ([[Nacionalista Party|NP]])
+*[[Mitzi Cajayon|Mary Mitzi Cajayon-Uy]] (2nd District) ([[Lakas–CMD|Lakas]])
+*Dean Asistio (3rd District) ([[Lakas–CMD|Lakas]])
+| leader_title3      = [[Sangguniang Panlungsod|City Council]]
+| leader_name3       = {{PH Town Council
+ | 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2='''1st District'''
+ | 3=Vincent Ryan Malapitan
+ | 4=Christopher Ray Adalem
+ | 5=Jacqueline Nubla
+ | 6=Leah Bacolod
+ | 7=Orvince Howard Hernandez
+ | 8=Alexander Caralde
+ | 9='''2nd District'''
+ | 10=Edgardo Aruelo
+ | 11=Luis Asistio III
+ | 12=Jose Lorenzo Almeda
+ | 13=Carolyn Cunanan
+ | 14=Emmanuel de Leon
+ | 15=Arnold Divina
+ | 16='''3rd District'''
+ | 17=Merwyn Lennon Abel
+ | 18=Kingjohn Ericson Echiverri
+ | 19=Patrick Prado
+ | 20=Aurora Henson Jr.
+ | 21=Carliza May Africa-del Rosario
+ | 22=Theresita Ceralde
+ | 23='''[[Liga ng mga Barangay]] President'''
+ | 24=Vergel De Vera
+ | 25='''[[Sangguniang Kabataan]] Federation President'''
+ | 26=Bea Hedreyda
+}}
+| leader_title4      = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4       = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type    = {{PH wikidata|government_type}}
+| government_footnotes = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m        = {{PH wikidata|elevation_m}}
+| elevation_max_m    = 514
+| elevation_min_m    = -2
+| elevation_max_rank = 
+| elevation_min_rank = 
+| elevation_footnotes = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes = 
+| elevation_min_footnotes = 
+| area_rank          = 
+| area_footnotes     = {{PH area}}
+| area_total_km2     = {{PH wikidata|area}}
+| population_footnotes = {{PH census|current}}
+| population_total   = {{PH wikidata|population_total}}
+| population_as_of   = {{PH wikidata|population_as_of}}
+| population_blank1_title = [[Household]]s
+| population_blank1  = {{PH wikidata|household}}
+| population_blank2_title = 
+| population_blank2  = 
+| population_density_km2 = auto
+| population_demonym = 
+| population_rank    = 4th
+| population_note    = 
+| timezone           = [[Philippine Standard Time|PST]]
+| utc_offset         = +8
+| postal_code_type   = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code        = {{PH wikidata|postal_code}}
+| postal2_code_type  = {{PSGCstyle}}
+| postal2_code       = {{PSGC detail}}
+| area_code_type     = {{areacodestyle}}
+| area_code          = {{PH wikidata|area_code}}
+| website            = {{PH wikidata|website}}
+| demographics_type1 = [[Economy of the Philippines|Economy]]
+| demographics1_title1 = {{PH wikidata|income_class_title}}
+| demographics1_info1 = {{PH wikidata|income_class}}
+| demographics1_title2 = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2 = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3 = [[Revenue]]
+| demographics1_info3 = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4 = Revenue rank
+| demographics1_info4 = 
+| demographics1_title5 = [[Asset]]s
+| demographics1_info5 = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6 = Assets rank
+| demographics1_info6 = 
+| demographics1_title7 = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7 = 
+| demographics1_title8 = IRA rank
+| demographics1_info8 = 
+| demographics1_title9 = [[Expenditure]]
+| demographics1_info9 = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10 = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10 = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2 = Service provider
+| demographics2_title1 = [[List of electric distribution utilities in the Philippines|Electricity]]
+| demographics2_info1 = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2 = Water
+| demographics2_info2 = 
+| demographics2_title3 = Telecommunications
+| demographics2_info3 = 
+| demographics2_title4 = Cable TV
+| demographics2_info4 = 
+| demographics2_title5 = 
+| demographics2_info5 = 
+| demographics2_title6 = 
+| demographics2_info6 = 
+| demographics2_title7 = 
+| demographics2_info7 = 
+| demographics2_title8 = 
+| demographics2_info8 = 
+| demographics2_title9 = 
+| demographics2_info9 = 
+| demographics2_title10 = 
+| demographics2_info10 = 
+| blank_name_sec1    = {{PH wikidata|climate_title}}
+| blank_info_sec1    = {{PH wikidata|climate_type}}
+| blank1_name_sec1   = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1   = {{PH wikidata|language}}
+| blank2_name_sec1   = [[Crime index]]
+| blank2_info_sec1   = 
+| blank3_name_sec1   = 
+| blank3_info_sec1   = 
+| blank4_name_sec1   = 
+| blank4_info_sec1   = 
+| blank5_name_sec1   = 
+| blank5_info_sec1   = 
+| blank6_name_sec1   = 
+| blank6_info_sec1   = 
+| blank7_name_sec1   = 
+| blank7_info_sec1   = 
+| blank1_name_sec2   = Major religions
+| blank1_info_sec2   = 
+| blank2_name_sec2   = Feast date
+| blank2_info_sec2   = 
+| blank3_name_sec2   = Catholic diocese
+| blank3_info_sec2   = [[Roman Catholic Diocese of Kalookan]]
+| blank4_name_sec2   = Patron saint
+| blank4_info_sec2   = [[St. Roch]]
+| blank5_name_sec2   = 
+| blank5_info_sec2   = 
+| blank6_name_sec2   = 
+| blank6_info_sec2   = 
+| blank7_name_sec2   = 
+| blank7_info_sec2   = 
+| short_description  = 
+| footnotes          = 
+}}
+
+'''Caloocan''', officially the '''City of Caloocan''' ({{langx|fil|Lungsod ng Kalookan}}; {{IPA|tl|kalɔˈʔokan|IPA}}), is a [[Cities of the Philippines#Legal classification|highly urbanized city]] in [[Metro Manila]], [[Philippines]]. According to the 2020 census, it has a population of 1,661,584 people{{PH census|current}} making it the [[List of cities in the Philippines|fourth-most populous city in the Philippines]].
+
+Caloocan is divided into two geographical locations with a total combined area of {{convert|5,333.40|ha|sp=us}}, a result of the 1949 expansion of [[Quezon City]], which absorbed much of its territory. It was formerly part of the [[Rizal (province)|Province of Rizal]] in southern Luzon. It comprises what is known as the [[Administrative divisions of Metro Manila#Districts|CAMANAVA]] area along with the cities of [[Malabon]], [[Navotas]] and [[Valenzuela, Metro Manila|Valenzuela]].
+
+South Caloocan is bordered by [[Manila]], Quezon City, Malabon, Navotas and Valenzuela. The presence of commercial and industrial activities combined with residential areas make it a highly urbanized central business district and a major urban center in the Northern District of Metropolitan Manila.<ref name="Comprehensive Land Use Plan Report, City of Caloocan (1995-2020)">{{Cite web|url=https://kupdf.net/download/comprehensive-land-use-plan-report-city-of-caloocan-1995-2020_59f32907e2b6f51031a8a79c_pdf|title=Comprehensive Land Use Plan Report, City of Caloocan (1995-2020) - Free Download PDF|website=kupdf.net}}</ref> North Caloocan shares its border with Quezon City and Valenzuela, [[Marilao]], [[Meycauayan]] and [[San Jose del Monte]] in the province of [[Bulacan]], and [[Rodriguez, Rizal|Rodriguez]] in the province of Rizal. It is composed of mostly residential subdivisions and extensive resettlement areas with scattered distribution of industrial estates mostly within road transit points and intersections.<ref name="Comprehensive Land Use Plan Report, City of Caloocan (1995-2020)" />
+
+== Etymology ==
+Caloocan as a [[toponym]] comes from the [[Tagalog language|Tagalog]] words ''lo-ok'' that translates to "[[bay]]",<ref name="RizalProvinceDirectory1934">{{Cite book |last=Salonga |first=Isayas |url=https://quod.lib.umich.edu/p/philamer/aar6353.0001.001 |title=Rizal Province directory |publisher=[[University of Michigan]] Digital Collections |year=1934 |volume=1 |location=[[Manila]]|accessdate=May 1, 2024}}</ref>{{rp|page=[https://quod.lib.umich.edu/p/philamer/aar6353.0001.001/61?rgn=full+text&view=image 61]}} ''sulok'' that means "corner" suggested by its location between the ends of the present-day [[Malabon]] and [[Tondo, Manila]], and ''kalook-lookan'' (or ''kaloob-looban'') meaning "innermost area".<ref name="Caloocan History" /> The city's name is colloquially spelled '''Kalookan'''. Historically, it was called '''Kaloogan''', meaning "interior territory," which evolved from the old Tagalog word "loog" (synonymous with "loob," meaning "inside"). The "g" sound could have shifted to the "k" sound in [[Tagalog phonology|Tagalog phonetics]] (e.g. baksak → bagsak), leading to the present name of the city. 
+
+There is a mixed preference over the preferred spelling of the city's name. Variation, and the apparent confusion over the spelling, came about during the early 1970s, when a resolution was adopted by the municipal board, requiring the city departments to use the name "Kalookan." However, execution of the resolution was interrupted due to [[Martial law under Ferdinand Marcos|martial law]] imposed nationwide in September 1972. In 1988, Councilor Aurora Asistio-Henson proposed Resolution No. 006, aiming to promote Filipino nationalism by enforcing the spelling "Kalookan" in all city departments and establishments. Despite this, the change was met with opposition from residents, business owners, and officials. Former representative and mayor Virgilio Robles deemed the move illegal, asserting that the city's name is spelled as "Caloocan" according to the city charter.<ref name="ra3278">{{cite PH act|chamber=RA|number=3278|title=An Act Creating the City of Caloocan|url=https://lawphil.net/statutes/repacts/ra1969/ra_5502_1969.html|date=June 17, 1961 |accessdate=May 6, 2022}}</ref><ref>{{cite PH act|chamber=RA |number=5502|title=An Act Revising Republic Act Numbered Thirty-Two Hundred and Seventy-Eight Otherwise Known as the Charter of the City of Caloocan |url=https://lawphil.net/statutes/repacts/ra1969/ra_5502_1969.html|date=June 21, 1969 |accessdate=May 6, 2022}}</ref> Although confusion persists, the general inclination in the city is towards "Caloocan," as evidenced by the official logo and favored by many barangays, schools, and newspapers. However, some entities, like the Directories of the Philippines Corporation, prefer the spelling "Kalookan."<ref>{{cite news |url=https://www.manilatimes.net/2004/10/19/opinion/confusion-over-spelling-caloocan-or-kalookan/687279/ |title=Confusion over spelling: Caloocan or Kalookan? |work=The Manila Times |date=October 19, 2004 |access-date=April 2, 2020}}</ref><ref>{{cite news |url=https://www.pna.gov.ph/opinion/pieces/166-which-is-which-caloocan-or-kalookan |title=Which is which, Caloocan or Kalookan? |work=Philippine News Agency |last=Samonte |first=Severino |date=December 6, 2018 |access-date=April 2, 2020}}</ref>
+
+==History==
+[[File:20th Kansas Volunteers marching through Caloocan at night.jpg|left|thumb|The ammunition train and reserves of the 20th Kansas Volunteers, Col. Frederick R. Funston, marching through Caloocan at night after the battle of February 10.]]
+
+===Spanish colonial era===
+Originally, Caloocan was the area where the old town of [[Tondo, Manila|Tondo]] and [[Malabon|Tambobong]] met, located along the shores of Dagat-Dagatan, a crescent-shaped inland lagoon to the west. The settlement along the shore was called "Aromahan", or "Espina" to the Spaniards, and was separated from Manila Bay by a narrow ridge from Tondo towards an opening in [[Navotas|Kinabutasan]] leading to the sea.<ref name="The Role of Kalookan in the Nation's Quest for Freedom">{{cite web |last1=Joaquin |first1=Agapito |title=The Role of Kalookan in the Nation's Quest for Freedom |url=http://sangandaan.net/kalookan/P1A1TOC.htm |access-date=April 26, 2020}}</ref>
+
+By the late 1700s, the fishermen of Aromahan have expanded towards a hill east of Dagat-Dagatan. This naturally stony hill was called "Kaloogan", meaning "interior territory." With Aromahan relegated to the periphery, this hilltop area was also settled by oppressed people from Tondo, becoming the new center of the community by 1802. To the east was a vast stretch of [[Imperata cylindrica|cogon-covered]] land. Eventually called "Kalaanan", meaning flat grassland in old Tagalog, this area is now generally known as Grace Park.<ref name="The Role of Kalookan in the Nation's Quest for Freedom" />
+
+Caloocan became a municipality when it was separated from Tondo in 1815. Its original territory extended to the foothills of [[Marikina]], [[San Mateo, Rizal|San Mateo]] and [[Rodriguez, Rizal|Montalban]] to the east; [[Tinajeros, Malabon|Tinajeros]], [[Tanza, Navotas|Tanza]], and Tala rivers to the north; [[San Juan, Metro Manila|San Juan del Monte]], [[San Francisco del Monte]], [[Sampaloc, Manila|Sampalok]], [[Santa Cruz, Manila|Santa Cruz]] and Tondo in the south; and Dagat-dagatan and Aromahan to the west.<ref name="Caloocan History">{{Cite web|url=https://caloocancity.gov.ph/about-us/history/ |title=History of Caloocan |website=City of Caloocan}}</ref><ref>{{cite web|url=https://www.yodisphere.com/2021/08/Caloocan-City-History.html |title=History of Caloocan City - El Pueblo de Caloocan Provincial de Manila {{!}} Metro Manila Philippines|date=August 2021 |accessdate=May 6, 2022|website=yodisphere.com}}</ref> The local government building was set up on the relatively well-settled portion just above Libis Espina. The old Aromahan chapel was finally abandoned and a new [[Caloocan Cathedral|church was built]] facing the municipal hall. To escape the Spanish authorities, many from the area abandoned the town proper and sought refuge in the grasslands of [[Balingasa|Balintawak]] and Pugad-Lawin, in which the people fought the landlords of Hacienda de Maysilo for terrestrial rights, which went on for almost a hundred years.<ref name="The Role of Kalookan in the Nation's Quest for Freedom" /><ref name="Caloocan History" />
+
+====The Philippine revolution====
+{{See also|Philippine Revolution}}
+Caloocan is historically significant because it was the center of activities for the [[Katipunan]], the secret militant society that launched the [[Philippine Revolution]] during the Spanish occupation of the Philippines. In a house in Caloocan, secret meetings were held by [[Andrés Bonifacio]] and his men, and it was in the city's perimeters where the first armed encounter took place between the Katipunan and the Spaniards. The revolution erupted after the "[[Cry of Pugad Lawin|Cry of Balintawak]]" led by Andres Bonifacio against their oppressors on August 30, 1896.
+
+===American invasion era===
+[[File:Philippine Island - Luzon Island - NARA - 68156741.jpg|thumb|left|Aerial view of Caloocan, circa 1930s]]
+
+In 1899, the people of Caloocan showed resistance to coming to terms with the Americans, who were bent on extending their supremacy over the country. The men of Caloocan fought the new invaders on February 23, 1899, however victory eluded the local troops on the pretext of [[Antonio Luna]]'s rift with [[Emilio Aguinaldo]]'s loyalists.<ref name="Caloocan History" /> The city then saw heavy fighting in the [[Philippine–American War]], at the [[Battle of Caloocan]] and the [[Second Battle of Caloocan]].
+
+In 1901, under the [[History of the Philippines (1898–1946)|American regime]], Caloocan, previously a part of the [[Manila (province)|province of Manila]], became one of the municipalities of the newly established province of [[Rizal (province)|Rizal]].<ref>{{Cite PH act|url=https://lawyerly.ph/laws/view/l2485 |date=June 11, 1901 |title=An Act Extending the Provisions of the Provincial Government Act to the Province of Rizal |chamber=Act |number=942|access-date=June 12, 2022}}</ref> Due to the consolidation of several municipalities in 1903, [[Novaliches]], then an independent municipality, became part of Caloocan pursuant to Act No. 942,<ref>{{cite PH act|url=https://lawyerly.ph/laws/view/l89ad|chamber=Act|number=942|date=October 12, 1903|accessdate=May 12, 2022|title=An Act Reducing the Thirty-Two Municipalities of the Province of Rizal to Fifteen}}</ref> as amended by Act Nos. 984 and 1008 of the [[Philippine Commission]].
+
+===Japanese occupation era===
+In 1942, Caloocan was one of the municipalities of Rizal merged alongside Manila and Quezon City to form the [[City of Greater Manila]] as an emergency measure by President [[Manuel L. Quezon]].<ref>{{cite PH act|chamber=EO|number=400, s. 1942|title=Creating the City of Greater Manila|date=January 1, 1942|accessdate=August 24, 2022|url=https://www.officialgazette.gov.ph/1942/01/01/executive-order-no-400-s-1942/}}</ref><ref name="emb">{{cite web|title=Historical Background|url=http://ncr.emb.gov.ph/historicalbackground/|website=DENR - Environment Management Bureau - National Capital Region|access-date=May 28, 2022}}</ref> It regained its pre-war status as a municipality of Rizal when the City of Greater Manila was dissolved effective August 1, 1945.<ref name="eo58">{{cite PH act|chamber=EO|number=58, s. 1945|title=Reducing the Territory of the City of Greater Manila|date=July 26, 1945|accessdate=August 24, 2022|url=https://www.officialgazette.gov.ph/1945/07/26/executive-order-no-58-s-1945/}}</ref>
+
+===Cityhood===
+{{main|Cities of the Philippines}}
+[[File:Aacaloocanjf.JPG|thumb|left|The old Caloocan City Hall in Poblacion district was the seat of local government for Caloocan from 1952 to 2017.]]
+In 1961, after Republic Act No. 3278 was approved by the [[Congress of the Philippines|Philippine Congress]], a plebiscite was conducted.<ref name="ra3278" /> Caloocan was officially inducted into cityhood on February 16, 1962.<ref name="Caloocan History" />
+
+Caloocan remained a city of the province of Rizal until November 7, 1975, when it became a part of the National Capital Region or [[Metro Manila]], by virtue of Presidential Decree No. 824.<ref name="PD824">{{cite PH act|url=http://www.lawphil.net/statutes/presdecs/pd1975/pd_824_1975.html|chamber=PD|number=824|title=Creating the Metropolitan Manila and the Metropolitan Manila Commission and for Other Purposes |date=November 7, 1975 |access-date=July 10, 2020|archive-url=https://web.archive.org/web/20160312121648/http://lawphil.net/statutes/presdecs/pd1975/pd_824_1975.html|archive-date=March 12, 2016|url-status=live}}</ref>
+
+===Territorial changes===
+[[File:Territorial changes of Caloocan.png|upright=1.35|thumb|Territorial changes of Caloocan.<br/>{{color box|green}} Existing territorial boundaries<br/>{{color box|#3E8EDE}} Detached by Commonwealth Act No. 502 (1939)<br/>{{color box|yellow}} Detached by Republic Act No. 392 (1949)]]
+Caloocan once encompassed a much larger, contiguous area. The districts of [[Barangays of Quezon City|Balintawak]], [[Quezon City#La Loma|La Loma]] and [[Novaliches]] were once part of Caloocan. Balintawak is a historic district because it was the original site of the "Cry of Pugad Lawin" (Unang Sigaw sa Balintawak) at a location called "Kang-kong" near [[Melchora Aquino|Tandang Sora]]'s house. Novaliches was an expansive sector with some hillsides that served as meeting places and hideouts for [[Andrés Bonifacio]] and the ''Katipunan''.
+
+During the American occupation, there was a consolidation of several municipalities. Caloocan annexed the neighboring town of Novaliches on October 12, 1903, as stated in the Act No. 942 of the [[Philippine Commission]], bringing its total area to about {{convert|1,500|ha|sp=us}}.<ref name="Caloocan History"/><ref>{{cite PH act|chamber=Act|number=942|title=An Act Reducing the Thirty-two Municipalities of the Province of Rizal to Fifteen| url=https://lawyerly.ph/laws/view/l89ad| publisher=Lawyerly| date=October 12, 1903| accessdate=June 7, 2024}}</ref> When Commonwealth Act No. 502 created [[Quezon City]] in 1939, Caloocan ceded 1,500 hectares of land from the barrios or sitios of Bagubantay (Bago Bantay), Balintauac (Balintawák), [[Balingasa]], Kaingin, Kangkong (present-day Apolonio Samson), La Loma, Malamig, Matalahib (present-day Santo Domingo), Masambong, Galas, San Isidro, San José, Santol and [[Tatalon]].<ref>Philippine Commission of the Census, Census of the Philippines, 1939, vol. 1, part 4: Rizal (Manila: Bureau of Printing, 1940), p. 5</ref> Instead of opposing the transfer, Caloocan residents willingly gave the land in the belief it will benefit the country's new [[Capital of the Philippines|capital city]].<ref>{{cite PH act|url=https://www.officialgazette.gov.ph/1939/10/12/commonwealth-act-no-502/|chamber=CA|number=502|title=An Act to Create Quezon City|date=October 12, 1939|access-date=April 21, 2022|archive-date=March 8, 2023|archive-url=https://web.archive.org/web/20230308195829/https://www.officialgazette.gov.ph/1939/10/12/commonwealth-act-no-502/|url-status=dead}}</ref>
+
+However, in 1949, Congress passed Republic Act No. 392, which redefined the Caloocan–Quezon City boundary.<ref>{{Cite PH act|url=http://thecorpusjuris.com/legislative/republic-acts/ra-no-392.php|chamber=RA |number=392|title=An Act to Amend Section Three of Commonwealth Act Numbered Five Hundred and Two, as Amended, Redefining the Boundaries of Quezon City|date=June 18, 1949|accessdate=April 21, 2022}}</ref> The barrios of Baesa, Sangandaan, Talipapâ, San Bartolomé, Pasong Tamó, Novaliches Proper (poblacion), Banlat (present-day Tandang Sora), Kabuyao, Pugad Lawin, Bagbag, Pasong Putik, which once belonged to Novaliches and had an area of about {{convert|8,100|ha|sp=us}}, were excised from Caloocan. The remaining portion of the Novaliches is now called North Caloocan. This split Caloocan into two parts: a more urbanized southern section and a suburban-rural northern section, which is part of Novaliches.<ref>{{cite web |url=https://caloocancity.gov.ph/images/pdfs/Caloocan-City-Citizens-Charter.pdf|title=Caloocan City Citizen's Charter|accessdate=May 6, 2022|website=City of Caloocan}}</ref>
+
+In 1957, the sitio of Bagbaguin was separated from the barrio of Caybiga (Kaybiga) and converted into a distinct barrio known as Barrio Bagbaguin.<ref>{{cite PH act|chamber=RA|number=1713|url=https://lawphil.net/statutes/repacts/ra1957/ra_1713_1957.html |title=An Act to Convert the Sitio of Bagbaguin, Municipality of Caloocan, Province of Rizal, into a Barrio to be known as Barrio Bagbaguin of the Same Municipality and Separating it from the Barrio of Caybiga of the Same Municipality |access-date=June 12, 2012|date=June 21, 1957}}</ref>
+
+===Reorganization attempts===
+Issues concerning budget and handling village governments led to attempts to restructure the city's ''[[barangay]]s'' since late 1980s.<ref name="MS0189">{{cite news |last=Antolin |first=Arkhon |date=January 24, 1989 |title=Plebiscite on reduction of Kalookan barangays set |url=https://books.google.com/books?id=wEJIAAAAIBAJ&dq=kalookan+plebiscite&pg=PA4&article_id=3964,3504619 |newspaper=[[Manila Standard]] |access-date=April 6, 2024 |page=4 |via=[[Google Books]]}}</ref><ref name="tPS0913" /> A bill authored by [[Caloocan's 1st congressional district|city's 1st district]] [[House of Representatives of the Philippines|representative]] Virgilio Robles,<ref name="MS0189" /> which aimed to reduce the barangays from 188 to 60—thirty in [[Legislative districts of Caloocan|each legislative district]]—was approved as [[Republic Act]] (RA) No. 6714 on February 28, 1989.<ref name="ra6714">{{Cite PH act|url=https://www.officialgazette.gov.ph/1989/02/28/republic-act-no-6714/|chamber=RA|number=6714|title=An Act merging, dividing, and/or reviving the different barangays in Caloocan City and for other purposes|date=February 28, 1989|access-date=July 26, 2019|publisher=[[Official Gazette (Philippines)|Official Gazette]]}}</ref> A plebiscite was held on March 10;<ref name="MS03a89" /><ref>{{cite PH act |title=Declaring March 10, 1989 as a special day in Caloocan City |chamber=PP |number=384 |folio= |date=March 9, 1989 |url=https://lawphil.net/executive/proc/proc1989/proc_384_1989.html |access-date=April 6, 2024 |ref=}}</ref> with a turnout of only 10%<ref name="MS03b89" /> of 384,981 registered voters,<ref name="MS03a89">{{cite news |date=March 10, 1989 |title=Kalookan plebiscite today |url=https://books.google.com/books?id=gY8VAAAAIBAJ&dq=kalookan+plebiscite&pg=PA41&article_id=4381,1475395 |newspaper=[[Manila Standard]] |access-date=April 6, 2024 |page=9 |via=[[Google Books]]}}</ref> majority of the participated voters reportedly opposed the proposal.<ref name="MS03b89">{{cite news |last=Mahilum |first=E. |date=March 11, 2023 |title=Voter turnout low for KC plebiscite |url=https://books.google.com/books?id=go8VAAAAIBAJ&dq=kalookan+plebiscite&pg=PA9&article_id=4113,1664839 |newspaper=[[Manila Standard]] |access-date=April 6, 2024 |page=9 |via=[[Google Books]]}}</ref>
+
+On the other hand, residents of [[Bagong Silang]] (Barangay 176), then the country's most populous barangay and was used to be a relocation site for informal settlers,<ref>{{cite news |last=Samonte |first=Severino |date=May 20, 2023 |title=Glimpses & Gazes: How Caloocan's Bagong Silang became biggest barangay in PH |url=https://www.pna.gov.ph/opinion/pieces/688-how-caloocans-bagong-silang-became-biggest-barangay-in-ph |work=[[Philippine News Agency]] |access-date=April 6, 2024}}</ref> appealed the partition of the barangay since 2013.<ref name="tPS0913">{{cite news |last1=Bajo |first1=Ramil |last2=Galupo |first2=Rey |date=September 17, 2013 |title=Mayor supports move to split Caloocan barangay into seven |url=https://www.philstar.com/metro/2013/09/17/1219131/mayor-supports-move-split-caloocan-barangay-seven/ |newspaper=[[The Philippine Star]] |access-date=April 6, 2024}}</ref> On April 3, 2024, [[President of the Philippines|President]] [[Bongbong Marcos]] signed RA No. 11993 which would divide the village into six.<ref>{{cite news |last=Bajo |first=Anna Felicia |date=April 5, 2024 |title=Marcos signs law dividing Bagong Silang, Caloocan to 6 barangays |url=https://www.gmanetwork.com/news/topstories/metro/902772/marcos-signs-law-dividing-bagong-silang-caloocan-to-6-barangays/story/ |work=[[GMA News]] |access-date=April 6, 2024}}</ref> This was ratified by the majority of voters in a plebiscite held on August 31.<ref name="bs2024">{{cite news |title=Caloocan voters OK splitting Bagong Silang into 6 barangays |date=September 1, 2024 |url=https://news.abs-cbn.com/news/2024/9/1/caloocan-voters-ok-splitting-bagong-silang-into-6-barangays-802 |work=[[ABS-CBN News]] |access-date=September 1, 2024}}</ref>
+
+==Geography==
+Caloocan is divided into two non-contiguous areas with a total combined area of {{convert|53.334|sqkm|sp=us}}. South Caloocan, with an area of {{convert|13.625|sqkm|sp=us}}, is bordered on the south by [[Manila]], on the east by [[Quezon City]], on the west by [[Navotas]], on the north-northwest by [[Malabon]], and on the north by [[Valenzuela, Metro Manila|Valenzuela]]. North Caloocan, with an area of {{convert|39.709|sqkm|sp=us}}, shares its border on the south-southeast by [[Quezon City]], on the southwest by [[Valenzuela, Metro Manila|Valenzuela]], on the north by [[Marilao]], [[Meycauayan]] and [[San Jose del Monte]] in the province of [[Bulacan]], and on the northeast by [[Rodriguez, Rizal|Rodriguez]] in the province of [[Rizal (province)|Rizal]].<ref name="Caloocan History" />
+
+===Topography===
+[[File:Topo Map Caloocan South.png|thumb|Elevation map of south Caloocan]]
+South Caloocan, where most commercial and industrial establishments are found, lies on generally flat and highly accessible land, with slopes ranging from 0–3%. The topography gradually changes from gently to moderately sloping to rolling along the [[North Luzon Expressway]], with slopes ranging from 3–18%. The highest point at {{convert|35.00|m|sp=us}} above sea level can be found in this area, while the lowest point is in the southern part of Dagat-Dagatan at about {{convert|0.993|m|sp=us}} above mean sea level.<ref name="Caloocan 2017-2025 Local Climate Change Action Plan">{{cite web|url=http://caloocancity.gov.ph/images/pdfs/Caloocan-City-2017-2025-LCCAP.pdf|title=Climate change action plan|date=2016|website=caloocancity.gov.ph|access-date=July 11, 2020|archive-date=July 17, 2019|archive-url=https://web.archive.org/web/20190717175130/http://caloocancity.gov.ph/images/pdfs/Caloocan-City-2017-2025-LCCAP.pdf|url-status=dead}}</ref>
+
+North Caloocan is characterized by gently to steeply undulating to rolling topography with slopes ranging from 3–18%, mostly seen in the northern and central portion, gradually transforming into a southward trend of flat lands down to the southwestern tip of the boundary. Being accessible to major roads, many industrial and residential subdivisions have been developed on this near-level land.<ref name="Caloocan 2017-2025 Local Climate Change Action Plan" />
+
+===Geology===
+The geologic formation of the two portions of Caloocan varies in type and characteristics. and are specifically classified as quaternary [[alluvium]], [[tuff]] and tuffaceous sediment, [[pyroclastic flow]] deposit, and [[Conglomerate (geology)|conglomerates]]. The formation on the eastern half of Metropolitan Manila extending to the coastline of Manila Bay and including a greater part of South Caloocan is the quaternary [[alluvium]], which consists of unconsolidated stream-deposited sediments that include sand, silt, clay and gravel.<ref name="Caloocan 2017-2025 Local Climate Change Action Plan" />
+
+Eastward of South Caloocan, large areas consisting of [[tuff]] and tuffaceous sediment can be traced, spreading towards the whole eastern side of Metro Manila. [[Pyroclastic flow]] deposit or [[igneous rocks]] formed by the lithification of ash flow are likewise present in some northern fringes of South Caloocan and in most parts of North Caloocan. On the northeast borders of North Caloocan, [[conglomerate (geology)|conglomerate rocks]] were traced, crossing Tala Estate and extending to the province of Bulacan and the [[La Mesa Dam and Reservoir|La Mesa Watershed]].<ref name="Caloocan 2017-2025 Local Climate Change Action Plan" />
+
+Soil found in both areas of Caloocan predominantly falls under the Novaliches Series, covering 96% of the total land area of the city. The Novaliches Series is composed of reddish brown soil, friable in consistency and granular in structure. Spherical concretions are present in the subsoil and underneath is tuffaceous material of varying degrees of disintegration and weathering. This tuffaceous material is exposed by extensive erosion in some places.<ref name="Caloocan 2017-2025 Local Climate Change Action Plan" />
+
+===Surface drainages===
+Caloocan has surface waters that either have natural courses (creeks and rivers) or were constructed to serve as drainages to remove excess water from soil surfaces. South Caloocan has about {{convert|5.0|km|mi|sp=us|adj=mid|-long}} open drainage canals that serve mainly the reclamation area comprising Kaunlaran Village (Dagat-Dagatan Development Project) and nearly {{convert|11.3|km|mi|sp=us|adj=mid|-long}} natural surface water coursing through the different natural river systems. These include the [[Tullahan River|Tinajeros-Tullahan River]] along the Caloocan–Valenzuela boundary; Maligaya Creek within [[La Loma Cemetery]] and crossing [[Rizal Avenue|Rizal Avenue Extension]]; Casili Creek which terminates in Estero de Maypajo, and Cantarilla/Panaca Creek along the Caloocan–Malabon boundary. In North Caloocan, all surface waters consist of natural streams, the longest being the Meycauayan-Marilao River dividing Caloocan and Bulacan. Others include the Bagong Silang River, Tala, Camarin, Pasong Malapad, and Bagumbong Creeks crossing multiple subdivisions, for {{convert|52.7|km|sp=us}} long within the city's territorial boundaries.<ref name="Caloocan 2017-2025 Local Climate Change Action Plan" />
+
+===Climate===
+{{Weather box
+| location     = Caloocan
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 29
+| Jan low C  = 20
+| Feb high C = 30
+| Feb low C  = 20
+| Mar high C = 32
+| Mar low C  = 21
+| Apr high C = 34
+| Apr low C  = 23
+| May high C = 33
+| May low C  = 24
+| Jun high C = 31
+| Jun low C  = 25
+| Jul high C = 30
+| Jul low C  = 24
+| Aug high C = 29
+| Aug low C  = 24
+| Sep high C = 29
+| Sep low C  = 24
+| Oct high C = 30
+| Oct low C  = 23
+| Nov high C = 30
+| Nov low C  = 22
+| Dec high C = 29
+| Dec low C  = 21
+| Jan precipitation mm = 7
+| Feb precipitation mm = 7
+| Mar precipitation mm = 9
+| Apr precipitation mm = 21
+| May precipitation mm = 101
+| Jun precipitation mm = 152
+| Jul precipitation mm = 188
+| Aug precipitation mm = 170
+| Sep precipitation mm = 159
+| Oct precipitation mm = 115
+| Nov precipitation mm = 47
+| Dec precipitation mm = 29
+| Jan rain days        = 3.3
+| Feb rain days        = 3.5
+| Mar rain days        = 11.1
+| Apr rain days        = 8.1
+| May rain days        = 18.9
+| Jun rain days        = 23.5
+| Jul rain days        = 26.4
+| Aug rain days        = 25.5
+| Sep rain days        = 24.5
+| Oct rain days        = 19.6
+| Nov rain days        = 10.4
+| Dec rain days        = 6.4
+| source 1 = Meteoblue<ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/san-jose-del-monte_philippines_1689395
+| title =  Caloocan: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| access-date = May 13, 2020 }}</ref>
+| date = May 13, 2020 }}
+
+===Barangays===
+{{multiple image
+ | align = center
+ | total_width = 500
+ | image_style = border:none;
+
+ | image1 = South_Caloocan_Barangay_Map_with_Area_Names.png
+ | alt1 = South Caloocan
+ | caption1 = Barangays of South Caloocan with corresponding area names
+
+ | image2 = North_Caloocan_Barangay_Map_with_Area_Names.png
+ | alt2 = North Caloocan 
+ | caption2 = Barangays of North Caloocan with corresponding area names (before the 2024 split of [[Bagong Silang]])
+}}
+
+Currently, Caloocan has 193 [[barangay]]s divided into [[Legislative districts of Caloocan|3 legislative districts]].<ref>{{Cite web|url=https://www.philstar.com/nation/2021/05/28/2101288/duterte-splits-caloocan-3-districts|title = Duterte splits Caloocan into 3 districts| website=[[The Philippine STAR]] }}</ref> The 1st District is composed of 64 barangays, which include Barangays 1 to 4, 77 to 85, 132 to 164 in South Caloocan and Barangays 165 to 177 in North Caloocan. The 2nd District is composed of 118 barangays, which include Barangays 5 to 76 and 86 to 131, all in South Caloocan. 3rd District, which was created in 2021, includes 11 barangays in North Caloocan that were formerly part of the 1st District, which include Barangays 178 to 188.<ref name="ra11545" />
+
+The city uses a hybrid system for its barangays, further dividing the cities into 16 zones. Among the cities in Metro Manila, only Manila, Pasay and Caloocan implement the so-called "Zone Systems". A zone is a group of barangays in a district. Although a zone is considered a subdivision in the local government units, the people do not elect a leader for the zone in a popular election similar to the normal barangay or local elections as the system is merely for statistical purposes. Furthermore, all barangays have corresponding numbers but only a few—mostly in Caloocan's northern part—have corresponding names. However, the names of barrios and districts do not necessarily coincide with the perimeters of barangays. The barangays in southern Caloocan are generally smaller compared to their northern counterparts.
+
+Prior to its split in 2024, Barangay 176 or [[Bagong Silang]] was the most populous barangay in the country with a population of 261,729 people or 15.75% of the total population of Caloocan.{{PH census|2020}} This was due to the continuous influx of informal settler families through relocation programs since the 1970s. As a result, there have been calls by residents to subdivide Bagong Silang into seven distinct barangays.<ref>{{cite news |last1=Bajo |first1=Ramil |last2=Galupo |first2=Rey |title=Mayor supports move to split Caloocan barangay into seven |url=https://www.philstar.com/metro/2013/09/17/1219131/mayor-supports-move-split-caloocan-barangay-seven |access-date=April 29, 2020 |work=The Philippine Star|date=September 17, 2013}}</ref> Finally, a plebiscite held on August 31, 2024, resulted in the division of Bagong Silang into six distinct barangays: 176-A, 176-B, 176-C, 176-D, 176-E, and 176-F.<ref name="bs2024" />
+
+[[Barangay 76, Caloocan|Barangay 76]], meanwhile, is the least populous barangay in Metro Manila with a population of 2. It used to be an informal settlement and its entire {{convert|2.8|ha|adj=on}} area is now predominated by retail buildings.<ref>{{cite web|url=https://pcij.org/article/10939/the-smallest-barangay-in-ncr-has-2-registered-residents-but-with-210-voters|title=Barangay with 2 residents prepares for elections; it has 210 voters|first=Elyssa|last=Lopez|date=October 28, 2023|publisher=Philippine Center for Investigative Journalism}}</ref>
+
+{| class="wikitable collapsible collapsed" width=80%
+!style="background: orange" colspan=3 align="center" |Caloocan (South)
+|-
+! scope="col" style="width: 50px;" | Barangay
+! scope="col" style="width: 50px;" | District
+! scope="col" style="width: 50px;" | Area/Name <ref name="Caloocan Comprehensive Land Use Plan 2019">{{Cite web|url=https://caloocancity.gov.ph/|title=Home|website=caloocancity.gov.ph}}</ref><ref name="Caloocan Local Shelter Plan 2017-2025">{{cite web |url= http://www.caloocancity.gov.ph/images/2019-09-12/2017-2025-Local-Shelter-Plan-Final.pdf|title=Local shelter plan |website= www.caloocancity.gov.ph|access-date=July 11, 2020}}</ref>
+|-
+! colspan=3 align="center" |Zone 1
+|-
+|Barangay 1 || rowspan = 4|1st || rowspan = 7| Sangandaan
+|-
+|Barangay 2 
+|-
+|Barangay 3
+|-
+|Barangay 4
+|-
+|Barangay 5 || rowspan = 8|2nd
+|-
+|Barangay 6
+|-
+|Barangay 7 
+|-
+|Barangay 8 || Dagat-Dagatan
+|-
+|Barangay 9 || rowspan = 3| Poblacion
+|-
+|Barangay 10
+|-
+|Barangay 11
+|-
+|Barangay 12 ||Dagat-Dagatan
+|-
+! colspan=3 align="center" |Zone 2
+|-
+|Barangay 13 || rowspan = 12|2nd || Poblacion
+|-
+|Barangay 14 || Dagat-Dagatan
+|-
+|Barangay 15 || rowspan = 5| Poblacion
+|-
+|Barangay 16
+|-
+|Barangay 17 
+|-
+|Barangay 18
+|-
+|Barangay 19
+|-
+|Barangay 20 || rowspan = 5| Kaunlaran Village  (C-3 Road)
+|-
+|Barangay 21
+|-
+|Barangay 22
+|-
+|Barangay 23
+|-
+|Barangay 24
+|-
+! colspan=3 align="center" |Zone 3
+|-
+|Barangay 25 || rowspan = 11|2nd || rowspan = 3| Maypajo
+|-
+|Barangay 26
+|-
+|Barangay 27
+|-
+|Barangay 28 || Dagat-Dagatan
+|-
+|Barangay 29 || rowspan = 7| Maypajo
+|-
+|Barangay 30
+|-
+|Barangay 31
+|-
+|Barangay 32
+|-
+|Barangay 33
+|-
+|Barangay 34
+|-
+|Barangay 35
+|-
+! colspan=3 align="center" |Zone 4
+|-
+|Barangay 36 || rowspan = 13|2nd || rowspan = 2| Marulas
+|-
+|Barangay 37
+|-
+|Barangay 38 || rowspan = 5| Grace Park West
+|-
+|Barangay 39 
+|-
+|Barangay 40
+|-
+|Barangay 41
+|-
+|Barangay 42
+|-
+|Barangay 43 || rowspan = 3| Grace Park West (3rd Avenue)
+|-
+|Barangay 44
+|-
+|Barangay 45
+|-
+|Barangay 46 || rowspan = 3| Grace Park West (4th Avenue)
+|-
+|Barangay 47
+|-
+|Barangay 48
+|-
+! colspan=3 align="center" |Zone 5
+|-
+|Barangay 49 || rowspan = 10|2nd || rowspan = 3| Grace Park West (5th Avenue)
+|-
+|Barangay 50
+|-
+|Barangay 51
+|-
+|Barangay 52 || rowspan = 3| Grace Park West (7th Avenue)
+|-
+|Barangay 53
+|-
+|Barangay 54
+|-
+|Barangay 55 || Grace Park West (6th Avenue)
+|-
+|Barangay 56 || rowspan = 3| Grace Park West (8th Avenue)
+|-
+|Barangay 57
+|-
+|Barangay 58
+|-
+! colspan=3 align="center" |Zone 6
+|-
+|Barangay 59 || rowspan = 12|2nd || rowspan = 3| Grace Park West (8th Avenue)
+|-
+|Barangay 60
+|-
+|Barangay 61
+|-
+|Barangay 62 || rowspan = 7| Grace Park West (10th Avenue)
+|-
+|Barangay 63 
+|-
+|Barangay 64
+|-
+|Barangay 65
+|-
+|Barangay 66
+|-
+|Barangay 67
+|-
+|Barangay 68
+|-
+|Barangay 69 || rowspan = 2| Grace Park West
+|-
+|Barangay 70
+|-
+! colspan=3 align="center" |Zone 7
+|-
+|Barangay 71 || rowspan = 6|2nd || Grace Park West
+|-
+|Barangay 72 || Grace Park West (Victory Compound)
+|-
+|Barangay 73 || Grace Park West (PNR Compound)
+|-
+|Barangay 74 || rowspan = 2| Grace Park West (Heroes Del 96)
+|-
+|Barangay 75
+|-
+|[[Barangay 76, Caloocan|Barangay 76]] || Grace Park West (Monumento)
+|-
+|Barangay 77 || rowspan = 4|1st || University Hills (Samson Road)
+|-
+|Barangay 78 || University Hills (Monumento)
+|-
+|[[Barangay 79, Caloocan|Barangay 79]] || University Hills (Caimito Road)
+|-
+|Barangay 80 || University Hills (UE Caloocan)
+|-
+! colspan=3 align="center" |Zone 8
+|-
+|Barangay 81 || rowspan = 5|1st || rowspan = 3| Morning Breeze Subdivision
+|-
+|Barangay 82
+|-
+|Barangay 83
+|-
+|Barangay 84 || Morning Breeze Subdivision (MCU)
+|-
+|Barangay 85 || Morning Breeze Subdivision
+|-
+|Barangay 86 || rowspan = 8|2nd || rowspan = 2| Grace Park East (EDSA)
+|-
+|Barangay 87
+|-
+|Barangay 88 || rowspan = 4| Grace Park East (11th Avenue)
+|-
+|Barangay 89
+|-
+|Barangay 90
+|-
+|Barangay 91
+|-
+|Barangay 92 || Grace Park East, Madre Ignacia
+|-
+|Barangay 93 || Grace Park East
+|-
+! colspan=3 align="center" |Zone 9
+|-
+|Barangay 94 || rowspan = 12|2nd || Grace Park East (Biglang-Awa)
+|-
+|Barangay 95 || Balintawak
+|-
+|Barangay 96 || Grace Park East (EDSA)
+|-
+|Barangay 97 || rowspan = 2| Grace Park East (11th Avenue)
+|-
+|Barangay 98
+|-
+|Barangay 99 || Balintawak (Dorotea Compound)
+|-
+|Barangay 100 || Grace Park East (11th Avenue)
+|-
+|Barangay 101 || Grace Park East (Barrio Galino)
+|-
+|Barangay 102 || Grace Park East (9th Avenue)
+|-
+|Barangay 103 || rowspan = 3| Grace Park East (8th Avenue)
+|-
+|Barangay 104
+|-
+|Barangay 105
+|-
+! colspan=3 align="center" |Zone 10
+|-
+|Barangay 106 || rowspan = 15|2nd || rowspan = 3| Grace Park East (10th Avenue)
+|-
+|Barangay 107
+|-
+|Barangay 108
+|-
+|Barangay 109 || Grace Park East (8th Avenue)
+|-
+|Barangay 110 || rowspan = 3| Grace Park East (7th Avenue)
+|-
+|Barangay 111
+|- 
+|Barangay 112
+|-
+|Barangay 113 || rowspan = 4| Grace Park East (6th Avenue)
+|-
+|Barangay 114
+|-
+|Barangay 115
+|-
+|Barangay 116
+|-
+|Barangay 117 || Grace Park East (5th Avenue)
+|-
+|Barangay 118 || Grace Park East (La Loma Cemetery)
+|-
+|Barangay 119 || Grace Park East (4th Avenue)
+|-
+|Barangay 120 || Grace Park East (2nd Avenue)
+|-
+! colspan=3 align="center" |Zone 11
+|-
+|Barangay 121 || rowspan = 11|2nd || rowspan = 2| Grace Park East (7th Avenue)
+|-
+|Barangay 122
+|-
+|Barangay 123 || rowspan = 3| Grace Park East (5th Avenue)
+|-
+|Barangay 124
+|-
+|Barangay 125
+|-
+|Barangay 126 || rowspan = 6| Barrio San Jose
+|-
+|Barangay 127
+|-
+|Barangay 128 
+|-
+|Barangay 129 
+|-
+|Barangay 130
+|-
+|Barangay 131
+|-
+! colspan=3 align="center" |Zone 12
+|-
+|Barangay 132 || rowspan = 10|1st || rowspan = 10| Bagong Barrio West
+|-
+|Barangay 133
+|-
+|Barangay 134
+|-
+|Barangay 135
+|-
+|Barangay 136
+|-
+|Barangay 137
+|-
+|Barangay 138
+|-
+|Barangay 139
+|-
+|Barangay 140
+|-
+|Barangay 141
+|-
+! colspan=3 align="center" |Zone 13
+|-
+|Barangay 142 || rowspan = 14|1st || rowspan = 14| Bagong Barrio West
+|-
+|Barangay 143
+|-
+|Barangay 144
+|-
+|Barangay 145
+|-
+|Barangay 146
+|-
+|Barangay 147
+|-
+|Barangay 148
+|-
+|Barangay 149
+|-
+|Barangay 150
+|-
+|Barangay 151
+|-
+|Barangay 152
+|-
+|Barangay 153
+|-
+|Barangay 154
+|-
+|Barangay 155
+|-
+! colspan=3 align="center" |Zone 14
+|-
+|Barangay 156 || rowspan = 9|1st || rowspan = 2| Bagong Barrio East
+|-
+|Barangay 157
+|-
+|Barangay 158 || Libis Baesa (Eternal Gardens Memorial Park)
+|-
+|Barangay 159 || rowspan = 2 | Libis Baesa
+|-
+|Barangay 160
+|-
+|Barangay 161 || Libis Reparo
+|-
+|Barangay 162 || rowspan = 2| Santa Quiteria
+|-
+|Barangay 163
+|-
+|Barangay 164 || Talipapa
+|}
+
+{| class="wikitable collapsible collapsed" width=80%
+!style="background: green" colspan=3 align="center" |Caloocan (North)
+|-
+! scope="col" style="width: 50px;" | Barangay
+! scope="col" style="width: 50px;" | District
+! scope="col" style="width: 50px;" | Area/Name <ref name="Caloocan Comprehensive Land Use Plan 2019"/><ref name="Caloocan Local Shelter Plan 2017-2025"/>
+|-
+! colspan=3 align="center" |Zone 15
+|-
+|Barangay 165 || rowspan = 18|1st || Bagbaguin
+|-
+|Barangay 166 || Kaybiga
+|-
+|Barangay 167 || Llano
+|-
+|Barangay 168 || Deparo
+|-
+|Barangay 169 || [[BF Homes Caloocan]]
+|-
+|Barangay 170 || Deparo 2
+|-
+|Barangay 171 || Bagumbong
+|-
+|Barangay 172 || Urduja Village
+|-
+|Barangay 173 || Congress
+|-
+|Barangay 174 || Camarin (Central)
+|-
+|Barangay 175 || Camarin
+|-
+|Barangay 176-A || rowspan=6 | [[Bagong Silang]]<ref name="Caloocan Comprehensive Land Use Plan 2019" />
+|-
+|Barangay 176-B  
+|-
+|Barangay 176-C 
+|-
+|Barangay 176-D
+|-
+|Barangay 176-E 
+|-
+|Barangay 176-F
+|-
+|Barangay 177 || Camarin (Cielito)
+|-
+|Barangay 178 || 3rd || Camarin (Kiko)
+|-
+! colspan=3 align="center" |Zone 16
+|-
+|Barangay 179 || rowspan = 10|3rd || Amparo
+|-
+|Barangay 180 || Tala 
+|-
+|Barangay 181 || rowspan = 2| Pangarap Village, Tala
+|-
+|Barangay 182
+|-
+|Barangay 183 || rowspan = 6| Tala
+|-
+|Barangay 184
+|-
+|Barangay 185
+|-
+|Barangay 186
+|-
+|Barangay 187
+|-
+|Barangay 188
+|}
+
+===Territorial disputes===
+Caloocan has two unresolved boundary disputes. Its dispute with [[San Jose del Monte]], [[Bulacan]], docketed as G.R. No. 142601 dated October 23, 2006, particularly encompasses portions of Pangarap Village and apparently Bankers Village 2 that are once part of Tala Estate. The lack of jurisdiction of the Commission on Settlement of Land Problems (COSLAP) resulted to the nullification of its decision.<ref>{{cite PH act|chamber=GR|number=142601|title=National Housing Authority vs. Commission on the Settlement of Land Problems, Municipality of San Jose del Monte, Bulacan, Sps. Angel and Rosario Cruz, Rufino Laan, Rufino Laan Santos, Andres Nepomuceno, Sps. Alberto and Herminia Hagos, Leon Guilalas, Sps. Oscar and Haydee Badillo|url=https://lawphil.net/judjuris/juri2006/oct2006/gr_142601_2006.html|publisher=Lawphil|date=October 23, 2006|accessdate=May 1, 2024}}</ref> On the other hand, its dispute with [[Quezon City]] revolves around the latter's Barangay Baesa.<ref>{{Cite news |date=December 14, 2016 |title=Bautista: Clear QC boundary disputes |publisher=Manila Standard |url=https://manilastandard.net/mobile/article/224135 |access-date=September 3, 2021 }}</ref> 
+
+Moreover, the city governments of Caloocan and [[Malabon]] signed a memorandum of understanding (MOU) in 2014 to develop {{convert|80|ha}} of disputed land located within Caloocan's Libis Baesa area and Malabon's Barangay Potrero. The MOU preempted any court decisions on the dispute that began in 2001, when Malabon, upon its conversion to a highly urbanized city, took control over lands formerly under Caloocan's jurisdiction.<ref>{{cite news|url=https://www.philstar.com/metro/2014/06/18/1335945/caloocan-malabon-settle-land-row|title=Caloocan, Malabon settle land row|first1=Ramil|last1=Bajo|first2=Rey|last2=Galupo|date=June 18, 2014|accessdate=May 1, 2024|work=The Philippine Star}}</ref>
+
+==Demographics==
+{{Philippine Census 
+| align= left
+| cols = 2
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+As of 2020, the city has a population of 1,661,584 people, which makes it the fourth largest city in the Philippines in terms of population.{{PH census|current}} Under the same census year, Caloocan South (Barangays 1 to 164) was recorded as having a population of 585,091, and Caloocan North (Barangays 165 to 188) was recorded with a population of 998,887. If the two districts were treated as separate cities, they still would have been among the largest in the country as of the 2015 census year, ranking fourth and 17th respectively in terms of population.
+
+The population density of Caloocan ({{convert|{{sigfig|1661584/55.8|2}}|PD/km2|disp=or|sp=us}}) surpasses that of the National Capital Region as a whole.{{PH census|current}}
+
+The 1st district of Caloocan was once the country's most populous legislative district, with 1.19 million persons as of 2015,{{PH census|2015}} prior to the creation of the 3rd district that was excised from it.
+
+Most residents speak [[Filipino language|Filipino]] ([[Tagalog language|Tagalog]]) and [[Philippine English|English]], with considerable numbers speaking other [[Languages of the Philippines|languages and dialects of the Philippines]].
+
+Like many other places in the country, Caloocan is predominantly [[Roman Catholicism in the Philippines|Roman Catholic]]. It is home to the seat of the [[Roman Catholic Diocese of Kalookan]] in its southern part, while its northern part is under the [[Roman Catholic Diocese of Novaliches]]. There is also a significant presence of [[Iglesia ni Cristo]] and other [[Protestantism in the Philippines|Protestant]] churches in the city.
+
+{{clear left}}
+
+==Economy==
+{{stack|float=left|{{PH poverty incidence}}}}
+[[File:Malansing (Sangandaan) Market, Caloocan, Jun 2024.jpg|thumb|Malansing Market in Sangandaan]]
+According to the [[Department of Trade and Industry (Philippines)|Department of Trade and Industry]]'s Cities & Municipalities Competitive Index, Caloocan has an [[economic dynamism]] of 20% as of 2024, ranking 15th among local government units (LGUs) in the Philippines.<ref>{{cite web|url=https://cmci.dti.gov.ph/lgu-profile.php?lgu=Caloocan&year=2024|title=Caloocan Profile|accessdate=September 8, 2024|website=Cities & Municipalities Competitive Index|publisher=[[Department of Trade and Industry (Philippines)|Department of Trade and Industry]]}}</ref>
+
+Caloocan's [[10th Avenue, Caloocan|10th Avenue]] area is well known for its clusters of motorcycle dealers and motorcycle spare parts dealers. Among the major and famous streets are P. Zamora Street and A. Mabini Street.
+
+Numerous banks have branches in the city such as [[Banco de Oro|BDO]], [[EastWest Bank]], [[Metropolitan Bank and Trust Company|MetroBank]], [[PSBank]], [[Maybank]], [[Chinabank]], [[Bank of the Philippine Islands]], [[Unionbank (Philippines)|UnionBank]], [[Philippine National Bank]], [[Philippine Business Bank]], [[Bank of Makati]], [[Security Bank]], [[Land Bank of the Philippines]], [[Sterling Bank of Asia]], [[Bank of Commerce]], [[Philtrust Bank]], [[Rizal Commercial Banking Corporation]], Malayan Bank, Bank One Savings & Trust Corporation, WealthBank, Rural Bank of Caloocan, and Our Lady of Grace Credit Cooperative.
+
+[[File:999 Shopping Mall Caloocan, May 2023.jpg|thumb|999 Shopping Mall Caloocan]]
+The city also has a number of shopping malls and stand-alone supermarkets and hypermarkets. In the southern part are [[SM City Grand Central]] (on the former site of Ever Gotesco Grand Central), [[Puregold]] Monumento, [[Puregold]] Maypajo, Victory Central Mall, Araneta Square, Uniwide Warehouse Club Monumento, LRT Caloocan Mall, [[SM Hypermarket]] Monumento, SM Center Sangandaan, 999 Shopping Mall Caloocan, and [[Walter Mart]] Caloocan. On the other hand, in the northern part are Zabarte Town Center, Holiday Island Mall, Metroplaza Mall, [[Primark Town Center]] Deparo, Primark Town Center Brixton, and SM City Caloocan.<ref>{{cite news |last1=Quevedo |first1= Richbon|title=SM's 86th mall spurring Caloocan dev't|url= https://tribune.net.ph/2024/05/16/sms-86th-mall-spurring-caloocan-devt|accessdate=May 17, 2024 |publisher= [[Daily Tribune (Philippines)]]|date=May 17, 2024}}</ref><ref>{{cite web|url=https://ncr.emb.gov.ph/wp-content/uploads/2023/02/4.-SM-City-Deparo-Executive-Summary.pdf|title=SM CITY DEPARO Location|website=EMB - National Capital Region|accessdate=January 25, 2024|date=February 2023}}</ref> Savemore Market has three branches which are located in Kiko Camarin (Barangay 178), Zabarte inside Zabarte Town Center, Kaybiga and Primark Deparo. Puregold Price Club has seven branches in the north and five in the south.
+
+Factories and industrial areas have also been built in various parts of Caloocan. Manufacturers are concentrated in the northern part, particularly in Bagumbong, Kaybiga, Llano, and Tala, while plastic and steel industries are concentrated in the southern part. Tala hosts the Victoria Wave Special Economic Zone, a {{convert|25|ha|sp=us|adj=on}} registered zone under the [[Philippine Economic Zone Authority]].<ref>{{cite web|url=http://victoriawave.com.ph/|title=Victoria Wave Special Economic Zone|accessdate=April 10, 2022}}</ref>
+
+[[NLEX Corporation]], the concession holder of the [[North Luzon Expressway]], is headquartered in Caloocan. The expressway's main section, [[NLEX Harbor Link]], and [[NLEX Connector]] traverse through South Caloocan. Planned expressways such as the [[North Luzon East Expressway]] and North Access Link Expressway are slated to traverse Caloocan.
+
+{{clear left}}
+
+==Government==
+{{main|Sangguniang Panglungsod}}
+{{multiple image
+ | align             = right
+ | direction         = vertical
+ | background color  =
+ | total_width       = 230
+ | image1 = Caloocan City Hall (Grace Park, Caloocan; 03-21-2021).jpg
+ | caption1 = Caloocan City Hall in Grace Park
+ | image2 = Caloocan City Hall North (Zapote Road, Caloocan; 05-29-2022).jpg
+ | caption2 = Caloocan City Hall North in Camarin, prior to its 2023 upgrade
+ | footer = The city halls of Caloocan
+}}
+===Local government===
+Caloocan, like other [[cities of the Philippines]], is a local government unit whose powers and functions are specified by the [[Philippine legal codes#Local Government Code|Local Government Code of the Philippines]]. In general, as a city, Caloocan is headed by a mayor who heads the city's executive function and the vice mayor who heads the city's legislative function, which is composed of eighteen councilors, six from each of the city's three city council districts. For representation, the city has three districts, and therefore three representatives, in the country's [[House of Representatives of the Philippines|House of Representatives]].<ref name="ra11545">{{cite PH act |title=An Act Reapportioning the First Legislative District of the City of Caloocan into Two (2) Legislative Districts |chamber=RA |number=11545 |folio = |language= |date= May 26, 2021 |year= |article= |section= |url= https://www.lawphil.net/statutes/repacts/ra2021/ra_11545_2021.html |accessdate= April 10, 2022 |archiveurl= |archivedate= |url-status= |ref=}}</ref>
+
+The current Caloocan City Hall, situated in Grace Park East, serves as the city's seat of government. Located in a rectangular lot between 8th and 9th Streets and 8th and 9th Avenues, it replaced the old city hall built in 1952 on A. Mabini Street, across from [[Caloocan Cathedral|San Roque Cathedral-Parish]], now occupied by 999 Shopping Mall Caloocan.<ref name="Caloocan Medium Term Development Plan 2008-2013">{{Cite web|url=https://www.yumpu.com/en/document/read/4559861/number-of-trading-business-caloocan-city/11|title=CALOOCAN CITY MEDIUM TERM|website=yumpu.com}}</ref><ref>{{cite news|url=https://newsinfo.inquirer.net/519639/caloocan-city-eyes-new-building-to-replace-61-year-old-city-hall|first=Nathan|last=Melican|title=Caloocan City eyes new building to replace 61-year-old city hall|date=November 3, 2013|accessdate=September 5, 2023|website=INQUIRER.net}}</ref><ref>{{cite news|url=https://www.philstar.com/pilipino-star-ngayon/bansa/2017/12/17/1769346/caloocan-city-hall-lilipat-na-ng-bagong-gusali|title=Caloocan City Hall lilipat na ng bagong gusali|first=Danilo|last=Garcia|date=December 17, 2017|accessdate=September 5, 2023|work= Pilipino Star Ngayon|lang=tl}}</ref>  The Caloocan City Hall North, situated in Camarin along Zapote Street, serves the northern part of the city. It is currently undergoing reconstruction since 2023.<ref>{{cite news|url=https://mb.com.ph/2023/8/11/caloocan-lgu-to-build-new-city-hall-1|title=Caloocan LGU to build new city hall|first=Aaron Homer|last=Dioquino|date=August 11, 2023|accessdate=September 5, 2023|work=Manila Bulletin}}</ref> 
+
+===Elected officials===
+{| class="wikitable"
+|+ City officials of Caloocan (2022–2025)
+! scope="col" style="text-align:center;"| Designation
+! scope="col" style="text-align:center;"| [[Caloocan's 1st congressional district|First district]]
+! scope="col" style="text-align:center;"| [[Caloocan's 2nd congressional district|Second district]]
+! scope="col" style="text-align:center;"| [[Caloocan's 3rd congressional district|Third District]]
+|- 
+| style="text-align:left;" | [[House of Representatives of the Philippines|Representatives]] || style="text-align:center;"| [[Oscar Malapitan|Oscar G. Malapitan]]<br />([[Nacionalista Party|Nacionalista]])|| style="text-align:center;"| [[Mitzi Cajayon|Mary Mitzi Cajayon-Uy]]<br />([[Lakas–CMD|Lakas]])|| style="text-align:center;"| Dean Asistio<br />([[Lakas-CMD|Lakas]])
+|- 
+| style="text-align:left;"| Mayor || colspan=3 style="text-align:center;"| [[Along Malapitan|Dale Gonzalo R. Malapitan]]<br />(Nacionalista)
+|-
+| style="text-align:left;"| Vice Mayor || colspan=3 style="text-align:center;"| Anna Karina R. Teh-Limsico<br />(Nacionalista)
+|- 
+|style="text-align:left;" rowspan=6 | Councilors || style="text-align:center;" |  Ray Christopher C. Adalem<br />(Nacionalista) ||style="text-align:center;"| Jose Lorenzo T. Almeda<br />([[National Unity Party (Philippines)|NUP]])||style="text-align:center;"| Merwyn Lennon D.C. Abel<br />(Nacionalista)
+|- style="text-align:center;"
+| Leah M. Bacolod<br />(PDP) || Edgardo N. Aruelo<br />(PDP) || Theresita M. Ceralde<br />(Nacionalista)
+|- style="text-align:center;"
+| Alexander M. Caralde<br />(Nacionalista)|| Luis O. Asistio III<br />(Nacionalista)  ||Carliza May A. Del Rosario<br />(Lakas)
+|- style="text-align:center;"
+| Orvince Howard A. Hernandez<br />([[Lakas-CMD|Lakas]]) || Carolyn C. Cunanan<br />(Nacionalista) || Kingjohn Ericson M. Echiverri<br />([[Aksyon Demokratiko|Aksyon]]) 
+|- style="text-align:center;"
+| Vincent Ryan R. Malapitan<br />(Nacionalista) || Emmanuel S. De Leon<br />(Aksyon) || Aurora A. Henson Jr.<br />(Nacionalista)
+|- style="text-align:center;"
+| Jacqueline Z. Nubla<br />(Aksyon) || Arnold T. Divina<br />(Nacionalista) || Patrick L. Prado<br />(Nacionalista)
+|-
+| style="text-align:left;"| [[Councilor#Sangguniang Panlungsod|ABC President]] || colspan=3 style="text-align:center;" | Vergel J. De Vera (Barangay 67, Grace Park West)
+|- 
+| style="text-align:left;"| [[Sangguniang Kabataan|SK President]] || colspan=3 style="text-align:center;"| Bea C. Hedreyda  (Barangay 35, Maypajo)
+|}
+
+===List of mayors and vice mayors===
+{{main|Mayor of Caloocan}}
+
+==Infrastructure==
+===Transportation===
+[[File:NLEx Balintawak Barrier.JPG|thumb|The Balintawak Toll Barrier of the [[North Luzon Expressway]]|alt=A toll plaza]]
+[[File:EDSA Monumento.jpg|thumb|right|The northern terminus of [[Epifanio de los Santos Avenue|EDSA]] in Caloocan]]
+[[File:LRT-1_4th_gen_approaching_Monumento_station_02.jpg|thumb|A train of the LRT Line 1 serving the Monumento area]]
+The [[LRT Line 1 (Metro Manila)|LRT Line 1]] has two stations in the southern part of the city, namely: [[Monumento station|Monumento]] and [[5th Avenue station (LRT)|5th Avenue]]. [[Philippine National Railways]] (PNR) also has a line, with its terminal at Samson Road, and passes through [[Caloocan railway station]] (the first railway station built in the city), [[10th Avenue railway station]], and [[5th Avenue railway station]]. The currently under construction [[MRT Line 7]] has also two under-construction stations located at the northern part of Caloocan, namely: [[Sacred Heart station|Sacred Heart]] and [[Tala station|Tala]]. The [[North–South Commuter Railway]], another currently under construction rail transit system, will replace the existing [[PNR Metro Commuter Line]] and will have one station at Caloocan.
+
+The city has an extensive network of roads, the most prominent being [[EDSA|Epifanio de los Santos Avenue]], which begins in the Monumento area. [[Quirino Highway]], which connects Quezon City and eastern Bulacan, also traverses the northern part of Caloocan. The [[North Luzon Expressway]]'s Operations and Maintenance Center and the motorway's Balintawak toll barrier are in the southern part of Caloocan. [[NLEX Harbor Link]], its extension that connects it towards [[Navotas]] and [[Port of Manila]], and the NLEX Connector project that connects Harbor Link with the City of Manila and [[Skyway (Metro Manila)|Skyway]] also traverse Caloocan. The northern end of Skyway, which connects the North and [[South Luzon Expressway|South Luzon]] Expressways, is also found near NLEX's Balintawak toll plaza, with a possible connection to Northern Access Link Expressway, a future toll road to [[New Manila International Airport]].
+
+Bus line [[Victory Liner]] Incorporated has its headquarters and terminal along [[Rizal Avenue|Rizal Avenue Extension]] near the [[Monumento station]].
+
+===Landmarks===
+<!-- [[File:0493jfCaloocan City Rizal Avenue Chapel La Loma Cemetery Landmarksfvf 02.JPG|upright=1.15|thumb|Chapel of [[Pancras of Rome|St. Pancratius]] in La Loma Cemetery]] -->
+[[File:Cavite,MetroManilajf5255 32.JPG|thumb|Thai To Taoist Temple]]
+
+The city's most celebrated landmark is the [[Bonifacio Monument|monument]] to the [[Philippine Revolution|revolutionary]] [[Andrés Bonifacio]], which stands on a roundabout where EDSA, MacArthur Highway, Samson Road, and Rizal Avenue Extension intersect. The memorial was erected in 1933 and consists of an obelisk with sculptures by [[National Artist of the Philippines|National Artist]] [[Guillermo Tolentino]]. The monument marks the very first battle of the Philippine Revolution on August 3, 1896. Recent renovations have been made on the environs of the monument, including the Bonifacio Circle, its former site, and the Caloocan stretch of EDSA, which is {{convert|100|m|sp=us}} away from the landmark. The whole area is known as 'Monumento'. 
+
+Other sites of historical importance identified by the city government include a lot in P. Zamora Street where the wife of Katipunan leader Andrés Bonifacio once resided; the heritage house of Gertrudes Sevilla, the owner of which is the nephew of [[Gregoria de Jesús]];<ref>{{cite news |last1=Cayabyab |first1=Marc Jayson |title=Caloocan elderly remember Bonifacio's wife |url=https://www.philstar.com/nation/2019/06/16/1926788/caloocan-elderly-remember-bonifacios-wife |access-date=April 30, 2020 |work=The Philippine Star|date=June 16, 2019}}</ref><ref name="Caloocan Medium Term Development Plan 2008-2013" /> Santa Quiteria Church in Baesa; and Our Lady of Grace Parish in 11th Avenue; [[La Loma Cemetery]], the oldest cemetery in Manila; and Thai To Taoist Temple along 6th Avenue. In addition, the city's District Office of the [[Bureau of Internal Revenue (Philippines)|Bureau of Internal Revenue]] is along EDSA.
+
+==Police==
+The Caloocan City Police Station is under the parent agency [[National Capital Region Police Office]]'s [[Northern Police District]] of the [[Philippine National Police]]. They were once recognized as the best police station for their contribution to the [[Philippine drug war|drug war]] during the administration of President [[Rodrigo Duterte]].
+
+However, the whole Caloocan city police force was recently sacked after a series of crimes, including killings and robberies, were committed by its members. However, instead of dismissing the erring police officers, they were scheduled to be retrained by then [[Philippine National Police]] [[Chief of the Philippine National Police|Chief]] [[Ronald dela Rosa]].<ref>{{cite news|url=https://www.philstar.com/headlines/2017/09/15/1739397/ncrpo-relieves-caloocan-city-police-force?nomobile=1|title=NCRPO relieves Caloocan City police force|website=Philstar.com|date=September 15, 2017|accessdate=September 6, 2023}}</ref>
+
+In addition, the Northern Police District is headquartered in Caloocan since 1993.
+
+==Education==
+{{See also|Category:Schools in Caloocan}}
+[[File:Caloocan High Schools 12.jpg|thumb|Caloocan High School]] 
+The city's lone public university is the [[University of Caloocan City]] (formerly Caloocan City Community College in 1971 and Caloocan City Polytechnic College in 1975). Other educational institutions offering tertiary education include [[University of the East Caloocan]], [[Manila Central University]], La Consolacion College-Caloocan, and [[La Consolacion College – Novaliches]], Access Computer College Caloocan, AMA Computer College-Caloocan, [[STI College|STI Academic Center]] Caloocan, among others.
+
+The Schools Division Office (SDO) - Caloocan City oversees 89 public schools and a number of private schools within the city, up to secondary level.<ref>{{cite web|url=https://depedcaloocan.com/public-schools/|title=Public Schools|accessdate=May 4, 2024|website=Schools Division Office - Caloocan City }}</ref> Notable public schools are [[Caloocan National Science and Technology High School]] (North Caloocan's first-ever science and technology high school), [[Caloocan City Science High School]], [[Caloocan City Business High School]], and [[Caloocan High School]]. Private institutions such as the [[Philippine Cultural College]] (Annex), [[Saint Benedict School of Novaliches]], the Diocese of Kalookan's [[St. Gabriel Academy]], [[St. Mary's Academy of Caloocan City]], Notre Dame of Manila, and [[Santa Elena School of Novaliches]] are also located in the city.
+
+==Twin towns – sister cities==
+===Local===
+* [[Calamba, Laguna]]
+* [[Malabon]], [[Metro Manila]]
+* [[San Jose del Monte City|San Jose del Monte]], [[Bulacan]]
+
+===International===
+* {{flagicon|KOR}} [[Incheon]], [[South Korea]]<ref>{{cite news |url=http://manilastandardtoday.com/mobile/article/178369|title=Sister cities|work=Manila Bulletin|access-date=August 30, 2016}}</ref>
+
+==Gallery==
+<gallery widths="200" heights="150">
+File:BonifacioMonumentjf9889 04.JPG|[[Bonifacio Monument]]
+File:Shrine of Our Lady of Grace, Caloocan, June 2023.jpg|Shrine of Our Lady of Grace
+File:Sto. Niño de Bagong Silang Church, Caloocan City, February 2022.jpg|Sto. Niño de Bagong Silang Church
+9526Complex Caloocan City Hall Landmarks 21.jpg|View of Grace Park from the new city hall
+File:Cccaloocanjf.JPG|View of Barangays 15 and 16 from the old city hall
+File:Caloocan Judicial Complex, Dec 2023.jpg|Caloocan Judicial Complex
+File:Ung Siu Si Buddhist Temple, Caloocan City, Mar 2024.jpg|Ung Siu Si Buddhist Temple
+File:Streets Buildings of Caloocan 19.jpg|Schools Division Office of Caloocan
+File:2Tala Caloocan City Buildings Church 16.jpg|[[Dr. Jose N. Rodriguez Memorial Hospital]] in Tala
+File:9538Caloocan City Barangays Landmarks 17.jpg|Kalookan Cockpit Arena in Kaybiga
+File:9848Caloocan City Barangays Landmarks 44.jpg|[[Glorieta Park]]
+File:102Churches landmarks Buildings Camarin Area, Caloocan City 15.jpg|Caloocan City North Medical Center in Camarin
+</gallery>
+
+==Notable person==
+{{see also|List of people from Metro Manila}}
+* [[Benjie Paras]], actor and former basketball player
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Wikivoyage}}
+{{Commons category}}
+*{{Official website|http://www.caloocancity.gov.ph}}
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+*[http://manilainfo.blogspot.com/2010/05/history-of-caloocan-city.html History of Caloocan, Philippines]
+*{{OSM relation|273242}}
+
+{{Navboxes
+| title = Jurisdictions adjacent to Caloocan
+| list  = 
+{{Geographic location
+| title = Northern part
+| Center    = North Caloocan
+| North     = [[San Jose del Monte]]
+| South     = [[Quezon City]]
+| West      = [[Valenzuela, Metro Manila|Valenzuela]]
+| Northwest = [[Marilao]], [[Bulacan]]<br>[[Meycauayan]], [[Bulacan]]
+| Northeast = [[Rodriguez, Rizal|Rodriguez]], [[Rizal (province)|Rizal]]
+}}
+{{Geographic location
+| title = Southern part
+| Center    = South Caloocan
+| North     = [[Valenzuela, Metro Manila|Valenzuela]]
+| East      = [[Quezon City]]
+| South     = [[Manila]]
+| West      = [[Navotas]]
+| Northwest = [[Malabon]]
+}}
+}}
+
+{{Navboxes
+| title = Articles related to Caloocan
+| list  = 
+{{Metro Manila}}
+{{Philippine cities}}
+{{Most populous cities in Philippines}}
+{{Largest Cities and Municipalities in Luzon}}
+}}
+
+{{Authority control}}
+
+[[Category:Caloocan| ]]
+[[Category:Cities in Metro Manila]]
+[[Category:Populated places established in 1815]]
+[[Category:1815 establishments in the Philippines]]
+[[Category:Highly urbanized cities in the Philippines]]
+[[Category:Enclaves and exclaves]]

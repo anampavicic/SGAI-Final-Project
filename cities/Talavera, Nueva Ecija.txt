@@ -1,0 +1,590 @@
+{{Short description|Municipality in Nueva Ecija, Philippines}}
+{{more citations needed|date=October 2012}}
+{{Infobox settlement
+| name                            = {{PH wikidata|name}}
+| image_skyline                   = TalaveraCabanatuanjf9840 06.JPG
+| image_caption                   = Downtown
+| image_seal                      = Talavera Nueva Ecija.png
+| seal_size                       = 100x80px
+| image_map                       = {{PH wikidata|image_map}}
+| map_caption                     = {{PH wikidata|map_caption}}
+| image_map1                      = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map                     = Philippines
+| pushpin_label_position          = left
+| pushpin_map_caption             = Location within the {{PH wikidata|country}}
+| coordinates                     = {{PH wikidata|coordinates}}
+| settlement_type                 = {{PH wikidata|settlement_type}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = [[Philippines]]
+| subdivision_type1               = [[Regions of the Philippines|Region]]
+| subdivision_name1               = {{PH wikidata|region}}
+| subdivision_type2               = [[Provinces of the Philippines|Province]]
+| subdivision_name2               = {{PH wikidata|province}}
+| official_name                   = {{PH wikidata|official_name}}
+| etymology                       =  <!--origin of name-->
+| named_for                       = [[Talavera de la Reina]], [[Spain]]
+| native_name                     =
+| other_name                      = <!---Other names used in the contemporary era--->
+| nickname                        =
+| motto                           = ''Sa Talavera...Todo Asenso Bayan at Tao''
+| anthem                          =
+| subdivision_type3               = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3               = {{PH legislative district}}
+| established_title               = [[Date of establishment|Founded]]
+| established_date                = 1872
+| parts_type                      = [[Barangay]]s
+| parts_style                     = para
+| p1                              = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title                    = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name                     = Nerito S. Santos Jr.
+| leader_title1                   = [[Vice Mayor]]
+| leader_name1                    = Nerivi S. Santos-Martinez
+| leader_title2                   = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2                    = Mikaela Angela B. Suansing
+| leader_title3                   = [[Councilor]]s
+| leader_name3                    = <small> {{Collapsible list
+| title                  = Members
+| frame_style            = border:none; padding: 0;
+| title_style            = <!-- (optional) -->
+| list_style             = text-align:left;display:none;white-space:nowrap;
+| 1 = Erwin Chioco
+| 2 = Joel del Rosario
+| 3 = Aries Gaboy Lim
+| 4 = Baby Palilio
+| 5 = Nel Rayo
+| 6 = Lito Silva
+| 7 = Ape Reyes
+| 8 = Rai Rai Villanueva 
+| 9 =
+| 10 =  
+}} </small>
+| leader_title4                   = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4                    = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type                 = {{PH wikidata|government_type}}
+| government_footnotes            = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m                     = {{PH wikidata|elevation_m}}
+| elevation_max_m                 = 61
+| elevation_min_m                 = 31
+| elevation_max_rank              =
+| elevation_min_rank              =
+| elevation_footnotes             = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes         = 
+| elevation_min_footnotes         = 
+| area_rank                       = 
+| area_footnotes                  = {{PH area}}
+| area_total_km2                  = {{PH wikidata|area}}
+| population_footnotes            = {{PH census|current}}
+| population_total                = {{PH wikidata|population_total}}
+| population_as_of                = {{PH wikidata|population_as_of}}
+| population_density_km2          = auto
+| population_blank1_title         = [[Household]]s
+| population_blank1               = {{PH wikidata|household}} 
+| population_blank2_title         = 
+| population_blank2               = 
+| population_demonym              = 
+| population_rank                 = 
+| population_note                 = 
+| timezone                        = [[Philippine Standard Time|PST]]
+| utc_offset                      = +8
+| postal_code_type                = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code                     = {{PH wikidata|postal_code}}
+| postal2_code_type               = {{PSGCstyle}}
+| postal2_code                    = {{PSGC detail}}
+| area_code_type                  = {{areacodestyle}}
+| area_code                       = {{PH wikidata|area_code}}
+| website                         = {{PH wikidata|website}}
+| demographics_type1              = Economy
+| demographics1_title1            = {{PH wikidata|income_class_title}}
+| demographics1_info1             = {{PH wikidata|income_class}}
+| demographics1_title2            = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2             = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3            = [[Revenue]]
+| demographics1_info3             = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4            = Revenue rank
+| demographics1_info4             = 
+| demographics1_title5            = [[Asset]]s
+| demographics1_info5             = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6            = Assets rank
+| demographics1_info6             = 
+| demographics1_title7            = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7             = 
+| demographics1_title8            = IRA rank
+| demographics1_info8             = 
+| demographics1_title9            = [[Expenditure]]
+| demographics1_info9             = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10           = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10            = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2              = Service provider
+| demographics2_title1            = Electricity
+| demographics2_info1             = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2            = Water
+| demographics2_info2             = 
+| demographics2_title3            = Telecommunications
+| demographics2_info3             = 
+| demographics2_title4            = Cable TV
+| demographics2_info4             = 
+| demographics2_title5            = 
+| demographics2_info5             = 
+| demographics2_title6            = 
+| demographics2_info6             = 
+| demographics2_title7            = 
+| demographics2_info7             = 
+| demographics2_title8            = 
+| demographics2_info8             = 
+| demographics2_title9            = 
+| demographics2_info9             = 
+| demographics2_title10           = 
+| demographics2_info10            = 
+| blank_name_sec1                 = {{PH wikidata|climate_title}}
+| blank_info_sec1                 = {{PH wikidata|climate_type}}
+| blank1_name_sec1                = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1                = {{PH wikidata|language}}
+| blank2_name_sec1                = [[Crime index]]
+| blank2_info_sec1                = 
+| blank3_name_sec1                = 
+| blank3_info_sec1                = 
+| blank4_name_sec1                = 
+| blank4_info_sec1                = 
+| blank5_name_sec1                = 
+| blank5_info_sec1                = 
+| blank6_name_sec1                = 
+| blank6_info_sec1                = 
+| blank7_name_sec1                = 
+| blank7_info_sec1                = 
+| blank1_name_sec2                = Major religions
+| blank1_info_sec2                = 
+| blank2_name_sec2                = Feast date
+| blank2_info_sec2                = 
+| blank3_name_sec2                = Catholic diocese
+| blank3_info_sec2                = 
+| blank4_name_sec2                = Patron saint
+| blank4_info_sec2                = 
+| blank5_name_sec2                = 
+| blank5_info_sec2                = 
+| blank6_name_sec2                = 
+| blank6_info_sec2                = 
+| blank7_name_sec2                = 
+| blank7_info_sec2                = 
+| short_description               = 
+| footnotes                       = 
+}}
+
+'''Talavera''', officially the '''Municipality of Talavera''' ({{langx|tl|Bayan ng Talavera}}; {{langx|ilo|Ili ti Talavera}}), is a 1st class [[municipality of the Philippines|municipality]]<ref>{{Cite web|url=http://www.citypopulation.info/Philippines-Luzon.html?cityid=28638|title=Cities and Municipalities urban population|website=City population|access-date=28 October 2018}}</ref> in the [[Philippine Province|province]] of [[Nueva Ecija]], [[Philippines]]. According to the 2020 census, it has a population of 132,338.
+
+Talavera is part of [[Cabanatuan]] conurbation as adjacent urban center in the heart of [[Nueva Ecija]]. It is dubbed as the "Milk Capital" and "Food basket in Inland Luzon".
+
+==History==
+{{essay-like|section|date=June 2024}}
+Specific accounts pertinent to understanding Talavera’s history and development were generally sparse. While its beginning could be traced back as far as 1846, no explicit account of its historical development was fully chartered or documented, except perhaps some fragments and rarities that somehow occasioned a kind of historic significance to its otherwise complex development. In fact, it was only during the term of then Municipal '''Mayor Romeo F. Maliwat''' in 1965 that its history was revisited and re-written. '''Mr. Tomas I. Pagaduan''', then public librarian, was commissioned and tasked to write the history of Talavera. Said history was printed and published in 1967.
+
+Nevertheless, earlier accounts about Talavera, then known as '''Catuguian''', described it generally as being situated on “flat land and rest[ed] on the margin of the river”. The Spanish scribe Joaquin Rajal aptly characterized it as follows:
+
+<blockquote>It lacks a church, parish house, court, and schools, and their spiritual administration is equally shared with Cabanatuan, as it has not been appointed since it was formed, […] The neighborhood, made up of Tagalogs, is composed of 5,567 souls, who are dedicated to agriculture in irrigated and rainfed land. […] its forests are rich with all kinds of wood and its extensive lands are suited for cattle grazing […].<ref>Joaquin L. Rajal. ''Memoria Acerca de La Provincia de Nueva Ecija en Filipinas.'' (Madrid: Establicimiento Tipografico de Fortanet, 1890), p. 15</ref> </blockquote>
+On the whole, the history of Talavera could be associated, in some general way or other, with the history of the early Augustinian missions in lowland Nueva Ecija in 1595, particularly in Gapan.<ref>Elviro J Peres. ''Catalogo Bibliografico de los Religiosos Agustinos de la Provincia del Santisimo Nombre de Jesus de las Islas Filipinas Desde su Fundacion Hasta Nuestro Dias.'' (Manila: Establicimiento Tipografico del Colegio de Sto. Tomas, 1901, p.818)</ref> The mission in Gapan outlined the basis for the ensuing religious missions in Cabanatuan in the 1700s and later on in Catuguian, being one of its component barrios.<ref>Peres 1901, p. 819</ref> The succeeding timelines could provide a rather general view of Talavera’s history.
+
+'''1846 – 1851: Barrio Catuguian'''
+
+* Earliest accounts of '''Catuguian''' could be traced from the early Augustinian missions in lowland Nueva Ecija, being a component barrio of Cabanatuan.
+* The establishment of a chapel or visita for religious celebration in Catuguian shaped its succeeding history.
+*Its population grew after Nueva Ecija became a regular province in 1848,<ref>Enrique G. Mhartin. ''Apuntes Geograficos de las Islas Filipinas''. (Madrid: Imprenta De Ramon Angelo, 1889), p. 42</ref> from being a ''corregimiento'' in 1801.<ref>Rafael Maria de Aguilar. ''Papeles Interesantes a los Regulares que en las Islas Filipinas Administran la Cura de Almas.'' (Valladolid: En La Imprenta de la Viuda de Roldan, 1838), p. 12</ref>
+* The people of Catuguian initiated a petition to  the Alcalde-Mayor of Nueva Ecija in 1852 to create an independent town by consolidating the barrios of La Torre, Concepcion, Pulong Buli (Sto. Domingo), Valle and Baloc, with Catuguian as its capital. This was sent to the Governor-General of Manila for approval.
+
+'''1852 – 1872: From Catuguian to Talavera'''
+
+* The petition was granted. An independent pueblo was created, with '''Catuguian''' being the capital on '''December 11, 1852.'''  
+*On '''February 4, 1853''', it made another petition to the Governor General in Manila, requesting that its name be changed to Talavera, after ''Talavera de la Princesa e Coruna''.
+*On '''February 14, 1853''', the petition was granted and Catuguian came to be called “Talavera”.
+* On '''November 20, 1872''', through a Royal Decree issued by King Amadeo I, the Parroquia de Talavera was formally recognized and instituted.<ref>National Archives of the Philippines. ''Ereccion de los Pueblos Nueva Ecija 1779-1898''. SDS 14058, Exp. 16, S340–380b.</ref>
+
+'''1873 - 1899: The Making of Talavera'''
+
+*Talavera experienced the rise of landed estates by 1880. Known Haciendas during this period were Hacienda Bakal, Hacienda Romero, and Hacienda Jacinto.
+*It became one of the primary suppliers of cattle to the Manila Market, owing to its rich grasslands.<ref>M. Mclennan. “Land and Tenancy in the Central Luzon Plain”, in ''Philippine Studies'', volume 17, no. 4 (1969), p. 668</ref>
+*Talavera became one of the tributary districts of Tobacco plantations in the province, with Valle and Concepcion.<ref>Cesar C. Baroman. ''Nueva Ecija, 1896-1946''. (Cabanatuan City: Nueva Ecija Historical Culture and Arts Council, IBP Building, Capitol Compound, 1993), p.13</ref>
+*By 1892, its population grew as much as 18,786 because of the migration of farm workers and tillers.<ref>Salvador Font. ''Memoria Acerca de las Misiones de los P. P. Agustinos Calzados en las Islas Filipinas.'' (Madrid: Imprenta de Don Luis Aguado, 1892), p. 53.</ref>
+* The '''barrios of Sto. Domingo and Dolores''' were separated from Talavera to create the Municipality of Sto. Domingo and its Parish.<ref>(Ereccion de Pueblos, 1837-1897)</ref>
+
+'''1900 – 1940: The rise of landlordism'''
+
+*The town of Talavera was occupied by Gen. Henry Lawton on November 1, 1899, owing to the Filipino-American War.<ref>Elihu Root. ''The Military and Colonial Policy of the United States: Addresses and Reports.''(Cambridge: Harvard University Press, 1916), p. 231</ref> 
+*Steady expansion of landed estates because Spanish owned estates were sold to Filipino elites, resulting in land exploitation and land grabbing.
+*'''Sitio of Bacal''', formerly Buenavista (part of San Juan de Guimba), was annexed to Talavera in 1910 upon the recommendation of Honorable Isauro Gabaldon.<ref>Executive Order No. 39, series of 1909</ref>
+* The '''Sitios''' of Kabisukulan, Rangayan, Rizal, Siniguelas, Pukoc, Agricultura, Pulong-Maragol and Mataas-na-Lupa were separated from Talavera and were organized into an independent municipality under Muñoz in 1912.<ref>(Executive Order No. 72, 1912)</ref>
+*Wave of migration to Talavera because of the rising demand for agriculture and livestock grazing, as haciendas grew in size.<ref>Mclennan, Land Tenancy, p. 669</ref>
+*Rise of ''Landlordism & Shared Tenancy System'' became more prevalent as a result of the growing landed estates.
+*Peasant struggles became evident in San Ricardo, Bantug, Casili and Morcon, because of landlordism and shared tenancy, including unfair farm practices on rations and tenant pays.<ref>Benedict J. Kerkvliet. ''The Huk Rebellion: A Study of Peasant Revolt in the Philippines.'' (Lanham, Boulder, New York, Oxford: Rowman and Littlefield Publishers, Inc., 2002), p. 11</ref>
+*Land Tenure became a problem owing to the government’s failure to effect genuine land transfer of land ownership to peasant farmers.<ref>Lawrence M. Greenberg. ''The Hukbalahap Insurrection: A Case Study of Successful Anti Insurgency Operation in the Philippines, 1946-1955''. (Washington, D. C.: Analysis Branch, U. S. Army Center of Military History, 2005), p. 6.</ref>
+*Galvanization and forging of the peasant movement in Talavera, especially in San Ricardo.<ref>Kerkvliet 2002, p. 31</ref>
+
+'''1941 – 1945: Talavera sheds blood'''
+
+*The Imperial Japanese Army occupied Talavera in December 1941.<ref>Kerkvliet 2002, p. 62</ref>
+*San Ricardo experienced the horrors of the war through regular “zona”.<ref>Kerkvliet 2002, pp. 62-66</ref>
+*Land disputes became more pronounced alongside waves of resistance against the Imperial Japanese Army.
+*Squadron 8 of the Hukbalahap was formed in Talavera, with more than 100 members.<ref>Kerkvliet 2002, p. 70</ref>
+*Talavera became a strategic line of defense, especially San Pascual and Pinagpanaan, against the retreating Imperial Japanese Army.<ref>Bruce Palmer, Jr. ''Report'': 6th Infantry Division, (July 17, 1945), 23-27.</ref>
+*Barangay Sibul became a rendezvous point for 510 rescued prisoners of war at Camp Pangatian.<ref>Ralph Teatsorth. “510 Allied Prisoners Rescued in Daring Raid by Rangers on Luzon; All near Death,” ''Dunkirk Evening Observer'', (Thursday, February 1, 1945), p. 1.</ref>
+
+'''1946 – 1972: Recovery & Rehabilitation'''
+
+*Talavera experienced the expansion of the HUK forces in Nueva Ecija, where Nueva Ecija became part of what is known as '''HUKLANDIA'''.<ref>Edward J. Mitchell. “Some Econometrics of the Huk Rebellion,” ''The American Political Science Review'', volume 63, number 4 (December 1969), p. 1159</ref>
+*Armed rebellion among the peasants of Talavera continued, owing to unfair land practices.<ref>Kerkvliet 2002, p. 209</ref><ref>“Huks Kill Twenty-One in Outbreak on Luzon,” ''The Corpus Christi Caller-Times'', (Saturday, February 10, 1951), p. 12.</ref>
+*Some barrios of Talavera namely General Luna, Morcon, Mabini, Ricarte, Casili and Picon, along with Plaridel and Bosque, were annexed to Llanera in 1955.<ref>{{cite web|url=http://lawph.com/statutes/ra1221-creating-the-municipality-of-llanera,-nueva-ecija.html|title=An Act to Create the Municipality of Llanera in the Province of Nueva Ecija|publisher=LawPH.com|accessdate=2011-04-11}}</ref>
+*Infrastructure projects were implemented covering key impact areas like road development, barangay government centers, greening of the municipal plaza, puericulture centers and schools.
+*Rise of women revolutionaries in Talavera, with Manuela Sta. Ana Maclang – the first woman to be elected into the Sangguniang Bayan in 1955.
+*Massive campaigns for peace and order in the latter part of the 1970s were carried out in Talavera.
+
+'''1972 – 1986: The Narrow Road to Freedom'''
+
+*The whole country was placed under martial rule “including all agencies of government and its various instrumentalities”.<ref>Proclamation No. 1081, s. 1972</ref>
+*Institutionalized curfew hours were imposed in Talavera.
+*Establishment of Barangay Assemblies in the whole of Talavera.
+*Creation of the Integrated Civilian Home Defense Forces.
+*Promotion of health and education services through various infrastructure support to health and education programs.
+*Construction of the Talavera Extension Hospital during the term of '''Mayor Marcelo D. Diaz'''.<ref>Batas Pambansa Bilang 396</ref>
+*Conversion of various barangay High Schools into National High Schools.<ref>Batas Pambansa Bilang 631</ref><ref>Republic Act No. 6169</ref>
+*Maintenance of peace and order as well as public safety through the barangay assemblies.
+
+'''1987 – 2013: Laying the Foundations'''
+
+*Return to democracy after years of martial rule through the Interim Local Government ¬– year of greater aspiration and renewal.
+*Talavera experienced a government re-organization through the provisional constitution.
+*There was massive promotion of civil liberties through human rights education<ref>DO 61, series of 1987</ref>
+*Talavera was re-classified as a First-Class Municipality in 2001 under the leadership of '''Mayor Manolito V. Fausto'''.
+*Expansion of Social Programs (HS in Sibul and Tabacao, Barrio Markets in San Pascual, San Ricardo, Tabacao, Socialized Housing Projects and other rehabilitation efforts, including fiscal deepening).
+*Talavera bore witness to an age of reform through various projects in key decision areas like health, education, social welfare and infrastructure services.
+*Establishment of the flagship college of the Municipality – the NEUST-MGT, whose acknowledged founding father was '''Mayor Nerito L. Santos, Sr.'''
+*Renovations and constructions of the Public Library, SPED Building, Botika ng Bayan, Health Centers and Greening Program.
+
+'''2013 – present: The Way Forward'''
+
+*Beginning of a paradigm shift in Talavera’s political consciousness, after a century of male dominated leadership.
+*Elected the first woman mayor of Talavera in the person of '''Mayor Nerivi S. Martinez'''.
+*Continuing reforms and innovations in major decision areas in health, education, social welfare, environment and infrastructure.
+*Establishment of various critical facilities like Talavera Dialysis Center, Balay Silangan Reformation Center, Food Bank and Bakery ng Bayan.
+*Key innovations in health programs through Nutri-Wheel and Gulayan sa Barangay.
+*Integration of modernized agriculture and urban growth and development into the local institutional framework through farmers’ forum, convened under the leadership of '''Mayor Nerito S. Santos, Jr.'''
+*Enhanced and wider accessibility in well-being domains through expanded social protection programs.
+*Integration of disaster risk reduction and climate change adaptation into the local institutional framework through urban resilience and development.
+*Serious fiscal deepening.
+*Partnership with the University of the Philippines-Diliman, through the College of Architecture for the conceptualization and design of its proposed Civic Center.
+
+==Geography==
+Talavera is relatively flat, with a slope ranging from 0 to 3%. Its elevation, which ranges from 31m to 61m above sea level, with an average elevation of 42m, is importantly suitable for agricultural, commercial and industrial developments. Its aggregate arable land amounts to 12, 6981 ha or 89.075% of its total land area, of which less than 70% is irrigated or cultivated. Its land form consists generally of a broad expanse of low-lying level plains, with flattened terrains covered usually with greens or grasslands. The land profile is completely leveled, with relatively smooth-rolling surface and with little or no change at all in elevation.
+
+It is bordered by [[Cabanatuan]], [[Llanera, Nueva Ecija|Llanera]], [[Muñoz, Nueva Ecija|Muñoz]], [[Aliaga, Nueva Ecija|Aliaga]], [[General Mamerto Natividad, Nueva Ecija|General Mamerto Natividad]], [[Santo Domingo, Nueva Ecija|Santo Domingo]] and [[San Jose, Nueva Ecija|San Jose]].
+
+Talavera is {{convert|14|km}} from [[Cabanatuan]], {{convert|28|km}} from [[Palayan]], and {{convert|130|km}} from [[Manila]].
+
+===Barangays===
+Talavera is politically subdivided into 53 [[barangay]]s. Each barangay consists of [[purok]]s and some have [[sitios]].
+
+Barangays in ''italicized'' are truly exclaved within Muñoz. 
+{{Div col|colwidth=15em}}
+* Andal Aliño
+* Bagong Sikat
+* Bagong Silang
+* ''Bacal I''
+* ''Bacal II''
+* ''Bacal III''
+* Baluga
+* Bantug
+* Bantug Hacienda
+* Basang Hamog
+* Bugtong na Buli
+* Bulac
+* Burnay
+* Calipahan
+* Campos
+* Casulucan Este
+* Collado
+* Dimasalang Norte
+* Dimasalang Sur
+* Dinarayat
+* Esguerra District
+* Gulod
+* Homestead I
+* Homestead II
+* Cabubulaunan
+* Caaniplahan
+* Caputican
+* Kinalanguyan
+* La Torre
+* Lomboy
+* Mabuhay
+* Maestrang Kikay ([[Poblacion]])
+* Mamandil
+* Marcos District ([[Poblacion]])
+* Matias District ([[Poblacion]])
+* ''Matingkis''
+* Minabuyoc
+* Pag-asa District ([[Poblacion]])
+* Paludpod
+* Pantoc Bulac
+* Pinagpanaan
+* Poblacion Sur ([[Poblacion]])
+* Pula
+* Pulong San Miguel
+* Sampaloc
+* San Miguel na Munti
+* San Pascual
+* San Ricardo
+* Sibul
+* Sicsican Matanda
+* Tabacao
+* Tagaytay
+* Valle
+{{div col end}}
+
+===Dispute with Science City of Muñoz===
+ 
+While Talavera was undergoing significant fiscal deepening from 1996 to 1999, it entered into a seemingly intractable territorial conflict with the newly chartered special city of Muñoz, then, under the leadership of Mayor Efren L. Alvarez, over claims involving the Barangays of Bakal I, Bakal II, Bakal III and Matingkis. The latter claimed that these barangays were “replete with facts” that they once belonged to the Science City of Muñoz and as such must be annexed as its component barangays. <ref>See Mayor Efren L. Alvares, "Correspondence to Mayor Lito V. Fausto", June 27, 2001</ref> The latter further characterized that these barangays were like “uncommon arrows”, being part of the territorial boundary of Talavera, piercing the “belly of development” of the Science City of Muñoz.
+
+Owing to this territorial dispute, the Local Government of Talavera was compelled to act to protect its territorial integrity and its sovereignty over these disputed areas.<ref>Mayor Lito V. Fausto, "Correspondence to Mayor Efren L. Alvares", September 17, 2001</ref> It passed several resolutions, affirming firmly, its sovereignty over these barangays, thereby outrightly invalidating the former’s claims over them as said barangays were annexed to Talavera as early as 1910 through Executive Order No. 39, series of 1909. In October 1998 for example, the local government of Talavera, through its Sangguniang Bayan, issued a resolution blatantly disapproving the former’s claim over the disputed barangays.<ref>SB Resolution No. 127-98, series of 1998</ref> At the same time, Barangay Resolutions from these disputed areas were issued in October 1998 as well, expressing generally, the residents’ disapproval to the annexation claims.<ref>Barangay Bakal II Resolution No. 43-98, series of 1998</ref><ref>Barangay Baka III Resolution No. 036-98, series of 1998</ref><ref>Barangay Matingkis Resolution No. 08-98, series of 1998</ref>
+
+By February 1999, the LGU of Talavera created the “Task Force Bacal District” to address this highly tenacious concern, elevating it, in fact, to Congress for possible arbitration.<ref>See SB Resolution No. 40-99, series of 1999</ref> In March 1999, the LGU Talavera submitted to some members of Congress pertinent documents relevant to address, if not totally resolve, the problem.<ref>See Mayor Lito V. Fausto's letter to the Senate President Franklin Drillon dated September 17, 2001</ref> By the end of March 1999, because of the interventions  of some members of both Houses, and through the collective efforts of the residents of Talavera and its officials, under the leadership of then Mayor Manolito V. Fausto, the “annexation claims” were nullified vindicating, as a result, Talavera’s territorial jurisdiction and integrity. In a significant way, it was a triumphant moment for Talavera. At the same time, it was a meritorious and legitimate exercise of its sovereign powers to protect its territorial integrity as a local government unit against then rising Science City of Muñoz.
+
+===Climate===
+{{Weather box
+| location     = Talavera, Nueva Ecija
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 29
+| Jan low C  = 19
+| Feb high C = 30
+| Feb low C  = 19
+| Mar high C = 32
+| Mar low C  = 20
+| Apr high C = 34
+| Apr low C  = 22
+| May high C = 33
+| May low C  = 24
+| Jun high C = 31
+| Jun low C  = 24
+| Jul high C = 30
+| Jul low C  = 24
+| Aug high C = 29
+| Aug low C  = 24
+| Sep high C = 29
+| Sep low C  = 23
+| Oct high C = 30
+| Oct low C  = 22
+| Nov high C = 30
+| Nov low C  = 21
+| Dec high C = 29
+| Dec low C  = 20
+| Jan precipitation mm = 4
+| Feb precipitation mm = 6
+| Mar precipitation mm = 7
+| Apr precipitation mm = 12
+| May precipitation mm = 61
+| Jun precipitation mm = 89
+| Jul precipitation mm = 96
+| Aug precipitation mm = 99
+| Sep precipitation mm = 81
+| Oct precipitation mm = 88
+| Nov precipitation mm = 37
+| Dec precipitation mm = 13
+| Jan rain days        = 2.5
+| Feb rain days        = 3.0
+| Mar rain days        = 4.1
+| Apr rain days        = 6.3
+| May rain days        = 15.8
+| Jun rain days        = 19.4
+| Jul rain days        = 22.5
+| Aug rain days        = 21.6
+| Sep rain days        = 20.1
+| Oct rain days        = 17.5
+| Nov rain days        = 9.6
+| Dec rain days        = 4.0
+| source 1 = Meteoblue<ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/talavera_philippines_1684016
+| title =  Talavera: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| accessdate = 4 May 2020 }}</ref>
+| date = 4 May 2020
+}}
+{{clear left}}
+
+==Demographics==
+{{Philippine Census
+| align = left
+| cols = 2
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2020}}{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+===Religion===
+[[File:Talavera,NuevaEcijajf9520_12.JPG|thumb|right| St. Isidore the Worker Parish]]
+'''8 out 10 individuals in Talavera are catholic'''. Roman Catholicism remains one of the most dominant religious affiliations in Talavera, embracing an outstanding 85.59% of its total household population. The religious group Iglesia Ni Cristo comes in second, with a little less than 6 percent of its total household population. Other religious affiliations, roughly around seventy-nine (79) accounted for 8.44% of the total population, with IEMELIEF, as its leading religious affiliation, at 1.12%.
+
+Interestingly, although Talavera is home to a number of religious organizations, 0.2% of its households possess no religion or consider themselves atheists.<ref>CBMS,2022</ref>
+
+{{clear left}}
+
+===Cultural Community and Language===
+
+{{Bar chart
+| float = left
+| title       = Cultural Community and Language (CBMS,2022)
+| label_type  = Cultural Community
+| data_type   = Population
+| bar_width   = 15
+| width_units = em
+| data_max    = 300000
+| label1   = Tagalog
+| data1    = 119,669
+| label2   = Ilocano
+| data2    = 2,830
+| label3   = Bisaya/Binisaya
+| data3    = 785
+| label4   = Bikol/Bicol
+| data4    = 206
+| label5   = Kapampangan
+| data5    = 189
+| label6   = Maranao
+| data6    = 143
+| label7   = Waray
+| data7    = 100
+| label8   = Pangasinan/Panggalatok
+| data8    = 94
+| label9   = Hiligaynon,Ilonggo
+| data9    = 84
+| label10  = Cebuano
+| data10   = 57
+| label11  = Others
+| data11   = 118
+}}
+
+'''9 out of 10 individuals in Talavera were Tagalog'''. A significantly huge majority of Talavera’s households identified themselves as belonging to the Tagalog Cultural Community, accounted at 96.29% of its total population. Other cultural communities and language in Talavera included Ilocano(2.28%), Bisaya (0.63%) and many others.
+
+== Economy ==
+{{PH poverty incidence}}
+[[File:TalaveraHalljf9835 01.JPG|thumb|right|Market Road and stores]]
+Talavera is one of the fastest growing municipalities in the province and proposals have been planned for cityhood. Given its robust economic growth, Talavera enjoys annual progress and wealth. The town's revenue-generated income as of 2017 is {{Philippine peso|298,361,401.93|link=yes}} and with over 124,829 inhabitants, the town meets the requirements for cityhood.<ref>{{Cite web|url=https://www.coa.gov.ph/index.php/local-government-units/2017/category/6830-region-iii?start=20|title=Annual Audit Report|website=Commission on Audit|access-date=19 October 2018}}</ref> In July 2019, Congresswoman Estrellita B. Suansing has filed House Bill No. 184, regarding the cityhood of Talavera.<ref name="hb194">{{Cite PH act|chamber=HB|number=194|title=AN ACT CONVERTING THE MUNICIPALITY OF TALAVERA, PROVINCE OF NUEVA ECIJA INTO A COMPONENT CITY TO BE KNOWN AS THE CITY OF TALAVERA|url=https://hrep-website.s3.ap-southeast-1.amazonaws.com/legisdocs/basic_18/HB00194.pdf|date=July 1, 2019|access-date=January 13, 2022}}</ref> It was later filed in the Senate in February 2021.<ref name="sb2040">{{Cite PH act|chamber=SB|number=2040|date=February 8, 2021|title=AN ACT CONVERTING THE MUNICIPALITY OF TALAVERA, PROVINCE OF NUEVA ECIJA INTO A COMPONENT CITY TO BE KNOWN AS THE CITY OF TALAVERA|url=http://legacy.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2040|access-date=September 1, 2021}}</ref> Both bills are currently pending.
+
+According to the [[National Competitiveness Council (Philippines)|National Competitiveness Council]] in Cities/Municipalities Competitiveness Index, during the past years, Talavera maintained their rankings as one of the most competitive municipalities in the Philippines.
+
+'''THE LOCAL ECONOMY'''
+
+Talavera’s local economic activities are highly associated with the secondary sector. In other words, its primary economic base is dominated by personnel services. Its primary and tertiary economic sectors, although importantly thriving, still require further boost in investment. Economic productions in these areas, though, are more than sufficient to fuel Talavera’s local economic growth. In fact, its contributions to Talavera’s gross domestic products keep Talavera afloat. Similarly, the mobility of its combined labor force constitutes a solid employment structure for Talavera, despite some rare cases of unemployment.
+
+'''''The Primary Sector:'''''
+''Agricultural Crops and Croplands''
+
+For Talavera, agriculture is generally viewed as an engine of development. Some studies for example report that it is an “important material base for all economies” as it produces “indispensable necessities of human life and important industrial material”.<ref>World Association for Political Economy. "Globalization, Employment and Agriculture: A Statement of the Eleventh Forum for World Association for Political Economy," ''World Review of Political Economy'', Volume 7, Number 4 (Winter, 2016)</ref> This includes, ''inter alia'', contributions like “release of labor from non-farm employment”, “increased supply of food and fiber”, “production of export surplus” as well as “generation of savings for both rural and urban areas”.<ref>{{Johnson, D. Gale. "Role of agriculture in Economic development revisited." ''Agricultural Economics'', Volume 8 (1993), p. 429</ref>
+
+Talavera's inbred rice production from 2015 to 2021 preserves an average rice production of 42,048.14 metric tons in wet seasons, while it averages 26,580.37 metric tons in dry seasons. Its lowest production has been estimated at 31,894.40 metric tons in 2015 and it  highest production has been posted in 2020, with an annual production of 54,292.99 metric tons. On the whole, inbred rice production shows moderately increasing trend.
+
+Hybrid rice production, meanwhile, has been observed to gain currency among farmers in Talavera. In Fact, from 2015 to 2022, its average production has been estimated at 46,617.79 metric tons during the dry season. Its  low productions average though has been observed in the wet seasons, estimated at 4,037.63 metric tons per harvest from 2015 - 2022. Nevertheless, in both wet and dry seasons, hybrid rice production post significantly increasing trends.
+
+''Vegetable Crop Production''
+
+Vegetable production in Talavera is relatively abundant. It produces a variety of vegetables yearly. Common productions include vegetable crops like tomatoes, loofah, gourd and okra.
+
+Other produced vegetable crops are squash, eggplant, cucumber, onion and corn. In 2022 for example, there has been an ample production of onion, estimated at 3,919.00 metric tons and some 3,234.76 metric tons of squash.
+
+Some families of legumes are also produced like winged bean, string beans and chilli Taiwan.
+
+''Livestock and Poultry Productions''
+
+There are five (5) distinct kinds of livestock raised in holdings or in backyard farms in Talavera. Included here are carabao, swine or hog, goat, cattle and sheep. Carabao and goat however are the most dominant heads. Poultry raising production is also evident in Talavera. The most dominant heads are chicken and duck.
+
+'''THE SECONDARY SECTOR'''
+
+The Secondary Economic Sector is composed generally of the manufacturing industry, Electricity, Gas and Water Services, and Construction Services. To date, Talavera has a total of 179 registered firms under the secondary economic sector. While relatively stable, the sector lacks the pertinent competitive advantage. For one thing, most of its establishments are light industries. For another thing, its access to financial assistance or grant-in aids is relatively limited. Finally, Talavera’s secondary sector is yet to fully develop a highly competitive product that can be comparatively advantageous. Nonetheless, the sector remains stable.
+
+'''THE TERTIARY SECTOR'''
+
+Talavera’s tertiary sector rose by 20.72% in 2022. Registered business firms under the tertiary sector in 2022 are accounted at 1,375. It rose by 20.72%, from 1,139 to 1,375. More than half of these firms, 58.76%, are wholesale and retail industries.
+
+{{clear left}}
+
+== Tourism ==
+Unlike other municipalities in the country, Talavera is not generally endowed with naturally picturesque spots to support its local tourism development, except its low-lying and completely levelled agricultural spaces that are essentially covered with greens. Nonetheless, Talavera has a number of importantly recognized cultural landmarks. They are as follows:  
+* Diocesan Shrine of St. Isidore the Worker 
+* Sicsican Bridge (declared as a ''cultural property'' in 2020)
+* Gabaldon Building (Recognized as a built heritage in February, 2019)
+* Rizal Monument (Built between 1922 and 1930)
+* Tal-Acacia Tree (Declared as a ''Cultural Property'' in 2020)
+
+==Festival==
+Talavera, similarly, has a good number of culturally significant religious and social Festivities, aside from the aforementioned cultural properties. Included here are as follows:
+
+'''Linggo ng Magsasaka'''
+The Linggo ng Magsasaka is a week-long celebration held in honor of Talaverano Farmers. It culminates on the 15th day of May - the Town Fiesta. Highlights of the celebration generally include Cultural Dance Competition, Harana, Gandang Kalabaw, Float Parade, Street Dance and Kesong Puti Festival.
+
+'''Gatas ng Kalabaw'''
+''Gatas ng Kalabaw Festival'' is celebrated annually from May 12 to 15. It culminates in the celebration of the Town Fiesta, whose patron saint is [[Isidore the Laborer|Saint Isidore the Worker]]. The festival aims to actively encourage, promote and enhance carabao's milk as a nutrition and livelihood industry. Highlights of the festival are street dancing, followed by float parade, parade of carabaos, carabao race, agri-trade fair, milk drinking contest and ice cream making competition among others.<ref>{{Cite web|url=http://www.visitmyphilippines.com/index.php?title=Nueva-Ecija&func=all&pid=4490|title=The Ultimate travel guide for tourist|website=Department of Tourism|access-date=19 October 2018}}</ref>
+
+'''Semana Santa'''
+During [[Holy Week]], the members of the church (San Isidro Labrador Parish Church) commemorate [[Jesus]]' [[Paschal mystery]]. The church even has a community where each member owns a religious image called the ''Cofradia de la Sagrada Pasion del Nuestro Señor.'' Every Holy Wednesdays and [[Good Friday]]s, the members of the ''Cofradia'' place the images of their saints in ''carozzas'' or ''karo'' and exhibits it for the townspeople to witness thru a procession.
+
+==Transportation==
+
+There are {{convert|24.77|km}} of national roads, including the {{convert|16.93|km|sp=us|adj=on}} section of [[Pan-Philippine Highway|Maharlika Highway]] (Asian Highway 26) that passes through the municipality. Due to its central location, Talavera is one of the pivotal transport points in Central Luzon.
+
+Talavera is accessible by all means of land transportation. Regular [[jeepney]] trips are from 5:00 am to 9:00 pm. [[Motorized tricycle (Philippines)|Tricycles]] are available 24 hours a day. Several bus companies also use the Talavera route from [[Cagayan Valley]] and [[Aurora (province)|Aurora]] to Manila, Cabanatuan, [[San Jose, Nueva Ecija|San Jose City]], [[Baguio]] and other destinations.
+
+==Healthcare==
+[[File:Bulacan,Talavera,NueveEcijajf9460 09.JPG|thumb|Talavera General Hospital]]
+Talavera's populace is served by Talavera General Hospital, a national government-funded hospital formerly known as Dr. Paulino J. Garcia Memorial Hospital - Talavera Extension Program. Medical and dental clinics also serve the municipality.
+
+==Education==
+Talavera is served by both public and [[Department of Education (Philippines)|Department of Education]]-accredited private schools. The largest elementary school is Talavera Central School, also known as Central, which is situated at the town proper. The largest secondary educational institution is Talavera National High School, colloquially knows as TNHS.
+
+University and colleges:
+*[[Nueva Ecija University of Science and Technology]] – Talavera Academic Extension Campus
+*REH Montessori College
+*St. Elizabeth Global College
+*New Horizon Academy
+
+==Gallery==
+<gallery widths=200 heights=150>
+File:Talaverajf346.JPG|Ricefields
+File:Gymnasiumjf.JPG|Governor Umali covered courts, gymnasium
+File:09785jfBaluga Schools Welcome Maestrang Kikay Talavera Ecijafvf 01.JPG|Maestrang Kikay Barangay Hall
+File:Talavera, Nueva Ecija9597 20.JPG|Himnasyo ng Bagong Talavera ({{translation|Gymnasium of New Talavera|literal=yes}})
+</gallery>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+*[https://web.archive.org/web/20131004104825/http://census.gov.ph/ Philippine Census Information]
+*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=5&frmIdProvince=29&frmIdLgu=551 Local Governance Performance Management System] {{Webarchive|url=https://web.archive.org/web/20160304072820/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=5&frmIdProvince=29&frmIdLgu=551 |date=2016-03-04 }}
+
+{{Geographic location
+|Centre    = Talavera
+|North     = [[Muñoz, Nueva Ecija|Science City of Muñoz]]
+|Northeast = [[San Jose, Nueva Ecija|San Jose]]
+|East      = [[Llanera, Nueva Ecija|Llanera]]<br>[[General Mamerto Natividad, Nueva Ecija|Gen. Mamerto Natividad]]
+|South     = [[Cabanatuan]]
+|Southwest = [[Aliaga, Nueva Ecija|Aliaga]]
+|West      = [[Santo Domingo, Nueva Ecija|Santo Domingo]]
+}}
+{{Nueva Ecija}}
+{{Authority control}}
+
+[[Category:Municipalities of Nueva Ecija]]

@@ -1,0 +1,467 @@
+{{Use dmy dates|date=September 2022}}
+{{hatnote|For places in Iran, see [[Shiyan, Iran (disambiguation)]]. Not to be confused with [[Xi'an]], the capital of Shaanxi or [[Shiyan (satellite)|Shiyan satellites]].}}
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = Shiyan
+|official_name          = 
+|other_name             = Shih-yen
+|native_name            = 十堰市
+|native_name_lang = zh
+|nickname               = 
+|settlement_type        = [[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 20140703 Shiyan Railway Station.jpg
+|imagesize              = 270px
+|image_caption          = Shiyan Railway Station in July 2014
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = Location of Shiyan Prefecture within Hubei (China).png
+|mapsize                =  
+|map_caption            = Location of Shiyan City jurisdiction in Hubei
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Hubei
+|pushpin_label_position = 
+|pushpin_map_caption    = Location of the city centre in Hubei
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = People's Republic of China
+|subdivision_type1      = [[Province of China|Province]]
+|subdivision_name1      = [[Hubei]]
+|subdivision_type2      = [[Administrative divisions of the People's Republic of China#County level|County-level divisions]]
+|subdivision_name2      = 8
+|seat_type              = Municipal seat
+|seat                   =[[Maojian District]]
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = CPC Secretary 
+|leader_name            =Chen Tianhui ({{lang|zh-hans|陈天会}})
+|leader_title1          = Mayor
+|leader_name1           = Zhang Siyi ({{lang|zh-hans|张嗣义}})
+|leader_title2          =
+|leader_name2           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink --> 
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_total_km2           = 23680 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox settlement for details on unit conversion-->
+|area_water_km2           =
+|area_metro_km2           = 11932 
+| area_urban_km2          = 410.50
+| area_urban_footnotes    = &nbsp;(2017)<ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=66 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020 |archive-date=18 June 2019 |archive-url=https://web.archive.org/web/20190618043019/http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |url-status=dead }}</ref>
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_max_m            =  1640
+|elevation_min_m            = 
+<!-- Population   ----------------------->
+|population_as_of               =2020 census
+|population_footnotes           =<ref>{{Cite web|url=http://www.citypopulation.de/php/china-hubei-admin.php|title=China: Húbĕi (Prefectures, Cities, Districts and Counties) – Population Statistics, Charts and Map}}</ref>
+|population_note                =
+|population_total               = 3209004
+|population_density_km2         =auto<!--For automatic calculation, any density field may contain: auto -->
+
+| population_urban        = 1428629
+| population_metro        = 1033407
+| population_urban_footnotes =
+|population_density_urban_km2  =auto
+|population_density_metro_km2  =auto
+| demographics_type2   = GDP<ref>{{cite book|author=湖北省统计局、国家统计局湖北调查总队|title=《湖北统计年鉴－2016》|date=August 2016 |publisher=中国统计出版社|isbn=978-7-5037-7847-6|url=http://www.stats-hb.gov.cn/info/iIndex.jsp?cat_id=10055|access-date=2017-06-05|archive-date=2017-03-01|archive-url=https://web.archive.org/web/20170301095326/http://www.stats-hb.gov.cn/info/iIndex.jsp?cat_id=10055|url-status=dead}}</ref>
+| demographics2_title1 = [[Prefecture-level city]] 
+| demographics2_info1 = [[Renminbi|CN¥]] 130.0&nbsp;billion<br />[[US$]] 20.9&nbsp;billion
+| demographics2_title2 = Per capita
+| demographics2_info2 = CN¥ 38,490<br />US$ 6,180
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coor_pinpoint = Shiyan municipal government
+|coordinates            = {{coord|32.6290|N|110.7987|E|format=dms|type:adm2nd_region:CN-42_source:Gaode|display=it}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Postal code of China|Postal code]]
+|postal_code            =	442000
+(Urban center)
+442100-442300, 442500-442700
+(Other areas)
+|area_code              = 719
+|iso_code = [[ISO 3166-2:CN|CN-HB-03]]
+|blank_name             =<!-- GDP -->
+|blank_info             = 
+|blank1_name            =<!-- GDP per capita -->
+|blank1_info            =
+|blank2_name            = [[Licence plates of the People's Republic of China|License Plate]]
+|blank2_info            = {{lang|zh-cn|鄂C}}  
+|blank3_name            =<!-- Major [[Nationalities of China|Nationalities]] -->
+|blank3_info            =
+|website                = 
+|footnotes              = 	Camphor Laurel
+Cinnamomum camphora L. Sieb.
+Southern magnolia
+Magnolia grandiflora L.Blossom of pomegranate
+Punica granatum L.
+Chinese Rose
+Rosa chinensis
+}} 
+'''Shiyan''' ({{zh|s=十堰 |p=Shíyàn}}) is a [[prefecture-level city]] in northwestern [[Hubei]], China, bordering [[Henan]] to the northeast, [[Chongqing]] to the southwest, and [[Shaanxi]] to the north and west. At the 2020 census, its population was 3,209,004 of whom 1,033,407 lived in the built-up (or metro) area made of 2 urban districts of Maojian and Zhangwan on {{convert|1193|km2|sqmi|abbr=off}} as Yunyang is not conurbated. In 2007, the city was named among China's top ten livable cities by Chinese Cities Brand Value Report, which was released at 2007 Beijing Summit of China Cities Forum.<ref>{{cite web|title=China's Top 10 Most Livable Cities|url=http://eng.hnloudi.gov.cn/engld%5Caboutloudi/Loudicity/Loudihonor/2011/1_327/default.shtml|website=hnloudi.gov.cn|publisher=Hunan Loudi Official Government|date=28 March 2012|access-date=2014-08-04|url-status=dead|archive-url=https://archive.today/20130410050946/http://eng.hnloudi.gov.cn/engld%5Caboutloudi/Loudicity/Loudihonor/2011/1_327/default.shtml|archive-date=2013-04-10}}</ref>
+
+== History ==
+Shiyan was first mentioned by its current name in 1484. After the establishment of the PRC, Shiyan was part of Yun County (nowadays [[Yunyang District]]).<ref name=":5">{{Cite web|title=历史沿革 – 历史沿革 – 十堰市委市政府门户网站|url=http://www.shiyan.gov.cn/zjsy/sygk/lsyg/202006/t20200612_2061338.shtml|access-date=2022-02-15|website=www.shiyan.gov.cn}}</ref>
+
+From the 1930s through the 1950s, Shiyan was heavily impacted by frequent flooding along the [[Han River (Hubei and Shaanxi)|Han River]].<ref name=":6">{{Cite journal |last1=Yan |first1=Dengcai |last2=Shi |first2=Guoqing |last3=Hu |first3=Zijiang |last4=Wang |first4=Haibao |date=2017-07-04 |title=Resettlement for the Danjiangkou Dam heightening project in China: planning, implementation and effects |url=https://www.tandfonline.com/doi/full/10.1080/07900627.2016.1216829 |journal=International Journal of Water Resources Development |language=en |volume=33 |issue=4 |pages=609–627 |doi=10.1080/07900627.2016.1216829 |bibcode=2017IJWRD..33..609Y |s2cid=157729775 |issn=0790-0627}}</ref>{{Rp|page=3}} In response to these floods, the government established the Danjiangkou Water Conservancy Project in 1958, a project to [[Flood control|prevent flooding]] along the Han River, supply water for [[irrigation]], and to generate [[hydroelectricity]] on the river.<ref name=":6" />{{Rp|page=3}} As part of the project, the [[Danjiangkou Dam]] was built from 1958 to 1974, creating the [[Danjiangkou Reservoir]]. As part of this project, the central government had to relocate 382,000 people during the construction period.<ref name=":6" />{{Rp|page=3}}
+
+Shiyan was developed as part of the [[Third Front (China)|Third Front construction]].<ref name=":9">{{Cite book |last1=Marquis |first1=Christopher |url= |title=Mao and Markets: The Communist Roots of Chinese Enterprise |last2=Qiao |first2=Kunyuan |date=2022 |publisher=[[Yale University Press]] |isbn=978-0-300-26883-6 |location=New Haven |doi=10.2307/j.ctv3006z6k |jstor=j.ctv3006z6k |oclc=1348572572 |author-link=Christopher Marquis |s2cid=253067190}}</ref>{{Rp|page=183}} During the 1960s, [[Mao Zedong]] and other government officials, fearing upheaval and invasion, sought to establish industry in more remote locations.<ref name=":0">{{Cite web|last=Abrams|first=Jim|date=5 August 1990|title=Detroit of China Surrounded by Backwater of Poverty : Asia: The arrival of the 20th Century proves to be a blessing only for some.|url=https://www.latimes.com/archives/la-xpm-1990-08-05-mn-96-story.html|url-status=live|archive-url=https://web.archive.org/web/20200608174550/https://www.latimes.com/archives/la-xpm-1990-08-05-mn-96-story.html|archive-date=2020-06-08|access-date=2020-06-08|website=Los Angeles Times|language=en-US}}</ref> Shiyan, located in a portion of northwest Hubei then known for its poverty, was then a small village comprising a few hundred households.<ref name=":0" /><ref name=":1">{{Cite web|last=Tang|first=Frank|date=15 November 2018|title=State carmaker in China's Motown shifts gear to keep up with market|url=https://www.scmp.com/economy/china-economy/article/2173334/chinas-motown-dongfeng-motor-epitomises-how-state-ownership|url-status=live|archive-url=https://web.archive.org/web/20200522185930/https://www.scmp.com/economy/china-economy/article/2173334/chinas-motown-dongfeng-motor-epitomises-how-state-ownership|archive-date=2020-05-22|access-date=2020-06-08|website=South China Morning Post|language=en}}</ref> In 1967, teams of workers and engineers were first sent to Shiyan to survey sites for automotive plants and factories (Second Automobile Works, predecessor of [[Dongfeng Motor Corporation]]).<ref>{{Cite web|last=Tang|first=Frank|date=15 November 2018|title=历史沿革|url=https://www.scmp.com/economy/china-economy/article/2173334/chinas-motown-dongfeng-motor-epitomises-how-state-ownership|access-date=2021-07-31|website=十堰人民政府 Post|language=zh-hans}}</ref> In 1969, Shiyan City was established. By order of Mao in 1969, truck production in Shiyan commenced.<ref name=":0" /> Approximately 25,000 construction workers were sent to Shiyan during this time to equip the city with the infrastructure necessary for such project.<ref name=":1" />
+
+In subsequent decades, the city experienced great economic growth due to these facilities, which employed nearly 200,000 workers.<ref name=":0" /><ref name=":1" /> At one point Shiyan had the second-highest living standard in China, second only to [[Shenzhen]], thanks to the success of Dongfeng trucks.<ref name=":12">{{Cite web |date=2010-12-14 |title=EQ140：让二汽起死回生的民用车——记二汽首款军转民产品研发历程 |url=http://home.dongfeng.net/news.asp?act=content&channelid=18&id=86 |url-status=dead |archive-url=https://web.archive.org/web/20111004112651/http://home.dongfeng.net/news.asp?act=content&channelid=18&id=86 |archive-date=2011-10-04}}</ref> From the 1980s to the 1990s, Shiyan many small enterprises founded by former employees of the Second Automobile Works emerged.<ref name=":9" />{{Rp|page=183}} 
+
+By the early 1990s, Shiyan was increasingly bypassed for new automotive ventures, which were generally located in larger cities with better transport links, although it remained the most prosperous city of Hubei.<ref name=":5" /><ref name=":0" /> In 2003, [[Dongfeng Motor Corporation|Dongfeng Motors]] relocated its main passenger car plant to [[Wuhan]], resulting in population decline within Shiyan.<ref name=":1" />
+
+In 2008, work on local portions of the [[South–North Water Transfer Project|South to North Water Transfer Project]], the largest water transfer project in world history, began.<ref name=":6" />{{Rp|page=3}} The project's Middle Route heightened the Danjiangkou Dam and enlarged the Danjiangkou Reservoir to increase water supplies to northern Chinese cities, such as [[Beijing]] and [[Tianjin]].<ref name=":6" />{{Rp|page=3}}  A new canal in the area to transfer the water north was completed in 2014.<ref name=":6" />{{Rp|page=3}} The central government relocated 317,200 people throughout [[Henan]] and [[Hebei]], including many in [[Danjiangkou]], a [[county-level city]] in Shiyan, for the creation of this project.<ref name=":6" />{{Rp|page=4}}
+
+==Geography==
+
+The far northern and southern reaches of Shiyan are the highest in elevation, while the geographic center of the city has a relatively low elevation.<ref name=":7">{{Cite journal |last1=Li |first1=Mengyao |last2=Zhou |first2=Yong |last3=Xiao |first3=Pengnan |last4=Tian |first4=Yang |last5=Huang |first5=He |last6=Xiao |first6=Liang |date=2021-08-16 |title=Evolution of Habitat Quality and Its Topographic Gradient Effect in Northwest Hubei Province from 2000 to 2020 Based on the InVEST Model |journal=[[Land (journal)|Land]] |language=en |volume=10 |issue=8 |pages=857 |doi=10.3390/land10080857 |issn=2073-445X|doi-access=free }}</ref>{{Rp|page=3}} The highest point in Shiyan is Congping in [[Zhuxi County]], at {{Convert|2740.2|m|ft}} above sea level, while the lowest point, Panjiayan in [[Danjiangkou]], is {{Convert|87|m|ft}} above sea level.<ref name=":7" />{{Rp|page=3}} Hills and mountains in Shiyan generally have steep inclines, and many of its rivers have steep drops and rapid water flows.<ref name=":7" />{{Rp|page=3}} Major rivers in Shiyan include the [[Du River]] and the [[Han River (Hubei and Shaanxi)|Han River]].<ref name=":2">{{Cite web |date=1 October 2020 |title= |script-title=zh:十堰统计年鉴-2020 |trans-title=Shiyan Statistical Yearbook-2020 |url=http://tjj.hubei.gov.cn/tjsj/sjkscx/tjnj/gsztj/sys/202101/P020210112435393051842.pdf |url-status=live |archive-url=https://web.archive.org/web/20210926013207/http://tjj.hubei.gov.cn/tjsj/sjkscx/tjnj/gsztj/sys/202101/P020210112435393051842.pdf |archive-date=2021-09-26 |access-date=2021-09-25 |website=tjj.hubei.gov.cn |publisher=Hubei Provincial Statistics Bureau |language=zh}}</ref>{{Rp|page=314}} The [[Wudang Mountains]] run east-west through Shiyan.<ref name=":1" /> The peak commonly referred to as "Wudang Mountain", or in Mandarin Wudangshan, is one of the most important cultural centres of the [[Taoism|Taoist faith]].{{Citation needed|date=June 2020}} The surrounding areas are dotted with up to 200 Taoist monastic temples and religious sites.{{Citation needed|date=June 2020}}
+
+Shiyan is largely [[Forest|forested]], and woodlands comprise 74.37% of its total area as of 2020.<ref name=":7" />{{Rp|page=9}}
+
+Shiyan's total area is subject to major change as part of the [[South–North Water Transfer Project|South to North water diversion project]] of the Han River.{{Citation needed|date=September 2021}} Certain areas will see an increase of up to {{Convert|5|m|ft}} in water level to create a new reservoir to serve Beijing and [[Tianjin]] as a part of this major water diversion project.{{Citation needed|date=September 2021}}
+
+==Climate==
+
+{{Weather box|width=auto
+|location = Shiyan (1991–2020 normals, extremes 1981–2010)
+|metric first = Y
+|single line  = Y
+|collapsed = Y
+|Jan high C = 	8.7
+|Feb high C = 	11.6
+|Mar high C = 	16.9
+|Apr high C = 	23.4
+|May high C = 	27.6
+|Jun high C = 	31.1
+|Jul high C = 	32.7
+|Aug high C = 	31.5
+|Sep high C = 	26.8
+|Oct high C = 	21.8
+|Nov high C = 	16.1
+|Dec high C = 	10.8
+|Jan mean C = 	3.3
+|Feb mean C = 	5.9
+|Mar mean C = 	10.7
+|Apr mean C = 	16.7
+|May mean C = 	21.3
+|Jun mean C = 	25.2
+|Jul mean C = 	27.4
+|Aug mean C = 	26.3
+|Sep mean C = 	21.6
+|Oct mean C = 	16.2
+|Nov mean C = 	10.3
+|Dec mean C = 	5.2
+|Jan low C = 	-0.2
+|Feb low C = 	1.9
+|Mar low C = 	6.2
+|Apr low C = 	11.6
+|May low C = 	16.4
+|Jun low C = 	20.5
+|Jul low C = 	23.5
+|Aug low C = 	22.6
+|Sep low C = 	18.1
+|Oct low C = 	12.6
+|Nov low C = 	6.6
+|Dec low C = 	1.6
+|Jan record high C = 22.1 |Jan record low C = -6.9
+|Feb record high C = 25.0 |Feb record low C = -7.1
+|Mar record high C = 34.3 |Mar record low C = -3.4
+|Apr record high C = 37.8 |Apr record low C = -0.6
+|May record high C = 39.0 |May record low C = 8.2
+|Jun record high C = 42.1 |Jun record low C = 13.5
+|Jul record high C = 41.5 |Jul record low C = 16.0
+|Aug record high C = 41.2 |Aug record low C = 14.8
+|Sep record high C = 40.5 |Sep record low C = 10.7
+|Oct record high C = 34.7 |Oct record low C = 1.2
+|Nov record high C = 29.2 |Nov record low C = -2.9
+|Dec record high C = 21.6 |Dec record low C = -10.5
+|year high C =  |year low C = 
+|year high F =  |year low F =
+|precipitation colour = green
+|Jan precipitation mm = 	16.6
+|Feb precipitation mm = 	18.4
+|Mar precipitation mm = 	44.2
+|Apr precipitation mm = 	61.7
+|May precipitation mm = 	89.8
+|Jun precipitation mm = 	109.0
+|Jul precipitation mm = 	132.3
+|Aug precipitation mm = 	134.2
+|Sep precipitation mm = 	99.9
+|Oct precipitation mm = 	77.2
+|Nov precipitation mm = 	34.9
+|Dec precipitation mm = 	13.2
+|Jan humidity = 	68
+|Feb humidity = 	67
+|Mar humidity = 	67
+|Apr humidity = 	67
+|May humidity = 	68
+|Jun humidity = 	71
+|Jul humidity = 	77
+|Aug humidity = 	78
+|Sep humidity = 	79
+|Oct humidity = 	79
+|Nov humidity = 	76
+|Dec humidity = 	69
+|unit precipitation days = 0.1 mm	
+|Jan precipitation days = 	5.6
+|Feb precipitation days = 	6.8
+|Mar precipitation days = 	8.9
+|Apr precipitation days = 	9.3
+|May precipitation days = 	10.5
+|Jun precipitation days = 	10.2
+|Jul precipitation days = 	11.7
+|Aug precipitation days = 	12.0
+|Sep precipitation days = 	11.2
+|Oct precipitation days = 	10.9
+|Nov precipitation days = 	7.7
+|Dec precipitation days = 	5.7
+|year precipitation days = 	
+|Jan sun = 	142.1
+|Feb sun = 	133.7
+|Mar sun = 	173.0
+|Apr sun = 	199.1
+|May sun = 	204.9
+|Jun sun = 	207.8
+|Jul sun = 	218.9
+|Aug sun = 	204.3
+|Sep sun = 	156.8
+|Oct sun = 	151.5
+|Nov sun = 	144.0
+|Dec sun = 	141.6
+|year sun = 	
+| Jan percentsun = 	45
+| Feb percentsun = 	43
+| Mar percentsun = 	46
+| Apr percentsun = 	51
+| May percentsun = 	48
+| Jun percentsun = 	49
+| Jul percentsun = 	51
+| Aug percentsun = 	50
+| Sep percentsun = 	43
+| Oct percentsun = 	44
+| Nov percentsun = 	46
+| Dec percentsun = 	46
+| year percentsun =	
+|Jan snow days = 	5.0
+|Feb snow days = 	3.6
+|Mar snow days = 	1.4
+|Apr snow days = 	0
+|May snow days = 	0
+|Jun snow days = 	0
+|Jul snow days = 	0
+|Aug snow days = 	0
+|Sep snow days = 	0
+|Oct snow days = 	0
+|Nov snow days = 	0.9
+|Dec snow days = 	2.5
+|year snow days = 	
+|source 1 = [[China Meteorological Administration]]<ref name="cma graphical">{{cite web |url=http://data.cma.cn/data/weatherBk.html |script-title=zh:中国气象数据网 – WeatherBk Data |publisher=[[China Meteorological Administration]] |language = zh-hans |access-date=23 September 2023}}</ref><ref>
+{{cite web|url=https://experience.arcgis.com/template/e724038fda394e9d9b7921f10fd1aa55/page/%E7%BA%AF%E8%A1%A8%E6%A0%BC%E7%BB%9F%E8%AE%A1-(%E5%AF%B9%E6%AF%948110%E5%8F%98%E5%8C%96)/?org=UQmaps |script-title=zh:中国气象数据网|publisher=[[China Meteorological Administration]] |language = zh-hans | access-date =23 September 2023 |title=Experience Template }}</ref>
+}}
+
+==Administration==
+
+The [[prefecture-level city]] of Shiyan administers 8 [[county-level division]]s, comprising three [[District (China)|districts]], one [[county-level city]] and four [[Counties of China|counties]]:<ref name="xzqhsy">{{cite web |url=http://www.xzqh.org/html/show/hb/27565.html |script-title=zh:十堰市历史沿革 |trans-title=Yichang City Historical Development |publisher=XZQH.org |date=25 September 2014 | language = zh-hans|access-date=16 November 2018 |quote={{lang|zh-hans|2004年末，全市总面积23301平方千米{...}2010年第六次人口普查，十堰市常住总人口3340841人，其中：茅箭区399449人，张湾区368471人，郧县558355人，郧西县447482人，竹山县417079人，竹溪县315259人，房县390991人，丹江口市443755人。 2014年，撤销郧县，设立十堰市郧阳区。}}}}</ref><ref name="statsy">{{cite web |url=http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2017/42/4203.html |script-title=zh:2017年统计用区划代码和城乡划分代码：十堰市 |trans-title=2017 Statistical Area Numbers and Rural-Urban Area Numbers: Shiyan City | language = zh-hans|publisher=[[National Bureau of Statistics of the People's Republic of China]] |date=2017 |access-date=16 November 2018 |quote={{lang|zh-hans|统计用区划代码 名称 420301000000 市辖区 420302000000 茅箭区 420303000000 张湾区 420304000000 郧阳区 420322000000 郧西县 420323000000 竹山县 420324000000 竹溪县 420325000000 房县 420381000000 丹江口市|}}}}</ref>
+
+These eight county-level divisions then administer three different types of [[township-level divisions]]: 13 [[Subdistricts of China|subdistricts]], 72 [[Towns of China|towns]], and 34 [[Townships of China|townships]].<ref name=":3">{{Cite web|date=1 June 2021|title=|script-title=zh:区划人口|trans-title=Subdivisions and Population|url=http://www.shiyan.gov.cn/zjsy/sygk/qhrk/202006/t20200612_2061333.shtml|url-status=live|archive-url=https://web.archive.org/web/20210926001723/http://www.shiyan.gov.cn/zjsy/sygk/qhrk/202006/t20200612_2061333.shtml|archive-date=2021-09-26|access-date=2021-09-25|publisher=Shiyan Municipal People's Government|language=zh}}</ref> Finally, these township-level divisions then administer two types of [[village-level division]]s: 164 [[Residential communities of China|residential communities]] and 1,807 [[Villages of China|administrative villages]].<ref name=":3" />
+{| class="wikitable" 
+!Map
+|-
+| <div style="position: relative" class="center">
+{{Image label begin|image=Administrative Division Shiyan.png|width=500|link=}} 
+{{Image label|x=1200|y=640|scale=500/1580|text=''[[Danjiangkou Reservoir]]''}}
+{{Image label|x=910|y=700|scale=500/1580|text=[[Maojian District|'''Maojian''']]}}
+{{Image label|x=810|y=550|scale=500/1580|text=[[Zhangwan District|'''Zhangwan''']]}}
+{{Image label|x=950|y=350|scale=500/1580|text=[[Yunyang District|'''Yunyang''']]}}
+{{Image label|x=530|y=190|scale=500/1580|text=[[Yunxi County|'''Yunxi<br />County''']]}}
+{{Image label|x=410|y=740|scale=500/1580|text=[[Zhushan County|'''Zhushan<br />County''']]}}
+{{Image label|x=170|y=1000|scale=500/1580|text=[[Zhuxi County|'''Zhuxi<br />County''']]}}
+{{Image label|x=830|y=1000|scale=500/1580|text=[[Fang County|'''Fang<br />County''']]}}
+{{Image label|x=1100|y=740|scale=500/1580|text=[[Danjiangkou|'''Danjiangkou<br />{{small|(city)}}''']]}}
+{{Image label end}}
+</div>
+|}
+{| class="wikitable"
+!Subdivision
+!Simplified Chinese
+!Hanyu Pinyin
+!Population (2019)<ref name=":2" />{{Rp|page=55}}
+!Area (km<sup>2</sup>)<ref>{{Cite web|title=|script-title=zh:十堰市|trans-title=Shiyan|url=http://www.xzqh.org/html/list/205.html|url-status=live|archive-url=https://web.archive.org/web/20210628163508/http://www.xzqh.org/html/list/205.html|archive-date=2021-06-28|access-date=2021-09-25|website=xzqh.org|language=zh}}</ref>
+!Density (/km<sup>2</sup>)
+|-
+|[[Maojian District]]
+|{{Lang-zh|c=茅箭区|labels=no}}
+|{{Lang-zh|p=Máojiàn Qū|labels=no}}
+|425,600
+|578
+|736.33
+|-
+|[[Zhangwan District]]
+|{{Lang-zh|c=张湾区|labels=no}}
+|{{Lang-zh|p=Zhāngwān Qū|labels=no}}
+|393,200
+|652
+|603.07
+|-
+|[[Yunyang District]] 
+|{{Lang-zh|c=郧阳区|labels=no}}
+|{{Lang-zh|p=Yúnyáng Qū|labels=no}}
+|571,700
+|3,863
+|147.99
+|-
+|[[Danjiangkou]] City
+|{{Lang-zh|c=丹江口市|labels=no}}
+|{{Lang-zh|p=Dānjiāngkǒu Shì|labels=no}}
+|445,400
+|3,121
+|142.71
+|-
+|[[Yunxi County]]
+|{{Lang-zh|c=郧西县|labels=no}}
+|{{Lang-zh|p=Yúnxī Xiàn|labels=no}}
+|431,000
+|3,509.6
+|122.81
+|-
+|[[Zhushan County]]
+|{{Lang-zh|c=竹山县|labels=no}}
+|{{Lang-zh|p=Zhúshān Xiàn|labels=no}}
+|416,800
+|3,586
+|116.23
+|-
+|[[Zhuxi County]]
+|{{Lang-zh|c=竹溪县|labels=no}}
+|{{Lang-zh|p=Zhúxī Xiàn|labels=no}}
+|314,000
+|3,279
+|95.76
+|-
+|[[Fang County]]
+|{{Lang-zh|c=房县|labels=no}}
+|{{Lang-zh|p=Fáng Xiàn|labels=no}}
+|400,300
+|5,110
+|78.34
+|-
+| colspan="6" |''Note: All population totals reflect permanent population, as opposed to registered [[hukou]] population''
+|}
+
+== Demographics ==
+As of 2020, Shiyan's permanent population totals approximately 3,209,000 people.<ref name=":3" /> Throughout 2014 to 2019, the city's registered [[hukou]] population exceeded the permanent population by a few dozen thousand.<ref name=":2" />{{Rp|page=16}} This disparity likely represents [[Migration in China|migrants]] who left Shiyan, working in larger cities with higher wages, a common trend throughout China. During this span, Shiyan's hukou population decreased by approximately 8,100, but the city's permanent population increased by about 25,300.<ref name=":2" />{{Rp|page=16}}
+
+=== Vital statistics ===
+In 2019, Shiyan saw a [[birth rate]] of 11.47‰ (per thousand), and a [[Death Rate]] of 7.02‰, giving the city a rate of natural increase of 4.45‰.<ref name=":2" />{{Rp|page=32}}
+
+52.5% of Shiyan's population is male, and 47.5% is female as of 2019.<ref name=":2" />{{Rp|page=28}}
+
+=== Urbanization ===
+The main urban area of the [[prefecture-level city]] of Shiyan is in [[Maojian District]], which is typically labeled on maps simply as "Shiyan". As of 2019, 56.5% of Shiyan's population lived in urban areas, up from 46.3% in 2010.<ref name=":2" />{{Rp|page=28}}
+
+=== Income ===
+In 2019, Shiyan's urban households earned an average of 33,577 [[renminbi]] (RMB) in disposable income,<ref name=":2" />{{Rp|page=26}} a 9.1% increase from 2018.<ref name=":2" />{{Rp|page=27}} Rural households earned a much lower average disposable income of 11,378 RMB,<ref name=":2" />{{Rp|page=26}} a 10.5% increase from 2018.<ref name=":2" />{{Rp|page=27}}
+
+=== Religion ===
+Shiyan's city government recognizes 19 religious organizations within the city, which represent 4 religions: [[Buddhism]], [[Taoism]], [[Islam]], and Christianity.<ref name=":4">{{Cite web|date=1 June 2021|title=|script-title=zh:十堰市宗教团体基本概况|trans-title=Shiyan Religious Organizations Basic Overview|url=http://www.shiyan.gov.cn/zjsy/sygk/mzzj/202006/t20200612_2061334.shtml|url-status=live|archive-url=https://web.archive.org/web/20210926003132/http://www.shiyan.gov.cn/zjsy/sygk/mzzj/202006/t20200612_2061334.shtml|archive-date=2021-09-26|access-date=2021-09-25|publisher=Shiyan Municipal People's Government|language=zh}}</ref> Of these organizations, the following 5 serve the entire city: the Shiyan City Buddhist Association ({{Lang-zh|c=十堰市佛教协会|p=Shíyàn Shì Fójiào Xiéhuì}}), the Shiyan City Islamic Association ({{Lang-zh|c=十堰市伊斯兰教协会|p=Shíyàn Shì Yīsīlánjiào Xiéhuì}}), the Shiyan City Protestant "[[Three-Self Patriotic Movement|Three-Self]]" Patriotic Movement Committee ({{Lang-zh|c=十堰市基督教"三自"爱国运动委员会|p=Shíyàn Shì Jīdūjiào "Sān Zì" Àiguó Yùndòng Wěiyuánhuì}}), the Shiyan City Protestant Association ({{Lang-zh|c=十堰市基督教协会|p=Shíyàn Shì Jīdūjiào Xiéhuì}}), and the Shiyan City Taoist Association ({{Lang-zh|c=十堰市道教协会|p=Shíyàn Shì Dàojiào Xiéhuì}}).<ref name=":4" /> The remaining 14 serve regions within the city.<ref name=":4" />
+
+==Economy==
+[[File:陆家沟水库 - panoramio.jpg|thumb|Lujiagou Reservoir, created by a dam visible in the background. The majority of Shiyan's electricity is derived from [[hydropower]]]]
+Like China as a whole, Shiyan's economy has experienced rapid substantial growth in the 21st century. The city's gross domestic product (GDP) stood at 201.272&nbsp;billion [[renminbi]] (RMB) in 2019, which is approximately two-thirds larger than the city's GDP just five years earlier.<ref name=":2" />{{Rp|page=16}} The city's economy consists almost entirely of its [[Secondary sector of the economy|secondary]] and [[Tertiary sector of the economy|tertiary sectors]], which constitute 43.93% and 47.55% of its GDP, respectively.<ref name=":2" />{{Rp|page=16}} However, as of 2019, 40.2% of Shiyan's population works in the [[Primary sector of the economy|primary sector]], whereas just 18.0% works in the secondary sector, and 41.9% work in the tertiary sector.<ref name=":2" />{{Rp|page=28}}
+
+The city generated 8.119&nbsp;billion [[Kilowatt-hour|kWh]] in electricity in 2019, of which, 5.248 kWh was generated in the form of [[hydropower]].<ref name=":2" />{{Rp|page=18}}
+
+Major [[Heavy industry|heavy industries]] in Shiyan include cement, which the city producing about 4.13&nbsp;million tons of in 2019,<ref name=":2" />{{Rp|page=18}} and steel, which the city produced about 978 thousand tons of in 2019.<ref name=":2" />{{Rp|page=20}} The production output of both of these industries declined slightly from 2014 to 2019.<ref name=":2" />{{Rp|18, 20|page=}}
+
+Shiyan handed 83.15&nbsp;million tons of freight in 2019, the vast majority of which was transferred by road.<ref name=":2" />{{Rp|page=20}}
+
+=== Automotive industry ===
+Shiyan is a major center of the [[Automotive industry in China|automobile industry in China]] since being chosen as the site of [[Dongfeng Motor Corporation|Dongfeng Motors]] predecessor Second Auto. In [[Mao Zedong|Mao]]’s industrial plan, the Wudang mountains offered the city protection from possible enemy attacks. Starting in the 1960s, the small town grew to a major city as Dongfeng employed up to 200,000 locals and operated almost all major amenities in the city.<ref name=":1" />
+
+It previously served as the headquarters of Dongfeng Motors, a major Chinese truck, bus, and heavy goods vehicle company.<ref name=":0" /> Some news outlets have labeled the city as the "Detroit of China",<ref name=":0" /><ref name=":1" /> although the nickname has been applied to other Chinese cities, such as [[Changchun]],<ref>{{Cite web|last=Makinen|first=Julie|date=4 March 2016|title=Staring down an economic reckoning in the Detroit of China|url=https://graphics.latimes.com/china-economy/|url-status=live|archive-url=https://web.archive.org/web/20200608175116/https://graphics.latimes.com/china-economy/|archive-date=2020-06-08|access-date=2020-06-08|website=Los Angeles Times}}</ref> [[Chongqing]],<ref>{{Cite web|last=Tabeta|first=Shinsuke|date=24 September 2019|title='China's Detroit' struggles to keep its auto industry afloat|url=https://asia.nikkei.com/Business/Automobiles/China-s-Detroit-struggles-to-keep-its-auto-industry-afloat|url-status=live|archive-url=https://web.archive.org/web/20200608175537/https://asia.nikkei.com/Business/Automobiles/China-s-Detroit-struggles-to-keep-its-auto-industry-afloat|archive-date=2020-06-08|access-date=2020-06-08|website=Nikkei Asian Review|language=en-GB}}</ref> and nearby [[Wuhan]].<ref>{{Cite web|last=Fannin|first=Rebecca|date=2 March 2020|title=The rush to deploy robots in China amid the coronavirus outbreak|url=https://www.cnbc.com/2020/03/02/the-rush-to-deploy-robots-in-china-amid-the-coronavirus-outbreak.html|url-status=live|archive-url=https://web.archive.org/web/20200608175748/https://www.cnbc.com/2020/03/02/the-rush-to-deploy-robots-in-china-amid-the-coronavirus-outbreak.html|archive-date=2020-06-08|access-date=2020-06-08|website=CNBC|language=en}}</ref>
+
+In recent decades, the automotive industry in Shiyan has shrunk, largely due to increasing production in larger cities with better transit links.<ref name=":0" /><ref name=":1" /> "Since Dongfeng relocated its main passenger car plant to Wuhan in 2003," the population of Shiyan has been decreasing.<ref>{{Cite web|date=15 November 2018|title=State carmaker in China's Motown shifts gear to keep up with market|url=https://www.scmp.com/economy/china-economy/article/2173334/chinas-motown-dongfeng-motor-epitomises-how-state-ownership|access-date=2022-01-15|website=South China Morning Post|language=en}}</ref> The city's production of [[tire]]s, for instance, has fallen by 48.10% from 2014 to 2019.<ref name=":2" />{{Rp|page=18}} Car production in the city rose 6.67% during that time, but this number has been volatile depending on the year.<ref name=":2" />{{Rp|page=20}} In response to the threat of the industry's decline, Shiyan's government has sought to diversify the city's economy, and provide more space for other industrial facilities.<ref>{{Cite news|last=McMahon|first=Dinny|date=17 December 2013|title=China's Sprawling Cities Bet Their Future on Getting Even Bigger|language=en-US|work=Wall Street Journal|url=https://www.wsj.com/articles/china8217s-sprawling-cities-bet-their-future-on-getting-even-bigger-1387250988|url-status=live|access-date=2020-06-08|archive-url=https://web.archive.org/web/20200608182732/https://www.wsj.com/articles/china8217s-sprawling-cities-bet-their-future-on-getting-even-bigger-1387250988|archive-date=2020-06-08|issn=0099-9660}}</ref>
+
+Dongfeng and its partner [[Renault–Nissan–Mitsubishi Alliance]] are nowadays producing [[electric vehicle]]s in Shiyan,<ref>{{Cite web|date=10 April 2018|title=Nissan & Dongfeng present new EV for China|url=https://www.electrive.com/2018/04/10/nissan-dongfeng-present-new-ev-for-china/|access-date=2022-01-15|website=electrive.com|language=en-US}}</ref><ref>{{Cite web|date=29 August 2017|title=Renault-Nissan Alliance and Dongfeng Motor Group Co., Ltd. forge partnership to co-develop electric vehicles in China|url=https://global.nissannews.com/en/releases/170829-01-e|access-date=2022-01-15|website=Official Global Newsroom|language=en}}</ref> including the [[Renault KZE]] and [[Dacia Spring]].<ref>{{Cite web|date=20 October 2020|title=First Dacia EV to be built in China – report|url=https://www.just-auto.com/news/first-dacia-ev-to-be-built-in-china-report/|access-date=2022-01-15|website=Just Auto|language=en-GB}}</ref><ref>{{Cite web|last=Suzan|date=2 April 2019|title=Dongfeng-Renault K-ZE Unveiled in China as An All-Electric Compact SUV|url=https://www.chinapev.com/dongfeng/renault/dongfeng-renault-k-ze-unveiled-in-china-as-an-all-electric-compact-suv/|access-date=2022-01-15|website=China Car News, Reviews and More|language=en-US}}</ref>
+
+=== Tourism ===
+The [[Wudang Mountains]] run east-west through Shiyan.<ref name=":1" /> The peak commonly referred to as "Wudang Mountain", or in Mandarin Wudangshan, is one of the most important cultural centres of the [[Taoism|Taoist faith]].{{Citation needed|date=June 2020}} The surrounding areas are dotted with up to 200 Taoist monastic temples and religious sites.{{Citation needed|date=June 2020}}  The main attraction in this area, and also one of the most sacred Taoist sites, which forms an important stop for mainly Chinese tourists bound there, with up to twenty bus loads of visitors per day at peak times is Wudangshan ''[[Jiedao]]'' of the [[Danjiangkou]] [[county-level city]].{{Citation needed|date=June 2020}}
+
+== Culture ==
+There are five magazines and seven newspapers in distribution in the city as of 2019.<ref name=":2" />{{Rp|page=293}}
+
+99.9% of Shiyan's population lives in areas which receive radio and television coverage, and 73.4% of households in Shiyan have a cable television subscription as of 2019.<ref name=":2" />{{Rp|page=295}}
+
+People from Shiyan traditionally speak in Henan's Nanyang dialect, however due to the large number of migrants, [[Standard Chinese]] is commonly spoken.<ref name=":5" />
+
+== Education ==
+As of 2019, Shiyan's educational institutions are staffed by 29,644 full-time teachers, serving approximately 474,200 students.<ref name=":2" />{{Rp|page=22}}
+
+The city is home to 8 [[Public library|public libraries]], which, as of 2019, possess 1,624,090 books, and have distributed 114,622 [[library card]]s.<ref name=":2" />{{Rp|page=293}}
+
+== Healthcare ==
+Shiyan has 2,772 health institutions as of 2019, which includes 59 hospitals.<ref name=":2" />{{Rp|page=26}} These institutions host a total of 30,634 medical beds.<ref name=":2" />{{Rp|page=26}}
+
+==Transportation==
+
+=== Railway ===
+Shiyan is located on the [[Xiangyang–Chongqing railway|Xiangyu Railway]] between [[Xiangyang]] and [[Chongqing]].<ref name=":7" />{{Rp|page=3}} Construction on a railway between Shiyan and [[Yichang]] is scheduled to begin construction in 2009.<ref>[http://www.ctbn.com.cn/News/ShowInfoqk.aspx?ID=515556]{{dead link|date=May 2018|bot=InternetArchiveBot|fix-attempted=yes}}</ref>{{Needs update|date=August 2023}}
+
+The [[Wuhan–Shiyan high-speed railway]] completed track laying in June 2019,<ref>{{Cite news|url=http://www.xinhuanet.com/2019-06/22/c_1124658417.htm|archive-url=https://web.archive.org/web/20190628201106/http://www.xinhuanet.com/2019-06/22/c_1124658417.htm|url-status=dead|archive-date=28 June 2019|script-title=zh:汉十高铁全线轨道贯通-新华网 |work=[[Xinhua]] |access-date=2019-07-11}}</ref> and opened to passengers on 29 November 2019.<ref>{{cite web |title=Wuhan – Shiyan high speed line opens |url=https://www.railwaygazette.com/high-speed/wuhan-shiyan-high-speed-line-opens/55242.article |website=Railway Gazette International |access-date=1 December 2019 |date=29 November 2019}}</ref>
+
+=== Highway ===
+
+* [[G59 Hohhot–Beihai Expressway]]
+* [[G70 Fuzhou–Yinchuan Expressway]]
+* [[G7011 Shiyan–Tianshui Expressway]]
+*[[China National Highway 209]]<ref name=":7" />[[China National Highway 209|{{Rp|page=3}}]]
+*[[China National Highway 316]]<ref name=":7" />{{Rp|page=3}}
+
+=== Air ===
+[[Shiyan Wudangshan Airport]] (IATA: WDS, ICAO: ZHSY) is the airport serving the city of Shiyan, located {{convert|15|km|abbr=on}} from the city center and {{convert|20|km|abbr=on}} from [[Wudang Mountains|Wudangshan]], the World Heritage Site after which it is named. A total area of 16400 square meters; a total of one runway with a length of 2600 meters; 7 stops (2 helicopters); and an annual passenger throughput of 1.2&nbsp;million passengers
+
+Shiyan Wudangshan Airport starts to work in February 2016. Until April 2019, there are total 17 fixed routes, navigating to 26 cities.
+
+==Sister city==
+
+Shiyan has been a [[sister city]] of [[Craiova]], Romania, since December 1999.{{Citation needed|date=September 2021}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.shiyan.gov.cn Government website of Shiyan] (available in Chinese and English)
+
+{{Hubei topics}}
+{{Hubei}}
+{{Prefectural-level divisions of the People's Republic of China}}
+
+{{Authority control}}
+
+[[Category:Shiyan| ]]
+[[Category:Cities in Hubei]]
+[[Category:Prefecture-level divisions of Hubei]]

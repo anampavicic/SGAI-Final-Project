@@ -1,0 +1,376 @@
+{{about|the prefecture-level city of Guangdong}}
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = Qingyuan
+|official_name          = <!-- Official name in English if different from 'name' -->
+|native_name            = 清远市
+|native_name_lang = zh-Hans
+|other_name             =
+|nickname               =
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Qingyuan City Xiaoshi Skyline Guangdong Province.JPG
+|imagesize              =
+|image_caption          = [[Qingcheng District]]
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_map              = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=7|frame-lat=24.32|frame-long=112.95}}
+|image_map1             = Guangdong subdivisions - Qingyuan.svg
+|mapsize1               =
+|map_caption1           = Location of Qingyuan in Guangdong
+|pushpin_map            = China
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location in China
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[People's Republic of China]]
+|subdivision_type1      = [[Provinces of the People's Republic of China|Province]]
+|subdivision_name1      = [[Guangdong]]
+|subdivision_type2      = [[Administrative divisions of the People's Republic of China#County level|County-level divisions]]
+|subdivision_name2      = 9
+|subdivision_type3      = [[Administrative divisions of the People's Republic of China#Township level|Township-level divisions]]
+|subdivision_name3      = 53
+|seat_type              = City seat
+|seat                   = [[Qingcheng District]]
+|dimensions_footnotes   = <ref name = "gov geo intro">{{cite web |url=http://www.gdqy.gov.cn/gdqy/qyjj/qy_list_tt.shtml |script-title=zh:清远概况 |publisher=Qingyuan People's Government |access-date=31 May 2018 |language=zh-hans}}</ref>
+|length_km              = 190
+|width_km               = 230
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =[[CPC Secretary]]
+|leader_name            =
+|leader_title1          =[[Mayor]]
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|established_title      =  <!-- Settled -->
+|established_date       =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink -->
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_total_km2           =19152.9<!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           =3652.3
+|area_metro_km2           =3652.3
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 14
+|elevation_ft           = 45
+|elevation_max_m            =
+|elevation_min_m            =
+<!-- Population   ----------------------->
+|population_as_of               =2020 Census<ref>{{Cite web|url=http://www.citypopulation.de/php/china-guangdong-admin.php|title = China: Guăngdōng (Prefectures, Cities, Districts and Counties) - Population Statistics, Charts and Map}}</ref>
+|population_footnotes           =
+|population_note                =
+|population_total               =3969473
+|population_density_km2         =auto
+|population_metro               =1738424
+|population_density_metro_km2   =auto
+|population_urban               =1738424
+|population_density_urban_km2   =auto
+|demographics_type2   = GDP<ref>{{cite book|author=广东省统计局、国家统计局广东调查总队|title=《广东统计年鉴－2016》|date=August 2016|publisher=中国统计出版社|isbn=978-7-5037-7837-7|url=http://www.gdstats.gov.cn/tjnj/2016/directory.html|url-status=dead|archiveurl=https://web.archive.org/web/20171222072646/http://www.gdstats.gov.cn/tjnj/2016/directory.html|archivedate=2017-12-22}}</ref>
+|demographics2_title1 = [[Prefecture-level city]] 
+|demographics2_info1 = [[CN¥]] 200.7 billion<br />[[US$]] 31.1 billion  
+| demographics2_title2 = Per capita
+| demographics2_info2 = CN¥ 50,459<br />US$ 7,821 
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coor_pinpoint = Qingyuan municipal government
+|coordinates            = {{coord|23.682|N|113.056|E|type:adm2nd_region:CN-44_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       = <!--  [[Postal code of China|Postal code]] -->
+|postal_code            = 511500, 511515
+|area_code = 0763
+|iso_code = [[ISO 3166-2:CN|CN-GD-18]]
+|blank2_name            =[[Vehicle registration plates of China|Licence plate prefixes]]
+|blank2_info            ={{lang|zh-cn|粤R}}
+|blank3_name            =Major [[Nationalities of China|Nationalities]]
+|blank3_info            = Han, Zhuang and Yao
+|website = {{URL|www.gdqy.gov.cn/}}
+|footnotes              =
+}}
+{{Infobox Chinese
+|pic=QY name.svg |piccap="Qingyuan" in [[Traditional Chinese characters|Traditional]] (top) and [[Simplified Chinese characters|Simplified]] (bottom) Chinese characters|picsize=100px
+|s={{linktext|清远}} |t={{linktext|清遠}} |p=Qīngyuǎn |psp=Tsingyun |j=Cing1jyun5 |ci={{IPAc-yue|c|ing|1|.|j|yun|5}} |y=Chīngyúhn |poj=Chheng-oán |tl=Tshing-uán |h=Chhîn-yén |l=Clear-&-Distant |w=Ch{{okina}}ing<sup>1</sup>-yüan<Sup>3</sup> |mi={{IPAc-cmn|q|ing|1|.|yuan|3}} |gr=Chingyeuan 
+|showflag=py |order=st
+}}
+'''Qingyuan''',<!--Chinese in infobox--> [[postal map romanization|formerly]] [[romanization of Chinese|romanized]] as '''Tsingyun''',{{efn|Qingyuan has also sometimes been romanized as '''Tsing-yuan''' or '''Tsing-yuen''',<ref>{{cite EB9|mode=cs2|wstitle=China|ref={{harvid|''EB''|1878}}|volume=5}}</ref> '''Ts'ing-yuen''',<ref>{{cite EB1911|volume=XV|wstitle=Kwang-Tung}}</ref> and '''Tsing-yuen-heën'''.{{sfnp|Gutzlaff|1838|p=[https://books.google.com/books?id=JORkAAAAcAAJ&pg=PA564 564]}}}} is a [[prefecture-level city]] in northern [[Guangdong]] province, China, on the banks of the Bei or [[Bei River|North River]]. During the [[2020 Chinese census|2020 census]], its total population was 3,969,473, out of whom 1,738,424 lived in the built-up (or metro) area made of [[urbanization in China|urbanized]] [[Qingcheng District|Qingcheng]] and [[Qingxin District|Qingxin]] [[district (China)|districts]].<ref>{{cite web| url = https://www.citypopulation.de/en/china/guangdong/admin/| title = China: Guăngdōng (Prefectures, Cities, Districts and Counties) - Population Statistics, Charts and Map}} </ref> The primary spoken language is [[Cantonese language|Cantonese]]. Covering {{convert|19,015|km2|abbr=on|sp=us}}, Qingyuan is Guangdong's largest prefecture-level division by land area, and it borders [[Guangzhou]] and [[Foshan]] to the south, [[Shaoguan]] to the east and northeast, [[Zhaoqing]] to the south and southwest, and [[Hunan]] province and [[Guangxi Zhuang Autonomous Region]] to the north.<ref name = "gov geo intro"/> The urban core is surrounded by mountainous areas but is directly connected with [[Guangzhou]] and the [[Pearl River Delta]] by [[China National Highway 107|Highway 107]].
+
+==History==
+Qingyuan was a prefecture during [[Northern and Southern dynasties]]. However, the administration status of Qingyuan was downgraded to a county in the tenth year of the [[Kaihuang Era]] of the [[Sui dynasty]] (A.D. 590). Since then, until the formation of the Republic of China in 1911, Qingyuan was governed by [[Guangzhou]] prefecture ({{lang|zh-hant|廣州府}}).
+
+Under the [[Qing Empire|Qing]], the area was known as {{nowrap|'''Qingyuan County'''}}.{{sfnp|Gutzlaff|1838|p=[https://books.google.com/books?id=JORkAAAAcAAJ&pg=PA564 564]}} It was later promoted to [[prefecture-level city]] status.
+
+==Geography==
+Qingyuan's administrative area ranges in latitude from 23° 26' 56" to 25° 11' 40" N, and in longitude from 111° 55' 17" to 113° 55' 34" E;<ref name = "gov geo intro"/> its urban area is located just north of the [[Tropic of Cancer]], about {{convert|60|km|abbr=on}} from the urban area of Guangzhou and {{convert|200|km|abbr=on}} from both [[Hong Kong]] and [[Macau]]. Its area of over {{convert|19000|km2|abbr=on}} accounts for 10.6% of the total provincial area.<ref name = "gov geo intro"/> Qingyuan contains part of the southern [[Nan Ling]], and more than half of the area is mountainous, and elevations increase from southeast to northwest. Bordering prefectures are Guangzhou and Foshan to the southeast, Zhaoqing to the southwest, Shaoguan to the north and northeast, [[Hezhou]] ([[Guangxi]]) to the west, and [[Yongzhou]] and [[Chenzhou]] ([[Hunan]]) to the north.<ref name = "gov geo intro"/>
+
+Qingyuan has a monsoon-influenced humid subtropical climate, with an average annual temperature of {{convert|20.7|°C|1}}, {{convert|1900|mm|0|abbr=on}} of rainfall, 1662.2 hours of sunshine, and a frost-free period of 314.4 days.<ref name = "City intro">{{cite web |url = http://www.weather.com.cn/cityintro/101281301.shtml? |script-title=zh:清远 - 气象数据 -中国天气网 |publisher = Weather China | language = zh-hans |access-date = 2012-07-18}}</ref>
+
+==Economy==
+Qingyuan is a major economic and transportation hub. The [[Beijing–Guangzhou Railway]], [[China National Highway 106|National Highways 106]] and [[China National Highway 107|107]], and the Bei or [[Bei River|North River]] cross through the city. The maritime infrastructure in Qingyuan plays a vital role in transporting goods to other regional centers in Guangdong, [[Hong Kong]], and [[Macao]]. The major ports are Qingyuan Port, [[Yingde]] Port, [[Lianzhou]] Port, and [[Yangshan Port]].
+
+==Demographics==
+According to the [[Sixth National Population Census of the People's Republic of China|2010 Census]], Qingyuan has a population of 3,698,394 inhabitants,<ref>{{in lang|zh}} Compilation by LianXin website. [http://www.luqyu.cn/tongjishow.asp?tid=946 Data from the Sixth National Population Census of the People's Republic of China] {{webarchive |url=https://web.archive.org/web/20120406235110/http://www.luqyu.cn/tongjishow.asp?tid=946 |date=April 6, 2012 }}</ref> 550,715 more than in 2000 (an annual growth rate of 1.63%). [[Han Chinese]] comprise over 95% of the entire population, while there are some areas inhabited by the [[Zhuang people|Zhuang]] and [[Yao people|Yao]] [[minorities of the People's Republic of China|minorities]].
+
+==Notable people==
+* [[Ayen Ho]] (何璟昕) : (b. 1994) Chinese [[C-pop]] ([[Cantopop]] and [[Mandopop]]) singer-songwriter
+* [[Xi Nanhua]] (席南华) : (b. 1963) Chinese mathematician
+
+==Attractions==
+Qingyuan's attractions include Niuyuzui, [[Feilai Temple (Qingyuan)|Feilai Temple]], Feixia Scenic Spots, Baojing Palace of Yingde, Taihe Ancient Cave of Qingxin, Sankeng Hot Spring in Qingxin County, Huanghua Lake in Fogang, Little Biejiang of Lianyang, Peak Shikengkong in Yangshan County, Underground River of Lianzhou, [[Huangteng Gorge]], Three Gorges of Huangchuan and Yinzhan Hot Springs.
+
+==Administration==
+The provincial and municipal administration is located in [[Qingcheng District]]. It oversees one other [[District (PRC)|district]], two [[county-level cities]], four [[Counties of the People's Republic of China|counties]], and one economic development district.
+
+{|class="wikitable" style="font-size:90%;"
+!colspan="6"| Map
+|-
+|colspan="6"| <div style="position: relative" class="center">
+{{Image label begin|image=Administrative Division Qingyuan 2.png|width=450|link=}}
+{{Image label|x=400|y=630|scale=450/750|text=[[Qingcheng District|'''Qingcheng''']]}}
+{{Image label|x=340|y=540|scale=450/750|text=[[Qingxin District|'''Qingxin''']]}}
+{{Image label|x=550|y=540|scale=450/750|text=[[Fogang County|'''Fogang<br />County''']]}}
+{{Image label|x=240|y=280|scale=450/750|text=[[Yangshan County|'''Yangshan<br />County''']]}}
+{{Image label|x=020|y=180|scale=450/750|text=[[Lianshan Zhuang and Yao Autonomous County|'''Lianshan<br />County''']]}}
+{{Image label|x=100|y=250|scale=450/750|text=[[Liannan Yao Autonomous County|'''Liannan<br />County''']]}}
+{{Image label|x=460|y=380|scale=450/750|text=[[Yingde|'''Yingde<br />{{small|(city)}}''']]}}
+{{Image label|x=180|y=100|scale=450/750|text=[[Lianzhou|'''Lianzhou<br />{{small|(city)}}''']]}}
+{{Image label end}}
+</div>
+|-
+! Name
+! Simplified Chinese
+! Hanyu Pinyin
+! Population<br />{{nowrap|(2010 census)}}
+! Area<br />(km<sup>2</sup>)
+! Density<br />(/km<sup>2</sup>)
+|-
+|[[Qingcheng District]]
+|{{lang|zh-hans|清城区}}
+|Qīngchéng Qū
+|811,233
+|927.22
+|875
+|-
+|[[Qingxin District]]
+|{{lang|zh-hans|清新区}}
+|Qīngxīn Qū
+|698,811
+|2,725.07
+|256
+|-
+|[[Fogang County]]
+|{{lang|zh-hans|佛冈县}}
+|Fógāng Xiàn
+|302,906
+|1,292.92
+|234
+|-
+|[[Yangshan County]]
+|{{lang|zh-hans|阳山县}}
+|Yángshān Xiàn
+|356,095
+|3,418.37
+|104
+|-
+|[[Lianshan Zhuang and Yao Autonomous County|Lianshan Zhuang and<br />Yao Autonomous County]]
+|{{lang|zh-hans|连山壮族<br />瑶族自治县}}
+|Liánshān Zhuàngzú<br />Yáozú Zìzhìxiàn
+|90,515
+|1,164.84
+|78
+|-
+|[[Liannan Yao Autonomous County|Liannan Yao<br />Autonomous County]]
+|{{lang|zh-hans|连南瑶族<br />自治县}}
+|Liánnán Yáozú<br />Zìzhìxiàn
+|129,258
+|1,239.38
+|100
+|-
+|[[Yingde]]
+|{{lang|zh|英德市}}
+|Yīngdé Shì
+|941,952
+|5,671.02
+|166
+|-
+|[[Lianzhou]]
+|{{lang|zh-hans|连州市}}
+|Liánzhōu Shì
+|367,642
+|2,664.09
+|138
+|}
+
+==Climate==
+
+{{Weather box|width=auto
+|metric first=y
+|single line=y 
+|collapsed = Y
+|location = Qingyuan (1991–2020 normals, extremes 1981–2010)
+|Jan high C = 	17.5
+|Feb high C = 	18.9
+|Mar high C = 	21.0
+|Apr high C = 	25.7
+|May high C = 	29.7
+|Jun high C = 	31.9
+|Jul high C = 	33.4
+|Aug high C = 	33.4
+|Sep high C = 	32.0
+|Oct high C = 	29.0
+|Nov high C = 	24.7
+|Dec high C = 	19.8
+|Jan mean C = 	13.1
+|Feb mean C = 	14.9
+|Mar mean C = 	17.5
+|Apr mean C = 	22.1
+|May mean C = 	25.7
+|Jun mean C = 	27.8
+|Jul mean C = 	28.9
+|Aug mean C = 	28.8
+|Sep mean C = 	27.4
+|Oct mean C = 	24.3
+|Nov mean C = 	19.8
+|Dec mean C = 	15.0
+|Jan low C = 	10.2
+|Feb low C = 	12.1
+|Mar low C = 	14.9
+|Apr low C = 	19.4
+|May low C = 	22.8
+|Jun low C = 	24.9
+|Jul low C = 	25.7
+|Aug low C = 	25.6
+|Sep low C = 	24.2
+|Oct low C = 	20.9
+|Nov low C = 	16.3
+|Dec low C = 	11.7
+|Jan record high C = 28.6 |Jan record low C = 1.5
+|Feb record high C = 30.0 |Feb record low C = 2.1
+|Mar record high C = 33.4 |Mar record low C = 2.8
+|Apr record high C = 33.5 |Apr record low C = 8.7
+|May record high C = 35.0 |May record low C = 13.9
+|Jun record high C = 38.1 |Jun record low C = 18.8
+|Jul record high C = 39.0 |Jul record low C = 21.9
+|Aug record high C = 38.7 |Aug record low C = 21.8
+|Sep record high C = 38.2 |Sep record low C = 15.5
+|Oct record high C = 36.4 |Oct record low C = 10.2
+|Nov record high C = 33.2 |Nov record low C = 4.6
+|Dec record high C = 28.7 |Dec record low C = 1.1
+|year high C=  |year low C= 
+|year high F = |year low F =
+|precipitation colour = green
+|Jan precipitation mm = 	59.0
+|Feb precipitation mm = 	61.3
+|Mar precipitation mm = 	144.6
+|Apr precipitation mm = 	227.1
+|May precipitation mm = 	348.9
+|Jun precipitation mm = 	397.0
+|Jul precipitation mm = 	259.8
+|Aug precipitation mm = 	238.7
+|Sep precipitation mm = 	146.5
+|Oct precipitation mm = 	59.1
+|Nov precipitation mm = 	50.9
+|Dec precipitation mm = 	43.7
+|Jan humidity = 	70
+|Feb humidity = 	75
+|Mar humidity = 	81
+|Apr humidity = 	82
+|May humidity = 	82
+|Jun humidity = 	84
+|Jul humidity = 	81
+|Aug humidity = 	80
+|Sep humidity = 	76
+|Oct humidity = 	67
+|Nov humidity = 	67
+|Dec humidity = 	64
+|unit precipitation days = 0.1 mm	
+|Jan precipitation days = 	9.2
+|Feb precipitation days = 	11.6
+|Mar precipitation days = 	18.5
+|Apr precipitation days = 	18.0
+|May precipitation days = 	19.9
+|Jun precipitation days = 	20.3
+|Jul precipitation days = 	18.0
+|Aug precipitation days = 	16.5
+|Sep precipitation days = 	11.6
+|Oct precipitation days = 	5.3
+|Nov precipitation days = 	6.8
+|Dec precipitation days = 	6.2
+|year precipitation days = 	
+|Jan sun = 	105.6
+|Feb sun = 	76.6
+|Mar sun = 	60.0
+|Apr sun = 	69.9
+|May sun = 	109.1
+|Jun sun = 	133.1
+|Jul sun = 	193.3
+|Aug sun = 	196.6
+|Sep sun = 	198.7
+|Oct sun = 	201.9
+|Nov sun = 	167.2
+|Dec sun = 	152.3
+|year sun = 	
+| Jan percentsun = 	31
+| Feb percentsun = 	24
+| Mar percentsun = 	16
+| Apr percentsun = 	18
+| May percentsun = 	26
+| Jun percentsun = 	33
+| Jul percentsun = 	47
+| Aug percentsun = 	49
+| Sep percentsun = 	54
+| Oct percentsun = 	57
+| Nov percentsun = 	51
+| Dec percentsun = 	46
+| year percentsun =	
+|source 1 = [[China Meteorological Administration]]<ref name="cma graphical">{{cite web |url=http://data.cma.cn/data/weatherBk.html |script-title=zh:中国气象数据网 – WeatherBk Data |publisher=[[China Meteorological Administration]] |language = zh-hans |access-date=28 May 2023}}</ref><ref>
+{{cite web|url=https://experience.arcgis.com/template/e724038fda394e9d9b7921f10fd1aa55/page/%E7%BA%AF%E8%A1%A8%E6%A0%BC%E7%BB%9F%E8%AE%A1-(%E5%AF%B9%E6%AF%948110%E5%8F%98%E5%8C%96)/?org=UQmaps |script-title=zh:中国气象数据网|publisher=[[China Meteorological Administration]] |language = zh-hans | access-date =28 May 2023 |title=Experience Template }}</ref>
+}}
+
+==Transportation==
+Qingyuan is served by [[Qingyuan railway station]], opened in 2009 on the [[Wuhan–Guangzhou high-speed railway]]. It is located some distance east of the city.
+
+[[Qingyuan Maglev]] is expected to open in December 2020.
+
+==Notes==
+{{Noteslist}}
+
+==References==
+===Citations===
+{{Reflist|colwidth=30em}}
+
+===Bibliography===
+* {{citation |last=Gutzlaff |first=Charles |title=China Opened, or, A Display of the Topography, History, Customs, Manners, Arts, Manufactures, Commerce, Literature, Religion, Jurisprudence, Etc. of the Chinese Empire, ''Vol. II'' |author-link=Karl Gützlaff |editor=Andrew Reed |display-editors=0 |location=London |publisher=Smith, Elder, & Co. |date=1838 |url=https://books.google.com/books?id=iO5AAAAAcAAJ }}.
+
+==External links==
+{{Wikivoyage|Qingyuan}}
+{{Commons category|Qingyuan}}
+*[https://web.archive.org/web/20060829080224/http://www.qywjm.gov.cn/ Qingyuan Foreign Trade and Economic Cooperation Bureau]
+*[http://www.qingyuan.jcy.gov.cn/ Qianyuan City Customs Authority]
+
+{{Navboxes
+|list = 
+{{Guangdong topics}}
+{{Guangdong}}
+{{Most populous cities in Guangdong}}
+{{Major cities along the Pearl River}}
+{{Prefectural-level divisions of the People's Republic of China}}
+}}
+{{Authority control}}
+
+[[Category:Qingyuan| ]]
+[[Category:Prefecture-level divisions of Guangdong]]

@@ -1,0 +1,386 @@
+{{Short description|Municipality in Bukidnon, Philippines}}
+{{More citations needed|date=June 2014}}
+{{Use mdy dates|date=November 2022}}
+{{Use Philippine English|date=November 2022}}
+{{Infobox settlement
+| name                    = {{PH wikidata|name}}
+| image_skyline           = Kalatungan Mountains.jpg
+| image_caption           = Kalatungan Mountains as seen from Maramag
+| image_flag              = Flag_of_Maramag,_Bukidnon.png
+| flag_size               = 120x80px
+| image_seal              = Ph seal maramag bukidnon.PNG
+| seal_size               = 100x80px
+| image_map               = {{PH wikidata|image_map}}
+| map_caption             = {{PH wikidata|map_caption}}
+| image_map1              = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe
+|frame-width=250}}{{hidden end}}
+| pushpin_map             = Philippines
+| pushpin_label_position  = left
+| pushpin_map_caption     = Location within the {{PH wikidata|country}}
+| coordinates             = {{PH wikidata|coordinates}}
+| settlement_type         = {{PH wikidata|settlement_type}}
+| subdivision_type        = Country
+| subdivision_name        = Philippines
+| subdivision_type1       = [[Regions of the Philippines|Region]]
+| subdivision_name1       = {{PH wikidata|region}}
+| subdivision_type2       = [[Provinces of the Philippines|Province]]
+| subdivision_name2       = {{PH wikidata|province}}
+| official_name           = {{PH wikidata|official_name}}
+| etymology               = <!--origin of name-->
+| named_for               = <!--named after (if person or place)-->
+| native_name             = 
+| other_name              = 
+| nickname                = The Place for Secured Investment
+| motto                   = ''Maramag for all, All for Maramag!''
+| anthem                  = 
+| subdivision_type3       = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3       = {{PH legislative district}}
+| established_title       = [[Date of establishment|Founded]]
+| established_date        = July 1, 1956
+| parts_type              = [[Barangay]]s
+| parts_style             = para
+| p1                      = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title            = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name             = Jose Joel P. Doromal
+| leader_title1           = [[Vice Mayor]]
+| leader_name1            = Maribeth Estrella-Lopez
+| leader_title2           = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2            = [[Jose Maria Zubiri Jr.|Jose Ma. R. Zubiri Jr.]]
+| leader_title3           = [[Sangguniang Bayan|Municipal Council]]
+| leader_name3            = {{PH Town Council
+ | 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Maribeth E. Lopez
+ | 3=Nestor G. Paulican
+ | 4=Joselyn L. Puerin
+ | 5=Abundio U. Gaitera
+ | 6=Roy Y. Cabalquinto
+ | 7=Ruben R. Villapaz
+ | 8=Esterlla C. Cuadrasal
+ | 9=Bernard Lawrence L. Zubiri
+}}
+| leader_title4           = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4            = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type         = {{PH wikidata|government_type}}
+| government_footnotes    = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m             = {{PH wikidata|elevation_m}}
+| elevation_max_m         = 574
+| elevation_min_m         = 183
+| elevation_max_rank      = 
+| elevation_min_rank      = 
+| elevation_footnotes     = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes = 
+| elevation_min_footnotes = 
+| area_rank               = 
+| area_footnotes          = {{PH area}}
+| area_total_km2          = {{PH wikidata|area}}
+| population_footnotes    = {{PH census|current}}
+| population_total        = {{PH wikidata|population_total}}
+| population_as_of        = {{PH wikidata|population_as_of}}
+| population_density_km2  = auto
+| population_blank1_title = [[Household]]s
+| population_blank1       = {{PH wikidata|household}}
+| population_blank2_title = 
+| population_blank2       = 
+| population_demonym      = 
+| population_rank         = 
+| population_note         = 
+| timezone                = [[Philippine Standard Time|PST]]
+| utc_offset              = +8
+| postal_code_type        = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code             = {{PH wikidata|postal_code}}
+| postal2_code_type       = {{PSGCstyle}}
+| postal2_code            = {{PSGC detail}}
+| area_code_type          = {{areacodestyle}}
+| area_code               = {{PH wikidata|area_code}}
+| website                 = {{PH wikidata|website}}
+| demographics_type1      = [[Economy of the Philippines|Economy]]
+| demographics1_title1    = {{PH wikidata|income_class_title}}
+| demographics1_info1     = {{PH wikidata|income_class}}
+| demographics1_title2    = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2     = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3    = [[Revenue]]
+| demographics1_info3     = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4    = Revenue rank
+| demographics1_info4     = 
+| demographics1_title5    = [[Asset]]s
+| demographics1_info5     = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6    = Assets rank
+| demographics1_info6     = 
+| demographics1_title7    = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7     = 
+| demographics1_title8    = IRA rank
+| demographics1_info8     = 
+| demographics1_title9    = [[Expenditure]]
+| demographics1_info9     = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10   = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10    = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2      = Service provider
+| demographics2_title1    = Electricity
+| demographics2_info1     = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2    = Water
+| demographics2_info2     = 
+| demographics2_title3    = Telecommunications
+| demographics2_info3     = 
+| demographics2_title4    = Cable TV
+| demographics2_info4     = 
+| demographics2_title5    = 
+| demographics2_info5     = 
+| demographics2_title6    = 
+| demographics2_info6     = 
+| demographics2_title7    = 
+| demographics2_info7     = 
+| demographics2_title8    = 
+| demographics2_info8     = 
+| demographics2_title9    = 
+| demographics2_info9     = 
+| demographics2_title10   = 
+| demographics2_info10    = 
+| blank_name_sec1         = {{PH wikidata|climate_title}}
+| blank_info_sec1         = {{PH wikidata|climate_type}}
+| blank1_name_sec1        = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1        = {{PH wikidata|language}}
+| blank2_name_sec1        = [[Crime index]]
+| blank2_info_sec1        = 
+| blank3_name_sec1        = 
+| blank3_info_sec1        = 
+| blank4_name_sec1        = 
+| blank4_info_sec1        = 
+| blank5_name_sec1        = 
+| blank5_info_sec1        = 
+| blank6_name_sec1        = 
+| blank6_info_sec1        = 
+| blank7_name_sec1        = 
+| blank7_info_sec1        = 
+| blank1_name_sec2        = Major religions
+| blank1_info_sec2        = 
+| blank2_name_sec2        = Feast date
+| blank2_info_sec2        = 
+| blank3_name_sec2        = Catholic diocese
+| blank3_info_sec2        = 
+| blank4_name_sec2        = Patron saint
+| blank4_info_sec2        = 
+| blank5_name_sec2        = 
+| blank5_info_sec2        = 
+| blank6_name_sec2        = 
+| blank6_info_sec2        = 
+| blank7_name_sec2        = 
+| blank7_info_sec2        = 
+| short_description       = 
+| footnotes               = 
+}}
+
+'''Maramag''', officially the '''Municipality of Maramag''' ({{lang-ceb|Lungsod sa Maramag}}; {{lang-tl|Bayan ng Maramag}}), is a 1st class [[municipality of the Philippines|municipality]] in the [[Philippine Province|province]] of [[Bukidnon]], Philippines. According to the 2020 census, it has a population of 108,293 people.{{PH census|current}}
+
+==History==
+[[File:Landing Fields - Philipines - Mindanao Island - NARA - 68160190.jpg|thumb|left|Aerial view of Maramag, 1935]]
+
+Maramag from “''Ag Ramag''”, a contracted Manobo term for “''Ag Ramag Ki Dini''”, which as freely translated, means “Let us eat our breakfast here.” The story as officially published by the late Prescioso Velez Abellanosa Sr. (a former municipal mayor) goes that the Manobos were constantly in conflict with the [[Maranao people|Maranaos]] for supremacy over the locality. Each time they set out for the battle they would stop on the bank of [[Pulangi River]] where flat stones that serve as their tables abound the area. Atop of these, they would draw their plans and eat their breakfast. This habit becomes their practice that even in times of peace and as a sign of good faith, these “Lumads”, the natives or early settlers invite others who happen to pass by to partake meals with them. Maramag then was a picnic ground were one can rest and take his meal as a short respite either from travel, trekking, hunting and trapping or from battle.
+
+Through the years, even Christians (referred to as "Dumagats", literally 'seaborne/coming from beyond the sea') started to come and settle near the place. They too would stop and eat their meals on these big flat stones during hunting trips or as they travel on foot from one valley to another. As more and more Christian settlers occupied the surrounding places, Ag Ramag became more commonly called as Maramag – a homonym or a contraction of the original Manobo term “Ag Ramag”.
+
+The political history of the municipality traces back in 1916 when the late Deputy Governor Cenon R. Paulican positively declared that people from different parts of the country began settling in the area. Years later, the people informally elected a leader among them as the incipient local government started to take form. They called their leaders “Captain”. These leaders normally remained in office for as long as their political abilities and faithfulness to duty would allow; Monarchial in so many ways although an election process is in place. This system prevailed up to the Second World War.
+
+In 1945, the first appointed Mayor was put in place to head the municipal government followed by two others. The first election for the position of the Municipal Mayor was held in 1951. The election for the members of the Barrio Council was held in 1955. From then on, ten other Municipal Mayors were either appointed or elected in the past 56 years up to the present.
+
+Maramag was formally created as a municipality through Executive Order No. 272 issued by then President [[Carlos P. Garcia]] on July 1, 1956. The Poblacion of Maramag was formerly located in Barangay Base Camp, three kilometers away from the present Poblacion. After World War II and upon the completion of the Sayre Highway, people started to move along the highway in a linear then nodal fashion and later concentrically forming the Poblacion today, composing Barangay North and South Poblacions.
+
+The municipal boundaries between Maramag, Pangantucan and Kibawe were established in 1935 by the then deputy Governor Cenon Paulican. Then, Maramag, with the organization of the former barangays Don Carlos and Quezon into regular municipalities, was reduced to its present area of about 58,198.98 hectares. As reported too, in the late sixties, a Memorandum of Agreement between Maramag and Valencia, Bukidnon was forged as to their common boundaries. Purportedly, the Lumbo Creek, as it flows to the Pulangi River defines the demarcation between the two municipalities.
+
+[[File:Central Mindanao University, entrance gate.jpg|thumb|left|Central Mindanao University (CMU) at Musuan, Maramag, Bukidnon]]
+The current seat of the government of Maramag consists of two barangays: the North and South Poblacion. When the [[Central Mindanao University]] (CMU) is transferred to Musuan, Dologon, Maramag, Bukidnon from Managok, Malaybalay, Bukidnon, the municipality became the host of the premier agricultural school in Mindanao.
+
+The municipality likewise served as the nodal point of the major national roads of the province to the different places of Mindanao namely: the Bukidnon–Wao (Lanao del Sur) road the Bukidnon – North Cotobato Road and the Bukidnon – Cagayan de Oro Road.
+
+Maramag boasts its agricultural importance to the development of the province. It has the Crystal Sugar Corporation with a rated capacity of 6,000 tons per day. As of 1999, the total area planted to sugarcane was 20,500 hectares, which ranked as the number one crop. Corn ranks second with 10,800 hectares planted and rice accounts for the third major crop in the municipality with the irrigated areas reaching 4,900 hectares.
+
+The National Power Corporation (NAPOCOR) [[Pulangi IV Hydroelectric Plant]] with a rated capacity of 255 megawatts is found in Maramag. The Power Plant contributed the Mindanao Grid.
+
+In terms of environment, the municipality plays a vital role in the protection of the Bukidnon Watershed. Thirty percent of the land, approximately 17,340 hectares, of Maramag has been designated as forest land. These include the protected forest (10.45%), production forest (85.85%) and buffer zones (3.7%). The forest area categorized under the NIPAS is the 1,939.62 hectares within the confines of Mt. Kalatungan Range, the third highest mountain of the country.
+
+Maramag also boasts a number of spectacular springs, which had contributed to its esteemed title, "The Land of Springs". Because of its prominence within the municipality, it attracted many tourists from near and afar to feel and indulge upon the cold and crystalline waters.
+{{clear-left}}
+
+==Geography==
+[[File:Ph bukidnon maramag political map.png|left|thumb|Political map of Maramag, showing its 20 barangays]]
+Maramag, a landlocked municipality of Bukidnon, is approximately {{Convert|158|km}} southeast of [[Cagayan de Oro]], around {{Convert|50|km}} south of [[Malaybalay]] City, {{Convert|152|km}} from [[Davao City]] and {{Convert|281|km}} from [[General Santos]].
+
+It is bounded on the north and north-eastern by the municipality of Valencia; on the east by the municipality of Quezon; on the south by the municipality of Don Carlos; and on the west by the municipality of Pangantucan, all within the Province of Bukidnon. It is located within the geographic coordinates of 7°41’, to 7°58’ North latitude and 124°47’ to 125°14’ East longitude.
+
+Maramag covers a total land area of {{Convert|44726|ha}} and politically divided into 20 barangays. The largest barangay is Kuya.
+
+===Barangays===
+Maramag is politically subdivided into 20 [[barangay]]s. Each barangay consists of [[purok]]s  while some have [[sitios]].
+
+Five barangays are categorized as urban: Base Camp, Dagumba-an, Dologon, North and South [[Poblacion]]s; and fifteen as rural.
+<!-- arranged by PSGC for easier updates in the future -->
+{{PH brgy table lite|top}}
+{{PH brgy table lite|101315001| Anahawon               |  3016|  2350}}
+{{PH brgy table lite|101315002| Base Camp              |  7569|  6905}}
+{{PH brgy table lite|101315003| Bayabason (''Spring'') |  2737|  2370}}
+{{PH brgy table lite|101315004| Camp I                 |  4852|  4416}}
+{{PH brgy table lite|101315005| Colambugon             |  1916|  1761}}
+{{PH brgy table lite|101315006| Dagumba{{nbhyph}}an    |  7638|  7134}}
+{{PH brgy table lite|101315007| Danggawan              |  1680|  1587}}
+{{PH brgy table lite|101315008| Dologon                | 14093| 11747}}
+{{PH brgy table lite|101315009| Kisanday               |  2599|  2620}}
+{{PH brgy table lite|101315010| Kuya                   |  4819|  4294}}
+{{PH brgy table lite|101315011| La Roxas               |  2430|  2191}}
+{{PH brgy table lite|101315012| Panadtalan             |  4774|  3983}}
+{{PH brgy table lite|101315013| Panalsalan             |  2344|  2194}}
+{{PH brgy table lite|101315014| North [[Poblacion]]    | 14799| 12352}}
+{{PH brgy table lite|101315015| South Poblacion        | 12165| 11408}}
+{{PH brgy table lite|101315016| San Miguel             |  6518|  5942}}
+{{PH brgy table lite|101315017| San Roque              |  3126|  2952}}
+{{PH brgy table lite|101315018| Tubigon                |  2201|  1902}}
+{{PH brgy table lite|101315019| Bagongsilang           |  1045|  1041}}
+{{PH brgy table lite|101315020| Kiharong               |  1768|  1752}}
+{{PH brgy table lite|bottom|90901}}
+
+===Topography===
+[[File:MaramagNightAerial.jpg|thumb|270px|Aerial view of Maramag at night]]
+Maramag is bounded in the North-East by mountain ranges of Mount Kilakron and [[Mount Kalatungan]]. Among its important landmarks are the Adtuyon Plateau and the [[Musuan Peak]], at the base of which lies the [[Central Mindanao University]] (CMU), a [[state university]] at [[Musuan]], Barangay Dologon.
+
+The municipality is well distributed in terms of slope gradients. The eastern and central sections of Maramag except in some patches are characteristically flat but undulated towards the northern and western boundaries of the area.
+
+Areas having slopes of 0–18 percent occupies almost half (48.84%) of the entire municipality with the 0-3% slope category accounting for 26.47 percent. Another slope category with considerable area is the 8-18% occupying around 9,014.76 hectares and comprising 17.27 percent of the total land area.  The largest area in Maramag in terms of the slope grouping is the 18-30%, which comprised 27.39 percent of the land area or an equivalent area of 14,297.30 hectares.  The very steep hills and mountains (50% and above in slope) in Maramag occupy only 6,566.63 or 12.58% of the total land area.  These areas are located mostly in the western and northern boundaries of Maramag.
+
+===Water bodies===
+Bodies of water abound the area, the Baguic-ican River in the east, flowing downstream as tributary of [[Muleta River]] that drains in the South to Don Carlos; and the Maramag River whose tributaries upstream originates from the central portion of the municipality, which flows further towards the [[Pulangi River]]. Another tributary to Pulangi River that flows within the area are the Kibalagon Creek and the Kulaman River, both found in the North East.
+
+Only [[Pulangi Lake|Pulangi Watershed]] is identified to have an influence on the availability of water resources in Maramag.
+
+===Climate===
+{{Weather box
+| location             = Maramag, Bukidnon
+| width                = auto
+| metric first         = Yes
+| single line          = Yes
+| Jan high C           = 29
+| Jan low C            = 20
+| Feb high C           = 29
+| Feb low C            = 20
+| Mar high C           = 30
+| Mar low C            = 20
+| Apr high C           = 31
+| Apr low C            = 21
+| May high C           = 30
+| May low C            = 22
+| Jun high C           = 29
+| Jun low C            = 23
+| Jul high C           = 29
+| Jul low C            = 22
+| Aug high C           = 29
+| Aug low C            = 22
+| Sep high C           = 30
+| Sep low C            = 22
+| Oct high C           = 29
+| Oct low C            = 22
+| Nov high C           = 29
+| Nov low C            = 22
+| Dec high C           = 29
+| Dec low C            = 21
+| Jan precipitation mm = 44
+| Feb precipitation mm = 27
+| Mar precipitation mm = 32
+| Apr precipitation mm = 35
+| May precipitation mm = 76
+| Jun precipitation mm = 117
+| Jul precipitation mm = 108
+| Aug precipitation mm = 108
+| Sep precipitation mm = 94
+| Oct precipitation mm = 100
+| Nov precipitation mm = 76
+| Dec precipitation mm = 46
+| Jan rain days        = 10.3
+| Feb rain days        = 8.1
+| Mar rain days        = 8.5
+| Apr rain days        = 9.6
+| May rain days        = 21.0
+| Jun rain days        = 24.9
+| Jul rain days        = 25.0
+| Aug rain days        = 24.2
+| Sep rain days        = 22.5
+| Oct rain days        = 23.4
+| Nov rain days        = 17.7
+| Dec rain days        = 11.4
+| source 1             = Meteoblue <small>(modeled/calculated data, not measured locally)</small><ref name="met_norms">
+{{cite web
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/maramag_philippines_1701124
+| title   =Maramag: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| accessdate = April 29, 2020 }}</ref>
+| date                 = April 29, 2020
+}}
+
+==Demographics==
+{{Philippine Census
+| align= none
+| title= Population census of {{PH wikidata|name}}
+| 1903 = 
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}}
+}}
+
+In the 2020 census, the population of Maramag, Bukidnon, was 108,293 people,{{PH census|current}} with a density of {{convert|{{sigfig|108,293/447.26|2}}|PD/km2|disp=or}}.
+
+===Ethnicity===
+The population in the municipality is a mixture of different tribal origins. We can observe people speaking in different dialects/languages which are an implication of being foreign or in migrant to the locality.
+
+Based from historical accounts, the original inhabitants of Maramag came from the blood of Manobos and Maranaos. Through the years, Christians or Dumagats started to come and settle in the area. Among them, Cebuano tongue predominated the place, while other majority groups find their living in all the corners of Maramag, although Lumads can still be found.
+
+===Languages and dialects===
+
+As shown in the Calendar Year 2000 Census of Population, the inhabitants of Maramag is composed of 77 carried ethnic groups. Cebuano is the dominant group among these carried ethnic groups. Other ethnic groups of higher headcount include Boholano, Hiligaynon/Ilonggo, Bukidnon, Ilocano and Tagalog.
+
+==Economy==
+[[File:Ph bukidnon maramag waigresort.jpg|thumb|Waig Crystal Spring Resort]]
+Maramag is home to inland aqua-culture [[hatchery|hatcheries]] and Techno Demo Farm where agricultural technology is developed. The Dole Banana Plantation has a total area of 800 hectares. The plantation contributes to the supply of bananas exportation of the known DOLE Company.
+
+Industries include mulberry production, mineral and purified drinking water production, and sugar processing.
+
+[[File:RRVikingsLake.jpg|thumb|left|RR Family Spring Resort]]
+Tourism sect is booming with spring resorts scattered around the municipality, namely Waig, RR, MGM, Edlimar, Enchanted and Rockstar spring resort.
+
+Screenshots Cafe which opened in 2016 provided home theater facilities, the first of its kind in Bukidnon.
+
+Electric power is generated at the Pulangi IV Hydro Electric Plant in Barangay Camp 1. With rated capacity of 255 megawatts, the power plant supplies power to various provinces of Mindanao.
+
+The Maramag Public Wet Market was named as the cleanest wet market in the country by numerous blogging award-giving bodies.<ref>[https://kami.com.ph/82065-pati-cr-palengke-sa-bukidnon-tinaguriang-pinakamalinis-na-wet-market-sa-pilipinas.html Pati CR! Palengke sa Bukidnon, tinaguriang pinakamalinis na wet market sa Pilipinas]</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+*[https://web.archive.org/web/20090503105008/http://maramag.gov.ph/ Maramag]
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+*[https://web.archive.org/web/20131004104825/http://census.gov.ph/ Philippine Census Information]
+
+{{Geographic location
+|Centre = Maramag
+|North  = [[Valencia, Bukidnon|Valencia City]]
+|East   = [[Quezon, Bukidnon|Quezon]]
+|South  = [[Don Carlos, Bukidnon|Don Carlos]]
+|West   = [[Pangantucan]]
+}}
+{{Bukidnon}}
+{{Authority control}}
+
+[[Category:Municipalities of Bukidnon]]
+[[Category:Populated places on the Rio Grande de Mindanao]]
+[[Category:Political divisions established by Philippine executive order]]

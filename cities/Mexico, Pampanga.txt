@@ -1,0 +1,434 @@
+{{Short description|Municipality in Pampanga, Philippines}}
+{{Use Philippine English|date=February 2023}}
+{{Use mdy dates|date=February 2023}}
+{{Infobox settlement
+| name                   = {{PH wikidata|name}} 
+| image_skyline          = Mexicojf2.JPG 
+| image_caption          = Downtown area
+| image_flag             = Flag_of_Mexico,_Pampanga.png
+| flag_size              = 120x80px
+| image_seal             = Mexico Pampanga.png
+| seal_size              = 100x80px
+| image_map              = {{PH wikidata|image_map}}
+| map_caption            = {{PH wikidata|map_caption}}
+| image_map1             = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map            = Philippines
+| pushpin_label_position = left
+| pushpin_map_caption    = Location within the {{PH wikidata|country}}
+| coordinates            = {{PH wikidata|coordinates}}
+| settlement_type        = {{PH wikidata|settlement_type}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = [[Philippines]]
+| subdivision_type1      = [[Regions of the Philippines|Region]]
+| subdivision_name1      = {{PH wikidata|region}}
+| subdivision_type2      = [[Provinces of the Philippines|Province]]
+| subdivision_name2      = {{PH wikidata|province}}
+| official_name          = {{PH wikidata|official_name}}
+| etymology              =  
+| named_for              = [[Mexico City]]
+| native_name            =
+| other_name             =  Masiku
+| nickname               =
+| motto                  =
+| anthem                 =
+| subdivision_type3      = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3      = {{PH legislative district}}
+| established_title      = [[Date of establishment|Founded]]
+| established_date       = April 24, 1581
+| parts_type             = [[Barangay]]s
+| parts_style            = para
+| p1                     = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title           = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name            = Rodencio S. Gonzales
+| leader_title1          = [[Vice Mayor]]
+| leader_name1           = Susana D. Siron
+| leader_title2          = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2           = Aurelio D. Gonzales Jr.
+| leader_title3          = [[Sangguniang Bayan|Municipal Council]]
+| leader_name3           = {{PH Town Council
+| 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Susana d.O Siron
+ | 3=Dexter T. Colis
+ | 4=Romeo C. Payabyab
+ | 5=John Paul D. Gozun
+ | 6=Trina D. Guevarra
+ | 7=Rolando P. Gonzales
+ | 8=Rex d.L Calma
+ | 9=Ma. Angelica B. Pangan
+}}
+| leader_title4          = [[Elections in the Philippines#Qualification|Electorate]] 
+| leader_name4           = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type        = {{PH wikidata|government_type}}
+| government_footnotes   = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m            = {{PH wikidata|elevation_m}}
+| elevation_max_m        = 34
+| elevation_min_m        = 2
+| elevation_max_rank     =
+| elevation_min_rank     =
+| elevation_footnotes    = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes= 
+| elevation_min_footnotes= 
+| area_rank              = 
+| area_footnotes         = {{PH area}}
+| area_total_km2         = {{PH wikidata|area}}
+| population_footnotes   = {{PH census|current}}
+| population_total       = {{PH wikidata|population_total}}
+| population_as_of       = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title= [[Household]]s
+| population_blank1      = {{PH wikidata|household}} 
+| population_blank2_title= 
+| population_blank2      = 
+| population_demonym     =
+| population_rank        =
+| population_note        =
+| timezone               = [[Philippine Standard Time|PST]]
+| utc_offset             = +8
+| postal_code_type       = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code            = {{PH wikidata|postal_code}}
+| postal2_code_type      = {{PSGCstyle}}
+| postal2_code           = {{PSGC detail}}
+| area_code_type         = {{areacodestyle}}
+| area_code              = {{PH wikidata|area_code}}
+| website                = {{PH wikidata|website}}
+| demographics_type1     = [[Economy of the Philippines|Economy]]
+| demographics1_title1   = {{PH wikidata|income_class_title}}
+| demographics1_info1    = {{PH wikidata|income_class}}
+| demographics1_title2   = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2    = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3   = [[Revenue]]
+| demographics1_info3    = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}} 
+| demographics1_title4   = Revenue rank
+| demographics1_info4    = 
+| demographics1_title5   = [[Asset]]s
+| demographics1_info5    = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}} 
+| demographics1_title6   = Assets rank
+| demographics1_info6    = 
+| demographics1_title7   = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7    =  
+| demographics1_title8   = IRA rank
+| demographics1_info8    = 
+| demographics1_title9   = [[Expenditure]]
+| demographics1_info9    = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}} 
+| demographics1_title10  = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10   = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2     = Service provider 
+| demographics2_title1   = Electricity
+| demographics2_info1    = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2   = Water
+| demographics2_info2    =  
+| demographics2_title3   = Telecommunications
+| demographics2_info3    = 
+| demographics2_title4   = Cable TV
+| demographics2_info4    =
+| demographics2_title5   = 
+| demographics2_info5    =
+| demographics2_title6   = 
+| demographics2_info6    =
+| demographics2_title7   = 
+| demographics2_info7    =
+| demographics2_title8   = 
+| demographics2_info8    =
+| demographics2_title9   = 
+| demographics2_info9    =
+| demographics2_title10  = 
+| demographics2_info10   =
+| blank_name_sec1        = {{PH wikidata|climate_title}}
+| blank_info_sec1        = {{PH wikidata|climate_type}}
+| blank1_name_sec1       = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1       = {{PH wikidata|language}}
+| blank2_name_sec1       = [[Crime index]]
+| blank2_info_sec1       = 
+| blank3_name_sec1       = 
+| blank3_info_sec1       = 
+| blank4_name_sec1       = 
+| blank4_info_sec1       = 
+| blank5_name_sec1       = 
+| blank5_info_sec1       = 
+| blank6_name_sec1       = 
+| blank6_info_sec1       = 
+| blank7_name_sec1       = 
+| blank7_info_sec1       = 
+| blank1_name_sec2       = Major religions
+| blank1_info_sec2       = 
+| blank2_name_sec2       = Feast date
+| blank2_info_sec2       = 
+| blank3_name_sec2       = Catholic diocese
+| blank3_info_sec2       =
+| blank4_name_sec2       = Patron saint 
+| blank4_info_sec2       = 
+| blank5_name_sec2       = 
+| blank5_info_sec2       = 
+| blank6_name_sec2       = 
+| blank6_info_sec2       = 
+| blank7_name_sec2       = 
+| blank7_info_sec2       =
+| short_description      =
+| footnotes              =
+}}
+
+'''Mexico''' (also known as ''Masiku''), officially the '''Municipality of Mexico''' ({{lang-pam|Balen ning Mexico}}; {{lang-tl|Bayan ng Mexico}}), is a 1st class [[municipality of the Philippines|municipality]] in the [[Philippine Province|province]] of [[Pampanga]], the [[Philippines]]. According to the 2020 census, it has a population of 173,403 people.{{PH census|current}} It was also formerly known as '''Nuevo México''' during the Spanish period.
+[[File:Monument_at_Pampanga_Provincial_Capitol2.jpg|150px|thumbnail|right|[[:tl:Maximino Hizon|Maximino Hipolito Hizon]] "Bayani ng Mexico"]]
+
+Mexico is {{convert|8|km}} from [[San Fernando, Pampanga|San Fernando]] and {{convert|74|km}} from [[Manila]].
+
+==History==
+[[File:Sta. Monica Belfry, Mexico, Pampanga.jpg|left|thumb|Sta. Monica Belfry Tower]]
+According to [[folk etymology]], the original pre-Hispanic name of the village was purportedly ''Masicu'' or ''Maca-sicu'', which the Spaniards spelled as "México". It is claimed that this was a reference to an abundance of ''[[Manilkara zapota|chico]]'' trees. However ''chico'' trees are not [[endemic]] to the Philippines and were introduced by the Spaniards from what is now the country of [[Mexico]]. Another claim is that it is derived from ''siku'' ("elbow") and was a reference to the elbow-shaped bends of the nearby Abacan and [[Pampanga River]]s. But there are no records of the town ever being called ''Masicu''. Instead, the origin of the latter name is believed to be simply a common mispronunciation by the locals.<ref name="galande"/><ref name="gov">{{cite web|url=http://mexicopampanga.gov.ph/about-mexico/history/|title=History|publisher=Municipality of Mexico, Province of Pampanga, Republic of the Philippines|access-date=October 29, 2018}}</ref><ref name="cam">{{cite web|url=http://www.andropampanga.com/history_mexico.htm|title=The Town of Mexico, Pampanga|author=Alejadro S. Camiling & Teresita Z. Camiling|publisher=Andro's Kapampangan Page|access-date=October 29, 2018}}</ref><ref name="ocampo">{{cite web|url=https://www.pressreader.com/philippines/philippine-daily-inquirer/20090923/281852934613711|title=Mexico under our skin|author=Ambeth R. Ocampo|date=September 23, 2009|publisher=Philippine Daily Inquirer|access-date=October 29, 2018}}</ref>
+
+According to the [[Augustinians|Augustinian]] records in ''Libros de Gobierno Eclesiástico'', the town was founded as a river trading port at around 1581 and was originally named Novo México (the [[Old Spanish]] form of Nuevo México, "New Mexico") after [[Mexico City]].<ref name="galande">{{cite book|author=Pedro G. Galende|title =Angels in Stone: architecture of Augustinian churches in the Philippines|publisher =G.A. Formoso Pub.|year =1987|page=189|isbn =9789718575000}}</ref><ref name="red">{{cite book|author=Emilio Ridruejo|editor =Otto Zwartjes & Even Hovdhaugen|title =Missionary Linguistics/Lingüística misionera: Selected papers from the First International Conference on Missionary Linguistics, Oslo, 13 16 March 2003|chapter =La Primitiva Tradición Gramatical Sobre El Pampango|publisher =John Benjamins Publishing|year =2004|page=189|isbn =9789027285416|chapter-url =https://books.google.com/books?id=uds5AAAAQBAJ&q=M%C3%A9xico%20pampango&pg=PA189}}</ref><ref name="delg">{{cite book|author=Juan Jose Delgado|title =Historia general, sacro-profana, política y natural de las Islas del Poniente llamadas Filipines|publisher =J. Atayde|year =1892|page=32|url =https://books.google.com/books?id=r8RJAQAAMAAJ&q=M%C3%A9xico+pampango&pg=PA32}}</ref><ref name="bara">{{cite book|author=Francisco Xavier Baranera|title =Compendio de geografía de las islas Filipinas, Marianas y Joló|publisher =Establecimiento tipográfico de Ramirez y Giraudier|year =1880|page=37|url =https://books.google.com/books?id=XKE2AAAAMAAJ&q=M%C3%A9xico%20pampango&pg=PA37}}</ref> Mexico, Pampanga, definitely received immigrants from Mexico since it is recorded that there were thousands of Mexican migrants to the Philippines, per year,<ref>
+{{cite book |quote=In Governor Anda y Salazar's opinion, an important part of the problem of vagrancy was the fact that Mexicans and Spanish disbanded after finishing their military or prison terms "all over the islands, even the most distant, looking for subsistence.~CSIC riel 208 leg.14 |last=Mehl |first=Eva Maria |title=Forced Migration in the Spanish Pacific World From Mexico to the Philippines, 1765–1811 |publisher=Cambridge University Press |chapter=Chapter 6 – Unruly Mexicans in Manila |date=2016 |url=https://www.cambridge.org/core/books/forced-migration-in-the-spanish-pacific-world/unruly-mexicans-in-manila/EF2599210A0715A5A91B23BB9D84B96C |doi=10.1017/CBO9781316480120.007 |isbn=9781316480120}}</ref><ref>Garcıa de los Arcos, "Grupos etnicos", 65–66 {{cite journal |url=https://www.persee.fr/doc/arch_0044-8613_1999_num_57_2_3515 |title=Grupos éthnicos y Clases sociales en las Filipinas de Finales del Siglo XVIII |last= Garcia de los Arcos |first=Maria Fernanda |journal=Archipel |date=1999 |volume=57 |issue=2 |pages=55–71 |doi=10.3406/arch.1999.3515 |access-date=August 19, 2020}}</ref> back when the Philippines was part of Mexico-City governed [[Viceroyalty of New Spain]].
+
+The Spanish colonists made México the capital of the newly formed Province of Pampanga. Gaspar de San Agustin wrote that being the capital, México was one of the most “beautiful and charming” centers in the province. A lavish church made of stone and tiles, the Parish of Santa Monica, was built in 1581 with Masangsang and Matúlid serving as its ''visitas''.{{citation needed|date=October 2018}} Mexico also formerly included the city of [[San Fernando, Pampanga|San Fernando]], including parts of [[Angeles City]] (formerly the ''[[barrio]]'' San Angelo).<ref name="gov"/>
+
+In 1660, Don Francisco Maniago, a native leader from México, led the [[Philippine revolts against Spain#Maniago/Pampanga Revolt (1660–1661)|Pampanga Revolt]] against the Colonial Government. It was caused by the imposition of forced labor (''polo'') and rice tributes (''bandala'') by the Spanish colonial government. Maniago also inspired similar revolts in neighboring cities. These were suppressed in 1661 by [[Governor-General of the Philippines|Governor-General]] [[Sabiniano Manrique de Lara]].<ref name="gov"/>
+
+The Spanish colonial authorities stripped México of its political importance after the Pampanga Revolt by moving the provincial capital further downstream to Bacolor. But it retained its strategic economic importance especially among the Lúsung Chinese and their mestizo descendants. México was still a regular drop off point of forest products from the upper reaches of the Ábacan River. It was also a favored destination by merchants from as far north as Pangasinan. By the 18th century, the Chinese traders and their [[mestizo de sangley]] descendants living in México, Guagua and Malabon had formed and maintained business and social alliances with each other. [[Casco (barge)|Cascos]] and [[sampan]]s maintained the flow of goods along the Malabon-Guagua-México chain. Like the Chinese section of Manila, the commercial center of México became known as the [[Parián]].{{citation needed|date=October 2018}}
+
+In 1898, General Maximino Hizon, rallied Kapampángans to fight the Spanish Colonial forces under Emilio Aguinaldo's revolutionary banner and ordered the execution of the Parish priests of México and San Fernando. When the Americans replaced the Spaniards as the new colonists, General Maximino Hizon soon rose up to become supreme commander of all the Philippine Forces in Pampanga. He was captured by the Americans in 1901 and exiled to Guam after refusing to pledge his allegiance to the United States. He died in exile on September 1, 1901.<ref name=Foreman>Foreman, J., 1906, The Philippine Islands, A Political, Geographical, Ethnographical, Social and Commercial History of the Philippine Archipelago, New York: Charles Scribner's Sons</ref>{{rp|505}}<ref name="gov"/>
+<!--Revolutionary sentiments remained alive in México even after the victory of the Americans. ''The Manila Times'' reported that in August 4, 1901, two principales from the town of México were buried alive for collaborating with the Americans. In 1903, the Universal Democratic Filipino Republic, a paramilitary independence movement composed of Kapampángan elite, was organized in México.-->
+
+==Geography==
+===Barangays===
+Mexico is politically subdivided into 43 [[barangay]]s. Each barangay consists of [[purok]]s and some have [[sitios]].
+{{columns-list|colwidth=22em|
+* Acli
+* Anao
+* Balas
+* Buenavista
+* Camuning
+* Cawayan
+* Concepcion
+* Culubasa
+* Divisoria
+* Dolores (Piring)
+* Eden
+* Gandus
+* Lagundi
+* Laput
+* Laug
+* Masamat
+* Masangsang (Santo Cristo)
+* Nueva Victoria
+* Pandacaqui
+* Pangatlan
+* Panipuan
+* Parian ([[Poblacion]])
+* Sabanilla
+* San Antonio
+* San Carlos
+* San Jose Malino
+* San Jose Matulid
+* San Juan
+* San Lorenzo
+* San Miguel
+* San Nicolas
+* San Pablo
+* San Patricio
+* San Rafael
+* San Roque
+* San Vicente
+* Santa Cruz
+* Santa Maria
+* Santo Domingo
+* Santo Rosario
+* Sapang Maisac
+* Suclaban
+* Tangle
+}}
+
+===Climate===
+{{Weather box
+| location     = Mexico, Pampanga
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 28
+| Jan low C  = 20
+| Feb high C = 29
+| Feb low C  = 20
+| Mar high C = 31
+| Mar low C  = 21
+| Apr high C = 33
+| Apr low C  = 23
+| May high C = 32
+| May low C  = 24
+| Jun high C = 31
+| Jun low C  = 24
+| Jul high C = 30
+| Jul low C  = 24
+| Aug high C = 29
+| Aug low C  = 24
+| Sep high C = 29
+| Sep low C  = 24
+| Oct high C = 30
+| Oct low C  = 23
+| Nov high C = 30
+| Nov low C  = 22
+| Dec high C = 28
+| Dec low C  = 21
+| Jan precipitation mm = 6
+| Feb precipitation mm = 4
+| Mar precipitation mm = 6
+| Apr precipitation mm = 17
+| May precipitation mm = 82
+| Jun precipitation mm = 122
+| Jul precipitation mm = 151
+| Aug precipitation mm = 123
+| Sep precipitation mm = 124
+| Oct precipitation mm = 99
+| Nov precipitation mm = 37
+| Dec precipitation mm = 21
+| Jan rain days        = 3.3
+| Feb rain days        = 2.5
+| Mar rain days        = 3.6
+| Apr rain days        = 6.6
+| May rain days        = 17.7
+| Jun rain days        = 22.2
+| Jul rain days        = 25.2
+| Aug rain days        = 23.7
+| Sep rain days        = 23.2
+| Oct rain days        = 17.9
+| Nov rain days        = 9.2
+| Dec rain days        = 5.2
+| source 1 = Meteoblue<ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/mexico_philippines_1699805
+| title =  Mexico: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| access-date = May 5, 2020 }}</ref>
+| date = May 5, 2020
+}}
+{{clear-left}}
+
+==Demographics==
+{{stack|float=right|[[File:Stodomingojf1.JPG|thumbnail|right|[[Roman Catholic Archdiocese of San Fernando]], Santo Domingo de Guzman Parish]]
+[[File:Sta. Monica Church, Mexico, Pampanga (1).jpg|thumbnail|right|Santa Monica Parish Church, Parian]]}}
+{{Philippine Census
+| align = left
+| cols = 2
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+In the 2020 census, the population of Mexico, Pampanga, was 173,403 people,{{PH census|current}} with a density of {{convert|{{sigfig|173,403/117.41|2}}|PD/km2|disp=or}}.{{clear-left}}
+
+===Religion===
+[[File:2mexico2jf.JPG|thumbnail|right|Benedictine Monastery of Perpetual Adoration]]
+Parish churches and Spanish-era chapels:
+* '''Santa Monica Parish Church and Belfry''' was built by Fr. Jose dela Cruz in 1665 but was destroyed during an earthquake in 1880. What remains is just the Belfry Tower of the former Augustinian-run church. Near the 17th century Belltower of Mexico, one can also find the St. Benedict's Institution de Mexico, an Augustinian convent that was constructed in time with the Santa Monica Parish Church in 1665. Although Augustinian records such as the Estado of 1612 indicates that Mexico has one convent and two priests during that time.
+* '''Good Shepherd Parish Church''', Pandacaqui Ressetlement
+* '''Our Lord's Annunciation Parish Church''', San Vicente
+* '''San Jose Parish Church''', San Jose Malino
+* '''San Miguel de Archangel Parish Church''', Anao
+* '''Santo Domingo de Guzman Parish Church'''
+* '''San Isidro Labrador Chapel''', Tangle (and in Sitio Suarez)
+* [[San Jose Matulid Chapel]] is believed to be the oldest chapel in Pampanga.<ref name="Mexico LGU">{{cite web|title=Attractions: San Jose Matulid Chapel|url=http://www.mexicopampanga.gov.ph/index.php/business/attractions/110-san-jose-matulid-chapel|website=www.mexicopampanga.gov.ph|access-date=November 14, 2014|url-status=dead|archive-url=https://web.archive.org/web/20141129020743/http://www.mexicopampanga.gov.ph/index.php/business/attractions/110-san-jose-matulid-chapel|archive-date=November 29, 2014}}</ref><ref name=HAU>{{cite web|title=The Rivers That Shaped San Fernando and Angeles|url=http://www.hau.edu.ph/kapampangan_center/publication/pdf/singsing/a-tale-of-two-cities.pdf|website=www.hau.edu.ph|publisher=Holy Angel University - Center for Kapampangan Studies|access-date=November 14, 2014}}</ref><ref name=Vigattin>{{cite web|title=Tara Na sa Mexico, Pampanga|url=http://vigattintourism.com/tourism/articles/Tara-na-sa-Mexico-Pampanga|website=www.vigattintourism.com|access-date=November 14, 2014}}</ref> 
+* '''Sabanilla chapel'''. The Our Lady of the Most Holy Rosary chapel, commonly referred to as the Sabanilla chapel (''bisitas ning Sabanilla''), is a stone chapel located between the fork roads of the barangay leading to rice fields. Like the San Jose Matulid chapel, no available documents tell of the exact date and history of the chapel. Notable features of the structure are the saint's niche flanked by decorative columns and carved stone blinds located on rectangular windows of the façade.
+
+[[File:JC Sabanilla 1.JPG|thumb|200px|Facade of the Sabanilla chapel]]
+
+====Religious and cultural traditions====
+*Good Friday rites: The faithful remember the passion and death of Jesus by the pondering the Seven Last Words of Christ and the "''Tanggal''" (a re-enactment of how Jesus’ body was taken down from the cross). After the "Prusisyung Pasu at Pamangutcut" (Procession of the Scenes and Burial of Christ), the traditional "''burul''" (literally means: wake) where the Santo Entierro seems to be in a wake follows. In here, people visit and pray before the image, after which, in the midnight of Good Friday, there is a procession of the Virgen dela Soledad (Our Lady of Solitude). This is a ‘silent procession’ meditating and joining with the Virgin's sorrow and grief. Usually, single men and women join the procession believing that they will be blessed in their opted state of ‘single blessedness' in life.
+*Easter Sunday celebration: The faithful celebrate Easter. During the day, the Filipino tradition of "''Salubong/Encuentro''" is done, after which the "Pacbung Judas" or the burning of Judas' effigy follows.
+*April 24: This is regarded as the Mexico Day, following the date of the establishment of the town and parish on April 24, 1581. (Also the Feast of the Conversion of Saint Augustine). During the day, the parish organizes the Augustinian Festival as a tribute to the Augustinian forefathers of the town. A procession of different Augustinian saints and blesseds is held. Among the images joining the procession are Saint Monica, Saint Augustine, Saint Nicholas of Tolentino, Saint Rita of Cascia, Saint Thomas of Villanova, Saint John of Sahagun, San William the Hermit, Saint Magdalene of Nagasaki, Saint Ezequiel Moreno and Our Lady of Consolation and the Cincture.
+*May 4: Mexico's town fiesta is celebrated in honor of its patron saint, Saint Monica (Mother of Saint Augustine).
+*September 4: The people of Mexico celebrate the feast of Virgen dela Consolacion y Correa (Our Lady of Consolation and the Cincture; Patroness of the Augustinian Order) during which they receive blessed cinctures imitating the gesture of the Virgin Mary giving her own cincture to Saint Monica during her grief and sorrow at her son's misgivings.
+*September 10: The Sanikulas Festival is celebrated in honor of Saint Nicolas de Tolentino. Bread/cookies (a local delicacy in the town with arrowroot as their main ingredient) are eaten. The tradition is inspired by the story of San Nicolas when he was ill for some time and his advancement to old age started to manifest. He was about to die when his superiors asked him to eat a little meat (for he was a vegetarian) to be nourished, after all he is needed by his community and the souls in purgatory, which he had been praying for. Although he wanted to follow the advice of his superiors he also acknowledged the power and value of fasting towards God's merciful love. He then sought the help of the Virgin Mary through a prayer. Moved by his prayers, she appeared with the baby Jesus in her arms. She handed Nicolas a small piece of bread and asked him to dip it in the water contained in a chalice being held by the baby Jesus. Following her advice, he immediately recovered from his illness, and had more strength than he had ever had before. From then on, Nicolas would bless little pieces of bread, which he would hand out among the people for them to be healed.
+*December 15–24: Christmas is welcomed by the annual "''Lubenas Pascu''". During this celebration, they parade colorful lanterns and decorated carrozas. According to Tantingco, Lubenas came from the word ''novena'', which means nine days, referring to the nine-day ''simbang gabi''. But while the rest of the country was content with attending dawn masses for nine consecutive days, Kapampangans went a step farther by holding a procession on the eve of every ''simbang gabi'' with a procession after dinner, which means they slept late, and then woke up before dawn for the ''simbang gabi'' (or ''simbang bengi'' in Kapampangan).
+
+== Economy ==
+{{PH poverty incidence}}
+[[File:Mexico Public Market, Pampanga, June 2023.jpg|thumb|250x250px|Mexico Public Market]]
+{{clear-left}}
+
+==Education==
+It has various educational institutions including:
+
+===Elementary===
+*Mexico Ecumenical Dev't. Center for Children Inc.
+*Our Lady of Guadalupe School and Play Matters Therapy Center in Lagundi
+*School of Saint Brother Benilde, a [[De La Salle Supervised Schools|De La Salle-supervised]] private school (Closed)
+*San Juan Elementary School
+*Mexico Central School (Mexico South)
+*Sto.Rosario Elem School (Central School) (Mexico North)
+*Pandacaqui Resettlement Elementary School
+*Tangle Elementary School
+*Culubasa Elementary School
+*Suclaban Elementary School
+*Acli Elementary School
+*Camuning Elementary School
+*San Jose Malino Elementary School
+*Divisoria Elementary School
+
+===High school===
+*Don Jesus Gonzales High School
+*San Juan High School
+*Mexico National High School
+*Diosdado Macapagal High School (San Pablo)
+*St Joseph Academy (San Antonio)
+*Divisoria High School
+
+===Higher education===
+*Don Honorio Ventura State University (Mexico Campus)
+
+==References==
+{{Reflist}}
+
+==Books==
+*Gaspar de San Agustin, ''Conquistas de las Islas Filipinas 1565-1615'', Translated by Luis Antonio Mañeru, 1st bilingual ed [Spanish and English], published by Pedro Galende, OSA: Intramuros, Manila, 1998
+* Michael Raymon Tayag-Manaloto Pangilinan, ''Siuálâ ding Meángûbié''.
+* Gaspar de San Agustin, ''Conquistas de las Islas Filipinas; 1565–1615'', 1st Bilingual Edition, Intramuros: 1998.
+* Luciano P.R. Santiago, ''Laying the Foundations: Kapamangan Pioneers in the Philippine Church, 1592-2001'', Angeles City: 2002.
+* Mariano A. Henson, ''Pampanga and Its Towns (AD 1300-1965)'', Angeles: 1965.
+* John Alan Larkin, ''The Pampangans: Colonial Society in a Philippine Province'', Berkley, 1972.
+* The Luther Parker Collection, ''Datos historicos de este municipio de Mexico'', Provincia de la Pampanga, Islas Filipinas, translated from Spanish by Antonio Prima.
+* ''The Historical Data Papers'', Mexico, Bureau of Public Schools, 1953.
+* Teresita Gimenez Maceda, ''Mga Tinig Mula sa Ibaba: Kasaysayan ng Partido Komunista ng Pilipinas at Partido Sosialista ng Pilipinas sa Awit, 1930–1955'', QC, 1996.
+* Yoshikawa Eiji, Taikóki (''The History of the Life of Toyotomi Hideyoshi''), Tokyo, 1967.
+* Robby Tantingco, Lubenas is Pampanga's precious cultural gem. Indung Kapampangan. December 13, 2006.
+
+==External links==
+{{Commons category}}
+* [https://www.philatlas.com/luzon/r03/pampanga/mexico.html Mexico Profile at PhilAtlas.com]
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+*[https://web.archive.org/web/20131004104825/http://census.gov.ph/ Philippine Census Information]
+*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=5&frmIdProvince=30&frmIdLgu=579 Local Governance Performance Management System]
+
+{{Geographic location
+| Centre    = Mexico
+| North     = [[Magalang, Pampanga|Magalang]]
+| Northeast = [[Arayat, Pampanga|Arayat]]
+| East      = [[Santa Ana, Pampanga|Santa Ana]]
+| Southeast = [[San Luis, Pampanga|San Luis]]
+| South     = [[San Simon, Pampanga|San Simon]]
+| West      = [[San Fernando, Pampanga|San Fernando]]
+| Northwest = [[Mabalacat, Pampanga|Mabalacat]]<br/>[[Angeles City]]
+}}
+
+{{Navboxes
+| title = Articles Related to Mexico, Pampanga
+| list  =
+{{Pampanga}}
+{{Authority control}}
+{{Central Luzon}}
+}}
+
+[[Category:Municipalities of Pampanga]]

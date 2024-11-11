@@ -1,0 +1,203 @@
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|official_name          = Diourbel
+|other_name             = ديوربل
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        = Town and [[List of cities in Senegal|commune]]<!--For Town or Village (Leave blank for the default City)-->
+|total_type             = Town and [[List of cities in Senegal|commune]]
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = <!-- SN-Bakel.png -->
+|mapsize                = 250px
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Senegal 
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location in Senegal
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{SEN}}
+|subdivision_type1      = [[Regions of Senegal|Region]]
+|subdivision_name1      = [[Diourbel Region, Senegal|Diourbel Region]]
+|subdivision_type2      = [[Departments of Senegal|Department]]
+|subdivision_name2      = [[Diourbel Department|Diourbel]]
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = metric
+|area_footnotes           =
+|area_total_km2           = 31.24
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+<!-- Population   ----------------------->
+|population_as_of               = 2023 census
+|population_footnotes           = <ref name="pop">[https://www.citypopulation.de/en/senegal/mun/admin/diourbel/SN02025100 Citypopulation.de] Population and area of Diourbel Commune</ref>
+|population_note                =
+|population_total               = 157554
+|population_density_km2         = auto
+|population_density_sq_mi       =
+<!-- General information  --------------->
+|timezone               = [[Greenwich Mean Time|GMT]]
+|utc_offset             = +0
+|timezone_DST           = 
+|utc_offset_DST        = 
+|coordinates            = {{coord|14|39|07.7|N|16|14|02.5|W|region:SN|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|website                = 
+|footnotes              = 
+}} 
+
+'''Diourbel''' ({{langx|ar|ديوربل}}; [[Serer language|Serer]]: ''Jurbel'', [[Wolof language|Wolof]]: ''Njaaréem'') is a town and urban commune in [[Senegal]] lying east of [[Thiès]].  It is known for its [[mosque]] and local [[peanut|groundnut]] industry and is the capital of the [[Diourbel Region, Senegal|Diourbel Region]]. The population in 2023 was 157,554.<ref name="pop"/>
+
+== Transport ==
+Diourbel lies on the [[N3 road (Senegal)|N3 road]] linking it to [[Dakar]] and is also served by a junction station on the [[Dakar-Niger Railway]]. Both the railway and the N3 cross the [[Sine River|River Sine]] in the town.
+
+== Climate ==
+{{Weather box
+ | width       = auto
+ | collapsed   = yes
+ | metric first = yes
+ | single line = yes
+ | location    = Diourbel (1991–2020)
+ | Jan high C = 34.2
+ | Feb high C = 36.2
+ | Mar high C = 38.6
+ | Apr high C = 39.9
+ | May high C = 40.3
+ | Jun high C = 38.4
+ | Jul high C = 35.5
+ | Aug high C = 34.0
+ | Sep high C = 34.2
+ | Oct high C = 37.3
+ | Nov high C = 37.8
+ | Dec high C = 35.3
+ | year high C = 36.8
+
+ | Jan low C = 15.3
+ | Feb low C = 16.9
+ | Mar low C = 17.8
+ | Apr low C = 18.4
+ | May low C = 19.9
+ | Jun low C = 22.2
+ | Jul low C = 23.2
+ | Aug low C = 23.1
+ | Sep low C = 22.8
+ | Oct low C = 22.4
+ | Nov low C = 18.8
+ | Dec low C = 16.4
+ | year low C = 19.8
+
+ | Jan record low C = 5.5
+ | Feb record low C = 8.2
+ | Mar record low C = 10.0
+ | Apr record low C = 10.5
+ | May record low C = 12.0
+ | Jun record low C = 13.4
+ | Jul record low C = 16.0
+ | Aug record low C = 14.1
+ | Sep record low C = 14.5
+ | Oct record low C = 15.5
+ | Nov record low C = 10.0
+ | Dec record low C = 7.0
+ | year record low C = 5.5
+
+ | precipitation colour = green
+ | Jan precipitation mm = 2.2
+ | Feb precipitation mm = 1.0
+ | Mar precipitation mm = 0.1
+ | Apr precipitation mm = 0.0
+ | May precipitation mm = 0.1
+ | Jun precipitation mm = 22.5
+ | Jul precipitation mm = 98.0
+ | Aug precipitation mm = 205.1
+ | Sep precipitation mm = 164.1
+ | Oct precipitation mm = 31.4
+ | Nov precipitation mm = 0.7
+ | Dec precipitation mm = 1.2
+ | year precipitation mm = 526.4
+
+ | unit precipitation days = 1.0 mm
+ | Jan precipitation days = 0.2
+ | Feb precipitation days = 0.1
+ | Mar precipitation days = 0.0
+ | Apr precipitation days = 0.0
+ | May precipitation days = 0.0
+ | Jun precipitation days = 1.7
+ | Jul precipitation days = 6.6
+ | Aug precipitation days = 11.8
+ | Sep precipitation days = 10
+ | Oct precipitation days = 3.1
+ | Nov precipitation days = 0.1
+ | Dec precipitation days = 0.1
+ | year precipitation days = 33.7
+
+ | source = [[National Oceanic and Atmospheric Administration|NOAA]]<ref name="WMONormals">{{cite web
+|url = https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Senegal/CSV/Diourbel_61666.csv
+|title = World Meteorological Organization Climate Normals for 1991-2020 — Diourbel
+|publisher = National Oceanic and Atmospheric Administration
+|access-date = January 9, 2024}}</ref>
+}}
+
+==Twin towns – sister cities==
+{{See also|List of twin towns and sister cities in Africa#Senegal|l1=List of twin towns and sister cities in Senegal}}
+Diourbel is [[Sister city|twinned]] with:<ref>{{cite web|title=Jumelages|url=http://www.avignon.fr/ma-ville/culture-et-tourisme/jumelages/|website=avignon.fr|publisher=Avignon|language=fr|access-date=2021-01-27|archive-date=2019-11-12|archive-url=https://web.archive.org/web/20191112092005/http://www.avignon.fr/ma-ville/culture-et-tourisme/jumelages/|url-status=dead}}</ref>
+*{{flagicon|FRA}} [[Avignon]], France
+
+==Notable people==
+*[[Serigne Abdou Ahad Mbacké]], the third [[Mouride]] caliph, was born in 1914 in Diourbel.<ref>{{cite web|url=https://toubamica.org/serigne-abdul-ahad-mbacke/|title=Serigne Abdul Ahad Mbacke (1968-1989)|work=Murid Islamic Community in America|access-date=Nov 5, 2019}}</ref>
+*[[Seynabou Mbengue]] (born 1992), Senegalese footballer
+*[[Makhtar N'Diaye]], former NBA player
+*[[Mohamed Mbougar Sarr]] (born 1990), writer and winner of the prestigious prix Goncourt
+
+== See also ==
+* [[Railway stations in Senegal]]
+
+== References ==
+{{reflist}}
+
+[[Category:Diourbel Region]]
+[[Category:Regional capitals in Senegal]]
+[[Category:Populated places in Diourbel Region]]
+[[Category:Communes of Senegal]]
+
+{{Senegal-geo-stub}}

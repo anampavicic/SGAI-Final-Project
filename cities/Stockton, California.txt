@@ -1,0 +1,1118 @@
+{{Short description|City in California, U.S.}}
+{{Use mdy dates|date=May 2024}}
+{{Infobox settlement<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+| name               = Stockton
+| settlement_type    = [[List of municipalities in California|City]]
+| image_skyline      = {{multiple image
+  | total_width              = 300
+  | border                   = infobox
+  | perrow                   = 1/2/2
+  | caption_align            = center
+  | image1                   = Downtown Stockton California.jpg
+  | alt1                     = Downtown Stockton
+  | caption1                 = Downtown Stockton
+  | image2                   = Fox California Theater - Stockton, CA.jpg
+  | alt2                     = Fox Theatre
+  | caption2                 = [[Fox Theatres|Fox Theatre]]
+  | image3                   = UOP-burnstower.jpg
+  | alt3                     = University of the Pacific
+  | caption3                 = [[University of the Pacific (United States)|University of the Pacific]]
+  | image4                   = Hotel Stockton - Stockton, CA (cropped).JPG
+  | alt4                     = Hotel Stockton
+  | caption4                 = [[Hotel Stockton]]
+  | image5                   = Commercial & Savings Bank - Stockton, CA.jpg
+  | alt5                     = Commercial & Savings Bank
+  | caption5                 = Commercial & Savings Bank
+}}
+| image_flag         = Flag of Stockton, California.png
+| image_seal         = Seal of Stockton, California.png
+| nickname           = "Tuleburg",<ref name=facts/> "Mudville",<ref name=facts/> "California's Sunrise Seaport",<ref name="uopabout"/> "Port City",<ref name=facts/> "Asparagus Capital of America".<ref name=facts/>
+| motto              = "Stockton: All American City"<ref>{{cite web|title=AAC Winners by State and City|url=http://www.ncl.org/index.php?option=com_content&view=article&id=130&Itemid=186|publisher=[[National Civic League]]|access-date= May 4, 2013}}</ref>
+| image_map          = {{maplink
+  | frame              = yes
+  | plain              = yes
+  | frame-align        = center
+  | frame-width        = 280
+  | frame-height       = 280
+  | frame-coord        = SWITCH:{{coord|qid=Q49240}}###{{coord|qid=Q108499}}###{{coord|qid=Q99}}###{{coord|39.8|-101}}
+  | zoom               = SWITCH:10;8;5;3
+  | type               = SWITCH:shape;shape;point;point
+  | marker             = city
+  | stroke-width       = 2
+  | stroke-color       = #0096FF
+  | fill               = #0096FF
+  | id2                = SWITCH:Q49240;Q108499;Q99;Q30
+  | type2              = shape-inverse
+  | stroke-width2      = 2
+  | stroke-color2      = #5F5F5F
+  | stroke-opacity2    = SWITCH:0;1;1;1
+  | fill2              = #000000
+  | fill-opacity2      = SWITCH:0;0.5;0.5;0.5
+  | switch             = Stockton;San Joaquin County;California;the United States
+}}
+| coordinates        = {{Coord|37|58|32|N|121|18|03|W|region:US-CA_type:city(321,000)|display=it}}
+| subdivision_type   = Country
+| subdivision_name   = United States
+| subdivision_type1  = [[U.S. state|State]]
+| subdivision_type3  = [[List of counties in California|County]]
+| subdivision_type2  = Region
+| subdivision_name1  = [[California]]
+| subdivision_name3  = [[San Joaquin County, California|San Joaquin]]
+| subdivision_name2  = [[San Joaquin Valley]]
+| established_title  = [[Municipal corporation|Incorporated]]
+| established_date   = July 23, 1850<ref>{{cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title=California Cities by Incorporation Date
+ |format=Word
+ |publisher=California Association of [[Local Agency Formation Commission]]s
+ |access-date=August 25, 2014
+|url-status=dead
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date=November 3, 2014
+}}</ref>
+| named_for          = [[Robert F. Stockton]]
+| government_type    = [[Council–manager government|City Manager-Council]]<ref>{{cite web|url=http://www.stocktongov.com/government/council/default.html|title=City Council|publisher=City of Stockton|access-date=February 13, 2015}}</ref>
+| leader_title       = [[Mayor of Stockton, California|Mayor]]
+| leader_name        = [[Kevin Lincoln (politician)|Kevin J. Lincoln, II]] ([[Republican Party (United States)|R]])
+| leader_title1      = [[City council]]
+| leader_name1       = Michele Padilla<ref>{{cite web
+ | url = http://www.stocktonca.gov/government/council/district2.html
+ | title = City Council District 1 Councilmember Padilla
+ | publisher = City of Stockton
+ | access-date = January 17, 2019}}
+</ref><br />Daniel Wright<ref>{{cite web
+ | url = http://www.stocktongov.com/government/council/district2.html
+ | title = City Council District 2 Councilmember Wright
+ | publisher = City of Stockton
+ | access-date = January 17, 2019}}
+</ref><br />Michael Blower<ref>{{cite web
+ | url = http://www.stocktongov.com/government/council/district3.html
+ | title = City Council District 3 Councilmember Blower
+ | publisher = City of Stockton
+ | access-date = January 17, 2019}}
+</ref><br />Susan Lenz<ref>{{cite web
+ | url = http://www.stocktongov.com/government/council/district4.html
+ | title = City Council District 4 Councilmember Lenz
+ | publisher = City of Stockton
+ | access-date = January 17, 2019}}
+</ref><br />Brando Villapudua<ref>{{cite web
+ | url = http://www.stocktongov.com/government/council/district5.html
+ | title = City Council District 5 Councilmember Villapudua
+ | publisher = City of Stockton
+ | access-date = January 17, 2019}}
+</ref><br />Kimberly Warmsley<ref>{{cite web
+ | url = http://www.stocktongov.com/government/council/district6.html
+ | title = City Council District 6 Councilmember Warmsley
+ | publisher = City of Stockton
+ | access-date = January 5, 2021}}
+</ref>
+| total_type         = [[List of municipalities in California|City]]
+| unit_pref          = Imperial
+| area_footnotes     = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_km2     = 169.01
+| area_total_sq_mi   = 65.25
+| area_land_km2      = 161.02
+| area_land_sq_mi    = 62.17
+| area_water_km2     = 7.99
+| area_water_sq_mi   = 3.08
+| area_water_percent = 4.76
+| area_note          = 
+| elevation_footnotes = <ref>{{Cite GNIS|1659872|Stockton|access-date=October 14, 2014}}</ref>
+| elevation_m        = 4
+| elevation_ft       = 13
+| population_total   = 320804
+| population_as_of   = [[2020 United States Census|2020]]
+| population_footnotes = <ref name="QF2020">{{cite web |url=https://www.census.gov/quickfacts/fact/table/stocktoncitycalifornia/PST045221 |title=QuickFacts: Stockton city, California|website=census.gov|accessdate=February 27, 2022}}</ref>
+| population_density_sq_mi = auto
+| population_urban   = 414,847 ([[List of United States urban areas|US: 101st]])
+| population_density_urban_km2 = 1,732.3
+| population_density_urban_sq_mi = 4,486.7
+| population_metro   = 779,233 ([[Metropolitan statistical area|US: 76th]])
+| population_rank    = [[San Joaquin County, California|1st]] in San Joaquin County<br />[[List of largest California cities by population|11th]] in California<br />[[List of United States cities by population|60th]] in the United States
+| demographics_type2       = GDP
+| demographics2_footnotes  = <ref>{{Cite web|title=Real Gross Domestic Product: All Industries in San Joaquin County, CA  |url=https://fred.stlouisfed.org/series/REALGDPALL06077|work=[[Federal Reserve Economic Data]] |publisher=[[Federal Reserve Bank of St. Louis]]}}</ref>
+|demographics2_title1     = Metro 
+|demographics2_info1      = $32.624 billion (2022)
+| postal_code_type   = [[ZIP Code]]s
+| postal_code        = 95201–95213, 95215, 95219, 95267, 95269, 95296–95297
+| area_code          = [[Area code 209|209]]
+| area_code_type     = [[North American Numbering Plan|Area code]]
+| unemployment_rate  = 
+| website            = {{URL|www.stocktongov.com}}
+| footnotes          = 
+| leader_title2      = [[City manager]]
+| leader_name2       = Harry E. Black<ref>{{cite web
+ | url = http://www.stocktongov.com/government/departments/manager/manager.html
+ | title = The City Manager
+ | publisher = City of Stockton, CA
+ | access-date = November 6, 2014}}</ref>
+| leader_title3      = [[California's 5th State Senate district|State senator]]
+| leader_name3       = {{Representative|casd|5|fmt=sleader}}<ref name=swd>{{cite web
+ | url = http://statewidedatabase.org/gis/gis2011/index_2011.html
+ | title = Statewide Database
+ | publisher = UC Regents
+ | access-date = October 9, 2014
+ | archive-url = https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html
+ | archive-date = February 1, 2015
+| url-status = dead
+ }}</ref>
+| leader_title4      = [[California's 13th State Assembly district|Assemblymember]]
+| leader_name4       = {{Representative|caad|13|fmt=sleader}}<ref name=swd/>
+| timezone           = [[Pacific Time Zone|Pacific]]
+| utc_offset         = &minus;8
+| timezone_DST       = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST     = &minus;7
+| blank_name         = [[Federal Information Processing Standard|FIPS]] code
+| blank_info         = {{FIPS|06|75000}}
+| blank1_name        = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info        = {{GNIS 4|1659872}}, {{GNIS 4|2411987}}
+| pop_est_as_of      = 2019
+| pop_est_footnotes  = <ref name="USCensusEst2019">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2019.html|title=Population and Housing Unit Estimates|access-date=May 21, 2020}}</ref>
+| population_est     = 
+| population_density_km2 = auto
+| population_demonym = Stocktonian
+}}
+
+'''Stockton''' is a city in and the [[county seat]] of [[San Joaquin County, California|San Joaquin County]] in the [[Central Valley (California)|Central Valley]] of the [[U.S. state]] of [[California]].<ref name="GR6">{{cite web |url=http://www.naco.org/Counties/Pages/FindACounty.aspx |access-date=June 7, 2011 |title=Find a County |publisher=National Association of Counties |url-status=dead |archive-url=https://web.archive.org/web/20110531210815/http://www.naco.org/Counties/Pages/FindACounty.aspx |archive-date=May 31, 2011 }}</ref> It is the most populous city in the county, the [[List of municipalities in California|11th-most populous city]] in California and the [[List of United States cities by population|60th-most populous city]] in the [[United States]]. Stockton's population in 2020 was 320,804. It was named an [[All-America City Award|All-America City]] in 1999, 2004, 2015, and again in 2017 and 2018. The city is located on the [[San Joaquin River]] in the northern [[San Joaquin Valley]]. It lies at the southeastern corner of a [[Sacramento–San Joaquin River Delta|large inland river delta]] that isolates it from other nearby cities such as [[Sacramento]] and those of the [[San Francisco Bay Area]].
+
+Stockton was founded by [[Charles Maria Weber]] in 1849 after he acquired [[Rancho Campo de los Franceses]]. The city is named after [[Robert F. Stockton]],<ref>{{cite web |url=http://www.oac.cdlib.org/findaid/ark:/13030/tf4x0nb3xb/entire_text/ |title=Register of the Stockton (Calif.) Public Documents, 1947-|website=Online Archive of California |access-date=June 27, 2018}}</ref> and it was the first community in California to have a name not of Spanish or Native American origin.
+
+Built during the [[California Gold Rush]], Stockton's seaport serves as a gateway to the Central Valley and beyond. It provided easy access for trade and transportation to the southern gold mines. The [[University of the Pacific (United States)|University of the Pacific]] (UOP), chartered in 1851, is the oldest university in California, and has been located in Stockton since 1923. In 2012, Stockton filed for what was then the largest municipal [[bankruptcy]] in US history{{snd}}which had multiple causes, including financial mismanagement in the 1990s, generous [[fringe benefits]] to unionized city employees,<ref>{{Cite news |url=https://www.reuters.com/article/us-stockton-bankruptcy-cause-idUSBRE8621DL20120703 |title=How Stockton went broke: A 15-year spending binge|date=July 3, 2012 |publisher=Reuters|access-date=November 16, 2019|language=en |last=Christie |first=Jim }}</ref> and the [[Great Recession|2008 financial crisis]]. Stockton successfully exited bankruptcy in February 2015.
+
+==History==
+[[File:Charles M. Weber.jpg|thumb|left|Carlos Maria Weber founded Stockton when he acquired and settled [[Rancho Campo de los Franceses]].]]
+When Europeans first arrived in the Stockton area, it was occupied by the Yatchicumne, a branch of the Northern Valley [[Yokuts people|Yokuts Indians]]. They built their villages on low mounds to keep their homes above regular floods. A Yokuts village named Pasasimas was located on a mound between Edison and Harrison Streets on what is now the [[Stockton Channel]] in downtown Stockton.<ref name="historycity">{{cite web|title=History A Look into Stockton's Past Before the Gold Rush|url=http://www.stocktongov.com/discover/history/hist.html|publisher=City of Stockton|access-date=February 21, 2016}}</ref>
+
+The [[Siskiyou Trail]] began in the northern [[San Joaquin Valley]]. It was a centuries-old Native American footpath that led through the [[Sacramento Valley]] over the [[Cascade Range|Cascades]] and into present-day [[Oregon]].<ref>{{cite web|url=https://www.academia.edu/592072|title=Archaeological Investigations of the Siskiyou Trail Cascade-Siskiyou National Monument Jackson County|access-date=July 16, 2016}}</ref>
+
+The extensive network of waterways in and around Stockton was fished and navigated by [[Plains and Sierra Miwok|Miwok Indians]] for centuries. During the [[California Gold Rush]], the [[San Joaquin River]] was navigable by ocean-going vessels, making Stockton a natural inland seaport and point of supply and departure for prospective gold-miners. From the mid-19th century onward, Stockton became the region's transportation hub, dealing mainly with agricultural products.
+
+===19th century===
+[[File:Stockton California circa 1860.jpg|thumb|Stockton, c. 1860]]
+[[File:Main Street, Stockton, California, from Robert N. Dennis collection of stereoscopic views (cropped).jpg|thumb|Main Street, Stockton, c. 1870]]
+[[File:CityofStockton1895.jpg|thumb|City of Stockton in 1895]]
+
+====Mexican era====
+
+Carlos Maria Weber was a German émigré in the United States in 1836. He was born as Carl David Weber (February 18, 1814, in [[Steinwenden]] – May 4, 1881, in Stockton) and then went by Charles in 1836 in the United States, first spending time in [[New Orleans]] and then in [[Texas]]. He then came overland from Missouri to California with the [[Bartleson-Bidwell Party]] in 1841 and began to go by Carlos, when he began working for [[John Sutter]]. In 1842 Weber settled in the [[Pueblo of San José]].
+
+As an alien, Weber could not secure a land grant directly, so he formed a partnership with Guillermo (William) Gulnac. Born in New York, Gulnac had married a Mexican woman and sworn allegiance to [[Mexico]], which then ruled California. He applied in Weber's place for [[Rancho Campo de los Franceses]], a land grant of 11 square [[league (unit)|leagues]] on the east side of the San Joaquin River.<ref>{{cite book|url=https://archive.org/details/GR_4157|title=A History of Stockton from Its Organization up to the Present Time | first=George Henry|last=Tinkham |year=1880|page=[https://archive.org/details/GR_4157/page/n430 397] |publisher=W.M. Hinton & Co.}}</ref>
+
+Gulnac and Weber dissolved their partnership in 1843. Gulnac's attempts to settle the Rancho Campo de los Franceses failed, and Weber acquired it in 1845. In 1846 Weber had induced a number of settlers to locate on the rancho when the [[Mexican–American War]] broke out. Considered a Californio, Weber was offered the position of captain by Mexican general [[José Castro]], which he declined; he later, however, accepted the position of captain in the Cavalry of the United States. Captain Weber's decision to change sides lost him a great deal of the trust he had built up among his Mexican business partners. As a result, he moved to the grant in 1847 and sold his business in San Jose in 1849.
+
+====Gold Rush era====
+
+At the start of the [[California Gold Rush]] in 1848, Europeans and Americans started to arrive in the area of Weber's rancho on their way to the goldfields. When Weber decided to try his hand at gold mining in late 1848, he soon found selling supplies to [[California Gold Rush|gold-seekers]] was more profitable.<ref>{{cite web |url=http://www.ci.stockton.ca.us/Awards/WeberAward.cfm |title=Captain Charles M. Weber Award |publisher=City of Stockton – Cultural Heritage Board |date=May 23, 2008 |access-date=February 4, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20080322073843/http://www.ci.stockton.ca.us/Awards/WeberAward.cfm |archive-date=March 22, 2008  }}</ref>
+
+As the head of navigation on the San Joaquin River, the city grew rapidly as a miners' supply point during the Gold Rush. Weber built the first permanent residence in the [[San Joaquin Valley]] on a piece of land now known as Weber Point.<ref name="historycity"/>  During the Gold Rush, the location of what is now Stockton developed as a river port, the hub of roads to the gold settlements in the San Joaquin Valley and northern terminus of the [[Stockton - Los Angeles Road]]. During its early years, Stockton was known by several names, including "Weberville," "Fat City," "Mudville" and "California's Sunrise Seaport."<ref name="uopabout">{{cite web|title=About Stockton|url=http://www.pacific.edu/About-Pacific/General-Questions/About-Stockton.html|website=www.pacific.edu|publisher=University of the Pacific|access-date=October 31, 2016}}</ref>  In 1849 Weber laid out a town, which he named "Tuleburg," but he soon decided on "Stockton" in honor of [[Commodore (rank)|Commodore]] [[Robert F. Stockton]]. Stockton was the first community in California to have a name that was neither Spanish nor [[Indigenous peoples of the Americas|Native American]] in origin.<ref name=facts>{{cite web|title=Stockton Facts|url=http://www.visitstockton.org/about-us/fun-facts/|publisher=Stockton Convention & Visitors Bureau|access-date=October 31, 2016}}</ref>
+
+====Chinese immigration====
+
+Thousands of Chinese came to Stockton from the [[Guangdong]] province of China during the 1850s due to a combination of political and economic unrest in China and the discovery of gold in California. After the gold rush, many worked for the railroads and land reclamation projects in the [[Sacramento–San Joaquin River Delta]] and remained in Stockton. By 1880 Stockton was home to the third-largest Chinese community in California. Discriminatory laws, in particular the [[Chinese Exclusion Act]] of 1882, restricted immigration and prevented the Chinese from buying property.<ref>{{Cite news|url=https://www.nbcnews.com/news/latino/ugly-legacy-latino-couple-finds-racist-covenant-housing-paperwork-n1082476|title=An ugly legacy: Latino couple finds racist covenant in housing paperwork|last=Aviles|first=Gwen|date=November 15, 2019|work=NBC News|language=en|access-date=November 16, 2019|quote=No persons other than those wholly of the white Caucasian race shall use, occupy or reside upon any part of or within any building located on the above described real property, except servants or domestics of another race employed by or domiciled with a white Caucasian owner or tenant,}}</ref> The Lincoln Hotel, built in 1920 by the Wong brothers on South El Dorado Street, was considered one of Stockton's finest hotels of the time. Only after the [[Magnuson Act]] was repealed in 1962 were American-born Chinese allowed to buy property and own buildings.<ref>{{cite web|title=Spirit of Stockton's Chinatown|url=http://downtownstockton.org/stockton_history.php|publisher=Downtown Stockton Alliance|access-date=February 21, 2016|url-status=dead|archive-url=https://web.archive.org/web/20160202214924/http://downtownstockton.org/stockton_history.php|archive-date=February 2, 2016}}</ref><ref>{{cite web|title=Some State of California and City of San Francisco Anti-Chinese Legislation and Subsequent Action|url=http://teachingresources.atlas.illinois.edu/chinese_exp/resources/resource_2_4.pdf |archive-url=https://web.archive.org/web/20141107170704/http://teachingresources.atlas.illinois.edu/chinese_exp/resources/resource_2_4.pdf |archive-date=November 7, 2014 |url-status=live|publisher=The Board of Trustees of the University of Illinois|access-date=February 26, 2016|year=2006}}</ref>
+
+====Incorporation====
+
+The city was officially incorporated on July 23, 1850, by the county court, and the first city election was held on July 31, 1850. In 1851 the City of Stockton received its charter from the State of California. Early settlers included gold seekers from Asia, Africa, Australia, Europe, the Pacific Islands, Mexico and Canada. The historical population diversity is reflected in Stockton street names, architecture, numerous ethnic festivals and the faces and heritage of a majority of its citizens. In 1870 the Census Bureau reported Stockton's population as 87.6% white and 10.7% Asian. Many Chinese were immigrating to California as workers in these years, especially for the [[Transcontinental Railroad]].<ref name="census">{{cite web|title=California - Race and Hispanic Origin for Selected Cities and Other Places: Earliest Census to 1990 |publisher=U.S. Census Bureau |url=https://www.census.gov/population/www/documentation/twps0076/twps0076.html |url-status=dead |archive-url=https://web.archive.org/web/20120812191959/http://www.census.gov/population/www/documentation/twps0076/twps0076.html |archive-date=August 12, 2012 }}</ref>
+
+[[Benjamin Holt]] settled in Stockton in 1883 and with his three brothers founded the Stockton Wheel Co., and later the [[Holt Manufacturing Company]].
+
+===20th century===
+[[File:Swinton-holt-stockton-1918.jpg|thumb|left| [[Benjamin Holt]] (left) with British Col. [[Ernest Dunlop Swinton]] in Stockton, April 1918. The vehicle on the right is a Holt tractor; on the left is a miniature replica of [[British heavy tanks of World War I|a British tank]].]]
+[[File:Stockton CA Sikh Temple.jpg|thumb|First Sikh temple in the United States, built in Stockton in 1912]]
+
+On Thanksgiving Day, November 24, 1904, Holt successfully tested the first workable [[continuous track|continuous track tread]] machine, plowing soggy [[Sacramento – San Joaquin River Delta|San Joaquin Valley Delta]] farmland.<ref name="laird">{{cite web|url=http://www.wastehandling.com/ME2/Audiences/dirmod.asp?sid=&nm=&type=Publishing&mod=Publications%3A%AArticle&mid=8F3A7027421841978F18BE895F87F791&id=47C5DE563581487B9E4394B939909F9E&tier=4|title=Benjamin Holt (1849–1920): The Father of the Caterpillar tractor|last=Pernie|first=Gwenyth Laird|date=March 3, 2009}} {{dead link|date=March 2018|bot=InternetArchiveBot|fix-attempted=yes}}</ref> Company photographer Charles Clements was reported to have observed that the tractor crawled like a caterpillar, and Holt seized on the metaphor. "Caterpillar it is. That's the name for it."<ref name="lea">{{cite web |last=Lea |first=Ralph |date=February 16, 2008 |title=Ben Holt pioneered tractors for farming, construction, war |url=http://www.lodinews.com/articles/2008/02/16/features/1_vintage_080216.txt |url-status=live |archive-url=https://web.archive.org/web/20091111140403/http://www.lodinews.com/articles/2008/02/16/features/1_vintage_080216.txt |archive-date=November 11, 2009 |access-date=February 27, 2008 |publisher=Lodi News-Sentinel}}</ref>
+
+On April 22, 1918, British Army Col. [[Ernest Dunlop Swinton]] visited Stockton while on a tour of the United States. The British and French armies were using many hundreds of Holt tractors to haul heavy guns and supplies during [[World War I]], and Swinton publicly thanked Holt and his workforce for their contribution to the war effort.<ref>''Caterpillar Times'' report, May 1918, pages 5 to 8.</ref> During 1914 and 1915, Swinton had advocated basing some sort of armored fighting vehicle on Holt's caterpillar tractors, but without success (although Britain did develop tanks, they came from a separate source and were not directly derived from Holt machines).<ref>''Eyewitness, being Personal Reminiscences of Certain Phases of the Great War, Including the Genesis of the Tank,'' by Major-General Sir Ernest D. Swinton. (Garden City, N.Y., Doubleday, Doran & Company, Inc., 1933) Throughout.</ref> After the appearance of tanks on the battlefield, Holt built a prototype, the [[Holt gas–electric tank|gas–electric tank]], but it did not enter production.
+
+On January 10, 1920, a major fire on Main Street threatened an entire city block. At about 2 a.m., a blaze was discovered in the basement of the Yost-Dohrmann store, which was gutted, and adjacent businesses were damaged by flames and water. Damage was estimated at $150,000.<ref>United Press, “Stockton Is Scene Of $150,000 Fire,” ''Riverside Daily Press'', Riverside, California, Saturday January 10, 1920, Volume XXXV, Number 9, page 1.</ref>
+
+By 1931, the [[Stockton Electric Railroad]] Co. operated 40 [[streetcar]]s over {{convert|28|mi|km}} of track.<ref name="hwd">{{cite book | author=Demoro, Harre W.| title=California's Electric Railways| publisher=[[Interurban Press]]|location=[[Glendale, California]]| year=1986| page=202| isbn=978-0-916374-74-7}}</ref>
+
+Stockton is the site of the first [[Sikh]] temple in the United States; [[Gurdwara Sahib Stockton]] opened on October 24, 1912. It was founded by Baba Jawala Singh and Baba Wasakha Singh, successful Punjabi immigrants who farmed and owned {{convert|500|acres|0|abbr=on}} on the Holt River.<ref>{{cite web|title=History of Stockton Gurwara|url=http://sikhcentury.us/stockton-gurdwara-history/|access-date=September 22, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130927184319/http://sikhcentury.us/stockton-gurdwara-history/|archive-date=September 27, 2013}}</ref>
+
+In 1933, the [[Port of Stockton|port]] was modernized, and the Stockton Deepwater Channel, which improved water passage to [[San Francisco Bay]], was deepened and completed. This created commercial opportunities that fueled the city's growth. [[Ruff and Ready Island Naval Supply Depot]] was established, placing Stockton in a strategic position during the [[Cold War]].<ref>{{cite web |title=Historic California Posts: Stockton Ordnance Depot |url=http://californiamilitaryhistory.org/StocktonOrdDepot.html |website=californiamilitaryhistory.org |publisher=The California State Military Museum |access-date=September 11, 2018 |archive-url=https://web.archive.org/web/20171214014614/http://californiamilitaryhistory.org/StocktonOrdDepot.html |archive-date=December 14, 2017 |url-status=dead}}</ref> During the [[Great Depression]] the town's canning industry became the battleground of a labor dispute resulting in the [[Stockton Cannery Strike of 1937|Spinach Riot]] of 1937.<ref>{{cite web|url=http://cdsun.library.cornell.edu/cgi-bin/cornell?a=d&d=CDS19370427.2.62#|title=The Cornell Daily Sun 27 April 1937 — The Cornell Daily Sun|website=cdsun.library.cornell.edu|access-date=July 16, 2016}}</ref>
+
+[[File:Stockton, California. Part of the Stockton Assembly center as seen at noon on a hot day. This cent . . . - NARA - 537725 (cropped).jpg|thumb|Partial view of the Stockton Assembly Center]]
+During [[World War II]], the Stockton Assembly Center was built on the San Joaquin County Fairgrounds, a few blocks from what was then the city center. One of 15 temporary detention sites run by the [[War Relocation Authority|Wartime Civilian Control Administration]], the center held some 4,200 [[Internment of Japanese Americans|Japanese-Americans removed]] from their West Coast homes under [[Executive Order 9066]], while they waited for transfer to more permanent and isolated camps in the interior of the country. The center opened on May 10, 1942, and operated until October 17, when the majority of its population was sent to [[Rohwer War Relocation Center|Rohwer]], Arkansas. The former incarceration site was named a California Historical Landmark in 1980, and in 1984 a marker was erected at the entrance to the fairgrounds.<ref>{{cite web|url=http://encyclopedia.densho.org/Stockton%20%28detention%20facility%29/ |title=Stockton (detention facility) |publisher=Densho Encyclopedia |access-date=August 8, 2014}}</ref>
+
+In 1979, the development of a residential area in Stockton at a burial ground of the tribe unearthed two hundred [[Miwok]] remains. In an attempt to prevent the further desecration of the burial grounds, a descendant of the people initiated a legal case which became ''[[Wana the Bear v. Community Construction]]'' (1982). The decision ultimately sided with the development company, which was heavily criticized by Native Americans as a display of [[ethnocentrism]].<ref name=":0">{{Cite book |last=Echo-Hawk |first=Walter |url=https://www.worldcat.org/oclc/646788565 |title=In the Courts of the Conqueror : the 10 Worst Indian Law Cases Ever Decided. |date=2010 |publisher=Fulcrum |isbn=978-1-55591-788-3 |location=New York |oclc=646788565}}</ref><ref name=":1">{{Cite book |url=https://www.worldcat.org/oclc/817236389 |title=The future of the past : archaeologists, Native Americans, and repatriation |date=2001 |publisher=Garland Pub |others=Tamara L. Bray |isbn=978-1-136-54352-4 |location=New York |pages=15 |oclc=817236389}}</ref>
+
+In September 1996, the [[Base Realignment and Closure|Base Realignment and Closure Commission]] announced the final closure of Stockton's Naval Reserve Center on Rough and Ready Island. Formerly known as [[Ruff and Ready Island Naval Supply Depot]], the island's facilities had served as a major communications outpost for submarine activities in the Pacific during the Cold War. The site is slowly being redeveloped as commercial property.<ref>{{cite web|url=http://www.recordnet.com/article/20100815/A_BIZ/8140312|title=Ready, no longer Rough|access-date=July 16, 2016}}</ref>
+
+==Geography==
+
+Stockton is situated amidst the [[Arable land|farmland]] of California's [[San Joaquin Valley]], a subregion of the [[California Central Valley|Central Valley]]. In and around Stockton are thousands of miles of [[waterways]] that make up the [[California Delta]].
+
+[[Interstate 5 in California|Interstate 5]] and [[California State Route 99|State Route 99]], inland California's major north–south highways, pass through the city. [[California State Route 4|State Route 4]] and the dredged [[San Joaquin River]] connect the city with the [[San Francisco Bay Area]] to its west, creating the [[Stockton Deepwater Shipping Channel]]. Stockton and [[Sacramento, California|Sacramento]] are California's only [[Inland port|inland sea ports]].
+
+According to the [[United States Census Bureau]], the city occupies a total area of {{convert|64.8|sqmi}}, of which {{convert|61.7|sqmi}} is land and {{convert|3.1|sqmi}}, comprising 4.76%, is water.
+
+==Economy==
+{{Unreferenced section|date=April 2009}}
+[[File:Commercial & Savings Bank - Stockton, CA.jpg|thumb|The historic Commercial & Savings Bank building, Stockton]]
+
+Historically an agricultural community, Stockton's economy has since diversified into other industries, which include telecommunications and [[manufacturing]].
+
+Stockton's central location, relative to San Francisco and [[Sacramento]], its proximity to the state and interstate freeway system, and its comparatively inexpensive land costs have prompted several companies to base their regional operations in the city.
+
+===Shopping===
+The city of Stockton has one [[shopping mall]], the [[Weberstown Mall]]. The city previously housed the [[Sherwood Mall]], adjacent to Weberstown, but in 2022, it was converted into a shopping center now named Sherwood Place. It has the only Dillard's in the Northern California region at the Weberstown Mall, as well as one of the three Sears stores still operating in the Northern California region.
+
+===Construction and public spending===
+[[File:Kluft-photo-Stockton-Metro-Airport-July-2009-Img 0085c.jpg|thumb|View across [[Stockton Metropolitan Airport]], 2009]]
+
+Beginning in the late 1990s, Stockton had commenced some revitalization projects.<ref>{{cite journal |last=McGrath |first=M. |date=2016 |title=Stockton, California: A My Brother's Keeper Community |journal=National Civic Review |volume=105 |issue=1 |pages=36–43 |doi=10.1002/ncr.21261|doi-access=free }}</ref>
+
+===Real estate bubble===
+[[File:StocktonCalifornia_2012.jpg|thumb|Stockton 2012 aerial view]]
+
+The Stockton real estate market was disproportionately affected by the [[2007 subprime mortgage financial crisis]], and the city led the United States in [[foreclosure]]s for that year, with one of every 30 homes posted for foreclosure.<ref name="Christie">{{cite news|first=Les |last=Christie |url=https://money.cnn.com/2007/08/14/real_estate/California_cities_lead_foreclosure/index.htm |title=California cities fill top 10 foreclosure list |publisher=Money.cnn.com |date=August 14, 2007 |access-date=February 4, 2010}}</ref> From September 2006 to September 2007, the value of a median-priced house in Stockton declined by 44%.<ref name="money.cnn.com">{{cite news|first=Les |last=Christie |url=https://money.cnn.com/2008/12/02/real_estate/REOs_tough_on_sellers/index.htm |title=Home sellers suffer amid wave of foreclosures |publisher=Money.cnn.com |date=December 2, 2008 |access-date=February 26, 2010}}</ref>
+
+Stockton's [[Weston Ranch]] neighborhood, a subdivision of modest tract homes built in the mid-1990s, had the worst foreclosure rate in the area according to [[Association of Community Organizations for Reform Now|ACORN]], a now-defunct national advocacy group for low and moderate-income families.{{citation needed|date=August 2015}} Stockton found itself squarely at the center of the 2000s' speculative [[housing bubble]]. Real estate in Stockton more than tripled in value between 1998 and 2005, but when the bubble burst in 2007, the ensuing financial crisis made Stockton one of the hardest-hit cities in United States.<ref name="America's Most Dangerous Cities">{{Cite journal| url=https://www.forbes.com/2009/04/23/most-dangerous-cities-lifestyle-real-estate-dangerous-american-cities_slide_12.html| title=America's Most Dangerous Cities| journal=Forbes| date=April 23, 2009| access-date=February 4, 2010}}</ref>
+
+Stockton housing prices fell 39% in the 2008 fiscal year, and the city had the country's highest [[foreclosure]] rate (9.5%) as well. Stockton also had an unemployment rate of 13.3% in 2008, one of the highest in the United States. Stockton was rated by ''[[Forbes]]'' in 2009 as America's fifth most dangerous city because of its [[crime rate]].<ref name="America's Most Dangerous Cities"/> In 2010, mainly due to the aforementioned factors, ''Forbes'' named it one of the three worst places to live in the United States.<ref>{{cite news | url=http://www.foxnews.com/story/0,2933,589887,00.html |publisher=Fox News | title=Forbes Magazine Names Worst Places to Live in America | date=March 24, 2010 | access-date=June 5, 2010 | archive-url=https://web.archive.org/web/20100531224243/http://www.foxnews.com/story/0,2933,589887,00.html | archive-date=May 31, 2010 | url-status=dead | df=mdy-all }}</ref>
+
+===City bankruptcy===
+Following the 2008 financial crisis, in June 2012 Stockton became the largest city in U.S. history to file for bankruptcy protection. It was surpassed by [[Detroit bankruptcy|Detroit]] in July 2013. The city approved a plan to exit bankruptcy in October 2013,<ref name="Smith">{{cite web |url=http://www.recordnet.com/apps/pbcs.dll/article?AID=/20131004/A_NEWS/310040326 |title=Council approves Chap. 9 exit plan |first=Scott |last=Smith |date=October 4, 2013 |access-date=November 6, 2013 |work=[[The Record (Stockton)|The Record]]}}</ref> and voters approved a sales tax on November 5, 2013, to help fund the exit.<ref name="Marcum">{{cite web |url=https://www.latimes.com/local/lanow/la-me-ln-stockton-tax-measure-election-20131106,0,5437212.story#axzz2jt4QaQcs |title=Stockton voters approve of new tax measure for bankrupt city | first=Diana | last=Marcum |date=November 6, 2013 |access-date=November 6, 2013 |work=[[Los Angeles Times]] }}</ref>
+
+The collapse in real estate valuations had a negative effect on the city's revenue base. On June 28, 2012, Stockton filed for [[Chapter 9, Title 11, United States Code|Chapter 9 bankruptcy]].<ref>{{cite web|title=Stockton, California Chapter 9 Voluntary Petition|url=https://www.pacermonitor.com/view/7DR4LZQ/City_of_Stockton_California__caebke-12-32118__0001.0.pdf |archive-url=https://web.archive.org/web/20160810225126/https://www.pacermonitor.com/view/7DR4LZQ/City_of_Stockton_California__caebke-12-32118__0001.0.pdf |archive-date=August 10, 2016 |url-status=live|website=PacerMonitor|access-date=June 22, 2016}}</ref> On April 1, 2013, the [[United States Bankruptcy Court]] Eastern District of California ruled that Stockton was eligible for bankruptcy protection.
+
+The Stockton bankruptcy case lasted longer than two years and received nationwide attention. On October 4, 2013, Stockton City Council approved a bankruptcy exit plan by a 6–0 vote<ref name="Smith" /> to be filed with the U.S. Bankruptcy Court, Eastern District of California, Sacramento. Voters approved a {{frac|3|4}}-cent sales tax on November 5, 2013, to help fund the bankruptcy exit.<ref name="Marcum" />
+
+On October 30, 2014, a [[federal bankruptcy judge]] approved the city's bankruptcy recovery plan, thus allowing the city to continue with the planned pension payments to retired workers.<ref>{{cite news|last1=Lifsher|first1=Marc|last2=Petersen|first2=Melody|title=Judge approves Stockton bankruptcy plan; worker pensions safe|url=https://www.latimes.com/business/la-fi-stockton-pension-court-ruling-cuts-20141029-story.html|access-date=October 30, 2014|newspaper=Los Angeles Times|date=October 30, 2014}}</ref> The city exited from Chapter 9 bankruptcy on February 25, 2015.
+
+===Experiment in Guaranteed Basic Income===
+As part of a privately funded experiment in [[Basic Income|Universal Basic Income]] in 2019, the Stockton Economic Empowerment Demonstration (S.E.E.D.) conducted a pilot project that gave a $500 stipend to 125 randomly selected residents for an 24-month period with “no strings attached."<ref>{{cite web|url=https://www.stocktondemonstration.org/ |title=SEED |publisher=Stocktondemonstration.org |date=March 3, 2021 |accessdate=March 8, 2022}}</ref> It was made possible by the Economic Security Project,<ref>{{cite web |url=https://www.economicsecurityproject.org/team/ |title=Who We Are |website=economicsecurityproject.org |access-date=March 29, 2021}}</ref> an advocacy group chaired by Facebook co-founder [[Chris Hughes]], which provided the first $1 million for the program, and a dozen other Silicon Valley organizations and private donors who funded the rest of its $3 million budget.<ref>{{cite web|url=https://www.sfchronicle.com/politics/article/Can-500-a-month-change-a-city-Stockton-tests-14943872.php|title=Can $500 a month change a city? Stockton tests universal basic income|date=January 2, 2020|website=SFChronicle.com|access-date=December 23, 2020}}</ref><ref>{{cite news |title=California city fights poverty with guaranteed income |url=https://www.reuters.com/article/us-california-income/california-city-fights-poverty-with-guaranteed-income-idUSKCN1J015D |work=Reuters |access-date=April 4, 2019}}</ref> The positive benefits of the program during the first year were described in an interim report published in March 2021.<ref>{{cite web |url=https://www.stocktondemonstration.org/press-landing/guaranteed-income-increases-employment-improves-financial-and-physical-health |title=Guaranteed Income Increases Employment, Improves Financial and Physical Health |date=March 3, 2021 |website=stocktondemonstration.org |access-date=March 29, 2021}}</ref>
+
+==Climate==
+
+[[File:Wpdms usgs photo sacramento delta 2.jpg|thumb|Stockton in relation to the [[Sacramento–San Joaquin River Delta]]]]
+
+Stockton's climate lies right on the boundary of, and fluctuates between, [[hot-summer Mediterranean climate|hot-summer Mediterranean]] ([[Köppen climate classification|Köppen]]: ''Csa'') and [[Cold semi-arid climate|cool semi-arid]] (''BSk''). Stockton is characterized by very hot, arid summer and cool, wet winter. In an average year, nearly 95% of the {{convert|13.45|in|mm|1}} of precipitation falls from October through April.<ref name="NCEI Summary of Monthly Normals - 1991-2020"/> Located in the [[Central Valley (California)|Central Valley]], the temperature range is much greater than in the nearby Bay Area. The degree of [[diurnal temperature variation]] is roughly twice as high in the summer as in the winter. [[Tule fog]] blankets the area during some winter days. Stockton lies in the fertile heart of the California Mediterranean climate [[prairie]] [[River delta|delta]], about equidistant from the Pacific Ocean and the [[Sierra Nevada (U.S.)|Sierra Nevada]].{{Citation needed|date=November 2018}} The intermediate climate between the coast and the Central Valley gives a similar climate to that of [[Badajoz]], Spain.<ref>{{cite web|url=https://weatherspark.com/y/1103/Average-Weather-in-Stockton-California-United-States-Year-Round|title=Average Weather in Stockton, California, United States, Year Round - Weather Spark|website=weatherspark.com|language=en|access-date=November 25, 2018}}</ref>
+
+[[File:Monthly Climate Normals (1991-2020) - Stockton Area, CA(ThreadEx).svg|thumb|left|Climate chart for Stockton]]
+At the airport, the highest recorded temperature was {{convert|115|°F|0}} on July 23, 2006, and September 6, 2022, and the lowest was {{convert|16|°F|0}} on January 11, 1949. There are an average of 88 afternoons annually with high temperatures of {{convert|90|°F|1}} or higher, and 19 afternoons of {{convert|100|°F|1}} or above; 19 mornings see low temperatures at or below freezing. The wettest "rain year" was from July 1982 to June 1983 with {{convert|27.89|in|mm|1}} and the driest from July 1975 to June 1976 with {{convert|5.71|in|mm|1}}.<ref name="NOWData NWS Sacramento, CA (STO)"/> Note that regional difference of precipitation has been recorded in Stockton. The more northern part of Stockton receives more precipitation than southern Stockton.
+
+The most rainfall in one month was {{convert|8.22|in|1}} in February 1998 and the most rainfall in 24 hours was {{convert|3.01|in|mm|1}} on January 21, 1967.<ref name="NOWData NWS Sacramento, CA (STO)"/> There are an average of 56.5 days with measurable precipitation.<ref name="NCEI Summary of Monthly Normals - 1991-2020"/> Only light amounts of snow have been recorded, and the only instance of measurable snowfall occurred on February 5, 1976, with {{convert|0.3|in|cm|1|abbr=on}} measured.<ref name="NOWData NWS Sacramento, CA (STO)"/>
+
+A 2018 [[Federal government of the United States|federal]] study predicts that [[flooding]] of the [[San Joaquin River]] could possibly cause much of Stockton to become submerged beneath 10–12 feet of water, causing a [[humanitarian disaster]] as costly and deadly as [[Hurricane Katrina]] if the [[levees]] are not upgraded.<ref>{{cite web |title=San Joaquin River Basin Integrated Interim Feasibility Report / Environmental Impact Statement |date=Jan 2018 |website=US Army Corps of Engineers |url=https://www.spk.usace.army.mil/Portals/12/documents/civil_works/lower_sj_river/final_eis-eir/01_San%20Joaquin%20River%20Basin%20Lower%20San%20Joaquin%20River_CA%20FINAL%20IIFR_EIS_EIR.pdf?ver=2018-02-01-184425-453}}</ref><ref>{{cite news |title=California faces catastrophic flood dangers — and a need to invest billions in protection |date=January 18, 2023 |accessdate=January 19, 2023 |first=Ian |last=James |newspaper=Los Angeles Times |url=https://www.latimes.com/environment/story/2023-01-18/california-faces-monumental-dangers-in-future-floods}}</ref>
+
+{{Clear}}
+{{Weather box
+| location = [[Stockton Metropolitan Airport]], California (1991–2020 normals,{{efn|Mean monthly maxima and minima (i.e. the expected highest and lowest temperature readings at any point during the year or given month) calculated based on data at said location from 1991 to 2020.}} extremes 1948–present)
+| single line = Y
+|Jan record high F = 78
+|Feb record high F = 79
+|Mar record high F = 87
+|Apr record high F = 100
+|May record high F = 107
+|Jun record high F = 111
+|Jul record high F = 115
+|Aug record high F = 113
+|Sep record high F = 115
+|Oct record high F = 105
+|Nov record high F = 85
+|Dec record high F = 76
+|Jan avg record high F = 65.3
+|Feb avg record high F = 71.6
+|Mar avg record high F = 79.3
+|Apr avg record high F = 89.3
+|May avg record high F = 97.3
+|Jun avg record high F = 104.3
+|Jul avg record high F = 105.8
+|Aug avg record high F = 104.9
+|Sep avg record high F = 101.4
+|Oct avg record high F = 92.2
+|Nov avg record high F = 77.8
+|Dec avg record high F = 65.9
+|year avg record high F = 107.7
+|Jan high F = 57.0
+|Feb high F = 62.9
+|Mar high F = 68.5
+|Apr high F = 74.5
+|May high F = 82.8
+|Jun high F = 90.4
+|Jul high F = 95.4
+|Aug high F = 94.4
+|Sep high F = 90.4
+|Oct high F = 80.3
+|Nov high F = 66.6
+|Dec high F = 57.1
+|year high F = 76.7
+|Jan mean F = 48.0
+|Feb mean F = 52.1
+|Mar mean F = 56.4
+|Apr mean F = 60.9
+|May mean F = 67.7
+|Jun mean F = 74.0
+|Jul mean F = 78.1
+|Aug mean F = 77.3
+|Sep mean F = 73.9
+|Oct mean F = 65.5
+|Nov mean F = 54.7
+|Dec mean F = 47.7
+|year mean F = 63.0
+|Jan low F = 39.1
+|Feb low F = 41.3
+|Mar low F = 44.2
+|Apr low F = 47.4
+|May low F = 52.6
+|Jun low F = 57.6
+|Jul low F = 60.9
+|Aug low F = 60.3
+|Sep low F = 57.5
+|Oct low F = 50.6
+|Nov low F = 42.8
+|Dec low F = 38.4
+|year low F = 49.4
+|Jan avg record low F = 28.2
+|Feb avg record low F = 31.0
+|Mar avg record low F = 35.0
+|Apr avg record low F = 38.3
+|May avg record low F = 44.5
+|Jun avg record low F = 49.8
+|Jul avg record low F = 54.1
+|Aug avg record low F = 53.8
+|Sep avg record low F = 49.9
+|Oct avg record low F = 41.0
+|Nov avg record low F = 31.9
+|Dec avg record low F = 27.9
+|year avg record low F = 26.0
+|Jan record low F = 16
+|Feb record low F = 13
+|Mar record low F = 20
+|Apr record low F = 27
+|May record low F = 29
+|Jun record low F = 35
+|Jul record low F = 38
+|Aug record low F = 37
+|Sep record low F = 32
+|Oct record low F = 26
+|Nov record low F = 23
+|Dec record low F = 15
+|precipitation colour = green
+|Jan precipitation inch = 3.27
+|Feb precipitation inch = 2.80
+|Mar precipitation inch = 2.31
+|Apr precipitation inch = 1.11
+|May precipitation inch = 0.57
+|Jun precipitation inch = 0.10
+|Jul precipitation inch = 0.00
+|Aug precipitation inch = 0.01
+|Sep precipitation inch = 0.08
+|Oct precipitation inch = 0.69
+|Nov precipitation inch = 1.05
+|Dec precipitation inch = 2.81
+|year precipitation inch = 
+|unit precipitation days = 0.01 in
+|Jan precipitation days = 9.7
+|Feb precipitation days = 9.2
+|Mar precipitation days = 9.0
+|Apr precipitation days = 5.3
+|May precipitation days = 2.9
+|Jun precipitation days = 1.0
+|Jul precipitation days = 0.2
+|Aug precipitation days = 0.2
+|Sep precipitation days = 0.7
+|Oct precipitation days = 2.8
+|Nov precipitation days = 6.4
+|Dec precipitation days = 9.1
+|year precipitation days = 56.5
+|Jan humidity = 83.6
+|Feb humidity = 78.1
+|Mar humidity = 69.5
+|Apr humidity = 61.4
+|May humidity = 52.9
+|Jun humidity = 48.6
+|Jul humidity = 46.4
+|Aug humidity = 48.2
+|Sep humidity = 52.0
+|Oct humidity = 59.8
+|Nov humidity = 75.5
+|Dec humidity = 83.6
+|year humidity = 63.3
+|Jan dew point C = 4.2
+|Feb dew point C = 5.7
+|Mar dew point C = 5.6
+|Apr dew point C = 5.7
+|May dew point C = 7.6
+|Jun dew point C = 9.4
+|Jul dew point C = 11.0
+|Aug dew point C = 11.1
+|Sep dew point C = 10.3
+|Oct dew point C = 8.3
+|Nov dew point C = 6.6
+|Dec dew point C = 4.0
+|source 1 = NOAA (dew points and relative humidity 1961–1990)<ref name="NOWData NWS Sacramento, CA (STO)">{{cite web
+|url = https://w2.weather.gov/climate/xmacis.php?wfo=sto 
+|title = NOWData – NOAA Online Weather Data
+|website = W2.weather.gov
+|access-date = October 16, 2021}}</ref><ref name="NCEI Summary of Monthly Normals - 1991-2020">{{cite web
+|url = https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&startDate=0001-01-01&endDate=9996-12-31&stations=USW00023237&format=pdf 
+|title = Summary of Monthly Normals 1991–2020 
+|publisher = [[National Oceanic and Atmospheric Administration]] 
+|access-date = October 16, 2021
+|archive-url = https://web.archive.org/web/20230813215414/https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&startDate=0001-01-01&endDate=9996-12-31&stations=USW00023237&format=pdf
+|archive-date = August 13, 2023}}</ref><ref name = NOAAhumidity>{{Cite web
+|url = ftp://ftp.atdd.noaa.gov/pub/GCOS/WMO-Normals/TABLES/REG_IV/US/GROUP3/72492.TXT
+|title = WMO Climate Normals for STOCKTON, CA 1961–1990
+|publisher = National Oceanic and Atmospheric Administration
+|access-date = August 14, 2023
+|archive-url = https://web.archive.org/web/20230813124139/ftp://ftp.atdd.noaa.gov/pub/GCOS/WMO-Normals/TABLES/REG_IV/US/GROUP3/72492.TXT
+|archive-date = August 13, 2023
+}}</ref>}}
+{{Graph:Weather monthly history
+| table=ncei.noaa.gov/weather/Stockton, California.tab
+| title=Stockton monthly weather statistics
+}}
+
+==Demographics==
+
+{{US Census population
+|1860= 3679
+|1870= 10066
+|1880= 10282
+|1890= 14424
+|1900= 17506
+|1910= 23253
+|1920= 40296
+|1930= 47963
+|1940= 54714
+|1950= 70853
+|1960= 86321
+|1970= 109963
+|1980= 148283
+|1990= 210943
+|2000= 243771
+|2010= 291707
+|2020= 320804
+|estref=
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref>{{failed verification|date=February 2022|reason=No mention of Stockton at the given link}} 2020<ref name="QF2020"/>
+}}
+
+{{update|section|date=February 2022|reason=Newer information is available from the 2020 census report}}
+
+{| class="wikitable sortable collapsible mw-collapsed" style="font-size: 90%;"
+|-
+! Historical racial composition  !! 2010<ref name="quickfacts"/> !! 1990<ref name="pop">{{cite web|title=California – Race and Hispanic Origin for Selected Cities and Other Places: Earliest Census to 1990 |publisher=U.S. Census Bureau |url=https://www.census.gov/population/www/documentation/twps0076/twps0076.html |access-date=April 20, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120812191959/http://www.census.gov/population/www/documentation/twps0076/twps0076.html |archive-date=August 12, 2012 }}</ref>!! 1970<ref name="pop"/> !! 1940<ref name="pop"/>
+|-
+| [[White American|White]] || 37.0% || 57.5% || 79.5% ||  90.7%
+|-
+| —[[Non-Hispanic whites]] || 22.1% || 43.6% || 63.3%{{efn|name="fifteen"|From 15% sample}} || n/a
+|-
+| [[African American|Black or African American]] || 12.2% || 9.6% || 11.0% || 1.6%
+|-
+| [[Hispanic and Latino Americans|Hispanic or Latino]] (of any race) || 40.3% || 25.0% || 17.5%{{efn|name="fifteen"}} || n/a
+|-
+| [[Asian American|Asian]] || 21.5% ||  22.8% || 7.9% || 7.6%
+|}
+
+===2020===
+{| class="wikitable" style="text-align:center;"
+|+'''Stockton, California – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Stockton city, California|url=https://data.census.gov/table?g=160XX00US0675000&tid=DECENNIALSF12000.P004|publisher=United States Census Bureau |access-date=January 26, 2024}}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Stockton city, California |url=https://data.census.gov/table?q=p2&g=160XX00US0675000&tid=DECENNIALPL2010.P2|publisher=United States Census Bureau |access-date=January 26, 2024}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Stockton city, California |url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US0675000&tid=DECENNIALPL2020.P2|publisher=United States Census Bureau |access-date=January 26, 2024}}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|78,539
+|66,836
+|style='background: #ffffe6; |54,765
+|32.22%
+|22.91%
+|style='background: #ffffe6; |17.07%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|26,359
+|33,507
+|style='background: #ffffe6; |38,178
+|10.81%
+|11.49%
+|style='background: #ffffe6; |11.90%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|1,337
+|1,237
+|style='background: #ffffe6; |1,237
+|0.55%
+|0.42%
+|style='background: #ffffe6; |0.39%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|47,093
+|60,323
+|style='background: #ffffe6; |67,738
+|19.32%
+|20.68%
+|style='background: #ffffe6; |21.12%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|810
+|1,622
+|style='background: #ffffe6; |2,440
+|0.33%
+|0.56%
+|style='background: #ffffe6; |0.76%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|496
+|470
+|style='background: #ffffe6; |1,608
+|0.20%
+|0.16%
+|style='background: #ffffe6; |0.50%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|9,920
+|10,122
+|style='background: #ffffe6; |13,237
+|4.07%
+|3.47%
+|style='background: #ffffe6; |4.13%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|79,217
+|117,590
+|style='background: #ffffe6; |141,601
+|32.50%
+|40.31%
+|style='background: #ffffe6; |44.14%
+|-
+|'''Total'''
+|'''243,771'''
+|'''291,707'''
+|style='background: #ffffe6; |'''320,804'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2010 US Census===
+
+The [[2010 United States Census]]<ref>{{cite web|url=https://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0675000|archive-url=https://archive.today/20140715033353/http://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0675000|url-status=dead|archive-date=July 15, 2014|title=2010 Census Interactive Population Search: CA - Stockton city|publisher=U.S. Census Bureau|access-date=July 12, 2014}}</ref> reported that Stockton had a population of 291,707. The population density was {{convert|4,505.0|PD/sqmi|PD/km2|sp=us|adj=off}}. The racial makeup of Stockton was 108,044 (37.0%) [[White (U.S. Census)|white]] (22.1% [[non-Hispanic white]]<ref name="quickfacts">{{cite web |url=http://quickfacts.census.gov/qfd/states/06/0675000.html |title=Stockton (city), California |work=State & County QuickFacts |publisher=U.S. Census Bureau |access-date=July 11, 2012 |archive-date=September 18, 2012 |archive-url=https://web.archive.org/web/20120918011859/http://quickfacts.census.gov/qfd/states/06/0675000.html |url-status=dead }}</ref>), 35,548 (12.2%) [[African American (U.S. Census)|African American]], 3,086 (1.1%) [[Native American (U.S. Census)|Native American]], 62,716 (21.5%) [[Asian (U.S. Census)|Asian]] (7.2% Filipino, 3.5% Cambodian, 2.1% Vietnamese, 2.0% Hmong, 1.8% Chinese, 1.6% Indian, 1.0% Laotian, 0.6% Pakistani, 0.5% Japanese, 0.2% Korean, 0.1% Thai), 1,822 (0.6%) [[Pacific Islander (U.S. Census)|Pacific Islander]] (0.2% Samoan, 0.1% Tongan, 0.1% Guamanian), 60,332 (20.7%) from [[Race (United States Census)|other races]], and 20,159 (6.9%) from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 117,590 persons (40.3%). 35.7% of Stockton's population was of Mexican descent, and 0.6% Puerto Rican.
+
+The 2010 census reported that 285,973 people (98.0% of the population) lived in households, 3,896 (1.3%) lived in non-institutionalized group quarters, and 1,838 (0.6%) were institutionalized.
+
+There were 90,605 households, out of which 41,033 (45.3%) had children under the age of 18 living in them, 41,481 (45.8%) were [[marriage|heterosexual married couples]] living together, 17,140 (18.9%) had a female householder with no husband present, 7,157 (7.9%) had a male householder with no wife present. There were 7,123 (7.9%) [[POSSLQ|unmarried heterosexual partnerships]], and 720 (0.8%) [[Same-sex marriage in California|same-sex married]] or [[Domestic partnership in California|registered domestic partnerships]]. 19,484 households (21.5%) were made up of individuals, and 7,185 (7.9%) had someone living alone who was 65 years of age or older. The average household size was 3.16. There were 65,778 [[family (U.S. Census)|families]] (72.6% of all households); the average family size was 3.69.
+
+The population was spread out, with 87,338 people (29.9%) under the age of 18, 34,126 people (11.7%) aged 18 to 24, 76,691 people (26.3%) aged 25 to 44, 64,300 people (22.0%) aged 45 to 64, and 29,252 people (10.0%) who were 65 years of age or older. The median age was 30.8 years. For every 100 females, there were 96.1 males. For every 100 females age 18 and over, there were 92.5 males.
+
+There were 99,637 housing units at an average density of {{convert|1,538.7|/mi2|/km2|disp=preunit|units&nbsp;|units|}}, of which 46,738 (51.6%) were owner-occupied, and 43,867 (48.4%) were occupied by renters. The homeowner vacancy rate was 3.2%; the rental vacancy rate was 9.4%. 146,235 people (50.1% of the population) lived in owner-occupied housing units and 139,738 people (47.9%) lived in rental housing units.
+
+===Rankings===
+
+* In 2020, ''U.S. News & World Report'' named Stockton as America's most diverse city.<ref>{{cite web |url=https://www.usnews.com/info/blogs/press-room/articles/2020-01-22/us-news-special-report-stockton-calif-is-the-most-diverse-city-in-america |title=U.S. News Special Report: Stockton, Calif., Is the Most Diverse City in America |work=U.S. News & World Report |date=January 22, 2020 |access-date=July 19, 2022}}</ref>
+
+Due to a number of socio-economic problems, Stockton has been subject to a series of negative national rankings:
+
+* In a 2010 Gallup poll, Stockton was tied with [[Montgomery, Alabama]] for the most obese metro area in the US with an obesity rate of 34.6 percent.<ref>{{cite web|author=David Siders |url=http://www.recordnet.com/apps/pbcs.dll/article?AID=/20100305/A_NEWS/3050330 |title=Stockton area tops poll of nation's most obese regions |publisher=Recordnet.com |date=March 5, 2010 |access-date=February 16, 2013}}</ref>
+* In the February 2012 issue of ''Forbes'', the magazine ranked Stockton the eighth most miserable US city, largely as a result of the steep drop in home values and high unemployment.<ref name=money.cnn.com />
+* In 2012 the [[National Insurance Crime Bureau]] ranked Stockton seventh in auto theft rate per capita in the US.<ref>Money.MSN.com 8/2012</ref>
+* In 2012, Stockton was ranked as the tenth most dangerous city in America and the second most dangerous in California (behind Oakland).<ref name="finance.yahoo.com">{{cite web|last=Rogers |first=Abby |url=https://finance.yahoo.com/news/the-25-most-dangerous-cities-in-america.html?page=all |title=The 25 Most Dangerous Cities in America - Yahoo! Finance |publisher=Finance.yahoo.com |date=November 1, 2012 |access-date=February 16, 2013}}</ref>
+* In 2013, Stockton was ranked as the third least literate city in the U.S. in a study by Central Connecticut State University, with less than 17% of adults holding a college degree,<ref>[http://homes.yahoo.com/news/america-s-most-and-least-literate-cities-224612878.html "America's most and least literate cities"] {{Webarchive|url=https://web.archive.org/web/20130220225040/http://homes.yahoo.com/news/america-s-most-and-least-literate-cities-224612878.html |date=February 20, 2013 }}. 247wallst.com, February 11, 2013.</ref> and ABC.com ranked the city as the third least literate of all U.S. cities with a population of more than 250,000 behind [[Bakersfield, California]], and [[Corpus Christi, Texas]].<ref>turnto23.com</ref>
+
+===Top employers===
+
+According to the city's 2022 comprehensive annual financial report,<ref>[http://www.stocktonca.gov/files/2022_ACFR_Final.pdf City of Stockton, Annual Comprehensive Financial Report, for the Fiscal Year ended June 30, 2022]</ref> the top employers in the city were:{{efn|San Joaquin County employers both within and outside the city. Details of the split were not available, and San Joaquin County has been excluded from the list.}}
+
+{| class="wikitable"
+|-
+! No.
+! Employer
+! No. of employees
+|-
+| 1
+| [[Stockton Unified School District]]
+| 5,265
+|-
+| 2
+| [[Amazon (company)|Amazon]]
+| 4,750
+|-
+| 3
+| [[Dignity Health|St. Joseph's Medical Center]]
+| 3,200
+|-
+| 4
+| City of Stockton
+| 2,118
+|-
+| 5
+| San Joaquin County Office of Education
+| 1,955
+|-
+| 6
+| [[Pacific Gas and Electric]]
+| 1,550
+|-
+| 7
+| [[University of the Pacific (United States)|University of the Pacific]]
+| 1,329
+|-
+| 8
+| [[Lincoln Unified School District]]
+| 1,125
+|-
+| 9
+| [[Kaiser Permanente]]
+| 1,065
+|-
+| 10
+| [[San Joaquin Delta College]]
+| 813
+|}
+
+==Arts and culture==
+
+===Performing arts===
+
+[[File:Fox California Theater - Stockton, CA.jpg|thumb|The Fox California Theater]]
+
+====Music====
+
+* [[Stockton Symphony]] is the third-oldest professional orchestra in California (founded in 1926), after the [[San Francisco Symphony]] and the [[Los Angeles Philharmonic]].<ref>{{cite web|url=http://www.stocktonsymphony.org/ |title=Stockton Symphony Association – Stockton, California |publisher=Stockton Symphony Association |access-date=February 4, 2010}}</ref>
+* [[University of the Pacific (United States)|University of the Pacific]] is known for its music conservatory and for being the home of the Brubeck Institute, named after [[Dave Brubeck]], a [[University of the Pacific (United States)|Pacific]] alumnus and jazz piano legend. The institute maintains an archive of Brubeck's work and offers a fellowship program for young musicians. The Brubeck Institute Jazz Quartet is composed of Pacific students and tours widely.<ref>{{cite web|url=http://web.pacific.edu/x19959.xml|archive-url=https://web.archive.org/web/20080420075638/http://web.pacific.edu/x19959.xml|url-status=dead|archive-date=April 20, 2008|title=The Brubeck Institute|publisher=University of the Pacific|access-date=February 4, 2010}}</ref>
+* [[San Joaquin Delta College]] has a growing jazz program and is home to several official and unofficial jazz bands composed of [[San Joaquin Delta College|Delta]] and Pacific students and faculty.<ref>{{cite web|url=http://www.recordnet.com/apps/pbcs.dll/article?AID=/20061019/ENT/610190343/0/A_ENTERTAIN04 |title=Delta instructor hopes to prove live jazz can draw Stockton fans |work=The Record |publisher=San Joaquin Media Group, a division of Dow Jones Local Media Group |date=October 19, 2006 |access-date=February 4, 2010}}</ref> 
+* [[Christian Life College]] offers associate and Bachelor of Arts degrees in Christian music.
+
+Stockton hosts several live-music venues, including:
+
+* [[Stockton Arena]], which is home to several sports teams, and has hosted nationally known entertainers such as [[Gwen Stefani]], [[Rob Zombie]], [[Ozzy Osbourne]], [[Josh Groban]], Carrie Underwood and [[Bob Dylan]].
+* The annual Apollo Night talent show draws about 1,500 people to the [[Stockton Memorial Civic Auditorium]] (1925) to watch performances by aspiring Northern California musicians.<ref>{{cite news |author=Ian Hill |url=http://www.recordnet.com/apps/pbcs.dll/article?AID=/20070628/A_ENTERTAIN/706280344/0/A_ENTERTAIN03 |title=Apollo Night marks decade of entertainment |work=The Record |publisher=San Joaquin Media Group, a division of Dow Jones Local Media Group |date=June 28, 2007 |access-date=February 4, 2010}}</ref>
+
+====Theatre====
+
+The Bob Hope Theatre in downtown Stockton, formerly known as the Fox California Theatre, built in 1930,<ref>{{cite web| url=http://www.stocktonlive.com/venues/detail/bob-hope-theatre |title=Stockton Live | publisher=SMG Stockton |year=2019}}</ref> is one of several [[movie palace]]s in the [[Central Valley (California)|Central Valley]]. [[Bob Hope]] often came to Stockton to visit close friend and billionaire [[tycoon]] [[Alex Spanos]], who donated much of the money to revitalize the theater after Hope's death. The [[University of the Pacific (United States)|University of the Pacific]] Faye Spanos Concert Hall often hosts public performances, as does the [[Stockton Memorial Civic Auditorium]]. The Warren Atherton Auditorium at the Delta Center for the Arts on the campus of the [[San Joaquin Delta College]] is a 1,456-seat theater with a {{convert|60|ft|m|adj=on}} proscenium and full grid system.<ref>{{cite web|url=http://www.deltacollege.edu/dept/ar/catalog/cat0405/studentlife4.html |title=Entertainment |access-date=February 26, 2010}}</ref> The Stockton Empire Theater is an [[Art Deco|art deco]] movie theater that has been revitalized as a venue for live music.
+
+Founded in 1951, the Stockton Civic Theatre offers an annual series of musicals, comedies and dramas. It maintains a 300-seat theater in the Venetian Bridges neighborhood. The company also hosts the annual Willie awards for the local performing arts.
+
+Other performing arts organizations and venues include the Stockton Opera<ref>{{cite web|url=http://stocktonopera.org/wordpress/ |title=Stockton Opera |author=Stockton Opera}}</ref> and others.
+
+===Visual arts===
+
+====Museums and galleries====
+
+Stockton is home to several museums:
+
+* [[Haggin Museum]]  — the private, non-profit fine arts and history museum was built in Victory Park in 1931. The museum displays 19th and 20th-century works of art and houses local historical exhibits. The Haggin Museum features collections and exhibits related to local Valley history and California history. The museum also displays fine art of late 19th and early 20th century artists such as [[Jean Béraud]], [[Albert Bierstadt]], [[Rosa Bonheur]], [[William-Adolphe Bouguereau]], [[Paul Gauguin]], [[Jean-Léon Gérôme]], [[Childe Hassam]], George Inness, Daniel Ridgway Knight, [[Pierre-Auguste Renoir]], Jehan-Georges Vibert, and Jules Worms.<ref name="historycity" />
+* The [[San Joaquin County Historical Society and Museum]] operates an {{convert|18|acre|ha|adj=on}} museum facility at [[Micke Grove Regional Park]], {{convert|2|mi|km|spell=in}} north of the city. The museum houses exhibits dedicated to the founding of Stockton, San Joaquin County's legacy of innovation in agriculture and manufacturing, immigrant communities in Stockton and Lodi, and historic industries in San Joaquin County.
+* Reynolds Gallery, and Horton Gallery — the [[University of the Pacific (United States)|University of the Pacific]] Reynolds Gallery, and the [[San Joaquin Delta College]] Horton Gallery, both feature contemporary work by students and local and nationally known artists.
+* Children's Museum of Stockton — housed in a former warehouse in the Downtown Waterfront District, featuring many interactive displays.
+* Elsie May Goodwin Gallery — operated by the Stockton Art League.
+* [[Filipino American National Historical Society]] proposed the construction of the National Pinoy Museum in the [[Little Manila, Stockton, California|Little Manila]] district, dedicated to the history of [[Filipino Americans]]. Stockton historically had one of the largest populations of Filipinos, immigrants and U.S. citizens, in the United States.<ref>{{cite news |author=Rachael Myrow |title=Stockton's Little Manila: the Heart of Filipino California |url=http://ww2.kqed.org/news/2013/08/29/little-manila-the-heart-of-filipino-california/ |newspaper=KQED |location=San Francisco |date=September 2, 2013 |access-date=January 1, 2015 |archive-url=https://web.archive.org/web/20141223100750/http://ww2.kqed.org/news/2013/08/29/little-manila-the-heart-of-filipino-california/ |archive-date=December 23, 2014 |url-status=dead  }}<br />{{cite web |url=http://www.kvie.org/programs/kvie/viewfinder/little_manila/ |title=Little Manila: Filipinos in California's Heartland |year=2014 |publisher=KVIE |access-date=January 1, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150101144730/http://www.kvie.org/programs/kvie/viewfinder/little_manila/ |archive-date=January 1, 2015 }}<br />{{cite web |url=http://www.sfsu.edu/news/2008/spring/37.html |title=New on SF State bookshelf |date=April 11, 2008 |website=SF State News |publisher=San Francisco State University |access-date=January 1, 2015 }}<br />{{cite news |author=Deborah Kong |agency=Associated Press |title=Filipino Americans work to preserve heritage |url=http://archives.starbulletin.com/2002/12/26/news/index8.html |newspaper=Star Bulletin |location=Honolulu |date=December 26, 2002 |access-date=January 1, 2015 }}<br />{{cite news |author=Steven Winn |title='Romance of Magno Rubio': Filipino homecoming |url=http://www.sfgate.com/performance/article/Romance-of-Magno-Rubio-Filipino-homecoming-3191421.php |newspaper=San Francisco Chronicle |date=October 8, 2008 |access-date=January 1, 2014 }}<br />{{cite book |title=The Secrets of Giron Arnis Escrima |url=https://books.google.com/books?id=atlsCwa8v9QC&pg=PP11 |date=March 15, 1998 |publisher=Tuttle Publishing |isbn=978-0-8048-3139-0 |page=11 }}<br />{{cite book |author=Angeles Monrayo Raymundo |title=Tomorrow's Memories: A Diary, 1924-1928 |url=https://books.google.com/books?id=RvjeL2ADhy8C&pg=PA263 |year=2003 |publisher=University of Hawaii Press |isbn=978-0-8248-2688-8 |page=263 }}<br />{{cite book |last=Austin |first=Leonard |year=1959 |title=Around the World in San Francisco |url=https://archive.org/stream/2aroundworldinsan00aust/2aroundworldinsan00aust_djvu.txt |location=San Francisco |publisher=Fearon Publishers |pages=26–28 |lccn=59065441 |access-date=January 1, 2015 |archive-url=https://archive.org/stream/2aroundworldinsan00aust#page/26/mode/2up/search/Filipino |archive-date=February 11, 2009 }}<br />{{cite book |author=Jon Sterngass |title=Filipino Americans |url=https://books.google.com/books?id=-gjvUvVY-ngC&pg=PA71 |date=January 1, 2009 |publisher=Infobase Publishing |isbn=978-1-4381-0711-0 |page=71 }}</ref> The museum opened in 2015 after two decades of planning.<ref>{{cite news |last=Conclara |first=Rommel |date=March 5, 2015 |title=Fil-Am museum to open in California |url=http://www.abs-cbnnews.com/global-filipino/03/05/15/fil-am-museum-open-california |newspaper=ABS-CBN News |access-date=March 6, 2015 }}</ref><ref>{{cite web |url=http://fanhsmuseum.com/index.html |title=Filipino American National Historic Society Museum}}</ref>
+* Art Expressions of San Joaquin – an artists' cooperative featuring the works of local artists – with a prior gallery on the Miracle Mile and ongoing shows at the Hilton Hotel, the County Administration Building and the Stockton Metropolitan Airport.
+* Stockton Field Aviation Museum – sponsored by the Aeronautical Education Foundation, featuring WWII-era memorabilia.
+[[Murals]] depicting the city's history decorate the exteriors of many downtown buildings.
+*Mexican Heritage Center & Gallery, Inc. — A non-profit located in downtown Stockton whose mission is to educate and promote art and culture for current and future generations. Since the late 1990s, the Mexican Heritage Center & Gallery has been a pioneer in bringing Mexican visual and performing arts to the Stockton community.
+
+With over 77,000 trees, the City of Stockton has been labeled Tree City USA some 30 times.<ref name="historycity" />
+
+Stockton has over 275 restaurants, ranging in variety reflective of the population demographics. A mix of American, African American, BBQ, Cambodian, Chinese, Filipino, Greek, Italian, Mexican and Vietnamese restaurants are abundant in the community reflecting the city's diverse culture. Cantonese restaurant On Lock Sam still exists and dates back to 1895.<ref>downtownstockton.org</ref>
+
+===Festivals===
+
+Stockton hosts many annual festivals celebrating the cultural heritage of the city, including:
+
+{{Div col|colwidth=30em}}
+
+* San Joaquin Children's Film Festival
+* San Joaquin International Film Festival (February)<ref>{{cite web|url=http://www.sjiff.com/ |title=San Joaquin International Film Festival | author=San Joaquin International Film Festival}}</ref>
+* Chinese New Year's Parade and Festival (First Sunday in March)
+* St. Patrick's Day and Shamrock Run (March)
+* Great Stockton Asparagus Dine Out (April)
+* Stockton Asparagus Festival — annual [[Asparagus]] [[food festival]] (April)<ref>{{cite web|url=http://www.seecalifornia.com/festivals/stockton-asparagus-festival.html |title=Stockton San Joaquin Asparagus Festival: April 20-22, 2018 |publisher=SeeCalifornia}}</ref>
+* Brubeck Jazz Festival (April)<ref>{{cite web|url=https://www.pacific.edu/brubeck-home/what-we-do/festival.html|website=Brubeck Institute|publisher=University of the Pacific|title=The Brubeck Festival|archive-url=https://web.archive.org/web/20140831164240/https://www.pacific.edu/brubeck-home/what-we-do/festival.html|archive-date=August 31, 2014|access-date=March 12, 2019|url-status=live}}</ref>
+* Earth Day Festival (April)
+* Cambodian New Year (April)
+* Annual [[Nagar Kirtan]], Sikh parade (April)<ref>{{cite web |title=2016 Nagar Kirtan Route |website=Gurdwara Sahib Stockton |url=http://stocktongurdwara.com/nagar-kirtan-route/ |date=April 2, 2016 |archive-url=https://web.archive.org/web/20161101133223/http://stocktongurdwara.com/nagar-kirtan-route/ |archive-date=November 1, 2016 |access-date=March 12, 2019 |url-status=live }}</ref>
+* Boat Parade for the Opening of Yachting Season (April)
+* Stockton Flavor Fest (May)
+* Cinco de Mayo Parade and Festival (May)
+* Zion Academy's Reclaim (May)
+* Jewish Food Fair (June)
+* Juneteenth Day Celebration (June)
+* Stockton Obon Bazaar (July)<ref>{{cite web|url=https://www.recordnet.com/news/20160807/obon-odori-and-cultural-bazaar-hit-with-crowd |title=Obon Odori and Cultural Bazaar a hit with the crowd |author=Michael Fitzgerald |work=Recordnet.com |publisher=The Record |date=August 7, 2016}}</ref>
+* Peruvian Independence Day Festival (July)
+* Taste of San Joaquin and West Coast BBQ Championships
+* Filipino Barrio Fiesta (August)<ref>{{cite web|url=https://www.recordnet.com/news/20180811/filipinos-celebrate-barrio-fiesta-with-heavy-hearts |title=Filipinos celebrate Barrio Fiesta with heavy hearts |author=Nicholas Filipas |work=Recordnet.com |publisher= The Record |date=August 11, 2018}}</ref>
+* Stockton Beer Week (August)<ref>{{cite web|url=https://www.downtownstockton.org/events/stockton-beer-week-2018-07-15/ |title=Stockton Beer Week |website=Downtown Stockton Alliance |year=2018}}{{dead link|date=July 2023}}</ref>
+* Stockton Pride (August)
+* Christian Spirit Festival (September)
+* The Record's Family Day at the Park (Sept)
+* Stockton Restaurant Week (September)
+* Black Family Day (September)
+* San Joaquin County Coastal Cleanup Day (September)
+* Greek Festival (September) First weekend after Labor Day
+* Festa Italiana: Tutti In Piazza (September)
+* Stocktoberfest, Beer and Brats Festival on the Waterfront (October)
+* Dia De Los Muertos Festival (October)<ref>{{cite web |url=https://www.recordnet.com/news/20181027/downtown-stockton-comes-alive-for-day-of-dead |title=Downtown Stockton Comes Alive for Day of the Dead |author=Almendra Carpizo |date=October 27, 2018 |work=Recordnet.com |publisher=The Record }}</ref>
+* Hmong New Year (November)
+* Stockton Festival of Lights and Boat Parade (December)
+
+{{div col end}}
+
+==Sports==
+
+Stockton is home to two [[minor league]] franchises:
+
+* [[Stockton Kings]]—([[NBA G League]] [[basketball]] team; affiliate of the [[Sacramento Kings]])
+* [[Stockton Ports]]—([[Low-A West]] baseball team; affiliate of the [[Athletics (baseball)|Athletics]])
+* Team Trouble—([[American Basketball Association (2000–present)|ABA]] [[basketball]] team)
+
+The Stockton Ports Baseball Team play their home games at [[Banner Island Ballpark]], a 5,000-seat facility built for the team in downtown Stockton. The Ports played their home games at Billy Hebert Field from 1953 to 2004. The Ports have been a single A team in Stockton since 1946 in the California Minor Leagues. Stockton has minor league baseball dating back to 1886.<ref>baseball-reference.com {{full citation needed|date=July 2023}}</ref>  The Ports have produced 244 Major League players including Gary Sheffield, Dan Plesac, Doug Jones, Pat Listach, and Stockton's own Dallas Braden among others.<ref>milb.com {{full citation needed|date=July 2023}}</ref>  The Ports have eleven championships and are currently the A class team for the Athletics. The Ports had the best win–loss percentage in all Minor League Baseball in the 1980s.<ref>milb.com Stockton Ports history{{full citation needed|date=July 2023}}</ref>
+
+A 10,000-seat arena, [[Stockton Arena]], located in Downtown Stockton, opened in December 2005 and is home to the [[Stockton Kings]] ([[NBA G League|NBAGL]])
+
+Stockton is home to the oldest NASCAR-certified race track West of the Mississippi. The Stockton 99 Speedway opened in 1947 and is a quarter-mile oval paved track with grandstands that can accommodate 5,000 spectators.{{citation needed|date=August 2015}}
+
+Stockton's designation for Little League Baseball is District 8, which has 12 leagues of teams within the city. Stockton also has several softball leagues including Stockton Girls Softball Association, and Port City Softball League, each having several hundred members.{{citation needed|date=August 2015}}
+
+Rowing Regatta featuring Junior, Collegiate and Master Level Rowing & Sculling Competition is organized by the [[University of the Pacific (United States)|University of the Pacific]]<ref>[http://web.pacific.edu/ web.pacific.edu] {{webarchive|url=https://web.archive.org/web/20070202014800/http://web.pacific.edu/ |date=February 2, 2007 }}</ref> annually on the Stockton's Deep Water Channel. Teams from throughout Northern California compete in this Olympic sport which is also the oldest collegiate sport in the United States.
+
+Stockton hosts a wide variety of sports events every year: from resident hockey, baseball and soccer games through basketball at the University of the Pacific and at the Stockton Arena; golf championships at two 18-hole courses and a Par 3 Executive Course; rowing, sailing and fishing on the Delta and the Stockton Channel; martial arts and cage fighting. There are four public golf courses open year-round, Van Buskirk, Swenson, and The Reserve at Spanos Park and Elkhorn Golf Course. Private courses include The Stockton Golf & Country Club, Oakmoore, and Brookside Golf & Country Club.{{citation needed|date=August 2015}}
+
+Stockton is one of a handful of cities that lays claim to being the inspiration for the 1888 poem "[[Casey at the Bat]]."<ref>{{cite web |url=http://www.thediamondangle.com/archive/jan02/casey.html |title=Where the Mighty Casey Struck Out |publisher=Thediamondangle.com |access-date=February 16, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20120224204349/http://www.thediamondangle.com/archive/jan02/casey.html |archive-date=February 24, 2012  }}</ref> The [[University of the Pacific (United States)|University of the Pacific]] was the summer home of the [[San Francisco 49ers]] Summer Training Camp from 1998 through 2002.
+
+Stockton is also the base of [[Ultimate Fighting Championship|UFC]] fighters [[Nick Diaz|Nick]] and [[Nate Diaz]]. Nick is the former WEC and Strikeforce Welterweight champion,<ref>{{cite web|url=http://www.sherdog.com/fighter/Nick-Diaz-2831|title=Nick Diaz MMA Stats, Pictures, News, Videos, Biography - Sherdog.com|last=Sherdog.com|website=Sherdog|access-date=July 16, 2016}}</ref> while Nate is the winner of [[The Ultimate Fighter 5]].<ref>{{cite web|url=http://www.sherdog.com/fighter/Nate-Diaz-11451|title=Nate Diaz MMA Stats, Pictures, News, Videos, Biography - Sherdog.com|last=Sherdog.com|website=Sherdog|access-date=July 16, 2016}}</ref> Both brothers are Brazilian jiu-jitsu black belts under [[Cesar Gracie]]<ref>{{cite web|url=https://www.mirror.co.uk/sport/other-sports/mma/who-nate-diaz-5-things-7494489|title=Who is Nate Diaz? 5 things you need to know the man who beat Conor McGregor|last=Edwards|first=James|website=[[Daily Mirror]]|date=March 6, 2016|access-date=July 16, 2016}}</ref> and operate a school in Stockton which teaches Brazilian jiu-jitsu to children and youth.<ref>{{cite web|url=http://fightland.vice.com/blog/nate-diaz-will-teach-your-kids|title=Nate Diaz Will Teach Your Kids {{!}} FIGHTLAND|access-date=July 16, 2016}}</ref><ref>{{cite web|url=http://natediaz209.com/diaz-academy.html|title=Nate Diaz Academy {{!}} Gracie Fighter Lodi {{!}} Gracie Jiu-Jitsu {{!}} Stockton, CA|website=natediaz209.com|access-date=July 16, 2016}}</ref>
+
+==Parks and recreation==
+[[File:PixieWoods.jpg|right|thumb|Pixie Woods]]
+The City of Stockton has a small children's amusement park, Pixie Woods; the park opened in 1954 and has since welcomed more than one million visitors.<ref>{{cite web|url=http://www.stocktongov.com/government/departments/communityServices/attPixWood.html |title=Pixie Woods - City of Stockton, CA |publisher=stocktongov.com}}</ref>
+
+==Government==
+{{see also|Government of San Joaquin County, California}}
+
+On November 3, 2020, [[Kevin Lincoln (politician)|Kevin J. Lincoln II]] was elected mayor, defeating incumbent mayor [[Michael Tubbs]]. He assumed office on January 1, 2021.<ref>{{cite web |url=http://www.stocktongov.com/government/council/mayor.html |title=Mayor Kevin J. Lincoln, II
+|website=stocktongov.com |date=January 4, 2021 |access-date=January 5, 2021}}</ref>
+
+; City council
+
+The City Council consists of the following members as of January 1, 2021:<ref>{{cite web | url=http://www.stocktongov.com/government/council/default.html | title=City Council - City of Stockton, CA}}</ref>
+
+* '''Kevin Lincoln'''— Mayor
+* '''Sol Jobrack'''— District 1
+* '''Dan Wright'''— District 2
+* '''Paul Canepa'''— District 3
+* '''Susan Lenz'''— District 4
+* '''Christina Fugazi'''— District 5
+* '''Kimberly Warmsley'''— District 6
+
+The current form of government is a [[Council–manager government|city manager council]].<ref>{{cite web|url=http://www.stocktongov.com/citycouncil/index.cfm |title=City of Stockton, CA|access-date=February 26, 2010}}</ref>
+
+Stockton is also seat of [[San Joaquin County, California|San Joaquin County]], for which the [[Government of San Joaquin County, California|government of San Joaquin County]] is defined and authorized under the [[California Constitution]] and [[California law|law]] as a [[charter county|general law county]]. The county government provides countywide services such as elections and voter registration, law enforcement, jails, vital records, property records, tax collection, public health, and social services. The county government is primarily composed of the elected five-member [[Board of Supervisors]] and other elected offices including the [[Sheriffs in the United States#California|Sheriff]], [[District Attorney]], and [[Tax assessment|Assessor]], and numerous county departments and entities under the supervision of the [[county administrator]].<ref>{{cite web
+ |url=https://www.sjgov.org/
+ |title=San Joaquin County
+ |website= San Joaquin County
+ |access-date=December 5, 2019
+}}
+</ref>
+
+===Police department===
+[[File:Seal of the Stockton Police Department.jpg|thumb|Stockton Police Department seal]]
+
+; Cleveland Elementary School shooting
+{{main|Cleveland Elementary School shooting (Stockton)}}
+On January 17, 1989, the Stockton Police Department received a threat against Cleveland Elementary School from an unknown person. Later that day, Patrick Purdy, who was later found to be mentally ill, opened fire on the school's playground with a semi-automatic rifle, killing five children, all Cambodian or Vietnamese refugees, and wounding 29 others, and a teacher, before taking his own life. The [[Cleveland Elementary School shooting (Stockton)|Cleveland Elementary School shooting]] received national news coverage and is sometimes referred to as the Cleveland School massacre.<ref>{{Cite magazine|url=http://www.time.com/time/magazine/article/0,9171,151105,00.html |archive-url=https://web.archive.org/web/20070310232726/http://www.time.com/time/magazine/article/0,9171,151105,00.html |url-status=dead |archive-date=March 10, 2007 |title=Slaughter in A School Yard |magazine=Time |date=June 24, 2001 |access-date=February 4, 2010}}</ref>
+
+; Budget crisis
+
+The city cut its police force by more than 20% during the [[Subprime mortgage crisis|2008 subprime mortgage crisis]], but voters approved a sales tax on November 5, 2013, that provided funds to hire an additional 120 police officers.<ref>{{cite web |url=http://www.kcra.com/news/local-news/news-stockton/stockton-pd-reaches-highest-staff-in-5-years/-/12969936/21767084/-/7ek3s6/-/index.html |first=Tom |last=DuHain |work=KCRA |date=September 3, 2013 |access-date=November 7, 2013 |title=Stockton PD reaches highest staff in 5 years |url-status=dead |archive-url=https://web.archive.org/web/20131212130140/http://www.kcra.com/news/local-news/news-stockton/stockton-pd-reaches-highest-staff-in-5-years/-/12969936/21767084/-/7ek3s6/-/index.html |archive-date=December 12, 2013  }}</ref><ref>{{cite web |url=http://www.recordnet.com/apps/pbcs.dll/article?AID=/20131103/A_NEWS0801/311030303/-1/A_NEWS04/ |first=Mike |last=Klocke |work=[[The Record (Stockton)]] |date=November 3, 2013 |access-date=November 7, 2013 |title=Important step to filling out the thin blue line}}</ref>
+
+; Bank robbery
+{{main|2014 Stockton bank robbery}}
+On July 16, 2014, officers responded to an armed bank robbery, which resulted in the four perpetrators taking three hostages and leading them on an hour-long high-speed pursuit. Over the course of the car chase, one suspect fired over 100 rounds from an [[AK-47]]s at police, disabling 14 police vehicles, including the department's own [[Lenco BearCat]] armored personnel carrier. More than 30 officers shot over 600 rounds into the getaway vehicle. Two perpetrators were killed, two hostages were injured, one hostage was killed by police ammunition, and numerous vehicles and other property were damaged or destroyed by the nearly 1,000 rounds of ammunition fired by the robbers and police.<ref>{{cite web|last1=BELL|first1=DEVON|title=A POLICE FOUNDATION CRITICAL INCIDENT REVIEW OF THE STOCKTON POLICE RESPONSE TO THE BANK OF THE WEST ROBBERY AND HOSTAGE-TAKING|url=https://www.policefoundation.org/wp-content/uploads/2015/08/A-Heist-Gone-Bad-Critical-Incident-Review.pdf |archive-url=https://web.archive.org/web/20150918175406/http://www.policefoundation.org/wp-content/uploads/2015/08/A-Heist-Gone-Bad-Critical-Incident-Review.pdf |archive-date=September 18, 2015 |url-status=live}}</ref> The department faced criticism with its handling of the incident in the aftermath.<ref>{{cite web|last1=Phillips|first1=Roger|title=Third hostage in Bank of the West robbery speaks|url=http://www.recordnet.com/article/20150731/news/150739918}}</ref>
+
+; Crime
+[[File:Stockton San Joaquin Street Station 2319 15.JPG|thumb|[[Amtrak Police]] cars at the Stockton – San Joaquin Street Station in Stockton, 2012]]
+
+In 2012, the City of Stockton was the 10th<ref name="finance.yahoo.com"/> most dangerous city in America, reporting 1,417 violent crimes per 100,000 persons, well above the national average, and 22 murders per 100,000 (above the average of 4.7).{{citation needed|date=July 2013}} In 2013, violent crime lessened to 1,230.3 crimes per 100,000 population, making it 19th on the list of the most dangerous cities.<ref name=kdvr>{{cite web|title=By the numbers: Here are the 20 'most dangerous' cities in America|url=http://kdvr.com/2015/05/08/by-the-numbers-here-are-the-most-dangerous-cities-in-america/|publisher=Tribune Media Company|access-date=December 26, 2015|date=May 8, 2015}}</ref>  Stockton has experienced a high rate of violent crime, reaching a record high of 71 homicides in 2012 before dropping to 32 for all of 2013.<ref name=kdvr/><ref name="Anderson">{{cite web | url=http://www.recordnet.com/apps/pbcs.dll/article?AID=/20131012/A_NEWS/310120320 | title=Violent crime continues downward trend | first=Jason | last=Anderson | date=October 12, 2013 | access-date=November 6, 2013 | work=The Record (Stockton) | archive-date=December 10, 2013 | archive-url=https://web.archive.org/web/20131210184337/http://www.recordnet.com/apps/pbcs.dll/article?AID=/20131012/A_NEWS/310120320 | url-status=dead }}</ref>
+
+Stockton Police Chief Eric Jones credited 2013's drop in the murder rate to [[Operation Ceasefire]], a gun violence intervention strategy pioneered in Boston and implemented in Stockton in 2012,<ref>{{cite news | first=Joe | last=Goldeen | url=http://www.recordnet.com/apps/pbcs.dll/article?AID=/20121228/A_NEWS/212280308 | title=Patience urged as new Ceasefire kicks in | work=The Record | date=December 28, 2012 | access-date=June 14, 2013 | archive-date=March 11, 2014 | archive-url=https://web.archive.org/web/20140311051123/http://www.recordnet.com/apps/pbcs.dll/article?AID=/20121228/A_NEWS/212280308 | url-status=dead }}</ref> combined with a federal gun and narcotics operation.<ref>{{cite web | url=https://online.wsj.com/news/articles/SB10001424127887323981304579081102914726812 | title=Cities Use Sticks, Carrots to Rein In Gangs | first=William |last=Harless |date=October 14, 2013 |access-date=November 6, 2013 | work=[[The Wall Street Journal]]}}</ref>
+
+=== Fire department ===
+
+The Stockton Fire Department was first rated as a Class 1 fire department by the [[Insurance Services Office]] in 1971. In 2005, all 13 of the city's stations met the [[National Fire Protection Association]] standard of a 5-minute response time.<ref>{{cite web|title=California Response Times Investigated {{!}} Firehouse|url=http://www.firehouse.com/news/10503917/california-response-times-investigated|website=Firehouse|date=November 17, 2005 |publisher=KCRA|access-date=November 3, 2016}}</ref> In 2009, it had 13 fire stations and over 275 career personnel.<ref>{{cite web|title=City of Stockton, CA Homepage- Official City Government Website|url=https://user.govoutreach.com/stockton/faq.php?cid=3541|website=user.govoutreach.com|access-date=November 3, 2016}}</ref> Due in part to staffing levels that placed five staff on ladder companies and four staff on engines, it was one of only 57 departments among 44,000 to receive the Class 1 rating in 2010.<ref>{{cite web|title=Central Valley Business Times|url=http://www.centralvalleybusinesstimes.com/stories/001/?ID=15231|website=www.centralvalleybusinesstimes.com|access-date=November 3, 2016|date=May 19, 2010|url-status=dead|archive-url=https://web.archive.org/web/20161104075939/http://www.centralvalleybusinesstimes.com/stories/001/?ID=15231|archive-date=November 4, 2016}}</ref>
+
+The department maintained this rating until 2011, when during the city's Chapter 9 bankruptcy proceedings and following a Civil Grand Jury investigation, the city reduced staffing levels from 220 full-time staff to 177, and the 2011 budget from $59 million to $40 million. The department was cut by 30%.<ref>{{cite web|last1=Funkhouser|first1=Mark|title=Sharing the Burdens of a Broken City|url=http://www.governing.com/gov-institute/funkhouser/col-stockton-california-bankruptcy-stakeholders-negative-fiscal-spiral.html|website=www.governing.com|date=April 8, 2013}}</ref> The bankruptcy was due in part to a 1996 decision made by the city to provide firefighters with free health care after retirement, which they later expanded to all city employees. The benefit gradually grew into a $417 million liability.<ref>{{cite web|last1=C. Johnson|first1=Steven|last2=Francescani|first2=Chris|title=Public Safety Compensation|url=http://www.firefighterclosecalls.com/firefighter-staffing/|website=www.firefighterclosecalls.com|access-date=November 3, 2016}}</ref>
+
+{{as of|2016}}, the department consists of 12 firehouses that house 12 Engine Companies and three Truck Companies. In 2015 the Fire Department responded to over 40,000 emergency calls for service, including more than 300 working structure fires. The department is one of the busiest in the United States. The Stockton Fire Department is assisted on medical emergency calls by American Medical Response.<ref>{{cite web|title=2015 Stockton Fire Department Year In Review|url=https://www.youtube.com/watch?v=WnwHaD18NV4| archive-url=https://ghostarchive.org/varchive/youtube/20211030/WnwHaD18NV4| archive-date=October 30, 2021|publisher=2015 Stockton Fire Department Year In Review|access-date=November 3, 2016|date=February 27, 2016}}{{cbignore}}</ref>
+
+==Education==
+
+===Primary and secondary===
+[[File:Burns Tower at the University of the Pacific.jpg|thumb|Burns Tower at the [[University of the Pacific (United States)|University of the Pacific]]]]
+Stockton is part of four public school districts: [[Stockton Unified School District]], [[Lincoln Unified School District]], [[Lodi Unified School District]], and [[Manteca Unified School District]]. There are more than 40 private elementary and secondary schools, including [[St. Mary's High School (Stockton, California)|Saint Mary's High School]]. Stockton is also home to public charter school systems including Aspire Public Schools, [[Stockton Collegiate International Schools|Stockton Collegiate]], Stockton Unified Early College Academy, and Venture Academy.{{citation needed|date=August 2015}}
+
+===Post-secondary===
+
+The [[University of the Pacific (United States)|University of the Pacific]] moved to Stockton in 1923 from San Jose. The university is the only private school in the United States with less than 10,000 students enrolled that offers eight different professional schools. It also offers a large number of degree programs relative to its student population.<ref>{{cite web|url=http://www.pacific.edu/x5201.xml |title=A Broad Selection of Courses |access-date=February 26, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100117035444/http://www.pacific.edu/x5201.xml |archive-date=January 17, 2010 }}</ref> The men's Pacific Tigers basketball team has been in the NCAA Tournament nine times. The Tigers have played their home games at the Alex G. Spanos Center since 1982, prior to that playing at the Stockton Memorial Civic Auditorium since 1952. The campus has been used in the filming of a number of Hollywood films (see [[#Popular culture|below]]), partly due to its likeness to East Coast [[Ivy League]] universities.<ref>{{cite web |url=http://web.pacific.edu/x5086.xml |title=Hollywood at Pacific |access-date=June 21, 2010 |publisher=University of the Pacific |archive-date=October 2, 2011 |archive-url=https://web.archive.org/web/20111002012913/http://web.pacific.edu/x5086.xml |url-status=dead }}</ref>
+
+Also located in Stockton are:
+
+* [[San Joaquin Delta College]], which serves a district area that includes all of [[San Joaquin County, California|San Joaquin County]] and parts of [[alameda County, California|Alameda]], [[calaveras County, California|Calaveras]], [[sacramento County, California|Sacramento]], and [[solano County, California|Solano]] counties.<ref>{{cite web|url=https://www.deltacollege.edu/sites/default/files/documents/imported/sjdccdfactsheet201415final.pdf |archive-url=https://web.archive.org/web/20211007102159/https://www.deltacollege.edu/sites/default/files/documents/imported/sjdccdfactsheet201415final.pdf |archive-date=October 7, 2021 |url-status=live|title=San Joaquin Delta College Fact Sheet|publisher=San Joaquin Delta College|website=deltacollege.edu/|access-date=October 7, 2021}}</ref>
+* [[California State University, Stanislaus]] established a Stockton campus on the grounds of the former [[Stockton State Hospital]]. The hospital was the first state [[mental institution]] in California;
+* [[Humphreys University]], a private non-profit institution offering undergraduate and graduate degrees including a [[Juris Doctor]] from the Laurence Drivon School of Law
+* Kaplan College of Stockton
+* Christian Life College, a private four-year Bible college offering associate and Bachelor of Arts degrees in Bible and theology or Christian music
+* MTI Business College
+* UEI College
+
+==Transportation==
+
+Stockton is centrally located with access to:
+
+* [[Port of Stockton]] — an international deep-water port
+* [[Amtrak]] railroad system
+* Intrastate and Interstate freeway systems
+* [[Stockton Metropolitan Airport]]
+
+===Roads and railways===
+
+[[File:Stockton San Joaquin Street 1.JPG|thumb|The [[San Joaquin Street station|San Joaquin Street]] [[Amtrak]] station in Stockton]]
+
+Due to its location at the "crossroads" of the [[California Central Valley|Central Valley]] and a relatively extensive highway system, Stockton is easily accessible from virtually anywhere in California. [[Interstate 5 (California)|Interstate 5]] and [[California State Route 99|State Route 99]], California's major north–south thoroughfares, pass through the city limits. The east–west highway [[California State Route 4|State Route 4]] also passes through the city, providing access to the [[San Francisco Bay Area]] as well as the Sierra Nevada and its foothills. Stockton is the western terminus of [[California State Route 26|State Route 26]] and [[California State Route 88|State Route 88]], which extends to the Nevada border. In addition, Stockton is within an hour of [[Interstate 80 (California)|Interstate 80]], [[Interstate 205 (California)|Interstate 205]] and [[Interstate 580 (California)|Interstate 580]].{{citation needed|date=August 2015}}
+
+Stockton is served by [[San Joaquin Regional Transit District]].<ref>{{cite web|url=http://www.sanjoaquinrtd.com/ |title=San Joaquin RTD |publisher=Sanjoaquinrtd.com |access-date=February 4, 2010}}</ref>
+
+Stockton is also connected to the rest of the nation through a network of railways. Stockton has two passenger rail stations. [[Robert J. Cabral Station]], which provides service to Sacramento on [[Amtrak]]'s ''[[San Joaquins]]'' route, and also serves as the northern terminus of the [[Altamont Corridor Express]] [[commuter rail]] service to San Jose. [[San Joaquin Street station]] provides service to Oakland via the ''San Joaquins'' route.
+
+[[Union Pacific]] and [[BNSF Railway]], the two largest railroad networks in North America both service Stockton and its port via connections with the [[Stockton Terminal and Eastern Railroad]] and [[Central California Traction Company]], who provide local and interconnecting services between the various rail lines. The [[Stockton Diamond]] was the busiest interchange point in the state by 2020;<ref>{{cite magazine |last1=Wanek-Libman |first1=Mischa |title=The Stockton Diamond project lands $20-million BUILD grant |url=https://www.masstransitmag.com/rail/infrastructure/article/21154192/the-stockton-diamond-project-lands-20million-build-grant |access-date=October 11, 2020 |magazine=Mass Transit |date=September 15, 2020}}</ref> a [[grade separation]] project to elevate the Union Pacific over the BNSF line is planned to be completed by 2026.
+
+===Air===
+[[File:Stockton Airport terminal, Jan 2016.jpg|thumb|Passenger terminal of [[Stockton Metropolitan Airport]]]]
+
+Stockton is served by [[Stockton Metropolitan Airport]], located on [[San Joaquin County|county]] land just south of city limits. The airport has been designated a [[Foreign trade zones of the United States|Foreign Trade Zone]] and is mainly used by manufacturing and agricultural companies for shipping purposes. Since [[airline deregulation]], passenger service has come and gone several times. Domestic service resumed on June 16, 2006, with service to [[Las Vegas Valley|Las Vegas]] by [[Allegiant Air]].<ref name="sjgov.org">{{cite web |url=http://www.sjgov.org/airport/dynamic.aspx?id=4094 |title=Stockton Metropolitan Airport (SCK) |publisher=Sjgov.org |date=July 1, 2012 |access-date=February 16, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130307085537/http://www.sjgov.org/airport/dynamic.aspx?id=4094 |archive-date=March 7, 2013  }}</ref> The days of service and number of flights were expanded a few months later due to demand. Air service to [[Phoenix, Arizona|Phoenix]] began in September 2007.
+
+On July 1, 2010, [[Allegiant Air]] implemented non-stop service to and from [[Long Beach, California|Long Beach]].<ref name="sjgov.org"/> In 2006 [[Aeromexico]] had plans to provide flights to and from [[Guadalajara]], Mexico, but the airport's plan to build a customs station at the airport was initially rejected by the customs service. However, the possibility of building this station is currently a continuing matter of negotiation between the airport and the customs service, and Aeromexico has indicated a continuing interest in eventually providing service. Ground transportation is available from Hertz, Enterprise, Yellow Cab and Aurora Limousine.{{citation needed|date=August 2015}}
+
+===Seaport===
+
+The [[Port of Stockton]] is a fully operating seaport approximately {{convert|75|nmi|mi km}} east of the Golden Gate Bridge in San Francisco. Set on the [[San Joaquin River]], the port operates a {{convert|4200|acre|km2|adj=on}}<ref name="Caltrans Port of Stockton Fact Sheet">{{cite web | url=http://www.dot.ca.gov/hq/tpp/offices/ogm/ships/Fact_Sheets/Port_of_Stockton_Fact_Sheet_073012.pdf |archive-url=https://web.archive.org/web/20140408225308/http://www.dot.ca.gov/hq/tpp/offices/ogm/ships/Fact_Sheets/Port_of_Stockton_Fact_Sheet_073012.pdf |archive-date=April 8, 2014 |url-status=live | title=Caltrans Port of Stockton Fact Sheet | access-date=April 7, 2014}}</ref> transportation center with berthing space for 17 [[Ship|vessels]] up to {{convert|900|ft|m}} in length.<ref>{{cite web|url=http://www.portofstockton.com/about |title=The Port of Stockton Today |publisher=Portofstockton.com |access-date=October 5, 2015}}</ref>  As of 2014, the Port of Stockton had 136 tenants<ref>{{cite web | url=http://portofstockton.com/wp-content/uploads/Port_of_Stockton_2014_AnnualReport.pdf#page=22 | pages=22–23 | publisher=Portofstockton.com | title=Port of Stockton 2014 Annual Report | access-date=October 5, 2015 | url-status=dead | archive-url=https://web.archive.org/web/20150910025808/http://portofstockton.com/wp-content/uploads/Port_of_Stockton_2014_AnnualReport.pdf#page=22 | archive-date=September 10, 2015 | df=mdy-all }}</ref> and is served by BNSF & UP Railroads.<ref>{{cite web|url=http://www.portofstockton.com/general-services |title=General Services |publisher=Portofstockton.com |access-date=October 5, 2015}}</ref> The port also includes {{convert|1.1|e6ft2|m2}} of dockside transit sheds and shipside rail track and {{convert|7.7|e6ft2|m2}} of warehousing.<ref>{{cite web|url=http://www.portofstockton.com/ |title=Port of Stockton, California |publisher=Portofstockton.com |access-date=February 4, 2010}}</ref>
+
+Adjacent to the port is [[Ruff and Ready Island Naval Supply Depot|Rough and Ready Island]], which served as a [[World War II]]–era naval supply base until it was decommissioned during the [[Base Realignment and Closure]] process in 1995.
+
+==Media==
+
+===Periodicals===
+
+; Daily periodicals
+* ''[[The Record (Stockton)|The Record]]'' is a daily newspaper
+* ''Stocktonia News Service'' is an online news site for Stockton.
+
+; Weekly periodicals
+* ''Bilingual Weekly News'' publishes a weekly newspaper, in both Spanish and English
+
+; Monthly periodicals
+* ''Artifact'' is a San Joaquin Delta College periodical based in Stockton from December 2006 - 2020. Writing in all genres, photography and visual media by students, staff and faculty as well as community members are accepted.
+* ''Caravan'' is a local community arts and events monthly tabloid.
+* ''Poets' Espresso Review'' is a periodical that was based in Stockton and was mostly distributed by mail from 2005 to 2010.
+* ''San Joaquin Magazine'' is a regional lifestyle magazine covering Stockton, Lodi, Tracy, and Manteca.
+* ''[[The Central Valley Business Journal]]'' is a monthly business tabloid.
+* ''The Downtowner'' was a free monthly guide to downtown Stockton's events, commerce, real estate, and other cultural and community happenings.
+
+===Radio broadcast stations===
+
+====AM stations====
+
+* [[KCVR (AM)|KCVR]] 1570: Spanish Adult Hits
+* [[KWG radio|KWG]] 1230: Catholic, switched formats to News/talk. Established in 1921, one of California's oldest running AM radio stations.<ref>{{cite web|last=Fitzgerald|first=Michael|date=September 13, 2013|title=AM radio heartbeat faint but still kicking|url=https://www.recordnet.com/article/20130913/A_NEWS0803/309130322|access-date=February 3, 2021|website=recordnet.com|language=en}}</ref>
+* [[KWSX]] 1280: Rock and Roll simulcast of [[KMRQ]] 96.7 Riverbank
+* [[KSTN (AM)|KSTN]] 1420 Modern Country Simulcast on 105.9FM
+
+In addition, several radio stations from nearby San Francisco, [[Sacramento]] and [[Modesto, California|Modesto]] are receivable in Stockton.
+
+====FM stations====
+{{Div col|colwidth=30em}}
+
+* [[KQED-FM]] 88.5: ([[NPR]] affiliate) News/Talk
+* [[KLOVE]] 89.7: Christian
+* [[KYCC]] 90.1: Christian
+* [[KUOP]] 91.3: ([[Capital Public Radio]]) ([[NPR]] affiliate) News/Talk and Jazz
+* [[KWDC-LP|KWDC]] LP 93.5: ([[NPR]]) News/Talk and Music Varieties
+* [[KHOP]] 95.1: Top 40 
+* [[KWIN]] 97.7: Urban Contemporary
+* [[KRXQ]] 98.5: Alternative Rock
+* [[KJOY]] 99.3: Lite Rock
+* [[KQOD]] 100.1: Rhythmic Oldies
+* [[KMIX]] 100.9: Regional Mexican
+* [[KATM]] 103.3: Country
+* KELR-LP 104.7: ([[3ABN Radio]]) Christian
+* [[KHKK|The Hawk]] 104.1: Classic Rock
+* [[KSTN (AM)|KSTN]] 105.9 Modern Country 
+* [[KLVS]] 107.3: Christian
+
+{{div col end}}
+
+===Television stations===
+
+As part of the '''Sacramento-Stockton-Modesto''' television market, Stockton is primarily served by stations based in Sacramento, but may carry some San Francisco Bay area television stations' airwaves. These are listed below, with the city of license in bold:
+
+{{Div col|colwidth=30em}}
+
+* [[KCRA]] Channel 3 ([[NBC]] affiliate) '''Sacramento'''
+* [[KRON-TV|KRON]] Channel 4 ([[The CW]] [[Owned and operated station|O&O]]) '''San Francisco'''
+* [[KVIE]] Channel 6 ([[Public Broadcasting Service|PBS]] member station) '''Sacramento'''
+* [[KQED (TV)|KQED]] Channel 9 ([[Public Broadcasting Service|PBS]] member station) '''San Francisco'''
+* [[KXTV]] Channel 10 ([[American Broadcasting Company|ABC]] affiliate) '''Sacramento'''
+* [[KOVR]] Channel 13 ([[CBS]] O&O) '''Stockton'''
+* [[KUVS]] Channel 19 ([[Univision]] O&O) '''Modesto'''
+* [[KSPX-TV]] Channel 29 ([[ION Media Networks|Ion]] O&O) '''Sacramento'''
+* [[KMAX-TV|KMAX]] Channel 31 ([[Independent station (North America)|Independent station]]) '''Sacramento'''
+* [[KCSO-LD]] Channel 33 ([[Telemundo]] O&O) '''Sacramento'''
+* [[KTXL]] Channel 40 ([[Fox Broadcasting Company|Fox]] affiliate) '''Sacramento'''
+* [[KTNC-TV|KTNC]] Channel 42 ([[Tri-State Christian Television]] O&O) '''Concord'''
+* [[KQCA]] Channel 58 (dual affiliate of [[The CW]] and [[MyNetworkTV]]) '''Sacramento'''
+* [[KTFK-DT]] Channel 64 ([[UniMás]] O&O) '''Stockton'''
+
+{{div col end}}
+
+==In popular culture==
+===Comics===
+* [[Stan Lee]] named Stockton as the birthplace of the [[Fantastic Four]] in 1986, after Joe Field successfully petitioned [[Marvel Comics]] to change it from the fictional "Central City".<ref>{{cite web|author=Ian Hill |url=http://www.recordnet.com/apps/pbcs.dll/article?AID=/20050710/ENT/507100346&SearchID=73213856189350 |title=Fantastic return |publisher=Recordnet.com |date=July 10, 2005 |access-date=February 8, 2014}}</ref>
+
+===Films===
+A number of motion pictures have been filmed in Stockton, including:
+{{Div col|colwidth=30em}}
+* ''[[All the King's Men (1949 film)|All the King's Men]]'' (1949)<ref name=grant>{{cite news | newspaper=Los Angeles Times | date=July 2, 1977 | page=10 | title=Waiting to Be Discovered | last=Grant | first=Lee | url=https://www.newspapers.com/clip/96591744/stockton-films-lat/ | access-date=February 27, 2022}}</ref>
+* ''[[The Big Country]]'' (1958){{r|grant}}
+* ''[[Bird (1988 film)|Bird]]<ref name=merc>{{cite news| newspaper=The Mercury News | title=Travel Top 10: Films shot in Stockton | date=June 24, 2016 | last=Burrell | first=Jackie | url=https://www.mercurynews.com/2016/06/24/travel-top-10-films-shot-in-stockton/| access-date=February 27, 2022}}</ref>
+* ''[[Big Stan]]'' (2007)<ref>{{cite news | newspaper=Visalia Times-Delta (Visalia, California) | date=June 30, 2006 | page=19 | title=Rob Schneider collapses on film set | url=https://www.newspapers.com/clip/96593587/big-stan/  | access-date=February 27, 2022}}</ref>
+* ''[[Blood Alley]]'' (1955){{r|grant}}
+* ''[[Bound for Glory (1976 film)|Bound for Glory]]'' (1976){{r|grant}}
+* ''[[Coast to Coast (1980 film)|Coast to Coast]]'' (1980)<ref>{{cite news | newspaper=The Sacramento Bee | date=April 23, 1980 | last=Masullo | first=Robert A. | title=Candid Actor Unpromotes A Film | page=81 | access-date=February 27, 2022 | url=https://www.newspapers.com/clip/96595089/coast-to-coast/}}</ref>
+* ''[[Cool Hand Luke]]'' (1967)<ref>{{cite news | newspaper=Tracy Press (Tracy, California | page=4 | date=November 14, 1966 | title=For Movie Scene Roberts Island As a Backdrop | access-date=February 27, 2022 | url=https://www.newspapers.com/clip/96595374/cool-hand-luke/}}</ref>
+* ''[[Day of Independence]]'' (2003)<ref>{{cite news | newspaper=The Stockton Record | last=Lachtman | first=Howard | url=https://www.recordnet.com/story/lifestyle/2004/02/14/day-independence-tells-timeless/50706987007/ | access-date=February 27, 2022 | title='Day of Independence' tells timeless tale}}</ref>
+* ''[[Dead Man on Campus]]'' (1998)<ref>{{cite news | newspaper=Santa Maria Times | date=August 24, 1998 | page=9 | last=Johnson | first=G. Allen | title='Dead Man On Campus' black comedy at its worst | access-date=February 27, 2022 | url=https://www.newspapers.com/clip/96596090/dead-man-on-campus/}}</ref>
+* ''[[Dirty Mary, Crazy Larry]]'' (1974)<ref>{{cite news | newspaper=Tracy Press (Tracy, California) | date=October 17, 1973 | page=13 | last=Hobbs | first=Carolyn | title=For 'Dirty Mary Crazy Larry' cast | url=https://www.newspapers.com/clip/96592305/dmcl/ | access-date=February 27, 2022}}</ref>
+* ''[[Dreamscape (1984 film)|Dreamscape]]'' (1984){{r|uop}}
+* ''[[Fat City (film)|Fat City]]'' (1972),{{r|grant}} based on [[Leonard Gardner]]'s acclaimed 1969 novel [[Fat City (novel)|''Fat City'']]. It is set in Stockton in the late 1950s, and was filmed by director [[John Huston]].
+* ''[[Flubber (film)|Flubber]]'' (1997){{r|uop}}
+* ''[[Friendly Fire (1979 film)|Friendly Fire]]'' (1979)<ref>{{cite news | newspaper=The Sacramento Bee | date=July 18, 1978 | page=27 | last=Huber | first=Dean | title=In Focus | access-date=February 27, 2022 | url=https://www.newspapers.com/clip/96596901/friendly-fire/}}</ref>
+* ''[[Glory Days (film)|Glory Days]]'' (1988)<ref>{{cite news | newspaper=The Modesto Bee | date=September 15, 1988 | page=3 | last=Ross | first=Lisa | title=Cameras rolling at UOP stadium | access-date=February 27, 2022 | url=https://www.newspapers.com/clip/96597067/glory-days/}}</ref>
+* ''[[God's Little Acre (film)|God's Little Acre]]'' (1958)<ref>{{cite news | newspaper=The Modesto Bee (Modesto, California) | title=God's Little Acre Will Be Filmed Near Stockton | date=August 26, 1957 | page=14 | url=https://www.newspapers.com/clip/96593287/gods-little-acre/ | access-date=February 27, 2022}}</ref>
+* ''[[High Time (film)|High Time]]'' (1960){{r|uop}}
+* ''[[Hot Shots! Part Deux]]'' (1993){{r|merc}}
+* ''[[Indiana Jones and the Last Crusade]]'' (1989){{r|uop}}
+* ''[[Inventing the Abbotts]]'' (1997){{r|uop}}
+* ''Natzee Zombie Carnage'' (2019)<ref name="Record">"Local Horror Film". Fitzgerald, Michael. The Record. Stockton. October 31, 2015. p. C7.</ref>
+* ''[[Oklahoma Crude (film)|Oklahoma Crude]]'' (1973){{r|grant}}
+* ''Psychopomp'' (2020)<ref name="abc10">"Filmmakers looking for talent in Stockton, Sacramento region", (March 23, 2019) Marie Estrada, abc10 News.</ref>
+* ''[[Porgy and Bess (film)|Porgy and Bess]]'' (1959){{r|grant}}
+* ''[[Raid on Entebbe (film)|Raid on Entebbe]] (1977)<ref>{{cite news | newspaper=Oakdale Leader (Oakdale, California) | date=January 5, 1977 | page=3 | last=Valenti | first=Valdene | title=Three locals take part in "Entebbe" | url=https://www.newspapers.com/clip/96591486/raid-on-entebbe-stockton/ | access-date=February 27, 2022}}</ref>
+* ''[[Raiders of the Lost Ark]]'' (1981)<ref name=uop>{{cite web | website=University of the Pacific | title=Filmed on campus | date=April 23, 2021 | url=https://www.pacific.edu/pacific-newsroom/filmed-campus-pacific-has-rich-history-hollywood | access-date=February 27, 2022}}</ref>
+* ''[[Rampage (1987 film)|Rampage]]'' (1988)<ref>{{cite news | newspaper=The Modesto Bee | date=November 30, 1986 | page=17 | last=Doyle | first=Michael | title='Stockton County' the scene of Hollywood courtroom tale | access-date=February 27, 2022 | url=https://www.newspapers.com/clip/96597970/rampage-film/}}</ref>
+* ''[[R. P. M.]]'' (1970){{r|uop}}
+*''[[Steamboat Round the Bend]]'' (1935)<ref>{{cite book | last=Isetti | first=Ronald Eugene | title=Competing voices : a critical history of Stockton, California | publisher=Outskirts Press | publication-place=[Denver, Colorado] | date=2019 | isbn=978-1-9772-1483-6 | oclc=1119604979 | page=312}}</ref>
+*''[[The Great Race]]''{{r|merc}}
+* ''[[The Strawberry Statement (film)|The Strawberry Statement]]'' (1970)<ref>{{cite news | newspaper=The Sacramento Bee | date=November 13, 1969 | page=12 | title=Strawberry Statement' is Filmed | last=Johnson | first=Charles | access-date=February 27, 2022 | url=https://www.newspapers.com/clip/96598208/strawberrystatement/}}</ref>
+* ''[[The Sure Thing]]'' (1985){{r|uop}}
+* ''Valentino's Return'' (1989)<ref>{{cite news | newspaper=The Gustine Press (Gustine, California) | date=January 30, 1986 | page=1 | title=Mills will pursue film making career | access-date=February 27, 2022 | url=https://www.newspapers.com/clip/96598358/valentinos-return/}}</ref>
+* ''[[The World's Greatest Athlete]]'' (1973)<ref>{{cite news | newspaper=Santa Cruz Sentinel | date=November 16, 1972 | page=21 | title=Hollywood Goes Stockton | access-date=February 27, 2022 | url=https://www.newspapers.com/clip/96598555/greatest-athlete/}}</ref>
+{{div col end}}
+
+===Television===
+* The 1960s [[Western (genre)|Western]] TV series ''[[The Big Valley]]'' was set just outside Stockton.
+* The [[FX (TV channel)|FX]] TV show ''[[Sons of Anarchy]]'' (2008–2014), is set in and near Stockton.
+* ''Road Trip with [[Huell Howser]]'' Episode 142<ref>{{cite web |title=Stockton-Road Trip with Huell Howser (142) – Huell Howser Archives at Chapman University |date=September 29, 2007 |url=https://blogs.chapman.edu/huell-howser-archives/2007/09/29/stockton-road-trip-with-huell-howser-142/}}</ref>
+
+=== Music ===
+
+* [[Experimental music|Experimental]] [[Hip hop music|hip-hop]] trio [[Death Grips]] song "Stockton" refers to the city in title as well as in lyrics : "Feeders suck like stuck in Stockton", on their 2012 album [[No Love Deep Web]].<ref>{{Citation |title=Death Grips – Stockton |url=https://genius.com/Death-grips-stockton-lyrics |access-date=February 2, 2024}}</ref>
+
+==Notable people==
+
+<!-- Please do not add individual names here, please add to list below -->
+
+{{Main|List of people from Stockton, California}}
+
+[[Reagan Maui'a]], a former NFL [[fullback (gridiron football)|fullback]], is from Stockton; he originally played for Tokay High School in nearby [[Lodi, California|Lodi]]. [[Jose M. Hernandez]], a famous NASA astronaut and engineer,<ref>{{cite web|url=https://www.nasa.gov/vision/space/preparingtravel/ascan_bio_hernandez.html |title=2004 Astronaut Candidate:Jose Hernandez, Mission Specialist | author=NASA |publisher=NASA}}</ref> also refers to Stockton as his hometown. [[Chi Cheng (musician)|Chi Cheng]], former bass player for the [[Deftones]], was born and raised in Stockton. Musician [[Chris Isaak]] was born in Stockton.<ref name="oldies1">{{cite web|url=http://www.oldies.com/artist-biography/Chris-Isaak.html |title=Chris Isaak Biography |website=oldies.com |date=June 26, 1956 |access-date=March 12, 2016}}</ref> The indie rock band [[Pavement (band)|Pavement]] was formed in Stockton in 1989 by two local musicians, [[Stephen Malkmus]] and [[Scott Kannberg]], known originally only as "S.M." and "Spiral Stairs".<ref>{{cite web |last1=Weisbard |first1=Eric M. |title=Pavement |url=https://www.britannica.com/topic/Pavement-band |website=Encyclopaedia Britannica |access-date=December 31, 2019}}</ref><ref>{{cite web |title=Pavement |url=http://www.poprockbands.com/pavement/band/prp.html |website=PopRockBands.com |access-date=December 31, 2019}}</ref> [[Nick Diaz|Nick]] and [[Nate Diaz]], [[mixed martial arts]] fighters, are from the Stockton area. Acclaimed American author [[Maxine Hong Kingston]] was born in Stockton in 1940, graduating from Edison High in 1958. The [[Maxine Hong Kingston Elementary School]] is named after her.
+
+==Sister cities==
+
+Stockton has seven [[sister cities]]:<ref>{{cite web|url=http://www.stocktongov.com/discover/sister.html|title=Sister Cities - City of Stockton, CA|url-status=dead|archive-url=https://web.archive.org/web/20120325234922/http://www.stocktongov.com/discover/sister.html|archive-date=March 25, 2012}}</ref>
+
+{| class="wikitable"
+|-
+! Country
+! City
+! Year of Partnership
+|-
+| {{flagdeco|JPN}} [[Japan]]
+| [[Shizuoka City|Shizuoka]]
+| March 9, 1959;<ref>{{cite web | url=http://www.stocktongov.com/discover/sister.html | archive-url=https://web.archive.org/web/20120325234922/http://www.stocktongov.com/discover/sister.html| archive-date=March 25, 2012| title=Sister Cities - City of Stockton, CA}}</ref> October 16, 1959<ref>{{cite web | url=https://www.sf.us.emb-japan.go.jp/itpr_en/e_m07_06_01.html |title = Northern and Central California Sister Cities in Japan}}</ref>
+|-
+| {{flagdeco|PHL}} [[Philippines]]
+| [[Iloilo City]]
+| August 2, 1965
+|-
+| {{flagdeco|MEX}} [[Mexico]]
+| [[Empalme, Sonora|Empalme]]
+| September 4, 1973
+|-
+| {{flagdeco|PRC}} [[People's Republic of China]]
+| [[Foshan]]
+| April 11, 1988
+|-
+| {{flagdeco|ITA}} [[Italy]]
+| [[Parma]]
+| January 13, 1998
+|-
+| {{flagdeco|CAM}} [[Cambodia]]
+| [[Battambang]]
+| October 19, 2004
+|-
+| {{flagdeco|NGA}} [[Nigeria]]
+| [[Asaba, Nigeria|Asaba]]
+| June 6, 2006
+|}
+
+==See also==
+{{portal bar|Geography|North America|United States|California}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+
+* {{cite web|url=http://freepages.genealogy.rootsweb.ancestry.com/~npmelton/sfd_indx.htm |title=History of the Stockton Fire Department 1850–1908 | first=Allen M. |last=Robinette|date=June 1908 }}
+* {{Cite book |url=https://archive.org/details/GR_4157|title=A history of Stockton from its organization up to the present time | first=George Henry |last=Tinkham |year=1880 |publisher=W.M. Hinton & Co.}}
+* {{cite book|first=Dawn Bohulano |last=Mabalon|title=Little Manila Is in the Heart: The Making of the Filipina/o American Community in Stockton, California|url=https://books.google.com/books?id=1ES2AgAAQBAJ|date=May 29, 2013|publisher=Duke University Press|isbn=978-0-8223-9574-4}}
+
+==External links==
+{{sister project links|voy=Stockton (California)}}
+
+* {{Official website}}
+* [http://www.visitstockton.org/ Official visitor and tourist information]
+* [https://web.archive.org/web/20071127032147/http://www.stockton.lib.ca.us/ Stockton-San Joaquin County Public Library]
+*[https://scholarlycommons.pacific.edu/hsp/ Historic Stockton Photographs] at [https://www.pacific.edu/university-libraries/find/holt-atherton-special-collections.html Holt-Atherton Special Collections]
+*[https://scholarlycommons.pacific.edu/scsc/ Spooner California Stereograph Collection] at [https://www.pacific.edu/university-libraries/find/holt-atherton-special-collections.html Holt-Atherton Special Collections]
+*https://www.recordnet.com/story/business/2022/10/09/sherwood-place-sprouts-farmers-market-ready-take-shape-stockton-sherwood-mall/8210120001/
+*https://www.shopsherwoodplace.com/
+
+{{San Joaquin County, California}}
+{{San Joaquin Valley}}
+{{California county seats}}
+{{California}}
+{{All-American City Award Hall of Fame|state=collapsed}}
+{{USPopulousCities}}
+{{Authority control}}
+
+[[Category:Stockton, California| ]]
+[[Category:Cities in San Joaquin County, California]]
+[[Category:County seats in California]]
+[[Category:Incorporated cities and towns in California]]
+[[Category:Inland port cities and towns of the United States]]
+[[Category:Railway towns in California]]
+[[Category:San Joaquin Valley]]
+[[Category:Sacramento–San Joaquin River Delta]]
+[[Category:Government units that have filed for Chapter 9 bankruptcy]]
+[[Category:California Enterprise Zones]]
+[[Category:Populated places established in 1849]]
+[[Category:1849 establishments in California]]

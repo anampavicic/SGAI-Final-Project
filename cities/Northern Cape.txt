@@ -1,0 +1,357 @@
+
+{{Use dmy dates|date=October 2024}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                     = Northern Cape
+| native_name              = {{Plainlist|
+*{{native_name|af|Noord-Kaap}} 
+*{{native_name|tn|Kapa Bokone}} 
+*{{native_name|xh|Mntla-Kapa}} 
+}}
+| settlement_type          = [[Provinces of South Africa|Province]]
+<!-- images, nickname, motto --->| image_shield             = Northern Cape coat of arms.svg
+| motto                    = ''Sa ǁa ǃaĩsi 'uĩsi'' (Strive for a better life)
+<!-- maps and coordinates ------>| image_map                = Northern Cape in South Africa.svg
+| mapsize                  = 
+| map_alt                  = Map showing the location of the Northern Cape in the north-western part of South Africa
+| map_caption              = Location of the Northern Cape in South Africa
+<!-- location ------------------>| subdivision_type         = [[Country]]
+| subdivision_name         = {{flagdeco|RSA}} [[South Africa]]
+<!-- established --------------->| established_title        = Established
+| established_date         = 27 April 1994
+<!-- seat, smaller parts ------->| seat_type                = [[Capital city|Capital]] and largest city
+| seat                     = [[Kimberley, Northern Cape|Kimberley]]
+| parts_type               = [[Districts of South Africa|Districts]]
+| p1                       = [[Namakwa District Municipality|Namakwa]]
+| p2                       = [[Pixley ka Seme District Municipality|Pixley ka Seme]]
+| p3                       = [[ZF Mgcawu District Municipality|ZF Mgcawu]]
+| p4                       = [[Frances Baard District Municipality|Frances Baard]]
+| p5                       = [[John Taolo Gaetsewe District Municipality|John Taolo Gaetsewe]]
+<!-- government type, leaders -->| government_footnotes     = <!-- for references: use<ref> tags -->
+| government_type          = [[Parliamentary system]]
+| leader_party             = [[African National Congress|ANC]]
+| leader_title             = [[Premier of the Northern Cape|Premier]]
+| leader_name              = [[Zamani Saul]]
+| leader_title1            = Legislature
+| leader_name1             = [[Northern Cape Provincial Legislature]]
+<!-- area ---------------------->| area_footnotes           = <ref name="cib2011">{{cite book |title=Census 2011: Census in brief |url=http://www.statssa.gov.za/census/census_2011/census_products/Census_2011_Census_in_brief.pdf |publisher=Statistics South Africa |location=Pretoria |year=2012 |isbn=9780621413885 |archive-url=https://web.archive.org/web/20150513171240/http://www.statssa.gov.za/census/census_2011/census_products/Census_2011_Census_in_brief.pdf |archive-date=13 May 2015 |url-status=live}}</ref>{{rp|9}}
+| area_total_km2           = 372889
+| area_rank                = [[List of South African provinces by area|1st in South Africa]]
+<!-- elevation ----------------->| elevation_max_footnotes  = <!-- for references: use<ref> tags -->
+| elevation_max_m          = 2156
+| elevation_min_footnotes  = <!-- for references: use<ref> tags -->
+| elevation_min_m          = 0
+<!-- population ---------------->| population_footnotes     = <ref>{{cite web |url=https://www.thepresidency.gov.za/download/file/fid/2889}}</ref>
+| population_total         = 1,355,629
+| population_as_of         = 2022
+| population_density_km2   = auto
+| population_rank          = [[List of South African provinces by population|9th in South Africa]]
+| population_density_rank  = [[List of South African provinces by population density|9th in South Africa]]
+| population_demonym       = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note          = <!-- demographics (section 1) -->
+| demographics_type1       = Population groups (2022) 
+| demographics1_footnotes  = <ref>{{cite web |url=https://www.thepresidency.gov.za/download/file/fid/2889}}</ref>
+| demographics1_title1     = [[Bantu peoples of South Africa|Black]]
+| demographics1_info1      = 50.1%
+| demographics1_title2     = [[Coloured]]
+| demographics1_info2      = 41.6%
+| demographics1_title3     = [[White South African|White]]
+| demographics1_info3      = 7.3%
+| demographics1_title4     = [[Indian South African|Indian]] or [[Asian South African|Asian]]
+| demographics1_info4      = 0.8%
+<!-- demographics (section 2) -->| demographics_type2       = Languages (2022)
+| demographics2_footnotes  = <ref>{{Cite web |date=10 October 2023 |title=Census 2022: Statistical Release |url=https://census.statssa.gov.za/assets/documents/2022/P03014_Census_2022_Statistical_Release.pdf |access-date=12 October 2023 |website=statssa.gov.za |page=6}}</ref>
+| demographics2_title1     = [[Afrikaans language|Afrikaans]]
+| demographics2_info1      = 54.6%
+| demographics2_title2     = [[Tswana language|Tswana]]
+| demographics2_info2      = 35.7%
+| demographics2_title3     = [[Xhosa language|Xhosa]]
+| demographics2_info3      = 4.5%
+| demographics2_title4     = [[South African English|English]]
+| demographics2_info4      = 2.4%
+<!-- time zone(s) -------------->| timezone1                = [[South African Standard Time|SAST]]
+| utc_offset1              = +2
+<!-- postal codes, area code --->| iso_code                 = ZA-NC
+| blank_name_sec1          = [[Human Development Index|HDI]] (2021)
+| blank_info_sec1          = 0.701<ref name="GlobalDataLab">{{Cite web|url=https://hdi.globaldatalab.org/areadata/shdi/|title=Sub-national HDI - Area Database - Global Data Lab|website=hdi.globaldatalab.org|access-date=2018-09-13}}</ref><br/>{{color|#090 |high}} · [[List of South African provinces by Human Development Index|6th of 9]]
+<!-- GDP --------------> | blank1_name_sec1   = GDP
+| blank1_info_sec1   = [[US$]]9.1 billion<ref>{{citation|title=Provincial gross domestic product:experimental estimates, 2013–2022|url=https://www.statssa.gov.za/publications/D04411/D044112022.pdf|website=www.statssa.gov.za}}</ref>
+<!-- website, footnotes -------->| website                  = [http://www.northern-cape.gov.za/ www.northern-cape.gov.za]
+| footnotes                = 
+}}
+{{Infobox South African
+| zu   = iNyakatho Kapa
+| xh   = eMntla-Koloni
+| af   = Noord-Kaap
+| nso  = Kapa Leboa
+| ss   =
+| st   = Kapa Leboya
+| tn   = Kapa Bokone
+| ts   = Kapa N'walungu 
+| ve   = Kapa Devhula
+| nr   =
+| khoi =
+| naq  =
+| san  =
+}}
+The '''Northern Cape''' ({{langx|af|Noord-Kaap}} {{IPA|af|ˈnuərtkɑːp|}}; {{langx|tn|Kapa Bokone}}; {{langx|xh|Mntla-Koloni}}) is the largest and most sparsely populated [[Provinces of South Africa|province]] of [[South Africa]]. It was created in 1994 when the [[Cape Province]] was split up. Its capital is [[Kimberley, South Africa|Kimberley]]. It includes the [[Kalahari Gemsbok National Park]], part of the [[Kgalagadi Transfrontier Park]] and an [[Transboundary Protected Area|international park]] shared with [[Botswana]]. It also includes the [[Augrabies Falls]] and the diamond mining regions in Kimberley and [[Alexander Bay, Northern Cape|Alexander Bay]].
+
+The [[Namaqualand]] region in the west is famous for its [[Dimorphotheca sinuata|Namaqualand daisies]]. The southern towns of [[De Aar]] and [[Colesberg]] found within the [[Great Karoo]] are major transport nodes between [[Johannesburg]], [[Cape Town]] and [[Gqeberha]]. [[Kuruman]] can be found in the north-east and is known as a [[Mission (station)|mission]] station. It is also well known for its [[artesian spring]] and [[Eye of Kuruman]]. The [[Orange River]] flows through the province, forming the borders with the [[Free State (South African province)|Free State]] in the southeast and with [[Namibia]] to the northwest. The river is also used to irrigate the many vineyards in the arid region near [[Upington]].
+
+Native speakers of [[Afrikaans]] comprise a higher percentage of the population in the Northern Cape than in any other province. The Northern Cape's four official languages are Afrikaans, [[Tswana language|Tswana]], [[Xhosa language|Xhosa]], and [[South African English|English]]. Minorities speak the other official languages of South Africa and a few people speak indigenous [[Khoisan languages|languages]] such as [[Khoekhoe language|Nama]] and [[Khwe language|Khwe]].
+
+The provincial motto, ''Sa ǁa ǃaĩsi 'uĩsi'' ("We go to a better life"), is in the [[Nǀu]] language of the Nǁnǂe (ǂKhomani) people. It was given in 1997 by one of the language's last speakers, Ms. [[Elsie Vaalbooi]] of [[Rietfontein]], who has since died. It was South Africa's first officially registered motto in a [[Khoisan language]]. Subsequently, South Africa's [[national motto]], ''ǃKe e ǀxarra ǁke'', was derived from the extinct [[ǀXam language]].
+
+== History ==
+{{Main|History of the Northern Cape}}
+The Northern Cape was one of three provinces made out of the [[Cape Province]] in 1994, the others being [[Western Cape]] to the south and [[Eastern Cape]] to the southeast. Politically, it had been dominated since 1994 by the [[African National Congress]] (ANC).<ref name=":0">{{Cite web|url=http://www.sahistory.org.za/places/northern-cape|title=Northern Cape|last=sahoboss|date=2011-03-31|website=www.sahistory.org.za|access-date=2017-07-13}}</ref> Ethnic issues are important in the politics of the Northern Cape. For example, it is the site of the [[Orania]] settlement, whose leaders have called for a [[Volkstaat]] for the [[Afrikaners|Afrikaner people]] in the province.
+
+The Northern Cape is also the home of over 1,000 [[Bushmen|San]] who emigrated from [[Namibia]] following the independence of the country; they had served as trackers and scouts for the [[South African Defence Force]] during the [[South African Border War]], and feared reprisals from their former foes. They were awarded a settlement in [[Platfontein]] in 1999 by the Mandela government.
+
+The precolonial history of the Northern Cape is reflected in a rich, mainly Stone Age, [[archaeological]] [[wikt:heritage|heritage]]. Cave sites include [[Wonderwerk Cave]] near Kuruman, which has a uniquely long sequence stretching from the turn of the twentieth century at the surface to more than 1 million (and possibly nearly 2&nbsp;million) years in its basal layer (where [[stone tools]], occurring in very low density, may be [[Oldowan]]).<ref>{{cite journal|last1=Beaumont|first1= P.B.|last2=Vogel|first2= J.C. |date=2006|title= On a timescale for the past million years of human history in central South Africa|journal=South African Journal of Science|issue=102|pages=217–228|hdl=10204/1944}}</ref><ref name="ChazanRon2008">{{cite journal|last1=Chazan|first1=Michael|last2=Ron|first2=Hagai|last3=Matmon|first3=Ari|last4=Porat|first4=Naomi|last5=Goldberg|first5=Paul|last6=Yates|first6=Royden|last7=Avery|first7=Margaret|last8=Sumner|first8=Alexandra|last9=Horwitz|first9=Liora Kolska|title=Radiometric dating of the Earlier Stone Age sequence in Excavation I at Wonderwerk Cave, South Africa: preliminary results|journal=Journal of Human Evolution|volume=55|issue=1|year=2008|pages=1–11|issn=0047-2484|doi=10.1016/j.jhevol.2008.01.004|pmid=18501953}}</ref>  Many sites across the province, mostly in open air locales or in sediments alongside rivers or pans, document Earlier, [[Middle Stone Age|Middle]] and [[Later Stone Age]] habitation. From Later Stone Age times, mainly, there is a wealth of [[rock art]] sites – most of which are in the form of [[petroglyphs|rock engravings]] such as at [[Wildebeest Kuil Rock Art Centre|Wildebeest Kuil]] and many sites in the area known as [[ǀXam and ǂKhomani heartland|ǀXam -ka !kau]], in the [[Karoo]]. They occur on hilltops, slopes, rock outcrops and occasionally (as in the case of [[Driekops Eiland]] near Kimberley), in a river bed.<ref>Parkington, J. Morris, D. & Rusch, N. 2008. ''Karoo rock engravings''. Clanwilliam: Krakadouw Trust</ref>  In the north eastern part of the province there are sites attributable to the Iron Age such as [[Dithakong]].<ref>Morris, D. & Beaumont, P. 2004. ''Archaeology in the Northern Cape: some key sites.'' Kimberley: McGregor Museum.</ref>  Environmental factors have meant that the spread of Iron Age farming westwards (from the 17th century – but dating from the early first millennium AD in the eastern part of South Africa) was constrained mainly to the area east of the Langeberg Mountains, but with evidence of influence as far as the Upington area in the eighteenth century. From that period the archaeological record also reflects the development of a complex colonial frontier when precolonial social formations were considerably disrupted and there is an increasing 'fabric heavy' imprint of built structures, ash-heaps, and so on. The copper mines of [[Okiep|Namaqualand]] and the [[diamond rush]] to the Kimberley area resulted in industrial archaeological landscapes in those areas which herald the modern era in South African history.
+
+== Geography ==
+{{see also|List of cities and towns in the Northern Cape}}
+[[Image:Doorn River Waterfall, Northern Cape.jpg|thumb|200px|right|A waterfall situated a few kilometres north of Nieuwoudtville on the road to [[Loeriesfontein]], in the Northern Cape ([[Namaqualand]] region).]]
+The Northern Cape is South Africa's largest province, and distances between towns are enormous due to its sparse population. Its size is just shy of the size of the American state of [[Montana]] and slightly larger than that of Germany. The province is dominated by the [[Karoo]] Basin and consists mostly of sedimentary rocks and some [[dolerite]] intrusions. The south and south-east of the province is high-lying, {{convert|1200|-|1900|m|ft}}, in the Roggeveld and Nuweveld districts. The west coast is dominated by the [[Namaqualand]] region, famous for its spring flowers. This area is hilly to mountainous and consists of granites and [[metamorphic rocks]]. The central areas are generally flat with interspersed salt pans. [[Kimberlite]] intrusions punctuate the Karoo rocks, giving the province its most precious natural resource, [[diamonds]]. The north is primarily [[Kalahari]] Desert, characterised by parallel red sand dunes and acacia tree dry savanna.{{citation needed|date=June 2019}}
+
+Northern Cape has a shoreline in the west on the South Atlantic Ocean.  It borders the following areas of Namibia and Botswana:
+*[[ǁKaras Region]], Namibia – Northwest
+*[[Hardap Region|Hardap Region, Namibia]] – Far northwest
+*[[Kgalagadi District|Kgalagadi District, Botswana]] – North
+Domestically, it borders the following provinces:
+*[[North West (South African province)|North West]] – Northeast
+*[[Free State (South African province)|Free State]] – East
+*[[Eastern Cape]] – Southeast
+*[[Western Cape]] – South and southwest
+
+=== Rivers ===
+The major river system is the [[Orange River|Orange]] (or [[Gariep]]) River Basin, draining the interior of South Africa westwards into the Atlantic Ocean. (The political philosopher [[Neville Alexander]] has used the idea of the 'Garieb' as a metaphor for nationhood in South Africa, a flowing together, in preference to the rainbow metaphor where the diverse colours remain distinct).<ref>Alexander, Neville. 2002. ''An ordinary country'', pp 106–107</ref>
+The principal tributary of the Orange is the [[Vaal River]], which flows through part of the Northern Cape from the vicinity of [[Warrenton, Northern Cape|Warrenton]]. The Vaal, in turn, has tributaries within the province: the [[Harts River]] and the [[Riet River]], which has its own major tributary, the [[Modder River]].
+
+Above the Orange-Vaal confluence, the [[Seekoei River]] drains part of the northeastern Karoo into the Orange River above the [[Vanderkloof Dam]].
+Next downstream from the Orange-Vaal confluence is the [[Brak River (Northern Cape)|Brak River]], which flows nonperennially from the south and is in turn fed by the [[Ongers River]], rising in the vicinities of [[Hanover, Northern Cape|Hanover]] and [[Richmond, Northern Cape|Richmond]] respectively.
+Along the Orange River near the town of [[Kakamas]], the [[Hartebeest River]] drains the central [[Karoo]]. Above [[Kenhardt]] the Hartebeest is known as the [[Sak River]], which has its source on the northern side of the escarpment, southeast of [[Williston, Northern Cape|Williston]].
+Further downstream from Kakamas, below the [[Augrabies Falls]], and seldom actually flowing into the Orange River, is the [[Molopo River]], which comes down from the [[Kalahari]] in the north. With its tributary, the [[Nossob River]], it defines part of the international boundary between South Africa and [[Botswana]]. Further tributaries of the [[Molopo River]] include the [[Kuruman River]], fed by the [[Moshaweng River]] and [[Kgokgole River]], and the [[Matlhwaring River]].
+Flowing west into the Atlantic, in [[Namaqualand]], is the [[Buffels River (Northern Cape)|Buffels River]] and, further south, the [[Groen River]]. {{citation needed|date=September 2015}}
+
+=== Climate ===
+[[Image:Namaqua park flowers pompes a eau.jpg|thumb|200px|Windmills in Namaqualand, Northern Cape]]
+Mostly arid to semiarid, few areas in the province receive more than {{convert|400|mm|abbr=on}} of rainfall per annum and the average annual rainfall over the province is {{convert|202|mm|abbr=on}}.<ref>Dent, M.C., Lynch, S.D. & Schulze, R.E. 1989. ''Mapping Mean Annual and Other Rainfall Statistics over Southern Africa''. Water Research Commission, Petoria. WRC Report 109/1/89.</ref> Rainfall generally increases from west to east from a minimum average of {{convert|20|mm|abbr=on}} to a maximum of {{convert|540|mm|abbr=on}} per year. The west experiences most rainfall in winter, while the east receives most of its moisture from late summer thunderstorms. Many areas experience extreme heat, with the hottest temperatures in South Africa measured along the Namibian border. Summers maximums are generally {{convert|30|C}} or higher, sometimes higher than {{convert|40|C}}. Winters are usually frosty and clear, with southern areas sometimes becoming bitterly cold, such as [[Sutherland, Northern Cape|Sutherland]], which often receives snow and temperatures occasionally drop below the {{convert|-10|C}} mark.
+
+* [[Kimberley, Northern Cape|Kimberley]] averages: January maximum: {{convert|33|C|F}} (min: {{convert|18|C|F}}), June maximum: {{convert|18|C|F}} (min: {{convert|3|C|F}}), annual precipitation: {{convert|414|mm|abbr=on}}
+* [[Springbok, Northern Cape|Springbok]] averages: January maximum: {{convert|30|C|F}} (min: {{convert|15|C|F}}), July maximum: {{convert|17|C|F}} (min: {{convert|7|C|F}}), annual precipitation: {{convert|195|mm|abbr=on}}
+* [[Sutherland, Northern Cape|Sutherland]] averages: January maximum: {{convert|27|C|F}} (min: {{convert|9|C|F}}), July maximum: {{convert|13|C|F}} (min: {{convert|-3|C|F}}), annual precipitation: {{convert|237|mm|abbr=on}}
+
+== Demographics ==
+[[File:Northern Cape population density map.svg|thumb|Population density in the Northern Cape
+{{legend-col
+|{{legend|#ffffcc|<1 /km<sup>2</sup>}}
+|{{legend|#ffeda0|1–3 /km<sup>2</sup>}}
+|{{legend|#fed976|3–10 /km<sup>2</sup>}}
+|{{legend|#feb24c|10–30 /km<sup>2</sup>}}
+|{{legend|#fd8d3c|30–100 /km<sup>2</sup>}}
+|{{legend|#fc4e2a|100–300 /km<sup>2</sup>}}
+|{{legend|#e31a1c|300–1000 /km<sup>2</sup>}}
+|{{legend|#bc0026|1000–3000 /km<sup>2</sup>}}
+|{{legend|#800026|>3000 /km<sup>2</sup>}}
+}}]]
+[[File:Northern Cape dominant language map.svg|thumb|Dominant home languages in the Northern Cape
+{{legend-col
+|{{legend|#8dd3c7|[[Afrikaans language|Afrikaans]]}}
+|{{legend|#ffffb3|[[South African English|English]]}}
+|{{legend|#fb8072|[[Xhosa language|Xhosa]]}}
+|{{legend|#fccde5|[[Tswana language|Tswana]]}}
+|{{legend|#d0d0d0|No language dominant}}
+}}]]
+As of the [[2022 South African census|2022 census]], the Northern Cape had a population of 1,355,629, an increase of 18.3% from the prior census in [[2011 South African census|2011]].  It is least populous and by a considerable margin the least densely populated of South Africa's nine provinces.  The median age is 27, an increase of 2 years from 2011.<ref name="2022 census3">{{cite web |title=Statistical Release - Census 2022 |url=https://census.statssa.gov.za/assets/documents/2022/P03014_Census_2022_Statistical_Release.pdf |access-date=2024-08-22 |website=statssa.gov.za}}</ref>
+
+=== Race/Ethnicity ===
+In the 2022 census, 50.1% of the population described themselves as [[Bantu peoples of South Africa|Black African]], 41.6% as [[Coloureds|Coloured]], 7.3% as [[White South Africans|White]] and 0.8% as [[Indian South Africans|Indian/Asian]].  Coloureds form a higher proportion of the population in the Northern Cape than in any other province except for the [[Western Cape]].<ref name="2022 census3" />  
+{| class="wikitable"
+|+Historic Breakdown of Population by Group<ref name="2022 census3" />
+!Population Group
+!1996
+!2001
+!2011
+!2022
+|-
+|[[Bantu peoples of South Africa|Black African]]
+|44.9%
+|46.5%
+|50.4%
+|50.1%
+|-
+|[[Coloureds|Coloured]]
+|43.7%
+|42.9%
+|40.3%
+|41.6%
+|-
+|[[White South Africans|White]]
+|11.2%
+|10.3%
+|7.1%
+|7.3%
+|-
+|[[Indian South Africans|Indian/Asian]]
+|0.2%
+|0.2%
+|0.7%
+|0.8%
+|-
+|Other
+|n/a
+|n/a
+|1.6%
+|0.2%
+|}
+
+=== Languages ===
+In the 2022 census, 54.6% of the population reported their [[first language]] as [[Afrikaans]], 35.7% as [[Setswana]], 4.5% as [[Xhosa language|Xhosa]], and 2.4% as [[South African English|English]]. The Northern Cape is the only province in which native Afrikaans-speakers form a majority of the population.  It is also the province with the second-highest proportion of Setswana speakers, after [[North West (South African province)|North West]] province.<ref name="2022 census3" />
+
+=== Religion ===
+The population of the Northern Cape is overwhelmingly [[Christianity|Christian]].  As of the 2022 census, 97.8% of the population described themselves as [[Christianity|Christians]], the highest proportion among South Africa's provinces.  Among other religions, 0.8% of the population described themselves as [[Islam|Muslim]], and 0.7% of the population stated that they practiced [[Traditional African religions|Traditional African]] religions.  Only 0.3% of the population described themselves as being atheist, agnostic, or having no religious affiliation.<ref name="2022 census3" />
+
+== Government and Politics ==
+
+=== Government ===
+{{main|Government of the Northern Cape}}
+The Northern Cape provincial government is based in [[Kimberley, Northern Cape|Kimberley]], the provincial capital.  The [[Northern Cape Division]] of the [[High Court of South Africa]] also sits in Kimberley. 
+
+Like South Africa's other provinces, the Northern Cape has a parliamentary system of government, with the [[Premier of the Northern Cape|provincial premier]] elected by the [[Northern Cape Provincial Legislature]].  The premier then selects the members of the provincial [[Executive Council of the Northern Cape|Executive Council]] (cabinet).  The current premier is [[Zamani Saul]] of the [[African National Congress]] (ANC), who has held the position since 2019.
+
+The provincial legislature is elected every five years by a system of [[party-list proportional representation]].  In the most recent provincial election, held in [[2024 Northern Cape provincial election|2024]], the ANC won a plurality of the vote but failed to win an overall majority of seats.  After the election, the ANC declined to form a formal coalition, but the ANC's Zamani Saul was reelected as premier with support from the [[Patriotic Alliance]] and [[Freedom Front Plus]].<ref>{{Cite web |last=Hoo |first=Sandi Kwon |date=2024-06-21 |title=Strange political bedfellows in provincial legislature |url=https://www.dfa.co.za/news/strange-political-bedfellows-in-provincial-legislature-e7b6124d-f26f-4076-82a7-6a65b7fba26d/ |access-date=2024-08-23 |website=DFA |language=en-ZA}}</ref>  The [[Democratic Alliance (South Africa)|Democratic Alliance]] (DA) is the second largest party in the province and forms the [[Parliamentary opposition|official opposition]].  
+
+The results of the most recent provincial election in 2024 are as follows:{{Election results|image=[[File:2024 Northern Cape Legislature.svg]]|party1=[[African National Congress]]|votes1=195267|seats1=15|party2=[[Democratic Alliance (South Africa)|Democratic Alliance]]|votes2=83848|seats2=7|party3=[[Economic Freedom Fighters]]|votes3=52433|seats3=4|party4=[[Patriotic Alliance]]|votes4=34180|seats4=3|party5=[[Freedom Front Plus]]|votes5=7239|seats5=1|party6=Northern Cape Communities Movement|votes6=6547|party7=[[uMkhonto we Sizwe (political party)|uMkhonto weSizwe]]|votes7=3111|party8=[[ActionSA]]|votes8=2015|party9=[[Good (political party)|Good]]|votes9=1849|party10=[[Hope4SA|#Hope4SA]]|votes10=1745|party11=[[African Christian Democratic Party]]|votes11=1498|party12=[[Congress of the People (South African political party)|Congress of the People]]|votes12=1007|party13=[[Build One South Africa]]|votes13=995|party14=[[Pan Africanist Congress of Azania]]|votes14=701|party15=[[Rise Mzansi]]|votes15=627|party16=[[Africa Restoration Alliance]]|votes16=458|party17=[[African Congress for Transformation]]|votes17=453|party18=Arise South Africa|votes18=418|party19=[[African Transformation Movement]]|votes19=412|party20=[[Inkatha Freedom Party]]|votes20=303|party21=[[People's Movement for Change (South Africa)|People's Movement for Change]]|votes21=188|party22=South African Royal Kingdoms Association|votes22=177|party23=All Citizens Party|votes23=173|party24=South African Youth Power Party|votes24=138|invalid=<!-- TBD -->|electorate=|source=[https://results.elections.org.za/dashboards/npe/ Electoral Commission of South Africa]}}
+
+=== Political History ===
+{{Main article|Politics of the Northern Cape}}
+The ANC consistently has been the largest party in the Northern Cape since the end of Apartheid, although its position has been less dominant than it traditionally has been in most other provinces.  In the first democratic provincial elections in [[1994 South African general election|1994]], the ANC emerged as the largest party but failed to win an overall majority of seats.  In order to form a majority in the provincial legislature, the ANC reached an agreement with the [[Democratic Party (South Africa)|Democratic Party]] (DP), which voted for the ANC's [[Manne Dipico]] as premier in exchange for the election of the DP's sole MLP, Ethne Papenfus, as speaker of the legislature.<ref>Sunday Times. 8 May 1994. ''The country's legislators vow they will serve new SA''</ref>  The [[National Party (South Africa)|National Party]] formed the official opposition.
+
+In the [[1999 South African general election|1999 provincial election]], the ANC substantially increased its vote share and won an overall majority in the provincial legislature.  Thereafter the ANC would continue to maintain a majority in the legislature until [[2024 Northern Cape provincial election|2024]].  
+
+After the [[2004 South African general election|2004 election]], the ANC's [[Dipuo Peters]] replaced Dipico as Premier, and the [[Democratic Alliance (South Africa)|Democratic Alliance]] (DA) replaced the [[New National Party (South Africa)|New National Party]] as the official opposition. Following the [[2019 South African general election|2009 election]], which was again won the by ANC, the ANC's [[Hazel Jenkins]] became the new Premier, while the [[Congress of the People (South African political party)|Congress of the People]] (COPE), a new splinter party from the ANC, had a strong showing and replaced the DA as the official opposition.  Jenkins was later replaced as Premier by [[Sylvia Lucas]] in 2013.
+
+The [[2014 Northern Cape provincial election|2014 election]] saw the ANC returned to power once again with an increased mandate, while DA once again became the official opposition, after the collapse of COPE. The newly formed [[Economic Freedom Fighters]] (EFF) also entered the legislature for the first time. [[Sylvia Lucas]] was re-elected to her first full term as premier.<ref>{{cite news |last1=De Wet |first1=Phillip |title=Elections: DA, EFF demolish Cope in Northern Cape |url=https://mg.co.za/article/2014-05-08-da-eff-demolishes-cope-in-northern-cape |access-date=12 December 2019 |newspaper=Mail & Guardian |date=8 May 2014}}</ref>
+
+In the [[2019 Northern Cape provincial election|2019 election]], the Northern Cape was considered competitive, with the DA hoping to win the province. In the end, the ANC returned as the majority party, albeit with a reduced majority. The DA was once again the official opposition with an increased seat total. The EFF made gains, while the [[Freedom Front Plus]] (FF+) won a seat in the legislature for the first time since 2004. Zamani Saul replaced Lucas as premier after the election.<ref>{{cite news |last1=Mahlati |first1=Zintle |title=ANC retains North West, Northern Cape with reduced majorities |url=https://www.iol.co.za/news/politics/anc-retains-north-west-northern-cape-with-reduced-majorities-22975966 |access-date=12 December 2019 |newspaper=IOL |date=10 May 2019}}</ref>
+
+==Municipalities==
+{{main|List of municipalities in the Northern Cape}}
+
+[[File:Map of the Northern Cape with districts labelled (2011).svg|thumb|right|Northern Cape districts and local municipalities]]
+[[File:Northern Cape Welcome Sign.jpg|thumb|Sign along R354 welcoming motorists into the Northern Cape from the [[Western Cape]]. The sign is in Afrikaans (top left), English (bottom left), Tswana (top right), and Xhosa (bottom right)]]
+
+The Northern Cape Province is divided into five [[district municipality (South Africa)|district municipalities]]. The district municipalities are in turn divided into 27 [[local municipality (South Africa)|local municipalities]]:
+
+===District municipalities===
+{{col div}}
+*'''[[Frances Baard District Municipality|Frances Baard District]]'''
+**[[Sol Plaatje Local Municipality|Sol Plaatje]]
+**[[Dikgatlong Local Municipality|Dikgatlong]]
+**[[Magareng Local Municipality|Magareng]]
+**[[Phokwane Local Municipality|Phokwane]]
+*'''[[John Taolo Gaetsewe District Municipality|John Taolo Gaetsewe District]]'''
+**[[Moshaweng Local Municipality|Moshaweng]]
+**[[Ga-Segonyana Local Municipality|Ga-Segonyana]]
+**[[Gamagara Local Municipality|Gamagara]]
+*'''[[Namakwa District Municipality|Namakwa District]]'''
+**[[Richtersveld Local Municipality|Richtersveld]]
+**[[Nama Khoi Local Municipality|Nama Khoi]]
+**[[Kamiesberg Local Municipality|Kamiesberg]]
+**[[Hantam Local Municipality|Hantam]]
+**[[Karoo Hoogland Local Municipality|Karoo Hoogland]]
+**[[Khâi-Ma Local Municipality|Khâi-Ma]]
+*'''[[Pixley ka Seme District Municipality|Pixley ka Seme District]]'''
+**[[Ubuntu Local Municipality|Ubuntu]]
+**[[Umsobomvu Local Municipality|Umsobomvu]]
+**[[Emthanjeni Local Municipality|Emthanjeni]]
+**[[Kareeberg Local Municipality|Kareeberg]]
+**[[Renosterberg Local Municipality|Renosterberg]]
+**[[Thembelihle Local Municipality|Thembelihle]]
+**[[Siyathemba Local Municipality|Siyathemba]]
+**[[Siyancuma Local Municipality|Siyancuma]]
+*'''[[ZF Mgcawu District Municipality|ZF Mgcawu District (formerly Siyanda)]]'''
+**[[Kai !Garib Local Municipality|Kai !Garib]]
+**[[Dawid Kruiper Local Municipality|Dawid Kruiper]]
+**[[!Kheis Local Municipality|!Kheis]]
+**[[Tsantsabane Local Municipality|Tsantsabane]]
+**[[Kgatelopele Local Municipality|Kgatelopele]]
+{{div col end}}
+
+== Cities and towns ==
+{{Main|List of cities and towns in the Northern Cape}}
+[[File:Springbok from the old cemetery JAN 2007.jpg|thumb|200px|right|[[Springbok, Northern Cape|Springbok]] viewed from the old cemetery]]
+'''Population 50,000+'''
+*[[Kimberley, Northern Cape|Kimberley]]
+*[[Upington, Northern Cape|Upington]]
+
+'''Population 10,000+'''
+{{columns-list|colwidth=10em|
+*[[Douglas, Northern Cape|Douglas]]
+*[[Barkly West]]
+*[[Colesberg]]
+*[[De Aar]]
+*[[Jan Kempdorp]]
+*[[Kathu]]
+*[[Kuruman]]
+*[[Postmasburg]]
+*[[Prieska]]
+*[[Springbok, Northern Cape|Springbok]]
+*[[Victoria West]]
+*[[Warrenton, Northern Cape|Warrenton]]
+}}
+
+'''Population < 10,000'''
+{{columns-list|colwidth=10em|
+*[[Orania, Northern Cape|Orania]]
+*[[Carnarvon, Northern Cape|Carnarvon]]
+*[[Garies]]
+*[[Griekwastad]]
+*[[Groblershoop]]
+*[[Hartswater]]
+*[[Keimoes]]
+*[[Kakamas]]
+*[[Pofadder, Northern Cape|Pofadder]]
+*[[Port Nolloth]]
+*[[Strydenburg]]
+*[[Sutherland, Northern Cape|Sutherland]]
+*[[Vanderkloof]]
+}}
+
+== Economy ==
+
+As reported by the Northern Cape Provincial Government, unemployment still remains a big issue in the province. Unemployment was reported to be at 24.9% during Q4, 2013. Unemployment also declined from 119,000 in Q4, 2012 to 109,000 in Q4, 2013.<ref>http://economic.ncape.gov.za/index.php?option=com_phocadownload&view=category&id=3&Itemid=365 {{Dead link|date=August 2022}}</ref>
+
+The Northern Cape is also home to the [[Square Kilometer Array]] (SKA), which is located 75&nbsp;km North-West of [[Carnarvon, Northern Cape|Carnarvon]].
+
+The economy of the Northern Cape relies heavily on two sectors, mining and agriculture, which employ 57% (Tertiary Sector) of all employees in the province.{{citation needed|date=June 2019}}
+
+{{See also|Northern Cape wine}}
+Most famous for the diamond mines around [[Kimberley, Northern Cape|Kimberley]], it also has mining activities for Manganese and iron ore.
+
+The Northern Cape also has a substantial agricultural area around the [[Orange River]], including most of South Africa's [[sultana (grape)|sultana]] vineyards. Some [[Wine of Origin]] areas have been demarcated. The Orange River also attracts visitors who enjoy rafting tours around [[Vioolsdrif]]. Extensive sheep raising is the basis of the economy in the southern [[Karoo]] areas of the province.
+
+== See also ==
+*[[Northern Cape Provincial Legislature]]
+*[[Griqualand West]]
+*[[List of speakers of the Northern Cape Provincial Legislature]]
+
+== References ==
+
+{{reflist|30em}}
+
+== External links ==
+*[http://www.northerncape.org.za/ Northern Cape Tourism]
+*[http://www.northern-cape.gov.za/ NC Provincial Government]
+
+{{Northern Cape_province}}
+{{Provinces_of_South_Africa}}
+{{Authority control}}
+{{coord|30|S|22|E|region:ZA_type:adm1st_dim:980km|display=title}}
+
+[[Category:Northern Cape| ]]
+[[Category:Provinces of South Africa]]
+[[Category:States and territories established in 1994]]
+[[Category:1994 establishments in South Africa]]
+[[Category:Karoo]]

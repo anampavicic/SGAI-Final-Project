@@ -1,0 +1,77 @@
+{{For|the municipality in Minas Gerais|Itapecerica}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Itapecerica da Serra
+| settlement_type         = Municipality
+| image_skyline           = Igreja matriz de Itapecerica da Serra.jpg
+| image_caption           = 
+| image_flag              = Bandeira ItapecericadaSerra SaoPaulo Brasil.svg
+| image_shield            =  Brasão de Itapecerica da Serra.jpg
+| image_map               = SaoPaulo Municip ItapecericadaSerra.svg
+| map_caption             = Location in São Paulo state
+| pushpin_map             = Brazil
+| pushpin_map_caption     = Location in Brazil 
+| coordinates             = {{coord|23|43|2|S|46|50|58|W|region:BR_type:city|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = {{flag|Brazil}}
+| subdivision_type1       = Region
+| subdivision_name1       = [[Southeast Brazil]]
+| subdivision_type2       = State
+| subdivision_name2       = [[São Paulo (state)|São Paulo]]
+| subdivision_type3       = Metropolitan Region
+| subdivision_name3       = [[Metropolitan Region of São Paulo|São Paulo]]
+| leader_party            = 
+| leader_title            = Prefect
+| leader_name             = 
+| area_total_km2          = 150.74 
+| elevation_m             = 920
+| population_total        = 177,662
+| population_as_of        = 2020 <ref>[https://cidades.ibge.gov.br/brasil/sp/itapecerica-da-serra/panorama IBGE 2020]</ref>
+| population_density_km2  = auto
+| timezone1               = [[Time in Brazil|BRT]]
+| utc_offset1             = &minus;3
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+| postal_code_type        = [[Postal code]]
+| postal_code             = 
+| area_code_type          = [[Phone code]]
+| area_code               = 
+| website                 = 
+| footnote                = 
+}}
+'''Itapecerica da Serra''' ({{IPA|pt|itapeˈsɛɾikɐ dɐ ˈsɛʁɐ}}) is a municipality in the [[states of Brazil|Brazilian state]] of [[São Paulo (state)|São Paulo]]. It is part of the [[Metropolitan Region of São Paulo]].<ref>{{Cite web |date=2014-03-01 |title=Lei Complementar 1139/11 {{!}} Lei Complementar nº 1.139, de 16 de junho de 2011, Governo do Estado de São Paulo |url=http://governo-sp.jusbrasil.com.br/legislacao/1028148/lei-complementar-1139-11 |access-date=2023-05-19 |archive-url=https://web.archive.org/web/20140301003739/http://governo-sp.jusbrasil.com.br/legislacao/1028148/lei-complementar-1139-11 |archive-date=2014-03-01 }}</ref> The population is 177,662 (2020 est.) in an area of {{cvt|150.74|km2|sqmi}}.<ref>{{Cite web |date=2015-10-08 |title=IBGE {{!}} Cidades {{!}} São Paulo {{!}} Itapecerica da Serra |url=http://cidades.ibge.gov.br/xtras/perfil.php?codmun=352220 |access-date=2023-05-19 |archive-url=https://web.archive.org/web/20151008115128/http://cidades.ibge.gov.br/xtras/perfil.php?codmun=352220 |archive-date=2015-10-08 }}</ref> It is located 23 miles southwest of São Paulo and at an altitude of {{cvt|920|m|ft}} above sea level. The name ''Itapecerica'' is believed to come from the [[Tupi language]] for ''slippery stone'', and ''da Serra'' means ''of the Mountains'' in [[Portuguese language|Portuguese]].
+
+==History==
+Itapecerica da Serra was founded in 1562  by the [[Company of Jesus|Jesuit]] missionaries.  It was one of several settlements  [[Christianity|Christianized]] [[Brazilian indians|indians]], established around the [[Pátio do Colégio|Colégio de São Paulo de Piratininga]] (later to become the city of [[São Paulo (city)|São Paulo]]) as a first line of defense against raids by hostile Indians.  Besides the local inhabitants, the village incorporated natives from the village of [[Carapicuíba]], brought by ''[[bandeirante]]'' [[Afonso Sardinha]] and priest [[Belchior Pontes]].
+
+== Media ==
+In telecommunications, the city was served by [[:pt:Companhia_Telefônica_Brasileira|Companhia Telefônica Brasileira]] until 1973, when it began to be served by [[:pt:Telecomunicações_de_São_Paulo|Telecomunicações de São Paulo]].<ref>{{Cite web|url=https://www.imprensaoficial.com.br/DO/BuscaDO2001Documento_11_4.aspx?link=/1973/ineditoriais/abril/24/p1/pag_0054_DUI6O3SN7V5CNe7E7ANSRTTG04F.pdf&pagina=54&data=24/04/1973&caderno=Ineditoriais&paginaordenacao=100054|title=Creation of Telesp - April 12, 1973|access-date=2024-05-27|website=www.imprensaoficial.com.br|language=Portuguese}}</ref> In July 1998, this company was acquired by Telefónica, which adopted the [[Vivo (telecommunications company)|Vivo]] brand in 2012.<ref name=":vivo" />
+
+The company is currently an operator of cell phones, fixed lines, internet (fiber optics/4G) and television (satellite and cable).<ref name=":vivo">{{Cite web|url=https://ri.telefonica.com.br/en/the-company/our-history/|title=Our History - Telefônica RI|access-date=2024-05-27|website=Telefônica}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Geographic Location
+ | Centre    = Osasco
+ | North     = [[Embu das Artes|Embu]]
+ | Northeast =
+ | East      = [[São Paulo]]
+ | Southeast =
+ | South     = [[Embu-Guaçu]] and [[São Lourenço da Serra]]
+ | Southwest =
+ | West      = [[Cotia]]
+ | Northwest =
+}}
+
+==External links==
+* [http://www.encontraitapecerica.com.br Encontra Itapecerica - Find everything about Itapecerica da Serra]
+
+{{São Paulo state|Metropolitana de São Paulo}}
+{{Authority control}}
+
+{{DEFAULTSORT:Itapecerica Da Serra}}
+[[Category:Municipalities in São Paulo (state)]]
+[[Category:Populated places established in 1562]]
+
+{{SaoPauloState-geo-stub}}

@@ -1,0 +1,691 @@
+{{Short description|City in North Ostrobothnia, Finland}}
+{{About|a city of North Ostrobothnia, Finland|a town in Bayfield County, Wisconsin|Oulu, Wisconsin|other uses|Oulu (disambiguation)}}
+{{Infobox settlement
+| name                            = Oulu
+| official_name                   = {{lang|fi|Oulun kaupunki}}<br />{{lang|sv|Uleåborgs stad}}<br />''City of Oulu''
+| native_name                     = {{native name|sv|Uleåborg}}
+| nickname                        = Capital of Northern Finland;<ref name="ouka"/> Capital of Northern [[Scandinavia]]<ref>[https://visitoulu.fi/en/oulu-2/ Oulu – Capital of Northern Scandinavia]</ref>
+| settlement_type                 = City
+| image_skyline                   = Montage_Pokkinen_Oulu.jpg
+| image_caption                   = From top, left to right: Rantakatu in downtown Oulu; [[Oulu City Hall]]; [[Lyseo Upper Secondary School]] and the [[Oulu Cathedral]]; Shops along Kirkkokatu; Radisson Blu Hotel along Ojakatu
+| image_flag                      = Oulu.lippu.svg
+| flag_size                       = 120x70px
+| image_shield                    = Oulu.vaakuna.svg
+| shield_size                     = 120x80px
+| image_map                       = Oulu sijainti Suomi.svg
+| map_caption                     = Location of Oulu in Finland
+| coordinates                     = {{coord|65|00|51|N|25|28|19|E|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = Finland
+| subdivision_type1               = [[Regions of Finland|Region]]
+| subdivision_name1               = [[File:Pohjois-Pohjanmaan vaakuna.svg|15px|link=North Ostrobothnia]] [[North Ostrobothnia]]
+| subdivision_type2               = [[Sub-regions of Finland|Sub-region]]
+| subdivision_name2               = [[Oulu sub-region|Oulu]]
+| leader_title                    = [[City manager]]
+| leader_name                     = Ari Alatossava
+| established_title               = [[Charter]]
+| established_date                = 1605-04-08
+| area_footnotes                  = {{Data Finland municipality|area_footnotes|Oulu}}
+| area_total_km2                  = {{Data Finland municipality|area_total_km2|Oulu}}
+| area_land_km2                   = {{Data Finland municipality|area_land_km2|Oulu}}
+| area_water_km2                  = {{Data Finland municipality|area_water_km2|Oulu}}
+| area_urban_km2                  = 187.1
+| area_rank                       = {{Data Finland municipality|area_rank|Oulu}}
+| population_as_of                = {{Data Finland municipality|population_as_of|Oulu}}
+| population_footnotes            = {{Data Finland municipality|population_footnotes|Oulu}}
+| population_total                = {{Data Finland municipality|population_total|Oulu}}
+| population_density_km2          = {{Data Finland municipality|population_density_km2|Oulu}}
+| population_urban                = 208 939<ref name="taajamat">{{cite web |url= http://www.tilastokeskus.fi/ajk/tiedotteet/v2008/tiedote_001_2008-01-15.html |title= Taajamissa asuu 84 prosenttia väestöstä |last1= Tarkoma |first1= Jari |date= 2008-01-15 |work= Tiedote |publisher= Statistics Finland (Tilastokeskus) |language= fi |access-date=11 February 2013}}</ref>
+| population_density_urban_km2    = 915.8
+| population_rank                 = {{Data Finland municipality|population_rank|Oulu}}
+| demographics_type1              = {{Data Finland municipality|demographics_type1|Oulu}}
+| demographics1_footnotes         = {{Data Finland municipality|demographics1_footnotes|Oulu}}
+| demographics1_title1            = {{Data Finland municipality|demographics1_title1|Oulu}}
+| demographics1_info1             = {{Data Finland municipality|demographics1_info1|Oulu}}
+| demographics1_title2            = {{Data Finland municipality|demographics1_title2|Oulu}}
+| demographics1_info2             = {{Data Finland municipality|demographics1_info2|Oulu}}
+| demographics1_title3            = {{Data Finland municipality|demographics1_title3|Oulu}}
+| demographics1_info3             = {{Data Finland municipality|demographics1_info3|Oulu}}
+| demographics1_title4            = {{Data Finland municipality|demographics1_title4|Oulu}}
+| demographics1_info4             = {{Data Finland municipality|demographics1_info4|Oulu}}
+| demographics_type2              = {{Data Finland municipality|demographics_type2|Oulu}}
+| demographics2_footnotes         = {{Data Finland municipality|demographics2_footnotes|Oulu}}
+| demographics2_title1            = {{Data Finland municipality|demographics2_title1|Oulu}}
+| demographics2_info1             = {{Data Finland municipality|demographics2_info1|Oulu}}
+| demographics2_title2            = {{Data Finland municipality|demographics2_title2|Oulu}}
+| demographics2_info2             = {{Data Finland municipality|demographics2_info2|Oulu}}
+| demographics2_title3            = {{Data Finland municipality|demographics2_title3|Oulu}}
+| demographics2_info3             = {{Data Finland municipality|demographics2_info3|Oulu}}
+| blank_name                      = {{Data Finland municipality|blank_name|Oulu}}
+| blank_info                      = {{Data Finland municipality|blank_info|Oulu}}
+| population_demonym = {{lang|fi|oululainen}} (Finnish)
+| timezone                        = [[Eastern European Time|EET]]
+| utc_offset                      = +02:00
+| timezone_DST                    = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST                  = +03:00
+| website                         = {{Official URL}}
+}}
+'''Oulu''' ({{IPAc-en|ˈ|oʊ|l|uː}} {{respell|OH|loo}},<ref>{{Cite American Heritage Dictionary|Oulu|access-date=10 May 2019}}</ref><ref>{{Cite Merriam-Webster|Oulu|access-date=10 May 2019}}</ref> {{IPA|fi|ˈou̯lu|lang|Fi-Oulu.oga}}; {{langx|sv|Uleåborg}} {{IPA|sv|ʉːlɛɔˈbɔrj||sv-Uleåborg.ogg}}) is a city in [[Finland]] and the regional capital of [[North Ostrobothnia]]. It is located on the northwestern coast of the country at the mouth of the [[Oulujoki|River Oulu]]. The population of Oulu is approximately {{formatnum:{{#expr:{{Data Finland municipality/population count|{{PAGENAME}}}}round -3}}}}, while the [[Oulu sub-region|sub-region]] has a population of approximately {{formatnum: {{#expr: {{Data Finland municipality/population count|Oulu}} + {{Data Finland municipality/population count|Hailuoto}} + {{Data Finland municipality/population count|Kempele}} + {{Data Finland municipality/population count|Liminka}} + {{Data Finland municipality/population count|Lumijoki}} + {{Data Finland municipality/population count|Muhos}} + {{Data Finland municipality/population count|Tyrnävä}}round −3}}}}. It is the {{ordinal|{{Data Finland municipality/population count sequence|{{PAGENAME}}}}}} most populous [[Municipalities of Finland|municipality]] in Finland, and the fourth most populous [[List of urban areas in Finland by population|urban area]] in the country. Oulu is also the most populous city in Northern Finland.
+
+Oulu's neighbouring municipalities are: [[Hailuoto]], [[Ii, Finland|Ii]], [[Kempele]], [[Liminka]], [[Lumijoki]], [[Muhos]], [[Pudasjärvi]], [[Tyrnävä]] and [[Utajärvi]]. Oulu is the third northernmost city in the world with a population of over 100,000, after [[Murmansk]] and [[Norilsk]] in [[Russia]].
+
+Due to its large population and geopolitical, economic and cultural-historical position, Oulu has been called the "capital of Northern Finland".<ref name="ouka">{{cite web |url=https://fcb.visitfinland.com/en/discover/destinations/oulu/ |title=Discover Oulu |publisher=Finland Convention Bureau |access-date=14 March 2024}}</ref> Oulu is also considered one of Europe's "living labs", where residents experiment with new technologies (such as [[Near-field communication|NFC tags]] and [[Ubiquitous computing|ubi]]-screens) on a community-wide scale.<ref>{{cite book |title=The Mobile Wave: How Mobile Intelligence Will Change Everything |url=https://archive.org/details/mobilewavehowmob0000sayl |url-access=registration |last=Saylor |first=Michael |year=2012 |publisher=Perseus Books/Vanguard Press |page=[https://archive.org/details/mobilewavehowmob0000sayl/page/63 63] |isbn=9781593157203 }}</ref> Although only in the top 2% of universities,<ref>{{Cite web|url=https://www.topuniversities.com/university-rankings/university-subject-rankings/2022/computer-science-information-systems|title = QS World University Rankings for Computer Science and Information Systems 2022}}</ref> the [[University of Oulu]] is regionally renowned in the field of information technology.<ref>[https://www.oamk.fi/en/study-at-oamk/bachelor-s-degrees/beng-information-technology Bachelor of Engineering, Information Technology – OAMK]</ref><ref>[https://web.archive.org/web/20200811040745/https://investinoulu.com/why-oulu/innovation-alliance/ Oulu Innovation Alliance]</ref><ref>[https://opintopolku.fi/app/#!/korkeakoulu/1.2.246.562.17.73595084945 Tietotekniikka, Tietotekniikan tutkinto-ohjelma, tekniikan kandidaatti ja diplomi-insinööri (3v + 2v) – Opintopolku] {{in lang|fi}}</ref> Oulu has also been very successful in recent city image surveys; in a study published by the Finnish Economic Survey in 2008, Oulu received the best image rating among large cities in the country, including ratings from respondents in all [[Provinces of Finland|provinces]].<ref>{{cite web| url = http://www.taloustutkimus.fi/ajankohtaista/uutiset_ja_artikkelit/?x1541726=1631178 | title=Kuntien imagotutkimus 2007 | date=July 11, 2008| access-date=November 13, 2020 | language = fi}}</ref> In the 2023 T-Media survey, Oulu was tied with [[Kuopio]] as the second most attractive city in Finland, while [[Tampere]] was ranked first.<ref>{{Cite web|url=https://yle.fi/a/74-20024692|title = Tampere listattiin jo kolmatta kertaa Suomen vetovoimaisimmaksi kaupungiksi – muista suurista kaupungeista vain Oulu paransi tulostaan|trans-title=Tampere was listed as the most attractive city in Finland for the third time – of the other big cities, only Oulu improved its result|first=Anu|last=Hurme|work=[[Yle]]|date=29 March 2023|access-date=29 March 2023|language=fi}}</ref>
+
+Once known for [[tar|wood tar]] and [[salmon]],<ref>{{cite web |url=https://oulu2026.eu/en/news/oulu-the-worlds-tar-capital/ |title=Oulu: the world’s tar capital |publisher=Oulu Culture Foundation |access-date=14 March 2024}}</ref> Oulu has become a major high-tech centre, particularly in [[Information technology|IT]] and [[Wellness (alternative medicine)|wellness]] technology.<ref>{{cite web |url=https://www.helsinkitimes.fi/business/17275-what-makes-oulu-a-high-tech-hub-in-the-north.html |title=What makes Oulu a high tech hub in the north? |publisher=Helsinki Times |access-date=14 March 2024}}</ref> Other important industries include [[wood processing]], [[Chemical industry|chemicals]], [[Pharmaceutical industry|pharmaceuticals]], [[Pulp and paper industry|paper]] and [[Steel industry|steel]].<ref>{{cite web |url=https://finland.fi/business-innovation/finnish-industry-constantly-adapting-to-a-changing-world/ |title=Finnish industry: Constantly adapting to a changing world|publisher=This is Finland |access-date=14 March 2024}}</ref>
+
+Oulu has been selected as the [[European Capital of Culture]] for 2026.<ref>[https://yle.fi/uutiset/3-11961504 YLE: Oulu on Euroopan kulttuuripääkaupunki 2026] {{in lang|fi}}</ref><ref>[https://www.highnorthnews.com/en/oulu-northern-finland-selected-european-capital-culture-2026 Oulu in Northern Finland selected as European Capital of Culture for 2026 – High North News]</ref>
+
+==Etymology==
+The city is named after the river [[Oulujoki]], which originates in the lake [[Oulujärvi]]. There have been a number of other theories for the origin of the name ''Oulu''. One possible source is a word in the [[Sami languages|Sami language]] meaning 'flood water', but there are other suggestions. At minimum, the structure of the word requires that, if originally given by speakers of a [[Uralic languages|Uralic]] language, the name must be a [[Derivation (linguistics)|derivative]]. In all likelihood, it also predates Finnish settlement and is thus a [[loanword]] from one of the now-extinct [[Sami languages|Saami languages]] once spoken in the area.
+
+The most probable theory is that the name derives from the Finnish dialectal word ''oulu'', meaning "[[floodwater]]", which is related to e.g. [[Southern Sami language|Southern Sami]] ''åulo'', meaning "melted snow", ''åulot'' meaning "thaw" (of unknown ultimate origin). Two other word families have also been speculated to be related. The first is seen in the Northern Savo dialectal word ''uula'' and its Sami counterpart ''oalli'', both meaning "river channel". The second is the Uralic root [[Linguistic reconstruction|reconstructed]] as *''uwa'', meaning "river bed" (reflected as ''vuo'' in modern Finnish, also in derivatives such as ''vuolas'' "heavy-flowing"). To either of these roots, some Sami variety would have to be assumed having added further derivational suffixes.<ref>{{cite web|url=https://kaino.kotus.fi/www/verkkojulkaisut/julk125/oulunsalo/oulun_etymologia.shtml |title=Oulu-nimen etymologia |publisher=Kotimaisten kielten tutkimuskeskus |access-date=2011-09-16}}</ref>
+
+==History==
+[[File:Oulu1800.jpg|thumb|left|Drawing of central Oulu from the 19th century]]
+Oulu is situated by the [[Gulf of Bothnia]], at the mouth of river [[Oulujoki]], which is an ancient trading site. 
+
+Following the [[Treaty of Nöteborg]] in 1323, the status of Oulu was disputed in its ownership, as both the [[Novgorod Republic]] and the [[Kingdom of Sweden (800–1521)|Kingdom of Sweden]] held much influence. In 1345, the Kingdom of Sweden annexed territory up to the [[Kemi River]] for the [[Archdiocese of Turku|Diocese of Turku]]. In 1375, the Novgorod Republic built a defensive castle which was later captured by the [[Kingdom of Sweden (800–1521)|Kingdom of Sweden]] in 1377.<ref name=":1">{{Cite book |url=https://finna.fi/Record/arto.007343896?sid=4728088626 |title=Valkean kaupungin vaiheet: Oulun historiaa |date=1987 |publisher=Pohjois-Suomen historiallinen yhdistys |isbn=978-951-95473-4-3 |editor-last=Fält |editor-first=Olavi K. |series=Studia historica septentrionalia |location=; Rovaniemi |editor-last2=Juvani |editor-first2=Pertti |editor-last3=Kenttä |editor-first3=Risto |editor-last4=Julku |editor-first4=Kyösti |editor-last5=Paavola |editor-first5=Kirsti |editor-last6=Vahtola |editor-first6=Jouko |editor-last7=Satokangas |editor-first7=Reija |editor-last8=Mäkelä |editor-first8=Riitta |editor-last9=Siuruainen |editor-first9=Eino}}</ref>
+
+The 1400s were characterized by Russian raids in the region, during these raids captured people would be killed and/or taken back to the region of Russia.<ref>{{Cite book |url=https://www.finna.fi/Record/oy.99451376206252 |title=Oulun kaupungin historia. 1: kaupungin alkuajoilta Isonvihan loppuun |date=1953 |publisher=Kirjola |editor-last=Virkkunen |editor-first=A. H. |edition=2. p |location=Oulu}}</ref> In 1531, the city was granted permission to act as a [[trading post]].<ref name=":1" /> In 1590, the [[Oulu Castle]] was built by the Swedes and in 1595, the [[Treaty of Teusina]] firmly established Sweden's control over Oulu. 
+
+The city was founded on 8 April 1605 by King [[Charles IX of Sweden]], and granted city privileges in 1610.<ref>{{Cite web |title=Aikajana {{!}} Kaupungin historia {{!}} Oulun kaupunki |url=https://www.ouka.fi/kaupungin-historia/aikajana |access-date=2024-06-09 |website=www.ouka.fi |language=fi}}</ref> In 1765, Oulu received township rights granting them to trade outside of Sweden.<ref>{{cite web |access-date=4 April 2008 |archive-date=11 February 2008 |archive-url=https://web.archive.org/web/20080211183601/http://www.ouka.fi/historia/1700.htm |title=Oulun historia |url=http://www.ouka.fi/historia/1700.htm |work=Oulu 1700-luku}}<!-- auto-translated from Finish by Module:CS1 translator --></ref> Oulu was the capital of the [[Province of Oulu]] from 1776 to 2009.
+
+In 1822, a major fire destroyed much of the city, especially the [[city centre]] as most of the city was made from wood.<ref>{{Cite book |last=Korhonen |first=Markus H. |url=https://finna.fi/Record/arto.011516416?sid=4728084381 |title=J. V. Snellman - pienenä Oulussa, suurena historiassa: Johan Vilhelm Snellman 12.5.1806 - 4.7.1881 |last2=Niskala |first2=Kaarina |last3=Siliämaa |first3=Marianne |date=2006 |publisher=Oulun kaupungin opetusvirasto, Snellman-työryhmä |others=Oulun kaupunki |isbn=978-952-5465-24-2 |location=Oulu}}</ref> The architect [[Carl Ludvig Engel]], chiefly known for the [[neoclassical architecture|neoclassical]] (empire style) buildings around [[Helsinki Senate Square]], was enlisted to provide the plan for its rebuilding. With minor changes, this plan remains the basis for the layout of Oulu's town center. The [[Oulu Cathedral]] was built in 1832 to his designs, with the spire being finished in 1844. During the [[Åland War]], part of the [[Crimean War]], Oulu's harbour was raided by the British fleet, who destroyed ships and burned tar houses,<ref>{{cite web | url = http://oulu.ouka.fi/ppm/naakka/heinakuu/naakka_lue.htm | title = Oolannin sota Oulussa | work = Niilo Naakan tarinat | publisher = Pohjois-Pohjanmaan museo | access-date = 15 June 2024 | language = fi }}</ref> leading to international criticism.{{citation needed|date=October 2015}}
+
+The city was the site of the [[Battle of Oulu]] on 3 February 1918 between the [[White Finland|Whites]] and the [[Red Finland|Reds]] during the [[Finnish Civil War]].<ref name=":02">{{Cite web |date=2018-02-02 |title=Oulun valtaus oli valkoisten ensimmäinen iso voitto sisällissodassa – taistelussa ammuttiin Suomen tykistön ensimmäiset laukaukset |url=https://yle.fi/a/3-10048411 |access-date=2023-08-06 |website=Yle Uutiset |language=fi}}</ref>
+
+==Geography==
+[[File:Oulu sat img.jpg|thumb|Satellite image of the Oulu region.]]
+Oulu is located in northern Finland, a considerable distance from the other cities in the country. It is located {{convert|607|km}} north of the capital city [[Helsinki]]. Mainland Finland's northernmost and southernmost points are roughly [[equidistant]] from Oulu. Oulu's coast sits at the [[Bothnian Bay]] (''Perämeri'' in Finnish) and the [[Sweden|Swedish mainland]] is about 180&nbsp;km directly west across the Bothnian Bay. From the center of Oulu in the direction of [[Oulunsalo]], there is {{ill|Kempeleenlahti|fi|Kempeleenlahti}}, a smaller but wide, [[meadow]]-belted bay,<ref>[https://fi.geoview.info/kempeleenlahti,653251 Kempeleenlahti Bay, Oulu, Finland]</ref> and part of it has been listed as a nature [[conservation area]].<ref>[https://www.ouka.fi/oulu/ymparisto-ja-luonto/kempeleenlahti1 Kempeleenlahden suojelualue] (in Finnish)</ref> The nearby island [[Hailuoto]] is just off the coast, {{convert|53|km}} away in the Bothnian Bay. Along the coast to the southwest, about {{convert|75|km}} of Oulu is [[Raahe]] (''Brahestad''), known for its historic wooden town, and, further to the southwest, about {{convert|130|km}} of Oulu is [[Kalajoki]], known for its popular sandy beaches.
+
+===Subdivisions===
+{{Category see also|Districts of Oulu}}
+[[File:Map of Oulu in 1886.jpg|thumb|The map of Oulu from 1886.]]
+Oulu is divided into 106 city districts. The largest of these are [[Haukipudas]], [[Oulunsalo]], [[Kaakkuri]], [[Ritaharju]], [[Tuira, Oulu|Tuira]], and {{ill|Kello, Oulu|lt=Kello|fi|Kello (kaupunginosa)}}.
+
+The municipality of [[Ylikiiminki]] was merged with the city of Oulu on 1 January 2009. Oulu and the municipalities of [[Haukipudas]], [[Kiiminki]], [[Oulunsalo]], and [[Yli-Ii]] were merged on 1 January 2013.<ref name="uusioulu">{{cite web|title=Uusi Oulu|url=http://www.ouka.fi/uusioulu/|publisher=City of Oulu|access-date=19 September 2011|location=Oulu|language=fi|trans-title=New Oulu | date=9 September 2011}}</ref>
+
+===Climate===
+Oulu has a [[subarctic climate]] ([[Köppen climate classification|Köppen]]: ''Dfc'', [[Trewartha climate classification|Trewartha]] ''Eolo''), bordering a [[humid continental climate]] ([[Köppen climate classification|Köppen]]: ''Dfb'', Trewartha ''Dclo''). It is the largest [[Finnish cities|Finnish city]] entirely in this climatic zone as well as one of the largest such in the world. The typical features are cold and snowy winters with short and mild summers.<ref>{{Cite web|url=http://www.weatherbase.com/weather/weather-summary.php3?s=57820&cityname=Oulu,+Northern+Ostrobothnia,+Finland&units=|title=Oulu, Finland Köppen Climate Classification (Weatherbase)|website=Weatherbase|access-date=2019-03-03}}</ref><ref>{{Cite book|url=https://books.google.com/books?id=XZM9DwAAQBAJ&q=despite+the+subarctic+climate+oulu&pg=PT41|title=Learn Finnish – Level 5: Advanced: Volume 1: Lessons 1–25|publisher=Innovative Language Learning|language=fi}}</ref> Average annual temperature is {{convert|3.3|°C}}. The average annual precipitation is {{convert|477|mm|2|abbr=on}} falling 105 days per year, mostly in late summer and fall.{{Citation needed|date=March 2019}} The warmest temperature ever recorded in Oulu was {{convert|33.3|C}} in July 1957,<ref>{{cite book |title=Ilmatieteellinen Keskuslaitos: Suomen meteorologinen vuosikirja, osa 1a 1957}}</ref> while the coldest temperature on record was {{convert|-41.5|C}} in February 1966.<ref>{{cite book |title=Ilmatieteellinen Keskuslaitos:Suomen meteorologinen vuosikirja, osa 1a 1966}}</ref>
+
+Due to Oulu's far northern location, and its frequent overcast skies, it only sees on average 15 minutes of sunshine per day in December. During the [[winter solstice]] days only last 3 hours and 34 minutes with the sun rising 1.9 degrees over the horizon. On the other hand, during the [[summer solstice]] days last 22 hours and 3 minutes, with the sun dipping 1 degree below the horizon. This gives Oulu [[White Night festivals|white nights]] during the summer.<ref>{{Cite web |title=Sunrise and sunset times in Oulu |url=https://www.timeanddate.com/sun/finland/oulu |access-date=2022-03-12 |website=www.timeanddate.com |language=en}}</ref>
+<div style="width:80%;">
+
+{{Weather box
+| location = Oulu, 1991–2020 normals, records 1921–present
+| metric first = yes
+| single line = yes
+| Jan record high C = 9.3
+| Feb record high C = 7.8
+| Mar record high C = 11.5
+| Apr record high C = 23.9
+| May record high C = 29.9
+| Jun record high C = 32.3
+| Jul record high C = 33.3
+| Aug record high C = 30.5
+| Sep record high C = 25.4
+| Oct record high C = 21.1
+| Nov record high C = 11.2
+| Dec record high C = 8.2
+| Jan high C = −4.8
+| Feb high C = −4.7
+| Mar high C = −0.4
+| Apr high C = 5.8
+| May high C = 12.6
+| Jun high C = 17.9
+| Jul high C = 21.1
+| Aug high C = 18.9
+| Sep high C = 13.2
+| Oct high C = 5.8
+| Nov high C = 0.5
+| Dec high C = -2.7
+| Jan mean C = −8.2
+| Feb mean C = −8.4
+| Mar mean C = −4.4
+| Apr mean C = 1.6
+| May mean C = 8.0
+| Jun mean C = 13.7
+| Jul mean C = 16.7
+| Aug mean C = 14.6
+| Sep mean C = 9.6
+| Oct mean C = 3.3
+| Nov mean C = −1.6
+| Dec mean C = −5.3
+| Jan low C = −11.9
+| Feb low C = −12.1
+| Mar low C = −8.3
+| Apr low C = −2.5
+| May low C = 3.4
+| Jun low C = 9.3
+| Jul low C = 12.4
+| Aug low C = 10.6
+| Sep low C = 6.0
+| Oct low C = 0.6
+| Nov low C = −4.2
+| Dec low C = −8.8
+| Jan record low C = -37.5
+| Feb record low C = -41.5
+| Mar record low C = -32
+| Apr record low C = -21.4
+| May record low C = -9.1
+| Jun record low C = -6.1
+| Jul record low C = 3.6
+| Aug record low C = -1.5
+| Sep record low C = -8.0
+| Oct record low C = -20.6
+| Nov record low C = -33
+| Dec record low C = -37.2
+| precipitation colour = green
+| Jan precipitation mm = 32
+| Feb precipitation mm = 29
+| Mar precipitation mm = 26
+| Apr precipitation mm = 23
+| May precipitation mm = 40
+| Jun precipitation mm = 51
+| Jul precipitation mm = 80
+| Aug precipitation mm = 62
+| Sep precipitation mm = 49
+| Oct precipitation mm = 51
+| Nov precipitation mm = 43
+| Dec precipitation mm = 39
+| Jan snow cm = 33
+| Feb snow cm = 46
+| Mar snow cm = 43
+| Apr snow cm = 7
+| Nov snow cm = 4
+| Dec snow cm = 17
+| year snow cm = 150
+| Jan precipitation days = 9
+| Feb precipitation days = 8
+| Mar precipitation days = 7
+| Apr precipitation days = 6
+| May precipitation days = 8
+| Jun precipitation days = 8
+| Jul precipitation days = 10
+| Aug precipitation days = 10
+| Sep precipitation days = 8
+| Oct precipitation days = 10
+| Nov precipitation days = 10
+| Dec precipitation days = 10
+| daily = Y
+| Jan humidity = 87
+| Feb humidity = 86
+| Mar humidity = 82
+| Apr humidity = 73
+| May humidity = 67
+| Jun humidity = 66
+| Jul humidity = 71
+| Aug humidity = 76
+| Sep humidity = 82
+| Oct humidity = 86
+| Nov humidity = 90
+| Dec humidity = 89
+| year humidity = 80
+| Jan sun = 24
+| Feb sun = 69
+| Mar sun = 137
+| Apr sun = 208
+| May sun = 273
+| Jun sun = 296
+| Jul sun = 283
+| Aug sun = 212
+| Sep sun = 133
+| Oct sun = 69
+| Nov sun = 28
+| Dec sun = 8
+| Jan uv = 0
+| Feb uv = 0
+| Mar uv = 1
+| Apr uv = 2
+| May uv = 3
+| Jun uv = 4
+| Jul uv = 4
+| Aug uv = 3
+| Sep uv = 2
+| Oct uv = 1
+| Nov uv = 0
+| Dec uv = 0
+| source 1 = [[Finnish Meteorological Institute|FMI]]<ref name="FMI">{{cite web|url=https://www.ilmatieteenlaitos.fi/ilmastollinen-vertailukausi |title=FMI normals 1991–2020|publisher=[[Finnish Meteorological Institute|FMI]] |access-date=14 October 2021}}</ref>
+| source 2 = [[Finnish Meteorological Institute|FMI]] (record highs and lows 1921–1961)<ref name="Suomen Maakuntien ilmasto-Ilmatieteenlaitos">https://helda.helsinki.fi/bitstream/handle/10138/15734/2009nro8.pdf?sequence=1&isAllowed=y {{Bare URL PDF|date=March 2022}}</ref>
+[[Finnish Meteorological Institute|FMI]] (record highs and lows 1961–present)<ref name="FMI open data">{{cite web
+| url = http://suja.kapsi.fi/fmi-tilastot.php?taulukkomoodi=true
+| title = FMI open data
+| publisher = [[Finnish Meteorological Institute|FMI]]
+| access-date = 7 September 2019}}</ref>
+
+Source 3: weather2travel.com (average monthly UV index)<ref>{{cite web |title = Oulu climate guide |url = https://www.weather2travel.com/finland/oulu/climate/ |publisher = Weather 2 Travel |access-date = 13 May 2022}}</ref> 
+}}
+</div>
+
+==Demographics==
+
+=== Population ===
+
+The city of Oulu has {{formatnum: {{Data Finland municipality/population count|Oulu }}}} inhabitants, making it the {{ordinal|{{Data Finland municipality/population count sequence|Oulu}}}} most populous municipality in Finland. The [[Oulu sub-region|Oulu region]] has a population of {{formatnum: {{#expr: {{Data Finland municipality/population count|Oulu}} + {{Data Finland municipality/population count|Hailuoto}} + {{Data Finland municipality/population count|Kempele}} + {{Data Finland municipality/population count|Liminka}} + {{Data Finland municipality/population count|Lumijoki}} + {{Data Finland municipality/population count|Muhos}} + {{Data Finland municipality/population count|Tyrnävä}} }} }}, making it the fourth largest region in Finland after [[Helsinki metropolitan area|Helsinki]], [[Tampere metropolitan area|Tampere]] and [[Turku metropolitan area|Turku]]. Oulu is home to 4% of Finland's population. 6.1% of the population has a foreign background, which is lower than in the major Finnish cities of [[Helsinki]], [[Espoo]], [[Tampere]], [[Vantaa]] or [[Turku]].<ref name="statistics-finland-population-2023-final">{{cite web |url= https://stat.fi/en/publication/cln1i2dtgwknt0cut9yem67se |title= Population growth biggest in nearly 70 years  |date= 2024-04-26 |series= Population structure |publisher= Statistics Finland |issn= 1797-5395  |access-date=2024-04-29 }}</ref>
+
+{{Bar chart
+| title   = Population size of Oulu (and merged municipalities) 1980–2020<ref name="Stat-finland-population-38,000-persons"/>
+| label_type  = Year
+| data_type   = Population
+| bar_width = 47
+| width_units = em
+| label1  = 1980
+| label2  = 1985
+| label3  = 1990
+| label4  = 1995
+| label5  = 2000
+| label6  = 2005
+| label7  = 2010
+| label8  = 2015
+| label9  = 2020 
+| data_max = 210000
+| data1  = 121809
+| data2  = 128869
+| data3  = 136029
+| data4  = 146395
+| data5  = 160851
+| data6  = 173436
+| data7  = 185419
+| data8  = 198525
+| data9  = 207327
+}}
+
+=== Languages ===
+
+{{Pie chart
+|thumb = left
+|caption = Population by native language (2023)<ref name="statistics-finland-population-2023-final">{{cite web |url= https://stat.fi/en/publication/cln1i2dtgwknt0cut9yem67se |title= Population growth biggest in nearly 70 years  |date= 2024-04-26 |series= Population structure |publisher= Statistics Finland |issn= 1797-5395  |access-date=2024-04-29 }}</ref>
+|label1 = Finnish
+|value1 = 93.7
+|color1 = #002F6C
+|label2 = Russian
+|value2 = 0.6
+|color2 = #D52B1E
+|label3 = Arabic
+|value3 = 0.5
+|color3 = #165D31
+|label4 = English
+|value4 = 0.5
+|color4 = #FFFFFF
+|label5 = Chinese
+|value5 = 0.4
+|color5 = #FFFF00
+|label6 = Farsi
+|value6 = 0.3
+|color6 = #239F40
+|label7 = Somali
+|value7 = 0.2
+|color7 = #4189DD
+|label8 = Other
+|value8 = 3.8
+|color8 = #C5C5C5
+}}
+Oulu is the second largest monolingual [[Finnish language|Finnish-speaking]] municipality in Finland after Tampere. There are {{formatnum: {{Data Finland municipality/native language Swedish|Oulu }} }} [[Swedo-Finnish|Swedish speakers]] in Oulu, or {{Formatnum: {{pct|{{Data Finland municipality/native language Swedish|Oulu}}|{{Data Finland municipality/native language total|Oulu}}|1}}}} of the population.<ref name="statistics-finland-population-2023-final"/> The number of [[Sámi languages|Sámi]] speakers, Finland's third official language, is {{formatnum: {{Data Finland municipality/native language Sami|Oulu }} }} inhabitants. As English and Swedish are compulsory school subjects, functional bilingualism or trilingualism acquired through language studies is not uncommon.
+
+At least 100 different languages are spoken in Oulu. The most common foreign languages are [[Russian language|Russian]] (0.6%), [[Arabic]] (0.5%), [[English language|English]] (0.5%) and [[Chinese language|Chinese]] (0.4%).<ref name="statistics-finland-population-2023-final"/>
+
+=== Immigration ===
+
+{|class="wikitable" style="float:right;" 
+|colspan="3"|'''Population by country of birth (2022)'''<ref name="Stat-finland-population-38,000-persons"/>
+|-\
+! Nationality || Population || %
+|-
+|Finland || 199,613 || 94.2
+|-
+|Sweden || 1,913 || 0.9
+|-
+|Soviet Union || 842 || 0.4
+|-
+|China || 610 || 0.3
+|-
+|Iraq || 528 || 0.2
+|-
+|India || 509 || 0.2
+|-
+|Vietnam || 377 || 0.2
+|-
+|Thailand || 374 || 0.2
+|-
+|Russia || 361 || 0.2
+|-
+|Iran || 336 || 0.2
+|-
+|Somalia || 311 || 0.1
+|- 
+|Other || 6,074 || 2.9
+|- 
+|}
+{{As of|2023}}, 13,040 people with a migrant background lived in Oulu, or 6.1% of the population.{{refn|Statistics Finland classifies a person as having a "foreign background" if both parents or the only known parent were born abroad.<ref name="statistics-finland-persons-with-foreign-background">{{cite web |access-date=18 September 2023 |title=Persons with foreign background |publisher=Statistics Finland | url=https://www.stat.fi/tup/maahanmuutto/maahanmuuttajat-vaestossa/ulkomaalaistaustaiset_en.html}}</ref>|group=note}}  There are 13,986 residents who were born abroad, which or 6.5% of the population. The number of foreign citizens in Oulu is 9,405.<ref name="statistics-finland-population-2023-final"/><ref name="Stat-finland-population-2022">{{Cite web | url=https://stat.fi/en/publication/cl8lphfzbrm4j0cw1b5wyor1h | title=Population structure 2000–2022, urban-rural classification | date=26 May 2023 | publisher=Statistics Finland | access-date=12 September 2023 | language=en }}</ref> Most foreign-born citizens come from the former [[Soviet Union]], Sweden, [[Iraq]], China and India.<ref name="Stat-finland-population-38,000-persons">{{Cite web | url=https://stat.fi/en/publication/cl8lprraorrr20dut5a0tywm5 | title=Number of foreign-language speakers grew by nearly 38,000 persons | date=31 May 2023 | publisher=Statistics Finland | access-date=12 September 2023 | language=en }}</ref>
+
+The relative share of immigrants in Oulu's population is below the national average. Nevertheless, the city's new residents are increasingly of foreign origin. This will increase the proportion of foreign residents in the coming years.
+
+=== Religion ===
+
+In 2023, the [[Evangelical Lutheran Church of Finland|Evangelical Lutheran Church]] was the largest religious group with 67.2% of the population of Oulu. Other religious groups accounted for 1.9% of the population. 30.9% of the population had no religious affiliation.<ref>[https://pxdata.stat.fi/PXWeb/pxweb/en/StatFin/StatFin__vaerak/statfin_vaerak_pxt_11ra.px Key figures on population by region, 1990-2023] Statistics Finland</ref>
+
+Oulu, as well as other parts of North Ostrobothnia, is well known as a strong support area of the [[Conservative Laestadianism]] [[revival movement]].<ref>[https://www.mtvuutiset.fi/artikkeli/lestadiolaiset-pitavat-pohjois-pohjanmaan-vakiluvun-kasvussa/1818646#gs.ib5qqr Lestadiolaiset pitävät Pohjois-Pohjanmaan väkiluvun kasvussa] – ''MTVuutiset'' (in Finnish)</ref>  A [[Laestadianism|Laestadian background]] has been estimated to be common in construction sector management.<ref>[https://yle.fi/uutiset/3-10197416 Lestadiolaisyrittäjä hyötyy uskonyhteisön verkostoista – Taloushyödyt houkuttavat jäämään, vaikka vakaumus olisi jo mennyt] – ''[[YLE]]'' (in Finnish)</ref> Oulu was the site of the 2018 [[Oulu child sexual exploitation scandal]].  Prime Minister [[Juha Sipilä]] declared that "Sex crimes against children are inhumane acts of incomprehensible evil."<ref>{{cite news |last1=Aleksi Teivainen |title=Police: 10 people suspected of sex crimes against minors in Oulu |url=http://www.helsinkitimes.fi/finland/finland-news/domestic/16008-police-10-people-suspected-of-sex-crimes-against-minors-in-oulu.html |access-date=31 January 2019 |work=[[Helsinki Times]] |date=6 December 2018 |quote=Prime Minister Juha Sipilä (Centre) on Wednesday issued an official statement on the much-discussed case, saying the events have shocked many, for a good reason.  “Sex crimes against children are inhumane acts of incomprehensible evil,” he stated}}</ref>
+
+==Economy==
+[[File:Stora Enso Oulu 2006 01 26.JPG|thumb|right|[[Stora Enso]] has an important paper manufacturing plant in Oulu.]]
+[[File:Nokia Peltola Oulu 2006 04 14.JPG|thumb|right|Former [[Nokia]] premises in Peltola.]]
+[[File:Technopolis.jpg|thumb|right|Technopolis Linnanmaa is home to nearly 200 corporations.]]
+As of 31 December 2008, the active working population was employed as follows:<ref name="oulu_business_and_industry">{{cite web |url=http://www.oulu.ouka.fi/city/pdf/2011/tietoaoulusta_ENG_kevyt.pdf |title= Business and industry
+|access-date=27 June 2012
+|date= 2012-01-01 |work= Information about Oulu |publisher=City of Oulu |location= Oulu}}</ref>
+{| class="wikitable"
+|-
+! style="background:#efefef;" | Industries
+! style="background:#efefef;" | Working population
+|-
+| Services || style="text-align: right;" | 43,049
+|-
+| Industry || style="text-align: right;" | 11,111
+|-
+| Commerce || style="text-align: right;" | 10,848
+|-
+| Construction || style="text-align: right;" |  5,449
+|-
+| Transport || style="text-align: right;" | 3,698
+|-
+| Farming, forestry and mining || style="text-align: right;" | 582
+|-
+| Unknown || style="text-align: right;" | 431
+|-
+| Unemployment rate || style="text-align: right;" | 16.3% (2016)
+|-
+! style="background:#efefef;" | Total
+! style="background:#efefef; text-align: right;" | 75,158
+|}
+
+In 2011, the most important employers were:<ref name="oulu_business_and_industry"/>
+
+{| class="wikitable"
+|-
+! style="background:#efefef;" | Employer
+! style="background:#efefef;" | No. of employees
+|-
+| City of Oulu || style="text-align: right;" | 9,709
+|-
+| [[Oulu University Hospital|Northern Ostrobothnia Hospital District]] || style="text-align: right;" |  6,144
+|-
+| [[University of Oulu]] || style="text-align: right;" |  3,045
+|-
+| [[Nokia Networks]] || style="text-align: right;" |  2,100
+|-
+| [[Nokia|Nokia Group]] || style="text-align: right;" |  2,000
+|-
+| The Oulu Region Joint Authority for Vocational Training || style="text-align: right;" | 1,955
+|-
+| [[Kesko|Kesko Group]] || style="text-align: right;" | 1,426
+|-
+| Cooperative Arina Group ([[S Group]]) || style="text-align: right;" | 1,107
+|-
+| [[Stora Enso|Stora Enso Group]] || style="text-align: right;" | 1,155
+|-
+| [[Itella|Itella Corporation]] || style="text-align: right;" | 780
+|-
+| ISS Palvelut Oy|| style="text-align: right;" | 730
+|-
+| ODL Group || style="text-align: right;" | 653
+|}
+
+==Culture==
+{{citations needed section|date=June 2024}}
+[[File:20120824- MG 8352.jpg|thumb|[[Air Guitar World Championships]] 2012, an annual event held in Oulu since 1996]]
+The best known cultural exports of the city of Oulu are the [[Air guitar|Air Guitar World Championships]] held annually in August, [[Mieskuoro Huutajat]] (also known as ''Screaming Men''), the now defunct metal band [[Sentenced]], and one of the best ice hockey teams in Europe, [[Oulun Kärpät]].
+
+Many artists, writers, and musicians live in the city. A variety of concerts – rock, classical, and jazz – as well as other cultural events take place each year.  Examples include the [[Oulu Music Video Festival]], the [[Air Guitar World Championships]], and the [[Musixine]] Music Film Competition, all in August.  In July, the annual rock festival [[Qstock]] takes place. The Oulu Music Festival is held in winter and the Oulunsalo Music Festival in summer. [[The Irish Festival of Oulu]] takes place each October, and the [[Oulu International Children's and Youth Film Festival|International Children's Film Festival]] each November.
+
+Museums in Oulu include the [[Northern Ostrobothnia museum]], the [[Oulu Museum of Art]] (OMA), the [[Tietomaa]] [[Science museum#Science center|science center]], and the [[Turkansaari]] [[open-air museum]].
+
+Notable statues and sculptures in Oulu include a [[Frans Michael Franzén (sculpture)|sculpture of Frans Michael Franzén]] and ''[[Toripolliisi|The Bobby at the Market Place]]'' statue.
+
+Finlands' Eurovision representatives 2021 rock band [[Blind Channel]] are from Oulu. They placed 6th in the competition.
+
+[[Kalmah]] is a melodic death metal-band from Oulu that formed in 1998.
+
+===Food===
+In the 1980s, ''[[rössypottu]]'', [[salmon]] [[Fish soup|soup]] and [[sweet cheese]] (''juhannusjuusto'') were named Oulu's traditional parish dishes.<ref>{{cite book | author=Jaakko Kolmonen | title=Kotomaamme ruoka-aitta: Suomen, Karjalan ja Petsamon pitäjäruoat | page = 171| location=Helsinki | publisher=Patakolmonen | year=1988 | isbn = 951-96047-3-1 | language = fi}}</ref>
+
+==Sights==
+[[File:Kirkkokatu Oulu 20121206 01.JPG|thumb|right|[[Rotuaari]] pedestrian zone]]
+[[File:Oulu market hall 20051028.jpg|thumb|right|[[Oulu Market Hall]]]]
+[[File:Bicycles Ahtisaari Square Oulu 20170728.jpg|thumb|right|''Uusi Seurahuone'' restaurant on the Ahtisaari Square]]
+*[[Tietomaa]], a science center with over 150 exhibits
+*The Rapids Center, the area in the estuary of the Oulu river consisting of small islands connected with bridges and fountains in the middle of the river, and including a housing area of building blocks planned by [[Alvar Aalto]]
+*[[Market Square, Oulu|The Market Square]] with the [[Oulu City Library|City Library]], the [[Oulu City Theatre|City Theatre]], the [[Toripolliisi]] statue and old salt and tar storehouses
+* [[Hupisaaret Islands]], a large park area located in the estuary of the Oulu river
+*The [[Frans Michael Franzén (sculpture)|F. M. Franzen memorial]]
+*The [[Koitelinkoski]] rapids
+*The [[Northern Ostrobothnia museum]]
+*The Pateniemi Sawmill Museum
+*The Vehicle Museum
+*The [[University of Oulu Botanical Gardens]] (situated in [[Linnanmaa]])
+*The Arctic Gallery
+*[[Technopolis (Finland)|Technopolis]], the technology village
+*[[Turkansaari]] (historical open-air museum)
+*[[Spa Hotel Eden]] and sand beach in [[Nallikari]] recreation and tourism area
+*[[Mannerheim Park, Oulu|Mannerheim Park]]
+*Old observatory in Linnansaari, built in 1875 on top of the ruins of the [[Oulu Castle|Castle of Oulu]]
+*[[Oulu Museum of Art]]
+
+=== Churches ===
+[[File:Oulu Cathedral 2020-07-03.jpg|thumb|right|[[Oulu Cathedral]]]]
+* [[Oulu Cathedral|Cathedral]]
+* [[Haukipudas Church]]
+* [[Holy Family of Nazareth Church, Oulu|Holy Family of Nazareth Church]]
+* [[Holy Trinity Cathedral of Oulu]]
+* [[Kiiminki Church]]
+* [[Oulujoki Church]]
+* [[Oulunsalo Church]]
+* [[St. Luke's Chapel, Oulu|St. Luke's Chapel]]
+* [[Tuira Church]]
+* [[Ylikiiminki Church]]
+
+===Other points of interest===
+*[[Qstock|Qstock music festival]]
+*[[Oulu Music Video Festival]]
+*[[The Annual Air Guitar World Championship contest|Air Guitar World Championships]]
+*[[Jalometalli Metal Music Festival]]
+*The Irish Festival of Oulu
+*[[Laitakari beacon tower]]
+*Madetoja Hall, housing the Oulu Music Centre, the residence of the [[Oulu Symphony Orchestra]]
+*Oulu Hall (a large indoor sports facility consisting of a low dome, which looks somewhat like a landed [[flying saucer]])
+*Terwa Marathon & Run, event in late May (since 1989)
+*The Terva-skiing event in early March (since 1889)
+*The Winter Swimming World Championship {{citation needed|date=November 2014}}
+
+==Transport==
+[[File:OH-LKE Embraer 190 0960-8.jpg|thumb|left|[[Finnair]] is one of the main operators of the [[Oulu airport]] with regular flights to [[Helsinki]].]]
+===Intercity===
+Oulu is served by [[Oulu Airport]], the second largest airport in Finland by passenger volume. It is located {{convert|15|km|0}} south-west of the city centre.
+
+The [[Port of Oulu]] is one of the busiest [[harbour]]s on the [[Bothnian Bay]]. It includes four separate harbour areas: Vihreäsaari oil and bulk docks, Nuottasaari docks and Oritkari docks. There is also a ferry service in Oulu, which is mostly used between [[Oulunsalo]] and the [[Hailuoto Island]].<ref>[https://www.is.fi/oulun-seutu/art-2000005753277.html IS: Vieraille lauttamatka on osa Hailuodon idylliä] (in Finnish)</ref>
+
+The shortest travel time from [[Oulu railway station]] to [[Helsinki Central railway station]] is 5 h 34 min, operated by [[VR Group|VR]]. Other destinations include [[Kolari]], [[Rovaniemi]], [[Seinäjoki]] and [[Tampere]].
+
+The most important road in Oulu is [[Finnish national road 4|Highway 4]] ([[European route E8|E8]]/[[European route E75|E75]]) that runs from Helsinki to [[Utsjoki]] via [[Lahti]], [[Jyväskylä]], Oulu, [[Kemi]] and [[Rovaniemi]]. Other [[Highways in Finland|highways]] running to and from Oulu are Highway 20 to [[Kuusamo]] and [[Finnish national road 22|Highway 22]] to [[Kajaani]].<ref name="autoilijan_tiekartta2007">{{cite map |publisher= AffectoGenimap Finland Oy |title= Autoilijan Tiekartta 2007 – Road map |year= 2006 |scale= 1:800,000 |isbn= 978-951-593-047-7}}</ref>
+
+[[File:Oulu Bus Station 20161105.jpg|thumb|right|[[Oulu Bus Station]]]]
+===Within the city===
+Oulu is notable for its transportation network dedicated to non-motor vehicular traffic, including pedestrians and [[Cycling|bicycles]] (termed "light" traffic in Finland). In 2022, the city contained more than {{convert|950|km|mi}} of pathways and more than 300 underpasses and bridges devoted exclusively to pedestrian and bicycle traffic. The network is used year-round. The ratio of walking and cycling traffic pathways to residents is the highest in Finland and the cycling mode share is 20 percent.<ref>Jeffrey Pratte, "[http://mspace.lib.umanitoba.ca/bitstream/1993/4752/1/Pratte_Jeffrey.pdf Mainstreaming Bicycling in Winter Cities: The case of Oulu, Finland]", Masters thesis, University of Manitoba (Canada), 2011. P. 99-100</ref><ref>Anders Swanson, "[http://vimeo.com/67039532 Winter Cycling for Everyone]", (Video, 21:30 min.), Vimeo, 2013</ref><ref>BBC, "[https://www.bbc.com/news/av/world-europe-64354089 The cycle-mad city in Finland that doesn't stop for snow]", (Video, 2 min.)</ref> 
+
+[[File:Bicycles Kirkkokatu Oulu 20180119.jpg|thumb|left|Parked bicycles on Kirkkokatu Street in January]]
+Even in winter, bicycle commuting remains strong in Oulu, in spite of the cold, dark, and snow. About 12% of winter trips are by bicycle, and about half of trips to school or university are. The city has a robust system for keeping bike paths maintained and clear of snow, and bike paths and lanes are plowed before roadways to encourage such human-scale winter transit in the city where 12% already do so.<ref>Laurel Ives. (20 December 2023). "How Oulu became the winter cycling capital of the world". [https://www.bbc.com/future/article/20231220-why-oulu-finland-is-the-winter-cycling-capital-of-the-world BBC website] Retrieved 25 December 2023.</ref> The Winter Cycling Federation was founded in Oulu in 2013, and the first Winter Cycling Congress was held there.<ref>{{cite web |url=https://www.euronews.com/my-europe/2021/01/22/meet-the-bike-loving-finnish-city-that-keeps-pedalling-even-in-the-snow |title=Meet the bike-loving Finnish city that keeps pedalling even in the snow  |author=Sara Lilja Steensig |date=January 25, 2021 |work=Euronews |accessdate=December 21, 2023}}{{cite web |url=https://www.theguardian.com/cities/2016/feb/12/ice-cycles-northerly-world-cities-winter-bicycle-revolution |title=Ice cycles: the northerly world cities leading the winter bicycle revolution |author=Anders Swanson |date=12 February 2016 |work=The Guardian |accessdate=December 21, 2023}}</ref>
+
+In 2015, a large underground parking facility, Kivisydän (''Stone Heart''), opened in the city center directly beneath main shopping streets. The network of parallel roads for cars and pedestrians was drilled in the rock at the depth of {{convert|30|m|sp=us}}. The parking facility includes two ramps, 900 visitor parking lots (expandable to 1500), six access points to the ground served by 19 elevators (expandable to nine and 25), a service facility for commercial delivery vehicles, and [[Ubiquitous computing|ubi]]-screens that guide the driver to the selected ground access point and help locate the parked car by its license number.<ref>{{cite web |url=http://www.oulunliikekeskus.fi/parking |title=Oulun Liikekeskus – Parking |access-date=2016-03-09 |url-status=dead |archive-url=https://web.archive.org/web/20160310085459/http://www.oulunliikekeskus.fi/parking |archive-date=2016-03-10 }}</ref><ref>{{cite web|url=http://www.sito.fi/en/2014/08/kivisydan-parking-facility-in-oulu/|title=Kivisydän parking facility in Oulu|website=Oulunliikekeskus.fi|access-date=24 December 2017|archive-url=https://web.archive.org/web/20160310073910/http://www.sito.fi/en/2014/08/kivisydan-parking-facility-in-oulu/|archive-date=2016-03-10|url-status=dead}}</ref>
+
+== Solar power ==
+In 2015, the [[Kaleva (newspaper)|Kaleva Media]] printing plant in Oulu became the most powerful photovoltaic solar plant in Finland, with 1,604 solar photovoltaic (PV) units on its roof. Although the city of Oulu, located near the [[Arctic Circle]], has only two hours of weak sunlight in December, the photovoltaic cells work almost around the clock in the summer. The cold climate means the PV panels can get up to a 25% boost per hour, as they don't overheat.<ref name=":0">{{Cite web|url=https://insideclimatenews.org/news/22022020/solar-finland-nordic-renewables-sanna-marin-climate-targets-turku|title=Solar Power Just Miles from the Arctic Circle? In Icy Nordic Climes, It's Become the Norm|last=Hockenos|first=Paul|date=2020-02-24|website=InsideClimate News|language=en-US|access-date=2020-02-26}}</ref>
+
+Because the sun is quite low in the sky at this latitude, vertical PV installations are popular on the sides of buildings. These solar walls also capture light reflected from snow.<ref name=":0" />
+
+Snow is not necessarily cleared from rooftop solar installations.<ref name=":0" />
+
+The local utility, Oulun Energia, is owned by the city of Oulu. The [[energy mix]] it receives from the Nordic-wide grid includes wood pellets, waste incineration, bioenergy, hydro-electric, geothermal, wind, nuclear, peat, natural gas and coal.<ref name=":0" />
+
+==Sports==
+[[File:Kärpät kultaa 2005.jpg|thumb|right|[[Kärpät]] wins the Finnish championship in 2005 after beating [[Jokerit]].]]
+[[File:Bandyliiga Final Oulu 20140315 04.JPG|thumbnail|right|[[Oulun Luistinseura]] beat [[Jyväskylän Seudun Palloseura]] in the 2014 Finland men's national bandy championship final at the [[Raksila Artificial Ice Rink Pakkalan kenttä]].]]
+[[Ice hockey]] is the most popular spectator sport in Oulu. The local club [[Kärpät]] has won the [[SM-liiga]] championship title eight times ([[1980–81 SM-liiga season|1981]], [[2003–04 SM-liiga season|2004]], [[2004–05 SM-liiga season|2005]], [[2006–07 SM-liiga season|2007]], [[2007–08 SM-liiga season|2008]], [[2013–14 SM-liiga season|2014]], [[2014–15 Liiga season|2015]] and [[2017–18 Liiga season|2018]]). It has also twice been the runner-up in the [[IIHF European Champions Cup]],   in [[2005 IIHF European Champions Cup|2005]] and in [[2006 IIHF European Champions Cup|2006]].
+
+In [[Association football|football]] [[AC Oulu]] plays in [[Veikkausliiga]], the premier division of Finnish football. So far [[Oulun Palloseura (football)|OPS]] has claimed the Finnish football championship only twice by winning [[Mestaruussarja]] in [[1979 Mestaruussarja|1979]] and in [[1980 Mestaruussarja|1980]]. Other notable football clubs include [[Oulun Luistinseura|OLS]], [[Oulun Työväen Palloilijat|OTP]] and [[JS Hercules]].
+
+Oulu has one well-known [[bandy]] club, [[Oulun Luistinseura|OLS]], which plays in [[Bandyliiga]] and has become [[list of Finnish bandy champions|Finnish champions]] 14 times, most recently in 2014. The other bandy club, [[Oulun Palloseura|OPS]], with its 7 championships and a bronze medal as late as in 2009, announced it would be closing down after the 2009–10 season. In [[2001 Bandy World Championship|2001]] the city was the main venue for the [[Bandy World Championship]].
+
+Oulu is also home to several other sports clubs such as [[Oulu Northern Lights]] ([[American football]]), [[Oulun NMKY]] (Basketball), [[Oulun Lippo]] ([[Pesäpallo]]), [[Oulun Pyrintö]] (Track and field), [[SK Pohjantähti]] ([[Orienteering]])), [[OYUS Rugby|OYUS]] ([[Rugby union]]), [[Oulu Irish Elks]] ([[Gaelic football]]) and [[Lentopalloseura ETTA|ETTA]] (Volleyball).
+
+[[Oulun Tervahiihto]] is an annual ski marathon event held since 1889.
+
+Terwa Run & Marathon is an annual running event held since 1989 in late May.
+
+A former [[motorcycle speedway]] track known as the Iinat Motor Sports Center was located north of the Pirttilammentie and east of the Iinatintie ({{coord|64|57|31|N|25|34|23|E|}}).<ref>{{cite web |url=https://www.speedwaysanomat.fi/tekstit/radat.html |title=Track locations  | website=Speedway Sanomat |access-date=14 February 2024}}</ref> The Center opened in 1979 and hosted many events, including the Finnish Final, as part of the qualifying round of the [[Speedway World Championship]] in 1983.<ref>{{cite web |url=https://dlprezes.pl.tl/SPEEDWAY--_--Indywidualne-mistrzostwa-%26%23346%3Bwiata-----------k1-World-Speedway-Championship-k2-.htm |title=World Championship |website=Metal Speedway |access-date=14 February 2024}}</ref><ref>{{cite web |url=http://www.speedway.org/history/ |title=World Championship  | website=Speedway.org |access-date=14 February 2024}}</ref>
+
+==Education==
+[[File:University-of-Oulu-2010.jpg|thumb|left|[[University of Oulu]] main building.]]
+The [[University of Oulu]] and [[Oulu University of Applied Sciences]] have their main campuses located in Oulu.
+
+Oulu is home to the most northerly architecture school in the world. The school is best known for its strong regionalistic ideas for developing architecture. This movement is named "the Oulu school" ("Oulun koulu") of architecture. {{Citation needed|date=January 2010}}
+
+Oulu Vocational College has over 13 000 students. It houses several different study subjects in different units which are spread over Oulu and neighbouring municipalities. Oulu Vocational College School of Business Studies is one of the few vocational schools which has game programming in its curriculum.
+
+[[Oulu International School]] is one of nine schools in Finland offering basic education in English. There's also a Swedish-speaking private school (Swedish [[Svenska Privatskolan i Uleåborg]]) for students up until high school. The school is the northernmost Swedish-speaking school in Finland.<ref>{{Cite web|title=Språkstrategi – Svenska Privatskolan i Uleåborg|url=https://www.spsu.fi/om-oss/sprakstrategi/|access-date=2020-08-22|language=sv-SE}}</ref>
+
+==Notable people==
+* [[Saara Aalto]], singer, [[The X Factor (UK TV series)|X Factor UK]] finalist
+* [[Eero Aho]], actor
+* [[Outi Alanko-Kahiluoto]], politician
+* [[Marcus Amand]], Finnish-French racing driver
+* [[Peter von Bagh]], film historian and director 
+* [[Blind Channel]], a [[post-hardcore music|post-hardcore]] and [[nu metal]] band
+* [[Vladislav Delay]], electronic musician
+* [[Eeva Riitta Fingerroos]], Paralympic swimmer
+* [[Frans Michael Franzén]], poet
+* [[Lars Gallenius]], 17th century painter
+* [[Heidi Hautala]], politician
+* [[Matti Hautamäki]], ski jumper
+* [[Aaro Hellaakoski]], poet
+* [[John von Julin]], pharmacist, factory owner and ''[[vuorineuvos]]''
+* [[Yrjö Kallinen]], politician
+* [[Jorma Kontio]], harness driver
+* [[Pekka Korpi]], harness driver
+* [[Veikko Antero Koskenniemi|V.A. Koskenniemi]], poet
+* [[Ville Laihiala]], musician and former frontman of the discontinued local metal band [[Sentenced]]
+* [[Vilho Lampi]], painter
+* [[Taavetti Lukkarinen]], former foreman of Kemi Oy; man who was convicted to death and [[Hanging|hanged]] of treason
+* [[Fanni Luukkonen]], the leader of [[Lotta Svärd]]
+* [[Leevi Madetoja]], composer
+* [[Impaled Nazarene]], nuclear metal band
+* [[Iivo Niskanen]], Olympic champion cross-country skier
+* [[Kerttu Niskanen]], cross-country skier
+* [[Patrik Pasma]], racing driver
+* [[Leena Peltonen-Palotie]], geneticist
+* [[Michael Maria Penttilä]], serial killer
+* [[Susanna Pöykiö]], figure skater
+* [[Ville Ranta]], comic artist
+* [[Mika Ronkainen]], filmmaker
+* [[Keke Rosberg]], 1982 [[Formula One]] world champion
+* [[Kauko Röyhkä]], author and rock musician
+* [[Martti Suosalo]], singer and actor
+* [[Mikael Toppelius]], church painter
+* [[Juha Väätäinen]], athlete
+* [[Sara Wacklin]], teacher and writer
+* Three former presidents of the country [[Kaarlo Juho Ståhlberg]], [[Kyösti Kallio]] and [[Martti Ahtisaari]], also a [[Nobel Peace Prize]] laureate
+* Ice Hockey players: [[Kari Jalonen]], [[Mikael Granlund]], [[Markus Granlund]], [[Joni Pitkänen]], [[Reijo Ruotsalainen]], [[Mika Pyörälä]], [[Lasse Kukkonen]], [[Markus Nutivaara]] and [[Sebastian Aho (ice hockey, born 1997)|Sebastian Aho]]
+* Football/soccer players: [[Rasmus Karjalainen]], [[Otso Liimatta]], [[Aki Lahtinen]], [[Antti Niemi (footballer)|Antti Niemi]], [[Markus Heikkinen]], [[Janne Hietanen]],  [[Mika Nurmela]] and [[Seppo Pyykkö]]
+* [[Qiyu Zhou]], chess player, commentator, and streamer
+
+==International relations==
+{{See also|List of twin towns and sister cities in Finland}}
+
+===Twin towns and sister cities===
+Oulu is [[Twin towns and sister cities|twinned]] with:<ref name="Oulu Twin Cities">{{cite web|url=http://www.ouka.fi/oulu/kansainvalisyys/ystavyyskaupungit|title = Ystävyyskaupungit (Twin Cities)|access-date = 2013-07-27|work = Oulun kaupunki (City of Oulu)|language = fi}}</ref>
+{{div col|colwidth=22em}}
+*[[Alta Municipality]], [[Norway]] <small>''(since 1948)''</small><ref name="Oulu Twin Cities"/><ref name="Alta twinning">{{cite web|url=http://www.alta.kommune.no/vennskapsbyer.530847-72060.html|title=Vennskapsbyer|publisher=Alta kommune|language=no}}</ref>
+*[[Arkhangelsk]], Russia <small>''(since 1993)''</small><ref name="Oulu Twin Cities"/><ref name="Arkhangelsk">{{cite web|url=http://www.arhcity.ru/?page=232/0 |script-title=ru:Информация о городах-побратимах|website=Arhcity.ru|date=October 26, 2007|access-date=27 July 2013|language=ru}}</ref>
+*[[Astana]], Kazakhstan <small>''(since 2013)''</small><ref>{{cite web|url=https://en.tengrinews.kz/politics_sub/Astana-and-Finnish-Oulu-become-twin-cities-18692/|title=Astana and Finnish Oulu become twin-cities|website=Tengrinews.kz|date=19 April 2013|access-date=24 December 2017}}</ref>
+*[[Boden Municipality|Boden]], Sweden <small>''(since 1948)''</small><ref name="Oulu Twin Cities"/>
+*[[Bursa]], Turkey <small>''(since 1978)''</small><ref name="Oulu Twin Cities"/><ref name="Bursa twinnings">{{cite web|url=http://www.bursa.bel.tr/kardes-sehirler/sayfa/261/|title=Kardeş Şehirler|access-date=2013-07-27|work=Bursa Büyükşehir Belediyesi Basın Koordinasyon Merkez|publisher=Tüm Hakları Saklıdır|archive-date=2016-05-23|archive-url=https://web.archive.org/web/20160523225737/http://www.bursa.bel.tr/kardes-sehirler/sayfa/261/|url-status=dead}}</ref>
+*[[Halle (Saale)|Halle]], Germany <small>''(since 1968)''</small><ref name="Oulu Twin Cities"/>
+*[[Leverkusen]], Germany <small>''(since 1968)''</small><ref name="Oulu Twin Cities"/>
+*[[Odesa]], Ukraine <small>''(since 1957)''</small><ref name="Oulu Twin Cities"/>
+*[[Siófok]], Hungary <small>''(since 1978)''</small><ref name="Oulu Twin Cities"/>
+*[[Hangzhou]], China <small>''(since 2010)''</small><ref name="Oulu Twin Cities"/>
+{{div col end}}
+
+Oulu also maintains relationships with cities twinned to [[List of former municipalities of Finland|former municipalities]] [[Merger (politics)|merged]] with Oulu in 2013:<ref name="Oulu Twin Cities" />
+
+* [[Matera]], Italy <small>''(twinned with [[Oulunsalo]] since 2010)''</small>
+* [[Szigetszentmiklós]], Hungary <small>''(twinned with [[Haukipudas]] since 1992)''</small>
+* [[Kronstadt]], Russia <small>''(twinned with Haukipudas, [[Kiiminki]], and [[Yli-Ii]] since 1991)''</small>
+
+===Partnership and twinning cities===
+In addition Oulu has eight 'Partnership & Twinning cities':<ref name="Oulu Partnership and twinning cities">{{cite web|url=http://www.ouka.fi/oulu/kansainvalisyys/partneri-ja-kummikaupungit|title=Partneri- ja kummikaupungit (Partnership and twinning cities)|access-date=2013-07-27|work=Oulun kaupunki (City of Oulu)|language=fi}}</ref>
+{{div col|colwidth=22em}}
+*[[Glasgow]], UK<ref name="Oulu Partnership and twinning cities"/>
+*[[Ilembula]], Tanzania<ref name="Oulu Partnership and twinning cities"/>
+*[[Karlsruhe]], Germany<ref name="Oulu Partnership and twinning cities"/>
+*[[Luleå]], Sweden<ref name="Oulu Partnership and twinning cities"/>
+*[[Matagalpa]], Nicaragua<ref name="Oulu Partnership and twinning cities"/>
+*[[Sendai]], Japan (since 2005)<ref name="Oulu Partnership and twinning cities"/>
+*[[Umeå]], Sweden<ref name="Oulu Partnership and twinning cities"/>
+*[[Vienne, Isère|Vienne]], France<ref name="Oulu Partnership and twinning cities"/>
+{{div col end}}
+
+===International municipal projects===
+The educational department was a part of the [[Lifelong Learning Programme 2007–2013 in Finland]].
+
+== See also ==
+{{Portal|Finland|Europe|Geography|Cities}}
+{{cmn|
+* [[Air Guitar World Championships]]
+* [[Bothnian Bay]]
+* [[Hailuoto Island]]
+* [[Kastelli community centre]]
+* [[Laanila Highschool]]
+* [[Lake Oulujärvi]]
+* [[Oulu Aircraft Hijacking]]
+* [[Oulu Castle]]
+* [[Oulu Highway]]
+* [[Oulu University Hospital]]
+* [[Rotuaari]]
+* [[Toppila Power Station]]
+* [[Tribevine]]
+}}
+
+==Notes==
+{{reflist|group=note}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Commons and category|Oulu}}
+{{Wikivoyage}}
+* {{Official}}
+* [https://web.archive.org/web/20170502221122/http://www.visitoulu.fi/en/home VisitOulu.fi] – official tourism website of Oulu (archived 2 May 2017)
+
+{{Geographic location
+ | Centre = Oulu
+ | N  = [[Ii, Finland|Ii]]
+ | E  = [[Pudasjärvi]]
+ | SE = [[Utajärvi]]
+ | S  = [[Liminka]], [[Kempele]], [[Tyrnävä]], [[Muhos]]
+ | SW = [[Lumijoki]] / ''Lumijoenselkä''
+ | W  = [[Hailuoto]] / ''Luodonselkä''
+ | NW = ''[[Bothnian Bay]]''
+}}
+{{NorthernOstrobothnia}}
+{{50 most populous Nordic urban settlements}}
+{{50 most populous Finnish municipalities}}
+{{European Capital of Culture}}
+{{Authority control}}
+
+[[Category:Oulu| ]]
+[[Category:1605 establishments in Sweden]]
+[[Category:Cities and towns in Finland]]
+[[Category:Grand Duchy of Finland]]
+[[Category:Populated places established in 1605]]
+[[Category:Port cities and towns of the Baltic Sea]]
+[[Category:Seaside resorts in Finland]]

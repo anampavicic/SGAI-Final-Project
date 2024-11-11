@@ -1,0 +1,424 @@
+{{Redirect|Weihaiwei|the British territory|British Weihaiwei}}
+{{Use dmy dates|date=April 2021}}
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->| name                     = Weihai
+| official_name            = 
+| other_name               = 
+| native_name              = 威海市
+| native_name_lang         = zh
+| nickname                 = 
+| settlement_type          = [[Prefecture-level city]]
+| total_type               = <!-- to set a non-standard label for total area and population rows -->
+| motto                    = <!-- images and maps  ----------->
+| image_skyline            = {{multiple image
+| border                   = infobox
+| total_width              = 290
+| image_style              = border:1;
+| perrow                   = 1/2/2
+| image1                   = Gate of happiness 山东 威海 - panoramio.jpg
+| image2                   = Weihai Zhengfu.jpg
+| image3                   = 天鹅湖 - panoramio (1).jpg
+| image4                   = 落日余晖中的石岛宾馆【路人】 - panoramio.jpg
+| image5                   = 成山头 - altar-fountain complex with statues of various Chinese gods in Weihai, Shandong.jpg
+}}
+| image_size               = 
+| image_caption            = '''Left to right, top to bottom:''' Weihai skyline with the Gate of Happiness in the foreground, city hall of Weihai, swans on Yangyuchi Bay, a beach in [[Rongcheng, Shandong|Rongcheng County]], altar fountain to the Great Sun Goddess and Ancestral Mother at Chengshan Peak
+| image_seal               = 
+| seal_size                = 
+| image_shield             = 
+| shield_size              = 
+| image_blank_emblem       = 
+| blank_emblem_type        = 
+| blank_emblem_size        = 
+| image_map                = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=7}}
+| mapsize                  = 
+| map_caption              = 
+| image_map1               = ChinaShandongWeihai.png
+| mapsize1                 = 
+| map_caption1             = Weihai City in Shandong
+| image_dot_map            = 
+| dot_mapsize              = 
+| dot_map_caption          = 
+| dot_x                    = 
+| dot_y                    = 
+| pushpin_map              = China
+| pushpin_label_position   = right
+| pushpin_map_caption      = Location in China
+<!-- Location ------------------>| subdivision_type         = Country
+| subdivision_name         = [[China|People's Republic of China]]
+| subdivision_type1        = [[Provinces of the People's Republic of China|Province]]
+| subdivision_name1        = [[Shandong]]
+| subdivision_type2        = [[Administrative divisions of the People's Republic of China#County level|County-level divisions]]
+| subdivision_name2        = 4
+| subdivision_type3        = [[Administrative divisions of the People's Republic of China#Township level|Township-level divisions]]
+| subdivision_name3        = 66
+| subdivision_type4        = 
+| subdivision_name4        = 
+| seat_type                = Municipal seat
+| seat                     = [[Huancui District]]
+| parts_type               = 
+| parts_style              = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+| parts                    = <!-- parts text, or header for parts list -->
+| p1                       = 
+| p2                       = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->| government_footnotes     = 
+| government_type          = 
+| leader_title             = CCP Secretary
+| leader_name              = Yan Jianbo ({{lang|zh-Hans-CN|闫剑波}})
+| leader_title1            = [[Mayor]]
+| leader_name1             = Kong Fanping ({{lang|zh-Hans-CN|孔凡萍}})
+| leader_title2            = 
+| leader_name2             = 
+| leader_title3            = 
+| leader_name3             = 
+| leader_title4            = 
+| leader_name4             = 
+| established_title        = <!-- Settled -->
+| established_date         = 
+| established_title1       = <!-- Incorporated (town) -->
+| established_date1        = 
+| established_title2       = <!-- Incorporated (city) -->
+| established_date2        = 
+| established_title3       = 
+| established_date3        = 
+| founder                  = 
+| named_for                = <!-- Area    --------------------->
+| area_magnitude           = <!-- use only to set a special wikilink -->
+| unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+| area_footnotes           = <ref name="hongheiku">{{cite web
+  |url = https://www.hongheiku.com/xianjirank/
+  |script-title=zh:最新人口信息 www.hongheiku.com
+  |publisher = 红黑人口库
+  |language = Chinese
+  |access-date = 12 January 2021}}</ref>
+| area_total_km2           = 5956<!-- ALL fields with measurements are subject to automatic unit conversion-->
+| area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+| area_water_km2           = 15.98
+| area_water_percent       = 0.2756
+| area_urban_km2           = 2605.9
+| area_metro_km2           = 776.7
+| area_blank1_title        = 
+| area_blank1_km2          = <!-- Elevation -------------------------->
+| elevation_footnotes      = <!--for references: use <ref> </ref> tags-->
+| elevation_m              = 
+| elevation_ft             = 145
+| elevation_max_m          = 418
+| elevation_min_m          = 0
+| population_as_of         = 2020 census
+| population_footnotes     = <ref>{{Cite web|url=https://www.citypopulation.de/en/china/shandong/admin/|title=China: Shāndōng (Prefectures, Cities, Districts and Counties) - Population Statistics, Charts and Map}}</ref>
+| population_note          = 
+| population_total         = 2,906,548
+| population_density_km2   = auto<!--For automatic calculation, any density field may contain: auto -->
+| population_metro         = 1,164,730
+| population_density_metro_km2 = auto
+| population_urban         = 1,728,259
+| population_density_urban_km2 = auto
+| demographics_type2   = GDP<ref>{{Cite web |title=Shandong Statistical Yearbook-2016|url=http://www.stats-sd.gov.cn/tjnj/nj2016/indexch.htm|website=www.stats-sd.gov.cn}}</ref>
+| demographics2_title1 = [[Prefecture-level city]] 
+| demographics2_info1 = [[Renminbi|CN¥]] 364&nbsp;billion<br />[[US$]] 55&nbsp;billion
+| demographics2_title2 = Per capita
+| demographics2_info2 = CN¥ 128,774<br />US$ 19,460 
+<!-- General information  --------------->
+| timezone                 = [[China Standard Time|China Standard]]
+| utc_offset               = +08:00
+| coor_pinpoint            = Weihai municipal government
+| coordinates              = {{coord|37.5133|N|122.1205|E|type:adm2nd_region:CN-37_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->| postal_code_type         = <!-- [[Postal code of China|Postal code]] -->
+| postal_code              = 264200
+| area_code                = 631
+| blank2_name              = [[Licence plates of the People's Republic of China|License Plate]] Prefix
+| blank2_info              = {{lang|zh-cn|鲁K}}
+| blank3_name              = [[Administrative division codes of the People's Republic of China|Administrative division code]]
+| blank3_info              = 371000
+| iso_code                 = [[ISO 3166-2:CN|CN-SD-10]]
+| website                  = [http://www.weihai.gov.cn/ www.weihai.gov.cn]
+| footnotes                = City Flower:	Sweet Osmanthus, [[Osmanthus fragrans]]<br/>City Tree: Silk Tree, [[Albizia julibrissin]]
+}}
+'''Weihai''' ({{zh|t={{linktext|威海}}|p=Wēihǎi}}), formerly '''Weihaiwei''' ({{zh|s={{linktext|威海|卫}}|p=Wēihǎiwèi|l=Mighty Sea Fort|first=t}}), is a [[prefecture-level city]] and major seaport city in the easternmost [[Shandong]] province of China. It borders [[Yantai]] to the west and the [[Yellow Sea]] to the east, and is the closest mainland Chinese city to [[South Korea]] (specifically, [[Chengshan]] to [[Yeonpyeongdo]]).
+
+Compared with the 2,804,771 people in the [[2010 Chinese census]], there has been a total increase of 101,777 people over the past decade, an increase of 3.63%, with an average annual growth rate of 0.36%.<ref>{{Cite web |date=2021-06-09 |title=Announcement of the Seventh National Population Census of Weihai City |url=https://www.weihai.gov.cn/art/2021/6/9/art_58817_2610425.html |website=Weihai Municipal People's Government}}</ref><ref>{{Cite web |date=2024-03-31 |title=Population data of Weihai City |url=https://www.hongheiku.com/shandong/379.html |website=Red Black Kouku}}</ref> Weihai's population was 2,906,548 as of the [[2020 Chinese census]], of whom 1,164,730 lived in the current built-up (''or metro'') area of ([[Huancui District]]) even though [[Wendeng, Shandong|Wendeng]] district to the south with 563,529 inhabitants is soon being conurbated. There are two county-level cities within Weihai; [[Rongcheng, Shandong|Rongcheng]] had a built up area with 714,211 inhabitants, while [[Rushan, Shandong|Rushan]] had 464,078 inhabitants in 2020.<ref>{{Cite web |title=威海市人民政府 今日威海 威海市第七次全国人口普查公报 |url=https://www.weihai.gov.cn/art/2021/6/9/art_58817_2610425.html |access-date=2024-10-20 |website=www.weihai.gov.cn}}</ref> 
+
+== History ==
+[[File:Aankomst van Chinese krijgsgevangenen te Weihaiwei The landing of Chinese prisoners at Wei-Hai-Wei (titel op object), RP-F-2001-7-1637B-26 (cropped).jpg|left|thumb|Landing of Chinese prisoners at Wei-Hai on 16 February 1895]]
+Prehistorically, it was inhabited by [[Dongyi]] tribes,<ref>{{Cite web |title=威海市人民政府 民俗方言 |url=http://www.weihai.gov.cn/col/col58861/index.html |access-date=2023-02-19 |website=www.weihai.gov.cn}}</ref> and it was annexed into [[China proper]] by the state of [[Qi (state)|Qi]] in 567 B.C.
+
+Before the 14th century, Weihai was a minor fishing settlement. In 1398, during the [[Ming dynasty]], it became a military stronghold (''wei'') to defend against raids by the [[wokou]]. The fortification at Weihai was constructed in 1403, and contained walls almost 2 miles (3.2&nbsp;km) in circumference.<ref name=":0">{{cite book |author=<!--Staff writer(s); no by-line.--> |url=http://www.britannica.com/place/Weihai |title=Weihai, Encyclopædia Britannica Online |date=8 October 2015 |publisher=Encyclopædia Britannica Inc. |archive-url=https://web.archive.org/web/20150905223907/http://www.britannica.com/place/Weihai |archive-date=5 September 2015 |url-status=live}}</ref>
+
+Weihaiwei was the base for the [[Beiyang Fleet]] during the [[Qing Dynasty]]. In 1895, the Japanese captured it in the [[Battle of Weihaiwei]], which is regarded as the last major battle of the [[First Sino-Japanese War]]. The Japanese then evacuated Weihaiwei on 24 May 1898, after which it was occupied by the British.<ref name="auto">http://www.worldstatesmen.org/China_Foreign_colonies.html#Weihaiwei {{webarchive|url=https://web.archive.org/web/20110420174121/http://www.worldstatesmen.org/China_Foreign_colonies.html |date=20 April 2011 }} WorldStatesMen - China - Foreign colonies - Weihaiwai</ref>
+
+The core of Weihai (now [[Huancui District]]) was [[Weihaiwei under British rule|ruled by the British]] from 1 July 1898 to 1930 under lease agreement with the Chinese empire, with '''Port Edward''' (the center of the original Weihai city, now in Huancui District) serving as the capital.<ref name=":0" /> A [[Royal Navy]] base was built on [[Liugong Island]]. 
+
+[[File:Wei-Hai-Wei (1906).jpg|thumb|200px|alt=refer to caption|Map of Weihaiwei in 1906]]
+Weihaiwei became an integral part of China after it was returned to the [[Republic of China (1912–1949)|Republic of China]] on 1 October 1930,<ref name="independent">{{cite news|last=Vines|first=Stephen|title=How Britain lost chance to keep its last major colony|url=https://www.independent.co.uk/news/world/how-britain-lost-chance-to-keep-its-last-major-colony-1258861.html|newspaper=The Independent|date=30 June 1997|url-status=live|archive-url=https://web.archive.org/web/20170627041321/http://www.independent.co.uk/news/world/how-britain-lost-chance-to-keep-its-last-major-colony-1258861.html|archive-date=27 June 2017}}</ref><ref>{{Cite book|title=China: A Cultural and Historical Dictionary|publisher=Curzon Press|year=1998|isbn=0-7007-0439-6|editor-last=Dillon|editor-first=Michael|location=London|pages=[https://archive.org/details/chinahistoricalc0000unse/page/341 341]|url=https://archive.org/details/chinahistoricalc0000unse/page/341}}</ref> but Liugong Island and its facilities were leased back to the [[United Kingdom|U.K.]] until 1940.<ref name="auto" />
+
+Weihaiwei was occupied by the Japanese from 1938 to 1945.<ref name=region>{{cite web| url= http://www.worldstatesmen.org/China_prov.html#Weihaiwei | title= China Provinces and Administrative Divisions - Weihai |publisher= WorldStatesMen.org |access-date=9 December 2018}}</ref>  There was a withdrawal of most British forces and supplies from Liugong Island, and finally a Japanese military landing and occupation of the island in 1940.<ref>{{cite web|url=http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19401208-1.2.66.aspx|title=Weihaiwai Withdrawal|website=nlb.gov.sg|access-date=9 December 2018}}</ref>
+
+The region was formally incorporated into Shandong province on 10 May 1945.<ref name=region/>  In 1949, Weihaiwei City was established, and its name was shortened to Weihai after the [[Chinese Civil War|Communist revolution]].
+
+Since 2003, a replica of the [[Chinese battleship Dingyuan|Chinese battleship ''Dingyuan'']] has been anchored here as a [[museum ship]] and memorial for Chinese veterans of the [[First Sino-Japanese War]].<ref>{{Cite web |title=“定远舰”沉舰遗物出水：沉没125年终被找到，图9文物锁定身份！_复制品 |url=https://www.sohu.com/a/382741316_120362718 |access-date=2024-10-20 |website=www.sohu.com}}</ref>
+
+== Administrative divisions ==
+The [[prefecture-level city]] of Weihai administers four [[Administrative divisions of the People's Republic of China#County level|county-level divisions]], including two [[District of China|districts]] and two [[county-level city|county-level cities]].Weihai City has jurisdiction over two districts and two cities: Huancui District, Wendeng District, Rongcheng City, and Rushan City (Weihai Torch High tech Industrial Development Zone, Weihai Economic and Technological Development Zone, and Weihai Lingang Economic and Technological Development Zone are national level development zones, Weihai Nanhai Economic Development Zone is a provincial-level development zone, and the Development Zone Management Committee is a dispatched agency of the municipal government), with a total of 48 towns, 24 street offices, 2373 village committees, and 390 resident committees.<ref>{{Cite web |title=威海市人民政府 行政区划 |url=https://www.weihai.gov.cn/col/col58857/index.html |access-date=2024-10-20 |website=www.weihai.gov.cn}}</ref>
+
+{| class="wikitable" style="font-size:100%;"
+! colspan="3" |Map
+|-
+| colspan="3" |<div style="position: relative" class="center">
+{{Image label begin|image=Administrative Division Weihai.png|width=640|link=}} 
+{{Image label|x=1470|y=430|scale=640/2560|text=[[Huancui District|'''Huancui''']]}}
+{{Image label|x=1310|y=940|scale=640/2560|text=[[Wendeng District|'''Wendeng''']]}}
+{{Image label|x=1890|y=850|scale=640/2560|text=[[Rongcheng, Shandong|'''Rongcheng<br>{{small|(city)}}''']]}}
+{{Image label|x=560|y=1240|scale=640/2560|text=[[Rushan, Shandong|'''Rushan<br>{{small|(city)}}''']]}}
+{{Image label end}}
+</div>
+|-
+!Subdivision
+!Chinese
+!Pinyin
+|-
+| [[Huancui District]]
+| {{lang|zh-hans|环翠区}}
+| Huáncuì Qū
+|-
+| [[Wendeng District]]
+| {{lang|zh-hans|文登区}}
+| Wéndēng Qū
+|-
+| [[Rongcheng, Shandong|Rongcheng]] City
+| {{lang|zh-hans|荣成市}}
+| Róngchéng Shì
+|-
+| [[Rushan, Shandong|Rushan]] City
+| {{lang|zh-hans|乳山市}}
+| Rǔshān Shì
+|}
+
+These are further divided into 66 [[Administrative divisions of the People's Republic of China#Township level|township-level divisions]], including 52 [[town of China|towns]] and 14 [[Subdistricts of China|subdistrict]]s.
+
+== Geography and climate ==
+
+Weihai is located on the northeastern shore of Shandong; its administrative area includes {{ill|Chengshantou|zh|成山头}} ({{lang|zh-hans|成山头}}), the easternmost tip of the [[Shandong Peninsula]] (Shantung Peninsula). The city is surrounded by sea on three sides; its port is protected by [[Liugong Island]].
+
+Weihai experiences a [[continental climate]], and it is climactically influenced by the surrounding [[Yellow Sea]] and the [[Siberian high]].Weihai City is located in the mid latitudes and belongs to the northern temperate monsoon continental climate, with significant seasonal changes and monsoon advance and retreat. Compared with inland areas at the same latitude, it has the characteristics of abundant rainfall, moderate annual temperature, and mild climate. <ref>{{Cite web |title=威海 - 气象数据 -中国天气网 |url=https://www.weather.com.cn/cityintro/101121301.shtml |access-date=2024-10-20 |website=www.weather.com.cn}}</ref>Springtime warming and autumn cooling are delayed by one month, winds are generally high, and the average diurnal temperature variation throughout the year is small—at only {{convert|6.73|C-change|1}}. Winters are cold and dry, but still warmer than inland regions at the same latitude; the average temperature in January is {{convert|−0.9|°C}}. Summers are hot and humid, but much cooler than inland regions at similar latitude like the [[North China Plain]] (for about 5~10°C) and August averages {{convert|24.7|°C|1}}; the annual mean is {{convert|12.48|°C|1}}. More than two-thirds of the annual precipitation occurs from June to September, and there are nearly 2,540 hours of sunshine per year.
+
+{{Weather box|width=auto
+|metric first=y
+|single line=y 
+|collapsed = Y
+|location = Weihai (1991–2020 normals, extremes 1971–2000)
+|Jan high C = 	2.3
+|Feb high C = 	4.5
+|Mar high C = 	9.8
+|Apr high C = 	16.7
+|May high C = 	22.6
+|Jun high C = 	26.1
+|Jul high C = 	28.4
+|Aug high C = 	28.4
+|Sep high C = 	25.0
+|Oct high C = 	19.3
+|Nov high C = 	12.2
+|Dec high C = 	5.2
+|Jan mean C = 	-0.5
+|Feb mean C = 	1.1
+|Mar mean C = 	5.7
+|Apr mean C = 	12.2
+|May mean C = 	18.1
+|Jun mean C = 	22.0
+|Jul mean C = 	24.9
+|Aug mean C = 	25.3
+|Sep mean C = 	21.8
+|Oct mean C = 	16.0
+|Nov mean C = 	8.9
+|Dec mean C = 	2.2
+|Jan low C = 	-2.8
+|Feb low C = 	-1.6
+|Mar low C = 	2.5
+|Apr low C = 	8.4
+|May low C = 	14.2
+|Jun low C = 	18.7
+|Jul low C = 	22.2
+|Aug low C = 	22.8
+|Sep low C = 	19.2
+|Oct low C = 	13.1
+|Nov low C = 	6.1
+|Dec low C = 	-0.2
+| Jan record high C = 13.6
+| Feb record high C = 19.8
+| Mar record high C = 23.4
+| Apr record high C = 29.6
+| May record high C = 34.2
+| Jun record high C = 38.4
+| Jul record high C = 37.4
+| Aug record high C = 35.4
+| Sep record high C = 33.7
+| Oct record high C = 30.4
+| Nov record high C = 24.0
+| Dec record high C = 18.0
+| Jan record low C = −12.3
+| Feb record low C = −13.2
+| Mar record low C = −8.6
+| Apr record low C = −1.2
+| May record low C = 5.7
+| Jun record low C = 10.7
+| Jul record low C = 14.4
+| Aug record low C = 15.3
+| Sep record low C = 7.5
+| Oct record low C = 0.8
+| Nov record low C = −7.4
+| Dec record low C = -11.3
+|precipitation colour = green
+|Jan precipitation mm = 	13.9
+|Feb precipitation mm = 	16.0
+|Mar precipitation mm = 	18.3
+|Apr precipitation mm = 	37.0
+|May precipitation mm = 	52.9
+|Jun precipitation mm = 	66.3
+|Jul precipitation mm = 	160.7
+|Aug precipitation mm = 	166.3
+|Sep precipitation mm = 	72.4
+|Oct precipitation mm = 	32.1
+|Nov precipitation mm = 	32.5
+|Dec precipitation mm = 	26.2
+|unit precipitation days = 0.1 mm	
+|Jan precipitation days = 	6.4
+|Feb precipitation days = 	4.9
+|Mar precipitation days = 	4.6
+|Apr precipitation days = 	5.3
+|May precipitation days = 	7.2
+|Jun precipitation days = 	7.6
+|Jul precipitation days = 	10.8
+|Aug precipitation days = 	10.0
+|Sep precipitation days = 	6.7
+|Oct precipitation days = 	5.7
+|Nov precipitation days = 	7.0
+|Dec precipitation days = 	8.9
+|year precipitation days = 	
+|Jan humidity = 	60
+|Feb humidity = 	57
+|Mar humidity = 	54
+|Apr humidity = 	53
+|May humidity = 	58
+|Jun humidity = 	70
+|Jul humidity = 	80
+|Aug humidity = 	80
+|Sep humidity = 	69
+|Oct humidity = 	61
+|Nov humidity = 	61
+|Dec humidity = 	61
+|Jan sun = 	159.1
+|Feb sun = 	179.6
+|Mar sun = 	233.2
+|Apr sun = 	245.7
+|May sun = 	273.5
+|Jun sun = 	245.8
+|Jul sun = 	205.2
+|Aug sun = 	220.7
+|Sep sun = 	225.4
+|Oct sun = 	215.6
+|Nov sun = 	164.2
+|Dec sun = 	140.5
+|year sun = 	
+| Jan percentsun = 	52
+| Feb percentsun = 	59
+| Mar percentsun = 	63
+| Apr percentsun = 	62
+| May percentsun = 	62
+| Jun percentsun = 	56
+| Jul percentsun = 	46
+| Aug percentsun = 	53
+| Sep percentsun = 	61
+| Oct percentsun = 	63
+| Nov percentsun = 	54
+| Dec percentsun = 	47
+| year percentsun =	
+|Jan snow days = 	11.0
+|Feb snow days = 	6.5
+|Mar snow days = 	2.3
+|Apr snow days = 	0.1
+|May snow days = 	0
+|Jun snow days = 	0
+|Jul snow days = 	0
+|Aug snow days = 	0
+|Sep snow days = 	0
+|Oct snow days = 	0.2
+|Nov snow days = 	3.3
+|Dec snow days = 	10.8
+|year snow days = 	
+|source 1 = [[China Meteorological Administration]]<ref name="cma graphical">{{cite web |url=http://data.cma.cn/data/weatherBk.html |script-title=zh:中国气象数据网 – WeatherBk Data |publisher=[[China Meteorological Administration]] |language = zh-hans |access-date=7 October 2023}}</ref><ref>
+{{cite web|url=https://experience.arcgis.com/template/e724038fda394e9d9b7921f10fd1aa55/page/%E7%BA%AF%E8%A1%A8%E6%A0%BC%E7%BB%9F%E8%AE%A1-(%E5%AF%B9%E6%AF%948110%E5%8F%98%E5%8C%96)/?org=UQmaps |script-title=zh:中国气象数据网|publisher=[[China Meteorological Administration]] |language = zh-hans | access-date =7 October 2023}}</ref>
+| source 2 = Weather China<ref name = Clim>{{cite web
+| url = http://www.weather.com.cn/cityintro/101121301.shtml?
+| script-title=zh:威海 - 气象数据 -中国天气网 
+| publisher = Weather China
+| language = zh
+| access-date = 29 November 2022}}</ref>
+}}
+
+== Economy ==
+{{wide image|Shihdao PANO.jpg|1150px|Panoramic view of [[Rongcheng, Shandong|Rongcheng]]}}
+
+Weihai is a [[commercial port]] and major [[fishing industry in China|fishing center]] with some [[light industry|light industries]]. Due to its close proximity to South Korea, Weihai also has a large Korean business community and receives many Korean tourists.In recent years, Weihai has vigorously implemented its urban internationalization strategy and deepened its opening-up and cooperation with South Korea in all aspects according to the concept of "three exchanges, four ports, and five connections", becoming a model for local exchanges and cooperation between China and South Korea. <ref>{{Cite web |title=威海营商行｜42名韩国客商到经开区考察项目合作 : Korea.net : 大韩民国官方网站 |url=https://chinese.korea.net/Events/Overseas/view?articleId=20662 |access-date=2024-10-20 |website=chinese.korea.net |language=ce}}</ref>Weihai is also a key production area for peanuts and fruit.Weihai has a good industrial foundation. A complete production system has been basically formed, with mechanical, electronic, chemical, building materials, light industry, textile and other industries as the pillars, and plastic, silk, medicine, food, arts and crafts and other industries as the backbone.<ref>{{Cite web |title=威海市概况 - 中国在线 |url=https://www.chinadaily.com.cn/dfpd/2013sdwlx/2010-10/19/content_16617335.htm |access-date=2024-10-20 |website=www.chinadaily.com.cn}}</ref>
+
+===Industrial Zone===
+'''Weihai Economic & Technological Development Zone''' is a state-level development zone approved by the [[State Council of the People's Republic of China|State Council]] on 21 October 1992. The administrative area has an area of {{convert|194|km2|abbr=on}}, including the programmed area of {{convert|36|km2|abbr=on}} and an initial area of {{convert|11.88|km2|abbr=on}}. The built-up area covers 42.3 square kilometers, governs 2 towns, 3 streets, 30 administrative villages and 50 communities, with a registered residence population of 175000 and a permanent population of 300000.<ref>{{Cite web |title=经济技术开发区 威海经济技术开发区简介 |url=http://www.eweihai.gov.cn/col/col44985/index.html |access-date=2024-10-20 |website=www.eweihai.gov.cn}}</ref>Its nearest port is Weihai Port, and the airport closest to the zone is Dashuibo Airport.<ref>{{cite web |title=Weihai Economic & Technological Development Zone |url=http://rightsite.asia/en/industrial-zone/weihai-economic-technological-development/ |url-status=live |archive-url=https://web.archive.org/web/20150526031603/http://rightsite.asia/en/industrial-zone/weihai-economic-technological-development |archive-date=26 May 2015 |access-date=25 May 2015}}</ref>
+
+'''Weihai Export Processing Zone''' (EPZ) was set up by the approval of the State Council on 27 April 2000. Weihai EPZ is located in Weihai Economic & Technological Development Zone with programmed area of {{convert|2.6|km2|abbr=on}}. Weihai EPZ belongs to comprehensive export & processing zone. The EPZ is located {{convert|30|km|abbr=on}} from Weihai Airport, {{convert|3|km|abbr=on}} to Weihai Railway Station and {{convert|4|km|abbr=on}} from Weihai Harbor.<ref>{{cite web |title=Weihai Export Processing Zone |url=http://rightsite.asia/en/industrial-zone/weihai-export-processing-zone/ |url-status=live |archive-url=https://web.archive.org/web/20150526024317/http://rightsite.asia/en/industrial-zone/weihai-export-processing-zone |archive-date=26 May 2015 |access-date=25 May 2015}}</ref>As a new frontier of opening up to the outside world, the processing zone has focused on developing five major industries: electronic information industry, precision machinery manufacturing, biotechnology and pharmaceutical industry, new materials, and food processing industry.<ref>{{Cite web |title=威海出口加工区 |url=https://govt.chinadaily.com.cn/s/201902/20/WS5cc166c5498e079e6801f002/wei-hai-chu-kou-jia-gong-qu.html |access-date=2024-10-20 |website=govt.chinadaily.com.cn}}</ref>
+
+'''Weihai Torch Hi-Tech Science Park''' is a state-level development zone approved by the State Council in March 1991. Located in Weihai's northwest zone of culture, education and science, the Park has the total area of {{convert|111.9|km2|abbr=on}}, a coastline of {{convert|30.5|km|abbr=on}} and 150,000 residents. It is {{convert|3|km|abbr=on}} away from the city center, {{convert|4|km|abbr=on}} away from Weihai Port, {{convert|10|km|abbr=on}} away from Weihai Railway Station, {{convert|30|km|abbr=on}} away from Weihai Airport and {{convert|80|km|abbr=on}} away from Yantai Airport.<ref>{{cite web |title=Weihai Torch Hi-Tech Science Park |url=http://rightsite.asia/en/industrial-zone/weihai-torch-hi-tech-science-park/ |url-status=live |archive-url=https://web.archive.org/web/20150526031619/http://rightsite.asia/en/industrial-zone/weihai-torch-hi-tech-science-park |archive-date=26 May 2015 |access-date=25 May 2015}}</ref>
+
+=== Transportation ===
+[[File:Weihai Railway Station 2020.jpg|thumb|Weihai Railway Station, 2020]]
+[[Weihai Dashuipo Airport]] serves the city with regular service to [[Beijing]], [[Shanghai]], [[Guangzhou]], [[Harbin]] domestically and the South Korean airport of [[Incheon International Airport|Seoul–Incheon]], as the fourth busiest airport in Shandong following Qingdao, Jinan and Yantai.
+
+[[Qingdao–Rongcheng intercity railway]] offers the high-speed rail services directly to Shanghai Hongqiao, Beijing South, Jinan, Jimo North (Qingdao North soon) and Yantai, with five rail stations, Weihai, Weihai North, Wendeng, Wendeng East and Rongcheng.
+
+Weihai Station is a first-class station in Weihai City, Shandong Province, and also the terminal station of Taowei Railway. It receives and sends more than 3000 passengers every day.<ref>{{Cite web |title=威海站高铁列车查询_【高铁网】_威海站火车时刻表票价_【威海站】_地址交通简介_网上订票 |url=https://www.gaotie.cn/weihaizhan/ |access-date=2024-10-20 |website=www.gaotie.cn}}</ref>
+
+As for conventional rail services, The '''K8262''' train depart every day at and 10:18 PM respectively for [[Jinan]], the provincial capital, the '''K412''' goes directly to Beijing at 8:54 PM, and the No. '''K1068''' train leaves at 9:38 AM for [[Hankou]], one of the three railway stations of [[Wuhan]], [[Hubei]]. Internally, the city is served by more than 50 bus routes.
+
+== Education ==
+Campuses of [[Shandong University]], [[Harbin Institute of Technology]], [[Beijing Jiaotong University]], [[Harbin University of Science and Technology]], as well as Shandong Jiaotong University are located in Weihai.
+
+Secondary Schools
+* Weihai No. 1 High School (威海市第一中学，威海一中)
+* Weihai No. 2 High School (威海市第二中学，威海二中)
+* Weihai No. 3 High School (威海市第三中学，威海三中)
+* Weihai No. 4 High School (威海市第四中学，威海四中)
+
+== Eponymy ==
+* The [[minor planet]] [[207931 Weihai]] is named after this city.
+
+== See also ==
+* [[Weihaiwei under British rule]]
+* [[List of twin towns and sister cities in China]]
+* [[Liugong Island]]
+* [[Revenue stamps of Weihaiwei]]
+
+== References ==
+=== Citations ===
+{{Reflist}}
+
+=== Sources ===
+{{refbegin}}
+* {{cite NIE |wstitle = Weihaiwei |year = 1905 |short = x }}
+{{refend}}
+
+== External links ==
+{{Commons category|Weihai}}
+{{Wikivoyage|Weihai}}
+* {{cite web |url = http://www.weihai.gov.cn/ |title = Government website of Weihai |language = zh, en, ja, ko }}
+
+{{-}}
+{{Shandong}}
+{{Shandong topics}}
+{{Prefectural-level divisions of the People's Republic of China}}
+
+{{Authority control}}
+
+[[Category:Weihai| ]]
+[[Category:Cities in Shandong]]
+[[Category:Prefecture-level divisions of Shandong]]
+[[Category:Port cities and towns in China]]
+[[Category:National forest cities in China]]

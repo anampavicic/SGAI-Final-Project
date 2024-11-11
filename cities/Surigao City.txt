@@ -1,0 +1,1277 @@
+{{Short description|Capital of Surigao del Norte, Philippines}}
+{{Infobox settlement
+| name                     = {{PH wikidata|name}}
+| image_skyline            = Surigao City Hall.JPG
+| image_caption            = Surigao City Hall
+| image_flag               = Flag_of_Surigao,_Surigao_del_Norte.png
+| flag_size                = 120x80px
+| image_seal               = Surigao Seal.png
+| seal_size                = 100x80px
+| image_map                = {{PH wikidata|image_map}}
+| map_caption              = {{PH wikidata|map_caption}}
+| pushpin_map              = Philippines
+| pushpin_label_position   = right
+| pushpin_map_caption      = Location within the {{PH wikidata|country}}
+| coordinates              = {{PH wikidata|coordinates}}
+| settlement_type          = {{PH wikidata|settlement_type}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = [[Philippines]]
+| subdivision_type1        = [[Regions of the Philippines|Region]]
+| subdivision_name1        = {{PH wikidata|region}}
+| subdivision_type2        = [[Provinces of the Philippines|Province]]
+| subdivision_name2        = {{PH wikidata|province}}
+| official_name            = {{PH wikidata|official_name}}
+| etymology                = <!--origin of name-->
+| named_for                = <!--named after (if person or place)-->
+| native_name              = 
+| other_name               = 
+| nickname                 = ''City of Island Adventures''
+| motto                    = 
+| anthem                   = 
+| subdivision_type3        = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3        = {{PH legislative district}}
+| established_title        = [[Date of establishment|Founded]]
+| established_date         = June 29, 1655
+| established_title1       = Cityhood
+| established_date1        = August 31, 1970
+| parts_type               = [[Barangay]]s
+| parts_style              = para
+| p1                       = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title             = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name              = Pablo Yves L. Dumlao II
+| leader_title1            = [[Vice Mayor]]
+| leader_name1             = Alfonso S. Casurra
+| leader_title2            = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2             = [[Ace Barbers|Robert Ace S. Barbers]]
+| leader_title3            = [[Sangguniang Panlungsod|City Council]]
+| leader_name3             = {{PH Town Council
+ | 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Sebastian Ric A. Nagas
+ | 3=Cazel R. Azarcon
+ | 4=Leonilo A. Aldonza
+ | 5=Karl Duane A. Casurra
+ | 6=Joel E. Tinio
+ | 7=Joshua Emilio S. Geli
+ | 8=Baltazar C. Abian
+ | 9=Noel Christian G. Catre Jr.
+ | 10=Jose Expeditus B. Bayana
+ | 11=Joseph Joey S. Yuipco
+}}
+| leader_title4            = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4             = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type          = {{PH wikidata|government_type}}
+| government_footnotes     = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m              = {{PH wikidata|elevation_m}}
+| elevation_max_m          = 984
+| elevation_min_m          = 0
+| elevation_max_rank       = 
+| elevation_min_rank       = 
+| elevation_footnotes      = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes  = 
+| elevation_min_footnotes  = 
+| area_rank                = 
+| area_footnotes           = {{PH area}}
+| area_total_km2           = {{PH wikidata|area}}
+| population_footnotes     = {{PH census|current}}
+| population_total         = {{PH wikidata|population_total}}
+| population_as_of         = {{PH wikidata|population_as_of}}
+| population_density_km2   = auto
+| population_blank1_title  = [[Household]]s
+| population_blank1        = {{PH wikidata|household}}
+| population_blank2_title  = 
+| population_blank2        = 
+| population_demonym       = 
+| population_rank          = 
+| population_note          = 
+| timezone                 = [[Philippine Standard Time|PST]]
+| utc_offset               = +08:00
+| postal_code_type         = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code              = {{PH wikidata|postal_code}}
+| postal2_code_type        = {{PSGCstyle}}
+| postal2_code             = {{PSGC detail}}
+| area_code_type           = {{areacodestyle}}
+| area_code                = {{PH wikidata|area_code}}
+| website                  = {{PH wikidata|website}}
+| demographics_type1       = [[Economy of the Philippines|Economy]]
+| demographics1_title1     = {{PH wikidata|income_class_title}}
+| demographics1_info1      = 1st city income class
+| demographics1_title2     = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2      = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3     = [[Revenue]]
+| demographics1_info3      = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4     = Revenue rank
+| demographics1_info4      = 
+| demographics1_title5     = [[Asset]]s
+| demographics1_info5      = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6     = Assets rank
+| demographics1_info6      = 
+| demographics1_title7     = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7      = 
+| demographics1_title8     = IRA rank
+| demographics1_info8      = 
+| demographics1_title9     = [[Expenditure]]
+| demographics1_info9      = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10    = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10     = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2       = Service provider
+| demographics2_title1     = [[List of electric distribution utilities in the Philippines|Electricity]]
+| demographics2_info1      = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2     = Water
+| demographics2_info2      = 
+| demographics2_title3     = Telecommunications
+| demographics2_info3      = 
+| demographics2_title4     = Cable TV
+| demographics2_info4      = 
+| demographics2_title5     = 
+| demographics2_info5      = 
+| demographics2_title6     = 
+| demographics2_info6      = 
+| demographics2_title7     = 
+| demographics2_info7      = 
+| demographics2_title8     = 
+| demographics2_info8      = 
+| demographics2_title9     = 
+| demographics2_info9      = 
+| demographics2_title10    = 
+| demographics2_info10     = 
+| blank_name_sec1          = {{PH wikidata|climate_title}}
+| blank_info_sec1          = {{PH wikidata|climate_type}}
+| blank1_name_sec1         = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1         = {{PH wikidata|language}}
+| blank2_name_sec1         = [[Crime index]]
+| blank2_info_sec1         = 
+| blank3_name_sec1         = 
+| blank3_info_sec1         = 
+| blank4_name_sec1         = 
+| blank4_info_sec1         = 
+| blank5_name_sec1         = 
+| blank5_info_sec1         = 
+| blank6_name_sec1         = 
+| blank6_info_sec1         = 
+| blank7_name_sec1         = 
+| blank7_info_sec1         = 
+| blank1_name_sec2         = Major religions
+| blank1_info_sec2         = 
+| blank2_name_sec2         = Feast date
+| blank2_info_sec2         = 
+| blank3_name_sec2         = Catholic diocese
+| blank3_info_sec2         = 
+| blank4_name_sec2         = Patron saint
+| blank4_info_sec2         = 
+| blank5_name_sec2         = 
+| blank5_info_sec2         = 
+| blank6_name_sec2         = 
+| blank6_info_sec2         = 
+| blank7_name_sec2         = 
+| blank7_info_sec2         = 
+| short_description        = 
+| footnotes                = 
+| image_map1               = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250|zoom=8}}{{hidden end}}
+}}
+
+'''Surigao City''', officially the '''City of Surigao''' ([[Surigaonon language|Surigaonon]]: ''Siyudad nan Surigao''; {{lang-ceb|Dakbayan sa Surigao}}; {{lang-fil|Lungsod ng Surigao}}), is a 1st class component city and [[Capital city|capital]] of the [[Provinces of the Philippines|province]] of [[Surigao del Norte]], [[Caraga Region]] (Administrative Region XIII), on the north-eastern island of [[Mindanao]], [[Philippines]]. It is the most populous in the province with a population of 171,107 people according to 2020 census.
+
+The city is located at the north-easternmost tip of [[Mindanao]] with a total land area of 245.34&nbsp;km<sup>2</sup> which is roughly 1.4% of [[Caraga]] region.
+
+The absence of a [[fort]] in Surigao belies its significance and sphere of influence during the Spanish period. It was the capital of the expansive province of the same name from 1750 until its dissolution in 1911, covering a third of Mindanao Island's total land area. It is one of the oldest port towns in Mindanao, founded by Spanish colonizers in 1655. It has abundant mineral reserves including [[gold]], [[iron]], [[manganese]], [[silica]], [[cobalt]], [[copper]], [[chromite]] and among the world's largest nickel deposits in [[List of islands of the Philippines#Mindanao#Dinagat Islands|Nonoc Island]]. The city has been dubbed the mining capital since 1969 of the then [[Northern Mindanao]] region and still today as an economic driver of Caraga region.
+
+Surigao City serves as a jump off point to visitors of nearby [[Siargao]], [[Dinagat Island|Dinagat]] and [[Bucas Grande]] islands. It is [[Mindanao]]'s closest landmass to the [[Visayas]] region, separating the two island groups by eleven nautical miles across [[Surigao Strait]]. Surigao is the center of politics, commerce, banking, industry and education of Surigao del Norte and Dinagat Islands as well as parts of neighboring provinces of [[Surigao del Sur]], [[Agusan del Norte]] and [[Southern Leyte]].
+
+==Etymology==
+Many linguists hypothesized differing origins of the name "Surigao". If the root word was taken to be ''sulig'' ("sprout" or "spring up"), then Surigao may have derived from ''suligao'' ("spring water"), likely referring to the Surigao River (known as "Suligaw" in [[Mandaya language|Mandaya]]) that empties at the northern tip of the island of [[Mindanao]].<ref name="sur3">{{cite web |title=Ethnomedical documentation of and community health education for selected Philippine ethnolinguistic groups: the Mandaya people of Davao Oriental, Philippines |date=2000 |url=http://herbs.ph/attachments/article/365/The%20Mandaya%20people%20of%20Davao%20Orriental%20Ethno%20doc.pdf |access-date=April 22, 2015 |author1=Philippine Institute of Traditional and Alternative Health Care, Department of Health |author2=University of the Philippines Manila |author3=University of the Philippines Mindanao }}{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref name="sur1">{{cite book |author1=Benito Francia y Ponce de Leon |author2=Julián González Parrado |title=La Islas Filipinas. Mindanao, Volume 1 |date=1898 |publisher=Subinspección de Infantería |url=https://books.google.com/books?id=eCgQAAAAYAAJ |page=197}}</ref> Early historical accounts record the name of the river as Suligao, Surigao, or Zurigan.<ref name="taw2">{{cite book |editor=Pio A. De Pazos y Vela-Hidalgo |url=https://archive.org/stream/jolorelatohisto00velagoog/jolorelatohisto00velagoog_djvu.txt |title=Jolo, Relato Historico-Militar: Desde Su Descubrimiento Por Los Espanoles en 1578 A Nuestros Dias (1879) |year=1879 |publisher=Imprenta y Estereotipia de Polo}}</ref>
+
+Historians also theorized "Surigao" is derived from Visayan ''surogao'' or ''suyogao'', meaning "water current". From ''suyog'' (also ''sulog'' or ''surog''), "current". Other Visayan words derived from the same root include [[Sinulog]], [[Sulu]] and [[Tausūg people|Tausug]] (Suluk).<ref>{{cite book |last1=Paredes |first1=Francis Tom |last2=Paredes |first2=Sheila |title=The Monosyllabic root -ao in Mindanao Languages |date=2017 |series=8th Annual In-house Review of the Research Office of Agusan del Sur State College of Agriculture and Technology|publisher=Agusan del Sur State College of Agriculture and Technology}}</ref>
+
+Another popular legend tells the story of Visayan fishermen, who survived a sudden windstorm that capsized their ''banca'' at the mouth of Surigao River. Unable to paddle back to sea, they had no choice but to stay until they could fix their boats. Little did they know there were natives in the area. Soon, docile villagers found the emaciated fishermen and took them to their chieftain ''Solibao''. After learning of the plight of the fishermen, the chieftain ordered his men to feed and help them repair their boats. The fishermen felt so lucky to meet generous hosts, and they were profoundly thankful to the chieftain and villagers' kindness. 
+
+When they finally made it home, the fishermen shared their stories with their families of how beautiful the place and the people were. One thing they could remember fully was ''Solibao'''s graciousness as a leader. Had it not been for him and his men's help, they would not have made it. To honor him, the fishermen called the place ''Solibao'', every time they shared their stories of their ordeal. Soon, the name ''Solibao'' stuck through generations as descendants eventually searched and found how truly mystical the place ''Solibao'' was, which they had only heard from their ancestors.
+
+The town was renamed [[Caraga]] after its founding, derived from the word ''calagan'', from the [[Kalagan people]], whose name means "people of the [fierce/brave] spirit". The Italian adventurer [[Giovanni Francesco Gemelli Careri]], who published a book of travel in the country, cited [[Francisco Combes]], S.J. as a source in saying that Calagan is derived from the two Visayan words, ''kalag'' for soul and ''an'' for people. Today, Caraga is the official name referring to the entire Region XIII, created through Republic Act No. 7901 on February 25, 1995, making it the newest region in the Philippines.
+
+== History ==
+[[File:Surigao Province.jpg|thumb|left|Surigao Province 1898]]
+The site around Surigao was settled early on, even before the Spanish conquest. Fishing villages dotted along the coast facing the Hinatuan Passage while Mamanwa tribes inhabited the interior highlands. The confluence of three major bodies of water- [[Pacific Ocean]], [[Surigao Strait]] and [[Mindanao Sea]] made Surigao a strategic location, although its historical importance waxed and waned as other parts of the archipelago were explored and developed. Surigao was then a territory of the [[Rajahnate of Butuan]], who's capital is now in [[Butuan]]. Surigao was where the precolonial settlements of the [[Rajahnate of Butuan|Butuan Rajahnate]] in the region: Anao-aon and Bilang-Bilang, were located at, as they supplied the Rajahnate with timber, seafood, and salt, in exchange for the gold that was produced in the capital.<ref name="Schreurs 1982 26–37">{{Cite journal |last=Schreurs |first=Peter |date=1982 |title=Four Flags Over Butuan |url=https://www.jstor.org/stable/29791752 |journal=Philippine Quarterly of Culture and Society |volume=10 |issue=1/2 |pages=26–37 |jstor=29791752 |issn=0115-0243}}</ref><ref>{{Cite web |url=https://caragaregion.com/about-cities-and-provinces/butuan-city-home-of-the-balangays/%7D%7D |title="Butuan City – Historic City and the Home of the Balangays"}}</ref> 
+
+===Spanish Era===
+[[Ferdinand Magellan]] sailed into the Philippine Archipelago, reaching the island of [[Homonhon]] in an epic voyage of discovery and eventual [[circumnavigation]] of the world in 1521.  Magellan's fleet proceeded to [[Limasawa]] through [[Surigao Strait]], a notch north-west of the city's pelagic boundaries, before dropping anchor on the waters off the island of [[Cebu]], ushering the Spanish colonization of the Philippines.
+[[File:Spanish map of Mindanao.jpg|thumb|right|Surigao town as shown on a historical Mindanao map]]
+Present day Surigao originated from a site in the city proper formerly known as ''Bilang-Bilang'' where it served as a port of call for inter-island vessels. It was renamed Banahao which became an integral part of the old district of [[Caraga]], a town founded on June 29, 1655. After Caolo, present day Siargao, burned in 1750, Surigao became the capital of the expansive geopolitical, ecclesiastical and military district of Surigao which reached the northern parts of today's [[Davao City|Davao]] and would include today's provinces of Surigao del Sur, Agusan del Norte, [[Agusan del Sur]], parts of [[Compostela Valley]], [[Misamis Oriental]], [[Davao del Norte]] and [[Davao Oriental]]. It officially became the permanent residence of the [[Augustinian Recollects]] on February 1, 1752, when all the canonical books were moved from Caolo to Surigao. The first canonical books bore the signature of Fr. Lucas de la Cruz. Previously, the place was just a "vista" of the parish in Caolo. Its strategic location and new status as the seat of government was costly. Surigao witnessed violent territorial struggles as it suffered ultimately from relentless [[Moro people|Moro]] raids. In 1752, the town was devastated. Most of its 2,000 inhabitants were either killed or taken as slaves by the Moros.
+
+[[File:Unang Pagtataas ng Watawat ng Pilipinas sa Mindanao Marker.jpg|thumb|upright|Historical marker of the first flag-raising of the modern Philippine flag in Mindanao]]
+{{quotation|'''First and Official Flag Raising in Mindanao'''. Father Alberto Masoliver, S.J., during his stint as the parish priest of Surigao in 1898, kept a compilation of his diaries, entitled ''Diario de la Casa de Surigao''. His diaries are currently stored in the Jesuit archives at Centro Borja, [[Sant Cugat del Valles]], Spain. He thus wrote on December 26, 1898, ''"Before 10:00 AM, the tri-color was hoisted from Casa Real seat of provincial government) and the Tribunal … without any formalities … without anybody's attention being drawn…..these people have no idea of what it is all about, and if they have… how peaceful and without malice they are."''. Surigao then was the ''cabecera'' and the seat of government of the province of Caraga which had jurisdiction over Surigao, Butuan and Cagayan de Misamis ([[Cagayan de Oro]]). Alejandro (Jantoy) Gonzalez was the president of the Junta Provincial of Surigao during the time of the first flag hoisting.}}
+
+*'''Controversy about the location of the First [[Flag of the Philippines|Philippine Flag]] Raising in Mindanao'''. The Philippines' [[National Historical Institute]] carries the mandate to decide on historical matters and to erect national markers. In a roundtable held in January 2000, the historians decided that the raising of the flag on December 26, 1898, by Alejandro Gonzalez in Surigao was duly sanctioned by [[Emilio Aguinaldo]]'s government. The installation of the NHI marker in Surigao City followed suit.[http://nhcp.gov.ph/first-and-official-flag-raising-in-mindanao/]
+
+===American Period===
+[[File:Philippine Island - Mindanao - NARA - 68156226.jpg|thumb|left|Aerial view of Surigao, circa 1936]]
+
+At the turn of the century in 1901, the Americans established a civil government in the province of Surigao, keeping the town of Surigao as its capital. Surigao was then among the largest municipalities in land area with a jurisdiction of 949.90 square kilometers, larger than today's [[Butuan]]. During this period, there was only one main road, the Old Spanish road. The commercial district, market and plaza (Luneta) were all situated in one small area. In 1930, the Old Spanish road was abandoned and a new provincial road was constructed. The Casa Real was built where municipal administrators would hold their official functions. Surigao's core barrios- Taft and Washington, were named after [[United States]] presidents [[William Howard Taft]] and [[George Washington]].
+
+===World War II===
+{{Further|Battle of Surigao Strait}}
+[[File:Battle of Surigao Strait Plaque.jpg|thumb|[[Battle of Surigao Strait]] Memorial]]
+Surigao featured prominently in World War II's Pacific theater. On May 23, 1942, the Japanese Imperial Army under Colonel Yoshie occupied Surigao after arriving from Butuan. They formally took over on May 28, 1942, under Lieutenant Ichichara, taking control from Mayor Amat. Filipino guerrilla units based in Surigao continued to operate in the hinterlands. Liberation from the Japanese rule dawned on September 9, 1944. American planes started their campaign by bombing the town in the early morning. It was followed by a strafing of all Japanese warships docked at the Surigao wharf, which came to transport fresh troops and supplies to their forces in Leyte. No fewer than fifty warships were sunk by the raiding American bomber planes. After the attack, not a single Japanese ship was seen afloat. The following month, on October 24–25, the famous Battle of Surigao Strait, the final line battle in naval history, was fiercely fought by allied forces against the Japanese fleet. By April 12, 1945, the whole province of Surigao was liberated from Japanese occupation.
+
+One American family who had lived in and near Surigao before the war returned after the Japanese left the area in 1945. Virginia Holmes, a child in 1945, many years later wrote, "We were shocked at the destruction the war years had wrought. Many houses stood empty, and others were mere skeletons. Walls were pockmarked with bullet holes. There were piles of rubble everywhere. The tree-lined streets that used to be so pretty were now full of potholes, and only a few trees were left undamaged."<ref>Virginia Holmes, ''Guerrilla Daughter'' (Kent, Ohio: Kent State U. Press, 2009), p. 169.</ref> Holmes said the cemetery had been neglected and at least part of it was overgrown in weeds.<ref>Holmes, p. 169.</ref>
+
+===Post War Reconstruction===
+
+Massive reconstruction followed the destruction brought by the war. The Surigao Provincial Capitol was completed in 1946 atop the hill overlooking the city. Other facilities were built including schools, athletic field and municipal jail. In 1948, the first election of municipal officials was held. In the same year, construction of the Surigao Provincial Hospital commenced. Six years later in 1954, construction of the first municipal building started and was completed in 1955. Economic activities continued to flourish with the launching of gold mining operations by Mindanao Mother Lode Mines in Mabuhay, 10 kilometers from the city. Rapid economic growth and immigration lead to losing some of its fishing and agricultural barrios as they were converted into towns of [[Malimono]] (July 31, 1956), Anao-aon ([[San Francisco, Surigao del Norte|San Francisco]]) (May 24, 1957) and [[Sison, Surigao del Norte|Sison]] (September 15, 1959). During the same year, settlements including Capalayan, Libuac, Catadman, Mat-i, Lipata, ''Dakung Patag'', ''Bunyasan'', ''Cantapoy'', ''Balite'', and ''Bambanon'' were elevated into barrios, the forerunner of modern-day barangays.<ref>{{cite web|url=http://lawph.com/statutes/ra1543.html|title=An Act Converting into Barrios Certain Sitios in the Province of Surigao, and Dividing the Barrio of Macalaya into Two Barrios, Municipality of Placer, in the Same Province|publisher=LawPH.com|access-date=April 12, 2011|url-status=dead|archive-url=https://archive.today/20120711105628/http://lawph.com/statutes/ra1543.html|archive-date=July 11, 2012}}</ref>
+At that time, Surigao was classified as a 1st Class B municipality with an annual income of P160,000.00 and a population of nearly 50,000. It was primarily an agricultural town producing mainly copra and basic staples including rice, corn, bananas and rootcrops. Fishing was also a major source of livelihood. On September 18, 1960, pursuant to the Republic Act 2786 dated June 19, 1960, the province of Surigao was divided into Surigao del Norte and Surigao del Sur.<ref>{{cite web|url=http://lawph.com/statutes/ra2786.html|title=An Act to Create the Provinces of Surigao del Norte and Surigao del Sur|publisher=LawPH.com|access-date=April 12, 2011}}</ref> The town of Surigao remained as a capital, this time for the province of Surigao del Norte.
+
+Surigao was on a rapid growth path despite the provincial split. Already, it had a domestic airport, three movie houses, three hotels and two hospitals. On November 19, 1964, the town was on the direct path of [[Typhoons Louise and Marge|supertyphoon ''Ining'' (internationally code-named Louise)]], with peak winds at 240 kilometers per hour, considered among the strongest in the city's recorded history. The city sustained extensive destruction to property and high human casualties. In 1967, Pacific Cement Corporation [http://www.pacemco.com/home.html] started commercial operations in Mabuhay, [[Sison, Surigao del Norte#Barangays|Sison]], producing top quality cement in the country. In 1969, Marinduque Mining Industrial Corporation, a Canadian company subsidiary, started commercial operations and export of vast nickel ore deposits in Nonoc Island, with an initial capitalization of Php1.0 billion pesos, ushering a new era of prosperity.
+
+===Cityhood===
+{{main|Cities of the Philippines}}
+Pursuant to Republic Act No. 6134, Surigao was converted to a chartered city on August 31, 1970, with Pedro Espina as its first city mayor.
+
+==Geography==
+Surigao City is situated at the north-easternmost tip of Mindanao Island. It is bounded by Municipalities of [[Dinagat, Dinagat Islands|Dinagat]] and [[Basilisa, Dinagat Islands|Basilisa]] to the north, [[Philippine Sea]] and the Municipality of [[Cagdianao, Dinagat Islands|Cagdianao]] to the east, Municipalities of [[Sison, Surigao del Norte|Sison]] and [[Tagana-an, Surigao del Norte|Tagana-an]] to the south, [[Mindanao Sea]] and the Municipality of [[San Francisco, Surigao del Norte|San Francisco]] to the west and the [[Surigao Strait]] to the north-west.
+
+===Topography===
+Surigao City's rolling hills gently buffers its eastern and northwestern boundaries. To the south-west, the Kabangkaan Ridge separates the city from the municipality of San Francisco (formerly Anao-aon). Kinabutan River (otherwise known as Surigao River) meanders through Surigao Valley before emptying to the Surigao tidal basin, a mangrove and [[nipa palm]] marsh rapidly shrinking due to urban expansion and human encroachment. 
+
+The city has an average elevation of 19 meters or 65.5 feet above sea level. Kabangkaan Ridge, with a peak elevation of 465 meters above sea level, is the highest point. To the east along the border with Tagana-an, Mapawa Peak, with an elevation of 245 meters above sea level, rises above barangays Cabongbongan, Nabago and Capalayan.
+
+More than two dozen islands and islets make up two fifths of the city's total land area. They are separated from the mainland by Hinatuan Passage, which connects [[Mindanao Sea]] to the [[Pacific Ocean]]. Nonoc, the largest island, is typically hilly, with its highest elevation at 263 meters above sea level, and can easily be identified through its bare rusty-red weathering mantle of lateritic nickel ore. Hikdop Island, directly across the city proper, is known for the undersea Buenavista cave, with Mount Telegrapo, its highest point at 100.05 meters. Hinatuan Island, has been mined extensively during the later part of the last century, and straddles across Siargao Island. Other notable islands like Hanigad, Sibale, Bayaganan, Sumilon, Danawan, and Awasan are generally flat, and primarily covered with coconut palm trees. Large swaths of mangrove and nipa palm forests are familiar sights around the city's islands and coastal waterways.
+
+===Climate===
+{{Weather box
+| location = Surigao City (1991–2020, extremes 1903–2023)
+| width        = auto
+| metric first = Yes
+| single line = Yes
+| Jan record high C = 33.7
+| Feb record high C = 33.5
+| Mar record high C = 35.0
+| Apr record high C = 35.2
+| May record high C = 36.3
+| Jun record high C = 37.5
+| Jul record high C = 36.2
+| Aug record high C = 37.0
+| Sep record high C = 38.2
+| Oct record high C = 35.6
+| Nov record high C = 36.5
+| Dec record high C = 34.6
+|year record high C = 37.5
+| Jan high C = 29.4
+| Feb high C = 30.0
+| Mar high C = 30.9
+| Apr high C = 31.9
+| May high C = 32.8
+| Jun high C = 32.6
+| Jul high C = 32.4
+| Aug high C = 32.8
+| Sep high C = 32.7
+| Oct high C = 32.0
+| Nov high C = 31.0
+| Dec high C = 30.2
+|year high C = 31.6
+| Jan mean C = 26.3
+| Feb mean C = 26.6
+| Mar mean C = 27.3
+| Apr mean C = 28.1
+| May mean C = 28.9
+| Jun mean C = 28.6
+| Jul mean C = 28.5
+| Aug mean C = 28.8
+| Sep mean C = 28.6
+| Oct mean C = 28.2
+| Nov mean C = 27.5
+| Dec mean C = 26.9
+|year mean C = 27.8
+| Jan low C = 23.1
+| Feb low C = 23.3
+| Mar low C = 23.7
+| Apr low C = 24.3
+| May low C = 24.9
+| Jun low C = 24.7
+| Jul low C = 24.6
+| Aug low C = 24.7
+| Sep low C = 24.6
+| Oct low C = 24.4
+| Nov low C = 24.0
+| Dec low C = 23.6
+|year low C = 24.1
+| Jan record low C = 18.6
+| Feb record low C = 18.2
+| Mar record low C = 18.8
+| Apr record low C = 18.9
+| May record low C = 20.8
+| Jun record low C = 20.7
+| Jul record low C = 18.0
+| Aug record low C = 20.0
+| Sep record low C = 20.6
+| Oct record low C = 20.0
+| Nov record low C = 19.4
+| Dec record low C = 19.1
+|year record low C = 18.2
+| rain colour = green
+| Jan rain mm = 661.5
+| Feb rain mm = 468.1
+| Mar rain mm = 354.8
+| Apr rain mm = 210.5
+| May rain mm = 120.0
+| Jun rain mm = 158.3
+| Jul rain mm = 158.4
+| Aug rain mm = 142.9
+| Sep rain mm = 181.0
+| Oct rain mm = 250.3
+| Nov rain mm = 454.2
+| Dec rain mm = 597.3
+|year rain mm = 3757.3
+| unit rain days = 1 mm
+| Jan rain days = 24
+| Feb rain days = 19
+| Mar rain days = 19
+| Apr rain days = 15
+| May rain days = 10
+| Jun rain days = 12
+| Jul rain days = 12
+| Aug rain days = 10
+| Sep rain days = 11
+| Oct rain days = 16
+| Nov rain days = 21
+| Dec rain days = 23
+|year rain days = 192
+| Jan humidity = 88
+| Feb humidity = 86
+| Mar humidity = 84
+| Apr humidity = 83
+| May humidity = 81
+| Jun humidity = 81
+| Jul humidity = 81
+| Aug humidity = 80
+| Sep humidity = 81
+| Oct humidity = 83
+| Nov humidity = 86
+| Dec humidity = 87
+|year humidity = 83
+| source 1 = [[Philippine Atmospheric, Geophysical and Astronomical Services Administration|PAGASA]]<ref name=PAGASAnormals>
+{{cite web
+| archive-url = https://web.archive.org/web/20181018191209/https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20NORMALS%20%281991-2020%29/SURIGAO.pdf
+| archive-date = October 18, 2018
+| url = https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20NORMALS%20%281991-2020%29/SURIGAO.pdf
+| title = Surigao del Norte Climatological Normal Values
+| publisher = Philippine Atmospheric, Geophysical and Astronomical Services Administration
+| access-date = October 18, 2018}}</ref><ref name=PAGASAextremes>
+{{cite web
+| archive-url = https://web.archive.org/web/20181018191537/https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20EXTREMES%20%28as%20of%202023%29/Surigao.pdf
+| archive-date = October 18, 2018
+| url = https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20EXTREMES%20%28as%20of%202023%29/Surigao.pdf
+| title = Surigao del Norte Climatological Extremes
+| publisher = Philippine Atmospheric, Geophysical and Astronomical Services Administration
+| access-date = October 18, 2018}}</ref>
+}}
+
+Surigao has a [[tropical rainforest climate]] type, [[Köppen climate classification|Köppen]] class ''Af'' with an average monthly precipitation of 308.66&nbsp;mm (12.5 inches). It is distinctly wettest between the months of November until March. During the drier season between April and September, brief afternoon showers and thunderstorms locally called ''sobasco'', are commonplace.
+
+===Barangays===
+Surigao City is politically subdivided into 54 [[barangay]]s. Each barangay consists of [[purok]]s  while some have [[sitios]].
+
+There are 33 barangas which located in the mainland and 21 barangays in the islands. Of the 36 coastal barangays, 15 are in the mainland and 20 are in the islands. The urban area covers 15 barangays or approximately 20% of the total land area. These include Taft, Washington, San Juan, Sabang, Canlanipa, Cagniog, Luna, Togbongon, Rizal, Lipata, Punta Bilar, Mabua and Ipil.
+
+The 21 island barangays are Alang-Alang, Alegria, Aurora, Baybay, Bilabid, Bitaugan, Buenavista, Cagutsan, Cantiasay, Catadman, Danawan, Libuac, Lisondra, Manjagao, Nonoc, San Jose, San Pedro, Sidlakan, Sugbay, Talisay, and Zaragoza.
+{{Div col|colwidth=15em}}
+* Alang-alang
+* Alegria
+* Anomar
+* Aurora
+* Balibayon
+* Baybay
+* Bilabid
+* Bitaugan
+* Bonifacio
+* Buenavista
+* Cabongbongan
+* Cagniog
+* Cagutsan
+* Canlanipa
+* Cantiasay
+* Capalayan
+* Catadman
+* Danao
+* Danawan
+* Day-asan
+* Ipil
+* Libuac
+* Lipata
+* Lisondra
+* Luna
+* Mabini
+* Mabua
+* Manjagao
+* Mapawa
+* Mat-i
+* Nabago
+* Nonoc
+* Orok
+* Poctoy
+* Punta Bilar
+* Quezon
+* Rizal
+* Sabang
+* San Isidro
+* San Jose
+* San Juan
+* San Pedro (Hanigad)
+* San Roque
+* Serna (Bad-asay)
+* Sidlakan
+* Silop
+* Sugbay
+* Sukailang
+* Taft
+* Talisay
+* Togbongon
+* Trinidad
+* Washington
+* Zaragoza
+{{div col end}}
+
+==Demographics==
+{{Philippine Census
+| align= none
+| cols = 3
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = {{PH census population|2025}}
+| 2030 = {{PH census population|2030}}
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}} 
+
+The demographics of Surigao City are evidence of an ethnically diverse city. Throughout its history, Surigao has been a point of entry for migrants from other regions of the Philippines, enticed by the city's political significance, attractive natural setting, abundant resources and during the last century, increased mining operations. [[Butuanon people|Butuanons]], [[Hiligaynon people|Hiligaynons]], [[Waray people|Warays]], [[Cebuano people|Cebuanos]], [[Boholano people|Boholanos]] and other ethnic groups found home in Surigao and eventually learned how to speak the language, though Cebuano is also spoken and understood language in the city as a secondary language. Some of their descendants now hold prominent positions in the city and provincial governments. Immigrants from China and India also found home in Surigao; their direct descendants now comprise the bulk of successful merchants of the Surigao business community.
+
+[[File:San Nicolas de Tolentino Cathedral of Surigao.jpg|thumb|The [[Surigao Cathedral|Cathedral of San Nicolas de Tolentino]] at San Nicolas Street, Brgy. Washington.]]
+Surigao is home to one of the country's oldest and most colorful tribes, the ''[[Lumad|Mamanwa]]''. They are similar to the [[Negrito|Negritoes]] of [[Luzon]] in features and stature. They are generally short, dark-skinned, with a crop of short kinky hair. Their nomadic existence forced them to settle in less desirable hinterland areas as development encroached on their traditional gathering and hunting grounds.
+
+''Mamanwas'' thrived wherever they went as they practiced their unique customs and traditions. The faith about ''Kahimunan'', one of their many tribal festivities, highlights music and graceful dancing. Revelers chant and play while accompanied by native musical instruments, including the ''gimbar'' (drum), gong, and bamboo percussion called ''kalatong'' and ''katik''. Wild pigs, chicken, indigenous fruits, and rare ''kayape'' fruit are among the offerings. A ''baylan'' (priest) presides over the celebration as a tribute and invocation to their god ''Magbabaya'' and departed ancestors for good health and abundant harvest.
+
+''Mamanwas'' are also known for their creative patterns, brass jewelry, and indigenous crafts, displayed proudly on their costumes as they fill the streets at the height of the ''Bonok Bonok Maradjao Karadjao'' Festival every September 9, celebrated on the occasion of the feast of Saint Nicolas de Tolentino, Surigao City's patron saint. ''Bonok-bonok'' and its prehistoric origins were rituals to thank their gods, presided by various village chieftains and their wives. Happiness and friendship are expressed through dancing, chanting, and singing. They wave scarves of ''banay'' as symbols of goodwill, wealth, and blessings for all tribal villages.
+
+Today, some ''Mamanwas'' have acquired typical trappings of society, as they live in permanent communities, subsist on backyard farming, and occasionally descend to town to sell or barter handicrafts and fresh harvest. Bands still subsist on foraging, even as most have adopted a more modern way of life over the years.
+
+=== Barangays ===
+{| class="wikitable"
+|+
+!Barangay
+!Population
+Percentage
+
+!Population 
+(2020)
+!Population 
+(2015)
+!Change 
+(2015-2020)
+!Annual Population
+Growth Rate
+
+(2015-2020)
+|-
+!Alang-alang
+|0.25%
+|436
+|405
+|7.65%
+|1.56%
+|-
+!Alegria
+|0.36%
+|623
+|574
+|8.54%
+|1.74%
+|-
+!Anomar
+|1.12%
+|1,908
+|1,727
+|10.48%
+|2.12%
+|-
+!Aurora
+|0.43%
+|736
+|677
+|8.71%
+|1.77%
+|-
+!Balibayon
+|1.30%
+|2,216
+|1,752
+|26.48%
+|5.07%
+|-
+!Baybay
+|0.18%
+|311
+|330
+| -5.76%
+| -1.24%
+|-
+!Bilabid
+|0.14%
+|241
+|293
+| -17.75%
+| -4.03%
+|-
+!Bitaugan
+|0.41%
+|707
+|637
+|10.99%
+|2.22%
+|-
+!Bonifacio
+|2.23%
+|3,822
+|3,534
+|8.15%
+|1.66%
+|-
+!Buenavista
+|0.68%
+|1,168
+|916
+|27.51%
+|5.25%
+|-
+!Cabongbongan
+|0.49%
+|841
+|905
+| -7.07%
+| -1.53%
+|-
+!Cagniog
+|3.87%
+|6,622
+|5,225
+|26.74%
+|5.11%
+|-
+!Cagutsan
+|0.20%
+|342
+|345
+| -0.87%
+| -0.18%
+|-
+!Canlanipa
+|6.80%
+|11,636
+|9,697
+|20.00%
+|3.91%
+|-
+!Cantiasay
+|0.61%
+|1,047
+|984
+|6.40%
+|1.31%
+|-
+!Capalayan
+|1.56%
+|2,672
+|2,502
+|6.79%
+|1.39%
+|-
+!Catadman
+|0.20%
+|350
+|382
+| -8.38%
+| -1.82%
+|-
+!Danao
+|0.39%
+|669
+|593
+|12.82%
+|2.57%
+|-
+!Danawan
+|0.36%
+|620
+|573
+|8.20%
+|1.67%
+|-
+!Day-asan
+|1.19%
+|2,032
+|1,883
+|7.91%
+|1.62%
+|-
+!Ipil
+|2.74%
+|4,692
+|4,323
+|8.54%
+|1.74%
+|-
+!Libuac
+|0.58%
+|997
+|949
+|5.06%
+|1.04%
+|-
+!Lipata
+|1.68%
+|2,872
+|2,653
+|8.25%
+|1.68%
+|-
+!Lisondra
+|0.50%
+|858
+|882
+| -2.72%
+| -0.58%
+|-
+!Luna
+|7.73%
+|13,233
+|10,425
+|26.94%
+|5.15%
+|-
+!Mabini
+|1.37%
+|2,347
+|2,337
+|0.43%
+|0.09%
+|-
+!Mabua
+|1.97%
+|3,363
+|2,778
+|21.06%
+|4.10%
+|-
+!Manyagao
+|0.56%
+|956
+|851
+|12.34%
+|2.48%
+|-
+!Mapawa
+|0.74%
+|1,270
+|1,132
+|12.19%
+|2.45%
+|-
+!Mat-i
+|3.87%
+|6,617
+|5,722
+|15.64%
+|3.11%
+|-
+!Nabago
+|0.68%
+|1,167
+|1,143
+|2.10%
+|0.44%
+|-
+!Nonoc
+|0.65%
+|1,107
+|1,310
+| -15.50%
+| -3.48%
+|-
+!Orok
+|0.80%
+|1,372
+|1,114
+|23.16%
+|4.48%
+|-
+!Poctoy
+|1.16%
+|1,991
+|1,688
+|17.95%
+|3.54%
+|-
+!Punta Bilar
+|0.80%
+|1,371
+|1,079
+|27.06%
+|5.17%
+|-
+!Quezon
+|1.37%
+|2,339
+|2,229
+|4.93%
+|1.02%
+|-
+!Rizal
+|4.38%
+|7,492
+|6,659
+|12.51%
+|2.51%
+|-
+!Sabang
+|3.57%
+|6,114
+|4,705
+|29.95%
+|5.67%
+|-
+!San Isidro
+|0.37%
+|629
+|586
+|7.34%
+|1.50%
+|-
+!San Jose
+|0.79%
+|1,356
+|1,265
+|7.19%
+|1.47%
+|-
+!San Juan
+|9.68%
+|16,565
+|14,925
+|10.99%
+|2.22%
+|-
+!San Pedro
+|0.54%
+|919
+|865
+|6.24%
+|1.28%
+|-
+!San Roque
+|0.93%
+|1,596
+|1,444
+|10.53%
+|2.13%
+|-
+!Serna
+|0.99%
+|1,701
+|1,438
+|18.29%
+|3.60%
+|-
+!Sidlakan
+|0.19%
+|331
+|307
+|7.82%
+|1.60%
+|-
+!Silop
+|0.94%
+|1,602
+|1,485
+|7.88%
+|1.61%
+|-
+!Sugbay
+|0.32%
+|554
+|482
+|14.94%
+|2.97%
+|-
+!Sukailang
+|0.82%
+|1,396
+|1,386
+|0.72%
+|0.15%
+|-
+!Taft
+|11.25%
+|19,242
+|18,571
+|3.61%
+|0.75%
+|-
+!Talisay
+|0.68%
+|1,166
+|1,403
+| -16.89%
+| -3.82%
+|-
+!Togbongon
+|1.32%
+|2,257
+|2,105
+|7.22%
+|1.48%
+|-
+!Trinidad
+|1.59%
+|2,726
+|2,587
+|5.37%
+|1.11%
+|-
+!Washington
+|11.29%
+|19,319
+|18,900
+|2.22%
+|0.46%
+|-
+!Zaragoza
+|0.35%
+|591
+|475
+|24.42%
+|4.71%
+|-
+! colspan="2" |Surigao City Total
+|171,107
+|154,137
+|11.01%
+|2.22%
+|}
+
+===Language===
+{{Main|Surigaonon language}}
+[[Surigaonon language|Surigaonon]], the official language in the city and province, is unique among the [[Visayan languages]]. It is also spoken by the majority of the population in the province of Surigao del Sur and around Lake Mainit in Agusan del Norte. Similarities with the [[Cebuano language]] are undeniable, however, staunch Cebuano speakers can hardly understand people who speak Surigaonon. There is no doubt Surigaonon existed as pure and distinct, slowly pelted over time by Visayan words as migrants settled in the area. Today, Surigaonon is the most widely spoken language inherent in the eastern Caraga region.
+
+Surigaonon has similar consonant and vowel sounds, stress, intonation patterns to the Cebuano language and [[Boholano language|Boholano]] dialect. Surigaonon underwent certain morphophonemic processes, such as assimilation, deletion, alternation and metathesis (Dumanig, 2005). In the study conducted by Dumanig (2005) on Descriptive Analysis of Surigaonon language it was found that there are 18 consonants (b,d,g,h,j,k,l,m,n,ng,p,r,s,t,w,y,o,?) with 18 sounds and 3 vowels (a,i,u) with 5 sounds. It has also 25 consonant clusters (br, bl, bw, by, dr, dy, dw, gr, gw, kr, kl, kw, mw, my, nw, pr, pl, pw, py, sw, sy, tr, tw, ty, hw) and 4 diphthongs (aw, ay, iw, uy), which are similar to the Cebuano language (Rubrico, 1999). There are Surigaonon words that are spelled similarly but they differ in meaning depending on how each syllable is stressed (Dumanig, 2005). Surigaonon language follows two intonation patterns like the rising and falling intonation. The rising intonation is common in asking yes or no questions and the falling intonation occurs in ending declarative and imperative statements (Dumanig, 2005)[https://web.archive.org/web/20110202144041/http://lingweb.eva.mpg.de/jakarta/seals/Dumanig_SEALS_XVI_Abstract.pdf]
+
+==Economy==
+
+Surigao City underwent rapid economic growth that spanned nearly two decades beginning in the late 1960s. Pacific Cement (PACEMCO) started commercial operations manufacturing Portland cement and the Canadian-owned company Marinduque Mining and Industrial Corporation (MMIC) also started extracting nickel and iron ore in Nonoc Island. This was a boon to the city as it generated commerce to meet increasing demand for goods and services. Towards the late 1970s, Surigao attained first class status. The rest of the province also saw increased mining operations, primarily extracting gold and copper. The city became the nexus of mining activity in the entire [[Northern Mindanao]] (Region X), at the time among Philippines' largest regions encompassing nearly half of Mindanao Island. Philippines' Bureau of Mines and Geosciences moved its regional headquarters in the city at Km. 1. 
+{{PH poverty incidence}}
+
+In 1983, MMIC ceased commercial operations due to financial losses and heavy debt as a result of plummeting prices of nickel and high operating costs. Copra prices similarly fell and made copra processing unsustainable for the Surigao Coconut Development Corp. (SUCODECO) plant to stay open in Lipata. As though the closure of these two plants was not enough, typhoon ''Nitang'' (internationally codename [[Typhoon Ike]]) further damaged the economy, destroying seventy percent of the buildings and infrastructure when it struck Surigao in 1984. It took almost a decade for the city's economy to recover fully, as it relied on basic services, small-scale industries, agriculture and fishing.
+
+At the turn of the 21st century, the city saw improvement of its key macroeconomic indicators, partly benefiting from the booming tourism in the province, primarily in Siargao, and the prospect of new large-scale mining investments in Claver.
+
+===Agriculture and Fishing===
+The city's primary agricultural produce includes rice, corn, vegetables, rootcrops, coconut, copra and bananas. It is a major supplier of fish and crustaceans; its exports reach buyers as far as [[Hong Kong]], [[Japan]] and [[China]]. An integrated fishport is planned which includes functional facilities such as fish market, gear and commercial shops, administration building and fish container storage facilities.
+
+===Banking===
+As of 2022, multinational and national banks such as [[Asia United Bank]], [[Banco de Oro]] (BDO), [[Bank of the Philippine Islands]] (BPI), [[Chinabank]], [[Development Bank of the Philippines]] (DBP), [[EastWest Bank]], [[Land Bank of the Philippines]] (formerly [[United Coconut Planters Bank|UCPB]]), [[Metrobank (Philippines)|Metrobank]], [[Philippine National Bank]] (PNB), [[Rizal Commercial Banking Corporation]] (RCBC) and [[Security Bank]], among other banks, maintain branches in the city. There are 47 finance cooperatives, 52 pawnshops and 51 money changers/foreign exchange dealers, remittance centers, microfinancing institutions and savings and loans associations that maintain business offices in the city.
+
+===Mining===
+In 2012, [[San Miguel Corporation]] won the rights to rehabilitate and operate the nickel mine in Nonoc Island for US$3 billion. The once bustling island, approximately 8 nautical miles from the city, has been identified as a special economic zone (Ecozone) by the national government, covering a 590- hectare area, to make use of existing island infrastructure, including a 1300-meter concrete airstrip and two 60,000 [[Deadweight tonnage|DWT]] seaport [https://dtisdn.tripod.com/nonoc.htm]. The mining operations has been mothballed since 1986 due to the slumping prices of nickel at that time.
+[[File:Surigao Mining Map.jpg|thumb|Surigao Mining Map 2011]]
+
+Pacific Cement (PACEMCO), the only cement plant in the Caraga region, and now managed by San Miguel Corporation, is expected to resume mining operations in the city since it shutdown in 2014.
+
+The entry of major international mining company [[Sumitomo]] with $1.3 billion investment in the province sparked renewed interest of its vast mineral reserves and has helped spur economic growth in the city. Other mining companies like Philex Mining Corporation, Mindoro Resources Ltd. and Anglo Ashanti are in various stages of exploration.
+
+Since late 1960's, the city has been the de facto regional mining capital of the then Northern Mindanao region due to the massive mining investments in the province. Today, it is home to offices of various mining companies and the headquarters of the Bureau of Mines and Geosciences of Caraga region.
+
+===Retail===
+[[File:Gaisano Capital Surigao.jpg|thumb|Gaisano Capital Surigao]]
+During the last two decades, Surigao's retail activity expanded beyond its historical core near Luneta Park, transforming residential areas into newly built low rises. This rapid growth contributed to high cost of property rentals and limited space for expansion downtown. A new uptown shopping district is growing in Barangay Luna, spurred by the expansion of St. Paul University. [[Gaisano Capital]] Surigao Mall opened in December 2011, and ParkWay Mall opened during the last quarter of 2012. After years of stalled construction, 
+[[CityMall (Philippines)|CityMall]] opened in July 2023.
+
+===Tourism===
+Tourism figures showed 312,000 tourist arrivals in the city in 2019, registering a 27% growth. [http://www.surigaocity.gov.ph/]
+Newly built hotels and lodging facilities increased the city's guest rooms, with larger hotels now capable of hosting national and regional conventions.
+
+====Important city dates====
+
+*'''August 25–31''': '''Charter Day Celebrations''' – Weeklong festivities marked by a sportsfest, grand parade, evening gala affairs and the crowning of ''Mutya ng Surigao'' in commemoration of the city's founding (charter) on August 31, 1970.
+*'''September 9''': '''Bonok-Bonok Maradjao Karadjao Festival''' – A day-long street dancing and festivities featuring the ethnic Mamanwa tribal dance, ''Bonok-bonok'' commemorating thanksgiving after a bountiful harvest, worship of gods and tribal weddings. Dance contingents from around the country showcase creative costumes, floats, dances and chants of ''Viva Señor San Nicolas!'' and ''Viva Maradjao Karajao!''. The dance rhythm starts with a slow beat as it pulsatingly goes faster, prompting snappy body movements to pace with the music. Colorful ceremonial costumes includes an elaborate beaded headdress or ''tubaw'', bracelets and anklets. Prices are awarded to outstanding contingents in various categories at the culmination of the event held at the Surigao Provincial Sports Complex. The festival is held on the eve of the city's annual fiesta.
+*'''September 10''': Surigao City fiesta.
+*'''October 25''': '''Battle Of Surigao Strait''' – Held every October 25, in commemoration of the last great battleship vs. battleship naval battle of [[World War II]], highlighted by a pre-dawn memorial service, civil-military parade, and a memorial cruise along the Surigao Strait. Commemorating veterans, diplomats, consuls, and active naval personnel from the US, Australia, and Japan have been gracing the event over the past quarter century. 
+*'''December 26''': '''Commemoration of the First Hoisting of Philippine Flag in Mindanao''' – The [[Flag of the Philippines|Philippine flag]] in Mindanao was first raised in Surigao in the morning of December 26, 1898, at the Casa Real (town hall). The event was recorded in the diary of Fr. Alberto Masoliver, now kept in the [[Jesuit]] Archives in [[Spain]]. [http://www.nhi.gov.ph/index2.php?option=com_content&do_pdf=1&id=98]
+
+==Government==
+[http://www.surigaocity.gov.ph Surigao City] is governed via the mayor-council system. The city council, nationally called ''Sangguniang Panlungsod'', consists of the vice mayor and 12 council members. The mayor is elected directly every three years.
+
+===List of former and current city mayors===
+
+{| class="wikitable sortable mw-collapsible"
+!Term
+!Name
+!Notes
+|-
+| 1970–1976
+| Pedro R. Espina<ref>{{Cite web|last=RPN|date=September 1, 2020|title=Pedro R. Espina, The First Mayor Of Surigao City|url=https://rpnradio.com/pedro-r-espina-the-first-mayor-of-surigao-city/|access-date=September 4, 2021|website=Radio Philippines Network (RPN)|language=en-US}}</ref>
+|Served as mayor of the Municipality of Surigao from 1963 to 1970, and on August 31, 1970, he was elected as the First Mayor of Surigao City. Died in 19--?
+|-
+| 1976–1986
+|Constantino Herrera Navarro Jr.<ref>{{Cite web|last=RPN|date=September 1, 2020|title=Constantino Herrera Navarro Jr., Second Mayor Of Surigao City (1976-1986)|url=https://rpnradio.com/constantino-herrera-navarro-jr-second-mayor-of-surigao-city-1976-1986/|access-date=September 4, 2021|website=Radio Philippines Network (RPN)|language=en-US}}</ref>
+|Appointed as City Mayor in 1976 and elected as City Mayor in the [[1980 Philippine local elections|1980 Philippine Local Elections]]. He was replaced after the [[EDSA Revolution]]. Died in 2014.
+|-
+| 1986–1987
+| Enrique Y. Tandan<ref>{{Cite web|last=RPN|date=September 1, 2020|title=Atty. Enrique Y. Tandan, Third Mayor Of Surigao City (1986-1987)|url=https://rpnradio.com/atty-enrique-y-tandan-third-mayor-of-surigao-city-1986-1987/|access-date=September 4, 2021|website=Radio Philippines Network (RPN)|language=en-US}}</ref>
+|Appointed as acting Mayor after the EDSA Revolution in 1986. Died in 2010.
+|-
+| 1988–1998
+| Salvador C. Sering<ref>{{Cite web|last=RPN|date=September 1, 2020|title=Atty. Salvador C. Sering, Fourth Mayor Of Surigao City (1988-1998)|url=https://rpnradio.com/atty-salvador-c-sering-fourth-mayor-of-surigao-city-1988-1998/|access-date=September 4, 2021|website=Radio Philippines Network (RPN)|language=en-US}}</ref>
+| Elected in 1988
+|-
+| 1998–1999
+|Roland Arreza Sering<ref>{{Cite web|last=RPN|date=September 1, 2020|title=Roland Arreza Sering, Fifth Mayor Of Surigao City (1998-1999)|url=https://rpnradio.com/roland-arreza-sering-fifth-mayor-of-surigao-city-1998-1999/|access-date=September 4, 2021|website=Radio Philippines Network (RPN)|language=en-US}}</ref>
+|Died in office.
+|-
+| 1999–2010
+| Alfonso Servaña Casurra<ref>{{Cite web|last=RPN|date=September 1, 2020|title=Atty. Alfonso Servaña Casurra, Sixth Mayor Of Surigao City (1999-2010)|url=https://rpnradio.com/atty-alfonso-servana-casurra-sixth-mayor-of-surigao-city-1999-2010/|access-date=September 4, 2021|website=Radio Philippines Network (RPN)|language=en-US}}</ref>
+|Succeeded after the death of Roland Arreza Sering. Then elected to office.
+|-
+| 2010–2019
+| Ernesto Tinio Matugas<ref>{{Cite web|last=RPN|date=September 1, 2020|title=Engr. Ernesto Tinio Matugas, Seventh Mayor Of Surigao City (2010-2019)|url=https://rpnradio.com/engr-ernesto-tinio-matugas-seventh-mayor-of-surigao-city-2010-2019/|access-date=September 4, 2021|website=Radio Philippines Network (RPN)|language=en-US}}</ref>
+| Term Ended in 2019 and ran as Vice Mayor to his son Estong who ran for City Mayor
+|-
+| 2019–2022
+| Ernesto "Estong" U. Matugas Jr.
+| Shortest term among elected city mayors (who did not die in office) 
+|-
+| 2022–
+| Paul Dumlao
+| Elected May 11, 2022
+|-
+|}
+
+=== List of current barangay captains ===
+[https://dilg.gov.ph/barangay-officials-directory/search Surigao City Barangay Captains (2024)]
+
+{{Div col|colwidth=22em}}
+{| class="wikitable
+!Barangay
+!Barangay Captains
+|-
+|'''Alang-Alang'''
+|''Jimmy Tubo''
+|-
+|'''Alegria'''
+|''Leo B. Escopete''
+|-
+|'''Anomar'''
+|''Abdulvic U. Contemplo''
+|-
+|'''Aurora'''
+|''Nilda A. Moreno''
+|-
+|'''Balibayon'''
+|''Judith S. Escañan''
+|-
+|'''Baybay'''
+|''Maximo B. Lanzaderas''
+|-
+|'''Bilabid'''
+|''Belly B. Erazo''
+|-
+|'''Bitaugan'''
+|''Jovelyn F. Alsong''
+|-
+|'''Bonifacio'''
+|''Daisy S. Roda''
+|-
+|'''Buenavista'''
+|''Raul D. Casanova''
+|-
+|'''Cabongbongan'''
+|''Evelyn M. Torejas''
+|-
+|'''Cagniog'''
+|''Romelo B. Ortiz''
+|-
+|'''Cagustan'''
+|''Juvy T. Dumay''
+|-
+|'''Canlanipa'''
+|''Joel A. Cambalon''
+|-
+|'''Cantiasay'''
+|''Noel Y. Detuya''
+|-
+|'''Capalayan''' 
+|''Dante T. Fernandez''
+|-
+|'''Catadman'''
+|''Rogelio L. Bido''
+|-
+|'''Danao'''
+|''Alex G. Palen''
+|-
+|'''Danawan'''
+|''Comendador O. Flory''
+|-
+|'''Day-asan'''
+|''Ruben B. Catarman''
+|-
+|'''Ipil'''
+|''Jose Giovanni B. Penados''
+|-
+|'''Libuac'''
+|''Laurose D. Saavedra''
+|-
+|'''Lipata'''
+|''Loel Joy O. Mesias''
+|-
+|'''Lisondra'''
+|''Tomasito A. Suazo''
+|-
+|'''Luna'''
+|''Rico A. Nagas''
+|-
+|'''Mabini'''
+|''Ernesto S. Perejan''
+|-
+|'''Mabua'''
+|''Leo G. Palero''
+|-
+|'''Manjagao'''
+|''Ritchel C. Junio''
+|-
+|'''Mapawa'''
+|''Joselito C. Bag-ao''
+|-
+|'''Mat-i'''
+|''Reynaldo C. Olvis''
+|-
+|'''Nabago'''
+|''Alberto D. Aba-a''
+|-
+|'''Nonoc'''
+|''Andres B. Lerio''
+|-
+|'''Orok'''
+|''Raul P. Sanglitan''
+|-
+|'''Poctoy'''
+|''Josephine E. Patan''
+|-
+|'''Punta Bilar'''
+|''Arturo Y. Santillana Jr.''
+|-
+|'''Quezon'''
+|''Elmo L.Tuisa''
+|-
+|'''Rizal'''
+|''Severo A. Del Rosario Jr.''
+|-
+|'''Sabang'''
+|''Evie S. Igbalic''
+|-
+|'''San Isidro'''
+|''Manuel G. Bagsic''
+|-
+|'''San Jose'''
+|''Isaias C. Babatugon Sr.''
+|-
+|'''San Juan'''
+|''Susan G. Galinea''
+|-
+|'''San Pedro'''
+|''Edgardo A. Gulfo''
+|-
+|'''San Roque'''
+|''Jessie D. Laid''
+|-
+|'''Serna''' 
+|''Florenillo B. Ravelo''
+|-
+|'''Sidlakan'''
+|''Joemar P. Diaz''
+|-
+|'''Silop'''
+|''Florencio M. Lacabra''
+|-
+|'''Sugbay'''
+|''Alexander P. Cabasa''
+|-
+|'''Sukailang'''
+|''Renato G. Cabajes''
+|-
+|'''Taft'''
+|''Pablo A. Bonono Jr.''
+|-
+|'''Talisay'''
+|''Vincent L. Ramiso''
+|-
+|'''Togbongon'''
+|''Luther B. Elumba''
+|-
+|'''Trinidad'''
+|''Danilo P. Reyes''
+|-
+|'''Washington'''
+|''Isidro C. Carbonilla''
+|-
+|'''Zaragosa''' 
+|''Dale J. Gealogo''
+|}
+{{div col end}}
+
+==Infrastructure==
+{{multiple image|caption_align=center|header_align=center
+ | width = 200
+ | image1 = SURIGAO PROVINCIAL SPORTS COMPLEX - STADIUM GRANDSTAND FRONT VIEW.jpg
+ | alt1 = 
+ | image2 = SURIGAO PROVINCIAL SPORTS COMPLEX - GYMNASIUM.jpg
+ | alt2 = 
+ | footer = Surigao Provincial Sports Complex
+}}
+
+'''Surigao Provincial Sports Complex''' 
+Host to numerous national and regional events, the complex underwent renovation in 2009 at a cost of ₱320 million. It is situated on the 2-hectare Vasquez field and includes a 3,500-person capacity grandstand, a fully air conditioned 3,500 [[seating capacity]] gymnasium, a brand new amphitheater, an Olympic-size swimming pool (renovated in 2020) and a fully rubberized track and field oval. Surigao Provincial Convention Center, also part of the complex, has a seating capacity of approximately 2,500 people.<ref name=SurigaoSportsComplex2009>{{cite news |title=Modern sports complex re-opens in Surigao|url=https://news.abs-cbn.com/sports/09/02/09/modern-sports-complex-re-opens-surigao|work=ABS-CBN News|access-date=January 17, 2020}}</ref>
+
+'''Waste Management Facility'''
+Averaging a 21-ton daily collected garbage, the local government of Surigao built a sanitary landfill in Sitio Looc in 2009 under a ₱150 million grant from the Swedish government and assistance from the [[Land Bank of the Philippines]]. It is considered a model for solid waste management which includes a ₱P45 million-worth waste treatment facility, a material recovery facility which treats recyclables and a leachate collector, which extracts and treats liquids from garbage.
+
+===Transportation===
+Motorized tricycles, an indigenous form of auto- rickshaw that can accommodate about six passengers, is mainly the mode of transport in the city. Buses and jeepneys follow fixed routes to outlying barangays, towns and neighboring provinces. The city is also served by outrigger water taxis called [[pump boat]]s that follow scheduled sea routes to island ''barangays''. Larger vessels called ''Lantsa'' have scheduled trips to Siargao, Dinagat and Bucas Grande. Regular ferry service connects the city to ports in Southern Leyte, Cebu, Manila and [[Agusan del Norte]]. There are direct flights to Manila and Cebu originating from the city's airport with occasional chartered flights to Siargao, Butuan and Tandag.
+
+The city is the northernmost terminus of the Pan-Philippine Highway (AH26) in Mindanao. Buses from its integrated Land Transport Terminal provide direct trips to [[Ormoc]], [[Tacloban]], [[Legazpi, Albay|Legazpi]], [[Manila]], [[Butuan]], [[Tandag]], [[Davao City|Davao]] and [[Bislig|Bislig (Mangagoy)]]. Among the bus companies serving this terminal includes [[Vallacar Transit Corporation|Bachelor Express]], [[Philtranco]], [[Davao Metro Shuttle]], PP Bus Line and Surigao Express.
+
+Completed in 2007, the San Juan-Lipata Coastal Road connects the Port of Lipata to downtown Surigao, cutting travel time in half. It includes a series of bridges across barangays San Juan and Sabang, including Banahaw bridge, which spans the Surigao tidal basin.
+
+A new diversion road, connecting Sabang to National Highway AH26, will help decongest the main access to the city once completed, although it remained unfinished indefinitely.
+
+===Ports===
+[[File:RV Petrel arrives in Surigao City on October 24, 2017.jpg|thumb|Port of Surigao City]]
+The Surigao City Port completed a ₱414 million expansion and upgrade in 2009 to increase its handling capacity and meet increased cargo demand, mainly from its mineral exports [http://www.ppa.com.ph/]. Additional 2000 square meters of reclaimed area and 120 meters of berthing space were added. The port ranks as a major transshipment point in the region.
+
+Lipata Port and Ferry Terminal serves as the entry point to Mindanao Island forming part of the extensive [[Pan-Philippine Highway]] (also called Maharlika Highway AH26) that originates from [[Laoag]] to its southern terminus in [[Zamboanga City]]. The port has regular [[Roll-on/roll-off|ro-ro]] services to the ports of [[Liloan, Southern Leyte|Liloan]] and [[San Ricardo, Southern Leyte|San Ricardo]], both in Southern Leyte. New port expansion is expected to complete in 2023 and will double its size.
+
+===Airport===
+[[File:Surigao Airport Mindanao Philippines.jpg|thumbnail|right|Surigao Airport]]
+{{main|Surigao Airport}}
+Classified by the [[Civil Aviation Authority of the Philippines]] as a principal domestic airport, [[Surigao Airport]] (SUG) is one of the two airports that serve the province of Surigao del Norte and northern parts of Surigao del Sur and Agusan del Norte. [[Cebgo]] and [[Airphil Express]] have regular scheduled flights from Surigao to [[Manila]] and [[Cebu City|Cebu]]. Small private planes operate chartered flights to Siargao's [[Sayak Airport]]. Due to increased passenger traffic and cargo, it is undergoing feasibility studies for future expansion to accommodate larger aircraft.
+
+===Telecommunications===
+New facilities built by leading telecommunication companies paved way for clear reception to other parts of the country and the rest of the world. [[PLDT]] (formerly PhilCom), [[Bayan Telecommunications|Bayantel]], [[Sun Cellular]], [[Globe Telecom]] and [[Smart Communications]] (including formerly Cruztelco) operate cell towers in the city.
+
+===Healthcare===
+On February 11, 1997, the [[Congress of the Philippines]] enacted Republic Act 8244 converting Surigao Provincial Hospital into a regional training hospital and renamed it [[Caraga Regional Hospital]][http://www.doh.gov.ph/crhweb/index0c51.html?option=com_frontpage&Itemid=1], effectively expanding its scope and services that would include the entire Caraga region with a catchment population of over 2 million people. Today, this 150- bed tertiary hospital, a core referral facility, is rapidly expanding with intensive care units that includes Coronary, Pediatric, Surgical and Burn.
+
+In October 2010, the city opened a ₱35 million Drug Rehabilitation and Treatment Center in Anomar. Established under the aegis of the Department of Health, it is the first and only facility in the entire Caraga region solely focused on the treatment and rehabilitation of victims of substance abuse.
+
+Other hospitals in the city include St. Paul University Hospital, Miranda Family Hospital, Surigao Medical Center, and Surigao Doctors' Hospital.
+
+==Education==
+Surigao traces its roots to formal schooling in the year 1906 when the last group of Spanish Benedictine Missionaries, who had worked zealously to have founded the Cartilla or Doctrina School (Escuela Catolica de San Nicolas), vacated Surigao. Soon after their departure, the Missionaries of the Sacred Heart also known as the Dutch Fathers, succeeded them, created the parish of Surigao, and made the Escuela Catolica de San Nicolas a parochial school which later became San Nicolas College. In 2002, Surigao became the first urban center in the entire Caraga region to host a university after San Nicolas College changed its nomenclature in 2004 to [[Saint Paul University Surigao]][http://www.spusedu.com], a part of Saint Paul University System.
+
+In 1969, Surigao del Norte School of Arts and Trades was established on 1.2 hectares of land donated by the provincial government. It focused on curricula geared towards technology at a time the city saw rapid transformation with the onset of nickel exploration at the Nonoc island refinery. While the school was built, it initially held classes at the Provincial Sports Complex with a core census of 14 teachers and 103 students. In 1998, the school was renamed Surigao State College of Technology after it merged with Malimono School of Fisheries. On June 4, 2013, [[Surigao del Norte State University]] [http://ssct.edu.ph/] was established under Rep. Act 10600, integrating Surigao del Norte State College of Technology with Siargao National College of Science and Technology in Del Carmen and the Surigao del Norte College of Agriculture and Technology in Mainit.
+
+[[File:Surigao City.JPG|thumbnail|NEMCO in 2010]]
+[[San Sebastian College - Recoletos]] College of Law - Surigao City Extension located in Taft opened in 1997. Other colleges in the city include Surigao Education Center, [[St. Jude Thaddeus Institute of Technology]], [[STI College]] Surigao (with 3 campuses), Northeastern Mindanao Colleges (NEMCO), St Ignatius Loyola Computer College, and the newly established Surigao Doctors' College (formerly the Center for Healthcare Professions - Surigao).
+In 1996, [[Caraga Regional Science High School]] was established in San Juan, providing students in the entire region an opportunity to join an academe of reputable standards, now nationally recognized. Students undergo a rigorous highly accelerated 4- level curriculum which includes two years of general studies and two years of a chosen major. With much success as it garnered consistent topnotchers in the National Secondary Achievement Test (NSAT), students also have opportunities to carry out independent research and compete in Intel Science Fairs.
+
+==Media==
+===AM Stations===
+*[[DXRS-AM|DXRS RMN 918]] ([[Radio Mindanao Network]])
+*[[DXSN-AM|DXSN 1017 Radyo Magbalantay]] ([[Catholic Media Network]])
+*[[DXKS-AM|DXKS 1080 RPN Radyo Ronda]] ([[Radio Philippines Network]])
+
+===FM Stations===
+*89.3 FMR Bagtik Radio ([[Philippine Collective Media Corporation]])
+*93.3 Infinite Radio ([[St. Jude Thaddeus Institute of Technology]])
+*94.1 iFM ([[Radio Mindanao Network]])
+*[[DXYL|94.9 Joy FM]] ([[Iddes Broadcast Group]])
+*[[DXSP|96.1 One FM]] ([[Radio Corporation of the Philippines]])
+*97.3 Juander Radyo ([[Rizal Memorial Colleges Broadcasting Corporation]]/RSV Broadcasting Network, Inc.)
+*98.1 Spirit FM ([[Catholic Media Network]])
+*100.5 DXAF Radyo Alternatibo ([[Prime Broadcasting Network]])
+*105.5 Brigada News FM ([[Brigada Mass Media Corporation]])
+*[[DXMS-FM|107.3 DXMS FM]] ([[Subic Broadcasting Corporation]])
+
+===TV Stations===
+*[[GMA Network|GMA]] Channel 10 Surigao - one of [[GMA Davao]]'s 14 relay stations across Mindanao
+*[[ABS-CBN]] Channel 12 Surigao (Defunct) - affiliated by SJTIT
+*[[TV5 (Philippine TV network)|TV5]] Channel 19 Surigao (Soon)
+*[[ABS-CBN Sports and Action|S+A]] Channel 23 Surigao (Defunct)
+*[[GTV (Philippine TV network)|GTV]] Channel 27 Surigao
+*[[Golden Nation Network|GNN]] Channel 39 Surigao
+*[[UNTV (Philippines)|UNTV]] Channel 43 Surigao
+
+===Cable Providers===
+*Surigao Cable TV Network
+*LTCOM Cable TV
+*[[Cignal TV]]
+*[[G Sat]]
+
+==Sister cities==
+===Local===
+*{{flagicon|PHI}} [[Cagayan de Oro]]
+
+===International===
+*{{flagicon|USA}} [[Hialeah, Florida|Hialeah]], [[Florida]], United States
+*{{flagicon|KOR}} [[Seoul]], [[South Korea]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Wikivoyage}}
+{{Commons category}}
+* {{official website|http://www.surigaocity.gov.ph}}
+* [https://cmci.dti.gov.ph/lgu-profile.php?lgu=Surigao   Surigao Profile at the DTI Cities and Municipalities Competitive Index]
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20131004104825/http://census.gov.ph/ Philippine Census Information]
+* [http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=16&frmIdProvince=85&frmIdLgu=1581 Local Governance Performance Management System] {{Webarchive|url=https://web.archive.org/web/20120425054403/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=16&frmIdProvince=85&frmIdLgu=1581 |date=April 25, 2012 }}
+
+{{Geographic location
+|Centre    = Surigao City
+|North     = [[Basilisa|Basilisa, Dinagat Islands]] / [[Dinagat, Dinagat Islands]]<br/>''Awasan Bay'' <!-- deliberate redirects to show neighboring province -->
+|Northeast = [[Cagdianao|Cagdianao, Dinagat Islands]]
+|East      = ''[[Dinagat Sound]]''
+|Southeast = ''Hinatuan Passage''
+|South     = [[Sison, Surigao del Norte|Sison]] / [[Tagana-an]]
+|West      = [[San Francisco, Surigao del Norte|San Francisco]]
+|Northwest = ''[[Surigao Strait]]''
+}}
+{{Navboxes
+|title = Articles Related to Surigao
+|list  =
+{{Surigao del Norte}}
+{{Caraga}}
+{{Philippine cities}}
+{{Philippine Provincial Capitals}}
+{{Largest cities and municipalities in Mindanao}}
+}}
+
+{{Authority control}}
+
+[[Category:Surigao City| ]]
+[[Category:Cities in Caraga]]
+[[Category:Provincial capitals of the Philippines]]
+[[Category:Populated places in Surigao del Norte]]
+[[Category:Port cities and towns in the Philippines]]
+[[Category:Populated places established in 1655]]
+[[Category:1655 establishments in the Philippines]]
+[[Category:Mining communities in the Philippines]]
+[[Category:Component cities in the Philippines]]

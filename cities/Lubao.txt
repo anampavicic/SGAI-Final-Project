@@ -1,0 +1,519 @@
+{{Short description|Municipality in Pampanga, Philippines}}
+{{Other places}}
+{{Distinguish|Cubao (disambiguation){{!}}Cubao|Lubang (disambiguation){{!}}Lubang|Lupao}}
+{{More citations needed|date=August 2021}}
+{{Use Philippine English|date=February 2023}}
+{{Use mdy dates|date=February 2023}}
+{{Infobox settlement
+| name               = {{PH wikidata|name}}
+| image_skyline      = Alubaochurchajf.JPG
+| image_caption      = San Agustin Church Compound
+| image_flag         = Flag_of_Lubao,_Pampanga.png
+| flag_size          = 120x80px
+| image_seal         = Lubao Pampanga.svg
+| seal_size          = 100x80px
+| image_map          = {{PH wikidata|image_map}}
+| map_caption        = {{PH wikidata|map_caption}}
+| image_map1         = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map        = Philippines
+| pushpin_label_position = left
+| pushpin_map_caption = Location within the {{PH wikidata|country}}
+| coordinates        = {{PH wikidata|coordinates}}
+| settlement_type    = {{PH wikidata|settlement_type}}
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = [[Philippines]]
+| subdivision_type1  = [[Regions of the Philippines|Region]]
+| subdivision_name1  = {{PH wikidata|region}}
+| subdivision_type2  = [[Provinces of the Philippines|Province]]
+| subdivision_name2  = {{PH wikidata|province}}
+| official_name      = {{PH wikidata|official_name}}
+| etymology          = <!--origin of name-->
+| named_for          = <!--named after (if person or place)-->
+| native_name        = 
+| other_name         = 
+| nickname           = ''Balen Baba''
+| motto              = 
+| anthem             = 
+| subdivision_type3  = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3  = {{PH legislative district}}
+| established_title  = [[Date of establishment|Founded]]
+| established_date   = May 5, 1572
+| parts_type         = [[Barangay]]s
+| parts_style        = para
+| p1                 = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title       = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name        = Esmeralda G. Pineda
+| leader_title1      = [[Vice Mayor]]
+| leader_name1       = Jay B. Montemayor
+| leader_title2      = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2       = [[Gloria Macapagal Arroyo|Gloria Macapagal-Arroyo]]
+| leader_title3      = [[Sangguniang Bayan|Municipal Council]]
+| leader_name3       = {{PH Town Council
+| 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Darwin D. Lingad
+ | 3=Edgar A. Dabu
+ | 4=Elmer N. Malit
+ | 5=Salvador B. Dimson Jr.
+ | 6=Corinthian P. De Leon
+ | 7=Richard M. Diaz
+ | 8=Nennette M. Morales-Padua
+ | 9=Romeo B. Torno
+}}
+| leader_title4      = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4       = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type    = {{PH wikidata|government_type}}
+| government_footnotes = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m        = {{PH wikidata|elevation_m}}
+| elevation_max_m    = 53
+| elevation_min_m    = -6
+| elevation_max_rank = 
+| elevation_min_rank = 
+| elevation_footnotes = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes = 
+| elevation_min_footnotes = 
+| area_rank          = 
+| area_footnotes     = {{PH area}}
+| area_total_km2     = {{PH wikidata|area}}
+| population_footnotes = {{PH census|current}}
+| population_total   = {{PH wikidata|population_total}}
+| population_as_of   = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title = [[Household]]s
+| population_blank1  = {{PH wikidata|household}}
+| population_blank2_title = 
+| population_blank2  = 
+| population_demonym = 
+| population_rank    = 
+| population_note    = 
+| timezone           = [[Philippine Standard Time|PST]]
+| utc_offset         = +8
+| postal_code_type   = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code        = {{PH wikidata|postal_code}}, 2025 (Santa Cruz)
+| postal2_code_type  = {{PSGCstyle}}
+| postal2_code       = {{PSGC detail}}
+| area_code_type     = {{areacodestyle}}
+| area_code          = {{PH wikidata|area_code}}
+| website            = {{PH wikidata|website}}
+| demographics_type1 = [[Economy of the Philippines|Economy]]
+| demographics1_title1 = {{PH wikidata|income_class_title}}
+| demographics1_info1 = {{PH wikidata|income_class}}
+| demographics1_title2 = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2 = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3 = [[Revenue]]
+| demographics1_info3 = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4 = Revenue rank
+| demographics1_info4 = 
+| demographics1_title5 = [[Asset]]s
+| demographics1_info5 = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6 = Assets rank
+| demographics1_info6 = 
+| demographics1_title7 = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7 = 
+| demographics1_title8 = IRA rank
+| demographics1_info8 = 
+| demographics1_title9 = [[Expenditure]]
+| demographics1_info9 = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10 = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10 = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2 = Service provider
+| demographics2_title1 = Electricity
+| demographics2_info1 = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2 = Water
+| demographics2_info2 = 
+| demographics2_title3 = Telecommunications
+| demographics2_info3 = 
+| demographics2_title4 = Cable TV
+| demographics2_info4 = 
+| demographics2_title5 = 
+| demographics2_info5 = 
+| demographics2_title6 = 
+| demographics2_info6 = 
+| demographics2_title7 = 
+| demographics2_info7 = 
+| demographics2_title8 = 
+| demographics2_info8 = 
+| demographics2_title9 = 
+| demographics2_info9 = 
+| demographics2_title10 = 
+| demographics2_info10 = 
+| blank_name_sec1    = {{PH wikidata|climate_title}}
+| blank_info_sec1    = {{PH wikidata|climate_type}}
+| blank1_name_sec1   = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1   = {{PH wikidata|language}}
+| blank2_name_sec1   = [[Crime index]]
+| blank2_info_sec1   = 
+| blank3_name_sec1   = 
+| blank3_info_sec1   = 
+| blank4_name_sec1   = 
+| blank4_info_sec1   = 
+| blank5_name_sec1   = 
+| blank5_info_sec1   = 
+| blank6_name_sec1   = 
+| blank6_info_sec1   = 
+| blank7_name_sec1   = 
+| blank7_info_sec1   = 
+| blank1_name_sec2   = Major religions
+| blank1_info_sec2   = 
+| blank2_name_sec2   = Feast date
+| blank2_info_sec2   = 
+| blank3_name_sec2   = Catholic diocese
+| blank3_info_sec2   = 
+| blank4_name_sec2   = Patron saint
+| blank4_info_sec2   = 
+| blank5_name_sec2   = 
+| blank5_info_sec2   = 
+| blank6_name_sec2   = 
+| blank6_info_sec2   = 
+| blank7_name_sec2   = 
+| blank7_info_sec2   = 
+| short_description  = 
+| footnotes          = 
+}}
+
+'''Lubao''', officially the '''Municipality of Lubao''' ({{langx|pam|Balen ning Lubao}}; {{langx|fil|Bayan ng Lubao}}), is a 1st class [[municipality of the Philippines|municipality]] in the [[Philippine Province|province]] of [[Pampanga]], [[Philippines]]. According to the 2020 census, it has a population of 173,502 people.{{PH census|current}}
+
+It is one of the three coastal towns in Pampanga along with [[Sasmuan]] and [[Macabebe]] and it is also noted for [[rice]], [[sugar cane]], [[fish]], and [[sampaguita]].
+
+==Etymology==
+The town's name derives from the indigenous term ''lubo'' which means low or sunken, reflective of the area's muddy and flooded characteristics. Lubao is also known by its [[Kapampangan language]] equivalent '''Baba'''.
+
+==Geography==
+Located in the south-western part of [[Pampanga]], Lubao is bounded by the municipalities of [[Sasmuan, Pampanga|Sasmuan]] on the east, [[Guagua, Pampanga|Guagua]] on the north-east, [[Floridablanca, Pampanga|Floridablanca]] on the north and [[Hermosa, Bataan]], on the south.
+
+Lubao is {{convert|18|km}} from [[San Fernando, Pampanga|San Fernando]], {{convert|35|km}} from [[Angeles City|Angeles]], and {{convert|84|km}} from [[Manila]].
+
+===Barangays===
+{{unsourced section|date=October 2023}}
+Lubao is politically subdivided into 44 [[barangay]]s. Each barangay consists of [[purok]]s and some have [[sitios]].
+
+Cluster 1:
+{{div col|colwidth=22em}}
+* San Isidro
+* Santiago
+* Santo Niño (Prado Saba)
+* San Roque Arbol
+* Baruya (San Rafael)
+* Lourdes (Lauc Pau)
+* Prado Siongco
+{{div col end}}
+
+Cluster 2:
+{{div col|colwidth=22em}}
+* San Jose Gumi
+* Balantacan
+* Santa Teresa 2nd
+* Bancal Sinubli
+* [[Lubao#Bancal Pugad|Bancal Pugad]]
+* Calangain
+{{div col end}}
+
+Cluster 3:
+{{div col|colwidth=22em}}
+* San Pedro Palcarangan
+* San Pedro Saug
+* San Pablo 1st
+* San Pablo 2nd
+* De La Paz
+* Santa Cruz
+{{div col end}}
+
+Cluster 4:
+{{div col|colwidth=22em}}
+* Remedios
+* Santa Maria
+* Del Carmen
+* San Agustin
+* Santa Rita
+* Santa Teresa 1st
+{{div col end}}
+
+Cluster 5:
+{{div col|colwidth=22em}}
+* Santo Tomas ([[Poblacion]])
+* San Roque Dau
+* Santo Cristo
+* San Matias
+* Don Ignacio Dimson
+* Santa Monica
+{{div col end}}
+
+Cluster 6:
+{{div col|colwidth=22em}}
+* Santo Domingo
+* San Miguel
+* Concepcion
+* San Francisco
+* San Vicente
+* San Antonio
+* San Jose Apunan
+{{div col end}}
+
+Cluster 7:
+{{div col|colwidth=22em}}
+* San Nicolas 2nd
+* San Juan ([[Poblacion]])
+* San Nicolas 1st ([[Poblacion]])
+* Santa Barbara
+* Santa Catalina
+* Santa Lucia ([[Poblacion]])
+{{div col end}}
+
+====Bancal Pugad====
+{{Infobox settlement
+| name               = Bancal Pugad
+| pushpin_map        = 
+| coordinates        = 
+| settlement_type    = [[Barangay]]
+| subdivision_type   = Country
+| subdivision_name   = {{flag|Philippines}}
+| subdivision_type1  = [[Regions of the Philippines|Region]]
+| subdivision_name1  = [[Central Luzon]]
+| subdivision_type2  = [[Provinces of the Philippines|Province]]
+| subdivision_name2  = [[Pampanga]]
+| subdivision_type3  = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3  = [[Pampanga's 2nd congressional district|2nd district]]
+| subdivision_type4  = [[Municipalities of the Philippines|Municipality]]
+| subdivision_name4  = [[Lubao]]
+}}
+
+'''Bancal Pugad''' is a barangay of the [[Lubao]], [[Pampanga]], Philippines. The population is 1,374 in 2020.
+
+In legend, Bancal Pugad was once known as "Pinak" being the birthplace of the princess Alitaptap. Bancal Pugad continues to flood due to [[climate change]].
+
+===Climate===
+{{Weather box
+| location     = Lubao, Pampanga
+| width        = Yes
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 30
+| Jan low C  = 19
+| Feb high C = 31
+| Feb low C  = 20
+| Mar high C = 33
+| Mar low C  = 21
+| Apr high C = 34
+| Apr low C  = 23
+| May high C = 33
+| May low C  = 25
+| Jun high C = 31
+| Jun low C  = 25
+| Jul high C = 29
+| Jul low C  = 25
+| Aug high C = 29
+| Aug low C  = 25
+| Sep high C = 29
+| Sep low C  = 24
+| Oct high C = 30
+| Oct low C  = 23
+| Nov high C = 31
+| Nov low C  = 22
+| Dec high C = 30
+| Dec low C  = 20
+| Jan precipitation mm = 8
+| Feb precipitation mm = 9
+| Mar precipitation mm = 15
+| Apr precipitation mm = 34
+| May precipitation mm = 138
+| Jun precipitation mm = 203
+| Jul precipitation mm = 242
+| Aug precipitation mm = 233
+| Sep precipitation mm = 201
+| Oct precipitation mm = 126
+| Nov precipitation mm = 50
+| Dec precipitation mm = 21
+| Jan rain days        = 3.7
+| Feb rain days        = 4.1
+| Mar rain days        = 6.5
+| Apr rain days        = 11.2
+| May rain days        = 21.2
+| Jun rain days        = 24.9
+| Jul rain days        = 27.7
+| Aug rain days        = 26.5
+| Sep rain days        = 25.5
+| Oct rain days        = 21.8
+| Nov rain days        = 12.6
+| Dec rain days        = 5.6
+| source 1 = Meteoblue<ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/lubao_philippines_1705440
+| title =  Lubao: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| access-date = May 5, 2020 }}</ref>
+| date = May 5, 2020
+}}
+{{clear-left}}
+
+==Demographics==
+{{Philippine Census
+| align = left
+| cols = 2
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+In the 2020 census, the population of Lubao, Pampanga, was 173,502 people,{{PH census|current}} with a density of {{convert|{{sigfig|173,502/155.77|2}}|PD/km2|disp=or}}.
+
+===Religion===
+[[File:San agustine church2,lubao,pampanga.jpg|thumb|Saint Augustine Church (oldest in Pampanga - 1572)]]
+As the first Augustinian missionary center in Central and Northern Luzon, majority of the residents in Lubao are Roman Catholics.
+
+Lubao at present has six parishes :
+* San Agustin Parish, Plaza, Lubao (oldest in Pampanga - Established 1572)
+* San Roque Dau Parish, San Roque Dau, Lubao (established Oct.1, 1990)
+* Holy Cross Parish, Santa Cruz, Lubao (established May 22, 1951)
+* San Rafael Parish, Baruya, Lubao (established August 31, 1939)
+* San Antonio de Padua Parish, San Antonio, Lubao (established November 10, 1986)
+* Conversion of St. Paul Parish, San Pablo 1st, Lubao (newly established - 2010)
+
+There are adherents of Iglesia ni Cristo wherein a chapel in Barangay Baruya was dedicated to God on November 26, 2011, with Pastoral Visitation of the present Executive Minister of the Iglesia ni Cristo Brother Eduardo V. Manalo.
+
+The Church of Jesus Christ of Latter-day Saints (Mormons) has also significant numbers of member in the town, last August 17, 2012, they celebrated their 25th Year anniversary of the Opening of the Missionary work in the said town with Cong. Juan Miguel Macapagal Arroyo as the special guest. The chapel is located at Santa Cruz, Lubao, Pampanga with 600 Members.
+
+Other religion includes [[Protestantism]] and [[Nondenominational Christianity]]. Among the Protestant churches in Lubao are the [[United Methodist Church]], [[Alliance World Fellowship|C&MA]], [[Pentecostalism|Pentecostal]], and [[Baptists|Baptist]].
+
+The [[Seventh-day Adventist Church]] that has 1,100 members is also a remarkable distinct denomination for giving community services and free livelihood seminar to the town all the year round.{{clear-left}}
+
+== Economy ==
+{{PH poverty incidence}}
+
+==Culture==
+
+===Sampaguita Festival===
+The Parish of Saint Augustine celebrated its 440th Founding Anniversary on May 5, 2012, with the launching of the 1st Sampaguita Festival; participated by the six parishes of Lubao. Parish of St. Augustine de Hippo bagged the Over-All Champion trophy.
+
+2nd Sampaguita Festival was held on May 5, 2013, participated by the 10 secondary public schools of Lubao. San Vicente National High School emerged as the Over-All Champion of the festival.
+
+The 3rd Sampaguita Festival was celebrated on May 4, 2014, and participated by the 7 clustered barangays of Lubao. Cluster 6 (Cluster Malagu - Barangay Santo Domingo, San Miguel, Concepcion, San Francisco, San Vicente,
+
+===Philippine International Balloon Festival===
+The 1st ever Philippine International Balloon Festival was held on April 10–13, 2014 in Barangay Prado Siongco, Lubao, Pampanga. It was organized by Pilipinas International Balloon Festival, Inc. (PIBF) in cooperation with the Arts, Culture and Tourism Office of Pampanga (ACTO) with the theme "It's More Than Just Hot Air"
+
+===Lubao International Balloon Festival===
+The 2nd Lubao International Balloon Festival was held on March 26 to 29, 2015 in Pradera Verde, Prado Siongco, Lubao, Pampanga. It was organized by Forthinker Inc. Philippines.  It was touted as the biggest annual hot air balloon festival in Southeast Asia that featured more than forty (40) colorful hot air balloons from different countries all over the world, fourteen (14) of which are special shaped balloons like Darth Vader, Yoda, Humpty Dumpty and Frog.
+
+The 3rd edition of Lubao International Balloon Festival was held on April 14–17, 2016 in Pradera Verde, Prado Siongco, Lubao, Pampanga.
+
+===Lubao International Balloon and Music Festival===
+From April 6 to 9, 2017, the Lubao International Balloon and Music Festival was held. For the 4th year in a row, 35 balloons showered the skies of Lubao, Pampanga with their magnificent design and beautiful colors while wonderful music from international artists (Alex Aiono and Redfoo) and local artists (Sponge Cola, Gloc 9, Parokya ni Edgar, Moonstar88, Yeng Constantino and Bamboo) graced the event.
+
+==Government==
+===Local government===
+{{main|Sangguniang Bayan}}
+[[File:Lubaohalljf.JPG|thumb|Lubao Old Town Hall]]
+The municipal government is divided into three branches: executive, legislative and judiciary. The executive branch is composed of the mayor and the barangay captains. The legislative branch is composed of the [[Sangguniang Bayan]] (town assembly), Sangguniang Barangay (barangay council), and the [[Sangguniang Kabataan]] for the youth sector.
+
+==== Notable mayors ====
+<!-- PEOPLE MUST MEET WP:NBIO TO BE LISTED HERE. THEY SHOULD HAVE THEIR OWN ARTICLE -->
+* [[Lilia Pineda]], mayor 1992&ndash;2001
+* [[Dennis Pineda (politician)|Dennis G. Pineda]], mayor 2001&ndash;2010
+
+==Landmarks and notable heritage structures==
+[[File:Diosdadolibrarymuseumjf.JPG|thumb|Diosdado Macapagal Museum]]
+[[File:Jose B. Lingad Park and Museum.jpg|thumb|Jose B. Lingad Park and Museum]]
+
+===Lubao Institute===
+The Lubao Institute is in front of the [[Diosdado Macapagal]] Museum and Library which is at the back of his Bahay Kubo birthplace. Some meters from these 2 landmarks is the San Nicolas Lubao residence of [[Gloria Macapagal Arroyo]]. Lubao Institute or LI is the first and oldest private school in Lubao established in 1929.
+
+===Escolastica Romero District Hospital===
+The Escolastica Romero District Hospital located in San Nicolas 1st, Lubao and St. Joseph Hospital of Remedios located in Barangay Remedios, Lubao are the prime health institutions of the town.
+
+===San Agustin Church===
+{{main|San Agustin Church (Lubao)}}
+
+The parish church of San Agustin (considered one of the oldest in [[Pampanga]] - 1572) celebrated its 440th Founding Anniversary last May 5, 2012, with the launching of the 1st Sampaguita Festival; participated by the six parishes of Lubao. And the reception of the relics of St. Augustine & St. Monica. The church was declared by the National Historical Commission as Important Cultural Property last August 28, 2013 (441st Founding Anniversary).
+
+===Other notable landmarks===
+* Diosdado Macapagal Birthplace House / Library & Museum
+* Jose B. Lingad Park & Museum located at San Nicolas 1st, Lubao
+* MRF Charcoal making environment friendly
+* Lubao Bamboo Nature Park located at Santa Catalina, Lubao
+* Pradera Verde situated at Barangay Prado Siongco, Lubao (venue of the annual Lubao International Balloon and Music Festival)
+
+===Baybay Ilog===
+
+Baybay Ilog (Sagip Ilog) is a project of Department of Tourism and Congresswoman Gloria Macapagal Arroyo.<ref>{{cite web |url=http://50.28.66.118/pampanga/local-news/2012/06/17/sagip-ilog-phase-b-track-rainy-season-227310 |title=Sagip Ilog phase B on schedule for monsoons &#124; Sun.Star |access-date=November 7, 2012 |url-status=dead |archive-url=https://archive.today/20121206022728/http://50.28.66.118/pampanga/local-news/2012/06/17/sagip-ilog-phase-b-track-rainy-season-227310 |archive-date=December 6, 2012 }}</ref>
+
+In the Baybay Ilog, Bye-bye Basura project,<ref>{{cite web|title=The River Cruise to Bayanihan Spirit -- Baybay Ilog, Bye-bye Basura for the Lubao-Sasmuan River Cruise|url=http://digitista.blogspot.com/2011/06/river-cruise-to-bayanihan-spirit.html|publisher=Tatak Digitista|access-date=December 12, 2012|date=June 19, 2011}}</ref> officials and volunteers gathered at the Banqueruan Port in San Nicolas 1st, Lubao where the clean-up drive started.  After a brief program, the whole contingent coursed the river, checked the preparation of the communities and conducted the river clean-up. The Lubao-Sasmuan River was one of the ecosystems heavily affected when Mount Pinatubo erupted 20 years ago. With this project coinciding with the anniversary of the said volcanic eruption and our country's independence day celebration, the people from Lubao and Sasmuan are looking at it as a liberation from the dreaded effects of the said natural disaster which, through tourism, will pave the way for the rise to progress of the said communities.  Once again, the river is resuming its role, as a driving factor for the growth of a civilization.
+
+The symbolic river clean-up dubbed as “Baybay-Ilog, Bye-bye Basura”, is the first step in preparing the people in 17 identified Barangays that will benefit from the Pampanga bayou river cruise project spearheaded by the local government units of Sasmuan and Lubao in cooperation with the Provincial government of Pampanga and the second district congressional office of Gloria Macapagal Arroyo.<ref>{{cite web|title=Lakbayan cheers tours in Lubao-and Pampanga|url=http://manualtolyf.blogspot.com/2011/06/lakbayan-cheers-tours-in-lubao-and.html|publisher=Manual To Lyf|access-date=December 12, 2012|date=June 18, 2011}}</ref> River Clean-up held last June 12, 2011. This event mobilized more than 700 volunteers from Sasmuan and Lubao for ground and boat contingents. With the support of the Local Government Units of Sasmuan and Lubao, Community Volunteers and Social Preparation Group of Pampanga Bayou Development Project, this was really an astounding success.
+
+There were 700 volunteers from 13 coastal barangays boarded participating boats at the Banqueruan banca port at the town of San Nicolas, Lubao to participate in the symbolic river cleanup shortly after the sun rose on an otherwise lazy Sunday morning. Armed with cleaning tools, the residents carefully rid the river of wastes in preparation for the formal launch of the town's newest tourist attraction – the Pampanga river bayou cruise. Prior to the river cleanup, Christian Narito, project leader of the social preparation phase of the Pampanga Wetlands Development Project, said the identified 17 barangay communities located along the cruise route had earlier been educated about the benefits tourism could bring into the communities. “People within and around the area participated in determining how will they react or be affected by any major development planned within their area of residence. We helped them identify their strengths and how they could contribute to the river cruise project,” Narito said.<ref>{{cite news|title=Pampanga rising from Pinatubo ashes|url=http://mb.com.ph/articles/323252/pampanga-rising-pinatubo-ashes#.UMjaReQ73fE|work=Manila Bulletin|access-date=December 12, 2012|author=Jenny F. Manongdo|date=June 18, 2011}}</ref>
+
+{{wide image|Ilogjf.JPG|2000px|Panorama of Baybay Ilog (a project of Dept. of Tourism and Congresswoman Gloria Macapagal Arroyo)}}
+
+==Notable schools and colleges==
+* [[Don Honorio Ventura State University]] (Lubao, Branch)
+
+==Notable personalities==
+<!-- NOTE: Only add people who have Wikipedia articles as per NP:Notability. -->
+[[File:Diosdado Macapagal USS Oklahoma City 1962 cropped.jpg|thumb|upright|Diosdado Macapagal was the ninth [[President of the Philippines]], serving from 1961 to 1965]]
+* [[Diosdado Macapagal]] - was the [[List of presidents of the Philippines|9th President of the Philippines]], serving from 1961 to 1965.
+* [[Purita Macapagal]] - was the first wife of Philippine president [[Diosdado Macapagal]]. The sister of [[Rogelio de la Rosa|Rogelio]] and [[Jaime de la Rosa]].
+* [[Arturo Macapagal]] - was a Filipino [[Shooting (sport)|shooter]] who competed at the [[1972 Summer Olympics|1972]] and [[1976 Summer Olympics]] at the [[free pistol]] event. 
+* [[Gloria Macapagal Arroyo]] - is a [[Filipino people|Filipino]] professor and politician who served as the [[List of presidents of the Philippines|14th president of the Philippines]] from 2001 until 2010, as the [[List of vice presidents of the Philippines|10th vice president of the Philippines]] from 1998 to 2001 and a member of the [[House of Representatives of the Philippines|House of Representatives]] representing the [[Legislative districts of Pampanga#2nd District|2nd District]] of [[Pampanga]] since 2022 and previously from 2010 to 2019. Arroyo was the [[Speaker of the House of Representatives of the Philippines]], from 2018 to 2019, and the first woman to hold the position.
+* [[Mikey Arroyo]] - Filipino politician and former actor
+* [[Arwind Santos]] - is a PBA basketball player 9x Champion and MVP an alumnus of Lubao Institute Pampanga. He is currently playing for [[Pampanga Giant Lanterns]]
+* [[Ian Sangalang]] - is a PBA basketball player 4x Champion and an alumnus of Lubao Institute. Currently playing for [[Magnolia Hotshots]]
+* [[Jose B. Lingad]] - was a Filipino politician who served as [[provincial governor]] and [[congressman]] from [[Pampanga]].
+* [[Rogelio de la Rosa]] - is one of the most popular [[Filipino people|Filipino]] matinee idols of the 20th century and elected to the [[Philippine Senate]] from 1957 to 1963.
+* [[Jaime de la Rosa]] - is a Filipino pre-war and postwar actor better known as Jimmy in Philippine showbiz.
+* [[Ato Agustin]] - better known as Ato "The Atom Bomb" Agustin, is a former Filipino professional basketball player. 
+* [[Cecile Licad]] - is a renowned Filipina virtuoso classical pianist.
+* [[Gregorio Fernandez]] - was a Filipino film actor and director, and father of [[Rudy Fernandez (actor)|Rudy Fernandez]].
+* [[Rudy Fernandez (actor)|Rudy Fernandez]] - also known as "Daboy", was a multi-awarded Filipino actor and producer.
+* [[Angela Fernando]] - is a fashion model and beauty queen from Lubao, [[Pampanga]], [[Philippines]].
+* [[Isabel Preysler]] - is a Filipina-Spanish socialite with family roots from Lubao.
+* [[Carlos Badion]] - was a Filipino basketball player.
+* [[Apollo Quiboloy]] - is a Filipino pastor and church leader of the [[Philippines]]-based [[Restorationism|Restorationist]] church called the [[Kingdom of Jesus Christ (church)|Kingdom of Jesus Christ]] (KJC).
+* [[Bienvenido Santos]] - Filipino-American fiction, poetry and nonfiction writer
+* [[Letty Alonzo]] - former actress
+
+== References ==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+{{EB1911 Poster|Lubao}}
+* [https://www.philatlas.com/luzon/r03/pampanga/lubao.html Lubao Profile at PhilAtlas.com]
+* {{official website|http://www.lubao.gov.ph/}}
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20131004104825/http://census.gov.ph/ Philippine Census Information]
+* [http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=5&frmIdProvince=30&frmIdLgu=570 Local Governance Performance Management System]
+
+{{Geographic location
+| Centre    = Lubao
+| North     = [[Guagua, Pampanga|Guagua]]
+| East      = [[Sasmuan, Pampanga|Sasmuan]]
+| South     = ''[[Manila Bay]]''
+| Southwest = [[Hermosa, Bataan]]
+| West      = [[Floridablanca, Pampanga|Floridablanca]]
+}}
+{{Navboxes
+| title = Articles Related to Lubao, Pampanga
+| list  =
+{{Pampanga}}
+{{Central Luzon}}
+}}
+
+{{Authority control}}
+
+[[Category:Municipalities of Pampanga]]
+[[Category:Populated places on Manila Bay]]

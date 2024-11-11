@@ -1,0 +1,768 @@
+{{Short description|Administrative region of the Philippines}}
+{{Use mdy dates|date=November 2022}}
+{{Use Philippine English|date=November 2022}}
+{{Infobox settlement
+<!-- Basic info -->| name               = Bicol Region
+| other_name         = 
+| settlement_type    = [[Regions of the Philippines|Region]]
+| image_skyline      = {{multiple image
+| border = infobox
+| total_width = 260
+| image_style = border:1;
+| perrow = 1/2/2/2
+| image1 = Mayon Volcano in Albay.jpg
+| image2 = Façade of St. Gregory the Great Cathedral, Legazpi.jpg
+| image3 = Calaguas Circa 2014.jpg
+| image4 = Minalahos Island, Caramoan Peninsula, Philippines (36978170521).jpg
+| image5 = Ateneo de Naga University Church facade 02.jpg
+}}
+'''Clockwise from the top''': [[Mayon Volcano]], [[Calaguas|Calaguas Islands]], [[Ateneo de Naga University|Ateneo de Naga University Church]], [[Caramoan National Park]], [[Legazpi Cathedral]]
+| image_alt          = 
+| image_caption      = |<!-- images and maps -->
+| image_flag         = 
+| flag_size          = 120x80px
+| image_seal         = 
+| seal_size          = 100x80px
+| image_map          = {{PH wikidata|image_map}}
+| map_caption        = Location in the Philippines
+
+<!-- Motto -->| nickname           = Home of the Uragons
+| motto              = 
+| anthem             = Bicol Regional March
+
+<!-- Location -->| coordinates        = {{coord|region:PH|format=dms|display=inline,title}}
+| subdivision_type   = Country
+| subdivision_name   = {{PHL}}
+| subdivision_type1  = [[Island groups of the Philippines|Island group]]
+| subdivision_name1  = [[Luzon]]
+
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->| seat_type          = Regional center<br>{{nobold|and largest city}}
+| seat               = [[Legazpi, Albay|Legazpi]]
+
+<!-- Politics -->| leader_title       = 
+| leader_name        = <!-- Area -->
+| area_total_km2     = {{PH wikidata|area}}
+| area_footnotes     = <!-- Population -->
+| population_as_of   = {{PH wikidata|population_as_of}}
+| population_total   = {{PH wikidata|population_total}}
+| population_footnotes = {{PH census|2015}}
+| population_density_km2 = auto
+
+<!-- General information -->| timezone           = [[Philippine Standard Time|PST]]
+| utc_offset         = +8
+| iso_code           = PH-05
+
+<!-- Others -->| blank_name_sec1    = [[Provinces of the Philippines|Provinces]]
+| blank_info_sec1    = {{Collapsible list
+ | titlestyle = font-weight:normal;background-color:WhiteSmoke"
+ | title = 6
+ | [[Albay]]
+ | [[Camarines Norte]]
+ | [[Camarines Sur]]
+ | [[Catanduanes]]
+ | [[Masbate]]
+ | [[Sorsogon]]
+ }}
+| blank1_name_sec1   = [[Cities of the Philippines|Independent city]]
+| blank1_info_sec1   = {{Collapsible list
+ | titlestyle = font-weight:normal;background-color:WhiteSmoke"
+ | title = 1
+ | [[Naga, Camarines Sur|Naga]]
+ }}
+| blank2_name_sec1   = [[Cities of the Philippines|Component cities]]
+| blank2_info_sec1   = {{Collapsible list
+ | titlestyle = font-weight:normal;background-color:WhiteSmoke"
+ | title = 6
+ | [[Iriga]] 
+ | [[Legazpi, Albay|Legazpi]] 
+ | [[Ligao]] 
+ | [[Masbate City]]
+ | [[Sorsogon City]] 
+ | [[Tabaco]]
+ }}
+| blank3_name_sec1   = [[Municipalities of the Philippines|Municipalities]]
+| blank3_info_sec1   = 107
+| blank4_name_sec1   = [[Barangay]]s
+| blank4_info_sec1   = 3,471
+| blank5_name_sec1   = [[House of Representatives of the Philippines|Cong. districts]]
+| blank5_info_sec1   = 16
+| blank_name_sec2    = [[Languages of the Philippines|Languages]]
+| blank_info_sec2    = {{unbulleted list | [[Bikol languages]] {{hlist | ([[Central Bikol]] | [[Bicolano (Albay)|Albayanon]] | [[Bicolano (Iriga)|Rinconada]] | [[Pandan Bikol|Northern Catanduanes]] | [[Southern Catanduanes Bikol language|Southern Catanduanes]])}} | [[Visayan languages]] {{hlist | ([[Masbateño language|Masbateño]] | [[Northern Sorsogon language|Northern Sorsogon]]
+| [[Southern Sorsogon language|Waray Sorsogon]])}} | [[Tagalog language|Tagalog]] | [[English language|English]] }}
+| blank1_name_sec2   = [[List of regions of the Philippines by GDP|GDP]] (2023)
+| blank1_info_sec2   = [[Philippine peso|₱]]701.72 billion<br>[[USD|$]]12.61 billion<ref name="grdp">{{Cite web |title=2021 to 2023 Gross Regional Domestic Product (GRDP)|url=https://psa.gov.ph/statistics/grdp/tables |access-date=April 26, 2024 |publisher=Philippine Statistics Authority|website=openstat.psa.gov.ph}}</ref>
+| blank2_name_sec2   = Growth rate
+| blank2_info_sec2   = {{increase}} (4.58%)<ref name="grdp" />
+| blank3_name_sec2   = [[Human Development Index|HDI]]
+| blank3_info_sec2   = {{increase}} 0.687 ({{fontcolor|orange|Medium}})
+| blank4_name_sec2   = HDI rank
+| blank4_info_sec2   = [[List of Philippine provinces and regions by Human Development Index|13th in the Philippines]] (2019)
+| website            = {{URL|dilgbicol.org}}
+| elevation_max_point = [[Mayon Volcano]]
+| elevation_max_ft   = 8,081
+| image_map1         = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250|zoom=8}}{{hidden end}}
+}}
+
+The '''Bicol Region''',{{efn|{{lang-bcl|Rehiyon kan Bikol}}; [[Rinconada Bikol language|Rinconada Bikol]]: ''Rehiyon ka Bikol''; [[Southern Sorsogon language|Waray Sorsogon]], [[Masbateño language|Masbateño]]: ''Rehiyon san Bikol''; {{lang-tl|Rehiyon ng Bikol}}}} designated as '''Region V''', is an administrative [[region of the Philippines]]. It comprises six [[Provinces of the Philippines|provinces]], four on the Bicol Peninsula (the southeastern end of [[Luzon]]): [[Albay]], [[Camarines Norte]], [[Camarines Sur]], and [[Sorsogon]], and two off the shore: [[Catanduanes]] and [[Masbate]].<ref name="DOA">{{Cite web |title=Overview of Bicol Region |url=http://bicol.da.gov.ph/Statistics/regional_profile.html |url-status=dead |archive-url=https://web.archive.org/web/20100416052024/http://bicol.da.gov.ph/Statistics/regional_profile.html |archive-date=April 16, 2010 |access-date=March 18, 2010 |website=Department of Agriculture, Regional Field Unit No. 5 (Bicol Region)}}</ref>
+
+The regional center is [[Legazpi, Albay|Legazpi]], the most populous city in the region and has one [[Cities of the Philippines|independent component city]], the pilgrim city of [[Naga, Camarines Sur|Naga]].<ref name="DILG">{{Cite web |title=DILG Regional Office No. 5 Directory |url=http://dilgbicol.org/directory/dilg-regional-office.html |url-status=dead |archive-url=https://web.archive.org/web/20120417175301/http://dilgbicol.org/directory/dilg-regional-office.html |archive-date=April 17, 2012 |access-date=May 22, 2012 |website=Department of the Interior and Local Government, Regional Office No. 5}}</ref><ref name="DOA" /> The region is bounded by [[Lamon Bay]] to the north, the [[Philippine Sea]] to the east, and the [[Sibuyan Sea]] and [[Ragay Gulf]] to the west. The northernmost provinces, [[Camarines Norte]] and [[Camarines Sur]], are bordered to the west by the province of [[Quezon]] in the [[Calabarzon]] region.
+
+{{TOC limit|3}}
+
+==Geography==
+The Bicol Region comprises the southern part of [[Luzon]], the largest island in the [[Philippine archipelago]]. The total land area is 5.9% of the total land area of the country. Around 69.3% of the total land area is alienable and disposable while the remaining 30.7% is public forest areas.<ref name="DOA" />
+
+==History==
+The Bicol region was known as ''[[Ibalong]]'', variously interpreted to derive from ''ibalio'', "to bring to the other side"; ibalon, "people from the other side" or "people who are hospitable and give visitors gifts to bring home"; or as a corruption of ''Gibal-ong'', a [[sitio]] of [[Magallanes, Sorsogon]] where the Spaniards first landed in 1567. The [[Bicol River]] was first mentioned in Spanish documents in 1572. The region was also called ''Los Camarines'' after the huts found by the Spaniards in [[Camalig, Albay]]. No prehistoric animal fossils have been discovered in Bicol and the peopling of the region remains obscure. The [[Aeta people|Aeta]] from [[Camarines Sur]] to [[Sorsogon]] strongly suggest that aborigines lived there long ago, but earliest evidence is of middle to late Neolithic life.<ref>{{Cite web |last=Refraccion |first=Mara Angelica |date=June 28, 2011 |title=Bicol (Pre Colonial History) |url=http://maraangelica.blogspot.com/ |access-date=March 11, 2016 |website=maraangelica.blogspot.com}}</ref>{{better source needed|date=February 2022}}
+
+A ''[[barangay]]'' (village) system was in existence by 1569. Records show no sign of Islamic rule nor any authority surpassing the datu (chieftain). Precolonial leadership was based on strength, courage, and intelligence. The native seemed apolitical. Thus, the datu's influence mattered most during crises like wars. Otherwise, early Bicol society remained family centered, and the leader was the head of the family.
+
+The Spanish influence in Bicol resulted mainly from the efforts of [[Augustinians|Augustinian]] and [[Franciscan]] Spanish missionaries. The first churches in Bicol, the [[San Francisco Church (Intramuros)|San Francisco Church]], and the [[Naga Cathedral]], both in [[Naga, Camarines Sur|Naga City]], along with the Holy Cross Parish in [[Nabua, Camarines Sur]], are instituted by the Holy Order of the Franciscans. One of the oldest [[diocese]]s in the Philippines, the [[Archdiocese of Caceres]], was also instituted in the Bicol Region. During this time, Bicol was dotted by many ''astilleros'' (shipyards) which were focused on constructing [[Manila Galleons]], the heaviest ships in their time, from the local hardwood forests and these Manila Galleons were responsible for trade between Asia and the Americas.<ref>{{Cite web |last=Bolunia |first=Mary Jane Louise A. |date=n.d. |title=Astilleros: The Spanish Shipyards of Sorsogon |url=http://www.themua.org/collections/files/original/34a74c76efdb951655b9bde1213812dc.pdf |access-date=October 26, 2015 |via=themua.org}}</ref> Bicol also has Latin-American settlements and cultural influence mostly from Mexico due to the abundance of [[chili pepper]] plantations in the area, as it is Mexican in origin.<ref>{{Cite journal |last1=Kraft |first1=Kraig H. |last2=Brown |first2=Cecil H. |last3=Nabhan |first3=Gary P. |last4=Luedeling |first4=Eike |last5=Luna Ruiz |first5=José de Jesús |last6=Coppens d'Eeckenbrugge |first6=Geo |last7=Hijmans |first7=Robert J. |last8=Gepts |first8=Paul |display-authors=3 |date=2014 |title=Multiple Lines of Evidence for the Origin of Domesticated Chili Pepper, ''Capsicum annuum'', in Mexico |journal=Proceedings of the National Academy of Sciences |volume=111 |issue=17 |pages=6165–6170 |doi=10.1073/pnas.1308933111 |pmc=4035960 |pmid=24753581 |bibcode=2014PNAS..111.6165K |doi-access=free}}</ref> Bicolano cuisine is noted for the propensity of being spicy.<ref name="Bicol Native Cuisine">{{Cite web |title=Bicol Native Cuisine |url=http://98.130.222.111/~camgov/cuisine.php |url-status=dead |archive-url=https://archive.today/20130628035649/http://98.130.222.111/~camgov/cuisine.php |archive-date=June 28, 2013 |website=Camarines Sur Provincial Government}}</ref> However regardless, the region throughout its history has been among the hardest to control by Spanish, American, and Japanese occupants due to heavy resistance among the populace.<ref name="Bicol Native Cuisine" />
+
+== Administrative divisions ==
+=== Provinces ===
+[[File:Ph bicol.png|thumb|300px|{{center|Provinces of Bicol}}]]
+The region comprises six provinces: [[Albay]], [[Camarines Norte]], [[Camarines Sur]], [[Sorsogon]] and the island-provinces of [[Catanduanes]] and [[Masbate]], 107 Municipalities and 3,471 Barangays
+
+As of 2020, [[Camarines Sur]] is the region's largest province in area and population, occupying {{convert|5481.6|km2|sqmi|abbr=on}} or around 30.4% of the total land area with a population of 2,068,244. [[Catanduanes]] is the smallest in area as well as population with only {{convert|1511.5|km2|sqmi|abbr=on}} or 8.4% of the total regional area and a population of 271,879.{{PH census|2020}}
+
+{| class="wikitable sortable" style="background-color:#FDFDFD;text-align:center;font-size:90%;border:1pt solid grey;"
+|-
+! scope="col" style="border-bottom:none;" class="unsortable" | Province
+! scope="col" style="border-bottom:none;" class="unsortable" | Capital
+! scope="col" style="border-bottom:none;white-space:nowrap;" class="unsortable" colspan=2 | Population {{small|(2020)}}{{PH census|2020}}
+! scope="col" style="border-bottom:none;" colspan=2 | Area<ref name="PSA-NSCB-ProvinceList">{{Cite web |title=PSGC Interactive; List of Provinces |url=http://www.nscb.gov.ph/activestats/psgc/listprov.asp |url-status=dead |archive-url=https://web.archive.org/web/20130111015112/http://www.nscb.gov.ph/activestats/psgc/listprov.asp |archive-date=January 11, 2013 |access-date=March 29, 2016 |website=[[Philippine Statistics Authority]]}}</ref>
+! scope="col" style="border-bottom:none;" colspan=2 | Density
+! scope="col" style="border-bottom:none;" class="unsortable" | Cities
+! scope="col" style="border-bottom:none;" class="unsortable" | {{abbr|Muni.|Municipalities}}
+! scope="col" style="border-bottom:none;" class="unsortable" | {{abbr|Barangay|Barangays}}
+|-
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-top:none;" colspan=2 |
+! scope="col" style="border-style:none none solid solid;" | km<sup>2</sup>
+! scope="col" style="border-style:none solid solid none;white-space:nowrap;" class="unsortable" | sq mi
+! scope="col" style="border-style:none none solid solid;" | /km<sup>2</sup>
+! scope="col" style="border-style:none solid solid none;white-space:nowrap;" class="unsortable" | /sq mi
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-top:none;" |
+|-
+! scope="row" style="background-color:initial;" | {{Flag|Albay}}
+| style="" | [[Legazpi, Albay|Legazpi City]]
+| {{percent and number|1374768|6082165|disp=table|1|pad=yes}}
+| {{convert|2,574.91|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|1374768/2,574.91|2}}|PD/km2|abbr=values|disp=table}}
+| 3
+| 15
+| 720
+|-
+! scope="row" style="background-color:initial;" | {{Flag|Camarines Norte}}
+| style="" | [[Daet]]
+| {{percent and number|629699|6082165|disp=table|1|pad=yes}}
+| {{convert|2,277.93|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|629699/2,277.93|2}}|PD/km2|abbr=values|disp=table}}
+| 0
+| 12
+| 282
+|-
+! scope="row" style="background-color:initial;" | {{Flag|Camarines Sur}}
+| style="" | [[Pili, Camarines Sur|Pili]]
+| {{percent and number|2068244|6082165|disp=table|1|pad=yes}}
+| {{convert|5,511.90|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|2068244/5,511.90|2}}|PD/km2|abbr=values|disp=table}}
+| 2
+| 35
+| 1,063
+|-
+! scope="row" style="background-color:initial;" | {{Flag|Catanduanes}}
+| style="" | [[Virac, Catanduanes|Virac]]
+| {{percent and number|271879|6082165|disp=table|1|pad=yes}}
+| {{convert|1,492.16|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|271879/1,492.16|2}}|PD/km2|abbr=values|disp=table}}
+| 0
+| 11
+| 315
+|-
+! scope="row" style="background-color:initial;" | {{Flag|Masbate}}
+| style="" | [[Masbate City]]
+| {{percent and number|908920|6082165|disp=table|1|pad=yes}}
+| {{convert|4,138.56|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|908920/4,138.56|2}}|PD/km2|abbr=values|disp=table}}
+| 1
+| 21
+| 550
+|-
+! scope="row" style="background-color:initial;" | {{Flag|Sorsogon}}
+| style="" | [[Sorsogon City]]
+| {{percent and number|828655|6082165|disp=table|1|pad=yes}}
+| {{convert|2,119.01|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|828655/2,119.01|2}}|PD/km2|abbr=values|disp=table}}
+| 1
+| 14
+| 541
+|-class="sortbottom"
+! scope="row" colspan=3 style="" | Total
+! scope="col" style="text-align:right;" style="text-align:right;" | 6,082,165
+! scope="col" style="text-align:right;" | 18,114.47
+! scope="col" | {{convert|18,114.47|km2|disp=number|2}}
+! scope="col" style="text-align:right;" | {{sigfig|6082165/18,114.47|2}}
+! scope="col" style="text-align:right;" | {{convert|{{sigfig|6082165/18,114.47|2}}|PD/km2|disp=number}}
+! scope="col" | 7
+! scope="col" | 107
+! scope="col" | 3,471
+|-class="sortbottom" style="text-align:left;background-color:#F2F2F2;border-top:double grey;"
+| style="padding-left:1em;" colspan=13 |
+• Figures for Camarines Sur include the ''independent component city'' of [[Naga, Camarines Sur|Naga]].
+|}
+
+====Governors and vice governors====
+
+{| class="wikitable sortable"
+|-
+!width=140 |Province
+!width=150 |Image
+!width=235 |Governor
+!width=120 colspan=2 |Political Party
+!width=150 |Vice Governor
+|-
+|{{center|[[File:Seal of Albay.svg|75px]]}}{{center|[[Albay]]}}
+|align=center |[[File:EdcelGrecoLagman.jpg|138x138px]]
+|[[Edcel Greco Lagman|Edcel Greco Alexander B. Lagman]]
+| {{party name with colour|Partido Federal ng Pilipinas}}
+|Baby Glenda O. Bongao
+|-
+|{{center|[[File:CamNor Seal.svg|75px]]}}{{center|[[Camarines Norte]]}}
+|align=center |[[File:Gov Padilla (Camarines Norte).png|138x138px]]
+|Ricarte "Dong" Padilla
+| {{party name with colour|Aksyon Demokratiko}}
+|Joseph Ascutia
+|-
+|{{center|}}{{center|[[Camarines Sur]]}}
+|align=center |[[File:Gov Villafuerte.png|alt=|138x138px]]
+|[[Luigi Villafuerte|Vincenzo Luigi Villafuerte]]
+| {{party name with colour|Partido Demokratiko Pilipino-Lakas ng Bayan}} 
+|Salvio Patrick Fortuno Jr.
+|-
+|{{center|[[File:Official Seal of Catanduanes.svg|75px]]}}{{center|[[Catanduanes]]}}
+|align=center |[[File:Gov Cua (Catanduanes).png|alt=|138x138px]]
+|[[Joseph Cua]]
+| {{party name with colour|Nationalist People's Coalition}}
+|Peter Cua
+|-
+|{{center|[[File:Ph seal masbate.png|75px]]}}{{center|[[Masbate]]}}
+|align=center |[[File:Gov Kho.png|138x138px]]
+|[[Antonio Kho]]
+| {{party name with colour|Partido Demokratiko Pilipino-Lakas ng Bayan}} 
+|[[Elisa Olga Kho|Elisa Olga T. Kho]]
+|-
+|{{center|[[File:Sorsogon Provincial Seal.png|75px]]}}{{center|[[Sorsogon]]}}
+|align=center |[[File:Gov Hamor.png|138x138px]]
+|Boboy Hamor
+|{{party name with colour|Nationalist People's Coalition}}
+|Krunimar Antonio Escudero II
+|}
+
+=== Cities ===
+
+The region has one [[Cities of the Philippines|independent component city]], [[Naga, Camarines Sur|Naga]], and six [[Cities of the Philippines|component cities]] – [[Iriga]], [[Legazpi, Albay|Legazpi]], [[Ligao]], [[Masbate City]], [[Sorsogon City]], and [[Tabaco]]. Masbate and Sorsogon are cities in their eponymous provinces.
+
+{{unbulleted list
+| {{Color box|#BFF5FF|†|border=darkgray}} {{font|Regional center|size=90%}}
+}}
+
+{| class="wikitable sortable" style="background-color:#FDFDFD;text-align:center;font-size:90%;border:1pt solid grey;"
+! scope="col" style="border-bottom:none" class="unsortable" | City
+! scope="col" style="border-bottom:none" class="unsortable" | Population {{small|(2020)}}{{PH census|2020}}
+! scope="col" style="border-bottom:none" class="unsortable" colspan=2 | Area<ref name="PSA-CitiesList">{{Cite web |title=PSGC Interactive; List of Cities |url=http://www.nscb.gov.ph/activestats/psgc/listcity.asp |url-status=dead |archive-url=https://web.archive.org/web/20160407112230/http://www.nscb.gov.ph/activestats/psgc/listcity.asp |archive-date=April 7, 2016 |access-date=March 29, 2016 |website=Philippine Statistics Authority}}</ref>
+! scope="col" style="border-bottom:none" class="unsortable" colspan=2 | Density
+! scope="col" style="border-bottom:none" class="unsortable" | City class
+! scope="col" style="border-bottom:none" class="unsortable" | Income class
+! scope="col" style="border-bottom:none" class="unsortable" | Province
+|-
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-style:hidden hidden solid solid;" | km<sup>2</sup>
+! scope="col" style="border-style:hidden solid solid hidden;" class="unsortable" | {{nowrap|sq mi}}
+! scope="col" style="border-style:hidden hidden solid solid;" | /km<sup>2</sup>
+! scope="col" style="border-style:hidden solid solid hidden;" class="unsortable" | {{nowrap|/sq mi}}
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-top:none;" |
+! scope="col" style="border-top:none;" |
+|-
+! scope="row" style="background-color:initial;" | [[Iriga|Iriga City]]
+| style="text-align:right;" | 114,457
+| {{convert|137.35|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|114457/137.35|2}}|PD/km2|abbr=values|disp=table}}
+| Component
+| 4th
+| [[Camarines Sur]]
+|-
+! scope="row" style="background-color:#BFF5FF;border-right:0;" |† [[Legazpi, Albay|Legazpi City]]
+| style="text-align:right;" | 209,533
+| {{convert|153.70|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|209533/153.70|2}}|PD/km2|abbr=values|disp=table}}
+| Component
+| 1st
+| [[Albay]]
+|-
+! scope="row" style="background-color:initial;" | [[Ligao]]
+| style="text-align:right;" | 118,096
+| {{convert|246.75|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|118096/246.75|2}}|PD/km2|abbr=values|disp=table}}
+| Component
+| 4th
+| [[Albay]]
+|-
+! scope="row" style="background-color:initial;" | [[Masbate City]]
+| style="text-align:right;" | 104,522
+| {{convert|188.00|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|104522/188.00|2}}|PD/km2|abbr=values|disp=table}}
+| Component
+| 4th
+| [[Masbate]]
+|-
+! scope="row" style="background-color:initial;" | [[Naga, Camarines Sur|Naga]]
+| style="text-align:right;" | 209,170
+| {{convert|84.48|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|209170/84.48|2}}|PD/km2|abbr=values|disp=table}}
+| Independent component
+| 1st
+| [[Camarines Sur]]
+|-
+! scope="row" style="background-color:initial;" | [[Sorsogon City]]
+| style="text-align:right;" | 182,237
+| {{convert|276.11|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|182237/276.11|2}}|PD/km2|abbr=values|disp=table}}
+| Component
+| 2nd
+| [[Sorsogon (province)|Sorsogon]]
+|-
+! scope="row" style="background-color:initial;" | [[Tabaco City]]
+| style="text-align:right;" | 140,961
+| {{convert|117.14|km2|abbr=values|disp=table}}
+| {{convert|{{sigfig|140961/117.14|2}}|PD/km2|abbr=values|disp=table}}
+| Component
+| 4th
+| [[Albay]]
+|}
+
+==Demographics==
+{{Philippine Census
+|
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 =
+| 2030 =
+|footnote=Source: Philippine Statistics Authority<ref name="NSO">{{Citation |last=National Statistics Office |title=2010 Census and Housing Population: Population and Annual Growth Rates for the Philippines and Its Regions, Provinces, and Highly Urbanized Cities Based on 1990, 2000, and 2010 Censuses |date=n.d. |url=https://www.census.gov.ph/sites/default/files/attachments/hsd/pressrelease/Population%20and%20Annual%20Growth%20Rates%20for%20The%20Philippines%20and%20Its%20Regions%2C%20Provinces%2C%20and%20Highly%20Urbanized%20Cities%20Based%20on%201990%2C%202000%2C%20and%202010%20Censuses.pdf |type=Tables |archive-url=https://web.archive.org/web/20130928012059/http://www.census.gov.ph/sites/default/files/attachments/hsd/pressrelease/Population%20and%20Annual%20Growth%20Rates%20for%20The%20Philippines%20and%20Its%20Regions%2C%20Provinces%2C%20and%20Highly%20Urbanized%20Cities%20Based%20on%201990%2C%202000%2C%20and%202010%20Censuses.pdf |access-date=August 9, 2013 |archive-date=September 28, 2013 |mode=cs1 |url-status=dead}}</ref>{{PH census|2015}}
+}}
+
+{{see also|Demographics of the Philippines}}{{Unreferenced section|date=July 2018}}
+The Bicol Region has a population of 6,082,165 as of 2020 census, growing at an average annual rate of 1.29 percent between 2010 and 2015. The region's population density increased to 320 persons per square kilometer in 2015.
+
+In 1970, Camarines Sur was the only province with close to a million population. Albay, which was next in rank, reached the 1970 population level of Camarines Sur only 20 years later. Masbate and Sorsogon were in the same level every census year from 1970 to 1980. It is noteworthy that distribution and growth of the 1970 population were towards areas that were sparsely populated but agriculturally rich and/or endowed with fishery resources. The island province of Catanduanes and its municipalities have exhibited very low population growth from 1970 to 1980.
+[[File:Legazpi and Mayon.jpg|thumb|A view of Legazpi City among Mt. Mayon]]
+In 1980, the pattern was towards urbanization. This was due to the pull of newly installed infrastructures, particularly roads, and the sporadic growth of trade in strategically situated municipalities that have better economic opportunities. The 1990 growth originated from the strong attraction of employment opportunities in established urban centers, which have become a source of growth of adjacent municipalities. This situation was highly evident in Naga and Legazpi areas, whose surrounding municipalities exhibited high growth rates. Unmistakably, the spill-over effects of development permeated those initial high growth areas.
+
+Population spill-over happened in the Legazpi, Naga and Daet areas. Due to more population and more opportunities, Naga, Daet and Legazpi spilled their population to their neighboring and adjacent towns.
+
+The Bicolanos are descended from the Austronesian-speaking immigrants who came from Southern China during the [[Iron Age]]. Many of Bicolanos also have [[Han Chinese|Chinese]], [[Arabs|Arab]], and Spanish admixtures. Most of the townsfolk have Spanish Mixtures and their language is referred to as [[Bikol languages|Bikol]] or Bikolano. Bicolanos have a high percentage of Spanish introgression with a government sponsored study showing 2 out of 10 Bicolanos or 2/10ths of the population being of Spanish descent. Only the [[Chavacano]]s among the Philippine ethnic groups, have a higher Spanish percentage at 4/10ths of the population, compared to Bicolano's 2/10ths,<ref name="MaximilianLarena">[https://www.pnas.org/content/pnas/suppl/2021/03/17/2026132118.DCSupplemental/pnas.2026132118.sapp.pdf Supplementary information] for {{Cite journal |last1=Larena |first1=Maximilian |last2=Sanchez-Quinto |first2=Federico |last3=Sjödin |first3=Per |last4=McKenna |first4=James |last5=Ebeo |first5=Carlo |last6=Reyes |first6=Rebecca |last7=Casel |first7=Ophelia |last8=Huang |first8=Jin-Yuan |last9=Hagada |first9=Kim Pullupul |last10=Guilay |first10=Dennis |last11=Reyes |first11=Jennelyn |display-authors=3 |date=2021 |title=Multiple Migrations to the Philippines During the Last 50,000 Years |journal=Proceedings of the National Academy of Sciences |volume=118 |issue=13 |at=e2026132118 |doi=10.1073/pnas.2026132118 |pmc=8020671 |pmid=33753512 |doi-access=free |first12=Fatima Pir |last12=Allian |first13=Virgilio |last13=Mori |first14=Lahaina Sue |last14=Azarcon |first15=Alma |last15=Manera |first16=Celito |last16=Terando |first17=Lucio Jr. |last17=Jamero |first18=Gauden |last18=Sireg |first19=Renefe |last19=Manginsay-Tremedal |first20=Maria Shiela |last20=Labos |first21=Richard Dian |last21=Vilar |first22=Acram |last22=Latiph |first23=Rodelio Linsahay |last23=Saway |first24=Erwin |last24=Marte |first25=Pablito |last25=Magbanua |first26=Amor |last26=Morales |first27=Ismael |last27=Java |first28=Rudy |last28=Reveche |first29=Becky |last29=Barrios |first30=Erlinda |last30=Burton |first31=Jesus Christopher |last31=Salon |first32=Ma. Junaliah Tuazon |last32=Kels |first33=Adrian |last33=Albano |first34=Rose Beatrix |last34=Cruz-Angeles |first35=Edison |last35=Molanida |first36=Lena |last36=Granehäll |first37=Mário |last37=Vicente |first38=Hanna |last38=Edlund |first39=Jun-Hun |last39=Loo |first40=Jean |last40=Trejaut |first41=Simon Y. W. |last41=Ho |first42=Lawrence |last42=Reid |first43=Helena |last43=Malmström |first44=Carina |last44=Schlebusch |first45=Kurt |last45=Lambeck |first46=Phillip |last46=Endicott |first47=Mattias |last47=Jakobsson}}</ref> while the average percentage of Spanish descent among other Filipino Lowland Christian Ethnic groups are 6% out of 100%.<ref>{{Cite journal |last1=Algee-Hewitt |first1=Bridget F. B. |last2=Hughes |first2=Cris E. |last3=Go |first3=Matthew C. |last4=Dudzik |first4=Beatrix |date=2018 |title=An Admixture Approach to Trihybrid Ancestry Variation in the Philippines with Implications for Forensic Anthropology |url=https://www.researchgate.net/publication/329903258 |journal=Human Biology |volume=90 |issue=3 |pages=178–195 |doi=10.13110/humanbiology.90.3.01 |pmid=33947174 |s2cid=92490926 |quote=Filipinos appear considerably admixed with respect to the other Asian population samples, carrying on average less Asian ancestry (71%) than our Korean (99%), Japanese (96%), Thai (93%), and Vietnamese (84%) reference samples. We also revealed substructure in our Filipino sample, showing that the patterns of ancestry vary within the Philippines—that is, between the four differently sourced Filipino samples. Mean estimates of Asian (76%) and European (7%) ancestry are greatest for the cemetery sample of forensic signifĳicance from Manila.}}</ref> The Bicolano language is very fragmented, and its dialects are mutually incomprehensible to speakers of other Bicolano dialects. The majority of the Bicolano people are devout Roman Catholics due to the Spanish conquering the country and converting them to their religion. Catholic Mass is celebrated daily in many churches in the Bicol Region.
+
+===Language===
+{{further|Bikol languages}}{{Unreferenced section|date=July 2018}}
+{{multiple image
+<!-- Essential parameters -->| align             = right
+| direction         = vertical
+| width             = 222
+| image1            = 
+| caption1          = The use of the Bicolano language in one of the regional newspapers of the Bicol Region.
+| image2            = Rinconada sticker.jpg
+| caption2          = An election campaign sticker written in Rinconada Bikol.
+}}
+
+The people of the Bicol Region, called [[Bicolano people|Bicolanos]], speak any of the several languages of the [[Bikol languages|Bikol language subgroup]], called Bikol macrolanguages, [[Austronesian languages]] closely grouped under the [[Central Philippine languages]] family such as the [[Visayan languages]] and [[Tagalog language|Tagalog]]. The four major groups of language in Bikol are Coastal Bikol (with four sub-languages), Inland Bikol (with six sub-languages), Pandan Bikol (lone language) and Bisakol (with three sub-languages). The majority of Bicolanos understand and speak [[Central Bikol language]] (a member of Coastal Bikol group of languages) since it is the language used in literature and mass media, but with varying degrees. A known misconception of many Bicolanos is that Central Bikol, used in the cities of Legazpi and Naga, is the standard Bikol. Central Bikol, though spoken by the majority and with speakers represented in all provinces in the region, is not a standard Bikol since other forms of Bikol used in the region are separate languages and usually unintelligible. However, the standard form of Central Bikol language is the Canaman dialect.
+
+Other Bikol languages are [[Rinconada Bikol language|Rinconada Bikol]], spoken in southern part of Camarines Sur province, [[Pandan Bikol language|Pandan Bikol]] spoken in northern part of Catanduanes island and the Albay Bikol group of languages that include Buhinon, Libon, West Miraya and East Miraya. Albay Bikol speakers can be found in Buhi, Camarines Sur, central and eastern parts of Albay and in Donsol, Sorsogon. The standard form of Rinconada Bikol both in pronunciation and writing is the Sinabukid (Highland) dialect of Iriga variant. On the other hand, Buhinon of [[Buhi, Camarines Sur]] and Libon of [[Libon, Albay]] are the languages that are only used in their respective municipalities. Rinconada Bikol and Albay Bikol group of languages are members of Inland Bikol, while Pandan Bikol is the only language with no sub-languages or division.
+
+The majority of the population in Masbate and Sorsogon speaks [[Masbateño language|Masbateño]], [[Southern Sorsogon language|Waray Sorsoganon]] and [[Northern Sorsoganon language|Northern Sorsoganon]]. The three are Visayan languages but influenced by Bikol languages (especially the latter), thus tagged and collectively referred to as [[Bisakol languages|'''Bisakol''']] (Being Visayan languages spoken in Bicol), a portmanteau of '''Bisa'''ya (Visayan) and Bi'''kol''' (Bicolano).
+
+Aside from [[Masbateño language|Masbateño]], three more Visayan languages are spoken in Masbate, including [[hiligaynon language|Hiligaynon/Ilonggo]] are spoken in the southwestern tip, while [[Cebuano language|Cebuano]] and [[Waray language|Waray-Waray]] are spoken in the southern part of the island province respectively. [[Tagalog language|Tagalog]] is the dominant and native language of Bicolanos living in the municipalities in the northern half of [[Camarines Norte]] and the town of [[Del Gallego, Camarines Sur|Del Gallego]] in [[Camarines Sur]].
+
+Bicolanos also speak and understand Filipino, the national language of the Philippines, aside from native Tagalog-speaking Bicolanos in northern half of Camarines Norte and Del Gallego. English is widely understood in businesses, schools and public places.
+
+===Religion===
+The region retains [[Roman Catholicism]] as the overwhelming religion of the great majority. The Catholic religion has the highest number of followers than any other area in the Philippines. The Catholic church grew in the Bicol Region through the efforts of the bishops from [[Nueva Caceres]] ([[Naga, Camarines Sur|Naga City]]) from the 17th century until the [[Philippine Revolution]] in 1898. [[Naga, Camarines Sur|Naga City]] is the religious center of the Bicol Region and is the seat of one of the oldest dioceses in the [[Philippines]], the ecclesiastical [[Archdiocese of Caceres]]. Other dioceses include are the Dioceses of Legazpi, Sorsogon, Daet, Masbate, Libmanan and [[Diocese of Virac|Virac]]. [[Fiesta patronal|Fiestas]] ([[Feast day]] of saints) are annual celebrations of parishes, from a simple barrio fiesta honoring a patron associated for good harvest, to a town fiesta honoring a miraculous saint, a [[Archdiocese of Caceres|diocesan]] fiesta like the feast of [[Our Lady of Salvation]], or a regional one such as the [[Our Lady of Peñafrancia]] Fiesta, the largest Marian devotion in Asia, a week-long celebration to honor the [[Virgin Mary]], dubbed as the "Patroness of Bicolandia". In Luzon, the Bicol Region holds the most men entering the [[seminary]] for [[Priesthood (Catholic Church)|Catholic priesthood]], or women entering the religious life to become [[Catholic Nuns and Sisters|Catholic nuns]]. This can be accredited to the [[Holy Rosary Minor Seminary]], [[Salesian Sisters of Don Bosco|Daughters of Mary]], and [[Daughters of Charity of Saint Vincent de Paul|Daughters of Charity]] Convents in [[Naga, Camarines Sur|Naga City]].
+
+The largest minority religion in the region is [[Iglesia ni Cristo]] (INC) known for its magnificent worship buildings, commonly called chapels or ''kapilya'', with towering spires that dot the Bicol landscape. Each province represents one ecclesiastical district (E.D.) with the exception of Camarines Sur which is divided into two – Camarines Southwest E.D. in Naga, and Camarines Southeast E.D. in Iriga City. In total, INC has seven ecclesiastical districts in the Bicol region. The chapel of local congregation of Legazpi, Albay is the biggest.
+
+Other religions are also well represented in Bicol such as Jehovah's Witnesses, Protestants denominations of Seventh-Day Adventist church, Baptist Church, Pentecostal, Islam, and indigenous religions.
+
+Prior to colonization, the region had a complex religious system which involved various deities. Among these deities include: Gugurang, the supreme god who dwells inside of [[Mount Mayon]] where he guards and protects the sacred fire in which Aswang, his brother was trying to steal. Whenever people disobey his orders, wishes and commit numerous sins, he would cause Mount Mayon to burst lava as a sign of warning for people to mend their crooked ways. Ancient Bikolanos had a rite performed for him called Atang;<ref name="ourownvoice.com">{{Cite web |last=Eugenio |first=Damiana L. |date=n.d. |title=Asuang Steals Fire from Gugurang |url=http://www.ourownvoice.com/tales/tales2004a-2.shtml |url-status=dead |archive-url=https://web.archive.org/web/20090526125514/http://www.ourownvoice.com/tales/tales2004a-2.shtml |archive-date=May 26, 2009 |access-date=April 3, 2010 |website=ourownvoice.com}}</ref><ref name="youtube.com">{{Cite AV media |url=https://www.youtube.com/watch?v=goLgDpSStmc |title=The Aswang Phenomenon |date=2011 |last=Clark |first=Jordan |type=Animation |via=Youtube}}</ref> Asuang, the evil god who always try to steal the sacred fire of Mount Mayon from his brother, Gugurang. Addressed sometimes as Aswang, he dwells mainly inside Mount Malinao. As an evil god, he would cause the people to suffer misfortunes and commit sins.<ref name="ourownvoice.com" /><ref name="youtube.com" /> Enemy of Gugurang and a friend of Bulan the god of the Moon; Haliya, the masked goddess of the moonlight and the archenemy of Bakunawa and protector of Bulan. Her cult is composed primarily of women. There is also a ritual dance named after her as it is performed to be a countermeasure against Bakunawa.;<ref>{{Cite news |last=Soltes |first=Jonas Cabiles |date=September 7, 2009 |title=Bicol Artist Protest Natl. Artist Awardees |work=Inquirer.net |url=http://newsinfo.inquirer.net/inquirerheadlines/nation/view/20090907-223978/Bicol-artists-protest-Natl-Artist-awardees |url-status=dead |access-date=April 3, 2010 |archive-url=https://web.archive.org/web/20090911045425/http://newsinfo.inquirer.net/inquirerheadlines/nation/view/20090907-223978/Bicol-artists-protest-Natl-Artist-awardees |archive-date=September 11, 2009}}</ref> ''Bulan'', the god of the pale moon, he is depicted as a pubescent boy with uncommon comeliness that made savage beast and the vicious mermaids (Magindara) tame. He has deep affection towards Magindang, but plays with him by running away so that Magindang would never catch him. The reason for this is because he is shy to the man that he loves. If Magindang manages to catch Bulan, Haliya always comes to free him from Magindang's grip; ''Magindang'', the god of the sea and all its creatures. He has deep affection to the lunar god Bulan and pursues him despite never catching him. Due to this, the Bicolanos reasoned that it is to why the waves rise to reach the Moon when seen from the distant horizon. Whenever he does catch up to Bulan, Haliya comes to rescue Bulan and free him immediately; ''Okot'', god of forest and hunting; and ''[[Bakunawa]]'', a gigantic sea serpent deity who is often considered as the cause of eclipses, the devourer of the sun and the moon, and an adversary of Haliya as Bakunawa's main aim is to swallow Bulan, who Haliya swore to protect for all of eternity.<ref>{{Cite news |last=Abella |first=Jerrie M. |date=January 15, 2010 |title=Eclipse; Bakunawa Eats the Sun Behind a Curtain of Clouds |work=GMANews.TV |url=http://www.gmanews.tv/story/181693/eclipse-bakunawa-eats-the-sun-behind-a-curtain-of-clouds |access-date=April 3, 2010 |archive-url=https://web.archive.org/web/20100323214445/http://www.gmanews.tv/story/181693/eclipse-bakunawa-eats-the-sun-behind-a-curtain-of-clouds |archive-date=March 23, 2010}}</ref>
+
+===Culture and traits===
+[[File:Bicol Express.jpg|right|thumb|Bicol express]]
+The Bicolano cuisine is primarily noted for the prominent use of [[chili peppers]] and ''gata'' ([[coconut milk]]) in its food. A classic example is the [[gulay na lada]], known outside the region as [[Bicol express]], a well-loved dish using ''[[siling labuyo]]'' (native small chillies) and the aforementioned ''gata''.
+
+Like their other neighboring regions, Bicolanas are also expected to lend a hand in household work. They are even anticipated to offer assistance after being married. On the other hand, Bicolano men are expected to assume the role of becoming the primary source of income and financial support of his family.
+
+Bicolanos are also known for being very religious, the place is known for Señora De Peñafrancia. Bicolanos are often sweet, regionalistic, friendly, adventurous, puts high importance on education and social status. Contrary to what is believed, not all Bicolanos are fond of chili. Men often know how to cook.
+
+==Infrastructure==
+===Roads and Bridges===
+* '''Matnog – Santa Magdalena – Bulusan Road''' – This project was a road improvement of Matnog – Santa Magdalena – Bulusan Road, linking the coastal barangays of Santa Magdalena – Bulusan – Matnog in the province of Sorsogon. This road also serves as an alternate route due to the traffic impairment along Daang Maharlika and also an access road leading to different tourist destination. The project was started on August 6, 2015, and was completed on July 20, 2018.<ref>{{Cite web |title=Roads and Bridges |url=http://build.gov.ph/Home/Project_Details/70?Agency=DPWH |access-date=August 2, 2019 |website=Build Build Build |archive-date=April 8, 2019 |archive-url=https://web.archive.org/web/20190408233825/http://build.gov.ph/Home/Project_Details/70?Agency=DPWH |url-status=dead }}</ref>
+
+==Economy==
+{{stack|{{PH poverty incidence}}}}
+[[File:Bicol_Region_Pili_Nuts2.jpg|200px|thumbnail|left|[[Canarium ovatum|Pili nuts]] (shelled and roasted)]]
+Bicol Region has a large amount of rich flatland, and agriculture is the largest component of the economy, followed by [[commercial fishing]]. [[Coconut]]s, [[abaca]], banana, coffee and [[jackfruit]] are the top five permanent crops in the region. Rice and corn are among the chief seasonal crops. Coal mining is also one of the contributors to the region's economy. [[Commercial fishing]] is also important with thirteen major fishing grounds supplying fish markets in places as far as [[Metro Manila]].<ref>{{Cite web |title=Bicol Regional Profile |url=http://r5.denr.gov.ph/index.php/about-us/regional-profile |archive-url=https://web.archive.org/web/20140827025659/http://r5.denr.gov.ph/index.php/about-us/regional-profile |archive-date=August 27, 2014 |access-date=August 26, 2014 |website=Department of Environment and Natural Resources: Region 5 – Bicol}}</ref>
+
+Currently, Bicol Region has 13,435 farmers that cultivate 142,405 [[hectare]]s of [[Canarium ovatum|pili]] plantation according the [[Department of Agriculture (Philippines)|Department of Agriculture]]-Bicol's data. The DA further said that 90% of Philippines' pili production is from the Bicol Region and it began [[asexual reproduction]] for the product's export. The [[Ecological resilience|resilient]] tree's fruit is 7% kernel, 25% shell and 68% pulp. The Sorsogon Provincial Pili Development Board will petition for the Region's declaration as the "Pili Capital of the Philippines".<ref>{{cite news |last1= Calipay|first1=Connie  |title=DA readies interventions for farmers eyeing pili milk production|url=https://www.pna.gov.ph/articles/1219643 |accessdate=May 16, 2024 |publisher=[[Philippine News Agency]] |date=February 27, 2024 }}</ref><ref>{{cite news |last1= Guarin|first1=Lovella |title=Exploring the potential of Bicol's pili nut as an export product|url=https://bicol.da.gov.ph/exploring-the-potential-of-bicols-pili-nut-as-an-export-product/ |accessdate=May 17, 2024 |publisher= [[Department of Agriculture (Philippines)]]|date=March 15, 2023}}</ref>
+
+In October 2023, the [[Department of Trade and Industry (Philippines)|Department of Trade and Industry]] launched "Orgullo kan Bikol" Trade and Travel Fair at [[Shangri-La Plaza]]. The 103 exhibitors are [[Small and medium-sized enterprises|MSMEs]] which displayed 253 new products from Bikol's 6 provinces.<ref>{{cite news |last1= Calipay|first1=  Connie|title=103 Bicol MSMEs to showcase top products at Manila fair|url= https://www.pna.gov.ph/articles/1212028|accessdate=May 24, 2024 |publisher=[[Philippine News Agency]] |date=October 18, 2023}}</ref>
+
+== Tourism ==
+{{Unreferenced section|date=July 2018}}[[File:Butanding Whale Shark (Donsol, Sorsogon) (794278440).jpg|thumb|[[Whale shark]] spotting in [[Donsol, Sorsogon]]]]
+The region's [[Tourism in the Philippines|tourism industry]] has been revived by the popularity of [[Mayon Volcano]], the new [[CamSur Water Sports Complex]], whale shark spotting, among others, which consequently increased the number of upscale resorts. Naga City has its colonial churches, and pilgrimages to Our Lady of Peñafrancia.<ref>{{Cite news |last=Gatdula |first=Donnabelle L. |date=June 3, 2013 |title=Naga City Allots P1B for Infra |work=Philstar Global |url=http://www.philstar.com/business/2013/06/03/949384/naga-city-allots-p1b-infra |access-date=March 11, 2016 |archive-url=https://web.archive.org/web/20160127191546/http://www.philstar.com/business/2013/06/03/949384/naga-city-allots-p1b-infra |archive-date=January 27, 2016 |url-status=live }}</ref><ref>{{Cite web |last=Lagdameo |first=F. J. |date=September 23, 2010 |title=PNoy's EO Declares Naga 'Pilgrim City' |url=http://voxbikol.com/bikolnews/5005/pnoys-eo-declares-naga-pilgrim-city |url-status=dead |archive-url=https://web.archive.org/web/20140429061852/http://voxbikol.com/bikolnews/5005/pnoys-eo-declares-naga-pilgrim-city |archive-date=April 29, 2014 |access-date=March 11, 2016 |website=Vox Bikol}}</ref><ref>{{Citation |title=Proclamation No. 33, s. 2010 |url=https://www.officialgazette.gov.ph/2010/09/10/proclamation-no-33-s-2010/ |via=Official Gazette |mode=cs1}}</ref>
+
+The municipality of [[Daet]] and Catanduanes province have long been destinations for surfers.<ref>{{Cite web |date=January 28, 2016 |title=Catanduanes Surfing Like No Other |url=http://www.philippines-travel-guide.com/catanduanes-surfing.html |access-date=March 11, 2016 |website=Philippines Travel Guide}}</ref> The opening of the [[Bicol International Airport]] in Legazpi City was hoped to further boost tourism in the region.
+
+==Geology==
+Bicol region is highly volcanic in origin and part of the [[Pacific Ring of Fire]]. Known as the Bicol [[Volcanic Arc]] or Chain, the volcanoes are the results of the [[Philippine Sea Plate]] [[subduction|subducting]] under the [[Philippine Mobile Belt]], along the [[Philippine Trench]]. Volcanism is evident by the number of [[hot springs]], [[Volcanic crater lake|crater lake]]s, and [[volcano]]es that dot the region starting from [[Mount Labo]] in Camarines Norte to the Gate Mountains in [[Matnog, Sorsogon]].<ref>{{Cite journal |last1=McDermott |first1=Frank |last2=Delfin |first2=Francisco G. Jr. |last3=Defant |first3=Marc J. |last4=Turner |first4=Simon |last5=Maury |first5=Rene |date=2005 |title=The Petrogenesis of Volcanics from Mt. Bulusan and Mt. Mayon in the Bicol Arc, the Philippines |url=http://www.ucd.ie/geology/prg/publications%20pdf/mcdermott%20et%20al%202005%20contrib%20mineral%20petrol.pdf |journal=Contributions to Mineralogy and Petrology |volume=150 |issue=6 |pages=652–670 |doi=10.1007/s00410-005-0042-7 |bibcode=2005CoMP..150..652M |s2cid=17067654 |archive-url=https://web.archive.org/web/20140302001141/http://www.ucd.ie/geology/prg/publications%20pdf/mcdermott%20et%20al%202005%20contrib%20mineral%20petrol.pdf |archive-date=March 2, 2014 |access-date=May 22, 2012 |url-status=live }}</ref>
+
+[[Mayon Volcano]] is the most prominent of the volcanoes in the region, famous for its perfect conical shape and for being the most active in the Philippines. Its eruptions have repeatedly inflicted disasters on the region, but during lulls in activity, it is a particularly magnificent peak. The southernmost tip of the peninsula is dominated by [[Bulusan Volcano]], the other [[active volcano]] in the region. [[Tiwi, Albay|Tiwi]] in Albay and the [[Bacon, Sorsogon|Bacon]]-[[Manito, Albay|Manito]] area between Sorsogon and Albay are the sites of two major [[geothermal energy|geothermal fields]] that contribute substantially to the Bicol Power Grid, which is the only independent power grid in the Philippines.<ref>{{Cite web |title=Our Projects |url=http://www.energy.com.ph/our-projects/geothermal/ |url-status=dead |archive-url=https://web.archive.org/web/20110913021850/http://www.energy.com.ph/our-projects/geothermal/ |archive-date=September 13, 2011 |access-date=August 1, 2011 |website=Energy Development Corporation}}</ref><ref>{{Cite web |date=January 20, 2009 |title=The Tiwi Geothermal Power Plant |url=http://www.jcmiras.net/jcm2/p91.htm |url-status=dead |archive-url=https://web.archive.org/web/20110806101817/http://www.jcmiras.net/jcm2/p91.htm |archive-date=August 6, 2011 |access-date=August 1, 2011 |website=Jcmiras.Net Gallery}}</ref>
+
+===Volcanoes===
+'''From North to South'''
+{| class="wikitable"
+|- dfaddade a
+! scope=col" | Picture
+! scope=col" | Name
+|-style="vertical-align:top;"
+! scope=row" | [[File:A view of Mt. Isarog 03.JPG|200px]]
+| '''[[Mount Isarog]]''' is a {{convert|1966|m|adj=on}} [[fumarolic]] volcano with a {{convert|2.5|km|adj=on}} wide crater breached to the east.<ref>{{cite gvp|vn=273042|name=Isarog|access-date=May 22, 2012}}</ref> The mountain and vicinity covering {{convert|10112|ha}} is a [[protected area]] in the Bicol Region under the name ''Mount Isarog Natural Park''.<ref name="PAWB">{{Cite web |date=March 11, 2010 |title=Region 5 – Protected Areas |url=http://www.pawb.gov.ph/index.php?option=com_content&view=article&id=65:region-5&catid=69:regions |url-status=dead |archive-url=https://web.archive.org/web/20120321103724/http://www.pawb.gov.ph/index.php?option=com_content&view=article&id=65%3Aregion-5&catid=69%3Aregions |archive-date=March 21, 2012 |access-date=May 22, 2012 |website=Bureau of Protected Areas and Wildlife Bureau}}</ref>
+|-style="vertical-align:top;"
+! scope=row" | [[File:Mount Iriga.jpg|200px]]
+| '''[[Mount Iriga]]''' is a {{convert|1196|m|adj=on}} volcano with a large horseshoe-shaped collapsed crater located adjacent to [[Lake Buhi]] (foreground).<ref>{{cite gvp|vn=273041|name=Iriga|access-date=May 22, 2012}}</ref>
+|-style="vertical-align:top;"
+! scope=row" | [[File:Mount Malinao.jpg|200px]]
+| '''[[Mount Malinao]]''' is a {{convert|1548|m|adj=on}} volcano with a large crater about {{convert|3|km|mi}} at its widest, which is breached to the east, The geothermal fields of Tiwi are located on its lower eastern slope.<ref>{{cite gvp | vn=273801|name=Malinao|access-date=May 22, 2012}}</ref>
+|-style="vertical-align:top;"
+! scope=row" | [[File:Masaraga.jpg|200px]]
+| '''[[Mount Masaraga]]''' is a sharp-topped {{convert|1328|m|adj=on}} [[Holocene]] volcano NW of Mayon.<ref>{{cite gvp|vn=273031|name=Masaraga|access-date=May 22, 2012}}</ref>
+|-style="vertical-align:top;"
+! scope=row" | [[File:Mt.Mayon tam3rd.jpg|200px]]
+| '''[[Mayon Volcano]]''', the highest point of the region at {{convert|2463|m}}, is also the most popular in the region for its beautifully symmetrical cone. It is also the most active in the country.<ref>{{cite gvp|vn=273030|name=Mayon|access-date=May 22, 2012}}</ref> The volcano is one of the protected areas of Region V under the name ''Mayon Volcano Natural Park'' encompassing {{convert|5776|ha}}.<ref name="PAWB" />
+|-style="vertical-align:top;"
+! scope=row" | [[File:Pocdolberge.jpg|200px]]
+| '''[[Pocdol Mountains]]''' with its highest elevation at {{convert|1102|m}}, is a fumarolic group of volcanoes situated between Albay and Sorsogon provinces. It is the location of the Bac-Man Geothermal Power Plant and the PNOC Eco-Park, a {{convert|25100|ha|adj=on}} [[ecotourism]] park maintained and protected by the [[Philippine National Oil Company]] (PNOC).<ref>{{cite gvp|vn=273020|name=Pocdol Mountains|access-date=May 22, 2012}}</ref><ref>{{Cite web |last=Jamoralin |first=Reynaldo T. |date=n.d. |title=Places of Interest |url=http://www.sorsogontourism.com/places_of_interest.htm |url-status=dead |archive-url=https://web.archive.org/web/20120314185542/http://www.sorsogontourism.com/places_of_interest.htm |archive-date=March 14, 2012 |access-date=May 22, 2012 |website=sorsogontourism.com}}</ref>
+|-style="vertical-align:top;"
+! scope=row" | [[File:A dormant Mt. Bulusan.jpg|200px]]
+| '''[[Bulusan Volcano]]''', the other active volcano of the region, has an altitude of {{convert|1565|m}}. It is located on the remains of the {{convert|11|km|adj=on}} Irosin Caldera.<ref>{{cite gvp|vn=273010|name=Bulusan|access-date=May 22, 2012}}</ref> The volcano is a protected area and the centerpiece of the {{convert|3672|ha|adj=on}} ''Bulusan Volcano Natural Park''.<ref name="PAWB" />
+|}
+
+==Education==
+{{Main|Education in the Philippines}}
+[[File:WTNaga BAHALANA A2a.JPG|right|thumb|Ateneo de Naga University]]
+From 1945 until 2011, the basic education system was composed of six years of elementary education starting at the age of 6, and four years of [[high school|high school education]] starting at the age of 12. Further education was provided by technical or vocational schools, or in higher education institutions such as universities. Although the [[Constitution of the Philippines|1987 Constitution]] stated that elementary education was compulsory, this was never enforced.{{citation needed|date=August 2014}}
+ 
+In 2011, the country started to transition from its old 10-year basic educational system to a K–12 educational system, as mandated by the Department of Education.<ref name="K12">{{Citation |title=[K-12 primer as of 20 December 2011] |url=http://www.deped.gov.ph/cpanel/uploads/issuanceImg/Kto12%20Primer%20as%20of%20Dec%202011.pdf |archive-url=https://web.archive.org/web/20120522231741/http://www.deped.gov.ph/cpanel/uploads/issuanceImg/Kto12%20Primer%20as%20of%20Dec%202011.pdf |publisher=[[Department of Education (Philippines)|Department of Education]] |access-date=April 28, 2012 |archive-date=May 22, 2012 |mode=cs1}}</ref> The new 12-year system is now compulsory, along with the adoption of new curriculum for all schools (see [[Education in the Philippines#2010s and the K–12 program|2010s and the K–12 program]]). The transition period will end with the 2017–2018 school year, which is the graduation date for the first group of students who entered the new educational system.
+
+All public schools in the Philippines must start classes on the date mandated by the Department of Education (usually the first Monday for public, second Monday for private and third Monday for some colleges for the month of June) since the [[presidency of Joseph Estrada]] in 1999, and must end after each school completes the mandated 200-day school calendar organized by the Department of Education (usually around the third week of March to the second week of April). Private schools are not obliged to abide by a specific date but must open classes no later than the last week of August.
+
+{| class="wikitable sortable" valign
+! Name !! Acronym !! Province (Main campus) !! City/Municipality !! Established
+|-
+| [[Ateneo de Naga University]] || {{center|AdNU}} || [[Camarines Sur]] || [[Naga City, Camarines Sur|Naga City]] || {{center|1940}} 
+|-
+| [[Bicol State College of Applied Sciences and Technology|Southeast Asian University of Technology]] || {{center|SEAUTech}} || [[Camarines Sur]] || [[Naga City, Camarines Sur|Naga City]] || {{center|1911}} 
+|-
+| [[Bicol University]] || {{center|BU}} || [[Albay]] || [[Legazpi, Albay|Legazpi City]] || {{center|1969}} 
+|-
+| [[Catanduanes State University]] || {{center|CatSU}} || [[Catanduanes]] || [[Virac, Catanduanes|Virac]] || {{center|1961}} 
+|-
+| [[Central Bicol State University of Agriculture]] || {{center|CBSUA}}|| [[Camarines Sur]] || [[Pili, Camarines Sur|Pili]]
+|{{center|1918}} 
+|-
+| [[Divine Word College of Legazpi]] ||{{center|DWCL}} || [[Albay]] || [[Legazpi City]] ||{{center|1947}} 
+|-
+| [[Dr. Emilio B. Espinosa Sr. Memorial State College of Agriculture and Technology]] || {{center|DEBESMSCAT}} || [[Masbate]] || [[Mandaon, Masbate|Mandaon]] || {{center|1952}} 
+|-
+|Naga College Foundation, Inc.|| {{center|NCF}} || [[Camarines Sur]] || [[Naga, Camarines Sur|Naga City]] ||{{center|1947}}
+|-
+|Mariners' Polytechnic Colleges, Inc. ||{{center|MPC}} || [[Camarines Sur]] || [[Naga, Camarines Sur|Naga City]] ||{{center|1974}}
+|-
+| [[Partido State University]] || {{center|PSU}} || [[Camarines Sur]] || [[Goa, Camarines Sur|Goa]] || {{center|2001}} 
+|-
+| [[Camarines Sur Polytechnic Colleges|Polytechnic State University of Bicol]] || {{center|PSUB}} || [[Camarines Sur]] || [[Nabua, Camarines Sur|Nabua]] || {{center|1983}} 
+|-
+| [[Sorsogon State University]] || {{center|SorSU}}|| [[Sorsogon]] || [[Sorsogon City]] || {{center|1907}} 
+|-
+| [[Universidad de Santa Isabel]] || {{center|USI}} || [[Camarines Sur]] || [[Naga City, Camarines Sur|Naga City]] || {{center|1868}} 
+|-
+| [[Camarines Norte State College|University of Camarines Norte]] || {{center|CNSC}} || [[Camarines Norte]] || [[Daet, Camarines Norte|Daet]] || {{center|1992}} 
+|-
+| [[University of Nueva Caceres]] || {{center|UNC}} || [[Camarines Sur]] || [[Naga City, Camarines Sur|Naga City]] || {{center|1948}} 
+|-
+| [[University of Santo Tomas–Legazpi]] || {{center|UST–Legazpi}} || [[Albay]] || [[Legazpi City]] || {{center|1948}} 
+|-
+| Bicol University Gubat Campus || {{center|BUGC}} || [[Sorsogon]] || [[Gubat]] || {{center|2000}} 
+|}
+
+==Notable people==
+
+{| class="wikitable collapsible collapsed" style="font-size:95%;background-color:white;width:100%;"
+|+Public service and governance
+! scope="col" | Name
+! scope="col" | Information
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Leni Robredo]]
+| Vice President of the Republic of the Philippines (2016–2022), politician and lawyer. Served during the 16th Congress as Member of the [[House of Representatives of the Philippines|Philippine House of Representatives]] from [[Legislative district of Naga|Camarines Sur's Third District]].<ref name="CONGRESSGOVprofile">{{Cite web |title=Gerona-Robredo, Leni |url=http://www.congress.gov.ph/members/search.php?id=robredo-m |url-status=dead |archive-url=https://web.archive.org/web/20160304204641/http://www.congress.gov.ph/members/search.php?id=robredo-m |archive-date=March 4, 2016 |access-date=March 11, 2016 |website=congress.gov.ph}}</ref> The widow of then Interior Secretary [[Jesse Robredo]]. Born in [[Naga, Camarines Sur|Naga City]].
+|-
+
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Tecla San Andres Ziga]] 
+| Former senator, first female bar top-notcher. Born in [[Nueva Caceres]], Ambos Camarines.
+|- 
+
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Raul Roco]]
+| Born in [[Naga, Camarines Sur|Naga City]], a Filipino statesman, prominent lawyer, congressman, senator, secretary of education) during the presidency of [[Gloria Macapagal Arroyo]].
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Francis Escudero|Francis "Chiz" Escudero]]
+| Incumbent senator, 2016 vice-presidential aspirant, former Sorsogon representative, and former Sorsogon governor. 
+|- 
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Antonio Trillanes IV]] 
+| Former senator, vice-presidential aspirant (2016), and former military officer. Leader of the Magdalo group.
+|- 
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Gregorio Honasan]]
+| Former senator, vice-presidential aspirant (2016), and former military officer. 
+|- 
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Leila de Lima]] 
+| Former senator, lawyer, human rights activist and politician. She was appointed by President Gloria Macapagal Arroyo as chairperson of the Philippine Commission on Human Rights in May 2008 and she served in the commission until June 30, 2010, when she was appointed by President Benigno S. Aquino III as the Philippines' secretary of the Department of Justice.
+|- 
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Joker Arroyo|Ceferino "Joker" Arroyo Jr.]] 
+| Former senator turned congressman, statesman and key figure in the 1986 EDSA People Power Revolution which ousted strongman President Ferdinand Marcos. He was congressman for Makati from 1992 to 2001 and a senator from 2001 to 2013. Philippine Bar Association's Most Distinguished Award for Justice as a "man beholden to no one except to his country" and a Senate Resolution No. 100 enacted in the 8th Congress commending him for his invaluable services to the Filipino people.
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Francisco Tatad]]
+| A native from [[Catanduanes]], former senator of the Philippines (1992–2001)
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Jesse Robredo]]
+| Secretary of the [[Department of the Interior and Local Government|Interior and Local Government]] and former [[Naga, Camarines Sur|Naga City]] mayor
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Irene Cortes]]
+| She was a former associate justice of the [[Supreme Court of the Philippines]] / First female dean of the [[UP College of Law]]
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Shalani Soledad|Shalani Soledad-Romulo]]
+| Valenzuela representative and TV host
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Joseph Santiago]]
+| Congressman for two terms 2004 and 2007. He is a former executive of [[Philippine Long Distance Telephone Company#Subsidiaries and affiliates|Pilipino Telephone Corporation]]. Serves as commissioner of the [[National Telecommunications Commission (Philippines)|National Telecommunications Commission]], and from 1997 to 1998, he served as team manager of the [[Talk 'N Text Phone Pals|Mobiline Cellulars]] professional basketball team in the [[Philippine Basketball Association]].
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Leandro Verceles Sr.]]
+| Philippine ambassador, governor, Philippine immigration commissioner, initiator of the Catanduanes Circumferential Road, initiator of the ARDCI, a micro-lending strategy that eventually led to the nationally acclaimed Vision Bank.
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Leandro Verceles Jr.]]
+| Congressman (1992–2001), governor (2001–2006), principal author of the Philippine [[E-commerce|E-Commerce Act]] that paved the way for the burgeoning $20b [[Business process outsourcing in the Philippines|BPO industry in the Philippines]].
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Arnulfo Fuentebella]]
+| [[House of Representatives of the Philippines]] 11th Congress speaker of the House (2000 -2001)
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Gina de Venecia|Gina Vera-Perez de Venecia]]
+| She is daughter of the famed star-builder of Sampaguita Pictures, then Doc Jose Perez and Azucena Vera-Perez. She is married to [[Jose de Venecia, Jr.]], [[Speaker of the House of Representatives of the Philippines]] from 1992 to 1998 and 2001 to 2008.
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[José María Panganiban]]
+| A Filipino propagandist, linguist, and essayist. He was one of the main writers and contributors for ''La Solidaridad'', writing under the pen names "Jomapa" and "J.M.P." The municipality of Jose Panganiban in Camarines Norte—formerly known as Mambulao—is named after him.
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Crispin Beltran]] 
+| A Filipino [[Labor Movement|labor]] leader. Former member of [[13th Congress of the Philippines]] with the [[Anakpawis]] ("Toiling Masses") [[Party-list proportional representation|party-list]] and former chair of [[Kilusang Mayo Uno]] (KMU), a militant and progressive labor movement.
+|-
+![[Romulo Espaldon]]
+|A former military officer, politician, civil servant and diplomat who was the first naval officer to attain the rank of [[Rear admiral|Rear Admiral]] in the [[Philippine Navy]]. As a civilian, he became ambassador to Saudi Arabia, Yemen, Egypt, Somalia and Sudan in different time periods. He held two political p
+positions, such as being Tawi-Tawi's first governor (1973-1974) and a lone district representative of Tawi-Tawi (1990-1992). Born in [[Donsol]], [[Sorsogon]] to Christian Bicolano teachers but raised in Tawi-Tawi where his parents were sent to teach and he became exposed into Tausug and Sama cultures and converted to Islam at a yong age, which soon earned him a position as a first Commissioner (later Minister) of Muslim Affairs. 
+|}
+
+{| class="wikitable collapsible collapsed" style="font-size:95%;background-color:white;width:100%;"
+|+Arts and literature
+! scope="col" | Name
+! scope="col" | Information
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Merlinda Bobis|Merlinda Carullo Bobis]]
+| Born in Legazpi City, she is a contemporary Filipino writer and academic in Australia
+|}
+
+{| class="wikitable collapsible collapsed" style="font-size:95%;background-color:white;width:100%;"
+|+Sports
+! scope="col" | Name
+! scope="col" | Information
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Bernabe Concepcion]]
+| A native of [[Catanduanes]] and Filipino [[featherweight]] boxer
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Don Trollano]]
+| A native from [[Gigmoto, Catanduanes|Gigmoto]]. He is a Filipino professional basketball player for the [[NLEX Road Warriors]] of the [[Philippine Basketball Association]] (PBA).
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Reil Cervantes]]
+| From [[Virac, Catanduanes|Virac]]. Is a Filipino professional basketball player for [[Blackwater Elite]] in the [[Philippine Basketball Association]] (PBA). He was drafted 9th by [[Barangay Ginebra San Miguel|Barangay Ginebra Kings]] in the [[2011 PBA draft]].<ref>{{Cite web |title=Reil Cervantes |url=http://www.pba-online.net/profile/Reil-Cervantes/446/ |url-status=dead |website=Pba-online |access-date=December 4, 2017 |archive-date=November 15, 2016 |archive-url=https://web.archive.org/web/20161115142145/http://www.pba-online.net/profile/Reil-Cervantes/446/ }}</ref> In 2014, he was drafted 2nd overall by [[Kia Sorento (PBA team)|Kia Sorento]] in the [[2014 PBA Expansion Draft]].<ref>{{Cite web |last=Bracher |first=Jane |date=July 18, 2014 |title=Ildefonso, Cervantes Lead Pba Expansion Draft Picks |url=https://www.rappler.com/sports/63708-ildefonso-cervantes-pba-expansion-draf-kia-blackwater/ |access-date=February 2, 2022 |website=Rappler}}</ref>
+|}
+
+{| class="wikitable collapsible collapsed" style="font-size:95%;background-color:white;width:100%"
+|+Entertainment industry
+! scope="col" | Name
+! scope="col" | Information
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[John Arcilla]]
+| Is a multi-awarded [[Filipino people|Filipino]] movie actor<ref>{{Cite web |title=John Arcilla |url=https://www.imdb.com/name/nm0033843/ |access-date=March 11, 2016 |website=IMDb}}</ref> and environmentalist.<ref>{{Cite web |last=Salamat |first=Marya |date=March 2, 2012 |title=John Arcilla, Actor, Environmentalist Attends Peoples' Mining Conference |url=http://bulatlat.com/main/2012/03/02/john-arcilla-actor-environmentalist-attends-peoples%E2%80%99-mining-conference/ |access-date=March 11, 2016 |website=Bulatlat}}</ref>
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Nora Aunor]]
+| Multi-awarded Filipino actress, singer and producer. She is regarded as the "Superstar in Philippine Entertainment Industry".
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Janelle Quintana|Janelle Quintana Manahan]]
+| Teen actress/Best New Female Artist (19th [[Aliw Awards]]) nominee
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Enchong Dee]]
+| Born Ernest Lorenzo Dee, is an actor in [[Naga, Camarines Sur|Naga City]], director and model, and an international competitive swimmer. He came to prominence after starring in ''[[Katorse]]'' (2009).
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[AJ Dee]]
+| Born Angel James Dee III in [[Naga, Camarines Sur|Naga City]], is an actor and an international competitive swimmer. He played the role of Tony Javier in the play ''A Portrait of an Artist''.
+|- 
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Robin Padilla]]
+| Film/TV Actor and model popularly known as the "Bad Boy of Philippine Movies". Also an incumbent senator after topping the 2022 senatorial polls.
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Eddie Garcia]]
+| Born in [[Juban, Sorsogon|Juban]]. Popularly known as "Manoy", he was a Filipino film actor and film director. A former member of the Philippine Scouts in Okinawa during World War II. Also a member of the Philippine Military Academy Marangal Class of 1974, alongside [[First Spouse of the Philippines|First Gentleman]] [[Jose Miguel Arroyo|Mike Arroyo]].
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Eddie Ilarde]]
+| Radio and television host. Born in [[Iriga, Camarines Sur|Iriga]]. Also served political positions such as becoming councilor of [[Pasay City|Pasay]], congressman, and assemblyman.
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Wally Bayola]]
+| Is a Filipino comedian, singer and actor born and raised in [[Naga, Camarines Sur|Naga City]]. He is best known appearing alongside his co-tandem [[Jose Manalo]] on the noon-time television variety show [[E.A.T. (TV program)|E.A.T.]]
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Gary Valenciano|Gary V.]]
+| Is a Filipino musician. Also known as "Mr. Pure Energy", Valenciano has released 26 albums, and won the [[Awit Awards]] for "Best Male Performer" eleven times. In 1998, he became [[UNICEF Philippines]] first National Ambassador.
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Imelda Papin]]
+| Is a Filipino singer and one of the bigger names in the [[Music of the Philippines|Philippine music industry]]. Dubbed the "Sentimental Songstress", Imelda Papin is responsible for songs such as "Bakit (Kung liligaya ka sa piling ng iba)" and "Isang Linggong Pag-ibig". Born in [[Presentacion]], she also served as vice governor of Camarines Sur from 2019 to 2022.
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Kyla (Filipino singer)|Kyla]]
+| Melanie Calumpad Alvarez in real name. Kyla is a [[Filipino people|Filipino]] [[Contemporary R&B|R&B]] singer-songwriter, producer, occasional actress and presenter dubbed as the Philippines' "Queen of R&B".
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;"|[[Paolo Gumabao]]
+|Born Paul Chen, is a Filipino actor and model. He is from [[Virac, Catanduanes|Virac]].
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Carmen Camacho]]
+| 1960s Philippine Kundiman Diva
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Noel Cabangon]]
+| Is a Filipino folk singer and composer, formerly of the band Buklod. He is known for composing socially-relevant songs such as Kanlungan and Tatsulok.
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Jericho Rosales]]
+| Is a Filipino cinema and television actor, model, singer, and songwriter.
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | Julian Alturas
+| A former Filipino child actor and former Star Magic ''Artist.'' 
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Aga Muhlach]]
+| Actor, model, host and former matinée idol of Philippine movies.
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Beatriz Saw]]
+| Actress, TV host and [[Pinoy Big Brother]] Season 2 big winner
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Bugoy Drilon]]
+| Singer, actor and [[Pinoy Dream Academy]] Season 2 2nd Star Dreamer
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Barbie Imperial]]
+| Actress and model
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Lino Brocka]]
+| Multi-awarded film director. Co-founded the organization Concerned Artists of the Philippines (CAP) and the Free the Artist Movement. Born in Pilar, Sorsogon.
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Allen Ansay]]
+| Born in Sagñay, Camarines Sur, actor and was the first runner-up of [[StarStruck (season 7)]]
+|}
+
+{| class="wikitable collapsible collapsed" style="font-size:95%;background-color:white;width:100%"
+|+Modeling and fashion
+! scope="col" | Name
+! scope="col" | Information
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Precious Lara Quigaman|Lara Quigaman]]
+| Born in [[Naga, Camarines Sur|Naga City]]. Film/TV actress, model, host and [[Miss International 2005]] winner.
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Venus Raj]]
+| Beauty queen, TV personality, model, and actress. She was crowned [[Binibining Pilipinas 2010|Binibining Pilipinas-Universe 2010]]. Fourth runner-up in 2010 Miss Universe pageant.
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Miriam Quiambao]]
+| Is a Filipina television personality, occasional actress and 1st runner up at the Miss Universe 1999 pageant.
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Bea Rose Santiago]]
+| Fords model and [[Miss International 2013]] winner. She was born in [[Cataingan]], [[Masbate]].
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Yvethe Marie Santiago]]
+| Graduated in Bicol University College of Business Economics and Management [[Binibining Pilipinas Supranational 2014]] winner.
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Christi McGarry]]
+| A Filipino-American model and beauty pageant titleholder crowned Miss Intercontinental 2015 First runner-up.
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Rachel Peters]]
+| A Filipino-British model and beauty pageant titleholder who was crowned [[Miss Universe|Miss Universe Philippines 2017]]
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Catriona Gray]]
+| A Filipino-Australian model and beauty pageant titleholder who was crowned [[Miss World|Miss World Philippines 2016]] and [[Miss Universe|Miss Universe Philippines 2018]]
+|}
+
+{| class="wikitable collapsible collapsed" style="font-size:95%;background-color:white;width:100%;"
+|+Religion
+! scope="col" | Name
+! scope="col" | Information
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Jose Tomas Sanchez]]
+| Born in [[Naga, Camarines Sur|Naga City]]. Roman Catholic Prefect Emeritus of the Congregation for the Clergy and Cardinal Priest from the Philippines
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Mike Velarde]]
+| Tele-evangelist, founder and Servant-Leader of [[El Shaddai (movement)|El Shaddai DWXI-PPFI]]
+|-
+! scope="row" style="background-color:initial;white-space:nowrap;" | [[Jorge Barlin]]
+| Born in [[Baao, Camarines Sur|Baao]]. First native-born Filipino bishop.
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{Commons category-inline}}
+* {{Wiktionary-inline|Bicol}}
+* {{Wikivoyage inline}}
+* {{OSM relation}}
+
+{{Geographic location
+| Centre = Bicol Region
+| North = ''[[Philippine Sea]]''
+| West = [[Mimaropa]] / ''[[Sibuyan Sea]]''
+| East = ''[[Philippine Sea]]''
+| South = ''[[Visayan Sea]]''<br>[[Central Visayas]]
+| Northwest = [[Calabarzon]]
+| Southwest = ''[[Jintotolo Channel]]''<br>[[Western Visayas]]
+| Southeast = ''[[San Bernardino Strait]]''<br>[[Eastern Visayas]]
+}}
+{{Bicol Region}}
+{{Regions of the Philippines}}
+
+[[Category:Bicol Region]]
+[[Category:Regions of the Philippines]]
+[[Category:Luzon]]
+[[Category:Peninsulas of the Philippines]]

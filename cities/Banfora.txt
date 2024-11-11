@@ -1,0 +1,324 @@
+{{Short description|City in the Cascades Region, Burkina Faso}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Basic info  ---------------->
+|name                   = Banfora <!-- at least one of the first two fields must be filled in -->
+|official_name          = 
+|other_name             =
+|native_name            =  <!-- if different from the English name -->
+|nickname               = 
+|settlement_type        = [[List of cities in Burkina Faso|City]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Markt Banfora MS 2255.JPG 
+|imagesize              = 280px
+|image_caption          = Banfora market
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            =Burkina Faso <!-- name of a location map as per Template:Location_map -->
+|pushpin_label_position = <!-- position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location within Burkina Faso
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{BUR}}
+|subdivision_type1      = Region
+|subdivision_name1      = [[Cascades Region|Cascades]]
+|subdivision_type2      = Province
+|subdivision_name2      = [[Comoé Province|Comoé]]
+|subdivision_type3      = 
+|subdivision_name3      = 
+|subdivision_type4      = 
+|subdivision_name4      =
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type              =
+|seat                   =
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) --> 
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink --> 
+|area_footnotes           =
+|area_total_km2           = 
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_total_dunam         = <!--Used in Middle East articles only-->
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 303
+|elevation_ft           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               =2019 census
+|population_footnotes           =<ref name=pop>[https://www.citypopulation.de/en/burkinafaso/cities/ Citypopulation.de] Population of the major cities in Burkina Faso</ref>
+|population_note                =
+|population_total               = 117452
+|population_density_km2         = <!--For automatic calculation, any density field may contain: auto -->
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[Greenwich Mean Time|GMT]]
+|utc_offset             = +0
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|10|37|51|N|4|45|32|W|region:BF_type:city|display=inline,title}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              = +226 209
+|twin1                  =
+|twin1_country          =
+|twin2                  =
+|twin2_country          =
+|twin3                  =
+|twin3_country          =
+|twin4                  =
+|twin4_country          =
+|twin5                  =
+|twin5_country          =
+|twin6                  =
+|twin6_country          =
+|twin7                  =
+|twin7_country          =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|blank2_name            =
+|blank2_info            =
+|blank3_name            =
+|blank3_info            =
+|blank4_name            =
+|blank4_info            =
+|blank5_name            =
+|blank5_info            =
+|blank6_name            =
+|blank6_info            =
+|website                = 
+|footnotes              = 
+}}
+'''Banfora''' is a city in southwestern [[Burkina Faso]], with a population of 117,452 (2019 census)<ref name=pop/> making it the sixth most populous city in Burkina Faso. It is the capital of the [[Comoé Province|Comoe]] province. The city lies {{convert|85|km}} south-west of [[Bobo-Dioulasso]], on the [[Rail transport in Burkina Faso|Abidjan – Ouagadougou Railway]]. The [[Cascades de Karfiguéla]] are a series of waterfalls close to Banfora.
+
+==History==
+[[File:Les.Colonies.françaises.Helio.Sadag.1931.Flammarion.Haute-Volta. Régio de Banfora. Le battage du riz (cropped).jpg|thumb|left|A village scene from the area around Banfora, 1931]]
+[[File:Maarten van der Bent Banfora.jpg|thumb|right|Street in Banfora]]
+The first settlers were the Karaboro who with the Gouin and Turkas constitute the city's main ethnic groups. They are all from the south of Burkina Faso.
+
+In 1903 the French colonialist forces created a military post at Banfora and one year later created an administrative position there. In 1905 a road was built linking Banfora to [[Bobo-Dioulasso]] and in 1931 a railway was built to the town.
+
+==Economy==
+The economy has grown around the [[sugar cane]] industry. The city is also an important market town and there are hotels which support a small tourism industry linked to the [[Cascades de Karfiguéla]].
+
+==Transportation==
+[[File:Https- www.flickr.com photos maartenvdbent 12567779015, Banfora Gare.jpg|thumb|left|Banfora train station]]
+The city has a railroad station along the [[Rail transport in Burkina Faso|Abidjan – Ouagadougou Railway]]. As of June 2014 ''Sitarail'' operated a passenger train along the line three times a week in each direction.<ref>European Rail Timetable, Summer 2014 Edition, (journey time is 43 to 48 hours)</ref> It is a way station for transport to and from Côte d'Ivoire as it is the last city in Burkina Faso before the border. The paved road from Bobo-Dioulasso continues to the border and cargo will often stop at [[Niangoloko]] before reaching customs.
+
+==Education==
+Banfora has 19 primary schools, two high schools, four private colleges and the College of Sainte Thérèse.
+
+==Healthcare==
+The city has a regional hospital (CHR), a maternal and infant protection unit and three pharmacies. Traditional medicine is also practiced and there is a center for traditional therapies. 
+==Demographics==
+The main ethnic groups are the [[Gouin people|Gouin]], the [[Karaboro]] and the [[Turka people|Turka]]. The most commonly used languages for communication between people of different ethnicities living in Banfora are [[Dyula language|Dioula]] and [[French language|French]].
+
+== Climate ==
+[[Köppen-Geiger climate classification system]] classifies its climate as [[tropical wet and dry climate|tropical wet and dry]] (Aw).
+
+{{Weather box
+|metric first=yes
+|single line=yes
+|location=Banfora (elevation: 313m)
+|temperature colour=pastel
+|Jan high C=33.6
+|Feb high C=35.7
+|Mar high C=36.9
+|Apr high C=36.8
+|May high C=35
+|Jun high C=32.6
+|Jul high C=30.8
+|Aug high C=30.2
+|Sep high C=31.1
+|Oct high C=33.3
+|Nov high C=34.9
+|Dec high C=33.6
+
+|Jan mean C=25.4
+|Feb mean C=27.8
+|Mar mean C=29.9
+|Apr mean C=30.7
+|May mean C=29.5
+|Jun mean C=27.5
+|Jul mean C=26.3
+|Aug mean C=25.9
+|Sep mean C=26.3
+|Oct mean C=27.4
+|Nov mean C=27.4
+|Dec mean C=25.5
+
+|Jan low C=17.3
+|Feb low C=19.9
+|Mar low C=23
+|Apr low C=24.6
+|May low C=24
+|Jun low C=22.5
+|Jul low C=21.9
+|Aug low C=21.6
+|Sep low C=21.5
+|Oct low C=21.6
+|Nov low C=19.9
+|Dec low C=17.4
+
+|precipitation colour=green
+|Jan precipitation mm=1
+|Feb precipitation mm=5
+|Mar precipitation mm=22
+|Apr precipitation mm=56
+|May precipitation mm=109
+|Jun precipitation mm=136
+|Jul precipitation mm=209
+|Aug precipitation mm=282
+|Sep precipitation mm=187
+|Oct precipitation mm=64
+|Nov precipitation mm=12
+|Dec precipitation mm=3
+
+|source 1 = ''Climate-Data.org''<ref>{{cite web|title=Climate: Banfora - Climate graph, Temperature graph, Climate table (elevation: 313m)|url=http://en.climate-data.org/location/3745/|publisher=Climate-Data.org|access-date=2013-11-24}}</ref>
+
+}}
+{{Weather box
+|collapsed=yes
+|metric first=yes
+|single line=yes
+|location=Banfora (elevation: 300m)
+|temperature colour=pastel
+|Jan high C=33.8
+|Feb high C=35.7
+|Mar high C=37
+|Apr high C=36.7
+|May high C=35.1
+|Jun high C=32.8
+|Jul high C=31
+|Aug high C=30.3
+|Sep high C=31.1
+|Oct high C=33.4
+|Nov high C=35
+|Dec high C=33.6
+
+|Jan mean C=25.6
+|Feb mean C=27.8
+|Mar mean C=30
+|Apr mean C=30.6
+|May mean C=29.6
+|Jun mean C=27.7
+|Jul mean C=26.5
+|Aug mean C=25.9
+|Sep mean C=26.3
+|Oct mean C=27.5
+|Nov mean C=27.5
+|Dec mean C=25.5
+
+|Jan low C=17.4
+|Feb low C=20
+|Mar low C=23.1
+|Apr low C=24.6
+|May low C=24.1
+|Jun low C=22.6
+|Jul low C=22
+|Aug low C=21.6
+|Sep low C=21.6
+|Oct low C=21.7
+|Nov low C=20
+|Dec low C=17.4
+
+|precipitation colour=green
+|Jan precipitation mm=1
+|Feb precipitation mm=5
+|Mar precipitation mm=22
+|Apr precipitation mm=56
+|May precipitation mm=109
+|Jun precipitation mm=136
+|Jul precipitation mm=209
+|Aug precipitation mm=282
+|Sep precipitation mm=186
+|Oct precipitation mm=64
+|Nov precipitation mm=11
+|Dec precipitation mm=2
+
+|source 1 = ''Climate-Data.org''<ref>{{cite web|title=Climate: Banfora - Climate graph, Temperature graph, Climate table (elevation: 300m)|url=http://en.climate-data.org/location/766627/|publisher=Climate-Data.org|access-date=2013-11-24|archive-url=https://web.archive.org/web/20131202222152/http://en.climate-data.org/location/766627/|archive-date=2013-12-02|url-status=dead}}</ref>
+
+}}
+
+== References ==
+{{reflist}}
+
+{{Comoé}}
+
+{{Authority control}}
+[[Category:Populated places in the Cascades Region]]

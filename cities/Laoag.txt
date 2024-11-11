@@ -1,0 +1,737 @@
+{{Short description|Capital of Ilocos Norte, Philippines}}
+{{distinguish|Laoac|Laoang}}
+{{use mdy|date=July 2024}}
+{{Infobox settlement
+| name                     = {{PH wikidata|name}}
+| image_skyline            = {{Photomontage
+| photo1a = Ilocos Norte Capitol right side view (JP Rizal, Laoag, Ilocos Norte; 11-16-2022).jpg
+| photo2a = Laoag International Airport terminal exterior.jpg{{!}}Exterior of Laoag International Airport
+| photo2b = La Paz Sand Dunes.jpg{{!}}La Paz Sand Dunes
+| photo3a = GRMondala Laoag Church DSC 0141.jpg
+| photo3b = Laoag Sinking Bell Tower view from Aurora Park (Laoag, Ilocos Norte; 11-16-2022).jpg{{!}}Sinking bell tower of Laoag
+| foot_montage = From top, left to right: Ilocos Norte Provincial Capitol, Exterior of [[Laoag International Airport]], [[La Paz Sand Dunes]], [[Laoag Cathedral]], Sinking bell tower of Laoag
+| size = 250
+| position = center
+| spacing = 3
+| color = transparent
+| border = transparent
+| color_border = transparent
+}}
+| image_flag               = Flag_of_Laoag,_Ilocos_Norte.png
+| flag_size                = 120x80px
+| image_seal               = Ph seal ilocos norte laoag city.png
+| seal_size                = 100x80px
+| image_map                = {{PH wikidata|image_map}}
+| map_caption              = {{PH wikidata|map_caption}}
+| image_map1               = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map              = Philippines
+| pushpin_label_position   = left
+| pushpin_map_caption      = Location within the {{PH wikidata|country}}
+| coordinates              = {{PH wikidata|coordinates}}
+| settlement_type          = {{PH wikidata|settlement_type}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = {{flag|Philippines}}
+| subdivision_type1        = [[Regions of the Philippines|Region]]
+| subdivision_name1        = {{PH wikidata|region}}
+| subdivision_type2        = [[Provinces of the Philippines|Province]]
+| subdivision_name2        = {{PH wikidata|province}}
+| etymology                = {{langx|ilo|lawag}} ("light")
+| native_name              = 
+| other_name               = 
+| nickname                 = The Sunshine City
+| motto                    = 
+| anthem                   = Marcha de Laoag (Laoag March)
+| subdivision_type3        = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3        = {{PH legislative district}}
+| established_title        = [[Date of establishment|Founded]]
+| established_date         = 1580
+| established_title1       = Cityhood
+| established_date1        = June 19, 1965
+| parts_type               = [[Barangay]]s
+| parts_style              = para
+| p1                       = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title             = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name              = [[michael Marcos Keon|Michael Keon]]
+| leader_title1            = [[Vice Mayor]]
+| leader_name1             = Rey Carlos V. Fariñas
+| leader_title2            = [[House of Representatives of the Philippines#Current composition|Representative]]
+| leader_name2             = [[Sandro Marcos]]
+| leader_title3            = [[Mayor-council government]]
+| leader_name3             = {{PH Town Council
+ | 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Juan Conrado A. Respicio II
+ | 3=Roger John C. Fariñas II
+ | 4=Handy T. Lao
+ | 5=Justine Clarence G. Chua
+ | 6=Edison U. Chua
+ | 7=Derick B. Lao
+ | 8=Jason Bader L. Perera
+ | 9=Roque Benjamin C. Ablan
+ | 10=Jaybee G. Baquiran
+ | 11=Edison H. Bonoan
+}}
+| leader_title4            = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4             = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type          = {{PH wikidata|government_type}}
+| government_footnotes     = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m              = {{PH wikidata|elevation_m}}
+| elevation_max_m          = 759
+| elevation_min_m          = 0
+| elevation_max_rank       = 
+| elevation_min_rank       = 
+| elevation_footnotes      = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes  = 
+| elevation_min_footnotes  = 
+| area_rank                = 
+| area_footnotes           = {{PH area}}
+| area_total_km2           = {{PH wikidata|area}}
+| population_footnotes     = {{PH census|current}}
+| population_total         = {{PH wikidata|population_total}}
+| population_as_of         = {{PH wikidata|population_as_of}}
+| population_density_km2   = auto
+| population_blank1_title  = [[Household]]s
+| population_blank1        = {{PH wikidata|household}}
+| population_blank2_title  = 
+| population_blank2        = 
+| population_demonym       = 
+| population_rank          = 
+| population_note          = 
+| timezone                 = [[Philippine Standard Time|PST]]
+| utc_offset               = +8
+| postal_code_type         = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code              = {{PH wikidata|postal_code}}
+| postal2_code_type        = {{PSGCstyle}}
+| postal2_code             = {{PSGC detail}}
+| area_code_type           = {{areacodestyle}}
+| area_code                = {{PH wikidata|area_code}}
+| website                  = {{PH wikidata|website}}
+| demographics_type1       = [[Economy of the Philippines|Economy]]
+| demographics1_title1     = {{PH wikidata|income_class_title}}
+| demographics1_info1      = {{PH wikidata|income_class}}
+| demographics1_title2     = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2      = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3     = [[Revenue]]
+| demographics1_info3      = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4     = Revenue rank
+| demographics1_info4      = 
+| demographics1_title5     = [[Asset]]s
+| demographics1_info5      = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6     = Assets rank
+| demographics1_info6      = 
+| demographics1_title7     = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7      = 
+| demographics1_title8     = IRA rank
+| demographics1_info8      = 
+| demographics1_title9     = [[Expenditure]]
+| demographics1_info9      = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10    = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10     = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2       = Service provider
+| demographics2_title1     = [[List of electric distribution utilities in the Philippines|Electricity]]
+| demographics2_info1      = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2     = Water
+| demographics2_info2      = 
+| demographics2_title3     = Telecommunications
+| demographics2_info3      = 
+| demographics2_title4     = Cable TV
+| demographics2_info4      = 
+| demographics2_title5     = 
+| demographics2_info5      = 
+| demographics2_title6     = 
+| demographics2_info6      = 
+| demographics2_title7     = 
+| demographics2_info7      = 
+| demographics2_title8     = 
+| demographics2_info8      = 
+| demographics2_title9     = 
+| demographics2_info9      = 
+| demographics2_title10    = 
+| demographics2_info10     = 
+| blank_name_sec1          = {{PH wikidata|climate_title}}
+| blank_info_sec1          = {{PH wikidata|climate_type}}
+| blank1_name_sec1         = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1         = {{PH wikidata|language}}
+| blank2_name_sec1         = [[Crime index]]
+| blank2_info_sec1         = 
+| blank3_name_sec1         = 
+| blank3_info_sec1         = 
+| blank4_name_sec1         = 
+| blank4_info_sec1         = 
+| blank5_name_sec1         = 
+| blank5_info_sec1         = 
+| blank6_name_sec1         = 
+| blank6_info_sec1         = 
+| blank7_name_sec1         = 
+| blank7_info_sec1         = 
+| blank1_name_sec2         = Major religions
+| blank1_info_sec2         = 
+| blank2_name_sec2         = Feast date
+| blank2_info_sec2         = 
+| blank3_name_sec2         = Catholic diocese
+| blank3_info_sec2         = 
+| blank4_name_sec2         = Patron saint
+| blank4_info_sec2         = 
+| blank5_name_sec2         = 
+| blank5_info_sec2         = 
+| blank6_name_sec2         = 
+| blank6_info_sec2         = 
+| blank7_name_sec2         = 
+| blank7_info_sec2         = 
+| short_description        = 
+| footnotes                = 
+}}
+
+'''Laoag''' ({{IPA|tl|laʊˈag|}}), officially the '''City of Laoag''' ({{langx|ilo|Siudad ti Laoag}}; {{langx|fil|Lungsod ng Laoag}}), is a 3rd class [[component city]] and capital of the [[Provinces of the Philippines|province]] of [[Ilocos Norte]], [[Philippines]].  According to the 2020 census, it has a population of 111,651 people.{{PH census|current}}
+
+It is the province's most populous, political, commercial, and industrial hub and the location of Ilocos Region's busiest [[Laoag International Airport|commercial airport]]. It is also the northernmost city in the Philippines.
+
+The municipalities of [[San Nicolas, Ilocos Norte|San Nicolas]], [[Paoay, Ilocos Norte|Paoay]], [[Sarrat, Ilocos Norte|Sarrat]], [[Piddig, Ilocos Norte|Piddig]], [[Vintar, Ilocos Norte|Vintar]], and [[Bacarra, Ilocos Norte|Bacarra]] form its boundaries. The foothills of the [[Cordillera Central (Luzon)|Cordillera Central]] mountain range to the east, and the [[South China Sea]] to the west are its physical boundaries.
+
+Laoag experiences the prevailing [[monsoon]] climate of Northern [[Luzon]], characterized by a dry season from November to April and a wet season from May to October, occasionally visited by powerful [[typhoon]]s. Laoag is also called the "Sunshine City"
+
+==History==
+[[File:Laoag1923.jpg|thumb|left|Aerial view of Laoag, 21 July 1923 11:06 am]]
+
+Long before the coming of the Spaniards, there already existed an extensive region consisting of the present provinces of [[Ilocos Norte]], [[Ilocos Sur]], [[Abra (province)|Abra]], and [[La Union]] renowned for its gold mines.  Merchants from [[Japan]] and [[China]] would often visit the area to trade gold with beads, ceramics, and silk.  The [[Austronesian peoples|Austronesian]] inhabitants of the region called their place ''samtoy'', from ''sao mi itoy'', which literally meant "this is our language."{{citation needed|date=October 2019}}
+
+In 1571, when the [[Spanish conquistadors]] had [[Manila]] more or less under their control, they began looking for new sites to conquer. Legaspi's grandson, Juan de Salcedo, volunteered to lead one of these expeditions.  Together with eight armed boats and 45 men, the 22-year-old voyager headed north.{{citation needed|date=October 2019}}
+
+On June 13, 1572, Salcedo and his men landed in [[Vigan]] and then proceeded towards Laoag, Currimao, and Badoc.  As they sailed along the coast, they were surprised to see numerous sheltered [[cove]]s (''looc'') where the locals lived in harmony.  As a result, they named the region "Ylocos" and its people "Ylocanos".{{citation needed|date=October 2019}}
+
+As the [[Christianization]] of the region grew, so did the landscape of the area.  Vast tracts of land were utilized for churches and bell towers in line with the Spanish mission of {{lang|es|bajo de las campanas}} ('under the bells') – a proclamation by King Philip's 1573 [[Law of the Indies]]. In the town plaza, it was not uncommon to see garrisons under the church bells.  The colonization process was slowly being carried out.
+
+The [[Spanish occupation of the Philippines|Spanish colonization]] of the region, however, was never completely successful. Owing to the abusive practices of many [[Augustinian friars]], a number of Ilocanos revolted against their colonizers.  Noteworthy of these were the Dingras uprising (1589) and Pedro Almasan revolt in San Nicolas (1660).  In 1762, [[Diego Silang]] led a series of battles aimed at freeing the Ilocanos from the Spanish yoke.  When he died from an assassin's bullet, his widow Gabriela continued the cause.  Unfortunately, she too was captured and hanged. In 1807, the [[sugar cane]] (''basi'') brewers of Piddig rose up in arms to protest the government's monopoly of the wine industry.  In 1898, the church excommunicated Gregorio Aglipay for refusing to cut off ties with the revolutionary forces of Gen. [[Emilio Aguinaldo]].  Unperturbed, he established the {{lang|es|Iglesia Filipina Independiente|italic=no}}.  Aglipay's movement and the national sentiment it espoused helped restore the self-respect of many [[Filipino people|Filipinos]].
+
+{{stack|float=right|[[File:A street of Laoag, the capital of Ilocos Norte, 1900-1913.jpg|thumb|left|A street of Laoag, the capital of Ilocos Norte, 1900–1913]]}}
+"The great increase in population from 1715 to 1818 from 18,980 to 282,845 made the administration of the province very difficult. Due to the excessive monopolies and forced labor, there were several uprisings: first by the people of Dingras in 1589; one that was led by Pedro Almazan in 1616; the revolt of [[Diego Silang]] in 1762–1763; by Ambaristo in 1788; by Pedro Mateo in 1808 (also known as [[Basi Revolt]]) and uprising of Sarrat in 1815. For this reason, the division of the Ilocos into two provinces was recommended by the local authorities. On February 2, 1818, a Spanish Royal Decree was promulgated dividing the Province of Ilocos Norte from Ilocos Sur. Laoag, which was then the biggest center of population, was made the capital of Ilocos Norte."
+
+Laoag was captured by the Japanese Army on December 12, 1941, two days after the landing at Vigan and Aparri. Its airport was then used by the Japanese for most of World War II.
+
+===Cityhood===
+{{main|Cities of the Philippines}}
+On June 19, 1965, Laoag changed from municipality to city status, following a [[plebiscite]] and passed into law by the Senate President [[Ferdinand Edralin Marcos]]. It remained the capital of [[Ilocos Norte]]. Mayor Eulalio F. Siazon and Engineer Trinidad Lucas Aurelio were part of a team that led the drive to convert Laoag into a city. Another members of the group was Simeon M. Valdez who filed the bill in congress, co-authored by Antonio V. Raquiza. The first city mayor was Eulalio Fonacier Siazon.<ref>{{cite web|url=http://laoagcity.gov.ph/index.php/about-the-city/background/history/|title=History|publisher=City Government of Laoag|access-date=August 31, 2016|archive-url=https://web.archive.org/web/20160723075321/http://laoagcity.gov.ph/index.php/about-the-city/background/history/|archive-date=July 23, 2016|url-status=dead}}</ref>
+
+==Geography==
+Laoag is located at the west-central part of the Province of [[Ilocos Norte]] bordering the [[South China Sea]].  It is bounded on the east by the Municipality of [[Sarrat]]; in the southeast by the Municipality of [[San Nicolas, Ilocos Norte|San Nicolas]]; in the southwest by the Municipality of [[Paoay]], in the northeast the Municipality of [[Vintar]]; in the northwest by the Municipality of [[Bacarra]]; and in the west by the [[South China Sea]]. It is one of the largest cities in the [[Ilocos Region]].<ref name="Geographical Location">{{cite web|url=http://laoagcity.gov.ph/index.php/about-the-city/background/geographical-location/|title=Geographical Location|publisher=City Government of Laoag|access-date=August 31, 2016|archive-url=https://web.archive.org/web/20161011020942/http://laoagcity.gov.ph/index.php/about-the-city/background/geographical-location/|archive-date=October 11, 2016|url-status=dead}}</ref>
+
+===Barangays===
+Laoag is politically subdivided into 80 [[barangay]]s. Each barangay consists of [[purok]]s and some have [[sitios]].
+{| class="wikitable collapsible sortable collapsed" style="font-size:90%; line-height:1.20em; margin:auto;"
+|+The 80 [[barangay]]s of the City of Laoag<ref name=2010Census>{{cite web|url=http://web0.psa.gov.ph/sites/default/files/attachments/hsd/pressrelease/Ilocos.pdf|title=2010 Census of Population and Housing: Total Population by Province, City, Municipality and Barangay:as of May 1, 2010|publisher=[[Philippine Statistics Authority]]|access-date=October 18, 2014|archive-url=https://web.archive.org/web/20141023163220/http://web0.psa.gov.ph/sites/default/files/attachments/hsd/pressrelease/Ilocos.pdf|archive-date=October 23, 2014|url-status=dead}}</ref>
+! Conventional Long Name !! Barangay<br>Number !! Name !! Former<br>Name/Territory
+|-
+| Barangay No. 1, San Lorenzo {{small|(''Poblacion'')}} || 1 || San Lorenzo || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 2, Santa Joaquina {{small|(''Poblacion'')}} || 2 || Santa Joaquina || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 3, Nuestra Señora del Rosario {{small|(''Poblacion'')}} || 3 || Nuestra Señora del Rosario || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 4, San Guillermo {{small|(''Poblacion'')}} || 4 || San Guillermo || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 5, San Pedro {{small|(''Poblacion'')}} || 5 || San Pedro || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 6, San Agustin {{small|(''Poblacion'')}} || 6 || San Agustin || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 7-A, Nuestra Señora del Natividad {{small|(''Poblacion'')}} || 7-A || Nuestra Señora del Natividad || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 7-B, Nuestra Señora del Natividad {{small|(''Poblacion'')}} || 7-B || Nuestra Señora del Natividad || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 8, San Vicente {{small|(''Poblacion'')}} || 8 || San Vicente || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 9, Santa Angela {{small|(''Poblacion'')}} || 9 || Santa Angela || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 10, San Jose {{small|(''Poblacion'')}} || 10 || San Jose || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 11, Santa Balbina {{small|(''Poblacion'')}} || 11 || Santa Balbina || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 12, San Isidro {{small|(''Poblacion'')}} || 12 || San Isidro || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 13, Nuestra Señora de Visitacion {{small|(''Poblacion'')}} || 13 || Nuestra Señora de Visitacion || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 14, Santo Tomas {{small|(''Poblacion'')}} || 14 || Santo Tomas || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 15, San Guillermo {{small|(''Poblacion'')}} || 15 || San Guillermo || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 16, San Jacinto {{small|(''Poblacion'')}} || 16 || San Jacinto || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 17, San Francisco {{small|(''Poblacion'')}} || 17 || San Francisco || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 18, San Quirino {{small|(''Poblacion'')}} || 18 || San Quirino || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 19, Santa Marcela {{small|(''Poblacion'')}} || 19 || Santa Marcela || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 20, San Miguel {{small|(''Poblacion'')}} || 20 || San Miguel || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 21, San Pedro {{small|(''Poblacion'')}} || 21 || San Pedro || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 22, San Andres {{small|(''Poblacion'')}} || 22 || San Andres || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 23, San Matias {{small|(''Poblacion'')}} || 23 || San Matias || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 24, Nuestra Señora de Consolacion {{small|(''Poblacion'')}} || 24 || Nuestra Señora de Consolacion || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 25, Santa Cayetana {{small|(''Poblacion'')}} || 25 || Santa Cayetana || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 26, San Marcelino {{small|(''Poblacion'')}} || 26 || San Marcelino || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 27, Nuestra Señora de Soledad {{small|(''Poblacion'')}} || 27 || Nuestra Señora de Soledad || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 28, San Bernardo {{small|(''Poblacion'')}} || 28 || San Bernardo || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 29, Santo Tomas {{small|(''Poblacion'')}} || 29 || Santo Tomas || style="text-align:right;" | Poblacion
+|-
+| Barangay No. 30-A, Suyo || 30-A || Suyo || style="text-align:right;" | –
+|-
+| Barangay No. 30-B, Santa Maria || 30-B || Santa Maria || style="text-align:right;" | –
+|-
+| Barangay No. 31, Talingaan || 31|| Talingaan || style="text-align:right;" | –
+|-
+| Barangay No. 32-A, La Paz East || 32-A || La Paz East || style="text-align:right;" | –
+|-
+| Barangay No. 32-B, La Paz West || 32-B || La Paz West || style="text-align:right;" | –
+|-
+| Barangay No. 32-C, La Paz East || 32-C || La Paz East || style="text-align:right;" | –
+|-
+| Barangay No. 33-A, La Paz Proper || 33-A || La Paz Proper || style="text-align:right;" | –
+|-
+| Barangay No. 33-B, La Paz Proper || 33-B || La Paz Proper || style="text-align:right;" | –
+|-
+| Barangay No. 34-A, Gabu Norte West || 34-A || Gabu Norte West || style="text-align:right;" | –
+|-
+| Barangay No. 34-B, Gabu Norte East || 34-B || Gabu Norte East || style="text-align:right;" | –
+|-
+| Barangay No. 35, Gabu Sur || 35 || Gabu Sur || style="text-align:right;" | –
+|-
+| Barangay No. 36, Araniw || 36 || Araniw || style="text-align:right;" | –
+|-
+| Barangay No. 37, Calayab || 37 || Calayab || style="text-align:right;" | –
+|-
+| Barangay No. 38-A, Mangato East || 38-A|| Mangato East || style="text-align:right;" | –
+|-
+| Barangay No. 38-B, Mangato West || 38-B || Mangato West || style="text-align:right;" | –
+|-
+| Barangay No. 39, Santa Rosa || 39 || Santa Rosa || style="text-align:right;" | –
+|-
+| Barangay No. 40, Balatong || 40 || Balatong || style="text-align:right;" | –
+|-
+| Barangay No. 41, Balacad || 41 || Balacad || style="text-align:right;" | –
+|-
+| Barangay No. 42, Apaya || 42 || Apaya || style="text-align:right;" | –
+|-
+| Barangay No. 43, Cavit || 43 || Cavit || style="text-align:right;" | –
+|-
+| Barangay No. 44, Zamboanga || 44 || Zamboanga || style="text-align:right;" | –
+|-
+| Barangay No. 45, Tangid || 45 || Tangid || style="text-align:right;" | –
+|-
+| Barangay No. 46, Nalbo || 46 || Nalbo || style="text-align:right;" | –
+|-
+| Barangay No. 47, Bengcag || 47 || Bengcag || style="text-align:right;" | –
+|-
+| Barangay No. 48-A, Cabungaan North || 48-A || Cabungaan North || style="text-align:right;" | –
+|-
+| Barangay No. 48-B, Cabungaan South || 48-B || Cabungaan South || style="text-align:right;" | –
+|-
+| Barangay No. 49-A, Darayday || 49-A || Darayday || style="text-align:right;" | –
+|-
+| Barangay No. 49-B, Raraburan || 49-B || Raraburan || style="text-align:right;" | –
+|-
+| Barangay No. 50, Buttong || 50 || Buttong || style="text-align:right;" | –
+|-
+| Barangay No. 51-A, Nangalisan East || 51-A || Nangalisan East || style="text-align:right;" | –
+|-
+| Barangay No. 51-B, Nangalisan West || 51-B || Nangalisan West || style="text-align:right;" | –
+|-
+| Barangay No. 52-A, San Mateo || 52-A || San Mateo || style="text-align:right;" | –
+|-
+| Barangay No. 52-B, Lataag || 52-B || Lataag || style="text-align:right;" | –
+|-
+| Barangay No. 53, Rioeng || 53 || Rioeng || style="text-align:right;" | –
+|-
+| Barangay No. 54-A, Camangaan || 54-A || Camangaan  || style="text-align:right;" | –
+|-
+| Barangay No. 54-B, Lagui-Sail || 54-B || Lagui-Sail || style="text-align:right;" | –
+|-
+| Barangay No. 55-A, Barit-Pandan || 55-A || Barit-Pandan || style="text-align:right;" | –
+|-
+| Barangay No. 55-B, Salet-Bulangon || 55-B || Salet-Bulangon || style="text-align:right;" | –
+|-
+| Barangay No. 55-C, Vira || 55-C || Vira || style="text-align:right;" | –
+|-
+| Barangay No. 56-A, Bacsil North || 56-A || Bacsil North || style="text-align:right;" | –
+|-
+| Barangay No. 56-B, Bacsil South || 56-B || Bacsil South || style="text-align:right;" | –
+|-
+| Barangay No. 57, Pila || 57 || Pila || style="text-align:right;" | –
+|-
+| Barangay No. 58, Casili || 58 || Casili || style="text-align:right;" | –
+|-
+| Barangay No. 59-A, Dibua South || 59-A ||  Dibua South || style="text-align:right;" | –
+|-
+| Barangay No. 59-B, Dibua North || 59-B || Dibua North || style="text-align:right;" | –
+|-
+| Barangay No. 60-A, Caaoacan || 60-A || Caaoacan || style="text-align:right;" | –
+|-
+| Barangay No. 60-B, Madiladig || 60-B || Madiladig || style="text-align:right;" | –
+|-
+| Barangay No. 61, Cataban || 61 || Cataban || style="text-align:right;" | –
+|-
+| Barangay No. 62-A, Navotas North || 62-A || Navotas North || style="text-align:right;" | –
+|-
+| Barangay No. 62-B, Navotas South || 62-B || Navotas South || style="text-align:right;" | –
+|-class="sortbottom"
+! {{small|Conventional<br>Long Name}} !! {{small|Barangay<br>Number}} !! {{small|Name}} !! {{small|Former<br>Name/Territory}}
+|-class="sortbottom" style="background:#F2F2F2; font-size:85%;"
+|colspan=4|
+*Note: ''Italicized'' names are former names/territories.
+|}
+
+===Climate===
+Laoag has a [[tropical savanna climate]] with warm to hot temperatures year round. Temperatures dips sightly during the winter months between December and February. Characterized by two well-pronounced seasons; dry and wet and is classified as mild and pleasant climate.  Dry season usually starts in November until April and wet during the rest of the year.  The city is shielded from northeast monsoon and trade winds by the mountain ranges of [[Cordillera Administrative Region|Cordillera]] and [[Sierra Madre (Philippines)|Sierra Madre]] but it is exposed to the southwest monsoon and cyclone storms.
+
+The rainy seasons, which has an average monthly rainfall of more than {{Convert|100|mm}}. is from May to September with its peak in June, July and August.  Rainfall during the peak month represents 68% of the annual rainfall with an average of {{Convert|200|mm}}.
+
+In the afternoon of May, temperature reach up to {{Convert|36.2|C}} and drops down to {{Convert|11.4|C}} in the early mornings of January. The city recorded an average temperature of {{Convert|27.25|C}} with a relative humidity of 75.5% in 1996. The city experiences an average of four to five [[tropical cyclone]]s every year.
+{{Weather box
+| width = auto
+| location = Laoag City (1991–2020, extremes 1908–2023)
+| single line = Y
+| metric first = Y
+| Jan record high C = 36.0
+| Feb record high C = 36.8
+| Mar record high C = 39.5
+| Apr record high C = 39.6
+| May record high C = 41.8
+| Jun record high C = 38.3
+| Jul record high C = 37.8
+| Aug record high C = 36.7
+| Sep record high C = 37.1
+| Oct record high C = 37.1
+| Nov record high C = 37.2
+| Dec record high C = 37.1
+|year record high C = 41.8
+| Jan high C = 30.6
+| Feb high C = 31.2
+| Mar high C = 32.5
+| Apr high C = 33.6
+| May high C = 33.7
+| Jun high C = 33.1
+| Jul high C = 32.2
+| Aug high C = 31.6
+| Sep high C = 31.8
+| Oct high C = 32.1
+| Nov high C = 32.0
+| Dec high C = 31.1
+|year high C = 32.1
+| Jan mean C = 25.2
+| Feb mean C = 25.8
+| Mar mean C = 27.2
+| Apr mean C = 28.6
+| May mean C = 29.2
+| Jun mean C = 28.9
+| Jul mean C = 28.4
+| Aug mean C = 28.0
+| Sep mean C = 27.9
+| Oct mean C = 27.8
+| Nov mean C = 27.4
+| Dec mean C = 26.3
+|year mean C = 27.6
+| Jan low C = 19.8
+| Feb low C = 20.4
+| Mar low C = 21.9
+| Apr low C = 23.6
+| May low C = 24.7
+| Jun low C = 24.8
+| Jul low C = 24.5
+| Aug low C = 24.4
+| Sep low C = 24.1
+| Oct low C = 23.5
+| Nov low C = 22.8
+| Dec low C = 21.4
+|year low C = 23.0
+| Jan record low C = 11.1
+| Feb record low C = 11.9
+| Mar record low C = 13.0
+| Apr record low C = 16.3
+| May record low C = 20.4
+| Jun record low C = 18.9
+| Jul record low C = 19.5
+| Aug record low C = 20.9
+| Sep record low C = 20.0
+| Oct record low C = 16.1
+| Nov record low C = 13.3
+| Dec record low C = 12.0
+|year record low C = 11.1
+| rain colour = green
+| Jan rain mm = 6.1
+| Feb rain mm = 3.0
+| Mar rain mm = 5.3
+| Apr rain mm = 21.8
+| May rain mm = 218.8
+| Jun rain mm = 286.5
+| Jul rain mm = 478.9
+| Aug rain mm = 593.7
+| Sep rain mm = 412.9
+| Oct rain mm = 117.2
+| Nov rain mm = 36.6
+| Dec rain mm = 6.2
+|year rain mm = 2187.0
+| unit rain days = 1 mm
+| Jan rain days = 2
+| Feb rain days = 2
+| Mar rain days = 1
+| Apr rain days = 2
+| May rain days = 8
+| Jun rain days = 12
+| Jul rain days = 16
+| Aug rain days = 17
+| Sep rain days = 13
+| Oct rain days = 7
+| Nov rain days = 4
+| Dec rain days = 2
+|year rain days = 86
+| Jan humidity = 75
+| Feb humidity = 75
+| Mar humidity = 74
+| Apr humidity = 75
+| May humidity = 78
+| Jun humidity = 82
+| Jul humidity = 86
+| Aug humidity = 87
+| Sep humidity = 87
+| Oct humidity = 80
+| Nov humidity = 78
+| Dec humidity = 75
+|year humidity = 79
+| Jan sun = 246.4
+| Feb sun = 256.1
+| Mar sun = 294.4
+| Apr sun = 291.9
+| May sun = 249.1
+| Jun sun = 229.3
+| Jul sun = 218.1
+| Aug sun = 196.8
+| Sep sun = 201.5
+| Oct sun = 227.7
+| Nov sun = 227.9
+| Dec sun = 242.7
+|year sun = 2881.9
+| source 1 = [[Philippine Atmospheric, Geophysical and Astronomical Services Administration|PAGASA]]<ref name=PAGASAnormals>
+{{cite web
+| archive-url = https://web.archive.org/web/20181013045159/https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20NORMALS%20%281991-2020%29/LAOAG.pdf
+| archive-date = October 13, 2018
+| url = https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20NORMALS%20%281991-2020%29/LAOAG.pdf
+| title = Laoag, Ilocos Norte Climatological Normal Values
+| publisher = Philippine Atmospheric, Geophysical and Astronomical Services Administration
+| access-date = October 13, 2018}}</ref><ref name=PAGASAextremes>
+{{cite web
+| archive-url = https://web.archive.org/web/20181013045240/https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20EXTREMES%20%28as%20of%202023%29/Laoag.pdf
+| archive-date = October 13, 2018
+| url = https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20EXTREMES%20%28as%20of%202023%29/Laoag.pdf
+| title = Laoag, Ilocos Norte Climatological Extremes
+| publisher = Philippine Atmospheric, Geophysical and Astronomical Services Administration
+| access-date = October 13, 2018}}</ref>
+|source 2 = [[Deutscher Wetterdienst]] (sun, 1961–1990)<ref name = DWD>{{cite web
+| url = ftp://ftp-cdc.dwd.de/pub/CDC/observations_global/CLIMAT/multi_annual/sunshine_duration/1961_1990.txt
+| archive-url = https://web.archive.org/web/20171017195327/ftp://ftp-cdc.dwd.de/pub/CDC/observations_global/CLIMAT/multi_annual/sunshine_duration/1961_1990.txt
+| url-status = dead
+| archive-date = October 17, 2017
+| title = Station 98223 Laoag
+| work = Global station data 1961–1990—Sunshine Duration
+| publisher = Deutscher Wetterdienst
+| access-date = October 13, 2018
+}}</ref><ref>{{Cite web |url=ftp://ftp-cdc.dwd.de/pub/CDC/help/stations_list_CLIMAT_data.txt |archive-url=https://web.archive.org/web/20171017195318/ftp://ftp-cdc.dwd.de/pub/CDC/help/stations_list_CLIMAT_data.txt |url-status=dead |archive-date=October 17, 2017 |title=Station ID for Laoag is 98223. Use this station ID to locate the sunshine duration |access-date=October 13, 2018 }}</ref>
+}}
+
+==Demographics==
+{{Philippine Census
+| align = left
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+According to the 2020 census, it has a population of 111,651 people,{{PH census|current}} with a density of {{convert|{{sigfig|111,651/116.08|2}}|PD/km2|disp=or}}.
+
+Laoag City had a total population of 94,466 for the year 2000 as per NSO official report. In 1995, the total inhabitants of the city was 88,336, an increase of 6,130. Based on the 1995 and 2000 intercensal periods, the Average Annual Growth Rate of the city was 1.35%.
+
+The number of households is 19,751 and the average household size is five (5) persons per household. Male-female ratio is 1:1; Birth rate is 26.44% while Death rate is 4.28%.
+
+In the city of Laoag as of year 2000, Urban barangay San Lorenzo had the largest number of population at 2,883, followed by Rural barangay Buttong at 2,277, and then by Barangay 2 Santa Joaquina at 2,048. With the least inhabitants was Rural Barangay 39 Santa Rosa, 592, and then Barangay 52-A San Mateo, 594. Noticeably, the residents of Barangay 23 San Matias decreased by 740.
+
+Majority of ethnic population is [[Ilocano people|Ilocano]], whereas the Roman Catholic and the [[Aglipayan Church]] are the dominant religious affiliations. The rest of the existing religions in the city include the [[Iglesia ni Cristo]], and other [[Protestant]] groups with a significant number of adherents.{{clear-left}}
+
+==Economy==
+{{stack|float=left|{{PH poverty incidence}}}}
+Strategically located at the northern tip of the Northwestern Luzon Growth Quadrangle.  It is within two hours of jet travel to any one of East Asia's economic tigers such as [[Hong Kong]], [[Mainland China]], [[Japan]], [[South Korea]] and [[Taiwan]] by way of the [[Laoag International Airport]] if direct routes are opened and established.<ref name="Geographical Location"/> Having critical infrastructure such as the [[Laoag International Airport]] at Gabu and the Currimao Port makes Laoag the port of entry of goods and services complemented by an extensive road and highway system that connects it to other cities. A banking system is also found in the city with a number of twenty-five different local, domestic, and foreign banks ready to serve any financial need.{{citation needed|date=October 2019}}
+
+With a 12,747.35m total land area, Laoag City provides a large opportunity for economic expansion. The historic scenic tourist spots, availability of internationally competitive accommodations and facilities, and the presence of supportive national government agencies, makes Laoag an ecotourism center, as classified by the [[Department of Tourism (Philippines)|Department of Tourism]]. The Northwestern Luzon Growth Quadrangle – fondly called the North Quad – also aims to develop rural areas through an integrated countryside agri-industrial development approach with emphasis/focus in attaining sustainable and equitable growth; increase the productivity of agriculture and fisheries; encourage industrial competitiveness in the local and foreign markets like [[Taiwan]], [[Japan]], [[South Korea]] and [[Hong Kong]]. Plans are also being undertaken for the establishment of an [[ecotourism|eco-tourism]] village, which will showcase the rich cultural heritage of the [[Ilocano people]] and the local industries.{{citation needed|date=October 2019}}
+
+Laoag and the surrounding municipalities also bolster a strong workforce. At present, most industries in the city are small-scale, consisting of small-scale food-processing factories, rice mills, jewelry-making, hollow blocks factories, and metal crafts. Retail giants like [[SM Prime Holdings]] with three stores, and [[Puregold]] are present within the central business district. [[CityMall]] will soon to rise south of the Padsan River, while [[SM Supermall]] is expected to open in the last quarter of 2024, located in Barangay Nangalisan West. Unitop, Mart One, Novo, New India, ME, JTC, MINISO, and ØNE Ø 5IVE are popular shopping centers. [[Robinsons Malls|Robinsons]] in neighboring San Nicolas is only 5 minutes walk from the city limits. 
+
+[[Megaworld]] has also secured 15 billion peso project to be developed in Barangay Calayab along the coast. It also invested P15 billion for development of "Ilocandia Coastown", its 34th [[township]]. The [[mixed-use]] [[beach]]front is located adjacent to Fort Ilocandia Hotel at [[Barangay]] No. 42, Apaya, upon 84 hectares parcel of land along its own 1.4-kilometer beach line with [[sand dunes]].<ref>{{cite news |last1= Valmontge|first1=Kaycee |title=Megaworld heads up north with 84-hectare Laoag township|url= https://www.rappler.com/business/megaworld-township-ilocandia-coastown-laoag-ilocos-norte/|accessdate=October 23, 2024 |work = [[Rappler]]|date=October 14, 2024}}</ref>
+
+Meanwhile, Plaza San Guillermo is on its first phase of construction, just opposite the Sinking Bell Tower.
+
+The city is also in the forefront of green-technology after [[Danes|Danish]] investors set-up the first wind-driven powerplant in [[Southeast Asia]]: the [[Bangui Wind Farm]]. The 25-megawatt plant cost $47.6 million US dollars. An $11 million US dollar expansion is concurrently under construction, which is set to quadruple the capacity.<ref>{{cite web|url=http://www.industcards.com/wind-asia.htm|title=Bangui windmills}}</ref>
+{{clear-left}}
+
+==Government==
+===Local government===
+{{main|Sangguniang Panglungsod}}
+[[File:Ilocos Norte Provincial Capitol 02.jpg|thumb|Ilocos Norte Provincial Capitol]]
+[[File:Laoag City Hall (front).jpg|thumb|Laoag City Hall]]
+Laoag, belonging to the [[Legislative districts of Ilocos Norte|first congressional district]] of the province of [[Ilocos Norte]], is governed by a mayor designated as its local chief executive and by a city council as its legislative body in accordance with the Local Government Code. The mayor, vice mayor, and the councilors are elected directly by the people through an election which is being held every three years.
+
+===Elected officials===
+Laoag City elected officials, term of office June 30, 2022 – June 30, 2025:<ref name="comelec">{{cite web |date=May 13, 2022 |title=Laoag City Partial, unofficial results aggregated from Comelec data |url=https://halalanresults.abs-cbn.com/local/ilocos-norte/city-of-laoag |access-date=August 20, 2022 |publisher=ABS-CBN News}}</ref>
+{| class="wikitable"
+|-
+! scope=row| Mayor
+| [[Michael Marcos Keon]]
+|-
+! scope=row |Vice Mayor
+| Rey Carlos M. Fariñas
+|-
+! scope=row |Councilors
+|{{colbegin}}
+* James Bryan Q. Alcid
+* Handy T. Lao
+* Enrico F. Ang
+* Jeff Ericson P. Fariñas
+* Jaybee G. Baquiran
+* Juan Conrado A. Respicio II
+* John Michael V. Fariñas
+* Jason Bader L. Perera
+* Roger John C. Fariñas
+* Derick B. Lao{{colend}}
+|-
+! ABC President
+| Mary Michelle Louise "Mikee" V. Fariñas
+|-
+! SK Federated President
+| Anzhelyka Faye T. Lao
+|-
+|}
+
+===City seal===
+[[File:Ph seal ilocos norte laoag city.png|thumb|right|125px|Official seal of Laoag City]]
+
+* Building and Garden  — the Ermita Garden and Building on top of the Ermita Hill.
+* Bridge — formerly the Gilbert Bridge, recently renamed Marcos Bridge.
+* Airport — the Gabu Airport, one of the international airports of the country.
+* Tower — the Sinking Tower, one of the oldest and strongest edifices built during the early Spanish Regime.
+* Monument — the Tobacco Monopoly Monument, the only one of its kind in the entire country.
+* Farmer plowing — symbol of the agricultural industry of the Ilocos Region.
+
+==Tourism==
+{{See also|List of Cultural Properties of the Philippines in the Ilocos Region}}
+[[File:Museo Ilocos Norte 05.jpg|thumb|Museo Ilocos Norte]]
+[[File:Aurora Park of Laoag City 02.jpg|thumb|Aurora Park]]
+
+[[Tourism in the Philippines|Tourism]] has become a major economic driver of Laoag City, paving the way for new commercial investments and infrastructure development. Fort Ilocandia Resort, first and only 5-star hotel in the north, continues to attract foreign and domestic tourists. Other places of interest include a tour of heritage sites featuring Spanish colonial buildings, [[Baroque architecture|baroque]] churches, [[La Paz Sand Dunes]], white-sand beach resorts of [[Pagudpud]], and Marcos-era mansions.
+
+The [[Laoag Cathedral]] was built in 1612 by [[Augustinians|Augustinian friars]] to replace a wooden [[chapel]]. It also serves as the seat or central church of the [[Roman Catholic Diocese of Laoag]]. Built with an [[Italian Renaissance]], the church has an unusual two-story [[façade]], supported by two pairs of [[column]]s on each side of the arched entrance architecture design and at the top of the facade holds a recessed [[niche (architecture)|niche]] that showcases the image of the city's [[patron saint]], [[William of Maleval]].
+
+The dramatic increase in tourist arrivals also prompted the establishment of a [[Chinese people|Chinese]] consulate to oversee the security of Chinese citizens living or visiting the city. A new immigration policy was  made to simplify entry of Chinese tourists into the country by issuing visitor visas at the airport upon arrival to entice more guests to come. Laoag City has been named as one of the top tourist destinations in [[Ilocos Region|Region I]] and in the country.
+
+==Transportation==
+[[File:Gilbert Bridge, Laoag City, Ilocos Norte, Philippines.jpg|thumb|Gilbert Bridge spanning across the Padsan River]]
+
+[[Laoag International Airport]] services flights by [[PAL Express]], [[Cebu Pacific]] and [[Sky Pasada]] with destinations to and from [[Manila]], [[Cebu]], [[Calayan Island]], and [[Basco, Batanes]]. The [[Honolulu]] - [[Laoag]] vice versa will soon resume its direct flight with [[Philippine Airlines]] as its carrier. Foreign airlines offer direct charter flights to Laoag as part of travel packages with optional excursions to tourist destinations outside the city. Tourists can find travel agencies including ticket offices of several airlines at the terminal building.
+
+Several large bus companies serve Laoag City making connections to major and minor Philippine destinations. These transportation services are provided by [[GV Florida Transport]], [[Viron Transit]], Maria de Leon Bus Lines, [[Partas]] and [[Fariñas Transit Company]]. Laoag is {{convert|487|km}} from [[Manila]] via South Road Access of Laoag and {{convert|750|km}} via North Access of Laoag from [[Metro Manila]].
+
+Mode of transport within the city includes taxi, jeepney, tricycle, and kalesa. Mini buses have daily routes to and from Pagudpud, Batac, and Vigan among others.
+
+The Laoag bypass linking [[Paoay]] on the western part serves as [[diversion road]] to long wheeler trucks without crossing the city proper. Another bypass road east of the city is under construction linking [[Bacarra]] and [[San Nicolas, Ilocos Norte|San Nicolas]] towns will help decongest traffic upon completion.
+
+==Education==
+[[File:Laoag Central Elementary School.jpg|thumb|Laoag Central Elementary School]]
+
+As the provincial capital, Laoag is the center of social and economic activity with almost all major commercial and institutional establishments gravitating towards it. The importance of [[Education in the Philippines|education]] in socializing its population is shared by both the local government and the private sector, which has invested heavily in the development of the academic infrastructure.
+
+Most of the lower-level schools are government-owned and are divided into three districts, comprising a total of thirty-three elementary schools. Ten private elementary schools are also present including a [[Chinese school]]. In addition, there are eight private and six public high schools, and significant rise of integrated schools.
+
+In order to provide continuing education to sustain the economic momentum of the region, the government has established tertiary public learning institutions in the city: the College of Teacher Education (CTE) Tricia Lauren G. Gapas a student and the College of Industrial Technology (CIT) of the [[Mariano Marcos State University]].
+
+Other higher education institutions in the city include [[Northwestern University (Philippines)|Northwestern University]], [[Northern Christian College]], [[Divine Word College of Laoag]], Data Center College of the Philippines, [[Ilocos Norte College of Arts and Trades]], [[AMA Colleges]], and [[STI College]].
+
+Also found in Laoag are [[vocational schools]] namely Overseas Technical Institute, Lazo Fashion School, and Bel Arte School of Fine Arts.
+
+The Rodolfo CG Fariñas Jr. National Science High School which is the second being established in [[Ilocos]] Region under the Department of Science and Technology, located in Barangay Vira east of bypass road, has already opened this school year 2024–2025 for Grade 7 students.
+
+==Sister cities==
+
+* {{flagicon|PHI}} [[Vigan]], [[Ilocos Sur]]
+* {{flagicon|PHI}} [[Ozamiz]], [[Misamis Occidental]]
+* {{flagicon|PHI}} [[Caloocan]], [[Metro Manila|NCR]]
+* {{flagicon|PHI}} [[Dagupan]], [[Pangasinan]]
+* {{flagicon|CHN}} [[Xiamen]], [[China]]
+* {{flagicon|CHN}} [[Changsha]], [[China]]
+* {{flagicon|CHN}} [[Laibin]], [[China]]
+* {{flagicon|CHN}} [[Huangshan]], [[China]]
+* {{flagicon|USA}} [[Honolulu]], [[Hawaii]]
+* {{flagicon|USA}} [[Kauai]], [[Hawaii]]
+
+==Notable people==
+* [[Ysabel Ortega]] - actress
+* [[Bongbong Marcos]] - 17th president of the Philippines
+* [[Roque Ablan, Sr.]] - governor of Ilocos Norte
+
+==References==
+{{reflist}}
+
+== Bibliography ==
+{{refbegin}}
+*{{cite book|last1=Dela Torre|first1=Visitacion|title=The Ilocos Heritage|date=2006|publisher=Tower Book House|location=Makati|isbn=978-971-91030-9-7}}
+*{{Cite book|title = Historical Markers: Regions I-IV and CAR|publisher = National Historical Institute (Philippines)|year = 1993|isbn = 9715380611|location = Manila|language=fil|pages = 88|url = https://books.google.com/books?id=AvBuAAAAMAAJ|ref={{harvid|National Historical Institute|1993|p=124}}}}
+{{refend}}
+
+==External links==
+{{Commons category}}
+{{wikivoyage|Laoag}}
+* {{official website|http://www.laoagcity.gov.ph}}
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+*[https://web.archive.org/web/20131004104825/http://census.gov.ph/ Philippine Census Information]
+*[https://web.archive.org/web/20120502154208/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=18&frmIdLgu=192 Local Governance Performance Management System]
+
+{{Geographic location
+| Centre    = Laoag
+| North     = [[Bacarra, Ilocos Norte|Bacarra]]
+| Northeast = [[Vintar, Ilocos Norte|Vintar]]
+| East      = [[Piddig, Ilocos Norte|Piddig]]
+| Southeast = [[Sarrat, Ilocos Norte|Sarrat]]
+| South     = [[Paoay, Ilocos Norte|Paoay]] / [[San Nicolas, Ilocos Norte|San Nicolas]]
+| West      = ''[[South China Sea]]''
+}}
+
+{{Ilocos Norte}}
+{{Ilocos Region Provinces}}
+{{Philippine cities}}
+{{Philippine Provincial Capitals}}
+{{Metropolitan areas of the Philippines}}
+{{Authority control}}
+
+[[Category:Laoag| ]]
+[[Category:Cities in Ilocos Norte]]
+[[Category:Provincial capitals of the Philippines]]
+[[Category:Populated places established in 1580]]
+[[Category:1580 establishments in the Philippines]]
+[[Category:Component cities in the Philippines]]

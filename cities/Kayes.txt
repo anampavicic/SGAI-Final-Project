@@ -1,0 +1,320 @@
+{{about|the city in Mali|the town in Congo|Kayes, Republic of the Congo}}
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+|name                   = Kayes <!-- at least one of the first two fields must be filled in -->
+|official_name          = 
+|other_name             =
+|native_name            =''Kayi'', ''Xaayi''  <!-- if different from the English name -->
+|nickname               = 
+|settlement_type        = [[Communes of Mali|Commune]] and city<!--such as Town, Village, City, Borough etc.-->
+|translit_lang1= 
+|translit_lang1_type=[[Bambara language|Bambara]]  
+|translit_lang1_info=''Kayi''
+|translit_lang1_type1=[[Soninke language|Soninké]]
+|translit_lang1_info1=''Xaayi''
+|translit_lang1_type2=
+|translit_lang1_info2=
+|image_skyline          = Hôtel de Ville de Kayes.jpg
+|imagesize              = 250px
+|image_caption          = Town Hall of Kayes
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Mali<!-- name of a location map as per Template:Location_map -->
+|pushpin_label_position = <!-- position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location within [[Mali]] 
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = {{MLI}}
+|subdivision_type1      = [[Regions of Mali|Region]]
+|subdivision_name1      = [[Kayes Region|Kayes]]
+|subdivision_type2      =[[Cercles of Mali|Cercle]]
+|subdivision_name2      = [[Kayes Cercle]] 
+|subdivision_type3      = 
+|subdivision_name3      = 
+|subdivision_type4      = 
+|subdivision_name4      =
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type              =
+|seat                   =
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title1     = Town founded<!-- Incorporated (town) -->
+|established_date1      = 1880s
+|established_title2     = <!-- Incorporated (city) --> 
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink --> 
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_total_dunam         = <!--Used in Middle East articles only-->
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 33
+|elevation_ft           = 
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               =2009 census
+|population_footnotes           =<ref name=pop2009>{{citation
+ |url=http://instat.gov.ml/documentation/kayes.pdf 
+ |publisher=République de Mali: Institut National de la Statistique 
+ |title=Resultats Provisoires RGPH 2009 (Région de Kayes) 
+ |language=fr 
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20120727120527/http://instat.gov.ml/documentation/kayes.pdf
+ |archive-date=2012-07-27
+}}.</ref>
+|population_note                =
+|population_total               =127368
+|population_density_km2         = <!--For automatic calculation, any density field may contain: auto -->
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[Greenwich Mean Time|GMT]]
+|utc_offset             = +0
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|14|27|N|11|26|W|region:ML_type:city|display=inline,title}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|twin1                  =
+|twin1_country          =
+|twin2                  =
+|twin2_country          =
+|twin3                  =
+|twin3_country          =
+|twin4                  =
+|twin4_country          =
+|twin5                  =
+|twin5_country          =
+|twin6                  =
+|twin6_country          =
+|twin7                  =
+|twin7_country          =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|blank2_name            =
+|blank2_info            =
+|blank3_name            =
+|blank3_info            =
+|blank4_name            =
+|blank4_info            =
+|website                = 
+|footnotes              = 
+}}
+
+'''Kayes''' ([[Bambara language|Bambara]]: ߞߊߦߌ tr. ''Kayi'', [[Soninke language|Soninké]]: ''Xaayi'') is a city in western [[Mali]] on the [[Sénégal River]] with a population of 127,368 at the 2009 census.  Kayes is the capital of the [[Kayes Region|administrative region]] of the same name. The city is located {{convert|420|km|mi}} northwest of the capital [[Bamako]].
+
+==Toponymy==
+There are multiple possible etymologies of the name 'Kayes', all derived from the [[Soninke language]]. These include: the word "kharré", which describes a low humid place that floods in rainy season; the word 'kayé', a type of grass;<ref name = carenews>{{cite web |title=PETITE HISTOIRE DE KAYES |url=https://archive.wikiwix.com/cache/index2.php?url=https%3A%2F%2Fwww.carenews.com%2Fcitoyens-agites%2Fnews%2Fpetite-histoire-de-kayes#federation=archive.wikiwix.com&tab=url |website=CareNews |access-date=29 October 2024}}</ref> 'khayé', the Soninke name for the [[rhun palm]].<ref name = maliweb>{{cite web |title=Historique de la ville de Kayes avec Adama Issa Sacko, promoteur – culturel |url=https://archive.wikiwix.com/cache/index2.php?url=https%3A%2F%2Fwww.maliweb.net%2Fart-culture%2Fhistorique-de-la-ville-de-kayes-avec-adama-issa-sacko-promoteur-culturel-87165.html#federation=archive.wikiwix.com&tab=url |website=Maliweb |access-date=29 October 2024}}</ref>
+
+==History==
+The area around Kayes was historically a part of the [[Soninke people|Soninke]] states of [[Kingdom of Diarra|Diarra]] and [[Gajaaga]]. The important trading center of [[Goundiourou]], known in Arabic sources as Ghiyaru, was just across the river, and was later rebuilt just south of the modern city.<ref>{{cite book |last1=Bathily |first1=Abdoulaye |title=Les portes de l'or: le royaume de Galam, Sénégal, de l'ère musulmane au temps des négriers, VIIIe-XVIIIe siècle |date=1989 |publisher=Harmattan |url=https://ereader.perlego.com/1/book/3146221/35 |access-date=27 October 2024}}</ref><ref name = Monteil>Charles Monteil ‘Le Site de Goundiourou’, Bulletin du Comité d'études historiques et scientifiques de l'Afrique occidentale française, Larose (Paris), 1928, http://catalogue.bnf.fr/ark:/12148/cb34381764h</ref>
+
+[[File:Kayes avenue archinard.jpg|thumb|left|Kayes in 1910]]
+[[Image:EcoleOtages.jpg|thumb|left|Children at the Kayes [[Hostage schools|hostage school]], founded by [[Joseph Gallieni]].([[1887]]-[[1888]]).]]
+Kayes itself was founded in the second half of the 19th century. Guéssé Sidy, a prince of [[Khasso]], established a base there to protect the western approaches to the kingdom's capital, [[Medine, Mali|Medina]].<ref name = carenews/><ref name = maliweb/>
+
+Prior to French colonial expansion, Kayes was still a small village. In 1881 the French chose it as the site for a fort and barracks, the headquarters of the colonial presence in the central Sudan, as Medina was difficult to access by boat. By 1886 the post had been fortified, and by 1889 a market town of 6000 people had grown up around it.<ref name = Bah>Bah Thierno Mouctar. Les forts français et le contrôle de l’espace dans le Haut-Sénégal-Niger (1855-1898). In: 2000 ans d’histoire africaine. Le sol, la parole et l'écrit. Mélanges en hommage à Raymond Mauny. Tome II. Paris : Société française d'histoire d'outre-mer, 1981. pp. 988-9. (Bibliothèque d'histoire d'outre-mer. Études, 5-6-2)</ref>
+
+From the beginning, the French began building a [[railway]] linking Kayes, the furthest point reachable by boat on the [[Senegal river]], with [[Bafoulabe]] upstream. This stretch was completed in 1890, and reached to [[Bamako]] in 1904. A [[Dakar-Niger Railway|rail link]] to [[Thiès]] was begun in 1907 which, interrupted by the [[First World War]], was completed in 1923.<ref>{{cite web |title=Chemin de fer Thiès-Niger |url=https://www.entreprises-coloniales.fr/afrique-occidentale/Chfer_Thies-Niger.pdf |format=pdf |website=Les entreprises coloniales françaises |date=14 March 2021 |access-date=5 June 2024}}</ref>.
+
+In 1892, Kayes became the capital of the [[French Sudan]]; Bamako replaced it as the capital, first of the state of [[Haut Sénégal-Niger]] on October 17, 1899, then as the capital of all of French Sudan in 1908.{{cn|date = October 2024}}
+
+During [[World War II]], a portion of [[Poland]]'s [[gold reserve]], evacuated during the [[Invasion of Poland|German-Soviet invasion]] in 1939, was stored for several years in Kayes before being transported to the United States in 1944, to be returned to Poland after the [[Occupation of Poland (1939–1945)|occupation]] and war ended.<ref>{{cite journal|last=Ndiaye|first=Bara|year=2006|title=Stosunki polsko-senegalskie. Stan obecny i perspektywy|journal=Forum Politologiczne|publisher=Instytut Nauk Politycznych [[University of Warmia and Mazury in Olsztyn|Uniwersytetu Warmińsko-Mazurskiego w Olsztynie]]|language=pl|volume=3|page=194|issn=1734-1698}}</ref>
+[[File:Albaret 13 - Gare de KAYES (Soudan).JPG|thumb|right|Early 20th-century view of the railway station]]
+
+==Economy and transport==
+Kayes lies on the Route Nationale&nbsp;1 (RN1) highway and is {{convert|612|km|mi|abbr=on}} by road from Bamako and {{convert|96|km|mi|abbr=on}} from the border with [[Senegal]]. The town has an international airport ([[Kayes Airport]]), and lies on the [[Dakar-Niger Railway]] which offered regional passenger train service to [[Bamako]] three times a week via Kati and Diamou as of 2013.<ref>Mali Seat 61, http://www.seat61.com/Senegal.htm#.U2JXgMfEc7A</ref> The area is rich in gold and iron.
+
+==Climate==
+Kayes has a [[hot semi-arid climate]] ([[Köppen climate classification]] ''BSh''). The climate is subject to the [[West African Monsoon]] with all the rainfall occurring  between June and October. August is the wettest month. There is almost no rainfall during the other seven months of the year. The total annual rainfall is around {{convert|650|mm|in|0|disp=or}}.<ref name=wwis>{{citation
+| url = http://www.worldweather.org/034/c00130.htm | title =Weather Information for Kayes | access-date = 15 May 2012
+| publisher = World Weather Information Service}}</ref> Kayes is nicknamed the "pressure cooker of Africa" due to its extreme heat; the town is surrounded by iron-rich mountains which contribute to the temperature.  The town has been described as the hottest continuously inhabited town in Africa.{{citation needed|date=May 2022}} The average daily high temperature in the city is {{convert|36.4|°C|°F}}, with temperatures usually peaking in April and May at an average of nearly {{convert|42|°C|°F}}.<ref>{{Cite web | url=https://books.google.com/books?id=IN7mqkDMIzkC&q=Kayes+maxima+mensuel+44+%C2%B0C&pg=PA58 |title = Sahara, terre de demain|last1 = Cornet|first1 = Pierre|year = 1956}}</ref>
+
+{{Weather box|width = auto
+|location = Kayes (1950-2000)
+|metric first = yes
+|single line = yes
+|Jan record high C = 
+|Feb record high C = 
+|Mar record high C = 
+|Apr record high C =
+|May record high C = 47.9
+|Jun record high C = 
+|Jul record high C = 
+|Aug record high C = 
+|Sep record high C = 
+|Oct record high C =
+|Nov record high C =
+|Dec record high C = 
+|year record high C = 
+|Jan high C = 33.6
+|Feb high C = 36.6
+|Mar high C = 39.4
+|Apr high C = 41.7
+|May high C = 41.9
+|Jun high C = 38.2
+|Jul high C = 33.6
+|Aug high C = 32.0
+|Sep high C = 33.1
+|Oct high C = 36.1
+|Nov high C = 36.7
+|Dec high C = 33.5
+|Jan low C = 16.9
+|Feb low C = 19.3
+|Mar low C = 22.2
+|Apr low C = 25.5
+|May low C = 28.4
+|Jun low C = 26.6
+|Jul low C = 24.2
+|Aug low C = 23.3
+|Sep low C = 23.2
+|Oct low C = 23.0
+|Nov low C = 20.0
+|Dec low C = 17.2
+|rain colour = green
+|Jan rain mm = 0.0
+|Feb rain mm = 0.4
+|Mar rain mm = 0.1
+|Apr rain mm = 0.6
+|May rain mm = 12.0
+|Jun rain mm = 82.6
+|Jul rain mm = 155.2
+|Aug rain mm = 215.9
+|Sep rain mm = 140.9
+|Oct rain mm = 41.2
+|Nov rain mm = 2.7
+|Dec rain mm = 1.1
+|unit rain days = 0.1 mm
+|Jan rain days = 0.0
+|Feb rain days = 0.0
+|Mar rain days = 0.1
+|Apr rain days = 0.1
+|May rain days = 2.8
+|Jun rain days = 7.8
+|Jul rain days = 12.3
+|Aug rain days = 14.8
+|Sep rain days = 11.4
+|Oct rain days = 4.0
+|Nov rain days = 0.1
+|Dec rain days = 0.0
+|Jan sun = 263.5
+|Feb sun = 250.0
+|Mar sun = 282.1
+|Apr sun = 285.0
+|May sun = 279.0
+|Jun sun = 215.0
+|Jul sun = 211.8
+|Aug sun = 223.2
+|Sep sun = 240.0
+|Oct sun = 263.5
+|Nov sun = 264.0
+|Dec sun = 260.6
+|year sun = 3037.7
+|source 1 = [[World Meteorological Organization]]<ref name= WMO>{{cite web  
+| url = http://worldweather.wmo.int/en/city.html?cityId=130
+| title = World Weather Information Service – Kayes
+| publisher = World Meteorological Organization
+| access-date = 12 October 2015}}</ref>
+|source 2 = NOAA (sun 1961–1990)<ref name = NOAA>
+{{cite web
+| url = ftp://ftp.atdd.noaa.gov/pub/GCOS/WMO-Normals/TABLES/REG__I/M1/61257.TXT
+| title = Kayes Climate Normals 1961–1990
+| publisher = [[National Oceanic and Atmospheric Administration]]
+| access-date = 12 October 2015}}</ref>
+|date=October 2015
+}}
+
+==Area==
+Sites found in and around Kayes include:
+* [[Siege of Medina Fort|Fort du Médine]] 
+* [[Félou Falls]], {{convert|15|km|mi|abbr=on}} upstream on the Senegal river
+* [[Gouina Falls]], {{convert|100|km|abbr=on}} to the southeast on the Senegal river
+* The ''[[Tata (fortification)|tata]]'' of Koniakari, constructed by [[El Hadj Umar Tall]], {{convert|70|km|mi|abbr=on}} to the northeast
+* Lake Magui and Lake Doro, both watered by the [[Kolimbiné River]]
+* The [[Manantali Dam]]
+
+== See also ==
+* [[List of cities in Mali]]
+* [[Ebola virus disease in Mali]]
+
+== References ==
+{{Reflist}}
+
+* Portions of this article are a translation of French language Wikipedia's [[:fr:Kayes|Kayes]].
+
+==External links==
+* [http://courses.wcupa.edu/jones/his311/archives/helpers/geog-pic.htm Colonial history of Kayes], from Web Site of Dr. Jim Jones, "African History Since 1875", [[West Chester University]] Department of History.  
+* [http://www.travelblog.org/Africa/Mali/blog-2502.html View of Sénégal River Bridge at Kayes]: Kidira Border Crossing into Mali, December 16, 2004 by NKOverland.
+
+{{Communes of the Kayes Region}}
+
+{{Authority control}}
+
+[[Category:Kayes| ]]
+[[Category:Communes of Kayes Region]]
+[[Category:French West Africa]]
+[[Category:Regional capitals in Mali]]
+[[Category:Senegal River]]
+[[Category:Populated places established in 1881]]
+[[Category:1881 establishments in Africa]]

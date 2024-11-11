@@ -1,0 +1,105 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name          = Saham
+|other_name             =
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        = Town
+|motto                  =
+<!-- images and maps  -----------> 
+|image_skyline          = 
+|imagesize              = 
+|image_caption          =
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_map              = 
+|mapsize                =
+|map_caption            = 
+|pushpin_map            =Oman <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =below
+|pushpin_mapsize        =
+|pushpin_map_caption    =Location in Oman
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Oman}}
+|subdivision_type1      = [[Subdivisions of Oman|Region]]
+|subdivision_name1      = [[Al Batinah Region]]
+|subdivision_type2      =
+|subdivision_name2      = 
+|subdivision_type3      =
+|subdivision_name3      = 
+|<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                =Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           =  <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|population_as_of               =2017
+|population_footnotes           =
+|population_note                =
+|population_total               =140,000
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               =+4
+|utc_offset             = +4
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|24|10|20|N|56|53|19|E|region:OM|display=inline,title}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              = 
+}}
+
+'''Saham''' ({{langx|ar|صحم}}) is a coastal town in [[Al Batinah North Governorate]], in northeastern [[Oman]]. As of 2017, its population was 147,775. The main industries are fishing and farming. Saham province is located between [[Al Khaboura]] and [[Sohar]] provinces.<ref>{{cite book| title= Oman: The Bradt Travel Guide | chapter-url=https://books.google.com/books?id=J6QKSXYG5tYC&pg=PA134 | chapter=Saham | page=134 | first=Diana | last=Darke | publisher=Bradt Travel Guides | year=2010 | isbn=978-1841623320 }}</ref>
+
+== Saham Fort and Souq ==
+The best known landmarks in Saham are its historic souq and fort. The souq was renovated to modern standards in 2018. It hosts a regular market where farm owners bring their livestock for sale on the seventh day of [[Dhu al-Hijja]], three days before [[Eid Al Adha]], where sacrificial lambs can be bought for the holiday.
+
+== Regions ==
+Saham is one of the largest provinces in Al Batinah North Governorate in terms of area. It contains several regions, including the northern regions of Majaz, Al-Huwail, Al-Marfa, Al-Hadeeb, Al-Gowaisa as well as two southern regions of Al-Deel and Hafeet. Along the shore, fjords are common, and the areas surrounding them are named ''khors'' (such as Khor Al Milh, Khor AlHimam, Khor AlShiyadi). The region surrounding the souq was named after it (Hillat AlSouq) marking its importance in the province.
+
+==See also==
+* [[List of cities in Oman]]
+
+==References==
+{{reflist}}
+
+[[Category:Saham| ]]
+[[Category:Populated places in Oman]]
+[[Category:Al Batinah North Governorate]]
+
+
+{{Oman-geo-stub}}

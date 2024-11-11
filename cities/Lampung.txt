@@ -1,0 +1,275 @@
+{{short description|Province of Indonesia}}
+{{distinguish|Lampang|Lamphun province}}
+{{Use dmy dates|date=February 2020}}
+{{More citations needed|date=October 2021}}
+{{Infobox settlement
+| name               = Lampung
+| image_shield       = {{#property:p94}}
+| shield_size        = 75px
+| image_flag         = 
+| image_map          = Lampung in Indonesia.svg
+| map_alt            = 
+| map_caption        = {{centre|{{Legend inline|#C41E3A|outline=red}} '''Lampung''' in {{Legend inline|#FFFDD0|outline=silver}} '''[[Indonesia]]'''}}
+| coordinates        = {{coord|5|27|S|105|16|E|region:ID_type:adm1st|display=inline,title}}
+| coor_pinpoint      = 
+| coordinates_footnotes = 
+| subdivision_type1  = Capital<br />{{nobold|and largest city}}
+| subdivision_name1  = [[Bandar Lampung]]
+| established_title  = Established
+| established_date   = 18 March 1964
+| founder            = 
+| named_for          = 
+| seat               = 
+| government_footnotes = 
+| governing_body     = Lampung Provincial Government
+| leader_title       = Governor
+| leader_name        = [[Samsudin]] (''acting'')
+| leader_title2      = Vice Governor
+| leader_name2       = ''Vacant''
+| unit_pref          = Metric<!-- or US or UK -->
+| area_footnotes     = 
+| area_total_km2     = 33575.41
+| area_rank          = [[Provinces of Indonesia|26th in Indonesia]]
+| area_note          = 
+| elevation_footnotes = 
+| elevation_m        = 
+| population_total   = 9313990
+| population_as_of   = mid-2023 estimate
+| population_footnotes = <ref name="Badan Pusat Statistik 2024">Badan Pusat Statistik, Jakarta, 28 February 2024, ''Provinsi Lampung Dalam Angka 2024'' (Katalog-BPS 1102001.18).</ref>
+| population_density_km2 = auto
+| population_rank    = [[Provinces of Indonesia|8th in Indonesia]]
+| population_demonym = Lampungese {{smaller|{{lang in|en}}}}<br />Ulun Lappung {{smaller|{{lang in|abl}}}}<br />Orang Lampung {{smaller|{{lang in|id}}}}
+| population_note    = 
+| demographics_type1 = Demographics
+| demographics1_footnotes = <!-- for references: use <ref> tags -->
+| demographics1_title1 = [[Ethnic groups]]<ref name="SUKU">{{cite web|url=https://www.bps.go.id/publication/2012/05/23/55eca38b7fe0830834605b35/kewarganegaraan-suku-bangsa-agama-dan-bahasa-sehari-hari-penduduk-indonesia.htm|title=Kewarganegaraan, Suku Bangsa, Agama, dan Bahasa Sehari-hari Penduduk Indonesia|website=www.bps.go.id|pages=36–41|accessdate=22 September 2021|format=pdf}}</ref><ref>{{Cite book|last=Ananta|first=Aris|date=2015|url=https://www.worldcat.org/oclc/1011165696|title=Demography of Indonesia's Ethnicity.|location=SG|publisher=Institute of Southeast Asian Studies|isbn=978-981-4519-88-5|others=Evi Nurvidya Arifin, M. Sairi Hasbullah, Nur Budi Handayani, Agus Pramono|oclc=1011165696}}</ref>
+| timezone1          = [[Time in Indonesia|Indonesia Western Time]]
+| utc_offset1        = +7
+| iso_code           = ID-LA
+| website            = {{URL|lampungprov.go.id}}
+| type               = [[Provinces of Indonesia|Province]]
+| elevation_max_m    = 2262
+| elevation_max_point = [[Mount Pesagi]]
+| demographics1_info1 = {{Collapsible list
+ |frame_style = border:none; padding: 0;
+ |title_style = 
+ |list_style = text-align:left;display:none;
+ |1 = 64.17% [[Javanese people|Javanese]]
+ |2 = 13.56% [[Lampung people|Lampung]]
+ |3 = 11.88% [[Sundanese people|Sundanese]]
+ |4 = 5.64% [[Malay Indonesians|Malay]]
+ |5 = 1.38 [[Balinese people|Balinese]]
+ |6 = 3.37% Others
+ }}
+| demographics1_title2 = Religion (2022)<ref>{{cite web|url=https://gis.dukcapil.kemendagri.go.id/peta/|title=ArcGIS Web Application }}</ref>
+| demographics1_info2 = {{Collapsible list
+ |frame_style = border:none; padding: 0;
+ |list_style = text-align:left;display:none;
+ |1 = 95.48% [[Islam]]
+ |2 = 1.51% [[Protestantism]]
+ |3 = 1.49% [[Hinduism]]
+ |4 = 0.91% [[Catholic Church|Catholicism]]
+ |5 = 0.32% [[Buddhism]]
+ |6 = 0.01% [[Confucianism]]
+ |7 = 0.27% Unknown
+ }}
+| demographics1_title3 = [[Languages]]
+| demographics1_info3 = [[Indonesian language|Indonesian]] (official)<br />[[Lampung Api|Lampung]] and [[Lampung Nyo|Abung]] (regional)<br />[[Javanese language|Javanese]], [[Komering language|Komering]], [[Sundanese language|Sundanese]], [[Balinese language|Balinese]]
+| official_name      = Province of Lampung<br>{{lang|id|{{nobold|Provinsi Lampung}}}}
+| blank_name         = [[Gross domestic product|GDP]] (nominal)
+| blank_info         = 2022<ref name="bpsdata2022">{{Cite web |author=Badan Pusat Statistik |author-link=Statistics Indonesia |year=2023 |title=Produk Domestik Regional Bruto (Milyar Rupiah), 2020–2022 |url=https://www.bps.go.id/indicator/52/286/1/-seri-2010-produk-domestik-regional-bruto-.html |publisher=Badan Pusat Statistik |location=Jakarta |language=id}}</ref>
+| blank1_name        = Total
+| blank1_info        = [[Indonesian rupiah|Rp]] 414.1&nbsp;trillion ([[List of Indonesian provinces by GDP|11th]])<br>[[USD|US$]]27.9&nbsp;billion<br>[[Int$]]87.0&nbsp;billion ([[Purchasing power parity|PPP]])
+| blank2_name        = Per capita
+| blank2_info        = [[Indonesian rupiah|Rp]] 45.1&nbsp;million ([[List of Indonesian provinces by GRP per capita|25th]])<br>[[USD|US$]]3,039<br>[[Int$]]9,484 ([[Purchasing power parity|PPP]])
+| blank3_name        = Growth
+| blank3_info        = {{Increase}} 4.28%<ref name="bappenas2022">{{Cite web |author=Badan Pembangunan Nasional |author-link=Ministry of National Development Planning (Indonesia) |year=2023 |title=Capaian Indikator Utama Pembangunan |url=https://simreg.bappenas.go.id/home/pemantauan/lpe |publisher=Badan Pembangunan Nasional |location=Jakarta |language=id}}</ref>
+| blank4_name        = [[Human Development Index|HDI]]
+| blank4_info        = {{increase}} 0.711 ([[List of Indonesian provinces by Human Development Index|24th]]) – <span style=color:#090>high</span>
+| motto              = {{native phrase|ljp|Sai Bumi Ruwa Jurai}}<br />One Land, Two Indigenous Peoples<ref>{{Cite web |date=December 15, 2015 |title=Kenali Motto Kabupaten/Kota di Provinsi Lampung |trans-title=Know the mottos of regencies/cities in Lampung Province |url=https://lampungprov.go.id/detail-post/kenali-motto-kabupatenkota-di-provinsi-lampung |website=lampungprov.go.id |language=id}}</ref>
+| anthem             = [[Sang Bumi Ruwa Jurai]]
+| image_map1         = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250|zoom=8}}{{hidden end}}
+| registration_plate = '''BE'''
+| blank5_info        = [[Raden Inten II International Airport|RIIA]] ([[IATA airport code|TKG]])
+| postal_code_type   = [[Postal code of China|Postal code]]
+| postal_code        = 34111–35686
+}}
+
+'''Lampung''', officially the '''Province of Lampung''' ({{langx|id|Provinsi Lampung}}), is a [[provinces of Indonesia|province]] of [[Indonesia]]. It is located on the southern tip of the island of [[Sumatra]]. It has a short border with the province of [[Bengkulu]] to the northwest, and a longer border with the province of [[South Sumatra]] to the north, as well as a maritime border with the provinces of [[Banten]] and [[Jakarta]] to the east. It is the home of the [[Lampung people]], who speak [[Lampung language|their own language]] and possess [[Lampung language#Writing system|their own written script]]. Its capital city is [[Bandar Lampung]].
+
+The province covers a land area of 33,575.41 km<sup>2</sup> and had a population of 7,608,405 at the 2010 census,<ref name="Biro Pusat Statistik 2011">Biro Pusat Statistik, Jakarta, 2011.</ref> 9,007,848 at the 2020 census,<ref name="Badan Pusat Statistik 2021">Badan Pusat Statistik, Jakarta, 2021.</ref> and 9,313,990 (comprising 4,760,260 males and 4,553,720 females) according to the official estimates for mid-2023,<ref name="Badan Pusat Statistik 2024" /> with three-quarters of that being descendants of [[Java (island)|Javanese]], [[Madura|Madurese]] and [[Bali]]nese migrants. These migrants came from more densely populated islands in search of available land, as well as being part of the national government's [[transmigration program|Indonesian transmigration program]], of which Lampung was one of the earliest and most significant transmigration destinations.
+
+In 1883, the volcano of [[Krakatoa]], located on an island in the Sunda Strait, erupted into becoming one of the most [[1883 eruption of Krakatoa|violent volcanic eruptions]] in [[recorded history]], with disastrous consequences for the area and elsewhere, including estimates of human fatalities in the tens of thousands and worldwide temperature and other weather effects for years.
+
+== Etymology ==
+The etymology of ''Lampung'' is unknown. But, in [[Batak languages|Batak]], ''Lappung'', meaning 'big', has been suspected to be related to the eruption of [[Mount Merapi]], later becoming the name Lampung. However, the name of this province could come from the word ''Lampohwang''.<ref>{{Cite web |last=Adryamarthanino |first=Verelladevanka |last2=Ningsih |first2=Widya Lestari |date=December 12, 2021 |title=Asal-usul Nama dan Sejarah Lampung |trans-title=Origin of the Name and History of Lampung |url=https://www.kompas.com/stori/read/2021/12/12/110000979/asal-usul-nama-dan-sejarah-lampung |website=Kompas |language=id}}</ref><ref>{{Cite web |last=Purba |first=Angelina Giyanti |title=Sejarah Provinsi Lampung Pada Masa VOC dan Asal Nama Lampung |trans-title=History of Lampung Province During the VOC Era and the Origin of the Name Lampung |url=https://www.detik.com/sumbagsel/budaya/d-6946061/sejarah-provinsi-lampung-pada-masa-voc-dan-asal-nama-lampung#:~:text=Kata%20%22Lappung%22,yang%20berarti%20besar%20atau%20luas. |access-date=2024-08-31 |website=detiksumbagsel |language=id-ID}}</ref>{{Better source needed|reason=The current source is insufficiently reliable ([[WP:NOTRS]]).|date=August 2024}}
+
+{{Historical populations
+|type=
+|footnote= Source:<ref name="Badan Pusat Statistik 2024" /> and previous
+|1971 |2777008
+|1980 |4624785
+|1990 |6017573
+|1995 |6657759
+|2000 |6741439
+|2005 |7116177
+|2010 |7608405
+|2015 |8109601
+|2020 |9007848
+|2023 |9313990}}
+
+==History==
+{{more citations needed|section|date=August 2022}}
+
+=== Early history ===
+Lampung was part of the [[Srivijaya|Srivijaya empire]], with its regional capital in [[Jambi]], which controlled most of [[Southeast Asia]] until the 11th century era.<ref>{{Cite web |last=Ningsih |first=Widya Lestari |last2=Nailufar |first2=Nibras Nada |date=9 April 2021 |title=Wilayah Kekuasaan Kerajaan Sriwijaya |trans-title=Territory of the Srivijaya Kingdom |url=https://www.kompas.com/stori/read/2021/04/09/114212579/wilayah-kekuasaan-kerajaan-sriwijaya |website=Kompas |language=id}}</ref>
+
+The entry of the [[Banten Sultanate]] in Lampung in the 16th century marked the beginning of the spread of [[Islam]] in the region. Lampung is known for pepper, which at that time was in high demand. At that time, the Dutch began pressing for control of the region.<ref>{{Cite book |last=Ota |first=Atsushi |url=http://dx.doi.org/10.1163/9789047417620 |title=Changes of Regime and Social Dynamics in West Java |date=2006-01-01 |publisher=BRILL |isbn=978-90-474-1762-0}}</ref> In the 1930s, Lampung still accounted for 30% of the world's pepper production.<ref>{{Cite thesis |last=Safitri |first=Myrna Asnawati |title=Forest tenure in Indonesia: the socio-legal challenges of securing communities' rights |date=2010 |degree=PhD |publisher=Leiden University |chapter-url=https://openaccess.leidenuniv.nl/bitstream/handle/1887/16242/06.pdf?sequence=12 |chapter=9. Social forest in Langkawana: from license to supervision }}</ref>
+
+In 1610, the [[Dutch East India Company]] established a trading post in [[Banten]] and, later in the 17th century, began the forceful pepper cultivation in Lampung.<ref>{{Cite journal |date=2005-07-01 |title=Southeast Asia: A Historical Encyclopedia from Angkor Wat to East Timor |url=http://dx.doi.org/10.1108/09504120510604481 |journal=Reference Reviews |volume=19 |issue=5 |pages=57–58 |doi=10.1108/09504120510604481 |issn=0950-4125}}</ref> The Dutch began to control the Lampung spice trade under [[Abu an-Nasr of Banten|Sultan Haji]]. The area was part of the Banten Sultanate until it was annexed by the Dutch in 1752, when it became known as the ''Residentie Lampoengse Districten''.<ref name=":6">{{Cite web |url=http://www.hubert-herald.nl/IndoLampung.htm |title=Lampung Arms |website=www.hubert-herald.nl |access-date=24 July 2016}}</ref> It became part of the [[Dutch East Indies]].
+
+Under Dutch rule, [[Transmigration program|transmigration programs]] were implemented. This program involved the migration of people from Java to Lampung. Many residents of Java moved to the transmigration sites located in the eastern region of Lampung.<ref>{{Cite journal |last1=Pratiwi |first1=Ayu |last2=Matous |first2=Petr |last3=Martinus |first3=Kirsten |date=2022-10-01 |title=Transmigration programs and migrant positions in rural community knowledge networks |journal=Journal of Rural Studies |language=en |volume=95 |pages=391–401 |doi=10.1016/j.jrurstud.2022.09.019 |issn=0743-0167|doi-access=free }}</ref> The program was expanded after [[Proclamation of Indonesian Independence|Indonesian independence]] in the 1960s. The Javanese brought cultural devices to Lampung, such as the [[gamelan]] and [[wayang]].
+
+=== After independence ===
+Provinsi Lampung was created on 18 March 1964 with the implementation of the Peraturan Pemerintah Nomor 3/1964, later becoming [[Constitution of Indonesia|Undang-undang Nomor 14 Tahun 1964]].<ref>{{Cite web |title=Provinsi Lampung |url=https://lampung.bpk.go.id/provinsi-lampung/#:~:text=Provinsi%20Lampung%20lahir%20pada%20tanggal,tergabung%20dengan%20Provinsi%20Sumatera%20Selatan. |access-date=2024-08-31 |website=The Audit Board of the Republic of Indonesia |language=en-US}}</ref> The province broke away from [[South Sumatra|Sumatera Selatan]], along with [[Jambi]], [[Bengkulu]], and [[Bangka Belitung Islands]].
+
+==Geography==
+[[File:Uprising-mt anak krakatau.jpg|thumb|[[Anak Krakatoa]]]]
+Lampung Province has an area of {{convert|35,288.35|km2|abbr=on}}, about the same size as [[Moldova]].<ref name=":0">{{Cite web |title=Lampung |url=https://www2.cifor.org/gcs-tenure/research/research-sites/indonesia/lampung/ |access-date=2024-08-31 |website=Global Comparative Study on Forest Tenure Reform |language=en-US}}</ref> The province borders the [[Sunda Strait]] to the southeast and the [[Java Sea]] to the east. There are a number of offshore islands within Lampung Province, such as [[Legundi Island|Legundi]], [[Krakatoa]], and [[Tabuan]]. These islands are located mostly in the Bay of Lampung. Pisang Island lies at the entrance to the Regency of [[West Lampung Regency|West Lampung]]. There are 172 islands considered to be part of the province that have names.<ref>{{Cite web |title=List of Islands in Lampung province |url=https://www.nomor.net/_kodepos.php?_i=pulau-kodepos&sby=000000&_en=ENGLISH&daerah=Provinsi&jobs=Lampung |website=List of Islands Names & Postcode Lampung province}}</ref>
+
+The highest mountain in Lampung is Mount Pesagi, standing at {{convert|2,262|m|abbr=on}} above sea level in West Lampung.<ref>{{Cite web |date=2016-05-25 |title=Pesagi Mountain, The Highest Peak at Lampung |url=https://www.indonesia-tourism.com/blog/pesagi-mountain-the-highest-peak-at-lampung/ |access-date=2024-08-31 |language=en-US}}</ref> The river Way Sekampung is the longest river in the province, at {{convert|265|km|abbr=on}} with a [[Drainage basin|catchment area]] of {{convert|4795.52|km2|abbr=on}}. [[Krakatoa|Mount Krakatau]] is a [[Caldera|volcanic caldera]] located in the [[Sunda Strait]], close to the Lampung province. The Krakatoa erupted from 20 May until 21 October 1883, which caused landslides, producing high waves in the coastal area of Lampung.<ref>{{Cite journal |last=Firdaus |first=Azhar |last2=Afiff |first2=Suraya Abdulwahab |last3=Herdiansyah |date=2022-12-01 |title=Community Resilient from Anak Krakatau Eruption: Lesson Learn from The Tale of Lampung Submerged to Increase Environmental Awareness |url=http://dx.doi.org/10.1088/1755-1315/1111/1/012073 |journal=IOP Conference Series: Earth and Environmental Science |volume=1111 |issue=1 |pages=012073 |doi=10.1088/1755-1315/1111/1/012073 |issn=1755-1307|doi-access=free }}</ref><ref>{{Cite news |last=Permana |first=Adi |date=August 31, 2018 |title=The Mystery of Krakatoa Eruption and Increasing Activity from Child of Krakatoa |url=https://www.itb.ac.id/news/the-mystery-of-krakatoa-eruption-and-increasing-activity-from-child-of-krakatoa/56774 |access-date=2024-08-31 |work=Institut Teknologi Bandung |language=en}}</ref>
+
+Between 1969 and 1970, the total area of forest land in Lampung that had been used was 249,200 [[Hectare|hectares]]. In 2000, there were 48 permits issued; in 1980, the number reached 76 permits.<ref name=":0" /> The [[topography]] of the region in the western part is mostly hilly, while the eastern part is mostly a [[Upland and lowland|lowland area]] that is agricultural and swampy.<ref>{{Cite journal |last=Darmaputra |first=I.G. |last2=Koesmaryono |first2=Y. |last3=Santosa |first3=I. |date=2006 |title=Pewilayahan Agroklimat Tanaman Nilam (Pogostemon Spp.) Berbasis Curah Hujan Di Provinsi Lampung |trans-title=Agroclimate Zoning of Patchouli Plants (Pogostemon Spp.) Based on Rainfall in Lampung Province |url=https://media.neliti.com/media/publications/246538-none-1e142b77.pdf |journal=J. Agromet Indonesia |language=id |volume=20 |issue=2 |pages=14–24}}</ref> In 1950, nine specimens per 100 square kilometres in Lampung were collected as part of [[Botany|botanical research]].<ref>{{Cite journal |last=Jacobs |first=M. |date=2014-01-24 |title=Botanical Exploration In The Lampung Province, Sumatra |url=https://biologyjournal.brin.go.id/index.php/reinwardtia/article/view/236/691 |journal=Reinwardtia |language=en |volume=8 |issue=2 |page=349 |issn=2337-8824}}</ref>
+
+==Government and administrative divisions==
+Lampung Province, which was formed from the southern portion of [[South Sumatra Province]] in 1964, was initially composed of just three [[Regencies of Indonesia|regencies]] (''kabupaten''): [[South Lampung Regency|Lampung Selatan]], [[Central Lampung Regency|Lampung Tengah]] and [[North Lampung Regency|Lampung Utara]] (and one [[autonomous city]], Bandar Lampung). A fourth regency ([[West Lampung Regency|Lampung Barat]]) was created on 16 August 1991 from part of Lampung Utara, and on 3 January 1997, two further regencies were created: Tanggamus from part of Lampung Selatan and Tulang Bawang from part of Lampung Utara.
+
+On 20 April 1999, two additional regencies were formed: [[East Lampung Regency|Lampung Timur]] from part of Lampung Tengah and [[Way Kanan Regency|Way Kanan]] from part of Lampung Utara, as well as a second autonomous city, [[Metro (city)|Metro]], from another part of Lampung Tengah. A ninth regency ([[Pesawaran Regency|Pesawaran]]) was created on 17 July 2007 from a part of Lampung Selatan.
+
+On 29 October 2008, three more regencies were formed: [[Mesuji Regency|Mesugi]] and [[West Tulang Bawang Regency|Tulang Bawang Barat]] from parts of Tulang Bawang Regency, and Pringsewu from part of Tanggamus Regency. A thirteenth regency (Pesisir Barat) was formed on 25 October 2012 from the west coast part of Lampung Barat Regency. These are all listed below with their areas and their populations at the 2010,<ref name="Biro Pusat Statistik 2011" /> 2020<ref name="Badan Pusat Statistik 2021" /> and at the mid-2023 official estimates.<ref name="Badan Pusat Statistik 2024" />
+
+{| class="sortable wikitable"
+|-
+! Area code || Name of city or regency || Area (km<sup>2</sup>) || Population<br />census<br />2010 || Population<br />census<br />2020 || Population<br />estimate
+mid-2023 
+! Capital || [[Human Development Index|HDI]] 2018
+|-
+| 18.71 || [[Bandar Lampung|Bandar Lampung City]]|| align="right" |183.72|| align="right" |881,801|| align="right" |1,166,066|| align="right" |1,202,070|| [[Bandar Lampung]]|| 0.766 ({{fontcolor|green|High}}) 
+|-
+| 18.72 || [[Metro, Indonesia|Metro City]]|| align="right" |73.21|| align="right" |145,471|| align="right" |168,676|| align="right" |173,870|| [[Metro (city)|Metro]]|| 0.762 ({{fontcolor|green|High}}) 
+|-
+| 18.02 || [[Central Lampung Regency]]<br />(Lampung Tengah)|| align="right" |4,548.93 || align="right" |1,170,717|| align="right" |1,460,045|| align="right" |1,508,330|| [[Gunung Sugih]]|| 0.697 ({{fontcolor|#fc0|Medium}}) 
+|-
+| 18.07 || [[East Lampung Regency]]<br />(Lampung Timur)|| align="right" |3,868.43|| align="right" |951,639|| align="right" |1,110,340|| align="right" |1,142,580|| Sukadana|| 0.690 ({{fontcolor|#fc0|Medium}}) 
+|-
+| 18.11 || [[Mesuji Regency]]|| align="right" |2,200.51|| align="right" |187,407|| align="right" |227,518|| align="right" |237,940|| [[Mesuji]]|| 0.628 ({{fontcolor|#fc0|Medium}}) 
+|-
+| 18.03 || [[North Lampung Regency]]<br />(Lampung Utara)|| align="right" |2,656.39|| align="right" |584,277|| align="right" |633,099|| align="right" |653,850|| [[Kotabumi]]|| 0.671 ({{fontcolor|#fc0|Medium}}) 
+|-
+| 18.09 || [[Pesawaran Regency]]|| align="right" |1,279.60|| align="right" |398,848|| align="right" |477,468|| align="right" |494,280|| [[Gedong Tataan]]|| 0.649 ({{fontcolor|#fc0|Medium}}) 
+|-
+| 18.10 || [[Pringsewu Regency]]|| align="right" |614.97|| align="right" |365,369|| align="right" |405,466|| align="right" |419,590|| [[Pringsewu]]|| 0.694 ({{fontcolor|#fc0|Medium}}) 
+|-
+| 18.01 || [[South Lampung Regency]]<br />(Lampung Selatan)|| align="right" |2,218.84|| align="right" |912,490|| align="right" |1,064,301|| align="right" |1,105,000|| [[Kalianda]]|| 0.678 ({{fontcolor|#fc0|Medium}}) 
+|-
+| 18.06 || [[Tanggamus Regency]]|| align="right" |2,901.98|| align="right" |536,613|| align="right" |640,275|| align="right" |662,540|| [[Kota Agung]]|| 0.656 ({{fontcolor|#fc0|Medium}}) 
+|-
+| 18.05 || [[Tulang Bawang Regency]]|| align="right" |3,107,47|| align="right" |397,906|| align="right" |430,021|| align="right" |445,170|| [[Menggala]]|| 0.677 ({{fontcolor|#fc0|Medium}}) 
+|-
+| 18.08 || [[Way Kanan Regency]]|| align="right" |3,531.10|| align="right" |406,123|| align="right" |473,575|| align="right" |491,110|| [[Blambangan Umpu]]|| 0.666 ({{fontcolor|#fc0|Medium}}) 
+|-
+| 18.04 || [[West Lampung Regency]]<br />(Lampung Barat)|| align="right" |2,116.01|| align="right" |277,296|| align="right" |302,139|| align="right" |312,430|| [[Liwa, Indonesia|Liwa]]|| 0.667 ({{fontcolor|#fc0|Medium}}) 
+|-
+| 18.13 || [[Pesisir Barat Regency]]|| align="right" |2,993.80|| align="right" |141,741|| align="right" |162,697|| align="right" |172,320||Krui|| 0.629 ({{fontcolor|#fc0|Medium}}) 
+|-
+| 18.12|| [[West Tulang Bawang Regency]]<br />(Tulang Bawang Barat)|| align="right" |1,281.45|| align="right" |250,707|| align="right" |286,162|| align="right" |295,480|| [[Panaragan Jaya]]|| 0.653 ({{fontcolor|#fc0|Medium}}) 
+|-
+| || ''Total Province'' || align="right" |33,575.41|| align="right" |7,608,405|| align="right" |9,007,848|| align="right" |9,313,990|| [[Bandar Lampung]]|| 0.690 ({{fontcolor|#fc0|Medium}}) 
+|}
+
+The province comprises two of Indonesia's 84 national [[Electoral district|electoral districts]] to elect members to the [[Indonesian Parliament|People's Representative Council]]. The Lampung I Electoral District consists of 6 of the regencies in the province (Tanggamus, South Lampung, Pesawaran, Pringsewu, West Lampung and Pesisir Barat), together with the cities of Bandar Lampung and Metro, and elects 10 members to the People's Representative Council. The Lampung II Electoral District consists of the remaining 7 regencies (East Lampung, Central Lampung, North Lampung, Way Kanan, Tulang Bawang, Mesuji and West Tulang Bawang) and likewise elects 10 members to the People's Representative Council.<ref>Law No. 7/2017 (''UU No. 7 Tahun 2017'') as amended by Government Regulation in Lieu of Law No. 1/2022 and Regulation of General Elections Commission No. 6/2023.</ref>
+
+In 2024, the [[General Elections Commission]] (KPU) determined 85 legislative candidates for the Lampung Province [[Regional House of Representatives|DPRD]] for the 2024–2029 period. The political party [[Gerindra Party]] has the most seats, winning 16 seats.<ref>{{Cite web |title=Kpu Prov Lampung Tetapkan 85 Caleg Terpilih Periode 2024-2029 |trans-title=Lampung Provincial KPU Determines 85 Elected Legislative Candidates for the 2024-2029 Period |url=https://tribratanews.lampung.polri.go.id/detail-post/kpu-prov-lampung-tetapkan-85-caleg-terpilih-periode-2024-2029 |access-date=2024-09-05 |website=Tribratanews Polda Lampung |language=id}}</ref>
+
+==Agriculture==
+[[File:Coffee beans robusta.jpg|thumb|Robusta coffee beans, a type of coffee bean produced in Lampung]]
+Major crops in the region include [[Coffea canephora|robusta coffee beans]], [[cocoa bean]]s, [[coconut]]s and [[clove]]s. This agriculture has included illegal growing in [[Bukit Barisan Selatan National Park]].<ref>{{Cite news |last=Leow |first=Claire |url=http://www.iht.com/articles/2007/01/18/bloomberg/bxnestle.php |title=Nestlé to scrutinize Indonesia coffee amid wildlife-endangerment fears |date=19 January 2007 |work=International Herald Tribune |archive-url=https://archive.today/20070122045500/http://www.iht.com/articles/2007/01/18/bloomberg/bxnestle.php |archive-date=22 January 2007}}</ref> In addition, [[nata de coco]] is also manufactured in the region by domestic companies. Rubber and [[palm oil]] are also harvested.
+
+According to [[Ministry of Marine Affairs and Fisheries|Kementerian Kelautan dan Perikanan]], in 2023, [[shrimp]] production in Lampung reached 59,613 tons.<ref>{{Cite journal |date=2023 |title=Profil Pasar Udang |trans-title=Shrimp Market Profile |url=https://kkp.go.id/download-pdf/Materi%20-%20profil-pasar-udang667533620a258.pdf |journal=Kementerian Kelautan dan Perikanan |language=id |location=Jakarta |page=5}}</ref> Indonesia has [[black pepper]] and white pepper. Lampung declined its pepper export rate in 2021 to minus 37.5 percent in a year.<ref name=":4" /> As of 2023, Lampung accounted for 42 percent of Indonesia's overall pepper exports.<ref name=":4">{{Cite journal |last=Putri |first=Najah Hanifah |last2=Abidin |first2=Zainal |last3=Situmorang |first3=Suriaty |date=December 2023 |title=The Prospects of Lampung's Pepper Export to the Global Market: An Analysis Using the ARIMA Model |journal=Habitat |volume=34 |issue=3 |pages=289–298 |doi=10.21776/ub.habitat.2023.034.3.26 |issn=0853-5167 |eissn=2338-2007|doi-access=free }}</ref>
+
+== Culture ==
+Lampung Province has 438 cultural heritage objects. There is an ancient site of the Islamic era in the form of an ancient cemetery in Bantengsari, East Lampung. Historical sites include the Tomb of National Hero Raden Intan II in South Lampung.<ref name=":2">{{Cite journal |last=Syarif |first=Erman |last2=Triono |first2=Agus |last3=Saputra |first3=Rodhi Agung |date=January 2024 |title=Strengthening and Promoting Lampung Culture Based on Pancasila and Globalization |url=https://jdih.lampungprov.go.id/uploads//files/1/1864-Article%20Text-4248-1-10-20240125.pdf |journal=International Journal of Social Science Research and Review |volume=7 |issue=1 |page=381}}</ref> The province has a Lampung Province Regional Regulation Number 2 of 2008.<ref name=":2" /> An example of traditional houses in Lampung includes Nuwou Sesat; the shape of the house was built to avoid potential animal attacks.<ref>{{Cite web |last=Ramadhani |first=Awalia |date=7 January 2023 |title=Mengenal Rumah Adat Lampung: Nuwou Sesat, Lamban Pesagi hingga Sukadana |trans-title=Getting to Know the Traditional Houses of Lampung: Nuwou Sesat, Lamban Pesagi to Sukadana |url=https://www.detik.com/edu/detikpedia/d-6502446/mengenal-rumah-adat-lampung-nuwou-sesat-lamban-pesagi-hingga-sukadana |access-date=2024-08-31 |website=detikedu |language=id-ID}}</ref>
+
+=== Clothing ===
+[[File:Kostum tradisional lampung.jpg|thumb|Lampung traditional clothing]]
+Lampung [[Folk costume|traditional clothing]] is divided into two customs: Lampung Saibatin and Lampung Pepadun. In general, Lampung women wear a set of traditional clothing consisting of [[kebaya]], a belt and slippers. A set of jewelry is also worn. The men's clothing consists of a sleeved shirt, a headband and sandals.<ref name=":5">{{Cite web |date=27 August 2023 |title=Mengenal Pakaian Adat Lampung: Keunikan dan Keindahannya |trans-title=Getting to Know Lampung Traditional Clothing: Its Uniqueness and Beauty |url=https://tribratanews.lampung.polri.go.id/detail-post/mengenal-pakaian-adat-lampung-keunikan-dan-keindahannya |access-date=2024-08-31 |website=Tribratanews Polda Lampung |language=id}}</ref> [[Tapis (Indonesian weaving style)|Tapis]] is a [[Woven fabric|woven cloth]] often worn by women as part of traditional clothing.<ref name=":3">{{Cite web |last=antaranews.com |date=2024-08-28 |title=Ragam pakaian adat masyarakat Lampung |trans-title=Variety of traditional clothing of the Lampung people |url=https://www.antaranews.com/berita/4292591/ragam-pakaian-adat-masyarakat-lampung |access-date=2024-08-31 |website=Antara News |language=id}}</ref>
+
+Siger is a traditional golden crown worn by Lampung women during traditional events. Siger typically has either seven or nine curves at the top.<ref name=":3" /><ref name=":1" /> Similarly, kopiah emas is a metallic cap with sharp edges at the top that is worn mostly by men. The cap is decorated with a [[Garland|flower garland]]. [[Kris|Keris]], Indonesia's traditional weapon, is sometimes included as part of a decorative item in Lampung's traditional clothing sets.<ref name=":5" /> Sometimes, the clothing is also used in regional Lampung dance performances such as the Bedana Dance and the [[Sembah|Sembah Dance]].<ref name=":5" /> [[Melinting]] is another traditional Lampungese dance.[[File:Tari Melinting 4.jpg|thumb|[[Melinting]], a traditional dance in Lampung]]
+
+=== Textiles ===
+[[File:COLLECTIE TROPENMUSEUM Een echtpaar uit Lampung (Sumatra) in adatkostuum TMnr 10002793.jpg|thumb|upright|A Lampungese woman (right) wearing a [[Tapis (Indonesian weaving style)|Tapis]] sarong, with old coins hanging from the bottom]]
+
+Lampung had a [[weaving]] tradition. Lampung weaving used a supplementary [[weft]] technique that enabled colored silk or cotton threads to be superimposed on a plainer cotton background. The most prominent Lampung textile was the [[Palepai]], ownership of which was restricted to the Lampung aristocracy of the Kalianda Bay area.<ref name="Dallas" /> 
+  
+There were two types of smaller clothes, known as ''tatibin'' and ''tampan''. Lampung textiles like ''Palepai'', ''tatebin'' and ''tampan'' were called 'ship cloths' because ships are a common motif.<ref>{{cite book|last=Gittinger|first=Mattiebelle|year=1979|title=Splendid Symbols: Textiles and Tradition in Indonesia|publisher=[[The Textile Museum]]|location=Washington DC|lccn=79-50373|oclc=5100926|page=157}}</ref> The ship motif represents the transition from one realm of life to the next, for instance, from boyhood to manhood or from being single to married, and also represents the final transition to the afterlife.<ref name="Dallas">{{cite web |url=http://www.dallasmuseumofart.org/Dallas_Museum_of_Art/View/Collections/Pacific_Islands/ID_011092 |access-date=26 September 2007 |title=Ceremonial Hanging (palepai) |work=Pacific Islands art |publisher=Dallas Museum of Art |archive-url=https://web.archive.org/web/20061004055100/http://www.dallasmuseumofart.org/Dallas_Museum_of_Art/View/Collections/Pacific_Islands/ID_011092 |archive-date=4 October 2006 |url-status=dead  }}</ref><ref>{{cite web |last=Gittinger |first=Mattiebelle S. |year=1979 |title=South Sumatran Ship Cloths |url=http://www.cs.arizona.edu/patterns/weaving/articles/nb74_shp.pdf |url-status=dead |archive-url=https://web.archive.org/web/20160203180430/http://www.cs.arizona.edu:80/patterns/weaving/articles/nb74_shp.pdf |archive-date=February 3, 2016 |page=15}}</ref>
+
+== Tourism ==
+Although tourism is not Lampung Province's main source of income, the administration has attempted to boost tourism from beaches, such as Flamboyant Tanjung Setia. There is also Pahawang Island and Sari Ringgung Beach. In 2010, 400,000 tourists visited Lampung Province, including ten thousand foreign tourists mainly from Australia and New Zealand.<ref>{{cite web|url=http://waspada.co.id/index.php?option=com_content&view=article&id=201852:lampung-making-effort-to-attract-tourists&catid=30:english-news&Itemid=101|title=Waspada Online – Pusat Berita dan Informasi Medan Sumut Aceh|publisher=Waspada.co.id|access-date=24 July 2016}}</ref>
+
+Lampung also has a [[national park]], the [[Way Kambas National Park]]; it is an elephant sanctuary in the district of Labuhan Ratu, East Lampung. The number of [[Sumatran elephant]]s (''Elephas maximus sumatranus'') living in the region has decreased. Way Kambas National Park was established in 1985.<ref>{{Cite web |title=Way Kambas: Sanctuary for Sumatran Elephants |url=https://www.indonesia.travel/gb/en/destinations/sumatra/way-kambas-national-park.html |access-date=2024-08-31 |website=Indonesia Travel |language=en}}</ref>
+
+The 15,000-capacity [[Pahoman Stadium]] is the main stadium in Lampung. The association football stadium opened in 1977.<ref>{{Cite web |title=Pahoman Stadium |url=https://int.soccerway.com/venues/indonesia/pahoman-stadium/v30948/ |website=Soccerway}}</ref>
+
+==Demographics==
+Lampung's three major ethnic groups are the [[Javanese people|Javanese]], [[Lampung people|Lampungese]] and [[Sundanese people|Sundanese]]. The Lampungese are the native ethnic group of the province. Languages used in the province include [[Indonesian language|Indonesian]] (official), [[Javanese language|Javanese]], [[Sundanese language|Sundanese]], [[Balinese language|Balinese]], [[Minangkabau language|Minangkabau]] and [[Lampung language|Lampung]]. According to the [[2010 Indonesian census|Indonesian census from 2010]], the province of Lampung is 64.17 percent [[Javanese people|Javanese]], 13.56 percent [[Lampung people|Lampungese]], 5.64 percent [[Malays (ethnic group)|Malay]] and 0.53 percent [[Chinese people|Chinese]].
+
+===Religion===
+[[File:Desa Adi jaya SEKOLAH MASJID.jpg|thumb|A traditional mosque in Lampung]]
+The 2022 data of [[Ministry of Religious Affairs (Indonesia)|Ministry of Religious Affairs]] found 96.09% of the population as adherents to [[Islam]] and 2,22% as [[Christians|Christian]]. The remainder includes [[Hinduism|Hindus]] (1.4%), [[Buddhism|Buddhists]] (0.27%), and "other", including [[Ethnic religion|traditional beliefs]] (0.02%).<ref name="RELIGION">{{cite web |date=31 August 2022 |title=Jumlah Penduduk Menurut Agama |trans-title=Population by Religion |url=https://satudata.kemenag.go.id/dataset/detail/jumlah-penduduk-menurut-agama |url-status=live |archive-url=https://web.archive.org/web/20230709113430/https://satudata.kemenag.go.id/dataset/detail/jumlah-penduduk-menurut-agama |archive-date=9 July 2023 |access-date=29 October 2023 |publisher=[[Ministry of Religious Affairs (Indonesia)|Ministry of Religious Affairs]] |language=id}}</ref>
+
+==Transport==
+===Land===
+In the province of Lampung, the [[Bakauheni–Terbanggi Besar Toll Road]] spans from Bakauheni in South Lampung to Terbanggi Besar in [[Central Lampung Regency|Central Lampung]] along {{Convert|140.9|km|miles}} and was completed in March 2019.<ref>{{ cite web | url = https://nasional.kompas.com/read/2019/03/08/09325611/presiden-jokowi-resmikan-tol-bakauheni-terbanggi-besar-terpanjang-di | title = Presiden Jokowi Resmikan Tol Bakauheni-Terbanggi Besar, Terpanjang di Indonesia | date = 8 March 2019 | language = id }}</ref> [[Terbanggi Besar–Pematang Panggang Toll Road]] was constructed as part of the Trans-Sumatra toll road.<ref>{{cite web | url = https://en.antaranews.com/news/121789/addendum-for-terbanggi-besar-toll-road-construction-signed | title = Addendum for Terbanggi Besar Toll road signed | date = 11 January 2019 }}</ref> Most of the roads in Lampung Province are made of [[Asphalt concrete|asphalt]].<ref>{{Cite web |date=March 1, 2024 |title=77.3% of Provincial Roads in Lampung Province Have Asphalt Surface Types |url=https://lampung.bps.go.id/en/news/2024/03/01/274/77-3--jalan-provinsi-di-provinsi-lampung-memiliki-jenis-permukaan-aspal.html |access-date=2024-08-31 |website=Badan Pusat Statistik Indonesia}}</ref>
+
+Lampung has a bus terminal at Terminal Rajabasa,<ref>{{Cite web |last=Hays |first=Jeffrey |title=Lampung Province: Sumatra's Gateway To Krakatau And Java |url=https://factsanddetails.com/indonesia/Places/sub6_10d/entry-6793.html |access-date=2024-08-31 |website=factsanddetails.com |language=en}}</ref> as well as the Talbot terminal in [[Bandar Lampung]]. Lampung Province has a railway line between [[Bandar Lampung]]–[[Palembang]], which is part of a railway network in South Sumatra operated by [[Kereta Api Indonesia]].
+
+===Sea===
+In the province, there are several ports. The Port of Panjang is an import-export harbor.<ref>{{Cite web |title=Port of Panjang (Indonesia) |url=https://www.vesselfinder.com/ports/IDPNJ001 |access-date=2024-08-31 |website=VesselFinder}}</ref> About {{convert|92|km}} south of Bandar Lampung, lies the port city of [[Port of Bakauheni|Bakauheni]] at the southern tip of [[Sumatra]]. Located at the southern end of the [[Trans-Sumatra Highway]], the Bakauheni port connects Sumatra to the [[Port of Merak]] in Java via sea transportation.<ref>{{Cite web |last=Rijal |first=Andi Syamsu |date=2011 |title=Dua pelabuhan satu selat: sejarah pelabuhan merak dan pelabuhan bakauheni di selat sunda 1912-2009 |trans-title=Two port one strait: the history of merak port and bakauheni port in sunda strait 1912-2009 |url=https://lib.ui.ac.id/detail?id=136623&lokasi=lokal |access-date=2024-08-31 |website=Universitas Indonesia Library |language=id}}</ref>
+
+===Air===
+[[Radin Inten II Airport|Radin Inten II International Airport]] is the only airport in the province.
+
+== Education ==
+
+Schools in Lampung consist of kindergartens, elementary schools, middle schools, and high schools/vocational schools, as well as universities, both state and private. Established in 1965, [[Lampung University]] is based in [[Bandar Lampung]].<!-- Maybe this section can be more generalized or connected. -->
+
+==Coat of arms==
+The [[coat of arms]] of Lampung is based on the 1971 [[Regional regulation (Indonesia)|Regional Regulation]] No. 1. The coat of arms consists of a visual depiction of rice and pepper, which are symbols of crops that are cultivated in Lampung. Laduk and payan in the form of machetes and spears are traditional weapons of the Lampung people.<ref name=":6" /> [[Agung|Gong]] symbolises the majesty of indigenous cultural arts. On top of the gong is a visual depiction of an umbrella that has 17 umbrella spokes, 8 edge segments, 19 segment boundaries and 45 umbrella tassels, symbolising the [[Proclamation of Indonesian Independence|proclamation of the Republic of Indonesia]] on 17 August 1945. There are also 17 pepper leaves, 8 pepper fruits and 45 rice fruits.<ref group="note">The '8' is the month of August in the [[Gregorian calendar]].</ref> There are 64 pepper seeds, indicating the formation of Daerah Tingkat I Lampung in 1964.<ref>{{Cite web |last= |title=Sejarah Lampung |trans-title=History of Lampung |url=https://ppid.lampungprov.go.id/page/Sejarah-Lampung#:~:text=Dalam%20perlawanan%20menghadapi%20ayahnya%20sendiri,Sultan%20Hajidinobatkan%20menjadi%20Sultan%20Banten. |url-status=live |archive-url=https://web.archive.org/web/20210622084731/https://ppid.lampungprov.go.id/page/Sejarah-Lampung |archive-date=June 22, 2021 |access-date=2024-09-05 |website=PPID Provinsi Lampung |language=id}}</ref><ref name=":1" />
+
+There is a writing in the [[Lampung language|Lampung script]] below the gong that reads "Lampung". The siger's number of notches of nine at the top of the traditional crown symbolises the nine rivers that flow in the Lampung area.<ref name=":1" /> On the emblem, there is an inscription that reads "Sang Bumi Ruwai Jurai", which means 'One Land, Two Indigenous Peoples'. It is meant to symbolize the indigenous people of Lampung that has two traditions on [[Adat|''adat'']], namely Saibatin and Pepadun cultural traditions.<ref name=":1">{{Cite web |date=25 February 2020 |title=Peraturan Daerah No. 1 Tahun 1971 Tentang Bentuk Lambang Daerah |trans-title=Regional Regulation No. 1 of 1971 Concerning the Form of Regional Symbols |url=https://jdih.lampungprov.go.id/product-hukum/provinsi/1/pdf/bentuk-lambang-daerah?req-download=file |url-status=dead |archive-url=https://web.archive.org/web/20211027103358/https://jdih.lampungprov.go.id/product-hukum/provinsi/1/pdf/bentuk-lambang-daerah?req-download=file |archive-date=2021-10-27 |access-date=2021-10-27 |format=PDF}}</ref>
+
+==See also==
+
+* [[List of people from Lampung]]
+
+==References==
+{{reflist}}
+
+==Notes==
+<references group="note" />
+
+==Further reading==
+*Elmhirst, R. (2001). Resource Struggles and the Politics of Place in North Lampung, Indonesia. ''Singapore Journal of Tropical Geography''. 22(3):284–307.
+*Pain, Marc (ed). (1989). ''Transmigration and spontaneous migrations in Indonesia: Propinsi Lampung''. Bondy, France: ORSTOM.
+*Totton, Mary-Louise (2009) Wearing Wealth and Styling Identity: Tapis from Lampung, South Sumatra, Indonesia. Hood Museum of Art, Dartmouth College.
+
+==External links==
+*[http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/58864 Early Indonesian textiles from three island cultures: Sumba, Toraja, Lampung], an exhibition catalog from the Metropolitan Museum of Art Libraries (available online as PDF)
+
+{{Lampung}}
+{{Provinces of Indonesia}}
+{{Authority control}}
+
+[[Category:Lampung| ]]
+[[Category:Provinces of Indonesia]]
+[[Category:States and territories established in 1964]]

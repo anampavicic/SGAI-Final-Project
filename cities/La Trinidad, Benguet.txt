@@ -1,0 +1,983 @@
+{{Short description|Capital of Benguet, Philippines}}
+{{Use Philippine English|date=January 2023}}
+{{Use mdy dates|date=January 2023}}
+{{Infobox settlement
+| name               = {{PH wikidata|name}}
+| image_skyline      = La Trinidad, Benguet aerial view.jpg
+| image_caption      = La Trinidad as viewed from Windy Hill
+| image_flag         = Flag_of_La_Trinidad,_Benguet.png
+| flag_size          = 120x80px
+| image_seal         = Ph seal benguet la trinidad.png
+| seal_size          = 100x80px
+| image_map          = {{PH wikidata|image_map}}
+| map_caption        = {{PH wikidata|map_caption}}
+| image_map1         = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map        = Philippines
+| pushpin_label_position = left
+| pushpin_map_caption = Location within the {{PH wikidata|country}}
+| coordinates        = {{PH wikidata|coordinates}}
+| settlement_type    = {{PH wikidata|settlement_type}}
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = [[Philippines]]
+| subdivision_type1  = [[Regions of the Philippines|Region]]
+| subdivision_name1  = {{PH wikidata|region}}
+| subdivision_type2  = [[Provinces of the Philippines|Province]]
+| subdivision_name2  = {{PH wikidata|province}}
+| official_name      = {{PH wikidata|official_name}}
+| native_name        = 
+| other_name         = 
+| nickname           = {{unbulleted list | ''Strawberry Fields of the Philippines''<ref name="DILG-CAR">{{cite web|title=Municipality of La Trinidad, Benguet|url=http://www.dilgcar.com/index.php/lgu/car-profile/benguet/la-trinidad-capital|archive-url=https://web.archive.org/web/20160121232623/http://www.dilgcar.com/index.php/lgu/car-profile/benguet/la-trinidad-capital|archive-date=January 21, 2016|website=[[Department of the Interior and Local Government|DILG]]-[[Cordillera Administrative Region|CAR]]|access-date=September 18, 2014}}</ref><ref name="PhilStar-ABAP" /> | ''Rose Capital of the Philippines''<ref name=GMANews />}}
+| motto              = 
+| anthem             = La Trinidad Hymn
+| subdivision_type3  = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3  = {{PH legislative district}}
+| established_title  = [[Date of establishment|Founded]]
+| established_date   = June 16, 1950
+| parts_type         = [[Barangay]]s
+| parts_style        = para
+| p1                 = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title       = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name        = Romeo K. Salda
+| leader_title1      = [[Vice Mayor]]
+| leader_name1       = Roderick C. Awingan
+| leader_title2      = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2       = [[Eric Yap]]
+| leader_title3      = [[Sangguniang Bayan|Municipal Council]]
+| leader_name3       = {{PH Town Council
+| 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=John G. Botiwey
+ | 3=Jayson C. Dangwa
+ | 4=Guiller A. Galwan
+ | 5=Belmer G. Elis
+ | 6=Teddy C. Walang
+ | 7=Francis A. Lee
+ | 8=Henry M. Kipas
+ | 9=Bartolome L. Baldas Jr.
+}}
+| leader_title4      = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4       = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type    = {{PH wikidata|government_type}}
+| government_footnotes = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m        = {{PH wikidata|elevation_m}}
+| elevation_max_m    = 1820
+| elevation_min_m    = 258
+| elevation_max_rank = 
+| elevation_min_rank = 
+| elevation_footnotes = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes = 
+| elevation_min_footnotes = 
+| area_rank          = 
+| area_footnotes     = {{PH area}}
+| area_total_km2     = {{PH wikidata|area}}
+| population_footnotes = {{PH census|current}}
+| population_total   = {{PH wikidata|population_total}}
+| population_as_of   = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title = [[Household]]s
+| population_blank1  = {{PH wikidata|household}}
+| population_blank2_title = 
+| population_blank2  = 
+| population_demonym = 
+| population_rank    = 
+| population_note    = 
+| timezone           = [[Philippine Standard Time|PST]]
+| utc_offset         = +8
+| postal_code_type   = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code        = {{PH wikidata|postal_code}}
+| postal2_code_type  = {{PSGCstyle}}
+| postal2_code       = {{PSGC detail}}
+| area_code_type     = {{areacodestyle}}
+| area_code          = {{PH wikidata|area_code}}
+| website            = {{PH wikidata|website}}
+| demographics_type1 = [[Economy of the Philippines|Economy]]
+| demographics1_title1 = {{PH wikidata|income_class_title}}
+| demographics1_info1 = {{PH wikidata|income_class}}
+| demographics1_title2 = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2 = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3 = [[Revenue]]
+| demographics1_info3 = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4 = Revenue rank
+| demographics1_info4 = 
+| demographics1_title5 = [[Asset]]s
+| demographics1_info5 = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6 = Assets rank
+| demographics1_info6 = 
+| demographics1_title7 = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7 = 
+| demographics1_title8 = IRA rank
+| demographics1_info8 = 
+| demographics1_title9 = [[Expenditure]]
+| demographics1_info9 = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10 = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10 = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2 = Service provider
+| demographics2_title1 = [[List of electric distribution utilities in the Philippines|Electricity]]
+| demographics2_info1 = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2 = Water
+| demographics2_info2 = 
+| demographics2_title3 = Telecommunications
+| demographics2_info3 = 
+| demographics2_title4 = Cable TV
+| demographics2_info4 = 
+| demographics2_title5 = 
+| demographics2_info5 = 
+| demographics2_title6 = 
+| demographics2_info6 = 
+| demographics2_title7 = 
+| demographics2_info7 = 
+| demographics2_title8 = 
+| demographics2_info8 = 
+| demographics2_title9 = 
+| demographics2_info9 = 
+| demographics2_title10 = 
+| demographics2_info10 = 
+| blank_name_sec1    = {{PH wikidata|climate_title}}
+| blank_info_sec1    = {{PH wikidata|climate_type}}
+| blank1_name_sec1   = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1   = {{PH wikidata|language}}
+| blank2_name_sec1   = [[Crime index]]
+| blank2_info_sec1   = 
+| blank3_name_sec1   = 
+| blank3_info_sec1   = 
+| blank4_name_sec1   = 
+| blank4_info_sec1   = 
+| blank5_name_sec1   = 
+| blank5_info_sec1   = 
+| blank6_name_sec1   = 
+| blank6_info_sec1   = 
+| blank7_name_sec1   = 
+| blank7_info_sec1   = 
+| blank1_name_sec2   = Major religions
+| blank1_info_sec2   = 
+| blank2_name_sec2   = Feast date
+| blank2_info_sec2   = 
+| blank3_name_sec2   = Catholic diocese
+| blank3_info_sec2   = 
+| blank4_name_sec2   = Patron saint
+| blank4_info_sec2   = 
+| blank5_name_sec2   = 
+| blank5_info_sec2   = 
+| blank6_name_sec2   = 
+| blank6_info_sec2   = 
+| blank7_name_sec2   = 
+| blank7_info_sec2   = 
+| short_description  = 
+| footnotes          = 
+}}
+
+'''La Trinidad''' ({{IPA|tl|lɐ tɾinɪˈdɐd|}}), officially the '''Municipality of La Trinidad''' ({{langx|ilo|Ili ti La Trinidad}}; {{langx|tl|Bayan ng La Trinidad}}), is a 1st class [[municipality of the Philippines|municipality]] and capital of the [[Philippine Province|province]] of [[Benguet]], [[Philippines]]. According to the 2020 census, it has a population of 137,404 people.{{PH census|current}}
+
+The town is known for its [[La Trinidad Strawberry Farm|strawberry plantations]], earning the title "Strawberry Fields of the Philippines".<ref name="PhilStar-ABAP">{{cite news |title=ABAP qualifier spices up La Trinidad festival |url=https://www.philstar.com/sports/2017/03/27/1682576/abap-qualifier-spices-la-trinidad-festival |access-date=March 21, 2020 |work=The Philippine Star|date=March 27, 2017}}</ref>
+
+The municipality is within the [[Metro Baguio]] area. The town's name comes from the Spanish phrase for "The Trinity."
+
+==History==
+===Spanish period===
+The valley encompassing La Trinidad was originally called "[[Benguet]]", a thriving community of [[Ibaloi people|Ibaloi]] migrants from Tinek.<ref name=DILG-CAR /> Natives traded local products, which included gold, with nearby lowland towns that had [[Dominican Order|Dominican]] and [[Augustinians|Augustinian]] missions established. At around 1616, the procurator general of [[Manila]], [[Hemando de los Rios Coronel]], became interested in the mountains' gold and proposed to expedite its search to the Spanish king. He wrote both [[Alonso Fajardo]], the Governor of Manila, and the Archbishop of Manila in December 1618 that it was the solution to both the abandoned [[mission (religious)|missions]] as well as the depleted colonial treasury. Fajardo requested feedback from the [[religious order]]s on this matter; whether waging a war against the [[Igorot]]s was [[justice|just]]. Only the [[Jesuits]] objected with the war, preferring only that their "mines be occupied in the name of his Majesty".<ref name="PhilStudies">{{cite journal |last1=Habana |first1=Olivia M. |title=Gold Mining in Benguet to 1898 |journal=Philippine Studies |date=2000 |volume=48 |pages=471–475 |url=http://www.philippinestudies.net/files/journals/1/articles/1662/public/1662-1761-1-PB.pdf |access-date=October 13, 2018 }}</ref>
+
+In 1620, Fajardo sent the first expedition under Captain [[Garcia Aldana y Cabrera]], Governor of [[Pangasinan]]. Aldana and his men took the route from [[Aringay, La Union|Aringay]], crossing the [[Naguilian River]] to Duplas (La Union), then followed the Bornotan (Santo Rosario) River eventually reaching [[Takdian]]. Upon arriving at the mining community of [[Itogon, Benguet|Bua]], the men found only a recently burned village, suggesting the natives fled with nothing for them to plunder. Aldana examined the [[Antamok mines]] and was able to gather some gold.<ref name="PhilStudies" />
+
+A second expedition was sent in 1623 under the command of Sergeant Major [[Antonio Carreño de Valdes]]. Carreño was able to repel some Igorot assaults, building two forts; 'Fort Santiago' overlooking the present [[Tublay, Benguet|Santo Nino]] mines, and 'Fort del Rosario' in the Antamok-[[Itogon]] area. The Igorots submitted to Spanish authorities only to strike back when the rainy season made it difficult to send manpower and new supplies, prompting the Spaniards to retreat.<ref name="PhilStudies" />
+
+Finally, in 1624, Fajardo sent Captain [[Alonso Martin Quirante]], a master of strategy, logistics and tactics. In February of that year, Quirante took off with a huge expedition of 1,903 soldiers, carpenters, miners, smiths, slaves, clerks and some requisite clergy. He divided his large force into three; the first to clear the road, the second to follow, and the third with rations and arms. This ensured they would reach the mining area after clearing out an Igorot fort along the way. Quirante was able to reach the mining areas, and discovered about two hundred abandoned houses, implying the locals fled beforehand. He rebuilt Fort Santiago, and examined five mines; four of which showed signs of having been abandoned by the Igorots: Arisey Bugayona, Baranaban, Antamog, and Conog. The fifth mine called Galan was still operational. Quirante ordered baskets of ore gathered from each mine, labeled and ready for [[assay]]ing. The results showed no evidence of deposits rich enough to yield attractive profit, prompting Quirante to return to Manila with 400 baskets of ore to be sent to [[Mexico]] for further assaying.<ref name="PhilStudies" />
+
+[[File:La Trinidad skyline (La Trinidad, Benguet)(2018-11-26).jpg|thumb|[[San Jose the Husband of Mary Parish Church (La Trinidad)|San Jose Parish Church]] (center) in Barangay Poblacion]]
+Meanwhile, the [[Real Audiencia]] had become concerned at the expense of the project which had already cost 33,982 [[Philippine peso|pesos]]. Don [[Geronimo Silva]] took over the government, convening the council to decide on the issue. The Real Audiencia decided to abandon the project because of mounting expenses, loss of life and the continued hostility of the Igorots and their land.<ref name="PhilStudies" />
+
+In 1829, another expedition was sent to Benguet under [[Guillermo Galvey]].<ref name=DILG-CAR />
+
+Although the District of Benguet was established in La Trinidad by 1846, it was only on April 21, 1874, under Commandant [[Manuel Scheidnagel]], that "''Valle de Benguet''" was renamed "''Valle de La Trinidad''" (La Trinidad Valley). Despite popular acceptance that it was named as "a fitting tribute to Galvey’s wife - Doña Trinidad de Galvey" – recent research has revealed that credit should have probably gone to Scheidnagel, having been inspired by the three prominent adjacent hills (in effect, forming a Trinity: a religious icon of the Christian campaign) overlooking the ''[[Poblacion]]'' church, where the seat of government, the ''Cabecera'', was established.<ref name="SunStarPh-OlsimLT">{{cite news |last1=Olsim |first1=Valred E. |title=Olsim: La Trinidad at a glimpse |url=https://www.sunstar.com.ph/article/147232/ |access-date=September 28, 2018 |work=SunStar Philippines |date=June 12, 2017}}</ref>
+
+Together with 40 other smaller surrounding ''[[ranchería]]s'', La Trinidad was placed under the jurisdiction of the newly established Benguet ''commandancia politico-militar'' in 1846<ref name="FastFactsPhilProv">{{cite book|last1=Lancion, Jr.|first1=Conrado M.|last2=de Guzman|first2=''Rey'' (''cartography'')|title=Fast Facts about Philippine Provinces|date=1995|publisher=Tahanan Books|location=Makati, Metro Manila|isbn=971-630-037-9|page=38|edition=The 2000 Millennium|url=https://books.google.com/books?id=r0EOAQAAMAAJ|access-date=January 16, 2015|chapter=The Provinces}}</ref><ref name="BenguetGov">{{cite web|title=History of Takdian (La Trinidad)|url=http://www.benguet.gov.ph/index.php?Itemid=263|archive-url=https://web.archive.org/web/20141014003100/http://www.benguet.gov.ph/index.php?Itemid=263|archive-date=October 14, 2014|website=Province of Benguet (official website)|access-date=October 6, 2014}}</ref> and was established as its administrative headquarters during the [[History of the Philippines (1521–1898)|Spanish Conquest of the Philippines]].<ref name=DILG-CAR /><ref name="NSCBGov">{{cite web|title=Facts & Figures: Benguet Province|url=http://www.nscb.gov.ph/rucar/fnf_benguet.htm|archive-url=https://web.archive.org/web/20160228070130/http://www.nscb.gov.ph/rucar/fnf_benguet.htm|archive-date=February 28, 2016|website=Philippine Statistics Authority - National Statistical Coordination Board - Cordillera Administrative Region|publisher=NSCB|access-date=October 6, 2014|date=April 23, 2012}}</ref><ref name="LaTrinidadGov">{{cite web|url=http://www.latrinidad.gov.ph/index.php/profile/history|archive-url=https://web.archive.org/web/20140924062435/http://www.latrinidad.gov.ph/index.php/profile/history|archive-date=September 24, 2014|title=Profile of La Trinidad: LA TRINIDAD THROUGH THE YEARS|access-date=September 16, 2014}}</ref>
+
+===American period===
+[[File:Philippine Island - Luzon Island - NARA - 68157117.jpg|thumb|Aerial view of La Trinidad, circa 1940s]]
+[[File:Halsema Highway - view from capitol (La Trinidad, Benguet)(2018-11-26).jpg|thumb|La Trinidad valley as viewed from the Benguet Provincial Capitol]]
+
+During the [[Philippine Revolution]], in July 1898, Filipino revolutionary forces under the Ibaloi chieftain [[Juan Cariño]] and [[Pedro Paterno]] liberated La Trinidad from the Spaniards and took over the government, proclaiming Benguet as a province of the new [[First Philippine Republic|Philippine Republic]], with La Trinidad as its capital.<ref name="BaguioMidlandCourier">{{cite news|last1=Sanidad|first1=Pablito|title=Which Baguio Centennial?|url=http://www.baguiomidlandcourier.com.ph/centennial_article.asp?mode=centennial/supplements/sanidad.txt|access-date=February 21, 2016|issue=99th Baguio Charter Day Anniversary Issue|publisher=Baguio Midland Courier}}</ref><ref name=DILG-CAR />
+
+In 1900, the [[History of the Philippines (1898–1946)|American colonizers]] arrived, and La Trinidad was established as one of the 19 [[townships]] under the Benguet province upon the issuance of ''Act No. 48''.<ref name=NSCBGov/><ref name="BenguetGov2">{{cite web|title=History: Benguet Province|url=http://www.benguet.gov.ph/index.php?Itemid=268|archive-url=https://web.archive.org/web/20141019211257/http://www.benguet.gov.ph/index.php?Itemid=268|archive-date=October 19, 2014|website=Province of Benguet (official website)|access-date=October 9, 2014}}</ref> For a brief period, [[Baguio]] became the [[capital city|capital]] of Benguet when appointed Benguet province civil governor H.P. Whitmarsh moved the seat of government from La Trinidad to Baguio in 1901. La Trinidad was made the provincial capital again in 1909 after the Baguio township was abolished and converted into a [[chartered city]].<ref name=DILG-CAR />
+
+===Second World War===
+{{further|Camp Holmes Internment Camp|Battle of Baguio (1945)}}
+
+On May 3, 1945, Filipino soldiers of the 66th Infantry Regiment, [[Philippine Commonwealth Army]], USAFIP-NL liberated La Trinidad.<ref name=DILG-CAR /><ref>{{cite book |last1=Bagamaspad |first1=Anavic |last2=Hamada-Pawid |first2=Zenaida |title=A People's History of Benguet |date=1985 |publisher=Baguio Printing & Publishing Company, Inc. |pages=290, 296}}</ref>
+
+===Modern history===
+{{Expand section|date=January 2015}}
+[[File:Colors of Stobosa.jpg|thumb|[[Colors of StoBoSa|StoBoSa Hillside Homes Artwork]]]]
+
+La Trinidad was transformed into a full-fledged town from its former status as municipal district by virtue of ''[[Republic Act]] No. 531'', approved June 16, 1950.<ref name="PhilLaw">{{cite web|url=http://philippinelaw.info/statutes/ra531.html|archive-url=https://web.archive.org/web/20120406120433/http://philippinelaw.info/statutes/ra531.html|archive-date=April 6, 2012|title=Republic Act No. 531: An Act to Convert the Municipal District of La Trinidad, Subprovince of Benguet, Mountain Province, into a Regular Municipality to be Known as the Municipality of La Trinidad|publisher=PhilippineLaw.info|access-date=April 9, 2011}}</ref>
+
+On June 23, 2016, La Trinidad was highlighted in the media when the first and largest community artwork in the Philippines, the ''[[Colors of StoBoSa|STOBOSA Hillside Homes Artwork]]'' was unveiled, featuring hillside houses within the ''[[sitio]]''s of Stonehill, Botiwtiw and Sadjap of Barangay Balili painted with sunflower and abstract designs.<ref name="PhilStar-STOBOSA">{{cite news|title=La Trinidad residents create first, biggest community artwork in the Philippines|url=http://www.philstar.com/arts-and-culture/2016/06/24/1595901/la-trinidad-residents-create-first-biggest-community-artwork|access-date=October 30, 2016|work=The Philippine Star|date=June 24, 2016|archive-url=https://web.archive.org/web/20160625160451/http://www.philstar.com/arts-and-culture/2016/06/24/1595901/la-trinidad-residents-create-first-biggest-community-artwork|archive-date=June 25, 2016}}</ref><ref name="CNNPhils-STOBOSA">{{cite news|last1=Lapniten|first1=Karl|title=Artists turn Benguet hillside homes into mural|url=http://cnnphilippines.com/regional/2016/06/23/La-Trinidad-giant-mural-Favela-paintings.html|access-date=October 30, 2016|work=CNN Philippines|date=June 23, 2016|url-status=dead|archive-url=https://web.archive.org/web/20160628000425/http://cnnphilippines.com/regional/2016/06/23/La-Trinidad-giant-mural-Favela-paintings.html|archive-date=June 28, 2016}}</ref>
+
+==Geography==
+[[File:Mt.kalugongpark2.jpg|thumb|Pine trees within Mount Kalugong Eco-Park]]
+
+La Trinidad is located at {{coord|format=dms}}, at the central portion of Benguet. It is bounded by [[Tublay, Benguet|Tublay]] on the north-east, [[Sablan, Benguet|Sablan]] on the west, [[Baguio]] on the south, [[Itogon, Benguet|Itogon]] on the southeast, and [[Tuba, Benguet|Tuba]] on the south-west.
+
+According to the [[Philippine Statistics Authority]], the municipality has a land area of {{convert|70.04|km2}}{{PSGC detail|area}} constituting {{percentage|70.04|2,769.08|2|pad=yes}} of the {{convert|2,769.08|km2|2|adj=mid|-}} total area of Benguet.
+
+The terrain is generally mountainous with springs, rivers and creeks. The town has a valley which encompasses several barangays. The valley floor elevation is at {{convert|1300|m}} above sea level. Elevation ranges from {{convert|500|to|1700|m}} above sea level.
+
+The [[Balili River]] is the municipality's main water drainage which carries upstream water from the Sagudin River in Baguio.<ref>{{cite news|author1=Susan Aro|title=Balili River wanting for clean, safe waters|url=http://www.sunstar.com.ph/baguio/local-news/2011/10/11/balili-river-wanting-clean-safe-waters-184358|work=SunStar Baguio|access-date=September 16, 2014|date=October 11, 2011|archive-date=March 3, 2016|archive-url=https://web.archive.org/web/20160303221705/http://www.sunstar.com.ph/baguio/local-news/2011/10/11/balili-river-wanting-clean-safe-waters-184358|url-status=dead}}</ref> The river [[confluence|merges]] with another upstream river in Tuel upon reaching the La Trinidad-Tublay-Sablan [[tri-point]].
+
+La Trinidad proper is {{convert|5|km}} from [[Baguio]] proper and {{convert|255|km}} from [[Manila]].
+
+===Climate===
+{{Weather box
+| location     = La Trinidad, Benguet
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 22
+| Jan low C  = 12
+| Feb high C = 23
+| Feb low C  = 12
+| Mar high C = 24
+| Mar low C  = 14
+| Apr high C = 25
+| Apr low C  = 16
+| May high C = 24
+| May low C  = 17
+| Jun high C = 23
+| Jun low C  = 16
+| Jul high C = 22
+| Jul low C  = 16
+| Aug high C = 21
+| Aug low C  = 16
+| Sep high C = 21
+| Sep low C  = 16
+| Oct high C = 22
+| Oct low C  = 15
+| Nov high C = 23
+| Nov low C  = 14
+| Dec high C = 22
+| Dec low C  = 12
+| Jan precipitation mm = 15
+| Feb precipitation mm = 16
+| Mar precipitation mm = 24
+| Apr precipitation mm = 33
+| May precipitation mm = 102
+| Jun precipitation mm = 121
+| Jul precipitation mm = 177
+| Aug precipitation mm = 165
+| Sep precipitation mm = 144
+| Oct precipitation mm = 170
+| Nov precipitation mm = 56
+| Dec precipitation mm = 23
+| Jan rain days        = 6.3
+| Feb rain days        = 6.6
+| Mar rain days        = 9.5
+| Apr rain days        = 12.8
+| May rain days        = 20.6
+| Jun rain days        = 23.5
+| Jul rain days        = 25.4
+| Aug rain days        = 23.4
+| Sep rain days        = 23.2
+| Oct rain days        = 21.4
+| Nov rain days        = 14.0
+| Dec rain days        = 8.2
+| source 1 = Meteoblue<ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/la-trinidad_philippines_1707123
+| title =  La Trinidad: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| access-date = March 21, 2020 }}</ref>
+| date = March 21, 2020
+}}
+
+La Trinidad has a dry-winter [[subtropical highland climate]] ([[Köppen climate classification]]: '''Cwb'''), featuring a menacing wet season.
+
+La Trinidad belongs under the Type I climate by the Coronas System of classification with distinct wet and dry seasons. The dry season lasts from November to April, while the wet season occurs during the rest of the year. The climate is cool, with temperatures ranging from {{convert|11.7|C}} during the month of December at its coldest and {{convert|23.2|C}} at its warmest during the months of March, April and May. The average daily temperature is {{convert|18.55|C}}, and its wind velocity is 1.43. During the rainiest month of August, the rainfall average is {{convert|850.70|mm}}.{{citation needed|date=December 2016}}{{clear-left}}
+
+===Barangays===
+La Trinidad is politically subdivided into 16 [[barangay]]s.{{PSGC detail|nscb}}, with 11 classified as urban and 5 as rural.{{PSGC detail|nscb}} Each barangay consists of [[purok]]s and some have [[sitios]].
+
+As of 2015, the most populous is Pico with 23,282 people, while Bineng, with 1,624 people, has the least.{{PH census|2015}} Wangal is the largest in terms of land area,<ref name=LaTrinidadGovWangal /> while Cruz is the smallest.<ref name=LaTrinidadGovCruz /> Balili was the most densely populated, and Bineng was the least. Bineng has the most number of [[sitio]]s, while Betag has the least with only 4.
+
+{| style="table-layout:fixed;margin:auto;"
+|-
+|
+{| class="wikitable sortable plainrowheaders" style="table-layout:fixed;font-size:90%;background-color:white;margin:auto;"
+|-
+! scope="col" class="unsortable" style="border-right:0;" |
+! scope="col" style="border-left:0;" | Barangay{{PSGC detail|nscb}}
+! scope="col" | Class{{PSGC detail|nscb}}
+! scope="col" class="unsortable" | Etymology
+! scope="col" | Historical<br/>component<br/>of
+! scope="col" | Area
+! scope="col" | Population<br/>(2015){{PH census|2015}}
+! scope="col" | Density<br/>(2015)
+! scope="col" style="width:8em;" | No. of<br/>[[sitio]]s
+|- style="vertical-align:top;"
+! scope="row" style="border-right:0;background-color:initial;" | {{coord|16.4712|N|120.5991|E|name=Alapang|region:PH-BEN_scale:5000|format=hidden}}
+| style="border-left:0;font-weight:bold;" | Alapang
+| style="text-align:center;" | Rural
+| {{langx|ibl|Adafang}} – "powdery substance from [[limestone]]"<ref name="LaTrinidadGovAlapang">{{cite web|title=Barangay Alapang|url=http://latrinidad.gov.ph/profile/barangay-profiles/alapang/|website=Municipality of La Trinidad|access-date=November 1, 2015|format=web page and [[Portable Document Format|PDF]]|date=2015}}</ref>
+| Alno<br/>(''until&nbsp;1967'')<ref name=LaTrinidadGovAlapang />
+| style="text-align:right;" | {{convert|{{rnd|2.012|2}}|km2|abbr=on|disp=br()}}<ref name=LaTrinidadGovAlapang />
+| style="text-align:center;" | {{number and percent|4,477|129,133|disp=br()|1|pad=yes}}
+| style="text-align:right;" | {{convert|{{sigfig|4477/2.012|2}}|PD/km2|abbr=on|disp=br()|sortable=on}}
+| {{Collapsible list
+ | title       = 5{{thinsp}}<ref name=LaTrinidadGovAlapang />
+ | frame_style = border:0;
+ | title_style = text-align:left;padding:0 0.5em;background-color:#f7f7f7;
+ | list_style  = padding:0.5em;
+ | bullets     = true
+  | Alapang Proper
+  | Camp Dangwa
+  | Dapiting
+  | Ettong
+  | Samoyao
+  }}
+|- style="vertical-align:top;"
+! scope="row" style="border-right:0;background-color:initial;" | {{coord|16.4859|N|120.5931|E|name=Alno|region:PH-BEN_scale:5000|format=hidden}}
+| style="border-left:0;font-weight:bold;" | Alno
+| style="text-align:center;" | Rural
+| ''Alno'' – local term for a medicinal [[dipterocarp]] tree in the area<ref name="LaTrinidadGovAlno">{{cite web|title=Barangay Alno|url=http://latrinidad.gov.ph/profile/barangay-profiles/alno/|website=Municipality of La Trinidad|access-date=November 1, 2015|format=web page and [[Portable Document Format|PDF]]|date=2015}}</ref>
+| Bahong<ref name=LaTrinidadGovAlno />
+| style="text-align:right;" | {{convert|{{rnd|9.583|2}}|km2|abbr=on|disp=br()}}<ref name=LaTrinidadGovAlno />
+| style="text-align:center;" | {{number and percent|2,883|129,133|disp=br()|1|pad=yes}}
+| style="text-align:right;" | {{convert|{{sigfig|2883/9.583|2}}|PD/km2|abbr=on|disp=br()|sortable=on}}
+| {{Collapsible list
+ | title       = 13{{thinsp}}<ref name=LaTrinidadGovAlno />
+ | frame_style = border:0;
+ | title_style = text-align:left;padding:0 0.5em;background-color:#f7f7f7;
+ | list_style  = padding:0.5em;
+ | bullets     = true
+  | Bekes
+  | Central Alno
+  | Conig
+  | Doakan
+  | Induyan
+  | Mati-e
+  | Obudan
+  | Ongasan
+  | Payew
+  | Peril
+  | Riverside
+  | Roadside
+  | Taytay
+  }}
+|- style="vertical-align:top;"
+! scope="row" style="border-right:0;background-color:initial;" | {{coord|16.4368|N|120.6047|E|name=Ambiong|region:PH-BEN_scale:5000|format=hidden}}
+| style="border-left:0;font-weight:bold;" | Ambiong
+| style="text-align:center;" | Urban
+| {{langx|ibl|Ambiongan}} – "Black Carpet Bees" found in the rolling hills and forests<ref name="LaTrinidadGovAmbiong">{{cite web|title=Barangay Ambiong|url=http://latrinidad.gov.ph/profile/barangay-profiles/ambiong-profile/|website=Municipality of La Trinidad|access-date=November 1, 2015|format=web page and [[Portable Document Format|PDF]]|date=2015}}</ref>
+| Eastern Pico<br/>(''until&nbsp;1948'')<ref name=LaTrinidadGovAmbiong />
+| style="text-align:right;" | {{convert|{{rnd|3.420|2}}|km2|abbr=on|disp=br()}}<ref name=LaTrinidadGovAmbiong />
+| style="text-align:center;" | {{number and percent|7,149|129,133|disp=br()|1|pad=yes}}
+| style="text-align:right;" | {{convert|{{sigfig|7149/3.420|2}}|PD/km2|abbr=on|disp=br()|sortable=on}}
+| {{Collapsible list
+ | title       = 7{{thinsp}}<ref name=LaTrinidadGovAmbiong />
+ | frame_style = border:0;
+ | title_style = text-align:left;padding:0 0.5em;background-color:#f7f7f7;
+ | list_style  = padding:0.5em;
+ | bullets     = true
+  | Botiwtiw
+  | Central Ambiong
+  | Gulon
+  | Paltingan
+  | Parapad
+  | Riverside
+  | Upper Ambiong
+  }}
+|- style="vertical-align:top;"
+! scope="row" style="border-right:0;background-color:initial;" | {{coord|16.4686|N|120.6075|E|name=Bahong|region:PH-BEN_scale:5000|format=hidden}}
+| style="border-left:0;font-weight:bold;" | Bahong
+| style="text-align:center;" | Urban
+| {{langx|ibl|Pesjohong}} ({{small|or}} ''naydihong'') – "hollow or bowl like"<ref name="LaTrinidadGovBahong">{{cite web|title=Barangay Bahong|url=http://latrinidad.gov.ph/profile/barangay-profiles/bahong-profile/|website=Municipality of La Trinidad|access-date=November 1, 2015|format=web page and [[Portable Document Format|PDF]]|date=2015}}</ref>
+| [[Tacdian]]<ref name=LaTrinidadGovBahong />
+| style="text-align:right;" | {{convert|{{rnd|6.575|2}}|km2|abbr=on|disp=br()}}<ref name=LaTrinidadGovBahong />
+| style="text-align:center;" | {{number and percent|5,188|129,133|disp=br()|1|pad=yes}}
+| style="text-align:right;" | {{convert|{{sigfig|5188/6.575|2}}|PD/km2|abbr=on|disp=br()|sortable=on}}
+| {{Collapsible list
+ | title       = 5{{thinsp}}<ref name=LaTrinidadGovBahong />
+ | frame_style = border:0;
+ | title_style = text-align:left;padding:0 0.5em;background-color:#f7f7f7;
+ | list_style  = padding:0.5em;
+ | bullets     = true
+  | Anoding
+  | Central Bahong
+  | Ma-e
+  | Sadag
+  | Tomay
+  }}
+|- style="vertical-align:top;"
+! scope="row" style="border-right:0;background-color:initial;" | {{coord|16.4500|N|120.5947|E|name=Balili|region:PH-BEN_scale:5000|format=hidden}}
+| style="border-left:0;font-weight:bold;" | Balili
+| style="text-align:center;" | Urban
+| {{langx|ibl|Badili}} – a type of grass abundant in the area<ref name="LaTrinidadGovBalili">{{cite web|title=Barangay Balili|url=http://latrinidad.gov.ph/profile/barangay-profiles/balili-profile/|website=Municipality of La Trinidad|access-date=November 1, 2015|format=web page and [[Portable Document Format|PDF]]|date=2015}}</ref>
+| Pico<ref name=LaTrinidadGovBalili />
+| style="text-align:right;" | {{convert|{{rnd|1.190|2}}|km2|abbr=on|disp=br()}}<ref name=LaTrinidadGovBalili />
+| style="text-align:center;" | {{number and percent|18,962|129,133|disp=br()|1|pad=yes}}
+| style="text-align:right;" | {{convert|{{sigfig|18962/1.190|2}}|PD/km2|abbr=on|disp=br()|sortable=on}}
+| {{Collapsible list
+ | title       = 11{{thinsp}}<ref name=LaTrinidadGovBalili />
+ | frame_style = border:0;
+ | title_style = text-align:left;padding:0 0.5em;background-color:#f7f7f7;
+ | list_style  = padding:0.5em;
+ | bullets     = true
+  | Botiwtiw
+  | Cabanao
+  | Central Balili
+  | Little Flower
+  | Luboc
+  | Mamaga
+  | Pinespark
+  | Sadjap/<br/>Bell Church
+  | Stonehill
+  | Tabangaoen
+  | Tebteb
+  }}
+|- style="vertical-align:top;"
+! scope="row" style="border-right:0;background-color:initial;" | {{coord|16.4364|N|120.6300|E|name=Beckel|region:PH-BEN_scale:5000|format=hidden}}
+| style="border-left:0;font-weight:bold;" | Beckel
+| style="text-align:center;" | Urban
+| —
+| Pico<ref name="LaTrinidadGovBeckel">{{cite web|title=Barangay Beckel|url=http://latrinidad.gov.ph/profile/barangay-profiles/beckel-profile/|website=Municipality of La Trinidad|access-date=November 1, 2015|format=web page and [[Portable Document Format|PDF]]|date=2015}}</ref>
+| style="text-align:right;" | {{convert|{{rnd|9.513|2}}|km2|abbr=on|disp=br()}}<ref name=LaTrinidadGovBeckel />
+| style="text-align:center;" | {{number and percent|3,918|129,133|disp=br()|1|pad=yes}}
+| style="text-align:right;" | {{convert|{{sigfig|3918/9.513|2}}|PD/km2|abbr=on|disp=br()|sortable=on}}
+| {{Collapsible list
+ | title       = 13{{thinsp}}<ref name=LaTrinidadGovBeckel />
+ | frame_style = border:0;
+ | title_style = text-align:left;padding:0 0.5em;background-color:#f7f7f7;
+ | list_style  = padding:0.5em;
+ | bullets     = true
+  | Bakong
+  | Balangbang
+  | Busi
+  | Cawat
+  | Central Beckel
+  | Gongel
+  | Lamut
+  | Linusod
+  | Marlboro
+  | Obulan
+  | Pagal
+  | Peril
+  | Sapsing
+  }}
+|- style="vertical-align:top;"
+! scope="row" style="border-right:0;background-color:initial;" | {{coord|16.4832|N|120.5672|E|name=Bineng|region:PH-BEN_scale:5000|format=hidden}}
+| style="border-left:0;font-weight:bold;" | Bineng
+| style="text-align:center;" | Rural
+| ''Nabneng'' – local term characterizing the natural [[dam]]ming by the [[Danao River (La Tinidad)|Danao River]]<ref name="LaTrinidadGovBineng">{{cite web|title=Barangay Bineng|url=http://latrinidad.gov.ph/profile/barangay-profiles/bineng-profile/|website=Municipality of La Trinidad|access-date=November 1, 2015|format=web page and [[Portable Document Format|PDF]]|date=2015}}</ref>
+| Disdis<br/>(''present-day [[Sablan, Benguet|Sablan]]'')<ref name=LaTrinidadGovBineng />
+| style="text-align:right;" | {{convert|{{rnd|8.254|2}}|km2|abbr=on|disp=br()}}<ref name=LaTrinidadGovBineng />
+| style="text-align:center;" | {{number and percent|1,624|129,133|disp=br()|1|pad=yes}}
+| style="text-align:right;" | {{convert|{{sigfig|1624/8.254|2}}|PD/km2|abbr=on|disp=br()|sortable=on}}
+| {{Collapsible list
+ | title       = 16{{thinsp}}<ref name=LaTrinidadGovBineng />
+ | frame_style = border:0;
+ | title_style = text-align:left;padding:0 0.5em;background-color:#f7f7f7;
+ | list_style  = padding:0.5em;
+ | bullets     = true
+  | Alumit
+  | Aminit
+  | Bacca
+  | Balangabang
+  | Bodiweng
+  | Botilao
+  | Central Bineng
+  | Cojuran
+  | Corus
+  | Hilltop
+  | Japos
+  | Kagiskis
+  | Nawal
+  | Nayuno
+  | Shalushan
+  | Suwi
+   }}
+|- style="vertical-align:top;"
+! scope="row" style="border-right:0;background-color:initial;" | {{coord|16.4543|N|120.5884|E|name=Betag|region:PH-BEN_scale:5000|format=hidden}}
+| style="border-left:0;font-weight:bold;" | Betag
+| style="text-align:center;" | Urban
+| ''Betag'' – a flat land area characterizing the terrain<ref name="LaTrinidadGovBetag">{{cite web|title=Barangay Betag|url=http://latrinidad.gov.ph/profile/barangay-profiles/betag-profile/|website=Municipality of La Trinidad|access-date=November 1, 2015|format=web page and [[Portable Document Format|PDF]]|date=2015}}</ref>
+| Pico<br/>(''until the 1950s'')<ref name=LaTrinidadGovBetag />
+| style="text-align:right;" | {{convert|{{rnd|1.569|2}}|km2|abbr=on|disp=br()}}<ref name=LaTrinidadGovBetag />
+| style="text-align:center;" | {{number and percent|9,747|129,133|disp=br()|1|pad=yes}}
+| style="text-align:right;" | {{convert|{{sigfig|9747/1.569|2}}|PD/km2|abbr=on|disp=br()|sortable=on}}
+| {{Collapsible list
+ | title       = 4{{thinsp}}<ref name=LaTrinidadGovBetag />
+ | frame_style = border:0;
+ | title_style = text-align:left;padding:0 0.5em;background-color:#f7f7f7;
+ | list_style  = padding:0.5em;
+ | bullets     = true
+  | Zone 1 (IA)
+  | Zone 2 (IB)
+  | Zone 3 (IC)
+  | Zone 4 (ID)
+ }}
+|- style="vertical-align:top;"
+! scope="row" style="border-right:0;background-color:initial;" | {{coord|16.4653|N|120.5927|E|name=Cruz|region:PH-BEN_scale:5000|format=hidden}}
+| style="border-left:0;font-weight:bold;" | Cruz
+| style="text-align:center;" | Urban
+| {{langx|es|Cruz}} – ''Cross''<ref name="LaTrinidadGovCruz">{{cite web|title=Barangay Cruz|url=http://latrinidad.gov.ph/profile/barangay-profiles/barangay-cruz-profile/|website=Municipality of La Trinidad|access-date=November 1, 2015|format=web page and [[Portable Document Format|PDF]]|date=2015}}</ref>
+| Alapang<br/>(''until&nbsp;1971'')<ref name=LaTrinidadGovCruz />
+| style="text-align:right;" | {{convert|{{rnd|0.565|2}}|km2|abbr=on|disp=br()}}<ref name=LaTrinidadGovCruz />
+| style="text-align:center;" | {{number and percent|3,721|129,133|disp=br()|1|pad=yes}}
+| style="text-align:right;" | {{convert|{{sigfig|3721/0.565|2}}|PD/km2|abbr=on|disp=br()|sortable=on}}
+| {{Collapsible list
+ | title       = 7{{thinsp}}<ref name=LaTrinidadGovCruz />
+ | frame_style = border:0;
+ | title_style = text-align:left;padding:0 0.5em;background-color:#f7f7f7;
+ | list_style  = padding:0.5em;
+ | bullets     = true
+  | Atta
+  | Baa-yan
+  | Kangas
+  | Lower Cruz
+  | Oliweg
+  | Samoyao
+  | Upper Cruz
+  }}
+|- style="vertical-align:top;"
+! scope="row" style="border-right:0;background-color:initial;" | {{coord|16.4441|N|120.5992|E|name=Lubas|region:PH-BEN_scale:5000|format=hidden}}
+| style="border-left:0;font-weight:bold;" | Lubas
+| style="text-align:center;" | Urban
+| {{langx|ibl|Dubas}} – "red clay" abundant in the area<ref name="LaTrinidadGovLubas">{{cite web|title=Barangay Lubas|url=http://latrinidad.gov.ph/profile/barangay-profiles/lubas-profile/|website=Municipality of La Trinidad|access-date=November 1, 2015|format=web page and [[Portable Document Format|PDF]]|date=2015}}</ref>
+| Pico<ref name=LaTrinidadGovLubas />
+| style="text-align:right;" | {{convert|{{rnd|2.405|2}}|km2|abbr=on|disp=br()}}<ref name=LaTrinidadGovLubas />
+| style="text-align:center;" | {{number and percent|6,159|129,133|disp=br()|1|pad=yes}}
+| style="text-align:right;" | {{convert|{{sigfig|6159/2.405|2}}|PD/km2|abbr=on|disp=br()|sortable=on}}
+| {{Collapsible list
+ | title       = 6{{thinsp}}<ref name=LaTrinidadGovLubas />
+ | frame_style = border:0;
+ | title_style = text-align:left;padding:0 0.5em;background-color:#f7f7f7;
+ | list_style  = padding:0.5em;
+ | bullets     = true
+  | Guitley
+  | Inselbeg
+  | Lubas Proper
+  | Pipingew
+  | Rocky Side&nbsp;1
+  | Rocky Side&nbsp;2
+   }}
+|- style="vertical-align:top;"
+! scope="row" style="border-right:0;background-color:initial;" | {{coord|16.4446|N|120.5886|E|name=Pico|region:PH-BEN_scale:5000|format=hidden}}
+| style="border-left:0;font-weight:bold;" | Pico
+| style="text-align:center;" | Urban
+| {{langx|ibl|Piho}} – "[[pick mattock]]" inhabitants used to flatten the hilly land<ref name="LaTrinidadGovPico">{{cite web|title=Barangay Pico|url=http://latrinidad.gov.ph/profile/barangay-profiles/barangay-pico-profile/|website=Municipality of La Trinidad|access-date=November 1, 2015|format=web page and [[Portable Document Format|PDF]]|date=2015}}</ref>
+| —
+| style="text-align:right;" | {{convert|{{rnd|3.293|2}}|km2|abbr=on|disp=br()}}<ref name=LaTrinidadGovPico />
+| style="text-align:center;" | {{number and percent|23,282|129,133|disp=br()|1|pad=yes}}
+| style="text-align:right;" | {{convert|{{sigfig|23282/3.293|2}}|PD/km2|abbr=on|disp=br()|sortable=on}}
+| {{Collapsible list
+ | title       = 8{{thinsp}}<ref name=LaTrinidadGovPico />
+ | frame_style = border:0;
+ | title_style = text-align:left;padding:0 0.5em;background-color:#f7f7f7;
+ | list_style  = padding:0.5em;
+ | bullets     = true
+  | Balangabang
+  | Bayabas
+  | Cogcoga
+  | Dreamland-Piripin Bato
+  | Km. 4
+  | Km. 5
+  | Shamolog
+  | Toyong
+ }}
+|- style="vertical-align:top;"
+! scope="row" style="border-right:0;background-color:initial;" | {{coord|16.4621|N|120.5877|E|name=Poblacion|region:PH-BEN_scale:5000|format=hidden}}
+| style="border-left:0;font-weight:bold;" | Poblacion
+| style="text-align:center;" | Urban
+| {{langx|es|[[Poblacion]]}} – the site of the old Spanish ''Presidencia''<ref name="LaTrinidadGovPoblacion">{{cite web|title=Barangay Poblacion|url=http://latrinidad.gov.ph/profile/barangay-profiles/barangay-poblacion-profile/|website=Municipality of La Trinidad|access-date=November 1, 2015|format=web page and [[Portable Document Format|PDF]]|date=2015}}</ref>
+| Benget<ref name=LaTrinidadGovPoblacion />
+| style="text-align:right;" | {{convert|{{rnd|1.046|2}}|km2|abbr=on|disp=br()}}<ref name=LaTrinidadGovPoblacion />
+| style="text-align:center;" | {{number and percent|13,196|129,133|disp=br()|1|pad=yes}}
+| style="text-align:right;" | {{convert|{{sigfig|13196/1.046|2}}|PD/km2|abbr=on|disp=br()|sortable=on}}
+| {{Collapsible list
+ | title       = 5{{thinsp}}<ref name=LaTrinidadGovPoblacion />
+ | frame_style = border:0;
+ | title_style = text-align:left;padding:0 0.5em;background-color:#f7f7f7;
+ | list_style  = padding:0.5em;
+ | bullets     = true
+  | Central Buyagan
+  | Eastern Buyagan
+  | Town Proper
+  | Upper Kesbeng
+  | Western Buyagan
+  }}
+|- style="vertical-align:top;"
+! scope="row" style="border-right:0;background-color:initial;" | {{coord|16.4471|N|120.5761|E|name=Puguis|region:PH-BEN_scale:5000|format=hidden}}
+| style="border-left:0;font-weight:bold;" | Puguis
+| style="text-align:center;" | Rural
+| —
+| Pico<br/>(''until the 1950s'')<ref name="LaTrinidadGovPuguis">{{cite web|title=Barangay Puguis|url=http://latrinidad.gov.ph/profile/barangay-profiles/barangay-puguis-profile/|website=Municipality of La Trinidad|access-date=November 1, 2015|format=web page and [[Portable Document Format|PDF]]|date=2015}}</ref>
+| style="text-align:right;" | {{convert|{{rnd|10.218|2}}|km2|abbr=on|disp=br()}}<ref name=LaTrinidadGovPuguis />
+| style="text-align:center;" | {{number and percent|9,038|129,133|disp=br()|1|pad=yes}}
+| style="text-align:right;" | {{convert|{{sigfig|9038/10.218|2}}|PD/km2|abbr=on|disp=br()|sortable=on}}
+| {{Collapsible list
+ | title       = 7{{thinsp}}<ref name=LaTrinidadGovPuguis />
+ | frame_style = border:0;
+ | title_style = text-align:left;padding:0 0.5em;background-color:#f7f7f7;
+ | list_style  = padding:0.5em;
+ | bullets     = true
+  | Ampasit
+  | Buhao
+  | Guadayan
+  | Lamtang
+  | Longlong
+  | Proper Puguis
+  | Wayside
+  }}
+|- style="vertical-align:top;"
+! scope="row" style="border-right:0;background-color:initial;" | {{coord|16.4637|N|120.6236|E|name=Shilan|region:PH-BEN_scale:5000|format=hidden}}
+| style="border-left:0;font-weight:bold;" | Shilan
+| style="text-align:center;" | Urban
+| ''Shalan'' – local term for "the way to and from"<ref name="LaTrinidadGovShilan">{{cite web|title=Barangay Shilan|url=http://latrinidad.gov.ph/profile/barangay-profiles/barangay-shilan-profile/|website=Municipality of La Trinidad|access-date=November 1, 2015|format=web page and [[Portable Document Format|PDF]]|date=2015}}</ref>
+| Tacdian<ref name=LaTrinidadGovShilan />
+| style="text-align:right;" | {{convert|{{rnd|7.509|2}}|km2|abbr=on|disp=br()}}<ref name=LaTrinidadGovShilan />
+| style="text-align:center;" | {{number and percent|4,833|129,133|disp=br()|1|pad=yes}}
+| style="text-align:right;" | {{convert|{{sigfig|4833/7.509|2}}|PD/km2|abbr=on|disp=br()|sortable=on}}
+| {{Collapsible list
+ | title       = 8{{thinsp}}<ref name=LaTrinidadGovShilan />
+ | frame_style = border:0;
+ | title_style = text-align:left;padding:0 0.5em;background-color:#f7f7f7;
+ | list_style  = padding:0.5em;
+ | bullets     = true
+  | Balukas
+  | Cavanao
+  | Jappa
+  | Pagal
+  | Sabdang
+  | Sagpawe
+  | Shilan 1
+  | Shilan 2
+  }}
+|- style="vertical-align:top;"
+! scope="row" style="border-right:0;background-color:initial;" | {{coord|16.4556|N|120.6018|E|name=Tawang|region:PH-BEN_scale:5000|format=hidden}}
+| style="border-left:0;font-weight:bold;" | Tawang
+| style="text-align:center;" | Urban
+| {{langx|kne|Tawang}} – "catching birds through the use of fire inside the cave"<br/>{{small|or}} {{langx|ibl|Tayawan}} – "tayaw" ritual inside the Tawang caves<ref name="LaTrinidadGovTawang">{{cite web|title=Barangay Tawang|url=http://latrinidad.gov.ph/profile/barangay-profiles/barangay-tawang-profile/|website=Municipality of La Trinidad|access-date=November 1, 2015|format=web page and [[Portable Document Format|PDF]]|date=2015}}</ref>
+| parts of Pico,<br/>Alapang and Shilan<ref name=LaTrinidadGovTawang />
+| style="text-align:right;" | {{convert|{{rnd|2.475|2}}|km2|abbr=on|disp=br()}}<ref name=LaTrinidadGovTawang />
+| style="text-align:center;" | {{number and percent|9,014|129,133|disp=br()|1|pad=yes}}
+| style="text-align:right;" | {{convert|{{sigfig|9014/2.475|2}}|PD/km2|abbr=on|disp=br()|sortable=on}}
+| {{Collapsible list
+ | title       = 6{{thinsp}}<ref name=LaTrinidadGovTawang />
+ | frame_style = border:0;
+ | title_style = text-align:left;padding:0 0.5em;background-color:#f7f7f7;
+ | list_style  = padding:0.5em;
+ | bullets     = true
+  | Banig
+  | Boted
+  | Central Tawang
+  | Dengsi
+  | Papasok
+  | Tayawan
+  }}
+|- style="vertical-align:top;"
+! scope="row" style="border-right:0;background-color:initial;" | {{coord|16.4577|N|120.5701|E|name=Wangal|region:PH-BEN_scale:5000|format=hidden}}
+| style="border-left:0;font-weight:bold;" | Wangal
+| style="text-align:center;" | Rural
+| {{langx|ibl|Vangal}} – Ibaloi term attributed to the river<ref name="LaTrinidadGovWangal">{{cite web|title=Barangay Wangal|url=http://latrinidad.gov.ph/profile/barangay-profiles/wangal/|website=Municipality of La Trinidad|access-date=November 1, 2015|format=web page and [[Portable Document Format|PDF]]|date=2015|url-status=dead|archive-url=https://web.archive.org/web/20151031065331/http://latrinidad.gov.ph/profile/barangay-profiles/wangal/|archive-date=October 31, 2015}}</ref>
+| —
+| style="text-align:right;" | {{convert|{{rnd|11.16|2}}|km2|abbr=on|disp=br()}}<ref name=LaTrinidadGovWangal />
+| style="text-align:center;" | {{number and percent|5,942|129,133|disp=br()|1|pad=yes}}
+| style="text-align:right;" | {{convert|{{sigfig|5942/11.16|2}}|PD/km2|abbr=on|disp=br()|sortable=on}}
+| {{Collapsible list
+ | title       = 5{{thinsp}}<ref name=LaTrinidadGovWangal />
+ | frame_style = border:0;
+ | title_style = text-align:left;padding:0 0.5em;background-color:#f7f7f7;
+ | list_style  = padding:0.5em;
+ | bullets     = true
+  | Gayasi
+  | Lower Wangal
+  | Sadjatan
+  | Talinguroy
+  | Upper Wangal
+  }}
+|- class="sortbottom"
+! scope="row" colspan="11" |
+* Dashes (—) in cells indicate unavailable information.
+|}
+|-
+| {{GeoGroup}}
+|}
+
+==Demographics==
+{{Philippine Census
+| align= left
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+In the 2020 census, La Trinidad had a population of 137,404.{{PH census|current}} The population density was {{convert|{{sigfig|137,404/70.04|2}}|PD/km2}}.
+
+{{clear-left}}
+
+== Economy ==
+{{PH poverty incidence}}
+[[File:Strawberry Farm (5), La Trinidad, Benguet, March 2023.jpg|thumb|[[La Trinidad Strawberry Farm|Strawberry fields]] within the La Trinidad Valley]]
+La Trinidad supplies most of the Philippines' strawberries<ref name="Inquirer">{{cite news|last1=Caluza|first1=Desiree|title=What is life without strawberry in La Trinidad Valley?|url=http://business.inquirer.net/119021/what-is-life-without-strawberry-in-la-trinidad-valley|archive-url=https://web.archive.org/web/20161031085458/http://business.inquirer.net/119021/what-is-life-without-strawberry-in-la-trinidad-valley|archive-date=October 31, 2016|access-date=January 5, 2015|newspaper=Philippine Daily Inquirer|date=April 27, 2013}}</ref> and [[cut flowers]], which include [[rose]]s.<ref name="SunStar2">{{cite news|last1=Catajan|first1=Maria Elena|title=Benguet blooms in focus|url=http://www.sunstar.com.ph/baguio/local-news/2014/02/13/benguet-blooms-focus-328181|archive-url=https://web.archive.org/web/20141010083630/http://www.sunstar.com.ph/baguio/local-news/2014/02/13/benguet-blooms-focus-328181|archive-date=October 10, 2014|access-date=October 6, 2014|work=SunStar Baguio|date=February 13, 2014}}</ref><ref name="BaguioGov">{{cite news|last1=Rillorta |first1=Paul |title=City supports La Trinidad strawberry festival –mayor |url=http://www.baguio.gov.ph/content/city-supports-la-trinidad-strawberry-festival-%E2%80%93mayor |archive-url=https://web.archive.org/web/20160303220657/http://www.baguio.gov.ph/content/city-supports-la-trinidad-strawberry-festival-%E2%80%93mayor |archive-date= March 3, 2016 |access-date=January 5, 2015 |publisher=Official website of the City Government of Baguio |date=March 22, 2012 |url-status=dead }}</ref><ref name="9NewsPhils">{{cite news|last1=Agreda|first1=JM|title=La Trinidad hopes strawberries will draw tourists|url=http://www.9news.ph/lifestyle/travel/2014/03/13/la-trinidad-hopes-strawberries-will-draw-tourists|access-date=October 6, 2014|publisher=9News Philippines|date=March 13, 2014}}</ref> The La Trinidad Vegetable Trading Post is visited by wholesalers and traders of vegetables from other provinces.<ref name="Chronicle">{{cite news|last1=Obnial|first1=Angela|title=La Trinidad veggie trading post revisited|url=http://www.bar.gov.ph/chronicle-home/archives-list/374-december-2005-issue/2624-la-trinidad-veggie-trading-post-revisited|access-date=October 6, 2014|publisher=Bureau of Agricultural Research Chronicle|date=December 2005|url-status=dead|archive-url=https://web.archive.org/web/20141009231415/http://www.bar.gov.ph/chronicle-home/archives-list/374-december-2005-issue/2624-la-trinidad-veggie-trading-post-revisited|archive-date=October 9, 2014}}</ref> The presence of the [[Benguet State University]] in the municipality serves as a boost to [[Agricultural science|agricultural research and development]] in the region.<ref name="PhilStar2">{{cite news|last1=Dumlao|first1=Artemio|title=Benguet State U starts developing organic agri program|url=http://www.philstar.com/nation/2013/07/11/964268/benguet-state-u-starts-developing-organic-agri-program|access-date=October 6, 2014|work=The Philippine Star|date=July 11, 2013}}</ref>
+
+The town landed on the [[Guinness Book of World Records]] for baking the world's largest strawberry [[shortcake]], at {{convert|21,213.40|lb}}, at the La Trinidad Strawberry Festival on March 20, 2004.<ref name="Guinness">{{cite web|url=http://www.guinnessworldrecords.com/world-records/largest-fruit-shortcake/|archive-url=https://web.archive.org/web/20160811210026/http://www.guinnessworldrecords.com/world-records/largest-fruit-shortcake|archive-date=August 11, 2016|title=Largest fruit shortcake|publisher=Guinness World Records|access-date=January 6, 2015}}</ref>
+
+Its proximity to the city of [[Baguio]] attracts tourists, primarily to the strawberry fields in the valley, and lesser to the Benguet Provincial Capitol and the Rose Gardens of barangay Bahong.<ref name="GMANews">{{cite news|last1=Lago|first1=Amanda|title=Benguet roses now a summer attraction|url=http://www.gmanetwork.com/news/story/254360/news/regions/benguet-roses-now-a-summer-attraction|archive-url=https://web.archive.org/web/20160304000202/http://www.gmanetwork.com/news/story/254360/news/regions/benguet-roses-now-a-summer-attraction|archive-date=March 4, 2016|access-date=October 6, 2014|work=GMA News|date=April 9, 2012}}</ref>
+{{clear-left}}
+
+==Government==
+===Local government===
+{{main|Sangguniang Bayan}}
+[[File:Municipal Hall, La Trinidad, Benguet, March 2023.jpg|thumb|La Trinidad Municipal Hall]]
+[[File:Benguet Provincial Capitol (far view).jpg|thumb|Benguet Provincial Capitol]]
+La Trinidad, belonging to the [[Legislative districts of Benguet|lone congressional district]] of the province of [[Benguet]], is governed by a mayor designated as its local chief executive and by a municipal council as its legislative body in accordance with the Local Government Code. The mayor, vice mayor, and the councilors are elected directly by the people through an election which is being held every three years.
+
+===Elected officials===
+<!--NOTE: Update needed by June 30, 2022 after oath-taking of the declared winners in the May 9, 2022 local elections.-->
+{| class="wikitable" style="line-height:1.20em; font-size:100%;"
+|+ Members of the Municipal Council<br />(2019–2022)<ref>{{Cite web |title=2019 National and Local Elections |url=https://comelec.gov.ph/php-tpls-attachments/2019NLE/ElectionResults/2019NLE_LIst_of_Elected_CityMun_Candidates.pdf |access-date=March 12, 2022 |website=Commission on Elections}}</ref>
+|-
+! Position
+! Name
+|-
+| Congressman
+| style="text-align:center;" | Nestor B. Fongwan{{efn|group=l|Died on December 18, 2019.<ref>{{cite news|last=Cimatu|first=Frank|title=Benguet Representative Nestor Fongwan dies at 68|url=https://www.rappler.com/nation/247498-benguet-representative-nestor-fongwan-dies|access-date=January 30, 2020|work=Rappler.com|date=December 19, 2019}}</ref>}}<br />
+Eric G. Yap ''(since January 20, 2020)''<ref>{{Cite news|url=https://www.pna.gov.ph/articles/1091630|title=House names party-list solon as Benguet caretaker|work=Philippine News Agency|date=January 22, 2020|access-date=March 12, 2022}}</ref>
+|-
+| Mayor
+| style="text-align:center;" | Romeo K. Salda
+|-
+| Vice-Mayor
+| style="text-align:center;" | Roderick C. Awingan
+|-
+|rowspan=8| Councilors
+| style="text-align:center;" | Nestor T. Fongwan Jr.
+|-
+| style="text-align:center;" | Jayson C. Dangwa
+|-
+| style="text-align:center;" | Renato B. Tereng
+|-
+| style="text-align:center;" | Guiller A. Galwan
+|-
+| style="text-align:center;" | John G. Botiwey
+|-
+| style="text-align:center;" | Arthur M. Shontogan
+|-
+| style="text-align:center;" | Francis A. Lee
+|-
+| style="text-align:center;" | Teddy C. Walang
+|-
+|}
+
+==Education==
+[[File:Benguet State University Entrance, La Trinidad, Benguet.jpg|thumb|Benguet State University]]
+[[File:DOST CAR Regional Office.jpg|thumb|DOST Regional Office - CAR]]
+La Trinidad, aside from the adjacent city of Baguio, is the center of higher education in Benguet province.<ref name="JosephGoshenLand">{{cite news|title=La Trinidad Now Rivals Baguio as Educational Center|url=http://joseph.goshenlandcapital.com/la-trinidad-now-rivals-baguio-educational-center/|archive-url=https://web.archive.org/web/20161008151440/http://joseph.goshenlandcapital.com/la-trinidad-now-rivals-baguio-educational-center/|archive-date=October 8, 2016|access-date=July 22, 2016|work=Joseph|publisher=Goshen Land|date=June 11, 2015}}</ref>
+
+===Public schools===
+As of 2014, La Trinidad has 23 [[State school|public]] [[elementary school]]s and 7 public [[secondary school]]s.<ref name="DepEdElem">{{cite web|url=http://www.deped.gov.ph/sites/default/files/datasets/2013/Masterlist%20of%20Elementary%20Schools.xlsx|title=Masterlist of Public Elementary Schools for the School year 2012- 2013|format=[[Office Open XML|XLSX]]|publisher=[[Department of Education (Philippines)]], July 15, 2013|access-date=December 28, 2014|archive-url=https://web.archive.org/web/20160304053100/http://www.deped.gov.ph/sites/default/files/datasets/2013/Masterlist%20of%20Elementary%20Schools.xlsx|archive-date=March 4, 2016|url-status=dead}}</ref><ref name=DepEdSecon /><ref name="DepEd2014Elem">{{cite web|url=http://www.deped.gov.ph/sites/default/files/datasets/2014/SY%202013-2014%20Masterlist%20of%20Schools.xlsx|title=Masterlist of Public Schools SY 2013-2014|format=[[Office Open XML|XLSX]]|publisher=[[Department of Education (Philippines)]], October 22, 2014|access-date=December 28, 2014|archive-url=https://web.archive.org/web/20160421172857/http://www.deped.gov.ph/sites/default/files/datasets/2014/SY%202013-2014%20Masterlist%20of%20Schools.xlsx|archive-date=April 21, 2016|url-status=dead}}</ref>
+
+The main campus of [[Benguet State University]], the first university in the province, is located in the municipality.
+
+{{col-begin|width=auto}}
+{{col-break}}
+
+{| class="wikitable collapsible sortable collapsed plainrowheaders" style="font-size:90%;"
+|+ Elementary<br /><small>(2013-2014)</small><ref name=DepEd2014Elem />
+|-
+! scope="col" | School
+! scope="col" | Barangay
+|-
+! scope="row" | Alapang-Camp Dangwa Elementary School
+| Alapang
+|-
+! scope="row" | Alno-Kadoorie Elementary School
+| Alno
+|-
+! scope="row" | Ambiong Elementary School
+| Ambiong
+|-
+! scope="row" | Bahong Elementary School
+| Bahong
+|-
+! scope="row" | Balili Elementary School
+| Balili
+|-
+! scope="row" | Balukas Elementary School
+| Shilan
+|-
+! scope="row" | Beckel Elementary School
+| Beckel
+|-
+! scope="row" | Benguet [[Special education|SPED]] Center
+| Wangal
+|-
+! scope="row" | Bineng Elementary School
+| Bineng
+|-
+! scope="row" | Bodiweng Elementary School
+| Bineng
+|-
+! scope="row" | Buyagan Elementary School
+| Poblacion
+|-
+! scope="row" | La Trinidad Central School
+| Poblacion
+|-
+! scope="row" | Lamtang Elementary School
+| Puguis
+|-
+! scope="row" | Lamut Elementary School
+| Beckel
+|-
+! scope="row" | Longlong Elementary School
+| Puguis
+|-
+! scope="row" | Lubas Elementary School
+| Lubas
+|-
+! scope="row" | Pagal Elementary School
+| Shilan
+|-
+! scope="row" | Pico Elementary School
+| Pico
+|-
+! scope="row" | Puguis Elementary School
+| Puguis
+|-
+! scope="row" | Tacdian Elementary School
+| Shilan
+|-
+! scope="row" | Talinguroy Elementary School
+| Wangal
+|-
+! scope="row" | Tawang Elementary School
+| Tawang
+|-
+! scope="row" | Wangal Elementary School
+| Wangal
+|}
+
+{{col-break|gap=2em}}
+
+{| class="wikitable collapsible sortable collapsed plainrowheaders" style="font-size:90%;"
+|+ Secondary<br /><small>(2013-2014)</small><ref name="DepEdSecon">
+{{cite web|url=http://www.deped.gov.ph/index.php/resources/facts-figures/document/masterlist-of-secondary-schools?format=raw |title=Masterlist of Secondary Schools (School Year 2013- 2014) |format=[[Office Open XML|XLSX]] |publisher=[[Department of Education (Philippines)]], July 4, 2013 |access-date=November 20, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140701223137/http://deped.gov.ph/index.php/resources/facts-figures/document/masterlist-of-secondary-schools?format=raw |archive-date= July 1, 2014 }}</ref>
+|-
+! scope="col" | School
+! scope="col" | Barangay
+|-
+! scope="row" | [[Benguet National High School]]
+| Wangal
+|-
+! scope="row" | Benguet National High School - Alno Annex
+| Alno
+|-
+! scope="row" | Benguet National High School - Bineng Annex
+| Bineng
+|-
+! scope="row" | Benguet National High School - Puguis Annex
+| Puguis
+|-
+! scope="row" | [[Cordillera Regional Science High School]]
+| Wangal
+|-
+! scope="row" | Eastern La Trinidad National High School
+| Beckel
+|-
+! scope="row" | La Trinidad National High School
+| Lubas
+|}
+
+{{col-end}}
+
+===Private schools===
+There are 11 private schools according to the Department of Education - Schools Division of Benguet.<ref name="DEPEDBenguet-PrivateSchools">{{cite web |title=Private Schools {{!}} Schools Division of Benguet {{!}} Page 3 |url=http://www.depedbenguet.com/private-schools/3/ |website=Department of Education - School Division of Benguet |access-date=April 10, 2019 |archive-url=https://web.archive.org/web/20190129154203/http://www.depedbenguet.com/private-schools/3/ |archive-date=January 29, 2019}}</ref>
+
+{{div col|colwidth=30em}}
+* [[BVS Colleges]]
+* [[Cordillera Career Development College]]
+* [[HML International College]]
+* [[H.O.P.E. Christian Academy, Inc.]]
+* [[King's College of the Philippines]]
+* [[Little Flower Children's Home Foundation]]
+* [[Northskills Polytechnic College, Inc.]]
+* [[Philippine College of Ministry]]
+* [[Philippine Nazarene College]]
+* [[Rainbow Mission International Academy, Inc.]]
+* [[San Jose School La Trinidad|San Jose School of La Trinidad, Inc.]]
+* [[Star Colleges]]
+
+{{div col end}}
+
+==Notable personalities==
+La Trinidad is the burial place of:
+* [[Deodato Arellano]] (1844–1899), a Filipino patriot and one of the founders of the [[Katipunan]].<ref name="Inquirer-DeodatoArellano">{{cite news |last1=Cabreza |first1=Vincent |title=How relevant is the Philippine flag today? |url=https://newsinfo.inquirer.net/424669/how-relevant-is-the-philippine-flag-today |access-date=April 10, 2019 |newspaper=Philippine Daily Inquirer|date=June 13, 2013 |archive-url=https://web.archive.org/web/20190410053657/https://newsinfo.inquirer.net/424669/how-relevant-is-the-philippine-flag-today |archive-date=April 10, 2019 |language=en}}</ref>
+
+==Sister cities==
+===Local===
+* [[Danao, Bohol]]<ref name="SunStar-DanaoBohol">{{cite news |last1=Catajan |first1=Maria Elena |title=La Trinidad helps sister city Danao, Bohol |url=http://www.sunstar.com.ph/baguio/local-news/2013/10/28/la-trinidad-helps-sister-city-danao-bohol-311021 |access-date=February 4, 2015 |work=SunStar |publisher=Sun.Star Publishing Inc. |location=Baguio, Philippines |date=October 28, 2013 |archive-date=February 5, 2015 |archive-url=https://web.archive.org/web/20150205071247/http://www.sunstar.com.ph/baguio/local-news/2013/10/28/la-trinidad-helps-sister-city-danao-bohol-311021 |url-status=dead }}</ref>
+* [[Quezon City]]<ref name="ManilaStandard-QCSisterCity">{{cite news |title=QC eyes sister city ties with Naga City |url=http://manilastandard.net/sunday-lgu-section-pdf/ncr/229328/qc-eyes-sister-city-ties-with-naga-city.html |access-date=April 10, 2019 |work=Manila Standard|date=February 15, 2017 |archive-url=https://web.archive.org/web/20190410054440/http://manilastandard.net/sunday-lgu-section-pdf/ncr/229328/qc-eyes-sister-city-ties-with-naga-city.html |archive-date=April 10, 2019 |language=en |quote=To date, Quezon City has sister-city ties with 11 other Philippine cities and municipalities—Sadangga in Mountain Province; General Santos City; Pura, Tarlac; Davao City; Iloilo City; Wao, Lanao del Sur; Cotabato City; La Trinidad, Benguet; Puerto Princesa; Banay-Banay, Davao Oriental; and Alicia, Isabela.}}</ref>
+
+===International===
+{{div col|colwidth=30em}}
+* {{flagicon|JPN}} [[Hitachiōta, Ibaraki]], Japan<ref name=clair>{{cite news | url = http://www.clair.org.sg/exchange/index.html | title = List of Sister City Affiliations with Japan (by country) | newspaper = Clair Singapore | access-date = July 11, 2017 | archive-date = October 23, 2016 | archive-url = https://web.archive.org/web/20161023112337/http://www.clair.org.sg/exchange/index.html | url-status = dead }}</ref>
+* {{flagicon|KOR}} [[Jincheon County]], South Korea<ref name="SunStar-Jincheon">{{cite news |last1=Golosino |first1=Shena |title=La Trinidad-Korea inks sisterhood ties |url=https://www.sunstar.com.ph/article/132520 |access-date=October 12, 2018 |work=SunStar Philippines |publisher=SunStar Publishing Inc. |date=March 21, 2017}}</ref>
+* {{flagicon|THA}} [[Bueng Na Rang District|Laemrung]], Thailand<ref name="SunStar-Laemrung">{{cite news |last1=Cachero |first1=Carol |title=Valley links with Laemrung |url=https://www.sunstar.com.ph/article/333330 |access-date=October 12, 2018 |work=SunStar Philippines |publisher=SunStar Publishing Inc. |date=November 28, 2014}}</ref>
+* {{flagicon|JPN}} [[Minamimaki, Nagano]], Japan<ref name=clair/>
+* {{flagicon|JPN}} [[Miyako, Iwate]], Japan<ref name=clair/>
+* {{flagicon|GUM}} [[Tamuning, Guam]], USA<ref name="SunStar-Tamuning">{{cite news |last1=Cachero |first1=Carol |title=La Trinidad, Tamuning sign sisterhood agreement |url=https://www.sunstar.com.ph/article/380280 |access-date=October 12, 2018 |work=SunStar Philippines |publisher=SunStar Publishing Inc. |date=November 28, 2014}}</ref><ref name="DFAGovPH-Tamuning">{{cite news |title=MAYORS OF LA TRINIDAD AND SABLAN IN BENGUET PROVINCE CALL ON PHL CONSUL GENERAL DURING THEIR VISIT TO GUAM |url=https://www.dfa.gov.ph/newsroom/news-from-our-foreign-service-postsupdate/8436-mayors-of-la-trinidad-and-sablan-in-benguet-province-call-on-phl-consul-general-during-their-visit-to-guam |access-date=October 12, 2018 |work=Department of Foreign Affairs |date=January 28, 2016 |quote=La Trinidad and Sablan have sister-city agreements with Tamuning and Agat villages, respectively.}}</ref>
+{{div col end}}
+
+==See also==
+*[[La Trinidad Strawberry Farm]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*{{commons-inline}}
+*{{Wikivoyage-inline|La Trinidad (Benguet)|La Trinidad, Benguet}}
+* {{official website|http://www.latrinidad.gov.ph/}}
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+
+{{Geographic location
+| Centre    = La Trinidad
+| North     = [[Tublay, Benguet|Tublay]]
+| Southeast = [[Itogon, Benguet|Itogon]]
+| South     = [[Baguio]]
+| Southwest = [[Tuba, Benguet|Tuba]]
+| West      = [[Sablan, Benguet|Sablan]]
+}}
+
+{{Navboxes
+| title = Articles related to La Trinidad
+| state = uncollapsed
+| list  =
+{{Benguet|state=expanded}}
+{{Metro Baguio}}
+{{Cordillera Administrative Region}}
+{{Philippine Provincial Capitals}}
+}}
+
+{{Authority control}}
+
+[[Category:Municipalities of Benguet]]
+[[Category:Provincial capitals of the Philippines]]
+[[Category:1950 establishments in the Philippines]]

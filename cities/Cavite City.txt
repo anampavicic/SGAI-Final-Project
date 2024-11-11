@@ -1,0 +1,689 @@
+{{Short description|Component city in Cavite, Philippines}}
+{{About|the Philippine city|the province|Cavite|other uses|Cavite (disambiguation)}}
+{{Use mdy dates|date=July 2022}}
+{{Infobox settlement
+| name                   = {{PH wikidata|name}}
+| image_skyline          = {{Photomontage
+| photo1a      = 9758Barangays of Cavite City 16.jpg
+| photo2a      = CaviteCityjf5530 26.JPG
+| photo2b      = CaviteCityjf5760 09.JPG
+| photo3a      = CaviteCityjf5302 30.JPG
+| photo3b      = CaviteChurchjf5414 03.JPG
+| size         = 250
+| position     = center
+| spacing      = 2
+| color        = white
+| border       = 0
+| foot_montage = Clockwise from top: New Cavite City Hall, Old Cavite City Hall, San Roque Parish Church, Heroes' Arch, and the Thirteen Martyrs Monument
+}}
+| image_caption          = {{PH wikidata|image_caption}}
+| image_flag             = Flag of Cavite City.svg
+| flag_size              = 120x80px
+| image_seal             = Cavitecity_seal.png
+| seal_size              = 100x80px
+| image_map              = {{PH wikidata|image_map}}
+| map_caption            = {{PH wikidata|map_caption}}
+| image_map1             = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map            = Philippines
+| pushpin_label_position = left
+| pushpin_map_caption    = Location within the {{PH wikidata|country}}
+| coordinates            = {{PH wikidata|coordinates}}
+| settlement_type        = {{PH wikidata|settlement_type}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = [[Philippines]]
+| subdivision_type1      = [[Regions of the Philippines|Region]]
+| subdivision_name1      = {{PH wikidata|region}}
+| subdivision_type2      = [[Provinces of the Philippines|Province]]
+| subdivision_name2      = {{PH wikidata|province}}
+| official_name          = {{PH wikidata|official_name}}
+| etymology              =  <!--origin of name-->
+| named_for              =  <!--named after (if person or place)-->
+| native_name            =
+| other_name             =
+| nicknames               = {{plainlist|
+* ''Historic City by the Bay''
+* ''International Transport Hub of Cavite''
+}}
+| motto                  = ''Para Dios y Patria''<br/>{{small|("For God and Country")}}
+| anthem                 =
+| subdivision_type3      = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3      = {{PH legislative district}}
+| established_title      = Settled
+| established_date       = May 16, 1571
+| established_title1     = [[Date of establishment|Founded]]
+| established_date1      = 1614
+| established_title2     = Cityhood
+| established_date2      = September 7, 1940
+| parts_type             = [[Barangay]]s
+| parts_style            = para
+| p1                     = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title           = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name            = Denver Christopher R. Chua
+| leader_title1          = [[Vice Mayor]]
+| leader_name1           = Benzen Raleigh G. Rusit
+| leader_title2          = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2           = [[Jolo Revilla|Ramon Jolo Revilla]]
+| leader_title3          = [[Sangguniang Panlungsod|City Council]]
+| leader_name3            = {{PH Town Council
+ | 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Maureen E. Lu
+ | 3=[[Nash Aguas|Aeign Zackrey Nash V. Aguas]]
+ | 4=Edmund C. Tirona
+ | 5=Renan L. Montoya
+ | 6=Marrian M. Pinzon
+ | 7=Eduardo G. Novero Jr.
+ | 8=Franklin A. Nuguid
+ | 9=Jesus Jet S. Barrera II
+ | 10=Marc Lawrence D. Serrano
+ | 11=Mark Anthony A. Amparo
+}}
+| leader_title4          = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4           = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type        = {{PH wikidata|government_type}}
+| government_footnotes   = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m            = {{PH wikidata|elevation_m}}
+| elevation_max_m        = 169
+| elevation_min_m        = 0
+| elevation_max_rank     =
+| elevation_min_rank     =
+| elevation_footnotes    = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes= 
+| elevation_min_footnotes=
+| area_rank              = 143rd out of 145
+| area_footnotes         = {{PH area}}
+| area_total_km2         = {{PH wikidata|area}}
+| population_footnotes   = {{PH census|current}}
+| population_total       = {{PH wikidata|population_total}}
+| population_as_of       = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title= [[Household]]s
+| population_blank1      = {{PH wikidata|household}} 
+| population_blank2_title= 
+| population_blank2      = 
+| population_demonym     =
+| population_rank        =
+| population_note        =
+| timezone               = [[Philippine Standard Time|PST]]
+| utc_offset             = +8
+| postal_code_type       = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code            = {{PH wikidata|postal_code}}
+| postal2_code_type      = {{PSGCstyle}}
+| postal2_code           = {{PSGC detail}}
+| area_code_type         = {{areacodestyle}}
+| area_code              = {{PH wikidata|area_code}}
+| website                = {{PH wikidata|website}}
+| demographics_type1     = [[Economy of the Philippines|Economy]]
+| demographics1_title1   = {{PH wikidata|income_class_title}}
+| demographics1_info1    = {{PH wikidata|income_class}}
+| demographics1_title2   = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2    = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3   = [[Revenue]]
+| demographics1_info3    = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}} 
+| demographics1_title4   = Revenue rank
+| demographics1_info4    = 
+| demographics1_title5   = [[Asset]]s
+| demographics1_info5    = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}} 
+| demographics1_title6   = Assets rank
+| demographics1_info6    = 
+| demographics1_title7   = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7    =  
+| demographics1_title8   = IRA rank
+| demographics1_info8    = 
+| demographics1_title9   = [[Expenditure]]
+| demographics1_info9    = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}} 
+| demographics1_title10  = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10   = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}  
+| demographics_type2     = Service provider
+| demographics2_title1   = Electricity
+| demographics2_info1    = {{PH electricity distribution | {{wikidata|label|raw}} }}  
+| demographics2_title2   = Water
+| demographics2_info2    =  
+| demographics2_title3   = Telecommunications
+| demographics2_info3    = 
+| demographics2_title4   = Cable TV
+| demographics2_info4    =
+| demographics2_title5   = 
+| demographics2_info5    =
+| demographics2_title6   = 
+| demographics2_info6    =
+| demographics2_title7   = 
+| demographics2_info7    =
+| demographics2_title8   = 
+| demographics2_info8    =
+| demographics2_title9   = 
+| demographics2_info9    =
+| demographics2_title10  = 
+| demographics2_info10   =
+| blank_name_sec1        = {{PH wikidata|climate_title}}
+| blank_info_sec1        = {{PH wikidata|climate_type}}
+| blank1_name_sec1       = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1       = {{PH wikidata|language}}
+| blank2_name_sec1       = [[Crime index]]
+| blank2_info_sec1       = 
+| blank3_name_sec1       = 
+| blank3_info_sec1       = 
+| blank4_name_sec1       = 
+| blank4_info_sec1       = 
+| blank5_name_sec1       = 
+| blank5_info_sec1       = 
+| blank6_name_sec1       = 
+| blank6_info_sec1       = 
+| blank7_name_sec1       = 
+| blank7_info_sec1       = 
+| blank1_name_sec2       = Major religions
+| blank1_info_sec2       = {{plainlist|
+*[[Roman Catholicism]]
+*[[Aglipayan Church]]
+*[[Protestanism]]
+*[[Islam]]
+*[[MCGI]]
+}}
+| blank2_name_sec2       = Feast date
+| blank2_info_sec2       = 
+| blank3_name_sec2       = Catholic diocese
+| blank3_info_sec2       = [[Diocese of Imus]]
+| blank4_name_sec2       = Patron saint 
+| blank4_info_sec2       = {{plainlist|
+*[[Saint Roch]]
+*[[Our Lady of Solitude of Porta Vaga]]
+}}
+| blank5_name_sec2       = 
+| blank5_info_sec2       = 
+| blank6_name_sec2       = 
+| blank6_info_sec2       = 
+| blank7_name_sec2       = 
+| blank7_info_sec2       =
+| short_description      =
+| footnotes              =
+}}
+
+'''Cavite City''', officially the '''City of Cavite''' ({{lang-cbk|Ciudad de Cavite}} and {{lang-fil|Lungsod ng Kabite}}) is a 2nd class [[Cities of the Philippines#Legal classification|component city]] in the [[Philippines]]. According to the 2020 census, it has a population of 100,674 people.{{PH census|current}}
+
+The city was the capital of [[Cavite|Cavite Province]] from its establishment in 1614 until the title was transferred to the newly created, more accessible city of [[Trece Martires]] in 1954. Cavite City was originally a small port town, Cavite Puerto, that prospered during the early [[History of the Philippines (1521-1898)|Spanish colonial period]], when it served as the main seaport of Manila. Cavite Puerto hosted the [[Manila Galleon|Manila-Acapulco galleon trade]], along with other large sea-bound ships. Thereafter, San Roque and La Caridad, two formerly independent towns in Cavite province,<ref>Bureau of Insular Affairs (1902). [https://archive.org/details/apronouncinggaz00keimgoog/page/n531 <!-- pg=450 quote=Cavite. --> ""], pg. 450. Government Printing Office, Washington.</ref> were annexed by the city. Today, Cavite City includes the communities of San Antonio (Cañacao and Sangley Point),<ref name=about>De la Rosa, Joy (2007–09). [http://cavitecitylibrary.home.ph.istemp.com/custom3.html "About Cavite City"]. Cavite City Library and Museum. Retrieved on October 19, 2014.</ref> the southern districts of Santa Cruz and Dalahican, and the outlying islands of the province, such as the historic [[Corregidor Island]].
+
+==Etymology==
+The city has been known by at least two [[Tagalog language|Tagalog]] names. The first, ''Tangway'', was the name given to the area by [[Tagalog people|Tagalog]] settlers. ''Tangway'' means "peninsula." The second is ''Kawit'' or "hook," referring to the hook-shaped landform along the coast of [[Bacoor Bay]],<ref name=about/> and from which the [[Sinicization|Chinese]] ''Keit'' and [[Castilianization|Spanish]] ''Cavite'' are derived.<ref name=keit/>
+
+==History==
+===Early history===
+The early inhabitants of Cavite City were the Tagalogs ruled by the Kampilan and the bullhorn of a datu, the tribal form of government.{{cn|date=June 2024}}  According to folklore, the earliest settlers came from [[Borneo]], led by Gat Hinigiw and his wife Dayang Kaliwanag, who bore seven children.{{cn|date=June 2024}} Archaeological evidence in the coastal areas shows prehistoric settlements.{{cn|date=June 2024}}
+
+===Spanish colonial era===
+[[File:Puerto_de_Cavite_1734_Velarde_Map.jpg|left|thumb|Illustration of the Port of Cavite from the ''[[Carta Hydrographica y Chorographica de las Yslas Filipinas]]'' (1734).]]
+[[File:Shipyards and Arsenal, Cavite, Philippines (1899).jpg|thumb|left|The Spanish shipyards and arsenal in Cavite (1899).]]
+[[File:Cavite City - Governor's Palace 1899.jpg|thumb|left|The Governor's Palace in the Navy Yard at the old Port City of Cavite (1899).]]
+On May 16, 1571, the Spanish [[conquistador]] [[Miguel López de Legazpi]] declared the region a royal ''encomienda'', or royal [[land grant]].{{cn|date=June 2024}}  Spanish colonizers settled in the most populated area (present-day [[Kawit]]) and called it [[Cavite]]. The old ''Tangway'' at the tip of the [[Cavite Peninsula]], across Bacoor Bay, was referred to as ''Cavite la Punta'', meaning "Point of Cavite" or Cavite Point. Upon discovering that, because of its deep waters, Cavite la Punta was a suitable place for the repair and construction of Spanish [[galleon|galleons]], the Spanish moved their settlement there and called it ''Cavite Nuevo'' (New Cavite) or just ''Cavite''. The first settlement was renamed "Cavite Viejo" (and in the early 20th century, regained its former name, Kawit). In 1582, the Spanish founded Cavite City with 65 Spanish households.<ref>[https://archive.org/stream/in.ernet.dli.2015.530346/2015.530346.jesuits-in_djvu.txt "Jesuits In The Philippines (1581-1768)" Page 59] "These settlements were much smaller than Manila. In 1582 Manila had
+an adult male population of 300 Spaniards; Vigan, 60; Nueva Caceres, 
+30; Cebu, 70; Arevalo, 20. In 1586 Manila had 329 Spanish men and 
+youths capable of bearing arms; the most recently established settlement, Nueva Segovia in Cagayan, had 97; Nueva Caceres, 69; Arevalo, 65; Cavite, 64; Cebu, 63; Villa Fernandina, 19."</ref>
+
+In 1590, the Spaniards fortified Cavite Nuevo/Cavite City with ''murallas'' (high thick [[curtain wall (fortification)|curtain walls)]] on its western, northern, and eastern sides, while Bacoor Bay remained open to the south. Fort Guadalupe was built at the same time on the eastern tip, and the town became the ''Puerto de Cavite'' (Port of Cavite) or ''Cavite Puerto''. The Fort of San Felipe Neri and the Porta Vaga Gate began construction in 1595 and were completed in 1602. Puerta Vaga (corrupted to Porta Vaga) was the port city's [[barbican]], the only principal entrance from San Roque in the west. It was flanked by the western wall, protected by two bastions at its northern and southern ends. The wall and gate were also separated from the mainland by a moat, which made the town like an island.<ref name=muog1/>
+
+Cavite was legally founded in 1614 with Tomás Salazar as the earliest known ''gobernadorcillo'' recorded.<ref name=muog1/>  At the same time, the town became the capital of the new politico-military province of Cavite, established also in 1614.<ref>Census Office of the Philippine Islands (1920). [https://books.google.com/books?id=BZ8wAQAAIAAJ&dq=cavite&pg=PA126 "Census of the Philippine Islands 1918, Vol I"], pg. 132. Bureau of Printing, Manila.</ref>  Like some other [[Provinces of the Philippines|provinces]] during the Spanish era, the province adopted the name of its capital town – e.g., [[Bulacan, Bulacan]] province; [[Tayabas]], Tayabas (today, [[Quezon province]]); [[Tarlac, Tarlac]] province; and [[Manila]], [[Manila province]].
+
+San Roque was founded as a separate town in 1614. In 1663, during the Spanish evacuation of [[Ternate, Indonesia]], the 200 families of mixed Mexican-Filipino-Spanish and Papuan-Indonesian-Portuguese descent who had ruled over the Christianized [[Sultanate of Ternate]], including their Christian-convert Sultan,<ref>{{cite book |author= Peter Borschberg |year= 2015 | title = ''Journal, Memorials and Letters of Cornelis Matelieff de Jonge. Security, Diplomacy and Commerce in 17th-Century Southeast Asia''|location= [[Singapore]] |publisher= NUS Press |pages= 82, 84, 126, 421|url= https://www.academia.edu/4302783 |access-date= August 30, 2015}}</ref> were relocated to the cities of [[Ternate, Cavite|Ternate (Cavite]] province), Ermita, Manila, and San Roque (Cavite province).<ref>Zamboangueño Chavacano: Philippine Spanish Creole or Filipinized Spanish Creole? By Tyron Judes D. Casumpang (Page 3)</ref> 
+
+In subsequent years, Latin-American soldiers from [[Mexican settlement in the Philippines|Mexico were deployed at Cavite]]: 70 soldiers in 1636; 89 in 1654; 225 in 1670; and 211 in 1672.<ref name="Mexicans">https://academic.oup.com/past/article/232/1/87/1752419 Convicts or Conquistadores? Spanish Soldiers in the Seventeenth-Century Pacific By Stephanie J. Mawson] AGI, México, leg. 25, núm. 62; AGI, Filipinas, leg. 8, ramo 3, núm. 50; leg. 10, ramo 1, núm. 6; leg. 22, ramo 1, núm. 1, fos. 408 r –428 v; núm. 21; leg. 32, núm. 30; leg. 285, núm. 1, fos. 30 r –41 v .</ref> 
+
+San Roque was later placed under the civil administration of Cavite until it was granted the right to be a separate and independent municipality in 1720. La Caridad, formerly known as La Estanzuela of San Roque, separated and was legally founded as a town in 1868. The Spanish Governor General Jose de la Gardana granted the petition of the people led by Don Justo Miranda to make Barrio La Estanzuela an independent town.
+
+====City of Churches====
+As the town grew, it developed a cosmopolitan reputation, and attracted various [[religious order]]s to set up churches, convents, and hospitals within the confines of the fortified city center. The [[Franciscan]] ''Hospital de San Jose'' (Saint Joseph Hospital) was built for sailors and soldiers in 1591. The San Diego de Alcala Convent was built in 1608, followed by the Convents of Porta Vaga (La Ermita), Our Lady of Loreto ([[Jesuit]]), San Juan de Dios ([[Order of St John of God|St. John of God]]), Santo Domingo ([[Dominican Order|Dominicans]]), Santa Monica ([[Recollects]]), and San Pedro, the port's parish church. The fortified town enclosed eight churches, the Jesuit college of San Ildefonso, public buildings and residences, all meant to serve the needs of its population of natives, soldiers and workers at the port, transients, and passengers aboard galleons.<ref name=muog1>Muog (January 28, 2008). [http://muog.wordpress.com/2008/01/28/el-puerto-de-cavite-ribera-de-cavite-%E2%80%A2-cavite-city/ "el puerto de cavite/ ribera de cavite • cavite city"]. Muog. Retrieved on 2014-10-29.</ref>
+
+During this period, the city was called "Tierra de Maria Santisima" (Land of Most Holy Mary) because of the popularity of the [[Marian devotion]].{{cn|date=June 2024}}  Plazas and parks abounded: Plaza de Armas (across from San Felipe Fort), Plaza de San Pedro (across from the church), Plaza Soledad (across from Porta Vaga), and Plaza del Reparo (bayside).
+
+====Manila-Acapulco Galleon Trade====
+[[File:Cavite City skyline 1899.jpg|thumb|left|The skyline of the old Port City of Cavite in 1899.]]
+The Port of Cavite ''(Puerto de Cavite)'' was linked to the history of world trade. Spanish galleons passed back and forth every July between [[Acapulco]] (Mexico) and Cavite. Galleons and other heavy ocean-going ships were not able to enter the Port of Manila along the [[Pasig River]] because of a sand bar that only allows light vessels to reach the river-port. For this reason, the Port of Cavite was regarded as the Port of Manila,<ref>Brewster, Sir David (1832). [https://books.google.com/books?id=OBAbAQAAMAAJ&dq=port+of+cavite&pg=PA529 "The Edinburgh Encyclopædia, Vol. 15 – Philippine Islands"]. Joseph and Edward Parker, Philadelphia – Google Books.</ref> the main seaport of the capital city.<ref name=galleon/>
+
+At the height of the [[Manila-Acapulco Galleon Trade]], the Port of Cavite was the arrival and departure port of the [[Spanish galleon]]s that brought many foreign travelers (mostly Spaniards and Latinos) to its shores.<ref>Galaup "Travel Accounts" page 375.</ref><ref>"Forced Migration in the Spanish Pacific World" By Eva Maria Mehl, page 235.</ref> The Port of Cavite was fondly called ''Ciudad de Oro Macizo'' meaning the "City of Solid Gold". The Chinese emperor once sent some of his men to the place they called ''Keit'' (Cavite) to search for gold.<ref name=keit>Blair and Robertson (1904). [https://books.google.com/books?id=4c7TAAAAMAAJ&q=keit&pg=PA104 "Philippine Islands 1493–1803, Vol. 12, 1601–1604"]. pg. 104. Arthu H. Clark Co., Cleveland, OH.</ref> Marilola Perez, in her 2015 Thesis "Cavite Chabacano Philippine Creole Spanish: Description and Typology", describes a large number of Mexicans settling in Cavite and spreading to Luzon, integrating into the local population and leading peasant revolts.<ref>(Page 10) {{cite thesis |type=PhD|last=Pérez|first=Marilola |date=2015|title=Cavite Chabacano Philippine Creole Spanish: Description and Typology|quote= "The galleon activities also attracted a great number of Mexican men that arrived from the Mexican Pacific coast as ships’ crewmembers (Grant 2009: 230). Mexicans were administrators, priests and soldiers (guachinangos or hombres de pueblo) (Bernal 1964: 188) many though, integrated into the peasant society, even becoming tulisanes ‘bandits’ who in the late 18th century “infested” Cavite and led peasant revolts (Medina 2002: 66). Meanwhile, in the Spanish garrisons, Spanish was used among administrators and priests. Nonetheless, there is not enough historical information on the social role of these men. In fact some of the few references point to a quick integration into the local society: “los hombres del pueblo, los soldados y marinos, anónimos, olvidados, absorbidos en su totalidad por la población Filipina.” (Bernal 1964: 188). In addition to the Manila-Acapulco galleon, a complex commercial maritime system circulated European and Asian commodities including slaves. During the 17th century, Portuguese vessels traded with the ports of Manila and Cavite, even after the prohibition of 1644 (Seijas 2008: 21). Crucially, the commercial activities included the smuggling and trade of slaves: “from the Moluccas, and Malacca, and India… with the monsoon winds” carrying “clove spice, cinnamon, and pepper and black slaves, and Kafir [slaves]” (Antonio de Morga cf Seijas 2008: 21).” Though there is no data on the numbers of slaves in Cavite, the numbers in Manila suggest a significant fraction of the population had been brought in as slaves by the Portuguese vessels. By 1621, slaves in Manila numbered 1,970 out of a population of 6,110. This influx of slaves continued until late in the 17th century; according to contemporary cargo records in 1690, 200 slaves departed from Malacca to Manila (Seijas 2008: 21). Different ethnicities were favored for different labor; Africans were brought to work on the agricultural production, and skilled slaves from India served as caulkers and carpenters. " |url=https://escholarship.org/uc/item/6xj6f1jt |publisher=University of California, Berkeley |archive-url=https://web.archive.org/web/20210114232555/https://escholarship.org/content/qt6xj6f1jt/qt6xj6f1jt_noSplash_fd187448d1120e8904337fe47b42df2a.pdf |archive-date=January 14, 2021}}</ref> Mexicans weren't the only Latin Americans in Cavite, as there were also a fair number of other Latin Americans. One of these was the [[Puerto Rico|Puerto Rican]] Alonso Ramirez, who became a sailor in Cavite, and published an influential early Latin American novel entitled "Infortunios de Alonso Ramirez"<ref>[https://www.jstor.org/stable/42632422?read-now=1&seq=6#page_scan_tab_contents The Philippines Glimpsed in the First Latin-American "Novel" By James S. Cummins]</ref>
+
+Between 1609 and 1616 the [[galleon]]s ''Espiritu Santo'' and ''San Miguel'' were constructed in the shipyard of the port, called the ''Astillero de Rivera'' (Rivera Shipyard of Cavite), sometimes spelled as ''Ribera''.<ref name=galleon>Fish, Shirley (2011). [https://books.google.com/books?id=kk_iU0f-iT8C&dq=port+of+cavite&pg=PA129 "The Manila-Acapulco Galleons: The Treasure Ships of the Pacific"]. pp. 129–130. AuthorHouse UK, Ltd – Google Books.</ref>
+
+====San Roque Isthmus====
+[[File:Cavite City - San Roque Causeway in 1899.jpg|thumb|The San Roque causeway connecting Cavite Nuevo to San Roque town (1899)]]
+The narrow San Roque [[isthmus]] or [[causeway]] (now M. Valentino Street) connected Cavite Puerto to San Roque, its only border town. Maps from the 17th century show that this narrow isthmus was once as wide as the town itself.<ref>[http://www.aenet.org/manila-expo/page24.htm "Philippines is Not Only Manila"]. Discovering Philippines. Retrieved on October 30, 2014.</ref>  Problems with rising water and the encroaching waves that plagued Cavite Puerto likely eroded the land into a narrow isthmus.<ref name=muog2>[http://muog.wordpress.com/2008/01/28/fueza-de-san-felipe-neri-%E2%80%A2-cavite-naval-station-cavite-city/ ""]. Muog. Retrieved on October 30, 2014.</ref>
+
+===American Invasion Era===
+[[File:Cavite 1941-10-27.jpg|thumb|The U.S naval base in 1941 before its destruction in 1945.]]
+Spain turned the port over to the Americans after the [[Treaty of Paris of 1898]]. At the start of the American era, Cavite Puerto became the seat of the U.S. Naval Forces in the Philippines. It was redesigned to make way for modern ships and armaments. The historical structures, like Fort Guadalupe, were demolished, along with most of Fort San Felipe.<ref name=muog1/>
+
+Local government administration was reorganized under the ''Presidentes municipales'' with the direct supervision of American army officers (the first being Colonel Meade). The first Filipino ''Presidentes municipales'' were appointed: Don Zacaria Fortich for Cavite Puerto, Don Francisco Basa for San Roque, and Don Pedro Raqueño Bautista for Caridad.
+
+In 1900, the Caviteños held their first election under the American regime. Each pueblo or town elected local officials'': Presidente municipal'', ''Vice-Presidente municipal'' and a ''Consejo'' (council) composed of ''Consejales'' (councilors). Don Gregorio Basa was elected as the ''Presidente Municipal'' of present-day Cavite City.
+
+In 1901, the Philippine Commission approved a municipal code as the organic law of all local governments throughout the country. In its implementation in 1903, the three separate pueblos of Cavite Puerto, San Roque, and La Caridad were merged into one [[municipality]], which was called the Municipality of Cavite. By virtue of a legislative act promulgated by the [[First Philippine Assembly]], Cavite was again made the capital of the province. Subsequently, its territory was enlarged to include the district of San Antonio and the island of [[Corregidor]]. The Municipality of Cavite functioned as a civil government whose officials consisted of a Presidente Municipal, a Vice-Presidente Municipal and ten Consejales duly elected by the qualified voters of the [[Municipalities of the Philippines|municipality]].
+
+In 1909, Executive Order No. 124, of Governor-General [[W. Cameron Forbes]], declared the Act No. 1748 annexing [[Corregidor]] and the islands of Caballo (Fort Hughes), La Monja, El Fraile (Fort Drum), Santa Amalia, Carabao (Fort Frank) and Limbones, as well as all waters and detached rocks surrounding them, to the Municipality of Cavite.
+
+====Cityhood====
+{{main|Cities of the Philippines}}
+Under the [[Commonwealth of the Philippines|Philippine Commonwealth]], Assemblyman Manuel S. Roxas sponsored Commonwealth Act No. 547, elevating Cavite's status to a chartered city. On September 7, 1940, the executive function of the city was vested in a City Mayor appointed by the President of the [[Commonwealth of the Philippines|Philippine Commonwealth]]. The legislative body of the City of Cavite was vested on a Municipal Board composed of three electives, two appointives, and two ex-officio [[councilors]], with the City Mayor as the presiding officer.
+
+===Japanese Occupation Era===
+[[File:Belfry of the Church of Santa Monica.jpg|thumb|left|The Spanish era belfry ruins of a former Augustinian Recollects, Church of Santa Monica build on 1616 after the city was heavily bombarded during [[World War II]] in 1945.]]
+On December 10, 1941, two days after an attack that had destroyed American air defenses at [[Clark Field]] and three days after the [[Japanese attack on Pearl Harbor]], Japanese Imperial Forces destroyed Cavite Naval Base and bombed Cavite City.
+
+Later, after Japan seized the Philippines, Japanese leaders appointed at least two City Mayors of Cavite City.
+
+The island of [[Corregidor]] played an important role during the [[Japanese invasion of the Philippines]]. The island was the site of two costly [[siege]]s and pitched battles—the first in early 1942, and the second in January, 1945—between the [[Imperial Japanese Army]] and the [[U.S. Army]], along with its smaller subsidiary force, the [[Philippine Army]].
+
+In 1945, during the fight to liberate the country from Japan, the US and Philippine Commonwealth militaries bombarded the Japanese forces stationed in the city, completely destroying the old historic port of Cavite. The old walls and the Porta Vaga Gate were damaged. Most of the structures were destroyed, but some of the church towers remained. The city was littered with bomb craters.<ref name=bomb>Tewell, John (January 29, 2011). [https://www.flickr.com/photos/johntewell/5396941653/in/set-72157625790065191/ "Cavite, Luzon Island, Philippines 1945"]. Flickr. Retrieved on 2014-10-20.</ref>
+
+After the war, the city's local administration resumed operations. The walls, gates, and ruins of the old city were later removed. Only the bell tower of the Church of Santa Monica of the Augustinian Recollects and the two [[bastion]]s of Fort San Felipe remain from the old city.
+
+===Transfer of Provincial Capital===
+Republic Act No. 981, passed by the [[Congress of the Philippines]] in 1954, transferred the capital of the province from Cavite City to the newly established [[Trece Martires]]. Subsequently, the city charter was amended. By virtue of an amendment to the charter of Cavite City, the City Mayor, City Vice Mayor and eight councilors were elected by popular vote. The first election of city officials in this way was held in 1963.
+
+===During the Marcos Dictatorship===
+{{main|Marcos dictatorship}}
+The Philippines' gradual postwar recovery took a turn for the worse in the late 1960s and early 1970s, with the [[1969 Philippine balance of payments crisis]] being an early landmark event.<ref name=Balbosas1992>{{Cite journal |last=Balbosa |first=Joven Zamoras |date=1992 |title=IMF Stabilization Program and Economic Growth: The Case of the Philippines |journal=Journal of Philippine Development |volume=XIX |issue=35 |url=https://dirp4.pids.gov.ph/ris/pjd/pidsjpd92-2imf.pdf |access-date=May 4, 2023 |archive-date=September 21, 2021 |archive-url=https://web.archive.org/web/20210921141056/https://dirp4.pids.gov.ph/ris/pjd/pidsjpd92-2imf.pdf |url-status=dead }}</ref> Economic analysts generally attribute the crisis to the ramp-up on loan-funded government spending to promote [[Ferdinand Marcos’ 1969 reelection campaign]].<ref name=Balbosas1992/><ref name="Balisacan&Hill2003">{{Cite book |url=https://books.google.com/books?id=O_L9k58WM9UC&q=The+Philippine+economy+under+Marcos:+A+balance+sheet |title=The Philippine Economy: Development, Policies, and Challenges |last1=Balisacan |first1=A. M. |last2=Hill |first2=Hal |date=2003 |publisher=Oxford University Press |isbn=9780195158984 |language=en}}</ref><ref name="Cororaton1997">{{Cite journal |last=Cororaton |first=Cesar B.  |title=Exchange Rate Movements in the Philippines |journal=DPIDS Discussion Paper Series 97-05 |pages=3, 19}}</ref><ref name="Kessler1989">{{Cite book |url=https://archive.org/details/rebellionrepress0000kess |title=Rebellion and repression in the Philippines |last=Kessler |first=Richard J. |date=1989 |publisher=Yale University Press |isbn=0300044062 |location=New Haven |oclc=19266663 |url-access=registration }}</ref><ref name="Celoza1997">{{Cite book|url=https://books.google.com/books?id=Sp3U1oCNKlgC|title=Ferdinand Marcos and the Philippines: The Political Economy of Authoritarianism|last=Celoza|first=Albert F.|date=1997|publisher=Greenwood Publishing Group|isbn=9780275941376|language=en}}</ref><ref>{{Cite book |url=https://archive.org/details/philippinesreade00schi |title=The Philippines reader : a history of colonialism, neocolonialism, dictatorship, and resistance |last=Schirmer |first=Daniel B. |date=1987 |publisher=South End Press |isbn=0896082768 |edition=1st |location=Boston |oclc=14214735 }}</ref> In 1972, one year before the expected end of his last constitutionally allowed term as president, Ferdinand Marcos placed the Philippines Martial Law.<ref name ="Kasaysayan9ch10">{{Cite book |title=Kasaysayan, The Story of the Filipino People Volume 9:A Nation Reborn. |publisher=Asia Publishing Company Limited |year=1998 |editor-last=Magno |editor-first=Alexander R. |location=Hong Kong |chapter=Democracy at the Crossroads}}</ref> This allowed Marcos to remain in power for fourteen more years, during which Cavite endured many social and economic obstacles.<ref name ="Kasaysayan9ch10"/> It was around the time Martial Law was declared, in 1972, that Mayor Manuel S. Rojas was assassinated in the nearby town of Bacoor, Cavite.<ref>{{Cite web|url=https://www.lawphil.net/judjuris/juri1981/feb1981/gr_41537_8_1981.html|title=THE PEOPLE OF THE PHILIPPINES vs. JACINTO REYES y RAMIREZ and OSCAR SABATER|website=The LawPhil Project|access-date=April 18, 2018|archive-date=April 18, 2018|archive-url=https://web.archive.org/web/20180418232028/https://www.lawphil.net/judjuris/juri1981/feb1981/gr_41537_8_1981.html|url-status=dead}}</ref>
+
+The [[Human rights abuses of the Marcos dictatorship|human rights abuses]], [[Cronies of Ferdinand Marcos|crony capitalism]], [[edifice complex|propagandistic construction projects]], and [[Unexplained wealth of the Marcos family|personal expensive lifestyles]] of the Marcos Family<ref name ="Kasaysayan9ch10"/> prompted opposition from various Filipino citizens despite the risks of arrest and [[Torture methods used by the Marcos dictatorship|torture]].<ref>{{cite news | url=https://www.bbc.com/news/world-asia-63056898 | title=Philippines martial law: The fight to remember a decade of arrests and torture | work=BBC News | date=September 28, 2022 }}</ref>
+
+One of the more prominent victims of Martial Law was Cavite City resident and University of the Philippines student leader Emmanuel Alvarez. Alvarez, a descendant of Katipunan General Pascual Alvarez, became one of the ''desaparecidos'' of [[Martial law under Ferdinand Marcos]] when he was accosted by two men believed to be military personnel while commuting from his home in Cavite City on January 6, 1976, and never seen again.<ref name="BantayogFoundationProfileAlvarez">{{cite web | url=https://bantayog.foundation/alvarez-emmanuel-i | title=ALVAREZ, Emmanuel I }}</ref>  He has formally been honored as a hero of Philippine democracy, having had his name etched on the wall of remembrance of the Philippines' [[Bantayog ng mga Bayani]].<ref name="BantayogFoundationProfileAlvarez"/>
+
+===Reclamation===
+[[File:Samonte Park (San Roque, Cavite City)(2017-04-03) 1.jpg|thumb|Samonte Park.]]
+In the latter part of the 1960s and early 1970s, the land adjacent to the San Roque isthmus was [[reclaimed]].  The new land is now occupied by the [[San Sebastian College – Recoletos de Cavite]] and some residential homes. The present Cavite City Hall is built where the north tower of the old western wall once stood, which was already partly reclaimed by 1945.<ref name=bomb/>
+
+Half of the old port city, including Fort San Felipe, is now occupied by [[Naval Base Cavite]] and is closed to the public.  The old historic core of Cavite is now part of the San Roque district, and is referred to today as either Fort San Felipe or Porta Vaga.<ref name=about/>  The former location of the Porta Vaga Gate, the western wall, and its towers is now occupied by the Governor Samonte Park.
+
+==Geography==
+[[File:Cavite Boulevard sketch by Burnham.jpg|thumb|upright|left|Cavite City and peninsula (lower left) in relation to the City of Manila (upper middle).]]
+Cavite City occupies most of the hook-shaped [[Cavite Peninsula]] that juts into [[Manila Bay]]. The peninsula is lined by [[Bacoor Bay]] to the southeast. The peninsula ends in two tips – Sangley Point and Cavite Point. [[Cañacao Bay]] is the body of water formed between the points. Cavite Point was the location of the old historic Port of Cavite.  Both Bacoor and Cañacao Bays are inland bays within the larger Manila Bay. The city's only land border is with the Municipality of [[Noveleta]] to the south.
+
+The city is the northernmost settlement in the Province of Cavite, which lies southwest from [[Manila]] with a direct distance of about {{convert|11|km|sp=us}} but about {{convert|35|km|sp=us}} overland/by road. Sangley Point, the former location of the [[United States]] [[Sangley Point Naval Base]], is the northernmost point of the city, peninsula and province. The former American military naval base has since been converted into a [[Armed Forces of the Philippines|Philippine military]] base.
+
+The historic island of [[Corregidor Island|Corregidor]], the adjacent islands and detached rocks of [[Caballo Island|Caballo]], [[Fort Frank|Carabao]], [[Fort Drum (El Fraile Island)|El Fraile]] and [[La Monja Island|La Monja]] found at the mouth of Manila Bay are part of the city's territorial jurisdiction.
+
+===Climate===
+Cavite City has a [[tropical savanna climate|tropical wet and dry climate]] ([[Köppen climate classification]] Aw), with a pronounced dry season from December to April, and a lengthy wet season from May to November that brings abundant rainfall into the city.
+{{Weather box
+| location = Cavite City ([[Danilo Atienza Air Base]]) 1991–2020, extremes 1974–2023
+| metric first = yes
+| single line  = Yes
+| Jan record high C = 34.8
+| Feb record high C = 35.2
+| Mar record high C = 36.6
+| Apr record high C = 37.8
+| May record high C = 38.5
+| Jun record high C = 38.4
+| Jul record high C = 36.4
+| Aug record high C = 36.5
+| Sep record high C = 35.6
+| Oct record high C = 35.8
+| Nov record high C = 36.4
+| Dec record high C = 34.0
+|year record high C = 38.5
+| Jan high C = 30.3
+| Feb high C = 31.1
+| Mar high C = 32.5
+| Apr high C = 34.3
+| May high C = 34.1
+| Jun high C = 33.1
+| Jul high C = 31.8
+| Aug high C = 31.4
+| Sep high C = 31.6
+| Oct high C = 31.8
+| Nov high C = 31.5
+| Dec high C = 30.5
+|year high C = 32.0
+| Jan mean C = 27.3
+| Feb mean C = 27.8
+| Mar mean C = 29.0
+| Apr mean C = 30.5
+| May mean C = 30.7
+| Jun mean C = 29.9
+| Jul mean C = 28.9
+| Aug mean C = 28.7
+| Sep mean C = 28.7
+| Oct mean C = 29.0
+| Nov mean C = 28.7
+| Dec mean C = 27.7
+|year mean C = 28.9
+| Jan low C = 24.3
+| Feb low C = 24.5
+| Mar low C = 25.5
+| Apr low C = 26.8
+| May low C = 27.2
+| Jun low C = 26.7
+| Jul low C = 26.1
+| Aug low C = 25.9
+| Sep low C = 25.9
+| Oct low C = 26.1
+| Nov low C = 25.8
+| Dec low C = 25.0
+|year low C = 25.8
+| Jan record low C = 19.0
+| Feb record low C = 18.0
+| Mar record low C = 19.1
+| Apr record low C = 21.5
+| May record low C = 22.0
+| Jun record low C = 22.0
+| Jul record low C = 21.2
+| Aug record low C = 22.0
+| Sep record low C = 21.0
+| Oct record low C = 21.0
+| Nov record low C = 21.5
+| Dec record low C = 20.0
+|year record low C = 18.0
+| rain colour = green
+| Jan rain mm = 19.9
+| Feb rain mm = 20.4
+| Mar rain mm = 19.1
+| Apr rain mm = 17.7
+| May rain mm = 149.9
+| Jun rain mm = 260.4
+| Jul rain mm = 456.5
+| Aug rain mm = 514.3
+| Sep rain mm = 385.5
+| Oct rain mm = 196.9
+| Nov rain mm = 109.1
+| Dec rain mm = 91.6
+|year rain mm = 2241.3
+| unit rain days = 1 mm
+| Jan rain days = 3
+| Feb rain days = 3
+| Mar rain days = 3
+| Apr rain days = 2
+| May rain days = 8
+| Jun rain days = 13
+| Jul rain days = 18
+| Aug rain days = 19
+| Sep rain days = 17
+| Oct rain days = 12
+| Nov rain days = 9
+| Dec rain days = 7
+|year rain days = 114
+| Jan humidity = 79
+| Feb humidity = 77
+| Mar humidity = 75
+| Apr humidity = 73
+| May humidity = 76
+| Jun humidity = 80
+| Jul humidity = 83
+| Aug humidity = 84
+| Sep humidity = 84
+| Oct humidity = 81
+| Nov humidity = 80
+| Dec humidity = 80
+|year humidity = 79
+| source 1 = [[Philippine Atmospheric, Geophysical and Astronomical Services Administration|PAGASA]]<ref name=PAGASAnormals>
+{{cite web
+| archive-url = https://web.archive.org/web/20181018190624/https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20NORMALS%20%281991-2020%29/SANGLEY%20POINT.pdf
+| archive-date = October 18, 2018
+| url = https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20NORMALS%20%281991-2020%29/SANGLEY%20POINT.pdf
+| title = Sangley Point Cavite Climatological Normal Values
+| publisher = Philippine Atmospheric, Geophysical and Astronomical Services Administration
+| access-date = October 18, 2018}}</ref><ref name=PAGASAextremes>
+{{cite web
+| archive-url = https://web.archive.org/web/20181018190705/https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20EXTREMES%20%28as%20of%202023%29/Sangley.pdf
+| archive-date = October 18, 2018
+| url = https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20EXTREMES%20%28as%20of%202023%29/Sangley.pdf
+| title = Sangley Point Cavite Climatological Extremes
+| publisher = Philippine Atmospheric, Geophysical and Astronomical Services Administration
+| access-date = October 18, 2018}}</ref>
+}}
+
+===Subdivisions===
+The city proper is divided into five districts: Dalahican, Santa Cruz, Caridad, San Antonio, and San Roque. These districts are further subdivided into eight zones and a total of 84 [[barangay]]s.
+
+===Barangays===
+[[File:Cavity City map.jpg|thumb|Map showing the constituent barangays of Cavite City.]]
+Cavite City is politically subdivided into 84 [[barangay]]s.<ref name="psgc">{{Cite web |url=http://nap.psa.gov.ph/activestats/psgc/municipality.asp?muncode=042105000&regcode=04&provcode=21# |title=Philippine Standard Geographic Code listing for Cavite City |access-date=January 11, 2017 |archive-url=https://web.archive.org/web/20170813184253/http://nap.psa.gov.ph/activestats/psgc/municipality.asp?muncode=042105000&regcode=04&provcode=21# |archive-date=August 13, 2017 |url-status=dead }}</ref> Each barangay consists of [[purok]]s and some have [[sitios]].
+{{Div col|colwidth=15em}}
+* Barangay 1 (Hen. M. Alvarez)
+* Barangay 2 (Hen. C. Tirona)
+* Barangay 3 (Hen. E. Aguinaldo)
+* Barangay 4 (Hen. M. Trias)
+* Barangay 5 (Hen. E. Evangelista)
+* Barangay 6 (Diego Silang)
+* Barangay 7 (Kapitan Kong)
+* Barangay 8 (Manuel S. Rojas)
+* Barangay 9 (Kanaway)
+* Barangay 10-M (Kingfisher)
+* Barangay 10-A (Kingfisher A)
+* Barangay 10-B (Kingfisher B)
+* Barangay 11 (Lawin)
+* Barangay 12 (Love Bird)
+* Barangay 13 (Aguila)
+* Barangay 14 (Loro)
+* Barangay 15 (Kilyawan)
+* Barangay 16 (Martines)
+* Barangay 17 (Kalapati)
+* Barangay 18 (Maya/Pisces)
+* Barangay 19 (Gemini)
+* Barangay 20 (Virgo)
+* Barangay 21 (Scorpio)
+* Barangay 22 (Leo)
+* Barangay 22-A (Leo A)
+* Barangay 23 (Aquarius)
+* Barangay 24 (Libra)
+* Barangay 25 (Capricorn)
+* Barangay 26 (Cancer)
+* Barangay 27 (Sagittarius)
+* Barangay 28 (Taurus)
+* Barangay 29 (Lao-lao/Aries)
+* Barangay 29-A (Lao-lao A/Aries A)
+* Barangay 30 (Bid-bid)
+* Barangay 31 (Maya-maya)
+* Barangay 32 (Salay-salay)
+* Barangay 33 (Buan-buan)
+* Barangay 34 (Lapu-lapu)
+* Barangay 35 (Hasa-hasa)
+* Barangay 36 (Sap-Sap)
+* Barangay 36-A (Sap-sap A)
+* Barangay 37-M (Cadena de Amor)
+* Barangay 37-A (Cadena de Amor A)
+* Barangay 38 (Sampaguita)
+* Barangay 38-A (Sampaguita A)
+* Barangay 39 (Jasmin)
+* Barangay 40 (Gumamela)
+* Barangay 41 (Rosal)
+* Barangay 42 (Pinagbuklod)
+* Barangay 42-A (Pinagbuklod A)
+* Barangay 42-B (Pinagbuklod B)
+* Barangay 42-C (Pinagbuklod C)
+* Barangay 43 (Pinagpala)
+* Barangay 44 (Maligaya)
+* Barangay 45 (Kaunlaran)
+* Barangay 45-A (Kaunlaran A)
+* Barangay 46 (Sinagtala)
+* Barangay 47 (Pagkakaisa)
+* Barangay 47-A (Pagkakaisa A)
+* Barangay 47-B (Pagkakaisa B)
+* Barangay 48 (Narra)
+* Barangay 48-A (Narra A)
+* Barangay 49 (Akasya)
+* Barangay 49-A (Akasya A)
+* Barangay 50 (Kabalyero)
+* Barangay 51 (Kamagong)
+* Barangay 52 (Ipil)
+* Barangay 53 (Yakal)
+* Barangay 53-A (Yakal A)Air Force
+* Barangay 53-B (Yakal B)Navy
+* Barangay 54-A (Pechay A)
+* Barangay 54-M (Pechay)
+* Barangay 55 (Ampalaya)
+* Barangay 56 (Labanos)
+* Barangay 57 (Repolyo)
+* Barangay 58 (Patola)
+* Barangay 58-A (Patola A)
+* Barangay 59 (Sitaw)
+* Barangay 60 (Letsugas)
+* Barangay 61 (Talong; Poblacion)
+* Barangay 61-A (Talong A; Poblacion)
+* Barangay 62 (Kangkong; Poblacion)
+* Barangay 62-A (Kangkong A; Poblacion)
+* Barangay 62-B (Kangkong B; Poblacion)
+{{div col end}}
+
+==Demographics==
+{{Philippine Census
+| align= right
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+According to the 2020 census, the city has a population of 100,674 people,{{PH census|current}} with a density of {{convert|{{sigfig|100,674/10.89|2}}|PD/km2|disp=or|sp=us}}.
+
+===Religion===
+[[File:2016 Official Portrait of Our Lady of Solitude of Porta Vaga.jpg|thumb|left|[[Our Lady of Porta Vaga|Nuestra Señora de la Soledad de Porta Vaga]], Patroness of Cavite City.]]
+According to 2000 census data, Christianity is the most prevalent religion in Cavite City, and a majority of Caviteños practice Roman Catholicism. Other Christian religious groups in the city include the [[Aglipayan Church]], [[Iglesia ni Cristo]] (I.N.C), [[Jehovah's Witnesses]], [[United Church of Christ in the Philippines]] (UCCP), [[Jesus Is Lord Church]] (JIL), The [[United Methodist Church]], [[Presbyterian Church]]es, [[Baptists]] and Bible Fundamental churches, [[Seventh-day Adventist Church]], [[Members Church of God International]] or [[Ang Dating Daan]], [[The Church of Jesus Christ of Latter Day Saints]], and other UPC churches. A Muslim minority is also present in the city.<ref>{{Cite web|url=https://psa.gov.ph/sites/default/files/CAVITE.pdf|title=2000 Census of Population and Housing - Cavite|date=January 2003|website=Philippine Statistics Authority|access-date=November 11, 2018}}</ref>
+
+==== Nuestra Señora de la Soledad de Porta Vaga ====
+{{Main|Our Lady of Porta Vaga}}The [[Nuestra Señora de la Soledad de Porta Vaga]] (Our Lady of Solitude of Porta Vaga) is viewed as the patroness of Cavite City. She is revered by Catholics as the Celestial Guardian and Protector of the Province of [[Cavite]] since her arrival. The image of Our Lady of Porta Vaga is designated as a National Cultural Treasure<ref>{{cite news |last1=Hermoso |first1=Christina |title=Our Lady Soledad de Porta Vaga replica image on display at Radio Veritas |url=https://mb.com.ph/2023/8/8/our-lady-soledad-de-porta-vaga-replica-image-on-display-at-radio-veritas |access-date=6 February 2024 |work=Manila Bulletin |date=8 August 2023 |archive-url=https://web.archive.org/web/20231130234104/https://mb.com.ph/2023/8/8/our-lady-soledad-de-porta-vaga-replica-image-on-display-at-radio-veritas |archive-date=30 November 2023}}</ref> by the National Museum. It is the oldest existing [[Virgin Mary|Marian]] painting in the Philippines.
+
+[[File:Porta Vaga Church, Cavite City in 1899.jpg|thumb|The ''Ermita de Porta Vaga'' or Porta Vaga Church, one of the churches in Cavite Puerto, where Our Lady of Solitude was enshrined with the western wall, visible to the left of the building.]]
+The image of the virgin is painted on a canvas. Mary, clothed in black and white like a lady in mourning, kneels as she contemplates the passion of her son. Before her are the crown of thorns and the nails used during the Crucifixion. An inscription was found on the back of the painting – ''A doze de Abril 1692 años Juan Oliba puso esta Stma. Ymagen Haqui'', which means, "The sacred image was placed here by Juan Oliba on April 12, 1692". This particular icon was used to bless the galleons sailing between Cavite and Acapulco (Mexico) during formal sending off ceremonies, and was also called the Patroness of the Galleons.
+
+The image was originally enshrined at the ''Ermita de Porta Vaga'', a small church adjacent to the Porta Vaga Gate, which was destroyed during World War II. The image is presently enshrined at the San Roque Parish Church, one of the three parishes in the city.
+
+===Languages===
+[[Chabacano]] is a Spanish-influenced [[creole language]] formerly spoken by majority of the people living in the city. Chabacano emerged sometime after the arrival of the first Spaniards and Mexicans in the late 16th century. During this period, the people that lived near the military arsenal in Cavite City communicated with Spaniards and Mexicans and began to incorporate Spanish words into their dialect. Today, a majority of residents speak [[Tagalog language|Tagalog]].
+
+Today, Chabacano is generally considered to be dying, with only a fraction of people, mostly elderly, able to speak the language. According to the Philippine professor Alfredo B. German, who wrote a thesis on the grammar of Chabacano, the present conditions do not encourage people to learn the dialect. There are many likely reasons for the diminishing of Chabacano, such as the influx of [[Tagalog language|Tagalog]]-speaking migrants and intermarriage.
+
+Philippine writer and poet Jesus Balmori expressed himself in Chabacano, and wrote several verses in it. Don Jaime de Veyra, writer and famous Philippine historian, wrote the following lines: "I am afraid that the inevitable absorption of the 'Tagalog invasion' on one side and the 'invasion of the English' on the other hand, will wipe out or extinguish this inherited Castilian language in existence with its last representatives in the following generation." Professor Gervacio Miranda, who also wrote a book in Chabacano, said in his preface: "My only objective to write this book is to possibly conserve in written form the Chabacano of [[Cavite]] for posterity," fearing the extinction of the dialect.
+
+== Economy ==
+{{PH poverty incidence}}
+
+== Culture ==
+
+=== Festivals and events ===
+[[File:San Juan Bautista de Cavite.jpg|thumb|left|The Original Venerated Image of [[John the Baptist|San Juan Bautista de Cavite]] the true center of the annual [[Regada Festival]].]]
+The city is home to the Annual Cavite City Water Festival or [[Regada Festival|Regada]], held from the 17th to the 24th of June. It is a festive and religious celebration of the feast of St. John the Baptist. Regada started in 1996, and features the ''Paulan'' or ''Basayawan'', which is a street party where celebrators dance under water sprinklers.<ref>{{Cite web|url=http://cavite.gov.ph/home/regada-festival/|title=Regada Festival|website=The Official Website of the Province of Cavite|date=February 27, 2017 |access-date=July 24, 2018}}</ref><ref>{{Cite news|work=Philippine News Agency|url=http://www.pna.gov.ph/articles/1039362|title=Cavite folks water party on St. John the Baptist feast day|access-date=July 24, 2018|language=en}}</ref> Another celebration is the Feast for Our Lady of Solitude of Porta Vaga, which is annually observed by local Catholics during every second Sunday of November.<ref>{{Cite news|newspaper=Philippine Daily Inquirer|url=http://lifestyle.inquirer.net/130973/asian-catholics-coming-to-manila-for-cardinal-tagles-new-evangelization-confab-at-ust-cavite-to-hold-soledad-fiesta/|title=Asian Catholics coming to Manila for Cardinal Tagle's new evangelization confab at UST; Cavite to hold 'Soledad' fiesta|last=Darang|first=Josephine|access-date=November 11, 2018|language=en}}</ref>
+
+Other notable holidays include the observance of Julián Felipe's birthday (January 28). Felipe, who composed the Philippine National Anthem, was born and raised in Cavite City.<ref>{{Cite news|url=https://www.philstar.com/opinion/2008/06/05/66012/birth-philippine-national-anthem|title=The birth of the Philippine National Anthem|work=The Philippine Star|access-date=November 11, 2018}}</ref><ref>{{Cite news|url=https://kahimyang.com/kauswagan/articles/903/today-in-philippine-history-january-28-1861-julian-felipe-born-in-cavite-city-cavite|title=Julian Felipe was born in Cavite City January 28, 1861|work=The Kahimyang Project|access-date=November 11, 2018}}</ref> The city's Charter Day, known locally as simply Cavite City Day, which commemorates the signing of the city charter in 1940, is held every September 7.<ref>{{Cite news|url=https://news.abs-cbn.com/news/11/15/18/list-duterte-oks-more-holidays-around-ph|title=LIST: Duterte OKs more holidays around PH|first=Dharel |last=Placido|work=ABS-CBN News|access-date=November 15, 2018|language=en-US}}</ref><ref>{{Cite news|work=Philippine News Agency|url=http://www.pna.gov.ph/articles/1047133|title=Palace declares Sept. 7 non-working holiday in Cavite City|access-date=November 11, 2018|language=en}}</ref>
+
+=== Cuisine ===
+Food in Cavite City is influenced by its Spanish heritage combined with Filipino tradition. One popular native dish is bacalao (sauteed [[cod]]fish), which is served during the Lenten season. A variation of ''[[bibingka]]'' locally known as ''bibingkang samala'' can also be found in the city. This delicacy is made of glutinous rice (''malagkit''), coconut milk and sugar.<ref>{{Cite news|url=http://cnnphilippines.com/life/leisure/food/2018/07/17/cavite-food-crawl.html|title=Cavite cuisine is waiting to be discovered|work=CNN Philippines|access-date=November 11, 2018|language=en|archive-date=November 11, 2018|archive-url=https://web.archive.org/web/20181111133903/http://cnnphilippines.com/life/leisure/food/2018/07/17/cavite-food-crawl.html|url-status=dead}}</ref>
+
+== Infrastructure ==
+
+=== Transportation ===
+The only road connecting Cavite City to the rest of Luzon is the [[N62 highway (Philippines)|National Route 62]], which begins at P. Burgos Avenue in Caridad district and continues towards Noveleta as the Manila–Cavite Road (not to be confused with [[Manila–Cavite Expressway|Manila-Cavite Expressway]]).<ref>{{Cite web|url=https://www.google.com/maps/place/Cavite+City,+Cavite/@14.4607877,120.8809832,14.25z/data=!4m5!3m4!1s0x3397cd358110cca3:0x56e04bd8747014a4!8m2!3d14.4791297!4d120.8969634|title=Google Maps|website=Google Maps|access-date=April 9, 2018}}</ref> A proposal to construct an expressway from Kawit to Cavite City via Bacoor Bay has been raised to the Department of Public Works and Highways (DPWH). When realized, the expressway would serve as a link to [[Manila–Cavite Expressway|Manila-Cavite Expressway]] (CAVITEx).<ref>{{Cite news|url=https://www.rappler.com/business/157351-mvp-metro-pacific-proposal-sangley-cavitex-expressway|title=MVP's Metro Pacific proposes Sangley-Cavitex expressway|work=Rappler|access-date=July 23, 2018|language=en}}</ref><ref>{{Cite web|url=http://thestandard.com.ph/business/biz-plus/243779/mpic-proposes-cavitex-sangley-expressway.html|title=MPIC proposes Cavitex-Sangley expressway|date=August 6, 2017|website=Manila Standard|access-date=July 23, 2018|archive-date=July 19, 2018|archive-url=https://web.archive.org/web/20180719084205/http://thestandard.com.ph/business/biz-plus/243779/mpic-proposes-cavitex-sangley-expressway.html|url-status=dead}}</ref>
+
+Cavite City has one airport, [[Danilo Atienza Air Base]],<ref>{{Cite web|url=https://centreforaviation.com/data/profiles/airports/manila-sangley-point-danilo-atienza-air-base-sgl|title=Manila-Sangley Point Danilo Atienza Air Base Profile {{!}} CAPA|website=centreforaviation.com|language=en|access-date=July 22, 2018}}</ref> located at Sangley Point. The airport is operated by the [[Philippine Air Force]]. It was formerly a US Naval Base, called Naval Station Sangley Point, until it was turned over to the Philippine government in 1971.<ref>{{Cite web|url=https://www.paf.mil.ph/aboutus/bases/mdaab.html|title=Philippine Air Force: Official Website|website=www.paf.mil.ph|access-date=July 22, 2018|archive-url=https://web.archive.org/web/20171226130346/https://www.paf.mil.ph/aboutus/bases/mdaab.html|archive-date=December 26, 2017|url-status=dead}}</ref> There are proposals to convert the base into a civilian airport, as a solution to the overcrowding of [[Ninoy Aquino International Airport]].<ref>{{Cite news|url=https://businessmirror.com.ph/airports-plan-in-full-swing-but-new-international-gateway-uncertain/|title=Airports plan in full swing, but new international gateway uncertain|work=BusinessMirror|access-date=July 22, 2018|language=en-US}}</ref><ref>{{Cite news|newspaper=Philippine Daily Inquirer|url=http://business.inquirer.net/250052/cavite-lgu-pushes-9-3-b-sangley-airport-project|title=Cavite LGU pushes $9.3-B Sangley airport project|last=Camus|first=Miguel R.|access-date=July 22, 2018|language=en}}</ref>
+
+As of 2019, no active water-based public transportation services were based in Cavite City.<ref>{{Cite news|newspaper=Philippine Daily Inquirer|url=http://opinion.inquirer.net/74112/lets-use-more-ferryboats-and-trains|title=Let's use more ferryboats and trains|last=Cruz|first=Neal H.|access-date=July 22, 2018|language=en}}</ref> Metrostar Ferry, which began operations in 2007, used to serve trips from San Roque district to [[Pasay]], Metro Manila.<ref>{{Cite web|url=http://www.smprime.com/ferry-cavite-mall-asia-pasay-45-mins|title=SM Prime Holdings {{!}}|website=www.smprime.com|language=en|access-date=July 22, 2018|archive-url=https://web.archive.org/web/20160611010718/http://www.smprime.com/ferry-cavite-mall-asia-pasay-45-mins|archive-date=June 11, 2016|url-status=dead}}</ref><ref>{{Cite web|url=https://news.google.com/newspapers?nid=2518&dat=20080713&id=QE5aAAAAIBAJ&sjid=DCgMAAAAIBAJ&pg=591,10693670&hl=en|title=The Manila Times – Google News Archive Search|website=news.google.com|access-date=July 22, 2018}}</ref> A new service from the Intramuros district of Manila to the nearby town of Noveleta to the south debuted in January 2018 and is currently the nearest water-based transport to the city.
+
+=== Utilities ===
+Water services are currently provided by [[Maynilad Water Services|Maynilad]].<ref>{{Cite news|url=http://www.manilatimes.net/maynilad-offers-free-septic-tank-cleaning-2/360561/|title=Maynilad offers free septic tank cleaning|date=November 4, 2017|work=The Manila Times|access-date=July 22, 2018}}</ref><ref>{{Cite news|newspaper=Philippine Daily Inquirer|url=http://newsinfo.inquirer.net/973299/leak-repaired-but-still-no-water-supply-in-southern-ncr-cavite-maynilad|title=Leak repaired but still no water supply in southern NCR, Cavite – Maynilad|last=Cabalza|first=Dexter|access-date=July 22, 2018|language=en}}</ref> Electric services are currently provided by [[Meralco]].
+
+==Symbols==
+
+===Flag===
+The flag of the city was created by Mayor Timoteo O. Encarnacion Jr., and was adopted by the [[City Council|Sangguniang Panlungsod]] through Resolution No. 95-081 dated September 6, 1995, in time for the 55th Cavite City Charter Day.  The meaning and significance of the flag components are:
+* The two red strips symbolize courage and bravery.
+* The middle green strip symbolizes progress and advancement
+* The half sun has a twofold meaning. If it is the rising sun, it means hope, dreams, and visions for progress. If it is a setting sun, it stands for the sunset that can be seen from the city's western shores.
+* The five yellow stars symbolize the five districts of Cavite City.
+* The three sets of waves below the half sun, in three colors of navy blue, light blue and white, signify that Cavite City is a peninsula surrounded by water, while the three colors represent Cañacao Bay, Bacoor Bay, and Manila Bay.
+
+===Seal===
+The current seal of the city was designed by Mayor Timoteo O. Encarnacion, Jr. It was adopted by the [[City Council|Sangguniang Panlungsod]] through Resolution No. 140-90, then approved by the Local Executive on September 7, 1990. On November 3, 1993, the [[National Historical Institute]] and the president, through the [[Department of the Interior and Local Government]], issued a Certificate of Registration recognizing the new seal.
+
+The shield stands for bravery and fortitude. The colors red, white, blue, yellow stand for the loyalty of the people to its government. The inclusion of the rays portrays the role of Cavite as one of the original provinces that rose up in arms against Spanish domination in 1896 in the [[Philippine Revolution]].<ref name=about/>
+
+The white triangle inscribed within the shield with the letters KKK at the corners represents the part played by The city in the organization of the [[Katipunan]]. Don [[Ladislao Diwa]] of the city was one of the triumvirate who organized the patriotic group. Many [[Katipuneros]] came from the city.
+
+Within the white triangle are symbols representing various events:
+* At the bottom of the triangle is a fort with figures "1872" symbolizing the [[Cavite mutiny of 1872]] at the Cavite Arsenal.
+* At the background is a map of the city including the island of [[Corregidor]] representing the role of the island in the city's history.
+* The [[obelisk]] at the left memorializes the [[Thirteen Martyrs of Cavite]] who were executed by the Spaniards on September 12, 1896.
+* The sheet music at the right symbolizes [[Julián Felipe]], composer of the [[Lupang Hinirang|Philippine National Anthem]] who was from the city.
+* The fort symbol represents the Royal Fort of San Felipe and its role in the city and country's history, being the place where the "thirteen martyrs of Cavite" were detained and where the [[Cavite mutiny of 1872]] took place.
+* The scroll on the uppermost portion of the triangle contains the City motto "Para Dios y Patria" ("For God and Country") in the [[Chabacano]] dialect to emphasize the native dialect of the city.
+* The green laurel leaf encircling the right and left portions of the KKK triangle symbolizes victories by reason.<ref name=about/>
+
+==Education==
+{{main category|Schools in Cavite City}}
+
+==Notable personalities==
+<!--♦♦♦ NOTE: Only add people who has Wikipedia article as pero WP notability. ♦♦♦-->
+<!---♦♦♦ Please keep the list in alphabetical order by LAST NAME ♦♦♦--->
+{{div col}}
+*[[Nash Aguas]]
+*Herminia Victoriano y Amador
+*Eliodoro Ballesteros
+*[[Roman Basa]]
+*Elpidia E. Bonanza
+*Purificacion Borromeo
+*[[Ladislao Diwa]]
+*Roman Faustino
+*[[Julián Felipe]]
+*Glaiza Heradura
+*[[Joel Lamangan]]
+*[[Celeste Legaspi]]
+*[[Mona Lisa (actress)|Mona Lisa]]
+*Edna Luna
+*Lily Marquez
+*[[Raquel Monteza]]
+*[[Mercedes Matias-Santiago]]
+*[[Efren Peñaflorida]]
+*Manuel S. Rojas
+*Ollie dela Peña
+*[[Olivia Salamanca]]
+*[[Leopoldo Salcedo]]
+*Rosendo E. Santos Jr.
+*[[Ferdinand Topacio]]
+*[[Thirteen Martyrs of Cavite]]
+{{div col end}}
+
+==Sister cities==
+Cavite City has two [[sister city|sister cities]], as designated by [[Sister Cities International]]:
+* {{flagicon|ESP}} [[Melilla]], Spain
+* {{flagicon|USA}} [[San Diego]], [[California]], United States
+
+==See also==
+*[[Naval Base Manila]]
+*[[Regada Festival]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{Commonscatinline}}
+* {{Wikivoyage-inline}}
+* [https://web.archive.org/web/20060331083348/http://www.cavitecity.gov.ph/ Official  '''Cavite City Government''' website]
+* [http://cavitecitylibrary.home.ph.istemp.com/ Official Website of the Cavite City Library and Museum]
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20081120024509/http://www.census.gov.ph/data/census2007/index.html Philippine Census Information]
+
+{{s-start}}
+{{s-new|first}}
+{{s-ttl|title=Capital of [[Cavite]]|years=1614–1954}}
+{{s-aft|after=[[Trece Martires]]}}
+{{s-end}}
+
+{{Cavite}}
+{{Authority control}}
+
+[[Category:Cavite City| ]]
+[[Category:Cities in Cavite]]
+[[Category:Populated places on Manila Bay]]
+[[Category:Port cities and towns in the Philippines]]
+[[Category:Former provincial capitals of the Philippines]]
+[[Category:1614 establishments in the Philippines]]
+[[Category:Populated places established in 1614]]
+[[Category:Component cities in the Philippines]]

@@ -1,0 +1,311 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   =Gagnoa  <!-- at least one of the first two fields must be filled in -->
+|other_name             =
+|native_name            =  <!-- if different from the Engljanish name -->
+|nickname               =
+|settlement_type        =  City, [[sub-prefectures of Ivory Coast|sub-prefecture]], and [[Communes of Ivory Coast|commune]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          =
+|imagesize              =
+|image_caption          =
+|image_flag             =
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           =Gagnoa blason.ngw2.jpg
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Ivory Coast<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_mapsize        =300
+|pushpin_map_caption    =Location in Ivory Coast
+<!-- Location ------------------>
+|coordinates_footnotes  = <ref>{{cite web |url=http://www.sphereinfo.com/longitude~latitude/ivory_coast |title=Ivory Coast Cities Longitude & Latitude |publisher=sphereinfo.com |access-date=19 November 2010 |archive-url=https://web.archive.org/web/20120913021146/http://www.sphereinfo.com/longitude~latitude/ivory_coast |archive-date=13 September 2012 |url-status=dead }}</ref><!-- for references: use <ref> tags -->
+|subdivision_type       = Country
+|subdivision_name       = [[Ivory Coast]]
+|subdivision_type1      = [[Districts of Ivory Coast|District]]
+|subdivision_name1      = [[Gôh-Djiboua District]]
+|subdivision_type2      = [[Regions of Ivory Coast|Region]]
+|subdivision_name2      = [[Gôh]]
+|subdivision_type3      =  [[Departments of Côte d'Ivoire|Department]] 
+|subdivision_name3      = [[Gagnoa Department|Gagnoa]]
+|subdivision_type4      =
+|subdivision_name4      =
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type              =
+|seat                   =
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_party           =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       =
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      =
+|established_title2     = <!-- Incorporated (city) --> 
+|established_date2      =
+|established_title3     =
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink --> 
+|unit_pref                = Metric<!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_total_km2           = 890
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_total_dunam         = <!--Used in Middle East articles only-->
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            =
+|elevation_ft           =
+|elevation_max_m            =
+|elevation_max_ft           =
+|elevation_min_m            =
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               = 2021 census
+|population_footnotes           = <ref>[https://www.citypopulation.de/en/ivorycoast/sub/admin/ Citypopulation.de] Population of regions and sub-prefectures of Ivory Coast</ref>
+|population_note                = (2014 census)
+|population_total               = 277044
+|population_density_km2         = auto
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        = City
+|population_blank1              = 160465<ref name="pop">[https://www.citypopulation.de/en/ivorycoast/cities/ Population.de] Population of cities & localities in Ivory Coast</ref>
+|population_density_blank1_km2 =
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[GMT]]
+|utc_offset             = +0
+|timezone_DST           =
+|utc_offset_DST         =
+| coor_type             = <!-- can be used to specify what the coordinates refer to -->
+|coordinates            = {{coord|6|8|N|5|56|W|region:CI|display=inline,title}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|twin1                  =
+|twin1_country          =
+|twin2                  =
+|twin2_country          =
+|twin3                  =
+|twin3_country          =
+|twin4                  =
+|twin4_country          =
+|twin5                  =
+|twin5_country          =
+|twin6                  =
+|twin6_country          =
+|twin7                  =
+|twin7_country          =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|blank2_name            =
+|blank2_info            =
+|blank3_name            =
+|blank3_info            =
+|blank4_name            =
+|blank4_info            =
+|blank5_name            =
+|blank5_info            =
+|blank6_name            =
+|blank6_info            =
+|website                =
+|footnotes              =
+}}
+
+'''Gagnoa''' is a city in south-central [[Ivory Coast]]. It is the seat of both [[Gôh-Djiboua District]] and [[Gôh Region]]. It is also the seat of and a [[sub-prefectures of Ivory Coast|sub-prefecture]] of [[Gagnoa Department]]. Gagnoa is also a [[Communes of Ivory Coast|commune]]. In the 2014 census, the city had a population of 160,465,<ref name="pop"/> making it the seventh-largest city in the country.
+
+Gagnoa is the seat of the [[Roman Catholic Archdiocese of Gagnoa]], and contains [[St. Ann Cathedral, Gagnoa|its cathedral]].
+
+==Villages==
+The 37 villages of the sub-prefecture of Gagnoa and their population in 2014 are: <ref>{{Cite web |title=Localities in Gagnoa (Gôh-Djiboua District, Ivory Coast) - Population Statistics, Charts, Map, Location, Weather and Web Information |url=https://www.citypopulation.de/en/ivorycoast/gohdjiboua/061106__gagnoa/ |access-date=2024-09-15 |website=www.citypopulation.de}}</ref>
+{{Columns-list|colwidth=22em|
+#Ahizabré  (5,014)
+#Atonihio  (510)
+#Bobia  (1,177)
+#Bognoa  (1,338)
+#Bogrégnoa  (1,274)
+#Dagodio  (528)
+#Dahopa-Ourepa  (1,579)
+#Daliguépa  (206)
+#Digbeugnoa  (1,199)
+#Dobé  (1,217)
+#Gagnoa (160,465)
+#Gnahio-Dégoué  (621)
+#Godiabré  (674)
+#Grébré  (989)
+#Guéménédou  (2,930)
+#Guessihio  (3,620)
+#Kabia  (503)
+#Kakrédou  (1,260)
+#Kripahio  (1,476)
+#Lélébrékoua  (1,276)
+#Logobia  (3,022)
+#[[Maguiahio]] (2,453)
+#Mahidio (717)
+#Mahinadopa (1,362)
+#Ménékré (1,213)
+#Moko (712)
+#Obodroupa (2,065)
+#Ony-Babré (747)
+#Ony-Tabré (797)
+#Payopa (2,546)
+#Sogrobognoa (1,071)
+#Tchédjélet (1,583)
+#Tiétiékou (1,214)
+#Tipadipa (2,108)
+#Todiognoa (296)
+#Toutoubré (2,957)
+#Zigopa(1,199)
+}}
+
+==Climate==
+Gagnoa has a [[tropical savanna climate]] ([[Köppen climate classification|Köppen]] ''Aw'') with a lengthy although not particularly intense [[wet season]] from February/March to November, and a short [[dry season]] centred upon December and January.
+{{Weather box|width = 75%
+|location = Gagnoa
+|single line = Yes
+|metric first = Yes
+|temperature colour = pastel
+|Jan high C = 32.3
+|Feb high C = 33.6
+|Mar high C = 33.0
+|Apr high C = 32.5
+|May high C = 31.6
+|Jun high C = 29.8
+|Jul high C = 28.6
+|Aug high C = 28.6
+|Sep high C = 29.8
+|Oct high C = 30.9
+|Nov high C = 31.1
+|Dec high C = 30.7
+|year high C = 31.0
+|Jan mean C = 26.1
+|Feb mean C = 26.8
+|Mar mean C = 27.5
+|Apr mean C = 27.3
+|May mean C = 26.8
+|Jun mean C = 25.7
+|Jul mean C = 24.9
+|Aug mean C = 24.7
+|Sep mean C = 25.5
+|Oct mean C = 26.2
+|Nov mean C = 26.5
+|Dec mean C = 25.7
+|year mean C = 26.1
+|Jan low C = 20.1
+|Feb low C = 21.8
+|Mar low C = 22.2
+|Apr low C = 22.3
+|May low C = 22.3
+|Jun low C = 21.9
+|Jul low C = 21.4
+|Aug low C = 21.4
+|Sep low C = 21.7
+|Oct low C = 22.0
+|Nov low C = 22.0
+|Dec low C = 20.9
+|year low C = 21.7
+|rain colour = green
+|Jan rain mm = 23.5
+|Feb rain mm = 63.4
+|Mar rain mm = 123.1
+|Apr rain mm = 162.8
+|May rain mm = 177.5
+|Jun rain mm = 205.8
+|Jul rain mm = 89.4
+|Aug rain mm = 95.4
+|Sep rain mm = 172.0
+|Oct rain mm = 159.2
+|Nov rain mm = 96.4
+|Dec rain mm = 37.5
+|Jan sun = 195.7
+|Feb sun = 184.5
+|Mar sun = 189.0
+|Apr sun = 204.9
+|May sun = 210.4
+|Jun sun = 122.0
+|Jul sun = 120.8
+|Aug sun = 97.5
+|Sep sun = 127.1
+|Oct sun = 176.4
+|Nov sun = 180.2
+|Dec sun = 166.0
+|year sun = 1974.5
+|source 1 = NOAA<ref name= NOAA>{{cite web
+| url = ftp://ftp.atdd.noaa.gov/pub/GCOS/WMO-Normals/TABLES/REG__I/IV/65557.TXT
+| title = Gagnoa Climate Normals 1961–1990
+| publisher = [[National Oceanic and Atmospheric Administration]]
+| access-date = December 21, 2015}}</ref>
+}}
+
+==Notable people==
+French rapper [[Vegedream]]'s father as well as fellow performer and uncle Ziké are from Gagnoa, and Vegedream, famously the artist in the song [[Ramenez la coupe à la maison]], says the French phrase ''Et ça c'est Vegedream de Gagnoa'', meaning "And that is Vegedream of Gagnoa", in each song. He got that phrase when he visited Gagnoa as a child. He is therefore also named Vegedream de Gagnoa.
+==References==
+{{Reflist}}
+
+{{Gôh Region subdivisions}}
+{{Authority control}}
+
+[[Category:Gagnoa| ]]
+[[Category:Sub-prefectures of Gôh]]
+[[Category:District capitals of Ivory Coast]]
+[[Category:Communes of Gôh]]
+[[Category:Regional capitals of Ivory Coast]]
+
+
+{{Gôh-Djiboua-geo-stub}}

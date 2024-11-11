@@ -1,0 +1,381 @@
+{{Short description|Municipality in Pampanga, Philippines}}
+{{For|the mountain of the same name|Mount Arayat}}
+{{Use Philippine English|date=February 2023}}
+{{Use mdy dates|date=February 2023}}
+{{Infobox settlement
+| name                   = {{PH wikidata|name}}
+| image_skyline          = Gen. Jose M. Alejandrino Monument, Arayat, Pampanga.jpg
+| image_caption          = Gen. Jose M. Alejandrino Monument in front of the Municipal Hall
+| image_flag             = Flag of Arayat Pampanga.jpg
+| flag_size              = 120x80px
+| image_seal             = Arayat Pampanga.png
+| seal_size              = 100x80px
+| image_map              = {{PH wikidata|image_map}}
+| map_caption            = {{PH wikidata|map_caption}}
+| image_map1             = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map            = Philippines
+| pushpin_label_position = left
+| pushpin_map_caption    = Location within the {{PH wikidata|country}}
+| coordinates            = {{PH wikidata|coordinates}}
+| settlement_type        = {{PH wikidata|settlement_type}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = [[Philippines]]
+| subdivision_type1      = [[Regions of the Philippines|Region]]
+| subdivision_name1      = {{PH wikidata|region}}
+| subdivision_type2      = [[Provinces of the Philippines|Province]]
+| subdivision_name2      = {{PH wikidata|province}}
+| official_name          = {{PH wikidata|official_name}}
+| etymology              =  <!--origin of name-->
+| named_for              =  <!--named after (if person or place)-->
+| native_name            =
+| other_name             =
+| nickname               =
+| motto                  =
+| anthem                 =
+| subdivision_type3      = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3      = {{PH legislative district}}
+| established_title      = [[Date of establishment|Founded]]
+| established_date       =
+| parts_type             = [[Barangay]]s
+| parts_style            = para
+| p1                     = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title           = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name            =  Maria Lourdes M. Alejandrino
+| leader_title1          = [[Vice Mayor]]
+| leader_name1           = Monching Changcoco
+| leader_title2          = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2           = Aurelio D. Gonzales Jr.
+| leader_title3          = [[Sangguniang Bayan|Municipal Council]]
+| leader_name3           = {{PH Town Council
+| 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Ramon M. Changcoco
+ | 3=Ronald S. Venasquez
+ | 4=Federico B. Hipolito
+ | 5=Cheryl M. Lumbang
+ | 6=Genalyn M. Tan
+ | 7=Rufina A. Alejandrino
+ | 8=Edith V. Kabigting
+ | 9=Jovito D. Bulanadi
+}}
+| leader_title4          = [[Elections in the Philippines#Qualification|Electorate]] 
+| leader_name4           = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type        = {{PH wikidata|government_type}}
+| government_footnotes   = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m            = {{PH wikidata|elevation_m}}
+| elevation_max_m        = 981
+| elevation_min_m        = 3
+| elevation_max_rank     =
+| elevation_min_rank     =
+| elevation_footnotes    = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes= 
+| elevation_min_footnotes= 
+| area_rank              = 
+| area_footnotes         = {{PH area}}
+| area_total_km2         = {{PH wikidata|area}}
+| population_footnotes   = {{PH census|current}}
+| population_total       = {{PH wikidata|population_total}}
+| population_as_of       = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title= [[Household]]s
+| population_blank1      = {{PH wikidata|household}} 
+| population_blank2_title= 
+| population_blank2      = 
+| population_demonym     =
+| population_rank        =
+| population_note        =
+| timezone               = [[Philippine Standard Time|PST]]
+| utc_offset             = +8
+| postal_code_type       = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code            = {{PH wikidata|postal_code}}
+| postal2_code_type      = {{PSGCstyle}}
+| postal2_code           = {{PSGC detail}}
+| area_code_type         = {{areacodestyle}}
+| area_code              = {{PH wikidata|area_code}}
+| website                = {{PH wikidata|website}}
+| demographics_type1     = [[Economy of the Philippines|Economy]]
+| demographics1_title1   = {{PH wikidata|income_class_title}}
+| demographics1_info1    = {{PH wikidata|income_class}}
+| demographics1_title2   = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2    = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3   = [[Revenue]]
+| demographics1_info3    = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}} 
+| demographics1_title4   = Revenue rank
+| demographics1_info4    = 
+| demographics1_title5   = [[Asset]]s
+| demographics1_info5    = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}} 
+| demographics1_title6   = Assets rank
+| demographics1_info6    = 
+| demographics1_title7   = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7    =  
+| demographics1_title8   = IRA rank
+| demographics1_info8    = 
+| demographics1_title9   = [[Expenditure]]
+| demographics1_info9    = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}} 
+| demographics1_title10  = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10   = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2     = Service provider
+| demographics2_title1   = Electricity
+| demographics2_info1    = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2   = Water
+| demographics2_info2    =  
+| demographics2_title3   = Telecommunications
+| demographics2_info3    = 
+| demographics2_title4   = Cable TV
+| demographics2_info4    =
+| demographics2_title5   = 
+| demographics2_info5    =
+| demographics2_title6   = 
+| demographics2_info6    =
+| demographics2_title7   = 
+| demographics2_info7    =
+| demographics2_title8   = 
+| demographics2_info8    =
+| demographics2_title9   = 
+| demographics2_info9    =
+| demographics2_title10  = 
+| demographics2_info10   =
+| blank_name_sec1        = {{PH wikidata|climate_title}}
+| blank_info_sec1        = {{PH wikidata|climate_type}}
+| blank1_name_sec1       = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1       = {{PH wikidata|language}}
+| blank2_name_sec1       = [[Crime index]]
+| blank2_info_sec1       = 
+| blank3_name_sec1       = 
+| blank3_info_sec1       = 
+| blank4_name_sec1       = 
+| blank4_info_sec1       = 
+| blank5_name_sec1       = 
+| blank5_info_sec1       = 
+| blank6_name_sec1       = 
+| blank6_info_sec1       = 
+| blank7_name_sec1       = 
+| blank7_info_sec1       = 
+| blank1_name_sec2       = Major religions
+| blank1_info_sec2       = 
+| blank2_name_sec2       = Feast date
+| blank2_info_sec2       = 
+| blank3_name_sec2       = Catholic diocese
+| blank3_info_sec2       =
+| blank4_name_sec2       = Patron saint
+| blank4_info_sec2       = 
+| blank5_name_sec2       = 
+| blank5_info_sec2       = 
+| blank6_name_sec2       = 
+| blank6_info_sec2       = 
+| blank7_name_sec2       = 
+| blank7_info_sec2       =
+| short_description      =
+| footnotes              =
+}}
+
+'''Arayat''', officially the '''Municipality of Arayat''' ({{lang-pam|Balen ning Arayat}}; {{lang-tl|Bayan ng Arayat}}), is a 1st class [[municipality of the Philippines|municipality]] in the [[Philippine Province|province]] of [[Pampanga]] in the [[Philippines]]. According to the 2020 census, it has a population of 144,875 people.{{PH census|current}}
+
+==Geography==
+Arayat is bordered with [[Candaba, Pampanga|Candaba]], [[Mexico, Pampanga|Mexico]], [[Magalang, Pampanga|Magalang]], [[Santa Ana, Pampanga|Santa Ana]] and [[Cabiao]] in [[Nueva Ecija]]. A large portion of [[Mount Arayat]] is located within this municipality.
+
+Arayat is {{convert|22|km}} from [[San Fernando, Pampanga|San Fernando]] and {{convert|88|km}} from [[Manila]].
+
+===Barangays===
+Arayat is politically subdivided into 30 [[barangay]]s. Each barangay consists of [[purok]]s and some have [[sitios]].
+
+{{Div col|colwidth=15em}}
+* Arenas
+* Baliti
+* Batasan
+* Buensuceso
+* Candating
+* Gatiawin
+* Guemasan
+* La Paz (Turu)
+* Lacmit
+* Lacquios
+* Mangga-Cacutud
+* Mapalad
+* Palinlang
+* Paralaya
+* Plazang Luma
+* Poblacion
+* San Agustin Norte
+* San Agustin Sur
+* San Antonio
+* San Jose Mesulo
+* San Juan Baño
+* San Mateo
+* San Nicolas
+* San Roque Bitas
+* Cupang (Santa Lucia)
+* Matamo (Santa Lucia)
+* Santo Niño Tabuan
+* Suclayin
+* Telapayong
+* Kaledian (Camba)
+{{div col end}}
+
+===Climate===
+{{Weather box
+| location     = Arayat, Pampanga
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 28
+| Jan low C  = 20
+| Feb high C = 29
+| Feb low C  = 20
+| Mar high C = 31
+| Mar low C  = 21
+| Apr high C = 33
+| Apr low C  = 23
+| May high C = 32
+| May low C  = 24
+| Jun high C = 31
+| Jun low C  = 24
+| Jul high C = 30
+| Jul low C  = 24
+| Aug high C = 29
+| Aug low C  = 24
+| Sep high C = 29
+| Sep low C  = 24
+| Oct high C = 30
+| Oct low C  = 23
+| Nov high C = 30
+| Nov low C  = 22
+| Dec high C = 28
+| Dec low C  = 21
+| Jan precipitation mm = 6
+| Feb precipitation mm = 4
+| Mar precipitation mm = 6
+| Apr precipitation mm = 17
+| May precipitation mm = 82
+| Jun precipitation mm = 122
+| Jul precipitation mm = 151
+| Aug precipitation mm = 123
+| Sep precipitation mm = 124
+| Oct precipitation mm = 99
+| Nov precipitation mm = 37
+| Dec precipitation mm = 21
+| Jan rain days        = 3.3
+| Feb rain days        = 2.5
+| Mar rain days        = 3.6
+| Apr rain days        = 6.6
+| May rain days        = 17.7
+| Jun rain days        = 22.2
+| Jul rain days        = 25.2
+| Aug rain days        = 23.7
+| Sep rain days        = 23.2
+| Oct rain days        = 17.9
+| Nov rain days        = 9.2
+| Dec rain days        = 5.2
+| source 1 = Meteoblue<ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/arayat_philippines_1730225
+| title =  Arayat: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| access-date = May 5, 2020 }}</ref> <small>(Use with caution: this is modeled/calculated data, not measured locally.)</small>
+| date = May 5, 2020
+}}
+{{clear-left}}
+
+==Demographics==
+{{Philippine Census
+| align = left
+| cols = 2
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+In the 2020 census, the population of Arayat, Pampanga, was 144,875 people,{{PH census|current}} with a density of {{convert|{{sigfig|144,875/134.48|2}}|PD/km2|disp=or}}.{{clear-left}}
+
+== Economy ==
+{{PH poverty incidence}}
+
+==Education==
+[[File:Arayat Institute, Pampanga, July 2023.jpg|thumb|250x250px|Arayat Institute]]
+
+===Schools===
+* Adelle  Grace Montessori School, Inc.
+* Anderson  Elementary School
+* Arayat  Central School
+* Arayat  Ecumenical Learning Center, Inc.
+* Arayat  Holy Child Educational Foundation, Inc.
+* Arayat  Institute
+* Arayat  National High School
+* Arenas  Elementary School
+* Baliti  Elementary School
+* Bitas  Elementary School
+* Blooming  Fields Academy
+* Buensuceso  Elementary School
+* Cacutud  Elementary School
+* Camba  National High School
+* Candating  High School
+* Cupang  Elementary School
+* Exact  College of Asia Marino (College)
+* Gatiawin  Elementary School
+* Gatiawin  High School
+* Justino  Sevilla High School
+* Lacmit  Elementary School
+* Mesulo  Elementary School
+* Palinlang  Elementary School
+* Plazang  Luma Elementary School
+* San  Antonio Elementary School
+* San Juan  Baño Elementary School
+* San Juan  Baño High School
+* San  Nicolas Elementary School
+* Tabuan  Elementary School
+* Telapayong  Elementary School
+
+==Gallery==
+{|
+|<gallery widths="200" heights="150">
+File:Mt. Arayat & Pampanga River, Arayat, Pampanga (2).jpg|View of [[Mount Arayat]] and Pampanga River
+File:Arayat Church, Pampanga, July 2023.jpg|Heritage Santa Catalina Church (built in honor of St [[Catherine of Alexandria]])
+File:Arayatbanojfee.JPG|View of San Juan Baño plantations
+File:1arayatjf 04.jpg|Front of Arayat Municipal Hall
+Arayat Public Market, Pampanga, July 2023.jpg|Arayat Public Market
+Calo-Medina Ancestral House, Arayat, Pampanga, July 2023.jpg|Calo-Medina Ancestral House
+</gallery>
+|}
+{{wide image|FvfArayatHall7464 27.JPG|612px|Arayat Municipal Hall}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+*[https://www.philatlas.com/luzon/r03/pampanga/arayat.html Arayat Profile at PhilAtlas.com]
+*[{{NSCB detail}} Philippine Standard Geographic Code]
+*[https://web.archive.org/web/20081120024509/http://www.census.gov.ph/data/census2007/index.html Philippine Census Information]
+*[https://web.archive.org/web/20141220193405/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=5&frmIdProvince=30&frmIdLgu=560 Local Governance Performance Management System]
+
+{{Geographic location
+| Centre    = Arayat
+| Northeast = [[Cabiao, Nueva Ecija]]
+| Southeast = [[Candaba, Pampanga|Candaba]]
+| South     = [[Santa Ana, Pampanga|Santa Ana]]
+| West      = [[Mexico, Pampanga|Mexico]]
+| Northwest = [[Magalang, Pampanga|Magalang]]
+}}
+{{Pampanga}}
+{{Authority control}}
+
+[[Category:Municipalities of Pampanga]]
+[[Category:Populated places on the Pampanga River]]
+
+
+{{Philippines-geo-stub}}

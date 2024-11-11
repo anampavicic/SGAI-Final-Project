@@ -1,0 +1,390 @@
+{{citations|date=December 2023}}
+{{Use South African English|date=May 2012}}
+{{Use dmy dates|date=September 2020}}
+
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                     = Free State
+| native_name              = {{Plainlist|
+*{{native_name|af|Vrystaat}} 
+*{{native_name|st|Freistata}}
+*{{native_name|xh|iFreyistata}}
+*{{native name|tn|Foreistata}}
+*{{native name|zu|iFuleyisitata}}
+}}
+| settlement_type          = [[Provinces of South Africa|Province]]
+<!-- images, nickname, motto --->|
+| image_shield             = Coat of arms of the Free State.svg
+| motto                    = ''Katleho ka kopano''<br />(Success through unity)
+<!-- maps and coordinates ------>| image_map                = Free State in South Africa.svg
+| map_alt                  = Map showing the location of the Free State in the central part of South Africa
+| map_caption              = Location of the Free State in South Africa
+| coordinates              = {{coord|28|S|27|E|region:ZA_type:adm1st_dim:610km|display=inline,title}}
+| subdivision_type         = [[Country]]
+| subdivision_name         = [[South Africa]]
+<!-- established --------------->| established_title        = [[Orange Free State]]
+| established_date         = 17 February 1854
+| established_title1       = OFS Province
+| established_date1        = 31 May 1910
+
+| established_title2       = Free State
+| established_date2        = 27 April 1994
+<!-- seat, smaller parts ------->| seat_type                = Capital
+| seat                     = [[Bloemfontein]]
+| parts_type               = [[Districts of South Africa|Districts]]
+| p1                       = [[Xhariep District Municipality|Xhariep]]
+| p2                       = [[Mangaung Metropolitan Municipality|Mangaung]]
+| p3                       = [[Lejweleputswa District Municipality|Lejweleputswa]]
+| p4                       = [[Thabo Mofutsanyana District Municipality|Thabo Mofutsanyana]]
+| p5                       = [[Fezile Dabi District Municipality|Fezile Dabi]]
+| government_type          = [[Parliamentary system]]
+<!-- government type, leaders -->| government_footnotes     = 
+| leader_party             = [[African National Congress|ANC]]
+| leader_title             = [[Premier of the Free State|Premier]]
+| leader_name              = [[Maqueen Letsoha-Mathae]]
+| leader_title1            = Legislature
+| leader_name1             = [[Free State Provincial Legislature]]
+<!-- area ---------------------->| area_footnotes           = <ref name="cib2011">{{cite book |title=Census 2011: Census in brief |url=http://www.statssa.gov.za/census/census_2011/census_products/Census_2011_Census_in_brief.pdf |publisher=Statistics South Africa |location=Pretoria |year=2012 |isbn=9780621413885 |archive-url=https://web.archive.org/web/20150513171240/http://www.statssa.gov.za/census/census_2011/census_products/Census_2011_Census_in_brief.pdf |archive-date=13 May 2015 |url-status=live}}</ref>{{rp|9}}
+| area_total_km2           = 129825
+| area_rank                = [[List of South African provinces by area|3rd in South Africa]]
+<!-- elevation ----------------->| elevation_max_footnotes  = <ref>{{cite web|url=http://vry.mcsa.org.za/Archive/Billis/2003/Half-Billi%202003-2.PDF |title=Taking the measure of Namahadi Peak |access-date=24 September 2009 |url-status=dead |archive-url=https://web.archive.org/web/20070709045643/http://vry.mcsa.org.za/Archive/Billis/2003/Half-Billi%202003-2.PDF |archive-date=9 July 2007 }}</ref>
+| elevation_max_m          = 3291
+| elevation_min_footnotes  = 
+| elevation_min_m          = <!-- population ---------------->
+| population_footnotes     = <ref name="2022 census">{{cite web | title= Statistical Release - Census 2022 | url=https://census.statssa.gov.za/assets/documents/2022/P03014_Census_2022_Statistical_Release.pdf | access-date=2024-08-22 |website=statssa.gov.za}}</ref>
+| population_total         = 2,961,864
+| population_as_of         = 2022
+| population_density_km2   = auto
+| population_rank          = [[List of South African provinces by population|8th in South Africa]]
+| population_density_rank  = [[List of South African provinces by population density|8th in South Africa]]
+| population_demonym       = <!-- demonym, i.e. Liverpudlian for someone from Liverpool -->
+| population_note          = <!-- demographics (section 1) -->
+| demographics_type1       = Population groups (2022)
+| demographics1_footnotes  = <ref name="2022 census"/>
+| demographics1_title1     = [[Bantu peoples of South Africa|Black]]
+| demographics1_info1      = 88.9%
+| demographics1_title2     = [[White South African|White]]
+| demographics1_info2      = 8.0%
+| demographics1_title3     = [[Coloured]]
+| demographics1_info3      = 2.6%
+| demographics1_title4     = [[Indian South African|Indian]] or [[Asian South African|Asian]]
+| demographics1_info4      = 0.4%
+| demographics1_title5     = Other
+| demographics1_info5      = 0.1%
+<!-- demographics (section 2) -->| demographics_type2       = Languages (2022)
+| demographics2_footnotes  = <ref name="2022 census"/>
+| demographics2_title1     = [[Sotho language|Sotho]]
+| demographics2_info1      = 72.3%
+| demographics2_title2     = [[Afrikaans language|Afrikaans]]
+| demographics2_info2      = 10.3%
+| demographics2_title3     = [[Xhosa language|Xhosa]]
+| demographics2_info3      = 5.5%
+| demographics2_title4     = [[Tswana language|Tswana]]
+| demographics2_info4      = 5.3%
+| demographics2_title6     = [[South African English|English]]
+| demographics2_info6      = 1.5%
+<!-- time zone(s) -------------->| timezone1                = [[South African Standard Time|SAST]]
+| utc_offset1              = +2
+<!-- postal codes, area code --->| iso_code                 = ZA-FS
+| blank_name_sec2          = [[Human Development Index|HDI]] (2019)
+| blank_info_sec2          = 0.708<ref name="GlobalDataLab">{{Cite web|url=https://hdi.globaldatalab.org/areadata/shdi/|title=Sub-national HDI – Area Database – Global Data Lab|website=hdi.globaldatalab.org|language=en|access-date=2018-09-13}}</ref><br/>{{color|#090|high}} · [[List of South African provinces by Human Development Index|4th of 9]]
+<!-- GDP --------------> | blank1_name_sec1   = GDP
+| blank1_info_sec1   = [[US$]]20.0 billion<ref>{{citation|title=Provincial gross domestic product:experimental estimates, 2013–2022|url=https://www.statssa.gov.za/publications/D04411/D044112022.pdf|website=www.statssa.gov.za}}</ref>
+<!-- website, footnotes -------->| website                  = {{URL|www.freestateonline.fs.gov.za}}
+| footnotes                = 
+| official_name            = 
+}}
+{{Infobox South African
+| zu   = iFuleyisitata
+| xh   = iFreyistata
+| af   = Vrystaat
+| nso  =
+| ss   =
+| st   = Freistata
+| tn   = Foreistata
+| ts   =
+| ve   =
+| nr   =
+| khoi =
+| naq  =
+| san  =
+}}
+
+The '''Free State''' ({{langx|st|Freistata}}; {{langx|af|Vrystaat}} {{IPA|af|ˈfrɛistɑːt|}}; {{langx|xh|iFreyistata}}; {{langx|tn|Foreistata}}; {{langx|zu|iFuleyisitata}}), formerly known as the '''Orange Free State''', is a [[Provinces of South Africa|province of South Africa]]. Its capital is [[Bloemfontein]], which is also [[South Africa]]'s judicial capital. Its historical origins lie in the [[Boer republic]] called the [[Orange Free State]] and later the [[Orange Free State (province)|Orange Free State Province]].
+
+==History==
+{{Further|Orange Free State}}
+The current borders of the province date from 1994 when the [[Bantustan]]s were abolished and reincorporated into South Africa. It is also the only one of the four original provinces of South Africa not to undergo border changes, apart from the reincorporation of Bantustans, and its borders date from before the outbreak of the [[Boer War]].
+
+==Geography==
+[[File:Cornelia, suidaansig, a.jpg|thumb|left|[[Cornelia, Free State|Cornelia]] in the Riemland region]]
+The Free State is situated on a succession of flat grassy plains sprinkled with pastureland, resting on a general elevation of 3,800 feet only broken by the occasional hill or [[kopje]]. The rich soil and pleasant climate allow for a thriving agricultural industry.
+
+The province is high-lying, with almost all land being 1,000 metres above sea level. The [[Drakensberg]] and [[Maluti Mountains|Maloti Mountains]] foothills raise the terrain to over 2,000 m in the east. The Free State lies in the heart of the [[Karoo]] Sequence of rocks, containing [[shales]], [[mudstones]], [[sandstones]] and the Drakensberg [[Basalt]] forming the youngest capping rocks. Mineral deposits are plentiful, with gold and [[diamonds]] being of particular importance, mostly found in the north and west of the province.
+
+===Fauna and flora===
+The flats in the south of the reserve provide ideal conditions for large herds of plain game such as [[black wildebeest]] and [[springbok]]. The ridges, koppies and plains typical of the northern section are home to [[kudu]], [[red hartebeest]], [[southern white rhinoceros]] and [[African buffalo|buffalo]]. The [[Southern African wildcat]], [[black wildebeest]], [[zebra]], [[common eland|eland]], white rhinoceros and [[Cape wild dog|wild dog]] can be seen at the [[Soetdoring Nature Reserve]] near [[Bloemfontein]]. The [[South African cheetah]]s were reintroduced in the Free State for the first time in June 2013 after a hundred years of regional extinction, at [[Laohu Valley Reserve]] near [[Philippolis]].<ref>{{cite news|title=Cheetahs Return to Laohu Valley Reserve & The Free State|url=http://savechinastigers.org/news.html|publisher=Savechinastigers.org|access-date=7 March 2017|archive-date=20 March 2015|archive-url=https://web.archive.org/web/20150320111736/http://savechinastigers.org/news.html|url-status=dead}}</ref> Following the reintroduction of an adult female South African cheetah in early 2016, three wild cheetah cubs were born for the first time in Laohu Valley Reserve in February 2017, making the three new cubs the first cheetahs born in the wild since their disappearance from the Free State province in over a century.<ref>{{cite news|title=First Wild Cheetahs Born in Free State in Over A Century|url=http://www.netwerk24.com/ZA/Bloemnuus/Nuus/first-wild-cheetahs-born-in-fs-in-century-20170301-2|author=Jens Friis|publisher=Netwerk24|date=2 March 2017|access-date=7 March 2017}}</ref>
+
+===Climate===
+The Free State experiences a [[continental climate]], characterised by warm to hot summers and cool to cold winters. Areas in the east experience frequent snowfalls, especially on the higher ranges, whilst the west can be extremely hot in summer. Almost all [[Precipitation (meteorology)|precipitation]] falls in the summer months as brief afternoon [[thunderstorms]], with aridity increasing towards the west. Areas in the east around [[Harrismith]], [[Bethlehem, Free State|Bethlehem]] and [[Ficksburg]] are well watered. The capital, [[Bloemfontein]], experiences hot, moist summers and cold, dry winters frequented by severe frost.
+* [[Bloemfontein]] averages: January maximum: 31&nbsp;°C (min: 15&nbsp;°C), July maximum: 17&nbsp;°C (min: -2&nbsp;°C), annual precipitation: 559&nbsp;mm
+* [[Bethlehem, Free State|Bethlehem]] averages: January maximum: 27&nbsp;°C (min: 13&nbsp;°C), July maximum: 16&nbsp;°C (min: -2&nbsp;°C), annual precipitation: 680&nbsp;mm
+
+===Borders===
+[[Image:Mafahlaneng-woonbuurt, Tweeling, Vrystaat.jpg|thumb|right|Mafahlaneng township at [[Tweeling]]]]
+In the southeast, the Free State borders seven [[districts of Lesotho]]:
+*[[Mokhotlong District|Mokhotlong]] – farthest to the east
+*[[Butha-Buthe District|Butha-Buthe]] – northwest of Mokhotlong and northeast of Leribe
+*[[Leribe District|Leribe]] – southwest of Butha-Buthe and northeast of Berea
+*[[Berea District|Berea]] – southwest of Leribe and north of Maseru
+*[[Maseru District|Maseru]] – south of Berea and northeast of Mafeteng
+*[[Mafeteng District|Mafeteng]] – southwest of Maseru and northwest of Mohale's Hoek
+*[[Mohale's Hoek District|Mohale's Hoek]] – southeast of Mafeteng
+Domestically, it borders the following provinces:
+*[[KwaZulu-Natal]] – east
+*[[Eastern Cape]] – south
+*[[Northern Cape]] – west
+*[[North West (South African province)|North West]] – northwest
+*[[Gauteng]] – north
+*[[Mpumalanga]] – northeast
+The Free State borders more districts of Lesotho and more provinces of South Africa than any other province.
+
+It is traversed by the northwesterly line of equal latitude and longitude.
+
+== Demographics ==
+[[File:Free State population density map.svg|thumb|Population density in the Free State
+{{div col}}
+{{legend|#ffffcc|&lt;1 /km²}}
+{{legend|#ffeda0|1–3 /km²}}
+{{legend|#fed976|3–10 /km²}}
+{{legend|#feb24c|10–30 /km²}}
+{{legend|#fd8d3c|30–100 /km²}}
+{{legend|#fc4e2a|100–300 /km²}}
+{{legend|#e31a1c|300–1000 /km²}}
+{{legend|#bc0026|1000–3000 /km²}}
+{{legend|#800026|&gt;3000 /km²}}
+{{colend}}]]
+[[File:Free State dominant language map.svg|thumb|Dominant home languages in the Free State
+{{colbegin}}
+{{legend|#8dd3c7|[[Afrikaans language|Afrikaans]]}}
+{{legend|#ffffb3|[[South African English|English]]}}
+{{legend|#fb8072|[[Xhosa language|Xhosa]]}}
+{{legend|#b3de69|[[Sotho language|Sotho]]}}
+{{legend|#fccde5|[[Tswana language|Tswana]]}}
+{{legend|#80b1d3|[[Zulu language|Zulu]]}} 
+{{legend|#d0d0d0|No language dominant}}
+{{colend}}]]
+As of the [[2022 South African census|2022 census]], the Free State had a population of 2,961,864, an increase of 8.0% from the prior census in [[2011 South African census|2011]].  It recorded the slowest population growth among South Africa's nine provinces between 2011 and 2022.  It is also the second-least populous and second-least densely populated province.  The median age is 28, an increase of 3 years from 2011.<ref name="2022 census3">{{cite web |title=Statistical Release - Census 2022 |url=https://census.statssa.gov.za/assets/documents/2022/P03014_Census_2022_Statistical_Release.pdf |access-date=2024-08-22 |website=statssa.gov.za}}</ref>
+
+=== Race/Ethnicity ===
+In the 2022 census, 88.9% of the population described themselves as [[Bantu peoples of South Africa|Black African]], 8.0% as [[White South Africans|White]], 2.6% as [[Coloureds|Coloured]], and 0.4% as [[Indian South Africans|Indian/Asian]].<ref name="2022 census3" /> The majority of the population are black Africans who speak [[Sotho language|Sotho]] as a first language. The vast majority of White people in the Free State are [[Afrikaners]]. 
+{| class="wikitable"
+|+Historic Breakdown of Population by Group<ref name="2022 census3" />
+!Population Group
+![[1996 South African census|1996]]
+![[2001 South African census|2001]]
+![[2011 South African census|2011]]
+![[2022 South African census|2022]]
+|-
+|[[Bantu peoples of South Africa|Black African]]
+|84.8%
+|88.0%
+|87.6%
+|88.9%
+|-
+|[[White South Africans|White]]
+|12.1%
+|8.8%
+|8.7%
+|8.0%
+|-
+|[[Coloureds|Coloured]]
+|3.0%
+|3.1%
+|3.1%
+|2.6%
+|-
+|[[Indian South Africans|Indian/Asian]]
+|0.1%
+|0.1%
+|0.4%
+|0.4%
+|-
+|Other
+|n/a
+|n/a
+|0.2%
+|0.2%
+|}
+The proportion of whites in the province has shrunk considerably since the nineteenth century.  In 1880 the white population made up 45.7% of the total population. In 1904 this had fallen to 36.8%.<ref>{{cite EB1911|wstitle=Orange Free State|display=Orange Free State § Inhabitants|volume=20|page=152|first=Frank Richardson|last=Cana}}</ref> Of the 142,679 people in 1904, only 60% were born in the province. Of the 2,726 [[Europe]]an immigrants born in non-[[United Kingdom|British]] states, 1,025 came from the [[Russian Empire]], mainly [[Jews]]. In 1904 whites made up a majority in most settlements, namely [[Ficksburg]] (52.3%), [[Wepener]] (60.2%), [[Ladybrand]] (60.0%), and [[Kroonstad]] (51.6%), and made up a substantial minority in [[Bloemfontein]] (45.7%) and [[Winburg]] (36.3%).
+
+=== Languages ===
+In the 2022 census, 72.3% of the population reported their [[first language]] as [[Sotho language|Sotho]], 10.3% as [[Afrikaans]], 5.5% as [[Xhosa language|Xhosa]], 5.3% as [[Setswana]], and 1.5% as [[South African English|English]]. The Free State is the only province in which native Sotho-speakers form a majority of the population.  It is also the province with the third-highest proportion of Afrikaans speakers, after the [[Western Cape]] and the [[Northern Cape]].<ref name="2022 census3" />
+
+[[Sesotho]] is the dominant home language in most of the province. [[Zulu language|Zulu]] is the major language in the far eastern municipality of [[Phumelela Local Municipality|Phumelela]]. [[Setswana]] is the main language in [[Tokologo Local Municipality|Tokologo]] in the northwest, and in and around the area of [[Thaba Nchu]].  [[Afrikaans]] is widely spoken throughout the province, as a first language for the majority of whites and coloureds (who constitute a minority) and as a second or third language by Sesotho, Setswana and Xhosa speakers. Although there are relatively few native English speakers, English is becoming increasingly important as the language of business and government. This is evidenced by the shift of tertiary institutions such as the [[University of the Free State]] from solely using Afrikaans as the medium of instruction to using both Afrikaans and English, and eventually only English.
+
+=== Religion ===
+The population of the Free State is overwhelmingly [[Christianity|Christian]].  As of the 2022 census, 92.7% of the population described themselves as [[Christianity|Christians]], the third-highest proportion among South Africa's provinces.  Among other religions, 4.9% of the population stated that they practiced [[Traditional African religions|Traditional African]] religions, and 0.5% of the population described themselves as [[Islam|Muslim]].  1.4% of the population described themselves as being atheist, agnostic, or having no religious affiliation.<ref name="2022 census3" />
+
+== Municipalities ==
+{{main|List of municipalities in the Free State}}
+
+[[File:Map of the Free State with districts labelled (2011).svg|thumb|right|Free State districts and local municipalities]]
+
+The Free State Province is divided into one [[metropolitan municipality (South Africa)|metropolitan municipality]] and four [[district municipality (South Africa)|district municipalities]]. The district municipalities are in turn divided into 19 [[local municipality (South Africa)|local municipalities]]:
+
+===Metropolitan municipalities===
+{{col div}}
+* '''[[Mangaung Metropolitan Municipality]]'''
+{{col div end}}
+
+===District municipalities===
+{{col div}}
+* '''[[Fezile Dabi District Municipality|Fezile Dabi District]]'''
+** [[Moqhaka Local Municipality|Moqhaka]]
+** [[Ngwathe Local Municipality|Ngwathe]]
+** [[Metsimaholo Local Municipality|Metsimaholo]]
+** [[Mafube Local Municipality|Mafube]]
+* '''[[Thabo Mofutsanyana District Municipality|Thabo Mofutsanyana District]]'''
+** [[Setsoto Local Municipality|Setsoto]]
+** [[Dihlabeng Local Municipality|Dihlabeng]]
+** [[Maluti-a-Phofung Local Municipality|Maluti-a-Phofung]]
+** [[Nketoana Local Municipality|Nketoana]]
+** [[Phumelela Local Municipality|Phumelela]]
+** [[Mantsopa Local Municipality|Mantsopa]]
+* '''[[Lejweleputswa District Municipality|Lejweleputswa District]]'''
+** [[Masilonyana Local Municipality|Masilonyana]]
+** [[Tokologo Local Municipality|Tokologo]]
+** [[Tswelopele Local Municipality|Tswelopele]]
+** [[Matjhabeng Local Municipality|Matjhabeng]]
+** [[Nala Local Municipality|Nala]]
+* '''[[Xhariep District Municipality|Xhariep District]]'''
+** [[Letsemeng Local Municipality|Letsemeng]]
+** [[Kopanong Local Municipality|Kopanong]]
+** [[Mohokare Local Municipality|Mohokare]]
+{{col div end}}
+
+=== Major cities and towns ===
+{{See also|List of cities and towns in the Free State}}
+The Free State's major towns include:
+* [[Bloemfontein]]  & [[Botshabelo]] in [[Mangaung Metropolitan Municipality]]
+* [[Welkom]], [[Odendaalsrus]] and [[Virginia, Free State|Virginia]] in [[Lejweleputswa District Municipality|Lejweleputswa]]
+* [[Bethlehem, Free State|Bethlehem]], [[Harrismith]] and [[Phuthaditjhaba]] in [[Thabo Mofutsanyana District Municipality|Thabo Mofutsanyana]]
+* [[Kroonstad]], [[Sasolburg]] and [[Parys]] in [[Fezile Dabi District Municipality|Fezile Dabi]]
+
+== Government and Politics ==
+
+=== Government ===
+{{See also|Executive Council of the Free State}}
+
+The Free State provincial government is based in [[Bloemfontein]], the provincial capital.  The [[Free State Division]] of the [[High Court of South Africa]] also sits in Bleomfontein.
+
+Like South Africa's other provinces, the Free State has a parliamentary system of government, with the [[Premier of the Free State|provincial premier]] elected by the [[Free State Provincial Legislature]].  The premier then selects the members of the provincial [[Executive Council of the Free State|Executive Council]] (cabinet).  The current premier is [[Maqueen Letsoha-Mathae]] of the [[African National Congress]] (ANC), who has held the position since 2024.<ref>{{Cite web |last=Gericke |first=Lientjie Mentz And Marietjie |title=Familiar face takes up role |url=https://www.news24.com/news24/community-newspaper/bloemnuus/familiar-face-takes-up-role-20240619 |access-date=2024-08-23 |website=News24 |language=en-US}}</ref>
+
+The provincial legislature is elected every five years by a system of [[party-list proportional representation]] and meets at the [[Vierde Raadsaal]] in [[Bloemfontein]].
+
+=== Politics ===
+{{See also|2024 South African provincial elections}}
+
+The politics of the Free State has been dominated by the ANC since the end of Apartheid.  The ANC has won a majority of the vote in every provincial election since 1994.
+
+The most recent provincial election was held in [[2024 South African provincial elections|2024]].  The ANC again won the election, albeit with a sharply reduced majority.  The [[Democratic Alliance (South Africa)|Democratic Alliance]] (DA) retained its position as the province's second largest party and [[official opposition]], with a significant increase in its share of the vote. 
+
+The results of the 2024 provincial election are as follows:{{Election results||party1=[[African National Congress]]|votes1=429241|party2=[[Democratic Alliance (South Africa)|Democratic Alliance]]|votes2=181062|party3=[[Economic Freedom Fighters]]|votes3=111850|party4=[[Freedom Front Plus]]|votes4=24933|party5=[[uMkhonto we Sizwe (political party)|uMkhonto weSizwe]]|votes5=15985|party6=[[African Congress for Transformation]]|votes6=15120|party7=[[Patriotic Alliance]]|votes7=11730|party8=[[African Transformation Movement]]|votes8=5874|party9=[[ActionSA]]|votes9=4503|party10=[[African Content Movement]]|votes10=4414|party11=[[African Christian Democratic Party]]|votes11=3967|party12=[[Build One South Africa]]|votes12=2916|party13=[[Rise Mzansi]]|votes13=2348|party14=[[Pan Africanist Congress of Azania]]|votes14=1970|party15=[[Congress of the People (South African political party)|Congress of the People]]|votes15=1860|party16=[[Inkatha Freedom Party]]|votes16=1537|party17=Arise South Africa|colour17=#6DAD9F|votes17=1453|party18=[[United Africans Transformation]]|votes18=1408|party19=[[Forum for Service Delivery|Forum 4 Service Delivery]]|votes19=1193|party20=[[United Democratic Movement]]|votes20=986|party21=[[African People's Convention]]|votes21=672|party22=[[Abantu Batho Congress]]|votes22=560|party23=Sesing Johannes Ramotswabodi|votes23=558|party24=[[Good (political party)|Good]]|votes24=483|party25=All Citizens Party|colour25=#CE5828|votes25=469|party26=[[National Freedom Party]]|votes26=241|party27=African Movement Congress|colour27=#00A400|votes27=179|invalid=8280|electorate=1456927|source=[https://results.elections.org.za/home/NPEPublicReports/1335/Results%20Report/FS/FS.pdf Electoral Commission of South Africa]|sw1={{decrease}} 9.27|seats1=16|sc1={{decrease}} 3|sw2={{increase}} 4.30|seats2=7|sc2={{increase}} 1|sw3={{increase}} 0.94|seats3=4|sc3={{steady}} 0|sw4={{decrease}} 0.95|seats4=1|sc4={{steady}} 0|sw5=New|seats5=1|sc5=New|sw6=New|sc6=New|sw7={{increase}} 0.86|seats8=0|seats7=0|sc7={{steady}} 0|sc8={{steady}} 0|sw8={{decrease}} 0.07|seats6=1|sw9=New|seats9=0|sc9=New|sw10={{increase}} 0.32|seats10=0|sc10={{steady}} 0|sw11={{increase}} 0.06|seats11=0|sc11={{steady}} 0|sw12=New|sw13=New|seats12=0|seats13=0|sc12=New|sc13=New|sw14={{increase}} 0.07|sw15={{decrease}} 0.23|seats14=0|seats15=0|sc14={{steady}} 0|sc15={{steady}} 0|seats16=0|seats17=0|seats18=0|seats19=0|seats20=0|seats21=0|seats22=0|seats23=0|seats24=0|seats25=0|seats26=0|seats27=0|sw16={{increase}} 0.11|sw17=New|sw18=New|sw19=New|sc16={{steady}} 0|sc17=New|sc18=New|sc19=New|sw20={{increase}} 0.03|sw21={{decrease}} 0.07|sc20={{steady}} 0|sc21={{steady}} 0|sw22=New|sw23=New|sc22=New|sc23=New|sw24={{decrease}} 0.02|sc24={{steady}} 0|sw25=New|sc25=New|sw26={{steady}} 0.00|sc26={{steady}} 0|sw27=New|sc27=New|image=[[File:South Africa Free State Parliament 2024.svg]]}}
+
+== Health ==
+{{unreferenced section|date=April 2024}}
+The Free State is the only province in South Africa that operates a free 24-hour dedicated rotor-wing aeromedical service from a public hospital. They are able to reach far-flung areas in only 45 minutes and deliver a high level of care on scene. On 31 October 2018, Free State Emergency Medical Service launched an additional 65 road ambulances to augment the fleet.
+
+The Free State has many public and private hospitals.
+
+==Economy==
+
+The province is the granary of South Africa, with agriculture central to its economy, while mining on the rich goldfields reef is its largest employer.
+
+===Agriculture===
+[[File:South Africa-Free State-Cattle01.jpg|thumb|left|Cattle grazing near [[Winburg]]]]
+Agriculture dominates the Free State landscape, with cultivated land covering 32,000 square kilometres, and natural veld and grazing a further 87,000 square kilometres of the province. It is also South Africa's leader in the production of biofuels, or fuel from agricultural crops, with a number of ethanol plants under construction in the grain-producing western region. South Africa is one of the top ten [[Maize]] producers in the world (12,365,000 tons {{as of|2013|lc=y}}).
+
+Field crops yield almost two-thirds of the gross agricultural income of the province. Animal products contribute a further 30%, with the balance generated by horticulture. Ninety percent of the country's cherry crop is produced in the Ficksburg district, which is also home to the country's two largest asparagus canning factories. Soya, sorghum, sunflowers and wheat are cultivated in the eastern Free State, where farmers specialise in seed production. About 40% of the country's potato yield comes from the province's high-lying areas.
+
+The main vegetable crop is asparagus, both white and green varieties. Although horticulture is expanding and becoming increasingly export-orientated, most produce leaves the province unprocessed.
+
+The Free State's advantage in floriculture is the opposing seasons of the southern and northern hemispheres.
+
+===Mining===
+
+The Free State is also rich in mineral wealth, gold representing 20% of the world's total gold production. Mining is the province's major employer. The province has 12 gold mines, producing 30% of South Africa's output and making it the fifth-largest producer of gold in the world. The Harmony Gold Refinery and Rand Refinery are the only two gold refineries in South Africa.
+
+Gold mines in the Free State also supply a substantial portion of the total silver produced in the country, while considerable concentrations of uranium occurring in the gold-bearing conglomerates of the goldfields are extracted as a byproduct.
+
+Bituminous coal is also mined, and converted to petrochemicals at Sasolburg. The Free State also produces high-quality diamonds from its kimberlite pipes and fissures, and the country's largest deposit of bentonite is found in the [[Koppies]] district.
+
+===Industry===
+
+Since 1989, the Free State economy has moved from dependence on primary sectors such as mining and agriculture to an economy increasingly oriented towards manufacturing and export. 
+Some 14% of the province's manufacturing is classified as being in high-technology industries – the highest of all provincial economies. The northern Free State's chemicals sector is one of the most important in the southern hemisphere. Petrochemicals company [[Sasol]], based in the town of [[Sasolburg]], is a world leader in the production of fuels, waxes, chemicals and low-cost feedstock from coal.
+
+===Tourism===
+[[File:On the road in South Africa 18.jpg|left|thumb|On top of Koranaberg]]
+In the northeastern Free State, nestled in the rolling foothills of the Maluti mountains, the [[Golden Gate Highlands National Park]] is the province's prime tourist attraction. The park gets its name from the brilliant shades of gold cast by the sun on the spectacular sandstone cliffs, especially the imposing Brandwag or Sentinel Rock, which keeps vigil over the park.
+[[File:Brandwag rock.JPG|thumb|Brandwag (The Sentinel)]]
+The sandstone of this region has been used for the lovely dressed-stone buildings found on the Eastern Highlands, while decoratively painted [[Sotho people|Sotho]] houses dot the grasslands. Some of South Africa's most valued San (Bushman) rock art is found in the Free State, particularly in the regions around [[Clarens, Free State|Clarens]], [[Bethlehem, Free State|Bethlehem]], [[Ficksburg]], [[Ladybrand]] and [[Wepener]].
+
+==Education==
+===Universities===
+*[[University of the Free State]] ([[Bloemfontein]], [[Phuthaditjhaba]])
+*[[Central University of Technology]] ([[Bloemfontein]], [[Welkom]])
+
+===Other educational institutions===
+*[[Akademia]] ([[Bloemfontein]])
+*[[Damelin]] ([[Bloemfontein]])
+*[[Flavius Mareka FET College]] ([[Kroonstad]], [[Mphohardi]], [[Sasolburg]])
+*[[Qualitas Career Academy]] ([[Bloemfontein]])
+
+==Media==
+
+===Newspapers===
+*''[[Die Volksblad]]'' ([[Bloemfontein]])
+
+===Radio===
+*[[Lesedi FM]]
+*[[OFM (South Africa)|OFM]]
+*[[Motheo FM]]
+*[[Radio Rosestad 100.6 FM]]
+
+==Sports==
+
+===Provincial sport teams===
+*[[Soccer]]
+**[[African Warriors]] ([[Phuthaditjhaba]])
+**[[Carara Kicks F.C.]] ([[Welkom]])
+**[[Bloemfontein Celtic]] ([[Bloemfontein]]) (now has been sold)
+**[[Free State Stars]] ([[Bethlehem, Free State|Bethlehem]])
+**[[Roses United]]
+**[[Bloemfontein Young Tigers]]
+*[[Rugby union|Rugby]]
+***[[Cheetahs (rugby union)|Cheetahs]] ([[Bloemfontein]])
+**[[Currie Cup]]:
+***[[Free State Cheetahs]] ([[Bloemfontein]])
+***[[Griffons (rugby team)|Griffons]] ([[Welkom]])
+*[[Cricket]]
+**[[Knights (cricket team)|Knights]] ([[Bloemfontein]])
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category|Free State}}
+* [http://www.freestateonline.fs.gov.za Free State Provincial Government]
+* [http://www.freestatetourism.org/ Free State Tourism Authority]
+* {{Cite EB1922 |wstitle= Orange Free State |volume = 31 |last= Cana |first= Frank Richardson |page = 1177 |short=1 }}
+
+{{Free State province}}
+{{Provinces of South Africa}}
+{{Authority control}}
+
+[[Category:Free State (province)| ]]
+[[Category:English-speaking countries and territories]]
+[[Category:Provinces of South Africa]]
+[[Category:States and territories established in 1994]]
+[[Category:1994 establishments in South Africa]]

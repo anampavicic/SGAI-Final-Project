@@ -1,0 +1,441 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Basic info  ---------------->
+|name                   = Zhuji
+|official_name          = <!-- Official name in English if different from 'name' -->
+|native_name            = {{nobold|{{lang|zh-hans|诸暨市}}}}
+|other_name             = Chuki
+|nickname               = 
+|settlement_type        = [[County-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Zhuji Taffic Centre 20160819.jpg
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                =  
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Zhejiang#China
+|pushpin_label_position = 
+|pushpin_map_caption    = Location in Zhejiang
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name = [[China|People's Republic of China]]
+|subdivision_type1      = [[Province (China)|Province]]
+|subdivision_name1      = [[Zhejiang]]
+|subdivision_type2 = [[Prefecture-level city]]
+|subdivision_name2      = [[Shaoxing]]
+|subdivision_type3      = 
+|subdivision_name3      = 
+|subdivision_type4      = 
+|subdivision_name4      = 
+|seat_type              = Municipal seat
+|seat                   =
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = 
+|leader_name            = 
+|leader_title1          =
+|leader_name1           = 
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) --> 
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink --> 
+|unit_pref              = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes         =
+|area_total_km2         = 2311.41<!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2          =  <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2         =
+|area_water_percent     =
+|area_urban_km2         = 2311.41
+|area_metro_km2         = 2311.41
+|area_blank1_title      =
+|area_blank1_km2        =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+|elevation_max_m        = 
+|elevation_max_ft       =
+|elevation_min_m        = 
+|elevation_min_ft       =
+<!-- Population   ----------------------->
+|population_as_of       = 2020 census<ref name="auto">{{Cite web|url=https://www.citypopulation.de/en/china/zhejiang/admin/|title=China: Zhèjiāng (Prefectures, Cities, Districts and Counties) - Population Statistics, Charts and Map|website=Citypopulation.de|access-date=28 November 2021}}</ref>
+|population_footnotes   =
+|population_note        =
+|population_total       = 1218072
+|population_density_km2 = auto<!--For automatic calculation, any density field may contain: auto -->
+|population_metro       = 1218072
+|population_density_metro_km2 =auto
+|population_urban       = 1218072
+|population_density_urban_km2 =auto
+|population_blank1_title =
+|population_blank1      =
+|population_density_blank1_km2 =
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coordinates            = {{coord|29|43|N|120|14|E|type:adm3rd_region:CN-33_source:frwiki|display=inline}}{{coord|29|43|N|120|14|E|source:jawiki|display=title}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Postal code of China|Postal code]]
+|postal_code            =
+|area_code              = 
+|blank_name             =
+|blank_info             = 
+|blank1_name            =
+|blank1_info            = 
+|blank2_name            = 
+|blank2_info            = 
+|blank3_name            =
+|blank3_info            =
+|blank4_name            =<!-- Major [[Nationalities of China|Nationalities]] -->
+|blank4_info            = 
+|blank5_name            =<!-- [[Administrative divisions of the People's Republic of China#Prefecture level|Prefecture-level divisions]] -->
+|blank5_info            =
+|blank6_name            =
+|blank6_info            =
+|website                = 
+|footnotes              = 
+}}
+
+'''Zhuji''' ({{zh|t=諸暨|s=诸暨|p=Zhūjì}}) is a [[county-level city]] under the administration of the [[prefecture-level city]] of [[Shaoxing]], in north-central [[Zhejiang]] province, China, located about {{Convert|40|mi|km|abbr=}} south of [[Hangzhou]]. It has {{convert|2311|km2|abbr=on}} with a population of 1,218,072 inhabitants at the 2020 census even though the built-up (''or metro'') area is much smaller.<ref name="auto"/> 
+
+==History==
+The region around Zhuji has been settled since [[Neolithic]] times and was the origin of the [[Baiyue|Wuyue culture]].<ref>{{cite book|title=China Archaeology & Art Digest|url=https://books.google.com/books?id=M0zrAAAAMAAJ|year=1999|publisher=Art Text (HK) Pty Limited|page=178}}</ref> During the [[Spring and Autumn period]], it was the birthplace of the legendary beauty [[Xi Shi]].<ref name="Lee">{{cite book|author=Lee|title=Biographical Dictionary of Chinese Women: Antiquity Through Sui, 1600 B.C.E.-618 C.E.|year=2007|url=https://books.google.com/books?id=u7mLql4TAxoC&pg=PA85|publisher=M.E. Sharpe|isbn=978-0-7656-4182-3|page=85}}</ref> After the [[Yue (state)|state of Yue]] was absorbed into the unification of China, [[Qin Shi Huang]] formally codified the boundaries of Zhuji as a [[Counties of the People's Republic of China#History|county]] in 222 BC. This status remained intact until 1989, when the State Council reclassified Zhuji as a city.
+
+==Administrative divisions==
+Subdistricts:<ref>{{cite web
+  |url = http://www.xzqh.org/html/list/125.html
+  |title = 绍兴市-行政区划网 www.xzqh.org
+  |publisher = XZQH
+  |language = zh
+  |access-date = 2012-05-24}}</ref>
+*[[Jiyang Subdistrict]] (暨阳街道), [[Huandong Subdistrict]] (浣东街道), [[Taozhu Subdistrict]] (陶朱街道)
+
+Towns:
+*[[Datang, Zhejiang|Datang]] (大唐镇), [[Ciwu]] (次坞镇), [[Diankou]] (店口镇), [[Ruanshi]] (阮市镇), [[Jiangzao]] (江藻镇), [[Fengqiao]] (枫桥镇), [[Zhaojia, Zhejiang|Zhaojia]] (赵家镇), [[Majian]] (马剑镇), [[Caota]] (草塔镇), [[Paitou]] (牌头镇), [[Tongshan, Zhejiang|Tongshan]] (同山镇), [[Anhua, Zhejiang|Anhua]] (安华镇), [[Jieting]] (街亭镇), [[Huangshan, Zhejiang|Huangshan]] (璜山镇), [[Lipu, Zhuji|Lipu]] (浬浦镇), [[Zhibu]] (直埠镇), [[Wuxie]] (五泄镇), [[Lingbei, Zhanjiang|Lingbei]] (岭北镇), [[Chenzhai]] (陈宅镇), [[Wangjiajing, Zhejiang|Wangjiajing]] (王家井镇), [[Yingdianjie]] (应店街镇), [[Shanxiahu]] (山下湖镇), [[Dongbaihu]] (东白湖镇)
+
+The only township is [[Donghe Township]] (东和乡)
+
+==Transport==
+===China Railway===
+Zhuji is served by [[Zhuji railway station]].
+
+===Hangzhou to Zhuji===
+[[Hangzhou–Zhuji intercity railway]] is currently under planning. It will be connect to Line 18 of Hangzhou Metro.<ref name=sxnews1 />
+;Stations
+{| class="wikitable"
+! colspan="2" | Station Name<ref name=sxnews1>{{cite web|url=http://www.shaoxing.com.cn/p/2958480.html|title=杭诸城际铁路线路图流出？何时开建？官方回应}}</ref>
+! rowspan="2" | Connections
+! rowspan="2" colspan="2" | Length
+! rowspan="2" | Location
+|-
+! {{small|English}}
+! {{small|Chinese}}
+|- style = "background:#999999; height: 2pt"
+| colspan = "8" |
+|-bgcolor="lightgrey"
+|[[Yiqiao station|Yiqiao]]
+|{{large|{{lang|zh-cn|义桥}}}}
+|Hangzhou Metro: {{rint|hangzhou|18}} (Planned)
+|
+|
+|rowspan="5"|[[Hangzhou]]
+|-bgcolor="lightgrey"
+|[[Yunlin Road station|Yunlin Road]]
+|{{large|{{lang|zh-cn|云临路}}}}
+|
+|
+|
+|-bgcolor="lightgrey"
+|[[Linpu station|Linpu]]
+|{{large|{{lang|zh-cn|临浦}}}}
+|
+|
+|
+|-bgcolor="lightgrey"
+|[[Taohuayuan Resort station|Taohuayuan Resort]]
+|{{large|{{lang|zh-cn|桃花源度假区}}}}
+|
+|
+|
+|-bgcolor="lightgrey"
+|[[Puyang station|Puyang]]
+|{{large|{{lang|zh-cn|浦阳}}}}
+|
+|
+|
+|-bgcolor="lightgrey"
+|[[Shifanqu station|Shifanqu]]
+|{{large|{{lang|zh-cn|示范区}}}}
+|
+|
+|
+|rowspan="7"|Zhuji, [[Shaoxing]]
+|-bgcolor="lightgrey"
+|[[Diankou station|Diankou]]
+|{{large|{{lang|zh-cn|店口}}}}
+|Shaoxing Metro: {{rint|shaoxing|S2}} (Planned)
+|
+|
+|-bgcolor="lightgrey"
+|[[Yaojiang station|Yaojiang]]
+|{{large|{{lang|zh-cn|姚江}}}}
+|
+|
+|
+|-bgcolor="lightgrey"
+|[[Shaoxing A&F University station|Shaoxing A&F University]]
+|{{large|{{lang|zh-cn|农林大学}}}}
+|
+|
+|
+|-bgcolor="lightgrey"
+|[[Jidong Road station|Jidong Road]]
+|{{large|{{lang|zh-cn|暨东路}}}}
+|
+|
+|
+|-bgcolor="lightgrey"
+|[[Shangmaocheng station|Shangmaocheng]]
+|{{large|{{lang|zh-cn|商贸城}}}}
+|
+|
+|
+|-bgcolor="lightgrey"
+|[[Wangjiajing station|Wangjiajing]]
+|{{large|{{lang|zh-cn|王家井}}}}
+|
+|
+|
+|- style = "background:#999999; height: 2pt"
+| colspan = "8" |
+|}
+
+===Shaoxing to Zhuji===
+Line S2 of [[Shaoxing Metro|Shaoxing Rail Transit]] (Shaoxing–Zhuji) is also under planning.<ref name=":0">{{Cite web |date=2020-06-08 |script-title=zh:绍兴市域铁路S2线（绍兴至诸暨）、绍兴市域铁路S3线（绍兴至嵊州新昌）预可行性研究项目招标公告 |url=http://www.sxsmtr.cn/index.php?m=content&c=index&a=show&catid=16&id=828 |url-status=live |archive-url=https://web.archive.org/web/20200719142839/http://www.sxsmtr.cn/index.php?m=content&c=index&a=show&catid=16&id=828 |archive-date=19 July 2020 |access-date=19 July 2020 |script-website=zh:绍兴轨道交通 |language=zh}}</ref>
+
+==Climate==
+{{Weather box
+| width = auto
+| metric first = y
+| single line = y
+| location = Zhuji (1991–2020 normals, extremes 1981–present)
+| Jan high C = 9.1
+| Feb high C = 11.8
+| Mar high C = 16.4
+| Apr high C = 22.7
+| May high C = 27.3
+| Jun high C = 29.4
+| Jul high C = 34.2
+| Aug high C = 33.5
+| Sep high C = 28.8
+| Oct high C = 23.8
+| Nov high C = 18.2
+| Dec high C = 11.8
+| Jan mean C = 4.9
+| Feb mean C = 7.1
+| Mar mean C = 11.3
+| Apr mean C = 17.2
+| May mean C = 22.1
+| Jun mean C = 25.1
+| Jul mean C = 29.3
+| Aug mean C = 28.6
+| Sep mean C = 24.3
+| Oct mean C = 18.8
+| Nov mean C = 13.0
+| Dec mean C = 7.0
+| Jan low C = 1.9
+| Feb low C = 3.7
+| Mar low C = 7.5
+| Apr low C = 12.9
+| May low C = 18.0
+| Jun low C = 21.8
+| Jul low C = 25.5
+| Aug low C = 25.1
+| Sep low C = 20.9
+| Oct low C = 14.9
+| Nov low C = 9.2
+| Dec low C = 3.5
+| Jan record high C = 24.6
+| Jan record low C = -9.3
+| Feb record high C = 28.5
+| Feb record low C = -5.6
+| Mar record high C = 34.0
+| Mar record low C = -3.4
+| Apr record high C = 34.2
+| Apr record low C = 0.4
+| May record high C = 36.1
+| May record low C = 8.8
+| Jun record high C = 38.5
+| Jun record low C = 12.5
+| Jul record high C = 40.8
+| Jul record low C = 18.0
+| Aug record high C = 42.5
+| Aug record low C = 18.0
+| Sep record high C = 38.7
+| Sep record low C = 11.2
+| Oct record high C = 34.2
+| Oct record low C = 2.0
+| Nov record high C = 31.4
+| Nov record low C = -3.3
+| Dec record high C = 25.2
+| Dec record low C = -13.2
+| year high C = 
+| year low C = 
+| year high F = 
+| year low F = 
+| precipitation colour = green
+| Jan precipitation mm = 87.3
+| Feb precipitation mm = 86.5
+| Mar precipitation mm = 138.7
+| Apr precipitation mm = 135.5
+| May precipitation mm = 138.3
+| Jun precipitation mm = 240.8
+| Jul precipitation mm = 141.5
+| Aug precipitation mm = 154.5
+| Sep precipitation mm = 104.5
+| Oct precipitation mm = 59.7
+| Nov precipitation mm = 74.7
+| Dec precipitation mm = 65.2
+| Jan humidity = 79
+| Feb humidity = 78
+| Mar humidity = 76
+| Apr humidity = 74
+| May humidity = 75
+| Jun humidity = 82
+| Jul humidity = 75
+| Aug humidity = 76
+| Sep humidity = 79
+| Oct humidity = 78
+| Nov humidity = 79
+| Dec humidity = 77
+| unit precipitation days = 0.1 mm
+| Jan precipitation days = 13.3
+| Feb precipitation days = 12.8
+| Mar precipitation days = 16.0
+| Apr precipitation days = 14.9
+| May precipitation days = 14.2
+| Jun precipitation days = 17.2
+| Jul precipitation days = 11.8
+| Aug precipitation days = 14.3
+| Sep precipitation days = 11.7
+| Oct precipitation days = 8.5
+| Nov precipitation days = 11.1
+| Dec precipitation days = 10.3
+| year precipitation days = 
+| Jan sun = 97.4
+| Feb sun = 99.8
+| Mar sun = 121.2
+| Apr sun = 145.3
+| May sun = 160.0
+| Jun sun = 129.2
+| Jul sun = 225.6
+| Aug sun = 204.3
+| Sep sun = 154.2
+| Oct sun = 149.7
+| Nov sun = 118.5
+| Dec sun = 115.4
+| year sun = 
+| Jan percentsun = 30
+| Feb percentsun = 32
+| Mar percentsun = 32
+| Apr percentsun = 37
+| May percentsun = 38
+| Jun percentsun = 31
+| Jul percentsun = 53
+| Aug percentsun = 50
+| Sep percentsun = 42
+| Oct percentsun = 43
+| Nov percentsun = 37
+| Dec percentsun = 36
+| year percentsun = 
+| Jan snow days = 3.8
+| Feb snow days = 2.5
+| Mar snow days = 0.8
+| Apr snow days = 0
+| May snow days = 0
+| Jun snow days = 0
+| Jul snow days = 0
+| Aug snow days = 0
+| Sep snow days = 0
+| Oct snow days = 0
+| Nov snow days = 0.1
+| Dec snow days = 1.6
+| year snow days = 
+| source 1 = [[China Meteorological Administration]]<ref name="cma graphical">{{cite web |url=http://data.cma.cn/data/weatherBk.html |script-title=zh:中国气象数据网 – WeatherBk Data |publisher=[[China Meteorological Administration]] |language = zh-hans |access-date=25 June 2023}}</ref><ref>
+{{cite web|url=https://experience.arcgis.com/template/e724038fda394e9d9b7921f10fd1aa55/page/%E7%BA%AF%E8%A1%A8%E6%A0%BC%E7%BB%9F%E8%AE%A1-(%E5%AF%B9%E6%AF%948110%E5%8F%98%E5%8C%96)/?org=UQmaps |script-title=zh:中国气象数据网|publisher=[[China Meteorological Administration]] |language = zh-hans | access-date =25 June 2023}}</ref>all-time extreme temperature<ref name = Mherrera>{{cite web
+|url= http://www.mherrera.org/temp.htm
+|title= Extreme Temperatures Around the World
+|access-date= 2024-09-22
+}}</ref>
+| source = 
+}}
+
+==Economy==
+Zhuji is located in the Yangtze River Delta Economic Zone. Although there is not much arable land per capita, relying on the rich water resources of the Puyang River, it has developed agriculture well since ancient time. During the period of the Republic of China, many people in Zhuji, like other Zhejiang people in the surrounding areas, left their hometowns to develop in Shanghai, and operated small workshops, small factories, and textile and nanny jobs. After the reform and opening up, we vigorously developed townships, home-based industries, and made considerable achievements in textile and hardware manufacturing. At the same time, the two natural and cultural hotspots of Xi Shi and Wu Xie are used to develop the tourism industry.
+Its modern civic strengths include an excellent educational system and robust economic development, especially in the production of [[pearls]], [[socks]] and embroidery machinery  [[Datang, Zhuji|Datang]].<ref name="Bloom2011">{{cite book|last=Bloom|first=Stephen G.|title=Tears of Mermaids: The Secret Story of Pearls|url=https://books.google.com/books?id=LeAmW3bY7zUC&pg=PA109|date=10 May 2011|publisher=St. Martin's Press|isbn=978-1-4299-2363-7|page=109}}</ref> Due to its pearl production, the city has become known as "The Pearl City".
+Apart from Pearl, it also has many other local specialties:
+The textile industry is well developed. It has the largest hosiery industry in the country.
+Small hardware industry. Spring, small and medium-sized bearings.
+Rich in freshwater pearls, it has the largest pearl trading market in China and is known as the hometown of pearls.
+Citron is also a local specialty tea.
+
+==Gallery==
+<gallery>
+File:Purification Festival at the Orchid Pavilion.jpg|''Purification Festival at the Orchid Pavilion'', depicting a famed gathering at [[Wang Xizhi]]'s estate in Zhuji, Zhejiang Province
+</gallery>
+
+==References==
+{{reflist}}
+
+== External links ==
+{{commons category|Zhuji}}
+* [https://web.archive.org/web/20070104210539/http://www.zhuji.gov.cn/enportal/index.html Official Portal of Zhuji City]
+* [http://www.zjbbs.net/index.php Club of Zhuji City]
+
+{{County-level divisions of Zhejiang}}
+{{Authority control}}
+
+[[Category:Zhuji| ]]
+[[Category:County-level cities in Zhejiang]]
+[[Category:Shaoxing]]

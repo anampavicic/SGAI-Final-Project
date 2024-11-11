@@ -1,0 +1,967 @@
+{{About|the American city|the Russian city|Saint Petersburg}}
+{{redirect|St. Petersburg, United States|other places in the United States|Saint Petersburg (disambiguation)#Places}}
+
+{{Use mdy dates|date=April 2017}}
+{{Infobox settlement
+| name               = St. Petersburg
+| settlement_type    = [[City (Florida)|City]]
+| nickname           = "St. Pete"; "Florida's Sunshine City"
+| motto              = "Always in Season"
+<!-- images and maps ----------->| image_skyline      = {{Plain image with caption|image=St Pete Skyline from Pier.jpg|caption= {{center|St. Petersburg Skyline}}|align=center|caption position=bottom|width=275px}} 
+{{collapsible list|expand=true|title=ㅤ|
+{{multiple image
+| border                   = infobox
+| total_width              = 275
+| caption_align            = center
+| perrow = 2/2/2/2
+| image2 = St. Pete Dali Museum03.jpg
+| caption2 = [[Salvador Dali Museum]]
+| image3 = SunshineSkywayBridge-4SC 6643-15.jpg
+| caption3 = [[Sunshine Skyway Bridge]]
+| image4 = St. Pete Pier - East.jpg
+| caption4 = [[St. Petersburg Pier]]
+| image5 = Vinoy Park.jpg
+| caption5 = [[Vinoy Park]]
+| image6 = Museum of Fine Arts St. Petersburg.JPG
+| caption6 = [[Museum of Fine Arts (St. Petersburg, Florida)]]
+| image7 = Tropicana field from air.JPG
+| caption7 = [[Tropicana Field]]
+| image8 = Mahaffey Theater.jpg
+| caption8 = [[Mahaffey Theater]]
+| image9 = St. Petersburg FL Sunken Gardens sign04.jpg|St. Petersburg 
+FL Sunken Gardens sign04
+| caption9 = [[Sunken Gardens (Florida)|Sunken Gardens]]
+}}}}
+| image_flag         = Flag of St. Petersburg, Florida.svg
+| image_seal         = Seal of St. Petersburg, Florida.svg
+| image_map          = {{maplink
+  | frame              = yes
+  | plain              = yes
+  | frame-align        = center
+  | frame-width        = 280
+  | frame-height       = 280
+  | frame-coord        = {{coord|qid=Q49236}}
+  | zoom               = 10
+  | type               = shape
+  | marker             = city
+  | stroke-width       = 2
+  | stroke-color       = #0096FF
+  | fill               = #0096FF
+  | id2                = Q49236
+  | type2              = shape-inverse
+  | stroke-width2      = 2
+  | stroke-color2      = #5F5F5F
+  | stroke-opacity2    = 0
+  | fill2              = #000000
+  | fill-opacity2      = 0
+}}
+| map_caption        = Interactive map of St. Petersburg
+| pushpin_map        = Florida#USA
+| pushpin_relief     = yes
+| pushpin_label      = {{nowrap|St. Petersburg}}
+| pushpin_label_position = left
+| coordinates        = {{coord|27|46|23|N|82|38|24|W|type:city_region:US-FL|display=inline,title}}
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = [[United States]]
+| subdivision_type1  = [[U.S. state|State]]
+| subdivision_name1  = [[Florida]]
+| subdivision_type2  = [[List of counties in Florida|County]]
+| subdivision_name2  = [[Pinellas County, Florida|Pinellas]]
+<!-- Politics ----------------->| government_footnotes = 
+| government_type    = [[Mayor-council government|Strong Mayor-Commission]]
+| leader_title       = [[Mayor]]
+| leader_name        = [[Ken Welch]]
+| leader_party       = [[Democratic Party (United States)|D]]
+| leader_title1      = [[City Council]]
+| leader_name1       = Charles Copley Gerdes,<br />Brandi Gabbard,<br />Ed Montanari,<br />Lisset Hanewicz,<br />Deborah Figgs-Sanders<br />Gina Driscoll,<br />John Muhammad, and<br />Richie Floyd
+| leader_title2      = [[City Manager|City Administrator]]
+| leader_name2       = Robert Gerdes
+| leader_title3      = [[City Clerk]]
+| leader_name3       = Chandrahasa Srinivasa
+| leader_title4      = [[City Attorney]]
+| leader_name4       = Jacqueline Kovilaritch
+| established_title  = [[Settler colonialism|Founded]]
+| established_date   = 1888
+| established_title2 = [[Municipal corporation|Incorporated]] [[Town (Florida)|(Town of St. Petersberg)]]
+| established_date2  = February 29, 1892
+| established_title3 = [[Municipal corporation|Reincorporated]] [[City (Florida)|(City of St. Petersburg)]]
+| established_date3  = June 6, 1903
+| named_for          = [[Saint Petersburg]], [[Russia]]
+<!-- elevation --------------------->| elevation_footnotes = <!--for references: use ref-tags-->
+| elevation_m        = 13.4
+| elevation_ft       = 44
+<!-- Area --------------------->| area_magnitude     = 
+| unit_pref          = Imperial
+| area_footnotes     = <ref name="CenPopGazetteer2020">{{cite web|title=2020 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2020_Gazetteer/2020_gaz_place_12.txt|publisher=United States Census Bureau|access-date=December 2, 2021|archive-date=March 18, 2021|archive-url=https://web.archive.org/web/20210318014648/https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2020_Gazetteer/2020_gaz_place_12.txt|url-status=live}}</ref>
+| area_total_km2     = 350.93
+| area_land_km2      = 160.24
+| area_water_km2     = 190.69
+| area_total_sq_mi   = 135.49
+| area_land_sq_mi    = 61.87
+| area_water_sq_mi   = 73.63
+| area_water_percent = 
+| area_urban_km2     = 
+| area_urban_sq_mi   = 
+| area_metro_km2     = 
+| area_metro_sq_mi   = 
+| area_blank1_title  = 
+| area_blank1_km2    = 
+| area_blank1_sq_mi  = <!-- Population ----------------------->
+| population_as_of   = [[2020 United States census|2020]]
+| population_footnotes = 
+| population_note    = 
+| population_total   = 258308
+| population_rank    = [[List of United States cities by population|86th]]
+| population_density_km2 = 1612.01
+| population_density_sq_mi = 4175.08
+| population_metro   = 2,870,569 ([[List of Metropolitan Statistical Areas|18th]])
+| population_density_metro_km2 = 
+| population_density_metro_sq_mi = 
+| population_urban   = 2,441,770 ([[List of United States urban areas|17th]])
+| population_density_urban_km2 = 
+| population_density_urban_sq_mi = 
+| population_blank1_title = 
+| population_blank1  = 
+| population_density_blank1_km2 = 
+| population_density_blank1_sq_mi = <!-- General information --------------->
+| population_demonym = 
+| timezone           = Eastern (EST)
+| utc_offset         = −05:00
+| timezone_DST       = EDT
+| utc_offset_DST     = −04:00
+<!-- Area/postal codes & others -------->| postal_code_type   = [[ZIP Code]]s
+| postal_code        = 33701-33716, 33729-33734, 33736, 33738, 33740-33743, 33747, 33784
+| area_code          = [[Area code 727|727]]
+| blank_name         = [[Federal Information Processing Standard|FIPS code]]
+| blank_info         = 12-63000<ref>{{cite web|url=http://quickfacts.census.gov/qfd/states/12/1263000.html|publisher=United States Census Bureau|access-date=December 6, 2015|title=American FactFinder|archive-url=https://web.archive.org/web/20120916100949/http://quickfacts.census.gov/qfd/states/12/1263000.html|archive-date=September 16, 2012|url-status=dead}}</ref>
+| blank1_name        = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info        = 290375<ref>{{cite web|url=http://geonames.usgs.gov/|access-date=January 31, 2008|title=US Board on Geographic Names|publisher=United States Geological Survey|date=December 7, 2015|archive-date=February 12, 2012|archive-url=https://web.archive.org/web/20120212191832/http://geonames.usgs.gov/|url-status=live}}</ref>
+| website            = {{URL|https://www.stpete.org/}}
+| pop_est_as_of      = 2022
+| pop_est_footnotes  = 
+| population_est     = 261256
+}}
+
+'''St. Petersburg''' is a city in [[Pinellas County, Florida]], United States. As of the 2020 census, the population was 258,308, making it the [[List of municipalities in Florida|fifth-most populous city]] in Florida and the most populous city in the state that is not a county seat (the city of [[Clearwater, Florida|Clearwater]] is the seat of Pinellas County).<ref>{{cite web |url=https://www.census.gov/ |title=Age Groups and Sex: 2010 – State — Place (GCT-P2): Florida |publisher=[[United States Census Bureau]] |access-date=May 8, 2012 |df=mdy |archive-date=July 9, 2021 |archive-url=https://web.archive.org/web/20210709054630/https://www.census.gov/ |url-status=live }}</ref> It is the second-most populous city in the [[Tampa Bay area]], which is the second-largest [[metropolitan area]] in Florida with an estimated population of about 3.29 million in 2022.<ref>{{Cite web |date=2022 |title=Total Population Tampa-St. Petersburg-Clearwater, FL Metro Area |url=https://data.census.gov/table?text=population&g=310XX00US45300 |access-date=September 10, 2024 |website=United States Census Bureau}}</ref>
+
+St. Petersburg is located on the [[Pinellas]] [[peninsula]] between [[Tampa Bay]] and the [[Gulf of Mexico]], and is connected to mainland Florida to the north. Locals often refer to the city as '''St. Pete'''. Neighboring [[St. Pete Beach, Florida|St. Pete Beach]] formally shortened its name in 1994 after a vote by its residents. St. Petersburg is governed by a mayor and city council.<ref>{{cite web|title = Welcome to City of St. Petersburg|url = http://www.stpete.org/|website = www.stpete.org|access-date = September 30, 2015|archive-date = February 27, 2011|archive-url = https://web.archive.org/web/20110227002405/http://stpete.org/|url-status = live}}</ref>
+
+With an average of 361 days of sunshine annually, and a [[Guinness World Records|Guinness World Record]] for the most consecutive days of sunshine (768 days between 1967 and 1969),<ref name="stpetedotorg">{{cite web |url=http://www.stpete.org/ataglance.asp |title=St. Petersburg At A Glance |access-date=October 5, 2013 |archive-date=October 5, 2013 |archive-url=https://web.archive.org/web/20131005095130/http://www.stpete.org/ataglance.asp |url-status=dead }}</ref><ref>{{cite web|url=http://www.currentresults.com/Weather-Extremes/US/sunniest.php|title=Sunniest Places in United States|last=Osborn|first=Liz|website=CurrentResults.com|access-date=November 10, 2015|archive-date=August 2, 2013|archive-url=https://web.archive.org/web/20130802073530/http://www.currentresults.com/Weather-Extremes/US/sunniest.php|url-status=live}}</ref> it is nicknamed "The Sunshine City."<ref name="stpetedotorg" /> Located on the Gulf of Mexico, the average water temperature is typically around {{convert|76|F|C}}.<ref>{{Cite web|title=St. Petersburg Florida - Things to Do & Attractions in St. Petersburg FL|url=https://www.visitflorida.com/en-us/cities/st-petersburg.html|access-date=2020-10-22|website=Visit Florida|date=March 25, 2020 |language=en-US|archive-date=October 16, 2020|archive-url=https://web.archive.org/web/20201016170123/https://www.visitflorida.com/en-us/cities/st-petersburg.html|url-status=live}}</ref> Due to its good weather, the city has long been a popular retirement destination, although in recent years the population has moved in a much more youthful direction.<ref name=":4">{{cite web|url=http://www.sptimes.com/2004/03/03/Tampabay/_God_s_waiting_room__.shtml|title=Tampabay: 'God's waiting room?' Try 'great place to live'|last=Johnson|first=Carrie|date=March 3, 2004|website=St. Petersburg Times|access-date=November 10, 2015|archive-date=March 4, 2016|archive-url=https://web.archive.org/web/20160304091754/http://www.sptimes.com/2004/03/03/Tampabay/_God_s_waiting_room__.shtml|url-status=live}}</ref>
+
+==History==
+{{Main|History of St. Petersburg, Florida}}
+{{For timeline}}
+
+===Early Spanish exploration===
+When the Spanish first arrived in the area of Tampa Bay, they encountered people of the [[Safety Harbor culture]]. About 20 sites with [[Safety Harbor culture#Temple mounds|temple mounds]] have been found around Tampa Bay, with several in Pinellas County. Best known of the Safety Harbor people was the chiefdom of [[Tocobaga]], which was likely located at the [[Safety Harbor site]] in [[Philippe Park]] in northern Pinellas County. The [[Pánfilo de Narváez]] expedition landed on the shores of [[Boca Ciega Bay]] at the [[Jungle Prada Site]] on April 14, 1528. It was the first inland exploration of North America. Of 300 men on the expedition only four survived. One of the survivors of the expedition, [[Álvar Núñez Cabeza de Vaca]], wrote the first book describing the peoples, wildlife, flora and fauna of inland North America in his ''Relacion'', published in Spain in 1542.<ref>{{Cite news |last=Perry |first=Mac |date=September–October 1993 |title=Making the Mounds |url=https://books.google.com/books?id=nge8ww8jizMC&dq=tocobaga+tampa+bay&pg=PA60 |url-status=live |journal=Tampa Bay Magazine |volume=8 |issue=5 |pages=60–61 |archive-url=https://web.archive.org/web/20230102200812/https://books.google.com/books?id=nge8ww8jizMC&pg=PA60&dq=tocobaga+tampa+bay&hl=en&sa=X&ved=2ahUKEwj-koe4zqn8AhX4nGoFHc2RCUQQ6AF6BAgBEAM#v=onepage&q=tocobaga%20tampa%20bay&f=false |archive-date=January 2, 2023}}</ref><ref>{{cite book | last=MacDougald |first=James | title= ''The Pánfilo de Narváez Expedition of 1528: Highlights of the Expedition and Determination of the Landing Place''|year=2018 |publisher= Marsden House |location=St. Petersburg | isbn= 978-1-4834-8671-0}}</ref><ref>{{cite book|last=Adorno|first=Rolena|title=Álvar Núñez Cabeza de Vaca: His Account, His Life, and the Expedition of Panfilo de Narváez|author2=Pautz, Patrick|date=1999-09-15|publisher=[[University of Nebraska Press]]|isbn=978-0-8032-1463-7|location=Lincoln}}, 3 vols.</ref>
+
+===19th century===
+The city was co-founded by [[John Constantine Williams Sr.|John C. Williams]], formerly of [[Detroit]], who purchased the land in 1875, and by [[Peter Demens]], who was instrumental in bringing the terminus of the [[Orange Belt Railway]] there in 1888.<ref name=":2">{{cite web|title = History of St. Petersburg|url = http://www.stpete.org/history_and_preservation/|website = www.stpete.org|access-date = September 30, 2015|archive-date = July 7, 2017|archive-url = https://web.archive.org/web/20170707052213/http://www.stpete.org/history_and_preservation/|url-status = dead}}</ref> St. Petersburg was incorporated as a town on February 29, 1892, when it had a population of 300 people.<ref name=":7">{{cite web|title = What happened on February 29 in 1892 year|url = http://historyindates.com/29-february-1892/|website = historyindates.com|access-date = September 30, 2015|archive-date = October 1, 2015|archive-url = https://web.archive.org/web/20151001121807/http://historyindates.com/29-february-1892/|url-status = dead}}</ref><ref>{{Cite book|title = Remembering St. Petersburg, Florida: Sunshine City Stories|url = https://books.google.com/books?id=9ibVfj8Ql4MC|publisher = The History Press|date = January 1, 2006|isbn = 9781596291201|first = Scott Taylor|last = Hartzell}}</ref>{{page needed|date=September 2021}}
+
+Local lore claims John C. Williams and Peter Demens flipped a coin to see who would have the honor of naming the city.<ref name=":6">{{cite web|url=https://news.google.com/newspapers?nid=1144&dat=19350210&id=a3EbAAAAIBAJ&pg=6114,6870513&hl=en|title=St. Petersburg Founded By Sufferer From Asthma|date=February 10, 1935|website=news.google.com|publisher=The Pittsburgh Press|access-date=November 29, 2016|archive-date=November 21, 2021|archive-url=https://web.archive.org/web/20211121001941/https://news.google.com/newspapers?nid=1144&dat=19350210&id=a3EbAAAAIBAJ&pg=6114%2C6870513&hl=en|url-status=live}}</ref><ref>''A founding grandfather lives in lore.'' Monica Davey. ''St. Petersburg Times'' (Florida). ''Largo-Seminole Times''; Pg. 6. May 23, 1994.</ref> When Demens won the coin toss, the city was named after [[Saint Petersburg|Saint Petersburg, Russia]], where Peter Demens had spent half of his youth,<ref>{{cite web|title = Peter Demens, founder of St. Petersburg, Florida|url = http://www.saint-petersburg.com/famous-people/peter-demens/|website = www.saint-petersburg.com|access-date = September 30, 2015|archive-date = May 15, 2017|archive-url = https://web.archive.org/web/20170515002116/http://www.saint-petersburg.com/famous-people/peter-demens/|url-status = live}}</ref> while John C. Williams named the first hotel after his birthplace, Detroit (a hotel built by Demens).<ref name=":2" /><ref>{{cite web |url=http://www.hmdb.org/Marker.asp?Marker=4666 |title=Historical Marker Database |publisher=Hmdb.org |date=January 10, 2008 |access-date=December 10, 2011 |archive-date=August 9, 2017 |archive-url=https://web.archive.org/web/20170809041846/https://www.hmdb.org/Marker.asp?Marker=4666 |url-status=live }}</ref> The Detroit Hotel still exists downtown on Central Ave, but has been turned into a [[Condominium (living space)|condominium]].<ref>{{cite web|title = Inside Detroit Hotel, condo owners don't want historic tag from St. Petersburg|url = http://www.tampabay.com/news/localgovernment/inside-detroit-hotel-condo-owners-dont-want-historic-tag-from-st-petersburg/1077252|website = Tampa Bay Times|access-date = September 30, 2015|url-status = dead|archive-url = https://web.archive.org/web/20151001124755/http://www.tampabay.com/news/localgovernment/inside-detroit-hotel-condo-owners-dont-want-historic-tag-from-st-petersburg/1077252|archive-date = October 1, 2015|df = mdy-all}}</ref>
+
+The oldest operating hotels are the Pier Hotel (formally Hotel Cordova), built in 1921, and The Exchange Hotel (formally The Heritage Hotel), built in 1926.<ref>{{Cite web |last=Zucker |first=Brian |title=New boutique hotel to replace former Hotel Indigo in downtown St. Pete |url=https://stpeterising.com/home/2021/10/21/new-boutique-hotel-to-replace-former-hotel-indigo-in-downtown-st-pete |access-date=2022-07-16 |website=St. Pete Rising |date=October 21, 2021 |language=en-US |archive-date=July 16, 2022 |archive-url=https://web.archive.org/web/20220716231346/https://stpeterising.com/home/2021/10/21/new-boutique-hotel-to-replace-former-hotel-indigo-in-downtown-st-pete |url-status=live }}</ref><ref>{{cite web|title = History of The Cordova Inn and The Pier Hotel and the Hotel Cordova|url = http://www.cordovainnstpete.com/history/|website = www.cordovainnstpete.com|access-date = September 30, 2015|archive-date = June 21, 2017|archive-url = https://web.archive.org/web/20170621045310/http://www.cordovainnstpete.com/history/|url-status = live}}</ref>
+
+The first major newspaper to debut in Tampa Bay was the ''[[Tampa Bay Times|St. Petersburg Times]]'' which established in 1884.<ref>{{cite web |title=Times History |url=http://www.tampabay.com/company/about-us/times-history |access-date=October 2, 2015 |website=www.tampabay.com |archive-date=May 23, 2017 |archive-url=https://web.archive.org/web/20170523113206/http://www.tampabay.com/company/about-us/times-history |url-status=dead }}</ref> [[Philadelphia]] publisher [[F. A. Davis]] turned on St. Petersburg's first electrical service in 1897.<ref name="Davis">{{cite book
+|last=Hartzell
+|first=Scott Taylor
+|title=Remembering St. Petersburg, Florida: Sunshine City Stories
+|publisher=The History Press
+|isbn=1-59629-120-6
+|year=2006
+|chapter-url=https://books.google.com/books?id=9ibVfj8Ql4MC&pg=PA51
+|chapter=Frank Allston Davis: He Lit Up the Town
+|page=53
+}}</ref> The city's first major industry was born in 1899 when Henry W. Hibbs (1862–1942), a native of [[Newport, North Carolina]], established his wholesale fish business at the end of the railroad pier, which extended out to the shipping channel. Within a year, Hibbs Fish Company was shipping more than {{convert|1000|lb}} of fish each day.<ref name="Deese">{{Cite book|title = St. Petersburg, Florida: A Visual History|url = https://books.google.com/books?id=uYYdTwWN1WYC|publisher = The History Press|date = January 1, 2006|isbn = 9781596290952|first = Alma Wynelle|last = Deese}}</ref>
+
+=== 20th century ===
+St. Petersburg was incorporated as a city in June 1903.<ref name=":2" /> With this transition, the development of the downtown waterfront had dredging of a deeper shipping channel from 1906 to 1908 which opened St. Petersburg to larger shipping. Further dredging improved the port facilities through the 1910s.<ref>{{Cite web|url=http://go.galegroup.com/ps/i.do?p=ITOF&sw=w&v=2.1&id=GALE%7CA102502593&it=r&asid=dab87cacde568bc6a3719a6738cf9f94|title=General OneFile - Document - Vision for city harbor was met with criticism|website=go.galegroup.com|access-date=October 27, 2016|archive-date=September 30, 2023|archive-url=https://web.archive.org/web/20230930000835/https://go.gale.com/ps/i.do?p=ITOF&sw=w&v=2.1&id=GALE%7CA102502593&it=r&asid=dab87cacde568bc6a3719a6738cf9f94&userGroupName=anon%7E1b744507&aty=open-web-entry|url-status=live}}</ref> By then the city's population had quadrupled to a population of 4,127 citizens.<ref>{{Cite book|title = Moody's Manual of Investments: American and Foreign|url = https://books.google.com/books?id=CNhHAQAAMAAJ|publisher = Moody's Investors Service|date = January 1, 1922|first = John Sherman|last = Porter|access-date = November 10, 2015|archive-date = September 30, 2023|archive-url = https://web.archive.org/web/20230930000931/https://books.google.com/books?id=CNhHAQAAMAAJ|url-status = live}}</ref> F. A. Davis was instrumental to bringing the first [[Tram|trolley]] service in 1904.<ref name="Davis" />
+{{Multiple image
+| direction         = horizontal
+| image1            = 1906 St. Petersburg, Florida.JPG
+| image2            = Central Avenue, Looking West, St. Petersburg, FL.jpg
+| caption1          = 1906 postcard of painting by W.L. Straub of St. Petersburg
+| caption2          = Central Avenue c. 1910
+| width             = 
+| width2            = 182
+| width1            = 410
+| align             = center
+}}
+
+
+In 1914, [[Al Lang]] invited the [[St. Louis Browns]] to move their spring training into the city, then worked tirelessly to make Grapefruit League training in and around St. Petersburg the destination for baseball teams and their fans by the 1920s. Lang eventually became mayor and ambassador for the city, and helped its permanent population grow tenfold in just a decade.<ref>{{cite web|title = History of Tampa Bay Baseball|url = http://tampabay.rays.mlb.com/tb/history/tb_history_tampabay.jsp|website = Tampa Bay Rays|access-date = October 1, 2015|archive-date = July 7, 2017|archive-url = https://web.archive.org/web/20170707140416/http://tampabay.rays.mlb.com/tb/history/tb_history_tampabay.jsp|url-status = dead}}</ref>[[File:Benoist Type XIV first airline takeoff.jpg|thumb|The [[Benoist XIV]] pictured taking off for the first time on January 1, 1914|214x214px]]
+
+In 1914 an airplane service across Tampa Bay from St. Petersburg to Tampa and back was initiated, generally considered the first scheduled commercial airline flight. The flight took former mayor Abe Pheil to Tampa.<ref name="10 Fun Facts about St. Petersburg">{{cite web |title=10 Fun Facts about St. Petersburg |url=http://visitstpeteflorida.com/10-fun-facts-about-st-petersburg/ |website=Visit St. Pete Florida |access-date=17 August 2020 |archive-date=October 25, 2020 |archive-url=https://web.archive.org/web/20201025015055/http://visitstpeteflorida.com/10-fun-facts-about-st-petersburg/ |url-status=live }}</ref> The company name was the [[St. Petersburg-Tampa Airboat Line]], and the pilot was [[Tony Jannus]] flying a [[Benoist XIV]] [[flying boat]].<ref>{{cite web|title = The First Commercial Flight|url = http://www.firstflightcentennial.org/the-first-commercial-flight/|website = www.firstflightcentennial.org|access-date = September 30, 2015|archive-date = June 10, 2017|archive-url = https://web.archive.org/web/20170610170345/http://www.firstflightcentennial.org/the-first-commercial-flight|url-status = live}}</ref> The Tony Jannus Award is presented annually for outstanding achievement in the airline industry.<ref>{{cite web|title = Tony Jannus Award – Outstanding Achievements in the Field of Scheduled Air Transportation|url = http://www.tonyjannusaward.com/|website = www.tonyjannusaward.com|access-date = September 30, 2015|archive-date = November 13, 2015|archive-url = https://web.archive.org/web/20151113051321/http://www.tonyjannusaward.com/|url-status = live}}</ref>
+
+St. Petersburg's first library opened on December 1, 1915, which still operates to this day as the [[Mirror Lake Library]].<ref name=":2" /><ref>{{cite web|url = http://www.stpete.org/historic_preservation/historic_landmarks/local_landmarks/docs/St__Pete_Public_Library.pdf|title = St. Petersburg Public Library, Mirror Lake Branch|access-date = September 30, 2015|website = www.stpete.org|archive-url = https://web.archive.org/web/20110410075940/http://www.stpete.org/historic_preservation/historic_landmarks/local_landmarks/docs/St__Pete_Public_Library.pdf|archive-date = April 10, 2011|url-status = dead}}</ref>
+
+The city and its tourism industry burgeoned in the 1920s, with up to a quarter million visitors annually coming from Canada, the North and the Midwest by automobile, yacht, and railroad. The city was the principal [[Gulf Coast]] destination for long-distance trains of the [[Atlantic Coast Line Railroad]]'s ''[[Southland (train)|Southland]]'' (from Chicago and Cincinnati) and ''Gulf Coast Limited''<ref>{{cite journal |title=Atlantic Coast Line Railroad, Tables 4, 13 |journal=Official Guide of the Railways |publisher=National Railway Publication Company |volume=64 |issue=9 |date=February 1932}}</ref> (from New York, succeeded by the ''[[Champion (train)#Atlantic Coast Line|West Coast Champion]]''), and [[Seaboard Air Line Railroad]] trains such as the ''Southern States Special''<ref>{{cite journal |title=Seaboard Air Line Railway, Tables 2, 4 |journal=Official Guide of the Railways |publisher=National Railway Publication Company |volume=64 |issue=9 |date=February 1932}}</ref> (from New York, succeeded by the ''[[Silver Meteor]]''). Travel time from across the bay was cut due to the [[Gandy Bridge]]'s opening in 1924, allowing direct access to Tampa and the rest of central Florida.
+
+The city took on a Mediterranean flair, with [[Old Spanish Trail (auto trail)|Old Spanish Trail]] style architecture promoted by [[Snell Isle]] founder Perry Snell, whose new country club island homes adopted many elements of Moorish design. Those same elements<ref name=":2" /> were echoed in the city's new Vinoy, Jungle Country Club, Don Cesar and other fine hotels, as well as in Snell's new skyscraper office building downtown.<ref>{{cite web |title=History of St. Petersburg |url=http://www.stpete.org/history_and_preservation/index.php |website=St. Petersburg |publisher=City of St. Petersburg |access-date=12 August 2020 |archive-date=April 11, 2020 |archive-url=https://web.archive.org/web/20200411225546/http://www.stpete.org/historic_preservation/historic_landmarks/local_landmarks/hotels.asp |url-status=live }}</ref> The 1926 opening of the Million Dollar Pier marked the peak of the boom, adding an attraction that brought both tourists and townspeople together to enjoy fishing, amusements, trolley access and even a local radio station.<ref name=":5">{{cite web|title = The New St Pete Pier|url = http://www.newstpetepier.com/history.php|website = www.newstpetepier.com|access-date = October 1, 2015|archive-date = May 22, 2017|archive-url = https://web.archive.org/web/20170522013729/http://www.newstpetepier.com/history.php|url-status = live}}</ref>
+
+The St. Petersburg flag was created in 1927 and was designed by Mayor C.J. Maurer along with a committee of other public officials. It featured an array of colors symbolic of St. Pete's culture including the sunshine, water and land. The idea came after officials called for a new logo which later became the design for the flag. The pelican featured in the center became a symbol for the "Feed the Pelican Fund" which has supported the birds during the winter months.<ref>{{cite web |title=St. Petersburg, Florida (U.S.) |url=https://www.crwflags.com/fotw/flags/us-fl-sp.html#:~:text=of%20David%20B.-,St.,a%20municipal%20flag)%2C%20Commissioner%20R.%20C. |website=CRW Flags |access-date=11 September 2020 |archive-date=August 24, 2020 |archive-url=https://web.archive.org/web/20200824195440/https://www.crwflags.com/fotw/Flags/us-fl-sp.html#:~:text=of%20David%20B.-,St.,a%20municipal%20flag)%2C%20Commissioner%20R.%20C. |url-status=live }}</ref>
+
+Tourism declined by the late 1920s and early 1930s due to the [[Great Depression]]. The city recovered later in the 1930s with the help of the [[Public Works Administration]], including a $10 million investment plan in 1939 which helped build the St. Petersburg City Hall.<ref name=":2" /> The second World War brought renewed growth, as the city's Bayboro Harbor became a training base for the [[United States Coast Guard|U.S. Coast Guard]]<ref name="Deese" /> and the [[United States Army Air Forces|Army Air Force]] chose the city as their technical service training station.<ref>{{cite web|title = War Comes to Florida: Military|url = http://fcit.usf.edu/wwii/military.php|website = fcit.usf.edu|access-date = October 1, 2015|archive-date = September 10, 2017|archive-url = https://web.archive.org/web/20170910172736/http://fcit.usf.edu/wwii/military.php|url-status = live}}</ref> The hotels filled for the first time in years, as up to 100,000 troops came to St. Petersburg.<ref>{{cite web|title = Florida During World War II|url = http://fcit.usf.edu/florida/lessons/ww_ii/ww_ii1.htm|website = fcit.usf.edu|access-date = October 1, 2015|archive-date = March 12, 2017|archive-url = https://web.archive.org/web/20170312051844/https://fcit.usf.edu/florida/lessons/ww_ii/ww_ii1.htm|url-status = live}}</ref> After the war, many of those troops who were stationed in St. Petersburg returned as residents or tourists.<ref name=":2" />[[File:Spa Beach in St. Petersburg, Florida.jpg|thumb|Segregated<ref>{{Cite web |date=2021-04-07 |title=Water as A Divider: When Beaches Were Not For All - Florida Humanities |url=https://floridahumanities.org/water-as-a-divider-when-beaches-were-not-for-all/ |access-date=2023-06-21 |language=en-US |archive-date=June 21, 2023 |archive-url=https://web.archive.org/web/20230621031030/https://floridahumanities.org/water-as-a-divider-when-beaches-were-not-for-all/ |url-status=live }}</ref><ref name=":15">{{Cite web |last=Paulson |first=Darryl |date=December 1, 1982 |title=Stay Out, The Water's Fine: Desegregating Municipal Swimming Facilities In St. Petersburg, Florida |url=https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1101&context=tampabayhistory |url-status=live |website=Digital Commons University of South Florida (USF) |volume=4 |issue=2 |pages=5–7, 10 |archive-url=https://web.archive.org/web/20230621030757/https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1101&context=tampabayhistory |archive-date=June 21, 2023}}</ref> Spa Beach, in downtown St. Petersburg, 1954|201x201px]]
+
+In the 1950s, St. Petersburg experienced another population boom, with the return of retiree resettlement to the city. In 1954 the original [[Sunshine Skyway Bridge]] opened its first span to link St. Petersburg with [[Manatee County, Florida|Manatee County]], connecting the next year to [[U.S. Route 19]] in the city. With a large influx of car traffic, it was decided to remove the city's streetcar lines.<ref>{{cite web|title = St. Petersburg and Clearwater / Florida's Waterfront Communities and Commercial Fishing Heritage / Recreation / Consumer Resources / Marketing and Development / Divisions & Offices / Home – Florida Department of Agriculture & Consumer Services|url = http://www.freshfromflorida.com/Divisions-Offices/Marketing-and-Development/Consumer-Resources/Recreation/Florida-s-Waterfront-Communities-and-Commercial-Fishing-Heritage/St.-Petersburg-and-Clearwater|website = www.freshfromflorida.com|access-date = October 1, 2015|url-status = dead|archive-url = https://web.archive.org/web/20151003054031/http://www.freshfromflorida.com/Divisions-Offices/Marketing-and-Development/Consumer-Resources/Recreation/Florida-s-Waterfront-Communities-and-Commercial-Fishing-Heritage/St.-Petersburg-and-Clearwater|archive-date = October 3, 2015|df = mdy-all}}</ref><ref name=":3">{{cite web|url = http://www.pinellascounty.org/Plan/pdf_files/PCHB.pdf|title = Pinellas County Historical Background|access-date = October 1, 2015|website = www.pinellascounty.org|archive-date = January 24, 2016|archive-url = https://web.archive.org/web/20160124145931/http://www.pinellascounty.org/plan/pdf_files/PCHB.pdf|url-status = live}}</ref>
+
+From 1955 to 1959, Black residents led [[St. Petersburg Swim-in's|concerted swim-ins]] of the segregated Spa Beach & Spa pool. The St. Petersburg government continually fought this, closing the beach repeatedly and arresting protesters. This continued up to & after the ''[[Alsup v. St. Petersburg]]''  ruling in April 1957 that St. Petersburg could not segregate the beach or pool. After continued pressure from residents through swim-in's, on January 6, 1959, the government officially reopened them as an integrated beach and pool.<ref name=":15" />[[File:Richard and Pat Nixon during a campaign parade- St. Petersburg, Florida (8008877547).jpg|thumb|[[Richard Nixon]] campaign parade in St. Petersburg, October 18, 1960|200x200px]]The development of major transportation continued into the 1960s with the completion of the [[Howard Frankland Bridge]] in 1960, creating another connection between St. Petersburg and Tampa.<ref name=":3" /> St. Petersburg also received its first stadium named the [[Bayfront Center]] which hosted the first professional hockey league in Tampa Bay.<ref>{{cite web|title = Suncoast suns|url = http://www.suncoastsuns.com/|website = www.suncoastsuns.com|access-date = October 1, 2015|archive-date = September 26, 2015|archive-url = https://web.archive.org/web/20150926040215/http://suncoastsuns.com/|url-status = live}}</ref><ref>{{cite web|title = Eastern Hockey League Arenas|url = http://theehl.com/page/arenas.htm|website = theehl.com|access-date = October 1, 2015|archive-date = March 4, 2016|archive-url = https://web.archive.org/web/20160304091228/http://theehl.com/page/arenas.htm|url-status = live}}</ref> A new municipal marina and the [[Museum of Fine Arts (St. Petersburg, Florida)|Museum of Fine Arts]] were also built downtown.<ref name=":2" /> St. Petersburg is home to one of the world's largest reclaimed water systems that was built in the 1970s which flows 37 million gallons of water per day to provide for customers located throughout the city.<ref>{{cite web|title = SL308/SS520: History and Current Status of Reclaimed Water Use in Florida|url = https://edis.ifas.ufl.edu/ss520|website = edis.ifas.ufl.edu|access-date = October 2, 2015|first = Gurpal S. Toor and Donald P.|last = Rainey|archive-date = October 3, 2015|archive-url = https://web.archive.org/web/20151003060842/https://edis.ifas.ufl.edu/ss520|url-status = dead}}</ref><ref>{{cite web|title = Reclaimed Water|url = http://www.stpete.org/water/reclaimed_water.php|website = www.stpete.org|access-date = October 2, 2015|archive-date = October 7, 2015|archive-url = https://web.archive.org/web/20151007102803/http://www.stpete.org/water/reclaimed_water.php|url-status = dead}}</ref>
+{{External media|title=Filmed footage|video1=[https://www.youtube.com/watch?v=rxx3yYmfxEQ Film of 1968 St.Pete Sanitation Workers’ Strike]|width=170px|float=right}}From May to August 1968, [[St. Petersburg sanitation strike of 1968|211 city's sanitation workers struck in the city]] for higher wages.<ref>{{Cite web|url=https://news.google.com/newspapers?id=u0BQAAAAIBAJ&dq=sanitation%20worker%20strike%20St.%20Petersburg&pg=5132,6528440|title=The Evening Independent - Google News Archive Search|website=news.google.com|access-date=2019-11-07|archive-date=May 25, 2022|archive-url=https://web.archive.org/web/20220525034803/https://news.google.com/newspapers?id=u0BQAAAAIBAJ&dq=sanitation%20worker%20strike%20St.%20Petersburg&pg=5132,6528440|url-status=live}}</ref> The strike began approximately one month after Martin Luther King, Jr.'s assassination in Memphis, Tennessee while supporting that city's sanitation workers strike.<ref>{{Cite web|url=https://www.tampabay.com/news/In-death-Dr-Martin-Luther-King-Jr-inspired-change-around-Tampa-Bay_166801467/|title=In death, Dr. Martin Luther King Jr. inspired change around Tampa Bay|website=Tampa Bay Times|language=en|access-date=2019-11-07|archive-date=November 7, 2019|archive-url=https://web.archive.org/web/20191107163122/https://www.tampabay.com/news/In-death-Dr-Martin-Luther-King-Jr-inspired-change-around-Tampa-Bay_166801467/|url-status=live}}</ref>
+
+In [[1984 in aviation|1984]], a full-scale flying replica of the [[Benoist XIV]] [[flying boat]] was constructed by [[Florida Aviation Historical Society]] for the 70th anniversary of the flight. This aircraft is now on loan to the St. Petersburg Museum of History in St. Petersburg, Florida.<ref>{{cite book|title=Jannus, an American flier|year=1997|url=https://archive.org/details/jannusamericanfl0000reil|url-access=registration|author=Thomas Reilly|isbn=9780813023809}}</ref><ref>{{cite web|url=http://www.avweb.com/avwebflash/news/benoist_flying_boat_lark_duluth_centennial_208926-1.html|title=First Airliner Certified Airworthy|date=June 28, 2013|access-date=2 July 2013|archive-date=May 6, 2016|archive-url=https://web.archive.org/web/20160506161319/http://www.avweb.com/avwebflash/news/benoist_flying_boat_lark_duluth_centennial_208926-1.html|url-status=live}}</ref>
+
+=== Contemporary history ===
+[[File:Secondgandy.jpg|thumb|1969 postcard of the [[Gandy Bridge]] by the Hartman Litho Sales Company]]
+Development of the first [[Major League Baseball]] team to be located in the Tampa Bay area began in St. Petersburg throughout the 1970s. The city tried to encourage numerous teams through the United States to make St. Petersburg their new home.<ref name=":2" /> Designs for a ballpark were first presented in 1983 and construction for a permanent dome stadium began in 1986.<ref>{{cite web|title = Betting on baseball, risk and reward, 1986 vs. 2008|url = http://www.tampabay.com/news/betting-on-baseball-risk-and-reward-1986-vs-2008/547913|website = Tampa Bay Times|access-date = October 2, 2015|url-status = dead|archive-url = https://web.archive.org/web/20151002225838/http://www.tampabay.com/news/betting-on-baseball-risk-and-reward-1986-vs-2008/547913|archive-date = October 2, 2015|df = mdy-all}}</ref> This process controversially required the demolition of the mostly-Black Gas Plant neighborhood. The stadium opened in 1990 as the Florida Suncoast Dome, renamed the Thunderdome in 1993. After many attempts to attract tenants to the new stadium, Major League Baseball gave St. Petersburg a franchise in 1995. In 1996, the dome was renamed a third time to [[Tropicana Field]] after naming rights were established with [[Tropicana Products|Tropicana Dole Beverages]].<ref>{{cite web|title = Tropicana Field History|url = http://tampabay.rays.mlb.com/tb/ballpark/information/index.jsp?content=history|website = Tampa Bay Rays|access-date = October 2, 2015|archive-date = October 3, 2015|archive-url = https://web.archive.org/web/20151003013442/http://tampabay.rays.mlb.com/tb/ballpark/information/index.jsp?content=history|url-status = dead}}</ref> The [[Tampa Bay Devil Rays]] was then established in 1998 after the stadium's renovation and the new team played their first game on March 31, 1998, giving the Tampa Bay area their first professional baseball team.<ref>{{cite web|title = Tropicana Field, Tampa Bay Rays ballpark|url = http://www.ballparksofbaseball.com/al/TropField.htm|website = www.ballparksofbaseball.com|access-date = October 2, 2015|archive-date = October 3, 2015|archive-url = https://web.archive.org/web/20151003094019/http://www.ballparksofbaseball.com/al/TropField.htm|url-status = live}}</ref>
+
+[[Interstate 275 (Florida)|I-275]] was expanded across [[Tampa Bay|the bay]] from [[Tampa, Florida|Tampa]] through St. Petersburg in the 1970s. Additional spurs [[Interstate 175|I-175]] and [[Interstate 375 (Florida)|I-375]] were built afterward, extending from the main highway to the northern and southern edges of the downtown area. The city population continued to multiply during the 20th century, booming through the 1970s as a popular retirement destination for Americans from [[Midwestern United States|midwestern]] cities, reaching 238,647 in the 1980 census. Racial tensions persisted, and the city was rocked by the [[St. Petersburg, Florida riots of 1996|1996 riots]], sparked by the shooting of a black teenager by a white St. Pete police officer. Growth stagnated in the subsequent decade and a half, but since the [[Great Recession]], renewed interest in urban living by family aged residents and the expansion of the downtown university and related services has renewed its growth.{{fact|date=October 2024}}
+
+==Geography==
+
+[[File:St. Petersburg (Florida) SPOT 1287.jpg|thumb|St. Petersburg seen from Spot satellite]]
+
+===Topography===
+
+According to the [[United States Census Bureau]], the city has a total area of {{convert|356.4|sqkm|order=flip}}. {{convert|159.9|sqkm|order=flip}} of it is land, and {{convert|196.5|sqkm|order=flip}} of it (55.13%) is water.<ref>{{cite web |url=https://www.census.gov/ |title=Geographic Identifiers: 2010 Demographic Profile Data (G001): St. Petersburg city, Florida |publisher=[[United States Census Bureau]] |access-date=May 8, 2012 |df=mdy |archive-date=July 9, 2021 |archive-url=https://web.archive.org/web/20210709054630/https://www.census.gov/ |url-status=live }}</ref> St. Petersburg is bordered by Tampa Bay's three sections, Old, Middle and Lower Tampa Bay.<ref>{{Cite book|title = All Around Florida: Regions and Resources|url = https://books.google.com/books?id=r1jgUojVpj8C|publisher = Capstone Classroom|date = August 1, 2007|isbn = 9781432902957|first = Bob|last = Knotts|access-date = December 15, 2015|archive-date = September 30, 2023|archive-url = https://web.archive.org/web/20230930000827/https://books.google.com/books?id=r1jgUojVpj8C|url-status = live}}</ref><ref>{{cite web|url=http://www.nwrc.usgs.gov/wdb/pub/others/85_15.pdf|title=Tampa Bay Environmental Atlas|date=December 1984|website=www.nwrc.usgs.gov|access-date=December 14, 2015|archive-date=May 27, 2010|archive-url=https://web.archive.org/web/20100527232008/http://www.nwrc.usgs.gov/wdb/pub/others/85_15.pdf|url-status=live}}</ref>
+
+===Downtown===
+
+Downtown St. Petersburg is the Central Business District, containing high rises for office use. The ''[[Tampa Bay Times]]'' newspaper is headquartered in the downtown area.<ref>{{cite news | url=https://www.forbes.com/2006/12/01/newspapers-poynter-st-petersberg-tech-media_cx_lh_1204stpete.html | work=Forbes | title=Why Newsrooms Pray To St. Petersburg | date=December 4, 2006 | access-date=September 15, 2017 | archive-date=November 8, 2016 | archive-url=https://web.archive.org/web/20161108225612/http://www.forbes.com/2006/12/01/newspapers-poynter-st-petersberg-tech-media_cx_lh_1204stpete.html | url-status=live }}</ref><ref>{{cite web |url=http://www2.sptimes.com/TimesPub/TP.1.html |title=St. Petersburg Times |publisher=.sptimes.com |date=March 31, 1998 |access-date=December 10, 2011 |archive-url=https://web.archive.org/web/20111206221329/http://www2.sptimes.com/TimesPub/TP.1.html |archive-date=December 6, 2011 |url-status=dead |df=mdy-all }}</ref> The [[Poynter Institute]], which owns the paper, is located on 3rd Street South.<ref>{{cite web|title = Poynter. {{!}} A Global Leader in Journalism {{!}} Journalism training, media news & how to's|url = http://www.poynter.org/|website = www.poynter.org|access-date = September 30, 2015|archive-url = https://web.archive.org/web/20190807081336/https://www.poynter.org/|archive-date = August 7, 2019|url-status = dead}}</ref>
+
+The [[Mahaffey Theater]] complex, the [[Morean Arts Center]], dozens of other art galleries, The Coliseum, [[Palladium at St. Petersburg College|Palladium Theatre]], and [[Jannus Live]] are among the galleries and cultural venues featured downtown.<ref name=":8">{{cite web|title = Downtown St Petersburg Florida - Official Discover Downtown St Petersburg Guide & Map|url = http://www.discoverdowntown.com/default.aspx?redirect=/businessDirectory/businessDirectory.aspx%253FcategoryID%253D2017|website = www.discoverdowntown.com|access-date = November 23, 2015|archive-date = May 5, 2015|archive-url = https://web.archive.org/web/20150505183956/http://www.discoverdowntown.com/default.aspx?redirect=%2FbusinessDirectory%2FbusinessDirectory.aspx%3FcategoryID%3D2017|url-status = live}}</ref> Several prominent museums are located in the perimeter. Many of them have received notable accolades, including the [[Chihuly]] Collection presented by the Morean Arts Center, the [[Museum of Fine Arts (St. Petersburg, Florida)|Museum of Fine Arts]], the [[Salvador Dalí Museum]], the now-closed [[Florida International Museum]], the [[St. Petersburg Museum of History]], [[Florida Holocaust Museum]], and the [[James Museum of Western and Wildlife Art]].<ref name=":8" /> The city hosts many outdoor festivals throughout the year.<ref>{{cite web |url=http://www.tampabays10.com/news/local/article.aspx?storyid=34122 |title=Local News &#124; Tampa Bay, St. Petersburg, Clearwater and Sarasota &#124; WTSP.com 10 News |publisher=Tampabays10.com |date=December 5, 2011 |access-date=December 10, 2011 |archive-date=August 21, 2006 |archive-url=https://web.archive.org/web/20060821201509/http://www.tampabays10.com/news/local/article.aspx?storyid=34122 |url-status=live }}</ref>
+
+St. Petersburg's downtown has been rated among the best in the South, with many waterfront parks and attractions. The area's gulf beaches are a {{convert|10|mi|km|adj=on}} drive from downtown, and are connected with downtown by the SunRunner Bus Rapid Transit line.{{fact|date=October 2024}} 
+
+Jutting a half mile into the bay is the [[St. Petersburg Pier]], a major tourist attraction that offers various activities. "The Lens" design which was chosen by the International Design Competition Jury and accepted by City Council later had its contract terminated by a citywide election during the summer of 2013.<ref>{{cite web |url=http://www.stpete.org/news/2012/1-20-2012_jury_selects_the_lens_as_the_number_one_pier_design.asp |title=Jury Selects the Lens as the Number One Pier Design |access-date=August 9, 2013 |archive-date=January 26, 2013 |archive-url=https://web.archive.org/web/20130126215549/http://www.stpete.org/news/2012/1-20-2012_jury_selects_the_lens_as_the_number_one_pier_design.asp |url-status=dead }}</ref><ref>{{cite web |url=http://www.stpete.org/news/2012/5-25-2012_public_meetings_set_for_refinement_of_lens_pier_project.asp |title=PUBLIC MEETINGS SET FOR REFINEMENT OF LENS PIER PROJECT |access-date=August 9, 2013 |archive-date=January 26, 2013 |archive-url=https://web.archive.org/web/20130126214907/http://www.stpete.org/news/2012/5-25-2012_public_meetings_set_for_refinement_of_lens_pier_project.asp |url-status=dead }}</ref> Following this, the "Pier Park" was chosen out of the 16 new design teams that submitted work in late 2014 and in 2015 the Pier Park was set for construction in early 2017.<ref name=":5" /> The new Pier District opened on July 6, 2020, and contains green space, the Marketplace, playground, splash pad, and several public art installations, including [[Janet Echelman]]'s aerial net sculpture, ''Bending Art''.<ref>{{Cite web|title=St. Petersburg's Pier District offers breezy, beautiful new place to play|url=https://www.tampabay.com/news/st-petersburg/2020/06/30/st-petersburgs-pier-district-offers-breezy-beautiful-new-place-to-play/|access-date=2021-03-31|website=Tampa Bay Times|language=en|archive-date=April 19, 2021|archive-url=https://web.archive.org/web/20210419190502/https://www.tampabay.com/news/st-petersburg/2020/06/30/st-petersburgs-pier-district-offers-breezy-beautiful-new-place-to-play/|url-status=live}}</ref>
+
+Downtown also contains the [[University of South Florida St. Petersburg]] and a downtown branch of [[St. Petersburg College]].<ref>{{cite web|title = St. Petersburg College Downtown Center|url = http://www.spcollege.edu/downtown/|archive-url = https://web.archive.org/web/20031011040917/http://www.spcollege.edu/downtown/|url-status = dead|archive-date = October 11, 2003|website = www.spcollege.edu|access-date = August 18, 2015}}</ref><ref>{{cite web|title = University of South Florida St. Petersburg {{!}}|url = http://www.usfsp.edu/home/|website = www.usfsp.edu|access-date = August 18, 2015|archive-date = January 29, 2018|archive-url = https://web.archive.org/web/20180129015543/https://www.usfsp.edu/home/|url-status = live}}</ref> The downtown perimeter includes several parks, most of which are waterfront or lakefront. Straub Park is nearly a half mile long, boasts a waterfront location, and is home of the St. Petersburg Museum of Fine Arts.<ref>{{cite web|title = Floridian: Museum's new view|url = http://www.sptimes.com/2006/04/17/Floridian/Museum_s_new_view.shtml|website = www.sptimes.com|access-date = November 23, 2015|archive-date = November 24, 2015|archive-url = https://web.archive.org/web/20151124101841/http://www.sptimes.com/2006/04/17/Floridian/Museum_s_new_view.shtml|url-status = live}}</ref> Because of the number of parks in the downtown area, [[The Trust for Public Land]] ranks St. Petersburg 1st in Florida and 15th out of 100 of the largest cities in the U.S.<ref>{{cite web |title=ParkScore |url=https://parkscore.tpl.org/rankings.php#sm.0000qdsolec10ek7qcv2j9ldyq5lp |website=The Trust for Public Land |access-date=12 October 2018 |archive-date=October 13, 2018 |archive-url=https://web.archive.org/web/20181013013055/https://parkscore.tpl.org/rankings.php#sm.0000qdsolec10ek7qcv2j9ldyq5lp |url-status=dead }}</ref> The [[Vinoy Park Hotel]] has a bayfront location, a spot on the [[National Register of Historic Places]],<ref>{{cite web|url = http://www.stpete.org/historic_preservation/historic_landmarks/local_landmarks/docs/Vinoy.pdf|title = The Vinoy Park Hotel|access-date = November 23, 2015|website = www.stpete.org|archive-url = https://web.archive.org/web/20160304103949/http://www.stpete.org/historic_preservation/historic_landmarks/local_landmarks/docs/Vinoy.pdf|archive-date = March 4, 2016|url-status = dead}}</ref> and an [[American Automobile Association|AAA]] Four-Diamond rating.<ref>{{cite web|title = Renaissance Tampa Hotel earns AAA four diamond honor - Tampa Bay Business Journal|url = http://www.bizjournals.com/tampabay/stories/2005/04/25/daily2.html|website = Tampa Bay Business Journal|access-date = November 23, 2015|archive-date = October 24, 2012|archive-url = https://web.archive.org/web/20121024121115/http://www.bizjournals.com/tampabay/stories/2005/04/25/daily2.html|url-status = live}}</ref> It fronts [[Vinoy Park]], which holds music festivals, including the [[Warped Tour]]. Nearby is the historic Tramor Cafeteria building, now part of the ''Tampa Bay Times''. The city is connected via the Looper Trolley.<ref>{{cite web|title = Home|url = http://www.loopertrolley.com/|website = www.loopertrolley.com|access-date = August 18, 2015|archive-date = August 23, 2015|archive-url = https://web.archive.org/web/20150823063931/http://loopertrolley.com/|url-status = live}}</ref>
+
+Many dining and nightlife locations can be found downtown on or near Central Avenue extending to 34th Street in the west or Beach Drive along the waterfront. Venues include Jannus Live and the [[State Theatre (St. Petersburg, Florida)|State Theatre]]. The active nightlife scene is credited to recent demographic and regulatory changes.<ref>{{cite web |url=http://www.sptimes.com/2008/02/03/Neighborhoodtimes/10_hot_dance_spots_in.shtml |title=Neighborhoodtimes: 10 hot dance spots in St. Pete |publisher=Sptimes.com |access-date=December 10, 2011 |archive-date=December 8, 2011 |archive-url=https://web.archive.org/web/20111208192841/http://www.sptimes.com/2008/02/03/Neighborhoodtimes/10_hot_dance_spots_in.shtml |url-status=live }}</ref><ref>{{cite news | url=https://www.washingtonpost.com/wp-dyn/content/article/2007/01/26/AR2007012600602.html | newspaper=The Washington Post | title=A New Age: St. Pete's Fountain of Youth | first=Andrea | last=Sachs | date=January 28, 2007 | access-date=May 24, 2010 | archive-date=July 26, 2008 | archive-url=https://web.archive.org/web/20080726031033/http://www.washingtonpost.com/wp-dyn/content/article/2007/01/26/AR2007012600602.html | url-status=live }}</ref> In 2010, the city council voted to extend bar hours until 3 A.M., identical to cross-bay "rival" Tampa.<ref>{{cite web |url=http://www.tampabay.com/features/events/merchants-to-cheer-central-avenues-revival/1093089 |title=Merchants to Cheer Central Avenue's Revival |publisher=Tampabay.com |access-date=December 10, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110912154138/http://www.tampabay.com/features/events/merchants-to-cheer-central-avenues-revival/1093089 |archive-date=September 12, 2011 |df=mdy-all }}</ref><ref>{{cite web|url=http://www.tampabay.com/news/localgovernment/later-drinking-hours-will-be-in-st-petersburg-by-next-friday/1093061 |title=Later Drinking Hours Will Be In St. Petersburg By Next Friday |publisher=Tampabay.com |access-date=December 10, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110606214006/http://www.tampabay.com/news/localgovernment/later-drinking-hours-will-be-in-st-petersburg-by-next-friday/1093061 |archive-date=June 6, 2011 }}</ref>
+
+[[Tropicana Field]], home of [[Major League Baseball]]'s [[Tampa Bay Rays]], is located in the western part of downtown. Until 2008, the team played its spring training games at nearby [[Progress Energy Park]]. This setup was unique, making St. Petersburg the first city that played host to its baseball team during spring training as well as the regular season since the [[1919 Philadelphia Athletics season|1919 Philadelphia Athletics]].<ref>{{cite web|url=http://www.baseball-almanac.com/teams/springtrainingsites-al.shtml|title=Spring Training Sites for all American League Baseball teams|access-date=October 27, 2008|work=Baseball-Almanac.com|archive-date=October 24, 2008|archive-url=https://web.archive.org/web/20081024044903/http://www.baseball-almanac.com/teams/springtrainingsites-al.shtml|url-status=live}}</ref> At the end of 2007, there was a debate over [[Rays Ballpark|a new stadium]] to be built on the downtown waterfront at the current Progress Energy Park site. Tropicana Field would be demolished and replaced with prime residential and retail space. Completion of the stadium was planned for 2012; however, the proposal was tabled indefinitely while a community-based organization investigates all alternatives for new stadium construction.<ref>{{cite web|url=http://www2.tbo.com/static/special-reports-sports/rays-new-stadium/ |title=TBO.com Special Reports Sports Rays New Stadium |publisher=.tbo.com |access-date=December 10, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110902075345/http://www2.tbo.com/static/special-reports-sports/rays-new-stadium/ |archive-date=September 2, 2011 }}</ref><ref>[https://www.espn.com/mlb/news/story?id=3115966 Rays say stadium would promote $1 billion in investment], ESPN.com</ref><ref>{{cite web |url=http://www.sptimes.com/2007/webspecials07/special_reports/new-ballpark/ |title=Special Report: Ballpark by the bay &#124; Tampabay.com • St. Petersburg Times |publisher=Sptimes.com |access-date=December 10, 2011 |archive-date=November 5, 2011 |archive-url=https://web.archive.org/web/20111105094440/http://www.sptimes.com/2007/webspecials07/special_reports/new-ballpark/ |url-status=live }}</ref> In 2022, the Rays organization and the city came to an agreement over redevelopment; the Trop will be demolished by 2027, to be replaced by a new stadium and a restored Gas Plant neighborhood surrounding it.<ref>{{Cite web |last=Brezina |first=Veronica |date=2023-01-30 |title=Rays to lead redevelopment of Tropicana Field/Gas Plant site - St Pete Catalyst |url=https://stpetecatalyst.com/rays-to-lead-redevelopment-of-tropicana-field-gas-plant-site/ |access-date=2023-11-10 |website=St Pete Catalyst - Your seat at the table |language=en-US}}</ref>
+[[File:S. H. Kress and Co. Building (St. Petersburg, Florida).jpg|thumb| 200px| The [[S. H. Kress and Co. Building (St. Petersburg, Florida)|S. H. Kress and Co. Building]] is on the [[National Register of Historic Places]].]]
+
+St. Petersburg has the third-largest dedicated public waterfront park system in North America,<ref>{{cite web |url=http://www.tampabay.com/specials/2010/reports/downtown-st-petersburg-park-architecture/ |title=Downtown St. Petersburg parks and architecture – St. Petersburg Times |publisher=Tampabay.com |access-date=December 10, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110913133748/http://www.tampabay.com/specials/2010/reports/downtown-st-petersburg-park-architecture/ |archive-date=September 13, 2011 |df=mdy-all }}</ref> with a waterfront park system that stretches {{convert|7|mi|0}} and is used year-round for public events, festivals and other activities.<ref>{{Cite web|url=http://www.tampabay.com/news/growth/rating-the-architecture-that-frames-downtown-st-petersburgs-waterfront-park/1091581|title=Rating the architecture that frames downtown St. Petersburg's waterfront park|website=Tampa Bay Times|access-date=January 16, 2017|url-status=dead|archive-url=https://web.archive.org/web/20130117024358/http://www.tampabay.com/news/growth/rating-the-architecture-that-frames-downtown-st-petersburgs-waterfront-park/1091581|archive-date=January 17, 2013|df=mdy-all}}</ref> In the early 20th century, citizens and city leaders engaged in a long and boisterous debate over the future of the young city's waterfront space, with one side advocating for commercial, port and industrial development and the other side advocating for a long-term commitment to parks and public access to the waterfront. The public access and park contingent won the debate when, on Christmas Eve 1909, the city announced the acquisition of the waterfront land that is encompassed by the waterfront park system.<ref>{{Cite book|title = The Seamless City: A Conservative Mayor's Approach to Urban Revitalization that Can Work Anywhere|url = https://books.google.com/books?id=ZYrmAgAAQBAJ|publisher = Regnery Publishing|date = April 5, 2011|isbn = 9781596981973|first = Rick|last = Baker|access-date = November 19, 2015|archive-date = September 30, 2023|archive-url = https://web.archive.org/web/20230930000828/https://books.google.com/books?id=ZYrmAgAAQBAJ|url-status = live}}</ref>
+
+The city is also becoming one of the largest destinations in Florida for [[kitesurfing|kiteboarding]] with locations such as [[Fort Desoto|Fort De Soto Park]], [[Pass-a-Grille Historic District|Pass-a-Grille]], and Ten-Cent.<ref>{{cite web|title = Kitesurfing in Tampa|url = http://traveltips.usatoday.com/kitesurfing-tampa-28618.html|access-date = August 16, 2015|archive-date = October 22, 2015|archive-url = https://web.archive.org/web/20151022140437/http://traveltips.usatoday.com/kitesurfing-tampa-28618.html|url-status = live}}</ref>
+
+The St. Petersburg [[Shuffleboard]] Club was established in 1924 and gained attention as the "World's Largest Shuffleboard Club" with 110 courts and over 5,000 members in the 1950s and 1960s.<ref>{{cite web|title = St. Petersburg Shuffleboard Club {{!}} History|url = http://stpeteshuffle.com/history.html|website = stpeteshuffle.com|access-date = August 16, 2015|archive-date = August 10, 2015|archive-url = https://web.archive.org/web/20150810002243/http://stpeteshuffle.com/history.html|url-status = live}}</ref>
+
+Northshore Aquatic Complex is a public pool and small water park located downtown on the St. Petersburg waterfront. Northshore contains a 50-meter pool with diving board, 25 meter training pool with zero depth entry, a play pool, and is home to both [[Saint Petersburg Aquatics]] swim club and Saint Petersburg Masters swim club.<ref>{{cite web|title = North Shore Aquatic Complex|url = http://www.stpeteparksrec.org/northshoreaquatic/|access-date = 3 June 2021|archive-date = June 3, 2021|archive-url = https://web.archive.org/web/20210603205534/http://www.stpeteparksrec.org/northshoreaquatic/|url-status = live}}</ref>
+
+===Cityscape===
+
+{{Panorama |image=File:Saint Petersburg Florida Panorama.jpeg|fullwidth=33378 |fullheight=4529 |caption=View looking out to sea towards the North Yacht Basin from Bay Shore Drive|height=240}}
+
+===Neighborhoods===
+{{Main|Neighborhoods in St. Petersburg, Florida}}St. Petersburg is home to more than 100 neighborhoods,<ref>{{cite web|title = St. Petersburg FL Real Estate Information – NeighborhoodScout|url = http://www.neighborhoodscout.com/fl/st-petersburg/|website = www.neighborhoodscout.com|access-date = August 18, 2015|archive-date = September 4, 2015|archive-url = https://web.archive.org/web/20150904171951/http://www.neighborhoodscout.com/fl/st-petersburg/|url-status = live}}</ref> with most of the historic districts located near the bay.<ref>{{cite web|title = St. Petersburg Neighborhoods & Maps|url = http://www.stpetersburg.com/neighborhoods|website = www.stpetersburg.com|access-date = December 15, 2015|archive-date = December 22, 2015|archive-url = https://web.archive.org/web/20151222113205/http://www.stpetersburg.com/neighborhoods|url-status = live}}</ref> On the central Eastern edge of the city is [[Downtown St. Petersburg, Florida|Downtown St. Petersburg]], which includes the city's residential and commercial skyscrapers, art galleries, museums, and parks.<ref name=":10">{{cite web|title = Downtown St. Petersburg Neighborhood Information|url = http://www.stpetersburg.com/neighborhoods/downtown|website = stpetersburg.com|access-date = December 15, 2015|archive-date = December 22, 2015|archive-url = https://web.archive.org/web/20151222124043/http://www.stpetersburg.com/neighborhoods/downtown|url-status = live}}</ref>
+
+The downtown area is home to the [[central business district]] and to many [[Start-up company|start-up companies]], corporate branches, banks, law firms, and restaurants.<ref>{{cite web|url=https://www.tampabay.com/news/business/Entrepreneurs-start-ups-take-center-stage-in-Tampa-and-St-Pete_165478022/|title=Entrepreneurs, start-ups take center stage in Tampa and St. Pete|publisher=Tampa Bay Times|author=Alli Knothe|access-date=3 September 2019|archive-date=August 10, 2020|archive-url=https://web.archive.org/web/20200810000211/https://www.tampabay.com/news/business/Entrepreneurs-start-ups-take-center-stage-in-Tampa-and-St-Pete_165478022/|url-status=dead}}</ref><ref>{{cite web|url=https://www.tampabay.com/business/rise-of-the-rest-brings-its-focus-on-startups-to-tampa-bay-20190501/|title=Rise of the Rest brings its focus on startups to Tampa Bay, awards Immertec $100,000|publisher=Tampa Bay Times|author=Richard Danielson|access-date=3 September 2019|archive-date=August 6, 2019|archive-url=https://web.archive.org/web/20190806063157/http://www.tampabay.com/business/rise-of-the-rest-brings-its-focus-on-startups-to-tampa-bay-20190501/|url-status=live}}</ref> Apart from downtown's business and cultural offerings, the area also includes a branch of St. Petersburg College and the campus of the University of South Florida-St. Petersburg.<ref name=":10" /> The downtown district is home to two professional sports teams, the Tampa Bay Rays, which play in the western part of downtown at Tropicana Field, and the Tampa Bay Rowdies, which play along the downtown waterfront at Al Lang Stadium.<ref name=":10" /> The emerging Edge district on the western edge of downtown is rapidly growing as development spreads down Central Avenue.
+
+North of downtown lie the [[North Shore Historic District (St. Petersburg, Florida)|Historic Old Northeast]] and [[Snell Isle]], which both have [[Mediterranean Revival architecture|Mediterranean style]] historic and waterfront homes, parks, and recreational areas.<ref name=":11">{{cite web|title = Historic Old Northeast St. Petersburg Neighborhood Information|url = http://www.stpetersburg.com/neighborhoods/historic-old-northeast|website = www.stpetersburg.com|access-date = December 15, 2015|archive-date = December 22, 2015|archive-url = https://web.archive.org/web/20151222093809/http://www.stpetersburg.com/neighborhoods/historic-old-northeast|url-status = live}}</ref><ref>{{cite web|title = Snell Isle St. Petersburg Neighborhood Information|url = http://www.stpetersburg.com/neighborhoods/snell-island|website = stpetersburg.com|access-date = December 15, 2015|archive-date = December 22, 2015|archive-url = https://web.archive.org/web/20151222115259/http://www.stpetersburg.com/neighborhoods/snell-island|url-status = live}}</ref> Old Northeast is home to a [[shopping district]], city landmarks, beaches, and small shops as well as small residential high rises.<ref name=":11" /> Snell Isle was founded by [[Snell Isle|C. Perry Snell]] who bought up the land to develop upscale properties in the 1900s, and helped create some of St. Petersburg's resorts such as the Vinoy Park Hotel and the [[St. Petersburg Woman's Club]],<ref>{{Cite book|title = Tampa Bay Magazine|url = https://books.google.com/books?id=azsEAAAAMBAJ|publisher = Tampa Bay Publications, Inc.|first = |last = |access-date = December 15, 2015|archive-date = September 30, 2023|archive-url = https://web.archive.org/web/20230930000835/https://books.google.com/books?id=azsEAAAAMBAJ|url-status = live}}</ref> both of which are listed on the [[United States|U.S.]] National Register of Historic Places.<ref>{{cite web|title = Local Landmarks - St. Petersburg|url = http://www.stpete.org/history_and_preservation/locallandmarks.php|website =stpete.org|access-date = December 15, 2015|archive-date = December 19, 2015|archive-url = https://web.archive.org/web/20151219161301/http://www.stpete.org/history_and_preservation/locallandmarks.php|url-status = dead}}</ref> The far north consists of the [[Gateway, Pinellas County, Florida|Gateway area]] which overlaps part of Pinellas Park, home to major employers such as [[Home Shopping Network]] and currently the site of much construction of residential and business buildings and of new toll roads.
+
+The central portion of St. Petersburg includes the [[Grand Central, St. Petersburg, Florida|Grand Central District]] and [[Kenwood Historic District (St. Petersburg, Florida)|Historic Kenwood]]. The Grand Central District houses many of the city's cafes, art galleries, restaurants, and bars all owing to the [[Craftsman style]] architecture.<ref>{{cite web|title = Grand Central District St. Petersburg Neighborhood Information|url = http://www.stpetersburg.com/neighborhoods/grand-central-district|website = www.stpetersburg.com|access-date = December 15, 2015|archive-date = December 22, 2015|archive-url = https://web.archive.org/web/20151222151303/http://www.stpetersburg.com/neighborhoods/grand-central-district|url-status = live}}</ref><ref>{{cite web|title = Next Great Neighborhood: St. Pete's Grand Central District|url = http://thedailysouth.southernliving.com/2014/03/06/next-great-neighborhood-st-petes-grand-central-district/|website = The Daily South|access-date = December 15, 2015|archive-date = December 22, 2015|archive-url = https://web.archive.org/web/20151222091146/http://thedailysouth.southernliving.com/2014/03/06/next-great-neighborhood-st-petes-grand-central-district/|url-status = dead}}</ref> Historic Kenwood is filled with art studios and galleries similarly to the Grand Central District.<ref>{{cite web|title = Historic Kenwood St. Petersburg Neighborhood Information|url = http://www.stpetersburg.com/neighborhoods/historic-kenwood|website = www.stpetersburg.com|access-date = December 15, 2015|archive-date = December 22, 2015|archive-url = https://web.archive.org/web/20151222102602/http://www.stpetersburg.com/neighborhoods/historic-kenwood|url-status = live}}</ref>
+
+South of downtown is [[Roser Park Historic District|Historic Roser Park]], which houses historic Mediterranean and Eclectic style housing, parks, and museums.<ref>{{cite web|title = Historic Roser Park St. Petersburg Neighborhood Information|url = http://www.stpetersburg.com/neighborhoods/historic-roser-park|website = www.stpetersburg.com|access-date = December 15, 2015|archive-date = December 22, 2015|archive-url = https://web.archive.org/web/20151222101152/http://www.stpetersburg.com/neighborhoods/historic-roser-park|url-status = live}}</ref> The neighborhood is divided by Booker Creek which flows into Bayboro Harbor.<ref>{{cite web|title = Phase 1 of Historic Booker Creek Trail set for summer|url=http://www.tampabay.com/news/humaninterest/phase-1-of-historic-booker-creek-trail-set-for-summer/1001322|website = Tampa Bay Times|access-date=December 15, 2015|url-status = dead|archive-url = https://web.archive.org/web/20151222115552/http://www.tampabay.com/news/humaninterest/phase-1-of-historic-booker-creek-trail-set-for-summer/1001322|archive-date=December 22, 2015}}</ref><ref>{{cite web|title=The Evening Independent|url=https://news.google.com/newspapers?nid=950&dat=19291019&id=PepPAAAAIBAJ&pg=3321,2650986&hl=en|website=news.google.com|access-date=December 15, 2015|archive-date=October 22, 2021|archive-url=https://web.archive.org/web/20211022152408/https://news.google.com/newspapers?nid=950&dat=19291019&id=PepPAAAAIBAJ&pg=3321%2C2650986&hl=en|url-status=live}}</ref>
+
+In far western St. Petersburg, north of the separate city of [[South Pasadena, FL|South Pasadena, Florida]], is the neighborhood of Pasadena, which includes the intersection of [[State Road 693 (Florida)|State Road 693]] (Pasadena Avenue) and [[County Road 150 (Pinellas County, Florida)|County Road 150]] (Central Avenue).
+
+===Climate===
+
+{{Main|Climate of the Tampa Bay area}}
+
+[[File:Jamaican tall Coconuts.JPG|thumb|upright|Coconut palms at the Gizella Kopsick Palm Arboretum in the northeastern part of the city]]
+
+St. Petersburg has a [[humid subtropical climate]] ([[Köppen climate classification|Köppen]] ''Cfa'') with some characteristics of a [[tropical monsoon climate]] ([[Köppen climate classification|Am]]), with a defined rainy season from June through September. Many portions of St. Petersburg, especially along the bay and in south St. Petersburg, have tropical microclimates due to the maritime influence of the [[Gulf of Mexico]] and [[Tampa Bay]].{{Citation needed|date=May 2022}} As a result, tropical flora like [[coconut palm]]s and [[royal palm]]s can be found throughout the city, and the city is home to the Gizella Kopsick Palm Arboretum, a {{convert|2|acre|adj=on}} park which houses over 500 palms and cycads,<ref>{{Cite web |url=http://www.stpeteparksrec.org/gizella-kopsick-arboretum.html |title=Gizella Kopsick Palm Arboretum - St. Petersburg, Florida |access-date=January 6, 2019 |archive-url=https://web.archive.org/web/20190107022109/http://www.stpeteparksrec.org/gizella-kopsick-arboretum.html |archive-date=January 7, 2019 |url-status=dead }}</ref> including a pair of large Jamaican Tall coconut palms which predate the freeze of 1989. St. Petersburg, like the rest of the Tampa Bay area, is occasionally affected by [[tropical storm]]s and [[hurricane]]s. There were 2 hurricanes in 2024 that hit St. Petersburg within 2 weeks of each other: Hurricane Helene followed by Hurricane 
+Milton. Prior to this, the last time a hurricane directly struck the city was in [[1946 Florida hurricane|1946]].
+
+{{Weather box
+| width = auto
+| location = St. Petersburg, Florida, 1991–2020 normals, extremes 1892-present
+| single line = Y
+| Jan high F = 69.8
+| Feb high F = 72.7
+| Mar high F = 76.5
+| Apr high F = 81.6
+| May high F = 86.7
+| Jun high F = 89.8
+| Jul high F = 90.9
+| Aug high F = 90.8
+| Sep high F = 89.1
+| Oct high F = 84.3
+| Nov high F = 77.2
+| Dec high F = 72.2
+| year high F = 81.8
+| Jan mean F = 62.1
+| Feb mean F = 64.7
+| Mar mean F = 68.7
+| Apr mean F = 73.9
+| May mean F = 79.3
+| Jun mean F = 82.9
+| Jul mean F = 83.9
+| Aug mean F = 84.0
+| Sep mean F = 82.4
+| Oct mean F = 77.2
+| Nov mean F = 70.0
+| Dec mean F = 64.9
+| year mean F = 74.5
+| Jan low F = 54.3
+| Feb low F = 56.6
+| Mar low F = 60.9
+| Apr low F = 66.3
+| May low F = 71.9
+| Jun low F = 75.9
+| Jul low F = 76.9
+| Aug low F = 77.1
+| Sep low F = 75.7
+| Oct low F = 70.0
+| Nov low F = 62.7
+| Dec low F = 57.6
+| year low F = 67.2
+| Jan avg record high F = 80.0
+| Feb avg record high F = 81.0
+| Mar avg record high F = 84.0
+| Apr avg record high F = 88.0
+| May avg record high F = 92.0
+| Jun avg record high F = 94.0
+| Jul avg record high F = 95.0
+| Aug avg record high F = 94.0
+| Sep avg record high F = 93.0
+| Oct avg record high F = 90.0
+| Nov avg record high F = 85.0
+| Dec avg record high F = 81.0
+| year avg record high F = 95.0
+| Jan avg record low F = 40.0
+| Feb avg record low F = 46.0
+| Mar avg record low F = 51.0
+| Apr avg record low F = 58.0
+| May avg record low F = 67.0
+| Jun avg record low F = 72.0
+| Jul avg record low F = 74.0
+| Aug avg record low F = 74.0
+| Sep avg record low F = 72.0
+| Oct avg record low F = 62.0
+| Nov avg record low F = 52.0
+| Dec avg record low F = 46.0
+| year avg record low F = 39.0
+| Jan record high F = 86
+| Feb record high F = 86
+| Mar record high F = 89
+| Apr record high F = 92
+| May record high F = 96
+| Jun record high F = 99
+| Jul record high F = 100
+| Aug record high F = 98
+| Sep record high F = 96
+| Oct record high F = 94
+| Nov record high F = 89
+| Dec record high F = 88
+| year record high F = 
+| Jan record low F = 27
+| Feb record low F = 28
+| Mar record low F = 30
+| Apr record low F = 45
+| May record low F = 54
+| Jun record low F = 61
+| Jul record low F = 63
+| Aug record low F = 66
+| Sep record low F = 61
+| Oct record low F = 46
+| Nov record low F = 35
+| Dec record low F = 22
+| year record low F = 
+| precipitation colour = green
+| Jan precipitation inch = 2.97
+| Feb precipitation inch = 2.17
+| Mar precipitation inch = 2.86
+| Apr precipitation inch = 2.60
+| May precipitation inch = 2.54
+| Jun precipitation inch = 7.18
+| Jul precipitation inch = 8.35
+| Aug precipitation inch = 9.33
+| Sep precipitation inch = 7.51
+| Oct precipitation inch = 2.52
+| Nov precipitation inch = 1.61
+| Dec precipitation inch = 2.84
+| year precipitation inch = 52.48
+| unit precipitation days = 0.01 in
+| Jan precipitation days = 7.0
+| Feb precipitation days = 5.9
+| Mar precipitation days = 6.5
+| Apr precipitation days = 4.9
+| May precipitation days = 4.9
+| Jun precipitation days = 11.5
+| Jul precipitation days = 14.5
+| Aug precipitation days = 15.3
+| Sep precipitation days = 13.5
+| Oct precipitation days = 6.4
+| Nov precipitation days = 4.4
+| Dec precipitation days = 6.0
+| year precipitation days = 100.8
+| Jan snow inch = 
+| Feb snow inch = 
+| Mar snow inch = 
+| Apr snow inch = 
+| May snow inch = 
+| Jun snow inch = 
+| Jul snow inch = 
+| Aug snow inch = 
+| Sep snow inch = 
+| Oct snow inch = 
+| Nov snow inch = 
+| Dec snow inch = 
+| year snow inch = 
+| unit snow days = 0.1 in
+| Jan snow days = 
+| Feb snow days = 
+| Mar snow days = 
+| Apr snow days = 
+| May snow days = 
+| Jun snow days = 
+| Jul snow days = 
+| Aug snow days = 
+| Sep snow days = 
+| Oct snow days = 
+| Nov snow days = 
+| Dec snow days = 
+| year snow days = 
+| source 1 = NOAA<ref>{{cite web
+| url = https://w2.weather.gov/climate/xmacis.php?wfo=tbw
+| title = NOWData - NOAA Online Weather Data
+| publisher = [[National Oceanic and Atmospheric Administration]]
+| accessdate = May 23, 2021
+| archive-date = June 16, 2019
+| archive-url = https://web.archive.org/web/20190616075146/https://w2.weather.gov/climate/xmacis.php?wfo=tbw
+| url-status = live
+}}</ref><ref>{{cite web
+| url = https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&startDate=0001-01-01&endDate=9996-12-31&stations=USC00087886&format=pdf
+| title = Summary of Monthly Normals 1991&ndash;2020
+| publisher = [[National Oceanic and Atmospheric Administration]]
+| accessdate = May 23, 2021
+| archive-date = May 23, 2021
+| archive-url = https://web.archive.org/web/20210523185317/https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&startDate=0001-01-01&endDate=9996-12-31&stations=USC00087886&format=pdf
+| url-status = live
+}}</ref>
+| source = 
+}}
+
+==Demographics==
+
+{{US Census population
+|1890= 273
+|1900= 1575
+|1910= 4127
+|1920= 14237
+|1930= 40425
+|1940= 60812
+|1950= 96738
+|1960= 181298
+|1970= 216159
+|1980= 238647
+|1990= 238629
+|2000= 248232
+|2010= 244769
+|2020= 258308
+|estimate= 261256
+|estyear= 2022
+|estref=<ref>{{cite web|url=https://www.census.gov/quickfacts/fact/table/stpetersburgcityflorida|title=QuickFacts: St. Petersburg city, Florida|work=U.S. Census Bureau|access-date=September 26, 2023|archive-date=September 30, 2023|archive-url=https://web.archive.org/web/20230930001339/https://www.census.gov/quickfacts/fact/table/stpetersburgcityflorida|url-status=live}}</ref>
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015|df=mdy|archive-date=April 26, 2015|archive-url=https://web.archive.org/web/20150426102944/http://www.census.gov/prod/www/decennial.html|url-status=live}}</ref>
+}}
+
+===2010 and 2020 census===
+{| class="wikitable" style="text-align:center;"
+|+'''St. Petersburg, Florida – Racial and ethnic composition'''<br /><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – St. Petersburg city, Florida|url=https://data.census.gov/table?g=160XX00US1263000&tid=DECENNIALSF12000.P004|publisher=[[United States Census Bureau]]}}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – St. Petersburg city, Florida|url=https://data.census.gov/table?q=p2&g=160XX00US1263000&tid=DECENNIALPL2010.P2|publisher=[[United States Census Bureau]]}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – St. Petersburg city, Florida|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US1263000&tid=DECENNIALPL2020.P2|publisher=[[United States Census Bureau]]}}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] (NH)
+|170,396
+|157,409
+|style='background: #ffffe6; |159,792
+|68.64%
+|64.31%
+|style='background: #ffffe6; |61.86%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] (NH)
+|54,884
+|57,489
+|style='background: #ffffe6; |53,345
+|22.11%
+|23.49%
+|style='background: #ffffe6; |20.65%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] (NH)
+|684
+|567
+|style='background: #ffffe6; |520
+|0.28%
+|0.23%
+|style='background: #ffffe6; |0.20%
+|-
+|[[Asian Americans|Asian]] (NH)
+|6,569
+|7,672
+|style='background: #ffffe6; |8,942
+|2.65%
+|3.13%
+|style='background: #ffffe6; |3.46%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] or [[Native Hawaiian]] (NH)
+|110
+|106
+|style='background: #ffffe6; |121
+|0.04%
+|0.04%
+|style='background: #ffffe6; |0.05%
+|-
+|[[Other races (U.S. Census)|Some other race]] (NH)
+|550
+|539
+|style='background: #ffffe6; |1,441
+|0.22%
+|0.22%
+|style='background: #ffffe6; |0.56%
+|-
+|[[Multiracial Americans|Two or more races or Multiracial]] (NH)
+|4,537
+|4,773
+|style='background: #ffffe6; |10,858
+|1.83%
+|1.95%
+|style='background: #ffffe6; |4.20%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|10,502
+|16,214
+|style='background: #ffffe6; |23,289
+|4.23%
+|6.62%
+|style='background: #ffffe6; |9.02%
+|-
+|'''Total'''
+|'''248,232'''
+|'''244,769'''
+|style='background: #ffffe6; |'''258,308'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|-
+|}
+
+As of the [[2020 United States census]], there were 258,308 people, 111,957 households, and 59,448 families residing in the city.<ref>{{Cite web|title=S1101 HOUSEHOLDS AND FAMILIES - 2020: St. Petersburg city, Florida|url=https://data.census.gov/table?q=St.+Petersburg+city;+Florida+&tid=ACSST5Y2020.S1101|website=[[United States Census Bureau]]}}</ref>
+
+As of the [[2010 United States census]], there were 244,769 people, 106,755 households, and 58,353 families residing in the city.<ref>{{Cite web|title=S1101 HOUSEHOLDS AND FAMILIES - 2010: St. Petersburg city, Florida|url=https://data.census.gov/table?q=St.+Petersburg+city;+Florida+&tid=ACSST5Y2010.S1101|website=[[United States Census Bureau]]}}</ref>
+
+In 2010, of all [[Asian (U.S. Census)|Asian]] residents, 0.8% were [[Vietnamese American|Vietnamese]], 0.5% were [[Filipino American|Filipino]], 0.5% were [[Indian American|Indian]], 0.3% were [[Chinese American|Chinese]], 0.1% were [[Korean American|Korean]], 0.1% were [[Japanese American|Japanese]], and 1.0% were other Asians.<ref name=":12" /> Also in 2010, of all [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] people within the city, 5,272 (2.2%) were [[Puerto Rican people|Puerto Rican]], 2,855 (1.2%) were [[Mexican American|Mexican]], 2,835 (1.2%) were [[Cuban American|Cuban]], and other Hispanic or Latino residents made up 5,252 (2.1%) of the population.<ref name=":12" />
+
+According to the [[2010 United States Census|2010 census]], the city population density was {{convert|3,964.4|PD/sqmi|PD/km2|sp=us|adj=off}}.<ref name=":12">{{cite web|title = U.S. Census website|url = https://www.census.gov/|website = [[United States Census Bureau]]|access-date = December 21, 2015|language = en|first = |last = |archive-date = July 9, 2021|archive-url = https://web.archive.org/web/20210709054630/https://www.census.gov/|url-status = live}}</ref> 84.1% of households were occupied while 15.9% were not occupied. 3,888 (1.6%) lived in non-institutionalized group-quarters and 2,719 (1.1%) were institutionalized. As of 2010, 23,304 (21.4%) had children under the age of 18 living in them, 37,847 (34.8%) were [[Marriage|opposite-sex married couples]] living together, 16,425 (15.1%) had a female householder with no husband present, 4,849 (4.5%) had a male householder with no wife present. There were 9,453 (3.9%) unmarried partnerships. 39,397 households (36.2%) were made up of individuals, and 28,267 (26.0%) had someone living alone who was 65 years of age or older. The average household size was 2.19. In 2010, [[Family (U.S. Census)|families]] made up 54.3% while non-families made up 45.7%; the average family size was 2.88. The median age of the city was 41.6 years.<ref name=":12" />
+
+===2000 census===
+
+As of 2000, 23.85% of households had children under the age of 18 living with them, 37.295% were married couples living together, 13.8% had a female householder with no adult living partner present, and 43.8% were non-families. 35.6% of all households were made up of individuals, and 13.3% had someone living alone who was 65 years of age or older. The average household size was 2.10 and the average family size was 2.865.
+
+In 2000, the city's population was spread out, with 21.5% under the age of 18, 7.7% from 18 to 24, 30.2% from 25 to 44, 23.1% from 45 to 64, and 17.4% who were 65 years of age or older. The median age was 39.24 years. For every 100 females, there were 91.2 males. For every 100 females age 18 and over, there were 87.7 males.
+
+As of 2000, the median income for a household in the city was $34,597, and the median income for a family was $43,198. Males had a median income of $30,794 versus $27,860 for females. The per capita income for the city was $21,107. About 9.2% of families and 13.3% of the population were below the poverty line, including 19.1% of those under age 18 and 10.8% of those age 65 or over. In 2010, 17.8% of the population was under the poverty line, including 32.2% of those under age 18 and 14.1% of those age 65 or over.
+
+===Languages===
+
+As of 2000, those who spoke only [[English language|English]] as a [[first language]] at home accounted were 88.53% of residents, while [[Spanish language|Spanish]] was spoken by 4.43%, [[German language|German]] by 0.78%, [[French language|French]] by 0.72% of speakers, [[Vietnamese language|Vietnamese]] by 0.67%, [[Serbo-Croatian language|Serbo-Croatian]] by 0.52%, and [[Laotian language|Laotian]] by 0.51% of the population.<ref>{{cite web |url=http://www.mla.org/map_data_results%26SRVY_YEAR%3D2000%26geo%3D%26state_id%3D12%26county_id%3D%26mode%3D%26lang_id%3D%26zip%3D%26place_id%3D63000%26cty_id%3D%26region_id%3D%26division_id%3D%26ll%3D%26a%3D%26ea%3D%26order%3Dr%26pc%3D1 |title=Data Center Results&nbsp;– St. Petersburg, Florida |publisher=[[Modern Language Association]] |access-date=April 11, 2011 |archive-date=May 14, 2011 |archive-url=https://web.archive.org/web/20110514150729/http://www.mla.org/map_data_results%26SRVY_YEAR%3D2000%26geo%3D%26state_id%3D12%26county_id%3D%26mode%3D%26lang_id%3D%26zip%3D%26place_id%3D63000%26cty_id%3D%26region_id%3D%26division_id%3D%26ll%3D%26a%3D%26ea%3D%26order%3Dr%26pc%3D1 |url-status=live }}</ref>
+
+===Crime===
+
+As of 2012, it ranked 58th highest in the United States when it comes to violent crime.<ref>{{cite web | url=https://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2012/crime-in-the-u.s.-2012/tables/8tabledatadecpdf/table_8_offenses_known_to_law_enforcement_by_state_by_city_2012.xls/view | title=Offenses Known to Law Enforcement by State 2012 | access-date=October 9, 2013 | archive-date=October 17, 2013 | archive-url=https://web.archive.org/web/20131017194330/http://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2012/crime-in-the-u.s.-2012/tables/8tabledatadecpdf/table_8_offenses_known_to_law_enforcement_by_state_by_city_2012.xls/view | url-status=live }}</ref> In 2013, St. Petersburg ranks in the bottom tenth for safety among cities in Florida.<ref>{{cite news | url=http://www.neighborhoodscout.com/fl/st-petersburg/crime/ | title=St Petersburg Crime Percentile | access-date=March 21, 2013 | archive-date=April 4, 2013 | archive-url=https://web.archive.org/web/20130404063948/http://www.neighborhoodscout.com/fl/st-petersburg/crime/ | url-status=live }}</ref> Evidence of the social unrest and the schism within the city, particularly between South St. Petersburg and the rest of the city came with the [[St. Petersburg, Florida riot of 1996|St. Petersburg, Florida riots of 1996]]. Police Officer David Crawford was murdered in February 2011 by then-teenager [[Nicholas Lindsey]].<ref>{{cite web|title = Police Officer David Scott Crawford|url = http://www.odmp.org/officer/20755-police-officer-david-scott-crawford|access-date = September 30, 2015|archive-date = November 26, 2014|archive-url = https://archive.today/20141126083306/http://www.odmp.org/officer/20755-police-officer-david-scott-crawford|url-status = live}}</ref>
+
+===Religion===
+
+As of 2020, 35.9% of St. Petersburg residents consider themselves religious. Catholics make up the largest group at 14 percent followed by Methodists and Baptists, each of which compose of about four percent of the religious community.<ref>{{cite web |title=St. Petersburg, Florida |url=https://www.bestplaces.net/religion/city/florida/st._petersburg |website=Best Places |publisher=Sperling's Best Places |access-date=1 September 2020 |archive-date=August 13, 2020 |archive-url=https://web.archive.org/web/20200813145155/https://www.bestplaces.net/religion/city/florida/st._petersburg |url-status=live }}</ref>
+The Diocese of St. Petersburg governs 74 Catholic parishes as well as 46 schools and 480,000 Catholics in the Tampa Bay area. Bishop Gregory Parkes currently leads the Diocese of St. Petersburg which covers five counties in the state of Florida.<ref>{{cite web |title=Who We Are |url=https://www.dosp.org/who-we-are/ |website=Catholic Diocese of St. Petersburg |publisher=Diocese of Saint Petersburg |access-date=1 September 2020 |archive-date=September 24, 2020 |archive-url=https://web.archive.org/web/20200924121250/https://www.dosp.org/who-we-are/ |url-status=live }}</ref>
+
+==Economy==
+
+Much economic activity is concentrated in the [[Gateway, Pinellas County, Florida|Gateway area]], which overlaps St. Petersburg and Pinellas Park. The median household income is $55,134. Health care, retail and professional services are the largest industries.<ref>{{Cite web|url=https://datausa.io/profile/geo/st.-petersburg-fl/#economy|title=ST. PETERSBURG, FL|access-date=July 29, 2019|archive-date=August 7, 2020|archive-url=https://web.archive.org/web/20200807153555/https://datausa.io/profile/geo/st.-petersburg-fl/#economy|url-status=live}}</ref> The most common positions in St. Petersburg are Office and Administrative Support, Sales, and Management.<ref>{{cite web |title=Data USA: St. Petersburg, FL |url=https://datausa.io/profile/geo/st.-petersburg-fl/ |website=Data USA |publisher=Deloitte |access-date=28 September 2020 |archive-date=August 7, 2020 |archive-url=https://web.archive.org/web/20200807153555/https://datausa.io/profile/geo/st.-petersburg-fl/ |url-status=live }}</ref>
+
+===Largest employers===
+
+According to the City of St. Petersburg, Florida's 2019 [[Comprehensive Annual Financial Report]], the largest private-sector (non-government, non-school) employers in the city are (with trends since 2010):<ref>{{cite web |title=Comprehensive Annual Financial Report |url=https://www.stpete.org/city_departments/finance/docs/2019%20CAFR%20FINAL.pdf |website=City of St. Petersburg |page=273 |access-date=April 4, 2021 |archive-date=April 11, 2021 |archive-url=https://web.archive.org/web/20210411043044/https://www.stpete.org/city_departments/finance/docs/2019%20CAFR%20FINAL.pdf |url-status=dead }}</ref>
+
+{| class="wikitable"
+|-
+! #
+! rowspan="2" | Employer
+!Industry
+! Employees
+|-
+| 1 {{steady}}
+|Investment
+| style="text-align: left;" |4,700 {{profit}}
+|-
+| 2 {{profit}}
+| [[Johns Hopkins All Children's Hospital]]
+| Healthcare
+| style="text-align: left;" |3,700 {{profit}}
+|-
+| 3 {{steady}}
+|[[Home Shopping Network]]
+| Retail
+| style="text-align: left;" |2,200 {{loss}}
+|-
+| 4 {{profit}}
+| [[St. Anthony's Hospital (St. Petersburg, Florida)|St. Anthony's Hospital]]
+| Healthcare
+| style="text-align: left;" |2,100 {{profit}}
+|-
+| 5 {{profit}}
+| [[Publix|Publix Super Markets]]
+| Retail
+| style="text-align: left;" |2,000 {{profit}}
+|-
+| 6 {{profit}}
+| [[Jabil Circuit]]
+| Electronics manufacturing services
+| style="text-align: left;" |2,000 {{profit}}
+|-
+| 7 {{loss}}
+| [[FIS (company)|Fidelity National Information Services]]
+| Financial sector
+| style="text-align: left;" |1,800 {{steady}}
+|-
+| 8 {{loss}}
+| [[Bayfront Health St. Petersburg|Bayfront Medical]]
+| Healthcare
+| style="text-align: left;" |1,500 {{loss}}
+|-
+| 9 {{profit}}
+| [[The Continental Group]]
+| Realtor
+| style="text-align: left;" |1,200 {{profit}}
+|-
+| 10 {{loss}}
+| [[Charter Communications|Spectrum]]
+| Communications
+| style="text-align: left;" |1,100 {{loss}}
+|}
+
+===Budget===
+
+In 2022, the city of St. Petersburg had an operating budget of $711.2 million for all funds, excluding internal service funds and dependent districts.<ref name="St. Petersburg, Florida">{{cite web |title=Annual Comprehensive Financial Report |url=https://cms5.revize.com/revize/stpete/Departments/Finance/Yearly%20Reports/2022%20-%20Comprehensive%20Annual%20Financial%20Report.pdf |access-date=12 May 2023 |website=City of St. Petersburg |publisher=Revize |archive-date=May 12, 2023 |archive-url=https://web.archive.org/web/20230512204500/https://cms5.revize.com/revize/stpete/Departments/Finance/Yearly%20Reports/2022%20-%20Comprehensive%20Annual%20Financial%20Report.pdf |url-status=live }}</ref>
+
+The Commercial Revitalization Program of 2020 provided grants to commercial developments providing future work to the city. Grants are provided to commercial buildings and developments outside of downtown and are provided as matching grants.<ref>{{cite web |title=City of St. Petersburg Announces Requirement for Upcoming 2020 Commercial Revitalization Program |url=http://www.stpete.org/internal-news-detail_T2_R1234.php |website=St. Pete |publisher=City of St. Petersburg |access-date=18 September 2020 |archive-date=October 17, 2020 |archive-url=https://web.archive.org/web/20201017034002/https://www.stpete.org/internal-news-detail_T2_R1234.php |url-status=dead }}</ref>
+
+===Events===
+
+One of the first of many major events of the year that takes place is the Dr. Martin Luther King Jr. Parade, in January.<ref>{{cite web|title = MLK Day 2015: St. Petersburg's annual Dr. Martin Luther King, Jr., Parade; parking and traffic info|url = http://www.abcactionnews.com/news/region-south-pinellas/st-petersburg/mlk-day-2015-st-petersburgs-annual-dr-martin-luther-king-jr-parade-parking-and-traffic-info|website = WFTS|access-date = November 22, 2015|url-status = dead|archive-url = https://web.archive.org/web/20150616044651/http://www.abcactionnews.com/news/region-south-pinellas/st-petersburg/mlk-day-2015-st-petersburgs-annual-dr-martin-luther-king-jr-parade-parking-and-traffic-info|archive-date = June 16, 2015|df = mdy-all}}</ref><ref>{{cite web|title = Official MLK National Parade Site|url = http://mlknationalparade.org/|website = mlknationalparade.org|access-date = November 22, 2015|url-status = dead|archive-url = https://web.archive.org/web/20151120105704/http://mlknationalparade.org/|archive-date = November 20, 2015|df = mdy-all}}</ref> The parade hosts a Battle of the Bands, and drum line extravaganzas that have been duplicated in other cities.<ref>{{cite web|title = St. Pete parade highlights MLK Jr. weekend festivities|url = http://www.tbo.com/pinellas-county/st-pete-parade-highlights-mlk-jr-weekend-festivities-20150116/|website = TBO.com|access-date = November 22, 2015|archive-url = https://web.archive.org/web/20151122124049/http://www.tbo.com/pinellas-county/st-pete-parade-highlights-mlk-jr-weekend-festivities-20150116/|archive-date = November 22, 2015|url-status = dead}}</ref>
+
+In March the city hosts the annual Firestone [[Grand Prix of St. Petersburg]]. This is located in downtown St. Petersburg and is the first round of the [[IndyCar Series]].<ref>{{cite web|title = St. Petersburg City Council extends Grand Prix through 2020|url = https://www.tampabay.com/news/politics/local/st-petersburg-city-council-extends-grand-prix-through-2020/2253778/|website = Tampa Bay Times|access-date = November 22, 2015|archive-date = November 21, 2015|archive-url = https://web.archive.org/web/20151121225039/http://www.tampabay.com/news/politics/local/st-petersburg-city-council-extends-grand-prix-through-2020/2253778|url-status = live}}</ref> It usually lasts three days with practice rounds, qualifications, and two main races.<ref>{{cite web|title = St. Petersburg council pumps the brakes on Grand Prix|url = https://www.tampabay.com/news/humaninterest/st-petersburg-council-pumps-the-brakes-on-grand-prix/2245046/|website = Tampa Bay Times|access-date = November 22, 2015|archive-date = November 21, 2015|archive-url = https://web.archive.org/web/20151121225419/http://www.tampabay.com/news/humaninterest/st-petersburg-council-pumps-the-brakes-on-grand-prix/2245046|url-status = live}}</ref><ref>{{Cite web|date=2020-10-23|title=Firestone extends Grand Prix of St. Petersburg title sponsorship through 2023|url=https://www.wfla.com/sports/firestone-extends-grand-prix-of-st-petersburg-title-sponsorship-through-2023/|access-date=2020-10-23|website=WFLA|language=en-US|archive-date=October 26, 2020|archive-url=https://web.archive.org/web/20201026163312/https://www.wfla.com/sports/firestone-extends-grand-prix-of-st-petersburg-title-sponsorship-through-2023/|url-status=live}}</ref>
+
+Bluesfest, hosted in the Vinoy Park,<ref>{{cite web|title = Tampa Bay Blues Festival Information|url = http://www.tampabaybluesfest.com/info.php|website = www.tampabaybluesfest.com|access-date = November 22, 2015|archive-date = November 20, 2015|archive-url = https://web.archive.org/web/20151120164931/http://www.tampabaybluesfest.com/info.php|url-status = live}}</ref> hosts multiple live blues artists, offers views of the Tampa Bay waters from the park, and provides drinks and free food.<ref>{{cite web|title = The Tampa Bay Blues Festival|url = http://eventful.com/events/tampa-bay-blues-festival-/E0-001-087443780-2@2016040800|website = Eventful|access-date = November 22, 2015|archive-date = December 5, 2015|archive-url = https://web.archive.org/web/20151205054839/http://eventful.com/events/tampa-bay-blues-festival-/E0-001-087443780-2@2016040800|url-status = live}}</ref><ref>{{cite web|title = Happy times expected at Tampa Bay Blues Festival|url = http://www.wtsp.com/story/entertainment/2015/03/12/music-festival-blues/70202574/|website = 10NEWS|access-date = November 22, 2015}}{{Dead link|date=August 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+One of the many art festivals, called the Mainsail Art Festival, is a free entry art exhibition at the Vinoy Park, which offers art sold by local artists. It also provides live music, awards, and food courts.<ref>{{cite web|title = St. Pete's Mainsail Arts Festival marks 40th year|url = http://www.tbo.com/pinellas-county/st-petes-mainsail-arts-festival-marks-40th-year-20150418/|website = TBO.com|access-date = November 22, 2015|archive-url = https://web.archive.org/web/20151122132344/http://www.tbo.com/pinellas-county/st-petes-mainsail-arts-festival-marks-40th-year-20150418/|archive-date = November 22, 2015|url-status = dead}}</ref><ref>{{cite web|title = Festival Info {{!}} Mainsail Art Festival|url = http://www.mainsailart.org/festival-info/|website = www.mainsailart.org|access-date = November 22, 2015|archive-date = November 20, 2015|archive-url = https://web.archive.org/web/20151120183232/http://www.mainsailart.org/festival-info/|url-status = live}}</ref>
+
+The Saint Petersburg Art Festival takes place every February.<ref>{{cite web |last1=Villegas |first1=Brianda |title=Artists to showcase crafts at St. Petersburg Fine Art Festival this weekend |url=https://www.wfla.com/news/local-news/artists-to-showcase-crafts-at-st-petersburg-fine-art-festival-this-weekend/ |website=wfla.com |date=February 25, 2021 |publisher=News Channel 8 |access-date=28 February 2021 |archive-date=February 26, 2021 |archive-url=https://web.archive.org/web/20210226010359/https://www.wfla.com/news/local-news/artists-to-showcase-crafts-at-st-petersburg-fine-art-festival-this-weekend/ |url-status=live }}</ref>
+
+The downtown triathlon event is hosted by [[St. Anthony's Hospital (St. Petersburg, Florida)|St. Anthony's Hospital]] and involves a 1.5k swim through Tampa Bay, a 40k bike along the waterways, and a 10k run through the neighborhoods.<ref>{{cite web|title = Training for a triathlon? You might want to team up with others|url = https://www.tampabay.com/news/health/training-for-a-triathlon-you-might-want-to-team-up-with-others/2225868/|website = Tampa Bay Times|access-date = November 22, 2015|archive-date = November 22, 2015|archive-url = https://web.archive.org/web/20151122123047/http://www.tampabay.com/news/health/training-for-a-triathlon-you-might-want-to-team-up-with-others/2225868|url-status = live}}</ref><ref>{{cite web|title = About the Race {{!}} St. Anthony's Triathlon 2016 {{!}} St. Petersburg, FL|url = http://www.satriathlon.com/content/about-the-race/|website = www.satriathlon.com|access-date = November 22, 2015|url-status = dead|archive-url = https://web.archive.org/web/20151120103010/http://www.satriathlon.com/content/about-the-race/|archive-date = November 20, 2015|df = mdy-all}}</ref>
+
+The Green Thumb Festival, which originated in 1986 to promote tree beautification and planting in the city of St. Petersburg, is currently held in Walter Fuller Park.<ref>{{cite web|title = St. Petersburg Green Thumb Festival - About Us|url = http://www.stpeteparksrec.org/greenthumb/aboutus.html|website = www.stpeteparksrec.org|access-date = September 10, 2015|archive-url = https://web.archive.org/web/20150905093140/http://www.stpeteparksrec.org/Greenthumb/aboutus.html|archive-date = September 5, 2015|url-status = dead}}</ref><ref>{{Cite book|title = The National Urban Forest Forum|url = https://books.google.com/books?id=t6IsAQAAMAAJ|publisher = American Forestry Association|date = January 1, 1986|access-date = November 22, 2015|archive-date = September 30, 2023|archive-url = https://web.archive.org/web/20230930001330/https://books.google.com/books?id=t6IsAQAAMAAJ|url-status = live}}</ref>
+
+A major event that takes place in June is the St. Pete Pride weekend, when the [[LGBT community]] and supporters celebrate in the streets with festivals, the 27/82 concert, and an LGBT pride parade.<ref>{{cite web|title = St Pete Pride|url = http://www.stpetepride.com/|website = St Pete Pride|access-date = September 11, 2015|archive-date = August 11, 2015|archive-url = https://web.archive.org/web/20150811000356/http://www.stpetepride.com/|url-status = live}}</ref><ref>{{Cite book|title = St. Petersburg: Through Time|url = https://books.google.com/books?id=m4anBAAAQBAJ|publisher = Arcadia Publishing|date = November 24, 2014|isbn = 9781625450876|first = James Anthony|last = Schnur|access-date = November 22, 2015|archive-date = September 30, 2023|archive-url = https://web.archive.org/web/20230930001331/https://books.google.com/books?id=m4anBAAAQBAJ|url-status = live}}</ref> The weekend also hosts a variety of block parties, food stands, DJ stands, art festivals, local hosted parties, and the LGBT welcoming center.<ref>{{cite web|title = LGBT Pride Parade|url = http://www.stpetepride.com/2016LGBTPrideParade|website = St Pete Pride|access-date = September 11, 2015|archive-url = https://web.archive.org/web/20150916154724/http://www.stpetepride.com/2016LGBTPrideParade|archive-date = September 16, 2015|url-status = dead|df = mdy-all}}</ref><ref>{{cite web|title = Pride Parade draws huge crowd to St. Pete|url = http://wfla.com/2015/06/28/pride-parade-draws-huge-crowd-to-st-pete/|website = WFLA|access-date = November 22, 2015|first = Chip|last = Osowski|date = June 28, 2015|archive-date = September 19, 2015|archive-url = https://web.archive.org/web/20150919055009/http://wfla.com/2015/06/28/pride-parade-draws-huge-crowd-to-st-pete/|url-status = live}}</ref>
+
+In July, the 4th of July firework celebration invites the citizens to downtown St. Petersburg.<ref>{{cite web|title = Fireworks Across the Bay Celebration in St. Pete {{!}} Visit St Petersburg Clearwater|url = http://www.visitstpeteclearwater.com/events-calendar/fireworks-across-bay-celebration-st-pete/5136|website = www.visitstpeteclearwater.com|access-date = September 11, 2015|url-status = dead|archive-url = https://web.archive.org/web/20151118235127/http://www.visitstpeteclearwater.com/events-calendar/fireworks-across-bay-celebration-st-pete/5136|archive-date = November 18, 2015|df = mdy-all}}</ref>
+
+Greenhouse and USF St. Pete's College of Business host an annual event known as "St. Pete Pitch Night" in October that hosts judges and business pitches.<ref>{{Cite web|title=St. Pete Pitch Night|url=https://stpetegreenhouse.com/pitch/|access-date=2020-10-15|website=St. Pete Greenhouse|language=en-US|archive-date=October 24, 2020|archive-url=https://web.archive.org/web/20201024030108/https://stpetegreenhouse.com/pitch/|url-status=live}}</ref>
+
+In November, the annual [[Ribfest]] is held at Vinoy Park.<ref>{{cite web|title=St. Petersburg, FL - Vinoy Park - Ribfest |url=http://www.daughtryofficial.com/us/event/2014/11/14 |website=The Official Daughtry Website |access-date=September 11, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20141108223138/http://www.daughtryofficial.com/us/event/2014/11/14 |archive-date=November 8, 2014 }}</ref> It includes family fun zones, drinking vendors, and two stages hosting many country music artists.<ref>{{cite web|title = Ribfest|url = http://ribfest.org/|website = ribfest.org|access-date = September 11, 2015|archive-date = September 19, 2015|archive-url = https://web.archive.org/web/20150919060520/http://ribfest.org/|url-status = dead}}</ref>
+
+SHINE St. Pete Mural Festival is an annual event hosted by the St. Petersburg Arts Alliance. The event began in 2015 and since has contributed to nearly 93 murals designed by artists from across the globe. 2020 marked the first event entirely composed of Florida-based artists, more specifically from the Tampa Bay area.<ref>{{Cite web|title=St. Pete's SHINE Mural Festival announces an all-Florida artist lineup|url=https://stpeterising.com/home/2020/10/16/st-petes-shine-mural-festival-announces-an-all-florida-artist-lineup|access-date=2020-10-19|website=St. Pete Rising|date=October 16, 2020 |language=en-US|archive-date=October 31, 2020|archive-url=https://web.archive.org/web/20201031102407/https://stpeterising.com/home/2020/10/16/st-petes-shine-mural-festival-announces-an-all-florida-artist-lineup|url-status=live}}</ref>
+
+From the end of November through December are holiday events. A tree lighting ceremony starts the celebrations. The [[Santa Parade]] is followed by Snowfest with "[[Synthetic ice|glice]]" skating, toboggan slides, and Kiddyland.<ref name=":9">{{cite web|title = Holiday Events - St. Petersburg, Florida|url = http://www.stpeteparksrec.org/holiday-events.html|website = www.stpeteparksrec.org|access-date = September 11, 2015|archive-url = https://web.archive.org/web/20150823034020/http://www.stpeteparksrec.org/holiday-events.html|archive-date = August 23, 2015|url-status = dead}}</ref> Kids meet Santa and ice skate in the North Straub Park. North and South Straub Park are decorated with holiday lights and decorations while the Vinoy Park is decorated with large greeting cards created by the recreational centers in St. Petersburg.<ref name=":9"/>
+
+In mid-December, the city hosts an annual [[NCAA]] football game in Tropicana Field entitled the [[St. Petersburg Bowl]].<ref>{{cite web|title = History New - St. Petersburg Bowl|url = http://stpetersburgbowl.com/bowl-history/|website = St. Petersburg Bowl|access-date = December 13, 2015|language = en-US|archive-url = https://web.archive.org/web/20151210032105/http://stpetersburgbowl.com/bowl-history/|archive-date = December 10, 2015|url-status = dead|df = mdy-all}}</ref>
+
+On December 31, St. Petersburg has the year's last event, First Night St. Petersburg, where people celebrate the arts from venues across the city.<ref>{{cite web|title = First Night Facts|url = http://www.firstnightstpete.com/faq.html|website = www.firstnightstpete.com|access-date = September 11, 2015|url-status = dead|archive-url = https://web.archive.org/web/20151117111922/http://www.firstnightstpete.com/faq.html|archive-date = November 17, 2015|df = mdy-all}}</ref>
+
+The American Stage in the Park hosts many different shows at the Demens Landing Park throughout the year.<ref>{{cite web|title = American Stage Theatre Company {{!}} Upcoming Events|url = https://tickets.americanstage.org/TheatreManager/1/online?event=0|website = tickets.americanstage.org|access-date = September 11, 2015|archive-date = August 29, 2017|archive-url = https://web.archive.org/web/20170829134818/https://tickets.americanstage.org/TheatreManager/1/online?event=0|url-status = live}}</ref><ref>{{cite web|title = Demens Landing|url = http://www.tampabay.com/things-to-do/destination-detail/demens-landing/5072|website = Tampa Bay Times|access-date = September 11, 2015|url-status = dead|archive-url = https://web.archive.org/web/20150915092347/http://www.tampabay.com/things-to-do/destination-detail/demens-landing/5072|archive-date = September 15, 2015|df = mdy-all}}</ref>
+
+St. Petersburg hosted the [[Miss Florida]] Pageant eleven consecutive years from 2004 to 2015, until the pageant was moved to [[Lakeland, Florida|Lakeland]].<ref>{{cite web|title = Miss Florida Pageant officially moving to Lakeland|url = http://www.theledger.com/article/20150826/news/150829574|access-date = September 11, 2015|archive-date = November 17, 2015|archive-url = https://web.archive.org/web/20151117154329/http://www.theledger.com/article/20150826/news/150829574|url-status = live}}</ref>
+
+The city hosts a year-round event known as the "Second Saturday ArtWalk".<ref>{{Cite web|title=SPC Events: St. Pete Second Saturday Artwalk|url=http://vspc.us/1YBUMsx|access-date=2020-10-12|website=Visit St.Pete/Clearwater|language=en}}{{Dead link|date=January 2022 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+The city hosted the [[Royal Rumble (2024)|2024 Royal Rumble]] on January 27, 2024, on the Tropicana Field<ref>{{cite web|title=Tampa Bay to host 2024 Royal Rumble|url=https://www.wwe.com/shows/royalrumble/article/royal-rumble-comes-to-tampa-in-2024|work=[[WWE]]|access-date=September 13, 2023|date=September 13, 2023|archive-date=September 18, 2023|archive-url=https://web.archive.org/web/20230918034628/https://www.wwe.com/shows/royalrumble/article/royal-rumble-comes-to-tampa-in-2024|url-status=live}}</ref><ref>{{cite news|last=Russell|first=Skylar|title=WWE Royal Rumble 2024 To Take Place At Tropicana Field in St. Petersburg, Florida|url=https://www.fightful.com/wrestling/wwe-royal-rumble-2024-take-place-tropicana-field-st-petersburg-florida|work=Fightful|date=September 13, 2023|access-date=September 13, 2023|archive-date=September 18, 2023|archive-url=https://web.archive.org/web/20230918034628/https://www.fightful.com/wrestling/wwe-royal-rumble-2024-take-place-tropicana-field-st-petersburg-florida|url-status=live}}</ref>
+
+===Demonstrations and protests===
+
+Pride month takes place annually throughout the month of June to celebrate and recognize the identities of LGBTQ+ persons.<ref>{{cite web |title=About |url=https://www.loc.gov/lgbt-pride-month/about/ |website=Library of Congress |publisher=United States Legislative Information |access-date=7 July 2020 |archive-date=February 2, 2019 |archive-url=https://web.archive.org/web/20190202042248/https://www.loc.gov/lgbt-pride-month/about/ |url-status=live }}</ref> The city of St. Petersburg hosts a variety of events to celebrate Pride Month including the annual Pride Parade.<ref>{{cite web |title=Pride Parade |url=https://stpetepride.com/wp-content/uploads/2020/01/parade-2020.jpg |website=St. Pete Pride |access-date=7 July 2020 |archive-date=June 13, 2020 |archive-url=https://web.archive.org/web/20200613191650/https://stpetepride.com/wp-content/uploads/2020/01/parade-2020.jpg |url-status=dead }}</ref>
+
+The annual Women's March in the month of January typically takes place in Williams Park where thousands of individuals gather to march for female rights and equality. The last documented Women's March in St. Pete dates back to 2018 following the resurgence of the #MeToo Movement.<ref>{{cite web |title=Women's march through St. Petersburg |url=https://www.fox13news.com/news/women-march-through-st-petersburg |website=Fox 13 |date=January 21, 2018 |publisher=Fox Television Stations |access-date=7 July 2020 |archive-date=July 7, 2020 |archive-url=https://web.archive.org/web/20200707185302/https://www.fox13news.com/news/women-march-through-st-petersburg |url-status=live }}</ref>
+
+[[George Floyd protests|Demonstrations and protests]] began following the [[murder of George Floyd]].<ref>{{cite news |last1=Burch |first1=Audra |last2=Cai |first2=Weiyi |last3=Gianordoli |first3=Gabriel |last4=McCarthy |first4=Morrigan |last5=Patel |first5=Jugal |title=How Black Lives Matter Reached Every Corner of America |url=https://www.nytimes.com/interactive/2020/06/13/us/george-floyd-protests-cities-photos.html |website=New York Times |date=June 13, 2020 |access-date=7 July 2020 |archive-date=June 14, 2020 |archive-url=https://web.archive.org/web/20200614144003/https://www.nytimes.com/interactive/2020/06/13/us/george-floyd-protests-cities-photos.html |url-status=live }}</ref>
+
+===Tourism===
+[[File:Salvador Dali Museum - panoramio (17).jpg|thumb|The [[Salvador Dalí Museum]]]]
+The city has a children's museum ([[Great Explorations]]) and a [[Museum of Fine Arts (St. Petersburg, Florida)|Museum of Fine Arts]].<ref>{{cite news |title=Smackdown: Battle of the Florida beaches |url=http://www.foxnews.com/travel/2014/11/14/smackdown-battle-florida-beaches/ |access-date=1 April 2015 |publisher=Fox News |date=14 November 2014 |archive-date=April 15, 2015 |archive-url=https://web.archive.org/web/20150415223756/http://www.foxnews.com/travel/2014/11/14/smackdown-battle-florida-beaches/ |url-status=live }}</ref> The [[Museum of the American Arts and Crafts Movement]] was expected to open in 2017, and after delays opened to the public in September 2021.<ref>{{Cite web |date=2023-09-07 |title=Museum of the American Arts & Crafts Movement celebrates 2nd anniversary |url=https://www.fox13news.com/news/museum-of-the-american-arts-crafts-movement-celebrates-2nd-anniversary |access-date=2023-11-10 |website=FOX 13 News |language=en-US}}</ref> The St. Petersburg Museum of History has a full-size replica of the Benoist XIV seaplane and is located near the approximate spot by the St. Petersburg Pier where the first scheduled commercial flight departed.<ref>{{cite web|title = Exhibits|url = http://spmoh.com/visit/exhibits/|website = St. Petersburg Museum of History {{!}} St. Petersburg, Florida|access-date = January 13, 2016|language = en-US|archive-date = January 7, 2016|archive-url = https://web.archive.org/web/20160107175917/http://spmoh.com/visit/exhibits/|url-status = dead}}</ref> St. Petersburg is home to the Dr. Carter G. Woodson African American Museum which highlights the life of Carter G. Woodson who founded the Associated Publishers and is the author of nearly 30 books still prevalent today.<ref>{{cite web |title=About Us |url=https://woodsonmuseum.org/about-us/ |website=Woodson Museum |publisher=Dr. Carter G. Woodson African American Museum |access-date=30 June 2020 |archive-date=June 30, 2020 |archive-url=https://web.archive.org/web/20200630191621/https://woodsonmuseum.org/about-us/ |url-status=live }}</ref> Past exhibits and events featured in the museum include the Ray McLendon Exhibit, a discussion of race and politics series, and a seminar on the conviction of Michael Morgan.<ref>{{cite web |title=Exhibits and Events |url=https://woodsonmuseum.org/exhibits-events/ |website=Woodson Museum |publisher=Dr. Carter G. Woodson African American Museum |access-date=30 June 2020 |archive-date=June 30, 2020 |archive-url=https://web.archive.org/web/20200630215048/https://woodsonmuseum.org/exhibits-events/ |url-status=live }}</ref> The city also has the Holocaust Museum, and the [[Salvador Dalí Museum]], which houses the largest collection of [[Salvador Dalí|Dalí's]] works outside of Europe, including a number of famous and large-scale paintings such as ''[[The Discovery of America by Christopher Columbus]]''.<ref>{{cite web|title = The Discovery of America by Christopher Columbus - Unparalleled collection of Salvador Dali art works|url = http://thedali.org/exhibit/discovery-america-christopher-columbus/|website = Unparalleled collection of Salvador Dali art works|access-date = January 13, 2016|language = en-US|archive-date = December 23, 2015|archive-url = https://web.archive.org/web/20151223141710/http://thedali.org/exhibit/discovery-america-christopher-columbus/|url-status = live}}</ref> The [[Chihuly Collection]], located on Central Avenue, houses glass sculptures of [[Dale Chihuly]].<ref>{{cite web|title = St. Petersburg's Dale Chihuly Collection moving to larger space on Central Avenue|url = https://www.tampabay.com/things-to-do/visualarts/dale-chihuly-collection-moving-to-larger-space-on-central-avenue/2250444/|website = Tampa Bay Times|access-date = January 13, 2016|archive-date = December 24, 2015|archive-url = https://web.archive.org/web/20151224144829/http://www.tampabay.com/things-to-do/visualarts/dale-chihuly-collection-moving-to-larger-space-on-central-avenue/2250444|url-status = live}}</ref>
+
+[[File:St. Petersburg FL Mahaffey Theater01.jpg|thumb|left|The [[Mahaffey Theater]] is one of St. Petersburg's popular tourism spots.]]
+There are various other smaller art galleries and entertainment venues, especially in the downtown area, which has seen a boom in development since the mid-1990s; these include the [[Mahaffey Theater]] complex, American Stage (an equity regional theater), The Coliseum, Palladium Theatre, the Arts Center, and the Florida Craftsmen Gallery.<ref>{{cite web|title = Performing Arts - St. Petersburg|url = http://www.stpete.org/attractions/performing_arts.php|website = www.stpete.org|access-date = January 13, 2016|archive-date = January 18, 2016|archive-url = https://web.archive.org/web/20160118141538/http://www.stpete.org/attractions/performing_arts.php|url-status = dead}}</ref><ref>{{cite web|title = Downtown St Petersburg Florida|url = http://www.discoverdowntown.com/default.aspx?redirect=/businessDirectory/businessDirectory.aspx%253FcategoryID%253D2016|website = www.discoverdowntown.com|access-date = January 13, 2016|archive-date = March 4, 2016|archive-url = https://web.archive.org/web/20160304075954/http://www.discoverdowntown.com/default.aspx?redirect=/businessDirectory/businessDirectory.aspx%253FcategoryID%253D2016|url-status = live}}</ref>
+
+There are seven distinct art districts in St. Petersburg.<ref>{{cite web |title=Arts and Culture |url=http://www.stpete.org/arts_and_culture/ |website=St. Petersburg |publisher=City of St. Petersburg |access-date=30 January 2020 |archive-date=September 5, 2015 |archive-url=https://web.archive.org/web/20150905091310/http://www.stpete.org/arts_and_culture/ |url-status=dead }}</ref> The ''Deuces Live District'' is home to the city of St. Petersburg's African American heritage, and includes locally owned art galleries and other specialty businesses,<ref name=":14">{{Cite web |title=The Deuces Live – The Heart of South St. Pete |url=https://deuceslive.org/ |access-date=2020-10-12 |language=en-US |archive-date=October 18, 2020 |archive-url=https://web.archive.org/web/20201018150557/http://www.deuceslive.org/ |url-status=live }}</ref> as well as historic buildings such as the [[Royal Theater (St. Petersburg, Florida)|Royal Theater]].<ref>{{Cite web |title=Vintage St. Pete: The Royal Theatre |url=https://stpetecatalyst.com/vintage-st-pete-the-royal-theatre/ |access-date=2022-04-10 |website=The St. Pete Catalyst |date=July 27, 2021 |archive-date=April 15, 2022 |archive-url=https://web.archive.org/web/20220415103858/https://stpetecatalyst.com/vintage-st-pete-the-royal-theatre/ |url-status=live }}</ref> The ''M.L. King North District'' includes restaurants and cafes.<ref>{{cite web |title=Seven Arts Districts: One Arts Destination |url=http://www.stpete.org/arts_and_culture/arts_districts.php |website=St. Petersburg |publisher=City of St. Petersburg |access-date=30 January 2020 |archive-date=January 18, 2020 |archive-url=https://web.archive.org/web/20200118033634/http://www.stpete.org/arts_and_culture/arts_districts.php |url-status=dead }}</ref>
+
+The old St. Petersburg Pier was a popular tourist attraction which closed in May 2013, and has been replaced with a new pier that opened in late 2020.<ref>{{cite web|title = No turning back: City begins demolition of the Pier|url = https://www.tampabay.com/news/localgovernment/no-turning-back-city-begins-demolition-of-the-pier/2241790/|website = Tampa Bay Times|access-date = January 13, 2016|archive-date = March 4, 2016|archive-url = https://web.archive.org/web/20160304064700/http://www.tampabay.com/news/localgovernment/no-turning-back-city-begins-demolition-of-the-pier/2241790|url-status = live}}</ref> The ''[[Bounty (1960 ship)|Bounty]]'', a replica of {{HMS|Bounty}} that was used in the [[Mutiny on the Bounty (1962 film)|1962 Technicolor remake of ''Mutiny on the Bounty'']], starring [[Marlon Brando]], was permanently docked near the pier for many years until the ship was sold to [[Ted Turner]] in 1986.<ref>{{Cite book|title = Tampa Bay Landmarks and Destinations|url = https://books.google.com/books?id=OPXBCQAAQBAJ|publisher = Arcadia Publishing|date = April 27, 2015|isbn = 9781439651063|language = en|first = Joshua|last = McMorrow-Hernandez|access-date = January 13, 2016|archive-date = September 30, 2023|archive-url = https://web.archive.org/web/20230930001332/https://books.google.com/books?id=OPXBCQAAQBAJ|url-status = live}}</ref> The ''Bounty'', however, sometimes visited St. Petersburg for the winter in the following years before its sinking in 2012.<ref>{{cite news
+|url=http://usnews.nbcnews.com/_news/2012/10/29/14775512-14-rescued-2-missing-from-hms-bounty-off-nc-coast?lite
+|title=14 rescued, 2 missing from HMS Bounty off N.C. coast
+|work=[[NBC News]]
+|date=October 29, 2012
+|access-date=October 29, 2012
+|archive-date=October 29, 2012
+|archive-url=https://web.archive.org/web/20121029153342/http://usnews.nbcnews.com/_news/2012/10/29/14775512-14-rescued-2-missing-from-hms-bounty-off-nc-coast?lite
+|url-status=live
+}}</ref> In 2010, the St. Petersburg City Council voted to demolish and rebuild the pier.<ref>{{cite web|title = St. Pete council formally votes to tear down Pier|url = http://www.tampabay.com/news/politics/local/st-pete-council-formally-votes-to-tear-down-pier/1117740|website = Tampa Bay Times|access-date = November 19, 2015|url-status = dead|archive-url = https://web.archive.org/web/20151120052347/http://www.tampabay.com/news/politics/local/st-pete-council-formally-votes-to-tear-down-pier/1117740|archive-date = November 20, 2015|df = mdy-all}}</ref> The new pier will be opening "in phases" in 2020. A ceremony celebrating the opening is scheduled for the 4th of July.<ref>{{Cite news|url=https://www.wtsp.com/article/news/local/pinellascounty/st-pete-pier-opening-2020/67-6b119dad-c7c9-46bf-85c4-96e40c55d84a|title=St. Pete Pier to open in phases throughout 2020|last=Zimmer|first=Beau|date=January 2, 2020|work=WTSP Channel 10|access-date=January 9, 2020|archive-date=September 30, 2023|archive-url=https://web.archive.org/web/20230930001332/https://www.wtsp.com/article/news/local/pinellascounty/st-pete-pier-opening-2020/67-6b119dad-c7c9-46bf-85c4-96e40c55d84a|url-status=live}}</ref>
+
+The Moorings partnered with Sailing Florida in Winter of 2020 to begin St. Petersburg's first ever sailing charter. This event took place in response to COVID-19 which restricted travel and left many Americans with the desire to leave their homes. The seven day itinerary takes occupants roundtrip from St. Petersburg to many islands around the Florida area.<ref>{{Cite web|last=Potter|first=Everett|title=Sail With The Moorings From St. Petersburg, Florida This Winter|url=https://www.forbes.com/sites/everettpotter/2020/10/26/sail-with-the-moorings-from-st-petersburg-florida-this-winter/|access-date=2020-11-09|website=Forbes|language=en|archive-date=October 31, 2020|archive-url=https://web.archive.org/web/20201031022035/https://www.forbes.com/sites/everettpotter/2020/10/26/sail-with-the-moorings-from-st-petersburg-florida-this-winter/|url-status=live}}</ref>
+
+The city had a [[Madame Tussaud Wax Museum]] between 1963 and 1989.<ref>{{cite web|title = Tussaud's London Wax Museum : one of Florida's Lost Tourist Attractions|url = http://lostparks.com/londonwax.html|website = lostparks.com|access-date = August 18, 2015|archive-date = September 17, 2015|archive-url = https://web.archive.org/web/20150917173241/http://www.lostparks.com/londonwax.html|url-status = live}}</ref><ref>{{cite web |url=http://www.lostparks.com/londonwax.html |title=Tussaud's London Wax Museum : one of Florida's Lost Tourist Attractions |website=Tussaud's London Wax Museum |publisher=Robert H. Brown |access-date=17 August 2020 |archive-date=June 18, 2020 |archive-url=https://web.archive.org/web/20200618182132/http://lostparks.com/londonwax.html |url-status=live }}</ref>
+
+The downtown [[Sundial St. Pete|Sundial]] shopping complex opened in May 2014, sitting on the renovated site of a shopping and entertainment complex formerly called BayWalk that originally opened in 2000.<ref>{{cite web|title=Tampa Bay news, weather forecast, radar, and sports from WTVT-TV – FOX 13 News |url=http://www.myfoxtampabay.com/story/25479865/first-shop-opens-in-sundial-shopping-center |website=WTVT |access-date=September 30, 2015 |last=FOX |url-status=dead |archive-url=https://web.archive.org/web/20141014093353/http://www.myfoxtampabay.com/story/25479865/first-shop-opens-in-sundial-shopping-center |archive-date=October 14, 2014 }}</ref> It contains a 12-screen movie theater originally owned by [[Muvico]] and now owned by [[AMC Theatres]], as well as many chain restaurants and retail shops. The Sundial St. Pete has nightlife destinations, as does the block surrounding Jannus Live. Restaurants serving ethnic and domestic culinary specialties can be found throughout the downtown area.
+
+Every Saturday morning from October to May, the downtown area hosts a [[farmers' market]] in the parking area of Al Lang Stadium (formerly Progress Energy Park). Local vendors sell the fruits of their labors (whether edible or decorative) alongside artists of all kinds including live music.<ref>{{cite web|title = Farmers Market Focus: St. Petersburg Saturday Morning Market|url = http://www.foginfo.org/2014/08/08/farmers-market-focus-st-petersburg-saturday-morning-market/|website = Florida Organic Growers|access-date = November 19, 2015|archive-url = https://web.archive.org/web/20151120050629/http://www.foginfo.org/2014/08/08/farmers-market-focus-st-petersburg-saturday-morning-market/|archive-date = November 20, 2015|url-status = dead}}</ref>
+
+[[File:2012 Honda Grand Prix of St. Petersburg Helio Castroneves final lap.JPG|thumbnail|Dan Wheldon Way during the [[2012 Honda Grand Prix of St. Petersburg]]|left]]
+West of downtown on Central Avenue is the 600 Block Arts District, which contains Bohemian art and clothing stores.<ref>{{cite web|title = 600 Block Art District|url = http://www.tampabay.com/things-to-do/destination-detail/600-block-art-district/7995|website = Tampa Bay Times|access-date = November 10, 2015|url-status = dead|archive-url = https://web.archive.org/web/20151117020847/http://www.tampabay.com/things-to-do/destination-detail/600-block-art-district/7995|archive-date = November 17, 2015|df = mdy-all}}</ref> The eve-N-odd gallery is located in the historic Crislip Arcade built in 1925.<ref>{{cite web|title = Localista: The Crislip Arcade Alive & Well|url = http://downtownstpete.ilovetheburg.com/article/Localista-The-Crislip-Arcade-Alive--Well/2880|website = iLovetheBurg – Downtown St. Pete|access-date = November 10, 2015|url-status = dead|archive-url = https://web.archive.org/web/20151117020956/http://downtownstpete.ilovetheburg.com/article/Localista-The-Crislip-Arcade-Alive--Well/2880|archive-date = November 17, 2015|df = mdy-all}}</ref> The refurbished shopping arcade is one of 13 original city arcades built in the city. Only three are left, and only the Crislip arcade is still being used as a place for small businesses to set up shop.<ref>{{cite web|title = St. Petersburg: New Shops Revive Crislip Arcade|url = http://www.83degreesmedia.com/features/crislip052510.aspx|website = 83Degrees|access-date = November 10, 2015|archive-date = November 17, 2015|archive-url = https://web.archive.org/web/20151117024935/http://www.83degreesmedia.com/features/crislip052510.aspx|url-status = live}}</ref> Further west is the Grand Central District located within Historic Kenwood District. It is known for its artistic community, [[LGBT]] presence, and the annual St. Pete Pride parade.<ref>Cristina Silva, [http://www.sptimes.com/2007/08/08/Neighborhoodtimes/Grand_Central_culture.shtml Neighborhoodtimes: Grand Central culture clash] {{Webarchive|url=https://web.archive.org/web/20110524004243/http://www.sptimes.com/2007/08/08/Neighborhoodtimes/Grand_Central_culture.shtml |date=May 24, 2011 }}, ''St. Petersburg Times'', August 8, 2007, [2011-12-06]</ref> Haslam's Bookstore, closed since 2020, can also be found in the Grand Central District. It was the largest independent bookstore in Florida, with over 30,000 square feet.<ref>Haslams website [http://www.haslams.com/history.shtml About] {{Webarchive|url=https://web.archive.org/web/20130613055859/http://www.haslams.com/history.shtml |date=June 13, 2013 }}</ref> As its name implies, Old Northeast is adjacent to downtown from the northeast. It is known for its historic status and eclectic architecture.<ref>Matt Albucher, [http://www.tampabay.com/news/humaninterest/article870107.ece ''Old Northeast to chronicle charms in book''] {{webarchive|url=https://web.archive.org/web/20081028084242/http://www.tampabay.com/news/humaninterest/article870107.ece |date=October 28, 2008 }}, St. Petersburg Times, October 26, 2008, [December 6, 2011]</ref><ref>{{cite web |url=https://www.tampabay.com/news/business/article970968.ece |title=Furnishings store leaving St. Petersburg's BayWalk for Old Northeast location – St. Petersburg Times |publisher=Tampabay.com |access-date=December 10, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20121009160908/http://www.tampabay.com/news/business/article970968.ece |archive-date=October 9, 2012 |df=mdy-all }}</ref>
+
+St. Petersburg boasts two historic neighborhoods: Roser Park, located just south of the downtown area, and Grenada Terrace, in the Old Northeast Neighborhood. Both are known for stately architecture, and together comprise the urban core of St. Petersburg.<ref>{{cite web |url=http://www.tampabay.com/news/humaninterest/article896255.ece |title=Roser Park's art festival attracts hundreds – St. Petersburg Times |publisher=Tampabay.com |access-date=December 10, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110606214256/http://www.tampabay.com/news/humaninterest/article896255.ece |archive-date=June 6, 2011 |df=mdy-all }}</ref><ref>{{cite web |url=http://www.sptimes.com/2006/04/02/Neighborhoodtimes/Roser_Park_tour_gets_.shtml |title=Neighborhoodtimes: Roser Park tour gets neighborly |publisher=Sptimes.com |date=April 2, 2006 |access-date=December 10, 2011 |archive-date=June 29, 2011 |archive-url=https://web.archive.org/web/20110629070419/http://www.sptimes.com/2006/04/02/Neighborhoodtimes/Roser_Park_tour_gets_.shtml |url-status=live }}</ref>
+
+A bronze statue in honor of St. Pete resident [[Elder Jordan]] stands on 22nd Street and Seventh Avenue as of October 2020. Jordan was a slave from birth up until the age of 15 when he bought his freedom and moved to St. Petersburg where he created a successful business.<ref>{{Cite web|title=He Was Born into Slavery But Became a St. Petersburg Legend|url=https://www.baynews9.com/fl/tampa/news/2020/10/29/elder-jordan-honored-with-statue-in-st--petersburg--florida|access-date=2020-10-29|website=www.baynews9.com|language=en|archive-date=November 1, 2020|archive-url=https://web.archive.org/web/20201101040926/https://www.baynews9.com/fl/tampa/news/2020/10/29/elder-jordan-honored-with-statue-in-st--petersburg--florida|url-status=live}}</ref>
+
+[[File:Williams Park St. Petersburg Florida Amphitheater.jpg|thumb|[[Williams Park]] with bandshell, one of the many public green spaces in the area]]
+North of downtown is the [[Great Explorations Children's Museum]], an interactive museum featuring a Children's Village with giant pretend stores, fire house and pet vet clinic, and preschool, science, music, art, and water exhibits. It is located next to [[Sunken Gardens (Florida)|Sunken Gardens]].<ref>{{cite web|title = St. Pete's Sunken Gardens: A garden like no other|url = http://www.baynews9.com/content/news/baynews9/on-the-town/article.html/content/news/articles/bn9/2015/8/11/st_pete_s_sunken_gar.html|website = www.baynews9.com|access-date = November 22, 2015|archive-url = https://web.archive.org/web/20151122131903/http://www.baynews9.com/content/news/baynews9/on-the-town/article.html/content/news/articles/bn9/2015/8/11/st_pete_s_sunken_gar.html|archive-date = November 22, 2015|url-status = dead|df = mdy-all}}</ref>
+
+4th Street as a whole, from Downtown up to Gandy Boulevard, is home to many restaurants and bars running the gamut from fast food to [[haute cuisine]]. This area is called the "Garden District", although as of 2010 this name is not widely in use.<ref>{{cite web |url=http://www.tampabay.com/things-to-do/neighborhoods/fourth-street-garden-district/ |title=Fourth Street Garden District |publisher=Tampabay.com |access-date=December 10, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20111108063703/http://www.tampabay.com/things-to-do/neighborhoods/fourth-street-garden-district/ |archive-date=November 8, 2011 |df=mdy-all }}</ref>
+
+Boyd Hill Nature Park, located on Lake Maggiore, is a {{convert|245|acre|km2|adj=on}} preserve where one can see many of the endangered plants and rare wildlife of Tampa Bay.<ref>{{cite web|title=Boyd Hill Nature Park & Lake Maggiore Environmental Education Center {{!}} Visit St Petersburg Clearwater |url=http://www.visitstpeteclearwater.com/parks/boyd-hill-nature-park-lake-maggiore-environmental-education-center |website=www.visitstpeteclearwater.com |access-date=October 16, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150918184052/http://www.visitstpeteclearwater.com/parks/boyd-hill-nature-park-lake-maggiore-environmental-education-center |archive-date=September 18, 2015 }}</ref> A bird exhibit houses [[bald eagle]]s, [[owl]]s, [[hawk]]s, and other species.<ref>{{Cite web|url=http://go.galegroup.com/ps/i.do?p=ITOF&sw=w&v=2.1&id=GALE%7CA456987714&it=r&asid=872c1280df637e0298cfe1a2f837fc0d|title=General OneFile - Document - BIRDS OF PREY LIFT VETERAN'S SPIRITS; Struggling with Parkinson's, Steve Dittbenner finds new life with avian therapy at McGough Nature Park|website=go.galegroup.com|access-date=October 27, 2016|archive-date=September 30, 2023|archive-url=https://web.archive.org/web/20230930001337/https://go.gale.com/ps/i.do?p=ITOF&sw=w&v=2.1&id=GALE%7CA456987714&it=r&asid=872c1280df637e0298cfe1a2f837fc0d&userGroupName=anon%7E570cb287&aty=open-web-entry|url-status=live}}</ref>
+
+The area's main shopping mall is [[Tyrone Square Mall]], constructed in 1972 and is located in the northwestern part of the city.<ref>{{cite web|title = About Tyrone Square Mall - A Shopping Center in St Petersburg, FL - A Simon Property|url = http://www.simon.com/mall/tyrone-square-mall/about|website = simon.com|access-date = August 18, 2015|archive-date = July 11, 2015|archive-url = https://web.archive.org/web/20150711170602/http://www.simon.com/mall/tyrone-square-mall/about|url-status = live}}</ref>
+
+===Cinema===
+
+St. Petersburg has been used as a filming location for films over the years, including ''[[Once Upon a Time in America]]'' (1984), ''[[Summer Rental]]'' (1985), ''[[Cocoon (film)|Cocoon]]'' (1985), ''[[Ocean's Eleven]]'' (2001), ''[[Loren Cass]]'' (2006), ''[[Dolphin Tale]]'' (2011), ''[[Magic Mike]]'' (2012), ''[[Spring Breakers]]'' (2013), ''[[Dolphin Tale 2]]'' (2014), and ''[[Miss Peregrine's Home for Peculiar Children (film)|Miss Peregrine's Home for Peculiar Children]]'' (2016).<ref>{{cite web|title = What's Up Tampa Bay {{!}} Blog: Movies Filmed in Tampa Bay|url = http://whatsuptampabay.blogspot.com/2009/12/movies-filmed-in-tampa-bay.html|website = What's Up Tampa Bay {{!}} Blog|date = December 5, 2009|access-date = August 18, 2015|first = What's Up Tampa|last = Bay|archive-date = November 21, 2015|archive-url = https://web.archive.org/web/20151121002155/http://whatsuptampabay.blogspot.com/2009/12/movies-filmed-in-tampa-bay.html|url-status = live}}</ref>
+
+''[[Bernie the Dolphin]]'' (2018) and ''Garden Party'' (2019) were filmed around St. Petersburg.<ref>{{Cite web |title=This Beloved Florida City Is the Backdrop to a New Hallmark Movie |url=https://www.travelandleisure.com/syndication/garden-party-hallmark-movie-st-petersburg-filming |access-date=2020-11-19 |website=Travel + Leisure |language=EN |archive-date=September 16, 2020 |archive-url=https://web.archive.org/web/20200916012657/https://www.travelandleisure.com/syndication/garden-party-hallmark-movie-st-petersburg-filming |url-status=live }}</ref><ref>{{cite web|title = Filmography |url = https://www.filmstpeteclearwater.com/filmography|website = St. Pete Clearwater Film, Arts, & Culture |access-date = January 30, 2020 |archive-date = August 5, 2020|archive-url = https://web.archive.org/web/20200805124434/https://www.filmstpeteclearwater.com/filmography|url-status = live}}</ref>
+
+===Libraries===
+
+The [[St. Petersburg Library System]] consists of seven branch locations:
+* President Barack Obama Library
+* Childs Park Library
+* [[James Weldon Johnson Community Library]]
+* [[Mirror Lake Library]]
+* North Community Library
+* South Community Library
+* West Community Library
+
+The [[Mirror Lake Library]], built in 1915, is one of only two [[Carnegie libraries]] still operating in Florida.
+
+==Sports==
+
+{{Main|Sports in Tampa Bay}}
+{{See also|Baseball in Tampa Bay}}
+{| class="wikitable" style="margin:1em auto;"
+|+Professional sports clubs in the Tampa Bay area
+|-
+! Club
+! Sport
+! League
+! Venue
+|-
+| [[Tampa Bay Buccaneers]]
+| [[American football|Football]]
+| [[National Football League]]
+| [[Raymond James Stadium]], [[Tampa, Florida|Tampa]]
+|-
+| [[Tampa Bay Lightning]]
+| [[Ice hockey]]
+| [[National Hockey League]]
+| [[Amalie Arena]], Tampa
+|-
+| [[Tampa Bay Rays]]
+| [[Baseball]]
+| [[Major League Baseball]]
+| [[Tropicana Field]], St. Petersburg
+|-
+| [[Tampa Bay Rowdies]]
+| [[Association football|Soccer]]
+| [[United Soccer League]]
+| [[Al Lang Stadium]], St. Petersburg
+|-
+| [[Bay Area Pelicans]]
+| [[Rugby union|Rugby]]
+| [[USA Rugby|USA Rugby Union]]
+| Sawgrass Park, St. Petersburg
+|-
+| [[Grand Prix of St. Petersburg]]
+| [[Open-wheel car|Auto racing]]
+| [[IndyCar]]
+| [[Downtown St. Petersburg Historic District|Downtown Waterfront]]
+|-
+|}
+
+The Tampa-St. Petersburg area is represented by teams in four major professional sports (soccer, football, baseball, and hockey). Two teams, the [[Tampa Bay Rays]] of [[Major League Baseball]] and [[Tampa Bay Rowdies]] of the [[North American Soccer League (2011–2017)|North American Soccer League]], play in St. Petersburg proper, while the other two teams play across the bay in [[Tampa, Florida|Tampa]]. As their names suggest, all of the teams represent the entire [[Tampa Bay area]] and seek to draw fans from both sides of [[Tampa Bay]].
+
+The Tampa-St. Petersburg area hosted the [[Super Bowl LV]], where the [[Tampa Bay Buccaneers]] took on the [[Kansas City Chiefs]] at [[Raymond James Stadium]] on February 7, 2021.<ref>{{cite web |last1=Smith |first1=Scott |title=Champs! Bucs win Super Bowl LV |date=Feb 8, 2021 |url=https://www.buccaneers.com/news/bucs-win-super-bowl-55-chiefs-31-9-final-score-champions#:~:text=The%20Buccaneers%20defeated%20the%20Kansas,on%20their%20own%20home%20field |publisher=Tampa Bay Buccaneers |access-date=12 February 2021 |archive-date=February 9, 2021 |archive-url=https://web.archive.org/web/20210209060753/https://www.buccaneers.com/news/bucs-win-super-bowl-55-chiefs-31-9-final-score-champions#:~:text=The%20Buccaneers%20defeated%20the%20Kansas,on%20their%20own%20home%20field |url-status=live }}</ref>
+
+The Rays began play in [[1998 Tampa Bay Devil Rays season|1998]], finishing last in the [[American League]]'s [[American League East Division|East Division]] in nine of the first ten seasons they played,<ref>{{Cite book|title = Baseball, Inc.: The National Pastime as Big Business|url = https://books.google.com/books?id=HlODBAAAQBAJ|publisher = McFarland|date = February 3, 2006|isbn = 9780786425341|first = Frank P. Jr|last = Jozsa|access-date = November 17, 2015|archive-date = September 30, 2023|archive-url = https://web.archive.org/web/20230930001333/https://books.google.com/books?id=HlODBAAAQBAJ|url-status = live}}</ref> including their last year known as the "Devil Rays": [[2007 Tampa Bay Devil Rays season|2007]].<ref>{{cite web|title = Devil Rays officially change name to just Rays|url = https://www.espn.com/mlb/news/story?id=3101213|website = ESPN.com|date = November 9, 2007|access-date = November 17, 2015|archive-date = November 17, 2015|archive-url = https://web.archive.org/web/20151117142519/http://sports.espn.go.com/mlb/news/story?id=3101213|url-status = live}}</ref> In 2008, their 11th season, they held off the [[Boston Red Sox]] and won the AL East Division Championship for the first time.<ref>{{cite web|title = 2008 American League Season Summary {{!}} Baseball-Reference.com|url = https://www.baseball-reference.com/leagues/AL/2008.shtml|website = Baseball-Reference.com|access-date = November 17, 2015|archive-date = September 13, 2015|archive-url = https://web.archive.org/web/20150913035637/http://www.baseball-reference.com/leagues/AL/2008.shtml|url-status = live}}</ref> In the playoffs, they again faced the Red Sox in the ALCS.<ref>{{cite web|title = Resilient Red Sox move on from Rays, to ALCS|url = https://www.espn.com/mlb/story/_/id/9795561/resilient-boston-red-sox-move-tampa-bay-rays-alcs|website = ESPN.com|date = October 9, 2013|access-date = November 17, 2015|archive-date = November 17, 2015|archive-url = https://web.archive.org/web/20151117203812/http://espn.go.com/mlb/story/_/id/9795561/resilient-boston-red-sox-move-tampa-bay-rays-alcs|url-status = live}}</ref><ref>{{cite web|title = Boston Red Sox to face Tampa Bay Rays for American League Championship|url = https://www.telegraph.co.uk/sport/othersports/baseball/3151392/Boston-Red-Sox-to-face-Tampa-Bay-Rays-for-American-League-Championship-Baseball.html|website = Telegraph.co.uk| date=October 7, 2008 |access-date = November 17, 2015|archive-date = November 17, 2015|archive-url = https://web.archive.org/web/20151117184343/http://www.telegraph.co.uk/sport/othersports/baseball/3151392/Boston-Red-Sox-to-face-Tampa-Bay-Rays-for-American-League-Championship-Baseball.html|url-status = live}}</ref> They defeated Boston and won the [[2008 American League Championship Series|American League Pennant]].<ref>{{cite web|title = Rays Win Pennant, Head To 1st World Series|url = http://www.cbsnews.com/news/rays-win-pennant-head-to-1st-world-series/|website = www.cbsnews.com| date=October 20, 2008 |access-date = November 17, 2015|archive-date = November 17, 2015|archive-url = https://web.archive.org/web/20151117220932/http://www.cbsnews.com/news/rays-win-pennant-head-to-1st-world-series/|url-status = live}}</ref> However, they lost to the [[Philadelphia Phillies]] in the [[2008 World Series]].<ref>{{cite web|title = Phinally ... Phillies win World Series, beat Rays in Game 5 - USATODAY.com|url = http://usatoday30.usatoday.com/sports/baseball/playoffs/2008-10-29-phillies-rays_N.htm|website = usatoday30.usatoday.com|access-date = November 17, 2015|archive-date = November 18, 2015|archive-url = https://web.archive.org/web/20151118182658/http://usatoday30.usatoday.com/sports/baseball/playoffs/2008-10-29-phillies-rays_N.htm|url-status = live}}</ref><ref>{{cite web|title = Phillies Beat Rays, 4-3, to Win World Series {{!}} Fox News|url = http://www.foxnews.com/story/2008/10/29/phillies-beat-rays-4-3-to-win-world-series.html|website = Fox News|date = October 29, 2008|access-date = November 17, 2015|language = en-US|archive-date = November 19, 2015|archive-url = https://web.archive.org/web/20151119063050/http://www.foxnews.com/story/2008/10/29/phillies-beat-rays-4-3-to-win-world-series.html|url-status = live}}</ref> The Rays also made an appearance in the [[2020 World Series]] where they faced the [[Los Angeles Dodgers]].<ref>{{cite web |last1=Castrovince |first1=Anthony |title=Wait is over! Dodgers win 1st WS since '88 |url=https://www.mlb.com/news/dodgers-win-2020-world-series |website=mlb.com |publisher=MLB |access-date=20 January 2021 |archive-date=October 28, 2020 |archive-url=https://web.archive.org/web/20201028201802/https://www.mlb.com/news/dodgers-win-2020-world-series |url-status=live }}</ref>
+[[File:Tropicana Field Playing Field Opening Day 2010.JPG|thumb|[[Tropicana Field]] shown from the upper deck during the first game of the [[2010 Tampa Bay Rays season]]]]
+From their inception until [[2008 Tampa Bay Rays season|2008]], the Rays played their regular season games at Tropicana Field and their [[spring training]] games at historic Al Lang Stadium, formerly Progress Energy Park, giving them the unique distinction of being the only team in Major League Baseball that played its spring training games in their home city in more than 70 years. Beginning in [[2009 Tampa Bay Rays season|2009]], the Rays have held spring training at [[Charlotte Sports Park]] in [[Port Charlotte, Florida|Port Charlotte]], ending a 94-year streak of springtime baseball in the city.<ref>{{cite web|url=https://www.espn.com/espn/print?id=2589436|title=ESPN.com {{!}} Devil Rays to move spring training in 2009|website=[[ESPN]]|access-date=November 17, 2015|archive-date=November 17, 2015|archive-url=https://web.archive.org/web/20151117140821/http://espn.go.com/espn/print?id=2589436|url-status=live}}</ref><ref>{{cite web|title = Sarasota Herald-Tribune - Google News Archive Search|url = https://news.google.com/newspapers?nid=1755&dat=20060809&id=HfIeAAAAIBAJ&pg=6876,5291656&hl=en|website = news.google.com|access-date = November 17, 2015|archive-date = November 4, 2021|archive-url = https://web.archive.org/web/20211104071924/https://news.google.com/newspapers?nid=1755&dat=20060809&id=HfIeAAAAIBAJ&pg=6876%2C5291656&hl=en|url-status = live}}</ref> Tropicana Field, the home venue of the Rays, played host to the 1999 [[1999 NCAA Men's Division I Basketball Championship#Final Four|Final Four]].<ref>{{cite web|title = Letters from Louk: The NCAA Tournament in Tampa|url = http://www.gousfbulls.com/ViewArticle.dbml?ATCLID=205092182|website = GoUSFBulls.com|access-date = November 17, 2015|archive-url = https://web.archive.org/web/20151117093548/http://www.gousfbulls.com/ViewArticle.dbml?ATCLID=205092182|archive-date = November 17, 2015|url-status = dead}}</ref> Despite not having a team in the city since 2000 (with the [[St. Petersburg Devil Rays]]), St. Petersburg is home to [[Minor League Baseball]]'s main headquarters.<ref>{{cite web |url=http://web.minorleaguebaseball.com/milb/info/office.jsp |title=Minor League Baseball Official Info: Office |access-date=April 25, 2008 |work=MiLB.com |archive-url=https://web.archive.org/web/20080517130542/http://web.minorleaguebaseball.com/milb/info/office.jsp |archive-date=May 17, 2008 |url-status=dead |df=mdy-all }}</ref>
+
+St. Petersburg is home to the [[Grand Prix of St. Petersburg]], the inaugural race was held in April 2005.<ref>{{cite web|title = VICS: Firestone Grand Prix of St. Petersburg Preview|url = http://rubbingsracing.com/rubbingsracingWP/2015/03/27/vics-firestone-grand-prix-of-st-petersburg-preview/|website = Rubbings Racing|access-date = November 17, 2015|language = en-US|archive-url = https://web.archive.org/web/20151117121618/http://rubbingsracing.com/rubbingsracingWP/2015/03/27/vics-firestone-grand-prix-of-st-petersburg-preview/|archive-date = November 17, 2015|url-status = dead}}</ref> The circuit itself is made of downtown streets passing [[Al Lang Stadium]], the marina, and a runway in Albert Whitted Airport,<ref>{{cite web|title = St. Petersburg IndyCar race agreement extended with city through 2020|url = http://autoweek.com/article/indycar/st-petersburg-indycar-race-agreement-extended-city-through-2020|website = Autoweek|date = November 13, 2015|access-date = November 17, 2015|archive-date = November 17, 2015|archive-url = https://web.archive.org/web/20151117065519/http://autoweek.com/article/indycar/st-petersburg-indycar-race-agreement-extended-city-through-2020|url-status = live}}</ref> and streets are temporarily blocked off for the annual [[Indy Racing League]]'s [[IndyCar Series]] race.<ref>{{cite web|title = Road closures for St. Pete Grand Prix start today|url = http://www.tbo.com/pasco-county/road-closures-for-st-pete-grand-prix-start-monday-20150222/|website = TBO.com|access-date = November 17, 2015|archive-url = https://web.archive.org/web/20151117125601/http://www.tbo.com/pasco-county/road-closures-for-st-pete-grand-prix-start-monday-20150222/|archive-date = November 17, 2015|url-status = dead}}</ref> The race was postponed in 2020 due to the spread of the COVID-19 coronavirus, and was rescheduled as the final race of the season, rather than the first race.<ref>{{cite web|title=Official Statement From IndyCar|url=https://www.indycar.com/News/2020/03/03-12-StPete-Race|date=March 13, 2020|access-date=April 5, 2020|archive-date=April 12, 2020|archive-url=https://web.archive.org/web/20200412015259/https://www.indycar.com/News/2020/03/03-12-StPete-Race|url-status=live}}</ref> In 2012, the road intersecting Turn 10 was renamed Dan Wheldon Way in memory of [[Dan Wheldon]], who won the 2005 race thanks to a move made on that turn.<ref>{{cite web|title = Turn 10 is St. Petersburg course's iconic spot|url = https://www.tampabay.com/sports/autoracing/turn10/2110902/|website = Tampa Bay Times|access-date = August 19, 2015|archive-date = September 24, 2015|archive-url = https://web.archive.org/web/20150924152305/http://www.tampabay.com/sports/autoracing/turn10/2110902|url-status = live}}</ref> Wheldon was killed in an accident at the [[Las Vegas Motor Speedway]] in the [[2011 IZOD IndyCar World Championship|2011 season]] finale.<ref>{{cite web|title = Dan Wheldon's head hit fence post, IndyCar says in report on fatal crash|date = December 15, 2011|url = https://www.espn.com/racing/indycar/story/_/id/7355694/dan-wheldon-head-hit-fence-post-indycar-says-report-fatal-crash|access-date = August 19, 2015|archive-date = September 2, 2015|archive-url = https://web.archive.org/web/20150902075725/http://espn.go.com/racing/indycar/story/_/id/7355694/dan-wheldon-head-hit-fence-post-indycar-says-report-fatal-crash|url-status = live}}</ref>
+[[File:Rowdies Soccer Config 2015.jpg|left|thumb|The newly renovated [[Al Lang Stadium]] for the [[Tampa Bay Rowdies]]]]
+The Tampa Bay Rowdies of the United Soccer League began play in Tampa in 2010 and moved to Al Lang Stadium in 2011. The long-time baseball venue is named after [[Al Lang]], a former mayor of St. Petersburg who was instrumental in bringing [[spring training]] to the city in 1914. The Rowdies initially shared Al Lang Stadium with various amateur baseball events, but eventually took over operation of the facility and has converted it into a soccer-only facility<ref name=":0">{{cite web |url=http://rowdiessoccer.com/index.php?id=52&newsid=119 |title=News &#124; Tampa Bay Rowdies |publisher=Rowdiessoccer.com |access-date=March 11, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130224040221/http://rowdiessoccer.com/index.php?id=52&newsid=119 |archive-date=February 24, 2013 |df=mdy-all }}</ref> The Rowdies' ownership has expressed interest in moving up to join [[Major League Soccer]] (MLS) and a 2016 referendum gave the club permission to build a larger privately funded stadium at the site of Al Lang Stadium if the move takes place.<ref>{{cite news|last1=Straus|first1=Brian|title=MLS expansion city profile: Tampa Bay/St. Petersburg|url=https://www.si.com/planet-futbol/2017/01/09/mls-expansion-city-tampa-bay-rowdies-st-petersburg|access-date=14 January 2018|work=Sports Illustrated / planet futbol|date=9 January 2017|archive-date=January 10, 2017|archive-url=https://web.archive.org/web/20170110143037/http://www.si.com/planet-futbol/2017/01/09/mls-expansion-city-tampa-bay-rowdies-st-petersburg|url-status=live}}</ref>
+
+The [[Bay Area Pelicans]] Rugby Football Club has made their home in St. Petersburg since 1977.{{citation needed|date=February 2021}}
+
+==Government==
+
+{{See also|List of mayors of St. Petersburg, Florida}}[[File:St Petersburg City Hall.png|thumb|St. Petersburg's city hall]]The city of St. Petersburg has been governed under a [[strong mayor]] form of government since 1993. The Mayor of St. Petersburg and the St. Petersburg City Council members are elected to a four-year term, limited to two consecutive terms. Currently the mayor of St. Petersburg is [[Ken Welch]] who took office on January 6, 2022. The legislative body consists of eight City Council members representing each of their designated city districts.<ref>{{cite web|url=http://www.stpete.org/cityclerk/elections/docs/Charter_2011_as_of_11_24_14.pdf |title=St. Petersburg City Charter |access-date=September 12, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150906065753/http://www.stpete.org/cityclerk/elections/docs/Charter_2011_as_of_11_24_14.pdf |archive-date=September 6, 2015 }}</ref><ref>{{cite web|title = The Mayor's Office|url = http://www.stpete.org/mayor_s_office/index.php|website = www.stpete.org|access-date = August 21, 2015|archive-date = September 1, 2015|archive-url = https://web.archive.org/web/20150901035916/http://www.stpete.org/mayor_s_office/index.php|url-status = live}}</ref>
+
+St. Petersburg is split between [[Florida's 13th congressional district]], represented in Congress by Republican [[Anna Paulina Luna]], and [[Florida's 14th congressional district]], represented by Democrat [[Kathy Castor]]. The city is much more left-leaning than the surrounding county- in 2020, 62.3% percent of voters in St. Pete cast their ballots for [[Democratic Party (United States)|Democratic]] candidate [[Joe Biden]].<ref>{{Cite web|date=2020-11-03|title=2020 election results: Interactive Florida county map|url=https://www.fox13news.com/news/2020-election-results-interactive-florida-county-map|access-date=2020-11-10|website=FOX 13 News|language=en-US|archive-date=November 9, 2020|archive-url=https://web.archive.org/web/20201109095039/https://www.fox13news.com/news/2020-election-results-interactive-florida-county-map|url-status=live}}</ref>
+
+==Education==
+
+===Primary and secondary education===
+
+Public primary and secondary schools in St. Petersburg are administered by [[Pinellas County Schools]]. Public high schools within the city limits include:
+* [[Gibbs High School (St. Petersburg, Florida)|Gibbs High School]]
+* [[Lakewood High School (Florida)|Lakewood High School]]
+* [[Northeast High School (St. Petersburg, Florida)|Northeast High School]]
+* [[St. Petersburg High School]]
+* [[St. Petersburg College#Student life|St. Petersburg Collegiate High School]]
+
+Private high schools include:
+* [[Canterbury School (St. Petersburg, Florida)|Canterbury School of Florida]]
+* [[St. Petersburg Catholic High School]]
+* [[Shorecrest Preparatory School]]
+* [[Admiral Farragut Academy]]
+
+High schools located in unincorporated (outside city limits) St. Petersburg:
+* [[Dixie M. Hollins High School|Hollins High School]]
+* Keswick Christian School
+* Northside Christian School
+
+The non-profit [[Science Center of Pinellas County]] educates more than 22,000 school children annually through field trip classes and offers winter, spring and summer workshops for 2,000 more.<ref>{{cite web|url=http://www.sciencecenterofpinellas.org/index.html |archive-url=https://archive.today/20120908211302/http://www.sciencecenterofpinellas.org/index.html |url-status=dead |archive-date=September 8, 2012 |title=Science Center website |publisher=Sciencecenterofpinellas.org |access-date=December 10, 2011 }}</ref>
+[[File:Saint Petersburg College Downtown Center - Northwest Corner.JPG|thumb|The St. Petersburg College Downtown Center]]
+
+===Higher education===
+
+St. Petersburg is home to several institutions of higher education. The University of South Florida St. Petersburg is an autonomous campus in the [[University of South Florida]] system.<ref>{{Cite web|url=http://www.usf.edu/about-usf/facts.aspx|title=Facts {{!}} University of South Florida|website=www.usf.edu|access-date=March 8, 2016|archive-url=https://web.archive.org/web/20160304032931/http://www.usf.edu/about-usf/facts.aspx|archive-date=March 4, 2016|url-status=dead|df=mdy-all}}</ref> The University of South Florida St. Petersburg serves 6,500 students. [[Eckerd College]], founded in 1958, is a private four-year [[liberal arts college]].<ref name=":1">{{cite book |title= Insiders' Guide to the Greater Tampa Bay Area |last= Anderson |first= Anne W. |year= 2009 |publisher= Globe Pequot |isbn= 978-0-7627-5347-5 |page= 263 |url= https://books.google.com/books?id=f4LDwCA8B3EC |access-date= May 12, 2011 |archive-date= September 30, 2023 |archive-url= https://web.archive.org/web/20230930001334/https://books.google.com/books?id=f4LDwCA8B3EC |url-status= live }}</ref>  Also in St. Petersburg is the [[Poynter Institute]], a journalism institute which owns the ''Tampa Bay Times'' in a unique arrangement.<ref>{{cite web|title = Who owns the St. Petersburg Times? Why it matters to readers {{!}} Poynter.|url = http://www.poynter.org/uncategorized/1681/who-owns-the-st-petersburg-times-why-it-matters-to-readers/|website = www.poynter.org|access-date = November 10, 2015|url-status = dead|archive-url = https://web.archive.org/web/20150930193711/http://www.poynter.org/uncategorized/1681/who-owns-the-st-petersburg-times-why-it-matters-to-readers/|archive-date = September 30, 2015|df = mdy-all}}</ref> [[Stetson Law School]] is located in [[Gulfport, Florida|Gulfport]], which is adjacent to St. Petersburg between the south beaches. St. Petersburg College, founded in 1927, is a state college within the Florida College System. It has an average of 65,000 students spread across 11 campuses and centers in the Bay area, four of which are in St. Petersburg.<ref>{{Cite web |title=College and Universities |url=https://stpeteedc.com/colleges-and-universities/ |url-status=live |archive-url=https://web.archive.org/web/20210416132731/https://stpeteedc.com/colleges-and-universities/ |archive-date=April 16, 2021 |access-date=2021-04-16 |website=St Pete EDC |language=en-US}}</ref>
+
+Other colleges and universities in the wider Tampa Bay Area include the University of South Florida and the [[University of Tampa]] located in Tampa and [[Hillsborough Community College]], with campuses across [[Hillsborough County, Florida|Hillsborough County]].<ref name=":1"/>
+
+==Media==
+
+{{see also|List of newspapers in Florida|List of radio stations in Florida|List of television stations in Florida}}
+The city's main daily morning newspaper is the ''Tampa Bay Times.''<ref>{{cite web|title = Tampa Bay, Florida news|url = https://www.tampabay.com/|website = www.tampabay.com|access-date = August 17, 2015|archive-date = October 19, 2011|archive-url = https://web.archive.org/web/20111019005536/http://www.tampabay.com/|url-status = live}}</ref>
+
+Cable television service is provided by [[Spectrum (cable service)|Spectrum]] (previously [[Bright House Networks]]) and [[Wide Open West]] (abbreviated "WOW!", previously [[Knology]]), as well as fiber optic service provider [[Frontier Communications]] (previously [[Verizon FiOS]]).<ref>{{cite web|title = FiOS in Saint Petersburg, FL {{!}} 727-940-9362|url = http://www.verizoninternet.com/fios/saint-petersburg-fl.html|website = www.verizoninternet.com|access-date = August 17, 2015|url-status = dead|archive-url = https://web.archive.org/web/20150913014451/http://www.verizoninternet.com/fios/saint-petersburg-fl.html|archive-date = September 13, 2015|df = mdy-all}}</ref><ref>{{cite web|url=https://www.highspeedinternet.com/fl/saint-petersburg?zip=33701|title=Top 16 Internet Providers in St. Petersburg, FL {{!}} HighSpeedInternet.com|website=www.highspeedinternet.com|url-status=dead|archive-url=https://web.archive.org/web/20151120234145/http://www.allconnect.com/lp-florida/st-petersburg-cable-tv-service.html|archive-date=November 20, 2015|access-date=January 28, 2020|df=mdy-all}}</ref><ref>{{cite web|title = Frontier Completes Its Verizon Deal {{!}} The Motley Fool|url = https://www.fool.com/investing/general/2016/04/08/frontier-completes-its-verizon-deal-and-its-not-go.aspx|website = www.fool.com|date = April 8, 2016|access-date = February 1, 2017|archive-date = February 2, 2017|archive-url = https://web.archive.org/web/20170202220051/https://www.fool.com/investing/general/2016/04/08/frontier-completes-its-verizon-deal-and-its-not-go.aspx|url-status = live}}</ref><ref>{{cite web|title = Charter Communications' purchase of Bright House Networks|url = https://www.tampabay.com/news/business/energy/charter-communications-purchase-of-bright-house-networks-is-a-done-deal/2277901/|website = www.tampabay.com|access-date = February 1, 2017|archive-date = February 3, 2017|archive-url = https://web.archive.org/web/20170203161235/http://www.tampabay.com/news/business/energy/charter-communications-purchase-of-bright-house-networks-is-a-done-deal/2277901|url-status = live}}</ref>
+
+St. Petersburg is in the Tampa-St. Petersburg television and radio markets. [[WTSP]] channel 10 (CBS) and [[WTOG]] channel 44 (Independent) are licensed to St. Petersburg, with studios in unincorporated Pinellas County in the Gandy Boulevard area just north of the St. Petersburg limits. [[Spectrum Bay News 9]], the local cable TV news service, is based in northeast St. Petersburg. CW owned-and-operated station [[WTTA]] is licensed to St. Petersburg, with studios in Tampa.<ref>{{cite web|title = Tampa – St. Petersburg Television Stations – Station Index|url = http://www.stationindex.com/tv/markets/tampa-st.+petersburg|website = www.stationindex.com|access-date = August 17, 2015|archive-date = September 1, 2015|archive-url = https://web.archive.org/web/20150901094449/http://www.stationindex.com/tv/markets/tampa-st.+petersburg|url-status = live}}</ref> Official city government programming, known as StPeteTV, can be found on Spectrum on Channel 641, WOW! Cable on Channel 15 or Frontier Channel 20 as well as online.<ref>{{cite web|title = StPeteTV|url = http://www.stpete.org/connect/stpetetv/index.php|website = www.stpete.org|access-date = August 17, 2015|archive-date = August 29, 2015|archive-url = https://web.archive.org/web/20150829010101/http://www.stpete.org/connect/stpetetv/index.php|url-status = live}}</ref> City government programming previously aired on city-owned [[WSPF-CD]] channel 35 until 2012, when the city sold the station to private interests.<ref>{{cite web|title = St. Petersburg wants to sell its TV license|url = http://tbo.com/pinellas-county/st-petersburg-wants-to-sell-its-tv-license-242636|access-date = August 18, 2015|archive-url = https://web.archive.org/web/20151001021844/http://www.tbo.com/pinellas-county/st-petersburg-wants-to-sell-its-tv-license-242636|archive-date = October 1, 2015|url-status = dead}}</ref>
+
+==Infrastructure==
+
+===Transportation===
+
+[[File:Sunshine Skyway from Tampa Bay.jpeg|thumb|The [[Sunshine Skyway Bridge]] viewed from the [[Tampa Bay]]]]
+
+====Roads====
+
+The city is connected to Tampa by the east by [[causeway]]s and bridges across Tampa Bay,<ref>{{cite web|title = Howard Frankland|url = http://interstate275florida.com/hfb.htm|website = interstate275florida.com|access-date = September 30, 2015|archive-url = https://web.archive.org/web/20150831205912/http://interstate275florida.com/hfb.htm|archive-date = August 31, 2015|url-status = dead|df = mdy-all}}</ref> and to [[Bradenton, Florida|Bradenton]] in the south by the Sunshine Skyway Bridge ([[Interstate 275 (Florida)|Interstate 275]]),<ref>{{cite web|title = Interstate-Guide: Interstate 275 Florida|url = http://www.interstate-guide.com/i-275_fl.html|website = www.interstate-guide.com|access-date = September 30, 2015|archive-date = September 24, 2015|archive-url = https://web.archive.org/web/20150924035719/http://www.interstate-guide.com/i-275_fl.html|url-status = live}}</ref> which traverses the mouth of the bay. Travel Channel named the Skyway Bridge one of the top 10 Best Bridges in the World.<ref name="10 Fun Facts about St. Petersburg"/> It is also served by Interstates [[Interstate 175|175]] and [[Interstate 375 (Florida)|375]], which branch off I-275 into the southern and northern areas of downtown respectively.<ref>{{cite web|title = Interstate-Guide: Interstate 175 Florida|url = http://www.interstate-guide.com/i-175_fl.html|website = www.interstate-guide.com|access-date = September 30, 2015|archive-date = September 12, 2015|archive-url = https://web.archive.org/web/20150912183154/http://www.interstate-guide.com/i-175_fl.html|url-status = live}}</ref><ref>{{cite web|title = Interstate-Guide: Interstate 375 Florida|url = http://www.interstate-guide.com/i-375_fl.html|website = www.interstate-guide.com|access-date = September 30, 2015|archive-date = September 12, 2015|archive-url = https://web.archive.org/web/20150912204704/http://www.interstate-guide.com/i-375_fl.html|url-status = live}}</ref> The Gandy Bridge, conceived by [[George Gandy]] and opened in 1924, was the first causeway to be built across Tampa Bay, connecting St. Petersburg and Tampa cities without a circuitous {{convert|43|mi|km|adj=on}} trip around the bay through [[Oldsmar, Florida|Oldsmar]].<ref>{{cite web|title = Public Information Office|url = http://www.dot.state.fl.us/publicinformationoffice/historicdotphotos/bridges/gandy.shtm|website = www.dot.state.fl.us|access-date = September 30, 2015|archive-date = October 1, 2015|archive-url = https://web.archive.org/web/20151001090010/http://www.dot.state.fl.us/publicinformationoffice/historicdotphotos/bridges/gandy.shtm|url-status = dead}}</ref>
+
+====Airports====
+
+{{Main|List of airports in the Tampa Bay area}}
+Nearby [[Tampa International Airport]] (TPA) provides air transportation for many passengers.<ref>{{cite web|title = Homepage {{!}} Tampa International Airport|url = http://www.tampaairport.com/|website = www.tampaairport.com|access-date = August 16, 2015|archive-date = June 21, 2003|archive-url = https://web.archive.org/web/20030621133721/http://tampaairport.com/|url-status = live}}</ref> Historically, smaller airlines with service to smaller cities and towns have operated at [[St. Petersburg-Clearwater International Airport]], with a number of air carriers only providing only seasonal services.<ref>{{cite web|title = Home {{!}} St. Pete-Clearwater International Airport|url = http://www.fly2pie.com/|website = www.fly2pie.com|access-date = August 16, 2015|archive-date = August 18, 2015|archive-url = https://web.archive.org/web/20150818005449/http://www.fly2pie.com/|url-status = live}}</ref> The exception at the St. Petersburg-Clearwater International Airport (PIE) is [[Allegiant Air]] which currently operates [[Airbus A319]] and [[A320]] mainline jetliners into the airfield with year-round nonstop service from many cities in the eastern U.S.<ref>https://www.allegiantair.com/interactive-routemap {{Bare URL inline|date=August 2024}}</ref><ref>{{cite web | url=https://www.flightaware.com/live/airport/KPIE | title=PIE Clearwater Intl Airport (PIE/KPIE) }}</ref>  [[Albert Whitted Airport]] provides general aviation services near the heart of downtown St. Petersburg.<ref>{{cite web|title = Albert Whitted Airport|url = http://www.stpete.org/visiting_the_city/airport/index.php|website = www.stpete.org|access-date = August 16, 2015|archive-date = August 16, 2015|archive-url = https://web.archive.org/web/20150816004808/http://www.stpete.org/visiting_the_city/airport/index.php|url-status = live}}</ref><ref>{{cite web|title = Infrastructure in St. Petersburg|url = http://www.stpete.org/city_overview/infrastructure.php|website = www.stpete.org|access-date = September 3, 2015|archive-date = September 5, 2015|archive-url = https://web.archive.org/web/20150905084202/http://www.stpete.org/city_overview/infrastructure.php|url-status = dead}}</ref>
+
+====Mass transit====
+
+[[File:City of St. Petersburg Trolley.jpg|thumb|Trolley serving Downtown]]
+Mass transit in St. Petersburg is provided by the [[Pinellas Suncoast Transit Authority]] (PSTA). A sightseeing trolley, called The Looper, also travels to key downtown destinations daily such as [[University of South Florida St. Petersburg|USFSP]], Sundial, Vinoy Hotel, and the multiple museums around the city.<ref>{{cite web|title = St. Petersburg: Public Transportation – TripAdvisor|url = http://www.tripadvisor.com/Travel-g34607-s303/St-Petersburg:Florida:Public.Transportation.html|website = www.tripadvisor.com|access-date = September 10, 2015|archive-date = September 8, 2015|archive-url = https://web.archive.org/web/20150908011619/http://www.tripadvisor.com/Travel-g34607-s303/St-Petersburg:Florida:Public.Transportation.html|url-status = live}}</ref><ref>{{cite web|title = Transportation & Getting Around {{!}} Visit St Petersburg Clearwater|url = http://www.visitstpeteclearwater.com/things-to-do/transportation-getting-around|website = www.visitstpeteclearwater.com|access-date = September 10, 2015|archive-date = September 6, 2015|archive-url = https://web.archive.org/web/20150906073253/http://www.visitstpeteclearwater.com/things-to-do/transportation-getting-around|url-status = live}}</ref><ref>{{cite web|title = Bus Schedules|url = http://www.psta.net/busschedules.php|website = www.psta.net|access-date = August 16, 2015|archive-date = August 20, 2015|archive-url = https://web.archive.org/web/20150820034255/http://psta.net/busschedules.php|url-status = live}}</ref> Short-term bike sharing is also offered via [[Coast Bike Share]].<ref>{{cite web |title=How It Works |url=http://coastbikeshare.com/ |website=Coast Bike Share |publisher=Cycle Hop |access-date=5 August 2020 |archive-date=February 3, 2014 |archive-url=https://web.archive.org/web/20140203224955/http://coastbikeshare.com/ |url-status=live }}</ref><ref>{{cite web |last1=Solomon |first1=Josh |title=St. Petersburg welcomes electric scooters |url=https://www.tampabay.com/news/st-petersburg/2020/08/20/st-petersburg-welcomes-electric-scooters/ |website=Tampa Bay Times |access-date=24 August 2020 |archive-date=August 23, 2020 |archive-url=https://web.archive.org/web/20200823120618/https://www.tampabay.com/news/st-petersburg/2020/08/20/st-petersburg-welcomes-electric-scooters/ |url-status=live }}</ref>
+
+In 2022, PSTA launched the [[SunRunner]], a bus rapid transit service connecting downtown St. Petersburg to [[St. Pete Beach]]. The SunRunner is the first bus rapid transit line in the [[Tampa Bay Area]] and is expected to spur economic development along the Central Avenue corridor in [[Pinellas County]]. In its first weekend alone, the SunRunner had over 10,000 passengers.<ref>{{cite web | url=https://patch.com/florida/pinellasbeaches/sunrunner-attracts-more-10-000-riders-during-1st-weekend | title=SunRunner Attracts More Than 10,000 Riders During 1st Weekend | date=October 27, 2022 | access-date=December 26, 2022 | archive-date=December 26, 2022 | archive-url=https://web.archive.org/web/20221226154132/https://patch.com/florida/pinellasbeaches/sunrunner-attracts-more-10-000-riders-during-1st-weekend | url-status=live }}</ref> Ridership continues to be steady; however, PSTA hiked fares, citing a homelessness issue.<ref>{{Cite web |title=Fare-free SunRunner could end to keep homeless riders off St. Pete Beach |url=https://www.tampabay.com/news/transportation/2023/08/21/is-the-sunrunner-still-free-psta-homeless-st-pete-beach/ |access-date=2023-11-10 |website=Tampa Bay Times |language=en}}</ref>
+
+====Railroads====
+
+[[CSX Transportation]] operates a former [[Atlantic Coast Line Railroad]] branch line which sees daily rail traffic from north Tampa though [[Safety Harbor, Florida|Safety Harbor]], [[Clearwater, Florida|Clearwater]], and [[Largo, Florida|Largo]]. As of March 2008, the portion that ran into downtown St. Petersburg and the adjacent western industrial areas was abandoned. There is a small rail yard to the northwest of downtown St. Petersburg at the new end of the rail line with several spur lines serving industries in the area.<ref name="tampabay.com">{{cite web|url=http://www.tampabay.com/features/humaninterest/recalling-pinellas-the-railroad-in-early-st-petersburg/1092476|title=Recalling Pinellas: the railroad in early St. Petersburg|last=Blizin|first=Jerry|date=May 4, 2010|website=Tampa Bay Times|access-date=August 18, 2015|url-status=dead|archive-url=https://web.archive.org/web/20150921185922/http://www.tampabay.com/features/humaninterest/recalling-pinellas-the-railroad-in-early-st-petersburg/1092476|archive-date=September 21, 2015|df=mdy-all}}</ref>
+
+The former [[Seaboard Air Line]] branch from the western coastal portion of the county was abandoned in the 1980s and converted to a popular recreational trail called the [[Pinellas Trail]].<ref>{{cite web|title = Pinellas Trail Florida Bike Trail Florida Bike Trails|url = http://www.railstotrails.us/fl-pinellas-trail.html|website = www.railstotrails.us|access-date = August 16, 2015|archive-date = July 16, 2015|archive-url = https://web.archive.org/web/20150716113421/http://www.railstotrails.us/fl-pinellas-trail.html|url-status = live}}</ref>
+
+Notable former stations include the [[St. Petersburg (Amtrak station)|St. Petersburg ACL station]], which became an Amtrak station from 1971 to 1983, St. Petersburg Seaboard Air Line Passenger Station, and the [[Seaboard Coast Line Railroad station (St. Petersburg, Florida)|St. Petersburg Seaboard Coast Line station]].<ref name="tampabay.com"/>
+
+====Port and marinas====
+
+[[File:Marina aerial southbasin.jpg|thumb|200x200px|Boats located at South Basin]]
+One of the main sea transportation areas in St. Petersburg is the [[Port of St. Petersburg]], which is located in downtown St. Petersburg.<ref>{{cite web|url=http://flaports.org/ports/port-of-st-petersburg/|title=Port of St. Petersburg - Florida Ports Council|website=flaports.org|access-date=August 16, 2015|archive-date=August 18, 2015|archive-url=https://web.archive.org/web/20150818122255/http://flaports.org/ports/port-of-st-petersburg/|url-status=live}}</ref> Boat marinas in downtown St. Petersburg are also available such as the Municipal Marina which located in the Southern and Central Yacht Basins,<ref>{{cite web|title = Marina|url = http://www.stpete.org/parks_and_recreation/marina/|website = www.stpete.org|access-date = September 11, 2015|archive-date = September 5, 2015|archive-url = https://web.archive.org/web/20150905114726/http://www.stpete.org/parks_and_recreation/marina/|url-status = dead}}</ref> and Harborage Marina located in the Bayboro Harbor.<ref>{{Cite news|url=http://www.fox13news.com/news/local-news/95755911-story|title=Mega yacht docking could boost St. Pete economy|last=FOX|newspaper=FOX13news|language=en-US|access-date=January 16, 2017|archive-url=https://web.archive.org/web/20170118033505/http://www.fox13news.com/news/local-news/95755911-story|archive-date=January 18, 2017|url-status=dead}}</ref> The Cross-Bay ferry runs, at a fee, from St. Pete to downtown Tampa.<ref>{{Cite web |date=2023-10-15 |title=The Cross-Bay Ferry is back, now at St. Pete port |url=https://www.wfla.com/news/the-cross-bay-ferry-is-back-now-at-st-pete-port/ |access-date=2023-11-10 |website=WFLA |language=en-US}}</ref>
+
+===Utilities===
+
+The city of St. Petersburg's major electricity system is provided by [[Duke Energy]], the city's major gas system is provided by [[TECO Energy]] in the industrial and commercial parts of the city, and the city's water services are provided by the city of St. Petersburg.<ref>{{cite web|title = Infrastructure: Utilities of St. Petersburg|url = http://www.stpete.org/city_overview/infrastructure.php|website = www.stpete.org|access-date = September 3, 2015|archive-date = September 5, 2015|archive-url = https://web.archive.org/web/20150905084202/http://www.stpete.org/city_overview/infrastructure.php|url-status = dead}}</ref>
+
+==International relations==
+
+{{See also|List of sister cities in Florida}}
+
+===Sister cities===
+
+The city of St. Petersburg, Florida is currently a member in the [[Sister Cities International]] group that was created in 1956.<ref>{{cite web|title = International Relations|url = http://www.stpete.org/arts_and_culture/international_relations.php|website = www.stpete.org|access-date = September 3, 2015|archive-date = September 24, 2015|archive-url = https://web.archive.org/web/20150924110746/http://www.stpete.org/arts_and_culture/international_relations.php|url-status = live}}</ref>
+* {{flagdeco|Japan}} [[Takamatsu, Kagawa|Takamatsu]], [[Kagawa Prefecture|Kagawa]], Japan (since 1961)<ref>{{cite web|title = International Relations: Takamatsu, Japan|url = http://www.stpete.org/arts_and_culture/takamatsu_japan.php|website = www.stpete.org|access-date = September 3, 2015|archive-date = September 24, 2015|archive-url = https://web.archive.org/web/20150924110750/http://www.stpete.org/arts_and_culture/takamatsu_japan.php|url-status = dead}}</ref>
+* {{flagdeco|Mexico}} [[Isla Mujeres Municipality|Isla Mujeres]], [[Quintana Roo]], Mexico (since 2016)<ref>{{Cite web|url=http://www.stpete.org/arts_and_culture/isla_mujeres.php|title=Isla Mujeres, Mexico - St. Petersburg|website=www.stpete.org|language=en-US|access-date=2018-05-04|archive-date=May 4, 2018|archive-url=https://web.archive.org/web/20180504155836/http://www.stpete.org/arts_and_culture/isla_mujeres.php|url-status=dead}}</ref>
+Every year, the city of St Pete sponsors three high school students to do a summer exchange with Takamatsu, Japan.
+
+===Twin cities===
+
+* {{flagdeco|Russia}} [[Saint Petersburg]], Russia<ref>{{cite web|title = International Relations: St. Petersburg, Russia|url = http://www.stpete.org/arts_and_culture/st_petersburg_russia.php|website = www.stpete.org|access-date = September 3, 2015|archive-date = September 24, 2015|archive-url = https://web.archive.org/web/20150924110748/http://www.stpete.org/arts_and_culture/st_petersburg_russia.php|url-status = live}}</ref>
+* {{flagdeco|Spain}} [[Figueres]], [[Catalonia]], Spain (since 2011)<ref>{{cite web|title = International Relations: Figueres, Spain|url = http://www.stpete.org/arts_and_culture/figueres_spain.php|website = www.stpete.org|access-date = September 3, 2015|archive-date = October 9, 2019|archive-url = https://web.archive.org/web/20191009102352/http://www.stpete.org/arts_and_culture/figueres_spain.php|url-status = dead}}</ref>
+
+==See also==
+* [[Largest metropolitan areas in the Americas]]
+* [[List of United States cities by population|United States cities by population]]
+* [[List of tallest buildings in St. Petersburg, Florida|Tallest buildings in St. Petersburg, Florida]]
+* [[List of parks in St. Petersburg, Florida]]
+* [[St. Petersburg, Florida mayoral election, 2017|Mayoral elections in St. Petersburg, 2017]]
+* [[St. Petersburg Bar Association]]
+* [[List of people from St. Petersburg, Florida]]
+
+==References==
+{{Reflist}}
+
+===Bibliography===
+* {{cite book|last=Hartzell|first=Scott Taylor|title=Remembering St. Petersburg, Florida: Sunshine City Stories, Volume 1|publisher=The History Press|location=Charleston, South Carolina|year=2006|isbn=1-59629-120-6}}
+* {{cite book|last=Anderson|first=Anne W.|title=Insiders' Guide to the Greater Tampa Bay Area|publisher=Rowman & Littlefield|location=United States of America|year=2009|isbn=978-0-7627-5347-5}}
+
+==External links==
+{{sister project links|voy=Saint Petersburg (Florida)}}
+* {{Official website}}
+* [http://digital.lib.usf.edu/?w33 Earl R. Jacobs III Collection of Francis G. Wagner St. Petersburg Photographs] at the [https://web.archive.org/web/20160202014921/http://www.lib.usf.edu/ University of South Florida]
+
+{{Portal bar|Cities|Florida|North America|United States}}
+{{Navboxes
+|title = Articles relating to St. Petersburg and [[Pinellas County, Florida|Pinellas County]]
+|list =
+{{Tampa Bay Area}}
+{{Tampa Bay TV}}
+{{Tampa Bay Radio}}
+{{Pinellas County, Florida}}
+{{Geography of Florida}}
+}}
+{{USPopulousCities}}
+{{Authority control}}
+
+[[Category:St. Petersburg, Florida| ]]
+[[Category:Cities in Florida]]
+[[Category:Cities in Pinellas County, Florida]]
+[[Category:Populated places on the Intracoastal Waterway in Florida]]
+[[Category:Populated places on Tampa Bay]]
+[[Category:Populated places established in 1876]]
+[[Category:Port cities and towns of the Florida Gulf coast]]
+[[Category:1876 establishments in Florida]]

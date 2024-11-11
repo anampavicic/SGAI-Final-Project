@@ -1,0 +1,515 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Sakata
+| native_name             = {{nobold|{{lang|ja|酒田市}}}}
+| official_name           = 
+| native_name_lang        = ja
+| settlement_type         = [[Cities of Japan|City]]
+<!-- images, nickname, motto -->
+| image_skyline           =酒田祭.JPG
+| imagesize               = 
+| image_alt               = 
+| image_caption           = Sakata Festival, held annually in May
+| image_flag              = Flag of Sakata, Yamagata.svg
+| flag_alt                = 
+| image_seal              = Emblem of Sakata, Yamagata.svg
+| seal_alt                = 
+| image_shield            = 
+| shield_alt              = 
+| image_blank_emblem      = 
+| nickname                = 
+| motto                   = 
+<!-- maps and coordinates -->
+| image_map = {{maplink|frame=yes|frame-width=260|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=9}}
+| image_map1               = Sakata in Yamagata Prefecture Ja.svg
+| map_alt                 = 
+| map_caption             = Location of Sakata in Yamagata Prefecture
+| pushpin_map             = Japan
+| pushpin_label_position  = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_alt         = 
+| pushpin_map_caption     = &nbsp; 
+| coordinates             = {{coord|38|54|52.1|N|139|50|11.2|E|region:JP|display=inline,title}}
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location -->
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Japan]]
+| subdivision_type1       = [[List of regions of Japan|Region]]
+| subdivision_name1       = [[Tōhoku region|Tōhoku]]
+| subdivision_type2       = [[Prefectures of Japan|Prefecture]]
+| subdivision_name2       = [[Yamagata Prefecture|Yamagata]]
+| subdivision_type3       = 
+| subdivision_name3       = 
+<!-- established -->
+| established_title       = <!-- Settled -->
+| established_date        = 
+| founder                 = 
+| named_for               = 
+<!-- seat, smaller parts -->
+| seat_type               = <!-- defaults to: Seat -->
+| seat                    = 
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| leader_party            = 
+| leader_title            = Mayor
+| leader_name             = Itaru Maruyama (from September 2015)
+| leader_title1           = 
+| leader_name1            = <!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings  -->
+| total_type              = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_footnotes          = <!-- for references: use <ref> tags -->
+| area_total_km2          = 602.97
+| area_land_km2           = 
+| area_water_km2          = 
+| area_water_percent      = 
+| area_note               = 
+<!-- elevation -->
+| elevation_footnotes     = <!-- for references: use <ref> tags -->
+| elevation_m             = 
+<!-- population -->
+| population_footnotes    = <!-- for references: use <ref> tags -->
+| population_total        = 96777
+| population_as_of        = March 31, 2023
+| population_density_km2  = auto
+| population_est          = 
+| pop_est_as_of           = 
+| population_demonym      = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note         = 
+<!-- time zone(s) -->
+| timezone1               = [[Japan Standard Time]]
+| utc_offset1             = +9
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+<!-- postal codes, area code -->
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| area_code               = 
+<!-- blank fields (section 1) -->
+| blank_name_sec1         = Phone&nbsp;number
+| blank_info_sec1         = 0234-22-5111
+| blank1_name_sec1        = Address
+| blank1_info_sec1        =2-2-45, Honchō, Sakata-shi, Yamagata-ken 998-8540
+<!-- blank fields (section 2) -->
+| blank_name_sec2        = [[Köppen climate classification|Climate]]
+| blank_info_sec2        = [[Humid subtropical climate|Cfa]]
+<!-- website, footnotes -->
+| website                 = {{Official|1=http://www.city.sakata.lg.jp/}}
+| footnotes               = 
+| module = {{Infobox place symbols| embedded=yes
+ | tree = [[Zelkova]] 
+ | flower = [[Hemerocallis]]
+ | bird = [[Aquila chrysaetos]]
+ | flowering_tree = 
+ | butterfly = 
+ | fish = 
+ | other_symbols = 
+}}
+}}
+
+{{Nihongo| '''Sakata'''|酒田市|Sakata-shi}} is a [[Cities of Japan|city]] located in [[Yamagata Prefecture]], [[Japan]]. {{As of|2023|03|31}}, the city had an estimated [[population]] of 96,777 in 42,600 households,<ref name="Sakata-hp">{{cite web |url=https://www.city.sakata.lg.jp/shisei/toukei/hokoku_shiryo/toti_kisyo_jinko_dat/jinko.html  |title= Sakata city official statistics|location= Japan|language= ja}}</ref> and a [[population density]] of 180 people per km<sup>2</sup>. The total area of the city is {{convert|602.97|sqkm|sqmi|abbr=on}}.
+
+==Geography==
+[[File:Shonai_Sand_Dunes.jpg|thumb|Shonai Sand Dunes]]
+Sakata is located in the coastal plains of the northwest corner of Yamagata Prefecture, bordered by the [[Sea of Japan]] to the west, and by [[Akita Prefecture]] to the north. The city has [[Mount Chōkai]] on its northern border; however, the urban center is in the flatlands of the Shōnai Plains on the right bank of the [[Mogami River]]. The inhabited island of [[Tobishima, Yamagata|Tobishima]], approximately {{convert|38|km|mi}} off the coast of the mainland, is within the administrative borders of the city. The island, as well as part of the mainland portion of the city, is within the borders of the [[Chōkai Quasi-National Park]]<ref>{{cite web |url=http://www.pref.yamagata.jp/ou/seikatsukankyo/050011/joureikaisei/kouentouichizu.pdf |title=Natural Parks of Yamagata Prefecture |language=ja |publisher=[[Yamagata Prefecture]] }}{{Dead link|date=July 2022 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+===Neighboring municipalities===
+Akita Prefecture
+*[[Nikaho, Akita|Nikaho]]
+*[[Yurihonjō, Akita|Yurihonjō]]
+Yamagata Prefecture
+*[[Mamurogawa]]
+*[[Mikawa, Yamagata|Mikawa]]
+*[[Sakegawa, Yamagata|Sakegawa]]
+*[[Shōnai, Yamagata|Shōnai]]
+*[[Tozawa, Yamagata|Tozawa]]
+*[[Tsuruoka]]
+*[[Yuza]]
+
+===Climate===
+Sakata has a [[humid subtropical climate]] ([[Köppen climate classification]] ''Cfa'') with large seasonal temperature differences, with warm to hot (and often humid) summers and cold (sometimes severely cold) winters. Precipitation is significant throughout the year, but is heaviest from August to October. The average annual temperature in Sakata is {{cvt|13.0|C}}. The average annual rainfall is {{cvt|1986.8|mm}} with November as the wettest month. The temperatures are highest on average in August, at around {{cvt|25.5|C}}, and lowest in January, at around {{cvt|1.9|C}}.<ref name ="normals"/>
+
+{{Weather box
+|width=auto
+|collapsed = Y
+|single line = Y
+|metric first = Y
+|location = Sakata (1991−2020 normals, extremes 1937−present)
+|Jan record high C = 15.5
+|Feb record high C = 21.6
+|Mar record high C = 22.6
+|Apr record high C = 28.6
+|May record high C = 31.3
+|Jun record high C = 34.2
+|Jul record high C = 37.7
+|Aug record high C = 40.1
+|Sep record high C = 36.8
+|Oct record high C = 32.1
+|Nov record high C = 24.8
+|Dec record high C = 19.0
+|Jan record low C = -16.9
+|Feb record low C = -12.8
+|Mar record low C = -9.9
+|Apr record low C = -3.7
+|May record low C = -0.2
+|Jun record low C = 7.5
+|Jul record low C = 9.5
+|Aug record low C = 13.2
+|Sep record low C = 7.0
+|Oct record low C = 1.4
+|Nov record low C = -5.1
+|Dec record low C = -12.5
+|Jan high C = 4.5
+|Feb high C = 5.2
+|Mar high C = 8.9
+|Apr high C = 14.8
+|May high C = 20.3
+|Jun high C = 24.1
+|Jul high C = 27.6
+|Aug high C = 29.7
+|Sep high C = 25.8
+|Oct high C = 19.8
+|Nov high C = 13.6
+|Dec high C = 7.6
+|Jan mean C = 1.9
+|Feb mean C = 2.2
+|Mar mean C = 5.1
+|Apr mean C = 10.2
+|May mean C = 15.7
+|Jun mean C = 20.0
+|Jul mean C = 23.8
+|Aug mean C = 25.5
+|Sep mean C = 21.6
+|Oct mean C = 15.6
+|Nov mean C = 9.7
+|Dec mean C = 4.5
+|Jan low C = -0.6
+|Feb low C = -0.8
+|Mar low C = 1.4
+|Apr low C = 5.8
+|May low C = 11.6
+|Jun low C = 16.5
+|Jul low C = 20.7
+|Aug low C = 22.0
+|Sep low C = 17.8
+|Oct low C = 11.6
+|Nov low C = 5.9
+|Dec low C = 1.6
+|precipitation colour = green
+|Jan precipitation mm = 177.7
+|Feb precipitation mm = 118.4
+|Mar precipitation mm = 111.1
+|Apr precipitation mm = 103.6
+|May precipitation mm = 122.6
+|Jun precipitation mm = 125.3
+|Jul precipitation mm = 218.7
+|Aug precipitation mm = 205.6
+|Sep precipitation mm = 176.2
+|Oct precipitation mm = 188.6
+|Nov precipitation mm = 222.0
+|Dec precipitation mm = 217.0
+|year precipitation mm = 1986.8
+|unit precipitation days = 1.0 mm
+|Jan precipitation days = 24.1
+|Feb precipitation days = 19.1
+|Mar precipitation days = 17.1
+|Apr precipitation days = 12.4
+|May precipitation days = 11.2
+|Jun precipitation days = 10.2
+|Jul precipitation days = 12.6
+|Aug precipitation days = 11.3
+|Sep precipitation days = 12.8
+|Oct precipitation days = 14.7
+|Nov precipitation days = 19.3
+|Dec precipitation days = 23.5
+|Jan snow cm = 85
+|Feb snow cm = 62
+|Mar snow cm = 20
+|Apr snow cm = trace
+|May snow cm = 0
+|Jun snow cm = 0
+|Jul snow cm = 0
+|Aug snow cm = 0
+|Sep snow cm = 0
+|Oct snow cm = 0
+|Nov snow cm = 3
+|Dec snow cm = 40
+|year snow cm = 211
+|unit snow days = 1 cm
+|Jan snow days = 18.3
+|Feb snow days = 15.2
+|Mar snow days = 5.8
+|Apr snow days = 0.3
+|May snow days = 0
+|Jun snow days = 0
+|Jul snow days = 0
+|Aug snow days = 0
+|Sep snow days = 0
+|Oct snow days = 0
+|Nov snow days = 0.5
+|Dec snow days = 9.2
+|humidity colour= green
+|Jan humidity = 72
+|Feb humidity = 70
+|Mar humidity = 67
+|Apr humidity = 67
+|May humidity = 71
+|Jun humidity = 75
+|Jul humidity = 79
+|Aug humidity = 76
+|Sep humidity = 75
+|Oct humidity = 72
+|Nov humidity = 71
+|Dec humidity = 71
+|Jan sun = 36.8
+|Feb sun = 60.1
+|Mar sun = 115.1
+|Apr sun = 169.0
+|May sun = 194.7
+|Jun sun = 181.9
+|Jul sun = 159.5
+|Aug sun = 199.5
+|Sep sun = 156.8
+|Oct sun = 136.1
+|Nov sun = 84.3
+|Dec sun = 41.7
+|year sun = 1538.8
+|source 1 = [[Japan Meteorological Agency]]<ref>{{cite web
+| url = https://www.data.jma.go.jp/obd/stats/etrn/view/rank_s.php?prec_no=35&block_no=47587&year=&month=&day=&view=h0
+|script-title=ja:観測史上1～10位の値（年間を通じての値）
+| publisher = [[Japan Meteorological Agency|JMA]]
+| access-date = March 26, 2022}}</ref><ref name ="normals">{{cite web
+| url = https://www.data.jma.go.jp/obd/stats/etrn/view/nml_sfc_ym.php?prec_no=35&block_no=47587&year=&month=&day=&view=h0
+|script-title=ja:気象庁 / 平年値（年・月ごとの値） 
+| publisher = [[Japan Meteorological Agency|JMA]]
+| access-date = March 26, 2022}}</ref>}}
+
+==Demographics==
+According to Japanese census data,<ref>[https://www.citypopulation.de/php/japan-yamagata.php Sakata population statistics]</ref> the population of Sakata has declined in recent decades.
+
+{{Historical populations
+| percentages = pagr
+| align = none
+| cols = 1
+| graph-pos = bottom
+| 1920 | 88,948
+| 1930 | 99,112
+| 1940 | 99,103
+| 1950 | 125,734
+| 1960 | 127,229
+| 1970 | 120,212
+| 1980 | 125,622
+| 1990 | 122,850
+| 2000 | 121,614
+| 2010 | 111,151
+| 2020 | 100,273
+| footnote = 
+}}
+
+==History==
+The area of present-day Sakata was the location of the [[kokufu|provincial capital]] of ancient [[Dewa Province]], although the precise location has yet to be discovered by archaeologists. A port at the mouth of the Mogami River is known to have existed since the [[Kamakura period]]. Although silting rendered it less important in the [[Muromachi period]], the area developed as a major center for the {{Transl|ja|[[kitamaebune]]}} coastal trade during the [[Edo period]]. By the early [[Meiji (era)|Meiji period]], the Honma clan, a local merchant clan, dominated trade and emerged as the largest landholder in Japan.{{citation needed|date=November 2013}} Traces of their powerful influence on Sakata City can still be seen across the city. This includes the Honma Museum and The Honma Gardens located in the downtown area.<ref>{{Cite web|url=https://www.thehiddenjapan.com/sakata|title = Sakata City Yamagata Japan| date=2 June 2022 }}</ref>
+ 
+With the establishment of the modern municipalities system after the start of the Meiji period, the area was organized as Sakata Town under [[Akumi District, Yamagata|Akumi District]], Yamagata Prefecture in 1878. Approximately 80% of the town was destroyed by the [[1894 Shōnai earthquake]] and subsequent fires. The modern city of Sakata was founded on April 1, 1933.
+
+===World War II===
+The city largely escaped damage during [[World War II]], save for a lone [[Air raids on Japan|air raid]] on its port district on August 10, 1945, which left 30 people dead or missing.
+
+On September 20, 1944, over 200 British prisoners of war transfer to the newly created POW camp, known officially as Sakata Branch Camp (Sendai 9-B). The British would later be joined by American, Dutch and Australian POW's. The camp was liberated in September 1945.<ref>{{Cite web|url=http://mansell.com/pow_resources/camplists/sendai/sendai_09_sakata/sen_09_sakata_main.html|title=Sendai POW Camp #9-B Sakata}}</ref> The camp was originally established as Tokyo 22B, jurisdictional transferred to [[Sendai]] on April 14, 1945. The camp roster included:
+
+* 15 Americans, no deaths
+* 248 British, 13 deceased
+* 5 Dutch, no deaths
+* 26 Australians, 5 deceased
+
+Most of the POW's were transferred from camps in the [[Osaka]] and [[Tokyo]] area and many had survived the sinking of the steamships {{Transl|ja|Kachidoki Maru}} and {{Transl|ja|Rakuyo Maru}}. The men were used as forced labor at the Port of Sakata and some worked for Nittsu, also known as [[Nippon Express]], still operating in Japan today.
+
+===After World War II===
+On October 29, 1976, Sakata suffered from a major fire which gutted 22.5 hectares of its city center, destroying 1,774 buildings and injuring 964 people (and one fatality).
+
+On November 1, 2005, the towns of [[Hirata, Yamagata|Hirata]], [[Matsuyama, Yamagata|Matsuyama]], and [[Yawata, Yamagata|Yawata]] (all from [[Akumi District, Yamagata|Akumi District]]) were merged into Sakata.
+
+==Government==
+[[File:酒田市役所庁舎.jpg|thumb|Sakata City Hall]]
+Higashine has a mayor-council form of government with a directly elected mayor and a unicameral city legislature of 28 members. The city contributes five members to the Yamagata Prefectural Assembly. In terms of national politics, the city is part of Yamagata District 3 of the lower house of the [[National Diet|Diet of Japan]].
+
+==Economy==
+The economy of Sakata is based on light manufacturing, [[agriculture]], and [[commercial fishing]]. The [[Sakata Kyodo Thermal Power Station]] is a fossil-fueled power station operated by a joint venture of [[Tohoku Electric Power|Tohoku Electric]] and Sumitomo Aluminum in the city.
+
+Major employers include Maeta Seikan,<ref>{{cite web|url=http://job.mynavi.jp/15/pc/search/corp56634/outline.html|title=前田製管(株) - マイナビ2015|work=mynavi.jp|access-date=24 March 2015}}{{dead link|date=May 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> which makes concrete products and has played a major role in supporting reconstruction after the [[2011 Tōhoku earthquake and tsunami]], Kao, a chemical and cosmetics company<ref>{{cite web|url=http://www.kao.com/jp/en/corp_info/factories_04.html|title=Sakata Plant|work=kao.com|access-date=24 March 2015}}</ref> and the electronics company, [[Epson|Seiko Epson]]. Seiko Epson uses the local [[Shonai Airport]] for weekly employee charter flights to and from [[Matsumoto, Nagano]] since 1997.
+
+==Education==
+
+===Universities===
+* [[Tohoku University of Community Service and Science]]
+
+===Vocational schools===
+*Sakata Cooking College
+*Sakata Municipal Sakata Nursing College
+*Yamagata Prefectural College of Industrial Technology - Shonai Campus
+
+===High schools===
+*Sakata Minami High School (private)
+* [[Yamagata Prefectural Sakata Higashi High School]]
+*Yamagata Prefectural Sakata Koryo High School 
+*Yamagata Prefectural Sakata Nishi High School
+*Wajunkan High School (private)
+
+===Junior high schools===
+{{Div col}}
+*Chokai Hachiman Junior High School (private)
+* Sakata First Junior High School
+* Sakata Second Junior High School
+* Sakata Third Junior High School
+* Sakata Fourth Junior High School
+* Sakata Sixth Junior High School
+*Tobu Junior High School (private)
+{{Div col end}}
+
+===Elementary schools===
+{{Div col}}
+* Sakata Chokai Elementary School
+* Sakata Fujimi Elementary School
+* Sakata Hamada Elementary School
+* Sakata Hamanaka Elementary School
+* Sakata Hirata Elementary School
+* Sakata Hirono Elementary School
+* Sakata Ichijo Elementary School
+* Sakata Izumi Elementary School
+* Sakata Kijo Elementary School
+* Sakata Kuromori Elementary School
+* Sakata Matsubara Elementary School
+* Sakata Matsuryo Elementary School
+* Sakata Matsuyama Elementary School
+* Sakata Minami Hirata Elementary School
+* Sakata Minami Yuza Elementary School
+* Sakata Miyanoura Elementary School
+* Sakata Niibori Elementary School
+* Sakata Nishi Arase Elementary School
+* Sakata Takusei Elementary School
+* Sakata Tozaka Elementary School
+* Sakata Wakahama Elementary School
+* Sakata Yawata Elementary School
+{{Div col end}}
+
+==Transportation==
+[[File:定期船とびしま.jpg|thumb|A ferry departing from [[Tobishima, Yamagata|Tobishima Island]]]]
+===Airports===
+* [[Shonai Airport]]
+
+===Railway===
+[[File:JR logo (east).svg|20px]] [[East Japan Railway Company]] - [[Uetsu Main Line]]
+*{{STN|Sagoshi}} - {{STN|Higashi-Sakata}} - {{STN|Sakata|Yamagata}} - {{STN|Mototate}} - {{STN|Minamichōkai}}
+[[File:JR logo (east).svg|20px]] [[East Japan Railway Company]] - [[Rikuu West Line]]
+* {{STN|Sakata|Yamagata}}
+
+===Highway===
+* {{jct|country=JPN|Exp|E7|dab1=N}}
+* {{jct|country=JPN|Exp|E48|dab1=Y}}: (Sakata, Sakata Minato, and Shōnai Airport interchanges)
+*{{jct|country=JPN|Route|7}}
+*{{jct|country=JPN|Route|47}}
+*{{jct|country=JPN|Route|112}}
+*{{jct|country=JPN|Route|344}}
+*{{jct|country=JPN|Route|345}}
+
+===Seaports===
+*[[Port of Sakata]]
+
+==Health care==
+* Homma Hospital
+* Municipal Sakata Hospital
+* Municipal Yawata Hospital
+* Prefectural Nihonkai Hospital
+
+==Media==
+
+===Cinemas===
+*[[Sakata Minato-za]]
+
+===Newspaper===
+* {{Nihongo3||荘内日報|''Shonai Nippo''}}
+
+===Television===
+* NHK Sakata Broadcast Station
+* TV-U Yamagata Sakata Station
+* Sakata Cable Television Station
+
+===Radio===
+* Sakata FM Radio
+
+==Sister cities==
+*{{flagicon|China}} [[Tangshan]], [[Hebei]], [[China]], since July 26, 1990<ref name=International>{{cite web|url=http://www.clair.or.jp/cgi-bin/simai/e/03.cgi?p=06&n=Yamagata%20Prefecture|title=International Exchange|work=List of Affiliation Partners within Prefectures|publisher=Council of Local Authorities for International Relations (CLAIR)|access-date=21 November 2015|url-status=dead|archive-url=https://web.archive.org/web/20151222095936/http://www.clair.or.jp/cgi-bin/simai/e/03.cgi?p=06&n=Yamagata%20Prefecture|archive-date=22 December 2015}}</ref>
+*{{flagicon|Russia}} [[Zheleznogorsk-Ilimsky]], [[Irkutsk Oblast]], [[Russia]], since October 8, 1979<ref name=International/>
+*{{flagicon|United States}} [[Delaware, Ohio|Delaware]], [[Ohio]], [[United States]], since April 19, 2017<ref>{{Cite news|url=http://delgazette.com/news/56217/delaware-sakata-officially-become-sister-cities|title=Delaware, Sakata officially become sister cities|access-date=2017-07-12|others=The Delaware Gazette|language=en-US}}</ref>
+*{{flagicon|Indonesia}} [[Pontianak]], [[West Kalimantan]], [[Indonesia]]
+
+==Culture==
+
+=== Festivals ===
+The [[:ja:酒田まつり|Sakata Festival]] is a major historical festival held every year between May 19 and May 21. The first festival was held in 1609, during the Edo period, and was called the {{Nihongo3|{{lit |Sannō Festival}}|山王祭|Sannō Matsuri}}. However, after a large fire damaged much of Sakata in 1976, the festival became a memorial event and was renamed {{Nihongo3|{{lit |Sakata Festival}}|酒田祭|Sakata Matsuri}}. There is a large parade in the central streets of the city, which features festival floats and dancers from schools, local companies, and community organizations. Huge {{Nihongo3|{{lit |lion heads}}|獅子頭|shishi gashira}} are symbols of the festival. It is said that children chewed by the {{Transl|ja|shishi gashira}} will become smart and healthy. About 350 stalls line the side of the main street selling snacks, drinks, and crafts.<ref>{{Cite web |url=http://www.sakata-kankou.com/event/80 |title=酒田まつり｜イベント｜酒田さんぽ |access-date=2015-03-24 |archive-url=https://web.archive.org/web/20180428083100/http://www.sakata-kankou.com/event/80 |archive-date=2018-04-28 |url-status=dead }}</ref>
+
+The celebration of the Sakata Festival was not interrupted by the eruption of [[Mount Chōkai]] in 1801, the [[1894 Shōnai earthquake]], [[:ja:酒田大火|the 1796 and 1976 Great Fires in Sakata]], World War I, or World War II; however, it was interrupted in 2020 and 2021, due to prevention measures associated with the worldwide [[COVID-19 pandemic]].{{citation needed|date=May 2022}}
+
+=== Films ===
+Sakata was the shooting location for the following movies:
+* ''Okuribito'' (English title ''[[Departures (2008 film)|Departures]]''), 2008, winner of the [[Academy Awards|Oscar]] for best foreign film.<ref>[https://www.imdb.com/title/tt1069238/awards 2009 Best Foreign Film] Imdb.com</ref> Set in present time, a newly unemployed cellist takes a job preparing the dead for funerals.
+* ''[[Silk (2007 film)|Silk]]'', 2007, a film set in the 19th century, about a silkworm merchant and his love life, based on the novel by [[Alessandro Baricco]]
+* ''[[Oshin]]'', 2013, a film about the life of a young girl named Oshin who grew up in poverty in the Sakata region. The film was directed by Shin Togashi.<ref>{{Cite web|url=https://www.imdb.com/title/tt2185384/?ref_=fn_al_tt_1|title = Oshin (2013)|website = [[IMDb]]}}</ref>
+
+==Local attractions==
+
+===Art and historical museums===
+*[[Domon Ken Photography Museum]] – a museum dedicated to Ken Domon, one of the most famous photographers in Japanese history. This is also the only museum in the world that is dedicated to a single photographer.{{cn|date=September 2022}} 
+*[[Homma Museum of Art]] – the Honma Museum of Art is a converted old villa which once belonged to the Honma clan. The villa was used by the lords of the Sakai family in the [[Edo period]]. Some of the fine arts items in the museum's collection were donated by other clans in Japan, other furniture and fixings belonged to the Honma clan. The museum has a garden from which Mount Chokai can be seen.<ref>{{cite web|url=http://www.att-japan.net/en/spot/ES001194|title=The Honma Museum of Art - Sakata - Tohoku - Japan Travel Guide and Information - att.JAPAN|work=att.JAPAN|access-date=24 March 2015|archive-url=https://web.archive.org/web/20150402090630/http://www.att-japan.net/en/spot/ES001194|archive-date=2015-04-02|url-status=dead}}</ref> 
+*[https://www.thehiddenjapan.com/abumiya The Historic {{Transl|ja|Abumiya|italic=no}} Residence] – this museum is a restored home of one of the most famous merchant families in Sakata City. During the 1800s, this city played a key role in domestic trade within Japan. The {{Transl|ja|Abumiya|italic=no}} Residence is open for visitors to see how merchants conducted business and how the servants for this family supported them behind the scenes.<ref>{{Cite web|url=https://www.thehiddenjapan.com/abumiya|title=Abumiya {{!}} Sakata {{!}} The Hidden Japan|website=Yamagata {{!}} Shonai {{!}} The Hidden Japan|language=en|access-date=2019-06-09}}</ref>
+*Sakata City Museum of Art – this museum contains a permanent collection which mainly focuses on the work of sculptor Takahashi Go and painter Saito Chozo. The museum is located 20 minutes from [[Sakata Station (Yamagata)|Sakata Station]] and has views of nearby [[Mount Chōkai]].<ref>{{Cite web|url=https://guides-japan.com/spots/detail/2779/Sakata%20City%20Museum%20of%20Art|title=Sakata City Museum of Art|access-date=2015-03-31|archive-date=2016-03-04|archive-url=https://web.archive.org/web/20160304035258/https://guides-japan.com/spots/detail/2779/Sakata%20City%20Museum%20of%20Art|url-status=dead}}</ref> 
+*{{Transl|ja|Dewa-yushinkan}} – a Tea House complex located beside Sakata City Museum of Art.<ref>{{Cite web |url=http://www.yasuimoku.co.jp/sukiya/index_e.html |title=数寄屋・書院建築/(株)安井杢工務店：建築作品 |access-date=2015-03-31 |archive-url=https://web.archive.org/web/20150402091624/http://www.yasuimoku.co.jp/sukiya/index_e.html |archive-date=2015-04-02 |url-status=dead }}</ref> It was built in 1994 and has a traditional Japanese design.<ref>{{Cite web |url=http://www.sakata-kankou.com/spot/118?category=26 |title=出羽遊心館｜歴史文化を学ぶ｜観光スポット｜酒田さんぽ |access-date=2015-03-31 |archive-url=https://web.archive.org/web/20160305162823/http://www.sakata-kankou.com/spot/118?category=26 |archive-date=2016-03-05 |url-status=dead }}</ref> 
+*{{Transl|ja|Somaro}} – a traditional Japanese restaurant dating from the Edo period. The culture of {{Transl|ja|[[maiko]]}} dancing in Sakata is a result of the city's close trading relationship with Osaka and Kyoto. The building has been carefully renovated and contains many traditional features. It also features an art gallery with the personal collection of Hirata Bokujo, a large pork company that is based in Sakata City.<ref>{{cite web|url=http://www.jnto.go.jp/eng/location/regional/yamagata/sakata_city.html|title=Sakata Area - Japan National Tourism Organization|author=Japan National Tourism Organization|work=jnto.go.jp|access-date=24 March 2015}}</ref> 
+*Sake Museum
+
+===Famous and historical sites===
+[[File:Sankyo Warehouse in Sakata, Yamagata, 16 June 2013, 02.jpg|thumb|Sankyo Storehouse]]
+*Sankyo Storehouse – this [[Kura (storehouse)|{{Transl|ja|kura}}]] was built in 1893 to store rice.<ref name="city.sakata.lg.jp">{{Cite web |url=http://www.city.sakata.lg.jp/ou/shimin/machi/kokusai/introductionofsakatacity.html |title=Sakata City — 酒田市 |access-date=2015-03-27 |archive-url=https://web.archive.org/web/20150402234656/http://www.city.sakata.lg.jp/ou/shimin/machi/kokusai/introductionofsakatacity.html |archive-date=2015-04-02 |url-status=dead }}</ref> On the storehouse's southern side, there is a line of 41 ''[[Zelkova]]'' trees, which were planted over 150 years ago to help keep the temperature of the storehouses low during the hot summer months.<ref>{{Cite web |url=http://www.sakata-kankou.com/spot/165 |title=山居倉庫｜観光スポット｜酒田さんぽ |access-date=2015-03-27 |archive-url=https://web.archive.org/web/20180426081232/http://www.sakata-kankou.com/spot/165 |archive-date=2018-04-26 |url-status=dead }}</ref> The modern day storehouse contains a small museum with information regarding the history and culture of Sakata, a restaurant and a souvenir shop which sells local foods and {{Transl|ja|sake}}.<ref name="city.sakata.lg.jp" />
+*Hiyoriyama Park – a park located close to the city center which offers panoramic views of the [[Port of Sakata]]. There are over 400 cherry trees in the park and it is home to a cherry blossom festival in late April.<ref>{{Cite web |url=http://yamagatakanko.com.e.db.hp.transer.com/spotdetail/?data_id=402 |title=Archived copy |access-date=2015-03-27 |archive-date=2015-04-02 |archive-url=https://web.archive.org/web/20150402143107/http://yamagatakanko.com.e.db.hp.transer.com/spotdetail/?data_id=402 |url-status=dead }}</ref>
+*The Historical Honma Residence – a historic residence of a famous merchant clan. This home is located nearby the Historic {{Transl|ja|Abumiya|italic=no}} Residence and has many rooms and displays.
+*The Kinowa Wall Site
+*The Historical Shirasaki Clinic
+
+===Shrines and temples===
+*Jofuku Temple
+*Kaikou-ji Temple – [[Shingon Buddhism]] temple located in the centre of Sakata near Hiyoriyama Park. The temple contains the remains of two priests who starved themselves to death through a process of self-mummification called {{Transl|ja|[[sokushinbutsu]]}}.<ref>{{cite web|url=http://www.jref.com/culture-society/sokushinbutsu-japanese-mummies/|title=Sokushinbutsu – Japanese Mummies – Japan Reference (JREF)|work=Japan Reference (JREF)|date=30 December 2011 |access-date=24 March 2015}}</ref>
+*Jichi-in Temple – a Buddhist temple at the heart of Sakata City located right next to Hiyoriyama Park and the historic entertainment district of this port city. This temple offers zazen meditation led by the head priest who can speak English.<ref>{{Cite web|url=https://www.thehiddenjapan.com/jichiintemple|title=Jichi-in Temple {{!}} The Hidden Japan|website=thehiddenjapan|language=en|access-date=2020-01-23}}</ref>
+
+==Notable people==
+{{Unreferenced section|date=November 2013}}
+*[[Natsuki Aso (entertainer)]], hair stylist, runs his own hair salon with his wife in Sakata.  Also a frequent guest on the YouTube channel Abroad In Japan.
+*[[Chris Broad (filmmaker)|Chris Broad]], British YouTuber, former English instructor from the [[JET Programme]] who was assigned to teach in Sakata
+*[[Ken Domon]], photographer
+*[[Teiji Honma]], ice hockey goaltender
+*[[Kumiko Ikeda]], long jumper
+*[[Homma Munehisa]], legendary 18th century rice trader
+*[[Haruo Nakajima]], Japanese actor, best known for portraying Godzilla from the 1950s through the early 1970s
+*[[Kinnosuke Ogura]], mathematician
+*[[Shūmei Ōkawa]], nationalist author and politician
+*[[Seiko Shimakage]], volleyball player and golfer
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Sakata, Yamagata}}
+{{Wikivoyage|Sakata}}English Information https://www.thehiddenjapan.com/sakata
+
+*[http://www.city.sakata.lg.jp/ Official Website] {{in lang|ja}}
+*[https://web.archive.org/web/20181206102508/http://sakata-kankou.com/s/ Sakata Sightseeing Guide](Japanese)
+*[https://sakatacity.com Sightseeing guide](English)
+
+{{Yamagata}}
+{{Authority control}}
+
+[[Category:Sakata, Yamagata| ]]
+[[Category:Cities in Yamagata Prefecture]]
+[[Category:Populated coastal places in Japan]]
+[[Category:Port settlements in Japan]]

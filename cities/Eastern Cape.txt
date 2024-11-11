@@ -1,0 +1,364 @@
+{{Use dmy dates|date=September 2021}}
+
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name               = Eastern Cape
+| native_name        = {{Plainlist|
+*{{native name|xh|iMpuma-Kapa}}
+*{{native name|af|Oos-Kaap}} 
+}}
+| settlement_type    = [[Provinces of South Africa|Province]]
+<!-- images, nickname, motto --->
+<!-- images, nickname, motto --->| image_shield       = Eastern Cape arms.svg
+| motto              = Development through Unity
+<!-- maps and coordinates ------>| image_map          = Eastern Cape in South Africa.svg
+| mapsize            = 
+| map_alt            = Map showing the location of the Eastern Cape in the southern part of South Africa
+| map_caption        = Location of the Eastern Cape in South Africa
+| coordinates        = {{coord|32|S|27|E|region:ZA_type:adm1st_dim:800km|display=inline, title}}
+<!-- location ------------------>| subdivision_type   = Country
+| subdivision_name   = {{ZAF}}
+<!-- established --------------->| established_title  = Established
+| established_date   = 27 April 1994
+<!-- seat, smaller parts ------->| seat_type          = Capital
+| seat               = [[Bhisho]]
+| seat1_type         = Largest city
+| seat1              = [[Gqeberha]] (Port Elizabeth)
+| parts_type         = [[Districts of South Africa|Districts]]
+| p1                 = [[Nelson Mandela Bay Municipality|Nelson Mandela Bay]]
+| p2                 = [[Buffalo City Metropolitan Municipality|Buffalo City]]
+| p3                 = [[Sarah Baartman District Municipality|Sarah Baartman]]
+| p4                 = [[Amathole District Municipality|Amathole]]
+| p5                 = [[Chris Hani District Municipality|Chris Hani]]
+| p6                 = [[Joe Gqabi District Municipality|Joe Gqabi]]
+| p7                 = [[OR Tambo District Municipality|OR Tambo]]
+| p8                 = [[Alfred Nzo District Municipality|Alfred Nzo]]
+<!-- government type, leaders -->| government_footnotes = <!-- for references: use<ref> tags -->
+| government_type    = [[Parliamentary system]]
+| leader_party       = [[African National Congress|ANC]]
+| leader_title       = [[Premier of the Eastern Cape|Premier]]
+| leader_name        = [[Oscar Mabuyane]]
+| leader_title1      = Legislature
+| leader_name1       = [[Eastern Cape Provincial Legislature]]
+<!-- area ---------------------->| area_footnotes     = <ref name="cib2011">{{cite book |title=Census 2011: Census in brief |url=http://www.statssa.gov.za/census/census_2011/census_products/Census_2011_Census_in_brief.pdf |publisher=Statistics South Africa |location=Pretoria |year=2012 |isbn=9780621413885 |archive-url=https://web.archive.org/web/20150513171240/http://www.statssa.gov.za/census/census_2011/census_products/Census_2011_Census_in_brief.pdf |archive-date=13 May 2015 |url-status=live}}</ref>{{rp|9}}
+| area_total_km2     = 168966
+| area_rank          = [[List of South African provinces by area|2nd in South Africa]]
+<!-- elevation ----------------->| elevation_max_footnotes = <!-- for references: use<ref> tags -->
+| elevation_max_m    = 3019
+| elevation_min_footnotes = <!-- for references: use<ref> tags -->
+| elevation_min_m    = 0
+<!-- population ---------------->| population_footnotes = <ref name="2022 census">{{cite web | title= Statistical Release - Census 2022 | url=https://census.statssa.gov.za/assets/documents/2022/P03014_Census_2022_Statistical_Release.pdf | access-date=2024-08-22 |website=statssa.gov.za}}</ref>
+| population_total   = 7,225,784
+| population_as_of   = 2022
+| population_density_km2 = auto
+| population_rank    = [[List of South African provinces by population|4th in South Africa]]
+| population_density_rank = [[List of South African provinces by population density|6th in South Africa]]
+| population_demonym = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note    = <!-- demographics (section 1) -->
+| demographics_type1 = Population groups (2022)
+| demographics1_footnotes = <ref name="2022 census"/>
+| demographics1_title1 = [[Bantu peoples of South Africa|Black]]
+| demographics1_info1 = 85.7%
+| demographics1_title2 = [[Coloured]]
+| demographics1_info2 = 7.6%
+| demographics1_title3 = [[White South African|White]]
+| demographics1_info3 = 5.6%
+| demographics1_title4 = [[Indian South African|Indian]] or [[Asian South African|Asian]]
+| demographics1_info4 = 0.5%
+| demographics1_title5 = Other
+| demographics1_info5 = 0.7%
+<!-- demographics (section 2) -->| demographics_type2 = Languages (2022)
+| demographics2_footnotes = <ref name="2022 census"/>
+| demographics2_title1 = [[Xhosa language|Xhosa]]
+| demographics2_info1 = 81.8%
+| demographics2_title2 = [[Afrikaans language|Afrikaans]]
+| demographics2_info2 = 9.6%
+| demographics2_title3 = English
+| demographics2_info3 = 4.8%
+| demographics2_title4 = [[Sotho language|Sotho]]
+| demographics2_info4 = 2.4%
+<!-- time zone(s) -------------->| timezone1          = [[South African Standard Time|SAST]]
+| utc_offset1        = +2
+<!-- postal codes, area code --->| iso_code           = ZA-EC
+| blank_name_sec1    = [[Human Development Index|HDI]] (2019)
+| blank_info_sec1    Cheletyuma = 0.671<ref name="GlobalDataLab">{{Cite web|url=https://hdi.globaldatalab.org/areadata/shdi/|title=Sub-national HDI – Area Database – Global Data Lab|website=hdi.globaldatalab.org|language=en|access-date=13 September 2018|archive-date=23 September 2018|archive-url=https://web.archive.org/web/20180923120638/https://hdi.globaldatalab.org/areadata/shdi/|url-status=live}}</ref><br/>{{color|#fc0|medium}} · [[List of South African provinces by Human Development Index|9th of 9]]
+<!-- GDP -------------->| blank1_name_sec1   = GDP
+| blank1_info_sec1   = [[US$]]30.7 billion<ref>{{citation|title=Provincial gross domestic product:experimental estimates, 2013–2022|url=https://www.statssa.gov.za/publications/D04411/D044112022.pdf|website=www.statssa.gov.za}}</ref>
+<!-- website, footnotes -------->| website            = [http://www.ecprov.gov.za/ www.ecprov.gov.za]
+| footnotes          = 
+}}
+{{Infobox South African
+| xh   = iMpuma-Kapa
+| af   = Oos-Kaap
+| nso  =
+| ss   =
+| st   = 
+| tn   = Kapa Botlhaba
+| ts   =
+| ve   =
+| nr   =
+| khoi =
+| naq  =
+| san  =
+}}
+
+The '''Eastern Cape''' ({{langx|xh|iMpuma-Kapa}}; {{langx|af|Oos-Kaap}} {{IPA|af|ˈuəs.kɑːp|}}) is one of the nine [[provinces of South Africa]]. Its capital is [[Bhisho]], and its largest city is [[Gqeberha]] (Port Elizabeth). Due to its climate and nineteenth-century towns, it is a common location for tourists. It is also known for being home to many anti-apartheid activists, including [[Nelson Mandela]].
+
+The second largest province in the country (at 168,966&nbsp;km<sup>2</sup>) after the [[Northern Cape]], it was formed in 1994 out of the [[Xhosa people|Xhosa]] homelands or [[bantustan]]s of [[Transkei]] and [[Ciskei]], together with the eastern portion of the [[Cape Province]]. The central and eastern part of the province is the traditional home of the indigenous [[Xhosa people]]. In 1820 this area, which was known as the [[Xhosa Kingdom]], began to be settled by Europeans who originally came from [[England]], [[Scotland]] and [[Ireland]].
+
+==History==
+The Eastern Cape province was formed in 1994, incorporating areas from the former Xhosa homelands of the [[Transkei]] and [[Ciskei]], together with what was previously part of the [[Cape Province]]. This resulted in several anomalies, including the fact that the Province has four supreme courts (in [[Makhanda, Eastern Cape|Grahamstown]] (Makhanda), [[Port Elizabeth]] (Gqeberha), Bhisho and [[Mthatha]], and had enclaves of [[KwaZulu-Natal]] in the province. The latter anomaly has fallen away with amendments to municipal and provincial boundaries.
+
+The Xhosa Kingdom was one of the most powerful kingdoms in Africa, and had all states in the Eastern Cape as tributaries. Any group, people, or tribe that recognised the Xhosa Kingdom as Paramouncy became Xhosa, practiced Xhosa culture and used isiXhosa as their main language. Some of the tribes that fall under the category of Xhosa people include: AmaMpondo, AbaThembu, AmaMpondomise, AmaHlubi, AmaBhaca, AmaXesibe, AmaBomvana and more.{{Original research inline|date=May 2019}}
+
+===European settlers===
+{{main | Graaff-Reinet | 1820 Settlers}}
+In the late 18th century the [[Dutch Cape Colony]] slowly expanded eastwards from its original centre around Cape Town. This led to the establishment in 1786 of the Dutch settlement of [[Graaff-Reinet]] – named for the [[Governor of the Dutch Cape Colony|Governor of the Cape Colony]] [[Cornelis Jacob van de Graaff|Cornelius Jacob van de Graaff]] (in office: 1785–1791) and for his wife Hester Cornelia van de Graaff (née Reynet). Later, during the [[Napoleonic wars]] of 1803–1815, [[United Kingdom of Great Britain and Ireland|Britain]] took control of the [[Colony of the Cape of Good Hope|Cape Colony]] (1806) and encouraged British citizens to migrate there as a means to boost the British population{{citation needed|date=July 2021}} in the area.
+
+From the early 1800s until the formation of the [[Union of South Africa]] in 1910, the Eastern Cape saw colonisation by British [[human migration|migrant]]s. English [[settler]]s established most of the towns, naming them either for places in England or for the original founders. [[British colonisation]] saw schools, churches, hospitals, town centres and government buildings built to speed up development.{{citation needed|date=July 2021}} Some of the older European settlements include [[Fort Beaufort]] (1814), [[Makhanda, Eastern Cape|Grahamstown]] (1812), [[Port Elizabeth]] (1820), [[Salem, Eastern Cape|Salem]] (1820), [[Bathurst, Eastern Cape|Bathurst]] (1820), [[East London, Eastern Cape|East London]] (1836), [[Paterson, Eastern Cape|Paterson]] (1879), [[Cradock, Eastern Cape|Cradock]] (1814), Fort Beaufort (1816) and [[King William's Town, Eastern Cape|King William's Town]] (1836).
+
+== Geography ==
+[[image:ISS059-E-91096 - View of South Africa.jpg|thumb|upright=1.2|The southern part of the province seen from [[International Space Station|space]]. Various mountain ranges in the [[Cape Fold Belt]] are visible, besides [[Cape Recife]] and [[Cape St. Francis]].]]
+{{See also|List of cities and towns in the Eastern Cape}}
+
+The Eastern Cape gets progressively wetter from west to east. The west is mostly semiarid [[Karoo]], except in the far south, which is temperate rainforest in the Tsitsikamma region. The coast is generally rugged with interspersed beaches. Most of the province is hilly to very mountainous between [[Graaff-Reinet]] and Rhodes including the [[Sneeuberge]] (English: Snow Mountains), [[Stormberg Mountains|Stormberge]], [[Winterberg, Eastern Cape|Winterberge]] and [[Drakensberg]] (English: Dragon Mountains). The highest point in the province is [[Ben Macdhui (South Africa)|Ben Macdhui]] at 3001 m. The east from [[East London, South Africa|East London]] and [[Komani, Eastern Cape|Queenstown]] towards the [[KwaZulu-Natal]] border – a region known previously as [[Transkei]] – is lush grassland on rolling hills, punctuated by deep gorges with intermittent forest.
+
+Eastern Cape has a [[coast]] on its east which lines southward, creating shores leading to the south Indian Ocean. In the northeast, it borders the following [[districts of Lesotho]]:
+*[[Mohale's Hoek District]] – west of Quthing
+*[[Quthing District]] – between Mohale and Qacha's Nek
+*[[Qacha's Nek District]] – east of Quthing
+
+Domestically, it borders the following provinces:
+*[[Western Cape]] – west
+*[[Northern Cape]] – northwest
+*[[Free State (South African province)|Free State]] – north
+*[[KwaZulu-Natal]] – far northeast
+
+=== Climate ===
+Climate is highly varied. The west is dry with sparse rain during winter or summer, with frosty winters and hot summers. The area [[Tsitsikamma]] to [[Makhanda, Eastern Cape|Grahamstown]] receives more precipitation, which is also relatively evenly distributed and temperatures are mild. Further east, rainfall becomes more plentiful and humidity increases, becoming more subtropical along the coast with summer rainfall. The interior can become very cold in winter, with heavy snowfalls occasionally occurring in the mountainous regions between [[Molteno, Eastern Cape|Molteno]] and [[Rhodes, Eastern Cape|Rhodes]].
+*[[Port Elizabeth|Gqeberha]]: Jan Max: 25&nbsp;°C, Min: 18&nbsp;°C; Jul Max: 20&nbsp;°C, Min: 9&nbsp;°C
+*[[Molteno, Eastern Cape|Molteno]] & [[Barkly East]]: Jan Max 28&nbsp;°C, Min 11&nbsp;°C; Jul Max: 14&nbsp;°C, Min: -7&nbsp;°C
+
+== Municipalities ==
+{{main|List of municipalities in the Eastern Cape}}
+[[File:Eastern Cape 2011 population density map.svg|thumb|Eastern Cape Population Density (2011)]]
+[[File:Map of the Eastern Cape with municipalities named and districts shaded (2021).svg|alt=Map of Eastern Cap showing municipalities and districts|thumb|upright=1.75|Map of Eastern Cape showing municipalities and districts]]The Eastern Cape Province is divided into two [[metropolitan municipality (South Africa)|metropolitan municipalities]] and six [[district municipality (South Africa)|district municipalities]]. The district municipalities are in turn divided into 27 [[local municipality (South Africa)|local municipalities]].
+
+Major cities and towns include the following (in the case of [[List of renamed places in South Africa|places that have been renamed]], the traditional name is listed first followed by the new official name):
+*[[East London, Eastern Cape|East London]] (Gompo)
+*Port Elizabeth ([[Gqeberha]])
+*[[Umtata]] (Mthatha)
+*[[Queenstown, Eastern Cape|Queenstown]] (Komani)
+*[[Makhanda, Eastern Cape|Grahamstown]] (Makhanda)
+*[[Jeffreys Bay]]
+*[[Alice, South Africa|Alice]] (Dikeni)
+*[[Sterkspruit]]
+*[[Graaff-Reinet]]
+*[[Somerset East]] (KwaNojoli)
+*[[Mount Fletcher]] (Tlokoeng)
+*[[Butterworth, Eastern Cape|Butterworth]] (Gcuwa)
+*[[Mount Frere]] (KwaBhaca)
+*[[Mdantsane]]
+*[[Cradock, Eastern Cape|Cradock]]
+*[[Matatiele]]
+* King William's Town ([[Qonce]])
+*[[Aliwal North]] (Maletswai)
+*[[Uitenhage]] (Kariega)
+*[[Idutywa]] (Dutywa)
+*[[Engcobo]] (Ngcobo)
+*[[Maclear, Eastern Cape|Maclear]] (Nqanqarhu)
+*[[Alexandria, Eastern Cape|Alexandria]] (Mnyameni)
+*[[Port Alfred]] (Cawa)
+*[[Fort Beaufort]] (KwaMaqoma known as Bofolo)
+*[[Peddie, Eastern Cape|Peddie]] (Ngqushwa)
+*[[Willowvale, South Africa|Willowvale]] (Gatyana)
+*[[Elliotdale]] (Xhorha)
+*Kentane ([[Centane]])
+*[[Tsomo]]
+*[[Tsolo]]
+*[[Cofimvaba]]
+*[[Nqamakwe]]
+*[[Bisho]] ([[Bhisho]])
+
+== Demographics ==
+As of the [[2022 South African census|2022 census]], the Eastern Cape had a population of 7,230,204, an increase of 10.2% from the prior census in [[2011 South African census|2011]].  It is the fourth-most populous of South Africa's nine provinces.  The median age is 27, an increase of 5 years from 2011.<ref name="2022 census3">{{cite web |title=Statistical Release - Census 2022 |url=https://census.statssa.gov.za/assets/documents/2022/P03014_Census_2022_Statistical_Release.pdf |access-date=2024-08-22 |website=statssa.gov.za}}</ref>
+
+=== Race/Ethnicity ===
+In the 2022 census, 85.7% of the population described themselves as [[Bantu peoples of South Africa|Black African]], 7.6% as [[Coloureds|Coloured]], 5.6% as [[White South Africans|White]] and 0.5% as [[Indian South Africans|Indian/Asian]].<ref name="2022 census3" />  A large majority of Black African people in the province are [[Xhosa people|Xhosa]], with 78.8% of residents in Eastern Cape identifying as Xhosa as of 2011. Unlike most of [[South Africa]], a substantial proportion of the [[White South Africans|White]] population is of [[British diaspora in Africa|British descent]].  Roughly half of [[White South Africans]] in Eastern Cape are English-speakers of British descent while the other half  are of [[Boer]]/[[Afrikaner]] ancestry.  Eastern Cape is one of only two provinces in [[South Africa]] where Whites of British descent outnumber Boers/Afrikaners, the other being [[KwaZulu-Natal]]. 
+{| class="wikitable"
+|+Historic Breakdown of Population by Group<ref name="2022 census3" />
+!Population Group
+!1996
+!2001
+!2011
+!2022
+|-
+|[[Bantu peoples of South Africa|Black African]]
+|86.6%
+|87.2%
+|86.3%
+|85.7%
+|-
+|[[Coloureds|Coloured]]
+|7.7%
+|7.7%
+|8.3%
+|7.6%
+|-
+|[[White South Africans|White]]
+|5.4%
+|4.9%
+|4.7%
+|5.6%
+|-
+|[[Indian South Africans|Indian/Asian]]
+|0.3%
+|0.3%
+|0.4%
+|0.5%
+|-
+|Other
+|n/a
+|n/a
+|0.3%
+|0.7%
+|}
+
+=== Languages ===
+[[File:Eastern Cape dominant language map.svg|thumb|Dominant home languages in the Eastern Cape
+{{legend-col
+|{{legend|#8dd3c7|[[Afrikaans language|Afrikaans]]}}
+|{{legend|#ffffb3|[[South African English|English]]}}
+|{{legend|#fb8072|[[Xhosa language|Xhosa]]}}
+|{{legend|#80b1d3|[[Zulu language|Zulu]]}}
+|{{legend|#b3de69|[[Sotho language|Sotho]]}}
+|{{legend|#d0d0d0|No language dominant}}
+}}]]In the 2022 census, 81.8% of the population reported their [[first language]] as [[Xhosa language|Xhosa]], 9.6% as [[Afrikaans]], 4.8% as [[South African English|English]], and 2.4% as [[Sotho language|Sotho]].  The Eastern Cape is the only province in which native Xhosa-speakers form a majority of the population.<ref name="2022 census3" />
+
+=== Religion ===
+As of the 2022 census, 86.1% of the population described themselves as [[Christianity|Christians]], 11.0% stated that they practiced [[Traditional African religions|Traditional African]] religions, and 0.6% described themselves as [[Islam|Muslim]].  1.5% of the population described themselves as being atheist, agnostic, or having no religious affiliation.<ref name="2022 census3" />
+
+== Economy ==
+The Eastern Cape is the poorest province in South Africa and has the highest expanded and official unemployment rate in the country.<ref>{{cite web |date=24 August 2021 |title=Does SA have highest unemployment rate in the world? |url=https://www.thesouthafrican.com/news/does-sa-have-the-highest-unemployment-rate-in-the-world-24-august-2021 |url-status=live |archive-url=https://web.archive.org/web/20210824181949/https://www.thesouthafrican.com/news/does-sa-have-the-highest-unemployment-rate-in-the-world-24-august-2021/ |archive-date=24 August 2021 |access-date=25 August 2021 |website=www.thesouthafrican.com |language=en}}</ref><ref>{{cite web |title=Mapping poverty in South Africa |url=https://southafrica-info.com/people/mapping-poverty-in-south-africa/&grqid=wGvcQ8So&s=1&hl=en-ZA |access-date=31 March 2020 |publisher=southafrica-info.com}}{{Dead link|date=June 2023|bot=InternetArchiveBot|fix-attempted=yes}}</ref><ref>{{cite web |date=23 August 2017 |title=Eastern Cape remains SAs poorest province |url=https://www.dispatchlive.co.za/news/2017-08-23-e-cape-remains-sas-poorest-province/&grqid=WywXVaox&s=1&hl=en-ZA |access-date=31 March 2020 |publisher=dispatchlive.co.za}}{{Dead link|date=June 2023|bot=InternetArchiveBot|fix-attempted=yes}}</ref> Subsistence agriculture predominates in the former homelands, resulting in widespread poverty. A multi billion Rand industrial development zone and deep water port are being developed in [[Coega]] to boost investment in export-oriented industries.<ref>{{cite web |title=Billion investments coega special economic zone |url=https://www.biznews.com/good-hope-project/2019/07/25/billion-investments-coega-special-economic-zone&grqid=93dUnDw6&s=1&hl=en-ZA |access-date=31 March 2020 |publisher=biznews.com}}{{Dead link|date=June 2023|bot=InternetArchiveBot|fix-attempted=yes}}</ref> Overall the province only contributes 8% to the national GDP despite making 13.5% of the population. The real GDP of Eastern Cape stands at an estimated R230.3billion in 2017, making the province the fourth largest regional economy in SA ahead of Limpopo and Mpumalanga.<ref>{{cite web |title=Eastern Cape Economy |url=http://www.ecdc.co.za/about-the-eastern-cape/economy/&grqid=0n8vgaO-&s=1&hl=en-ZA |access-date=31 March 2020 |publisher=ecdc.co.za}}{{Dead link|date=June 2023|bot=InternetArchiveBot|fix-attempted=yes}}</ref>
+
+===Agriculture===
+There is much fertile land in the Eastern Cape, and agriculture remains important. The fertile [[Langkloof]] Valley in the southwest has large deciduous [[fruit orchard]]s. In the Karoo there is widespread sheep farming.
+
+The Alexandria-Makhanda area produces pineapples, chicory and dairy products, while coffee and tea are cultivated at Magwa. People in the former Transkei region are dependent on cattle, maize and sorghum-farming. An olive nursery has been developed in collaboration with the [[University of Fort Hare]] to form a nucleus of olive production in the Eastern Cape.
+
+Domestic stock farming is slowly giving way to game farming on large scale. [[Eco-tourism]] is resulting in economic benefits, and there is lower risk needed to protect wild, native game against drought, and the natural elements. Habitat loss and poaching pose the greatest problems.
+
+The area around [[Stutterheim]] is being cultivated extensively with timber plantations.
+
+The basis of the province's [[fishing industry]] is [[squid]], some recreational and commercial fishing for line fish, the collection of marine resources, and access to line-catches of [[hake]].
+
+===Industry===
+With three import/export harbours and three airports offering direct flights to the main centres, and an excellent road and rail infrastructure,{{citation needed|date=March 2019}} the province has been earmarked as a key area for growth and economic development in modern South Africa.{{citation needed|date=March 2019}}
+
+The two major industrial centres, [[Port Elizabeth]] and [[East London, South Africa|East London]] have well-developed economies based on the automotive industry. [[General Motors Corporation|General Motors]] and [[Volkswagen]] both have major assembly lines in the Port Elizabeth area, while East London is dominated by the large [[DaimlerChrysler]] plant, now known as Mercedes-Benz South Africa.<ref>{{cite web |date=20 February 2014 |title=VWSA steps up production as export demand grows |url=https://www.iol.co.za/business-report/economy/vwsa-steps-up-production-as-export-demand-grows-1650463%26grqid%3D9EbjLP3w%26s%3D1%26hl%3Den-ZA |url-status=live |archive-url=https://web.archive.org/web/20200715064456/https://www.iol.co.za/business-report/economy/vwsa-steps-up-production-as-export-demand-grows-1650463%26grqid%3D9EbjLP3w%26s%3D1%26hl%3Den-ZA |archive-date=15 July 2020 |access-date=18 May 2020 |publisher=iol.co.za}}</ref>
+
+Environmental-friendly projects include the Fish River Spatial Development Initiative, the Wild Coast SDI, and two industrial development zones, the East London Industrial Development Zone and the Coega IDZ near Port Elizabeth. Coega is the largest infrastructure development in post-[[apartheid]] South Africa. The construction of the deepwater [[Port of Ngqura]] was completed and the first commercial ship anchored in October 2009.<ref>{{cite web |title=New liquid bulk tank farm at port of ngqura a step closer – Transnet |url=https://www.rnews.co.za/article/26559/new-liquid-bulk-tank-farm-at-port-of-ngqura-a-step-closer-transnet |url-status=dead |archive-url=https://web.archive.org/web/20200713164710/https://www.rnews.co.za/article/26559/new-liquid-bulk-tank-farm-at-port-of-ngqura-a-step-closer-transnet |archive-date=13 July 2020 |access-date=18 May 2020 |publisher=rnews.co.za}}</ref>
+
+Other sectors include finance, real estate, business services, wholesale and retail trade, eco-tourism (nature reserves and game ranches) and hotels and restaurants.
+
+==Law and government==
+{{main|Politics of the Eastern Cape}}
+
+The Eastern Cape provincial government is based in [[Bhisho]], the provincial capital. The [[Eastern Cape Division]] of the [[High Court of South Africa]] is situated in Makhanda (Grahamstown), with local seats in Gqhebera (Port Elizabeth), East London, and Bhisho.
+
+Like South Africa's other provinces, the Eastern Cape has a parliamentary system of government, with the [[Premier of the Eastern Cape|premier of the province]] elected by the [[Eastern Cape Provincial Legislature]].  The premier then selects the members of the [[Executive Council (South Africa)|Executive Council]] (cabinet).  The current premier is [[Oscar Mabuyane]] of the [[African National Congress]] (ANC).
+
+The provincial legislature is elected every five years by a system of [[party-list proportional representation]].  The most recent provincial election was held in [[2024 South African provincial elections|2024]], which was won by the ANC, which has governed the province continuously since the end of Apartheid in [[1994 South African general election|1994]].  The [[Democratic Alliance (South Africa)|Democratic Alliance]] (DA) is the second largest party and forms the [[Parliamentary opposition|official opposition]].   The results of the most recent provincial election in 2024 are as follows:{{Election results||image=[[File:2024 Eastern Cape Legislature.svg]]|party1=[[African National Congress]]|votes1=1114294|sw1={{decrease}} 6.58|seats1=45|sc1={{increase}} 1|party2=[[Democratic Alliance (South Africa)|Democratic Alliance]]|votes2=267007|sw2={{decrease}} 0.84|seats2=11|sc2={{increase}} 1|party3=[[Economic Freedom Fighters]]|votes3=181855|sw3={{increase}} 2.30|seats3=8|sc3={{increase}} 3|party4=[[United Democratic Movement]]|votes4=66572|sw4={{increase}} 1.11|seats4=3|sc4={{increase}} 1|party5=[[Patriotic Alliance]]|votes5=41355|sw5=New|seats5=2|sc5={{increase}} 2|party6=[[African Transformation Movement]]|votes6=27761|sw6={{increase}} 0.03|seats6=1|sc6={{steady}} 0|party7=[[uMkhonto we Sizwe (political party)|uMkhonto we Sizwe]]|votes7=25904|sw7=New|seats7=1|sc7=New|party8=[[Freedom Front Plus]]|votes8=9321|sw8={{decrease}} 0.06|seats8=1|sc8={{steady}} 0|party9=[[Pan Africanist Congress of Azania]]|votes9=9168|sw9={{increase}} 0.10|seats9=0|sc9={{steady}} 0|party10=[[African Christian Democratic Party]]|votes10=8642|sw10={{increase}} 0.01|seats10=0|sc10={{steady}} 0|party11=[[ActionSA]]|votes11=8315|sw11=New|seats11=0|sc11=New|party12=[[Rise Mzansi]]|votes12=5167|sw12=New|seats12=0|sc12=New|party13=[[African Independent Congress]]|votes13=3935|sw13={{decrease}} 0.20|seats13=0|sc13={{steady}} 0|party14=[[Azanian People's Organisation]]|votes14=3884|sw14={{increase}} 0.14|seats14=0|sc14={{steady}} 0|party15=[[Build One South Africa]]|votes15=3138|sw15=New|seats15=0|sc15=New|colour16=#ffca08|party16=[[Congress of the People (South African political party)|Congress of the People]]|votes16=2178|sw16={{decrease}} 0.13|seats16=0|sc16={{steady}} 0|colour17=#bc8f8f|party17=[[Batho Pele Movement]]|votes17=2078|sw17=New|seats17=0|sc17=New|party18=[[African People's Convention]]|votes18=1770|sw18={{decrease}} 0.03|seats18=0|sc18=|party19=[[Good (political party)|Good]]|votes19=1683|sw19={{decrease}} 0.15|seats19=0|sc19={{steady}} 0|party20=[[Al Jama-ah]]|votes20=1543|sw20={{decrease}} 0.06|seats20=0|sc20={{steady}} 0|party21=[[Alliance of Citizens for Change]]|votes21=1511|sw21=New|seats21=0|sc21={{steady}} 0|party22=[[Inkatha Freedom Party]]|votes22=1343|sw22={{increase}} 0.02|seats22=0|sc22={{steady}} 0|colour23=#586d2d|party23=[[Arise South Africa]]|votes23=1128|sw23=New|seats23=0|sc23={{steady}} 0|party24=[[African Congress for Transformation]]|votes24=1047|sw24=New|seats24=0|sc24={{steady}} 0|colour25=#cccc00|party25=[[Komani Progress Action]]|votes25=976|sw25=New|seats25=0|sc25={{steady}} 0|colour26=#a0522d|party26=Independent South African National Civic Organisation|votes26=877|sw26=New|seats26=0|sc26={{steady}} 0|colour27=#00a400|party27=[[African Movement Congress]]|votes27=269|sw27=New|seats27=0|sc27={{steady}} 0}}
+
+== Education ==
+
+The Eastern Cape Department of Education has been criticised for poor primary and secondary education<ref>{{Cite web|url=http://www.timeslive.co.za/opinion/editorials/2012/04/15/As-Zuma-woos-support-Eastern-Cape-suffers|title=As Zuma woos support, Eastern Cape suffers|date=15 April 2012|website=Times LIVE|access-date=2 May 2017|archive-date=24 June 2017|archive-url=https://web.archive.org/web/20170624072534/http://www.timeslive.co.za/opinion/editorials/2012/04/15/as-zuma-woos-support-eastern-cape-suffers|url-status=live}}</ref> resulting from dysfunction,<ref name=":0">{{Cite news|url=http://city-press.news24.com/News/premiers-bold-plans-to-deal-with-the-education-crisis-in-eastern-cape-20160219|title=Premier's bold plans to deal with the education crisis in Eastern Cape|last=Ngcukana|first=Lubabalo|date=19 February 2016|work=CityPress|access-date=2 May 2017|language=en|archive-date=13 March 2017|archive-url=https://web.archive.org/web/20170313035157/http://city-press.news24.com/News/premiers-bold-plans-to-deal-with-the-education-crisis-in-eastern-cape-20160219|url-status=live}}</ref> special interests, and issues with the South Africa teachers union, [[South African Democratic Teachers Union|SADTU]].<ref>{{Cite news|url=http://www.news24.com/SouthAfrica/News/eastern-cape-is-a-failed-state-education-expert-20160106|title=Eastern Cape is a 'failed state' – education expert|last=Gqirana|first=Thulani|date=6 January 2016|work=News24|access-date=2 May 2017|archive-date=16 August 2017|archive-url=https://web.archive.org/web/20170816111857/http://www.news24.com/SouthAfrica/News/eastern-cape-is-a-failed-state-education-expert-20160106|url-status=live}}</ref><ref name=":2" /> The province struggles with a lack of schools; a lack of teachers leading to overcrowding; a lack of textbooks; a lack of basic facilities like toilets, electricity or water; and poor transport infrastructure which regularly absents and endangers learners. The problem is particularly acute in the former [[Transkei]].<ref name=":1">{{Cite web|url=https://www.dailymaverick.co.za/opinionista/2016-01-26-motshekga-has-to-account-for-her-role-in-the-education-crisis-especially-in-the-eastern-cape/|title=Motshekga has to account for her role in the education crisis – especially in the Eastern Cape|last=Motsepe|first=Tshepo|date=26 January 2016|website=The Daily Maverick|language=en|access-date=2 May 2017|archive-date=13 April 2016|archive-url=https://web.archive.org/web/20160413192143/http://www.dailymaverick.co.za/opinionista/2016-01-26-motshekga-has-to-account-for-her-role-in-the-education-crisis-especially-in-the-eastern-cape/|url-status=live}}</ref>
+
+By 2011, basic education had so deteriorated that the national [[Department of Basic Education]] intervened under section 100(1)(b) of the [[Constitution of South Africa]], taking control of the province's educational administration.<ref name=":2">{{Cite news|url=https://mg.co.za/article/2015-07-02-special-investigating-unit-to-probe-eastern-cape-education|title=Special Investigating Unit to probe Eastern Cape education|last=John|first=Victoria|work=The M&G Online|access-date=2 May 2017|language=en|archive-date=11 December 2015|archive-url=https://web.archive.org/web/20151211134444/http://mg.co.za/article/2015-07-02-special-investigating-unit-to-probe-eastern-cape-education|url-status=live}}</ref> The Eastern Cape has since been the worst-performing province educationally and especially in terms of [[Matriculation in South Africa|matriculation]];<ref name=":1" /> matriculants' results averaged 51% in 2009,<ref>{{Cite news|url=https://mg.co.za/article/2010-01-07-matric-results-a-wakeup-call-for-sa|title=Matric results a wake-up call for SA|last=Keet|first=Jacques|work=The M&G Online|access-date=2 May 2017|language=en|archive-date=3 December 2021|archive-url=https://web.archive.org/web/20211203073331/https://mg.co.za/article/2010-01-07-matric-results-a-wakeup-call-for-sa/|url-status=live}}</ref> 58.3% in 2011,<ref>{{Cite news|url=https://mg.co.za/article/2011-01-06-matric-pass-rate-a-remarkable-achievement|title=Matric pass rate 'a significant achievement'|date=6 January 2011|work=The M&G Online|access-date=2 May 2017|language=en|archive-date=3 December 2021|archive-url=https://web.archive.org/web/20211203071346/https://mg.co.za/article/2011-01-06-matric-pass-rate-a-remarkable-achievement/|url-status=live}}</ref> 64.9% in 2013,<ref>{{Cite news|url=http://www.news24.com/SouthAfrica/News/Matric-Eastern-Cape-remains-worst-province-20150106|title=Matric: Eastern Cape remains worst province|date=6 January 2015|work=News24|access-date=2 May 2017|archive-date=3 October 2015|archive-url=https://web.archive.org/web/20151003061935/http://www.news24.com/southafrica/news/matric-eastern-cape-remains-worst-province-20150106|url-status=live}}</ref> 65.4% in 2014, and 56.8% in 2015.<ref>{{Cite news|url=http://www.sabc.co.za/news/a/fe735e004c0329fa889e8bf0bca466af/TripartiteundefinedallianceundefinedtoundefinedaddressundefinedEundefinedCapeundefinededucationundefinedcrisis-20161303|title=Tripartite alliance to address E Cape education crisis|last=Jemsana|first=Busisiwe|date=13 March 2016|work=[[South African Broadcasting Corporation]]}}{{Dead link|date=December 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Cite news|url=https://mg.co.za/article/2016-01-05-matric-pass-rate-drops-to-707|title=Matric results 2015: Pass rate drops to 70.7%|last=Quintal|first=Genevieve|work=The M&G Online|access-date=2 May 2017|language=en|archive-date=3 January 2017|archive-url=https://web.archive.org/web/20170103004644/http://mg.co.za/article/2016-01-05-matric-pass-rate-drops-to-707|url-status=live}}</ref>
+
+In the 2015/2016 financial year, the province failed to spend R&nbsp;530&nbsp;million of its allocated R&nbsp;1.5&nbsp;billion budget for education, most of it intended for infrastructure development.<ref>{{Cite news|url=http://www.dispatchlive.co.za/news/2016/03/09/r530-million-of-unspent-ec-budget-meant-for-poor-schools-given-to-other-provinces/|title=R530-million of unspent EC budget meant for poor schools given to other provinces.|last=Majangaza|first=Sino|date=9 March 2016|work=DispatchLIVE|access-date=2 May 2017|language=en-US|archive-date=10 January 2017|archive-url=https://web.archive.org/web/20170110015837/http://www.dispatchlive.co.za/news/2016/03/09/r530-million-of-unspent-ec-budget-meant-for-poor-schools-given-to-other-provinces/|url-status=live}}</ref><ref>{{Cite news|url=http://www.dispatchlive.co.za/news/2016/03/24/ec-to-return-unspent-r1bn-challenge-is-incapacity-to-utilise-funds/|title=EC to return unspent R1bn: challenge is 'incapacity to utilise funds'|last=Phandle|first=Gugu|date=24 March 2016|work=DispatchLIVE|access-date=2 May 2017|language=en-US}}</ref>
+
+[[Equal Education]]'s 2017 report, Planning to Fail, found a "systemic failure in Eastern Cape education".<ref>{{cite news|last1=Damba-Hendrik|first1=Nombulelo|title=Systemic "failure in Eastern Cape education"|url=http://www.groundup.org.za/article/systemic-failure-eastern-cape-education/|access-date=28 April 2017|date=28 April 2017|archive-date=28 April 2017|archive-url=https://web.archive.org/web/20170428032559/http://www.groundup.org.za/article/systemic-failure-eastern-cape-education/|url-status=live}}</ref>
+
+=== Universities ===
+*[[Rhodes University]] ([[Makhanda, Eastern Cape|Makhanda]])
+*[[Nelson Mandela University]] ([[Gqeberha]])
+*[[University of Fort Hare]] (main campus in [[Alice, Eastern Cape|Alice]], satellite campuses in [[Bhisho]] and [[East London, South Africa|East London]])
+*[[Walter Sisulu University]] (campuses in Buffalo City, [[Gcuwa, Eastern Cape|Butterworth]], [[Mthatha]] and [[Queenstown, South Africa|Komani]])
+
+=== Other educational institutions ===
+*[[College of the Transfiguration]], [[Makhanda, Eastern Cape|Makhanda]]
+
+== Health ==
+The province is served by big medical centres such as [[Cecilia Makiwane Hospital]] which is a large, government-funded hospital near the city of [[East London, South Africa|East London]] that also serves as a tertiary teaching hospital. [[Frere Hospital]] is another large, provincial government-funded hospital near East London which also serves as a tertiary teaching hospital. These hospitals offer many specialty departments such as an ARV clinic for HIV/AIDS in adults and children. Both hospitals are affiliated with Lilitha Nursing College and Walter Sisulu University.
+
+While the Eastern Cape has many hospitals and private clinics, the province has some of the worst health outcomes and service indicators in South Africa. Some of this can be attributed to staff shortages, with a report indicating that 67% of the 27 monitored facilities have insufficient staff.<ref>{{Cite web |date=May 2018 |title=State of Provincial Healthcare System Spotlight on Eastern Cape |url=https://www.tac.org.za/wp-content/uploads/2018/06/tac-eastern-cape-state-of-health-report-may-2018.pdf |website=TAC (Treatment Action Campaign)}}</ref>
+
+Rural residents in the Eastern Cape face worse health outcomes than those who reside in the larger towns or cities. This is due to a number of conditions such as lack of healthcare resources, lack of means to access healthcare resources, high unemployment, and poverty. Illiteracy is also a problem in rural communities, which further limits positive health outcomes.<ref>{{Cite web |last1=Mncedisi Willie |first1=Michael |last2=Maqbool |first2=Mudasir |date=March 2023 |title=Access to public health services in South Africa's rural Eastern Cape Province |url=https://www.researchgate.net/publication/369659101 |website=Applied Sciences Research Periodicals}}</ref>
+
+HIV/AIDS and Tuberculosis are also ongoing issues in the region. In 2017, the Eastern Cape had a TB incidence of 839/100,000 people, which was higher than South Africa's estimated prevalence of 737/100,000.<ref>{{Cite journal |date=5 April 2022 |editor-last=Isaakidis |editor-first=Petros |title=Association of HIV infection and antiretroviral therapy with the occurrence of an unfavorable TB treatment outcome in a rural district hospital in Eastern Cape, South Africa: A retrospective cohort study |pmc=8982869 |last1=Van De Water |first1=B. J. |last2=Fulcher |first2=I. |last3=Cilliers |first3=S. |last4=Meyer |first4=N. |last5=Wilson |first5=M. |last6=Young |first6=C. |last7=Gaunt |first7=B. |last8=Le Roux |first8=K. |journal=PLOS ONE |volume=17 |issue=4 |pages=e0266082 |doi=10.1371/journal.pone.0266082 |doi-access=free |pmid=35381042 |bibcode=2022PLoSO..1766082V }}</ref> Additionally, the Eastern Cape has a high overall HIV prevalence rate (25.2%) as of 2017.<ref>{{Cite journal |last1=Water |first1=Brittney J. van de |last2=Fulcher |first2=Isabel |last3=Cilliers |first3=Suretha |last4=Meyer |first4=Nadishani |last5=Wilson |first5=Michael |last6=Young |first6=Catherine |last7=Gaunt |first7=Ben |last8=Roux |first8=Karl le |date=2022-04-05 |title=Association of HIV infection and antiretroviral therapy with the occurrence of an unfavorable TB treatment outcome in a rural district hospital in Eastern Cape, South Africa: A retrospective cohort study |journal=PLOS ONE |language=en |volume=17 |issue=4 |pages=e0266082 |doi=10.1371/journal.pone.0266082 |doi-access=free |pmid=35381042 |pmc=8982869 |bibcode=2022PLoSO..1766082V |issn=1932-6203}}</ref> In 2018, HIV/AIDS was the second leading underlying natural cause of death in the Eastern Cape with a 5.9% prevalence rate.<ref>{{Cite web |date=2018 |title=Mortality and causes of death in South Africa: Findings from death notification |url=https://www.statssa.gov.za/publications/P03093/P030932018.pdf |access-date=2024-01-20 |website=www.statssa.gov.za}}</ref> Since 2017, there has been an increase in the level of noncommunicable diseases (NCDs), which disproportionately affects poorer communities. Furthermore, obesity and undiagnosed hypertension are major concerns in rural areas.<ref>{{Cite journal |last1=Rheeder |first1=Paul |last2=A. Morris-Paxton |first2=Angela |last3=G. Ewing |first3=Rose-Marie |last4=Woods |first4=Dillon |date=2017 |title=The noncommunicable disease outcomes of primary healthcare screening in two rural subdistricts of the Eastern Cape Province, South Africa |journal=African Journal of Primary Health Care & Family Medicine|volume=9 |issue=1 |pages=e1–e7 |doi=10.4102/phcfm.v9i1.1466 |pmid=29113445 |pmc=5675926 }}</ref>
+
+The Eastern Cape is also known for its traditional Xhosa initiation schools, which perform coming-of-age ceremonies known as [[ulwaluko]] which involve circumcision. These ceremonies have been linked to numerous complications such as coma, illness and death.<ref>{{Cite news |date=2019-12-20 |title=South Africa initiation schools suspended after circumcision deaths |url=https://www.bbc.com/news/world-africa-50838014 |access-date=2024-01-20 |language=en-GB}}</ref><ref>{{Cite web |date=2013-07-08 |title=Botched Circumcisions Kill 30 South African Boys |url=https://www.voanews.com/a/thirty-more-south-african-boys-die-after-botched-circumcision-ritual/1697451.html |access-date=2024-01-20 |website=Voice of America |language=en}}</ref>
+
+There have been numerous reports in South African newspapers investigating the poor practices which lead to the death of young men and boys during initiation rituals.<ref>{{Cite web |last=Koyana |first=Xolani |title=Nine boys in hospital after botched circumcisions |url=http://ewn.co.za/2015/06/17/Complications-from-botched-circumcision-hospitalise-9-teens |url-status=live |archive-url=https://web.archive.org/web/20170209172642/http://ewn.co.za/2015/06/17/Complications-from-botched-circumcision-hospitalise-9-teens |archive-date=9 February 2017 |access-date=2 May 2017}}</ref><ref>{{Cite web |last=Dayimani |first=Malibongwe |title=Five Eastern Cape initiates have died since November's start of summer initiation season |url=https://www.news24.com/news24/southafrica/news/five-eastern-cape-initiates-have-died-since-novembers-start-of-summer-initiation-season-20221208 |access-date=2024-01-20 |website=News24 |language=en-US}}</ref><ref>{{Cite web |title=Initiate dies after assault at illegal circumcision school |url=https://www.timeslive.co.za/news/south-africa/2023-11-28-initiate-dies-after-assault-at-illegal-circumcision-school/ |access-date=2024-01-20 |website=TimesLIVE |language=en-ZA}}</ref> In one case, an 18-year-old teenager named Yongama Boya was sent to the hospital to be circumcised, as his parents believed this would be the safer option.<ref>{{Cite news |date=18 June 2008 |title=Eastern Cape initiation claims another victim |url=https://mg.co.za/article/2008-07-18-eastern-cape-initiation-claims-another-victim |url-status=live |archive-url=https://web.archive.org/web/20180313092202/https://mg.co.za/article/2008-07-18-eastern-cape-initiation-claims-another-victim |archive-date=13 March 2018 |access-date=2 May 2017 |work=The M&G Online |language=en}}</ref> Then, he was sent to complete the rest of his initiation ritual in a traditional initiation school in the Qumbu area of the Transkei. There, the nurse refused to accept the validity of his prior circumcision at the hospital, and she circumcised him again, resulting in his death.
+
+== Tourism ==
+[[File:Aloe Ferox between Cofimvaba and Ngcobo.jpg|thumb|upright|''[[Aloe ferox]]'' on the R61 route between Cofimvaba and Ngcobo.]]
+{{unreferenced section|date=July 2022}}
+
+The landscape is extremely diverse. The western interior is largely arid [[Karoo]], while the east is well-watered and green. The Eastern Cape offers a wide array of attractions, including {{convert|800|km}} of untouched and pristine coastline along with beaches, and [[Big Five Game|big-five]] game viewing in a [[malaria]]-free environment.
+
+The [[Addo Elephant National Park]], situated {{convert|73|km}} from [[Port Elizabeth]], was proclaimed in 1931. Its {{convert|743|km2}} offers sanctuary to 170 elephants, 400 [[Cape buffalo]] and 21 [[black rhino]] of the very scarce Kenyan sub-species.
+
+The province is the location of [[Tiffindell]], South Africa's only [[snow skiing]] resort, which is situated near the hamlet of [[Rhodes, Eastern Cape|Rhodes]] in the Southern [[Drakensberg]]. It is on the slopes of [[Ben Macdhui (South Africa)|Ben Macdhui]], the highest mountain peak in the Eastern Cape {{convert|3001|m}}.
+
+The [[National Arts Festival]], held annually in [[Makhanda, Eastern Cape|Grahamstown]], is Africa's largest cultural event,{{citation needed|date=July 2022}} offering a choice of both indigenous and imported talent. Every year for eleven days the town's population almost doubles, as over 50,000 people flock to the region for a feast of arts, crafts, music and entertainment.
+
+[[Jeffreys Bay]] is an area with wild coastline, which is backed by sub-tropical rainforest. The waters here are noted for having good waves for surfing.
+
+[[Aliwal North]], lying on an agricultural plateau on the southern bank of the [[Orange River]], is an inland resort known for its [[hot spring]]s.{{citation needed|date=March 2019}}
+
+The rugged and unspoiled [[Wild Coast Region, Eastern Cape|Wild Coast]] is a place of spectacular scenery. The coastal areas have been a graveyard for many vessels.
+
+[[Whittlesea, Eastern Cape]], situated in the [[Amatola Mountains]], is known for the first wine estate in the province.{{citation needed|date=March 2019}}
+
+King William's Town, Alice, Queenstown, Grahamstown, Cradock and Fort Beaufort offer some of the best colonial architecture of the 19th century in the province. The two major cities lining the coast are East London and Port Elizabeth.
+
+== Sports ==
+* Checkers/Draughts
+**[[Mind Sports South Africa]]
+* eSports
+**[[Mind Sports South Africa]]
+*Football
+**[[Blackburn Rovers F.C. (South Africa)|Blackburn Rovers]] ([[East London, Eastern Cape|East London]]) (dissolved)
+**[[Chippa United F.C.]] ([[Gqeberha]])
+*Cricket
+**[[Sunrisers Eastern Cape]] (Gqeberha)
+**[[Warriors cricket team|Chevrolet Warriors]] (Gqeberha)
+*Rugby
+**[[Eastern Province Elephants]] (Gqeberha)
+**[[Border Bulldogs]] ([[East London, South Africa|East London]])
+
+== Notable people ==
+{{Main|List of people from the Eastern Cape}}
+
+The Eastern Cape has been home to many major anti-apartheid leaders such as [[Robert Sobukwe]], [[Oliver Tambo]], [[Nelson Mandela]], [[Walter Sisulu]], [[Winnie Mandela]], [[Govan Mbeki]], [[Alfred Xuma]], [[Cecilia Makiwane]], [[Noni Jabavu]], [[Thabo Mbeki]], [[Chris Hani]], [[Bantu Holomisa]], [[Steve Biko]], musicians [[Miriam Makeba]], [[Madosini]], [[Nathi]], [[Dali Mpofu]], [[Vusi Nova]] and [[Zahara (South African musician)|Zahara]], as well as historical figures such as [[Tiyo Soga|Rev. Tiyo Soga]], [[Samuel Mqhayi]], [[Mongezi Sifika wa Nkomo]], [[Enoch Sontonga]] and [[Jotello Festiri Soga]].
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{wikivoyage|Eastern Cape}}
+*[https://web.archive.org/web/20090822063534/http://www.info.gov.za/aboutsa/landpeople.htm#ec Eastern Cape National Government information]
+*[http://www.ecprov.gov.za/ Eastern Cape Provincial Government]
+*[http://www.ecsecc.org/ Eastern Cape Socio-Economic Consultative Council]
+*[http://www.ecdc.co.za/ Eastern Cape Development Corporation]
+*[https://web.archive.org/web/20180629064523/http://www.queenstown.org.za/ www.queenstown.org.za]
+
+{{Eastern Cape province}}
+{{Provinces of South Africa}}
+{{Authority control}}
+
+[[Category:Eastern Cape| ]]
+[[Category:Provinces of South Africa]]
+[[Category:States and territories established in 1994]]
+[[Category:1994 establishments in South Africa]]

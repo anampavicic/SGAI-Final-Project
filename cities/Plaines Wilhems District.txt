@@ -1,0 +1,88 @@
+{{Use dmy dates|date=October 2013}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Plaines Wilhems<!-- at least one of the first two fields must be filled in -->
+| official_name                   = 
+| native_name                     = <!-- if different from the English name -->
+| native_name_lang                = "fr"<!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| other_name                      = 
+| settlement_type                 = [[Districts of Mauritius|District]]<!-- such as Town, Village, City, Borough etc. -->
+<!-- images, nickname, motto --->| image_skyline                   = Trou aux Cerfs Volcano Mauritius.JPG
+| image_caption                   = [[Trou aux Cerfs]] volcano
+| image_flag                      = 
+| image_seal                      = 
+| image_shield                    = <!-- maps and coordinates ------>
+| image_map                       = Plaines Wilhems in Mauritius.svg
+| map_caption                     = Map of [[Mauritius]] island with Plaines Wilhems District highlighted
+| pushpin_map                     = <!-- name of a location map as per Template:Location_map -->
+| coordinates                     = {{coord|20|18|S|57|29|E|region:MU|format=dms|display=inline,title}}
+<!-- location ------------------>| subdivision_type                = Country
+| subdivision_name                = {{flag|Mauritius}}<!-- the name of the country -->
+| subdivision_type1               = 
+| subdivision_name1               = 
+| subdivision_type2               = 
+| subdivision_name2               = <!-- etc., subdivision_type6 / subdivision_name6 -->
+<!-- established --------------->| established_title               = Settled <!-- Settled -->
+| established_date                = 
+| leader_party                    = 
+| leader_title                    = 
+| leader_name                     = 
+| leader_name2                    = {{Collapsible list
+| title               = Members' List
+| frame_style         = border:none; padding: 0;
+| title_style         = <!-- (optional) -->
+| list_style          = text-align:left;display:none;
+| 1 = •
+| 2 = •
+}}
+| area_total_km2                  = 203.3<!-- ALL fields with measurements have automatic unit conversion -->
+| area_land_km2                   = 
+| area_water_km2                  = <!-- elevation ----------------->
+| elevation_footnotes             = 
+| elevation_m                     = 
+| elevation_max_m                 = 
+| elevation_min_m                 = <!-- population ---------------->
+| population_footnotes            = <ref name="AnnDigestStats2019">{{cite book |title=Annual Digest of Statistics 2019 |date=November 2020 |publisher=Statistics Mauritius |url=https://statsmauritius.govmu.org/Documents/Statistics/Digests/Annual_Digest/Annual_Digest_Statistics_Yr19.xlsx |chapter=Table 1.6(b) - Estimated resident population<sup>1</sup> by geographical district, sex and density - Republic of Mauritius<sup>2</sup>, 2018 & 2019 |format=XLS}}</ref>
+| population_total                = 366,506
+| population_as_of                = 2019
+| population_rank                 = 1st in Mauritius
+| population_density_km2          = auto<!-- for automatic calculation of any density field, use: auto -->
+<!-- time zone(s) -------------->| timezone1                       = [[Mauritius Time|MUT]]
+| utc_offset1                     = +4
+| timezone1_DST                   = 
+| utc_offset1_DST                 = <!-- postal codes, area code --->
+| postal_code_type                = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code                     = 
+| area_code_type                  = <!-- defaults to: Area code(s) -->
+| area_code                       = 
+| iso_code                        = MU-PW ('''P'''laines '''W'''ilhems)
+<!-- website, footnotes -------->| website                         = <!-- {{URL|example.com}} -->
+}}
+
+'''Plaines Wilhems'''  ({{IPA-mfe|plɛn wilɛmz}})  is a [[Districts of Mauritius|district]] of [[Mauritius]]. It is the most populous district, with an estimated population of 366,506 at the end of 2018.<ref name="AnnDigestStats2019" /> The district is mainly urban; it consists of four towns, the village of Midlands and part of two other villages. The Plaines Wilhems district does not have a District Council; it has four Municipal Town Councils. The towns are [[Beau-Bassin Rose-Hill]], [[Curepipe]], [[Quatre Bornes]] and [[Vacoas-Phoenix]]. The villages are [[Midlands, Mauritius|Midlands]], [[Cascavelle]] (East - West in [[Rivière Noire district]]) and [[Moka]] (West- East in [[Moka district]]).<ref name="LGact">{{cite book |url=https://mauritiusassembly.govmu.org/Documents/Acts/2011/act3611.pdf |publisher=Mauritius National Assembly |title=Local Government Act 2011 |chapter=Second and Fourth Schedules |access-date=28 November 2012}}</ref><ref name="housing census">{{cite book |url=https://statsmauritius.govmu.org/Documents/Census_and_Surveys/HPC/2011/HPC_TR_Vol1_Housing_Living_Yr11.pdf |publisher=Statistics Mauritius |title=Housing and population Census 2011 |volume=I: Housing and Living Conditions |date=November 2011 |access-date=28 November 2012}}</ref> The district was named after Wilhem Leicknig.  Of [[German settlement in Australia|Prussian origin]], he settled on the island of Mauritius, then known as [[Isle de France (Mauritius)|Isle de France]], in 1721.<ref name="his">{{cite web |title=History of Quatre Bornes |url=https://www.qb.mu/index.php?option=com_content&view=article&id=201&Itemid=216&lang=en |website=Municipal Council of Quatre Bornes |access-date=13 July 2021}}</ref><ref name="AnnRep2018_19">{{cite book |title=Annual Report for Financial Year 2018/2019 |date=12 May 2020 |publisher=The Municipal Council of Quatre Bornes |pages=5–6 |url=https://www.qb.mu/files/2020/ANNUAL_REPORT_2018-2019.pdf |access-date=13 July 2021 |chapter=3.1 Historical development of the town}}</ref>
+
+==Education==
+{{expand section|date=May 2015}}
+Secondary schools in the district include:
+* [[Lycée La Bourdonnais]] - [[Curepipe]]<ref>[http://www.lyceelabourdonnais.org/ Home page]. [[Lycée La Bourdonnais]]. Retrieved on May 4, 2015. "Rue Rochecouste - Forest Side - Curepipe - MAURICE"</ref>
+* Dr. Regis Chaperon S.S.S
+* [[Lycée des Mascareignes]] - [[Moka]]
+* [[Royal College Curepipe]] - [[Curepipe]]
+* [[Queen Elizabeth College]] - [[Beau-Bassin Rose-Hill]]
+* [[Collège du Saint-Esprit]] - [[Quatre-Bornes]]
+
+==See also==
+{{Commons category|Plaines Wilhems District}}
+*[[List of places in Mauritius]]
+
+==References==
+<!--This article uses the Cite.php citation mechanism. If you would like more information on how to add references to this article, please see http://meta.wikimedia.org/wiki/Cite/Cite.php -->
+{{reflist}}
+
+{{MU Districts}}
+{{Mauritius topics}}
+
+{{Authority control}}
+
+[[Category:Plaines Wilhems District| ]]
+[[Category:Flacq District| ]]
+[[Category:Districts of Mauritius]]

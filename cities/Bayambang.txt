@@ -1,0 +1,504 @@
+{{Short description|Municipality in Pangasinan, Philippines}}
+{{Distinguish|Bayombong|Bambang}}
+{{Use Philippine English|date=February 2023}}
+{{Use mdy dates|date=February 2023}}
+{{Infobox settlement
+| name               = {{PH wikidata|name}}
+| image_skyline      = {{Photomontage |spacing=2 |position=center
+| photo1a = View of downtown Bayambang, Pangasinan.jpg
+| photo2a  = 2006Bayambang, Pangasinan Poblacion Proper 53.jpg
+| photo2b  = 8443Bani, Bayambang, Pangasinan 39.jpg
+| photo3a  = 8243Bayambang, Pangasinan Poblacion Town Proper 01.jpg
+| photo3b  = BayambangPangasinanChurchjf566.JPG
+| size     = 250
+| color    = transparent
+| border   = 0
+}}
+| image_caption      = Clockwise from top: Downtown area along Rizal Avenue, St. Vincent Ferrer Statue at Brgy. Bani, St. Vincent Ferrer Parish Church, CSI Supermarket Bayambang, and Statue of Emilio Aguinaldo in front of the Municipal Hall.
+| image_flag         = Flag of Bayambang, Pangasinan (New).png
+| flag_size          = 120x80px
+| image_seal         = Bayambang-High Res 2020.png
+| seal_size          = 100x80px
+| image_map          = {{PH wikidata|image_map}}
+| map_caption        = {{PH wikidata|map_caption}}
+| image_map1         = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map        = Philippines
+| pushpin_label_position = left
+| pushpin_map_caption = Location within the {{PH wikidata|country}}
+| coordinates        = {{PH wikidata|coordinates}}
+| settlement_type    = {{PH wikidata|settlement_type}}
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = [[Philippines]]
+| subdivision_type1  = [[Regions of the Philippines|Region]]
+| subdivision_name1  = {{PH wikidata|region}}
+| subdivision_type2  = [[Provinces of the Philippines|Province]]
+| subdivision_name2  = {{PH wikidata|province}}
+| official_name      = {{PH wikidata|official_name}}
+| native_name        = 
+| other_name         = 
+| nickname           = 
+| motto              = “Where the Best Things Happen”
+| anthem             = “Tawir ko, Aroen ko”
+| subdivision_type3  = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3  = {{PH legislative district}}
+| established_title  = [[Date of establishment|Founded]]
+| established_date   = April 5, 1614<ref>[http://bayambang.gov.ph/about/ About Bayambang]</ref>
+| parts_type         = [[Barangay]]s
+| parts_style        = para
+| p1                 = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| leader_title       = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name        = [[Niña Jose-Quiambao|Mary Clare Judith Phyllis J. Quiambao]]
+| leader_title1      = [[Vice Mayor]]
+| leader_name1       = Ian Camille C. Sabangan
+| leader_title2      = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2       = [[Maria Rachel Arenas|Maria Rachel J. Arenas]]
+| leader_title3      = [[Sangguniang Bayan|Municipal Council]]
+| leader_name3       = {{PH Town Council
+| 1 = 
+ | 2=Mylvin T. Junio
+ | 3=Philip R. Dumalanta
+ | 4=Benjamin Francisco S. de Vera
+ | 5=Jose S. Ramos
+ | 6=Amory M. Junio
+ | 7=Gerardo D. Flores
+ | 8=Martin E. Terrado II
+ | 9=Levinson Nessus M. Uy
+}}
+| leader_title4      = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4       = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type    = {{PH wikidata|government_type}}
+| government_footnotes = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m        = {{PH wikidata|elevation_m}}
+| elevation_max_m    = 48
+| elevation_min_m    = 11
+| elevation_max_rank = 
+| elevation_min_rank = 
+| elevation_footnotes = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes = 
+| elevation_min_footnotes = 
+| area_rank          = 
+| area_footnotes     = {{PH area}}
+| area_total_km2     = {{PH wikidata|area}}
+| population_footnotes = {{PH census|current}}
+| population_total   = {{PH wikidata|population_total}}
+| population_as_of   = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title = [[Household]]s
+| population_blank1  = {{PH wikidata|household}}
+| population_blank2_title = 
+| population_blank2  = 
+| population_demonym = 
+| population_rank    = 
+| population_note    = 
+| timezone           = [[Philippine Standard Time|PST]]
+| utc_offset         = +8
+| postal_code_type   = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code        = {{PH wikidata|postal_code}}
+| postal2_code_type  = {{PSGCstyle}}
+| postal2_code       = {{PSGC detail}}
+| area_code_type     = {{areacodestyle}}
+| area_code          = {{PH wikidata|area_code}}
+| website            = {{PH wikidata|website}}
+| demographics_type1 = [[Economy of the Philippines|Economy]]
+| demographics1_title1 = {{PH wikidata|income_class_title}}
+| demographics1_info1 = {{PH wikidata|income_class}}
+| demographics1_title2 = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2 = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3 = [[Revenue]]
+| demographics1_info3 = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4 = Revenue rank
+| demographics1_info4 = 
+| demographics1_title5 = [[Asset]]s
+| demographics1_info5 = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6 = Assets rank
+| demographics1_info6 = 
+| demographics1_title7 = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7 = 
+| demographics1_title8 = IRA rank
+| demographics1_info8 = 
+| demographics1_title9 = [[Expenditure]]
+| demographics1_info9 = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10 = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10 = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2 = Service provider
+| demographics2_title1 = Electricity
+| demographics2_info1 = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2 = Water
+| demographics2_info2 = 
+| demographics2_title3 = Telecommunications
+| demographics2_info3 = 
+| demographics2_title4 = Cable TV
+| demographics2_info4 = 
+| demographics2_title5 = 
+| demographics2_info5 = 
+| demographics2_title6 = 
+| demographics2_info6 = 
+| demographics2_title7 = 
+| demographics2_info7 = 
+| demographics2_title8 = 
+| demographics2_info8 = 
+| demographics2_title9 = 
+| demographics2_info9 = 
+| demographics2_title10 = 
+| demographics2_info10 = 
+| blank_name_sec1    = {{PH wikidata|climate_title}}
+| blank_info_sec1    = {{PH wikidata|climate_type}}
+| blank1_name_sec1   = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1   = {{PH wikidata|language}}
+| blank2_name_sec1   = [[Crime index]]
+| blank2_info_sec1   = 
+| blank3_name_sec1   = 
+| blank3_info_sec1   = 
+| blank4_name_sec1   = 
+| blank4_info_sec1   = 
+| blank5_name_sec1   = 
+| blank5_info_sec1   = 
+| blank6_name_sec1   = 
+| blank6_info_sec1   = 
+| blank7_name_sec1   = 
+| blank7_info_sec1   = 
+| blank1_name_sec2   = Major religions
+| blank1_info_sec2   = 
+| blank2_name_sec2   = Feast date
+| blank2_info_sec2   = 
+| blank3_name_sec2   = Catholic diocese
+| blank3_info_sec2   = 
+| blank4_name_sec2   = Patron saint
+| blank4_info_sec2   = 
+| blank5_name_sec2   = 
+| blank5_info_sec2   = 
+| blank6_name_sec2   = 
+| blank6_info_sec2   = 
+| blank7_name_sec2   = 
+| blank7_info_sec2   = 
+| short_description  = 
+| footnotes          = 
+}}
+
+'''Bayambang''', officially the '''Municipality of Bayambang''' ({{langx|pag|Baley na Bayambang}}; {{langx|ilo|Ili ti Bayambang}}; {{langx|tl|Bayan ng Bayambang}}), is a 1st class [[municipality of the Philippines|municipality]] in the [[Philippine Province|province]] of [[Pangasinan]], [[Philippines]].  According to the 2020 census it has a population of 129,011.{{PH census|current}}
+
+It previously included the municipalities of [[Bautista, Pangasinan|Bautista]], [[Alcala, Pangasinan|Alcala]], [[Santo Tomas, Pangasinan|Santo Tomas]], [[Rosales, Pangasinan|Rosales]], [[Paniqui]], [[Gerona, Tarlac|Gerona]] and [[Camiling]].<ref>{{cite web|url=http://www.pangasinan.gov.ph/the-province/cities-and-municipalities/bayambang/ |title=Bayambang |access-date=December 18, 2012 |url-status=live |archive-url=https://web.archive.org/web/20160811092607/http://pangasinan.gov.ph/the-province/cities-and-municipalities/bayambang/ |archive-date=August 11, 2016 }}</ref> It was founded in the 16th century by Agalet, an [[Aeta people|Aeta]].
+
+Bayambang is the former seat of the 5th Capital of the Revolutionary Philippine Republic. It celebrates its Malangsi Fishtival (1st week of April, "Kalutan tan Gayaga ed Dalan"). Bayambang is the seat of the [[Pangasinan State University]] and the Colleges of Nursing and Education.
+
+== Etymology ==
+The name of this town according to the legend, came from the name of a plant called "balangbang" (''[[Bauhinia acuminata]]'') which grew in abundance during the early days. "Culibangbang" leaves were used for bulalong Iloko or sinigang. The verdant hills of Bayambang were almost covered by these plants. The people made pickles out of them. As the years passed by these plants became extinct in the vicinity but the name "Bayambang", which sounds like an echo of the plant's name, was retained as the town designation.
+
+Others believed that the name of the town came from the once numerous "Culibangbang" trees which were misunderstood as "Bayambang" by Spanish colonizers.<ref name="bayambang.gov.ph">{{cite web |url=http://www.bayambang.gov.ph/about/ |title=About Bayambang &#124; Municipality of Bayambang |website=www.bayambang.gov.ph |access-date=June 6, 2022 |archive-url=https://web.archive.org/web/20130209160328/http://www.bayambang.gov.ph/about/ |archive-date=February 9, 2013 |url-status=dead}}</ref>
+
+Telbang (''[[Erythrina variegata]]''), also known as Bagbag in Ilokano and Dapdap in other dialects, was the original Bayambang. Bayambang is not a tree but actually a plant named [[Celosia]].<ref>{{cite web|url=http://sferrer.blogspot.com/2012_03_01_archive.html |title=Holy Family Parish |access-date=December 18, 2012 |url-status=live |archive-url=https://web.archive.org/web/20160304203840/http://sferrer.blogspot.com/2012_03_01_archive.html |archive-date=March 4, 2016 }}</ref>
+
+== History ==
+Benaldo Gutierrez and Honorato Carungay claim Bayambang was founded in the early 16th century by an [[Aeta]] named Agalet. Bayambang was inside Inirangan and Hermosa but was re-located to Telbang and southern Poblacion in Old Bayambang.
+
+In 1897, the first "Juez de Cuchillo" executed residents and burned houses. In November 1899 [[Emilio Aguinaldo]] designated Bayambang as the Pangasinan capital during the Japanese Regime and the seat of the short-lived Philippine Republic.  It was captured by Gen. [[Arthur MacArthur Jr.|Arthur MacArthur]] of Tarlac on October 12, 1899. [[Jose P. Rizal]] visited [[Camiling]], [[Tarlac]]'s Leonor Rivera, since it was formerly a part of Bayambang. [[Antonio Luna]] built a camp in Bayambang. Dr. Diaz became Governor under the Japanese Imperial Government and held Office in Bayambang at the Eulogio Dauz residence (junction of Quezon Blvd. And M.H. Del Pilar streets).{{clarify inline|reason=What Japanese Regime? Who was Dr. Diaz? needs clarification and support.|date=September 2024}}
+
+Bayambang was the seat of the [[UNESCO]] National Community Training Center. [[Gobernadorcillo]] Vicente Cayabyab was the first Chief Executive of the town during the Spanish Regime followed by [[Cabeza de Barangay]] Mauricio de Guzman. He was succeeded by Honorato Carungay Lorenzo Rodriguez, Julian Mananzan and later Saturnino Evaristo Dimalanta as president.
+
+Lauriano Roldan became the first Civil Government President. He was succeeded by Alvino Garcia, Mateo Mananzan, Gavino de Guzman, Marciano Fajardo, Agustin Carungay, Emeterio Camacho and Enrique M. Roldan.
+
+The Mayors were Gerundio Umengan, Leopoldo Aquino Sr., Ambrosio Gloria (appointed by the PCAU of the Army), Bernardo Lagoy, Leopoldo Aquino Sr. (reelected), Eligio C. Sagun (1952–1955), Don Numeriano Castro (appointed), Salvador F. Quinto (1956–1959), Miguel C. Matabang (1960–1963), Jaime P. Junio (1964–1986), Feliciano Casingal Jr. (OIC), Don Daniel Bato (OIC), Domingo Tagulao, Calixto B. Camacho, Leocadio C. De Vera Jr and Engr. Ricardo M. Camacho.
+
+Dr. Cezar T. Quiambao is the incumbent Municipal Mayor.<ref name="bayambang.gov.ph" />
+
+On April 5, 2014, in celebration of its 400th anniversary, Bayambang was declared winner of the [[Guinness World Records|Guinness World Record]] for the longest barbecue grill wherein an {{convert|8.106|km|mi|adj=mid|-long|sp=us}} interconnected grill pads simultaneously grilled {{convert|24,000|kg|sp=us}} of [[tilapia]], beating [[Turkey]]'s {{convert|6.166|km|sp=us}}.<ref>{{cite news|url=https://www.spot.ph/newsfeatures/56134/bayambang-pangasinan-now-holds-guinness-record|title=Bayambang, Pangasinan now holds Guinness Record for "World's Longest Barbecue Grill"|website=Spot.ph|date=April 8, 2014|accessdate=October 4, 2023}}</ref>
+
+=== Cojuangco claim ===
+The [[Cojuangco]]'s Central Azucarera de Tarlac Realty Corporation (CAT) claims ownership of 386.8-hectare estate in 12 barangays in Bayambang, including the site of the {{convert|289|ha|adj=on}} Camp Gregg Military Reservation (declared on October 13, 1903, by the US colonial government, turned over to the Philippines on March 27, 1949, and particularly to the Bureau of Lands on September 29, 1949). The Alyansa ng mga Magbubukid sa Gitnang Luson (AMGL, Peasant Alliance in Central Luzon) opposed the Cojuancos.<ref>{{cite web |url=http://amgl-kmp.weebly.com/2/post/2011/03/cojuangcos-grabbing-historical-lands-in-bayambang-pangasinan.html |title=Cojuangcos grabbing historical lands in Bayambang, Pangasinan |access-date=December 18, 2012 |url-status=live |archive-url=https://web.archive.org/web/20130907063543/http://amgl-kmp.weebly.com/2/post/2011/03/cojuangcos-grabbing-historical-lands-in-bayambang-pangasinan.html |archive-date=September 7, 2013 }}</ref>
+
+== Geography ==
+
+Bayambang is bounded on the north by [[Malasiqui, Pangasinan|Malasiqui]], [[Camiling, Tarlac|Camiling]] on the south, [[Bautista, Pangasinan|Bautista]] on the east and [[Urbiztondo, Pangasinan|Urbiztondo]] on the west. Bayambang is the southernmost town in the province of Pangasinan. It is the gateway to [[Tarlac]] Province.
+
+The town's [[terrain]] varies from rolling hills to plains. The climate is marked by a wet season from June to October and a dry season from November to May.
+
+Bayambang is {{convert|40|km|sp=us}} from [[Lingayen]] and {{convert|179|km|sp=us}} from [[Manila]].
+
+The town's land area is {{convert|16800|ha}} that consists of the following:
+*Total Agricultural Area: {{convert|12,225|ha}}
+*Total Residential Area: {{convert|278|ha}}
+*Total Commercial Area: {{convert|9.5|ha}}
+*Total Institutional Area: {{convert|68|ha}}
+*Forest reserve & Wild Parks: {{convert|2059|ha}}
+*Total Industrial Area: {{convert|15.8|ha}}
+*Open Space: {{convert|2134.7|ha}}
+
+=== Barangays ===
+{{stack|float=right|[[File:Political Boundary of Bayambang.jpg|thumb|280px|Political divisions of Bayambang]]}}
+Bayambang is politically subdivided into 77 [[barangay]]s,<ref name=nscb>{{cite web|title=Province: PANGASINAN |url=http://www.nscb.gov.ph/activestats/psgc/province.asp?regName=REGION+I+%28Ilocos+Region%29&regCode=01&provCode=015500000&provName=PANGASINAN |work=PSGC Interactive |publisher=National Statistical Coordination Board |access-date=November 26, 2012 |location=Makati City, Philippines |url-status=dead |archive-url=https://web.archive.org/web/20121114165526/http://www.nscb.gov.ph/activestats/psgc/province.asp?regName=REGION+I+%28Ilocos+Region%29&regCode=01&provCode=015500000&provName=PANGASINAN |archive-date=November 14, 2012 }}</ref> 11 of which are urban barangays and 66 are rural barangays. Each barangay consists of [[purok]]s and some have [[sitios]].
+
+{{Div col|colwidth=15em}}
+* Alinggan
+* Amanperez
+* Amancosiling Norte
+* Amancosiling Sur
+* Ambayat I
+* Ambayat II
+* Apalen
+* Asin
+* Ataynan
+* Bacnono
+* Balaybuaya
+* Banaban
+* Bani
+* Batangcaoa
+* Beleng
+* Bical Norte
+* Bical Sur
+* Bongato East
+* Bongato West
+* Buayaen
+* Buenlag 1st
+* Buenlag 2nd
+* Cadre Site
+* Carungay
+* Caturay
+* Darawey (Tangal)
+* Duera
+* Dusoc
+* Hermoza
+* Idong
+* Inanlorenza
+* Inirangan
+* Iton
+* Langiran
+* Ligue
+* M. H. del Pilar
+* Macayocayo
+* Magsaysay
+* Maigpa
+* Malimpec
+* Malioer
+* Managos
+* Manambong Norte
+* Manambong Parte
+* Manambong Sur
+* Mangayao
+* Nalsian Norte
+* Nalsian Sur
+* Pangdel
+* Pantol
+* Paragos
+* Poblacion Sur
+* Pugo
+* Reynado
+* San Gabriel 1st
+* San Gabriel 2nd
+* San Vicente
+* Sancagulis
+* Sanlibo
+* Sapang
+* Tamaro
+* Tambac
+* Tampog
+* Tanolong
+* Tatarac
+* Telbang
+* Tococ East
+* Tococ West
+* Warding
+* Wawa
+* Zone I ([[Poblacion]])
+* Zone II (Poblacion)
+* Zone III (Poblacion)
+* Zone IV (Poblacion)
+* Zone V (Poblacion)
+* Zone VI (Poblacion)
+* Zone VII (Poblacion)
+{{div col end}}
+
+=== Climate ===
+{{Weather box
+|location = Bayambang, Pangasinan
+|width=auto
+|metric first = Yes
+|single line = Yes
+| Jan high C = 31
+| Feb high C = 31
+| Mar high C = 31
+| Apr high C = 33
+| May high C = 32
+| Jun high C = 32
+| Jul high C = 30
+| Aug high C = 30
+| Sep high C = 30
+| Oct high C = 31
+| Nov high C = 31
+| Dec high C = 31
+| Jan low C = 21
+| Feb low C = 21
+| Mar low C = 22
+| Apr low C = 24
+| May low C = 24
+| Jun low C = 24
+| Jul low C = 23
+| Aug low C = 23
+| Sep low C = 23
+| Oct low C = 23
+| Nov low C = 23
+| Dec low C = 22
+| Jan precipitation mm = 5.1
+| Feb precipitation mm = 11.6
+| Mar precipitation mm = 21.1
+| Apr precipitation mm = 27.7
+| May precipitation mm = 232.9
+| Jun precipitation mm = 350.8
+| Jul precipitation mm = 679.8
+| Aug precipitation mm = 733.1
+| Sep precipitation mm = 505
+| Oct precipitation mm = 176.6
+| Nov precipitation mm = 67.2
+| Dec precipitation mm = 17.7
+| Jan rain days = 3
+| Feb rain days = 3
+| Mar rain days = 3
+| Apr rain days = 4
+| May rain days = 14
+| Jun rain days = 18
+| Jul rain days = 23
+| Aug rain days = 25
+| Sep rain days = 22
+| Oct rain days = 15
+| Nov rain days = 8
+| Dec rain days = 4
+|source 1 = World Weather Online <small>(modelled/calculated data, not measured locally)</small><ref name="met_norms">{{cite web
+| url = http://www.worldweatheronline.com/Bayambang-weather-averages/Pangasinan/PH.aspx
+| title = Bayambang, Pangasinan: Average Temperatures and Rainfall
+| publisher = World Weather Online
+| access-date = September 26, 2015}}</ref>
+| date=September 2015}}
+{{clear-left}}
+
+== Demographics ==
+{{Philippine Census
+| align = none
+| title = Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2020}}{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}}
+}}
+
+*Literacy rate: 92%
+*Annual growth rate: 2.6%
+*Per-capita income: [[Philippine peso|PhP]]26,182.00
+*Primary livelihood: farming, fishing
+
+{{clear-left}}
+
+== Economy ==
+{{PH poverty incidence}}
+
+== Government ==
+=== Local government ===
+{{Main|Sangguniang Bayan}}
+In accordance with the Local Government Code, Bayambang belongs to the [[Legislative districts of Pangasinan|third congressional district]] in the province of [[Pangasinan]]. It is governed by a mayor designated as its local chief executive and by a municipal council as its legislative body.  The mayor, vice mayor and councilors are elected directly by the people via an election held every three years.
+
+=== Elected officials ===
+<!--NOTE: Update needed by June 30, 2022 after oath-taking of the declared winners in the May 9, 2022 local elections.-->
+{| class="wikitable" style="line-height:1.20em; font-size:100%;"
+|+ Members of the Municipal Council<br />(2022–2025)
+|-
+! Position
+! Name
+|-
+| Mayor
+| style="text-align:center;" | [[Niña Jose-Quiambao|Mary Clare Judith Phyllis J. Quiambao]]
+|-
+|Vice-Mayor
+| style="text-align:center;" | Ian Camille C. Sabangan
+|-
+|rowspan=8| '''Councilors'''
+| style="text-align:center;" | Mylvin T. Junio
+|-
+| style="text-align:center;" | Philip R. Dumalanta
+|-
+| style="text-align:center;" | Benjamin Francisco S. de Vera
+|-
+| style="text-align:center;" | Jose S. Ramos
+|-
+| style="text-align:center;" | Amory M. Junio
+|-
+| style="text-align:center;" | Gerardo D. Flores
+|-
+| style="text-align:center;" | Martin E. Terrado II
+|-
+| style="text-align:center;" | Levinson Nessus M. Uy
+|-
+|}
+
+==Healthcare==
+The Julius K. Quiambao Medical and Wellness Center under  [[The Medical City]] is a 100-bed regional hospital which is departmentalized to provide [[Tertiary referral hospital|Tertiary Level II]] health care with 250 [[Clinical decision support system|medical experts]]. The six-story JKQ Medical building rises along Bayambang-[[San Carlos, Pangasinan|San Carlos Road]] in [[Barangay]] Asin. It features eye care, women's healthcare, mental wellness with CT scan, 3D ultrasound, [[magnetic resonance imaging]] and [[cone beam computed tomography]].<ref>{{cite news |last1= Austria|first1= Hilda |title=First Lady inaugurates 100-bed hospital in Pangasinan town|url=https://beta.pna.gov.ph/articles/1235871 |accessdate= October 19, 2024 |work = [[Philippine News Agency]]|date=October 18, 2024}}</ref>
+== Culture ==
+
+Binasuan is a colorful and lively dance from Bayambang which illustrates the balancing skills of the dancers.  The dancers gracefully maneuver glasses half-filled with rice wine which whirl and roll on the floor.
+
+Fish "Buro" is originally made in barangay Bongato. This fermented rice delicacy is made of [[steamed rice]], salt and freshwater fish (either carp, catfish, eel, gurami or "dalag"). Rice Crackers are made in barangay Sangcagulis and has become a popular merienda among the locals.
+
+== Tourism ==
+[[File:BayambangPangasinanChurchjf566.JPG|thumb|right|1614 Parish Church of St. Vincent Ferrer facade]]
+
+On November 27, 2012, a half-million people witnessed the malangsi-fish festival including the "kalutan ed dalan" street grilling party. Pista’y Baley's theme is "Unified Bayambang, Progressive Bayambaguenos." Tourist attractions of Bayambang include:
+
+*The Farmers parade displayed and corn husk products.<ref>{{cite web |url=http://www.bayambang.gov.ph/2012/11/27/malangsi-fishtival-draws-huge-crowd/ |title=Malangsi Fishtival Draws Huge crowd &#124; Municipality of Bayambang |website=www.bayambang.gov.ph |access-date=June 6, 2022 |archive-url=https://web.archive.org/web/20130208071640/http://www.bayambang.gov.ph/2012/11/27/malangsi-fishtival-draws-huge-crowd/ |archive-date=February 8, 2013 |url-status=dead}}</ref>
+*Bayambang District Hospital
+*Drum Corp Philippines<ref>http://dctc.webs.com/whoweare.htm{{dead link|date=October 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> (27th Lancers)
+*Northern Plains Mansions
+*CSI and Royal Malls
+*Agno River Flood Control Project, Bacnono
+*Rock Island Resort
+*Mangabul lake
+*[[St. Vincent Ferrer Parish Church (Bayambang)|St. Vincent Ferrer Parish Church]]
+*[[St. Vincent Ferrer Statue]]<ref>{{Cite news |last=Abunda |first=Boy |author-link=Boy Abunda |date=April 16, 2019 |title=Bayambang makes it to Guinness Records |url=https://www.philstar.com/entertainment/2019/04/16/1910297/bayambang-makes-it-guinness-records |url-status=live |archive-url=https://web.archive.org/web/20240902073507/https://www.philstar.com/entertainment/2019/04/16/1910297/bayambang-makes-it-guinness-records |archive-date=September 2, 2024 |access-date=September 2, 2024 |work=[[The Philippine Star]]}}</ref>
+
+== Gallery ==
+
+<gallery widths="200" heights="150">
+File:BayambangPangasinanjf545.JPG|Town hall facade
+File:BayambangPangasinanjf562.JPG|Children's Park
+File:BayambangPangasinanjf538.JPG|Royal Mall
+File:BayambangPangasinanjf600.JPG|The Plaza
+File:BayambangPangasinanjf601.JPG|Public market
+File:Langiran, Bayambang, Pangasinan.jpg|A street on Barangay Langiran
+</gallery>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Commons category|Bayambang}}
+* {{official website|http://www.bayambang.gov.ph/}}
+* [https://web.archive.org/web/20170702092351/http://www.competitive.org.ph/cmcindex/pages/profile/?lgu=Bayambang Municipal Profile at the National Competitiveness Council of the Philippines]
+* [http://www.pangasinan.gov.ph/the-province/cities-and-municipalities/bayambang/ Bayambang at the Pangasinan Government Website] {{Webarchive|url=https://web.archive.org/web/20160811092607/http://pangasinan.gov.ph/the-province/cities-and-municipalities/bayambang/ |date=August 11, 2016 }}
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20081120024509/http://www.census.gov.ph/data/census2007/index.html Philippine Census Information]
+
+{{Geographic location
+| Centre    = Bayambang
+| North     = [[Basista, Pangasinan|Basista]] / [[Malasiqui, Pangasinan|Malasiqui]]
+| Northeast = [[Alcala, Pangasinan|Alcala]]
+| East      = [[Bautista, Pangasinan|Bautista]]
+| South     = [[Camiling, Tarlac]]
+| Southwest = [[San Clemente, Tarlac]]
+| West      = [[Urbiztondo, Pangasinan|Urbiztondo]]
+}}
+{{Pangasinan}}
+{{Authority control}}
+
+[[Category:Municipalities of Pangasinan]]
+[[Category:Populated places on the Agno River]]

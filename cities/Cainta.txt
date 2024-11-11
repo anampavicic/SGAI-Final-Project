@@ -1,0 +1,668 @@
+{{Short description|Municipality in Rizal, Philippines}}
+{{More citations needed|date=October 2013}}
+{{Use Philippine English|date=January 2023}}
+{{Use mdy dates|date=January 2023}}
+{{Infobox settlement
+| name                   = {{PH wikidata|name}}
+| image_skyline          = {{Photomontage
+| photo1a      = Cainta, Rizal jf4100 09.jpg
+| photo1b      = San Roque, Marikina Marcos Highway Gil Fernando Avenue (Rizal, Metro Manila; 2023-08-07) E911a 07.jpg
+| photo2a      = 9809Cainta, Rizal Town Proper Landmarks 13.jpg 
+| photo2b      = Cainta Church, Rizal (1).jpg
+| photo3a      = 9248Cainta, Rizal Roads Landmarks Town Proper 02.jpg
+| photo3b      = 6075Rizal Cainta Roads Buildings Landmarks 22.jpg
+| size         = 250
+| position     = center
+| spacing      = 1
+| color        = transparent
+| border       = 0
+| foot_montage = (''From top, left to right'') Cainta Municipal Hall • Welcome Arch • Cainta Plaza • [[Our Lady of Light Parish Church]] • One Cainta College • Cainta Heritage Monument
+}}
+| image_flag             = Flag_of_Cainta,_Rizal.png
+| flag_size              = 120x80px
+| image_seal             = Ph seal Cainta.png
+| seal_size              = 100x80px
+| image_map              = {{PH wikidata|image_map}}
+| map_caption            = {{PH wikidata|map_caption}}
+| image_map1             = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map            = Philippines
+| pushpin_label_position = left
+| pushpin_map_caption    = Location within the {{PH wikidata|country}}
+| coordinates            = {{PH wikidata|coordinates}}
+| settlement_type        = {{PH wikidata|settlement_type}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = [[Philippines]]
+| subdivision_type1      = [[Regions of the Philippines|Region]]
+| subdivision_name1      = {{PH wikidata|region}}
+| subdivision_type2      = [[Provinces of the Philippines|Province]]
+| subdivision_name2      = {{PH wikidata|province}}
+| official_name          = {{PH wikidata|official_name}}
+| etymology              = <!--origin of name-->
+| named_for              = <!--named after (if person or place)-->
+| nicknames               = Bibingka Capital of the Philippines<br />Your Gateway to the East<br />Information Technology Capital of the Province of Rizal<br />Philippines' Richest Municipality<br />Gem of Rizal
+| motto                  = ''Isang Cainta'' (One Cainta)
+| anthem                 = ''Isang Cainta'' {{small|(One Cainta)}}<br />{{parabr}}{{center|[[File:Isang Cainta (One Cainta) Hymn.ogg]]}}
+| subdivision_type3      = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3      = {{PH legislative district}}
+| established_title      = [[Date of establishment|Founded]]
+| established_date       = November 30, 1571
+| established_title2     = Annexation to [[Taytay, Rizal|Taytay]]
+| established_date2      = October 12, 1903
+| established_title3     = Reestablished
+| established_date3      = January 1, 1914
+| parts_type             = [[Barangay]]s
+| parts_style            = para
+| p1                     = {{PH barangay count | {{wikidata|label|raw}} }} (see [[#Barangays|Barangays]])
+| leader_title           = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name            = Maria Elenita D. Nieto
+| leader_title1          = [[Vice Mayor]]
+| leader_name1           = Ace B. Servillon
+| leader_title2          = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name2           = [[Jack Duavit|Michael John R. Duavit]]
+| leader_title3          = [[Sangguniang Bayan|Municipal Council]]
+| leader_name3           = {{PH Town Council
+ | 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2 = Lincoln M. Felix
+ | 3 = Ezekiel L. Tajuna
+ | 4 = Sitti Ruaina K. Ferriols
+ | 5 = Manuel S. Jacob Jr.
+ | 6 = Edwin F. Cruz
+ | 7 = Leopoldo P. Garcia Jr.
+ | 8 = Snooky D. Malicdem
+ | 9 = Felipe A. Sauro
+}}
+| leader_title4          = [[Elections in the Philippines#Qualification|Electorate]] 
+| leader_name4           = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type        = {{PH wikidata|government_type}}
+| government_footnotes   = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m            = {{PH wikidata|elevation_m}}
+| elevation_max_m        = 134
+| elevation_min_m        = 1
+| elevation_max_rank     =
+| elevation_min_rank     =
+| elevation_footnotes    = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes= 
+| elevation_min_footnotes=
+| area_rank              = 
+| area_footnotes         = {{PH area}}
+| area_total_km2         = {{PH wikidata|area}}
+| population_footnotes   = {{PH census|current}}
+| population_total       = {{PH wikidata|population_total}}
+| population_as_of       = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title= [[Household]]s
+| population_blank1      = {{PH wikidata|household}} 
+| population_blank2_title= 
+| population_blank2      = 
+| population_rank        =
+| population_note        =
+| timezone               = [[Philippine Standard Time|PST]]
+| utc_offset             = +8
+| postal_code_type       = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code            = {{PH wikidata|postal_code}}
+| postal2_code_type      = {{PSGCstyle}}
+| postal2_code           = {{PSGC detail}}
+| area_code_type         = {{areacodestyle}}
+| area_code              = {{PH wikidata|area_code}}
+| website                = {{PH wikidata|website}}
+| population_demonym     = Cainteño/a
+| demographics_type1     = [[Economy of the Philippines|Economy]]
+| demographics1_title1   = {{PH wikidata|income_class_title}}
+| demographics1_info1    = {{PH wikidata|income_class}}
+| demographics1_title2   = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2    = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3   = [[Revenue]]
+| demographics1_info3    = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}} 
+| demographics1_title4   = Revenue rank
+| demographics1_info4    = 
+| demographics1_title5   = [[Asset]]s
+| demographics1_info5    = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}} 
+| demographics1_title6   = Assets rank
+| demographics1_info6    = 
+| demographics1_title7   = [[Internal Revenue Allotment|IRA]]
+| demographics1_info7    = 
+| demographics1_title8   = IRA rank
+| demographics1_info8    = 
+| demographics1_title9   = [[Expenditure]]
+| demographics1_info9    = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}} 
+| demographics1_title10  = [[Liability (financial accounting)|Liabilities]]
+| demographics1_info10   = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics_type2     = Service provider
+| demographics2_title1   = Electricity
+| demographics2_info1    = {{PH electricity distribution | {{wikidata|label|raw}} }}
+| demographics2_title2   = Water
+| demographics2_info2    = 
+| demographics2_title3   = Telecommunications
+| demographics2_info3    = 
+| demographics2_title4   = Cable TV
+| demographics2_info4    =
+| demographics2_title5   = 
+| demographics2_info5    =
+| demographics2_title6   = 
+| demographics2_info6    =
+| demographics2_title7   = 
+| demographics2_info7    =
+| demographics2_title8   = 
+| demographics2_info8    =
+| demographics2_title9   = 
+| demographics2_info9    =
+| demographics2_title10  = 
+| demographics2_info10   =
+| blank_name_sec1        = {{PH wikidata|climate_title}}
+| blank_info_sec1        = {{PH wikidata|climate_type}}
+| blank1_name_sec1       = Tagalog
+| blank2_name_sec1       = [[Crime index]]
+| blank2_info_sec1       = 
+| blank3_name_sec1       = 
+| blank3_info_sec1       = 
+| blank4_name_sec1       = 
+| blank4_info_sec1       = 
+| blank5_name_sec1       = 
+| blank5_info_sec1       = 
+| blank6_name_sec1       = 
+| blank6_info_sec1       = 
+| blank7_name_sec1       = 
+| blank7_info_sec1       = 
+| blank1_name_sec2       = Major religions
+| blank1_info_sec2       = [[Christianity]], [[Islam]], [[Hinduism]], [[Buddhism]]
+| blank2_name_sec2       = Feast date
+| blank2_info_sec2       = December 1
+| blank3_name_sec2       = Catholic diocese
+| blank3_info_sec2       = [[Diocese of Antipolo|Antipolo]]
+| blank4_name_sec2       = Patron saint
+| blank4_info_sec2       = [[Our Lady of Light Parish Church|Our Lady of Light]]
+| blank5_name_sec2       = 
+| blank5_info_sec2       = 
+| blank6_name_sec2       = 
+| blank6_info_sec2       = 
+| blank7_name_sec2       = 
+| blank7_info_sec2       =
+| short_description      =
+| footnotes              =
+}}
+
+'''Cainta''', officially the '''Municipality of Cainta''' ({{lang-fil|Bayan ng Cainta}}, {{IPA|tl|kɐʔɪnˈtaʔ|IPA}}), is a 1st class [[Greater Manila Area|urban]] [[municipality]] in the [[Provinces of the Philippines|province]] of [[Rizal (province)|Rizal]], [[Philippines]]. According to the 2020 census, it has a population of 376,933 people.{{PH census|current}}
+
+It is one of the oldest municipalities in Luzon (founded on August 15, 1571) and has a land area of {{convert|4299|ha}}.{{PSGC detail|area}}
+
+Cainta serves as the secondary gateway to the rest of Rizal province from [[Metro Manila]]. With the continuous expansion of Metro Manila, Cainta is now part of Manila's [[conurbation]], which reaches [[Cardona, Rizal|Cardona]] in its easternmost part and is therefore one of the most urbanized towns.
+
+As the country's [[List of cities and municipalities in the Philippines|3rd most populous municipality]] after [[Taytay, Rizal]] and [[Rodriguez, Rizal]], efforts are underway to convert it into a city. Its total assets amounting to {{Philippine peso|3,988,392,142.17|link=yes}} (as per 2017 [[Commission on Audit of the Philippines|Commission on Audit]] summary) makes it the richest municipality in the country in terms of income. However, Cainta faces different challenges especially with its boundary disputes with [[Pasig]] (Greenpark Village, Karangalan Village, St. Joseph Subdivision, Villarica Subdivision, Riverside and Midtown Village), Taytay, (Greenland and eastern part of Cainta) and [[Antipolo]] (Valley Golf and Country Club and Valley View), thus hindering cityhood efforts.
+
+==Etymology==
+One legend has it that there was an old woman called "Jacinta" who was well known not only in her own native town but also in the neighboring towns. In her youth, she was very popular because of her great beauty, kindness, and wealth. Although she was a member of a very rich clan, she showed generosity of heart to the poor. Hence, she became very much loved and respected.
+Jacinta grew to be an old maid because after her sweetheart got sick and died, she never fell in love with anyone else. When her parents died and she was left alone in the house, she continued her charity work. She gave alms to the long line of beggars who came to her and housed and took care of the orphans and children in the streets.
+
+In her old age, she was still very popular and was fondly called "''Ka Inta''" ("''Ka''" referring to a term of respect for the elderly, as well as a term for the feeling of comradery or "kapwa" feeling for someone).
+
+One [[Christmas Day]], however, when the old and the young called on her to give their greetings, she was not by the window to welcome them. People wondered at her absence and shouted her name to call her attention but no one came to answer. Concerned, they went up the house and discovered the dead body of "Ka Inta" lying on the floor. Beside her were the piles of Christmas gifts she was preparing to give to her well-wishers that day. People far and wide grieved over her death. In memory of her goodness and her generosity, her native town was named after her and was called "Cainta".<ref name="Dianne">{{Cite book |title=Tales from the 7,000 isles : Filipino folk stories |last=De Las Casas, Dianne. |date=2011 |publisher=Libraries Unlimited |isbn=9781598846997 |location=Santa Barbara, Calif. |oclc=763156190}}</ref>
+
+However, Cainta was already named Cainta when the Spanish first arrived in the 1520s,<ref name="B&R3Anonymous1572">{{Cite book|title=Relation of the Conquest of the Island of Luzon|publisher=Arthur H. Clark Company|year=1903|editor-last=Blair|editor-first=Emma Helen|editor-link=Emma Helen Blair|volume=3|location=Ohio, Cleveland|pages=145|editor-last2=Robertson|editor-first2=James Alexander|editor-link2=James Alexander Robertson}}</ref> so the Spanish name "Jacinta" is unlikely to be the origin of Cainta's name.
+
+==History==
+===The Battle of Cainta===
+{{see also|Cainta (historical polity)}}
+After the death of [[Rajah Matanda]], Adelantado Miguel de Legaspi received word that two ships, San Juan and Espiritu Santo, had just arrived in [[Panay]] Island in the central Philippines from [[Mexico]]. One ship was under the command of Don Diego de Legaspi, his nephew, and the other of Juan Chacon. The two ships were in such disrepair when they arrived in Panay that one of them was not allowed to return to Mexico. Legaspi ordered that it be docked on the river of Manila. The Maestro de Campo was sent to Panay to oversee its transfer to Manila, with Juan de la Torre as captain.
+
+To help spread the faith, several Augustinian friars were commissioned by Spain and were among the ship's passengers. One of them was Father Alonso de Alvarado, who had been in the [[Naval fleet|''armada'']] of Villalobos. Another was Father Agustin de Albuquerque, who became the first parish priest of Taal town, south of Manila. Some of the missionaries were sent to Cebu province in the central Philippines to accompany Father Martin de Rada the Prior. Four stayed to work in Pampanga province and the environs north and south of Manila, which included the then-village of Cainta.
+
+Meanwhile, Legaspi was determined to subjugate the people of Cainta and Taytay, a neighboring town. He sent his nephew Juan de Salcedo with a galleon (a small ship propelled by oars and sails) and 16 small boats accompanied by a hundred Spanish soldiers and many Visayas natives allied with them. Salcedo sailed on August 15, 1571, arriving in Cainta on the 20th. He sought peace from the villagers but the village chief, Gat-Maitan, responded arrogantly, told him the people of Cainta, unlike those of Manila, were not cowards, and would defend their village to the death. Confident in the defenses offered by their fort and the security of the site, they were joined by people from Taytay.
+
+These two villages are on a plain on the shores of a river that flows from La Laguna and before arriving there divides in two large arms, both with abundant water. On its banks are found the two villages, half a league from each other, with the river passing through both before finally becoming one in a part of the terrain encircled by thick bamboo groves. These bamboos were tied together with ''liana'', turning them into a thick wall where the people had constructed two ramparts with their moats full of water. By the river, they had built strong stone bulwarks with wooden towers and good artillery (culverins or [[lantaka]]s), guarded by a large number of warriors armed with arrows, swords and other projectile-type arms.
+
+Deciding to attack, Salcedo first sent Second Lieutenant Antonio de Carvajal with some escorts to reconnoiter the town and determine the weakest point where they could enter. Carvajal, wounded by an arrow in his arm, returned with the information that the weakest spot, the least fortified and with the easiest access was the other part of an arroyo on the side of La Laguna where many boats could be seen entering the river.
+
+Salcedo ordered installed in the prow of the galley a stone-throwing mortar. He and his men then spent the night on shore, while 20 soldiers and numerous allies from Manila remained with Carvajal on the galley with orders that when they heard firing, they should proceed with the attack on the stone bulwarks and the houses in the town, while Salcedo and his men tried to enter through the wall by the arroyo. When they heard the sound of the bugle, the signal that they had taken the town, they were to stop firing.
+
+After giving these instructions, Salcedo began his march and turned toward the river where the attack was to take place. He arrived in the arroyo and found it defended by a group of Cainta warriors who started to fire arrows and hurl lances.
+
+Taken by surprise, the soldiers without waiting for Salcedo's order attacked the rampart and were overwhelmed by a rain of arrows. Finding such tenacious resistance, they began to retreat and flee in disarray.
+
+Salcedo berated his men harshly for having attacked without his orders. Observing that in the other part of the arroyo the rampart was lower, he ordered a skiff brought there and after beaching it, he ordered some of his soldiers to use it as passage to the other side and take a more elevated point from where they could fire at the defenders of the town.
+
+With the defenders retreating, Salcedo and his men were able to approach the wall and breach it. Gat-Maitan with his Cainta men came to close the breach, forcing Saavedra to back off.
+
+In the meantime, the cannons of the galley destroyed the stone bulwarks and the houses in the town in a manner the people had not seen before. The shouts of the 600 Visayans allied with the Spanish made the natives believe that the Spaniards were already inside the ''poblacion'' [town proper]. Because of this, defenders of the breach abandoned it and retreated to the center of the town.
+
+Salcedo observed this from a distance and ordered the breach attacked again. This time, the Spaniards encountered little resistance. Led by Salcedo and with Saavedra carrying the Spanish banner, they succeeded in entering the town. Together with their soldiers, they advanced rapidly and shortly scaled the wall where a bloody battle was fought.
+
+The Cainta men, encouraged by their chief Gat-Maitan, preferred to die rather than surrender. Having taken over the stone walls, the Spaniards climbed the towers and hoisted the Spanish banner. At the blare of the bugle, the cannons stopped firing from the galley.
+
+===Spanish rule===
+[[File:Ang Sepoy at ang Magsusuman, Cainta, Rizal.jpg|thumb|Ang Sepoy at ang Magsusuman]]
+Founded on November 30, 1571, Cainta was a fiercely independent village that fought valiantly against the Spaniards but was later defeated and became a ''visita'' (annex) of Taytay in 1571 under the [[Jesuits]]. Changes in ecclesiastical administration made Cainta a part of Pasig under the Augustinians but it was deeded back to the Jesuits by the King of Spain in 1696. Cainta became a separate township in 1760.
+
+====Conversion to Catholicism====
+The chief religion is Roman Catholicism. When the Spaniards arrived, they celebrated the feast of [[St. Andrew]] the Apostle and a mass was held in a chapel made of nipa palm branches and wood. Many people came to attend and consequently were baptized into the faith.
+
+The Church of Cainta was completed in 1715. It was gutted during World War II. Only the outer walls and the facade remained which was repaired with a coat of Portland cement. In 1727, an image depicting Our Lady of Light was brought to Cainta from Sicily, Italy, and was among the structures destroyed by Japanese and the joint American and Filipino bombs. Except for the outer walls, now greatly renovated, hardly anything remains of the old church. Extensive damage was also caused by recurrent earthquakes and typhoons that plagued the Philippines. The natives helped in its restoration and the new building was completed on February 25, 1968, and blessed by Manila Cardinal Archbishop [[Rufino Jiao Santos]].
+
+Cainta became an independent town in 1760. During the brief British occupation of Luzon (1762–1763), part of its [[British Raj|British India]] troops known as [[Sepoy]]s lived and intermarried with the natives in one of the town's barrios. The Indian left a culinary legacy in the spicy and highly seasoned dishes that are now part of mainstream Cainta cuisine. Cainta became part of [[Tondo, Manila|Tondo]] (starting 1763) but separated in 1883 and incorporated with the district of [[Morong (district)|Morong]].
+
+===American colonial era===
+====March 16, 1899====
+{{More citations needed section|date=October 2024}}
+Exequiel Ampil was assigned by Emilio Aguinaldo to liberate Cainta.
+
+Maj. William P. Rogers, CO of the 3rd Battalion, 20th US Infantry Regiment, came upon the Filipinos in Cainta, about 1,000 strong, and forced them to retreat. He burned the town. Two Americans were killed and 14 wounded, while the Filipinos suffered about 100 killed and wounded.
+
+Upon the approach of the Americans, Exequiel Ampil y Dela Cruz,<ref>{{cite web|url=http://www.facebook.com/photo.php?fbid=1358578890850&set=a.1351167705575.2046618.1422856792&type=3|title=General Infos... - James Frank Ampil Olaño - Facebook|website=[[Facebook]] }}</ref> the Presidente Municipal of Cainta and a former Agente Especial of the Katipunan who had become a pronounced Americanista, strongly advised the Filipino soldiers to surrender. Instead, they shot him. Although wounded, Ampil managed to escape.
+
+On March 3, 1902, major American newspapers including ''[[The New York Times]]'' reported: "…Felizardo, at the head of twenty-five men armed with rifles, entered the town of Cainta and captured the Presidente of Cainta, Señor Ampil, and a majority of the police of the town. Señor Ampil has long been known as an enthusiastic American sympathizer, and it is feared that he may be killed by the enraged ladrones (thieves & land grabbers). A strong force of constabulary has been sent to try to effect his release." In actuality, Timoteo Pasay was the leader of the guerilla band that kidnapped Ampil on Feb 28, 1902.
+
+On March 4, 1902, near the hills of [[Morong, Rizal|Morong]] town, Ampil found an opportunity to escape. A detachment of constabulary was taken from the garrison at Pasig and stationed at Cainta for his protection, he survived the war. And upon retiring from his military and political career, Don Exequiel Ampil together with his wife Doña Priscila Monzon, applied and managed their vast estate from Tramo (Rosario, Pasig) to Cainta River (San Jose, Cainta) up to the Valley Golf Club (Mayamot, Antipolo) down to [[Ortigas Avenue|Ortigas Extension]] (San Isidro, Taytay). The lots were the old and the new Municipal Halls stands, were also part of his estate.
+
+Their son Dr. Jesus Ampil also became a Mayor (grandfather of the Ampil Brothers);<ref>{{cite web|url=http://ampilbros.weebly.com/|title=Ampil Brothers Gamefarm}}</ref> whose siblings where Lumen, Atty. Vicente (of [[Pasay]]), Rosario & Jose.
+
+====Inclusion in Rizal province====
+On October 12, 1903, under the American rule, Cainta and [[Angono]] were consolidated with Taytay as one government entity.<ref>{{cite PH act|url=https://lawyerly.ph/laws/view/l89ad|chamber=Act|number=942|date=October 12, 1903|title=An Act Reducing the Thirty-two Municipalities of the Province of Rizal to Fifteen|access-date=February 9, 2024|publisher=Lawyerly}}</ref> On January 1, 1914, it once again became an independent municipality and remained so to this day.
+
+===World War II===
+In 1942, Japanese Occupation troops entered Cainta. In 1942 to 1944, local guerrilla groups of the [[Hunters ROTC]] was the four-year main invasions in Cainta against the Japanese, when the guerrillas were retreating by the Japanese before the liberation. In 1945, local Filipino troops of the 4th, 42nd, 45th, 46th, 47th and 53rd Infantry Division of the Philippine Army and 4th Constabulary Regiment of the Philippine Constabulary started the liberation and captured Cainta and helped the guerrilla resistance fighters of the Hunters ROTC Guerrillas to fight against the Japanese and ended World War II.
+
+====Liberation of Cainta====
+During World War II under the Allied Liberation, the some of all stronghold of local Filipino soldiers of the Philippine Commonwealth Army 4th, 42nd, 45th, 46th, 47th and 53rd Infantry Division and the Philippine Constabulary 4th Constabulary Regiment was sending the local military operations and liberated in all municipal town of Cainta and aided the local guerrilla groups of the Hunters ROTC Guerrillas against the Japanese Imperial armed forces and begins the Liberation of Cainta in 1945 and arrival by the American liberation forces enters the town.
+
+The General Headquarters, Camp Bases and Garrisons of the Imperial Japanese Armed Forces in Cainta and inside of all Japanese soldiers of the Imperial Japanese Army was invaded the battles and captured of all the local Filipino soldiers of the Philippine Commonwealth Army and Philippine Constabulary and the local guerrillas of the Hunters ROTC Guerrillas after the fighting. After the war, the local casualties was over 3,810 Filipino troops of the Philippine Commonwealth Army and Philippine Constabulary killed in action and 12,400 wounded in action, the local guerrillas of the Hunters ROTC was over 200 killed in action and 700 wounded in action and over 15,000 Japanese troops of the Imperial Japanese Armed Forces was killed in action, 36,000 wounded in action and over 3,400 captured in action.
+
+===Post-war===
+On May 9, 1992, a fire broke out at the town's municipal hall two days before the [[1992 Philippine general election|1992 local elections]].<ref>{{cite news|last=Burgos|first=Jun|title=No arson in Cainta Hall fire -- probers|url=https://news.google.com/newspapers?nid=8cBNEdFwSQkC&dat=19920706&printsec=frontpage&hl=en|access-date=October 12, 2021|work=[[Manila Standard]]|publisher=Kamahalan Publishing Corp.|date=July 6, 1992|page=15}}</ref> The Rizal Provincial Police Command concluded that the fire was accidental, having been caused by a negligent janitor, although the [[Philippine National Police|PNP]] [[Criminal Investigation and Detection Group|Criminal Investigation Service Command]] (CISC) refuted this, citing eyewitness accounts to the contrary.<ref>{{cite news|last=Burgos|first=Jun|title=CISC backs Cainta arson theory|url=https://news.google.com/newspapers?nid=8cBNEdFwSQkC&dat=19920709&printsec=frontpage&hl=en|access-date=October 13, 2021|work=[[Manila Standard]]|publisher=Kamahalan Publishing Corp.|date=July 10, 1992|page=43}}</ref> By August 1993, [[Secretary of Justice (Philippines)|Secretary of Justice]] [[Franklin Drilon]] ordered the reopening of the case due to evidence found to be conflicting with the initial conclusions by a team of prosecutors at the [[Department of Justice (Philippines)|Department of Justice]].<ref>{{cite news|last=Lanuza|first=Angelo E.|title=Review of Cainta town hall arson ordered|work=[[Manila Standard]]|publisher=Kamahalan Publishing Corp.|date=August 4, 1993|page=4|quote=In an order signed by Executive Secretary [[Teofisto Guingona]], Drilon was directed to review the arson case the proceedings of which were 'suspiciously fraught with secrecy' for purposes of amending the information to include, based on evidence, all the respondents named by state prosecutor Leoncio Janolo...}}</ref>
+
+==Geography==
+Cainta is bounded on the north by [[Marikina]] and [[Antipolo]], on the west by [[Pasig]], and on the east and south by [[Taytay, Rizal|Taytay]]. It lies in the Marikina Valley, is 10% rolling hills and 90% residential-industrial. It has the province's highest number of rivers and streams. Historians claim that Cainta's old geographical boundaries encompassed the mountain slopes of [[Rodriguez, Rizal|Montalban]].
+
+Cainta is {{convert|17|km}} from [[Manila]] and {{convert|9|km}} from [[Antipolo]].
+
+===Barangays===
+[[File:Ph fil cainta.png|thumb|upright=1.1|{{center|'''Political map of Cainta, Rizal'''}}]]
+Cainta is politically subdivided into seven [[barangay]]s. Each barangay consists of [[purok]]s and some have [[sitios]].
+* San Andres ([[Poblacion]])
+* San Isidro
+* San Juan
+* San Roque
+* Santa Rosa
+* Santo Domingo
+* Santo Niño
+
+In the mid-1990s, Cainta submitted a petition to the Rizal provincial government to consider a proposal for 18 additional barangays, to make a total of 25 barangays. The proposal is still pending.
+
+=== Climate ===
+{{Weather box
+| location     = Cainta, Rizal
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 29
+| Jan low C  = 20
+| Feb high C = 30
+| Feb low C  = 20
+| Mar high C = 32
+| Mar low C  = 21
+| Apr high C = 34
+| Apr low C  = 23
+| May high C = 33
+| May low C  = 24
+| Jun high C = 31
+| Jun low C  = 25
+| Jul high C = 30
+| Jul low C  = 24
+| Aug high C = 29
+| Aug low C  = 24
+| Sep high C = 29
+| Sep low C  = 24
+| Oct high C = 30
+| Oct low C  = 23
+| Nov high C = 30
+| Nov low C  = 22
+| Dec high C = 29
+| Dec low C  = 21
+| Jan precipitation mm = 7
+| Feb precipitation mm = 7
+| Mar precipitation mm = 9
+| Apr precipitation mm = 21
+| May precipitation mm = 101
+| Jun precipitation mm = 152
+| Jul precipitation mm = 188
+| Aug precipitation mm = 170
+| Sep precipitation mm = 159
+| Oct precipitation mm = 115
+| Nov precipitation mm = 47
+| Dec precipitation mm = 29
+| Jan rain days        = 3.3
+| Feb rain days        = 3.5
+| Mar rain days        = 4.8
+| Apr rain days        = 8.1
+| May rain days        = 18.9
+| Jun rain days        = 23.5
+| Jul rain days        = 26.4
+| Aug rain days        = 25.5
+| Sep rain days        = 24.5
+| Oct rain days        = 19.6
+| Nov rain days        = 10.4
+| Dec rain days        = 6.4
+| source 1             = Meteoblue<ref name="met_norms">
+{{cite web|url=https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/cainta_philippines_1720840|title=Cainta: Average Temperatures and Rainfall|publisher=Meteoblue|access-date=May 11, 2020}}</ref>
+| date                 = May 11, 2020
+}}
+
+==Demographics==
+{{Philippine Census
+| align= left
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 = {{PH census population|2020}}
+| 2025 = 
+| 2030 = 
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+In the 2020 census, the population of Cainta, was 376,933 people,{{PH census|current}} with a density of {{convert|{{sigfig|376,933/42.99|2}}|PD/km2|disp=or}}.
+
+In the 2007 census, it had a population of 304,478. Its population consists of 70% [[Roman Catholic]] Christians, 15% Non-Catholic [[Christians]] (including [[Baptists]], [[Evangelicals]], [[Iglesia ni Cristo]], [[Members Church of God International]], [[Aglipayan]], [[Jesus Is Lord]], and others), 10% [[Muslims]], 3% Chinese [[Buddhists]], and 2% [[Sikhs]]. The people of Cainta are mostly [[Tagalog language|Tagalog]]-speaking Filipinos.
+
+A considerable number of the population are descended from Indian soldiers who mutinied against the British Army when the British briefly occupied the Philippines in 1762 to 1763. These Indian soldiers called [[Sepoy]] were [[Tamil people]] from [[Chennai]] and settled in town and intermarried with native women. The Sepoy ancestry of Cainta is still very visible to this day, particularly in Barrio Dayap near Barangay Sto. Niño.<ref>{{Harvnb|Fish|2003|p=158}}</ref>{{clear left}}
+
+==Economy==
+{{More citations needed section|date=October 2024}}
+{{stack|float=left|{{PH poverty incidence}}}}
+[[File:Rizaljf4181 05.JPG|thumb|Puregold Cainta]]
+[[File:Mitsubishi Plant (Ortigas Ext., Cainta, Rizal)(2013-02-17).jpg|thumb|Former [[Mitsubishi Motors Philippines|Mitsubishi Motors]] Plant in Cainta which operated from 1963 to 2015, then demolished in 2017. The site is now a mixed-use development site rebuilt by Robinsons Land Corporation as [[Sierra Valley Gardens]] opened in 2020,<ref>{{Cite web|url=https://www.robinsonslandcondos.com/2020/11/sierra-valley-gardens-cainta-showroom.html|title=Sierra Valley Gardens Cainta Showroom Opening|date=November 23, 2020|publisher=RLC Residences|access-date=August 6, 2023}}</ref> with a proposed Cyber Park and Robinsons Sierra Mall.]]
+Cainta is a highly urbanized town, which has an abundant mix of commercial, industrial, and real estate businesses. As of 2018's Commission on Audit report, the town is the richest municipality in the country in terms of total assets. Cainta continues to attract businesses due to its proximity to [[Manila]] and the town's burgeoning population.
+
+===Native delicacies===
+Cainta is known for its native delicacies, a tradition inherited from nearby Antipolo, which is largely a cottage industry. Dating back to the 15th century, it became the town's principal source of income for more than four centuries. ''Suman'' (rice cake wrapped in banana leaf), ''latik'' (boiled down coconut milk used for glazing), [[coconut jam]] and the ''bibingka'' are some of the sweet delicacies that have been popular with visitors to the town.
+
+During the 20th century, Cainta dazzled the whole country when it baked the biggest rice cake ever and the town became known as the "Bibingka Capital of the Philippines". ''Bibingka'' is believed to have been adapted from the Indian cuisine, an influence from its Sepoy population. It comes from the Indian word [[bebinca]] also known as ''bibik'', a dessert made of flour, coconut milk, and egg. The Philippine version is made of rice flour, coconut milk, and salted duck eggs. Butter and sugar are used for glazing after cooking and before serving.{{clear left}}
+
+==Government==
+{{see also|Sangguniang Bayan}}
+[[File:Cainta Municipal Building (A. Bonifacio Ave, Cainta, Rizal; 2015-05-12).jpg|thumb|right|Municipal Hall of Cainta.]]
+
+===Elected officials===
+The following are the elected officials during the [[2022 Philippine general election|2022 elections]], serving a term that will expire in 2025:<ref>[http://cainta.gov.ph/municipal-officials/ Cainta Municipality - Municipal Officials] {{webarchive|url=https://web.archive.org/web/20151124012146/http://cainta.gov.ph/municipal-officials/ |date=November 24, 2015 }}</ref>
+{| class="wikitable"
+|-
+! Title
+! Name
+|-
+| Mayor
+| Elenita "Elen" Nieto
+|-
+| Vice mayor
+| Ace Servillon 
+|-
+|rowspan="8"| [[Sangguniang Bayan|Councilors]]
+| Edwin Cruz
+|-
+| Lincoln Felix
+|-
+| Sitti Ruiana Ferriols
+|-
+| Leopoldo Garcia Jr.
+|-
+| Manuel Jacob Jr.
+|-
+| Snooky Malicdem
+|-
+| Felipe Sauro
+|-
+| Ezekiel Tajuna
+|}
+
+===Mayors===
+{|class=wikitable
+!Mayors
+!Year Started
+!Year Ended
+|-
+| Exequiel Ampil || 1898 || 1907
+|-
+| Jose Dela Cruz || 1907 || 1911
+|-
+| Julian Javier || 1911 || 1923
+|-Sofronio C. Francisco // 1923 //1927
+| Francisco P. Felix || 1927 || 1941
+|-
+| Jesus Ampil || 1941 || 1945
+|-
+| Francisco P. Felix || 1945 || 1980
+|-
+| Benjamin V. Felix* || 1980 || 1986
+|-
+| Renato Estanislao || 1986 || 1988
+|-
+| Benjamin V. Felix || 1988 || 1998
+|-
+| Nicanor Cruz Felix || 1998 || 2004
+|-
+| [[Mon Ilagan|Ramon A. Ilagan]] || 2004 || 2013
+|-
+| [[Johnielle Keith Nieto]] || 2013 || 2022
+|-
+| Maria Elenita Dungo - Nieto || 2022 || present
+|}
+*''Benjamin Felix was deposed after'' [[People Power Revolution]]; ''replaced by OIC Mayor Dr. Renato Estanislao''
+
+===Vice mayors===
+{|class=wikitable
+!Vice mayors
+!Year Started
+!Year Ended
+|-
+|Jimmy Alcantara || 1972 || 1976
+|-
+|Benjamin V. Felix || 1976 || 1980
+|-
+|Octavio Gripal || 1981 || 1984
+|-
+|Zoilo V. Tolentino || 1984 || 1986
+|-
+|Vicente Landicho || 1986 || 1987
+|-
+|Reynaldo Matias || 1987 || 1998
+|-
+|Julio Narag || 1998 || 2007
+|-
+|Arturo Sicat || 2007 || 2013
+|-
+|Sofia Velasco || 2013 || 2019
+|-
+|Ace Servillon || 2019 || present
+|}
+
+===Municipal seal===
+The logo of Cainta – the emblem inside the double circle represents the flag of the Philippines in red, white and blue color. The three stars represent Luzon, Visayas and Mindanao. The eight sun rays represent the eight provinces that started the revolt against the Spaniards. The buildings represent the different business establishments operating in the municipality. The ''suman sa ibus'', ''suman sa lihiya'' and ''suman antala'' represent the livelihood of its people; the same with bottled sweets made out of coconut milk called ''[[matamis na bao]]'', ''[[nata de coco]]'', ''caong'', beans and many others. The piglets represent the backyard hog raising, a small-scale industry.
+
+==Notable places==
+* '''[[APT Studios]]''' - Owned by [[APT Entertainment]], which was the former airing site of the longest running noontime show in the Philippines "[[Eat Bulaga!|Eat Bulaga]]" from December 8, 2018, until May 31, 2023.
+[[File:APT Studios exterior.jpg|thumb|The facade of APT Studios in [[Marikina–Infanta Highway|Marcos Highway]] ([[Radial Road 6|R-6 Road]]).]]
+
+* '''[[Our Lady of Light Parish Church]]''' - one of the oldest Catholic churches in the province.
+[[File:CaintaChurch.jpg|thumb|The restored Diocesan Shrine and Parish of Our Lady of Light (Church of Cainta) blessed on February 25, 1968.]]
+
+* '''[[Sierra Valley Gardens]]''' - a mixed-use development site built by Robinsons Land Corporation opened in 2020. The site was the former manufacturing plant of [[Mitsubishi Motors Philippines Corporation]] which operates from 1963 until 2014, then later the MMPC officially opened their new manufacturing facility in [[Santa Rosa, Laguna]] on January 30, 2015.
+* '''[[Sta. Lucia East Grand Mall]]''' - a large shopping mall named and owned by Sta. Lucia Realty & Development, and is one of the largest shopping to the east of [[Metro Manila]], and one of the first malls in [[Rizal (province)|Rizal]].
+[[File:274Cainta_Marikina_Pasig_Cities_Landmarks_Roads_41.jpg|thumb|The Sta. Lucia East Grand Mall located at the corner of [[Felix Avenue|F. P. Felix Avenue]] and Marcos Highway (R-6).]]
+
+==Culture==
+During Cainta's modernization period, traditions became more glamorous, most especially during the Lenten season. The most noteworthy rituals are the ''Cenakulo'' (a stage play of the passion and death of Christ) and the ''Ang Pagpapapako'' or ''Penetencia'' (a re-enactment of the crucifixion of Christ).
+
+===The Cenakulo===
+The ''Senakulo'' in Cainta dates back to 1904. It originated from Barrio Dayap (the entire area now includes Barangays Santa Rosa, Sto Niño and Santo Domingo). At that time, the population consisted of a small group of residents who were mostly related to each other. Since most of the people believed that calamities were brought in by evil spirits, they decided to put up a cross on a vacant lot to counter them. The barrio people paid homage to the cross by lighting it every night. One memorable incident happened during the Lenten season when a strange fragrance supposedly emanated from the cross. The news spread out not only in the barrio but also in the entire town of Cainta.
+
+Believing in the mystery of the cross, many people in Barrio Dayap and the whole town of Cainta have since then vowed to read the ''Pasyon'' (Seven Last Words of Christ) every Lenten season. This has been enriched by an actual portrayal of the Passion of Christ on the streets which was formerly called "Officio". Many problems have been allegedly solved and illnesses cured through the cross as many people continuously believed.
+
+Over the years the followers of the cross have multiplied rapidly. To give deeper meaning to their devotion and showcase their religiosity, they broached the idea of staging the ''Pasyon''. The first stage play was held a few years later, although initially it was limited in scope. It became so popular that the presentation was expanded to include stories from the Old Testament and other stages in the life of Christ and has become known as the ''Cenakulo''. The venue was transferred to an open field in 1966 to accommodate a larger audience.
+
+Krus Sa Nayon, Inc. (KSNI) was established as early as 1900 during and after Spanish era. The group was also known for its extravagant preparation and passion play every night of the Holy Week period. The KSNI cenakulo play was previously held at the Jaika Compound beside the municipal building and Francisco P. Felix Memorial National High School. To date, the play is held at the stage beside the municipal ground, alongside the One Cainta Police Headquarters and One Cainta Fire Department.
+
+Samahang Nazareno Inc. was organized in 1960, developed and enhanced the various aspects of ''cenakulo''. The local Roman Catholic parishioner gave the association its moral and financial support for it believed that it was an effective means of imparting its Christian message to the public.
+
+===Cainta Day===
+{{See also|SumBingTik Festival}}
+Every December 1, the town celebrates its foundation and feast of [[Our Lady of Light Parish Church|Our Lady of Light]] (Ina ng Kaliwanagan). It is celebrated with its own festival, [[SumBingTik Festival|SumBingTik]] ([[portmanteau]] of [[suman (food)|suman]], [[bibingka]], and [[latik]]), which started around 2014.<ref>[[GMA News and Public Affairs]]. [http://www.gmanetwork.com/news/video/350542/unanghirit/maki-cainta-yo-sa-sumbingtik-festival-ng-cainta-rizal Maki-Cainta-yo sa SumBingTik Festival ng Cainta, Rizal]. December 1, 2015. Retrieved May 25, 2016</ref> The week long celebration consists of various activities such as paint ball tournament, [[battle of the bands]], Miss Cainta [[beauty pageant]], and Caindakan sa Kalsada, a street dance parade joined by local schools and organizations.
+
+==Infrastructure==
+===Transportation===
+The main road of Cainta is [[Ortigas Avenue]] Extension ([[Radial Road 5|R-5 Road]]), a heavily congested corridor that passes through the business district of [[Ortigas Center]] and leads to [[Mandaluyong]] and [[San Juan, Metro Manila|San Juan]] in the west and the town of [[Taytay, Rizal|Taytay]] and [[Antipolo]] in the east. The other major road is [[Felix Avenue]] (future service road segment of [[Circumferential Road 6|C-6]] northbound expansion) which runs across Ortigas Avenue Extension and connects the town to [[Marikina]] to the north. Passing through Cainta Junction, it becomes A. Bonifacio Avenue, a part of [[Manila East Road]] (R-5), which also connects the town further into Taytay.
+
+Public transportation is abundant, as jeepneys and [[UV Express]] from surrounding cities in the west like Pasig, Mandaluyong, and Quezon City, pass through the town going to other Rizal towns such as Antipolo, Taytay, to as far as Tanay.
+
+Buses are also traversing almost the same routes as jeepneys, with a [[premium point-to-point bus service]] introduced in 2019, linking Cainta (Sierra Valley) to Makati CBD (Greenbelt - Ayala).
+
+The extended [[Manila Light Rail Transit System Line 2|Light Rail Transit Line 2 (LRT-2)]] includes a train station at the northern tip of the town called [[Marikina–Pasig station|Marikina—Pasig Station]] is set to open in the last quarter of 2020. This is located beside Santa Lucia East Grand Mall and connects to the second floor of Robinsons Metro East in Barangay San Isidro. Marikina—Pasig station opened on July 5, 2021, along Marcos Highway also known as [[Marilaque Highway|Marikina - Infanta Highway]] ([[Radial Road 6|R-6 Road]]).
+
+====Bus route====
+* Raymond Bus Transportation Inc (Legarda Manila via Infanta, Quezon)
+* Mrr Transport Inc (Legarda Manila via Real Infanta in Quezon Province)
+* [[G Liner]] (via Quiapo and Angono, Taytay in Rizal Province North South Bound via EDSA corner Ortigas Avenue Mandaluyong Pasig Border) 
+* RRCG Transport
+* [[EMBC]] Bus plies all over [[Rizal (province)|Rizal]] and East Portion Of [[Laguna (province)|Laguna]]
+* DLTBCo. (Pasay City Taft Buendia via [[Santa Maria, Laguna|Santa Maria]] or in [[Mabitac]] Market)
+
+===Utilities===
+;Water: The town is supplied 24 hours a day with potable water from [[Manila Water]], the MWSS concessionaire for the East Zone, along with several towns in Rizal Province.
+
+;Telecommunications: [[Globe Telecom|Globe]] and [[PLDT]], primarily provide landline and mobile voice, SMS and data services throughout the town. Others provide alternative data solutions like [[Converge ICT|Converge]] and [[Sky Cable|Sky Broadband]].
+
+===Facility===
+The [[MNL1 Data Center]] is a proposed hyperscale green data center campus to be built in Cainta, Rizal. If built, MNL1 will become the largest data center in the Philippines.
+
+==Education==
+{{prose|1=section|date=December 2017}}
+[[File:9198Cainta, Rizal Roads Landmarks Town Proper 13.jpg|thumb|One Cainta College]]
+
+===Basic education===
+Private schools:
+{{Div col}}
+* Life Touchers Community School
+* Cainta Wesleyan Academy
+* Light Bearer Christian Academy
+* Divine Angels Montessori Of Cainta
+* Academy of Christian Excellence Montessori
+* Dayspring Academy Greenland Academy Cainta
+* College of San Benildo-Rizal
+* Faith Christian School<ref name="fcs.edu.ph">{{cite web |url=http://www.fcs.edu.ph/ |title=Welcome to Faith Christian School |access-date=March 16, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140316123415/http://www.fcs.edu.ph/ |archive-date=March 16, 2014 }}</ref> 
+* Greenland Academy<ref name="greenlandacademy.com">{{cite web|url=http://www.greenlandacademy.com/|title=Greenland Academy – HOME OF EXCELLENCE}}</ref> 
+* Greenland Academy Cainta<ref name="facebook.com">{{cite web|url=http://www.facebook.com/greenland.academy.cainta1981/|title=Security Check Required|website=[[Facebook]] }}</ref> 
+* Greenpark High School
+* Lorenzo Ruiz de Manila School
+* [[FEU Roosevelt]] - Cainta<ref name="https://feuroosevelt.edu.ph/">{{Cite web |url=http://www.rooseveltcollege.edu.ph/ |title=www.rooseveltcollege.edu.ph |access-date=January 24, 2017 |archive-date=March 11, 2020 |archive-url=https://web.archive.org/web/20200311125744/https://www.rooseveltcollege.edu.ph/ |url-status=dead }}</ref>
+* Roots of Learning Center (now called Colegio Sto. Domingo)
+* Saint Francis of Assisi Montessori School of Cainta<ref name="stfranciscainta.com">{{cite web|url=http://www.stfranciscainta.com/|title=St. Francis Cainta - Education with Love and Concern}}</ref>
+* Scholastica De San Alfonso Inc.
+* Valley View Academy
+* Agapeland Christian Academy
+* St. Therese of Lisieux School of Cainta
+* Berea Arts and Sciences High School
+* APEC Schools Ortigas Extension{{Div col end}}
+* Pilgrim Baptist Academy
+* Zion Center of Knowledge School
+* Smart Tot School
+
+Public schools:
+{{Div col}}
+* Cainta Elementary School
+* Arinda Elementary School
+* Exodus Elementary School
+* Felix Main Elementary School
+* Felix Unit 1 Elementary School
+* Kabisig Elementary School
+* Planters Elementary School
+* San Francisco Elementary School
+* [[Francisco P. Felix Memorial National High School]] - Main, JICA, Karangalan
+* Governor Isidro Rodriguez Memorial National High School
+* San Juan National High School 
+* Karangalan Elementary School
+* Balanti Elementary School
+* St. Gregory Elementary School 
+* Marick Elementary School
+{{Div col end}}
+
+===Tertiary===
+{{Div col}}
+* ABE - Felix Avenue
+* Cainta Catholic College<ref>{{cite web|url=http://www.caintacatholiccollege.com|title=Cainta Catholic College}}</ref>
+* College of Saint John Paul II Arts and Sciences (Formerly SJB IAS Cainta)<ref>{{cite web|url=http://www.csjpii.edu.ph|title=CSJPII.EDU.PH - College of Saint John Paul II Arts and Sciences}}</ref>
+* Informatics - Cainta Brickroad Campus
+* FEU Roosevelt - Cainta<ref name="https://feuroosevelt.edu.ph/"/>
+* [[National University (Philippines)|National University - East Ortigas]]
+* St. John Bosco Institute of Arts and Sciences
+* STI - Academic Center - Ortigas Avenue Extension
+* ICCT Colleges
+* University of Rizal System<ref>http://www.urs.edu.ph/about.ph{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> - Cainta Campus (Public)
+* One Cainta College
+{{Div col end}}
+
+==Notable people==
+* [[Rocco Nacino]], actor
+* [[Ai-Ai delas Alas]], actress/comedienne
+* [[Alvin Patrimonio]], retired professional Filipino basketball player
+* [[Tin Patrimonio]], athlete (tennis) player, model, actress and a former reality show contestant
+* [[Camille Prats]], actress, model
+* [[Aster Amoyo]], television host, talent manager, columnist 
+* [[Lourence Ilagan]], [[Professional Darts Corporation|PDC]] darts player
+* [[Mon Ilagan]], broadcaster, former mayor of Cainta who served in 2004 - 2013
+* [[Amy Perez]], actress, host
+
+==References==
+{{reflist}}
+
+===Bibliography===
+* {{Citation
+|last=Fish
+|first=Shirley
+|title=When Britain ruled the Philippines, 1762-1764: the story of the 18th century British invasion of the Philippines during the Seven Years' War
+|publisher=1stBooks Library
+|year=2003
+|isbn=978-1-4107-1069-7
+|url=https://books.google.com/books?id=ROGYubVVtVIC
+}}
+
+==External links==
+{{Commons category}}
+* {{official website|http://www.cainta.gov.ph/}}
+* [https://www.philatlas.com/luzon/r04a/rizal/cainta.html Cainta Profile at PhilAtlas.com]
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20081120024509/http://www.census.gov.ph/data/census2007/index.html Philippine Census Information]
+* [https://web.archive.org/web/20160304210218/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=6&frmIdProvince=38&frmIdLgu=839 Local Governance Performance Management System]
+
+{{Geographic Location
+| Centre = Cainta
+| North  = [[Marikina]]
+| East   = [[Antipolo]]
+| South  = [[Taytay, Rizal|Taytay]]
+| West   = [[Pasig]]
+}}
+
+{{Navboxes
+| title = Articles Related to Cainta, Rizal
+| list  = 
+{{Rizal}}
+{{CALABARZON}}
+}}
+
+{{India-related topics in Philippines}}
+{{Asia in topic|Hinduism in}}
+{{Indian diaspora}}
+
+{{Authority control}}
+
+[[Category:Cainta| ]]
+[[Category:1571 establishments in the Philippines]]
+[[Category:Hinduism in the Philippines]]
+[[Category:Municipalities of Rizal (province)]]
+[[Category:Populated places established in 1571]]

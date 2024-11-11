@@ -1,0 +1,405 @@
+{{About|the city (宿州市) in Anhui|the city in Jiangsu|Suzhou{{!}}Suzhou (苏州市), Jiangsu}}
+
+{{Expand Chinese|topic=geo|宿州市|date=June 2024}}
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = Suzhou
+|official_name          = 
+|other_name             = 
+|native_name            = 宿州市
+|native_name_lang = zh
+|nickname               = 
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = SuZhou_Train_Station_%E5%AE%BF%E5%B7%9E%E7%81%AB%E8%BD%A6%E7%AB%99_-_panoramio.jpg
+|imagesize              = 
+|image_caption          = 
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              =  Location of Suzhou Prefecture within Anhui (China).png
+|mapsize                =  
+|map_caption            =  
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = 
+|pushpin_label_position = 
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|coor_pinpoint = Suzhou municipal government
+|coordinates            = {{coord|33.648|N|116.964|E|type:adm2nd_region:CN-34_source:Gaode|format=dms|display=it}}
+|subdivision_type       = Country
+|subdivision_name       = People's Republic of China
+|subdivision_type1      = [[Province of China|Province]]
+|subdivision_name1      = [[Anhui]]
+|subdivision_type2      = [[Administrative divisions of the People's Republic of China#County level|County-level divisions]]
+|subdivision_name2      =  5
+|subdivision_type3      = [[Administrative divisions of the People's Republic of China#Township level|Township-level divisions]]
+|subdivision_name3      =  118
+|subdivision_type4      = 
+|subdivision_name4      = 
+|seat_type              = Municipal seat
+|seat                   =[[Yongqiao District]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =CPC Secretary
+|leader_name            =Liang Weiguo ({{lang|zh-hans|梁卫国}})
+|leader_title1          =[[Mayor]]
+|leader_name1           =Tang Chengpei ({{lang|zh|唐承沛}})
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) -->
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink -->
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_total_km2           =9939.8<!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           = 
+|area_water_percent       =
+|area_urban_km2           =2906.92
+|area_metro_km2           =2906.92
+|area_blank1_title        =
+|area_blank1_km2          =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               = 2020 census
+|population_footnotes           = <ref>{{cite web|url=http://www.citypopulation.de/php/china-anhui-admin.php|title=China: Ānhuī (Prefectures, Cities, Districts and Counties) - Population Statistics, Charts and Map|website=www.citypopulation.de|access-date=13 April 2018}}</ref>
+|population_note                =
+|population_total               =5324476
+|population_density_km2         =auto<!--For automatic calculation, any density field may contain: auto -->
+|population_metro               =1766285
+|population_density_metro_km2   =auto
+|population_urban               =1766285
+|population_density_urban_km2   =auto 
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =   
+| demographics_type2   = GDP<ref>{{Cite web |title=《安徽统计年鉴2022》电子查阅版 |url=http://tjj.ah.gov.cn/oldfiles/tjj/tjjweb/tjnj/2022/index.htm |website=tjj.ah.gov.cn |access-date=2022-10-18 |archive-date=2022-10-18 |archive-url=https://web.archive.org/web/20221018145816/http://tjj.ah.gov.cn/oldfiles/tjj/tjjweb/tjnj/2022/index.htm |url-status=live }}</ref>
+| demographics2_title1 = [[Prefecture-level city]]
+| demographics2_info1 = [[CN¥]] 216.8 billion<br />[[US$]] 28.5 billion 
+| demographics2_title2 = Per capita
+| demographics2_info2 = CN¥ 40,707<br />US$ 6,310
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Postal code of China|Postal code]]
+|postal_code            = 234000
+|area_code              = 557
+|iso_code = [[ISO 3166-2:CN|CN-AH-13]]
+|blank2_name            =[[Licence plates of the People's Republic of China|License Plate]] Prefix
+|blank2_info            ={{lang|zh-cn|皖L}}
+|blank3_name            =Major [[Nationalities of China|Nationalities]]
+|blank3_info            = [[Han Chinese|Han]]
+|website = {{URL|www.ahsz.gov.cn/}}
+|footnotes              =  
+}}
+'''Suzhou''', ({{zh|s=宿州|p=Sùzhōu}}) formerly romanized as Suchow,<ref>[[Postal romanisation]].</ref> is a [[prefecture-level city]] in northern [[Anhui|Anhui, China]]. The city straddles the {{Interlanguage link|Tuohe|lt=Tuohe|zh|沱河}} and {{Interlanguage link|Xinbian|lt=Xinbian|zh|新汴河}} rivers, which fork at its western end. The Tuohe was formerly a left [[tributary]] of the [[Huai River]], while the latter is a modern artificial canal, but now both drain into [[Hongze Lake]]. It borders the prefectural cities of [[Huaibei]] and [[Bengbu]] to the southwest and south respectively, and the provinces of [[Jiangsu]] to the east, [[Shandong]] to the north, and [[Henan]] to the northwest.
+
+Its population was 5,324,476 inhabitants at the 2020 census, of whom 1,766,285 lived in the [[Urban area|built-up area]] (or [[Metropolitan area|metro]]) of [[Yongqiao District]], even though that district remains largely rural.
+
+==History==
+'''Suzhou''' was formerly '''Su County''' ({{zh|s=宿县|t=宿縣|p=Sù Xiàn|links=no}}).
+
+==Administration==
+Suzhou administers five [[Administrative divisions of the People's Republic of China#County level|county-level divisions]], including one [[District of China|district]] and four [[County (People's Republic of China)|counties]].
+
+*[[Yongqiao District]] ({{lang|zh-hans|埇桥区}})
+*[[Dangshan County]] ({{lang|zh-hans|砀山县}})
+*[[Xiao County]] ({{lang|zh-hans|萧县}})
+*[[Lingbi County]] ({{lang|zh-hans|灵璧县}})
+*[[Si County]] ({{lang|zh-hans|泗县}})
+
+{|class="wikitable"
+! colspan="6" | Map
+{{Image label begin|image=Administrative Division Suzhou (Anhui).png|width={{{1|580}}}|link=}} 
+{{Image label|x=980|y=1100|scale={{{1|580}}}/2100|text=[[Yongqiao District|'''Yongqiao''']]}}
+{{Image label|x=200|y=240|scale={{{1|580}}}/2100|text=[[Dangshan County|'''Dangshan<br>County''']]}}
+{{Image label|x=600|y=520|scale={{{1|580}}}/2100|text=[[Xiao County|'''Xiao<br>County''']]}}
+{{Image label|x=1380|y=1180|scale={{{1|580}}}/2100|text=[[Lingbi County|'''Lingbi<br>County''']]}}
+{{Image label|x=1720|y=1360|scale={{{1|580}}}/2100|text=[[Si County|'''Si<br>County''']]}}
+{{Image label end}}
+|-
+! align=left          | Subdivision
+! align=left          | Simplified Chinese
+! align=left          | Hanyu Pinyin
+! align=left          | Population {{small|([[Seventh National Population Census of the People's Republic of China|2020]])}}
+! align=left          | Area {{small|(km<sup>2</sup>)}}
+! align=left          | Density {{small|(/km<sup>2</sup>)}}
+|-
+|- style="background:#d3d3d3;"
+| colspan="6"  style="text-align:center; "| '''City Proper'''
+|-
+| align=left | [[Yongqiao District]]
+| align=left | {{lang|zh-Hans|埇桥区}}
+| align=left | {{transliteration|zh|Yǒngqiáo Qū}}
+| align=right| 1,766,285
+| align=right| 2,906
+| align=right| 607.9
+|-
+|- style="background:#d3d3d3;"
+| colspan="6"  style="text-align:center; "| '''Rural'''
+|-
+| align=left | [[Dangshan County]]
+| align=left | {{lang|zh-Hans|砀山县}}
+| align=left | {{transliteration|zh|Dàngshān Xiàn}}
+| align=right| 765,564
+| align=right| 1,205
+| align=right| 635.3
+|-
+| align=left | [[Lingbi County]]
+| align=left | {{lang|zh-Hans|灵璧县}}
+| align=left | {{transliteration|zh|Língbì Xiàn}}
+| align=right| 974,720
+| align=right| 2,133
+| align=right| 457.0
+|-
+| align=left | [[Si County]]
+| align=left | {{lang|zh-Hans|泗县}}
+| align=left | {{transliteration|zh|Sì Xiàn}}
+| align=right| 763,310
+| align=right| 1,848
+| align=right| 413.1
+|-
+| align=left | [[Xiao County]]
+| align=left | {{lang|zh-Hans|萧县}}
+| align=left | {{transliteration|zh|Xiāo Xiàn}}
+| align=right| 1,054,597
+| align=right| 1,847
+| align=right| 571.0
+|-
+|- style="background:#d3d3d3;"
+| colspan="3" style="text-align:center; "|'''Total'''
+| align=right|'''5,324,476'''
+| align=right|'''9,938'''
+| align=right|'''535.8'''
+|}
+
+
+These are further divided into 118 [[Administrative divisions of the People's Republic of China#Township level|township-level divisions]].
+
+==Climate==
+Suzhou has a [[monsoon]]-influenced, [[humid subtropical climate]] ([[Köppen climate classification|Köppen]] ''Cwa''), with four distinct seasons. Winters are cold and damp, with average low temperatures in January dipping just below freezing; the January 24-hour average temperature is {{convert|1.2|C|1}}. Summers are typically hot and humid, with a July average of {{convert|27.6|C|1}}. The annual mean is {{convert|15.2|C|1}}, while annual precipitation averages about {{convert|855.2|mm|0}}, a majority of which occurs from May to August.
+<!--January mean: 1.2 °C, July mean: 27.6 °C, annual mean: 15.2 °C, Koeppen: Cwa-->
+
+{{Weather box|width=auto
+|metric first=y
+|single line=y 
+|collapsed = Y
+|location = Suzhou (1991–2020 normals, extremes 1971–2010)
+|Jan high C = 	6.3
+|Feb high C = 	9.6
+|Mar high C = 	14.9
+|Apr high C = 	21.4
+|May high C = 	26.9
+|Jun high C = 	29.9
+|Jul high C = 	31.6
+|Aug high C = 	30.8
+|Sep high C = 	27.2
+|Oct high C = 	22.5
+|Nov high C = 	15.2
+|Dec high C = 	8.5
+|Jan mean C = 	1.6
+|Feb mean C = 	4.4
+|Mar mean C = 	9.5
+|Apr mean C = 	15.7
+|May mean C = 	21.2
+|Jun mean C = 	25.4
+|Jul mean C = 	27.8
+|Aug mean C = 	26.8
+|Sep mean C = 	22.4
+|Oct mean C = 	17.0
+|Nov mean C = 	9.9
+|Dec mean C = 	3.6
+|Jan low C = 	-2.0
+|Feb low C = 	0.5
+|Mar low C = 	4.9
+|Apr low C = 	10.4
+|May low C = 	15.9
+|Jun low C = 	21.3
+|Jul low C = 	24.6
+|Aug low C = 	23.7
+|Sep low C = 	18.6
+|Oct low C = 	12.6
+|Nov low C = 	5.8
+|Dec low C = 	-0.1
+|Jan record high C = 20.1 |Jan record low C = -13.2
+|Feb record high C = 26.3 |Feb record low C = -18.1
+|Mar record high C = 30.0 |Mar record low C = -8.2
+|Apr record high C = 34.3 |Apr record low C = -1.8
+|May record high C = 37.6 |May record low C = 5.3
+|Jun record high C = 40.3 |Jun record low C = 12.0
+|Jul record high C = 40.9 |Jul record low C = 16.8
+|Aug record high C = 39.8 |Aug record low C = 14.6
+|Sep record high C = 37.1 |Sep record low C = 7.2
+|Oct record high C = 35.1 |Oct record low C = -0.5
+|Nov record high C = 30.0 |Nov record low C = -7.7
+|Dec record high C = 22.1 |Dec record low C = -18.7
+|year high C =  |year low C = 
+|year high F =  |year low F =
+|precipitation colour = green
+|Jan precipitation mm = 	21.5
+|Feb precipitation mm = 	26.8
+|Mar precipitation mm = 	40.0
+|Apr precipitation mm = 	59.5
+|May precipitation mm = 	77.3
+|Jun precipitation mm = 	163.5
+|Jul precipitation mm = 	182.4
+|Aug precipitation mm = 	121.1
+|Sep precipitation mm = 	76.3
+|Oct precipitation mm = 	54.2
+|Nov precipitation mm = 	37.4
+|Dec precipitation mm = 	18.2
+|Jan humidity = 	67
+|Feb humidity = 	66
+|Mar humidity = 	66
+|Apr humidity = 	74
+|May humidity = 	73
+|Jun humidity = 	76
+|Jul humidity = 	84
+|Aug humidity = 	86
+|Sep humidity = 	82
+|Oct humidity = 	75
+|Nov humidity = 	69
+|Dec humidity = 	68
+|unit precipitation days = 0.1 mm	
+|Jan precipitation days = 	5.1
+|Feb precipitation days = 	6.3
+|Mar precipitation days = 	6.6
+|Apr precipitation days = 	6.9
+|May precipitation days = 	7.6
+|Jun precipitation days = 	8.7
+|Jul precipitation days = 	12.4
+|Aug precipitation days = 	11.3
+|Sep precipitation days = 	8.6
+|Oct precipitation days = 	6.1
+|Nov precipitation days = 	6.5
+|Dec precipitation days = 	4.6
+|year precipitation days = 	
+|Jan sun = 	148.1
+|Feb sun = 	147.2
+|Mar sun = 	182.6
+|Apr sun = 	209.5
+|May sun = 	217.8
+|Jun sun = 	200.2
+|Jul sun = 	192.9
+|Aug sun = 	195.1
+|Sep sun = 	180.5
+|Oct sun = 	186.0
+|Nov sun = 	160.5
+|Dec sun = 	154.1
+|year sun = 	
+| Jan percentsun = 	47
+| Feb percentsun = 	47
+| Mar percentsun = 	49
+| Apr percentsun = 	53
+| May percentsun = 	51
+| Jun percentsun = 	47
+| Jul percentsun = 	44
+| Aug percentsun = 	48
+| Sep percentsun = 	49
+| Oct percentsun = 	54
+| Nov percentsun = 	52
+| Dec percentsun = 	50
+| year percentsun =	
+|Jan snow days = 	4.0
+|Feb snow days = 	2.9
+|Mar snow days = 	1.3
+|Apr snow days = 	0
+|May snow days = 	0
+|Jun snow days = 	0
+|Jul snow days = 	0
+|Aug snow days = 	0
+|Sep snow days = 	0
+|Oct snow days = 	0
+|Nov snow days = 	0.7
+|Dec snow days = 	2.0
+|year snow days = 	
+|source 1 = [[China Meteorological Administration]]<ref name="cma graphical">{{cite web |url=http://data.cma.cn/data/weatherBk.html |script-title=zh:中国气象数据网 – WeatherBk Data |publisher=[[China Meteorological Administration]] |language = zh-hans |access-date=27 June 2023}}</ref><ref>
+{{cite web|url=https://experience.arcgis.com/template/e724038fda394e9d9b7921f10fd1aa55/page/%E7%BA%AF%E8%A1%A8%E6%A0%BC%E7%BB%9F%E8%AE%A1-(%E5%AF%B9%E6%AF%948110%E5%8F%98%E5%8C%96)/?org=UQmaps |script-title=zh:中国气象数据网|publisher=[[China Meteorological Administration]] |language = zh-hans | access-date =27 June 2023 |title=Experience Template }}</ref>
+| source 2 = Weather China<ref name = Clim>{{cite web
+| url = http://www.weather.com.cn/cityintro/101220701.shtml?
+| script-title=zh:宿州 - 气象数据 -中国天气网 
+| publisher = Weather China
+| language = zh
+| access-date = 29 November 2022}}</ref>
+}}
+
+==Festivals==
+'''Sacrifice to The Kitchen God''' ({{lang|zh|祭灶}})
+<br />
+This festival is the traditional lunar festival of [[East Asia]], celebrated in Suzhou. People think this festival is to give presents to gods. In Suzhou, this festival is celebrated by offering food and burning incense on a table and [[baijiu]] on the floor to worship the gods. This food is left untouched for, more or less, one day. Also, some food is shared with family and friends.
+
+'''Pear Flower Festival''' ({{lang|zh-hans|梨花节}})
+<br />
+There are many pear trees in Suzhou and when their flowers bloom people get together to appreciate it and have a picnic. At night there is a festival program on [[Anhui TV]] to show how beautiful it is.
+
+'''Sacred Stone Festival''' ({{lang|zh-hans|奇石节}})<ref>{{cite web |url=http://www.szxx.com.cn/Forum/Display.aspx?tid=460184&fpage=1 |script-title=zh:党和国家领导人将来参加第三届宿州奇石节 |website=szxx.com.cn}}</ref>
+<br />
+Suzhou Lingbi Sacred Stone Festival aims to promote the charming and admirable Lingbi sculptures. This festival expands the economy, sets up an investment promotion platform, promotes Suzhou economic and social development, and enhances its visibility and reputation. People get together and show their unique and beautiful stones. They can be viewed at the Suzhou QiShi Museum. The city mayor chooses the best one to be sent to the [[National Museum of China]].
+
+== Tourist Attractions ==
+'''Huangzangyu National Forest Park'''
+
+Anhui Huangzangyu National Forest Park is located in the denuded low hills in the south of the Taoxu Mountain System. The mountain rocks are limestone bodies, and there are many natural caves, well springs, and rock landscapes. The highest peak is Pingdingshan, 389 meters above sea level, and the general peak height is between 100 and 300 meters.
+
+'''Zhong Kui Wine Culture Museum'''
+
+Zhongkui Wine Culture Museum is located in Lingbi County Economic Development Zone.
+
+It is a typical Huizhou building, with white walls, black tiles and horse head walls, Zhongkui Hall in the courtyard and corridor, towering towers and pavilions, small bridges and flowing water houses, strange rocks, trees, and a total area of more than 3,000 square meters, with a total construction area of more than 1,000 square meters, of which the main exhibition hall - "Zhong Kui Wine Culture Museum" has an exhibition area of more than 500 square meters, consisting of a gatehouse, curved corridors and the main exhibition hall. The decorative display in the main exhibition hall borrows the architectural elements of Huizhou style and coexists harmoniously with the external environment, complementing each other, the whole is smooth and smooth, and the ancient charm is vivid. The display content of the entire main exhibition hall consists of five parts.
+
+==Notes and references==
+{{Reflist|colwidth=30em}}
+
+==External links==
+*[http://www.ahsz.gov.cn Government website of Suzhou] (in Simplified Chinese)
+
+{{Anhui topics}}
+{{Anhui}}
+{{Prefectural-level divisions of the People's Republic of China}}
+{{Authority control}}
+
+[[Category:Suzhou, Anhui| ]]
+[[Category:Cities in Anhui]]

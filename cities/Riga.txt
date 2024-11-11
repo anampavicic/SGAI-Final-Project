@@ -1,0 +1,800 @@
+{{Short description|Capital and largest city of Latvia}}
+{{About|the Latvian capital}}
+{{Use dmy dates|date=June 2020}}
+{{Use British English|date=December 2020}}
+{{Infobox settlement
+<!-- See the Table at Infobox settlement for all fields and descriptions of usage -->| name               = Riga
+| native_name        = {{native name|lv|Rīga}}<br>{{native name|ltg|Reiga}}<br>{{native name|liv|Rīgõ}}
+| settlement_type    = Capital city and [[Administrative divisions of Latvia|state city]]
+| image_skyline      = {{multiple image
+ |border                = infobox
+ |total_width           = 280
+ |image_style           = border:1;
+ |caption_align         = center
+ |perrow                = 1/2/2/2/1
+ |image1                = RigaSkyline (cropped).jpg
+ |caption1              = Skyline of Riga from Daugava
+ |image2                = Old Riga Vecrīga Town Hall.jpg
+ |caption2              = [[Riga City Council|Riga City Hall]]
+ |image3                = Riga Petrikirche Blick vom Turm zum Dom 3.JPG
+ |caption3              = [[Riga Cathedral]]
+ |image4                = House of the Blackheads in Riga.jpg
+ |caption4              = [[House of the Blackheads (Riga)|House of the Blackheads]]
+ |image5                = Opera Nacional, Riga, Letonia, 2012-08-07, DD 04.JPG
+ |caption5              = [[Latvian National Opera]]
+ |image6                = National Bibliothek Lettlands 1.jpg
+ |caption6              = [[National Library of Latvia]]
+ |image7                = Immeuble art nouveau (Riga) (7582914046).jpg
+ |caption7              = [[Albert Street, Riga|Albert Street]] 8
+}}
+| image_alt          = 
+| image_flag         = Flag of Riga.svg
+| image_shield       = Coat of Arms of Riga.svg
+| image_blank_emblem = Logo of Riga.svg
+| blank_emblem_type  = [[Brandmark|Global brandmark]]
+| map_alt            = 
+| mapsize            = 
+| pushpin_map_caption = Location within Latvia##Location within the Baltics##Location within Europe
+| pushpin_map        = Latvia#Baltic states#Europe
+| pushpin_relief     = 1
+| subdivision_type   = Country
+| subdivision_name   = [[Latvia]]
+| government_footnotes = <ref name="council">{{cite web |url=http://www.riga.lv/EN/Channels/Riga_Municipality/Riga_City_Council/default.htm |title=Riga City Council |publisher=Riga City Council |access-date=22 July 2009 |archive-date=25 December 2018 |archive-url=https://web.archive.org/web/20181225141932/https://www.riga.lv/lv }}</ref>
+| government_type    = [[Riga City Council|City Council]]
+| leader_title       = Mayor
+| leader_name        = [[Vilnis Ķirsis]]<ref>{{Cite web |title=Vilnis Ķirsis becomes Mayor of Rīga
+|url=https://eng.lsm.lv/article/politics/politics/18.08.2023-vilnis-kirsis-becomes-mayor-of-riga.a520589/ |access-date=2023-08-18 |website=eng.lsm.lv}}</ref>
+| area_footnotes     = {{wikidata|reference|best||P2046|P518=Q16868672}}
+| area_total_km2     = {{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q16868672}}
+| area_land_km2      = {{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q11081619}}
+| area_water_km2     = {{#expr:{{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q16868672}}-{{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q11081619}}}}
+| area_water_percent = 15.8
+| area_metro_km2     = 3359
+| population_footnotes = {{wikidata|references|best||P1082}}
+| population_total   = 605,273
+| population_as_of   = {{#invoke:WikidataIB|formatDate|{{wikidata|qualifier|best|raw||P1082|P585}}|df=y}}
+| population_density_km2 = auto
+| population_urban   = 917,351<ref name="FUA,Euro">{{Cite web|url=https://ec.europa.eu/eurostat/databrowser/view/URB_LPOP1/default/table?lang=en&category=urb.urb_luz|title=Eurostat|website=eurostat.ec.europa.eu}}</ref>
+| population_metro   = 870,000
+| population_metro_footnotes = <ref>{{cite web |url=https://www.espon.eu/metro |title=METRO – "The role and future perspectives of Cohesion Policy in the planning of Metropolitan Areas and Cities" |publisher=ESPON |page=1 |date=27 October 2020 |access-date=26 July 2021 |archive-date=14 May 2021 |archive-url=https://web.archive.org/web/20210514010345/https://www.espon.eu/metro |url-status=live }}</ref>
+| population_density_metro_km2 = auto
+| population_blank1_title = [[Demonym]]
+| population_blank1  = Rigan (''Rīdzinieks'')
+| timezone1          = EET
+| utc_offset1        = +2
+| timezone1_DST      = EEST
+| utc_offset1_DST    = +3
+<!-- GDP  --------------->| demographics_type2 = GDP
+| demographics2_footnotes = <ref>{{Cite web|url=https://data.stat.gov.lv/pxweb/en/OSP_PUB/START__VEK__IK__IKR/IKR060/table/tableViewLayout1/|title=Gross domestic product and gross value added by planning region, State city and municipality at current prices (after administrative-territorial reform in 2021), (thousand euro) – Territorial unit, Time period and Indicator|website=www.data.stat.gov.lv}}</ref><ref>{{cite web|url=https://data.stat.gov.lv/pxweb/en/OSP_PUB/START__VEK__IK__IKR/IKR010/|title=Gross domestic product by region and city (at current prices) 2000–2020|work=stat.gov.lv|access-date=30 December 2022|archive-date=30 December 2022|archive-url=https://web.archive.org/web/20221230202729/https://data.stat.gov.lv/pxweb/en/OSP_PUB/START__VEK__IK__IKR/IKR010/|url-status=live}}</ref>
+| demographics2_title1 = Capital city and [[Administrative divisions of Latvia|state city]]
+| demographics2_info1 = {{wikidata|property|qualifier|best||P2131}} ({{#invoke:WikidataIB|formatDate|{{wikidata|qualifier|best|raw||P2131|P585}}|df=y}})
+| demographics2_title2 = Per capita
+| demographics2_info2 = 28,943 Euro (2021)
+| blank3_name        = [[City budget]]
+| blank3_info        = €1.26 billion<ref>{{cite news |url=https://bnn-news.com/riga-city-council-expects-eur-140-million-more-in-budget-revenue-than-last-year-242380 |title=Riga City Council expects EUR 140 million more in budget revenue than last year |access-date=15 April 2023 |archive-date=15 April 2023 |archive-url=https://web.archive.org/web/20230415162436/https://bnn-news.com/riga-city-council-expects-eur-140-million-more-in-budget-revenue-than-last-year-242380 |url-status=live }}</ref>
+| blank4_name        = [[Human Development Index|HDI]] (2021)
+| blank4_info        = 0.929<ref>{{Cite web|url=https://globaldatalab.org/shdi/table/shdi/LVA/?levels=1+4&years=2021&interpolation=0&extrapolation=0|title=Sub-national HDI – Subnational HDI – Global Data Lab|website=globaldatalab.org|access-date=15 April 2023|archive-date=15 April 2023|archive-url=https://web.archive.org/web/20230415162436/https://globaldatalab.org/shdi/table/shdi/LVA/?levels=1+4&years=2021&interpolation=0&extrapolation=0|url-status=live}}</ref> – <span style="color:#090">very high</span>
+| coordinates        = {{coord|56|56|56|N|24|6|23|E | display = inline,title}}
+| area_code_type     = [[Telephone numbers in Latvia|Calling codes]]
+| area_code          = 66 and 67
+| website            = {{URL|http://www.riga.lv/|riga.lv}}
+| footnotes          = {{designation list | embed = yes
+ | designation1             = WHS
+ | designation1_offname     = [[Vecrīga|Historic Centre of Riga]]
+ | designation1_criteria    = ii, i
+ | designation1_number      = <ref>{{cite web |website=[[UNESCO]] World Heritage Centre |url=https://whc.unesco.org/en/list/852 |title=Historic Centre of Riga |access-date=13 May 2022 |publisher=[[UNESCO]] |archive-date=22 June 2020 |archive-url=https://web.archive.org/web/20200622180500/http://whc.unesco.org/en/list/852/ |url-status=live }}</ref>
+ | designation1_date        = 1997
+ | designation1_type        = Cultural
+ | designation1_free1name   = UNESCO region
+ | designation1_free1value  = [[List of World Heritage Sites in Europe|Europe]]
+}}
+| module             = {{Infobox mapframe |wikidata=yes |zoom=10 |height=300 |width= | stroke-width=1 |coord={{WikidataCoord|display=i}}}}
+| image_map          = Latvija Rīga 2021.svg
+| map_caption        = Riga highlighted in red inside of Latvia
+}}
+
+'''Riga''' ({{IPAc-en|ˈ|ɹ|i:|g|ə}} {{respell|REE|gə}}){{efn|{{langx|lv|Rīga}}, {{IPA-lv|ˈriːɡa||Lv-Rīga.ogg}}, {{langx|liv|Rīgõ}}, {{Langx|ru|link=no|Рига}} {{IPA|ru|ˈrʲigə|}}}} is the capital, the [[Primate city|primate]], and the [[List of cities and towns in Latvia|largest city]] of [[Latvia]]. Home to 605,273 inhabitants, the city accounts for a third of Latvia's total population. The population of [[Riga Planning Region (from 2021)|Riga metropolitan area]], which stretches beyond the city limits, is estimated at 860,142 (as of 2023). The city lies on the [[Gulf of Riga]] at the mouth of the [[Daugava (river)|Daugava]] river where it meets the [[Baltic Sea]]. Riga's territory covers {{cvt|307.17|km2}} and lies {{cvt|1|-|10|m|ft|0}} [[above sea level]]<ref name="RigaMunicipality">{{cite web|url=http://www.riga.lv/EN/Channels/About_Riga/default.htm|title=Riga Municipality Portal|publisher=Copyright 2003–2009, www.riga.lv/LV/Channels/ Riga Municipality|access-date=27 July 2009|archive-url=https://web.archive.org/web/20110828172049/http://www.riga.lv/EN/Channels/About_Riga/default.htm|archive-date=28 August 2011}}</ref> on a flat and sandy plain.<ref name="RigaMunicipality"/>
+
+Riga was founded in 1201, and is a former [[Hanseatic League]] member. Riga's historical centre is a [[UNESCO World Heritage Site]], noted for its [[Art Nouveau]]/Jugendstil architecture and 19th century wooden architecture.<ref>{{cite web|url=https://whc.unesco.org/en/list/852|title=Historic Centre of Riga – UNESCO World Heritage Centre|year=1997|publisher=UNESCO|access-date=18 December 2012|archive-date=22 June 2020|archive-url=https://web.archive.org/web/20200622180500/http://whc.unesco.org/en/list/852/|url-status=live}}</ref> Riga was the [[European Capital of Culture]] in 2014, along with [[Umeå]] in Sweden. Riga hosted the [[2006 Riga summit|2006 NATO Summit]], the [[Eurovision Song Contest 2003]], the [[2013 World Women's Curling Championship]], and the [[2006 IIHF World Championship|IIHF Men's World Ice Hockey Championships in 2006]], [[2021 IIHF World Championship|2021]], and [[2023 IIHF World Championship|2023]]. It is home to the [[European Union]]'s office of [[Body of European Regulators of Electronic Communications|European Regulators for Electronic Communications]] (BEREC). In 2017, it was named as the [[European Region of Gastronomy]].
+
+In 2019, Riga received over 1.4&nbsp;million foreign visitors.<ref>{{Cite web |title=Tourist numbers in Riga expected to reach 80% of pre-pandemic figure this year – LiveRiga |url=https://www.baltictimes.com/tourist_numbers_in_riga_expected_to_reach_80__of_pre-pandemic_figure_this_year_-_liveriga/ |access-date=2023-05-13 |website=[[baltictimes.com]]}}</ref> The city is served by [[Riga International Airport]], the largest and busiest airport in the Baltic States. Riga is a member of [[Eurocities]],<ref>{{cite web|url=http://www.eurocities.eu/|title=EUROCITIES – the network of major European cities|publisher=Eurocities|access-date=8 November 2011|archive-date=24 August 2020|archive-url=https://web.archive.org/web/20200824052544/http://www.eurocities.eu/|url-status=live}}</ref> the [[Union of the Baltic Cities]] (UBC),<ref>{{cite web|url=http://www.ubc.net/|title=Union of the Baltic Cities|publisher=Union of the Baltic Cities (UBC)|access-date=8 November 2011|archive-date=15 October 2007|archive-url=https://web.archive.org/web/20071015044702/http://www.ubc.net/|url-status=live}}</ref> and Union of Capitals of the European Union (UCEU).<ref>{{cite web|url=http://www.uceu.org|title=Union of Capitals of the European Union|publisher=Union of Capitals of the European Union (UCEU)|access-date=8 November 2011|archive-url=https://web.archive.org/web/20111020113843/http://www.uceu.org/|archive-date=20 October 2011}}</ref>
+
+== Etymology ==
+The precise origin of the name is unknown, however there are numerous and speculative theories for the origin of the name ''Riga'':
+
+* It is an adapted word, borrowing from the [[Livonian language|Livonian]] {{Lang|liv|ringa}} meaning loop, which refers to the ancient natural harbor formed by the tributary loop of the [[Daugava|Daugava River]].<ref name="CEROI">{{cite web|url=http://www.ceroi.net/reports/riga/latviski/pamatlietas/teritorija.htm|title=Teritorija un administratīvās robežas vēsturiskā skatījumā|publisher=Cities Environmental Reports on the Internet|language=lv|access-date=2 August 2007|archive-date=13 August 2007|archive-url=https://web.archive.org/web/20070813035658/http://ceroi.net/reports/riga/latviski/pamatlietas/teritorija.htm}}</ref><ref name="BCelts">{{cite web|url= http://www.liis.lv/latval/Valoda/Teksts/1nodalja/Citati/10.htm|title= Endzelīns, Did Celts Inhabit the Baltics (1911 Dzimtene's Vēstnesis (''Homeland Messenger'') No. 227)|publisher= |archive-url=https://web.archive.org/web/20081209024956/http://www.liis.lv/latval/Valoda/Teksts/1nodalja/Citati/10.htm |archive-date=9 December 2008|access-date= 24 July 2009}}</ref>
+* It could be derived from Riege, the German name for the River Rīdzene, a former tributary of the Daugava.<ref>{{cite web |url=http://www.riga.lv/EN/Channels/About_Riga/History_of_Riga/Stories/Udeni/Ridzina.htm |title=Riga municipality portal |website=riga.lv |access-date=10 February 2016 |archive-url=https://web.archive.org/web/20120223130131/http://www.riga.lv/EN/Channels/About_Riga/History_of_Riga/Stories/Udeni/Ridzina.htm |archive-date=23 February 2012}}</ref>
+* [[Albert of Riga|Bishop Albert]] claimed credit from his campaign to conquer and convert the local populace, as coming from the Latin {{Lang|la|rigata}} ("irrigated"), symbolising an "irrigation of dry pagan souls by Christianity".<ref>{{cite web |url=http://www.riga.lv/EN/Channels/About_Riga/History_of_Riga/Stories/Udeni/Ridzina.htm |title=Coat of arms of Riga|website=riga.lv |access-date=26 June 2018|archive-url=https://web.archive.org/web/20070711114153/http://www.ngw.nl/int/lat/riga.htm|archive-date=11 July 2007}}</ref>
+
+However, the most reliably documented explanation is the affirmation by German historian Dionysius Fabricius (1610) that Riga's name comes from its already established role in trade:<ref>Vauchez et al. ''Encyclopedia of the Middle Ages''. Routledge, 2001</ref> "Riga obtained its name from the buildings or warehouses found in great number along the banks of the Duna, which the Livs in their own language are accustomed to call Riae".<ref>Fabrius, D. Livonicae Historiae Compendiosa Series, 1610</ref>{{Efn|Latin original: "{{lang|la|Riga nomen sortita est suum ab aedificiis vel horreis quorum a litus Dunae magna fuit copia, quas livones sua lingua Rias vocare soliti|italic=no}}".}} The "j" in Latvian {{Lang|lv|rīja}} hardened to a "g" in German. English geographer [[Richard Hakluyt]] (1589) corroborates this account, calling Riga as ''Rie'', as pronounced in Old Latvian.<ref>Bilmanis, A. ''Latvia as an Independent State''. Latvian Legation. 1947.</ref> This is further supported by the fact that Riga is called ''Riia'' in Estonian (a language closely related to [[Livonian language|Livonian]]).
+
+== History ==
+{{Main|History of Riga}}
+{{For timeline}}
+
+{{Quote box |width=24em |align=left |bgcolor=#EBEBFF
+|title=Historical affiliations
+|fontsize=90% |quote=
+{{flagicon image|Flag of the State of the Teutonic Order.svg}} [[Terra Mariana]] ([[Condominium (international law)|condominium]] of [[Archbishopric of Riga|Archbishops of Riga]] and [[Livonian Order]]) 1201–1561<br/>{{flagicon image|Banner of the Holy Roman Emperor (after 1400).svg}} [[Free imperial city|Imperial Free City]] 1561–1582<br/>{{nowrap|{{flagicon image|Chorągiew królewska króla Zygmunta III Wazy.svg|border=no}} [[Poland–Lithuania]] 1582–1629}}<br/>{{flagicon image|Flag of Sweden.svg}} [[Swedish Empire]] 1629–1721<br/>{{flagicon image|Flag of Russia.svg}} [[Russian Empire]] 1721–1917<br/>{{flagdeco|German Empire}} [[Ober Ost|German Empire]] 1917–1918<br/>{{flagicon|LVA}} [[Latvia|Republic of Latvia]] 1918–1940<br/>{{flag|Latvian SSR|1940}} 1940–1941<br/>{{flagdeco|Nazi Germany}} [[Reichskommissariat Ostland|Nazi Germany]] 1941–1944<br/>{{flagicon|Latvian SSR|1940}} {{flag|Latvian SSR|}} 1944–1990<br/>{{flagicon|LVA}} [[Latvia|Republic of Latvia]] 1990–present
+}}
+
+=== Founding ===
+The river [[Daugava]] has been a [[trade route]] since antiquity, part of the [[Varangians|Vikings']] [[Route from the Varangians to the Greeks|Dvina–Dnieper navigation route]] to Byzantium.<ref name="BilmanisLIS">Bilmanis, A. Latvia as an Independent State. Latvian Legation. 1947.</ref> A sheltered [[natural harbour|natural harbor]] {{cvt|15|km}} upriver from the mouth of the Daugava—the site of today's Riga—has been recorded, as ''Duna Urbs'', as early as the 2nd century.<ref name="BilmanisLIS"/> It was settled by the [[Livonians|Livs]], a [[Baltic Finnic peoples|Finnic]] tribe.<!-- Requires new citation. -->
+[[File:Plaza del Ayuntamiento, Riga, Letonia, 2012-08-07, DD 10.JPG|thumb|The [[House of the Blackheads (Riga)|building of the Brotherhood of Blackheads]] is one of the most iconic buildings of Old Riga ([[Vecrīga]]).]]
+Riga began to develop as a centre of [[Viking Age|Viking trade during the early Middle Ages]].<ref name="BilmanisLIS"/>
+Riga's inhabitants engaged mainly in fishing, [[animal husbandry]], and trading, later developing crafts, including bone, wood, amber, and iron.<ref name="BilmanisLIS"/>
+
+The ''[[Livonian Chronicle of Henry]]'' testifies to Riga having long been a trading centre by the 12th century, referring to it as {{lang|la|portus antiquus}} (ancient port), and describes dwellings and warehouses used to store mostly flax, and hides.<ref name="BilmanisLIS"/> German traders began visiting Riga, establishing a nearby outpost in 1158.
+
+Along with German traders the monk [[Saint Meinhard|Meinhard of Segeberg]]<ref name="EMA">Vauchez et al. Encyclopedia of the Middle Ages. Routledge, 2001</ref> arrived to convert the Livonian pagans to Christianity. [[Catholic]] and [[Eastern Orthodox Church|Orthodox Christianity]] had already arrived in Latvia more than a century earlier, and many Latvians had been baptized.<ref name="BilmanisLIS"/><ref name="EMA"/> Meinhard settled among the Livs, building a castle and church at Uexküll (now known as [[Ikšķile]]), upstream from Riga, and established his bishopric there.<ref name="EMA"/> The Livs, however, continued to practice [[paganism]] and Meinhard died in Uexküll in 1196, having failed in his mission.<ref name="Saga">Germanis, U. The Latvian Saga. 10th ed. 1998. Memento, Stockholm.</ref> In 1198, the [[Berthold of Hanover|Bishop Berthold]] arrived with a contingent of [[crusaders]]<ref name="Saga"/> and commenced a campaign of forced [[Christianisation|Christianization]].<ref name="BilmanisLIS"/><ref name="EMA"/> Berthold died soon afterwards and his forces were defeated.<ref name="Saga"/>
+
+The Church mobilized to avenge this defeat. [[Pope Innocent III]] issued a bull declaring a crusade against the [[Livonians]].<ref name="Saga"/> [[Albert of Riga|Bishop Albert]] was proclaimed [[Bishop of Livonia]] by his uncle [[Hartwig of Uthlede]], [[Prince-Archbishopric of Bremen|Prince-Archbishop of Bremen and Hamburg]] in 1199. Albert landed in Riga in 1200<ref name="BilmanisLIS"/><ref name="Saga"/> with 23 ships<ref name="CathE">Laffort, R. (censor), ''Catholic Encyclopedia'', Robert Appleton Co., 1907</ref> and 500 Westphalian crusaders.<ref name="ReferenceA">Tolstoy-Miloslavsky, D. ''The Tolstoys: Genealogy and Origin''. A2Z, 1991</ref> In 1201, he transferred the seat of the Livonian bishopric from Uexküll to Riga, extorting agreement to do this from the elders of Riga by force.<ref name="BilmanisLIS"/><!-- FA pass done through here/pjv -->
+
+=== Under Bishop Albert ===
+The year 1201 also marked the first arrival of German merchants in Novgorod, via the Dvina.<ref name="PDIntBus">Dollinger, P. ''The Emergence of International Business 1200–1800'', 1964; translated Macmillan and Co edition, 1970</ref> To defend territory<ref name="RRiga">Reiner et al. ''Riga''. Lorenzo Pigni. 1999.</ref> and trade, Albert established the [[Livonian Brothers of the Sword|Order of Livonian Brothers of the Sword]] in 1202, which was open to nobles and merchants.<ref name=PDIntBus/>
+
+The Christianisation of the Livs continued. In 1207, Albert started to fortify the town.<ref name=PDIntBus/><ref name="ORZarina">Zarina, D. ''Old Riga: Tourist Guide'', Spriditis, 1992</ref> [[Philip of Swabia|King Philip]] invested Albert with Livonia as a fief<ref name="HistChristCh">Moeller et al. History of the Christian Church. MacMillan & Co. 1893.</ref> and principality of the [[Holy Roman Empire]].<ref name=BilmanisLIS/> To promote a permanent military presence, territorial ownership was divided between the Church and the ''Order'', with the Church taking Riga and two-thirds of all lands conquered and granting the ''Order'' a third.<ref name="ACQRxlvi">Palmieri, A. ''Catholic Origin of Latvia'', ed. Cororan, J.A. et al. ''The American Catholic Quarterly Review'', Volume XLVI, January–October 1921. Philadelphia.</ref> Until then, it had been customary for crusaders to serve for a year and then return home.<ref name=ACQRxlvi/>
+
+Albert had ensured Riga's commercial future by obtaining papal bulls which decreed that all German merchants had to carry on their Baltic trade through Riga.<ref name=ACQRxlvi/> In 1211, Riga minted its first coinage,<ref name=BilmanisLIS/> and Albert laid the cornerstone for the [[Riga Cathedral|Riga Dom]].<ref>{{cite web|url= http://www.doms.lv/info/?mnu_id=50|title= Doma vēsture (history)|archive-url=https://web.archive.org/web/20100705161605/http://www.doms.lv/info/?mnu_id=50 |archive-date=5 July 2010|access-date= 29 July 2009}}</ref> Riga was not yet secure as an alliance of tribes failed to take Riga.<ref name=ACQRxlvi/> In 1212, Albert led a campaign to compel [[Polotsk]] to grant German merchants free river passage.<ref name=PDIntBus/> Polotsk conceded Kukenois ([[Koknese]]) and [[Principality of Jersika|Jersika]] to Albert, also ending the Livs' tribute to Polotsk.<ref name="MedChronV">Kooper, E. ''The Medieval Chronicle'' V. Radopi, 2008.</ref>
+
+Riga's merchant citizenry chafed and sought greater autonomy from the Church. In 1221, they acquired the right to independently self-administer Riga<ref name=RRiga/> and adopted a city constitution.<ref name="CTHW">Wright, C.T.H. ''The Edinburgh Review'', ''The Letts'', 1917</ref>
+
+That same year Albert was compelled to recognise Danish rule over lands they had conquered in Estonia and Livonia.<ref name="CCBF">Murray, A., ''Crusade and Conversion on the Baltic Frontier, 1150–1500''. Ashgate, London. 2001.</ref> Albert had sought the aid of [[Valdemar II of Denmark|King Valdemar of Denmark]] to protect Riga and Livonian lands against Liv insurrection when reinforcements could not reach Riga. The Danes landed in Livonia, built a fortress at Reval ([[Tallinn]]) and set about conquering Estonian and Livonian lands. The Germans attempted, but failed, to assassinate Valdemar.<ref name="EccRevLVI">"The Ecclesiastical Review", Vol. LVI. ''American Ecclesiastical Review''. Dolphin Press. 1917.</ref> Albert was able to reach an accommodation with them a year later, however, and in 1222 Valdemar returned all Livonian lands and possessions to Albert's control.<ref name="PandBC">Fonnesberg-Schmidt, I. ''The Popes and the Baltic Crusades, 1147–1254''. Brill. 2006.</ref>
+
+Albert's difficulties with Riga's citizenry continued; with papal intervention, a settlement was reached in 1225 whereby they no longer had to pay tax to the Bishop of Riga,<ref name="LatEnc">Švābe, A., ed. Latvju Enciklopēdija. Trīs Zvaigznes, Stockholm. 1953–1955 (in Latvian)</ref> and Riga's citizens acquired the right to elect their magistrates and town councillors.<ref name=LatEnc/> In 1226, Albert consecrated the Dom Cathedral,<ref name=BilmanisLIS/> built [[St. James's Cathedral, Riga|St. James's Church]],<ref name=BilmanisLIS/> (now a cathedral) and founded a parochial school at the Church of St. George.<ref name=EMA/>
+
+In 1227, Albert conquered Oesel<ref name="FletcherCoEPC">Fletcher, R.A., ''The Conversion of Europe: From Paganism to Christianity, 371–1386AD''. Harper Collins. 1991.</ref> and the city of Riga concluded a treaty with the [[Principality of Smolensk]] giving Polotsk to Riga.<ref name="HfT1888">Michell, Thomas. ''Handbook for Travelers in Russia, Poland, and Finland''. London, John Murray, 1888.</ref>
+
+Albert died in January 1229.<ref name="FonnesbergPaBC">Fonnesberg-Schmidt, I., ''The Popes and the Baltic Crusades, 1147–1254''. Brill, 2007</ref> He failed in his aspiration to be anointed archbishop<ref name=HistChristCh/> but the German hegemony he established over the Livonia would last for seven centuries.<ref name=ACQRxlvi/>
+
+=== Hanseatic League ===
+In 1282, Riga became a member of the [[Hanseatic League]]. The Hansa was instrumental in giving Riga economic and political stability, thus providing the city with a strong foundation which endured the political conflagrations that were to come, down to modern times.
+
+=== Holy Roman Empire, Polish–Lithuanian Commonwealth, the Swedish and Russian Empires ===
+[[File:Panorama of Riga, 1572.jpg|thumb|upright=1.25|Riga in the 16th century]]
+[[File:Riga 1650.jpg|thumb|Riga in 1650. Drawing by [[Johann Christoph Brotze]].]]
+[[File:Map of Riga (around 1710).tif|thumb|Map if Riga (around 1710)]]
+As the influence of the Hanseatic League waned, Riga became the object of foreign military, political, religious and economic aspirations. Riga accepted the [[Reformation]] in 1522, ending the power of the archbishops. In 1524, [[iconoclast]]s targeted a statue of the [[Virgin Mary]] in the cathedral to make a statement against religious icons. It was accused of being a witch, and given a [[Trial by ordeal|trial by water]] in the [[Daugava]] river. The statue floated, so it was denounced as a witch and burnt at Kubsberg.<ref name="fn_1">{{cite book|last=MacCulloch|first=Diarmaid|author-link=Diarmaid MacCulloch|title=The Reformation: A History|url=https://books.google.com/books?id=rE7uAAAAMAAJ|year=2003|publisher=Penguin|page = 150|isbn=978-0-670-03296-9|access-date=10 February 2016}}</ref> With the demise of the [[Livonian Order]] (1561) during the [[Livonian War]], Riga for twenty years had the status of a [[free imperial city]] of the [[Holy Roman Empire]] before it came under the influence of the [[Polish–Lithuanian Commonwealth]] by the [[Treaty of Drohiczyn]], which ended the war for Riga in 1581. In 1621, during the [[Polish–Swedish War (1621–1625)]], Riga and the outlying fortress of [[Daugavgrīva]] came under the rule of [[Gustavus Adolphus]], [[King of Sweden]], who intervened in the [[Thirty Years' War]] not only for political and economic gain but also in favour of German [[Lutheran]] [[Protestantism]]. During the [[Russo-Swedish War (1656–1658)]], Riga withstood a siege by Russian forces.
+
+Riga remained one of the largest cities under the Swedish crown until 1710,<ref>The Dynamics of Economic Culture in the North Sea and Baltic Region. Uitgeverij Verloren, 2007. {{ISBN|9789065508829}}. P. 242.</ref> a period during which the city retained a great deal of autonomous self-government. In July 1701, during the opening phase of the [[Great Northern War]], the ''[[Crossing of the Düna]]'' took place nearby, resulting in a victory for king [[Charles XII of Sweden]]. Between November 1709 and June 1710, however, the Russians under [[Tsar]] [[Peter the Great]] [[Capitulation of Estonia and Livonia|besieged and captured Riga]], which was at the time [[The plague during the Great Northern War#Lithuania, Livonia, Estonia|struck by a plague]]. Along with the other Livonian towns and gentry, [[Capitulation of Estonia and Livonia|Riga capitulated to Russia]], but largely retained their privileges. Riga was made the capital of the [[Governorate of Livonia|Governorate of Riga (later, Livonia)]]. [[Swedish Empire|Sweden's northern dominance]] had ended, and Russia's [[Russian Empire|emergence as the strongest Northern power]] was formalised through the [[Treaty of Nystad]] in 1721. At the beginning of the 20th century Riga was the largest{{Dubious|date=December 2020}} timber export port in the Russian Empire and ranked the 3rd{{When|date=December 2020}} according to the external trade volume.<ref>{{Cite web|title=Port Riga over nine Centuries|url=http://rop.lv/en/about-port/history.html?showall=1&limitstart=|archive-url=https://web.archive.org/web/20160408153815/http://rop.lv/en/about-port/history.html?showall=1&limitstart=|archive-date=8 April 2016|publisher=Freeport of Riga Authority}}</ref><ref>{{Cite web|title=Riga {{!}} History, Population, & Facts|url=https://www.britannica.com/place/Riga|access-date=2021-01-05|website=Encyclopedia Britannica|language=en|archive-date=25 January 2021|archive-url=https://web.archive.org/web/20210125023447/https://www.britannica.com/place/Riga|url-status=live}}</ref>
+
+During these many centuries of war and changes of power in the Baltic, and despite demographic changes, the [[Baltic Germans]] in Riga had maintained a dominant position. By 1867, Riga's population was 42.9% German.<ref>{{cite web|url=http://www.history-museum.lv/english/pages/par-mums/muzeja-vesture.php|title=National History Museum of Latvia|work=history-museum.lv|access-date=10 February 2016|archive-date=24 September 2015|archive-url=https://web.archive.org/web/20150924030429/http://www.history-museum.lv/english/pages/par-mums/muzeja-vesture.php|url-status=live}}</ref> Riga employed German as its [[official language]] of administration until the installation of Russian in 1891 as the official language in the [[Baltic provinces]], as part of the policy of [[Russification]] of the non-Russian-speaking territories of the Russian Empire, including [[Congress Poland]], Finland and the Baltics, undertaken by [[Tsar Alexander III]]. More and more Latvians started moving to the city during the mid-19th century. The rise of a Latvian [[bourgeoisie]] made Riga a centre of the [[Latvian National Awakening]] with the founding of the Riga Latvian Association in 1868 and the organisation of the first national song festival in 1873. The nationalist movement of the [[Young Latvians|Neo-Latvians]] was followed by the socialist [[New Current]] during the city's rapid industrialisation, culminating in the [[1905 Russian Revolution|1905 Revolution]] led by the [[Latvian Social Democratic Workers' Party]].
+
+=== World War I ===
+[[File:Baltische Post 25 October 1908.jpg|thumb|right|''Baltische Post'' (written with [[long s]]) was a German language newspaper in Riga during the early 20th century.]]
+[[File:German troops Riga 1917.jpg|thumb|German troops entering Riga during World War I]]
+The 20th century brought [[World War I]] and the impact of the [[Russian Revolution]] of 1917 to Riga. As a result of the [[battle of Jugla]], the [[Imperial German Army|German army]] marched into Riga on 3 September 1917.<ref>{{cite web |url=http://www.greatwardifferent.com/Great_War/Russian_Battery/Retirement_01.htm |title=Russian Retreat 1917 |publisher=Greatwardifferent.com |access-date=16 September 2011 |archive-date=18 June 2011 |archive-url=https://web.archive.org/web/20110618041140/http://www.greatwardifferent.com/Great_War/Russian_Battery/Retirement_01.htm |url-status=live }}</ref> On 3 March 1918, the [[Treaty of Brest-Litovsk]] was signed, giving the [[Baltic countries]] to Germany. Because of the [[Armistice of 11 November 1918|armistice with Germany]] of 11 November 1918, Germany had to renounce that treaty, as did Russia, leaving Latvia and the other Baltic States in a position to claim independence. Latvia, with Riga as its capital city, thus declared its independence on 18 November 1918.
+Between World War I and World War II (1918–1940), Riga and Latvia shifted their focus from Russia to the countries of Western Europe. The United Kingdom and Germany replaced Russia as Latvia's major trade partners. The majority of the Baltic Germans [[Nazi–Soviet population transfers|were resettled in late 1939]], prior to the occupation of Estonia and Latvia by the Soviet Union in June 1940.
+
+=== World War II and Soviet era ===
+{{Unreferenced section|date=September 2024}}
+[[File:Damaged buildings of the Riga Old Town and St. Peter's Church during the World War II, 1939-1945.jpg|thumb|Damaged [[House of the Blackheads (Riga)|House of the Blackheads]] and [[St. Peter's Church, Riga|St. Peter's Church]] during World War II]]
+During [[World War II]], Latvia was occupied by the [[Soviet Union]] in June 1940 and then was occupied by [[German occupation of Latvia during World War II|Nazi Germany in 1941–1944]]. On 17 June 1940, the Soviet forces invaded Latvia occupying bridges, post/telephone, telegraph, and broadcasting offices. Three days later, Latvian president [[Kārlis Ulmanis]] was forced to approve a pro-Soviet government which had taken office. On 14–15 July, rigged elections were held in Latvia and the other Baltic states, The ballots held the following instructions: "Only the list of the [[Latvian Working People's Bloc]] must be deposited in the ballot box. The ballot must be deposited without any changes." The alleged voter activity index was 97.6%. Most notably, the complete election results were published in Moscow 12 hours before the election closed. Soviet electoral documents found later substantiated that the results were completely fabricated. The Soviet authorities, having regained control over Riga and Latvia imposed a regime of terror, opening the headquarters of the [[KGB]], massive deportations started. Hundreds of men were arrested, including leaders of the former Latvian government. The most notorious deportation, the [[June deportation]] took place on 13 and 14 June 1941, estimated at 15,600 men, women, and children, and including 20% of Latvia's last legal government. Similar deportations were repeated after the end of World War II. The building of the KGB located at 61 [[Brīvības iela]], known as 'the corner house', is now a museum. Stalin's deportations also included thousands of Latvian Jews. The mass deportation totalled 131,500 across the Baltics.
+
+During the Nazi occupation, the [[History of the Jews in Latvia|Jewish community]] was forced into the [[Riga Ghetto]] and a [[Nazi concentration camp]] was constructed in [[Kaiserwald concentration camp|Kaiserwald]]. On 25 October 1941, the Nazis relocated all Jews from Riga and the vicinity to the ghetto. Most of Latvia's Jews (about 24,000) were killed on 30 November and 8 December 1941 in the [[Rumbula massacre]].<ref>Ezergailis, ''The Holocaust in Latvia'', p. 348</ref> By the end of the war, the remaining [[Baltic Germans]] were [[Flight and expulsion of Germans (1944–1950)#Soviet Union|expelled to Germany]].
+
+[[File:Red Army soldiers in Riga. October 1944.jpg|thumb|Soldiers of the [[Soviet re-occupation of the Baltic states (1944)|Soviet]] [[Red Army]] in front of the [[Freedom Monument]] in Riga in 1944]]
+The Soviet Red Army reconquered Riga on 13 October 1944. In the following years the massive influx of labourers, administrators, military personnel, and their dependents from Russia and other Soviet republics started. [[Microdistrict]]s of the large multi-storied housing blocks were built to house immigrant workers.
+
+By the end of World War II, [[Vecrīga|Riga's historical centre]] was heavily damaged from constant bombing. After the war, huge efforts were made to reconstruct and renovate most of the famous buildings that had been part of the skyline of the city before the war. Such buildings were, amongst others, [[St. Peter's Church, Riga|St. Peter's Church]] which lost its wooden tower after a fire caused by the [[Wehrmacht]] (renovated in 1954). Another example is the [[House of the Blackheads (Riga)|House of the Blackheads]], completely destroyed, its ruins subsequently demolished; a [[facsimile]] was constructed in 1995.
+
+In 1989, the percentage of Latvians in Riga had fallen to 36.5%.<ref>{{cite web|url=http://www.csb.gov.lv/en/statistikas-temas/population-database-30625.html|title=Population – Database|work=csb.gov.lv|access-date=10 February 2016|archive-url=https://web.archive.org/web/20120221072849/http://www.csb.gov.lv/en/statistikas-temas/population-database-30625.html|archive-date=21 February 2012}}</ref>
+
+=== 21st century ===
+{{expand section|date=December 2011}}
+[[File:Ministru prezidents Valdis Dombrovskis noliek ziedus pie Brīvības pieminekļa (7141677177).jpg|thumb|Flower laying ceremony at the [[Freedom Monument]] in 2012]]
+In 2004, the arrival of [[low-cost airline]]s resulted in cheaper flights from other European cities such as London and Berlin, and consequently a substantial increase in numbers of tourists.<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/programmes/crossing_continents/4633647.stm|work=BBC News|title=Latvia prepares for a tourist invasion|first=Jonathan|last=Charles|access-date=2 August 2007|date=30 June 2005|archive-date=8 April 2008|archive-url=https://web.archive.org/web/20080408135100/http://news.bbc.co.uk/2/hi/programmes/crossing_continents/4633647.stm|url-status=live}}</ref>
+
+On 21 November 2013, the [[Zolitūde shopping centre roof collapse|roof of a supermarket collapsed]] in [[Zolitūde]], one of the neighbourhoods of the city, possibly as a result of the weight of materials used in the construction of a garden on the roof. Fifty-four people were killed. Latvian President [[Andris Bērziņš (Latvian President)|Andris Bērziņš]] described the disaster as "a large-scale murder of many defenceless people".<ref>{{cite news|url=https://www.bbc.co.uk/news/world-europe-25069947|title=Remaining Riga mall roof caves in|work=BBC News|access-date=22 June 2018|archive-date=1 January 2016|archive-url=https://web.archive.org/web/20160101113813/http://www.bbc.co.uk/news/world-europe-25069947|url-status=live}}</ref>
+
+[[File:View from Latvian Academy of Sciences building.09.jpg|thumb|Modern highrises of Riga]]
+Riga was the [[European Capital of Culture]] in 2014.<ref>{{cite web|url=http://www.riga.com/|title=Riga, Latvia|work=riga.com|access-date=10 February 2016|archive-date=8 February 2016|archive-url=https://web.archive.org/web/20160208085353/http://riga.com/|url-status=live}}</ref> During Latvia's [[Presidency of the Council of the European Union]] in 2015, the 4th [[Eastern Partnership]] Summit took place in Riga.<ref>{{cite web|url=http://www.consilium.europa.eu/en/meetings/international-summit/2015/05/21-22/|title=Eastern Partnership summit, Riga, 21-22/05/2015|work=European Council|access-date=10 February 2016|archive-date=15 February 2016|archive-url=https://web.archive.org/web/20160215154659/http://www.consilium.europa.eu/en/meetings/international-summit/2015/05/21-22/|url-status=live}}</ref>
+
+Following the [[2022 Russian invasion of Ukraine]], the [[Saeima]] voted to suspend the functioning of a section of an agreement between Latvia and Russia regarding the preservation of memorial structures on 12 May,<ref>{{cite news |url=https://eng.lsm.lv/article/politics/saeima/saeima-decides-to-legally-allow-soviet-monument-demolition.a456417/ |title=Saeima decides to legally allow Soviet monument demolition |date=12 May 2022 |publisher=[[Public Broadcasting of Latvia]] |accessdate=12 May 2022 |archive-date=12 May 2022 |archive-url=https://web.archive.org/web/20220512093818/https://eng.lsm.lv/article/politics/saeima/saeima-decides-to-legally-allow-soviet-monument-demolition.a456417/ |url-status=live }}</ref> in the next day the [[Riga City Council]] also voted to demolish the [[Monument to the Liberators of Soviet Latvia and Riga from the German Fascist Invaders]].<ref>{{cite news |url=https://bnn-news.com/riga-city-council-votes-in-favour-of-demolition-of-occupation-monument-234717 |title=Riga City Council votes in favour of demolition of "Occupation monument" |date=13 May 2022 |publisher=[[Baltic News Network]] |agency=[[LETA]] |accessdate=26 August 2022 |archive-date=4 October 2022 |archive-url=https://web.archive.org/web/20221004141539/https://bnn-news.com/riga-city-council-votes-in-favour-of-demolition-of-occupation-monument-234717 |url-status=live }}</ref> On 20 May, a rally called "Getting Rid of Soviet Heritage" took place in Riga to call for removing Soviet monuments in Latvia, it was attended by approximately 5,000 people.<ref>{{cite news |url=https://eng.lsm.lv/article/society/society/thousands-turn-out-to-support-removal-of-soviet-relics.a457795/ |title=Thousands turn out to support removal of Soviet relics |date=20 May 2022 |publisher=[[Public Broadcasting of Latvia]] |agency=[[LETA]] |access-date=9 April 2023 |archive-date=6 October 2022 |archive-url=https://web.archive.org/web/20221006221037/https://eng.lsm.lv/article/society/society/thousands-turn-out-to-support-removal-of-soviet-relics.a457795/ |url-status=live }}</ref> The demolition began 22 August 2022 and on 25 August 2022, the obelisk was toppled.<ref name="Demolition">{{cite news |url=https://eng.lsm.lv/article/society/environment/demolition-of-soviet-victory-monument-in-riga.a470869 |title=Demolition of Soviet Victory monument in Rīga |date=25 August 2022 |publisher=[[Public Broadcasting of Latvia]] |accessdate=25 August 2022 |archive-date=25 August 2022 |archive-url=https://web.archive.org/web/20220825163700/https://eng.lsm.lv/article/society/environment/demolition-of-soviet-victory-monument-in-riga.a470869/ |url-status=live }}</ref><ref name="Demolition (2)">{{cite news |url=https://bnn-news.com/video-79-m-tall-obelisk-of-soviet-victory-monument-toppled-in-pardaugava-237651 |title=79 m tall obelisk of Soviet Victory Monument toppled in Pārdaugava |date=26 August 2022 |publisher=[[Baltic News Network]] |accessdate=26 August 2022 |archive-date=26 August 2022 |archive-url=https://web.archive.org/web/20220826074105/https://bnn-news.com/video-79-m-tall-obelisk-of-soviet-victory-monument-toppled-in-pardaugava-237651 |url-status=live }}</ref><ref name="Demolition (3)">{{cite news |url=https://www.baltictimes.com/largest_soviet_monument_in_baltics_dismantled_in_riga/ |title=Largest Soviet monument in Baltics dismantled in Riga |date=26 August 2022 |newspaper=[[The Baltic Times]] |accessdate=26 August 2022 |archive-date=27 August 2022 |archive-url=https://web.archive.org/web/20220827233708/https://www.baltictimes.com/largest_soviet_monument_in_baltics_dismantled_in_riga/ |url-status=live }}</ref> In 2022, after the [[Russian invasion of Ukraine]], the street on which the Embassy of the Russian Federation is located was renamed "Independent Ukraine Street."<ref>{{Cite news |agency=Agence France-Presse |date=2022-03-10 |title=Lithuania names road leading to Russian embassy 'Ukrainian Heroes' Street' |language=en-GB |work=The Guardian |url=https://www.theguardian.com/world/2022/mar/10/lithuania-names-road-leading-to-russian-embassy-ukrainian-heroes-street |access-date=2023-04-15 |issn=0261-3077 |archive-date=10 July 2022 |archive-url=https://web.archive.org/web/20220710185212/https://www.theguardian.com/world/2022/mar/10/lithuania-names-road-leading-to-russian-embassy-ukrainian-heroes-street |url-status=live }}</ref><ref>{{Cite web |title=Embassy of Russia · Antonijas iela 2, Centra rajons, Rīga, LV-1010, Latvia |url=https://www.google.com/maps/place/Embassy+of+Russia/@56.9571165,24.1072606,17z/data=!4m6!3m5!1s0x46eecfc54442965f:0x50bbd3520f77aab!8m2!3d56.9566441!4d24.1084703!16s/g/11f0wp_dpj?hl=en |access-date=2023-04-15 |website=Embassy of Russia · Antonijas iela 2, Centra rajons, Rīga, LV-1010, Latvia |language=en |archive-date=15 April 2023 |archive-url=https://web.archive.org/web/20230415050756/https://www.google.com/maps/place/Embassy+of+Russia/@56.9571165,24.1072606,17z/data=!4m6!3m5!1s0x46eecfc54442965f:0x50bbd3520f77aab!8m2!3d56.9566441!4d24.1084703!16s/g/11f0wp_dpj?hl=en |url-status=live }}</ref>
+
+== Geography ==
+
+{{See also|Neighbourhoods in Riga|List of tourist attractions in Riga}}<!--Riga is [[List of cities in the Baltic states by population|one of the most populous cities]] in the [[Baltic States]]-->
+Riga is one of the [[List of cities in the Baltic states by population|largest]] [[Baltic states#Cities|city]] <!--(followed by [[Vilnius]])--> in the three [[Baltic states]]: (Lithuania, Latvia, and Estonia).<ref>{{Cite web |url=https://app.powerbi.com/view?r=eyJrIjoiOTE2Mzk5MjEtZGU5Yi00MTU1LWFkOGEtYmQ2M2ZiM2RmYzQxIiwidCI6ImFmZjM2MzMxLTNlNWUtNDdlOC1hZjkzLTE4NTFkNmQxZmUzYiIsImMiOjh9 |title=Statistics of Vilnius; municipality of Vilnius |access-date=3 October 2022 |archive-date=30 September 2022 |archive-url=https://web.archive.org/web/20220930161658/https://app.powerbi.com/view?r=eyJrIjoiOTE2Mzk5MjEtZGU5Yi00MTU1LWFkOGEtYmQ2M2ZiM2RmYzQxIiwidCI6ImFmZjM2MzMxLTNlNWUtNDdlOC1hZjkzLTE4NTFkNmQxZmUzYiIsImMiOjh9 |url-status=live }}</ref>{{Citation needed|date=September 2023}}<ref>{{Cite web |url=https://www.delfi.lt/news/daily/lithuania/tai-ivyko-vilnius-tapo-didziausiu-miestu-baltijos-salyse.d?id=91151075 |title=It happened: Vilnius became the largest city in the Baltic States |access-date=4 October 2022 |archive-date=4 October 2022 |archive-url=https://web.archive.org/web/20221004105019/https://www.delfi.lt/news/daily/lithuania/tai-ivyko-vilnius-tapo-didziausiu-miestu-baltijos-salyse.d?id=91151075 |url-status=live }}</ref> Riga is home to approximately one tenth of the three Baltic countries' combined population.<ref>{{cite web|url=http://www.li.lv/index.php?option=com_content&task=view&id=12&Itemid=1060|title=Latvia in Brief|year=2011|publisher=Latvian Institute|access-date=5 November 2011|archive-date=26 December 2018|archive-url=https://web.archive.org/web/20181226035413/http://www.li.lv/index.php?option=com_content&task=view&id=12&Itemid=1060|url-status=dead}}</ref>
+
+=== Administrative divisions ===
+{{Main|Administrative divisions of Riga}}
+*[[Central District, Riga|Central District]] ({{cvt|3|km2|disp=or}})
+*[[Kurzeme District, Riga|Kurzeme District]] ({{cvt|79|km2|disp=or}})
+*[[Zemgale Suburb, Riga|Zemgale Suburb]] ({{cvt|41|km2|disp=or}})
+*[[Northern District, Riga|Northern District]] ({{cvt|77|km2|disp=or}})
+*[[Vidzeme Suburb, Riga|Vidzeme Suburb]] ({{cvt|57|km2|disp=or}})
+*[[Latgale Suburb, Riga|Latgale Suburb]] ({{cvt|50|km2|disp=or}})
+
+Riga's administrative divisions consist of six administrative entities: [[Central District, Riga|Central]], [[Kurzeme District, Riga|Kurzeme]] and [[Northern District, Riga|Northern]] districts and the [[Latgale Suburb, Riga|Latgale]], [[Vidzeme Suburb, Riga|Vidzeme]] and [[Zemgale Suburb, Riga|Zemgale]] suburbs. Three entities were established on 1 September 1941, and the other three were established in October 1969.<ref name="halduskultur">{{cite web |url=http://www.halduskultuur.eu/Mikk_Lohmus_and_Illar_Tonisson.pdf |title=Evolvement of Administrative Division of Tallinn, Riga and Vilnius |pages=55, 77 |author1=Mikk Lõhmus |author2=Illar Tõnisson |name-list-style=amp |publisher=[[Tallinn University of Technology]] |access-date=29 June 2010 |archive-date=20 July 2011 |archive-url=https://web.archive.org/web/20110720162708/http://www.halduskultuur.eu/Mikk_Lohmus_and_Illar_Tonisson.pdf |url-status=live }}</ref> There are no official lower-level administrative units, but the Riga City Council Development Agency is working on a plan, which officially makes Riga consist of 58 neighbourhoods.<ref name="rdpad">{{cite web |url=http://www.rdpad.lv/apkaimes/ |title=Apkaimju projekts |publisher=Riga City Council Development Agency |language=lv |access-date=29 June 2010 |archive-date=25 May 2010 |archive-url=https://web.archive.org/web/20100525164020/http://www.rdpad.lv/apkaimes/ |url-status=live }}</ref> The current names were confirmed on 28 December 1990.<ref name="CEROI2">{{cite web |url=http://www.ceroi.net/reports/riga/background_things/teritory.htm |title=Changes in the Administrative Division of the Territory of Riga after the Loss of Independence (1940–1991) |publisher=Riga City Environment Centre "Agenda 21" |access-date=29 June 2010 |archive-date=23 July 2011 |archive-url=https://web.archive.org/web/20110723041251/http://www.ceroi.net/reports/riga/background_things/teritory.htm }}</ref>
+
+{{wide image|Riga Skyline Panorama, Latvia - Diliff.jpg|1200px|Panorama over Riga from [[St. Peter's Church, Riga|St. Peter's Church]]}}
+
+=== Climate ===
+The climate of Riga is [[humid continental climate|humid continental]] (Köppen ''Dfb'').<ref>{{Cite web|url=http://www.renewit-tool.eu/Content/File/1-Meteorological%20data.pdf|title=Hypothesis for modelling: Meteorological data|date=2015|publisher=[[European Union]]|archive-url=https://web.archive.org/web/20200324155542/http://www.renewit-tool.eu/Content/File/1-Meteorological%20data.pdf|archive-date=24 March 2020|access-date=24 March 2020}}</ref> The coldest months are January and February, when the average temperature is {{cvt|-2.1|C|0|lk=on}} but temperatures as low as {{cvt|-20|to|-25|C|0}} can be observed almost every year on the coldest days. The proximity of the sea causes frequent autumn rains and fogs. Continuous snow cover may last eighty days. The summers in Riga are mild and rainy with an average temperature of {{cvt|18|C|0}}, while the temperature on the hottest days can exceed {{cvt|30|C|0}}.
+
+{{Clear}}{{Weather box
+| location = Riga (1991–2020 normals, extremes 1885–present)
+| metric first = Y
+| single line = Y
+|collapsed = yes
+| Jan record high C = 10.2
+| Feb record high C = 13.6
+| Mar record high C = 21.7
+| Apr record high C = 27.9
+| May record high C = 30.5
+| Jun record high C = 34.0
+| Jul record high C = 34.5
+| Aug record high C = 33.9
+| Sep record high C = 29.4
+| Oct record high C = 23.4
+| Nov record high C = 17.2
+| Dec record high C = 11.8
+| year record high C = 34.5
+| Jan avg record high C = 5.9
+| Feb avg record high C = 6.1
+| Mar avg record high C = 12.7
+| Apr avg record high C = 21.5
+| May avg record high C = 26.3
+| Jun avg record high C = 28.4
+| Jul avg record high C = 30.1
+| Aug avg record high C = 29.4
+| Sep avg record high C = 23.9
+| Oct avg record high C = 17.3
+| Nov avg record high C = 10.9
+| Dec avg record high C = 6.7
+| year avg record high C = 31.4
+| Jan high C = -0.1
+| Feb high C = 0.3
+| Mar high C = 4.8
+| Apr high C = 11.9
+| May high C = 17.8
+| Jun high C = 21.3
+| Jul high C = 23.8
+| Aug high C = 22.7
+| Sep high C = 17.3
+| Oct high C = 10.5
+| Nov high C = 4.8
+| Dec high C = 1.4
+| Jan mean C = -2.1
+| Feb mean C = -2.0
+| Mar mean C = 1.5
+| Apr mean C = 7.4
+| May mean C = 13.0
+| Jun mean C = 16.7
+| Jul mean C = 19.3
+| Aug mean C = 18.3
+| Sep mean C = 13.4
+| Oct mean C = 7.5
+| Nov mean C = 3.0
+| Dec mean C = -0.3
+| Jan low C = -4.5
+| Feb low C = -4.6
+| Mar low C = -1.7
+| Apr low C = 2.9
+| May low C = 8.2
+| Jun low C = 12.4
+| Jul low C = 14.9
+| Aug low C = 14.1
+| Sep low C = 9.8
+| Oct low C = 4.9
+| Nov low C = 1.1
+| Dec low C = -2.4
+| Jan avg record low C = -16.4
+| Feb avg record low C = -15.8
+| Mar avg record low C = -10.4
+| Apr avg record low C = -3.9
+| May avg record low C = 0.2
+| Jun avg record low C = 5.3
+| Jul avg record low C = 9.3
+| Aug avg record low C = 8.0
+| Sep avg record low C = 3.0
+| Oct avg record low C = -2.4
+| Nov avg record low C = -6.5
+| Dec avg record low C = -11.4
+| year avg record low C = -20.3
+| Jan record low C = −33.7
+| Feb record low C = −34.9
+| Mar record low C = −30.3
+| Apr record low C = −13.1
+| May record low C = −5.5
+| Jun record low C = −2.3
+| Jul record low C = 4.0
+| Aug record low C = 0.0
+| Sep record low C = −4.1
+| Oct record low C = −9.5
+| Nov record low C = −20.5
+| Dec record low C = −31.9
+| year record low C = −34.9
+| precipitation colour = green
+| Jan precipitation mm = 46.5
+| Feb precipitation mm = 40.1
+| Mar precipitation mm = 34.1
+| Apr precipitation mm = 35.0
+| May precipitation mm = 47.5
+| Jun precipitation mm = 65.0
+| Jul precipitation mm = 79.5
+| Aug precipitation mm = 77.9
+| Sep precipitation mm = 67.1
+| Oct precipitation mm = 75.6
+| Nov precipitation mm = 56.3
+| Dec precipitation mm = 50.2
+| year precipitation mm = 
+| Jan snow cm = 25.0
+| Feb snow cm = 23.6
+| Mar snow cm = 15.7
+| Apr snow cm = 5.2
+| May snow cm = 0.0
+| Jun snow cm = 0.0
+| Jul snow cm = 0.0
+| Aug snow cm = 0.0
+| Sep snow cm = 0.0
+| Oct snow cm = 1.2
+| Nov snow cm = 7.0
+| Dec snow cm = 22.0
+| year snow cm = 
+| unit precipitation days = 1.0mm
+| Jan precipitation days = 11
+| Feb precipitation days = 9
+| Mar precipitation days = 8
+| Apr precipitation days = 7
+| May precipitation days = 8
+| Jun precipitation days = 10
+| Jul precipitation days = 9
+| Aug precipitation days = 10
+| Sep precipitation days = 9
+| Oct precipitation days = 12
+| Nov precipitation days = 11
+| Dec precipitation days = 11
+| year precipitation days = 
+| Jan humidity = 85.9
+| Feb humidity = 82.4
+| Mar humidity = 76.0
+| Apr humidity = 68.2
+| May humidity = 66.3
+| Jun humidity = 69.1
+| Jul humidity = 71.0
+| Aug humidity = 73.2
+| Sep humidity = 78.5
+| Oct humidity = 83.1
+| Nov humidity = 87.2
+| Dec humidity = 87.4
+| year humidity = 77.4
+| Jan sun = 36.6
+| Feb sun = 64.2
+| Mar sun = 141.2
+| Apr sun = 203.6
+| May sun = 286.7
+| Jun sun = 282.2
+| Jul sun = 291.2
+| Aug sun = 250.4
+| Sep sun = 166.7
+| Oct sun = 95.5
+| Nov sun = 36.1
+| Dec sun = 24.4
+| year sun = 
+| Jan uv = 0
+| Feb uv = 1
+| Mar uv = 2
+| Apr uv = 3
+| May uv = 5
+| Jun uv = 6
+| Jul uv = 5
+| Aug uv = 5
+| Sep uv = 3
+| Oct uv = 1
+| Nov uv = 0
+| Dec uv = 0
+| source 1 = [[Latvian Environment, Geology and Meteorology Centre|Latvian Environment, Geology and Meteorology Agency]] (temperature, precipitation and sunshine)<ref name = 9120average>{{cite web
+| url = https://data.gov.lv/dati/dataset/klimatisko-normu-dati/resource/4ef4a2ac-b439-478a-83b3-cdd39b1eff77
+| title = Klimatisko normu dati
+| language = lv
+| publisher = [[Latvian Environment, Geology and Meteorology Centre]]
+| accessdate = March 17, 2023
+| archive-date = 13 January 2023
+| archive-url = https://web.archive.org/web/20230113024913/https://data.gov.lv/dati/dataset/klimatisko-normu-dati/resource/4ef4a2ac-b439-478a-83b3-cdd39b1eff77
+| url-status = live
+}}</ref><ref name = extremes>{{cite web
+| url = https://klimats.meteo.lv/klimats/rekordi/
+| title = Gaisa temperatūras rekordi
+| language = lv
+| publisher = [[Latvian Environment, Geology and Meteorology Centre]]
+| accessdate = March 17, 2023
+| archive-date = 13 January 2023
+| archive-url = https://web.archive.org/web/20230113024910/https://klimats.meteo.lv/klimats/rekordi/
+| url-status = live
+}}</ref>
+| source 2 = [[NOAA]] (precipitation days, humidity 1991–2020),<ref name=NOAA>{{cite web
+|url = https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-6-WMO-Normals-9120/Latvia/CSV/RigaLu_26422.csv
+|title = Riga Climate Normals 1991–2020
+|publisher = [[National Oceanic and Atmospheric Administration]]
+|access-date = 2 February 2024
+|archive-date = 31 March 2023
+|archive-url = https://www.delfi.lv/laika-zinas/42384664/raksti/120007877/latvija-labots-menesa-siltuma-rekords#google_vignette
+|url-status = live
+}}</ref> Weather Atlas,<ref>{{Cite web|url=https://www.weather-atlas.com/en/latvia/riga-climate|title=Riga, Latvia – Detailed climate information and monthly weather forecast|publisher=Yu Media Group|website=Weather Atlas|language=en|access-date=6 July 2019|archive-date=6 July 2019|archive-url=https://web.archive.org/web/20190706140053/https://www.weather-atlas.com/en/latvia/riga-climate|url-status=live}}</ref> and World Weather Online (snowfall)<ref>{{Cite web|url=https://www.worldweatheronline.com/riga-weather-averages/riga/lv.aspx|title=Riga Climate Weather Averages|last=d.o.o|website=Weather Weather Online|language=en|access-date=29 August 2022|archive-date=29 August 2022|archive-url=https://web.archive.org/web/20220829210456/https://www.worldweatheronline.com/riga-weather-averages/riga/lv.aspx|url-status=live}}</ref>}}
+{|style="width:100%;text-align:center;line-height:1.2em;margin-left:auto;margin-right:auto" class="wikitable"
+|-
+!Colspan=14|Coastal temperature data for Riga ([[Daugavgrīva]])
+|-
+!Month
+!Jan
+!Feb
+!Mar
+!Apr
+!May
+!Jun
+!Jul
+!Aug
+!Sep
+!Oct
+!Nov
+!Dec
+!style="border-left-width:medium"|Year
+|-
+!Average sea temperature °C (°F)
+| style="{{Weather box/colt|-20.0}}"|1.0<br/>(33.80)
+| style="{{Weather box/colt|-21.0}}"|0.7<br/>(33.26)
+| style="{{Weather box/colt|-21.6}}"|0.5<br/>(32.90)
+| style="{{Weather box/colt|-13.3}}"|3.0<br/>(37.40)
+| style="{{Weather box/colt|7.0}}"|9.1<br/>(48.38)
+| style="{{Weather box/colt|19.0}}"|15.5<br/>(59.90)
+| style="{{Weather box/colt|25.7}}"|19.6<br/>(67.28)
+| style="{{Weather box/colt|25.4}}"|19.4<br/>(66.92)
+| style="{{Weather box/colt|20.3}}"|16.3<br/>(61.34)
+| style="{{Weather box/colt|12.1}}"|11.3<br/>(52.34)
+| style="{{Weather box/colt|1.3}}"|7.4<br/>(45.32)
+| style="{{Weather box/colt|-9.0}}"|4.3<br/>(39.74)
+| style="{{Weather box/colt|6.7}}"|9.0<br/>(48.21)
+|-
+!Colspan=14 style="background:#ffffff;font-weight:normal;font-size:100%;"|Source 1: Seatemperature.org<ref>{{Cite web|url=https://live.seatemperature.org/europe/latvia/daugavgriva.htm|title=Riga Sea Temperature|access-date=7 April 2023|archive-date=7 April 2023|archive-url=https://web.archive.org/web/20230407033612/https://live.seatemperature.org/europe/latvia/daugavgriva.htm|url-status=live}}</ref>
+|}
+
+== Government ==
+{{Main|Riga City Council}}
+[[File:Riga - City Hall.jpg|thumb|[[Riga City Council]]]]
+
+The head of the city government in Riga is the mayor, or officially the Chairman of the Riga City Council. The mayor is elected by the city council. He or she is assisted by one or more Vice Mayors (deputy mayors). The current mayor is [[Vilnis Ķirsis]], who was elected on 17 August 2023 from [[New Unity]], with support from "Coalition for Cooperation", consisting of [[New Unity]], [[National Alliance (Latvia)|National Alliance/Latvian Regional Alliance (NA/LRA)]], Code for Riga, [[Honor to serve Riga|Honor to server Riga]] and [[For Latvia's Development]] factions.
+
+The city council is a democratically elected institution and is the final decision-making authority in the city. The Council consists of 60 members or deputies who are elected every four years. The Presidium of the Riga City Council consists of the Chairman of the Riga City Council and the representatives delegated by the political parties or party blocks elected to the City Council. From February to October 2020, the offices of the Mayor and Vice Mayors were suspended and the council itself had been dissolved and replaced by an interim administration of representatives from three [[Government of Latvia|governmental]] ministries until snap [[2020 Riga City Council election|elections]] were held in 2020.
+
+== Demographics ==
+[[File:Riga population pyramid in 2022.svg|thumb|Riga population pyramid in 2022]]{{historical populations|1897|282230|1920|185137|1925|337699|1930|377917|1935|385063|1959|580423|1970|731831|1979|835475|1989|915106|2000|764329|2011|658640|2021|614618|2024|605273|align=right|cols=1|source=pop-stat.mashke.org<ref>{{cite web |title=Cities of Latvia|url=http://pop-stat.mashke.org/latvia-cities.htm|date=2024-04-15}}</ref>}}With 605,270 inhabitants in 2024 as according to the Central Statistical Bureau of Latvia, Riga was one of the largest cities in the [[Baltic states]], though its population has decreased from just over 900,000 in 1991<ref name="population">{{cite web |url=https://data.stat.gov.lv/pxweb/en/OSP_PUB/START__POP__IR__IRS/IRD060/table/tableViewLayout1/|title=Population by sex in regions, cities, municipalities, towns and rural territories at the beginning of year|publisher=Central Statistical Bureau, official statistics of Latvia|access-date=3 October 2022}}</ref> and the population of [[Vilnius]] has just outnumbered that of Riga. Notable causes include emigration and [[Ageing of Europe|low birth rates]]. According to the 2022 data, ethnic Latvians made up 47.4% of the population of Riga. [[Russians in Latvia|Russians]] formed 35.7%, [[Belarusians]] 3.6%, [[Ukrainians]] 3.5%, [[Polish people|Poles]] 1.7%, other ethnicities consisted 8.2%. By comparison, 63.0% of Latvia's total population was ethnically Latvian, 24.2% Russian, 3.1% Belarusian, 2.2% Ukrainian, 1.9% Polish, 1.1% are Lithuanian and the rest of other origins.
+
+Upon the [[History of Latvia#Restoration of independence|restoration of Latvia's independence in 1991]], [[Soviet-era]] immigrants (and any of their offspring born before 1991) were not automatically granted Latvian citizenship because they had migrated to the territory of Latvia during the years of [[Soviet occupation of Baltic states|Soviet occupation]]. The proportion of ethnic Latvians in Riga increased from 36.5% in 1989 to 47.4% in 2022. In contrast, the percentage of Russians fell from 47.3% to 35.7% in the same time period. In 2022 citizens of Latvia made up 79.0%, [[non-citizens (Latvia)|non-citizens]] 15.3% and citizens of other countries 5.6% of the population of Riga.
+
+== Economy ==
+Riga is one of the key economic and financial centres of the [[Baltic states]]. Roughly half of all the jobs in Latvia are in Riga and the city generates more than 50% of Latvia's GDP as well as around half of Latvia's exports. The biggest exporters are in wood products, IT, food and beverage manufacturing, pharmaceuticals, transport and metallurgy.<ref>{{cite web |url=http://www.bizness.lv/prognozes-rezultati/id/10476/nosaukti-desmit-lielakie-eksportejosie-uznemumi-riga-un-rigas-regiona |title=/ Uzņēmējdarbība / Nosaukti desmit lielākie eksportējošie uzņēmumi Rīgā un Rīgas reģionā |publisher=Bizness.lv |access-date=12 March 2013 |archive-date=29 June 2016 |archive-url=https://web.archive.org/web/20160629235358/http://www.bizness.lv/prognozes-rezultati/id/10476/nosaukti-desmit-lielakie-eksportejosie-uznemumi-riga-un-rigas-regiona |url-status=live }}</ref> Riga Port is one of the largest in the Baltics. It handled a record 34&nbsp;million tons of cargo in 2011<ref>{{cite magazine |author=Alla Petrova |url=http://www.baltic-course.com/eng/good_for_business/?doc=51449 |title=Riga Freeport handles record-breaking 34.07 mln tons of cargo in 2011 |magazine=The Baltic Course |date=17 October 2012 |access-date=12 March 2013 |archive-date=13 September 2017 |archive-url=https://web.archive.org/web/20170913231508/http://www.baltic-course.com/eng/good_for_business/?doc=51449 |url-status=live }}</ref> and has potential for future growth with new port developments on Krievu Sala.<ref>{{cite web |url=http://www.marketresearch.com/Business-Monitor-International-v304/Latvia-Shipping-Q3-7069192/ |title=Latvia Shipping Report Q3 2012 by Business Monitor International in Latvia, Ports & Harbors, Logistics & Shipping |publisher=Marketresearch.com |date=17 July 2012 |access-date=12 March 2013 |archive-date=4 October 2013 |archive-url=https://web.archive.org/web/20131004213723/http://www.marketresearch.com/Business-Monitor-International-v304/Latvia-Shipping-Q3-7069192/ |url-status=live }}</ref> Tourism is also a large industry in Riga and after a slowdown during the [[Great Recession|global economic recessions of the late 2000s]], grew 22% in 2011 alone.<ref>{{cite web |url=http://nra.lv/izklaide/turisms/67049-turistu-skaits-latvija-pern-pieaudzis-par-21-riga-par-22.htm |title=Tūristu skaits Latvijā pērn pieaudzis par 21%, Rīgā – par 22% – Izklaide |publisher=nra.lv |access-date=12 March 2013 |archive-date=13 September 2017 |archive-url=https://web.archive.org/web/20170913232136/http://nra.lv/izklaide/turisms/67049-turistu-skaits-latvija-pern-pieaudzis-par-21-riga-par-22.htm |url-status=live }}</ref>
+
+Riga was intended to become the global financial centre in the former Soviet Union. [[Parex|One bank]], which provided high levels of secrecy for its customers, promoted itself as "We are closer than Switzerland!" ({{langx|ru|link=no|«Мы ближе, чем Швейцария!»}}).<ref>{{cite news |last=Caruana Galizia |first=Paul |url=https://members.tortoisemedia.com/2019/06/01/martins-bunkus/content.html |title=Dirty money, bloody murder |language=en |date=1 June 2019 |access-date=27 November 2020 |archive-date=16 June 2020 |archive-url=https://web.archive.org/web/20200616073645/https://members.tortoisemedia.com/2019/06/01/martins-bunkus/content.html}}</ref><ref>{{cite news |url=http://www.compromat.ru/page_40559.htm |title=Кровь на счетах: Как связаны "латвийская прачечная" и расстрел адвоката, мешавшего банку ABLV Эрнеста Берниса и Олега Филя самоликвидироваться |trans-title=Blood on the bills: How are the "Latvian laundry" and the shooting of the lawyer who prevented the ABLV bank Ernest Bernis and Oleg Filya from self-liquidation? |language=ru |work=www.compromat.ru |date=10 July 2019 |access-date=27 November 2020 |archive-date=29 November 2020 |archive-url=https://web.archive.org/web/20201129110654/http://www.compromat.ru/page_40559.htm |url-status=live }}</ref><ref name=PalmerTestimony>{{cite web |last=Palmer |first=Richard L. |url=https://archives-financialservices.house.gov/banking/92199pal.shtml |title=Statement of Richard L. Palmer, president of Cachet International, Inc. on the Infiltration of the Western Financial System by Elements of Russian Organized Crime before the House Committee on Banking and Financial Services |work=[[United States House of Representatives|House]] Committee on Banking and Financial Services |date=September 21, 1999 |access-date=December 7, 2020 |archive-date=July 29, 2019 |archive-url=https://web.archive.org/web/20190729221747/https://archives-financialservices.house.gov/banking/92199pal.shtml}}</ref>{{efn|Richard L. Palmer, president of Cachet International, Inc., was the [[CIA]] [[station chief]] at the [[Embassy of the United States, Moscow|United States Embassy in Moscow]] from 1992 to 1994.<ref name=PalmerTestimony/><ref>{{cite news |last=Foer |first=Franklin |author-link=Franklin Foer |url=https://www.theatlantic.com/magazine/archive/2019/03/how-kleptocracy-came-to-america/580471/ |title=Russian-Style Kleptocracy Is Infiltrating America: When the U.S.S.R. collapsed, Washington bet on the global spread of democratic capitalist values—and lost. |work=[[The Atlantic]] |date=March 1, 2019 |access-date=December 7, 2020 |archive-date=8 December 2020 |archive-url=https://web.archive.org/web/20201208004338/https://www.theatlantic.com/magazine/archive/2019/03/how-kleptocracy-came-to-america/580471/}}</ref>}} On 28 July 1995, twenty Latvian banks with assistance of persons from the [[Paris Stock Exchange]] organised the [[Riga Stock Exchange]] which was the first Latvian stock exchange in Riga.<ref>{{cite news|last=Семенов|first=Александр (Cememov, Alexander)|url=https://www.kommersant.ru/doc/114428|title=В Латвии создана фондовая биржа. Латвийские банки организовали себе фондовую биржу: В Риге состоялось торжественное открытие Рижской фондовой биржи, на котором присутствовало около 200 представителей финансового мира Балтии, а также стран Западной и Восточной Европы. Учредителями биржи стали 20 латвийских банков.|trans-title=Stock exchange established in Latvia. Latvian banks have organized a stock exchange for themselves: The grand opening of the Riga Stock Exchange took place in Riga, which was attended by about 200 representatives of the Baltic financial world, as well as Western and Eastern European countries. The founders of the exchange were 20 Latvian banks.|language=ru|work=[[Kommersant]]|date=28 July 1995|access-date=15 December 2020|archive-date=16 December 2020|archive-url=https://web.archive.org/web/20201216044149/https://www.kommersant.ru/doc/114428}}</ref>
+
+<gallery mode="packed">
+File:Bank of Latvia 01.jpg|Bank of Latvia
+File:Riga stock exchange.jpg|Riga Stock Exchange early 20th century. Now the Art Museum Riga Bourse.
+</gallery>
+
+== Culture ==
+[[File:Opera Nacional, Riga, Letonia, 2012-08-07, DD 15.JPG|thumb|right|The [[Latvian National Opera]]]]
+
+=== Theatres ===
+* The [[Latvian National Opera]] was founded in 1918. The repertoire of the theatre embraces all opera masterpieces. The Latvian National Opera is famous not only for its operas, but for its ballet troupe as well.<ref>{{cite web|url=http://www.opera.lv/opera.php?lang=2 |archive-url=https://web.archive.org/web/20071226023239/http://www.opera.lv/opera.php?lang=2 |archive-date=26 December 2007 |title=Latvian National Opera |publisher=Opera.lv |access-date=6 May 2009 }}</ref>
+* The [[Latvian National Theatre]] was founded in 1919. The Latvian National Theatre preserves the traditions of [[Culture of Latvia|Latvian]] drama school. It is one of the biggest theatres in Latvia.<ref>{{cite web|url=http://www.teatris.lv/|title=Home » Latvijas Nacionālais teātris|work=teatris.lv|access-date=10 February 2016|archive-date=31 October 2020|archive-url=https://web.archive.org/web/20201031234111/http://www.teatris.lv/|url-status=live}}</ref>
+* The [[Mikhail Chekhov Riga Russian Theatre]] is the oldest professional drama theatre in Latvia, established in 1883. The repertoire of the theatre includes classical plays and experimental performances of Russian and other foreign playwrights.
+* The [[Daile Theatre]] was opened for the first time in 1920. It is one of the most successful theatres in Latvia and is distinguished by its frequent productions of modern foreign plays.<ref>{{cite web|author=Nordik IT <http://it.nordik.lv> |url=http://www.dailesteatris.lv/index.php?&268|title=The Daile Theatre – Repertory |publisher=Dailesteatris.lv |access-date=25 July 2009 |archive-url=https://web.archive.org/web/20090429143725/http://www.dailesteatris.lv/index.php?&268|archive-date=29 April 2009}}</ref>
+* Latvian State Puppet Theatre was founded in 1944 and presents shows for children and adults.<ref>{{cite web|url=http://www.puppet.lv/|title=Latvijas Leļļu teātris|work=puppet.lv|access-date=25 July 2009|archive-url=https://web.archive.org/web/20100310074902/http://www.puppet.lv/|archive-date=10 March 2010}}</ref>
+* The [[New Riga Theatre]] was opened in 1992.
+
+===Mežaparks Great Bandstand===
+[[File:Mežaparka estrāde detail.jpg|thumb|The Mežaparks Great Bandstand]]
+{{main|Mežaparks Great Bandstand}}
+The Mežaparks Great Bandstand (Latvian: Mežaparka Lielā estrāde) is a open-air bandstand in [[Mežaparks (park)|Mežaparks park]]. The Bandstand is the place where the [[Latvian Song and Dance Festival]], one of the largest amateur choral and dancing events in the world and part of [[UNESCO]] [[Masterpieces of the Oral and Intangible Heritage of Humanity]]<ref>{{cite web |title=Baltic song and dance celebrations |url=https://ich.unesco.org/en/RL/baltic-song-and-dance-celebrations-00087 |publisher=[[UNESCO]] |accessdate=20 August 2009}}</ref> list, takes places every five years.
+
+=== World Choir Games ===
+Riga hosted the biannual 2014 [[World Choir Games]] from 9 to 19 July 2014 which coincided with the city being named [[European Capital of Culture]] for 2014.<ref name="interkultur.com">{{cite web|url=http://www.interkultur.com/fileadmin/pdf_data/latvia/Riga%202014/information/Event_Calendar_-_WCG_Riga_2014.pdf |title=Event Calendar of the 8th World Choir Games 2014, Rīga, Latvia |access-date=5 January 2013 |archive-url=https://web.archive.org/web/20130206070255/http://www.interkultur.com/fileadmin/pdf_data/latvia/Riga%202014/information/Event_Calendar_-_WCG_Riga_2014.pdf |archive-date=6 February 2013}}</ref><ref>{{cite web|url=http://www.liveriga.com/en/5727 |title=Riga – European Capital of Culture 2014 :: LIVE RīGA |publisher=Liveriga.com |access-date=12 March 2013 |archive-url=https://web.archive.org/web/20121207104047/http://www.liveriga.com/en/5727 |archive-date=7 December 2012}}</ref> The event, organised by the choral foundation, [[Interkultur]], takes place at various host cities every two years and was originally known as the "Choir Olympics".<ref>{{cite web|url=http://www.interkultur.com/world-choir-games/history/ |title=History – World Choir Games |publisher=interkultur.com |access-date=12 March 2013 |archive-url=https://web.archive.org/web/20130206070308/http://www.interkultur.com/world-choir-games/history/ |archive-date=6 February 2013}}</ref> The event regularly sees over 15,000 choristers in over 300 choirs from over 60 nations compete for gold, silver and bronze medals in over 20 categories. The competition is further divided into a Champions Competition and an Open Competition to allow choirs from all backgrounds to enter.<ref name="interkultur.com"/> Choral workshops and festivals are also witnessed in the host cities and are usually open to the public.<ref>{{cite web|url=http://www.interkultur.com/competitions-festivals/world-choir-games/riga-2014/workshops/ |title=Workshops – World Choir Games Riga 2014 |publisher=interkultur.com |access-date=12 March 2013 |archive-url=https://web.archive.org/web/20130206070304/http://www.interkultur.com/competitions-festivals/world-choir-games/riga-2014/workshops/ |archive-date=6 February 2013}}</ref>
+
+== Architecture ==
+[[File:Riga Castle seen across the river Daugava .jpg|thumb|right|[[Riga Castle]]]]
+
+The [[Riga Radio and TV Tower|radio and TV tower]] of Riga is the tallest structure in Latvia and the Baltic States, and one of the tallest in the European Union, reaching {{cvt|368.5|m|0}}. Riga centre also has many great examples of Gothic revival architecture, such as the [[Kalpaka Boulevard Library]], and a bevy of [[Art Nouveau]] architecture, as well as a medieval old town.<ref name=":0">{{Cite web|last=@NatGeoUK|date=2020-02-17|title=A city guide to Riga, Latvia's thriving capital|url=https://www.nationalgeographic.co.uk/travel/2020/02/city-guide-riga-latvias-thriving-capital|access-date=2021-01-05|website=National Geographic|language=en-gb|archive-date=19 January 2021|archive-url=https://web.archive.org/web/20210119030854/https://www.nationalgeographic.co.uk/travel/2020/02/city-guide-riga-latvias-thriving-capital|url-status=live}}</ref>
+
+=== Art Nouveau ===
+{{Main|Art Nouveau architecture in Riga}}
+Riga has one of the largest collections of [[Art Nouveau]] buildings in the world, with at least 800 buildings.<ref name=":0"/> This is due to the fact that at the end of the 19th and beginning of the 20th centuries, when Art Nouveau was at the height of its popularity, Riga experienced an unprecedented financial and demographic boom.<ref name=grosa>{{cite book |last= Grosa|first= Silvija|date= 2003|title= Art Nouveau in Riga|publisher= Jumava|page= 3|isbn=9984-05-601-5}}</ref> In the period from 1857 its population grew from 282,000 (256,200 in Riga itself and another 26,200 inhabitants beyond the city limits in the [[Pierīga|patrimonial district]] and military town of [[Ust-Dvinsk]]) to 472,100 in 1913.<ref>{{cite web| url = https://www.russkije.lv/files/images/text/RL_0004X.jpg| title = НАЦИОНАЛЬНЫЙ СОСТАВ НАСЕЛЕНИЯ ЛАТВИИ ЗА 110 ЛЕТ В ЗЕРКАЛЕ СТАТИСТИКИ, Федотов А.Н| access-date = 18 July 2021| archive-date = 18 July 2021| archive-url = https://web.archive.org/web/20210718181515/https://www.russkije.lv/files/images/text/RL_0004X.jpg| url-status = live}}</ref><ref>{{cite web| url = https://en.calameo.com/read/0020559683290f86e374f| title = Перепись населения в городе Риге и Рижском патримониальном округе от 5 декабря 1913 г.| access-date = 18 July 2021| archive-date = 18 July 2021| archive-url = https://web.archive.org/web/20210718190550/https://en.calameo.com/read/0020559683290f86e374f| url-status = live}}</ref> The middle class of Riga used their acquired wealth to build imposing apartment blocks outside the former [[city walls]]. Local architects, mostly graduates of [[Riga Technical University]], adopted current European movements and in particular Art Nouveau.<ref name=krastinsjournal>{{cite journal |last= Krastins|first= Janis|date= 2006|title= Architecture and Urban Development of Art Nouveau – Metropolis Riga|journal= International Review of Sociology|publisher= [[Routledge]]|volume=16 |issue= 2|pages= 395–425|doi=10.1080/03906700600709327|s2cid= 146754212}}</ref> Between 1910 and 1913, between 300 and 500 new buildings were built each year in Riga, many of them in Art Nouveau style and most of them outside the old town.<ref name=krastinsjournal/>
+<gallery mode="packed">
+File:Edificio modernista en Alberta iela 13, Riga, Letonia, 2012-08-07, DD 01.jpg|[[Albert Street, Riga|Alberta iela]] 13
+File:Edificio modernista en Alberta iela 2a, Riga, Letonia, 2012-08-07, DD 02.JPG|Alberta iela 2a
+File:Alberta ielā 12 20120728-05.JPG|Staircase of Alberta ielā 12 
+File:A. Čaka iela 26 Rīga 03.jpg|Aleksandra Čaka iela 26
+File:La salle à manger (musée dart nouveau, Riga) (7562659988).jpg|Riga Art Nouveau Museum
+File:Edificio modernista en Strelnieku Iela 4a, Riga, Letonia, 2012-08-07, DD 01.JPG|Strēlnieku iela 4a
+FILE:0871 LVA Riga art noveau relief meistaru iela 10.jpg|meistaru iela 10 relief
+FILE:0872 LVA Riga art noveau relief.jpg|Strelnieku iela relief
+</gallery>
+
+== Sports ==
+Riga has a rich [[basketball]] history. In 1937, as the defending champions, in hosted the [[EuroBasket 1937|second edition]] of the [[EuroBasket]] tournament. In the 1950s, [[Rīgas ASK]] became the best club in the Soviet Union and also in Europe, winning the first three editions of the [[EuroLeague|European Cup for Men's Champions Clubs]] from 1958 to 1960.<ref>{{cite web|url= http://www.fibaeurope.com/cid_7b0E4jiIIfk6gZwtQpkB30.coid_GCcu4PUDGXsHamzPQmY7e1.articleMode_on.html|title= Federation Focus: Latvia – 10 years FIBA Europe |publisher= FIBA Europe |date= 24 September 2012|access-date= 23 December 2014|archive-date= 1 January 2016|archive-url= https://web.archive.org/web/20160101113813/http://www.fibaeurope.com/cid_7b0E4jiIIfk6gZwtQpkB30.coid_GCcu4PUDGXsHamzPQmY7e1.articleMode_on.html|url-status= live}}</ref>
+
+In 1960, ASK was not the only team from Riga to take the European crown. [[TTT Riga]] clinched their first title in the [[EuroLeague Women|European Cup for Women's Champion Clubs]], turning Riga into the capital city of European basketball because for the first and, to date, only time in the history of European basketball, clubs from the same city were concurrent European men's and women's club champions.<ref>{{cite web |url-status=dead |url=http://www.eurobasket2015.org/en/cid_FaTi64YyIbQDnvc3JDbil1.pageID_ncqLsNDmIWkdSLfIjNoxT1.compID_qMRZdYCZI6EoANOrUf9le2.season_2015.html |title=Riga: A Closer Look |archive-url=https://web.archive.org/web/20150607072708/http://www.eurobasket2015.org/en/cid_FaTi64YyIbQDnvc3JDbil1.pageID_ncqLsNDmIWkdSLfIjNoxT1.compID_qMRZdYCZI6EoANOrUf9le2.season_2015.html |archive-date=7 June 2015 |website=EuroBasket 2015 }}</ref>
+
+In 2015, Riga was one of the hosts for [[EuroBasket 2015]] and will host for the third time in [[EuroBasket 2025|2025]].
+
+=== Sports clubs ===
+[[File:Arēna Rīga.jpg|thumb|[[Arena Riga]], home to multiple sports clubs of Riga]]
+* Basketball
+** [[BK VEF Rīga]] – a professional basketball team that is a three-time [[Latvijas Basketbola līga|Latvian champion]]. VEF also participates in high-level international competition such as [[Eurocup Basketball|Eurocup]]
+** [[Barons LMT]] – a men's basketball team, two-time [[Latvijas Basketbola līga|Latvian champion]], as well as the [[2007–08 FIBA EuroCup|2008]] [[FIBA EuroCup]] winner
+** [[TTT Riga]] – a women's basketball team, which between 1960 and 1982 won eighteen [[FIBA EuroLeague Women]] titles
+* [[Ice hockey]]
+** [[Dinamo Riga]] – a professional ice hockey club established in 2008. It played in the [[Kontinental Hockey League]] until 2022. Dinamo was established as a successor to the [[Dinamo Riga (original)|former hockey team with the same name]], which was founded in 1946 but ceased to exist in 1995.
+** [[HK Riga]] – a junior hockey club, playing in the [[Minor Hockey League]]
+* [[Association football|Football]]
+**[[Riga FC]] – Riga Football Club, commonly referred to as Riga FC, were established in 2015 after a merger of two Riga based teams – FC Caramba Riga and Dinamo Rīga. In 2018 they became champions of the [[Virslīga]] Latvian Higher League for the first time.
+** [[FK RFS|RFS]] – FK Rīgas Futbola Skola, known as RFS are based on the Riga Football School (RFS) academy, established in 1962.
+** [[FS Metta-LU]] – founded in 2006. Metta play their home games at [[Daugava Stadium (Riga)|Daugava Stadium]].
+** [[JDFS Alberts]] – Jura Docenko Futbola Skola Alberts, commonly referred to as JDFS Alberts was founded as a football school in 2008 and subsequently became a professional Latvian football league team.
+**[[Riga United FC]]<ref>{{Cite web|url=http://www.rigaunited.com/en/|title=Riga United FC |website=Riga United FC|access-date=14 May 2019|archive-date=14 May 2019|archive-url=https://web.archive.org/web/20190514094944/http://www.rigaunited.com/en/|url-status=live}}</ref>
+**[[FC New Project]]
+::'''Dissolved Football Clubs'''
+:* [[Skonto FC]] – Skonto FC was a football club established in 1991. The club won fourteen successive [[Latvian Higher League]] titles. For a long time it provided the core of the [[Latvian national football team]]. Following financial problems, the club was demoted to the Latvian First League in 2016 and went bankrupt in December of that year and subsequently dissolved.
+:* [[JFK Olimps]] – JFK Olimps played in the top division of Latvian football. The club was founded in 2005 and dissolved in 2012. According to a study from January 2011, the club was the youngest team in Europe, with an average age of 19.02 years.
+
+=== Sports facilities ===
+[[File:Skonto Stadions.jpg|right|thumb|[[Skonto Stadium]] ]]
+* [[Arena Riga]] – a multi-purpose arena built in 2006 as the main venue for the [[2006 Men's World Ice Hockey Championships]]. It can hold up to 14,500 people and has hosted [[ice hockey]], basketball and volleyball events, as well as [[Red Bull X-Fighters]]
+* [[Skonto Stadium]] – a football stadium, built in 2000. It is the main stadium used for games of the [[Latvian national football team]] and the home stadium of Riga FC. The stadium was previously the home stadium of Skonto FC prior to the team's dissolution.
+* [[Daugava Stadium (Riga)|Daugava Stadium]] – a stadium built in 1958, used for both [[Association football|football]] and [[Sport of athletics|athletics]]
+* [[Latvijas Universitates Stadions]]
+* [[Biķernieki Complex Sports Base]] – Latvia's leading [[motorsport]] complex
+
+=== Sports events ===
+{{Further|2023 World Athletics Road Running Championships}}
+* [[EuroBasket 1937]]
+* [[1999 European Athletics Junior Championships]]
+* [[EuroBasket Women 2009]]
+* [[2006 IIHF World Championship|2006 Men's World Ice Hockey Championships]]
+* [[Riga Marathon]]
+* [[2013 World Women's Curling Championship]]
+* [[EuroBasket 2015]]
+* [[2016 Men's World Floorball Championships]]<ref>{{cite web|url=http://www.floorball.org/default.asp?sivu=5&alasivu=26|title=IFF Events 2012–2018 Organisers/Interested organisers |work=IFF |access-date=4 September 2013|archive-date=23 February 2014|archive-url=https://web.archive.org/web/20140223012743/http://www.floorball.org/default.asp?sivu=5&alasivu=26|url-status=dead }}</ref>
+* [[2021 IIHF World Championship]]
+* [[FIDE Grand Swiss Tournament 2021]]
+
+== Transport ==
+[[File:16-08-31-Škoda 24Tr Irisbus Riga-RR2 4505.jpg|thumb|One of the several trolleybus types in Riga]]
+[[File:Riga tram 57201 2020-03.jpg|thumb|A [[Škoda 15 T]] tram in Riga]]
+[[File:Latvia railways frequency of commuter trains 2016.svg|thumb|upright=1.4|Riga is a large hub in the [[Pasažieru vilciens|Passenger Train]] network: commuter train frequency in 2016.]]
+Riga, with its central geographic position and concentration of population, has always been the infrastructural hub of Latvia. Several [[List of national roads in Latvia|national roads]] begin in Riga, and [[European route E22]] crosses Riga from the east and west, while the [[European route E67|Via Baltica]] crosses Riga from the south and north.
+
+As a city situated by a river, Riga also has several bridges. The oldest-standing bridge is the [[Railway Bridge, Riga|Railway Bridge]], which is also the only railroad-carrying bridge in Riga. The [[Stone Bridge, Riga|Stone Bridge]] (''Akmens tilts'') connects [[Old Riga]] and [[Pārdaugava]]; the [[Island Bridge, Riga|Island Bridge]] (''Salu tilts'') connects [[Maskavas Forštate]] and Pārdaugava via [[Zaķusala]]; and the [[Vanšu Bridge|Shroud Bridge]] (''Vanšu tilts'') connects Old Riga and Pārdaugava via [[Ķīpsala]]. In 2008, the first stage of the new [[Southern Bridge]] (''Dienvidu tilts'') route across the Daugava was completed, and was opened to traffic on 17 November.<ref name="rdpad1">{{cite web|url=http://www.rdpad.lv/en/south_bridge/|title=Explanatory Note on Planning and Building of the Southern Bridge Route|publisher=Riga City Council City Development Department|access-date=21 August 2007|archive-url=https://web.archive.org/web/20070928091749/http://www.rdpad.lv/en/south_bridge/|archive-date=28 September 2007}}</ref>
+
+The Southern Bridge was the biggest{{Dubious|date=July 2024}} construction project in the Baltic states in 20 years, and its purpose was to reduce [[traffic congestion]] in the city centre.<ref name="dienvidu">{{cite web|url=http://www.dienvidutilts.lv/index.php?lang_id=2&menu_id=18|title=Introduction |access-date=21 August 2007|publisher=Dienvidu Tilts |archive-url=https://web.archive.org/web/20070915162206/http://www.dienvidutilts.lv/index.php?lang_id=2&menu_id=18|archive-date=15 September 2007}}</ref><ref name="rdsd">{{cite web|url=http://www.rdsd.lv/?ct=dienvidu_tilts|title=Dienvidu tilta maģistrālie pievedceļi|language=lv|publisher=rdsd.lv|access-date=27 July 2009|archive-date=4 September 2017|archive-url=https://web.archive.org/web/20170904113143/http://www.rdsd.lv/?ct=dienvidu_tilts|url-status=live}}</ref> Another major construction project is the planned Riga Northern [[transport corridor]];<ref name="zkoridors">{{cite web|url=http://www.ziemelukoridors.lv/pages/main.php?l=en&tema=2 |archive-url=https://web.archive.org/web/20200806213831/http://www.ziemelukoridors.lv/pages/main.php?l=en&tema=2 |archive-date=6 August 2020 |title=Northern Corridor; About project |access-date=21 August 2007 |publisher=ziemelukoridors.lv}}</ref> its first segment detailed project was completed in 2015.<ref name="rdpad2">{{cite web|url=http://www.rdpad.lv/izstradats-rigas-ziemelu-transporta-koridora-1-posma-tehniskais-projekts-buvprojekts/|title=Izstrādāts Rīgas Ziemeļu transporta koridora 1.posma tehniskais projekts / būvprojekts|date=29 December 2015 |publisher=Riga City Council City Development Department|language=lv|access-date=8 January 2016|archive-url=https://web.archive.org/web/20160216034547/http://www.rdpad.lv/izstradats-rigas-ziemelu-transporta-koridora-1-posma-tehniskais-projekts-buvprojekts/|archive-date=16 February 2016}}</ref>
+
+The [[Freeport of Riga]] facilitates cargo and passenger traffic by sea. Sea ferries connect [[Riga Passenger Terminal]] to [[Stockholm]] operated by [[Tallink]].<ref name="tallink">{{cite web|url=http://www.tallinksilja.com/lv/web/lv/riga-stokholma|title=Kursēšanas grafiki|language=lv|publisher=[[Tallink]]|access-date=27 January 2015|archive-date=1 February 2015|archive-url=https://web.archive.org/web/20150201060917/http://www.tallinksilja.com/lv/web/lv/riga-stokholma|url-status=dead}}</ref>
+Riga has one active airport that serves commercial airlines—the [[Riga International Airport]] (RIX), built in 1973. It is the primary hub of [[AirBaltic]] and a base for [[Ryanair|RyanAir]].<ref>{{Cite web |last=Vaivade |first=Samanta |date=2023-04-12 |title=Latvia Travel Guide: Everything You Need to Know |url=https://travelspill.com/guides/comprehensive-guide-to-latvia-3096/ |access-date=2023-05-13 |website=Travel Spill |language=en-US}}</ref> Renovation and modernisation of the airport was completed in 2001, coinciding with the 800th anniversary of the city. In 2006, a new terminal extension was opened. Extension of the runway was completed in October 2008, and the airport is now able to accommodate large aircraft such as the Airbus A340, Boeing 747, 757, 767 and 777. Another terminal extension is under construction {{As of|2014|lc=y}}.<ref>{{cite web|url=http://www.riga-airport.com/lv/main/zinas/medijiem/preses-relizes-2014/lidosta-riga-svinigi-atklaj-jaunas-piestatnes-ekas-buvniecibas-saksanu|title=Lidostā "Rīga" svinīgi atklāj jaunās piestātnes ēkas būvniecības sākšanu|publisher=Starptautiskā lidosta "Rīga"|language=lv|access-date=27 January 2015|archive-url=https://web.archive.org/web/20150209065412/http://www.riga-airport.com/lv/main/zinas/medijiem/preses-relizes-2014/lidosta-riga-svinigi-atklaj-jaunas-piestatnes-ekas-buvniecibas-saksanu|archive-date=9 February 2015}}</ref> The annual number of passengers has grown from 310,000 in 1993 to 4.7&nbsp;million in 2014, making Riga International Airport the largest in the Baltic States. A new multi-modal hub is planned around the airport with a [[Rail Baltica]] station and airport city development planned.<ref>{{Cite web |title=Riga Airport: Investments in future development and competitiveness |url=https://www.internationalairportreview.com/article/174375/riga-airport-investments-in-future-development-and-competitiveness/ |access-date=2023-05-13 |website=International Airport Review |language=en}}</ref><ref>{{Cite web |last=Ellichipuram |first=Umesh |date=2022-02-10 |title=Riga Airport announces medium-term development plan |url=https://www.airport-technology.com/news/riga-airport-medium-term-development-plan/ |access-date=2023-05-13 |website=Airport Technology |language=en-US}}</ref>
+
+The former international airport of Riga, [[Spilve Airport]], located {{cvt|5|km|0}} from Riga city centre, is used for small aircraft, pilot training and recreational aviation. Riga was also home to a military air base during the [[Cold War]]—[[Rumbula Air Base]].
+
+Public transport in the city is provided by [[Rīgas Satiksme]] which operates a large number of trams, buses and [[trolleybus]]es on an extensive network of routes across the city. In addition, up until 2012 many private owners operated [[minibus]] services, after which the City Council established the unified transport company ''Rīgas mikroautobusu satiksme'', establishing a monopoly over the service.
+
+[[Riga International Coach Terminal]] provides domestic and international connections by [[Coach (bus)|coach]].
+
+As the population of Riga city started to approach 1&nbsp;million people in the 1980s, the city became eligible (under the Soviet standards of the time) for the construction of a subway system [[Riga Metro]], which would have been paid for by the Soviet government. However, the population decline and shortage of funding following Latvian independence put an end to this plan.
+
+Riga is connected to the rest of Latvia by [[Latvian Railways#Domestic routes|domestic trains]] operated by the national carrier [[Pasažieru vilciens|Passenger Train]], whose headquarters are in Riga. The main railway station is the [[Riga Central Station]]. It has stops for public transport along the streets Satekles iela, 13. janvāra iela Marijas iela, and Merķeļa iela. There are also [[Latvian Railways#International routes|international rail services]] to Russia and [[Belarus]], and plans to revive passenger rail traffic with [[Estonia]]. International overnight service is with Latvia Express trains ({{langx|lv|Latvijas Ekspresis}}). A [[TEN-T]] project called [[Rail Baltica]] envisages building a [[high-speed rail]]way line via Riga connecting [[Tallinn]] to [[Warsaw]] using [[standard gauge]],<ref>{{cite web|url=http://ec.europa.eu/transport/themes/infrastructure/ten-t-policy/linking_en.htm|title=The trans-European transport network policy connecting East and West|access-date=27 January 2015|archive-date=23 January 2015|archive-url=https://web.archive.org/web/20150123121057/http://ec.europa.eu/transport/themes/infrastructure/ten-t-policy/linking_en.htm|url-status=live}}</ref> expected to be put into operation in 2024.<ref>{{cite web|url=http://www.sam.gov.lv/images/modules/items/DOC/item_4941_Rail_Baltica_II_Joint_venture_ENG_28.10.2014.doc|title=The Rail Baltica II Joint venture of the Baltic States is established|publisher=Republic of Latvia Ministry of Transport|date=28 October 2014|access-date=27 January 2015|archive-url=https://web.archive.org/web/20150404101654/http://www.sam.gov.lv/images/modules/items/DOC/item_4941_Rail_Baltica_II_Joint_venture_ENG_28.10.2014.doc|archive-date=4 April 2015}}</ref> [[Latvian Railways]] ({{langx|lv|Latvijas dzelzceļš}} or ''LDz'') operates the Latvian Rail History Museum in Riga.
+
+== Universities ==
+{{Div col}}
+*[[University of Latvia]] (LU)
+*[[Art Academy of Latvia]] (LMA)
+*[[Riga Technical University]] (RTU)
+*[[Riga Stradiņš University]] (RSU)
+*[[Riga Graduate School of Law]] (RGSL)
+*[[Stockholm School of Economics in Riga]] (SSE Riga)
+*[[BA School of Business and Finance]] (BA)
+*[[Transport and Telecommunication Institute]] (TTI)
+*[[Riga International School of Economics and Business Administration]] (RISEBA)
+*[[Turība University]]
+*[[Riga Aeronautical Institute]] (RAI)
+{{Div col end}}
+
+== Notable people ==
+=== Public service ===
+[[File:IsaiahBerlin1983.jpg|thumb|upright=.65|[[Isaiah Berlin]], 1983]]
+[[File:Sergei Eisenstein 03.jpg|thumb|upright=.65|[[Sergei Eisenstein]], early 1920s]]
+[[File:Elina Garanca (cropped).jpg|thumb|upright=.65|[[Elīna Garanča]], 2012]]
+[[File:Johann Gottfried Herder 2.jpg|thumb|upright=.65|[[Johann Gottfried Herder]], painted in 1785]]
+[[File:KauffmannKruedener.jpg|thumb|upright=.65|[[Barbara von Krüdener|Baroness von Krüdener]] and her son Paul, painted in 1786]]
+[[File:Nesterov-Mukhina.jpg|thumb|upright=.65|[[Vera Mukhina]], 1937]]
+[[File:Ostapenko RG22 (4) (52144317609).jpg|thumb|upright=.65|[[Jeļena Ostapenko]], 2022]]
+[[File:Wilhelm Ostwald by Nicola Perscheid.jpg|thumb|upright=.65|[[Wilhelm Ostwald]], 1913]]
+[[File:Mikhail Tal 1962.jpg|thumb|upright=.65|[[Mikhail Tal]], 1962]]
+
+*[[Isaiah Berlin|Sir Isaiah Berlin]] (1909–1997), British social and political theorist, philosopher and historian of ideas
+*[[Emil Friedrich von Boetticher]] (1836–1907), politician, [[burgomaster]] of Riga
+*[[Ottilie von Bistram]] (1859–1931), pioneer in the struggle for female access to education.
+*[[Friedrich Heinrich von Boetticher]] (1826–1902), German publisher, bookseller, scholar and art historian
+*[[Deniss Čalovskis]] (born 1985), Latvian computer hacker who created the Gozi virus
+*[[Valdis Dombrovskis]] (born 1971), Latvian politician and EU Commissioner
+*[[Laila Freivalds]] (born 1942), former Swedish Minister for Justice and [[Deputy Prime Minister of Sweden]]
+*[[Juris Hartmanis]] (1928–2022), Latvian–American computer scientist who won the 1993 [[Turing Award]]
+*[[Nicolai Hartmann]] (1882–1950), [[Baltic Germans|Baltic German]] philosopher and important [[Metaphysics|metaphysician]]
+*[[Johann Gottfried Herder]] (1744–1803), German philosopher, theologian, poet and literary critic
+*[[David Hilchen]] (1561–1610), [[Renaissance humanism|Renaissance humanist]] and politician
+*[[Albert Woldemar Hollander]] (1796–1868), German educator and pedagog
+*[[Yeshayahu Leibowitz]] (1903–1994), Israeli public intellectual and polymath
+*[[Yosef Mendelevich]] (born 1947), Jewish [[refusenik]] from the Soviet Union, known as a ''"Prisoner of Zion"'' 
+*[[Ernst Munzinger]] (1887–1945), German [[Abwehr]] (Army intelligence) officer, later anti-Nazi
+*[[Valters Nollendorfs]] (born 1931), chairman of the board of the [[Museum of the Occupation of Latvia]]
+*[[Alfred Rosenberg]] (1892–1946), [[Baltic Germans|Baltic German]] theorist and ideologue of the Nazi Party 
+*[[Johann Steinhauer]] (1705–1779), Latvian entrepreneur, social reformer and landowner
+*[[Charlotte Wahl]] (1817–1899), Latvian-born philanthropist
+*[[Tatiana Warsher]] (1880–1960), Russian archaeologist known for her studies of [[Pompeii]]
+
+=== The Arts ===
+*[[Rutanya Alda]] (born 1942), [[Latvian-Americans|Latvian–American]] actress
+*[[Mikhail Baryshnikov]] (born 1948), classical ballet dancer, choreographer and actor
+*[[Léopold Bernhard Bernstamm]] (1859–1939), Russian sculptor
+*[[Gunnar Birkerts]] (1925–2017), [[Latvian-Americans|Latvian-American]] architect
+*[[Leonīds Breikšs]] (1908–1942), Latvian poet, author and newspaper editor
+*[[Jacob W. Davis]] (born ''Jākobs Jufess'', 1831–1908), American tailor who invented modern [[jeans]]
+*[[Mikhail Eisenstein]] (1867–1920), Latvian civil engineer and architect
+*[[Vera Mukhina]] (1889–1953), Soviet sculptor and painter
+*[[Sergei Eisenstein]] (1898–1948), Soviet Russian film director who filmed ''[[Battleship Potemkin]]''
+*[[Heinz Erhardt]] (1909–1979), [[Baltic Germans|Baltic German]] comedian, musician and entertainer
+*[[Artur Fonvizin]] (1883–1973), Soviet painter of watercolours
+*[[Michael Polakovs]] (1923–2009), American circus clown and actor
+*[[Mārtiņš Brauns]] (1951–2021), Latvian composer and musician
+*[[Elīna Garanča]] (born 1976), Latvian operatic mezzo-soprano
+*[[Mariss Jansons]] (1943–2019), Latvian conductor
+*[[Philippe Halsman]] (1906–1979), American portrait photographer
+*[[Aivars Kalējs]] (born 1951), Latvian composer, organist and pianist
+*[[Gidon Kremer]] (born 1947), Latvian classical violinist and conductor
+*[[Barbara von Krüdener]] (1764–1824), [[Baltic Germans|Baltic German]] author, religious mystic and [[Pietism|Pietist]] Lutheran theologian<ref>{{Cite EB1911|wstitle= Krüdener, Barbara Juliana, Baroness von |volume= 15 |last= Phillips |first=  Walter Alison |author-link= Walter Alison Phillips | pages = 929&ndash;930 |short= 1}}</ref>
+*[[Ivan Krylov]] (1769–1844), Russian [[fable]] writer
+*[[DJ Lethal]] (born ''Leor Dimant'' in 1972), American music producer
+*[[Captain Disillusion|Alan Melikdjanian]] (born 1980), [[Latvian-Americans|Latvian–American]] [[independent filmmaker]] known as ''[[Captain Disillusion]]''
+*[[Raimonds Pauls]] (born 1936), Latvian composer and piano player
+*[[Kristjan Jaak Peterson]] (1801–1822), Estonian poet
+*[[Valentin Pikul]] (1928–1990), Soviet historical novelist
+*[[Marie Seebach]] (1829–1897), German actress<ref>{{Cite EB1911|wstitle= Seebach, Marie |volume= 24 | page = 580 |short= 1}}</ref>
+*[[Ksenia Solo]] (born 1987), [[Latvian Canadian|Latvian–Canadian]] actress and activist
+
+=== Science ===
+*[[Ernst von Bergmann]] (1836–1907), [[Baltic Germans|Baltic German]] surgeon, pioneer of [[aseptic surgery]]
+*[[Walter von Boetticher]] (1853–1945), German historian, genealogist and physician
+*[[Jakob Benjamin Fischer]] (1731–1793), [[Baltic Germans|Baltic German]] naturalist and [[apothecary]]
+*[[Lola Hoffmann]] (1904–1988), physiologist and psychiatrist
+*[[Charles Kalme]] (1939–2002), American mathematician and international master of chess
+*[[Karlis Kaufmanis]] (1910–2003), astronomer who lectured that the [[Star of Bethlehem]] was a conjunction in 7 BC of the planets [[Jupiter]] and [[Saturn]]
+*[[Mstislav Keldysh]] (1911–1978), Soviet mathematician who worked on the first [[Soviet space program|artificial satellite]]
+*[[George Nagobads]] (1921–2023), American physician and recipient of the [[Paul Loicq Award]]<ref>{{cite web|url=https://www.ushockeyhalloffame.com/page/show/833453-dr-v-george-nagobads|title=Dr. V. George Nagobads|website=[[United States Hockey Hall of Fame]]|access-date=July 8, 2021|archive-date=9 July 2021|archive-url=https://web.archive.org/web/20210709184422/https://www.ushockeyhalloffame.com/page/show/833453-dr-v-george-nagobads|url-status=live}}; {{cite web|url=https://www.ushockeyhall.com/drgeorgenagobads|title=Dr. V. George Nagobads|website=[[United States Hockey Hall of Fame]]|access-date=July 8, 2021|archive-date=12 July 2021|archive-url=https://web.archive.org/web/20210712112620/https://www.ushockeyhall.com/drgeorgenagobads|url-status=live}}</ref>
+*[[Wilhelm Ostwald]] (1853–1932), [[Baltic Germans|Baltic German]] chemist and winner of the [[Nobel Prize in Chemistry]] in 1909
+*[[Georg August Schweinfurth]] (1836–1925), [[Baltic Germans|Baltic German]] botanist and ethnologist who explored East Central Africa.<ref>{{Cite EB1911|wstitle= Schweinfurth, Georg August |volume= 24 | page = |short= 1}}</ref>
+*[[Georg von Tiesenhausen]] (1914–2018), [[Baltic Germans|Baltic German]] American [[Aerospace engineering|rocket scientist]]
+*[[Juris Upatnieks]] (born 1936), Latvian–American physicist, inventor, and pioneer in the field of [[holography]]
+*[[Friedrich Zander]] (1887–1933), [[Baltic Germans|Baltic German]] engineer who designed the first Soviet liquid-fuelled rocket
+*[[Walter Zapp]] (1905–2003), [[Baltic Germans|Baltic German]] inventor who created the Minox [[Subminiature photography|subminiature camera]]
+*[[Nathan A. Zepell]] (1915-1982), inventor and engineer
+
+=== Sport ===
+
+*[[Helmuts Balderis]] (born 1952), Latvian former ice hockey player
+*[[Dāvis Bertāns]] (born 1992), professional basketball player
+*[[Jānis Beinarovičs]] (1907–1967), wrestler
+*[[Andris Biedriņš]] (born 1986), former basketball player
+*[[Sergejs Boldaveško]] (born 1970), retired ice hockey player
+*[[Teddy Blueger]] (born 1994), ice hockey player for the [[Pittsburgh Penguins]]
+*[[Tanhum Cohen-Mintz]] (1939–2014), Israeli basketball player
+*[[Elīna Dikaioulaku]] (born 1989), basketball player for Israeli team [[Elitzur Ramla (women's basketball)|Elitzur Ramla]]
+*[[Kaspars Dubra]] (born 1990), footballer with 50 caps for [[Latvia national football team|Latvia]]
+*[[Zemgus Girgensons]] (born 1994), ice hockey player who was the highest-ever drafted Latvian in the [[NHL Entry Draft]]
+*[[Jørgen Hviid]] (1916–2001), Danish and Latvian athlete in ice hockey, speed skating, and sailing
+*[[Miervaldis Jurševskis]] (1921–2014), [[Latvian Canadian|Latvian–Canadian]] chess master and professional artist
+*[[Matīss Kivlenieks]] (1996–2021), ice hockey goaltender for the [[Columbus Blue Jackets]]
+*[[Rūdolfs Kundrāts]] (1907–1954), footballer and referee with 19 caps for Latvia
+*[[Elvis Merzļikins]] (born 1994), ice hockey goaltender for the [[Columbus Blue Jackets]]
+*[[Anete Muižniece-Brice]] (born 1962), former basketball player
+*[[Aron Nimzowitsch]] (1886–1935), [[Latvia]]n chess master and writer who wrote the book [[My System]]
+*[[Jeļena Ostapenko]] (born 1997), women's tennis player and [[2017 French Open – Women's singles]] winner
+*[[Sandis Ozoliņš]] (born 1972), ice hockey player, seven-time NHL All-Star, and [[Stanley Cup]] champion
+*[[Marians Pahars]] (born 1976), footballer with 75 caps for [[Latvia national football team|Latvia]]
+*[[Harald Schlegelmilch]] (born 1987), racing driver
+*[[Alexei Shirov]] (born 1972), Latvian–Spanish chess grandmaster who was ranked world No. 2 in 1994
+*[[Karlīne Štāla]] (born 1986), racing driver
+*[[Mikhail Tal]] (1936–1992), Soviet–Latvian chess grandmaster and 8th [[World Chess Champion]]
+*[[Valdis Valters]] (born 1957) retired basketball player
+
+==Twin towns – sister cities==
+{{See also|List of twin towns and sister cities in Latvia}}
+
+Riga is [[twin towns and sister cities|twinned]] with:<!--For all cities in except Kaunas--><ref>{{cite web|title=Rīgas Sadraudzības pilsētas|url=https://www.riga.lv/lv/rigas-sadraudzibas-pilsetas|website=riga.lv|publisher=Rīga|language=lv|access-date=16 March 2022|archive-date=28 October 2022|archive-url=https://web.archive.org/web/20221028093612/https://www.riga.lv/lv/rigas-sadraudzibas-pilsetas|url-status=live}}</ref>
+{{div col|colwidth=15em}}
+*{{flagicon|DEN}} [[Aalborg]], Denmark
+*{{flagicon|KAZ}} [[Almaty]], Kazakhstan
+*{{flagicon|KAZ}} [[Astana]], Kazakhstan
+*{{flagicon|CHN}} [[Beijing]], China
+*{{flagicon|FRA}} [[Bordeaux]], France
+*{{flagicon|GER}} [[Bremen]], Germany
+*{{flagicon|AUS}} [[Cairns]], Australia
+*{{flagicon|USA}} [[Dallas]], United States
+*{{flagicon|ITA}} [[Florence]], Italy
+*{{flagicon|LTU}} [[Kaunas]], Lithuania<ref>{{cite web|title=Miesto partneriai|url=http://www.kaunas.lt/apie-kauna/miesto-partneriai/|website=kaunas.lt|publisher=Kaunas|language=lt|access-date=5 October 2022|archive-date=24 July 2019|archive-url=https://web.archive.org/web/20190724141315/http://www.kaunas.lt/apie-kauna/miesto-partneriai/|url-status=dead}}</ref>
+*{{flagicon|UKR}} [[Kyiv]], Ukraine
+*{{flagicon|JPN}} [[Kobe]], Japan
+*{{flagicon|SWE}} [[Norrköping]], Sweden
+*{{flagicon|FIN}} [[Pori]], Finland
+*{{flagicon|GER}} [[Rostock]], Germany
+*{{flagicon|CHI}} [[Santiago]], Chile
+*{{flagicon|SWE}} [[Stockholm]], Sweden
+*{{flagicon|CHN}} [[Suzhou]], China
+*{{flagicon|TWN}} [[Taipei]], Taiwan
+*{{flagicon|GB}} [[Slough]], England
+*{{flagicon|EST}} [[Tallinn]], Estonia
+*{{flagicon|EST}} [[Tartu]], Estonia
+*{{flagicon|UZB}} [[Tashkent]], Uzbekistan
+*{{flagicon|GEO}} [[Tbilisi]], Georgia
+*{{flagicon|LTU}} [[Vilnius]], Lithuania
+*{{flagicon|POL}} [[Warsaw]], Poland
+*{{flagicon|ARM}} [[Yerevan]], Armenia
+{{div col end}}
+Riga also cooperates with:
+*{{flagicon|AUS}} [[City of Brisbane|Brisbane]], Australia
+*{{flagicon|USA}} [[Seattle]], United States
+
+== See also ==
+{{Portal|Latvia|EU}}
+*[[Riga Charter]], on cultural heritage conservation, adopted here in 2000
+*[[Riga Region]]
+*[[Riga Salsa Festival]]
+
+=== Other capitals of the Baltic states ===
+*[[Tallinn]]
+*[[Vilnius]]
+
+== Notes ==
+{{Notelist}}
+
+=== References ===
+{{Reflist}}
+
+==Bibliography==
+{{See also|Timeline of Riga#Bibliography|l1=Bibliography of the history of Riga}}
+* Grava, Sigurd. "The Urban Heritage of the Soviet Regime The Case of Riga, Latvia". ''Journal of the American Planning Association'' 59.1 (1993): 9–30.
+* {{Cite EB1911|wstitle= Riga | volume= 23 |last1= Kropotkin |first1= Peter Alexeivitch |author1-link= Peter Kropotkin| last2= Bealby |first2= John Thomas| page = 337 }}
+* Šolks, Guntis, Gita Dejus, and Krists Legzdiņš. "Transformation of Historic Industrial Areas in Riga". ''Book of Proceedings''. (2012) [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.661.4434&rep=rep1&type=pdf#page=214 online].
+
+== External links ==
+{{Commons category|Riga}}
+{{Wikivoyage|Riga}}
+*[https://web.archive.org/web/20110828172049/http://www.riga.lv/EN/Channels/About_Riga/default.htm Riga Municipality portal] {{in lang|lv}} (archived 28 August 2011)
+*{{JewishGen-LocalityPage|3212216|Rīga, Latvia}}
+*[http://historic-cities.huji.ac.il/latvia/riga/riga.html Old maps of Riga] in [http://historic-cities.huji.ac.il/historic_cities.html Historic Cities site]
+
+{{navboxes|title=Articles related to Riga|list=
+{{Riga Cityscape}}
+{{Riga's neighbourhoods}}
+{{Riga Region}}
+{{Administrative divisions of Latvia}}
+{{List of European capitals by region}}
+{{Capital cities of European Union member states}}
+{{Hanseatic League}}
+{{World Heritage Sites in Latvia}}
+{{European Capital of Culture}}
+}}
+
+{{Crusader States}}
+{{Authority control}}
+
+[[Category:Riga| ]]<!--leave the empty space as standard-->
+[[Category:Capitals in Europe]]
+[[Category:Populated coastal places in Latvia]]
+[[Category:Port cities and towns in Latvia]]
+[[Category:Port cities and towns of the Baltic Sea]]
+[[Category:State cities of Latvia]]
+[[Category:Gulf of Riga]]
+[[Category:Kreis Riga]]
+[[Category:Members of the Hanseatic League]]
+[[Category:Vidzeme]]
+[[Category:NUTS 3 statistical regions of the European Union]]
+[[Category:World Heritage Sites in Latvia]]
+[[Category:Holocaust locations in Latvia]]

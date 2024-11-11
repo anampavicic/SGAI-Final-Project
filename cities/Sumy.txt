@@ -1,0 +1,454 @@
+{{About|the city in Ukraine}}{{Short description|City and administrative center of Sumy Oblast, Ukraine}}
+{{pp-protected|small=yes}}
+{{Rough translation|listed=yes|date=April 2023}}
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| name               = Sumy
+| native_name        = {{lang|uk|Суми}}
+| total_type         = <!-- to set a non-standard label for total area and population rows -->
+| motto              = <!-- images and maps  ----------->
+| image_skyline      = {{Photomontage|position=center
+ | photo1a                       = Skyline of Sumy (cropped).jpg
+ | photo2a                       = Дзвіниця Спасо-Преображенського собору в Сумах.jpg
+ | photo2b                       = Сумський обласний художній музей ім. Никанора Онацького .jpg
+ | photo3a                       = Пам'ятник Тарасу.jpg
+ | photo3b                       = Сумська Альтанка зима ніч.jpg
+ | photo4a                       =
+   | size                       = 270
+   | spacing                    = 1
+   | color                      = #FFFFFF
+   | border                     = 0
+   }}
+| imagesize          = 
+| image_caption      = '''Top-down, left-right''': skyline of Sumy, bell tower of Transfiguration Cathedral, State Art Museum, Taras Shevchenko monument, [[Altanka (monument)|Altanka]], monument to the Polish soldiers in downtown
+| image_flag         = Flag of Sumy.jpg
+| flag_size          = 
+| image_seal         = 
+| seal_size          = 
+| image_shield       = Герб міста Суми.svg
+| shield_size        = 
+| image_blank_emblem = 
+| blank_emblem_type  = 
+| blank_emblem_size  = 
+| image_map          = 
+| mapsize            = 
+| map_caption        = 
+| image_map1         = 
+| mapsize1           = 
+| map_caption1       = 
+| image_dot_map      = 
+| dot_mapsize        = 
+| dot_map_caption    = 
+| dot_x              = 
+| dot_y              = 
+| pushpin_map        = Ukraine Sumy Oblast#Ukraine
+| pushpin_label      = Sumy
+| pushpin_label_position = left<!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption = 
+| pushpin_mapsize    = <!-- Location ------------------>
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = {{UKR}}
+| subdivision_type1  = [[Oblasts of Ukraine|Oblast]]
+| subdivision_name1  = [[Sumy Oblast]]
+| subdivision_type2  = [[Raions of Ukraine|Raion]]
+| subdivision_name2  = [[Sumy Raion]]
+| parts_type         = 
+| parts_style        = list<!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+| parts              = 
+| p1                 = 
+| p2                 = 
+| government_footnotes = 
+| government_type    = 
+| leader_title       = Mayor
+| leader_name        = Yulia Pavlyk (acting)<ref>{{Cite web|url=https://www.pravda.com.ua/news/2023/10/26/7425793/|title=У Сумах проводять обшуки у виконувачки обов'язків мера|website=Українська правда}}</ref>
+| leader_party       = [[Batkivshchyna]]<ref>{{Cite web|url=https://hromadske.ua/posts/miskogo-golovu-sum-lisenka-na-posadi-zaminit-keruyucha-spravami-vikonavchogo-komitetu-yuliya-pavlik|title=Стало відомо, хто замінить міського голову Сум Лисенка на час слідства щодо хабарництва|date=October 10, 2023|website=hromadske.ua}}</ref><ref>{{Cite web|url=https://www.chesno.org/politician/197497/|title=Павлик Юлія Анатоліївна — Біографія, Балотування, Фракції, Політична Агітація &#124; ПолітХаб|website=www.chesno.org}}</ref>
+| leader_title1      = <!-- for places with, say, both a mayor and a city manager -->
+| leader_name1       = 
+| established_title  = Founded
+| established_date   = 1655
+<!-- Area    --------------------->| area_magnitude     = 
+| unit_pref          = <!--Enter: Imperial, to display imperial  before metric-->
+| area_footnotes     = 
+| area_total_km2     = 145 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+| area_land_km2      = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+| area_water_km2     = 
+| area_total_sq_mi   = 
+| area_land_sq_mi    = 
+| area_water_sq_mi   = 
+| area_water_percent = <!-- Elevation -------------------------->
+| elevation_footnotes = <!--for references: use <ref> tags-->
+| elevation_m        = 
+| elevation_ft       = 
+| elevation_max_m    = 
+| elevation_max_ft   = 
+| elevation_min_m    = 
+| elevation_min_ft   = <!-- Population   ----------------------->
+| population_as_of   = 2022
+| population_footnotes = 
+| population_note    = 
+| population_total   = 256,474
+| population_density_km2 = auto
+| population_density_sq_mi = <!-- General information  --------------->
+| timezone           = [[Eastern European Time|CET]]
+| utc_offset         = +2
+| timezone_DST       = [[Eastern European Summer Time|CEST]]
+| utc_offset_DST     = +3
+| coor_type          = <!-- can be used to specify what the coordinates refer to -->
+| coordinates        = {{coord|50|54|43|N|34|48|10|E|region:UA|display=inline,title}}
+| postal_code_type   = Postal code
+| postal_code        = 40000-40035
+| area_code          = +380 542
+| website            = 
+| footnotes          = 
+| official_name      = 
+| subdivision_type3  = [[Hromada]]
+| subdivision_name3  = [[Sumy urban hromada]]
+|module= {{Infobox mapframe|wikidata=yes|zoom=10|marker=village|coord={{WikidataCoord|display=i}}}}
+}}
+
+'''Sumy''' ({{langx|uk|Суми}}, {{IPA|uk|ˈsumɪ|IPA|uk-Суми.ogg}}) is a city in northeastern [[Ukraine]]. It serves as the administrative center of [[Sumy Oblast]]. The city is situated on the banks of the [[Psel (river)|Psel River]] with a population of {{Ua-pop-est2022|256,474|,}} making it the 23rd-largest in the country.
+
+The city of Sumy was founded in the 1650s by [[Cossacks]] within the historical region of [[Sloboda Ukraine]].
+
+== History ==
+[[File:Суми. Sumy. 1897.png|thumb|Central Sumy in 1897]]
+[[File:Coin of Ukraine Sumy R.jpg|100px|thumb|Commemorative coin of Sumy's 350-year history]]
+Sumy was founded by the Cossack [[Herasym Kondratyev]] from [[Stavyshche]], [[Bila Tserkva Regiment]] on the banks of the [[Psel River]], a tributary of the [[Dnieper]].<ref name=eohou>Bazhan, O.H., Vortman, D.Ya., Masliychuk, V.L. ''[http://resource.history.org.ua/cgi-bin/eiu/history.exe?Z21ID=&I21DBN=EIU&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN=&S21COLORTERMS=0&S21STR=Sumy_mst Sumy, regional center (СУМИ, ОБЛАСНИЙ ЦЕНТР)]''. Encyclopedia of History of Ukraine.</ref> Whether it was founded in 1652 or 1655 remains a subject of discussion.<ref name=eohou/> In 1656–58 at the site of the Sumyn early settlement, under the leadership of the Muscovite [[voivode]] K. Arsenyev, a city fort was built, consisting of a fort and a [[Gord (archaeology)|grad]] (town).<ref name=eohou/> 
+
+In the 1670s, Sumy was expanded with the addition of a fortified ''[[posad]]'' (craftsman town), after which it became the biggest fortress in [[Sloboda Ukraine]].<ref name=eohou/> From 1658 onwards, Sumy was the center of the Sumy Cossack Regiment (military unit and local administrative division).<ref name=eohou/> In the 1680s, unfortified suburbs began to develop around the city.<ref name=eohou/>
+
+At the end of the 17th century, Sumy played a role as a collection point for Muscovite troops during the [[Crimean campaigns of 1687 and 1689]].<ref name=eohou/> During the [[Great Northern War]], from December 1708 to January 1709, the city was the ''[[stavka]]'' (headquarters) of the Muscovite Chief of Commander headed by Tsar [[Peter the Great]].<ref name=eohou/> Established under the leadership of Prince A. Shakhovskoy, the Commission on streamlining the Sloboda Cossack regiments was located in 1734–43 in Sumy.<ref name=eohou/> From its establishment and until the liquidation of Cossackdom in [[Sloboda Ukraine]] in 1765, the Cossack officer family of Kondratyevs exercised great influence over the city.<ref name=eohou/>
+
+Following the liquidation of the Cossack community in 1765, the Sumy Cossack Regiment as an administrative division was turned into Sumy Province of the newly created [[Sloboda Ukraine Governorate]] and the city of Sumy became its center.<ref name=eohou/> In 1780 Sumy was turned into a centre of [[Sumy uyezd]].<ref name=eohou/> In 1786-89 the city was reformed by removing its city fort [[vallum]]s.<ref name=eohou/> 
+
+After a period of stagnation (1765–1860s), Sumy began to transform into a big industrial and trade center with Paul's Sugar-Refining Factory (est. 1869 by I.Kharytonenko) and the Sumy Engineering Workshops (est. 1896, producing equipment for sugar refineries).<ref name=eohou/> With the construction of a railroad [[Vorozhba]] – [[Merefa]], the Sumy train station was built in the city in January 1877.<ref name=eohou/> Various families of philanthropist industrialists, the most famous of which were the Kharytonenkos, contributed greatly to the development of Sumy.<ref name=eohou/>
+
+During the [[Revolution of 1905]], Sumy was one of several areas which became famous throughout Russia for having established an independent [[peasant republic]] -the Sumy Republic was established by a peasant union.<ref>Figes, Orlando: ''A People's Tragedy: The Russian Revolution 1891–1924''. The Bodley Head, London (2014). p. 183</ref>
+
+During the [[Nazi Germany|German]] occupation of Ukraine during [[World War II]] (1941–1944), Sumy sustained heavy damage and was occupied from 10 October 1941 to 2 September 1943. In February 1942, some 1,000 Jews were murdered in Sumy in two large-scale operations. In May-June that year, the Germans and their Hungarian allies killed an additional several dozen Jews, along with thirty Roma. Some 250 Hungarian Jews were also murdered in Sumy during the occupation period. <ref>[https://collections.yadvashem.org/en/untold-stories/community/14622525 Sumy, Yad Vashem]</ref> The Germans operated a Nazi prison<ref>{{cite web|url=https://www.bundesarchiv.de/zwangsarbeit/haftstaetten/index.php?action=2.2&tab=7&id=801|title=Gefängnis Sumy|website=Bundesarchiv.de|access-date=26 February 2022|language=de}}</ref> and a [[Forced labour under German rule during World War II|forced labour]] battalion for [[Jews]] in the city.<ref>{{cite web|url=https://www.bundesarchiv.de/zwangsarbeit/haftstaetten/index.php?action=2.2&tab=7&id=100002303|title=Jüdisches Arbeitsbataillon Sumy|website=Bundesarchiv.de|access-date=26 February 2022|language=de}}</ref> After the war, the destroyed parts of the city were rebuilt.
+
+On 24 February 2022, the first day of the [[2022 Russian invasion of Ukraine]], Sumy came under [[Battle of Sumy|attack by Russian forces]].<ref>{{Cite web|title=Battles against Russian occupiers ongoing near Shchastia, Sumy, Hostomel Airport|url=https://www.ukrinform.net/rubric-ato/3411711-battles-against-russian-occupiers-ongoing-near-shchastia-sumy-hostomel-airport.html|access-date=2022-02-25|website=www.ukrinform.net|date=24 February 2022 |language=en}}</ref>
+
+On 4 April 2022 [[Governor of Sumy Oblast]] [[Dmytro Zhyvytskyi]] stated that Russian troops no longer occupied any towns or villages in [[Sumy Oblast]] and had mostly withdrawn, while Ukrainian troops were working to push out the remaining units.<ref>[https://nationalpost.com/pmn/news-pmn/russian-troops-no-longer-hold-any-settlements-in-ukraines-sumy-region-says-governor Russian troops no longer hold any settlements in Ukraine's Sumy region, says governor], [[National Post]] (4 April 2022)</ref> On 8 April, Governor Zhyvytskyi stated that all Russian troops had left Sumy Oblast, while adding that the territory of the region was still unsafe due to rigged explosives and other ammunition left behind by Russian troops.<ref>[https://www.pravda.com.ua/eng/news/2022/04/8/7338013/ Sumy region liberated from Russian troops], [[Ukrayinska Pravda]] (8 April 2022)</ref>
+
+== Geography ==
+Sumy is located in the northeastern part of Ukraine within the [[Central Russian Upland]] and in the historical region of [[Sloboda Ukraine]]. It is located on the banks of the [[Psel River]].
+=== Climate ===
+Due to its relatively close location, the city's weather is similar to [[Kharkiv]]. Sumy's climate is a warm-summer [[humid continental climate|humid continental]] ([[Köppen climate classification|Köppen]]: ''Dfb'')<ref>{{Cite web|title=Sumy, Ukraine Köppen Climate Classification (Weatherbase)|url=http://www.weatherbase.com/weather/weather-summary.php3?s=57233&cityname=Sumy,+Sumy,+Ukraine&units=|access-date=2020-10-02|website=Weatherbase}}</ref> with cold and snowy winters, and hot summers. The seasonal average temperatures are not too cold in winter, not too hot in summer: {{convert|-6.9|°C|°F}} in January, and {{convert|20.3|°C|°F}} in July. The average rainfall totals {{convert|513|mm|in|0|abbr=on}} per year, with the most in June and July.
+
+Trends show an increase in the fall in precipitation in the coming decades.<ref>{{Cite web|date=December 2013|title=РОЗРОБЛЕННЯ СЦЕНАРІЇВ ЗМІНИ КЛІМАТИЧНИХ УМОВ В УКРАЇНІ НА СЕРЕДНЬО- ТА ДОВГОСТРОКОВУ ПЕРСПЕКТИВУ З ВИКОРИСТАННЯМ ДАНИХ ГЛОБАЛЬНИХ ТА РЕГІОНАЛЬНИХ МОДЕЛЕЙ|url=https://uhmi.org.ua/project/rvndr/climate.pdf|publisher=Ukrainian Hydrometeorological Institute}}</ref>
+{{Weather box
+|location = Sumy, Ukraine (1981–2010, extremes 1949-2011)
+|width = 70%
+|metric first = Yes
+|single line = Yes
+|Jan record high C = 11.0
+|Feb record high C = 13.5
+|Mar record high C = 21.0
+|Apr record high C = 30.0
+|May record high C = 33.6
+|Jun record high C = 36.1
+|Jul record high C = 38.0
+|Aug record high C = 39.4
+|Sep record high C = 31.1
+|Oct record high C = 27.9
+|Nov record high C = 22.8
+|Dec record high C = 11.5
+|year record high C = 39.4
+|Jan high C = -2.7
+|Feb high C = -1.9
+|Mar high C = 3.9
+|Apr high C = 13.5
+|May high C = 20.7
+|Jun high C = 23.8
+|Jul high C = 25.8
+|Aug high C = 25.1
+|Sep high C = 18.7
+|Oct high C = 11.3
+|Nov high C = 2.9
+|Dec high C = -1.7
+|year high C = 11.6
+|Jan mean C = -5.3
+|Feb mean C = -5.0
+|Mar mean C = 0.0
+|Apr mean C = 8.3
+|May mean C = 14.7
+|Jun mean C = 18.2
+|Jul mean C = 20.0
+|Aug mean C = 19.0
+|Sep mean C = 13.2
+|Oct mean C = 7.0
+|Nov mean C = 0.3
+|Dec mean C = -4.1
+|year mean C = 7.2
+|Jan low C = -7.9
+|Feb low C = -8.0
+|Mar low C = -3.4
+|Apr low C = 3.5
+|May low C = 9.0
+|Jun low C = 12.9
+|Jul low C = 14.7
+|Aug low C = 13.4
+|Sep low C = 8.5
+|Oct low C = 3.4
+|Nov low C = -2.1
+|Dec low C = -6.7
+|year low C = 3.1
+|Jan record low C = -34.2
+|Feb record low C = -32.8
+|Mar record low C = -27.8
+|Apr record low C = -11.1
+|May record low C = -3.9
+|Jun record low C = 0.9
+|Jul record low C = 5.0
+|Aug record low C = 4.0
+|Sep record low C = -4.3
+|Oct record low C = -11.7
+|Nov record low C = -22.9
+|Dec record low C = -29.5
+|year record low C = -34.2
+|precipitation colour = green
+|Jan precipitation mm = 36.6
+|Feb precipitation mm = 35.3
+|Mar precipitation mm = 36.2
+|Apr precipitation mm = 41.8
+|May precipitation mm = 56.1
+|Jun precipitation mm = 66.4
+|Jul precipitation mm = 74.5
+|Aug precipitation mm = 52.7
+|Sep precipitation mm = 53.0
+|Oct precipitation mm = 49.3
+|Nov precipitation mm = 42.9
+|Dec precipitation mm = 36.9
+|year precipitation mm = 581.7
+|unit precipitation days = 1.0 mm
+|Jan precipitation days = 8.5
+|Feb precipitation days = 8.5
+|Mar precipitation days = 8.4
+|Apr precipitation days = 7.5
+|May precipitation days = 8.2
+|Jun precipitation days = 9.1
+|Jul precipitation days = 8.7
+|Aug precipitation days = 6.6
+|Sep precipitation days = 7.5
+|Oct precipitation days = 7.1
+|Nov precipitation days = 8.0
+|Dec precipitation days = 8.7
+|year precipitation days = 96.8
+|Jan snow days = 18
+|Feb snow days = 14
+|Mar snow days = 10
+|Apr snow days = 3
+|May snow days = 0
+|Jun snow days = 0
+|Jul snow days = 0
+|Aug snow days = 0
+|Sep snow days = 0
+|Oct snow days = 2
+|Nov snow days = 10
+|Dec snow days = 17
+|year snow days = 74
+|Jan humidity = 85.9
+|Feb humidity = 83.3
+|Mar humidity = 78.7
+|Apr humidity = 68.0
+|May humidity = 63.9
+|Jun humidity = 69.6
+|Jul humidity = 71.2
+|Aug humidity = 69.1
+|Sep humidity = 75.8
+|Oct humidity = 80.9
+|Nov humidity = 87.3
+|Dec humidity = 87.3
+|year humidity = 76.8
+|source 1 = [[World Meteorological Organization]]<ref name=WMOCLINO>{{cite web
+| archive-url = https://web.archive.org/web/20210717143555/https://www.ncei.noaa.gov/pub/data/normals/WMO/1981-2010/RA-VI/Ukraine/12.6.%20WMO_Normals_Excel_Template%20%282%29.xls
+|archive-date = 17 July 2021
+| url = https://www.ncei.noaa.gov/pub/data/normals/WMO/1981-2010/RA-VI/Ukraine/12.6.%20WMO_Normals_Excel_Template%20(2).xls
+| title = World Meteorological Organization Climate Normals for 1981–2010
+| publisher = World Meteorological Organization
+| access-date = 17 July 2021}}</ref>
+|source 2 = Climatebase.ru (extremes),<ref name = climatebase >
+{{cite web
+| url = http://climatebase.ru/station/33275/?lang=en
+| title = Sumy, Ukraine Climate Data
+| publisher = Climatebase
+| access-date = January 21, 2013}}</ref> Weatherbase (snow days)<ref name=weatherbase>{{cite web
+| url = http://www.weatherbase.com/weather/weather.php3?s=57233&cityname=Sumy-Ukraine
+| title = Weatherbase: Historical Weather for Sumy, Ukraine
+| publisher = Weatherbase
+| access-date = January 21, 2013}}</ref>
+|date=August 2010
+}}
+
+==Government==
+[[File:Майдан Незалежності Суми.JPG|thumb|Sumy's regional administration building.]]
+
+Sumy is a [[City of regional significance (Ukraine)|city of oblast significance]] which makes a separate subdivision within the [[Sumy Oblast]]. Sumy is also an administrative center of [[Sumy Raion]] which surrounds the city.
+
+The city used to be divided into two [[Urban districts of Ukraine|urban districts]], Zarichnyi and Kovpakovskyi, and 13 ''[[Microdistrict|microraions]]''. Since 2006, the subdivision into urban districts is not in effect.<ref>{{Cite web|url=http://w1.c1.rada.gov.ua/pls/z7502/A005?rdat1=08.12.2010&rf7571=42366|title=РЕГІОНИ УКРАЇНИ ТА ЇХ СКЛАД|date=September 1, 2011|archive-url=https://web.archive.org/web/20110901211609/http://w1.c1.rada.gov.ua/pls/z7502/A005?rdat1=08.12.2010&rf7571=42366 |archive-date=2011-09-01 }}</ref>
+
+The city municipality also includes several adjacent villages including Verkhnie Pishchane, Zhyteiske, Zahirske, Kyryiakivshchyna, Pishchane, and Trokhymenkove.
+
+== Demographics ==
+{{Unreferenced section|date=September 2023}}
+{{historical populations|1897|27564|1926|43814|1939|63976|1959|98015|1970|159168|1979|228174|1989|291264|2001|293141|2011|271016|2022|256474|align=right|cols=1|source=<ref>{{cite web|title=Cities & Towns of Ukraine|url=http://pop-stat.mashke.org/ukraine-cities.htm}}</ref>}}
+* 1897 - 70.53% [[Ukrainians]], 24.1% [[Russians]], 2.6% Jewish, 2.67% others
+* 1926 - 80.7% Ukrainians, 11.8% Russians, 5.5% Jewish, 2% others
+* 1959 - 79% Ukrainians, 20% Russians, 1% others{{citation needed|date=October 2007}}
+
+The majority of residents are [[Christians]] ([[Eastern Orthodox]], [[Roman Catholic Deanery of Sumy|Roman Catholics]] and [[Protestantism|Protestant or Evangelical Christians]]). There is also a Jewish minority.
+
+From the beginning of the twentieth century, Sumy was the center of [[Roman Catholicism in Ukraine|Roman Catholicism in northeastern Ukraine]]. The Blessed Virgin Mary Annunciation Church was established in the city in 1901 and [[consecration|consecrated]] in 1911, but closed by governmental authorities two decades later; the churchhouse was thereafter used for non-religious purposes (e.g., it was used as a gym for Oleksandrivska Gymnasia) until its restoration as a Roman Catholic [[parish]] in May 1994, after the disintegration of the [[Soviet Union]]. It was reconsecrated in the spring of 1998.
+
+According to the census held in 1660, the population of Sumy was 2740 people. In 1732 it was 7700 people, in 1773 — 9380 people, in 1850 — 10,256 people, in 1898 — 26,355 people.<ref>{{cite web |title=ЭСБЕ/Сумы — Викитека |url=https://ru.wikisource.org/wiki/%D0%AD%D0%A1%D0%91%D0%95/%D0%A1%D1%83%D0%BC%D1%8B |website=ru.wikisource.org |access-date=2019-09-03}}</ref>
+
+During Soviet times the population grew significantly. In 1939 it reached 63.9 thousand people.<ref>{{cite book |last=гл. ред. Б. А. Введенский |title=Сумы // Большая Советская Энциклопедия. |publisher=Государственное научное издательство «Большая Советская энциклопедия» |year=1956 |pages=2-е изд. том 41. М., стр.285–286}}</ref> In 1959 it was 98,015 people,<ref>{{Cite web|url=http://www.demoscope.ru/weekly/ssp/ussr59_reg2.php|title=Демоскоп Weekly - Приложение. Справочник статистических показателей.|website=www.demoscope.ru}}</ref> 159 thousand people in 1970, 194 thousand people in 1975,<ref>{{cite book |title=Сумы // Большая Советская Энциклопедия. / под ред. А. М. Прохорова. 3-е изд. том 25. М., "Советская энциклопедия" |year=1976 |pages=стр.76}}</ref> 291,264 people in 1989,<ref>{{Cite web|url=http://www.demoscope.ru/weekly/ssp/sng89_reg2.php|title=Демоскоп Weekly - Приложение. Справочник статистических показателей.|website=www.demoscope.ru}}</ref> and 303.3 thousand people in 1991.<ref>{{cite encyclopedia |title=Sumy, city |encyclopedia=The New Encyclopedia Britannica. 15th edition. Micropaedia. Vol.11. Chicago |year=1994 |pages=387}}</ref>
+
+According to the [[Ukrainian Census (2001)|Ukrainian Census of 2001]], the population of Sumy was 292,139 people.<ref>{{Cite web|url=http://w1.c1.rada.gov.ua/pls/z7503/A005?rdat1=09.06.2009&rf7571=28527|title=Verkhovna Rada of Ukraine}}</ref> By January 1, 2013, it had decreased to 269,177 people.<ref>{{cite web |title=Чисельність наявного населення України на 1 січня 2013 року. Державна служба статистики України. Київ, 2013. стор.92 |url=http://database.ukrcensus.gov.ua/PXWEB2007/ukr/publ_new1/2013/sb_nnas_2012.pdf |access-date=2019-09-03 |archive-date=2013-10-12 |archive-url=https://web.archive.org/web/20131012013028/http://database.ukrcensus.gov.ua/PXWEB2007/ukr/publ_new1/2013/sb_nnas_2012.pdf |url-status=dead }}</ref> On January 1, 2016, the population was 267,633 people.<ref>Чисельність наявного населення України на 1 січня 2016 року. Державна служба статистики України. Київ, 2016. стор.65</ref>
+
+=== Language ===
+Distribution of the population by [[First language #Defining "native language"|native language]] according to the [[2001 Ukrainian census|2001 census]]:<ref>{{cite web | lang=uk | url=https://socialdata.org.ua/projects/mova-2001/ | title=Рідні мови в об'єднаних територіальних громадах України}}</ref>
+{| class="standard"
+|-
+! Language
+! Number
+! Percentage
+|-
+| [[Ukrainian language|Ukrainian]]
+| align="right"| 225 784 ||align="right"| 77.29%
+|-
+| [[Russian language in Ukraine|Russian]]
+| align="right"| 59 461 || align="right"| 20.35%
+|-
+| Other or undecided
+| align="right"| 6 894 || align="right"| 2.36%
+|-
+| Total
+| align="right"| 292 139 || align="right"| 100.00%
+|}
+
+According to a survey conducted by the [[International Republican Institute]] in April-May 2023, 64&nbsp;% of the city's population spoke Ukrainian at home, and 27&nbsp;% spoke Russian.<ref>[https://ratinggroup.ua/files/ratinggroup/reg_files/municipal_survey_may_2023_ua_-_final.pdf The eighth all-Ukrainian municipal survey], ''ratinggroup.ua,'' Retrieved 2024-01-24</ref>
+
+==Economy and infrastructure==
+===Enterprises===
+[[File:Sumy - Horkoho58 (p2).JPG|thumb|Building of Sumy Engineering Science and Production Association]]
+
+* Sumy Engineering Science and Production Association (formerly Frunze factory)
+* Sumykhimprom, a major chemical factory
+**[[Sumykhimprom chemical plant ammonia leak]]
+
+===Infrastructure===
+* There is a [[Sumy Airport]] in the city. Built in 1978, since 2006 it has been an [[international airport]] and received flights from outside Ukraine.{{citation needed|date=March 2019}}
+* There are several railway stations in the city, two of which serve passenger trains. All stations are part of the UZ regional branch [[Southern Railways (Ukraine)|Southern Railways]]. [[Sumy railway station]] also is the headquarters of one of four territorial subdivisions of the Southern Railways and conducts supervision over some other 45 stations in Sumy, Poltava, and Kharkiv oblasts.
+* There are two major routes that cross the city H07 (Kyiv–Yunakivka at Russian border) and H12 (Sumy–Poltava). There are also a few regional routes P44 (Sumy–Hlukhiv), P45 (Sumy–Bohodukhiv), and P61 (Sumy–Baturyn).
+
+==Main sights==
+===Landmarks===
+[[File:Троїцький01.JPG|thumb|Trinity Cathedral]]
+
+*The city centre is dominated by the large cathedral of the Saviour's Transfiguration. It is a [[Neoclassical architecture|neoclassical]] structure of the 18th century, extensively repaired and reconstructed in 1858 and in the 1880s when the 56-metre-high bell tower (180&nbsp;ft) was added. The interior features frescoes by [[Vladimir Makovsky]] and [[Klavdiy Lebedev]].
+*The Resurrection Church (1702), the oldest structure in the town, has had restoration work.
+*The cathedral of the monastery of [[St. Pantaleon]] was erected in 1911 to a design by [[Aleksey Shchusev]] and resembles medieval monuments of [[Novgorod]] and [[Pskov]].
+* A church of Saints Peter and Paul in the town's cemetery was built in 1851. Beside the church there are tombs of the Kharytonenkos and Sukhanovs with monuments by sculptors [[Aristide-Onésime Croisy|A. Croisy]] and [[Mark Antokolski|M. Antokolski]].
+*The Cathedral of Holy Trinity was built in 1902–1914 on the same pattern as the Cathedral of St. Isaac in St. Petersburg. The author of the design was Sumy architect G. Sholts. The work on the decorative design was not completed because of the revolutionary events of 1917.
+
+=== Museums ===
+[[File:Земська управа 04.jpg|thumb|Local Museum]]
+
+The [[Nikanor Onatsky Regional Art Museum in Sumy|Sumy Regional Art Museum]] was opened in 1920. It started with nationalized private collections of the town and district. Paintings of [[Taras Shevchenko]], [[Vladimir Borovikovsky]], I. Shyskin, [[Arkhip Kuindzhi]] and [[Tetyana Yablonska]] are on display, including a Dutch landscape by a painter of [[Jan van Goyen]]'s circle. Today the museum contains unique paintings and works of applied art. The building of the early 20th century originally belonged to the [[State Bank of the Russian Empire|State Bank]].
+
+The Museum of Local Lore was opened in 1920. In the years of fascist occupation, the most important items of its collections were lost. Today it contains unique collections covering [[archeology]] and the natural history of the Sumy region. It is located in the building of the 19th century which originally was the seat of the district government. In 1905 it was given to the printing house and publishing house of the first Sumy newspapers. In different years the building was visited by A. Kuprin and V. Korolenko, the famous Russian writers.
+
+The Chekhov Museum, located on Chekhov street is an architectural complex representing Lintvarev's country estate of the 18th and 19th centuries. In 1888 and 1889 a great writer and dramatist [[Anton Chekhov]] was dreaming of settling in Luka forever but his dream did not come true. “Abbacia and the Adriatic Sea are wonderful, but Luka and Psiol are better” – he wrote in his letter from Italy to his friends in Sumy in 1894. This is also a place where [[Anton Chekhov]]'s brother, [[Nikolai Chekhov]], died in 1889.
+
+The [[Museum of Banking history in the Sumy oblast and the History of Ukrainian Money]] was founded in 2006 to commemorate the 10th anniversary of the [[Ukrainian Academy of Banking of the National Bank of Ukraine|Ukrainian Academy of Banking]] based on a unique collection of Ukrainian bonds – the [[paper money]] out of circulation, which were given to the academy by the [[National Bank of Ukraine]]. The exposition of the bonds is arranged in the thematic-chronological order - from the first appearance of money to the present day. In addition to the numerous historical documents, photographs, metal money (coins, souvenir bars), and commemorative medals of the National Bank of Ukraine, there is an exhibition presenting technical appliances used in the [[banking industry]] in the late 20th century.
+
+== Notable people ==
+<!---♦♦♦ Only add a person to this list if they already have their own article on the English Wikipedia ♦♦♦---> 
+<!---♦♦♦ Please keep the list in alphabetical order by LAST NAME ♦♦♦---> 
+[[File:Міністр закордонних справ Дмитро Кулеба (cropped).jpg|thumb|140px|[[Dmytro Kuleba]], 2021]]
+[[File:Volodymyr Holubnychy 1964.jpg|thumb|140px|[[Volodymyr Holubnychy]], 1964]]
+*[[Aleksey Alchevsky]] (1835–1901), industrialist and philanthropist, founded the city of [[Alchevsk]]
+*[[Hanna Bezliudna]] (born 1972) is a Ukrainian media manager, producer and public figure.
+*[[Karl Burman]] (1882–1965), an Estonian architect and painter.
+*Mykola Hrunskyi (early 20th C.), a senior researcher specializing in studying of the Russian language at the Linguistic Institute of the [[National Academy of Sciences of Ukraine]]
+*[[Dmytro Kuleba]] (born 1981) a politician and diplomat; currently [[Minister of Foreign Affairs (Ukraine)|Minister of Foreign Affairs]]. 
+*[[Anatoliy Mokrenko]] (1933–2020) a Ukrainian operatic baritone
+*[[Yekaterina Peshkova]] (1887–1965), a Soviet human rights activist and first wife of [[Maxim Gorky]].
+*[[Pyotr Voevodin]] (1884–1964) was a Russian revolutionary, Soviet politician and film producer.
+=== Sport ===
+*[[Kazimierz Gzowski (equestrian)|Kazimierz Gzowski]] (1901–1986) a Polish cavalry officer and horse rider, team silver medallist at the [[1928 Summer Olympics]]
+*[[Yevhen Hlyva]] (born 1983), distance runner
+*[[Volodymyr Holubnychy]] (1936-2021), race-walker, 4-time Olympic medallist
+*[[Oleh Husiev]] (born 1983), a footballer with 319 club caps and 98 for [[Ukraine national football team|Ukraine]]
+*[[Volodymyr Romanenko]] (born 1985) football midfielder with over 330 club caps
+*[[Kateryna Samson]] (born 1988) is a Ukrainian football goalkeeper with 21 caps for [[Ukraine women's national football team|Ukraine women]]
+*[[Serhiy Strashnenko]] (born 1953) a Soviet former football goalkeeper with over 400 club caps
+
+== Sports ==
+[[File:Стадион Юбилейный 2008.jpg|thumb|Yuvileiny Stadium.]]
+
+The [[field hockey]] club [[MSC Sumchanka]] has won the Ukrainian championship 12 times and was the European champion once.
+
+Sumy is home to the [[Ukrainian First League]] [[Football (soccer)|football]] team [[FC Alians Lypova Dolyna|FC Alians]] and [[Ukrainian Second League]] [[Football (soccer)|football]] team [[FC Sumy]].
+
+The [[Ukrainian Premier League]] [[Football (soccer)|football]] club [[FC Kharkiv]] were leasing the city's state-of-the-art [[Yuvileiny Stadium]].
+
+The Yuvileiny Stadium, formerly known as Spartak, was planned to be renovated just before [[dissolution of the Soviet Union]] and in 1989 was demolished to be built anew. It was not until 1998 that the actual construction was resumed and finally finished in 2001.
+
+==Twin towns – sister cities==
+[[File:Celle Partnerstadt Sumy.jpg|thumb|Coat of arms at twin town [[Celle]] (Germany), granite artwork below signpost.]]
+{{See also|List of twin towns and sister cities in Ukraine}}
+Sumy is [[Sister city|twinned]] with:<ref>{{cite web |title=Міста-партнери|url=https://smr.gov.ua/uk/misto/mista-partneri.html|website=smr.gov.ua|publisher=Sumy|language=uk|access-date=2020-03-30}}</ref>
+{{div col|colwidth=20em}}
+*{{flagicon|USA}} [[Sacramento]], United States (2023)
+*{{flagicon|GER}} [[Celle]], Germany (1990)
+*{{flagicon|POL}} [[Gorzów Wielkopolski]], Poland (2006)
+*{{flagicon|GEO}} [[Kutaisi]], Georgia (2018)
+*{{flagicon|POL}} [[Lublin]], Poland (2002)
+*{{flagicon|BUL}} [[Vratsa]], Bulgaria (1966)
+*{{flagicon|CHN}} [[Xinxiang]], China (2019)
+*{{flagicon|CHN}} [[Zhuji]], China (2019)
+{{div col end}}
+
+===Other forms of cooperation===
+*{{flagicon|SVK}} [[Banská Bystrica]], Slovakia (2016)
+*{{flagicon|SUI}} [[Wohlen, Aargau|Wohlen]], Switzerland (2015)
+
+==References==
+;Notes
+{{Reflist|30em}}
+
+==External links==
+{{Commons category|Sumy}}
+{{Wikivoyage|Sumy}}
+{{Wiktionary}}
+*{{Cite EB1911|wstitle= Sumy |volume= 26 | page = 85 |short= 1}}
+*{{in lang|en|uk|ru}} [http://www.sumytourism.com/ City of Sumy travel guide] {{Webarchive|url=https://web.archive.org/web/20160109173330/http://sumytourism.com/ |date=2016-01-09 }}
+*{{in lang|uk}} [http://www.sumy.net.ua Independent regional Web-portal] - news, features, entertainment & tourism info
+*{{in lang|uk}} [https://web.archive.org/web/20120213051809/http://meria.sumy.ua/ Sumy administration]
+*{{in lang|en}} [http://sumyhotels.com/ Sumy travel guide] {{Webarchive|url=https://web.archive.org/web/20110716162732/http://sumyhotels.com/ |date=2011-07-16 }}
+* [http://med.sumdu.edu.ua/index.php/en/ Medical institute of Sumy State University]
+* [http://avemaria.at.ua/ The Sumian Historical Web-Society]
+*{{in lang|uk}} [https://web.archive.org/web/20100616074652/http://www.best.sumy.ua/ Regional Web-portal, open business-directory of the city]
+* [http://doska.sumy.ua/ Portal Sumy - news, weather, calendar, map, ad]
+*{{in lang|en}} City centre [http://www.0542.ua/p/web-cam Web-cam] {{Webarchive|url=https://web.archive.org/web/20170606165959/http://www.0542.ua/p/web-cam |date=2017-06-06 }}
+
+{{Sumy Oblast}}
+{{Administrative divisions of Ukraine}}
+{{Cities in Ukraine}}
+{{Authority control}}
+
+[[Category:Sumy| ]]
+[[Category:Cities in Sumy Oblast]]
+[[Category:Sumsky Uyezd]]
+[[Category:Populated places established in 1652]]
+[[Category:Cities of regional significance in Ukraine]]
+[[Category:1652 establishments in Russia]]
+[[Category:Oblast centers in Ukraine]]
+[[Category:Cities and towns built in the Sloboda Ukraine]]
+[[Category:Sloboda Ukraine]]
+[[Category:Cities with special status in Ukraine]]

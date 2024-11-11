@@ -1,0 +1,873 @@
+{{Use American English|date=October 2020}}
+{{Use mdy dates|date=December 2016}}
+{{Infobox settlement
+| name               = Durham
+| settlement_type    = [[City]]
+| nickname           = Bull City,<ref>{{Cite web|last=|first=|date=Jan 17, 2021|title=Durham was nicknamed the "Bull City" in the late 1800s when the Blackwell Tobacco Company named its product "Bull" Durham Tobacco|url=https://durhamnc.gov/1457/Welcome-to-The-City-of-Durham|url-status=live|archive-url=https://web.archive.org/web/20150905114208/http://durhamnc.gov/1457/Welcome-to-The-City-of-Durham |archive-date=September 5, 2015 |publisher=City of Durham}}</ref> City of Medicine<ref>{{cite web|url=http://www.durhamnc.gov/about/ |title=About Durham |access-date=October 9, 2009 |url-status=dead | archive-url=https://web.archive.org/web/20091022155445/http://www.durhamnc.gov/about/ |archive-date=October 22, 2009 |df=mdy }}</ref>
+| image_skyline      = {{multiple image
+| border                   = infobox
+| perrow                   = 1/3/2/1
+| total_width              = 300
+| caption_align            = center
+| image1                   = Skyline Panorama of Durham, North Carolina.jpg
+| caption1                 = Durham skyline
+| image2                   = Davidson Building, West Campus, Duke University, Durham, NC (48961121177).jpg
+| caption2                 = [[Duke University]]
+| image3                   = Duke Memorial United Methodist Church, Durham, NC (49140492242).jpg
+| caption3                 = [[Duke Memorial United Methodist Church|Duke Memorial UMC]]
+| image4                   = The Unity Monument of Bennett Place.jpg
+| caption4                 = [[Bennett Place]]
+| image5                   = Carolina Theatre (Durham Auditorium 1924).jpg
+| caption5                 = [[Carolina Theatre (Durham)|Carolina Theatre]]
+| image6                   = DPAC011 DPAC - Durham Performing Arts Center DiscoverDurham.jpg
+| caption6                 = [[Durham Performing Arts Center]]
+| image7                   = American Tobacco Campus, Durham, NC (49160923068) cropped.jpg
+| caption7                 = [[American Tobacco Historic District]] 
+}}
+| image_flag         = Flag of Durham, North Carolina.svg
+| flag_link          = Flag of Durham, North Carolina
+| image_seal         = Durham, NC City Seal.webp
+| image_blank_emblem = Durham, NC City Logo.png
+| blank_emblem_type  = Logo
+| blank_emblem_link  = Flag of Durham, North Carolina#City logo
+| image_map          = {{maplink
+  | frame              = yes
+  | plain              = yes
+  | frame-align        = center
+  | frame-width        = 280
+  | frame-height       = 280
+  | frame-coord        = {{coord|qid=Q49229}}
+  | zoom               = 10
+  | type               = shape
+  | marker             = city
+  | stroke-width       = 2
+  | stroke-color       = #0096FF
+  | fill               = #0096FF
+  | id2                = Q49229
+  | type2              = shape-inverse
+  | stroke-width2      = 2
+  | stroke-color2      = #5F5F5F
+  | stroke-opacity2    = 0
+  | fill2              = #000000
+  | fill-opacity2      = 0
+}}
+| map_caption        = Interactive map of Durham
+| pushpin_map        = North Carolina#USA
+| pushpin_relief     = yes
+| pushpin_label      = Durham
+| subdivision_type   = Country
+| subdivision_type1  = [[U.S. state|State]]
+| subdivision_type2  = [[List of counties in North Carolina|Counties]]
+| subdivision_name   = United States
+| subdivision_name1  = [[North Carolina]]
+| subdivision_name2  = [[Durham County, North Carolina|Durham]], [[Wake County, North Carolina|Wake]], [[Orange County, North Carolina|Orange]]<ref>{{cite web |url=https://maps.durhamnc.gov/?x=35.994&y=-78.8986&z=144447.638572&r=0&b=11&a=-1&u=0&pid=NA&s=default&l=# |title=Durham Maps |author=<!--Not stated--> |date= |publisher=City of Durham |access-date=June 22, 2023}}</ref>
+| government_type    = [[Council–manager]]
+| leader_title       = [[Mayor]]
+| leader_name        = [[Leonardo Williams]] ([[North Carolina Democratic Party|D]])
+| leader_title1      = [[City Manager]]
+| leader_name1       = Wanda Page
+| governing_body     = Durham City Council
+| leader_title2      = Council
+| leader_name2       = {{collapsible list|bullets=yes
+ | title = Members<ref>{{Cite web |date=December 7, 2023 |title=City Council |url=https://www.durhamnc.gov/1323/City-Council |access-date=December 7, 2023 |publisher=City of Durham}}</ref>
+ | 1 = Nate Baker – At-Large
+ | 2 = [[Javiera Caballero]] – At-Large
+ | 3 = Carl Rist – At-Large
+ | 4 = [[DeDreana Freeman]] – Ward 1
+ | 5 = Mark-Anthony Middleton – Ward 2
+ | 6 = Chelsea Cook – Ward 3
+ }}
+| leader_title3      = 
+| established_title  = Incorporated
+| established_date   = April 10, 1869<ref name="1923hill_dir_durham">{{cite book|url=https://archive.org/stream/hilldirectorycos1923hill/|title=Durham (N.C.) – Directories|publisher=Hill Directory Company|year=1923|location=Richmond, Virginia|access-date=May 13, 2010|page=7}}</ref>
+| named_for          = [[Bartlett S. Durham]]
+| total_type         = Total
+| unit_pref          = Imperial
+| area_total_sq_mi   = 116.19
+| area_land_sq_mi    = 115.36
+| area_water_sq_mi   = 0.82
+| area_total_km2     = 300.92
+| area_land_km2      = 298.79
+| area_water_km2     = 2.13
+| area_water_percent = 0.71
+| elevation_footnotes = <ref name=gnis/>
+| elevation_ft       = 404
+| coordinates        = {{coord|35|58|43|N|78|54|00|W|region:US-NC_type:city|display=inline,title}}
+| population_as_of   = [[2020 United States census|2020]]
+| population_total   = 283506
+| pop_est_as_of      = 2023
+| population_est     = 296186<ref name="2020CensusQuickFacts">{{cite web|url=https://www.census.gov/quickfacts/fact/table/durhamcitynorthcarolina|title=QuickFacts: Durham city, North Carolina|publisher=United States Census Bureau|access-date=May 16, 2024}}</ref>
+| population_rank    = [[List of United States cities by population|70th]] in the United States<br />[[List of municipalities in North Carolina|4th]] in North Carolina
+| population_urban   = 396,118 (US: [[List of United States urban areas|106th]])
+| population_density_urban_km2 = 834.1
+| population_density_urban_sq_mi = 2,160.4
+| population_metro_footnotes = <ref name="PopEstCBSA"/>
+| population_metro   = 608879 (US: [[Metropolitan statistical area|94th]])
+| population_density_km2 = 948.85
+| population_demonym = Durhamite
+| timezone           = [[North American Eastern Time Zone|EST]]
+| utc_offset         = &minus;5
+| timezone_DST       = [[Eastern Daylight Time|EDT]]
+| utc_offset_DST     = &minus;4
+| postal_code_type   = [[ZIP code]]s
+| postal_code        = 27701, 27702, 27703, 27704, 27705, 27706, 27707, 27708, 27709, 27710, 27711, 27712, 27713, 27715, 27717, 27722
+| area_code          = [[Area code 919|919]], [[Area code 984|984]]
+| blank_name         = [[Federal Information Processing Standard|FIPS code]]
+| blank_info         = 37-19000<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=January 31, 2008 |title=U.S. Census website |df=mdy }}</ref>
+| blank1_name        = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info        = 2403521<ref name=gnis>{{GNIS|2403521}}</ref>
+| blank2_name        = Primary Airport
+| blank2_info        = [[Raleigh–Durham International Airport]]
+| blank3_name        = [[Public Transit|Public transportation]]
+| blank3_info        = [[GoDurham]]
+| website            = {{URL|durhamnc.gov}}
+| population_density_sq_mi = 2457.51
+| area_footnotes     = <ref name="TigerWebMapServer">{{cite web |title=ArcGIS REST Services Directory |url=https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer |publisher=United States Census Bureau |access-date=September 20, 2022}}</ref>
+| population_footnotes = 
+}}
+
+'''Durham''' ({{IPAc-en|ˈ|d|ɜɹ|ə|m}} {{respell|DURR|əm}})<ref>{{cite web |last=Leslie |first=Bill |date=November 3, 2011 |title=Travel: NC Pronunciation Guide |url=https://www.wral.com/lifestyles/travel/blogpost/10331495/ |access-date=August 15, 2022 |website=WRAL News}}</ref> is a [[city]] in the [[U.S. state]] of [[North Carolina]] and the [[county seat]] of [[Durham County, North Carolina|Durham County]].<ref name="GR6">{{cite web |title=Durham County, NC |url=https://ce.naco.org/?county_info=37063 |access-date=June 7, 2011 |website=County Explorer |publisher=National Association of Counties}}</ref> Small portions of the city limits extend into [[Orange County, North Carolina|Orange County]] and [[Wake County, North Carolina|Wake County]]. With a population of 283,506 in the [[2020 United States census|2020 census]], Durham is the [[List of municipalities in North Carolina|fourth-most populous city]] in North Carolina and the [[List of United States cities by population|70th-most populous city]] in the United States.<ref name="2020CensusQuickFacts"/> The city is located in the east-central part of the [[Piedmont (United States)|Piedmont]] region along the [[Eno River]]. Durham is the core of the four-county Durham–Chapel Hill metropolitan area, which had an estimated population of 608,879 in 2023. The [[Office of Management and Budget]] also includes Durham as a part of the [[Raleigh–Durham–Cary, NC Combined Statistical Area]], commonly known as the Research Triangle, which had an estimated population of 2,368,947 in 2023.<ref name="PopEstCBSA">{{cite web |date=March 14, 2024 |title=Metropolitan and Micropolitan Statistical Areas Population Totals: 2020-2023 |url=https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-metro-and-micro-statistical-areas.html#v2023 |access-date=March 15, 2024 |publisher=[[United States Census Bureau]], Population Division}}</ref>
+
+A railway depot was established in 1849 on land donated by [[Bartlett S. Durham]], the namesake of the city. Following the [[American Civil War]], the community of Durham Station expanded rapidly, in part due to the [[tobacco industry]]. The town was incorporated by act of the [[North Carolina General Assembly]], in April 1869. The establishment of [[Durham County, NC|Durham County]] was ratified by the General Assembly 12 years later, in 1881. It became known as the founding place and headquarters of the [[American Tobacco Company]]. [[Textile industry|Textile]] and [[Electric power industry|electric power]] industries also played an important role. While these industries have declined, Durham underwent revitalization and population growth<ref>{{Cite web|url=https://indyweek.com/api/content/c9b21274-b05e-59ea-8373-b4de7a9723c2/|title=To Keep Up With Growth, Durham Needs to Add Two Thousand Housing Units a Year. Its Rules Are in the Way.|last=Willets|first=Sarah|date=2018-08-29|website=INDY Week|language=en-us|access-date=2019-06-20|archive-date=August 19, 2021|archive-url=https://web.archive.org/web/20210819235824/https://indyweek.com/news/durham/keep-growth-durham-needs-add-two-thousand-housing-units-year.-rules-way./|url-status=dead}}</ref> to become an educational, medical, and research center.<ref>{{Cite web|url=https://www.britannica.com/place/Durham-North-Carolina|title=Durham {{!}} North Carolina, United States|website=Encyclopedia Britannica|language=en|access-date=2019-06-20}}</ref>
+
+Durham is home to several recognized institutions of higher education, most notably [[Duke University]] and [[North Carolina Central University]]. Durham is also a national leader in health-related activities, which are focused on the [[Duke University Hospital]] and many private companies. Duke and its [[Duke University Health System]] are the largest employers in the city. North Carolina Central University is a [[historically black university]] that is part of the [[University of North Carolina System]]. Together, the two universities make Durham one of the vertices of the [[Research Triangle]] area; central to this is the [[Research Triangle Park]]<ref name="RTP">{{cite web |title=Where is RTP? |url=http://www.rtp.org/main/index.php?pid=184&sec=1 |url-status=dead |archive-url=https://web.archive.org/web/20071104012521/http://www.rtp.org/main/index.php?pid=184&sec=1 |archive-date=November 4, 2007 |access-date=October 9, 2007 |publisher=Research Triangle Foundation of North Carolina}} ''[[The Herald Sun]]'' reports that it is the 4th-smartest city in the US.</ref> south of Durham, which encompasses an area of 11 square miles and is devoted to research facilities.
+
+On the Duke University campus are the [[Gothic Revival architecture|neo-Gothic]] [[Duke Chapel]] and the [[Nasher Museum of Art]]. Other notable sites in the city include the [[Museum of Life and Science]], [[Durham Performing Arts Center]], [[Carolina Theatre (Durham)|Carolina Theatre]], and [[Duke Homestead and Tobacco Factory]]. [[Bennett Place]] commemorates the location where [[Joseph E. Johnston]] surrendered to [[William T. Sherman]] in the American Civil War. The city is served, along with Raleigh, by [[Raleigh–Durham International Airport]].
+
+==History==
+{{see also|Timeline of Durham, North Carolina}}
+
+===Pre-establishment===
+The [[Eno people|Eno]] and the [[Occaneechi|Occoneechi]], related to the [[Sioux]] and the [[Shakori]], lived in the area and may have established a village named Adshusheer (or Ajusher) in the area which became Durham.<ref>The Travels of Richard Traunter, page 38, ([1699], Sandra L. Dahlberg ed., University of Virginia Press, 2022).</ref> [[Trading Path|The Occaneechi Path]], a corridor of trading roads and trails, went through the area. Native Americans expanded the region by establishing settlements and commercial transportation routes.<ref name=":1">{{Cite web |title=Overview of Durham History |url=https://www.museumofdurhamhistory.org/learn/overview-of-durham-history/ |archive-url=https://web.archive.org/web/20230406053213/https://www.museumofdurhamhistory.org/learn/overview-of-durham-history/ |archive-date=2023-04-06 |access-date=2023-06-08 |publisher=Museum of Durham History |language=en-US}}</ref><ref name=":2">{{Cite web |date=July 2020 |title=About Durham |url=https://law.nccu.edu/about/about-durham/ |access-date=2023-06-08 |publisher=NC Central University School of Law |language=en-US}}</ref>
+
+In 1701, English explorer [[John Lawson (explorer)|John Lawson]], documented the area and would later call it "the flower of the Carolinas". Lawson claimed that Ajusher was situated {{convert|14|mi}} from Occaneechi Town.<ref>John Lawson, A New Voyage to Carolina, page 62 ([1709] Hugh Talmage Lefler ed., Chapel Hill: University of North Carolina press, 1967).</ref> In the mid-1700s, Scots, Irish, and English colonists settled on land granted to [[George Carteret]] by [[Charles I of England|King Charles I]]{{dubious|Which Carteret and which king?|date=May 2024}}, a grant that had by then been inherited by his great-grandson [[John Carteret, 2nd Earl Granville|John]]. Early settlers built settlements as well as farms and mills, like [[West Point Mill]].<ref name=":1"/><ref name=":2"/>
+
+Frontiersmen in the area, prior to the [[American Revolutionary War]], participated in the [[Regulator Movement]]. Loyalist militia used Cornwallis Road to cut through the area in 1771 to quell the rebellion. William Johnston, a local a farmer and shopkeeper, made munitions for the [[Continental Army]], served in the [[North Carolina Provincial Congress|Provincial Congress]] in 1775, and financially supported [[Daniel Boone]] on his westward explorations.<ref name=":1"/><ref name=":2"/>
+
+===Antebellum and Civil War===
+Prior to the arrival of the railroad, the area now known as Durham was the eastern part of present-day Orange County and was almost entirely agricultural, with a few businesses catering to travelers (particularly livestock drivers) along the Hillsborough Road. This road, eventually followed by US Route 70, was the major east–west route in North Carolina from colonial times until the construction of interstate highways. Steady population growth and an intersection with the road connecting Roxboro and Fayetteville made the area near this site suitable for a US Post Office. Roxboro, Fayetteville and Hillsborough Roads remain major thoroughfares in Durham, although they no longer exactly follow their early 19th century rights-of-way.<ref>{{Cite web |title=History Beneath Our Feet |url=http://museumofdurhamhistory.org/beneathourfeet/streets |url-status=dead |access-date=2022-11-06 |publisher=Museum of Durham History |archive-date=November 6, 2022 |archive-url=https://web.archive.org/web/20221106150037/http://museumofdurhamhistory.org/beneathourfeet/streets }}</ref>
+
+Large plantations, [[Hardscrabble (Bahama, North Carolina)|Hardscrabble]], [[Fairntosh Plantation|Fairntosh]], [[Lipscomb House|Lipscomb]], [[Walnut Hall (Durham, North Carolina)|Walnut Hall]], [[Patterson Plantation|Patterson]], and [[Leigh Farm|Leigh]] among them, were established in the antebellum period. By 1860, [[Stagville|Stagville Plantation]] lay at the center of one of the largest plantation holdings in the South. African slaves were brought to labor on these farms and plantations, and slave quarters became the hearth of distinctively Southern cultural traditions involving crafts, social relations, life rituals, music, and dance. There were free [[African-American]]s in the area as well, including several who fought in the Revolutionary War.
+
+Durham's location is a result of the needs of the 19th century railroad industry. The wood-burning steam locomotives of the time had to stop frequently for wood and water and the new [[North Carolina Railroad]] needed a depot between the settled towns of Raleigh and Hillsborough. The residents of what is now downtown Durham thought their businesses catering to livestock drivers had a better future than "a new-fangled nonsense like a railroad" and refused to sell or lease land for a depot.<ref>{{cite web |title=History of Durham |url=https://durhamnc.gov/DocumentCenter/Home/View/4097 |access-date=24 January 2017 |publisher=City of Durham |format=PDF}}</ref> In 1849, a North Carolina Railroad depot was established on a four-acre tract of land donated by [[Bartlett S. Durham|Dr. Bartlett S. Durham]]; the station was named after him in recognition of his gift.<ref name=":0">{{Cite web |title=Welcome to The City of Durham |url=https://durhamnc.gov/1457/Welcome-to-The-City-of-Durham |access-date=2020-07-30 |publisher=City of Durham}}</ref> A [[U.S. Post Office|U.S. post office]] was established there on April 26, 1853, now recognized as the city's official birthday.<ref name=":0"/>
+
+Durham Station, as it was known for its first 20 years, was a depot for the occasional passenger or express package until early April 1865, when the Federal Army commanded by Major General [[William T. Sherman]] occupied the nearby state capital of Raleigh during the American Civil War. The last formidable Confederate Army in the South, commanded by General [[Joseph E. Johnston]], was headquartered in [[Greensboro]] {{convert|50|mi|km}} to the west. After the surrender of the Army of Northern Virginia by Gen. [[Robert E. Lee]] at [[Appomattox, Virginia]] on April 9, 1865, Gen. Johnston sought surrender terms, which were negotiated on April 17, 18 and 26 at [[Bennett Place]], the small farm of James and Nancy Bennett, located halfway between the army's lines about {{convert|3|mi|km}} west of Durham Station.
+
+As both armies passed through Durham, Hillsborough, and surrounding Piedmont communities, they enjoyed the mild flavor of the area's [[Virginia tobacco|Brightleaf tobacco]], which was considered more pleasant to smoke or chew than was available back home after the war. Some began sending letters to Durham to get more.<ref>{{Cite web |last=Yeargin |first=W.W. |year=2006 |title=Tobacco– Part 3: The Rise of 'Big Tobacco' |url=https://www.ncpedia.org/tobacco-part-3-rise-big-tobacco |access-date=2018-01-25 |website=NCpedia |publisher=NC Dept. of Natural and Cultural Resources – State Library of NC – NC Government & Heritage Library |language=en-US}}</ref>
+
+===Reconstruction and the rise of Durham tobacco===
+[[File:First Duke tobacco factory and surrounding buildings 1883.jpg|thumb|left|Early view of first [[Washington Duke|Duke]] tobacco factory and family home, Durham, 1883]]
+The community of Durham Station grew slowly before the Civil War, but expanded rapidly following the war. Much of this growth attributed to the establishment of a thriving [[tobacco]] industry. Veterans returned home after the war with an interest in acquiring more of the tobacco they had sampled in North Carolina. Numerous orders were mailed to John Ruffin Green's tobacco company requesting more of the Durham tobacco. W.T. Blackwell partnered with Green and renamed the company as the "[[Bull Durham Tobacco Factory]]".<ref name=":0"/> The name "Bull Durham" is said to have been taken from the bull on the British [[Colman's]] Mustard, which Mr. Blackwell mistakenly believed was manufactured in [[Durham, England|Durham]], England.<ref>{{Cite web |last=Richardson |first=Lynn |title=The Bull City: Overview of Durham History |url=https://www.museumofdurhamhistory.org/learn/overview-of-durham-history/ |access-date=2020-07-30 |publisher=Museum of Durham History |language=en-US}}</ref> Mustard known as Durham Mustard was originally produced in [[Durham, England|Durham]], England, by Mrs Clements and later by Ainsley during the eighteenth century. However, production of the original Durham Mustard has now been passed into the hands of [[Colman's]] of [[Norwich]], England.
+[[File:WhiteDoorColoredDoor.jpg|thumb|Separate "white" and "colored" entrances to a cafe in Durham, North Carolina, 1940]]
+
+===Incorporation===
+As Durham Station's population rapidly increased, the station became a town and was incorporated by act of the [[North Carolina General Assembly]], on April 10, 1869. It was named for the man who provided the land on which the station was built, Dr. Bartlett Durham. At the time of its incorporation by the General Assembly, Durham was located in Orange County. The increase in business activity, land transfers etc., made the day long trip back and forth to the county seat in Hillsborough untenable, so twelve years later, on April 17, 1881, a bill for the establishment of [[Durham County, North Carolina|Durham County]] was ratified by the General Assembly, having been introduced by Caleb B.Green, creating Durham County from the eastern portion of Orange County and the western portion of [[Wake County, North Carolina|Wake County]]. In 1911, parts of [[Cedar Fork Township, Wake County, North Carolina|Cedar Fork Township]] of [[Wake County, North Carolina|Wake County]] was transferred to Durham County and became [[Carr Township, Durham County, North Carolina|Carr Township]].<ref name="1923hill_dir_durham" />
+
+===Early growth (1900–1970)===
+[[File:SKYL024 Old Bull Building ATC DiscoverDurham.jpg|thumb|Overlooking the newly renovated [[American Tobacco|American Tobacco Campus]]|left]]
+The rapid growth and prosperity of the Bull Durham Tobacco Company, and [[Washington Duke]]'s W. Duke & Sons Tobacco Company, resulted in the rapid growth of the city of Durham. Throughout the [[Gilded Age]] and into the early twentieth century, Durham industrialists, including [[George Washington Watts]], [[John Sprunt Hill]], and [[Julian S. Carr]], built large mansions such as [[Somerset Villa]], [[Harwood Hall]], the [[John Sprunt Hill House]], and [[Greystone (Durham, North Carolina)|Greystone Manor]]. Washington Duke was a good businessman, but his sons were brilliant and established what amounted to a monopoly of the smoking and chewing tobacco business in the United States by 1900. In the early 1910s, the Federal Government forced a breakup of the Duke's business under the antitrust laws. The Dukes retained what became known as [[American Tobacco]], a major corporation in its own right, with manufacturing based in Durham. American Tobacco's ubiquitous advertisements on radio shows beginning in the 1930s and television shows up to 1970 was the nation's image of Durham until Duke University supplanted it in the late 20th century.
+
+[[File:Durham Main Street.JPG|thumb|Looking west along Parrish Street, home of what was then known as Black Wall Street]]
+Prevented from further investment in the tobacco industry, the Dukes turned to the then new industry of electric power generation, which they had been investing in since the early 1890s. [[Duke Power]] (now Duke Energy) brought in electricity from hydroelectric dams in the western mountains of North Carolina through the newly invented technology of high voltage power lines. At this time (1910–1920), the few towns and cities in North Carolina that had electricity depended on local "powerhouses". These were large, noisy, and smoky coal-fired plants located next to the railroad tracks. Duke Power quickly took over the electricity franchises in these towns and then electrified all the other towns of central and western North Carolina, making even more money than they ever made from tobacco.<ref>{{Cite web |title=Our Company: Our History |url=https://www.duke-energy.com/our-company/about-us/our-history |access-date=2022-11-06 |publisher=Duke Energy |language=en-US}}</ref> Duke Power also had a significant business in local franchises for public transit (buses and trolleys) before local government took over this responsibility in the mid- to late 20th century. Duke Power ran Durham's public bus system (now [[GoDurham]]) until 1991.
+
+The success of the tobacco industry in the late 19th and early 20th century encouraged the then-growing textile industry to locate just outside Durham. The early electrification of Durham was also a large incentive. Drawing a labor force from the economic demise of single-family farms in the region at the time, these textile mills doubled the population of Durham. These areas were known as East Durham and West Durham until they were eventually annexed by the City of Durham.
+
+Much of the early city [[architecture]], both commercial and residential, dates from the period of 1890–1930. Durham recorded its worst fire in history on March 23, 1914. The multimillion-dollar blaze destroyed a large portion of the downtown business district. The fire department's water source failed during the blaze, prompting voters to establish a city-owned water system in place of the private systems that had served the city since 1887.<ref>{{cite web |title=This day in 1914 |url=https://www.facebook.com/museumofdurhamhistory/photos/a.286366331389809.90199.144344455591998/835801223112981/?type=1&theater |url-access=limited |archive-url=https://ghostarchive.org/iarchive/facebook/144344455591998/835801223112981 |archive-date=2022-02-26 |access-date=March 23, 2014 |website=Facebook |publisher=Museum of Durham History}}{{cbignore}}</ref>
+
+Durham quickly developed a black community, the center of which was an area known as ''[[Hayti, Durham, North Carolina|Hayti]]'', (pronounced HAY-tie), just south of the center of town, where some of the most prominent and successful black-owned businesses in the country during the early 20th century were established. These businesses — the best known of which are [[North Carolina Mutual Life Insurance Company]] and [[Mechanics and Farmers Bank (Durham, North Carolina)|Mechanics & Farmers Bank]] — were centered on Parrish St., which would come to be known as "Black Wall Street".<ref>{{cite web |last=Cain |first=Brooke |last2=Quillin |first2=Martha |date=February 2021 |title=10 NC Black history lessons you likely weren't taught in school (but should have been) |url=https://amp.newsobserver.com/news/local/article249151195.html |access-date=February 27, 2021 |website=Raleigh News & Observer |language=en}}</ref> In 1910, [[James E. Shepard|Dr. James E. Shepard]] founded [[North Carolina Central University]], the nation's first publicly supported liberal arts college for African-Americans.
+
+In 1924, [[James Buchanan Duke]] established a philanthropic foundation in honor of his father [[Washington Duke]] to support Trinity College in Durham. The college changed its name to [[Duke University]] and built a large campus and hospital a mile west of Trinity College (the original site of Trinity College is now known as the [[Duke University East Campus|Duke East Campus]]).<ref>{{Cite web |last=Williams |first=Shane |date=March 7, 2016 |title=Duke University |url=https://northcarolinahistory.org/encyclopedia/duke-university/ |access-date=March 3, 2020 |website=North Carolina History Project |publisher=[[John Locke Foundation]]}}</ref>
+
+Durham's manufacturing fortunes declined during the mid-20th century. [[Textile]] mills began to close during the 1930s. Competition from other tobacco companies (as well as a decrease in smoking after the 1960s) reduced revenues from Durham's tobacco industry.
+
+[[File:Durham aerial view, Chanticleer 1952 page 376.jpg|thumb|right|Downtown Durham, 1942 or earlier]]
+
+In a far-sighted move in the late 1950s, Duke University, along with the University of North Carolina in Chapel Hill and North Carolina State University in Raleigh, persuaded the North Carolina Legislature to purchase a large tract of sparsely settled land in southern Durham County and create the nation's first "science park" for industry. Cheap land and a steady supply of trained workers from the local universities made the [[Research Triangle Park]] an enormous success which, along with the expansion resulting from the clinical and scientific advances of Duke Medical Center and Duke University, more than made up for the decline of Durham's tobacco and textile industries.<ref>{{Cite web |last=Emerson |first=Rob |title=Golden Belt: Our History |url=https://www.goldenbeltarts.com/community/our-history/ |access-date=2022-11-06 |publisher=Golden Belt Arts}}</ref><ref>{{Cite web |last=Williams |first=Wiley J. |date=2006 |title=Research Triangle Park |url=https://www.ncpedia.org/research-triangle-park |access-date=2022-11-06 |website=NCpedia}}</ref>
+
+===Civil rights movement===
+As a result of its substantial African-American community, including many activists, a prominent [[civil rights movement]] developed in Durham. Multiple sit-ins were held, and [[Martin Luther King Jr.]], visited the city during the struggle for equal rights. The Durham Committee on Negro Affairs, organized in 1935 by C.C. Spaulding, Louis Austin, Conrad Pearson, and [[James E. Shepard]], has been cited nationally for its role in fighting for black voting rights. The committee also has used its voting strength to pursue social and economic rights for African-Americans and other ethnic groups. In 1957, [[Douglas E. Moore]], minister of Durham's Asbury Temple Methodist Church, along with other religious and community leaders, pioneered sit-ins throughout North Carolina to protest discrimination at lunch counters that served only whites.
+
+Widely credited as the [[Royal Ice Cream sit-in|first sit-in of the civil rights movement in North Carolina]], on June 23, 1957, Moore and six others assembled at the church to plan the protest. The young African Americans moved over to the [[Racial segregation in the United States|segregated]] [[Royal Ice Cream|Royal Ice Cream Parlor]] and took up whites-only booths. When they refused to budge, the manager called the police who charged them with trespassing. Unlike the [[Greensboro Four]], three years later, the Royal Seven were arrested and ultimately found guilty of trespassing.<ref>{{cite news |last=Gregg |first=R. |date=January 19, 2008 |title=NC Finally Recognizes Pre-Woolworth Sit-Ins In 1956 |url=http://www.greensboro3.com/default.asp?sourceid=&smenu=1&twindow=&mad=&sdetail=1495&wpage=1&skeyword=&sidate=&ccat=&ccatm=&restate=&restatus=&reoption=&retype=&repmin=&repmax=&rebed=&rebath=&subname=&pform=&sc=2762&hn=greensboro3&he=.com |url-status=dead |archive-url=https://web.archive.org/web/20090202064022/http://greensboro3.com/default.asp?sourceid=&smenu=1&twindow=&mad=&sdetail=1495&wpage=1&skeyword=&sidate=&ccat=&ccatm=&restate=&restatus=&reoption=&retype=&repmin=&repmax=&rebed=&rebath=&subname=&pform=&sc=2762&hn=greensboro3&he=.com |archive-date=February 2, 2009 |work=The Greensboro Telegram |df=mdy}}</ref><ref name="sciblog_Royal">{{cite web|url=http://scienceblogs.com/terrasig/2009/11/dedication_of_1957_royal_ice_c.php |title=Dedication of the 1957 Royal Ice Cream sit-in historical marker |date=November 29, 2009 |publisher=Terra Sigillata |access-date=May 13, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100816045824/http://scienceblogs.com/terrasig/2009/11/dedication_of_1957_royal_ice_c.php |archive-date=August 16, 2010 |df=mdy }}</ref><ref name="hwymkrg123">{{cite web|url=http://www.ncmarkers.com/Markers.aspx?ct=ddl&sp=search&k=Markers&sv=G-123%20-%20ROYAL%20ICE%20CREAM%20SIT-IN |title=G-123 Royal Ice Cream Sit-In |publisher=North Carolina Highway Historical Marker Program |access-date=May 13, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100818183910/http://www.ncmarkers.com/Markers.aspx?ct=ddl&sp=search&k=Markers&sv=G-123%20-%20ROYAL%20ICE%20CREAM%20SIT-IN |archive-date=August 18, 2010 |df=mdy }}</ref>
+
+The six-month-long sit-in at a [[F. W. Woolworth Company|Woolworth]]'s counter in [[Greensboro sit-ins|Greensboro, North Carolina]], captured the nation's attention. Within a week, students from North Carolina College at Durham and Duke University staged a sit-in in Durham. About a week later, Martin Luther King Jr. met Moore in Durham, where King coined his famous rallying cry "Fill up the jails," during a speech at White Rock Baptist Church. Advocating non-violent confrontation with segregation laws for the first time, King said, "Let us not fear going to jail. If the officials threaten to arrest us for standing up for our rights, we must answer by saying that we are willing and prepared to fill up the jails of the South."
+
+This community was not enough to prevent the demolition of portions of the Hayti district for the construction of the Durham Freeway during the late 1960s.<ref>{{cite web|last1=Ehrsam|first1=Frederick|title=The downfall of Durham's historic Hayti: Propagated or preempted by urban renewal?|url=https://sites.duke.edu/djepapers/files/2016/10/Ehrsam-Fred_DJE.pdf}}</ref> The freeway construction resulted in losses to other historic neighborhoods, including Morehead Hill, West End, and West Durham. Combined with large-scale demolition using Urban Renewal funds, Durham suffered significant losses to its historic architectural base.
+
+===1970s–present===
+[[File:STRT092 Chesterfield Building DiscoverDurham.jpg|thumb|The renovations of former tobacco buildings are central to the revitalization efforts in downtown Durham]]
+In 1970, the Census Bureau reported city's population as 38.8% black and 60.8% white.<ref>{{cite web|title=Race and Hispanic Origin for Selected Cities and Other Places: Earliest Census to 1990 |publisher=U.S. Census Bureau |url=https://www.census.gov/population/www/documentation/twps0076/twps0076.html |url-status=dead |archive-url=https://web.archive.org/web/20120812191959/http://www.census.gov/population/www/documentation/twps0076/twps0076.html |archive-date=August 12, 2012 |df=mdy }}</ref> Durham's growth began to rekindle during the 1970s and 1980s, with the construction of multiple housing developments in the southern part of the city, nearest [[Research Triangle Park]], and the beginnings of downtown revitalization. In 1975, the St. Joseph's Historical Foundation at the Hayti Heritage Center was incorporated to "preserve the heritage of the old Hayti community, and to promote the understanding of and appreciation for the African American experience and African Americans' contributions to world culture."<ref name=SJHF>{{cite web|url=http://www.hayti.org/sjhf/index.php |title=Welcome to St. Joseph's Historic Foundation at Hayti Heritage Center |access-date=September 16, 2006 |url-status=dead |archive-url=https://web.archive.org/web/20060904030558/http://www.hayti.org/sjhf/index.php |archive-date=September 4, 2006 }}</ref>
+
+In 1987, the American Tobacco Factory in Durham closed, leading to an economic downturn and a decline in the city's reputation.<ref>{{cite web| url = https://www.ncpedia.org/anchor/economic-change-and-traditional-industries| title = Economic Change: From Traditional Industries to the 21st Century Economy| last = Medlin| first = Eric| date = 2020| website = Anchor| publisher = North Carolina Government & Heritage Library| access-date = September 24, 2023}}</ref> A new downtown baseball stadium was constructed for the [[Durham Bulls]] in 1994. The [[Durham Performing Arts Center]] now ranks in the top ten in theater ticket sales in the US according to Pollstar magazine. Many famous people have performed there including [[B.B. King]] and [[Willie Nelson]]. After the departure of the tobacco industry, large-scale renovations of the historic factories into offices, condominiums, and restaurants began to reshape downtown.<ref>{{cite web |date=September 21, 2010 |title=Durham |url=http://www.ourstate.com/articles/durham |url-status=dead |access-date=April 13, 2016 |website=Our State |archive-date=December 11, 2013 |archive-url=https://web.archive.org/web/20131211141353/http://www.ourstate.com/articles/durham/ }}</ref> While these efforts continue, the large majority of Durham's residential and retail growth since 1990 has been along the I-40 corridor in southern Durham County.<ref>{{Cite web |last=Lavigne |first=Lora |date=2021-11-23 |title=Officials expect Durham's population to double in the next 25 years |url=https://www.wral.com/officials-expect-durham-s-population-to-double-in-the-next-25-years/19998964/ |access-date=2022-11-06 |website=WRAL News |language=en}}</ref>
+
+Major employers in Durham are Duke University and Duke Medical Center (39,000 employees, 14,000 students), about {{convert|2|mi|km}} west of the original downtown area, and companies in the Research Triangle Park (49,000 employees), about {{convert|10|mi|km}} southeast. These centers are connected by the Durham Freeway ([[North Carolina Highway 147|NC 147]]).
+
+===Downtown revitalization===
+[[File:CASD082 Jack Tar DiscoverDurham.jpg|thumb|upright|A restaurant in downtown Durham]]
+[[File:SKYL032 Back Porch Skyline DiscoverDurham.jpg|thumb|Downtown Durham]]
+[[File:ICON092 University Tower DiscoverDurham.jpg|thumb|upright|University Tower is the tallest building in Durham located outside of the downtown area.]]
+{{see also|Downtown Durham Historic District}}
+In recent years the city of Durham has stepped up revitalization of its downtown and undergone an economic and cultural renaissance of sorts. Partnering with developers from around the world, the city continues to promote the redevelopment of many of its former tobacco districts, projects supplemented by the earlier construction of the [[Durham Performing Arts Center]] and new [[Durham Bulls Athletic Park]].<ref>{{cite web |date=October 7, 2010 |title=Office of Economic and Workforce Development |url=http://durhamnc.gov/ich/cb/oewd/Pages/Home.aspx |url-status=dead |archive-url=https://web.archive.org/web/20140513050936/http://durhamnc.gov/ich/cb/oewd/Pages/Home.aspx |archive-date=May 13, 2014 |access-date=May 4, 2014 |publisher=City of Durham |df=mdy}}</ref> The [[American Tobacco Historic District]], adjacent to both the athletic park and performing arts center, is one such project, having successfully lured a number of restaurants, entertainment venues, and office space geared toward hi-tech entrepreneurs, investors, and startups.<ref>{{cite web |title=About Us: Welcome to Our Neighborhood |url=https://americantobacco.co/about-our-campus/ |access-date=May 4, 2014 |publisher=American Tobacco Historic District}}</ref> Many other companies have purchased and renovated historic buildings, such as [[Measurement Incorporated]] and [[Capitol Broadcasting Company]].
+The American Underground section of the American Tobacco Campus, home to successful small software firms including [[Red Hat]], was selected by [[Google]] to host its launch of the [[Google Glass]] Road show in October 2013.<ref>{{cite web|last=McGee |first=Matt |url=http://glassalmanac.com/google-glass-road-show-starts-october-5th-durham-nc/ |title=The Google Glass Road Show Starts October 5th in Durham, NC |publisher=Glass Almanac |date=September 26, 2013 |access-date=May 4, 2014}}</ref> The district is also slated for expansion featuring 158,000 square feet of offices, retail, residential or hotel space<ref>{{cite web|url=http://www.durham-nc.com/about/new_visitor_developments/new_visitor_developments_chart.php |title=New Visitor Developments Chart |publisher=Durham, NC |access-date=May 4, 2014}}</ref> The [[Durham County Justice Center]], a major addition to downtown Durham, was completed in early 2013.
+
+Many of the historic tobacco buildings elsewhere in the city have been converted into loft-style apartment complexes. The downtown corridor along West Main St. has seen significant redevelopment including bars, entertainment venues, art studios,<ref>{{cite news| url=http://travel.nytimes.com/2013/01/20/travel/36-hours-in-durham-nc.html?pagewanted=all | newspaper=The New York Times | first=Ingrid K. | last=Williams | title=36 Hours in Durham, N.C | date=January 17, 2013}}</ref> and [[co-working]] spaces,<ref>{{cite web|url=http://mercurystudiodurham.com/ |title=mercurystudiodurham.com |publisher=mercurystudiodurham.com |access-date=May 4, 2014}}</ref> in addition to shopping and dining in nearby [[Brightleaf Square]], another former tobacco warehouse in the [[Bright Leaf Historic District]]. Other current and future projects include expansion of the open-space surrounding the [[American Tobacco Trail]], new hotels and apartment complexes, a $6.35-million facelift of Durham City Hall, and ongoing redevelopment of the Duke University Central Campus.
+
+In 2013, [[21c Museum Hotels]] announced plans to fully renovate the [[Hill Building]]. The renovations added a contemporary art museum and upscale restaurant to the historic building. Additionally, a boutique hotel was built in this major renovation effort in downtown Durham. [[Skanska]] is responsible for managing this project.<ref>{{cite web |url=http://www.21cmuseumhotels.com/blog/news/21c-begins-renovation-and-restoration-of-downtown-durhams-historic-hill-building/ |title=Downtown Durham NC &#124; Opening 2015 |publisher=21c Museum Hotels |date=June 28, 2013 |access-date=May 4, 2014| archive-url=https://web.archive.org/web/20140310061435/http://www.21cmuseumhotels.com/blog/news/21c-begins-renovation-and-restoration-of-downtown-durhams-historic-hill-building/ | archive-date= March 10, 2014 |url-status=dead|author-link=21c Museum Hotels }}</ref><ref>{{cite web | url=https://www.21cmuseumhotels.com/durham/ | title=Hill Building: Museum, Boutique Hotel & Restaurant in Durham, NC | publisher=21c Museum Hotels | access-date=February 11, 2019}}</ref>
+
+In 2014, it was announced that downtown Durham would be the site of a brand new 27 story high building, tentatively named "City Center Tower," but now called "[[One City Center (Durham)|One City Center]]".<ref>{{Cite web  |date=2021-10-29 |title=Big-city amenities, big-city prices come with new residential tower in Durham |url=https://www.wral.com/big-city-amenities-big-city-prices-come-with-new-residential-tower-in-durham/19951187/ |access-date=2023-08-10 |website=WRAL News |language=en}}</ref> Along with other new buildings in downtown Durham, it was under construction in 2018.<ref name="One City Center+">{{cite web | url=https://www.heraldsun.com/news/local/counties/durham-county/article214635105.html | title=One City Center and other new buildings in downtown Durham | newspaper=[[Durham Herald Sun]] | date=July 24, 2018 | access-date=February 11, 2019 | author=Vaughan, Dawn Baumgartner }}</ref> Construction has already started, and the building will be at the corner of Main St. and Corcoran St. It will be directly across from Durham's current tallest building, but once completed, will be the new tallest building in downtown Durham and the 4th largest building in the Triangle. Originally scheduled for a 2016 opening, the building was then expected to open in May 2018.<ref>{{cite web|title = Construction set to begin on downtown Durham tower|url = http://www.newsobserver.com/news/local/community/durham-news/article57052953.html|website = newsobserver|access-date = February 3, 2016}}</ref> This is an ambitious, $80 million project.<ref>{{cite web|url=http://www.bizjournals.com/triangle/blog/real-estate/2015/01/new-buildings-durham-raleigh-nc-2015.html |title=Durham, Raleigh ready for new 26- and 23-story buildings |website=The Business Journals |access-date=April 13, 2016}}</ref><ref>{{cite web | url=https://www.onecitycenter.com/retail#overview | title=Retail Space Available ― Downtown Durham NC — ONE CITY CENTER | publisher=One City Center | access-date=February 11, 2019 | archive-date=February 12, 2019 | archive-url=https://web.archive.org/web/20190212012108/https://www.onecitycenter.com/retail#overview | url-status=dead }}</ref>
+
+In October 2014, a major new development, the Durham Innovation District, was announced. The development will span 15 acres and comprise over 1.7 million square feet of office, residential, and retail space.<ref>{{Cite news |url=https://www.newsobserver.com/news/business/real-estate-news/article10079894.html |title='Innovation District' coming to Durham's downtown |website=The News & Observer | access-date=2018-07-07 |language=en}}</ref><ref name="One City Center+"/>
+
+On April 10, 2019, a [[2019 Durham gas explosion|gas explosion]] rocked Kaffeinate, a coffee shop in [[Bright Leaf Historic District]]. The blast destroyed a city block and killed Kong Lee, the owner, as well as injuring 25 others.
+
+==Geography==
+Durham is located in the east–central part of the [[Piedmont (United States)|Piedmont]] region at {{Coord|35|59|19|N|78|54|26|W|type:city}} (35.99, -78.9).<ref name="GR1">{{cite web| url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html| publisher=[[United States Census Bureau]]| access-date=April 23, 2011| date=February 12, 2011| title=US Gazetteer files: 2010, 2000, and 1990}}</ref> Like much of the region, its topography is generally flat with some rolling hills.
+
+As of 2022 the city had a total area of {{convert|116.19|sqmi}}, of which {{convert|115.36|sqmi}} was land and {{convert|0.82|sqmi}} (0.71%) was water.<ref name="TigerWebMapServer"/>
+
+The soil is predominantly clay, making it poor for agriculture. The [[Eno River]], a tributary of the [[Neuse River]], passes through the northern part of Durham, along with several other small creeks. The center of Durham is on a ridge that forms the divide between the Neuse River watershed, flowing east to [[Pamlico Sound]], and the [[Cape Fear River]] watershed, flowing south to the Atlantic near [[Wilmington, North Carolina|Wilmington]]. A small portion of the city is in [[Wake County]].
+
+Durham is located 10 miles northeast of [[Chapel Hill, North Carolina|Chapel Hill]],<ref>{{Cite web |url=https://www.distance-cities.com/distance-chapel-hill-nc-to-durham-nc |title=Distance between Chapel Hill, NC, and Durham, NC |website=Distance Between Cities |access-date=August 22, 2021}}</ref> 21 miles northwest of [[Raleigh, North Carolina|Raleigh]], 50 miles east of [[Greensboro, North Carolina|Greensboro]], 121 miles northeast of [[Charlotte, North Carolina|Charlotte]] and 134 miles southwest of [[Richmond, Virginia]].
+
+===Climate===
+The climate of Durham is [[humid subtropical climate|humid subtropical]] (''Cfa'' according to the [[Köppen classification]] system), with hot and humid summers, cool winters, and warm to mild spring and autumn. Durham receives abundant precipitation, with thunderstorms common in the summer and high temperatures from 80 to 100 degrees F. The region sees an average of {{convert|7|in|mm}} of snow per year, with any snowfall usually melting within a few days.
+
+The Durham area consistently ranks in the top 10 most challenging places to live with seasonal allergies.<ref>{{cite web | url=https://www.aafa.org/allergy-capitals/ | title=How the Top 100 U.S. Cities Rank for Seasonal Pollen Allergies | publisher=Asthma and Allergy Foundation of America, supported by Bayer Claritin®}}</ref>
+
+Climate change is expected to increase the number of days of extreme precipitation in Durham as well as moderately increase temperature within the region. The number of days of inland flooding within the Piedmont is also expected to increase, which puts Durham at higher risk of future flooding.<ref>{{Cite web |title=North Carolina Climate Science Report :: North Carolina Institute for Climate Studies |url=https://ncics.org/programs/nccsr/ |access-date=2023-01-09}}</ref> High-intensity short-duration storms are predicted to grow in frequency to upwards of 9 days a year by 2100.<ref>{{Cite web |title=Extreme Precipitation and Flooding {{!}} Durham County |url=https://www.dconc.gov/county-departments/departments-a-e/engineering-and-environmental-services/sustainability-office/climate-resilience/excessive-precipitation |access-date=2023-01-09 |publisher=Durham County, NC, government |language=en}}</ref> Inland flooding is anticipated to have a greater impact on the elderly and other at-risk groups.<ref>{{Cite web |title=Community Health Assessment |url=https://www.dcopublichealth.org/resources/health-resources-data/community-health-assessment |access-date=2023-01-09 |publisher=Durham County, NC, Public Health |language=en}}</ref>
+
+{{Weather box |location = [[Raleigh–Durham International Airport]], North Carolina (1991–2020 normals,{{efn|Mean monthly maxima and minima (i.e. the expected highest and lowest temperature readings at any point during the year or given month) calculated from data at said location from 1991 to 2020.}} extremes 1887–present{{efn|Official records for Raleigh kept January 1887 to 17 May 1944 at downtown and at Raleigh–Durham Int'l since 18 May 1944. For more information, see [http://threadex.rcc-acis.org Threadex]}})
+|single line = Y
+|collapsed = Y
+|Jan record high F = 80
+|Feb record high F = 84
+|Mar record high F = 94
+|Apr record high F = 95
+|May record high F = 99
+|Jun record high F = 105
+|Jul record high F = 105
+|Aug record high F = 105
+|Sep record high F = 104
+|Oct record high F = 100
+|Nov record high F = 88
+|Dec record high F = 81
+|year record high F = 105
+|Jan avg record high F = 71.9
+|Feb avg record high F = 74.4
+|Mar avg record high F = 81.6
+|Apr avg record high F = 86.4
+|May avg record high F = 91.3
+|Jun avg record high F = 96.6
+|Jul avg record high F = 98.2
+|Aug avg record high F = 96.7
+|Sep avg record high F = 92.3
+|Oct avg record high F = 86.7
+|Nov avg record high F = 78.5
+|Dec avg record high F = 72.8
+|year avg record high F = 99.6
+|Jan high F = 51.9
+|Feb high F = 55.8
+|Mar high F = 63.3
+|Apr high F = 72.7
+|May high F = 80.0
+|Jun high F = 87.4
+|Jul high F = 90.8
+|Aug high F = 88.7
+|Sep high F = 82.5
+|Oct high F = 73.0
+|Nov high F = 63.0
+|Dec high F = 54.7
+|year high F = 72.0
+|Jan mean F = 41.9
+|Feb mean F = 45.0
+|Mar mean F = 51.8
+|Apr mean F = 60.8
+|May mean F = 68.8
+|Jun mean F = 76.7
+|Jul mean F = 80.5
+|Aug mean F = 78.8
+|Sep mean F = 72.6
+|Oct mean F = 61.7
+|Nov mean F = 51.5
+|Dec mean F = 44.6
+|year mean F = 61.2
+|Jan low F = 31.8
+|Feb low F = 34.2
+|Mar low F = 40.3
+|Apr low F = 48.9
+|May low F = 57.7
+|Jun low F = 66.0
+|Jul low F = 70.2
+|Aug low F = 68.9
+|Sep low F = 62.7
+|Oct low F = 50.3
+|Nov low F = 40.0
+|Dec low F = 34.4
+|year low F = 50.4
+|Jan avg record low F = 14.0
+|Feb avg record low F = 19.2
+|Mar avg record low F = 23.7
+|Apr avg record low F = 32.2
+|May avg record low F = 42.8
+|Jun avg record low F = 54.2
+|Jul avg record low F = 61.0
+|Aug avg record low F = 58.7
+|Sep avg record low F = 48.7
+|Oct avg record low F = 33.2
+|Nov avg record low F = 24.4
+|Dec avg record low F = 19.9
+|year avg record low F = 12.1
+|Jan record low F = −9
+|Feb record low F = −2
+|Mar record low F = 11
+|Apr record low F = 23
+|May record low F = 29
+|Jun record low F = 38
+|Jul record low F = 48
+|Aug record low F = 46
+|Sep record low F = 37
+|Oct record low F = 19
+|Nov record low F = 11
+|Dec record low F = 0
+|year record low F = -9
+|precipitation colour = green
+|Jan precipitation inch = 3.43
+|Feb precipitation inch = 2.78
+|Mar precipitation inch = 4.10
+|Apr precipitation inch = 3.53
+|May precipitation inch = 3.58
+|Jun precipitation inch = 3.89
+|Jul precipitation inch = 5.02
+|Aug precipitation inch = 4.71
+|Sep precipitation inch = 5.15
+|Oct precipitation inch = 3.37
+|Nov precipitation inch = 3.32
+|Dec precipitation inch = 3.39
+|year precipitation inch = 46.07
+|Jan snow inch = 2.6
+|Feb snow inch = 1.4
+|Mar snow inch = 0.3
+|Apr snow inch = 0.0
+|May snow inch = 0.0
+|Jun snow inch = 0.0
+|Jul snow inch = 0.0
+|Aug snow inch = 0.0
+|Sep snow inch = 0.0
+|Oct snow inch = 0.0
+|Nov snow inch = 0.1
+|Dec snow inch = 0.8
+|year snow inch = 5.2
+|unit precipitation days = 0.01 in
+|Jan precipitation days = 10.1
+|Feb precipitation days = 9.3
+|Mar precipitation days = 10.7
+|Apr precipitation days = 9.5
+|May precipitation days = 9.9
+|Jun precipitation days = 11.2
+|Jul precipitation days = 11.7
+|Aug precipitation days = 10.7
+|Sep precipitation days = 9.0
+|Oct precipitation days = 7.6
+|Nov precipitation days = 8.2
+|Dec precipitation days = 9.7
+|year precipitation days = 117.6
+|unit snow days = 0.1 in
+|Jan snow days = 1.2
+|Feb snow days = 1.2
+|Mar snow days = 0.4
+|Apr snow days = 0.0
+|May snow days = 0.0
+|Jun snow days = 0.0
+|Jul snow days = 0.0
+|Aug snow days = 0.0
+|Sep snow days = 0.0
+|Oct snow days = 0.0
+|Nov snow days = 0.1
+|Dec snow days = 0.5
+|year snow days = 3.4
+|Jan humidity = 66.5
+|Feb humidity = 64.1
+|Mar humidity = 63.0
+|Apr humidity = 61.7
+|May humidity = 71.1
+|Jun humidity = 73.6
+|Jul humidity = 76.0
+|Aug humidity = 77.9
+|Sep humidity = 77.1
+|Oct humidity = 73.3
+|Nov humidity = 69.1
+|Dec humidity = 68.5
+|year humidity = 70.2
+|Jan sun = 163.8
+|Feb sun = 173.1
+|Mar sun = 228.9
+|Apr sun = 250.7
+|May sun = 258.4
+|Jun sun = 267.7
+|Jul sun = 259.5
+|Aug sun = 239.6
+|Sep sun = 217.6
+|Oct sun = 215.4
+|Nov sun = 174.0
+|Dec sun = 157.6
+|Jan percentsun = 53
+|Feb percentsun = 57
+|Mar percentsun = 62
+|Apr percentsun = 64
+|May percentsun = 59 
+|Jun percentsun = 61
+|Jul percentsun = 58
+|Aug percentsun = 57
+|Sep percentsun = 58 
+|Oct percentsun = 62 
+|Nov percentsun = 56
+|Dec percentsun = 52
+|year percentsun = 59
+| Jan dew point C = −2.9
+| Feb dew point C = −2.1
+| Mar dew point C =  2.1
+| Apr dew point C =  6.3
+| May dew point C = 12.9
+| Jun dew point C = 17.5
+| Jul dew point C = 19.9
+| Aug dew point C = 19.7
+| Sep dew point C = 16.4
+| Oct dew point C =  9.6
+| Nov dew point C =  4.1
+| Dec dew point C = −0.5
+|Jan uv = 3
+|Feb uv = 4
+|Mar uv = 6
+|Apr uv = 7
+|May uv = 9
+|Jun uv = 10
+|Jul uv = 10
+|Aug uv = 9
+|Sep uv = 8
+|Oct uv = 5
+|Nov uv = 3
+|Dec uv = 2
+|source 1 = [[NOAA]] (relative humidity, dew point, and sun 1961–1990)<ref name = "NWS Raleigh, NC (RAH)">
+{{cite web |url = http://w2.weather.gov/climate/xmacis.php?wfo=rah |title = NowData - NOAA Online Weather Data |publisher = [[National Oceanic and Atmospheric Administration]] |access-date = May 5, 2021}}</ref><ref name="NCDC txt KRDU">{{cite web |url=https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&startDate=0001-01-01&endDate=9996-12-31&stations=USW00013722&format=pdf |publisher=National Oceanic and Atmospheric Administration |title=Station: Raleigh Durham INTL AP, NC |work=U.S. Climate Normals 2020: U.S. Monthly Climate Normals (1991-2020) |access-date=May 11, 2021}}</ref><ref name = "WMO 1961–90 KRDU">{{cite web | url = ftp://ftp.atdd.noaa.gov/pub/GCOS/WMO-Normals/TABLES/REG_IV/US/GROUP3/72306.TXT | title = WMO Climate Normals for RALEIGH/RALEIGH–DURHAM, NC 1961–1990 | publisher = National Oceanic and Atmospheric Administration | access-date = July 25, 2020}}</ref>
+|source 2 = Weather Atlas (UV Index)<ref name="Weather Atlas">{{cite web |url=https://www.weather-us.com/en/north-carolina-usa/raleigh-climate |title=Raleigh, North Carolina, USA - Monthly weather forecast and Climate data |publisher=Weather Atlas |access-date=June 29, 2019 }}</ref>
+}}
+
+==Demographics==
+{{US Census population
+|1880= 2041
+|1890= 5485
+|1900= 6679
+|1910= 18241
+|1920= 21719
+|1930= 52037
+|1940= 60195
+|1950= 71311
+|1960= 78302
+|1970= 95438
+|1980= 101149
+|1990= 136611
+|2000= 187035
+|2010= 228330
+|2020= 283506
+|estyear=2023
+|estimate=296186
+|estref=<ref name="2020CensusQuickFacts"/>
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015|df=mdy }}</ref>
+}}
+
+{| class="wikitable" style="text-align:center;"
+|+'''Durham city, North Carolina – Racial and ethnic composition'''<br /><small>{{nobold|''Note: the U.S. census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Durham city, North Carolina |url=https://data.census.gov/table?g=1600000US3719000&tid=DECENNIALSF12000.P004|publisher=[[United States Census Bureau]] |access-date=}}</ref>
+!Pop 2010<ref name="2010CensusP2">{{Cite web |title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Durham city, North Carolina |url=https://data.census.gov/cedsci/table?q=p2&g=1600000US3719000&tid=DECENNIALPL2010.P2|publisher=[[United States Census Bureau]]}}</ref>
+!{{partial|Pop 2020}}<ref name="2020CensusP2">{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Durham city, North Carolina|url=https://data.census.gov/cedsci/table?q=p2&g=1600000US3719000&tid=DECENNIALPL2020.P2|publisher=[[United States Census Bureau]]}}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|79,227
+|86,519
+|style='background: #ffffe6; |109,401
+|42.39%
+|37.89%
+|style='background: #ffffe6; |38.59%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|81,370
+|92,285
+|style='background: #ffffe6; |101,422
+|43.51%
+|40.42%
+|style='background: #ffffe6; |35.78%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|455
+|611
+|style='background: #ffffe6; |593
+|0.24%
+|0.27%
+|style='background: #ffffe6; |0.21%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|6,782
+|11,478
+|style='background: #ffffe6; |15,917
+|3.63%
+|5.03%
+|style='background: #ffffe6; |5.61%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|58
+|129
+|style='background: #ffffe6; |64
+|0.03%
+|0.06%
+|style='background: #ffffe6; |0.02%
+|-
+|[[Race and ethnicity in the United States census|Some Other Race]] alone (NH)
+|360
+|616
+|style='background: #ffffe6; |1,598
+|0.19%
+|0.27%
+|style='background: #ffffe6; |0.56%
+|-
+|[[Multiracial Americans|Mixed Race or Multi-Racial]] (NH)
+|2,721
+|4,233
+|style='background: #ffffe6; |11,021
+|1.45%
+|1.85%
+|style='background: #ffffe6; |3.89%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|16,012
+|32,459
+|style='background: #ffffe6; |43,470
+|8.56%
+|14.22%
+|style='background: #ffffe6; |15.33%
+|-
+|'''Total'''
+|'''187,035'''
+|'''228,330'''
+|style='background: #ffffe6; |'''283,506'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+Durham's population, as of July 1, 2019 and according to the 2019 U.S. census data estimate, had grown to 278,993,<ref name="factfinder.census.gov">{{Cite web|title=City and Town Population Totals: 2010-2019|url=https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-cities-and-towns.html|access-date=2021-01-05|publisher=United States Census Bureau|language=EN-US}}</ref> making it the 50th-fastest-growing city in the US, and the 2nd-fastest-growing city in North Carolina, behind Cary but ahead of Charlotte, Raleigh and Greensboro.<ref name="factfinder.census.gov" /> As of the [[2020 United States census|2020 census]], there were 283,506 people, 114,726 households, and 64,982 families residing in the city.
+
+{{As of|2022|pre=the}} [[American Community Survey]] estimates, there were {{formatnum:291844}} people and {{formatnum:124536}} households.<ref name=DP05>{{cite web|url=https://data.census.gov/table/ACSDP1Y2022.DP05?g=160XX00US3719000 | title= 2022 American Community Survey 1 Year Estimate: Demographic and Housing Estimates for Durham city, NC | access-date = 2024-06-20 | publisher = [[United States Census Bureau]]}}</ref><ref name=DP02>{{cite web|url=https://data.census.gov/table/ACSDP1Y2022.DP02?g=160XX00US3719000 | title= 2022 American Community Survey 1 Year Estimate: Selected Social Characteristics in the United States for Durham city, NC | access-date = 2024-06-20 | publisher = [[United States Census Bureau]]}}</ref> The [[population density]] was {{convert|2499.6|PD/sqmi|PD/km2|1}}. There were {{formatnum:134423}} housing units at an average density of {{convert|1151.3|/sqmi|/km2|1}}.<ref name=DP05/><ref name=B25001>{{cite web|url=https://data.census.gov/table/ACSDT1Y2022.B25001?g=160XX00US3719000 | title= 2022 American Community Survey 1 Year Estimate: Housing Units for Durham city, NC | access-date = 2024-06-20 | publisher = [[United States Census Bureau]]}}</ref><ref name=Gaz2023>To calculate density we use the land area figure from the places file in {{cite web| url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html | title = The 2023 U.S. Gazetteer Files}}</ref> The racial makeup of the city was 41.1%&nbsp;White, 34.7%&nbsp;Black or African American, 9.9%&nbsp;some other race, 6.7%&nbsp;Asian, and 0.6%&nbsp;Native American or Alaskan Native, with 7.1%&nbsp;from two or more races.<ref name=DP05/> [[Hispanic and Latino Americans|Hispanics or Latinos]] of any race were 14.1%&nbsp;of the population.<ref name=DP05/>
+
+Of the {{formatnum:124536}} households, 24.3%&nbsp;had children under the age of 18 living with them, 23.2%&nbsp;had seniors 65 years or older living with them, 36.4%&nbsp;were married couples living together, 8.4%&nbsp;were couples cohabitating, 20.2%&nbsp;had a male householder with no partner present, and 35.1%&nbsp;had a female householder with no partner present.<ref name=DP02/> The median household size was {{formatnum:2.26}} and the median family size was {{formatnum:3.00}}.<ref name=DP02/>
+
+The age distribution was 19.7%&nbsp;under 18, 12.0%&nbsp;from 18 to 24, 33.2%&nbsp;from 25 to 44, 21.3%&nbsp;from 45 to 64, and 13.8%&nbsp;who were 65 or older. The median age was {{formatnum:35.0}} years.<ref name=S0101>{{cite web|url=https://data.census.gov/table/ACSST1Y2022.S0101?g=160XX00US3719000 | title= 2022 American Community Survey 1 Year Estimate: Age and Sex for Durham city, NC | access-date = 2024-06-20 | publisher = [[United States Census Bureau]]}}</ref> For every 100 females, there were {{formatnum:87.4}} males.<ref name=DP05/>
+
+The median income for a household was ${{formatnum:78105}}, with family households having a median income of ${{formatnum:90521}} and non-family households ${{formatnum:60203}}. The [[per capita income]] was ${{formatnum:46082}}.<ref name=S1901>{{cite web|url=https://data.census.gov/table/ACSST1Y2022.S1901?g=160XX00US3719000 | title= 2022 American Community Survey 1 Year Estimate: Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars) for Durham city, NC | access-date = 2024-06-20 | publisher = [[United States Census Bureau]]}}</ref><ref name=S1902>{{cite web|url=https://data.census.gov/table/ACSST1Y2022.S1902?g=160XX00US3719000 | title= 2022 American Community Survey 1 Year Estimate: Mean Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars) for Durham city, NC | access-date = 2024-06-20 | publisher = [[United States Census Bureau]]}}</ref> Out of the {{formatnum:282061}} people with a determined poverty status, 11.2%&nbsp;were below the [[poverty line]]. Further, 17.7%&nbsp;of minors and 7.3%&nbsp;of seniors were below the poverty line.<ref name=S1701>{{cite web|url=https://data.census.gov/table/ACSST1Y2022.S1701?g=160XX00US3719000 | title= 2022 American Community Survey 1 Year Estimate: Poverty Status in the Past 12 Months for Durham city, NC | access-date = 2024-06-20 | publisher = [[United States Census Bureau]]}}</ref>
+
+In the survey, residents self-identified with various ethnic ancestries. People of [[English American|English]] descent made up 9.3%&nbsp;of the population of the town, followed by [[German American|German]] at 7.7%, [[Irish American|Irish]] at 6.8%, [[Italian American|Italian]] at 3.0%, [[American ancestry|American]] at 3.0%, [[Sub-Saharan Africa]]n at 2.6%, [[Polish American|Polish]] at 2.0%, [[Scottish American|Scottish]] at 1.9%, [[French American|French]] at 1.4%, [[Scotch-Irish American|Scotch-Irish]] at 1.3%, [[Caribbean American|Caribbean (excluding Hispanics)]] at 0.9%, [[Dutch American|Dutch]] at 0.8%, [[Norwegian American|Norwegian]] at 0.8%, [[Swedish American|Swedish]] at 0.8%, [[Russian American|Russian]] at 0.7%, and [[Welsh American|Welsh]] at 0.6%.<ref name=DP02/>
+
+==Economy==
+[[File:Durham University Tower.JPG|thumb|upright|Duke Clinical Research Institute in Downtown Durham]]
+Duke University and [[Duke University Health System]] are Durham's largest employers. Below is a list of Durham's largest employers.<ref>{{cite web | title = Economic Profile - Greater Durham Chamber of Commerce {{!}} Large Employers/Manufacturers and Headquarters | work = Greater Durham Chamber of Commerce | access-date = December 16, 2014 | url = http://durhamchamber.org/economic-development/economic-profile#Large_EmployersManufacturers_and_Headquarters | archive-url = https://web.archive.org/web/20180425181113/http://durhamchamber.org/economic-development/economic-profile#Large_EmployersManufacturers_and_Headquarters | archive-date = April 25, 2018 | url-status = dead }}</ref>
+
+Healthcare and pharmaceuticals continue to grow in importance with many companies based in Durham including [[GlaxoSmithKline]], [[IQVIA]], [[Aerie Pharmaceuticals]], [[Parexel International]], [[Chimerix]], [[BioCryst Pharmaceuticals]], [[Bio Products Laboratory]] USA, [[bioMérieux]] USA and [[North Carolina Biotechnology Center]].
+
+Other prominent companies based in Durham include [[Center for Community Self-Help]], [[Liggett Group]], [[North Carolina Mutual Life Insurance Company]], [[American Institute of Certified Public Accountants]], [[Bronto Software]], [[Counter Culture Coffee]], [[Burt's Bees]], [[McKinney (advertising agency)]], [[Sugar Hill Records (bluegrass label)|Sugar Hill Records]], [[Mechanics and Farmers Bank]], [[Southern Express]].
+{| class="wikitable sortable"
+|-
+! Employer !! No. of employees
+|-
+| [[Duke University]] & [[Duke University Health System|Duke Univ. Health System]] || 34,863
+|-
+| [[IBM]] || 10,000
+|-
+| [[Durham Public Schools]] || 4,600
+|-
+| [[GlaxoSmithKline]] || 3,700
+|-
+| [[Blue Cross Blue Shield Association|Blue Cross & Blue Shield]] of NC || 3,200
+|-
+| City of Durham || 2,437
+|-
+| [[Fidelity Investments]]|| 2,400
+|-
+| [[IQVIA]]|| 2,400
+|-
+| [[RTI International]] || 2,300
+|-
+| Durham [[Veterans Health Administration|VA Medical Center]]|| 2,162
+|-
+| [[Cree Inc.|Cree]] || 2,125
+|-
+| [[Aisin Seiki Co.|AW North Carolina]] || 2,000
+|}
+
+==Arts and culture==
+Durham is the venue for the annual Bull Durham Blues Festival and the [[North Carolina Gay & Lesbian Film Festival|OUTsouth Queer Film Festival]], the 2nd largest LGBTQ+ film festival in the Southeast.<ref>{{cite web|author=St. Joseph’s Historic Foundation|date=January 22, 2016|title=2015 Bull Durham Blues Festival|url=http://durhamcentralpark.org/event/2015-bull-durham-blues-festival/|url-status=dead|archive-url=https://web.archive.org/web/20150907234819/http://durhamcentralpark.org/event/2015-bull-durham-blues-festival/|archive-date=September 7, 2015|access-date=April 13, 2016|publisher=Durham Central Park}}</ref><ref>{{cite web |last1=Nichols |first1=James Michael |title=Say Goodbye to The North Carolina Gay + Lesbian Film Festival. Say Hello to The OutSouth Queer Film Festival |url=https://indyweek.com/culture/screen/nc-gay-lesbian-film-festival-outsouth-2019/ |website=INDY Week |access-date=July 27, 2021 |language=en-us |date=14 August 2019}}</ref> Other events include jazz festivals, plays, symphony concerts, art exhibitions, and a multitude of cultural expositions, including the [[American Dance Festival]], Tobacco Road Dance,  the [[Full Frame Documentary Film Festival]] and the [[Better Cities Film Festival]].<ref>{{Cite web |last=Plaskett |first=Ralph |title=ANNOUNCEMENT {{!}} The Better Cities Film Festival is Coming to Durham February 9+10 |url=https://www.southernurbanism.org/p/announcement-the-better-cities-film |access-date=2024-02-05 |publisher=Southern Urbanism |language=en}}</ref> A center of Durham's culture is its [[Carolina Theatre (Durham)|Carolina Theatre]], which presents concerts, comedy and arts in historic Fletcher Hall and Independent and repertory film in its cinemas. There is a resurgence of restaurants in and around the downtown area, including several new restaurants in the American Tobacco District. The [[Nasher Museum of Art]] opened in October 2005 and has produced nationally recognized traveling exhibitions of global, contemporary art.
+[[File:STRT014 Brightleaf Square DiscoverDurham.jpg|thumb|Brightleaf Square]]
+Durham also has a history museum, the Museum of Durham History. In 2019, the museum hosted several exhibits, including one on journalist and civil rights activist [[Louis Austin]], and in conjunction with the 150th anniversary of the city of Durham, an exhibit titled, "150 Faces of Durham", which highlighted many of the women and men who influenced the history of Durham.<ref>{{Cite web |date=2018-12-20 |title=Museum of Durham History Tells Story of Publisher Louis Austin |url=https://www.thepilot.com/news/features/museum-of-durham-history-tells-story-of-publisher-louis-austin/article_19556e52-ffeb-11e8-a3c3-63312e4d3ba3.html |access-date=2023-06-08 |website=The Pilot Newspaper |language=en}}</ref><ref>{{Cite web |date=June 20, 2019 |title=150 Faces of Durham highlights contributions to Durham's past and present - Museum of Durham History |url=https://www.museumofdurhamhistory.org/blog/150-faces-of-durham-highlights-contributions-to-durhams-past-and-present/ |access-date=June 8, 2023 |language=en-US}}</ref>
+
+The Durham Association for Downtown Arts (DADA) is a non-profit arts organization located in the downtown area. Incorporated in 2000, the organization's mission is a commitment to the development, presentation and fiscal sponsorship of original art and performance in Durham. DADA supports local artists working in a diversity of artistic media. DADA also helps local residents gain access to these artists by providing free or low-cost venue admission.<ref>{{Cite web |last=Carlson |first=Angie |date=2002-06-26 |title=DADA |url=http://indyweek.com/guides/archives-guides/dada/ |access-date=2023-06-08 |website=INDY Week |language=en-US}}</ref>
+
+Movies such as ''[[Bull Durham]]'' (1988) and ''[[The Handmaid's Tale (film)|The Handmaid's Tale]]'' (1989) have been shot in Durham.<ref>Barth, Jack (1991). ''Roadside Hollywood: The Movie Lover's State-By-State Guide to Film Locations, Celebrity Hangouts, Celluloid Tourist Attractions, and More''. Contemporary Books. Page 174. {{ISBN|9780809243266}}.</ref>
+
+===Music===
+Durham has an active and diverse local music culture. Artists' styles range from jazz, hip-hop, soul, folk, Americana, blues, bluegrass, punk, metal and rock. Popular bands and musicians include [[Branford Marsalis]], [[Iron & Wine]], [[Carolina Chocolate Drops]], [[The Mountain Goats]], [[John Dee Holeman]], [[9th Wonder]], [[Red Clay Ramblers]], [[The Old Ceremony]], [[Megafaun]], [[Curtis Eller]], Mount Moriah, [[Hiss Golden Messenger]], [[Sylvan Esso]], [[Mel Melton]], [[Hammer No More the Fingers]], [[Yahzarah]], G Yamazawa, and [[Jim Mills (banjo player)|Jim Mills]]. Members of [[The Butchies]], [[Superchunk]], [[Chatham County Line]], [[Alice Donut]], and the [[Avett Brothers]] live in Durham.
+
+[[Merge Records]], a successful independent record label, has its headquarters in downtown Durham.<ref>{{cite web|url=http://www.discogs.com/label/7496-Merge-Records |title=Merge Records - CDs and Vinyl |website=Discogs |date=August 19, 2015 |access-date=April 13, 2016}}</ref> Other independent record labels include Jamla, 307 Knox, Churchkey Records, and Paradise of Bachelors. Roots label [[Sugar Hill Records (bluegrass label)|Sugar Hill Records]] was founded in Durham, by Barry Lyle Poss,<ref>{{cite web|url=http://www.discogs.com/artist/692205-Barry-Poss |title=Barry Poss Discography |website=Discogs |access-date=April 13, 2016}}</ref> before it moved to Nashville in 1998. In 1996, the [[Feminism|feminist]] / [[Queercore|queer]] record label [[Mr. Lady Records]] was founded and operated in Durham until its demise in 2004.<ref>{{cite web|date=July 2004 |first1=Kat |last1=Siddle |website=DISCORDER |title=Farewell, Mr. Lady|url=http://discorder.citr.ca/features/04julyfarewell.html|url-status=dead|archive-url=https://web.archive.org/web/20070927205836/http://discorder.citr.ca/features/04julyfarewell.html|archive-date=September 27, 2007|access-date=April 13, 2016}}</ref>
+
+Duke University's radio station [[WXDU]] is an active participant in the community. [[WNCU]], which is supported in part by [[NPR]], is a jazz focused FM radio station, with broadcast studios on the campus of NCCU.
+
+The music album [[Sandham- Symphony Meets Classical Tamil|Sandham: Symphony Meets Classical Tamil]] by composer [[Rajan Somasundaram]] made in association with Academy nominated singer [[Bombay Jayashri]] and Durham Symphony (led by [[William Henry Curry]]) became Amazon's Top#10 bestseller under 'International Music album' category in 2020.<ref>{{Cite web|url=https://www.wrde.com/story/41604487/nc-based-composer-rajan-revives-ancient-tamil-poetry-with-leading-singers-and-musicians-from-india-and-usa|title=NC based Composer Rajan revives ancient Tamil poetry with leading singers and musicians from India and USA|website=CoastTV|language=en|access-date=2020-02-15|archive-date=February 15, 2020|archive-url=https://web.archive.org/web/20200215174958/https://www.wrde.com/story/41604487/nc-based-composer-rajan-revives-ancient-tamil-poetry-with-leading-singers-and-musicians-from-india-and-usa|url-status=dead}}</ref>
+
+Durham has a rich history of African American rhythm and blues, soul, and funk music. In the 1960s and 1970s, more than 40 R&B, soul, and funk groups—including The Modulations, The Black Experience Band, The Communicators, and Duralcha—recorded over 30 singles and three full-length albums. Durham was also home to ten recording labels that released soul music, though most of them only released one or two records apiece. A few successful local soul groups from Durham also recorded on national labels like United Artists or on regional labels in the mid-Atlantic and Northeast.<ref>{{cite web |url=http://BullCitySoul.org |title=Introduction |website=Bull City Soul |access-date=April 13, 2016}}</ref>
+
+Since 1980, the [[Eno River Festival]] has been held annually at the [[West Point on the Eno]] park in Durham, hosting a wide variety of musical acts.<ref>{{Cite web |title=History |url=https://enofest.org/about/history/ |access-date=2023-06-08 |publisher=Enofest |language=en-US}}</ref>
+
+===Visual arts===
+Durham is home to the [[Nasher Museum of Art]] and smaller visual arts galleries and studios. Downtown Durham sponsors a celebration of culture and arts on display every third Friday of the month, year round. The event has come to be known as 3rd Friday.
+
+A selection of locally renowned galleries remain in business throughout the city. Galleries include but are not limited to local spots such as the Pleiades Gallery, the Carrack Modern Art, and Golden Belt Studios. Supporting a variety of local, nationwide, and worldwide talent, these galleries often host weekly events and art shows. The Durham Art Walk is another annual arts festival hosted in May each year in downtown Durham. The Durham Art Walk features a variety of artists that come together each year for a large showcase of work in the streets of Durham. A secondary magnet school, [[Durham School of the Arts]], is also located in downtown Durham. It focuses on providing education in various forms of art ranging from visual to the performing arts.<ref>{{cite web|url=http://artisticdurham.weebly.com/ |title=Artistic Durham |publisher=Weebly.com |access-date=March 6, 2015}}</ref>
+
+==Sports==
+[[File:BSKT005 Cameron Indoor Stadium DiscoverDurham.jpg|thumb|A Duke basketball game at [[Cameron Indoor Stadium]]]]
+Collegiate athletics are a primary focus in Durham. Duke University's men's basketball team draws a large following, selling out every home game at [[Cameron Indoor Stadium]] since 1990.<ref>{{cite web|last=Favat|first=Brian|date=May 18, 2009|title=Headlines: Men's Basketball Attendance Ranked 99th Nationally|url=http://www.bcinterruption.com/2009/05/headlines-mens-basketball-attendance.html|url-status=dead|archive-url=https://web.archive.org/web/20090522032228/http://www.bcinterruption.com/2009/05/headlines-mens-basketball-attendance.html|archive-date=May 22, 2009|access-date=July 15, 2012|publisher=BC Interruption}}</ref> The fans are known as the [[Cameron Crazies]] and are known nationwide for their chants and rowdiness. The team has won the [[NCAA Division I]] championship three times since 2001 and five times overall.<ref>{{cite web|url=http://www.fanbay.net/ncaa/final4.htm |title=NCAA College Basketball Tournament Winners and Final Four Teams |publisher=Fanbay.net |access-date=July 15, 2012}}</ref> Duke competes in a total of 27 sports in the [[Atlantic Coast Conference]].<ref>{{Cite web|url=https://goduke.com/|title=Duke Athletics – Duke University |publisher=[[Duke Blue Devils]] |access-date=May 30, 2022}}</ref>
+[[File:DBAP023 Durham Bulls DiscoverDurham.jpg|thumb|[[Durham Bulls Athletic Park]]]]
+Durham's professional sports team is the [[Durham Bulls]] [[International League]] [[baseball]] team. A movie involving an earlier [[Carolina League]] team of that name, ''[[Bull Durham]]'', was produced in 1988. Today's Bulls play in the [[Durham Bulls Athletic Park]], on the southern end of downtown, constructed in 1994. One of the more successful teams in the minor leagues, the Bulls usually generate an annual attendance of around 500,000. Previously [[Durham Athletic Park]] (DAP), located on the northern end of downtown, had served as the Bull's ballpark. Historically, many players for the current and former Durham Bulls teams have transferred to the big leagues after several years in the minor leagues. DAP has been preserved for the use of other teams as well as for concerts sponsored by the City of Durham and other events. The Durham Dragons, a women's fast pitch [[softball]] team, played in the Durham Athletic Park from 1998 to 2000. The DAP recently went through a $5 million renovation.
+
+==Government and politics==
+[[File:Durham County Justice.JPG|thumb|[[Durham County Justice Center]]]]
+
+===Government===
+{{see also|List of mayors of Durham, North Carolina}}
+Durham operates under a [[council–manager government|council–manager form of government]].<ref>{{Cite web |title=City Government Guide |url=https://www.durhamnc.gov/1328/City-Government-Guide |access-date=2023-08-10 |publisher=City of Durham}}</ref> The city is led by a city council and a mayor. Council members are chosen in staggered elections to serve four year terms, while mayoral elections are held every two years.<ref>{{cite web| url = https://www.axios.com/local/raleigh/2024/03/20/raleigh-city-council-considering-a-move-to-4-year-terms| title = Raleigh City Council considering a move to 4-year terms| last = Eanes| first = Zachary| date = March 20, 2024| website = Axios Raleigh| publisher = Axios Media| access-date = March 23, 2024}}</ref> The mayor presides over meetings of the city council and makes some committee appointments, while much of the regular management of the city's administration falls to the [[city manager]].<ref>{{cite news| last = Leonard| first = Ben| title = How Steve Schewel put muscle into Durham's "weak mayor" system| newspaper = 9th Street Journal| date = July 19, 2020| url = https://9thstreetjournal.org/2020/07/19/how-steve-schewel-put-muscle-into-durhams-weak-mayor-system/| access-date = August 9, 2023}}</ref> In November 2021, [[Elaine O'Neal (politician)|Elaine O'Neal]] was elected mayor of Durham, becoming the first [[African American|black]] female mayor in the city.<ref>{{Cite web |url=https://abc11.com/durham-mayor-elaine-oneal-crime-elections/11192433/ |title=Durham elects Elaine O'Neal City's First Black Female Mayor |last=Brown|first=Joel |date=November 3, 2021 |publisher=ABC11 |access-date=November 3, 2021}}</ref> The current mayor is [[Leonardo Williams]], who was elected in November 2023.<ref>{{Cite web |last=Moore |first=Mary Helen |date=December 5, 2023 |title=New leaders take office in Durham. Here's who's in charge now. |url=https://www.newsobserver.com/news/local/counties/durham-county/article282683443.html |access-date=December 5, 2023 |website=The News & Observer}}</ref>
+
+Federally, Durham is in [[North Carolina's 4th congressional district]], which is represented by Democrat [[Valerie Foushee]].
+
+The new [[Durham County Justice Center]] was completed in early 2013.
+
+===Politics===
+The area is predominantly [[Democratic Party (United States)|Democratic]], and has voted for the Democratic Party's presidential candidate in every election since the city's founding in 1869. Durham County is the most liberal-leaning county in North Carolina, with over 80% of the county voting for Democratic candidate [[Joe Biden]] in the [[2020 United States presidential election in North Carolina|2020 presidential election]].<ref>{{Cite web |last=Vale |first=Andrea |date=2023-06-14 |title=Most liberal county in conservative states |url=https://theeagle.com/news/most-liberal-county-in-conservative-states/collection_1e8fea4d-b51a-5f20-947a-707fa7536dcc.html |access-date=2023-08-10 |website=The Eagle |language=en}}</ref> The city's politics have long been dominated by the activities of two local [[political action committee]]s, the [[The People's Alliance (Durham, NC)|People's Alliance]] (PA) and the [[Durham Committee on the Affairs of Black People]] (DCABP). PA is a mostly-white progressive organization, while the DCABP is a black moderate group.<ref name= Hartman>{{cite news| last = Hartman| first = Matt| title = Ahead of Municipal Elections This Fall, Durham Grapples With What's Next for a Scandal-Plagued City Council| newspaper = INDY Week| date = August 9, 2023| url = https://indyweek.com/news/durham/ahead-of-municipal-elections-this-fall-durham-grapples-with-whats-next-for-a-scandal-plagued-city-council/| access-date = August 9, 2023}}</ref>
+
+Key political issues have been the redevelopment of Downtown Durham and revival of other historic neighborhoods and commercial districts, ending cash bail, ending mandatory sentencing minimums, decriminalization of marijuana, raising minimum wage for city employees to $15, the fluoridation of public drinking water, a 45% reduction of crime, a 10-year plan to end homelessness, initiatives to reduce truancy, and growth and development. A merger of Durham City Schools (several [[inner city]] neighborhoods) and Durham County Schools in the early 1990s ignited controversy. More recently, the Durham City Council's 2018 statement opposing militarized policing that mentioned Israel has drawn its third lawsuit.<ref>{{cite web  |url= https://www.newsobserver.com/news/local/article228418349.html | date = March 26, 2019 | title = Durham faces 3rd lawsuit over police-training statement and Israel | first = DAWN | last = BAUMGARTNER VAUGHAN | work = News Observer}}</ref> In 2018, Durham appointed its first [[Hispanic and Latino Americans|Latino]] council member [[Javiera Caballero]].<ref>{{cite web | url = https://durhamnc.gov/3286/Javiera-Caballero | title = Javiera Caballero | work = durhamnc.gov}}</ref> In 2023, Durham elected Nate Baker to the city council, its first candidate endorsed by the Triangle chapter of the [[Democratic Socialists of America]].<ref>{{cite web |title=Nate Baker |url=https://ballotpedia.org/Nate_Baker |website=Ballotpedia |access-date=9 November 2023}}</ref>
+
+==Education==
+===Primary and secondary schools===
+Public schools in Durham are run by the [[Durham Public Schools]], the eighth-largest school district in North Carolina. The district runs 46 public schools, consisting of 30 elementary, 10 middle, 2 secondary, and 12 high schools. Several magnet high schools focus on distinct subject areas, such as the [[Durham School of the Arts]] and the City of Medicine Academy.<ref>{{cite web|url=http://choice.dpsnc.net/choice-schools/high-schools/city-of-medicine-academy |title=City of Medicine Academy |publisher=Choice.dpsnc.net |date=February 15, 2012 |access-date=July 15, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120812040736/http://choice.dpsnc.net/choice-schools/high-schools/city-of-medicine-academy |archive-date=August 12, 2012 |df=mdy }}</ref> Public schools in Durham were partially segregated until 1970.
+
+The [[North Carolina School for Science and Mathematics]] is a boarding high school operated by the [[University of North Carolina System]] in central Durham. The residential school accepts rising juniors living in North Carolina, with a focus on science, mathematics, and technology.
+
+There are several [[charter school]] options as well, including [[Research Triangle High School]] (a STEM school in [[Research Triangle Park]]), [[Voyager Academy]] (K–12), Kestrel Heights School (K–12), Maureen Joy Charter School (K–8), and most recently Excelsior Classical Academy (K–12).
+
+Several private schools operate in Durham,<ref>{{cite web|title=Top Durham County Private Elementary Schools|url=http://www.privateschoolreview.com/county_elementary_schools/stateid/NC/county/37063|access-date=July 15, 2012|publisher=Privateschoolreview.com}}</ref> such as [[Durham Academy, North Carolina|Durham Academy]], Triangle Day School, and The Duke School. There are also religious schools, including [[Carolina Friends School]], [[Trinity School of Durham and Chapel Hill]], [[Cristo Rey Network|Cristo Rey Research Triangle High School]], [[Immaculate Conception Catholic Church (Durham, North Carolina)|Immaculata Catholic School]], and Durham Nativity School.<ref>{{Cite web|title=The History of Trinity School|url=https://www.trinityschoolnc.org/about/mission-and-history/the-history-of-trinity-school|url-status=dead|archive-url=https://web.archive.org/web/20170617050128/https://www.trinityschoolnc.org/about/mission-and-history/the-history-of-trinity-school|archive-date=June 17, 2017|access-date=March 3, 2020|publisher=Trinity School of Durham and Chapel Hill}}</ref>
+
+===Colleges and universities===
+[[File:Duke Chapel, West Campus, Duke University, Durham, NC (48960162763).jpg|thumb|upright|[[Duke Chapel]] at [[Duke University]].]]
+[[File:NCCU020 NCCU Sign DiscoverDurham.jpg|thumb|North Carolina Central University]]
+[[Duke University]] has approximately 14,000 students, split evenly between graduates and undergraduates.<ref>{{cite web|title=Quick Facts About Duke|url=http://newsoffice.duke.edu/all-about-duke/quick-facts-about-duke|url-status=dead|archive-url=https://web.archive.org/web/20150316091357/http://newsoffice.duke.edu/all-about-duke/quick-facts-about-duke|archive-date=March 16, 2015|access-date=July 15, 2012|publisher=Newsoffice.duke.edu}}</ref> Duke's 8600-acre campus and Medical Center are located in western Durham, about {{convert|2|mi|km}} from downtown. Duke forms one of the three vertices of the [[Research Triangle]], along with the [[University of North Carolina at Chapel Hill]] and [[North Carolina State University]].
+
+[[North Carolina Central University]] is a public [[Historically black colleges and universities|historically black university]] located in southeastern Durham. The university was founded by [[James E. Shepard]] in 1910 as the National Religious Training School and Chautauqua to address the needs of the region's black population, and now grants baccalaureate, master's, professional and doctoral degrees. NCCU became a university in 1969 and joined the University of North Carolina System in 1972.
+
+[[Durham Technical Community College]] is a two-year public institution that grants associate degrees.
+
+==Media==
+{{see also|List of newspapers in North Carolina|List of radio stations in North Carolina|List of television stations in North Carolina}}
+The major daily newspaper in Durham is ''[[The Herald-Sun (Durham, North Carolina)|The Herald-Sun]]'', which began publication in 1893. The Durham-based ''[[Independent Weekly]]'', noted for its progressive/liberal perspective, provides political and entertainment news for the greater [[Research Triangle]]; it began publication in 1983. Duke's independent student newspaper, ''[[The Chronicle (Duke University)|The Chronicle]]'', also provides local coverage.
+
+Durham is part of the Raleigh–Durham–Fayetteville designated market area, the 24th-largest broadcast television market in the United States.<ref>{{Cite web |date=2021-06-25 |title=Raleigh–Durham (Fayetteville) DMA Map 2022 |url=https://www.mediamarketmap.com/raleigh-durham-fayetteville-designated-market-media-map/ |access-date=2022-11-06 |website=Media Market Map |language=en-US}}</ref> ABC-owned and -operated [[WTVD]] is licensed to and based in Durham, while the studios for statewide public television service [[UNC-TV]] are based in Research Triangle Park. All major U.S. television networks have affiliates serving the region.
+
+The city is part of the Raleigh–Durham Arbitron radio market, ranked No. 37 nationally.<ref>{{Cite web |title=True Market {{!}} Radio Audience Ratings |url=https://www.rab.com/public/trueMarket.cfm |access-date=2022-11-06 |publisher=RAB |archive-date=September 22, 2023 |archive-url=https://web.archive.org/web/20230922185924/https://www.rab.com/public/trueMarket.cfm |url-status=dead }}</ref> National Public Radio affiliate [[WUNC (FM)|WUNC]], based in Chapel Hill, has significant operations in Durham.
+
+==Infrastructure==
+===Transportation===
+[[File:Durhamstationfls.jpg|thumb|[[Durham, North Carolina (Amtrak station)|Durham's Amtrak station]]]]
+[[File:Downtown Durham Station.jpg|thumb|Downtown Durham Station used by GoDurham and GoTriangle]]
+{{See also|Durham, North Carolina (Amtrak station)}}
+Most travel in Durham is by private motor vehicle on its network of public streets and highways. Important arteries for traffic include [[NC 147]], which connects Duke University, downtown, and Research Triangle Park, [[U.S. Route 15 in North Carolina|U.S. 15-501]] between Durham and [[Chapel Hill, North Carolina|Chapel Hill]], [[Interstate 85 in North Carolina|I-85]], connecting Durham to Virginia and western North Carolina cities, and I-40 running across southern Durham County between the Research Triangle Park and Chapel Hill. The I-40 corridor has been the main site of commercial and residential development in Durham since its opening in the early 1990s. Over 95% of commuters use a car to get to work, with 14% of those people in carpools.
+
+Durham maintains an extensive network of bicycle routes and trails and has been recognized with a Bicycle Friendly Community Award.<ref>{{cite web|url=http://www.heraldsun.com/view/full_story_news_durham/9550560/article-Cycling-group--Durham--Bicycle-Friendly- |archive-url=https://web.archive.org/web/20110711163639/http://www.heraldsun.com/view/full_story_news_durham/9550560/article-Cycling-group--Durham--Bicycle-Friendly- |url-status=dead |archive-date=July 11, 2011 |title=Cycling group Durham Bicycle Friendly |publisher=The Herald-Sun |access-date=July 15, 2012 }}</ref> The [[American Tobacco Trail]] begins in downtown and continues south through Research Triangle Park and ends in Wake County. The city is also considering furthering the progress on the Triangle Greenway System.
+
+Air travel is provided by [[Raleigh–Durham International Airport]], 12 miles southeast of Durham, which enplanes about 4.5 million passengers per year. Frequent service (five flights a day or more) is available to Boston, Charlotte, Philadelphia, New York LaGuardia, New York Kennedy, Newark, Washington Reagan, Washington Dulles, Chicago O'Hare, Dallas, Houston, and Atlanta, GA. Non-stop daily service is provided to approximately 30 destinations in the United States and daily international service is also available to London Heathrow, Toronto-Pearson and Paris Charles de Gaulle.
+
+[[Amtrak]] operates the daily ''[[Carolinian (train)|Carolinian]]'' train between Charlotte and New York City, which stops in downtown Durham. The State of North Carolina, in cooperation with Amtrak, operates four additional daily ''[[Piedmont (train)|Piedmont]]'' trains between Raleigh and Charlotte which also stop in Durham. A new Amtrak station was built in 2011 in a former tobacco warehouse. Some of the downtown streets cross the tracks at grade level, while other intersections have grade separation. One downtown [[11 foot 8 Bridge|railroad underpass]] has attracted national media coverage because it provided only 11 feet 8 inches of clearance, damaging the roofs of many trucks.<ref name="indy">{{cite news |title = A Little off the Top: Durham's 'Canopener Bridge' Makes the Front Page of the ''Wall Street Journal'' |date = January 6, 2016 |work = [[Indy Week]] |first = Danny |last = Hooley |access-date = January 8, 2016 |url = http://www.indyweek.com/news/archives/2016/01/06/a-little-off-the-top-durhams-canopener-bridge-makes-the-front-page-of-the-wall-street-journal |archive-date = January 9, 2016 |archive-url = https://web.archive.org/web/20160109022925/http://www.indyweek.com/news/archives/2016/01/06/a-little-off-the-top-durhams-canopener-bridge-makes-the-front-page-of-the-wall-street-journal |url-status = dead }}</ref> On October 26, 2019, the underpass was temporarily closed to both automotive and train traffic so that the track could be raised to improve the railway grade in that location and increase the clearance underneath to 12 feet 4 inches.<ref>{{cite news |last=Chin |first=Chris |date=October 21, 2019 |title=Famously Low '11-Foot-8' Bridge Will Be Raised by Eight Inches to Stop the Carnage |url=https://www.thedrive.com/news/30524/famously-low-11-foot-8-bridge-will-be-raised-by-eight-inches-to-stop-the-carnage/ |access-date=August 16, 2024 |website=The Drive}}</ref> Nonetheless, a few accidents still occur.{{Citation needed|date=August 2024}}
+
+National bus service is provided by [[Greyhound Lines|Greyhound]] and [[Megabus (North America)|Megabus]] at the Durham Transit Station in downtown Durham, which opened in 2009. [[GoDurham]] provides municipal bus service.
+[[File:TSPT021 Durham Station Transportation Center DiscoverDurham.jpg|thumb|left|Durham Station Transportation Center]]
+[[GoTriangle]] offers scheduled, fixed-route regional and commuter bus service between Raleigh and the region's other principal cities of Durham, [[Cary, North Carolina|Cary]] and [[Chapel Hill, North Carolina|Chapel Hill]], as well as to and from the Raleigh–Durham International Airport, [[Research Triangle Park]] and several of the region's larger suburban communities. GoTriangle also coordinates an extensive [[vanpool]] and [[carpool|rideshare]] program that serves the region's larger employers and commute destinations.
+
+From 1995, the cornerstone of GoTriangle's long-term plan was a {{convert|28|mi|km|adj=on}} rail corridor from northeast [[Raleigh, North Carolina|Raleigh]], through downtown Raleigh, [[Cary, North Carolina|Cary]], and [[Research Triangle Park]], to Durham using [[Diesel multiple unit|DMU]] technology. There were proposals to extend this corridor {{convert|7|mi|km}} to [[Chapel Hill, North Carolina|Chapel Hill]] with [[light rail]] technology. However, in 2006 Triangle Transit deferred implementation indefinitely when the [[Federal Transit Administration]] declined to fund the program. Government agencies throughout the Raleigh–Durham metropolitan area have struggled to determine the best means of providing fixed-rail transit service for the region. The project was cancelled 2019 with costs more than $157 million.<ref>{{Cite web |date=2021-04-30 |title=As the Triangle's job market booms, is the area ready for a commuter rail? Transportation leader says 'yes' |url=https://abc11.com/raleigh-train-station-railroad-railway-metro/10560587/ |access-date=2022-11-06 |website=ABC11 Raleigh–Durham |language=en}}</ref><ref>{{Cite web |date=May 2, 2022 |title=GoTriangle report details spending of $157 million on failed Durham-Orange light rail |url=https://www.wral.com/story/gotriangle-report-details-spending-of-157-million-on-failed-durham-orange-light-rail/20262149/}}</ref><ref>{{Cite web |date=2010-01-27 |title=North Carolina's Triangle Questions How Best to Connect a Multipolar Region |url=https://www.thetransportpolitic.com/2010/01/27/north-carolinas-triangle-questions-how-best-to-connect-a-multipolar-region/ |access-date=2022-11-06 |website=The Transport Politic |language=en-US}}</ref>
+
+The region's two [[metropolitan planning organization]]s appointed a group of local citizens in 2007 to reexamine options for future transit development in light of Triangle Transit's problems. The Special Transit Advisory Commission (STAC) retained many of the provisions of Triangle Transit's original plan, but recommended adding new bus services and raising additional revenues by adding a new local half-cent sales tax to fund the project.<ref>{{cite web|url=http://www.transitblueprint.org/stac.shtml |title=Regional Transit Infrastructure Blueprint |publisher=Transitblueprint.org |date=May 21, 2008 |access-date=July 15, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20111106111406/http://www.transitblueprint.org/stac.shtml |archive-date=November 6, 2011 }}</ref>
+
+[[Duke University]] also maintains its own transit system. Duke Transit operates more than 30 buses, with routes throughout the campus and health system. Duke campus buses and vans have alternate schedules or do not operate during breaks and holidays.
+
+To help create safer roadways for vehicles, bicyclists, and pedestrians, drivers can enroll in Durham's [[Pace Car Program]], agreeing to drive the speed limit, stop at all stop signs, stop at all red lights, and stop to let pedestrians cross the street.<ref>{{cite web|url=http://www.douthit.biz/docs/pace_car_brochure.pdf |title=City of Durham Pace Car Project |publisher=Douthit and Company |access-date=2017-02-24}}</ref>
+
+==Notable people==
+<!--PLEASE RESPECT ALPHABETICAL ORDER.-->
+{{colbegin|colwidth=30em}}
+* [[Kate Lee Harris Adams]], aviator and member of the [[Women Airforce Service Pilots]] during World War II
+* [[Blind Boy Fuller]] (Fulton Allen), musician
+* [[Louis Austin]] (1898–1971), journalist, civil rights leader
+* [[Ernie Barnes]], artist/painter<ref>{{cite web|title=Ernie Barnes|url=http://www.erniebarnes.com/biography.html|website=ErnieBarnes.com|access-date=18 January 2017|url-status=dead|archive-url=https://web.archive.org/web/20161216172615/http://www.erniebarnes.com/biography.html|archive-date=December 16, 2016|df=mdy-all}}</ref>
+* [[Kara Medoff Barnett]], theater producer, arts director
+* [[Samuel Beam]], singer/songwriter from [[Iron & Wine]], current resident
+* [[Ben Brantley]], ''[[The New York Times]]'' theater critic
+* [[Joseph Penn Breedlove]], [[Duke University]] librarian
+* [[Andrew Britton]], novelist 
+* [[Mic'hael Brooks]], [[NFL]] player
+* [[Little Brother (group)|Little Brother]], hip-hop group
+* [[Kelly Bruno]], world-record–holding amputee runner and athlete; contestant on reality TV show ''[[Survivor: Nicaragua]]''
+* [[Dan Bryk]], singer, rock star
+* [[Shirley Caesar]], pastor and gospel recording artist
+* [[Carolina Chocolate Drops]], folk band who cite their hometown as Durham
+* [[Anthony Roth Costanzo]], countertenor known for his performance as the title role of the opera [[Akhnaten (opera)]]
+* [[Crystal Cox]], track and field athlete; member of national team for the [[2004 Athens Summer Olympics]]; contestant on reality TV show ''[[Survivor: Gabon]]''
+* [[Roger Craig (baseball)|Roger Lee Craig]],<ref name="craig">{{cite web |url= http://www.baseball-almanac.com/players/player.php?p=craigro01|title= Roger Lee Craig|access-date=July 16, 2007 |publisher=Baseball Almanac}}</ref> Major League Baseball pitcher and manager 
+* [[John Darnielle]], musician and novelist best known as the primary (and often solitary) member of the American band [[the Mountain Goats]], for which he is the writer, composer, guitarist, pianist, and vocalist<ref>Hoard, Christian. [https://www.rollingstone.com/music/features/how-the-mountain-goats-john-darnielle-became-the-best-storyteller-in-rock-20150407 "The Slow Climb: How the Mountain Goats' John Darnielle Became the Best Storyteller in Rock."] {{Webarchive|url=https://web.archive.org/web/20170905125807/http://www.rollingstone.com/music/features/how-the-mountain-goats-john-darnielle-became-the-best-storyteller-in-rock-20150407 |date=September 5, 2017 }}, ''[[Rolling Stone]]'', April 7, 2015. Web. April 3, 2016.</ref>
+* [[Betty Davis]], funk and soul singer
+* [[Reverend Gary Davis]], musician
+* [[The Duffer Brothers]], creators of the [[Netflix]] series ''[[Stranger Things]]''
+* [[Benjamin Newton Duke]], tobacco, textile, and energy industrialist and [[philanthropist]]<ref>[https://www.ncdcr.gov/blog/2014/04/27/benjamin-duke-and-the-dukes-of-durham Benjamin Duke and the "Dukes of Durham"]. North Carolina Department of Natural and Cultural Resources. Retrieved November 2, 2020.</ref>
+* [[James Buchanan Duke]], industrialist, founder of [[The Duke Endowment]] and [[Duke University]] 
+* [[Victor Dzau]], scientist and academic
+* [[Sylvan Esso]], grammy-nominated dance and electronic music duo
+* [[Rapsody]] (Marlanna Evans), Grammy-nominated female rapper<ref>{{Cite web |last=Hanrahan |first=Kathy |date=29 Jan 2018 |title=Durham rapper makes history at Grammys |url=https://www.wral.com/rapsody-grammy-rapper-durham-nc-grammys/17297361/?version=amp |url-status=dead |archive-url=https://web.archive.org/web/20180129195626/https://www.wral.com/rapsody-grammy-rapper-durham-nc-grammys/17297361/?version=amp |archive-date=29 Jan 2018 |publisher=[[WRAL (FM)|WRAL]]}}</ref>
+* [[Pura Fé]], Native American singer
+* [[Rick Ferrell]], [[Major League Baseball]] catcher; member of the [[National Baseball Hall of Fame]]<ref name="ferrell">{{cite web|url=http://www.thebaseballpage.com/players/ferreri01.php |title=Rick Ferrell |access-date=July 16, 2007 |publisher=The Baseball Page |url-status=dead |archive-url=https://web.archive.org/web/20070926225536/http://www.thebaseballpage.com/players/ferreri01.php |archive-date=September 26, 2007 }}</ref>
+* [[John Wesley Fletcher]], pastor
+* [[Tate Fogleman]], [[NASCAR]] driver
+* [[Nnenna Freelon]], jazz singer/composer
+* [[Philip Freelon]] (1953–2019), architect, designer of the [[National Museum of African American History and Culture]]
+* [[Penny Fuller]], award-winning actress in numerous [[Broadway theatre|Broadway]], film, and television productions
+* [[Julian Gamble]] (born 1989), basketball player in the [[Israeli Basketball Premier League]]
+* [[David Garrard]], NFL quarterback from 2002 to 2013
+* [[David Gergen]], advisor to presidents [[Gerald Ford|Ford]], [[Ronald Reagan|Reagan]], and [[Bill Clinton|Clinton]]
+* [[Heather Gordon]] (born 1967), artist
+* [[John H. Hager]], former Virginia lieutenant governor (1998–2002) and the father-in-law of former First Daughter [[Jenna Bush]] Hager
+* [[Mary Katharine Ham]], Conservative journalist; grew up in Durham<ref>{{Cite news|url=https://www.cnn.com/2018/10/19/politics/ham-axe-files/index.html|title=Three things that shaped Mary Katharine Ham's conservative world|publisher=CNN|access-date=August 9, 2019}}</ref> 
+* [[Michael Hardt]], philosopher and theorist of globalization, politics and culture 
+* [[Jay Huff]], professional basketball player for the [[Denver Nuggets]]<ref>{{Cite web|url=https://www.wralsportsfan.com/durham-native-jay-huff-admits-he-s-a-little-more-amped-when-he-plays-the-hometown-team/18984777/?version=amp|title=Durham native Jay Huff admits he's a little more amped when he plays the hometown team|last=Brownlow|first=Lauren|date=February 29, 2020|website=Wralsportsfan.com|access-date=February 26, 2021}}</ref>
+* [[Brandon Hargest]], singer for [[Jump5]]
+* [[Brittany Hargest]], singer for Jump5
+* [[Heather Havrilesky]], author, essayist, and humorist raised in Durham<ref>{{Cite web|url=https://www.sfgate.com/books/article/Disaster-Preparedness-by-Heather-Havrilesky-2476374.php|title='Disaster Preparedness,' by Heather Havrilesky|last1=Zigmond|first1=Dan|last2=Chronicle|first2=Special to The|date=2011-02-06|website=SFGate|access-date=2019-11-24}}</ref> 
+* [[Biff Henderson]], ''[[Late Show with David Letterman]]'' comedian and television personality
+* [[Wilbur Hobby]], labor leader and former president of the North Carolina AFL-CIO
+* [[Alexander Isley]], designer and educator
+* [[Fredric Jameson]], literary critic and Marxist political theorist
+* [[Big Daddy Kane]], hip-hop artist and actor<ref>{{cite web|title=Big Daddy Kane, The Jay-Z Of '89, Still Every Bit The Playa|url=http://www.mtv.com/news/articles/1455072/big-daddy-kane-still-playa.jhtml|archive-url=https://web.archive.org/web/20120619065833/http://www.mtv.com/news/articles/1455072/big-daddy-kane-still-playa.jhtml|url-status=dead|archive-date=June 19, 2012|work=MTV News|access-date=September 7, 2011}}</ref>
+* [[John P. Kee]], pastor and gospel recording artist
+* [[Stuart Krohn]] (born 1962), professional [[rugby union]] player
+* [[Mike Krzyzewski]], former head coach of the Duke men's basketball team and former head coach of Team USA<ref>{{Cite web|url=https://goduke.com/sports/mens-basketball/roster/coaches/mike-krzyzewski/3607|title=Mike Krzyzewski Bio – Duke University|publisher=[[Duke Blue Devils]]|access-date=August 8, 2021}}</ref>
+* [[Patrick Kypson]], professional [[tennis]] player<ref>[https://www.atptour.com/en/players/patrick-kypson/k0a3/overview Patrick Kypson | Overview | ATP Tour | Tennis]. Retrieved November 2, 2020.</ref>
+* [[Mur Lafferty]], podcaster and writer
+* [[James G. Leyburn]], sociologist, professor, author<ref name="RTimes">{{Cite web |date=1993-05-01 |title=James Leyburn dies at 91 |url=https://www.newspapers.com/newspage/919006854/ |access-date=2023-10-24 |website=[[The Roanoke Times]] |language=en-US |via=[[Newspapers.com]]}}</ref>
+* [[Caitlin Linney]], singer/songwriter
+* [[John D. Loudermilk]], songwriter ([[Tobacco Road (song)|"Tobacco Road"]], "Then You Can Tell Me Goodbye")
+* [[John Lucas II]], [[NBA]] player and coach
+* [[David Lynch]], film and TV director; lived in Durham as a child; parents met at Duke University<ref>Rodley, Chris; Lynch, David (2005). Lynch on Lynch (2nd ed.). Macmillan. {{ISBN|0-571-22018-5}}.</ref>
+* [[John Malachi]], jazz pianist<ref>{{Citation|last1 = Rinzler|first1 = Paul|last2 = Kernfeld|first2 = Barry|title = Malachi, John |publisher = Grove Music Online. Oxford Music Online. Oxford University Press|url = http://www.oxfordmusiconline.com/subscriber/article/grove/music/J286100|access-date = July 25, 2015|url-access=subscription }}</ref>
+* [[Crystal Mangum]], accuser in the 2006 [[Duke lacrosse case]],<ref name="fnbio">{{cite web|date=April 11, 2007|title=Crystal Gail Mangum: Profile of the Duke Rape Accuser|url=https://www.foxnews.com/story/crystal-gail-mangum-profile-of-the-duke-rape-accuser|url-status=live|archive-url=https://web.archive.org/web/20070415005129/http://www.foxnews.com/story/0,2933,265374,00.html|archive-date=April 15, 2007|access-date=April 15, 2011|publisher=Fox News}}</ref> who was later found guilty of fatally stabbing her boyfriend<ref>{{Cite news|url=http://www.wral.com/mangum-found-guilty-in-boyfriend-s-stabbing-death/13143246/|title=Mangum found guilty in boyfriend's stabbing death|date=2013-11-22|website=Wral.com|access-date=2017-07-19|language=en}}</ref>
+* [[Leo Mangum]], Major League Baseball pitcher<ref>[https://www.baseball-reference.com/players/m/mangule01.shtml Leo Mangum Stats]. ''Baseball-Reference''. Retrieved November 2, 2020.</ref>
+* [[John H. Manning]], lawyer, officer and [[Adjutant General of North Carolina]]
+* [[Pigmeat Markham]], comic actor and novelty musician
+* [[Doug Marlette]], [[Pulitzer Prize]]-winning cartoonist; lived in Durham as a child<ref name="marlette">{{cite news|title=Cartoonist Doug Marlette dies in wreck|newspaper=Raleigh News and Observer|url=http://www.newsobserver.com/105/story/632517.html|url-status=dead|access-date=July 16, 2007|archive-url=https://web.archive.org/web/20070713131622/http://www.newsobserver.com/105/story/632517.html <!-- Bot retrieved archive -->|archive-date=July 13, 2007}}</ref>
+* [[Branford Marsalis]], resident of Durham for several years. The [[Branford Marsalis Quartet]]'s 2006 [[album]] ''[[Braggtown]]'' was titled after Braggtown Baptist Church, located in northeastern Durham, just north of Highways 70/85.<ref>{{cite news|title=Branford's bragging rights|work=News and Observer|url=http://www.newsobserver.com/105/story/485019.html|url-status=dead|access-date=October 24, 2007|archive-url=https://web.archive.org/web/20080522005306/http://www.newsobserver.com/105/story/485019.html <!-- Bot retrieved archive -->|archive-date=May 22, 2008}}</ref>
+* [[Frank Matthews (drug trafficker)|Frank Matthews]], drug trafficker during the late 1960s and early 1970s
+* [[Tracy McGrady]], attended [[Mount Zion Christian Academy]] his senior year, NBA player<ref>{{Cite web|url=https://www.wral.com/news/local/story/163568/|title=Durham Teen lured to NBA, Endorsement|date=June 20, 1997|publisher=WRAL|access-date=February 26, 2021}}</ref>
+* [[Clyde McPhatter]], singer/songwriter, founding member of [[The Drifters]]
+* [[LeRoi Moore]] of the [[Dave Matthews Band]], contemporary jazz musician
+* [[Anita Morris]], actress (''[[Ruthless People]],'' ''[[The Hotel New Hampshire (film)|The Hotel New Hampshire]]'', nominated for a [[Tony Award|Tony]] for her work in ''[[Nine (musical)|Nine]]'')
+* [[The Mountain Goats]], [[indie rock]] band
+* [[Pauli Murray]] (1910–1985), civil rights and women's activist, attorney, author, poet and priest, lived here as a child with grandparents; in 1977 was the first black woman to be ordained as an Episcopal priest; in 2012 was named as an Episcopal saint (one of its "Holy Women, Holy Men")
+* [[Link Neal]], YouTuber with Rhett McLaughlin for the channels [[Rhett & Link]] & [[Good Mythical Morning]]
+* [[Mike Nifong]], Durham County [[district attorney]] disbarred in 2006 for actions in [[Duke lacrosse case|Duke University lacrosse case]] that year<ref name="DA">{{cite news|last=Neff|first=Joseph|date=August 6, 2006|title=Lacrosse files show gaps in DA's case|website=News & Observer|url=http://www.newsobserver.com/1185/story/468272.html|url-status=dead|archive-url=https://web.archive.org/web/20060928071135/http://www.newsobserver.com/100/story/468272.html|archive-date=September 28, 2006}}</ref>
+* [[David Noel]], [[NBA]] player for the [[Milwaukee Bucks]]<ref>{{Cite web |last=Trendel |first=Avery |date=2017-08-31 |title=Former UNC Basketball Star David Noel Named Head Coach at Southern Durham High School |url=https://chapelboro.com/sports/high-school/former-unc-basketball-star-david-noel-named-head-coach-southern-durham-high-school |access-date=2023-08-10 |website=Chapelboro.com |language=en-US}}</ref>
+* [[Wye Oak (band)|Wye Oak]], musical duo composed of Jenn Wasner and Andy Stack
+* [[Ike Opara]], [[Major League Soccer]] defender for [[Sporting Kansas City]]
+* [[Robert Martin Patterson]], [[United States Army]] soldier and [[Medal of Honor]] recipient<ref>[https://medalofhonorhostcity.com/recipient/patterson-robert-martin/ Patterson, Robert Martin – Medal of Honor host City Program]. Retrieved October 22, 2020.</ref>
+* [[Sidney Powell]], prosecutor and attorney
+* [[Brian Roberts (baseball)|Brian Roberts]], Major League Baseball player, second baseman for the [[Baltimore Orioles]]<ref name="roberts">{{cite web | url=https://www.baseball-reference.com/r/roberbr01.shtml |title= Brian Roberts Statistics|access-date=July 29, 2007|publisher=Sports Reference, Inc.}}</ref>
+* [[Disappearance of Leah Roberts|Leah Roberts]], former [[North Carolina State University]] student who abruptly left Durham in March 2000 and has remained missing ever since
+* [[Rodney Rogers]], NBA power forward from 1993 to 2005<ref>{{cite web|url=https://www.basketball-reference.com/players/r/rogerro01.html| title=Rodney Rogers|publisher= Basketball-Reference.Com |access-date= November 15, 2012}}</ref> 
+* [[Benjamin S. Ruffin, Jr.|Ben Ruffin]], civil rights activist, educator, and businessman
+* [[Don Schlitz]], songwriter ([[Kenny Rogers]]'s "[[The Gambler (song)|The Gambler]]")
+* [[James E. Shepard]] (1875–1947), educator, founder and president of North Carolina College for Negroes (now North Carolina Central University)
+* [[Robert K. Steel]], former Undersecretary of the Treasury
+* [[Jamie Stewart (American musician)|Jamie Stewart]], art-pop musician best known as the frontman of [[Xiu Xiu]]<ref>{{cite news |last=Haver |first=Grayson |url=http://www.indyweek.com/indyweek/the-travails-of-xiu-xiu-leader-and-reluctant-durham-resident-jamie-stewart/Content?oid=2904877 |title=The travails of Xiu Xiu leader and reluctant Durham resident Jamie Stewart &#124; Music Essay |newspaper=Indy Week |access-date=May 4, 2014 |archive-date=April 23, 2014 |archive-url=https://web.archive.org/web/20140423080140/http://www.indyweek.com/indyweek/the-travails-of-xiu-xiu-leader-and-reluctant-durham-resident-jamie-stewart/Content?oid=2904877 |url-status=dead }}</ref>
+* [[Andre Leon Talley]] (1948–2022), ''[[Vogue (magazine)|Vogue]]'' editor, fashion luminary, and judge on ''[[America's Next Top Model]]''
+* [[Grady Tate]], American musician and singer
+* [[Justin Tornow]], dancer and choreographer
+* [[Emilie Townes]], dean of [[Vanderbilt Divinity School]], former president of the [[American Academy of Religion]]<ref>{{Cite web|url=http://divinity.vanderbilt.edu/people/bio/emiliem-townes|title=Bio {{!}} People {{!}} Divinity School {{!}} Vanderbilt University|publisher=Vanderbilt Divinity School|language=en-US|access-date=2017-04-23}}</ref>
+* [[Jeff Tremaine]], filmmaker known for ''[[Jackass (franchise)|Jackass]]''
+* [[Teresa Trull]], singer, songwriter, and record producer
+* [[LeRoy T. Walker]] (1918–2012), former United States Olympic president; former chancellor of North Carolina Central University (NCCU)<ref>{{cite news | title =LeRoy Walker Bio | url =http://www.usatf.org/HallOfFame/TF/showBio.asp?HOFIDs=176 | work =US Track and Field Hall of Fame | access-date =October 24, 2007 | archive-url =https://web.archive.org/web/20071102085538/http://www.usatf.org/HallOfFame/TF/showBio.asp?HOFIDs=176 | archive-date =November 2, 2007 | url-status =dead }}</ref>
+* [[Dewayne Washington]], NFL cornerback from 1994 to 2005
+* [[Seth Wescott]], [[Olympic Games|Olympic]] champion snowboarder<ref name="wescott">{{cite web|title=Rick Ferrell|url=http://www.usoc.org/26_38187.htm|url-status=dead|archive-url=https://web.archive.org/web/20070714104047/http://www.usoc.org/26_38187.htm <!-- Bot retrieved archive -->|archive-date=July 14, 2007|access-date=July 16, 2007|publisher=United States Olympic Committee}}</ref>
+* [[Josh Whitesell]], [[Major League Baseball]] first baseman of the [[Arizona Diamondbacks]]<ref>{{cite web|url=http://www.baseball-almanac.com/players/player.php?p=whitejo03| title= Josh Whitesell Stats | publisher = Baseball Almanac |access-date= November 26, 2012}}</ref>
+* [[T. J. Warren]], NBA player for the [[Indiana Pacers]]
+* [[Bull City Red]] (birth name George Washington), blues musician
+* [[George Washington Watts]], financier and philanthropist
+* [[Sara Virginia Ecker Watts Morrison]], nurse, philanthropist, and First Lady of North Carolina
+* [[Harvey D. Williams]] (1930–2020), African American U.S. Army major general<ref name="kane">{{cite news |date=1978-05-20 |title=Army General Leads Drive to Stop Discrimination Against U.S. Soldiers |page=10 |url=https://www.newspapers.com/newspage/63313867/ |work=The Kane Republican |location=[[Kane, Pennsylvania]] |access-date=2020-07-20}}</ref><ref name="times-tribune">{{cite news |date=1978-05-24 |title=Discrimination Against GIs Criticized|page=13 |url=https://www.newspapers.com/newspage/530694355/ |work=[[The Scranton Times-Tribune]] |location=[[Scranton, Pennsylvania]] |access-date=2020-07-20}}</ref>
+* [[Walter Lee Williams]], one of the [[FBI Ten Most Wanted Fugitives]]<ref>{{cite web|url=https://www.fbi.gov/wanted/topten/walter-lee-williams |title=FBI — Homepage |website=Fbi.gov |date=May 15, 2013 |access-date=May 4, 2014}}</ref>
+* [[Morgan Wootten]], head basketball coach at [[DeMatha Catholic High School]] and member of the [[Basketball Hall of Fame]]
+* [[James B. Wyngaarden]], American physician, researcher, and academic administrator<ref>{{Cite web|url=https://obits.mlive.com/us/obituaries/grandrapids/name/james-wyngaarden-obituary?id=9166598|title=James Wyngaarden Obituary (1924–2019) – Durham, NC – Grand Rapids Press|website=Legacy.com|access-date=January 29, 2024}}</ref>
+* [[Freekey Zekey]] (Ezekiel Giles), rapper; spent almost three years in jail at Durham Correctional Center on drug charges before being released on November 20, 2006<ref>Winn, Patrick. [http://www.newsobserver.com/102/story/513089.html "'Freaky Zekey' free from prison"] {{webarchive|url=https://web.archive.org/web/20090113231444/http://www.newsobserver.com/102/story/513089.html |date=January 13, 2009 }}, ''The News & Observer'', November 21, 2006. Accessed April 5, 2007.</ref><ref>[http://www.hhnlive.com/news/more/633 "Freaky Zekey Released From Prison"] {{webarchive|url=https://web.archive.org/web/20070927035444/http://www.hhnlive.com/news/more/633 |date=September 27, 2007 }}, ''HHNLive.com'', November 21, 2006. Accessed April 5, 2007.</ref>
+{{colend}}
+
+==Sister cities==
+Durham's [[sister cities]] are:<ref>{{cite web |title=Sister Cities of Durham |url=https://durhamnc.gov/292/Sister-Cities-of-Durham |publisher=City of Durham |access-date=2021-05-10}}</ref>
+{{div col|colwidth=20em}}
+*{{flagicon|TZA}} [[Arusha]], Tanzania
+*{{flagicon|MEX}} [[Celaya]], Mexico
+*{{flagicon|ENG}} [[Durham, England|Durham]], [[County Durham]], England, United Kingdom
+*{{flagicon|GRC}} [[Kavala]], Greece
+*{{flagicon|ROU}} [[Sibiu]], Romania
+*{{flagicon|CRI}} [[Tilarán]], Costa Rica
+*{{flagicon|JPN}} [[Toyama (city)|Toyama]], Japan
+*{{flagicon|CHN}} [[Zhuzhou]], China
+{{div col end}}
+Following the 2022 Russian invasion of Ukraine, the Durham County council revoked the twinning arrangements with Kostroma, which had been in place since 1968.
+
+==See also==
+{{Portal|United States|North Carolina}}
+* [[List of municipalities in North Carolina]]
+* [[Norfolk Southern–Gregson Street Overpass]]
+* [[Triangle J Council of Governments]]
+* [[List of U.S. cities with large Black populations]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{See also|Timeline of Durham, North Carolina#Bibliography|l1=Bibliography of the history of Durham, North Carolina}}
+* {{Citation |publisher = E.F. Turner |location = Danville, Va |title = Turner & Co.'s Durham directory for the years 1889 and 1890 |date = 1889 |ol = 13511643M }}
+* {{Citation |publisher = N.A. Ramsey |location = Durham, N.C |title = Ramsey's Durham directory, for the year 1892 |date = 1892 |ol = 13511644M }}
+
+==External links==
+{{sister project links|voy=Durham (North Carolina)}}
+* {{osmrelation|179868}}
+* {{official website|http://durhamnc.gov/}}
+* [https://web.archive.org/web/20090116044720/http://www.durham-nc.com/ Durham Convention and Visitors Bureau]
+* [http://www.durhamchamber.org/ Greater Durham Chamber of Commerce]
+
+{{Durham County, North Carolina}}
+{{Orange County, North Carolina}}
+{{Wake County, North Carolina}}
+{{North_Carolina}}
+{{Durham-Chapel Hill Metropolitan Area}}
+{{North Carolina county seats}}
+{{USPopulousCities}}
+{{Authority control}}
+
+[[Category:Durham, North Carolina| ]]
+[[Category:Duke family]]
+[[Category:Planned communities in the United States]]
+[[Category:Populated places established in 1853]]

@@ -1,0 +1,592 @@
+{{Expand Japanese|topic=geo|長岡市|date=February 2022}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Nagaoka
+| native_name             = {{nobold|{{lang|ja|長岡市}}}}
+| official_name           = 
+| settlement_type         = [[Special cities of Japan|Special city]]
+<!-- images, nickname, motto -->
+| image_skyline           = {{multiple image
+ | perrow = 1/2/3
+ | border = infobox
+ | total_width = 299
+ | image1 = Nagaoka_Festival_Fireworks_2015_Phoenix_20150802.jpg
+ | image2 = Echigo Hillside Park 08.jpg{{!}}越後丘陵公園
+ | image3 = Teradomari Fish Market Street 2015.jpg
+ | image4 = Nagaoka City Local Museum.jpg{{!}}
+ | image5 = Chosei_bridge_light_up.jpg
+ | image6 = Nagaoka Koi Show 07.jpg
+}}
+| image_caption           = <table style="width:280px;margin:2px auto; border-collapse: collapse">
+<tr><td colspan="6">Nagaoka Matsuri and Fireworks</tr>
+<tr><td colspan="3">Echigo Hillside Park<td colspan="3">Teradomari Fish Market</tr>
+<tr><td colspan="2">Yukyuzan Park<td colspan="2">Chosei Bridge<td colspan="2">[[Kōhaku (fish)|Nishiki Koi]]</tr>
+</table>
+| image_flag              = Flag of Nagaoka, Niigata.svg 
+| flag_alt                = 
+| image_seal              = Emblem of Nagaoka Niigata chapter.svg 
+| seal_alt                = 
+| image_shield            = 
+| shield_alt              = 
+| image_blank_emblem      = 
+| nickname                = 
+| motto                   = 
+<!-- maps and coordinates -->
+| image_map               = Nagaoka in Niigata Prefecture Ja.svg
+| map_alt                 = 
+| map_caption             = Location of Nagaoka in Niigata
+| pushpin_map             = Japan
+| pushpin_label_position  = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_alt         = 
+| pushpin_map_caption     = 
+| coordinates             = {{coord|37|26|46.3|N|138|51|4.5|E|region:JP-15|display=it}}
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location -->
+| subdivision_type = Country
+| subdivision_name        = Japan
+| subdivision_type1       = [[List of regions of Japan|Region]]
+| subdivision_name1       = [[Chūbu region|Chūbu]] ([[Kōshin'etsu region|Kōshin'etsu]]) ([[Hokuriku region|Hokuriku]])
+| subdivision_type2       = [[Prefectures of Japan|Prefecture]]
+| subdivision_name2       = [[Niigata Prefecture|Niigata]]
+| subdivision_type3       = 
+| subdivision_name3       = 
+<!-- established -->
+| established_title       = Founded
+| established_date        = 1616  
+| established_title2      = City established
+| established_date2       = April 1, 1906 
+| founder                 = 
+| named_for               = 
+<!-- seat, smaller parts -->
+| seat_type               = <!-- defaults to: Seat -->
+| seat                    = 
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| leader_party            = 
+| leader_title            = Mayor
+| leader_name             = [[Tatsunobu Isoda]]
+| leader_title1           = 
+| leader_name1            = <!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings  -->
+| total_type              = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_footnotes          = <!-- for references: use <ref> tags -->
+| area_total_km2          = 891.06
+| area_land_km2           = 
+| area_water_km2          = 
+| area_water_percent      = 
+| area_note               = 
+<!-- elevation -->
+| elevation_footnotes     = <!-- for references: use <ref> tags -->
+| elevation_m             = 
+<!-- population -->
+| population_footnotes    = <!-- for references: use <ref> tags -->
+| population_total        = 266,539
+| population_as_of        = December 2020
+| population_density_km2  = auto
+| population_est          = 
+| pop_est_as_of           = 
+| population_demonym      = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note         = 
+<!-- time zone(s) -->
+| timezone1               = [[Japan Standard Time]]
+| utc_offset1             = +9
+<!-- postal codes, area code -->
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| area_code               = 
+<!-- blank fields (section 1) -->
+| blank_name_sec1         = Phone&nbsp;number
+| blank_info_sec1         = 0258-35-1122
+| blank1_name_sec1        = Address
+| blank1_info_sec1        = 1-4-10 Otedori, Nagaoka-shi, Niigata-ken 940-8501
+<!-- blank fields (section 2) -->
+| blank_name_sec2        = [[Köppen climate classification|Climate]]
+| blank_info_sec2        = [[Humid subtropical climate|Cfa]]
+<!-- website, footnotes -->
+| website                 = {{Official|1=http://www.city.nagaoka.niigata.jp}}
+| footnotes               = 
+| module = {{Infobox place symbols| embedded=yes
+ | tree = [[Zelkova serrata]]
+ | flower = [[Azalea]]
+ | bird = 
+ | flowering_tree = 
+ | butterfly = 
+ | fish = [[Kōhaku (fish)|Nishiki koi]]
+ | other_symbols = 
+}}
+}}
+
+{{nihongo|'''Nagaoka'''|長岡市|Nagaoka-shi}} is a [[Cities of Japan|city]] located in [[Niigata Prefecture]], [[Japan]]. It is the second largest city in the prefecture, after the capital city of [[Niigata, Niigata|Niigata]]. {{As of|2021|08|04}}, the city had an estimated [[population]] of 264,611 in 109,283 households<ref>{{cite web |title=人口と世帯数 (Population and number of households) |url=https://www.city.nagaoka.niigata.jp/syoukai/jinkou/jinkou.html |website=Nagaoka City Website |access-date=12 August 2021 |archive-url=https://web.archive.org/web/20200805194406/https://www.city.nagaoka.niigata.jp/syoukai/jinkou/jinkou.html |archive-date=5 August 2020 |language=Japanese |url-status=live}}</ref> and a [[population density]] of {{convert|300|PD/sqkm|PD/sqmi|abbr=out}}. The total area of the city was {{convert|891.06|sqkm|sqmi}}.<ref>{{cite web |title=プロフイール (Profile) |url=https://www.city.nagaoka.niigata.jp/dpage/kokubun/chikyuhiroba/english/nagaoka_en/profile.html |website=Nagaoka City Website |archive-url=https://web.archive.org/web/20130719013436/http://www.city.nagaoka.niigata.jp/dpage/kokubun/chikyuhiroba/english/nagaoka_en/profile.html |archive-date=19 July 2013 |url-status=dead}}</ref>
+
+==Geography==
+[[File:Nagaoka from the sky.jpg|thumb|Nagaoka in winter from the sky]]
+
+Nagaoka is in the center of Niigata prefecture and the surrounding [[Chūetsu]] region of Japan, between [[138th meridian east|longitude 138°E]] and [[37th parallel north|latitude 37°N]]. It is 80 minutes from [[Tokyo]] by way of the [[Joetsu Shinkansen]] or three hours on the [[Kan-Etsu Expressway]] and is considered a strategic traffic point in the region. Nagaoka was an inland city until January 1, 2006, when the city merged with four municipalities; two were touching the [[Sea of Japan]]. The [[Shinano River]] flows through the city from south to north and industrial development is on both banks of the river. The Higashiyama mountain range lies to the east.
+
+===Surrounding municipalities===
+* [[Niigata Prefecture]]
+** [[Izumozaki, Niigata|Izumozaki]]
+** [[Kariwa, Niigata|Kariwa]]
+** [[Kashiwazaki, Niigata|Kashiwazaki]]
+** [[Mitsuke, Niigata|Mitsuke]]
+** [[Nishikan-ku, Niigata]] 
+** [[Ojiya, Niigata|Ojiya]]
+** [[Sanjō, Niigata|Sanjō]]
+** [[Tōkamachi, Niigata|Tōkamachi]]
+** [[Tsubame, Niigata|Tsubame]]
+** [[Uonuma, Niigata|Uonuma]]
+** [[Yahiko, Niigata|Yahiko]]
+
+=== Climate ===
+Nagaoka has a [[Humid subtropical climate|humid climate]] (Köppen ''Cfa'') characterized by warm, wet summers and cold winters with heavy snowfall.  The average annual temperature in Nagaoka is {{convert|13.3|C|F}}. The average annual rainfall is {{convert|2349.3|mm|in|abbr=on}} with September as the wettest month. The temperatures are highest on average in August, at around {{convert|26.2|C|F}}, and lowest in January, at around {{convert|1.6|C|F}}.<ref name="normals"/>
+{{Weather box
+|width=auto
+|collapsed = Y
+|single line = Y
+|metric first = Y
+|location = Nagaoka (1991−2020 normals, extremes 1976−present)
+|Jan record high C = 15.0
+|Feb record high C = 18.9
+|Mar record high C = 23.3
+|Apr record high C = 30.4
+|May record high C = 32.8
+|Jun record high C = 37.0
+|Jul record high C = 39.4
+|Aug record high C = 39.4
+|Sep record high C = 38.3
+|Oct record high C = 35.3
+|Nov record high C = 26.5
+|Dec record high C = 19.9
+|Jan record low C = -9.7
+|Feb record low C = -11.8
+|Mar record low C = -6.3
+|Apr record low C = -2.8
+|May record low C = 2.9
+|Jun record low C = 9.0
+|Jul record low C = 13.0
+|Aug record low C = 14.1
+|Sep record low C = 8.1
+|Oct record low C = 2.5
+|Nov record low C = -1.9
+|Dec record low C = -8.4
+|Jan high C = 4.5
+|Feb high C = 5.2
+|Mar high C = 9.4
+|Apr high C = 16.5
+|May high C = 22.3
+|Jun high C = 25.7
+|Jul high C = 29.1
+|Aug high C = 30.9
+|Sep high C = 26.7
+|Oct high C = 20.6
+|Nov high C = 14.0
+|Dec high C = 7.6
+|Jan mean C = 1.6
+|Feb mean C = 1.8
+|Mar mean C = 4.9
+|Apr mean C = 11.0
+|May mean C = 16.9
+|Jun mean C = 21.0
+|Jul mean C = 24.8
+|Aug mean C = 26.2
+|Sep mean C = 22.0
+|Oct mean C = 15.9
+|Nov mean C = 9.6
+|Dec mean C = 4.2
+|Jan low C = -0.7
+|Feb low C = -1.1
+|Mar low C = 1.1
+|Apr low C = 6.0
+|May low C = 12.1
+|Jun low C = 17.1
+|Jul low C = 21.4
+|Aug low C = 22.5
+|Sep low C = 18.3
+|Oct low C = 12.0
+|Nov low C = 6.0
+|Dec low C = 1.5
+|precipitation colour = green
+|Jan precipitation mm = 294.4
+|Feb precipitation mm = 165.5
+|Mar precipitation mm = 140.8
+|Apr precipitation mm = 103.7
+|May precipitation mm = 97.8
+|Jun precipitation mm = 136.9
+|Jul precipitation mm = 235.0
+|Aug precipitation mm = 163.9
+|Sep precipitation mm = 165.6
+|Oct precipitation mm = 184.6
+|Nov precipitation mm = 289.0
+|Dec precipitation mm = 372.2
+|year precipitation mm = 2349.3
+|unit precipitation days = 1.0 mm
+|Jan precipitation days = 25.8
+|Feb precipitation days = 20.5
+|Mar precipitation days = 18.7
+|Apr precipitation days = 13.4
+|May precipitation days = 10.6
+|Jun precipitation days = 11.5
+|Jul precipitation days = 13.8
+|Aug precipitation days = 11.1
+|Sep precipitation days = 13.6
+|Oct precipitation days = 15.1
+|Nov precipitation days = 19.9
+|Dec precipitation days = 24.7
+|Jan snow cm = 197
+|Feb snow cm = 155
+|Mar snow cm = 52
+|Apr snow cm = 1
+|May snow cm = 0
+|Jun snow cm = 0
+|Jul snow cm = 0
+|Aug snow cm = 0
+|Sep snow cm = 0
+|Oct snow cm = 0
+|Nov snow cm = 1
+|Dec snow cm = 76
+|year snow cm = 477
+|unit snow days = 3 cm
+|Jan snow days = 17.1
+|Feb snow days = 15.2
+|Mar snow days = 5.9
+|Apr snow days = 0.1
+|May snow days = 0
+|Jun snow days = 0
+|Jul snow days = 0
+|Aug snow days = 0
+|Sep snow days = 0
+|Oct snow days = 0
+|Nov snow days = 0.2
+|Dec snow days = 7.1
+|Jan sun = 37.3
+|Feb sun = 60.6
+|Mar sun = 117.9
+|Apr sun = 170.8
+|May sun = 201.3
+|Jun sun = 155.4
+|Jul sun = 143.9
+|Aug sun = 193.5
+|Sep sun = 141.0
+|Oct sun = 132.4
+|Nov sun = 88.3
+|Dec sun = 49.3
+|year sun = 1493.9
+|source 1 = [[Japan Meteorological Agency]]<ref>{{cite web
+| url = https://www.data.jma.go.jp/obd/stats/etrn/view/rank_a.php?prec_no=54&block_no=0529&year=&month=&day=&view=h0
+|script-title=ja:観測史上1～10位の値（年間を通じての値）
+| publisher = [[Japan Meteorological Agency|JMA]]
+| access-date = March 24, 2022}}</ref><ref name="normals">{{cite web
+| url = https://www.data.jma.go.jp/obd/stats/etrn/view/nml_amd_ym.php?prec_no=54&block_no=0529&year=&month=&day=&view=h0
+|script-title=ja:気象庁 / 平年値（年・月ごとの値） 
+| publisher = [[Japan Meteorological Agency|JMA]]
+| access-date = March 24, 2022}}</ref>}}
+
+{{Weather box
+|width=auto
+|collapsed = Y
+|single line = Y
+|metric first = Y
+|location = [[Teradomari, Niigata|Teradomari]], Nagaoka (2001−2020 normals, extremes 2001−present)
+|Jan record high C = 14.6
+|Feb record high C = 21.7
+|Mar record high C = 23.3
+|Apr record high C = 26.8
+|May record high C = 31.2
+|Jun record high C = 33.0
+|Jul record high C = 39.4
+|Aug record high C = 40.6
+|Sep record high C = 38.0
+|Oct record high C = 32.1
+|Nov record high C = 24.2
+|Dec record high C = 18.8
+|Jan record low C = -6.6
+|Feb record low C = -6.4
+|Mar record low C = -5.3
+|Apr record low C = -1.3
+|May record low C = 4.6
+|Jun record low C = 10.0
+|Jul record low C = 14.4
+|Aug record low C = 15.6
+|Sep record low C = 7.9
+|Oct record low C = 3.9
+|Nov record low C = -1.6
+|Dec record low C = -3.3
+|Jan high C = 5.7
+|Feb high C = 6.7
+|Mar high C = 10.7
+|Apr high C = 15.9
+|May high C = 21.1
+|Jun high C = 25.0
+|Jul high C = 28.3
+|Aug high C = 30.6
+|Sep high C = 26.7
+|Oct high C = 20.8
+|Nov high C = 14.6
+|Dec high C = 8.6
+|Jan mean C = 2.6
+|Feb mean C = 2.9
+|Mar mean C = 5.9
+|Apr mean C = 10.7
+|May mean C = 16.0
+|Jun mean C = 20.3
+|Jul mean C = 24.1
+|Aug mean C = 25.9
+|Sep mean C = 21.9
+|Oct mean C = 16.0
+|Nov mean C = 10.2
+|Dec mean C = 5.1
+|Jan low C = -0.1
+|Feb low C = -0.3
+|Mar low C = 1.8
+|Apr low C = 6.3
+|May low C = 11.9
+|Jun low C = 16.7
+|Jul low C = 21.1
+|Aug low C = 22.5
+|Sep low C = 18.4
+|Oct low C = 12.2
+|Nov low C = 6.5
+|Dec low C = 1.9
+|precipitation colour = green
+|Jan precipitation mm = 181.6
+|Feb precipitation mm = 111.3
+|Mar precipitation mm = 114.8
+|Apr precipitation mm = 103.4
+|May precipitation mm = 91.3
+|Jun precipitation mm = 127.9
+|Jul precipitation mm = 273.7
+|Aug precipitation mm = 150.4
+|Sep precipitation mm = 160.5
+|Oct precipitation mm = 154.3
+|Nov precipitation mm = 219.0
+|Dec precipitation mm = 247.4
+|year precipitation mm = 1962.9
+|unit precipitation days = 1.0 mm
+|Jan precipitation days = 22.8
+|Feb precipitation days = 17.8
+|Mar precipitation days = 16.3
+|Apr precipitation days = 12.4
+|May precipitation days = 10.3
+|Jun precipitation days = 9.5
+|Jul precipitation days = 14.4
+|Aug precipitation days = 10.7
+|Sep precipitation days = 12.6
+|Oct precipitation days = 13.7
+|Nov precipitation days = 19.2
+|Dec precipitation days = 23.8
+|Jan sun = 46.1
+|Feb sun = 76.8
+|Mar sun = 140.9
+|Apr sun = 187.3
+|May sun = 212.3
+|Jun sun = 194.7
+|Jul sun = 160.1
+|Aug sun = 216.9
+|Sep sun = 168.0
+|Oct sun = 141.4
+|Nov sun = 86.5
+|Dec sun = 49.5
+|year sun = 1675.3
+|source 1 = [[Japan Meteorological Agency]]<ref>{{cite web
+| url = https://www.data.jma.go.jp/obd/stats/etrn/view/rank_a.php?prec_no=54&block_no=0524&year=&month=&day=&view=h0
+|script-title=ja:観測史上1～10位の値（年間を通じての値）
+| publisher = [[Japan Meteorological Agency|JMA]]
+| access-date = March 24, 2022}}</ref><ref>{{cite web
+| url = https://www.data.jma.go.jp/obd/stats/etrn/view/nml_amd_ym.php?prec_no=54&block_no=0524&year=&month=&day=&view=h0
+|script-title=ja:気象庁 / 平年値（年・月ごとの値） 
+| publisher = [[Japan Meteorological Agency|JMA]]
+| access-date = March 24, 2022}}</ref>}}
+
+==Demographics==
+Per Japanese census data,<ref>{{cite web |title=Japan: Niigata Prefecture, Cities, Towns and Villages |url=https://www.citypopulation.de/en/japan/niigata/ |website=City Population |access-date=12 August 2021 |archive-url=https://web.archive.org/web/20210712181604/https://www.citypopulation.de/en/japan/niigata/ |archive-date=12 July 2021 |url-status=live}}</ref> the population of Nagaoka peaked at around 1995 and has declined steadily since.
+
+{{Historical populations
+| 1960 | 284,026
+| 1970 | 279,395
+| 1980 | 289,234
+| 1990 | 290,923
+| 2000 | 292,887
+| 2010 | 282,674
+| 2020 | 266,539
+|align       = none
+| footnote = 
+}}
+
+==History==
+[[File:Echigo no kuni Uesugi Kagekatsu katoku arasoi kassen.jpg|200px|thumb|[[Ukiyo-e]] of the [[Battle of Hokuetsu]] ([[Boshin War]]) by Utagawa Kuniteru II]]
+
+[[File:Nagaoka jouka nenju gyouji zue - Nenshi tojo.jpg|200px|thumb|Picture of annual event of the Nagaoka castle – going into the castle for New Year greeting]]
+
+The area of present-day Nagaoka was part of ancient [[Echigo Province]]. Under the [[Tokugawa shogunate]], a [[jōkamachi|castle town]] was constructed by [[Hori Naoyori]] lord of [[Nagaoka Domain]] in 1616.  However, as the initial castle was located in an area prone to flooding by the [[Shinano River]], a new castle was built at the site of present-day [[Nagaoka Station]] in 1617. Nagaoka flourished as under the reign of the 13 generations of the [[Makino clan]] during the [[Edo period]]. In the [[Boshin War]] of 1868 during the [[Meiji Restoration]], Nagaoka Domain was a member of the [[Ōuetsu Reppan Dōmei]] against the imperial forces, and the city was reduced to rubble during the [[Battle of Hokuetsu]]. A gift of one hundred sacks of rice from a neighboring province was sold to finance a new school during the reconstruction of Nagaoka, from which the anecdote of ''[[Kome Hyappyo]]'' was born.{{citation needed|date=September 2016}}
+
+With the Meiji period creation of the modern municipalities system on April 1, 1889, the towns of Nagaoka and Nagaoka-honmachi were established. The two towns were merged on November 1, 1901 with the towns of Senju, Kusouzu, Ara, and village of Ouchi to form the modern town of Nagaoka, which was then raised to city status on April 1, 1906.
+
+=== Municipal timeline ===
+[[File:Amalgamation Nagaoka jp.svg|150px|thumb|left|'''Yellow:''' 10 former municipalities merged into Nagaoka in the 2000's.]]
+
+* April 1, 1906: The city of Nagaoka is established.
+* August 1, 1945: Nagaoka is reduced to rubble by 125 [[B-29 Superfortress|B-29 bombers]] in the [[Bombing of Nagaoka in World War II]]. 1,470 lives are lost.
+* January 1963: A record-breaking heavy snowfall hits Nagaoka.
+* November 15, 1982: [[Joetsu Shinkansen]] service arrives at Nagaoka Station.
+* July 12–13, 2004: A heavy downpour causes extensive flooding in Nagaoka.
+* October 23, 2004: The [[2004 Chūetsu earthquake|Chūetsu earthquake]] strikes, causing extensive damage in Nagaoka and surrounding areas.
+* February 2005: Nagaoka experiences the heaviest snowfall in 19 years.
+* April 1, 2005: The town of [[Oguni, Niigata|Oguni]] (from [[Kariwa District, Niigata|Kariwa District]]), the village of [[Yamakoshi, Niigata|Yamakoshi]] (from [[Koshi District, Niigata|Koshi District]]), the town of [[Nakanoshima, Niigata|Nakanoshima]] (from [[Minamikanbara District, Niigata|Minamikanbara District]]), and the towns of [[Koshiji, Niigata|Koshiji]] and [[Mishima, Niigata|Mishima]] (both from [[Santō District, Niigata|Santō District]]), were absorbed into Nagaoka.<ref>{{Cite book |url=https://books.google.com/books?id=jK33qQjYcQ4C |title=住民基本台帳人口移動報告年報 |date=2005 |publisher=総務庁統計局 |pages=139 |language=ja |quote=Nakanoshima-machi, Koshiji-machi, Mishima-machi, Yamakoshi-mura and Oguni-machi were incorporated into Nagaoka-shi as of April 1, 2005.}}</ref><ref>{{Cite web |title=越路町と長岡市との合併 {{!}} 長岡市よくある質問（Q＆A） |url=https://qa.city.nagaoka.niigata.jp/faq/show/293?category_id=142&return_path=/category/show/142?page=1&site_domain=default&site_domain=default&sort=sort_access&sort_order=desc&site_domain=default |access-date=2024-02-04 |website=長岡市 |quote=平成17年4月1日に南蒲原郡中之島町、三島郡三島町、古志郡山古志村、刈羽郡小国町と一緒に長岡市に編入合併しました。}}</ref> 
+Prior to the merger, the size of Nagaoka was 262.45&nbsp;km<sup>2</sup> and the population was 192,292.
+* January 1, 2006: The city of [[Tochio, Niigata|Tochio]], the towns of [[Teradomari, Niigata|Teradomari]] and [[Yoita, Niigata|Yoita]], and the village of [[Washima, Niigata|Washima]] (all from [[Santō District, Niigata|Santō District]]) were absorbed into Nagaoka.<ref>{{Cite web |title=市町村合併に伴う町名変更一覧 |url=https://www.city.nagaoka.niigata.jp/kurashi/cate01/cyoumei/henko-zyusyo.html |access-date=2024-02-04 |website=Nagaoka City |language=ja}}</ref><ref>{{Cite book |url=https://books.google.com/books?id=NsbKKmrDP9cC |title=住民基本台帳人口移動報告年報 |date=2006 |publisher=総務庁統計局 |pages=135 |language=ja |quote=Tochio-shi, Washima-mura, Teradomari-machi and Yoita-machi were incorporated into Nagaoka-shi as of January 1, 2006.}}</ref>
+* April 1, 2007: Nagaoka is designated a [[Special cities of Japan|special city]] with increase local autonomy
+* March 31, 2010: The town of [[Kawaguchi, Niigata|Kawaguchi]] (from [[Kitauonuma District, Niigata|Kitauonuma District]]) was absorbed into Nagaoka.<ref>https://www.yomiuri.co.jp/dy/national/20100402TDY03T01.htm{{dead link|date=August 2021}}</ref>
+==Government==
+[[file:Ao-re Nagaoka 20140430 02.jpg|right|thumb|Nagaoka City Hall]]
+Nagaoka has a [[mayor-council]] form of government with a directly elected mayor and a [[unicameral]] city legislature of 34 members. The city contributes six members to the Niigata Prefectural Assembly. In terms of national politics, the city is part of [[Niigata 5th district]] of the [[House of Representatives of Japan|lower house]] of the [[Diet of Japan]].
+
+== Economy ==
+
+=== Industry ===
+The manufacturing industry prospered in Nagaoka following World War II, due in part to favorable location and good transportation infrastructure. Current industrial production includes precision instruments and [[machine tool]]s.
+* Nippon Seiki, a manufacturer of automotive instruments, is headquartered in Nagaoka.
+* TDK-Lambda, a manufacturer of [[Switched-mode power supply|switched-mode power supplies]], has a plant in Nagaoka.
+*SLB, an oilfield services company has a location in Nagaoka.
+
+==Education==
+===Universities and colleges===
+* [[Nagaoka Institute of Design]]
+* [[Nagaoka University]]
+* [[Nagaoka University of Technology]]
+* [[National Institute of Technology]], Nagaoka campus
+
+===Primary and secondary education===
+The city of Nagaoka operates 61 public elementary schools and 27 public middle schools. There is also one public middle school operated by the national government. Nagaoka also has nine public high schools operated by the Niigata Prefectural Board of Education and three private high schools. The prefecture also operates three special education schools in the city.
+
+== Transportation ==
+[[File:Nagaoka Station 20041114.jpg|thumb|Nagaoka Station]]
+
+=== Railway===
+[[File:JR logo (east).svg|22px]][[East Japan Railway Company]] (JR East) – [[Joetsu Shinkansen]]
+*{{STN|Nagaoka}}
+[[File:JR logo (east).svg|20px]] [[JR East]] – [[Joetsu Line]]
+*{{STN|Echigo-Kawaguchi}} – <{{STN|Ojiya}}> – {{STN|Echigo-Takiya}} – {{STN|Miyauchi|Niigata}} – {{STN|Nagaoka}}
+[[File:JR logo (east).svg|20px]] [[JR East]] – [[Shin'etsu Main Line]]
+*{{STN|Tsukayama}} – {{STN|Echigo-Iwatsuka}} – {{STN|Raikōji}} – {{STN|Maekawa}} – {{STN|Miyauchi|Niigata}} – {{STN|Nagaoka}} – {{STN|Kita-Nagaoka}} – {{STN|Oshikiri}}
+[[File:JR logo (east).svg|20px]] [[JR East]] – [[Echigo Line]]
+*{{STN|Myōhōji|Niigata}} – {{STN|Ojimaya}} – {{STN|Kirihara|Niigata}} – {{STN|Teradomari}}
+[[File:JR logo (east).svg|20px]] [[JR East]] –  [[Iiyama Line]]
+*{{STN|Echigo-Kawaguchi}}
+
+=== Bus ===
+Local bus service in Nagaoka is managed by [[Echigo Kotsu]]. The bus terminal located at the east entrance of Nagaoka Station serves as the hub for the route network. Service extends to all parts of the city as well as many outlying suburban areas and villages. A bus service connecting Nagaoka Station to [[Niigata, Niigata]] Station runs at intervals of approximately 30 minutes. Additionally, long-distance bus services are available to all major cities in the prefecture as well as Tokyo.
+
+=== Road===
+====Expressway====
+Nagaoka JCT is a strategic interchange which connects two expressways, [[Hokuriku Expressway]] and [[Kan-Etsu Expressway]].
+*[[file:JP Expressway E8.svg|20px]] [[Hokuriku Expressway]]  – Ōzumi PA – Nagaoka JCT – Nagaoka-kita Bus stop – Nagaoka-kita IC(ETC Only) –  Nakanoshima-Mitsuke IC
+* [[File:JP Expressway E17.svg|20px]] [[Kan-etsu Expressway]]  – Echigo-Kawaguchi IC/SA – Ojiya IC* – Nagaokaminami-Koshiji IC(ETC Only) – Nagaoka IC – Nagaoka JCT
+*Ojiya IC is in Ojiya city
+
+====Japan National Route====
+* {{jct|country=JPN|Route|8}}
+* {{jct|country=JPN|Route|17}}
+* {{jct|country=JPN|Route|116}}
+* {{jct|country=JPN|Route|117}}
+* {{jct|country=JPN|Route|290}}
+* {{jct|country=JPN|Route|291}}
+* {{jct|country=JPN|Route|351}}
+* {{jct|country=JPN|Route|352}}
+* {{jct|country=JPN|Route|402}}
+* {{jct|country=JPN|Route|403}}
+* {{jct|country=JPN|Route|404}}
+* {{jct|country=JPN|Route|460}}
+
+==Sister cities==
+{{See also|List of twin towns and sister cities in Japan}}
+Nagaoka is [[Sister city|twinned]] with:<ref>{{cite web |title=Sister Cities and Friendship City|url=https://www.niea.or.jp/english/e-top.html|website=niea.or.jp|publisher=Nagaoka International Exchange Association|access-date=2020-04-07}}</ref>
+{{div col|colwidth=25em}}
+*{{flagicon|USA}} [[Fort Worth, Texas|Fort Worth]], [[Texas]], United States, since 1987
+*{{flagicon|USA}} [[Honolulu]], [[Hawaii]],  United States, since 2002
+*{{flagicon|SUI}} [[Romainmôtier-Envy]], [[Vaud]], Switzerland, since 2006
+*{{flagicon|PYF}} [[Taiarapu-Ouest]], French Polynesia, since 1991
+*{{flagicon|GER}} [[Trier]], [[Rhineland-Palatinate]], Germany, since 2006
+{{div col end}}
+
+===Friendship city===
+*{{flagicon|GER}} [[Bamberg]], [[Upper Franconia]], Germany, since 1995
+
+==Local attractions==
+=== Places of interest ===
+* Haibu Nagaoka Stadium
+* [[Kome Hyappyo]] Monument
+* Nagaoka City Local Museum
+* Nagaoka Lyric Hall
+* National Government Echigo Hillside Park
+* The Niigata Prefectural Museum of Modern Art
+* [[Niigata Prefectural Museum of History]]
+* [[Kawai Tsugunosuke|Tsuginosuke Kawai]] Monument in Yukyuzan Park
+* Yukyuzan Park
+
+===National Historic Sites===
+*[[Araya Site]]
+*[[Fujihashi Site]]
+*[[Hachimanbayashi Kanga ruins]]
+*[[Tochio Castle]] ruins
+*[[Umataka-Sanjūinaba Site]]
+
+<gallery>
+File:Nagaoka-city.JPG|Ote-dori Street and [[Nagaoka Station]]
+File:Quina Saffron Winery 03.jpg|Quina Saffron Winery
+File:Hasegawa Family Residence.jpg|Hasegawa Family Residence
+File:Hotokusan Inari Taisha Shrine 06.jpg|Houtokusan Inari Taisya Shrine
+File:Nagaoka City Local Museum.jpg|Nagaoka City Local Museum
+File:Bullfighting in Yamakoshi, Nagaoka 04.jpg|[[Bull wrestling]] in Yamakoshi
+File:Nakayama-zuidou 02.jpg|Nakayama tunnel
+File:Momijien 2006 004.jpg|Momijien
+File:Teradomari Aquarium 03.jpg|Teradomari Aquarium
+File:新潟近代美術館.jpg|The Niigata Prefectural Museum of Modern Art
+File:Niigata Prefectural Museum of History.jpg|[[Niigata Prefectural Museum of History]]
+File:Kawai Tsuginosuke Memorial Museum 2.jpg|[[Kawai Tsugunosuke|Kawai Tsuginosuke]] Memorial Museum
+File:Yamamoto Isoroku Memorial Museum.jpg|[[Yamamoto Isoroku]] Memorial Museum
+File:Ryokan's Grave.jpg|[[Ryōkan]]'s grave (Ryusenji)  
+</gallery>
+
+=== Festivals ===
+[[File:Nagaoka Festival Fireworks 2015 One-shaku Fireworks 100 Shots.webm|thumb|240px|thumbtime=1:20|Video: 100 shots of ''shakudama'' (12 inches shell) fireworks at the Nagaoka Festival Fireworks 2015]]
+{{Commons category|Nagaoka Festival}}
+* Nagaoka Festival and Grand Fireworks Festival (August)
+* Nagaoka Aki Matsuri (Autumn Festival) and [[Kome Hyappyo]] Festival (October)
+
+== Notable people from Nagaoka ==
+{{Unreferenced section|date=February 2013}}
+* [[El Desperado (wrestler)|El Desperado]] ([[Puroresu|professional wrestler]])
+* [[Inoue Enryō]] ([[Buddhism|Buddhist]] [[philosopher]] and founder of [[Toyo University]])
+* [[Ryō Hirohashi]] ([[Voice acting in Japan|voice actor]])
+* [[Tomoko Hoshino]] (actress)
+* [[Yuki Kondo]] (mixed martial artist)
+* [[Jūshirō Konoe]] (actor)
+* [[Koharu Kusumi]] (Morning Musume)
+* [[Haruo Minami]] ([[Enka]] singer)
+* [[Etsu Inagaki Sugimoto]] (writer)
+* [[Nobuhiro Watsuki]] ([[Mangaka|manga artist]])
+* [[Isoroku Yamamoto]] (Commander of the [[Imperial Japanese Navy]] during the first four years of [[World War II]])
+* [[Tomokazu Yoshida]] (former actor, acupuncturist)
+<!-- Please help maintain alphabetical order (by surname) and do not simply add names to the end of the list -->
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{commons category|Nagaoka, Niigata}}
+*[http://www.city.nagaoka.niigata.jp/ Official Website] {{in lang|ja}}
+
+{{Niigata}}
+{{Metropolitan cities of Japan}}
+{{Most populous cities in Japan}}
+{{Authority control}}
+
+[[Category:Nagaoka, Niigata| ]]
+[[Category:Cities in Niigata Prefecture]]
+[[Category:Populated coastal places in Japan]]
+[[Category:Articles containing video clips]]
