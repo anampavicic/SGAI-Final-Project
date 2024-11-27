@@ -25,7 +25,7 @@ def get_nes (graph, label):
     find the neighborhood attention set (NES) for the given label
     """
     for node_id in graph.nodes():
-        node = graph.node[node_id]
+        node = graph.nodes[node_id]
 
         if node["label"].lower() == label:
             return set([node_id]).union(set([id for id in graph.neighbors(node_id)]))
@@ -59,13 +59,14 @@ def disparity_filter (graph):
         degree = graph.degree(node_id)
         strength = 0.0
 
-        for id0, id1 in graph.edges(nbunch=[node_id]):
+        # Use graph.edges to handle undirected edges
+        for id0, id1 in graph.edges(node_id):
             edge = graph[id0][id1]
             strength += edge["weight"]
 
         node["strength"] = strength
 
-        for id0, id1 in graph.edges(nbunch=[node_id]):
+        for id0, id1 in graph.edges(node_id):
             edge = graph[id0][id1]
 
             norm_weight = edge["weight"] / strength
@@ -152,7 +153,7 @@ def calc_alpha_ptile (alpha_measures, show=True):
     return quantiles, num_quant
 
 
-def cut_graph (graph, min_alpha_ptile=0.3, min_degree=2):
+def cut_graph (graph, min_alpha_ptile=0.5, min_degree=2):
     """
     apply the disparity filter to cut the given graph
     """
@@ -228,7 +229,7 @@ def load_graph (graph_path):
     """
     with open(graph_path) as f:
         data = json.load(f)
-        graph = json_graph.node_link_graph(data, directed=True)
+        graph = json_graph.node_link_graph(data, directed=False)  # Change to undirected
         return graph
 
 
@@ -249,7 +250,7 @@ def random_graph (n, k, seed=0):
     populate a random graph (with an optional seed) with `n` nodes and
     up to `k` edges for each node
     """
-    graph = nx.DiGraph()
+    graph = nx.Graph()  # Change to undirected graph
     random.seed(seed)
 
     for node_id in range(n):
@@ -302,4 +303,4 @@ def main (n=100, k=10, min_alpha_ptile=0.5, min_degree=2):
 ## main entry point
 
 if __name__ == "__main__":
-    main()
+    main
